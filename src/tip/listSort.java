@@ -48,5 +48,30 @@ public class listSort {
         System.out.println("ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ");
         System.out.println("ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ");
 
+
+
+        // 배열이 아닐경우
+        List<Integer> arr = new ArrayList<>();
+        arr.add(1);
+        arr.add(2);
+        arr.add(3);
+        arr.add(4);
+
+        // 오름차순
+        Collections.sort(arr);
+        for(Integer integer : arr) {
+            System.out.println(integer);
+        }
+
+        System.out.println("ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ");
+        System.out.println("ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ");
+        System.out.println("ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ");
+
+        // 내림차순
+        Collections.reverse(arr);
+        for(Integer integer : arr) {
+            System.out.println(integer);
+        }
+
     }
 }

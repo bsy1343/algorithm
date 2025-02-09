@@ -10,18 +10,9 @@ public class Main {
 
     public static void main(String[] args) throws IOException {
         st = new StringTokenizer(br.readLine());
-
-        int K = Integer.parsein(st.nextToken());
-        int P = Integer.parse(st.nextToken());
-        int N = Integer.parse(st.nextToken());
-
-        int result = 0;
-
-        fop
-        result = K * P * N % 1000000007;
+        String result = "";
 
         System.out.println(result);
-
 
     }
 }

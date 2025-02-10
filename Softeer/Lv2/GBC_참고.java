@@ -41,18 +41,18 @@ public class GBC_참고 {
 
             // 구간 소진 처리
             if (limitLengths[limitIndex] - limitDistance < testLengths[testIndex] - testDistance) {
-                testDistance += (limitLengths[limitIndex] - limitDistance);
-                limitDistance = 0;
-                limitIndex++;
+                testDistance += (limitLengths[limitIndex] - limitDistance);  // 실제 주행 거리에 제한구간 길이만큼 더함
+                limitDistance = 0;  // 현재 제한구간은 다 썼으니 0으로
+                limitIndex++;  // 다음 제한구간으로 이동
             } else if (limitLengths[limitIndex] - limitDistance > testLengths[testIndex] - testDistance) {
-                limitDistance += (testLengths[testIndex] - testDistance);
-                testDistance = 0;
-                testIndex++;
+                limitDistance += (testLengths[testIndex] - testDistance);  // 제한구간 거리에 실제주행 길이만큼 더함
+                testDistance = 0;  // 현재 주행구간은 다 썼으니 0으로
+                testIndex++;  // 다음 주행구간으로 이동
             } else {
-                limitDistance = 0;
-                testDistance = 0;
-                limitIndex++;
-                testIndex++;
+                limitDistance = 0;  // 둘 다 끝났으니 0으로
+                testDistance = 0;   // 둘 다 끝났으니 0으로
+                limitIndex++;       // 다음 제한구간으로
+                testIndex++;        // 다음 주행구간으로
             }
         }
 

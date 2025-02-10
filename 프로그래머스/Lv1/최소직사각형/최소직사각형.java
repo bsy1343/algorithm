@@ -1,8 +1,7 @@
-import java.util.*;
-import java.io.*;
+package 프로그래머스.Lv1.최소직사각형;
 
-class Solution {
-    public int solution(int[][] sizes) {
+public class 최소직사각형 {
+    public int main(int[][] sizes) {
         int answer = 0;
         int garo = Integer.MIN_VALUE;
         int sero = Integer.MIN_VALUE;

@@ -1,3 +1,5 @@
+package 백준.Gold.소문난칠공주;
+
 import java.awt.*;
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -5,7 +7,7 @@ import java.io.InputStreamReader;
 import java.util.LinkedList;
 import java.util.Queue;
 
-public class Main {
+public class 소문난칠공주 {
     private static final char[][] map = new char[5][5];
     private static final boolean[][] visited = new boolean[5][5];
     private static final int[][] dirs = {{0, 1}, {0, -1}, {1, 0}, {-1, 0}};

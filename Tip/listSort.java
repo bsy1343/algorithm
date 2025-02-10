@@ -1,4 +1,4 @@
-package tip;
+package Tip;
 
 import java.util.ArrayList;
 import java.util.Collections;

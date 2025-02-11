@@ -5,6 +5,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
+// https://softeer.ai/practice/6269
 public class 비밀메뉴_참고 {
 
     public static void main(String[] args) throws IOException {

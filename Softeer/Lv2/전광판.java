@@ -19,20 +19,18 @@ public class 전광판 {
             B = new int[5];
 
             String sa = String.format("%5s", sc.next());
-            for (int i = N-1; i > -1; i--) {
-                A[i] = sa.charAt(i) - '0';
+            String sb = String.format("%5s", sc.next());
+            for (int i = N - 1; i >= 0; i--) {
+                A[i] = (sa.charAt(i) == ' ') ? -1 : sa.charAt(i) - '0';
+                B[i] = (sb.charAt(i) == ' ') ? -1 : sb.charAt(i) - '0';
             }
 
-            String sb = String.format("%5s", sc.next());
-            for (int i = N-1; i > -1; i--) {
-                B[i] = sb.charAt(i) - '0';
-            }
             int cnt = 0;
             for (int i = 0; i < 5; i++) {
                 if (A[i] != B[i]) {
                     for (int j = 0; j < 7; j++) {
-                        String a_vaule = A[i] == -16 ? EMPTY_VAL : VAL[A[i]];
-                        String b_vaule = B[i] == -16 ? EMPTY_VAL : VAL[B[i]];
+                        String a_vaule = A[i] == -1 ? EMPTY_VAL : VAL[A[i]];
+                        String b_vaule = B[i] == -1 ? EMPTY_VAL : VAL[B[i]];
                         if (a_vaule.charAt(j) != b_vaule.charAt(j)) {
                             cnt++;
                         }
@@ -41,5 +39,7 @@ public class 전광판 {
             }
             System.out.println(cnt);
         }
+
+        sc.close();
     }
 }

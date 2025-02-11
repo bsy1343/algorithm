@@ -58,5 +58,7 @@ public class GBC_참고 {
 
         // 결과 출력
         System.out.println(maxExcessSpeed);
+
+        sc.close();
     }
 }

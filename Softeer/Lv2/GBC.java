@@ -44,5 +44,7 @@ public class GBC {
         }
 
         System.out.println(result);
+
+        sc.close();
     }
 }

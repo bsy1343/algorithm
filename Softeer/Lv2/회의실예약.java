@@ -34,6 +34,10 @@ public class 회의실예약 {
             }
         }
 
+        // for (Map.Entry<String, int[]> entry : schedule.entrySet()) {
+        //     System.out.println(entry.getKey() + " : " + Arrays.toString(entry.getValue()));
+        // }
+
         StringBuilder sb = new StringBuilder();
         int count = 0;
 
@@ -43,11 +47,13 @@ public class 회의실예약 {
             List<int[]> data = new ArrayList<>();
 
             for (int i = 9; i < times.length; i++) {
-                if (times[i] == 0 && (i == 9 || times[i - 1] == 1)) {
+                if (times[i] == 0) {
                     int start = i;
-                    while (i < times.length && times[i] == 0) i++;
+                    // end 찾기
+                    while (i < times.length && times[i] == 0) {
+                        i++;
+                    }
                     data.add(new int[]{start, i});
-                    i--;
                 }
             }
 
@@ -60,9 +66,10 @@ public class 회의실예약 {
                 }
             }
 
-            if (++count < N) sb.append("-----\n");
+            if (++count < N) {
+                sb.append("-----\n");
+            }
         }
-
         System.out.print(sb);
     }
 }

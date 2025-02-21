@@ -32,9 +32,11 @@ public class GBC {
             result = Integer.max(result, AV[a_index]-BV[b_index]);
 
             if (BL[b_index] < AL[a_index]) {
+                // AL[a_index] -= BL[b_index];
                 AL[a_index] = AL[a_index] - BL[b_index];
                 b_index++;
             } else if (BL[b_index] > AL[a_index]) {
+                // BL[b_index] -= AL[a_index];
                 BL[b_index] = BL[b_index] - AL[a_index];
                 a_index++;
             } else {

@@ -28,9 +28,9 @@ public class 전광판 {
             int cnt = 0;
             for (int i = 0; i < 5; i++) {
                 if (A[i] != B[i]) {
+                    String a_vaule = A[i] == -1 ? EMPTY_VAL : VAL[A[i]];
+                    String b_vaule = B[i] == -1 ? EMPTY_VAL : VAL[B[i]];
                     for (int j = 0; j < 7; j++) {
-                        String a_vaule = A[i] == -1 ? EMPTY_VAL : VAL[A[i]];
-                        String b_vaule = B[i] == -1 ? EMPTY_VAL : VAL[B[i]];
                         if (a_vaule.charAt(j) != b_vaule.charAt(j)) {
                             cnt++;
                         }

@@ -47,3 +47,28 @@ public class 금고털이 {
         System.out.println(Result);
     }
 }
+
+//    // 골드의 내림차순으로 정렬
+//    Map<Integer, Integer> map = new TreeMap(Collections.reverseOrder());
+//
+//        for (int i = 0; i < N; i++) {
+//    st = new StringTokenizer(br.readLine());
+//    int weight = Integer.parseInt(st.nextToken());
+//    int gold = Integer.parseInt(st.nextToken());
+//
+//    // 골드 가격에 맞는 거리 합산
+//            map.put(gold, map.getOrDefault(gold, 0) + weight);
+//    }
+//
+//    int result = 0;
+//        for (Map.Entry<Integer, Integer> entry : map.entrySet()) {
+//    // System.out.println(entry.getKey() + " : " + entry.getValue());
+//    if (W > entry.getValue()) {
+//    W = W - entry.getValue();
+//    result += entry.getKey() * entry.getValue();
+//            } else {
+//    result += W * entry.getKey();
+//                break;
+//                    }
+//                    }
+//                    System.out.println(result);

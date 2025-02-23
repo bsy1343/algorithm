@@ -1,18 +1,14 @@
 package Softeer.Lv2;
 
-import java.io.BufferedReader;
-import java.io.IOException;
-import java.io.InputStreamReader;
-import java.util.StringTokenizer;
+import java.util.Scanner;
 
 // https://softeer.ai/practice/9498
 public class Yeah_But_How {
 
-    public static void main(String[] args) throws IOException {
-        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-        StringTokenizer st = new StringTokenizer(br.readLine());
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
 
-        String S = st.nextToken();
+        String S = sc.next();
         StringBuilder sb = new StringBuilder();
 
         // 첫 문자0은 무조건 추가
@@ -32,5 +28,7 @@ public class Yeah_But_How {
             sb.append(curr);
         }
         System.out.println(sb);
+
+        sc.close();
     }
 }

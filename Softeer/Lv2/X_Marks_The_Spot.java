@@ -22,4 +22,20 @@ public class X_Marks_The_Spot {
         System.out.println(sb);
         sc.close();
     }
+
+//    public static void main(String[] args) {
+//        Scanner sc = new Scanner(System.in);
+//
+//        int n = sc.nextInt();
+//
+//        for (int i = 0; i < n; i++) {
+//            String bs = sc.next().toUpperCase();
+//            String as = sc.next().toUpperCase();
+//
+//            if (bs.indexOf("X") > -1) {
+//                System.out.print(as.charAt(bs.indexOf("X")));
+//            }
+//        }
+//        sc.close();
+//    }
 }

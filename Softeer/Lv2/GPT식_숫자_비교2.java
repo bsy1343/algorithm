@@ -1,13 +1,12 @@
 package Softeer.Lv2;
 
-// https://softeer.ai/practice/6270
-
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 import java.util.Scanner;
 
-public class GBC_참고2 {
+// https://softeer.ai/practice/11001
+public class GPT식_숫자_비교2 {
     // GPT 기준으로 수를 나타내는 클래스
     static class Number implements Comparable<Number> {
         int x;          // 소수점 왼쪽 부분

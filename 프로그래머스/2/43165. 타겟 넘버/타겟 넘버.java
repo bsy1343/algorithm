@@ -1,26 +1,24 @@
-import java.util.*;
-import java.io.*;
-
 class Solution {
-    static int t, answer;
-    static int[] n;
+    static int[] numbers;
+    static int target, answer;
     public int solution(int[] numbers, int target) {
-        n = numbers;
-        t = target;
-        answer = 0;
+        this.answer = 0;
+        this.numbers = numbers;
+        this.target = target;
         
         dfs(0, 0);
+        
         return answer;
     }
     
-    private void dfs(int index, int value) {
-        if (index == n.length) {
-            if (t == value) {
+    public void dfs (int index, int sum) {
+        if (index == numbers.length) {
+            if (sum == target) {
                 answer++;
             }
             return;
         }
-        dfs(index + 1, value + n[index]);
-        dfs(index + 1, value - n[index]);
+        dfs(index + 1, sum + numbers[index]);
+        dfs(index + 1, sum - numbers[index]);
     }
 }

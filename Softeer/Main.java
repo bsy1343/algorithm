@@ -5,6 +5,15 @@ import java.util.Queue;
 
 public class Main {
 
+    static class A implements Comparable<A> {
+        int x;
+
+        @Override
+        public int compareTo(A o) {
+            return this.x -o.x;
+        }
+    }
+
     static class Node {
         int x;
         int y;

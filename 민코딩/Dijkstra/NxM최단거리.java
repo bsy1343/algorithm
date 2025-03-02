@@ -52,6 +52,9 @@ public class NxM최단거리 {
         while (!pq.isEmpty()) {
             Node now = pq.poll();
 
+            // 이게 유효한것인지 확인 해 봐야함.
+            // if (visit[now.x][now.y] < now.z) continue;
+
             for (int i = 0; i < direction.length; i++) {
                 int nx = now.x + direction[i][0];
                 int ny = now.y + direction[i][1];

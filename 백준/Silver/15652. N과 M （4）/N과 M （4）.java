@@ -30,6 +30,8 @@ public class Main {
             for (int i = start; i <= n; i++) {
                 selected[k] = i;
                 dfs(k + 1);
+                // 초기화
+                selected[k] = 0;
             }
         }
     }

@@ -66,4 +66,18 @@ public class Main {
 //        }
 //        return L;
 //    }
+
+//    static int binary_search(int[] A, int L, int R, int X) {
+//        while (L <= R) {
+//            int mid = (L + R) / 2;
+//            if (A[mid] == X) {  // ✅ 정확한 값을 찾았을 때
+//                return mid;  // ✅ X가 위치한 인덱스 반환
+//            } else if (A[mid] < X) {  // ✅ X보다 작은 경우, 오른쪽 탐색
+//                L = mid + 1;
+//            } else {  // ✅ X보다 큰 경우, 왼쪽 탐색
+//                R = mid - 1;
+//            }
+//        }
+//        return -1;  // ✅ X가 배열에 없으면 -1 반환
+//    }
 }

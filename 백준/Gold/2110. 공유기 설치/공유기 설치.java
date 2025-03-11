@@ -1,20 +1,22 @@
+import java.io.*;
 import java.util.*;
 
 public class Main {
 
     static int n, c, l, r, answer;
     static int[] arr;
-    public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
+    public static void main(String[] args) throws IOException {
+        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+        StringTokenizer st = new StringTokenizer(br.readLine());
 
-        n = sc.nextInt();
-        c = sc.nextInt();
+        n = Integer.parseInt(st.nextToken());
+        c = Integer.parseInt(st.nextToken());
         arr = new int[n];
 
         l = 0;
         r = Integer.MIN_VALUE;
         for (int i = 0; i < n; i++) {
-            arr[i] = sc.nextInt();
+            arr[i] = Integer.parseInt(br.readLine());
             r = Math.max(r, arr[i]);
         }
 
@@ -30,10 +32,8 @@ public class Main {
                 r = mid - 1;
             }
         }
-        
-        System.out.println(answer);
 
-        sc.close();
+        System.out.println(answer);
     }
 
     static boolean determination(int d) {
@@ -44,8 +44,11 @@ public class Main {
         int last = arr[0];
 
         for (int i = 1; i < n; i++) {
+            // cnt가 c 만큼 설치 가능하면 더 이상 볼 일이 없음
             if (cnt == c) break;
-            if (last + d <= arr[i]) {
+            // arr[i]에 설치 가능?
+            //if (last + d <= arr[i]) {
+            if (arr[i] - last >= d) {
                 last = arr[i];
                 cnt++;
             }

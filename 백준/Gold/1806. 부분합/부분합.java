@@ -30,7 +30,7 @@ public class Main {
                 sum += arr[++r];
             }
 
-            // l~r 의 합, 즉 sum이 조건을 만족하면 정답 갱신
+            // [ㅣ...r] 의 합, 즉 sum이 조건을 만족하면 정답 갱신
             if (sum >= s) {
                 answer = Math.min(answer, r - l + 1);
             }

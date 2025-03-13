@@ -7,6 +7,7 @@ public class Main {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         int n = Integer.parseInt(br.readLine());
         int[] arr = new int[n];
+        // 1 <= n <= 100000
         int[] visited = new int[100001];
 
         StringTokenizer st = new StringTokenizer(br.readLine());

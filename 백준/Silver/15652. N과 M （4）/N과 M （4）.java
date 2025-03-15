@@ -2,36 +2,39 @@ import java.io.*;
 import java.util.*;
 
 public class Main {
+
     static int n, m;
     static int[] selected;
     static StringBuilder sb = new StringBuilder();
 
-    public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
-        n = sc.nextInt();
-        m = sc.nextInt();
+    public static void main(String[] args) throws IOException {
+        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+        StringTokenizer st = new StringTokenizer(br.readLine());
 
-        selected = new int[n + 1];
+        n = Integer.parseInt(st.nextToken());
+        m = Integer.parseInt(st.nextToken());
 
-        dfs(1);
+        // 출력해야할 자리수만큼
+        selected = new int[m];
 
-        System.out.print(sb.toString());
+        dfs(0);
+
+        System.out.println(sb.toString());
     }
 
-    static void dfs(int k) {
-        if (k == m + 1) {
-            for (int i = 1; i <= m; i++) {
-                sb.append(selected[i]).append(" ");
+    static void dfs(int index) {
+        if (index == m) {
+            for (int answer : selected) {
+                sb.append(answer).append(" ");
             }
             sb.append("\n");
-            return;
         } else {
-            int start = selected[k-1] == 0 ? 1 : selected[k-1];
-            for (int i = start; i <= n; i++) {
-                selected[k] = i;
-                dfs(k + 1);
-                // 초기화
-                selected[k] = 0;
+            int start = index == 0 ? 0 : selected[index-1]-1;
+            for (int i = start; i < n; i++) {
+                selected[index] = i+1;
+                dfs(index + 1);
+                // 초기화, 안해도 됨
+                selected[index] = 0;
             }
         }
     }

@@ -48,17 +48,17 @@ public class Main {
 
         System.out.print(x + " ");
         // todo: 인접행렬
-        for (int y = 1; y <= n; y++) {
+        /*for (int y = 1; y <= n; y++) {
             if (visited[y] == 1) continue;
             if (map[x][y] == 0) continue;
             dfs(y);
-        }
+        }*/
 
         // todo: 인접리스트
-        /*for (int y : arr[x]) {
+        for (int y : arr[x]) {
             if (visited[y] == 1) continue;
             dfs(y);
-        }*/
+        }
     }
 
     static void bfs(int x) {
@@ -70,19 +70,19 @@ public class Main {
             System.out.print(x + " ");
 
             // todo: 인접행렬
-            for (int y = 1; y <= n; y++) {
+            /*for (int y = 1; y <= n; y++) {
                 if (visited[y] == 1) continue;
                 if (map[x][y] == 0) continue;
                 q.add(y);
                 visited[y] = 1;
-            }
+            }*/
 
             // todo: 인접리스트
-            /*for (int y : arr[x]) {
+            for (int y : arr[x]) {
                 if (visited[y] == 1) continue;
                 q.add(y);
                 visited[y] = 1;
-            }*/
+            }
         }
 
     }

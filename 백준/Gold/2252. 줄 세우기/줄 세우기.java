@@ -25,7 +25,7 @@ public class Main {
             indeg[y]++;
         }
 
-        Deque<Integer> q = new LinkedList();
+        Queue<Integer> q = new LinkedList();
         // 제일 앞에 "정렬될 수 있는" 정점 찾기
         for (int i = 1; i <= n; i++) {
             if (indeg[i] == 0) q.add(i);

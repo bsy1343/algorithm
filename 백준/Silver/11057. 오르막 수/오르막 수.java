@@ -5,8 +5,7 @@ public class Main {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
-        int[][] dy = new int[1001][10];
-        int[] arr = new int[n];
+        int[][] dy = new int[n+1][10];
 
         // 초기값 구하기
         for (int num = 0; num <= 9; num++) {

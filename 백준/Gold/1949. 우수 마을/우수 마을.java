@@ -8,6 +8,7 @@ public class Main {
     static int[][] dy;
     static ArrayList<Integer>[] arrList;
 
+
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         StringTokenizer st;
@@ -27,7 +28,6 @@ public class Main {
             st = new StringTokenizer(br.readLine());
             int x = Integer.parseInt(st.nextToken());
             int y = Integer.parseInt(st.nextToken());
-
             arrList[x].add(y);
             arrList[y].add(x);
         }
@@ -38,14 +38,21 @@ public class Main {
     }
 
     static void dfs(int x, int par) {
+        // x를 root로 하는 subtree에서 root를 선택하지 않고서 가능한 최대 주민 수
         dy[x][0] = 0;
+        // x를 root로 하는 subtree에서 root를 선택하고서 가능한 최대 주민 수
         dy[x][1] = num[x];
 
+        // 연결된 자식 노드들을 순회하면서 DP 테이블 업데이트
         for (int y : arrList[x]) {
+            // 부모 노드는 다시 방문하지 않도록 건너뜀
             if (y == par) continue;
             dfs(y, x);
+            // x를 선택하지 않은 경우: 자식 노드를 선택하든 안 하든 최대값을 더함
             dy[x][0] += Math.max(dy[y][0], dy[y][1]);
+            // x를 선택한 경우: 자식 노드는 선택할 수 없으므로 dy[y][0]만 더함
             dy[x][1] += dy[y][0];
         }
+
     }
 }

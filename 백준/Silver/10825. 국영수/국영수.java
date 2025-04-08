@@ -4,39 +4,56 @@ import java.util.*;
 public class Main {
 
     static class Node implements Comparable<Node>{
-        String s;
+        String name;
         int k, e, m;
-        Node (String s, int k, int e, int m) {
-            this.s = s;
+
+        Node (String name, int k, int e, int m) {
+            this.name = name;
             this.k = k;
             this.e = e;
             this.m = m;
         }
+
         @Override
         public int compareTo(Node node) {
-            // 국어 내림차순
-            if (k != node.k) return node.k - k;
+            // 국어 점수 내림차순
+            if (this.k != node.k) return node.k - this.k;
+
             // 영어 점수 오름차순
-            if (e != node.e) return e - node.e;
+            if (this.e != node.e) return this.e - node.e;
+
             // 수학 점수 내림차순
-            if (m != node.m) return node.m - m;
-            // 오름차순
-            return s.compareTo(node.s);
+            if (this.m != node.m) return node.m - this.m;
+
+            // 이름 오름차순
+            return this.name.compareTo(node.name);
         }
+
     }
+
     static int n;
     static ArrayList<Node> al = new ArrayList();
-    public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
-        n = sc.nextInt();
+
+    public static void main(String[] args) throws IOException {
+        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+        StringTokenizer st;
+
+        n = Integer.parseInt(br.readLine());
+
         for (int i = 0; i < n; i++) {
-            al.add(new Node(sc.next(), sc.nextInt(), sc.nextInt(), sc.nextInt()));
+            st = new StringTokenizer(br.readLine());
+            String name = st.nextToken();
+            int k = Integer.parseInt(st.nextToken());
+            int e = Integer.parseInt(st.nextToken());
+            int m = Integer.parseInt(st.nextToken());
+            al.add(new Node(name, k, e, m));
         }
 
-         Collections.sort(al);
+        Collections.sort(al);
 
         for (Node node : al) {
-            System.out.println(node.s);
+            System.out.println(node.name);
         }
+
     }
 }

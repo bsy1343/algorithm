@@ -1,36 +1,36 @@
+import java.io.*;
 import java.util.*;
 
 public class Main {
     static int n, s, answer;
-    static int[] nums;
+    static int[] arr;
 
-    public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
-        n = sc.nextInt();
-        s = sc.nextInt();
+    public static void main(String[] args) throws IOException {
+        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+        StringTokenizer st = new StringTokenizer(br.readLine());
 
-        nums = new int[n];
+        n = Integer.parseInt(st.nextToken());
+        s = Integer.parseInt(st.nextToken());
 
-        for (int i = 0; i < n; i++) {
-            nums[i] = sc.nextInt();
+        arr = new int[n + 1];
+
+        st = new StringTokenizer(br.readLine());
+        for (int i = 1; i <= n; i++) {
+            arr[i] = Integer.parseInt(st.nextToken());
         }
 
-        // S = 0인 경우 빈 부분수열 제외
-        answer = 0;
         if (s == 0) answer--;
-        dfs(0, 0);
+        dfs(1, 0);
 
         System.out.println(answer);
     }
 
-    static void dfs(int index, int result) {
-        if (index == n) {
+    static void dfs(int idx, int result) {
+        if (n + 1 == idx) {
             if (result == s) answer++;
         } else {
-            dfs(index + 1, result + nums[index]);
-            // 부분수열: 원래 배열에서 일부 요소를 제거할 수 있지만, 남은 요소들의 상대적 순서는 유지해야 합니다.
-            // 연속부분수열: 원래 배열에서 연속된 요소들만 포함한 것입니다.
-            dfs(index + 1, result);
+            dfs(idx + 1, result + arr[idx]);
+            dfs(idx + 1, result);
         }
     }
 }

@@ -2,61 +2,56 @@ import java.io.*;
 import java.util.*;
 
 public class Main {
-
-    static boolean[][] visited;
-    static int[][] map;
-    static int[][] direction = {{0, 1}, {0, -1}, {1, 0}, {-1, 0}};
-    static ArrayList<Integer> al = new ArrayList();
     static int n, answer;
+    static int[][] direction = {{0, 1}, {0, -1}, {1, 0}, {-1, 0}};
+    static int[][] map, visited;
+    static ArrayList<Integer> arr = new ArrayList();
 
-    public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
-        n = sc.nextInt();
+    public static void main(String[] args) throws IOException {
+        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+
+        n = Integer.parseInt(br.readLine());
+
         map = new int[n][n];
-        visited = new boolean[n][n];
+        visited = new int[n][n];
 
         for (int i = 0; i < n; i++) {
-            String str = sc.next();
+            String str = br.readLine();
             for (int j = 0; j < n; j++) {
                 map[i][j] = str.charAt(j) - '0';
             }
         }
 
-        int cnt = 0;
         for (int i = 0; i < n; i++) {
             for (int j = 0; j < n; j++) {
-                if (map[i][j] != 1) continue;
-                if (visited[i][j]) continue;
-                cnt++;
+                if (map[i][j] == 0) continue;
+                if (visited[i][j] == 1) continue;
                 answer = 0;
                 dfs(i, j);
-                al.add(answer);
+                arr.add(answer);
             }
         }
 
-        Collections.sort(al);
+        Collections.sort(arr);
 
-        System.out.println(cnt);
-
-        for (int c : al) {
-            System.out.println(c);
+        System.out.println(arr.size());
+        for (int answer : arr) {
+            System.out.println(answer);
         }
     }
 
     static void dfs(int x, int y) {
-        visited[x][y] = true;
+        visited[x][y] = 1;
         answer++;
 
         for (int i = 0; i < direction.length; i++) {
             int nx = x + direction[i][0];
             int ny = y + direction[i][1];
 
-            if (nx < 0 || ny < 0 || nx >= n || ny >= n) continue;
-            if (map[nx][ny] != 1) continue;
-            if (visited[nx][ny]) continue;
+            if (nx < 0 || nx >= n || ny < 0 || ny >= n) continue;
+            if (map[nx][ny] == 0) continue;
+            if (visited[nx][ny] == 1) continue;
             dfs(nx, ny);
         }
-
     }
-
 }

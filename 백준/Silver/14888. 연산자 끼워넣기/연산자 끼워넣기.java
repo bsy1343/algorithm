@@ -1,17 +1,16 @@
 import java.io.*;
 import java.util.*;
 
-public class Main {
-
+public class Main{
     static int n, max, min;
     static int[] num, operator;
-    static StringBuilder sb = new StringBuilder();
 
     public static void main(String[] args) throws Exception {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         StringTokenizer st;
 
         n = Integer.parseInt(br.readLine());
+
         num = new int[n + 1];
         operator = new int[5];
 
@@ -35,7 +34,7 @@ public class Main {
     }
 
     static void dfs(int idx, int result) {
-        if (idx >= n) {
+        if (n == idx) {
             max = Math.max(max, result);
             min = Math.min(min, result);
         } else {

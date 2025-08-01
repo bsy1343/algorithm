@@ -2,7 +2,6 @@ import java.io.*;
 import java.util.*;
 
 public class Main {
-
     static class Node implements Comparable<Node> {
         int num, idx;
 
@@ -17,8 +16,9 @@ public class Main {
             return this.idx - node.idx;
         }
     }
+
     static int n;
-    static int[] arr, p;
+    static int[] p;
     static ArrayList<Node> al = new ArrayList();
 
     public static void main(String[] args) throws IOException {
@@ -26,7 +26,7 @@ public class Main {
         StringTokenizer st;
 
         n = Integer.parseInt(br.readLine());
-        arr = new int[n];
+        p = new int[n];
 
         st = new StringTokenizer(br.readLine());
         for (int i = 0; i < n; i++) {
@@ -36,10 +36,10 @@ public class Main {
         Collections.sort(al);
 
         for (int i = 0; i < n; i++) {
-            arr[al.get(i).idx] = i;
+            p[al.get(i).idx] = i;
         }
 
-        for (int i : arr) {
+        for (int i : p) {
             System.out.print(i + " ");
         }
     }

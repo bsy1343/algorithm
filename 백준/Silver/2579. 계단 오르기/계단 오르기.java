@@ -11,7 +11,7 @@ public class Main {
         Scanner sc = new Scanner(System.in);
 
         int n = sc.nextInt();
-        arr = new int[n + 1];
+        arr = new int[n+1];
         dy = new int[n+1][2];
 
         for (int i = 1; i <= n; i++) {

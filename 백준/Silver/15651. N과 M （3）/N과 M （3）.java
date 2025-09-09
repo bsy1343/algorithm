@@ -13,27 +13,23 @@ public class Main {
 
         n = Integer.parseInt(st.nextToken());
         m = Integer.parseInt(st.nextToken());
+        selected = new int[m + 1];
 
-        // 출력해야할 자리수만큼
-        selected = new int[m];
+        dfs(1);
 
-        dfs(0);
-
-        System.out.println(sb.toString());
+        System.out.println(sb);
     }
 
-    static void dfs(int index) {
-        if (index == m) {
-            for (int answer : selected) {
-                sb.append(answer).append(" ");
+    static void dfs(int idx) {
+        if (idx > m) {
+            for (int i = 1; i <= m; i++) {
+                sb.append(selected[i]).append(" ");
             }
             sb.append("\n");
         } else {
-            for (int i = 0; i < n; i++) {
-                selected[index] = i+1;
-                dfs(index + 1);
-                // 초기화, 안해도 됨
-                selected[index] = 0;
+            for (int i = 1; i <= n; i++) {
+                selected[idx] = i;
+                dfs(idx + 1);
             }
         }
     }

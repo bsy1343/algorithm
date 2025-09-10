@@ -1,40 +1,48 @@
-import java.util.*;
 import java.io.*;
+import java.util.*;
 
 public class Main {
-    static int n, kind, answer;
+
+    static int n;
     static int[] visited;
     static char[] arr;
+    public static void main(String[] args) throws IOException {
+        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 
-    public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
-        n = sc.nextInt();
+        n = Integer.parseInt(br.readLine());
+        arr = br.readLine().toCharArray();
         visited = new int[26];
 
-        String str = sc.next();
-        arr = str.toCharArray();
+        int r = -1, answer = 0, kind = 0;
+        for (int l = 0; l < arr.length; l++) {
+            if (l > 0) {
+                int left = arr[l - 1] - 'a';
+                visited[left]--;
+                if (visited[left] == 0) {
+                    kind--;
+                }
+            }
 
-        int l = 0;
-        for (int r = 0; r < arr.length; r++) {
-            add(arr[r]);
+            while(r + 1 < arr.length) {
+                r++;
+                int right = arr[r] - 'a';
+                visited[right]++;
+                if (visited[right] == 1) {
+                    kind++;
+                }
 
-            while(kind > n) {
-                remove(arr[l++]);
+                if (kind > n) {
+                    visited[right]--;
+                    if (visited[right] == 0) {
+                        kind--;
+                    }
+                    r--;
+                    break;
+                }
             }
 
             answer = Math.max(answer, r - l + 1);
         }
-
         System.out.println(answer);
-    }
-
-    static void add(int x) {
-        visited[x - 'a']++;
-        if (visited[x - 'a'] == 1) kind++;
-    }
-
-    static void remove(int x) {
-        visited[x - 'a']--;
-        if (visited[x - 'a'] == 0) kind--;
     }
 }

@@ -1,89 +1,82 @@
-import java.util.LinkedList;
-import java.util.Queue;
+import java.util.*;
+import java.io.*;
 
-public class Solution {
-    
-    // BFS를 위한 좌표 및 거리 정보를 담은 클래스
-    static class Point {
-        int x, y, dist;
-        Point(int x, int y, int dist) {
+class Solution {
+    static class Node {
+        int x, y, s;
+        Node (int x, int y, int s) {
             this.x = x;
             this.y = y;
-            this.dist = dist;
+            this.s = s;
         }
     }
-    
-    // 상하좌우 이동 방향
-    static int[] dx = {1, -1, 0, 0};
-    static int[] dy = {0, 0, 1, -1};
+    static int answer;
+    static int[][] direction = {{0, 1}, {0, -1}, {1, 0}, {-1, 0}};
+    static int[][] map;
+    static int[][] visit;
     
     public int solution(int[][] rectangle, int characterX, int characterY, int itemX, int itemY) {
-        // 좌표 최대 범위 고려: 문제에서 좌표 최대 50, 스케일링 후 100, 여유 공간 포함하여 102 사용
-        int[][] board = new int[102][102];
+        // 정의를 받는다.
+        map = new int[102][102];
+        visit = new int[102][102];
+        answer = 0;
         
-        // 1. 직사각형 영역 모두 채우기 (스케일링)
-        for (int[] rec : rectangle) {
-            int x1 = rec[0] * 2;
-            int y1 = rec[1] * 2;
-            int x2 = rec[2] * 2;
-            int y2 = rec[3] * 2;
+        Scanner sc = new Scanner(System.in);
+        int sizeX = rectangle.length;
+        int sizeY = rectangle[0].length;
+        
+        // 모든 네모를 1로 채운다
+        for (int t = 0; t < sizeX; t++) {
+            int fx = rectangle[t][0] * 2;
+            int fy = rectangle[t][1] * 2;
+            int sx = rectangle[t][2] * 2;
+            int sy = rectangle[t][3] * 2;
             
-            for (int i = x1; i <= x2; i++) {
-                for (int j = y1; j <= y2; j++) {
-                    board[i][j] = 1;
+            for (int i = fx; i <= sx; i++) {
+                for (int j = fy; j <= sy; j++) {
+                    map[i][j] = 1;
                 }
             }
         }
         
-        // 2. 내부(경계가 아닌 부분) 제거하기
-        for (int[] rec : rectangle) {
-            int x1 = rec[0] * 2;
-            int y1 = rec[1] * 2;
-            int x2 = rec[2] * 2;
-            int y2 = rec[3] * 2;
+        // 네모 안을 0으로 만든다
+        for (int t = 0; t < sizeX; t++) {
+            int fx = rectangle[t][0] * 2;
+            int fy = rectangle[t][1] * 2;
+            int sx = rectangle[t][2] * 2;
+            int sy = rectangle[t][3] * 2;
             
-            // 내부 영역은 경계보다 1씩 안쪽부터 x2, y2 전까지
-            for (int i = x1 + 1; i < x2; i++) {
-                for (int j = y1 + 1; j < y2; j++) {
-                    board[i][j] = 0;
+            for (int i = fx+1; i < sx; i++) {
+                for (int j = fy+1; j < sy; j++) {
+                    map[i][j] = 0;
                 }
             }
         }
         
-        // 3. BFS를 사용해 최단 경로 찾기
-        boolean[][] visited = new boolean[102][102];
-        Queue<Point> queue = new LinkedList<>();
-        int startX = characterX * 2;
-        int startY = characterY * 2;
-        int targetX = itemX * 2;
-        int targetY = itemY * 2;
+        // bfs를 통해 값을 도출해낸댜.
+        Queue<Node> q = new LinkedList();
+        q.add(new Node(characterX*2, characterY*2, 0));
+        visit[characterX*2][characterY*2] = 1;
         
-        queue.offer(new Point(startX, startY, 0));
-        visited[startX][startY] = true;
-        
-        while (!queue.isEmpty()) {
-            Point p = queue.poll();
+        while (!q.isEmpty()) {
+            Node now = q.poll();
             
-            // 아이템 위치에 도달하면 경로 길이를 2로 나누어 반환
-            if (p.x == targetX && p.y == targetY) {
-                return p.dist / 2;
+            if (now.x == itemX*2 && now.y == itemY*2) {
+                answer = now.s/2;
+                break;
             }
             
-            // 네 방향 탐색
-            for (int i = 0; i < 4; i++) {
-                int nx = p.x + dx[i];
-                int ny = p.y + dy[i];
+            for (int i = 0; i < direction.length; i++) {
+                int nx = now.x + direction[i][0];
+                int ny = now.y + direction[i][1];
                 
-                if (nx >= 0 && ny >= 0 && nx < 102 && ny < 102) {
-                    if (!visited[nx][ny] && board[nx][ny] == 1) {
-                        visited[nx][ny] = true;
-                        queue.offer(new Point(nx, ny, p.dist + 1));
-                    }
+                if ( nx > -1 && ny > -1 && nx <= 102 && ny <= 102 && visit[nx][ny] == 0 && map[nx][ny] == 1) {
+                    visit[nx][ny] = 1;
+                    q.add(new Node(nx, ny, now.s+1));
                 }
             }
         }
         
-        // 문제 조건 상 항상 경로가 존재함
-        return 0;
+        return answer;
     }
 }

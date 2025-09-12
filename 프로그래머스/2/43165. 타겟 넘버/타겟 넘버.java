@@ -1,8 +1,9 @@
 class Solution {
     static int[] numbers;
     static int target, answer;
+    
     public int solution(int[] numbers, int target) {
-        this.answer = 0;
+        
         this.numbers = numbers;
         this.target = target;
         
@@ -11,14 +12,12 @@ class Solution {
         return answer;
     }
     
-    public void dfs (int index, int sum) {
-        if (index == numbers.length) {
-            if (sum == target) {
-                answer++;
-            }
-            return;
+    static void dfs (int idx, int sum) {
+        if (idx == numbers.length) {
+            if (sum == target) answer++; 
+        } else {
+            dfs(idx + 1, sum + numbers[idx]);
+            dfs(idx + 1, sum - numbers[idx]);
         }
-        dfs(index + 1, sum + numbers[index]);
-        dfs(index + 1, sum - numbers[index]);
     }
 }

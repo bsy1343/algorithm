@@ -14,10 +14,11 @@ class Solution {
     
     static int count(int idx, int[] prices) {
         int cnt = 0;
-        for (int i = idx+1; i < prices.length; i++) {
+        for (int i = idx + 1; i < prices.length; i++) {
             cnt++;
             if (prices[i] < prices[idx]) break;
         }
+        
         return cnt;
     }
 }

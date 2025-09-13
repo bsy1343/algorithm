@@ -9,20 +9,20 @@ class Solution {
             this.idx = idx;
         }
     }
-    
+
     public int solution(int[] priorities, int location) {
         int answer = 0;
         Queue<Node> q = new LinkedList();
         PriorityQueue<Integer> pq = new PriorityQueue<>(Collections.reverseOrder());
-        
+
         for (int i = 0; i < priorities.length; i++) {
             q.add(new Node(priorities[i], i));
             pq.add(priorities[i]);
         }
-        
+
         while(!q.isEmpty()) {
             Node node = q.poll();
-            
+
             if (node.prior == pq.peek()) {
                 answer++;
                 pq.poll();
@@ -31,7 +31,7 @@ class Solution {
                 q.add(node);
             }
         }
-        
+
         return answer;
     }
 }

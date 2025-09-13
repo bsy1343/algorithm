@@ -3,14 +3,14 @@ import java.util.*;
 
 class Solution {
     boolean solution(String s) {
-        boolean answer = true;
+        boolean answer = false;
         
         char[] arr = s.toCharArray();
         
         int cnt = 0;
         for (int i = 0; i < arr.length; i++) {
             if (cnt == 0 && arr[i] == ')') {
-                answer = false;
+                cnt--;
                 break;
             }
             
@@ -18,11 +18,7 @@ class Solution {
             if (arr[i] == ')') cnt--;
         }
         
-        if (answer && cnt == 0)  {
-            answer = true;
-        } else {
-            answer = false;
-        }
+        if (cnt == 0) answer = true;
         
         return answer;
     }

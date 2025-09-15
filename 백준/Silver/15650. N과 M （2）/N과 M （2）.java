@@ -4,7 +4,7 @@ import java.util.*;
 public class Main {
 
     static int n, m;
-    static int[] selected;
+    static int[] selected, visited;
     static StringBuilder sb = new StringBuilder();
 
     public static void main(String[] args) throws IOException {
@@ -14,27 +14,28 @@ public class Main {
         n = Integer.parseInt(st.nextToken());
         m = Integer.parseInt(st.nextToken());
 
-        // 출력해야할 자리수만큼
-        selected = new int[m];
+        selected = new int[n + 1];
+        visited = new int[n + 1];
 
-        dfs(0);
+        dfs(1);
 
         System.out.println(sb.toString());
     }
 
-    static void dfs(int index) {
-        if (index == m) {
-            for (int answer : selected) {
-                sb.append(answer).append(" ");
+    static void dfs(int idx) {
+        if (idx > m) {
+            for (int i = 1; i <= m; i++) {
+                sb.append(selected[i]).append(" ");
             }
             sb.append("\n");
         } else {
-            int start = index == 0 ? 0 : selected[index-1];
-            for (int i = start; i < n; i++) {
-                selected[index] = i+1;
-                dfs(index + 1);
-                // 초기화, 안해도 됨
-                selected[index] = 0;
+            int start = idx == 1 ? 1 : selected[idx - 1];
+            for (int i = start; i <= n; i++ ) {
+                if (visited[i] != 0) continue;
+                visited[i] = 1;
+                selected[idx] = i;
+                dfs(idx + 1);
+                visited[i] = 0;
             }
         }
     }

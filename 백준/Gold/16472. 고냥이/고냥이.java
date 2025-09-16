@@ -3,9 +3,10 @@ import java.util.*;
 
 public class Main {
 
-    static int n;
+    static int n, answer, kind;
     static int[] visited;
     static char[] arr;
+
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 
@@ -13,36 +14,27 @@ public class Main {
         arr = br.readLine().toCharArray();
         visited = new int[26];
 
-        int r = -1, answer = 0, kind = 0;
-        for (int l = 0; l < arr.length; l++) {
-            if (l > 0) {
-                int left = arr[l - 1] - 'a';
-                visited[left]--;
-                if (visited[left] == 0) {
-                    kind--;
-                }
+        int l = 0;
+        for (int r = 0; r < arr.length; r++) {
+            add(arr[r]);
+            while(kind > n) {
+                remove(arr[l]);
+                l++;
             }
-
-            while(r + 1 < arr.length) {
-                r++;
-                int right = arr[r] - 'a';
-                visited[right]++;
-                if (visited[right] == 1) {
-                    kind++;
-                }
-
-                if (kind > n) {
-                    visited[right]--;
-                    if (visited[right] == 0) {
-                        kind--;
-                    }
-                    r--;
-                    break;
-                }
-            }
-
             answer = Math.max(answer, r - l + 1);
+
         }
+
         System.out.println(answer);
+    }
+
+    static void add(int val) {
+        visited[val - 'a']++;
+        if (visited[val - 'a'] == 1) kind++;
+    }
+
+    static void remove(int val) {
+        visited[val - 'a']--;
+        if (visited[val - 'a'] == 0) kind--;
     }
 }

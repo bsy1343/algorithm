@@ -12,6 +12,7 @@ public class Main {
         n = Integer.parseInt(br.readLine());
         arr = new int[n];
 
+
         st = new StringTokenizer(br.readLine());
         for (int i = 0; i < n; i++) {
             arr[i] = Integer.parseInt(st.nextToken());
@@ -23,23 +24,21 @@ public class Main {
         for (int i = 0; i < n; i++) {
             int target = arr[i];
 
-            int l = 0, r = n -1;
+            int l = 0, r = n-1;
             while(l < r) {
                 if (l == i) {
                     l++;
                     continue;
                 }
-
                 if (r == i) {
-                    r--;
-                    continue;
+                  r--;
+                  continue;
                 }
-
                 int sum = arr[l] + arr[r];
-                if (sum == target) {
+                if (target == sum) {
                     answer++;
                     break;
-                } else if (sum < target) {
+                } else if (target > sum) {
                     l++;
                 } else {
                     r--;

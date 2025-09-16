@@ -11,12 +11,12 @@ public class Main {
         }
     }
 
-    static int t, n, m, k, answer;
+    static int t, m, n, k;
     static int[][] visited, map;
-    static int[][] direction = {{0, 1}, {0, -1}, {1, 0}, {-1, 0}};
-    static ArrayList<Node> al;
+    static int[][] directions = {{0, 1}, {0, -1}, {1, 0}, {-1, 0}};
+    static ArrayList<Node> al = new ArrayList();
 
-    public static void main(String[] args) throws IOException{
+    public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         StringTokenizer st;
 
@@ -24,28 +24,28 @@ public class Main {
 
         for (int test_case = 0; test_case < t; test_case++) {
             st = new StringTokenizer(br.readLine());
-            n = Integer.parseInt(st.nextToken());
             m = Integer.parseInt(st.nextToken());
+            n = Integer.parseInt(st.nextToken());
             k = Integer.parseInt(st.nextToken());
 
-            visited = new int[n][m];
-            map = new int[n][m];
-            answer = 0;
-            al = new ArrayList();
+            visited = new int[m][n];
+            map = new int[m][n];
 
             for (int i = 0; i < k; i++) {
                 st = new StringTokenizer(br.readLine());
                 int x = Integer.parseInt(st.nextToken());
                 int y = Integer.parseInt(st.nextToken());
                 map[x][y] = 1;
-                al.add(new Node(x, y));
             }
 
-            for (Node node : al) {
-                if (visited[node.x][node.y] != 0) continue;
-
-                dfs(node.x, node.y);
-                answer++;
+            int answer = 0;
+            for (int i = 0; i < m; i++) {
+                for (int j = 0; j < n; j++) {
+                    if (visited[i][j] != 0) continue;
+                    if (map[i][j] != 1) continue;
+                    answer++;
+                    bfs(i, j);
+                }
             }
 
             System.out.println(answer);
@@ -60,30 +60,17 @@ public class Main {
         while(!q.isEmpty()) {
             Node node = q.poll();
 
-            for (int i = 0; i < direction.length; i++) {
-                int dx = node.x + direction[i][0];
-                int dy = node.y + direction[i][1];
+            for (int i = 0; i < directions.length; i++) {
+                int nx = node.x + directions[i][0];
+                int ny = node.y + directions[i][1];
 
-                if (dx < 0 || dy < 0 || dx >= n || dy >= m) continue;
-                if (visited[dx][dy] != 0) continue;
-                if (map[dx][dy] != 1) continue;
-                q.add(new Node(dx, dy));
-                visited[dx][dy] = 1;
+                if (nx < 0 || ny < 0 || nx >= m || ny >= n) continue;
+                if (visited[nx][ny] != 0) continue;
+                if (map[nx][ny] != 1) continue;
+
+                visited[nx][ny] = 1;
+                q.add(new Node(nx, ny));
             }
-        }
-    }
-
-    static void dfs(int x, int y) {
-        visited[x][y] = 1;
-        for (int i = 0; i < direction.length; i++) {
-            int dx = x + direction[i][0];
-            int dy = y + direction[i][1];
-
-            if (dx < 0 || dy < 0 || dx >= n || dy >= m) continue;
-            if (visited[dx][dy] != 0) continue;
-            if (map[dx][dy] != 1) continue;
-
-            dfs(dx, dy);
         }
     }
 }

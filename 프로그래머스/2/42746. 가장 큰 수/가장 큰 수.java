@@ -28,6 +28,7 @@ class Solution {
         
         Arrays.sort(arr, (o1, o2) -> (o2+o1).compareTo(o1+o2));
         
+        // answer = arr[0].equals("0") ? "0" : String.join("", arr);
         answer = arr[0].equals("0") ? "0" : String.join("", arr);
         
         return answer;

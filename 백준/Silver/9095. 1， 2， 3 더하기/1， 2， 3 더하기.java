@@ -4,23 +4,26 @@ import java.util.*;
 public class Main {
 
     static int t, n;
-    static int[] dy;
-    public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
-        t = sc.nextInt();
+    static int[] dp;
 
-        // n은 양수이며 11보다 작다
-        dy = new int[11];
-        dy[1] = 1;
-        dy[2] = 2;
-        dy[3] = 4;
+    public static void main(String[] args) throws IOException {
+        Scanner sc = new Scanner(System.in);
+
+        t = sc.nextInt();
+        dp = new int [11];
+
+        dp[1] = 1; // 1
+        dp[2] = 2; // 1+1, 2
+        dp[3] = 4; // 1+1+1, 1+2, 2+1, 3
+        // 4 = 7   >> 1+1+1+1, 2+1+1, 1+2+1, 1+1+2, 2+2, 3+1, 1+3
+
         for (int i = 4; i < 11; i++) {
-            dy[i] = dy[i-1] + dy[i-2] + dy[i-3];
+            dp[i] = dp[i - 3] + dp[i - 2] + dp[i - 1];
         }
 
-        for (int test_case = 0; test_case < t; test_case++) {
+        while(t-- > 0) {
             n = sc.nextInt();
-            System.out.println(dy[n]);
+            System.out.println(dp[n]);
         }
     }
 }

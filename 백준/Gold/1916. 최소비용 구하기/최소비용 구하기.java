@@ -1,8 +1,8 @@
 import java.io.*;
 import java.util.*;
-import org.w3c.dom.Node;
 
 public class Main {
+
     static class Node {
         int idx, dist;
         Node (int idx, int dist) {
@@ -10,8 +10,9 @@ public class Main {
             this.dist = dist;
         }
     }
-    static int n, m, start, end;
-    static int[] dist;
+
+    static int n, m, s, e;
+    static int[] visited;
     static ArrayList<Node>[] al;
 
     public static void main(String[] args) throws IOException {
@@ -21,50 +22,49 @@ public class Main {
         n = Integer.parseInt(br.readLine());
         m = Integer.parseInt(br.readLine());
 
-        dist = new int[n + 1];
+        visited = new int[n + 1];
         al = new ArrayList[n + 1];
 
-        for (int i = 1; i <= n; i++) al[i] = new ArrayList();
+        for (int i = 1; i <= n; i++) {
+            al[i] = new ArrayList();
+        }
 
         for (int i = 0; i < m; i++) {
             st = new StringTokenizer(br.readLine());
             int x = Integer.parseInt(st.nextToken());
             int y = Integer.parseInt(st.nextToken());
-            int s = Integer.parseInt(st.nextToken());
+            int dist = Integer.parseInt(st.nextToken());
 
-            al[x].add(new Node(y, s));
+            al[x].add(new Node(y, dist));
         }
-
         st = new StringTokenizer(br.readLine());
-        start = Integer.parseInt(st.nextToken());
-        end = Integer.parseInt(st.nextToken());
+        s = Integer.parseInt(st.nextToken());
+        e = Integer.parseInt(st.nextToken());
 
-        for (int i = 1; i <= n; i++) {
-            dist[i] = Integer.MAX_VALUE;
-        }
+        Arrays.fill(visited, Integer.MAX_VALUE);
 
-        dijkstra(start);
+        bfs(s);
 
-        System.out.println(dist[end]);
+        System.out.println(visited[e]);
     }
 
-    static void dijkstra(int start) {
-        PriorityQueue<Node> q = new PriorityQueue<>(Comparator.comparingInt(o -> o.dist));
-        q.add(new Node(start, 0));
-        dist[start] = 0;
+    static void bfs(int idx) {
+        Queue<Node> q = new LinkedList();
+        q.add(new Node(idx, 0));
+        visited[idx] = 0;
 
         while(!q.isEmpty()) {
-            Node node = q.poll();
+            Node now = q.poll();
 
-            if (dist[node.idx] < node.dist) continue;
+            if (visited[now.idx] < now.dist) continue;
 
-            for (Node e : al[node.idx]) {
-                if (dist[e.idx] <= dist[node.idx] + e.dist) continue;
-                dist[e.idx] = dist[node.idx] + e.dist;
+            for (Node next : al[now.idx]) {
+                int cost = visited[now.idx] + next.dist;
+                if (visited[next.idx] <= cost) continue;
 
-                q.add(new Node(e.idx, dist[e.idx]));
+                visited[next.idx] = cost;
+                q.add(new Node(next.idx, cost));
             }
         }
-
     }
 }

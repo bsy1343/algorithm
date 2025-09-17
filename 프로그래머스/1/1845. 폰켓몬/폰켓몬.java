@@ -3,14 +3,14 @@ import java.util.*;
 
 class Solution {
     public int solution(int[] nums) {
-        int answer = 0;
-        int n = Math.round(nums.length/2);
         HashSet<Integer> hs = new HashSet();
+        int n = nums.length / 2;
         
-        for (int i : nums) {
-            hs.add(i);
+        for (int i = 0; i < nums.length; i++) {
+            hs.add(nums[i]);
         }
         
+        int answer = 0;
         if (n > hs.size()) {
             answer = hs.size();
         } else {

@@ -1,24 +1,23 @@
-import java.io.*;
 import java.util.*;
 
 class Solution {
+    static int[] prices;
     public int[] solution(int[] prices) {
-        int[] answer = new int[prices.length];
+        Solution.prices = prices;
+        int[] arr = new int[prices.length];
         
         for (int i = 0; i < prices.length; i++) {
-            answer[i] = count(i, prices);
+            arr[i] = count(i);
         }
-        
-        return answer;
+        return arr;
     }
     
-    static int count(int idx, int[] prices) {
+    static int count(int idx) {
         int cnt = 0;
         for (int i = idx + 1; i < prices.length; i++) {
             cnt++;
-            if (prices[i] < prices[idx]) break;
+            if (prices[idx] > prices[i]) break;
         }
-        
         return cnt;
     }
 }

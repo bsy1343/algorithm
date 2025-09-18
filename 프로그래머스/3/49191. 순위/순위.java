@@ -1,14 +1,7 @@
 import java.util.*;
-import java.io.*;
 
 class Solution {
-    static int n;
-    static int[][] results;
-    
-    static int[] visited;
     public int solution(int n, int[][] results) {
-        Solution.n = n;
-        Solution.results = results;
         
         ArrayList<Integer>[] win = new ArrayList[n + 1];
         ArrayList<Integer>[] lose = new ArrayList[n + 1];
@@ -18,28 +11,25 @@ class Solution {
             lose[i] = new ArrayList();
         }
         
-        for (int[] arr : results) {
-            win[arr[0]].add(arr[1]);
-            lose[arr[1]].add(arr[0]);
+        for (int[] result : results) {
+            win[result[0]].add(result[1]);
+            lose[result[1]].add(result[0]);
         }
         
         int answer = 0;
         for (int i = 1; i <= n; i++) {
-            int wCnt = bfs(i, win);
-            int lCnt = bfs(i, lose);
+            int w = bfs(i, win, n);
+            int l = bfs(i, lose, n);
             
-            if (wCnt + lCnt == n - 1) {
-                answer++;
-            }
+            if (w + l == n - 1) answer++;
         }
         
         return answer;
     }
     
-    static int bfs(int idx, ArrayList<Integer>[] arr) {
-        visited = new int[n + 1];
+    static int bfs(int idx, ArrayList<Integer>[] arr, int n) {
+        int[] visited = new int[n + 1];
         Queue<Integer> q = new LinkedList();
-        
         q.add(idx);
         visited[idx] = 1;
         

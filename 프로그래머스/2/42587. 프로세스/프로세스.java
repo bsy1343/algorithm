@@ -1,29 +1,28 @@
-import java.io.*;
 import java.util.*;
 
 class Solution {
     static class Node {
-        int prior, idx;
-        Node (int prior, int idx) {
-            this.prior = prior;
+        int x, idx;
+        Node (int x, int idx) {
+            this.x = x;
             this.idx = idx;
         }
     }
-
+    
     public int solution(int[] priorities, int location) {
-        int answer = 0;
         Queue<Node> q = new LinkedList();
-        PriorityQueue<Integer> pq = new PriorityQueue<>(Collections.reverseOrder());
-
+        Queue<Integer> pq = new PriorityQueue<>(Collections.reverseOrder());
+        
         for (int i = 0; i < priorities.length; i++) {
             q.add(new Node(priorities[i], i));
             pq.add(priorities[i]);
         }
-
+        
+        int answer = 0;
         while(!q.isEmpty()) {
             Node node = q.poll();
-
-            if (node.prior == pq.peek()) {
+            
+            if (node.x == pq.peek()) {
                 answer++;
                 pq.poll();
                 if (node.idx == location) return answer;
@@ -31,7 +30,7 @@ class Solution {
                 q.add(node);
             }
         }
-
+        
         return answer;
     }
 }

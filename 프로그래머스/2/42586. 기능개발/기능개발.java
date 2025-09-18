@@ -1,35 +1,35 @@
-import java.io.*;
 import java.util.*;
 
 class Solution {
     public int[] solution(int[] progresses, int[] speeds) {
-        int[] visited = new int[progresses.length];
         ArrayList<Integer> al = new ArrayList();
+        int n = progresses.length;
+        int visited[] = new int[n];
         
         int day = 1;
-        int complete = 0;
-        
+        int total = 0;
         while(true) {
-            if(complete == progresses.length) break;
+            if (total == n) break;
             
-            int todayComplete = 0;
-            for (int i = 0; i < progresses.length; i++) {
+            int cnt = 0;
+            for (int i = 0; i < n; i++) {
                 if (visited[i] != 0) continue;
-                if (speeds[i] * day + progresses[i] >= 100) {
+                if (progresses[i] + day * speeds[i] >= 100) {
                     visited[i] = 1;
-                    complete++;
-                    todayComplete++;
+                    cnt++;
+                    total++;
                 } else {
                     break;
                 }
             }
             
-            if (todayComplete > 0) {
-                al.add(todayComplete);
+            if (cnt > 0) {
+                al.add(cnt);
             }
             
             day++;
         }
+        
         return al.stream().mapToInt(o -> o).toArray();
     }
 }

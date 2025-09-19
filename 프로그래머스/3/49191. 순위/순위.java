@@ -21,6 +21,7 @@ class Solution {
             int w = bfs(i, win, n);
             int l = bfs(i, lose, n);
             
+            // -1을 해 주는 이유는 자기 자신도 포함해야 하니까
             if (w + l == n - 1) answer++;
         }
         

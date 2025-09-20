@@ -23,6 +23,7 @@ class Solution {
         for (int i = 0; i < 3; i++) {
             if (result[i] == max) al.add(i+1);
         }
+        Collections.sort(al);
         return al.stream().mapToInt(o -> o).toArray();
     }
 }

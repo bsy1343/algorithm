@@ -17,25 +17,27 @@ public class Main {
             return this.idx - node.idx;
         }
     }
+
     static int n;
     static int[] arr, p;
+
     static ArrayList<Node> al = new ArrayList();
     static StringBuilder sb = new StringBuilder();
 
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-        StringTokenizer st;
+        StringTokenizer st = new StringTokenizer(br.readLine());
 
-        n = Integer.parseInt(br.readLine());
+        n = Integer.parseInt(st.nextToken());
         arr = new int[n];
         p = new int[n];
-
 
         st = new StringTokenizer(br.readLine());
         for (int i = 0; i < n; i++) {
             arr[i] = Integer.parseInt(st.nextToken());
             al.add(new Node(arr[i], i));
         }
+
         Collections.sort(al);
 
         for (int i = 0; i < n; i++) {
@@ -47,6 +49,5 @@ public class Main {
         }
 
         System.out.println(sb);
-
     }
 }

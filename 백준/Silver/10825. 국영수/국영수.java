@@ -1,7 +1,7 @@
-import java.util.*;
 import java.io.*;
+import java.util.*;
 
-public class Main{
+public class Main {
     static class Node implements Comparable<Node> {
         String name;
         int k, e, m;
@@ -18,23 +18,19 @@ public class Main{
             if (this.k != node.k) return node.k - this.k;
             if (this.e != node.e) return this.e - node.e;
             if (this.m != node.m) return node.m - this.m;
-
             return this.name.compareTo(node.name);
         }
     }
-
     static int n;
     static ArrayList<Node> al = new ArrayList();
 
-    public static void main(String[] args) throws IOException{
+    public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         StringTokenizer st;
-
         n = Integer.parseInt(br.readLine());
 
         for (int i = 0; i < n; i++) {
             st = new StringTokenizer(br.readLine());
-
             String name = st.nextToken();
             int k = Integer.parseInt(st.nextToken());
             int e = Integer.parseInt(st.nextToken());
@@ -48,5 +44,6 @@ public class Main{
         for (Node node : al) {
             System.out.println(node.name);
         }
+
     }
 }

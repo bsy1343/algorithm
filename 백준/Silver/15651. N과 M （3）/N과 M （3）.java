@@ -14,7 +14,7 @@ public class Main {
         n = Integer.parseInt(st.nextToken());
         m = Integer.parseInt(st.nextToken());
 
-        parent = new int[m + 1];
+        parent = new int[m];
 
         dfs(0);
 

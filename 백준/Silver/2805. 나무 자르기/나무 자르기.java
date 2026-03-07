@@ -1,7 +1,8 @@
-import java.io.*;
 import java.util.*;
+import java.io.*;
 
-public class Main {
+public class Main{
+
     static int n, m, answer;
     static int[] arr;
 
@@ -14,17 +15,21 @@ public class Main {
 
         arr = new int[n];
 
-        int l = 0, r = Integer.MIN_VALUE;
         st = new StringTokenizer(br.readLine());
         for (int i = 0; i < n; i++) {
             arr[i] = Integer.parseInt(st.nextToken());
-            r = Math.max(r, arr[i]);
         }
 
-        while (l <= r) {
+        Arrays.sort(arr);
+
+        int l = 0, r = arr[n-1];
+        answer = Integer.MIN_VALUE;
+
+        while(l <= r) {
             int mid = (l + r) / 2;
-            if (determination(mid)) {
-                answer = mid;
+
+            if (validation(mid) >= m) {
+                answer = Math.max(answer, mid);
                 l = mid + 1;
             } else {
                 r = mid - 1;
@@ -34,13 +39,14 @@ public class Main {
         System.out.println(answer);
     }
 
-    static boolean determination(int h) {
+    static long validation(int target) {
         long sum = 0;
         for (int i = 0; i < n; i++) {
-            if (arr[i] > h) {
-                sum += arr[i] - h;
-            }
+            if (arr[i] <= target) continue;
+            sum += arr[i] - target;
         }
-        return sum >= m;
+
+        return sum;
     }
+
 }

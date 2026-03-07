@@ -2,14 +2,16 @@ import java.io.*;
 import java.util.*;
 
 public class Main {
+
     static int n;
     static int[] arr;
 
-    public static void main(String[] args) throws IOException{
+    public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-        StringTokenizer st;
+        StringTokenizer st = new StringTokenizer(br.readLine());
 
-        n = Integer.parseInt(br.readLine());
+        n = Integer.parseInt(st.nextToken());
+
         arr = new int[n];
 
         st = new StringTokenizer(br.readLine());
@@ -19,26 +21,28 @@ public class Main {
 
         Arrays.sort(arr);
 
-        int l = 0, r = n -1, max = Integer.MAX_VALUE, x = 0, y = 0;
+        int l = 0, r = n-1;
+        int answer = Integer.MAX_VALUE;
+        int sum = 0;
+        int x = 0, y = 0;
+        
         while(l < r) {
-            int sum = arr[l] + arr[r];
+            sum = arr[l] + arr[r];
 
-            if (Math.abs(sum) < max) {
-                max = Math.abs(sum);
+            if (Math.abs(sum) < answer) {
+                answer = Math.abs(sum);
                 x = arr[l];
                 y = arr[r];
             }
 
-            if (sum < 0) {
-                l++;
-            } else {
+            if (sum > 0) {
                 r--;
+            } else {
+                l++;
             }
         }
-        if (x > y) {
-            System.out.println(y + " " + x);
-        } else {
-            System.out.println(x + " " + y);
-        }
+
+        System.out.println(x + " " + y);
+
     }
 }

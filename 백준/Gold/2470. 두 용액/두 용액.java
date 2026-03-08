@@ -11,7 +11,6 @@ public class Main {
         StringTokenizer st = new StringTokenizer(br.readLine());
 
         n = Integer.parseInt(st.nextToken());
-
         arr = new int[n];
 
         st = new StringTokenizer(br.readLine());
@@ -21,28 +20,23 @@ public class Main {
 
         Arrays.sort(arr);
 
-        int l = 0, r = n-1;
-        int answer = Integer.MAX_VALUE;
-        int sum = 0;
-        int x = 0, y = 0;
-        
+        int l = 0, r = n-1, x = 0, y = 0, max = Integer.MAX_VALUE;
         while(l < r) {
-            sum = arr[l] + arr[r];
+            int sum = arr[l] + arr[r];
 
-            if (Math.abs(sum) < answer) {
-                answer = Math.abs(sum);
+            if (Math.abs(sum) < max) {
+                max = Math.min(max, Math.abs(sum));
                 x = arr[l];
                 y = arr[r];
             }
 
-            if (sum > 0) {
-                r--;
-            } else {
+            if (sum < 0) {
                 l++;
+            } else {
+                r--;
             }
         }
 
         System.out.println(x + " " + y);
-
     }
 }

@@ -2,15 +2,14 @@ import java.io.*;
 import java.util.*;
 
 public class Main {
-
     static int n;
     static int[] arr;
 
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-        StringTokenizer st = new StringTokenizer(br.readLine());
+        StringTokenizer st;
 
-        n = Integer.parseInt(st.nextToken());
+        n = Integer.parseInt(br.readLine());
         arr = new int[n];
 
         st = new StringTokenizer(br.readLine());
@@ -20,11 +19,13 @@ public class Main {
 
         Arrays.sort(arr);
 
-        int l = 0, r = n-1, x = 0, y = 0, max = Integer.MAX_VALUE;
+        int l = 0, r = n - 1, max = Integer.MAX_VALUE, x = 0, y =0;
+        // 두 용액은 서로 달라야 함
         while(l < r) {
             int sum = arr[l] + arr[r];
 
             if (Math.abs(sum) < max) {
+                // 정수의 최소값 = 0에 가까운것
                 max = Math.min(max, Math.abs(sum));
                 x = arr[l];
                 y = arr[r];
@@ -37,6 +38,10 @@ public class Main {
             }
         }
 
-        System.out.println(x + " " + y);
+        if (x > y) {
+            System.out.println(y + " " + x);
+        } else {
+            System.out.println(x + " " + y);
+        }
     }
 }

@@ -2,6 +2,7 @@ import java.io.*;
 import java.util.*;
 
 public class Main {
+
     static int n;
     static int[] arr;
 
@@ -11,7 +12,6 @@ public class Main {
 
         n = Integer.parseInt(br.readLine());
         arr = new int[n];
-
 
         st = new StringTokenizer(br.readLine());
         for (int i = 0; i < n; i++) {
@@ -25,15 +25,17 @@ public class Main {
             int target = arr[i];
 
             int l = 0, r = n-1;
+            // l과 r의 합을 알아야 하기때문에 중복은 제외
             while(l < r) {
                 if (l == i) {
                     l++;
                     continue;
                 }
                 if (r == i) {
-                  r--;
-                  continue;
+                    r--;
+                    continue;
                 }
+
                 int sum = arr[l] + arr[r];
                 if (target == sum) {
                     answer++;
@@ -45,6 +47,7 @@ public class Main {
                 }
             }
         }
+
         System.out.println(answer);
     }
 }

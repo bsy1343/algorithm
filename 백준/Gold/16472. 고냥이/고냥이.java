@@ -8,15 +8,15 @@ public class Main {
     static int[] visited;
 
     public static void main(String[] args) throws IOException {
-        Scanner sc = new Scanner(System.in);
+        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 
-        n = sc.nextInt();
-        arr = sc.next().toCharArray();
+        n = Integer.parseInt(br.readLine());
+        arr = br.readLine().toCharArray();
         visited = new int[26];
+        answer = Integer.MIN_VALUE;
+        kind = 0;
 
         int l = 0;
-        int answer = Integer.MIN_VALUE;
-
         for (int r = 0; r < arr.length; r++) {
             add(arr[r]);
 
@@ -24,6 +24,7 @@ public class Main {
                 remove(arr[l]);
                 l++;
             }
+
             answer = Math.max(answer, r - l + 1);
         }
 
@@ -31,12 +32,12 @@ public class Main {
     }
 
     static void add(int val) {
-        visited[val-'a']++;
-        if (visited[val-'a'] == 1) kind++;
+        visited[val - 'a']++;
+        if (visited[val - 'a'] == 1) kind++;
     }
 
     static void remove(int val) {
-        visited[val-'a']--;
-        if (visited[val-'a'] == 0) kind--;
+        visited[val - 'a']--;
+        if (visited[val - 'a'] == 0) kind--;
     }
 }

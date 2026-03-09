@@ -19,7 +19,7 @@ public class Main {
         visited = new int[n + 1];
         al = new ArrayList[n + 1];
 
-        for (int i =  1; i <= n; i++) {
+        for (int i = 1; i <= n; i++) {
             al[i] = new ArrayList();
         }
 
@@ -27,18 +27,19 @@ public class Main {
             st = new StringTokenizer(br.readLine());
             int x = Integer.parseInt(st.nextToken());
             int y = Integer.parseInt(st.nextToken());
-
             al[x].add(y);
+            // 입력으로 주어지는 간선은 양방향이다.
             al[y].add(x);
         }
 
+        // 본문 지시: 방문할 수 있는 정점이 여러 개인 경우에는 정점 번호가 작은 것을 먼저 방문
         for (int i = 1; i <= n; i++) {
             Collections.sort(al[i]);
         }
 
         dfs(v);
 
-        sb.append('\n');
+        sb.append("\n");
 
         Arrays.fill(visited, 0);
         bfs(v);
@@ -48,10 +49,9 @@ public class Main {
 
     static void dfs(int x) {
         visited[x] = 1;
-
         sb.append(x).append(" ");
         for (int y : al[x]) {
-            if (visited[y] == 1) continue;
+            if (visited[y] != 0) continue;
             dfs(y);
         }
     }
@@ -60,16 +60,16 @@ public class Main {
         Queue<Integer> q = new LinkedList();
         q.add(idx);
         visited[idx] = 1;
-    
+
         while(!q.isEmpty()) {
             int x = q.poll();
-
             sb.append(x).append(" ");
             for (int y : al[x]) {
-                if (visited[y] == 1) continue;
+                if (visited[y] != 0) continue;
                 visited[y] = 1;
                 q.add(y);
             }
+
         }
     }
 }

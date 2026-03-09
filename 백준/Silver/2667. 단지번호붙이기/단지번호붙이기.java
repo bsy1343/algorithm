@@ -2,23 +2,23 @@ import java.io.*;
 import java.util.*;
 
 public class Main {
-
-    static int n, total;
-    static int[][] directions = {{0, 1}, {0, -1}, {1, 0}, {-1, 0}};
+    static int n;
+    static int[][] direction = {{0, 1}, {0, -1}, {1, 0}, {-1, 0}};
     static int[][] map, visited;
-    static ArrayList<Integer> al = new ArrayList();
+    static ArrayList<Integer> arr = new ArrayList();
 
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 
         n = Integer.parseInt(br.readLine());
+
         map = new int[n][n];
         visited = new int[n][n];
 
         for (int i = 0; i < n; i++) {
-            char[] x = br.readLine().toCharArray();
+            String str = br.readLine();
             for (int j = 0; j < n; j++) {
-                map[i][j] = x[j] - '0';
+                map[i][j] = str.charAt(j) - '0';
             }
         }
 
@@ -26,34 +26,59 @@ public class Main {
             for (int j = 0; j < n; j++) {
                 if (map[i][j] == 0) continue;
                 if (visited[i][j] == 1) continue;
-                total++;
-                al.add(dfs(i, j));
+                arr.add(dfs(i, j));
             }
         }
 
-        Collections.sort(al);
+        Collections.sort(arr);
 
-        System.out.println(total);
-        for (int x : al) {
-            System.out.println(x);
+        System.out.println(arr.size());
+        for (int answer : arr) {
+            System.out.println(answer);
         }
-
     }
 
     static int dfs(int x, int y) {
-        int cnt = 1;
+        visited[x][y] = 1;
+        int count = 1;
+
+        for (int i = 0; i < direction.length; i++) {
+            int nx = x + direction[i][0];
+            int ny = y + direction[i][1];
+
+            if (nx < 0 || nx >= n || ny < 0 || ny >= n) continue;
+            if (map[nx][ny] == 0) continue;
+            if (visited[nx][ny] == 1) continue;
+            count += dfs(nx, ny);
+        }
+        return count;
+    }
+
+    static int bfs(int x, int y) {
+        Queue<int[]> q = new LinkedList<>();
+        q.add(new int[]{x, y});
         visited[x][y] = 1;
 
-        for (int i = 0; i < directions.length; i++) {
-            int dx = x + directions[i][0];
-            int dy = y + directions[i][1];
+        int count = 1;
 
-            if (dx < 0 || dx >= n || dy < 0 || dy >= n) continue;
-            if (visited[dx][dy] == 1) continue;
-            if (map[dx][dy] == 0) continue;
+        while (!q.isEmpty()) {
+            int[] now = q.poll();
+            int cx = now[0];
+            int cy = now[1];
 
-            cnt += dfs(dx, dy);
+            for (int i = 0; i < 4; i++) {
+                int nx = cx + direction[i][0];
+                int ny = cy + direction[i][1];
+
+                if (nx < 0 || nx >= n || ny < 0 || ny >= n) continue;
+                if (map[nx][ny] == 0 || visited[nx][ny] == 1) continue;
+
+                visited[nx][ny] = 1;
+                q.add(new int[]{nx, ny});
+                count++;
+            }
         }
-        return cnt;
+
+        return count;
     }
 }

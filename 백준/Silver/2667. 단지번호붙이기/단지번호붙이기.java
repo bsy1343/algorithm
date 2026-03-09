@@ -2,23 +2,23 @@ import java.io.*;
 import java.util.*;
 
 public class Main {
-    static int n;
-    static int[][] direction = {{0, 1}, {0, -1}, {1, 0}, {-1, 0}};
+
+    static int n, total;
+    static int[][] directions = {{0, 1}, {0, -1}, {1, 0}, {-1, 0}};
     static int[][] map, visited;
-    static ArrayList<Integer> arr = new ArrayList();
+    static ArrayList<Integer> al = new ArrayList();
 
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 
         n = Integer.parseInt(br.readLine());
-
         map = new int[n][n];
         visited = new int[n][n];
 
         for (int i = 0; i < n; i++) {
-            String str = br.readLine();
+            char[] x = br.readLine().toCharArray();
             for (int j = 0; j < n; j++) {
-                map[i][j] = str.charAt(j) - '0';
+                map[i][j] = x[j] - '0';
             }
         }
 
@@ -26,31 +26,34 @@ public class Main {
             for (int j = 0; j < n; j++) {
                 if (map[i][j] == 0) continue;
                 if (visited[i][j] == 1) continue;
-                arr.add(dfs(i, j));
+                total++;
+                al.add(dfs(i, j));
             }
         }
 
-        Collections.sort(arr);
+        Collections.sort(al);
 
-        System.out.println(arr.size());
-        for (int answer : arr) {
-            System.out.println(answer);
+        System.out.println(total);
+        for (int x : al) {
+            System.out.println(x);
         }
+
     }
 
     static int dfs(int x, int y) {
+        int cnt = 1;
         visited[x][y] = 1;
-        int count = 1;
 
-        for (int i = 0; i < direction.length; i++) {
-            int nx = x + direction[i][0];
-            int ny = y + direction[i][1];
+        for (int i = 0; i < directions.length; i++) {
+            int dx = x + directions[i][0];
+            int dy = y + directions[i][1];
 
-            if (nx < 0 || nx >= n || ny < 0 || ny >= n) continue;
-            if (map[nx][ny] == 0) continue;
-            if (visited[nx][ny] == 1) continue;
-            count += dfs(nx, ny);
+            if (dx < 0 || dx >= n || dy < 0 || dy >= n) continue;
+            if (visited[dx][dy] == 1) continue;
+            if (map[dx][dy] == 0) continue;
+
+            cnt += dfs(dx, dy);
         }
-        return count;
+        return cnt;
     }
 }

@@ -2,74 +2,95 @@ import java.io.*;
 import java.util.*;
 
 public class Main {
-
-    // 물통의 현재 상태와 물을 붓는 행위를 관리하는 구조체
-    static class State {
-        int[] x;
-        State(int[] x) {
-            this.x = new int[3];
-            for (int i = 0; i < 3; i++) {
-                this.x[i] = x[i];
-            }
-        }
-        State move(int from, int to, int[] limit) {
-            // from 물통에서 to 물통으로 물을 옮긴다.
-            int[] nx = new int[]{x[0], x[1], x[2]};
-            if (nx[from] + nx[to] >= limit[to]) {
-                // to가 먼저 꽉찰때
-                nx[from] -= limit[to] - nx[to];
-                nx[to] = limit[to];
-            } else {
-                // from이 먼저 비어질떄
-                nx[to] += nx[from];
-                nx[from] = 0;
-            }
-
-            return new State(nx);
+    // 물통의 현재 상태를 나타내는 노드 (A, B, C 각각의 물의 양)
+    static class Node {
+        int a, b, c;
+        Node(int a, int b, int c) {
+            this.a = a;
+            this.b = b;
+            this.c = c;
         }
     }
-    static boolean[] possible;
-    static boolean[][][] visited;
-    static int[] limit;
-    static StringBuilder sb = new StringBuilder();
+
+    static int a, b, c;           // 물통 A, B, C의 최대 용량
+    static int[][][] visited;      // 방문 여부: visited[a현재량][b현재량][c현재량]
+    static ArrayList<Integer> al = new ArrayList<>();  // A가 빌 때 C의 물 양 목록
+
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        limit = new int[3];
-        possible = new boolean[201];
-        visited = new boolean[201][201][201];
+        a = sc.nextInt();  // A 최대 용량
+        b = sc.nextInt();  // B 최대 용량
+        c = sc.nextInt();  // C 최대 용량
 
-        for (int i = 0; i < 3; i++) {
-            limit[i] = sc.nextInt();
+        visited = new int[a + 1][b + 1][c + 1];
+
+        // 초기 상태: A=0, B=0, C=가득(c)
+        bfs(c);
+
+        Collections.sort(al);
+        for (int x : al) {
+            System.out.print(x + " ");
         }
-
-        bfs(0, 0, limit[2]);
-
-        for (int i = 0; i <= limit[2]; i++) {
-            if (possible[i]) sb.append(i).append(" ");
-        }
-        System.out.print(sb);
     }
 
-    static void bfs(int x1, int x2, int x3) {
-        Queue<State> q = new LinkedList();
-        visited[x1][x2][x3] = true;
-        q.add(new State(new int[]{x1, x2, x3}));
+    static void bfs(int x) {
+        Queue<Node> q = new LinkedList<>();
+        q.add(new Node(0, 0, x));   // 초기 상태 삽입
+        visited[0][0][x] = 1;
 
-        while(!q.isEmpty()) {
-            State st = q.poll();
-            if (st.x[0] == 0) possible[st.x[2]] = true;
-            for (int from = 0; from < 3; from++) {
-                for (int to = 0; to < 3; to++) {
-                    // 같은 물통끼리는 옮길 수 없다.
-                    if (from == to) continue;
-                    State nxt = st.move(from, to, limit);
+        while (!q.isEmpty()) {
+            Node node = q.poll();
+            int na = node.a;
+            int nb = node.b;
+            int nc = node.c;
 
-                    if (!visited[nxt.x[0]][nxt.x[1]][nxt.x[2]]) {
-                        visited[nxt.x[0]][nxt.x[1]][nxt.x[2]] = true;
-                        q.add(nxt);
-                    }
-                }
+            // A가 비어있을 때 C의 물 양을 정답 목록에 추가
+            if (na == 0) {
+                al.add(nc);
+            }
+
+            // A -> B: A에서 B로 붓기 (B가 가득 차거나 A가 빌 때까지)
+            if (na > 0) {
+                int pour = Math.min(na, b - nb);  // 실제로 부을 수 있는 양
+                add(q, na - pour, nb + pour, nc);
+            }
+
+            // A -> C: A에서 C로 붓기
+            if (na > 0) {
+                int pour = Math.min(na, c - nc);
+                add(q, na - pour, nb, nc + pour);
+            }
+
+            // B -> A: B에서 A로 붓기
+            if (nb > 0) {
+                int pour = Math.min(nb, a - na);
+                add(q, na + pour, nb - pour, nc);
+            }
+
+            // B -> C: B에서 C로 붓기
+            if (nb > 0) {
+                int pour = Math.min(nb, c - nc);
+                add(q, na, nb - pour, nc + pour);
+            }
+
+            // C -> A: C에서 A로 붓기
+            if (nc > 0) {
+                int pour = Math.min(nc, a - na);
+                add(q, na + pour, nb, nc - pour);
+            }
+
+            // C -> B: C에서 B로 붓기
+            if (nc > 0) {
+                int pour = Math.min(nc, b - nb);
+                add(q, na, nb + pour, nc - pour);
             }
         }
+    }
+
+    // 방문하지 않은 상태만 큐에 추가
+    static void add(Queue<Node> q, int a, int b, int c) {
+        if (visited[a][b][c] == 1) return;  // 이미 방문한 상태면 스킵
+        visited[a][b][c] = 1;
+        q.add(new Node(a, b, c));
     }
 }

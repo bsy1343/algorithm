@@ -4,10 +4,10 @@ import java.util.*;
 public class Main {
 
     static class Node {
-        int x, s;
-        Node (int x, int s) {
+        int x, dist;
+        Node (int x, int dist) {
             this.x = x;
-            this.s = s;
+            this.dist = dist;
         }
     }
     static int n, k;
@@ -34,7 +34,7 @@ public class Main {
             int nx = node.x;
 
             if (nx == k) {
-                System.out.println(node.s);
+                System.out.println(node.dist);
             }
 
             int[] directions = {nx + 1, nx - 1, nx * 2};
@@ -45,7 +45,7 @@ public class Main {
                 if (visited[dx] != 0) continue;
 
                 visited[dx] = 1;
-                q.add(new Node(dx, node.s + 1));
+                q.add(new Node(dx, node.dist + 1));
             }
         }
     }

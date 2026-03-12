@@ -1,58 +1,51 @@
 import java.io.*;
 import java.util.*;
-import org.w3c.dom.Node;
 
 public class Main {
-    static class Node {
-        int x, dist;
 
-        Node(int x, int dist) {
+    static class Node {
+        int x, s;
+        Node (int x, int s) {
             this.x = x;
-            this.dist = dist;
+            this.s = s;
         }
     }
-
     static int n, k;
-    static int[] arr, visited;
+    static int[] visited;
+
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-        StringTokenizer st = new StringTokenizer(br.readLine());
+        StringTokenizer st= new StringTokenizer(br.readLine());
 
         n = Integer.parseInt(st.nextToken());
         k = Integer.parseInt(st.nextToken());
-
         visited = new int[100001];
 
-        bfs(n);
-
+        bfs(n, 0);
     }
 
-    static void bfs(int idx) {
+    static void bfs (int x, int dist) {
         Queue<Node> q = new LinkedList();
-        q.add(new Node(idx, 0));
-        visited[idx] = 1;
+        q.add(new Node(x, dist));
+        visited[x] = 1;
 
         while(!q.isEmpty()) {
             Node node = q.poll();
+            int nx = node.x;
 
-            if (node.x == k) {
-                System.out.println(node.dist);
-                break;
+            if (nx == k) {
+                System.out.println(node.s);
             }
 
-            if (node.x + 1 < 100001 && visited[node.x + 1] == 0) {
-                visited[node.x + 1] = 1;
-                q.add(new Node(node.x + 1, node.dist + 1));
-            }
+            int[] directions = {nx + 1, nx - 1, nx * 2};
+            for (int i = 0; i < directions.length; i++) {
+                int dx = directions[i];
 
-            if (node.x - 1 >= 0 && visited[node.x - 1] == 0) {
-                visited[node.x - 1] = 1;
-                q.add(new Node(node.x - 1, node.dist + 1));
-            }
+                if (dx < 0 || dx >= 100001) continue;
+                if (visited[dx] != 0) continue;
 
-            if (node.x * 2 < 100001 && visited[node.x * 2] == 0) {
-                visited[node.x * 2] = 1;
-                q.add(new Node(node.x * 2, node.dist + 1));
+                visited[dx] = 1;
+                q.add(new Node(dx, node.s + 1));
             }
         }
     }

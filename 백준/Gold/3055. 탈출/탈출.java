@@ -47,6 +47,7 @@ public class Main{
         for (int i = 0; i < r; i++) {
             String str = br.readLine();
             for (int j = 0; j < c; j++) {
+                // BFS 미방문 초기값 (0으로 하면 '출발지=0분'과 구분 불가)
                 water[i][j] = -1;
                 map[i][j] = str.charAt(j);
                 if (map[i][j] == '*') arrWater.add(new Pair(i, j));
@@ -55,15 +56,10 @@ public class Main{
         }
 
         bfsWater();
-
-        answer = Integer.MIN_VALUE;
+        
         bfsStart(arrStart.get(0).x, arrStart.get(0).y);
 
-        if (answer == Integer.MIN_VALUE) {
-            System.out.println("KAKTUS");
-        } else {
-            System.out.println(answer);
-        }
+        System.out.println(answer == 0 ? "KAKTUS": answer);
     }
 
     static void bfsWater() {
@@ -101,7 +97,7 @@ public class Main{
 
             if (map[node.x][node.y] == 'D') {
                 answer = node.s;
-                break;
+                return;
             }
 
             for (int i = 0; i < directions.length; i++) {

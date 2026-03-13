@@ -1,20 +1,16 @@
-import java.io.BufferedReader;
-import java.io.IOException;
-import java.io.InputStreamReader;
-import java.util.ArrayList;
-import java.util.StringTokenizer;
+import java.io.*;
+import java.util.*;
 
 public class Main {
-
     static int n;
     static int[] parent;
     static ArrayList<Integer>[] al;
 
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-        StringTokenizer st;
+        StringTokenizer st = new StringTokenizer(br.readLine());
 
-        n = Integer.parseInt(br.readLine());
+        n = Integer.parseInt(st.nextToken());
         parent = new int[n + 1];
         al = new ArrayList[n + 1];
 

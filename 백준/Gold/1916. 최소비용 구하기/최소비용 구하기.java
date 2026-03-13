@@ -2,15 +2,13 @@ import java.io.*;
 import java.util.*;
 
 public class Main {
-
     static class Node {
         int idx, dist;
-        Node (int idx, int dist) {
+        Node(int idx, int dist) {
             this.idx = idx;
             this.dist = dist;
         }
     }
-
     static int n, m, s, e;
     static int[] visited;
     static ArrayList<Node>[] al;
@@ -34,22 +32,23 @@ public class Main {
             int x = Integer.parseInt(st.nextToken());
             int y = Integer.parseInt(st.nextToken());
             int dist = Integer.parseInt(st.nextToken());
-
             al[x].add(new Node(y, dist));
         }
+
         st = new StringTokenizer(br.readLine());
         s = Integer.parseInt(st.nextToken());
         e = Integer.parseInt(st.nextToken());
 
         Arrays.fill(visited, Integer.MAX_VALUE);
 
-        bfs(s);
+        dijkstra(s);
 
         System.out.println(visited[e]);
+
     }
 
-    static void bfs(int idx) {
-        Queue<Node> q = new LinkedList();
+    static void dijkstra(int idx) {
+        Queue<Node> q = new PriorityQueue<>(Comparator.comparing(o -> o.dist));
         q.add(new Node(idx, 0));
         visited[idx] = 0;
 

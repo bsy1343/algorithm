@@ -32,9 +32,9 @@ public class Main {
             int x = Integer.parseInt(st.nextToken());
             int y = Integer.parseInt(st.nextToken());
             int dist = Integer.parseInt(st.nextToken());
+
             al[x].add(new Node(y, dist));
         }
-
         st = new StringTokenizer(br.readLine());
         s = Integer.parseInt(st.nextToken());
         e = Integer.parseInt(st.nextToken());
@@ -44,7 +44,6 @@ public class Main {
         dijkstra(s);
 
         System.out.println(visited[e]);
-
     }
 
     static void dijkstra(int idx) {
@@ -59,11 +58,12 @@ public class Main {
 
             for (Node next : al[now.idx]) {
                 int cost = visited[now.idx] + next.dist;
-                if (visited[next.idx] <= cost) continue;
 
+                if (visited[next.idx] <= cost) continue;
                 visited[next.idx] = cost;
                 q.add(new Node(next.idx, cost));
             }
         }
+
     }
 }

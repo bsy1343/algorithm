@@ -37,8 +37,8 @@ public class Main {
     static void dfs(int x, int par) {
         for (int y : al[x]) {
             if (y == par) continue;
-            parent[y] = x;
             dfs(y, x);
+            parent[y] = x;
         }
     }
 }

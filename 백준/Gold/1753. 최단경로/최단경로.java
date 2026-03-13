@@ -1,28 +1,18 @@
 import java.io.*;
 import java.util.*;
-import org.w3c.dom.Node;
 
 public class Main {
-
-    static class Edge{
-        int to, weight;
-        Edge (int to, int weight){
-            this.to = to;
-            this.weight = weight;
-        }
-    }
-
-    static class Info{
+    static class Node {
         int idx, dist;
-        Info(int idx, int dist) {
+        Node (int idx, int dist) {
             this.idx = idx;
             this.dist = dist;
         }
     }
 
-    static int v, e, start;
-    static int[] dist;
-    static ArrayList<Edge>[] arrList;
+    static int v, e, k;
+    static int[] visited;
+    static ArrayList<Node>[] al;
 
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
@@ -30,47 +20,49 @@ public class Main {
 
         v = Integer.parseInt(st.nextToken());
         e = Integer.parseInt(st.nextToken());
-        start = Integer.parseInt(br.readLine());
+        k = Integer.parseInt(br.readLine());
 
-        dist = new int[v + 1];
-        arrList = new ArrayList[v + 1];
-
-        for (int i = 1; i <= v; i++) arrList[i] = new ArrayList();
-
-        for (int i = 1; i <= e; i++) {
-            st = new StringTokenizer(br.readLine());
-            int s = Integer.parseInt(st.nextToken());
-            int e = Integer.parseInt(st.nextToken());
-            int w = Integer.parseInt(st.nextToken());
-
-            arrList[s].add(new Edge(e, w));
-        }
-
-        Arrays.fill(dist, Integer.MAX_VALUE);
-
-        dijkstra(start);
+        visited = new int[v + 1];
+        al = new ArrayList[v + 1];
 
         for (int i = 1; i <= v; i++) {
-            System.out.println(dist[i] == Integer.MAX_VALUE ? "INF" : dist[i]);
+            al[i] = new ArrayList();
+        }
+
+        for (int i = 0; i < e; i++) {
+            st = new StringTokenizer(br.readLine());
+            int x = Integer.parseInt(st.nextToken());
+            int y = Integer.parseInt(st.nextToken());
+            int s = Integer.parseInt(st.nextToken());
+
+            al[x].add(new Node(y, s));
+        }
+
+        Arrays.fill(visited, Integer.MAX_VALUE);
+
+        dijkstra(k);
+
+        for (int i = 1; i <= v; i++) {
+            System.out.println(visited[i] == Integer.MAX_VALUE ? "INF" : visited[i]);
         }
     }
 
-    static void dijkstra(int start) {
-        PriorityQueue<Info> pq = new PriorityQueue<>(Comparator.comparingInt(o -> o.dist));
-        pq.add(new Info(start, 0));
-        dist[start] = 0;
+    static void dijkstra(int idx) {
+        Queue<Node> q = new PriorityQueue<>(Comparator.comparingInt(o -> o.dist));
+        q.add(new Node(idx, 0));
+        visited[idx] = 0;
 
-        while(!pq.isEmpty()) {
-            Info info = pq.poll();
+        while(!q.isEmpty()){
+            Node now = q.poll();
 
-            if (dist[info.idx] < info.dist) continue;
+            if (visited[now.idx] < now.dist) continue;
 
-            for (Edge e : arrList[info.idx]) {
-                if (info.dist + e.weight >= dist[e.to]) continue;
-                dist[e.to] = info.dist + e.weight;
-                pq.add(new Info(e.to, dist[e.to]));
+            for (Node next : al[now.idx]) {
+                int cost = visited[now.idx] + next.dist;
+                if (visited[next.idx] <= cost) continue;
+                visited[next.idx] = cost;
+                q.add(new Node(next.idx, cost));
             }
         }
-
     }
 }

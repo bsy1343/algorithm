@@ -9,9 +9,9 @@ public class Main {
 
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-        StringTokenizer st;
+        StringTokenizer st = new StringTokenizer(br.readLine());
 
-        n = Integer.parseInt(br.readLine());
+        n = Integer.parseInt(st.nextToken());
         leaf = new int[n];
         al = new ArrayList[n];
 
@@ -40,13 +40,13 @@ public class Main {
         }
 
         System.out.println(leaf[root]);
-
     }
 
     static void dfs(int x, int par) {
         if (al[x].isEmpty()) {
             leaf[x]++;
         }
+
         for (int y : al[x]) {
             if (y == par) continue;
             dfs(y, x);

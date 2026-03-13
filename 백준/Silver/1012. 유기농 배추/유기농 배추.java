@@ -5,22 +5,21 @@ public class Main {
 
     static class Node {
         int x, y;
-        Node (int x, int y) {
+        Node(int x, int y) {
             this.x = x;
             this.y = y;
         }
     }
-
     static int t, m, n, k;
     static int[][] visited, map;
-    static int[][] directions = {{0, 1}, {0, -1}, {1, 0}, {-1, 0}};
+    static int[][] directions = {{0 , 1}, {0, -1}, {1, 0}, {-1, 0}};
     static ArrayList<Node> al = new ArrayList();
 
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-        StringTokenizer st;
+        StringTokenizer st = new StringTokenizer(br.readLine());
 
-        t = Integer.parseInt(br.readLine());
+        t = Integer.parseInt(st.nextToken());
 
         for (int test_case = 0; test_case < t; test_case++) {
             st = new StringTokenizer(br.readLine());
@@ -41,8 +40,8 @@ public class Main {
             int answer = 0;
             for (int i = 0; i < m; i++) {
                 for (int j = 0; j < n; j++) {
-                    if (visited[i][j] != 0) continue;
                     if (map[i][j] != 1) continue;
+                    if (visited[i][j] != 0) continue;
                     answer++;
                     bfs(i, j);
                 }
@@ -64,9 +63,9 @@ public class Main {
                 int nx = node.x + directions[i][0];
                 int ny = node.y + directions[i][1];
 
-                if (nx < 0 || ny < 0 || nx >= m || ny >= n) continue;
-                if (visited[nx][ny] != 0) continue;
+                if (nx < 0 || nx >= m || ny < 0 || ny >= n) continue;
                 if (map[nx][ny] != 1) continue;
+                if (visited[nx][ny] != 0) continue;
 
                 visited[nx][ny] = 1;
                 q.add(new Node(nx, ny));

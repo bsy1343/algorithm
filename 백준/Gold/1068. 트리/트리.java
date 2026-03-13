@@ -49,7 +49,7 @@ public class Main {
 
         for (int y : al[x]) {
             if (y == par) continue;
-            dfs(y, x);
+            dfs(y, par);
             leaf[x] += leaf[y];
         }
     }

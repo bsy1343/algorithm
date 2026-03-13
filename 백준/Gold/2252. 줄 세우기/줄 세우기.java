@@ -44,7 +44,6 @@ public class Main {
 
         while(!q.isEmpty()) {
             int x = q.poll();
-
             sb.append(x).append(" ");
 
             for (int y : al[x]) {
@@ -52,6 +51,5 @@ public class Main {
                 if (indeg[y] == 0) q.add(y);
             }
         }
-
     }
 }

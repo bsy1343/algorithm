@@ -1,28 +1,18 @@
-import java.io.*;
-import java.util.*;
-
 class Solution {
-    static int[] numbers;
-    static int target;
     static int answer;
     public int solution(int[] numbers, int target) {
-        Solution.numbers = numbers;
-        Solution.target = target;
-        answer = answer;
+        answer = 0;
         
-        dfs(0, 0);
-        
+        dfs(0, 0, numbers, target);
         return answer;
     }
     
-    static void dfs(int idx, int result) {
+    static void dfs(int idx, int result, int[] numbers, int target) {
         if (idx == numbers.length) {
-            if (result == target) {
-                answer++;
-            }
+            if (result == target) answer++;
         } else {
-            dfs(idx + 1, result + numbers[idx]);
-            dfs(idx + 1, result - numbers[idx]);
+            dfs(idx + 1, result - numbers[idx], numbers, target);
+            dfs(idx + 1, result + numbers[idx], numbers, target);
         }
     }
 }

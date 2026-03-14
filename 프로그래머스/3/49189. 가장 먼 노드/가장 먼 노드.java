@@ -1,16 +1,15 @@
 import java.util.*;
+import java.io.*;
 
 class Solution {
+    
+    static int max, answer;
     static int[] visited;
     static ArrayList<Integer>[] al;
-    static int max;
     
     public int solution(int n, int[][] edge) {
-        
         visited = new int[n + 1];
         al = new ArrayList[n + 1];
-        
-        Arrays.fill(visited, -1);
         
         for (int i = 1; i <= n; i++) {
             al[i] = new ArrayList();
@@ -21,12 +20,14 @@ class Solution {
             al[x[1]].add(x[0]);
         }
         
+        Arrays.fill(visited, -1);
+        
         bfs(1);
         
-        int answer = 0;
-        for (int i = 1; i <= n; i++) {
-            if (visited[i] == max) answer++;
+        for (int i : visited) {
+            if (i == max) answer++;
         }
+        
         return answer;
     }
     
@@ -39,7 +40,7 @@ class Solution {
             int x = q.poll();
             
             for (int y : al[x]) {
-                if (visited[y] != -1) continue;
+               if (visited[y] != -1) continue;
                 visited[y] = visited[x] + 1;
                 max = Math.max(max, visited[y]);
                 q.add(y);

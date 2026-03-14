@@ -1,5 +1,5 @@
-import java.io.*;
 import java.util.*;
+import java.io.*;
 
 class Solution {
     public int[] solution(int[] array, int[][] commands) {
@@ -15,12 +15,9 @@ class Solution {
             for (int j = x-1; j < y; j++) {
                 al.add(array[j]);
             }
-            
             Collections.sort(al);
-            
             result.add(al.get(z-1));
         }
-        
         return result.stream().mapToInt(o -> o).toArray();
     }
 }

@@ -13,27 +13,25 @@ class Solution {
         }
     }
 
-    static int[][] maps;
     static int n, m, answer;
     static int[][] visited;
     // 상하좌우 4방향 이동
     static int[][] directions = {{0, 1}, {0, -1}, {1, 0}, {-1, 0}};
 
     public int solution(int[][] maps) {
-        Solution.maps = maps;
         n = maps.length;    // 행 크기
         m = maps[0].length; // 열 크기
         visited = new int[n][m];
 
-        bfs(0, 0, 1); // 시작점 (0,0), 초기 거리 1
+        bfs(0, 0, maps); // 시작점 (0,0)
 
         // BFS 도중 도착점에 못 도달하면 answer=0 → -1 반환
         return answer == 0 ? -1 : answer;
     }
 
-    static void bfs(int x, int y, int dist) {
+    static void bfs(int x, int y, int[][] maps) {
         Queue<Node> q = new LinkedList();
-        q.add(new Node(x, y, dist));
+        q.add(new Node(x, y, 1)); // 초기거리 1
         visited[x][y] = 1; // 시작점 방문 처리
 
         while (!q.isEmpty()) {

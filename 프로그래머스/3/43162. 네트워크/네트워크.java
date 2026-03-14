@@ -1,35 +1,26 @@
-import java.io.*;
-import java.util.*;
-
 class Solution {
-    static int n;
-    static int[][] computers;
-    
-    static int answer;
     static int[] visited;
-    
-    
     public int solution(int n, int[][] computers) {
-        Solution.n = n;
-        Solution.computers = computers;
+        int answer = 0;
         visited = new int[n];
         
         for (int i = 0; i < n; i++) {
             if (visited[i] != 0) continue;
             answer++;
-            dfs(i);
+            dfs(i, n, computers);
         }
         
         return answer;
     }
     
-    static void dfs(int row) {
+    static void dfs(int row, int n, int[][] computers) {
         visited[row] = 1;
+        
         for (int col = 0; col < n; col++) {
             if (visited[col] != 0) continue;
             if (computers[row][col] != 1) continue;
-            dfs(col);
-            
+            dfs(col, n, computers);
         }
+        
     }
 }

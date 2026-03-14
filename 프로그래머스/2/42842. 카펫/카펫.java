@@ -1,22 +1,24 @@
-import java.io.*;
 import java.util.*;
+import java.io.*;
 
 class Solution {
+    
     public int[] solution(int brown, int yellow) {
         int[] answer = new int[2];
         int total = brown + yellow;
         
-        for (int h = 3; h <= total; h++) {
-            if (total % h != 0) continue;
-            int w = total / h;
+        for (int i = 3; i <= total; i++) {
+            if (total % i != 0) continue;
             
-            int yellowCount = (h-2) * (w-2);
+            int garo = total / i;        
+            int count = (garo - 2) * (i -2);
             
-            if (yellowCount == yellow) {
-                answer[0] = w;
-                answer[1] = h;
+            if (yellow == count) {
+                answer[0] = garo;
+                answer[1] = i;
                 break;
             }
+        
         }
         return answer;
     }

@@ -1,27 +1,30 @@
-import java.io.*;
 import java.util.*;
+import java.io.*;
 
 class Solution {
     
-    static class Node implements Comparable<Node> {
+    static class Node implements Comparable<Node>{
         String genres;
-        int plays, idx, total;
+        int total, play, idx;
         
-        Node (String genres, int plays, int idx, int total) {
+        Node (String genres, int total, int play, int idx) {
             this.genres = genres;
-            this.plays = plays;
-            this.idx = idx;
             this.total = total;
+            this.play = play;
+            this.idx = idx;
         }
         
         @Override
         public int compareTo(Node node) {
             if (this.total != node.total) return node.total - this.total;
-            if (this.plays != node.plays) return node.plays - this.plays;
+            if (this.play != node.play) return node.play - this.play;
             if (this.idx != node.idx) return this.idx - node.idx;
+            
             return this.genres.compareTo(node.genres);
         }
     }
+    
+    
     public int[] solution(String[] genres, int[] plays) {
         HashMap<String, Integer> map = new HashMap();
         ArrayList<Node> al = new ArrayList();
@@ -31,7 +34,7 @@ class Solution {
         }
         
         for (int i = 0; i < genres.length; i++) {
-            al.add(new Node(genres[i], plays[i], i, map.get(genres[i])));
+            al.add(new Node(genres[i], map.get(genres[i]), plays[i], i));
         }
         
         Collections.sort(al);
@@ -40,12 +43,12 @@ class Solution {
         ArrayList<Integer> al2 = new ArrayList();
         for (Node node : al) {
             int cnt = map2.getOrDefault(node.genres, 0);
+            
             if (cnt < 2) {
                 al2.add(node.idx);
-                map2.put(node.genres, cnt+1);
+                map2.put(node.genres, map2.getOrDefault(node.genres, 0) + 1);
             }
         }
-        
-        return al2.stream().mapToInt(o ->o).toArray();
+        return al2.stream().mapToInt(o -> o).toArray();
     }
 }

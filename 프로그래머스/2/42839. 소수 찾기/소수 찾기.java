@@ -1,22 +1,20 @@
-import java.util.*;
 import java.io.*;
+import java.util.*;
 
 class Solution {
-    
-    static HashSet<Integer> hs = new HashSet();
     static int[] visited;
     static char[] arr;
+    static HashSet<Integer> hs = new HashSet();
     
     public int solution(String numbers) {
+        int answer = 0;
         arr = numbers.toCharArray();
         visited = new int[arr.length];
         
         dfs(0, "");
         
-        
-        int answer = 0;
-        for (int num : hs) {
-            if (isCheck(num)) answer++;
+        for (int val : hs) {
+            if (isCheck(val)) answer++;
         }
         return answer;
     }
@@ -33,7 +31,6 @@ class Solution {
             visited[i] = 1;
             dfs(idx + 1, result + arr[i]);
             visited[i] = 0;
-            
         }
     }
     
@@ -41,7 +38,7 @@ class Solution {
         if (val < 2) return false;
         if (val == 2) return true;
         if (val % 2 == 0) return false;
-        for (int i = 3; i*i <= val; i+=2 ) {
+        for (int i = 3; i * i <= val; i+=2) {
             if (val % i == 0) return false;
         }
         return true;

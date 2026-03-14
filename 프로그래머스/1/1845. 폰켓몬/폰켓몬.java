@@ -1,21 +1,19 @@
-import java.io.*;
 import java.util.*;
+import java.io.*;
 
 class Solution {
     public int solution(int[] nums) {
-        HashSet<Integer> hs = new HashSet();
+        int answer = 0;
         int n = nums.length / 2;
         
-        for (int i = 0; i < nums.length; i++) {
-            hs.add(nums[i]);
+        HashSet<Integer> hs = new HashSet();
+        for (int i : nums) {
+            hs.add(i);
         }
         
-        int answer = 0;
-        if (n > hs.size()) {
-            answer = hs.size();
-        } else {
-            answer = n;
-        }
+        answer = hs.size() < n ? hs.size() : n;
+        
+        
         
         return answer;
     }

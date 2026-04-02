@@ -1,20 +1,15 @@
-import java.util.*;
 import java.io.*;
+import java.util.*;
 
 class Solution {
     public int solution(int[] nums) {
         int answer = 0;
-        int n = nums.length / 2;
-        
         HashSet<Integer> hs = new HashSet();
-        for (int i : nums) {
-            hs.add(i);
+        for (int num : nums) {
+            hs.add(num);
         }
-        
-        answer = hs.size() < n ? hs.size() : n;
-        
-        
-        
+        answer = hs.size() > nums.length/2 ? nums.length/2 : hs.size();
+        // System.out.println(hs.size() < nums.length/2 : nums.length/2 ? hs.size());
         return answer;
     }
 }

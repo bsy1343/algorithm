@@ -1,23 +1,25 @@
-import java.util.*;
 import java.io.*;
+import java.util.*;
 
 class Solution {
     public int[] solution(int[] array, int[][] commands) {
-        ArrayList<Integer> result = new ArrayList();
         
-        for (int i = 0; i < commands.length; i++) {
+        
+        ArrayList<Integer> result = new ArrayList();
+        for (int[] command : commands) {
+            int start = command[0]-1;
+            int end = command[1]-1;
+            int target = command[2]-1;
+            
             ArrayList<Integer> al = new ArrayList();
-            
-            int x = commands[i][0];
-            int y = commands[i][1];
-            int z = commands[i][2];
-            
-            for (int j = x-1; j < y; j++) {
-                al.add(array[j]);
+            for (int i = start; i <= end; i++) {
+                al.add(array[i]);
             }
+            
             Collections.sort(al);
-            result.add(al.get(z-1));
+            result.add(al.get(target));
         }
+        
         return result.stream().mapToInt(o -> o).toArray();
     }
 }

@@ -4,7 +4,7 @@ import java.io.*;
 public class Main {
 
     static int n, m;
-    static int[] parent;
+    static int[] selected;
     static StringBuilder sb = new StringBuilder();
 
     public static void main (String[] args) throws IOException{
@@ -14,7 +14,7 @@ public class Main {
         n = Integer.parseInt(st.nextToken());
         m = Integer.parseInt(st.nextToken());
 
-        parent = new int[m];
+        selected = new int[m];
 
         dfs(0);
 
@@ -24,12 +24,12 @@ public class Main {
     static void dfs(int idx) {
         if (idx == m) {
             for (int i = 0; i < m; i++) {
-                sb.append(parent[i]).append(" ");
+                sb.append(selected[i]).append(" ");
             }
             sb.append("\n");
         } else {
             for (int i = 1; i <= n; i++) {
-                parent[idx] = i;
+                selected[idx] = i;
                 dfs(idx + 1);
             }
         }

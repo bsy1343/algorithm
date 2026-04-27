@@ -1,0 +1,20 @@
+# Playwright MCP cache (browser snapshots, console logs)
+.playwright-mcp/
+
+# Local screenshots from Claude Code verification (not tracked)
+task-*.png
+boj-*-reference.png
+testcase-ac-*.png
+
+# IDE / editor settings
+.idea/
+.serena/
+*.iml
+.vscode/
+
+# OS artifacts
+.DS_Store
+Thumbs.db
+
+# Node (if you ever add npm deps)
+node_modules/

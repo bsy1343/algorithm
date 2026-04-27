@@ -1,0 +1,44 @@
+name: Archive BOJ images
+
+on:
+  push:
+    paths:
+      - '백준/**/README.md'
+      - 'scripts/archive-images.mjs'
+  workflow_dispatch:
+
+jobs:
+  archive:
+    runs-on: ubuntu-latest
+    # Skip if the commit was already made by this workflow (avoid loops)
+    if: github.actor != 'github-actions[bot]'
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Run archive script
+        run: node scripts/archive-images.mjs
+
+      - name: Commit changes (if any)
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          # Stage anything we may have created or modified
+          git add -A "백준/.assets/" || true
+          # Re-stage modified READMEs (repaired ones)
+          git add -A "백준/" || true
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+            exit 0
+          fi
+          git commit -m "chore(archive): auto-archive BOJ images + repair empty src
+
+          Triggered by push to README.md or archive script update."
+          git push

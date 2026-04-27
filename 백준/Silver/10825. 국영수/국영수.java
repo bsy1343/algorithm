@@ -2,6 +2,7 @@ import java.io.*;
 import java.util.*;
 
 public class Main {
+
     static class Node implements Comparable<Node> {
         String name;
         int k, e, m;
@@ -21,13 +22,16 @@ public class Main {
             return this.name.compareTo(node.name);
         }
     }
+
     static int n;
     static ArrayList<Node> al = new ArrayList();
 
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-        StringTokenizer st;
-        n = Integer.parseInt(br.readLine());
+        StringTokenizer st = new StringTokenizer(br.readLine());
+
+        n = Integer.parseInt(st.nextToken());
+
 
         for (int i = 0; i < n; i++) {
             st = new StringTokenizer(br.readLine());
@@ -44,6 +48,5 @@ public class Main {
         for (Node node : al) {
             System.out.println(node.name);
         }
-
     }
 }

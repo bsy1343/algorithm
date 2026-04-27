@@ -18,7 +18,7 @@
 
 <p>지질학에서 하천계는 유향그래프로 나타낼 수 있다. 강은 간선으로 나타내며, 물이 흐르는 방향이 간선의 방향이 된다. 노드는 호수나 샘처럼 강이 시작하는 곳, 강이 합쳐지거나 나누어지는 곳, 바다와 만나는 곳이다.</p>
 
-<p><img alt="" src="" style="height:299px; width:354px"></p>
+<p><img alt="" src="https://www.acmicpc.net/upload/images/strahler.png" style="height:299px; width:354px"></p>
 
 <p>네모 안의 숫자는 순서를 나타내고, 동그라미 안의 숫자는 노드 번호를 나타낸다.</p>
 

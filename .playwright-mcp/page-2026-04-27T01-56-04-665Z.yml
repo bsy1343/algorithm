@@ -1,0 +1,17 @@
+- generic [ref=e3]:
+  - banner [ref=e4]:
+    - generic [ref=e5]:
+      - link "testcase.ac" [ref=e6] [cursor=pointer]:
+        - /url: /
+      - generic [ref=e7]:
+        - button "언어" [ref=e8]:
+          - img
+          - generic [ref=e9]: KR
+        - button "다크 테마로 전환" [ref=e10]:
+          - img
+  - main [ref=e11]:
+    - paragraph [ref=e12]: 에디터 불러오는 중...
+  - contentinfo [ref=e13]:
+    - text: 오픈소스
+    - link "GitHub" [ref=e14] [cursor=pointer]:
+      - /url: https://github.com/testcase-ac/testcase-ac

@@ -1,0 +1,8 @@
+- generic [ref=e2]:
+  - banner [ref=e3]:
+    - generic [ref=e4]: boj.study
+  - complementary [ref=e5]:
+    - textbox "문제 번호 / 제목 검색..." [ref=e8]
+    - generic [ref=e10]: 로딩 중...
+  - main [ref=e11]:
+    - generic [ref=e12]: 문제를 선택하세요

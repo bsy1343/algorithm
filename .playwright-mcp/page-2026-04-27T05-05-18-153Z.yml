@@ -1,0 +1,227 @@
+- generic [ref=e2]:
+  - banner [ref=e3]:
+    - generic [ref=e4]: boj.study
+  - complementary [ref=e5]:
+    - generic [ref=e6]:
+      - generic [ref=e13] [cursor=pointer]: ALL
+      - generic [ref=e14] [cursor=pointer]: Gold
+      - generic [ref=e15] [cursor=pointer]: Silver
+    - textbox "문제 번호 / 제목 검색..." [ref=e8]
+    - generic [ref=e9]:
+      - generic [ref=e16] [cursor=pointer]:
+        - generic [ref=e17]:
+          - generic [ref=e19]: "#1005"
+          - generic [ref=e20]: ACM Craft
+        - generic [ref=e21]: Gold · 예제 2개
+      - generic [ref=e22] [cursor=pointer]:
+        - generic [ref=e23]:
+          - generic [ref=e25]: "#1012"
+          - generic [ref=e26]: 유기농 배추
+        - generic [ref=e27]: Silver · 예제 2개
+      - generic [ref=e28] [cursor=pointer]:
+        - generic [ref=e29]:
+          - generic [ref=e31]: "#1015"
+          - generic [ref=e32]: 수열 정렬
+        - generic [ref=e33]: Silver · 예제 3개
+      - generic [ref=e34] [cursor=pointer]:
+        - generic [ref=e35]:
+          - generic [ref=e37]: "#1068"
+          - generic [ref=e38]: 트리
+        - generic [ref=e39]: Gold · 예제 4개
+      - generic [ref=e40] [cursor=pointer]:
+        - generic [ref=e41]:
+          - generic [ref=e43]: "#1182"
+          - generic [ref=e44]: 부분수열의 합
+        - generic [ref=e45]: Silver
+      - generic [ref=e46] [cursor=pointer]:
+        - generic [ref=e47]:
+          - generic [ref=e49]: "#1253"
+          - generic [ref=e50]: 좋다
+        - generic [ref=e51]: Gold
+      - generic [ref=e52] [cursor=pointer]:
+        - generic [ref=e53]:
+          - generic [ref=e55]: "#1260"
+          - generic [ref=e56]: DFS와 BFS
+        - generic [ref=e57]: Silver · 예제 3개
+      - generic [ref=e58] [cursor=pointer]:
+        - generic [ref=e59]:
+          - generic [ref=e61]: "#1600"
+          - generic [ref=e62]: 말이 되고픈 원숭이
+        - generic [ref=e63]: Gold · 예제 2개
+      - generic [ref=e64] [cursor=pointer]:
+        - generic [ref=e65]:
+          - generic [ref=e67]: "#1697"
+          - generic [ref=e68]: 숨바꼭질
+        - generic [ref=e69]: Silver · 예제 1개
+      - generic [ref=e70] [cursor=pointer]:
+        - generic [ref=e71]:
+          - generic [ref=e73]: "#1753"
+          - generic [ref=e74]: 최단경로
+        - generic [ref=e75]: Gold · 예제 1개
+      - generic [ref=e76] [cursor=pointer]:
+        - generic [ref=e77]:
+          - generic [ref=e79]: "#1806"
+          - generic [ref=e80]: 부분합
+        - generic [ref=e81]: Gold · 예제 1개
+      - generic [ref=e82] [cursor=pointer]:
+        - generic [ref=e83]:
+          - generic [ref=e85]: "#1916"
+          - generic [ref=e86]: 최소비용 구하기
+        - generic [ref=e87]: Gold · 예제 1개
+      - generic [ref=e88] [cursor=pointer]:
+        - generic [ref=e89]:
+          - generic [ref=e91]: "#1941"
+          - generic [ref=e92]: 소문난 칠공주
+        - generic [ref=e93]: Gold · 예제 1개
+      - generic [ref=e94] [cursor=pointer]:
+        - generic [ref=e95]:
+          - generic [ref=e97]: "#1949"
+          - generic [ref=e98]: 우수 마을
+        - generic [ref=e99]: Gold
+      - generic [ref=e100] [cursor=pointer]:
+        - generic [ref=e101]:
+          - generic [ref=e103]: "#2110"
+          - generic [ref=e104]: 공유기 설치
+        - generic [ref=e105]: Gold · 예제 1개
+      - generic [ref=e106] [cursor=pointer]:
+        - generic [ref=e107]:
+          - generic [ref=e109]: "#2178"
+          - generic [ref=e110]: 미로 탐색
+        - generic [ref=e111]: Silver
+      - generic [ref=e112] [cursor=pointer]:
+        - generic [ref=e113]:
+          - generic [ref=e115]: "#2251"
+          - generic [ref=e116]: 물통
+        - generic [ref=e117]: Gold · 예제 1개
+      - generic [ref=e118] [cursor=pointer]:
+        - generic [ref=e119]:
+          - generic [ref=e121]: "#2252"
+          - generic [ref=e122]: 줄 세우기
+        - generic [ref=e123]: Gold
+      - generic [ref=e124] [cursor=pointer]:
+        - generic [ref=e125]:
+          - generic [ref=e127]: "#2470"
+          - generic [ref=e128]: 두 용액
+        - generic [ref=e129]: Gold · 예제 1개
+      - generic [ref=e130] [cursor=pointer]:
+        - generic [ref=e131]:
+          - generic [ref=e133]: "#2579"
+          - generic [ref=e134]: 계단 오르기
+        - generic [ref=e135]: Silver
+      - generic [ref=e136] [cursor=pointer]:
+        - generic [ref=e137]:
+          - generic [ref=e139]: "#2667"
+          - generic [ref=e140]: 단지번호붙이기
+        - generic [ref=e141]: Silver · 예제 1개
+      - generic [ref=e142] [cursor=pointer]:
+        - generic [ref=e143]:
+          - generic [ref=e145]: "#2805"
+          - generic [ref=e146]: 나무 자르기
+        - generic [ref=e147]: Silver · 예제 2개
+      - generic [ref=e148] [cursor=pointer]:
+        - generic [ref=e149]:
+          - generic [ref=e151]: "#3055"
+          - generic [ref=e152]: 탈출
+        - generic [ref=e153]: Gold
+      - generic [ref=e154] [cursor=pointer]:
+        - generic [ref=e155]:
+          - generic [ref=e157]: "#7795"
+          - generic [ref=e158]: 먹을 것인가 먹힐 것인가
+        - generic [ref=e159]: Silver · 예제 1개
+      - generic [ref=e160] [cursor=pointer]:
+        - generic [ref=e161]:
+          - generic [ref=e163]: "#9095"
+          - generic [ref=e164]: 1， 2， 3 더하기
+        - generic [ref=e165]: Silver
+      - generic [ref=e166] [cursor=pointer]:
+        - generic [ref=e167]:
+          - generic [ref=e169]: "#9663"
+          - generic [ref=e170]: N－Queen
+        - generic [ref=e171]: Gold · 예제 1개
+      - generic [ref=e172] [cursor=pointer]:
+        - generic [ref=e173]:
+          - generic [ref=e175]: "#10825"
+          - generic [ref=e176]: 국영수
+        - generic [ref=e177]: Silver · 예제 1개
+      - generic [ref=e178] [cursor=pointer]:
+        - generic [ref=e179]:
+          - generic [ref=e181]: "#11057"
+          - generic [ref=e182]: 오르막 수
+        - generic [ref=e183]: Silver
+      - generic [ref=e184] [cursor=pointer]:
+        - generic [ref=e185]:
+          - generic [ref=e187]: "#11066"
+          - generic [ref=e188]: 파일 합치기
+        - generic [ref=e189]: Gold · 예제 1개
+      - generic [ref=e190] [cursor=pointer]:
+        - generic [ref=e191]:
+          - generic [ref=e193]: "#11652"
+          - generic [ref=e194]: 카드
+        - generic [ref=e195]: Silver · 예제 2개
+      - generic [ref=e196] [cursor=pointer]:
+        - generic [ref=e197]:
+          - generic [ref=e199]: "#11725"
+          - generic [ref=e200]: 트리의 부모 찾기
+        - generic [ref=e201]: Silver · 예제 2개
+      - generic [ref=e202] [cursor=pointer]:
+        - generic [ref=e203]:
+          - generic [ref=e205]: "#11726"
+          - generic [ref=e206]: 2×n 타일링
+        - generic [ref=e207]: Silver · 예제 2개
+      - generic [ref=e208] [cursor=pointer]:
+        - generic [ref=e209]:
+          - generic [ref=e211]: "#13144"
+          - generic [ref=e212]: List of Unique Numbers
+        - generic [ref=e213]: Gold · 예제 3개
+      - generic [ref=e214] [cursor=pointer]:
+        - generic [ref=e215]:
+          - generic [ref=e217]: "#14500"
+          - generic [ref=e218]: 테트로미노
+        - generic [ref=e219]: Gold
+      - generic [ref=e220] [cursor=pointer]:
+        - generic [ref=e221]:
+          - generic [ref=e223]: "#14502"
+          - generic [ref=e224]: 연구소
+        - generic [ref=e225]: Gold
+      - generic [ref=e226] [cursor=pointer]:
+        - generic [ref=e227]:
+          - generic [ref=e229]: "#14888"
+          - generic [ref=e230]: 연산자 끼워넣기
+        - generic [ref=e231]: Silver · 예제 3개
+      - generic [ref=e232] [cursor=pointer]:
+        - generic [ref=e233]:
+          - generic [ref=e235]: "#15649"
+          - generic [ref=e236]: N과 M （1）
+        - generic [ref=e237]: Silver · 예제 3개
+      - generic [ref=e238] [cursor=pointer]:
+        - generic [ref=e239]:
+          - generic [ref=e241]: "#15650"
+          - generic [ref=e242]: N과 M （2）
+        - generic [ref=e243]: Silver · 예제 3개
+      - generic [ref=e244] [cursor=pointer]:
+        - generic [ref=e245]:
+          - generic [ref=e247]: "#15651"
+          - generic [ref=e248]: N과 M （3）
+        - generic [ref=e249]: Silver · 예제 3개
+      - generic [ref=e250] [cursor=pointer]:
+        - generic [ref=e251]:
+          - generic [ref=e253]: "#15652"
+          - generic [ref=e254]: N과 M （4）
+        - generic [ref=e255]: Silver · 예제 3개
+      - generic [ref=e256] [cursor=pointer]:
+        - generic [ref=e257]:
+          - generic [ref=e259]: "#15681"
+          - generic [ref=e260]: 트리와 쿼리
+        - generic [ref=e261]: Gold
+      - generic [ref=e262] [cursor=pointer]:
+        - generic [ref=e263]:
+          - generic [ref=e265]: "#15970"
+          - generic [ref=e266]: 화살표 그리기
+        - generic [ref=e267]: Silver · 예제 2개
+      - generic [ref=e268] [cursor=pointer]:
+        - generic [ref=e269]:
+          - generic [ref=e271]: "#16472"
+          - generic [ref=e272]: 고냥이
+        - generic [ref=e273]: Gold · 예제 1개
+  - main [ref=e11]:
+    - generic [ref=e12]: 문제를 선택하세요

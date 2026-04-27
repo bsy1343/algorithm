@@ -102,6 +102,26 @@ algorithm/ (public GitHub repo, GitHub Pages 활성)
 
 토큰 0개. 인증 0개.
 
+**"같은 origin 상대 경로"의 실제 URL** (헷갈림 방지):
+
+GitHub Pages는 레포 파일을 그대로 정적 호스팅한다. 따라서:
+
+```
+HTML 위치:    https://bsy1343.github.io/algorithm/index.html
+데이터 fetch: https://bsy1343.github.io/algorithm/백준/Silver/.../README.md
+              ─────────────────────────────────────
+              모두 같은 origin → CORS 무관, 토큰 무관
+```
+
+`raw.githubusercontent.com/{owner}/{repo}/main/{path}` 형태는 **사용하지 않는다**.
+이 패턴은 HTML을 GitHub Pages가 아닌 다른 곳(`file://`, 다른 도메인, 로컬 서버)에서
+로드할 때 cross-origin으로 받아오기 위한 우회로이며, GitHub Pages 같은 origin
+호스팅에서는 불필요하고 latency만 늘린다.
+
+상대 경로 사용 (`fetch('백준/Silver/...')`)이 가장 짧고 빠르며, 이 spec의 기본 형식이다.
+경로의 한글·공백·특수문자는 `path.split('/').map(encodeURIComponent).join('/')`로
+인코딩한다 (기존 viewer 패턴 유지).
+
 ### 5.3 GitHub API 캐시 전략
 
 ```
@@ -285,10 +305,14 @@ testcase-ac-registry["2579"]  = false
 
 ## 9. 배포
 
-1. `index.html`을 algorithm repo 루트에 commit & push.
-2. GitHub Settings → Pages → Source: `main` branch / `/` (root).
-3. `https://bsy1343.github.io/algorithm/` 접속 시 자동으로 `index.html` 진입점.
-4. 이후 push마다 자동 배포 (수 분 내 반영).
+1. **레포 루트에 빈 `.nojekyll` 파일 추가** (필수).
+   GitHub Pages는 기본으로 Jekyll을 적용하는데, Jekyll은 `_`·`.`로 시작하는 폴더/파일을
+   빌드 산출물에서 제외한다. `백준/.assets/` 폴더(이미지 아카이브)가 영향받아 404가
+   발생하므로, `.nojekyll` 1개로 Jekyll을 비활성화한다.
+2. `index.html`을 algorithm repo 루트에 commit & push.
+3. GitHub Settings → Pages → Source: `main` branch / `/` (root).
+4. `https://bsy1343.github.io/algorithm/` 접속 시 자동으로 `index.html` 진입점.
+5. 이후 push마다 자동 배포 (수 분 내 반영).
 
 빌드 단계 없음. CI 없음. 별도 워크플로 없음.
 

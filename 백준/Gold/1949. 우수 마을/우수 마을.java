@@ -1,58 +1,98 @@
 import java.io.*;
+import java.lang.reflect.Array;
 import java.util.*;
 
 public class Main {
+    static FastReader scan = new FastReader();
+    static StringBuilder sb = new StringBuilder();
 
-    static int n;
+    static int N;
     static int[] num;
-    static int[][] dy;
-    static ArrayList<Integer>[] arrList;
+    static ArrayList<Integer>[] con;
+    static int[][] Dy;
 
-
-    public static void main(String[] args) throws IOException {
-        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-        StringTokenizer st;
-
-        n = Integer.parseInt(br.readLine());
-        num = new int[n + 1];
-        dy = new int[n + 1][2];
-        arrList = new ArrayList[n + 1];
-
-        st = new StringTokenizer(br.readLine());
-        for (int i = 1; i <= n; i++) {
-            num[i] = Integer.parseInt(st.nextToken());
-            arrList[i] = new ArrayList();
+    static void input(){
+        N = scan.nextInt();
+        num = new int[N + 1];
+        con = new ArrayList[N + 1];
+        for (int i = 1; i <= N; i++){
+            num[i] = scan.nextInt();
+            con[i] = new ArrayList<>();
         }
-
-        for (int i = 1; i <= n-1; i++) {
-            st = new StringTokenizer(br.readLine());
-            int x = Integer.parseInt(st.nextToken());
-            int y = Integer.parseInt(st.nextToken());
-            arrList[x].add(y);
-            arrList[y].add(x);
+        for (int i = 1; i < N; i++){
+            int x = scan.nextInt(), y = scan.nextInt();
+            con[x].add(y);
+            con[y].add(x);
         }
+    }
+
+    static void dfs(int x, int prev){
+        Dy[x][1] = num[x];
+        for (int y: con[x]){
+            if (y == prev) continue;
+            dfs(y, x);
+            Dy[x][0] += Math.max(Dy[y][0], Dy[y][1]);
+            Dy[x][1] += Dy[y][0];
+        }
+    }
+
+    static void pro() {
+        Dy = new int[N + 1][2];
 
         dfs(1, -1);
 
-        System.out.println(Math.max(dy[1][0], dy[1][1]));
+        System.out.println(Math.max(Dy[1][0], Dy[1][1]));
     }
 
-    static void dfs(int x, int par) {
-        // x를 root로 하는 subtree에서 root를 선택하지 않고서 가능한 최대 주민 수
-        dy[x][0] = 0;
-        // x를 root로 하는 subtree에서 root를 선택하고서 가능한 최대 주민 수
-        dy[x][1] = num[x];
+    public static void main(String[] args) {
+        input();
+        pro();
+    }
 
-        // 연결된 자식 노드들을 순회하면서 DP 테이블 업데이트
-        for (int y : arrList[x]) {
-            // 부모 노드는 다시 방문하지 않도록 건너뜀
-            if (y == par) continue;
-            dfs(y, x);
-            // x를 선택하지 않은 경우: 자식 노드를 선택하든 안 하든 최대값을 더함
-            dy[x][0] += Math.max(dy[y][0], dy[y][1]);
-            // x를 선택한 경우: 자식 노드는 선택할 수 없으므로 dy[y][0]만 더함
-            dy[x][1] += dy[y][0];
+
+    static class FastReader {
+        BufferedReader br;
+        StringTokenizer st;
+
+        public FastReader() {
+            br = new BufferedReader(new InputStreamReader(System.in));
         }
 
+        public FastReader(String s) throws FileNotFoundException {
+            br = new BufferedReader(new FileReader(new File(s)));
+        }
+
+        String next() {
+            while (st == null || !st.hasMoreElements()) {
+                try {
+                    st = new StringTokenizer(br.readLine());
+                } catch (IOException e) {
+                    e.printStackTrace();
+                }
+            }
+            return st.nextToken();
+        }
+
+        int nextInt() {
+            return Integer.parseInt(next());
+        }
+
+        long nextLong() {
+            return Long.parseLong(next());
+        }
+
+        double nextDouble() {
+            return Double.parseDouble(next());
+        }
+
+        String nextLine() {
+            String str = "";
+            try {
+                str = br.readLine();
+            } catch (IOException e) {
+                e.printStackTrace();
+            }
+            return str;
+        }
     }
 }

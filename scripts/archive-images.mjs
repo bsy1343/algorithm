@@ -31,7 +31,9 @@ export async function fetchBojImages(problemNum, { fetchImpl = fetch } = {}) {
   const html = await res.text();
   const urls = [];
   for (const m of html.matchAll(/<img[^>]+src=["']([^"']+)["']/gi)) {
-    const src = m[1];
+    let src = m[1];
+    // Normalize BOJ-relative paths like "/upload/images/foo.png" to absolute.
+    if (/^\/upload\//i.test(src)) src = 'https://www.acmicpc.net' + src;
     if (!/^https?:\/\//i.test(src)) continue;
     if (BOJ_IMAGE_HOSTS.some(h => src.includes(h))) urls.push(src);
   }

@@ -3,81 +3,62 @@ import java.util.*;
 
 public class Main {
 
-    static BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-    static StringTokenizer st;
     static int t, n, m, answer;
-    static int[] a, b;
+    static int[] arrA, arrB;
 
     public static void main(String[] args) throws IOException {
+        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+        StringTokenizer st;
+
         t = Integer.parseInt(br.readLine());
 
         for (int test_case = 0; test_case < t; test_case++) {
             st = new StringTokenizer(br.readLine());
             n = Integer.parseInt(st.nextToken());
             m = Integer.parseInt(st.nextToken());
-            answer = 0;
 
-            a = new int[n];
-            b = new int[m];
+            arrA = new int[n];
+            arrB = new int[m];
+
+            answer = 0;
 
             st = new StringTokenizer(br.readLine());
             for (int i = 0; i < n; i++) {
-                a[i] = Integer.parseInt(st.nextToken());
+                arrA[i] = Integer.parseInt(st.nextToken());
             }
 
             st = new StringTokenizer(br.readLine());
             for (int i = 0; i < m; i++) {
-                b[i] = Integer.parseInt(st.nextToken());
+                arrB[i] = Integer.parseInt(st.nextToken());
             }
 
-            Arrays.sort(b);
+            // B배열을 정렬 (이진탐색을 위해 필수!)
+            Arrays.sort(arrB);
 
+            // A의 각 원소에 대해 B에서 자신보다 작은 원소의 개수를 구함
             for (int i = 0; i < n; i++) {
-                // a[i]를 선택했을때, b에서 a[i] 보다 작은게 몇개나 있는지 count 하기
-                answer += lower_bound(b, 0, m-1, a[i]);
+                // arrA[i]보다 작은 B배열의 원소 개수를 더함
+                answer += lower_bound(0, m-1, arrA[i]);
             }
 
             System.out.println(answer);
         }
     }
 
-    static int lower_bound(int[] A, int L, int R, int X) {
-        // A배열에서 X 미만의 수중 제일 오른쪽 인덱스를 리턴해주는 함수
-        // 그게 없다면 L을 리턴
-        while (L <= R) {
-            int mid = (L + R) / 2;
-            if (A[mid] < X) {
-                L = mid + 1;
+    // lower_bound: val보다 작은 원소의 개수를 반환
+    static int lower_bound(int l, int r, int val) {
+        while(l <= r) {
+            int mid = (l + r) / 2;
+
+            if (arrB[mid] < val) {
+                // 중간값이 찾는값보다 작으면 오른쪽 절반 탐색
+                l = mid + 1;
             } else {
-                R = mid - 1;
+                // 중간값이 찾는값보다 크거나 같으면 왼쪽 절반 탐색
+                r = mid - 1;
             }
         }
-        return L;
+        // l은 val보다 작은 원소의 개수를 나타냄
+        return l;
     }
-
-//    static int upper_bound(int[] A, int L, int R, int X) {
-//        while (L <= R) {
-//            int mid = (L + R) / 2;
-//            if (A[mid] <= X) {  // ✅ X와 같은 값도 무시하고 오른쪽으로 이동
-//                L = mid + 1;
-//            } else {
-//                R = mid - 1;
-//            }
-//        }
-//        return L;
-//    }
-
-//    static int binary_search(int[] A, int L, int R, int X) {
-//        while (L <= R) {
-//            int mid = (L + R) / 2;
-//            if (A[mid] == X) {  // ✅ 정확한 값을 찾았을 때
-//                return mid;  // ✅ X가 위치한 인덱스 반환
-//            } else if (A[mid] < X) {  // ✅ X보다 작은 경우, 오른쪽 탐색
-//                L = mid + 1;
-//            } else {  // ✅ X보다 큰 경우, 왼쪽 탐색
-//                R = mid - 1;
-//            }
-//        }
-//        return -1;  // ✅ X가 배열에 없으면 -1 반환
-//    }
 }

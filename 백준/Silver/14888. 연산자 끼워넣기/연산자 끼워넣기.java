@@ -3,7 +3,7 @@ import java.util.*;
 
 public class Main {
 
-    static int n, min, max;
+    static int n, max, min;
     static int[] num, operator;
 
     public static void main(String[] args) throws IOException {
@@ -14,48 +14,47 @@ public class Main {
         num = new int[n];
         operator = new int[4];
 
-        min = Integer.MAX_VALUE;
-        max = Integer.MIN_VALUE;
-
         st = new StringTokenizer(br.readLine());
-        for (int i = 0; i < n; i++){
+        for (int i = 0; i < n ; i++) {
             num[i] = Integer.parseInt(st.nextToken());
         }
 
         st = new StringTokenizer(br.readLine());
-        for (int i = 0; i < 4; i++) {
+        for (int i = 0; i < 4 ; i++) {
             operator[i] = Integer.parseInt(st.nextToken());
         }
+
+        max = Integer.MIN_VALUE;
+        min = Integer.MAX_VALUE;
 
         dfs(0, num[0]);
 
         System.out.println(max);
         System.out.println(min);
     }
-
     static void dfs(int idx, int result) {
-        if (idx == n-1) {
-            min = Math.min(min, result);
+        if (idx == n - 1) {
             max = Math.max(max, result);
+            min = Math.min(min, result);
         } else {
             for (int i = 0; i < 4; i++) {
                 if (operator[i] == 0) continue;
                 operator[i]--;
-                dfs(idx+1, calc(result, i, num[idx+1]));
+                dfs(idx + 1, calc(result, num[idx + 1], i));
                 operator[i]++;
             }
         }
     }
 
-    static int calc(int result, int idx , int val) {
-        if (idx == 0) {
-            result += val;
-        } else if (idx == 1) {
-            result -= val;
-        } else if (idx == 2) {
-            result *= val;
-        } else if (idx == 3) {
-            result /= val;
+    static int calc(int result, int value, int code) {
+        if (code == 0) {
+            result += value;
+        } else if (code == 1) {
+            result -= value;
+        } else if (code == 2) {
+            result *= value;
+        } else if (code == 3) {
+            result /= value;
         }
         return result;
     }

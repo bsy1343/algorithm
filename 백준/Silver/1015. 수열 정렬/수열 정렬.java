@@ -19,23 +19,20 @@ public class Main {
     }
 
     static int n;
-    static int[] arr, p;
-
+    static int[] p;
     static ArrayList<Node> al = new ArrayList();
     static StringBuilder sb = new StringBuilder();
 
-    public static void main(String[] args) throws IOException {
+    public static void main (String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-        StringTokenizer st = new StringTokenizer(br.readLine());
+        StringTokenizer st;
 
-        n = Integer.parseInt(st.nextToken());
-        arr = new int[n];
+        n = Integer.parseInt(br.readLine());
         p = new int[n];
 
         st = new StringTokenizer(br.readLine());
         for (int i = 0; i < n; i++) {
-            arr[i] = Integer.parseInt(st.nextToken());
-            al.add(new Node(arr[i], i));
+            al.add(new Node(Integer.parseInt(st.nextToken()), i));
         }
 
         Collections.sort(al);
@@ -44,10 +41,10 @@ public class Main {
             p[al.get(i).idx] = i;
         }
 
-        for (int i : p) {
-            sb.append(i).append(" ");
+        for (int i = 0; i < n; i++) {
+            sb.append(p[i]).append(" ");
         }
 
-        System.out.println(sb);
+        System.out.println(sb.toString());
     }
 }

@@ -157,11 +157,34 @@
   .main-content::-webkit-scrollbar-track { background: transparent; }
   .main-content::-webkit-scrollbar-thumb { background: var(--border); border-radius: 2px; }
 
-  /* Meta cards */
+  /* Meta cards (legacy — kept for non-problem-info contexts) */
   .meta-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(90px,1fr)); gap: 8px; margin-bottom: 20px; }
   .meta-card { background: var(--bg2); border: 1px solid var(--border); border-radius: var(--radius); padding: 10px 12px; }
   .meta-label { font-size: 10px; color: var(--text3); font-family: var(--mono); margin-bottom: 4px; }
   .meta-val { font-size: 13px; font-weight: 500; color: var(--text); font-family: var(--mono); }
+
+  /* BOJ-style problem-info table */
+  .prob-info {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 24px;
+    font-family: var(--mono);
+    border-top: 1px solid var(--border);
+    border-bottom: 1px solid var(--border);
+  }
+  .prob-info th, .prob-info td { padding: 14px 14px; text-align: left; vertical-align: middle; }
+  .prob-info th {
+    font-size: 11px;
+    font-weight: 600;
+    color: var(--text3);
+    letter-spacing: 0.02em;
+    border-bottom: 1px solid var(--border);
+  }
+  .prob-info td { font-size: 13px; font-weight: 500; color: var(--text); }
+  @media (max-width: 720px) {
+    .prob-info th, .prob-info td { padding: 10px 8px; font-size: 11px; }
+    .prob-info td { font-size: 12px; }
+  }
 
   /* Problem sections */
   .prob-section { margin-bottom: 20px; }
@@ -423,6 +446,18 @@
         // Time: matches both "시간: 180 ms" and "시간 제한: 2 초"
         const tim = l.match(/시간[^:]*:\s*([\d,]+\s*(?:ms|초))/);
         if (tim) meta.time = tim[1].trim();
+        // BOJ stats line — auto-import format:
+        //   "제출: 574, 정답: 407, 맞힌 사람: 370, 정답 비율: 71.017%"
+        // Regex `(\d+(?:,\d+)*)` matches "1,413,294" but stops before trailing
+        // separator commas (e.g. "574, 정답:" → captures "574").
+        const sub = l.match(/제출\s*:\s*(\d+(?:,\d+)*)/);
+        if (sub && !meta.submit) meta.submit = sub[1];
+        const acc = l.match(/정답\s*:\s*(\d+(?:,\d+)*)/);
+        if (acc) meta.accept = acc[1];
+        const per = l.match(/맞힌\s*사람\s*:\s*(\d+(?:,\d+)*)/);
+        if (per) meta.person = per[1];
+        const rat = l.match(/정답\s*비율\s*:\s*([\d.]+%)/);
+        if (rat) meta.ratio = rat[1];
         if (/^#+\s*분류/.test(l)) {
           const next = lines.slice(i + 1).find(x => x.trim());
           if (next) meta.category = next.trim();
@@ -688,15 +723,39 @@
 
         let html = '';
 
-        if (Object.keys(meta).length) {
-          html += '<div class="meta-grid">';
-          if (meta.memory) html += `<div class="meta-card"><div class="meta-label">메모리</div><div class="meta-val">${esc(meta.memory)}</div></div>`;
-          if (meta.time) html += `<div class="meta-card"><div class="meta-label">시간</div><div class="meta-val">${esc(meta.time)}</div></div>`;
-          if (meta.category) html += `<div class="meta-card"><div class="meta-label">분류</div><div class="meta-val">${esc(meta.category)}</div></div>`;
-          if (meta.date) html += `<div class="meta-card"><div class="meta-label">제출일</div><div class="meta-val">${esc(meta.date)}</div></div>`;
-          html += '</div>';
+        // BOJ-style problem-info table: 시간 제한 / 메모리 제한 / 제출 / 정답 / 맞힌 사람 / 정답 비율
+        const infoCols = [
+          ['시간 제한', meta.time],
+          ['메모리 제한', meta.memory],
+          ['제출', meta.submit],
+          ['정답', meta.accept],
+          ['맞힌 사람', meta.person],
+          ['정답 비율', meta.ratio],
+        ].filter(([, v]) => v);
+        if (infoCols.length) {
+          html += '<table class="prob-info"><thead><tr>'
+            + infoCols.map(([k]) => `<th>${esc(k)}</th>`).join('')
+            + '</tr></thead><tbody><tr>'
+            + infoCols.map(([, v]) => `<td>${esc(v)}</td>`).join('')
+            + '</tr></tbody></table>';
         }
 
+        // Show 분류 immediately after the table (BOJ-style study layout).
+        if (meta.category) {
+          html += `<div class="prob-section">
+            <div class="prob-section-title">알고리즘 분류</div>
+            <div class="prob-body">${esc(meta.category)}</div>
+          </div>`;
+        }
+        if (meta.date) {
+          html += `<div class="prob-section">
+            <div class="prob-section-title">제출일</div>
+            <div class="prob-body">${esc(meta.date)}</div>
+          </div>`;
+        }
+
+        // Section order: 문제 설명 → 입력 → 출력 → 제한 → 힌트 → 노트
+        // (분류 already rendered above; 통계 already shown in prob-info table)
         const display = [
           ['문제 설명', '문제'],
           ['입력'],
@@ -704,7 +763,6 @@
           ['제한'],
           ['힌트'],
           ['노트'],
-          ['통계'],
         ];
         for (const keys of display) {
           const key = keys.find(k => sections[k]?.trim());

@@ -1,0 +1,33 @@
+# [Platinum III] Divide the rectangle (Hard) - 27704
+
+[문제 링크](https://www.acmicpc.net/problem/27704)
+
+### 성능 요약
+
+시간 제한: 1 초, 메모리 제한: 1024 MB
+
+### 통계
+
+제출: 60, 정답: 9, 맞힌 사람: 9, 정답 비율: 24.324%
+
+### 분류
+
+애드 혹, 해 구성하기, 많은 조건 분기
+
+### 문제 설명
+
+<p>Given is a rectangle consisting of r &times; c unit squares. One of these squares, in row r<sub>r</sub> and column c<sub>r</sub>, is colored red. A different square, in row r<sub>b</sub> and column c<sub>b</sub>, is colored blue.</p>
+
+<p>Color each of the remaining squares red or blue in such a way that the red part has and the blue part have the same shape. Additionally, the red part (and therefore also the blue part) must be connected.</p>
+
+<p>A set of squares S is connected if it is possible to travel between any two of them without leaving S, using horizontal and vertical steps only.</p>
+
+### 입력
+
+<p>The first line of the input file contains an integer t specifying the number of test cases. Each test case is preceded by a blank line.</p>
+
+<p>Each test case consists of three lines. The first line contains the dimensions r and c. The second line contains the coordinates r<sub>r</sub> and c<sub>r</sub>. The third line contains the coordinates r<sub>b</sub> and c<sub>b</sub>. You may assume that 1 &le; r<sub>r</sub>,r<sub>b</sub> &le; r &le; 100, 1 &le; c<sub>r</sub>,c<sub>b</sub> &le; c &le; 100, and (r<sub>r</sub>,c<sub>r</sub>) &ne; (r<sub>b</sub>,c<sub>b</sub>).</p>
+
+### 출력
+
+<p>For each test case, output r lines containing c characters each, each of the characters being R (red) or B (blue). If there are multiple solutions, pick any of them. If there is no solution, output one line with the string &ldquo;IMPOSSIBLE&rdquo;. You may output empty lines between test cases.</p>

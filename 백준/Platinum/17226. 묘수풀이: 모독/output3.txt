@@ -1,0 +1,4 @@
+3
+attack 3 2
+attack 2 2
+use modok

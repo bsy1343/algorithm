@@ -1,0 +1,4 @@
+3
+Print 0
+Print 1
+Print 1

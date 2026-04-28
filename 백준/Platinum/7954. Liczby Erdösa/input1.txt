@@ -1,0 +1,9 @@
+1
+3 4
+1943 Erdos Tarski
+1929 Kuratowski Tarski
+1971 Henkin Monk Tarski
+1929 Kuratowski
+1980 Monk
+1929 Monk
+1943 Tarski

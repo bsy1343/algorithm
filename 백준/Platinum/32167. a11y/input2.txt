@@ -1,0 +1,6 @@
+abababababa
+4
+a1a
+a2a
+a1b
+a2b

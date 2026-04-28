@@ -1,0 +1,24 @@
+7 5 2 4
+sindorim
+sadang
+jamsil
+hongikuniv
+gangnam
+future
+next
+33 R
+49 C
+24 B
+7 C
+10 R
+6
+24 49 20
+49 33 10
+49 7 5
+33 7 11
+33 10 5
+10 7 15
+33 future
+33 next
+33 future
+10 future

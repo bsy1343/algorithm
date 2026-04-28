@@ -1,0 +1,36 @@
+6
+10 3
+Yeokchon
+Eungam
+2
+Gusan
+Eungam
+100 1
+Eungam
+Yeokchon
+0
+10 3
+Euljiro 1(il)ga
+Jongno 5(o)ga
+0
+3 10
+Euljiro 1(il)ga
+Jongno 5(o)ga
+0
+10 3
+Euljiro 1(il)ga
+Jongno 5(o)ga
+5
+City Hall
+Euljiro 3(sam)ga
+Jongno 3(sam)ga
+Dongdaemun
+Dongmyo
+1 1
+Soyosan
+Moran
+4
+Cheonho (Pungnaptoseong)
+Jamsil(Songpa-gu Office)
+Seokchon
+Garak Market

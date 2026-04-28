@@ -1,0 +1,34 @@
+33
+hpush 1
+vpush 2
+vpush 3
+vpop
+vpop
+vpop
+vpush 1
+vpush 2
+hpush 3
+vpop
+vpop
+hpush 4
+hpush 5
+vpush 6
+vpush 7
+hpop
+vpop
+hpop
+vpop
+hpop
+vpush 1
+vpush 2
+vpush 3
+vpush 4
+vpop
+hpush 5
+hpush 6
+hpop
+vpop
+hpop
+vpop
+hpop
+hpop

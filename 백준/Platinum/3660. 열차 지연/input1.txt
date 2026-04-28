@@ -1,0 +1,20 @@
+3
+Seoul Daejeon
+3
+Seoul Daejeon 15 68 10 5
+Seoul Daejeon 46 55 50 60
+Daejeon Busan 14 226 10 120
+Seoul Daejeon
+1
+Seoul Busan 10 22 5 10
+Seoul Daejeon
+9
+Seoul Gwangmyeong 15 10 0 1
+Seoul Gwangmyeong 45 10 0 1
+Seoul Cheonan 23 140 10 15
+Gwangmyeong Busan 44 51 60 70
+Busan Incheon 55 147 38 40
+Incheon Daejeon 24 15 30 15
+Incheon Daejeon 54 15 10 35
+Cheonan Anyang 45 140 5 10
+Anyang Incheon 46 96 10 20

@@ -1,0 +1,19 @@
+Case 1:
+Won game after making 5 moves.
+Final position: (14,16)
+Number of cells with debris: 1
+
+Case 2:
+Lost game after making 2 moves.
+Final position: (15,15)
+Number of cells with debris: 1
+Number of robots remaining: 0
+
+Case 3:
+Move 30: teleport to (16,15)
+Move 58: teleport to (15,16)
+Move 86: teleport to (3,7)
+Lost game after making 114 moves.
+Final position: (1,29)
+Number of cells with debris: 1
+Number of robots remaining: 1

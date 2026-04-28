@@ -1,0 +1,37 @@
+# [Platinum IV] Checkers - 11603
+
+[문제 링크](https://www.acmicpc.net/problem/11603)
+
+### 성능 요약
+
+시간 제한: 2 초, 메모리 제한: 256 MB
+
+### 통계
+
+제출: 28, 정답: 13, 맞힌 사람: 11, 정답 비율: 61.111%
+
+### 분류
+
+그래프 이론, 자료 구조, 분리 집합, 격자 그래프, 오일러 경로, 홀짝성
+
+### 문제 설명
+
+<p>Checkers is played on a n &times; n checkerboard (typically n equals 8, 10, or 12, but for this problem, n will range from 2 to 26). The board has squares colored red and black, and all pieces move only on the black squares. The two sides are called &ldquo;Black&rdquo; and &ldquo;White,&rdquo; and their pieces are so colored. The columns of the checkerboard are lettered starting with a on the left and increasing alphabetically. The rows are numbered 1, . . . , n, starting from the bottom. We refer to each square on the board by its label: the column letter followed by the row number, e.g., <code>c6</code>, <code>z10</code>, or <code>b26</code>. Two sample boards are given below (with additional labels to illustrate the column numbering).</p>
+
+<p style="text-align: center;"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11603/1.png" style="height:230px; width:518px" /></p>
+
+<p>A piece may jump diagonally over a piece of the other color to capture the piece (removing it from the board). In order to perform a jump, the piece that is jumped over must be diagonally adjacent to the piece performing a jump, and the square on the other side of the piece jumped over must be vacant. If such a capture is possible, the jumping piece may continue jumping and capturing pieces of the other color until no more jumps are possible.</p>
+
+<p>For example, in the left sample board, the Black piece at position <code>b6</code> can capture both White pieces in a single move by first jumping over the White piece at <code>c5</code> (which moves the Black piece to <code>d4</code>), and then jumping over the White piece at <code>e5</code>, landing at <code>f6</code>. In the right sample board, no Black piece can jump any White pieces.</p>
+
+<p>It is Black&rsquo;s turn to move. Given a board of checkers, determine if it is possible for Black to jump all of White&rsquo;s pieces in a single move.</p>
+
+### 입력
+
+<p>The first line of input contains n (2 &le; n &le; 26), the size of the board. The following n lines of n characters describe the board. Red squares (to which no piece can ever move) are labeled with &lsquo;.&rsquo;. Black squares with no pieces are labeled with &lsquo;_&rsquo;. Black pieces are labeled with &lsquo;B&rsquo;, and White pieces are labeled with &lsquo;W&rsquo;.</p>
+
+<p>It is guaranteed that the given board has at least one Black piece and one White piece. Additionally, the board is guaranteed to be well-formed; that is, no piece is on a red square, and the board is correctly colored.</p>
+
+### 출력
+
+<p>Print, on a single line, the location of the Black piece that can capture all of White&rsquo;s pieces in a single move. If there are multiple such Black pieces, print Multiple. If there is no such Black piece, print None.</p>

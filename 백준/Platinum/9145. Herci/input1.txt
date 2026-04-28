@@ -1,0 +1,17 @@
+1
+5 3 2
+Pepan
+Venda
+Cvalda
+Bozka
+Vendula
+Kecal
+Jenik
+Marysa
+Bozka 1 Marysa
+Vendula 1 Marysa
+Pepan 2 Kecal Jenik
+Venda 3 Jenik Marysa Kecal
+Cvalda 1 Kecal
+Bozka
+Venda

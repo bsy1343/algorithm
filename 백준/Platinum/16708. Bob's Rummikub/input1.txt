@@ -1,0 +1,4 @@
+3
+blue3 blue5 blue6
+4
+blue4 yellow4 red4 black4

@@ -1,0 +1,13 @@
+2
+XXX
+OO~
+X~O
+3
+XXX
+~~O
+~OO
+X~~~X~~~X
+X~O
+~OO
+O~X
+0

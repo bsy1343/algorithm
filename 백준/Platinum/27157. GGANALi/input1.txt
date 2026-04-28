@@ -1,0 +1,44 @@
+7 5
+42
+New A
+Add Window A
+New B
+Add Window B
+SetProperty A POSITION 3 1
+SetProperty A SIZE 3 3
+SetProperty B POSITION 1 2
+SetProperty B SIZE 3 3000
+SetProperty B COLOR 2
+Touch 3 2
+SetProperty B SENSITIVE 0
+Touch 3 2
+Touch 2 2
+New AA
+SetProperty AA PARENT_ORIGIN 1 1
+SetProperty AA ANCHOR_POINT 0 1
+SetProperty AA POSITION -3 -1
+SetProperty AA SIZE 4 1
+SetProperty AA COLOR 3
+GetProperty AA SCREEN_POSITION
+Add A AA
+GetProperty AA SCREEN_POSITION
+New AB
+New AAA
+Add A AB
+SetProperty AB PARENT_ORIGIN 1 0
+SetProperty AB ANCHOR_POINT 0 0
+SetProperty AB POSITION -2 0
+SetProperty AB SIZE 3 1
+SetProperty AB COLOR 4
+Touch 6 1
+Add AA AAA
+SetProperty AAA ANCHOR_POINT 0 1
+GetProperty AAA SCREEN_POSITION
+SetProperty AAA POSITION 2 1
+GetProperty AAA SCREEN_POSITION
+SetProperty AAA SIZE 1 4
+SetProperty AAA COLOR 5
+Touch 5 1
+Touch 5 0
+SetProperty A CLIP_CHILD 1
+Touch 5 0

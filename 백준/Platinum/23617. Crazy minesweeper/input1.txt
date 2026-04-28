@@ -1,0 +1,9 @@
+16 30 137
+Boom
+Empty 2
+Empty 0
+Empty 2
+Boom
+Empty 6
+...
+Win

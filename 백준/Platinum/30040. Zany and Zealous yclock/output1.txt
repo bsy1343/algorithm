@@ -1,0 +1,39 @@
+46
+5
+[6] Yeokchon
+<6 -> 3> Bulgwang
+<3 -> 6> Yeonsinnae
+[6] Gusan
+[6] Eungam
+100
+2
+[6] Eungam
+[6] Yeokchon
+36
+4
+[2] Euljiro 1(il)ga
+<2 -> 3> Euljiro 3(sam)ga
+<3 -> 1> Jongno 3(sam)ga
+[1] Jongno 5(o)ga
+22
+5
+[2] Euljiro 1(il)ga
+<2 -> 1> City Hall
+[1] Jonggak
+[1] Jongno 3(sam)ga
+[1] Jongno 5(o)ga
+116
+12
+[2] Euljiro 1(il)ga
+[2] Euljiro 3(sam)ga
+[2] Euljiro 4(sa)ga
+<2 -> 4> Dongdaemun History & Culture Park (DDP)
+[4] Chungmuro
+[4] Myeong-dong
+[4] Hoehyeon (Namdaemun Market)
+<4 -> 1> Seoul Station
+[1] City Hall
+[1] Jonggak
+[1] Jongno 3(sam)ga
+[1] Jongno 5(o)ga
+-1

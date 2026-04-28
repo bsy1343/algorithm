@@ -1,0 +1,10 @@
+2
+3 1 2 0.25
+A
+C
+C
+4 4 4 0.50
+GTTG
+TGTG
+TTTG
+GTGT

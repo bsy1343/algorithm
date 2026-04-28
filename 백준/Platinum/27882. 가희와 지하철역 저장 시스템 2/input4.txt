@@ -1,0 +1,37 @@
+7 8 2 10
+Hyou
+cKan
+doT
+mor4e
+anyt8hing
+romantic
+byoe
+6 R
+2 C
+1 C
+3 C
+7 B
+8 C
+12 R
+10 R
+10
+6 2 1
+6 1 1
+6 3 1
+6 8 1
+2 7 1
+1 7 1
+7 3 1
+8 7 1
+10 8 1
+8 12 1
+6 romantic
+12 byoe
+10 romantic
+12 anyt8hing
+10 byoe
+12 romantic
+10 byoe
+6 cKan
+10 mor4e
+6 anyt8hing

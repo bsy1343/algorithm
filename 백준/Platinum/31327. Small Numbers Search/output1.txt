@@ -1,0 +1,9 @@
+(reading input)
+? 1 2
+(reading input)
+? 3 1
+(reading input)
+? 2 3
+(reading input)
+! 1 2 3
+(terminating)

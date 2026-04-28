@@ -1,0 +1,34 @@
+33
+middle
+hpush 1
+middle
+vpush 2
+middle
+hpush 3
+middle
+vpush 4
+middle
+hpush 5
+middle
+vpush 6
+middle
+hpush 7
+middle
+vpush 8
+middle
+hpush 9
+middle
+vpush 10
+middle
+hpop
+middle
+hpop
+middle
+hpop
+middle
+hpop
+middle
+hpop
+middle
+hpop
+middle

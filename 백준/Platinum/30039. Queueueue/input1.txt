@@ -1,0 +1,34 @@
+33
+empty
+hpush 2
+vpush 3
+vfront
+empty
+hpush 4
+hfront
+vpush 1
+hpush 5
+middle
+vback
+hback
+vpush 6
+middle
+hsize
+vpop
+vfront
+hpop
+vsize
+hpop
+size
+hpop
+hpop
+vpop
+vpop
+size
+vfront
+hfront
+vback
+hback
+hpop
+size
+empty

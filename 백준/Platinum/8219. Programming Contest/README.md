@@ -1,0 +1,35 @@
+# [Platinum II] Programming Contest - 8219
+
+[문제 링크](https://www.acmicpc.net/problem/8219)
+
+### 성능 요약
+
+시간 제한: 1 초, 메모리 제한: 128 MB
+
+### 통계
+
+제출: 90, 정답: 24, 맞힌 사람: 20, 정답 비율: 30.769%
+
+### 분류
+
+최대 유량, 최소 비용 최대 유량, 그래프 이론
+
+### 문제 설명
+
+<p>Bartie and his friends compete in the Team Programming Contest. There are n contestants on each team, and each team has access to n computers. The contest lasts t minutes, during which the contestants are to solve m programming problems. Furthermore, penalties are imposed on the teams: solving a problem s minutes since the beginning of the contest amounts to s penal points. The team that solved the most problems wins the contest, with ties broken in favour of the team with smaller penalty.</p>
+
+<p>On the contest day Bartie quickly glances over the problem statements and distributes them among his teammates. He knows his team so well that he can exactly assess who is able to solve which problem. Solving any problem takes any contestant that is able to solve it exactly r minutes of using the computer.</p>
+
+<p>Bartie&#39;s team did not fare well in this year&#39;s contest. Bartie is obsessed with the thought that it might be his fault, due to wrong decisions regarding the distribution of problems. He asks you to write a program that, given what Bartie knew at the beginning of the contest, determines the best possible result of Bytie&#39;s team, together with the assignment of problems to team members that attains the result.</p>
+
+### 입력
+
+<p>Five integers n, m, r, t, and k (1 &le; n,m &le; 500, 1 &le; r,t &le; 1,000,000) are given in the first line of the standard input, separated by single spaces. These denote, respectively: the number of contestants on a team, the number of problems, the time it takes a contestant to solve a problem, the duration of the contest, and the number of contestant-problem pairs given on the input. Each of the following k lines holds two integers a and b (1 &le; a &le; n, 1 &le; b &le; m), separated by a single space, denoting that the contestant a is able to solve the problem b. Each such pair appears at most once in the input.</p>
+
+<p>In tests worth at least 30% of the points it additionally holds that n,m &le; 100.</p>
+
+### 출력
+
+<p>In the first line of the standard output the best possible result of Bytie&#39;s team should be printed as two numbers separated by a single space: the number of solved problems z and the total penal points. An exemplary assignment of problems that attains this result should be given in the following z lines. Each of those should hold three integers a, b and c (1 &le; a &le; n, 1 &le; b &le; m, 0 &le; c &le; t-r), separated by single spaces, signifying that the contestant a should start solving the problem b at time c (the contest starts at time 0). No contestant should be assigned a problem that they cannot solve. If more that one optimal assignment exists, your program can output any of them.</p>
+
+<p>&nbsp;</p>

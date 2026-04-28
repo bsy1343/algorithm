@@ -1,0 +1,8 @@
+2
+3 2
+bessie 2 3 bessie linda mary
+mary 1 1 linda
+linda 0 1 bessie
+2 2	
+siavosh 1 2 siavosh mohammad 
+mohammad 1 0

@@ -1,0 +1,7 @@
+Triple 5
+Triple 16
+Single 7
+Triple 12
+Single 1
+Single 9
+Double 10

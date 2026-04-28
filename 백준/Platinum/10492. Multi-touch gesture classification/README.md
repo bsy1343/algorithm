@@ -1,0 +1,35 @@
+# [Platinum IV] Multi-touch gesture classification - 10492
+
+[문제 링크](https://www.acmicpc.net/problem/10492)
+
+### 성능 요약
+
+시간 제한: 2 초, 메모리 제한: 256 MB
+
+### 통계
+
+제출: 60, 정답: 17, 맞힌 사람: 13, 정답 비율: 30.233%
+
+### 분류
+
+수학, 구현, 그래프 이론, 그래프 탐색, 기하학, 너비 우선 탐색, 플러드 필
+
+### 문제 설명
+
+<p>With the advent of touch-screen based interfaces, software designers have had to reinvent computer control for finger-based gestures. The most basic task in interpreting a gesture is classifying the touches into one of several possible gestures. This can be difficult because the touches are really blobs of pixels on the screen (not unique points), and gestures involve movement.</p>
+
+<p>We define a touch as a connected set of pixels. A pair of pixels is part of the same touch if they are horizontally or vertically adjacent. The touch point is the position of a touch. It&rsquo;s defined as the average location of all pixels that are in the set.</p>
+
+<p>A grip is the set of all touch points for an image. The grip point is the average location of all touch points in the grip. For each touch point we define its touch vector as the vector from the grip point to the touch point. A gesture is a pair of grips (initial and final), and both grips have the same number of touches. There is a one-to-one correspondence between touches in the initial and final grip. The correspondence is chosen such that the sum of squared distances between corresponding touch points is minimized.</p>
+
+<p>There are three kinds of gestures: pan, zoom, and rotation. There is a distance associated with each kind. The pan distance is measured between the two grip points. The grip spread is the average distance between each touch point and the grip point. The zoom distance is the difference between the two grip spreads. The touch rotation is the signed angle (in (&minus;&pi;, &pi;) radians) between the two touch vectors for corresponding touch points (which is zero if either touch vector has length zero). The grip rotation is the average touch rotation. The rotation distance is the arc length of the grip rotation along a circle with radius equal the grip spread of the initial grip.</p>
+
+<p>You need to classify the gestures based whether it is a pan, zoom, or rotation. Pick the one which has the greatest associated distance.</p>
+
+### 입력
+
+<p>Input is one pair of images, given side-by-side. Both images are 15 &times; 30 pixels, and there will be a single space on each line separating the two images. Each image uses X to represent pixels of a touch, and a period (.) to represent no touch. Both images have the same number of touches, between 1 and 5.</p>
+
+### 출력
+
+<p>Print the number of touches and the type of gesture (pan, zoom, or rotate) as well as the direction of the gesture for zoom or rotate. The direction for a zoom is in if the grip spread of the final grip is smaller than that of the initial grip, otherwise it is out. The direction of a rotate is either clockwise or counter-clockwise. All distance comparisons that affect the output will be robust against numerical error of 10<sup>&minus;5</sup>.</p>

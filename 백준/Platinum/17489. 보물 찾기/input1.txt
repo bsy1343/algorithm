@@ -1,0 +1,6 @@
+4 4 3
+ABC
+ABCA
+FGEB
+CBBC
+CABA

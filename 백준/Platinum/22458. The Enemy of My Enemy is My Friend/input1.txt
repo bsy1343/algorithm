@@ -1,0 +1,32 @@
+7
+INTERCAL 10 3 Chef Piet COW
+Chef 7 3 INTERCAL Piet COW
+Piet 6 2 INTERCAL Chef
+COW 7 2 INTERCAL Chef
+J 6 1 A
+A 12 1 J
+Grass 0 0
+7
+Qin 105 4 Zhao Wei Han Chu
+Zhao 81 4 Qin Wei Qi Yan
+Wei 70 5 Qin Zhao Han Qi Chu
+Han 45 3 Qin Wei Chu
+Qi 79 4 Zhao Wei Chu Yan
+Chu 102 4 Qin Wei Han Qi
+Yan 53 2 Zhao Qi
+14
+Magadha 98 8 Macedonia Kalinga Surashtra Ashmaka Kantala Andhra Gangaridai Kamapura
+Macedonia 79 2 Magadha Surashtra
+Kalinga 51 2 Magadha Andhra
+Surashtra 13 3 Magadha Macedonia Ashmaka
+Ashmaka 11 3 Magadha Surashtra Kantala
+Kantala 12 3 Magadha Ashmaka Andhra
+Andhra 14 3 Magadha Kantala Kalinga
+Cholas 15 3 Cheras Pandyas Anuradhapuras
+Cheras 8 2 Cholas Pandyas
+Pandyas 10 3 Cholas Cheras Anuradhapuras
+Anuradhapuras 7 2 Cholas Pandyas
+Gangaridai 20 3 Magadha Kamapura Arakan
+Kamapura 18 2 Magadha Gangaridai
+Arakan 7 1 Gangaridai
+0

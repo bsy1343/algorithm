@@ -1,0 +1,9 @@
+? aeiou
+
+? bcdfghjklmnpqrstvwxyz
+
+? abcd
+
+? bn
+
+! banana

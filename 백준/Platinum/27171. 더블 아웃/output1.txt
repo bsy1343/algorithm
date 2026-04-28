@@ -1,0 +1,6 @@
+Double 8
+Triple 10
+Triple 19
+Triple 20
+Triple 20
+Impossible

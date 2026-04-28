@@ -1,0 +1,9 @@
+import java.io.*;
+import java.util.*;
+
+public class Main {
+
+    public static void main(String[] args) throws IOException {
+        // TODO: 주때의 자소서 쓰기
+    }
+}

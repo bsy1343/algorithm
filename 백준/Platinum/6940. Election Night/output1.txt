@@ -1,0 +1,5 @@
+Candidate 1 will not become president.
+Candidate 2 may become president.
+Candidate 3 will not become president.
+Candidate 4 will not become president.
+Candidate 5 will not become president.

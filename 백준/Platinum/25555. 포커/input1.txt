@@ -1,0 +1,14 @@
+13
+Spade A
+Heart A
+Diamond A
+Spade 2
+Spade 6
+Spade 7
+Spade 10
+Spade Q
+Diamond Q
+Club Q
+Heart Q
+Diamond K
+Club K

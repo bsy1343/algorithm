@@ -1,0 +1,5 @@
+2
+ABB
+BAB
+CAB
+ABC

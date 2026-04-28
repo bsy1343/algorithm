@@ -1,0 +1,104 @@
+# [Platinum I] 화학자의 수학 - 3880
+
+[문제 링크](https://www.acmicpc.net/problem/3880)
+
+### 성능 요약
+
+시간 제한: 1 초, 메모리 제한: 128 MB
+
+### 통계
+
+제출: 23, 정답: 8, 맞힌 사람: 8, 정답 비율: 80.000%
+
+### 분류
+
+유클리드 호제법, 가우스 소거법, 선형대수학, 수학, 정수론, 파싱, 문자열
+
+### 문제 설명
+
+<p>보통 고등학교 화학 시간에는 화학 반응식을 배운다. 이 식은 다음과 같이 생겼다.</p>
+
+<pre>
+(1) 2H<sub>2</sub> + O<sub>2</sub> &rarr; 2H<sub>2</sub>O
+(2) Ca(OH)<sub>2</sub> + CO<sub>2</sub> &rarr; CaCO<sub>3</sub> + H<sub>2</sub>O
+(3) N<sub>2</sub> + 3H<sub>2</sub> &rarr; 2NH<sub>3</sub></pre>
+
+<p>위의 식 (1)~(3)은 모두 좌변과 우변의 균형이 맞추어져 있다. &nbsp;하지만, 아래 반응식은 그렇지 않다.</p>
+
+<pre>
+(4) Al + O<sub>2</sub> &rarr; Al<sub>2</sub>O<sub>3</sub>
+(5) C<sub>3</sub>H<sub>8</sub> + O<sub>2</sub> &rarr; CO<sub>2</sub> + H<sub>2</sub>O</pre>
+
+<p>모든 화학 반응식은 질량 보존의 법칙을 지켜야 한다. 즉, 각 원소(H, O, Ca, Al, ...)의 개수는 화학 반응으로 변하지 않아야 한다. 따라서, 좌변과 우변에 분자의 개수를 맞추어 주어아 한다.</p>
+
+<pre>
+(6) 4Al + 3O<sub>2</sub> &rarr; 2Al<sub>2</sub>O<sub>3</sub>
+(7) C<sub>3</sub>H<sub>8</sub> + 5O<sub>2</sub> &rarr; 3CO<sub>2</sub> + 4H<sub>2</sub>O</pre>
+
+<p>반응식 (6)의 계수는 왼쪽부터 오른쪽까지 (4,3,2)이고, 반응식 (7)의 계수는 (1,5,3,4)이다. 계수가 1인경우에는 생략가능하다.</p>
+
+<p>올바른 화학 반응식의 계수는 다음과 같은 조건을 만족한다.</p>
+
+<ol>
+	<li>계수는 모두 양의 정수이다.</li>
+	<li>계수는 서로소이다. 즉, 계수의 최대공약수는 1이다.</li>
+	<li>모든 원소의 좌변의 양과 우변의 양은 같아야 한다.</li>
+</ol>
+
+<p>화학 반응식이 위의 세가지 조건을 만족하는 경우에는 올바른 화학 반응식이라고 한다. 화학에서 실제로 일어날 수 없는 반응이나 존재하지 않는 분자가 등장한다고 해도, 이 문제에서는 올바른 화학 반응식이다. (H<sub>2</sub> &rarr; H<sub>2</sub>도 올바른 반응식이다)</p>
+
+<p>조건 1과 3(2는 필수는 아니다)을 만족하는 화학 반응식은 균형 반응식이라고 부른다.</p>
+
+<p>화학 반응식 4와 5같이 계수가 없는 화학 반응식이 주어졌을 때, 계수를 올바르게 구하는 프로그램을 작성하시오.</p>
+
+<p>모든 올바른 화학 반응식의 계수가 유일하게 결정되는 것은 아니다. 예를 들어, H<sub>2</sub>O와 NH<sub>3</sub>를 생성하는 반응식이 다음과 같다고 하자.</p>
+
+<pre>
+xH2 + yO2 + zN2 + uH2 &rarr; vH<sub>2</sub>O + wNH<sub>3</sub></pre>
+
+<p>이 경우에 (x,y,z,u,v,w) = (2,1,1,3,2,2)가 답이 된다. 하지만, (4,2,1,3,4,2)와 (4,2,3,9,4,6)도 올바른 정답이 된다. 하지만, 이 문제에서 주어지는 모든 화학 반응식의 계수는 유일하게 결정된다.&nbsp;</p>
+
+### 입력
+
+<p>입력은 여러 개의 계수가 없는 화학 반응식으로 이루어져 있다.</p>
+
+<p>화학 반응식은 아래와 같이 BNF로 나타낼 수 있다.</p>
+
+<pre>
+&lt;chemical_equation&gt; ::= &lt;molecule_sequence&gt; &quot;-&gt;&quot; &lt;molecule_sequence&gt;
+&lt;molecule_sequence&gt; ::= &lt;molecule&gt; | &lt;molecule&gt; &quot;+&quot; &lt;molecule_sequence&gt;
+         &lt;molecule&gt; ::= &lt;group&gt; | &lt;group&gt; &lt;molecule&gt;
+            &lt;group&gt; ::= &lt;unit_group&gt; | &lt;unit_group&gt; &lt;number&gt;
+       &lt;unit_group&gt; ::= &lt;chemical_element&gt; | &quot;(&quot; &lt;molecule&gt; &quot;)&quot;
+ &lt;chemical_element&gt; ::= &lt;uppercase_letter&gt;
+                      | &lt;uppercase_letter&gt; &lt;lowercase_letter&gt;
+ &lt;uppercase_letter&gt; ::= &quot;A&quot; | &quot;B&quot; | &quot;C&quot; | &quot;D&quot; | &quot;E&quot; | &quot;F&quot; | &quot;G&quot; | &quot;H&quot; | &quot;I&quot;
+                      | &quot;J&quot; | &quot;K&quot; | &quot;L&quot; | &quot;M&quot; | &quot;N&quot; | &quot;O&quot; | &quot;P&quot; | &quot;Q&quot; | &quot;R&quot;
+                      | &quot;S&quot; | &quot;T&quot; | &quot;U&quot; | &quot;V&quot; | &quot;W&quot; | &quot;X&quot; | &quot;Y&quot; | &quot;Z&quot;
+ &lt;lowercase_letter&gt; ::= &quot;a&quot; | &quot;b&quot; | &quot;c&quot; | &quot;d&quot; | &quot;e&quot; | &quot;f&quot; | &quot;g&quot; | &quot;h&quot; | &quot;i&quot;
+                      | &quot;j&quot; | &quot;k&quot; | &quot;l&quot; | &quot;m&quot; | &quot;n&quot; | &quot;o&quot; | &quot;p&quot; | &quot;q&quot; | &quot;r&quot;
+                      | &quot;s&quot; | &quot;t&quot; | &quot;u&quot; | &quot;v&quot; | &quot;w&quot; | &quot;x&quot; | &quot;y&quot; | &quot;z&quot;
+           &lt;number&gt; ::= &lt;non_zero_digit&gt;
+                      | &lt;non_zero_digit&gt; &lt;digit&gt;
+   &lt;non_zero_digit&gt; ::= &quot;1&quot; | &quot;2&quot; | &quot;3&quot; | &quot;4&quot; | &quot;5&quot; | &quot;6&quot; | &quot;7&quot; | &quot;8&quot; | &quot;9&quot;
+            &lt;digit&gt; ::= &quot;0&quot; | &lt;non_zero_digit&gt;            
+</pre>
+
+<p>모든 화학 반응식의 끝에는 .이 주어진다. 예를 들어, 다음과 같은 방정식이 있을 때</p>
+
+<p>Ca(OH)<sub>2</sub> + CO<sub>2</sub> &rarr; CaCO<sub>3</sub> + H<sub>2</sub>O</p>
+
+<p>입력으로는 다음과 같이 주어진다.</p>
+
+<pre>
+Ca(OH)2+CO2-&gt;CaCO3+H2O.</pre>
+
+<p>모든 화학 반응식의 길이는 80자를 넘지 않으며, &lt;number&gt;는 10보다 작다. 괄호는 중첩해서 사용되지 않는다. 화학 반응식의 각 변은 최대 10개의 분자로 이루어져 있다. 또, 계수는 항상 40,000을 넘지 않는다.</p>
+
+<p>입력의 마지막 줄에는 .이 하나 주어진다.</p>
+
+<p>위의 설명 중 &lt;chemical_element&gt;에서 주어지는 화학 원소는 존재하지 않는 원소나 아직 발견되지 않는 원소가 주어질 수도 있다. 또, 우누녹튬(Uuo, 118번)과 같이 원소가 알파벳 세글자인 경우도 주어지지 않는다.</p>
+
+### 출력
+
+<p>각각의 화학 방정식에 대해서, 그 방정식을 올바르게 만드는 계수를 공백으로 구분하여 출력한다.</p>

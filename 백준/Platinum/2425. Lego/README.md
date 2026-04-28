@@ -1,0 +1,41 @@
+# [Platinum I] Lego - 2425
+
+[문제 링크](https://www.acmicpc.net/problem/2425)
+
+### 성능 요약
+
+시간 제한: 1 초, 메모리 제한: 128 MB
+
+### 통계
+
+제출: 19, 정답: 8, 맞힌 사람: 8, 정답 비율: 66.667%
+
+### 분류
+
+백트래킹, 다이나믹 프로그래밍, 구현
+
+### 문제 설명
+
+<p>You are using Lego building blocks to train an artiﬁcial vision system. Write a program that, given pictures of a Lego construction taken from two angles, calculates in how many diﬀerent ways it can be built.</p>
+
+<p>In this task, there is only one kind of lego block (with 2 &times; 2 &ldquo;knobs&rdquo;, see picture below), but it can have three diﬀerent colors: white (W), gray (G) or black (B). All blocks exist in unlimited amounts. You use a quadratic base with 6 &times; 6 knobs. Every block must have its edges parallel to this base and no block may extend outside of it. Every block must rest upon at least one underlying block.</p>
+
+<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/68af2cef-5e68-4339-afce-7a54fa2c7473/-/preview/" style="width: 321px; height: 82px;" /></p>
+
+<p>Left: An allowed way to place a block on top of another one. Center: An illegal way (the upper block hangs in the air). Right: Another illegal way (the upper block extends outside the base).</p>
+
+### 입력
+
+<p>The ﬁrst line of the input&nbsp;contains H (1 &le; H &le; 6), the height of the construction. Then follow H lines with 6 characters on each line, giving a picture of the construction as seen from one side (marked A on the ﬁgure below). The jth character on the ith line speciﬁes what you see looking at the jth column from the left on the ith row from above. Each character may be one of &lsquo;W&rsquo;, &lsquo;G&rsquo;, &lsquo;B&rsquo; or &lsquo;.&rsquo;, specifying a color (&lsquo;W&rsquo;, &lsquo;G&rsquo;, or &lsquo;B&rsquo;) or a hole (&lsquo;.&rsquo;). Note that you cannot estimate the depth, so a color seen in a certain position may either belong to a block near the front edge, or further back, provided no other block is blocking the sight.</p>
+
+<p>The ﬁrst picture is followed by another set of H lines with the construction seen from an angle where the observer has moved 90 degrees counterclockwise around the construction (marked B on the ﬁgure below).</p>
+
+### 출력
+
+<p>The program should output one line to the output, containing a single integer: the number of diﬀerent Lego constructions that satisfy the pictures given in the input. Note that even if two diﬀerent possible constructions could be obtained from each other by rotating or mirroring, they both should be counted. For the given input, the answer will always ﬁt in a signed 64-bit integer.</p>
+
+### 힌트
+
+<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/b24407d6-4d76-4b32-82cf-34ebdaf005e2/-/preview/" style="width: 189px; height: 120px;" /></p>
+
+<p>One of the possible constructions in the example.</p>

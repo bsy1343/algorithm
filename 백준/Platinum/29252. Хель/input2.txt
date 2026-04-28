@@ -1,0 +1,12 @@
+6
+-1 -6 0 5 3 -3
+9
+assign 1 -9
+torture 1 1 7
+assign 2 9
+torture 1 2 -9
+torture 3 5 -6
+torture 3 6 0
+assign 3 -1
+torture 5 6 9
+torture 6 6 0

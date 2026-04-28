@@ -1,0 +1,4 @@
+ambiguous
+COW
+ambiguous
+not a word

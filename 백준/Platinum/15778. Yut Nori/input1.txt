@@ -1,0 +1,5 @@
+4
+A BBFB
+B BBFB
+A BFFB
+c FFFB

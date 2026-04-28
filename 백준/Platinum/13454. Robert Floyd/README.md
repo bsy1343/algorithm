@@ -1,0 +1,31 @@
+# [Platinum IV] Robert Floyd - 13454
+
+[문제 링크](https://www.acmicpc.net/problem/13454)
+
+### 성능 요약
+
+시간 제한: 1.2 초, 메모리 제한: 256 MB
+
+### 통계
+
+제출: 18, 정답: 10, 맞힌 사람: 9, 정답 비율: 69.231%
+
+### 분류
+
+그래프 이론, 기하학, 평면 그래프, 오일러 지표 (χ=V-E+F)
+
+### 문제 설명
+
+<p>Robert W Floyd was an American computer scientist who was also awarded the Turing Award. In the ACM-ICPC community, his most known work is probably the Floyd-Warshall algorithm which can find all-pairs shortest paths and transitive closure efficiently. It has many applications and many of them is very useful, but the following is not one of them.</p>
+
+<p>Stitches is the terror of Darkshire. He emits a putrid bile along his path that is stinky, disgusting and slows you by 35% percent when walking in it. So in short, you don&rsquo;t want to stand in them. With Stitches&rsquo;s movement, he can potentially cut the map into several separated areas. Two areas are separated if there is no way one can reach the other without crossing Stitches&rsquo;s bile. Stitches always walks along a single direction (up, down, left or right) for a unit of length and then decides whether to change his direction or not. In order to bring peace to Darkshire, the heroes will kill him as soon as possible. You may assume that Stitches only emits bile for at most 2048 units of length, since the heroes will not allow him to walk more.</p>
+
+<p>Unfortunately, Stitches&rsquo; bile does not disappear after his death. As the mayor of Darkshire, you want to determine how many separated areas there are after Stitches walks through. So how can we solve this with the Floyd-Marshall algorithm and why is it not useful? Well, because of how Stitches move, we can imagine he is walking on the edges of a square grid of 4098 &times; 4098 cells. Stitches begins his walk at the center of the grid, thus he will never touch its boundary. Thus easily transform the map into a graph where neighboring blocks on the grid are connected if Stitches did not walk on its connecting edge. After running the Floyd-Marshall algorithm, we can easily determine whether two blocks are in the same area. Then, just simply counting the number of areas by using a data structure for storing disjoint sets. However, since Darkshire is not a small town and there can be more than 16 millions of blocks on the grid, this method will simply not be fast enough. Unless you have the help of bronze dragon Chromie, the Keeper of Time. Please find a better way to solve this problem. Again, cheating with the bronze dragon is not allowed.</p>
+
+### 입력
+
+<p>On the first line there is a single integer T (T &le; 30) indicating the number of test cases. For every test case, the sequence of Stitches&rsquo; movement will be given on a line with &lsquo;U&rsquo; as up, &lsquo;D&rsquo; as down, &lsquo;L&rsquo; as left and &lsquo;R&rsquo; as right. The length of the sequence will not exceed 2048.</p>
+
+### 출력
+
+<p>Output the number of separated areas on one line.</p>

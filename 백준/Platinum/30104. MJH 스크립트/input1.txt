@@ -1,0 +1,6 @@
+3
+PRINT 0
+x = 1
+PRINT x
+x = 2x + 1
+GOTO 3

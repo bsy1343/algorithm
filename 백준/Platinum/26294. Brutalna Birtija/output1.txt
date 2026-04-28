@@ -1,0 +1,7 @@
+birtija 1: 25.00 %
+birtija 2: 25.00 %
+birtija 3: 25.00 %
+birtija 4: 25.00 %
+birtija 1: 100.00 %
+birtija 2: 0.00 %
+birtija 3: 0.00 %

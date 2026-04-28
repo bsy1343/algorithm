@@ -1,0 +1,31 @@
+# [Platinum V] Knight Moves – Black Edition - 26357
+
+[문제 링크](https://www.acmicpc.net/problem/26357)
+
+### 성능 요약
+
+시간 제한: 1 초, 메모리 제한: 1024 MB
+
+### 통계
+
+제출: 18, 정답: 13, 맞힌 사람: 11, 정답 비율: 73.333%
+
+### 분류
+
+수학, 그래프 이론, 애드 혹, 많은 조건 분기, 최단 경로
+
+### 문제 설명
+
+<p>You have a chessboard of size N x N. The rows and columns are numbered from 1 to N. In a cell located at row R1 and Column C1, a knight is starting his journey. The knight wants to go to the cell located at row R2 and Column C2. Move the knight from the starting cell to this destination cell with minimum number of moves.</p>
+
+<p>As a reminder, a knight&#39;s jump moves him 2 cells along one of the axes, and 1 cell along the other one. In other words, if a knight is at (A,B), it may move to (A-2,B -1), (A-2, B+1), (A+2, B-1), (A+2, B+1), (A-1, B-2), (A+1,B-2), (A-1, B+2) or (A+1, B+2). Of course, the knight cannot leave the board.</p>
+
+<p>Given N, R1, C1, R2 and C2, determine the minimum number of steps necessary to move the knight from (R1, C1) to (R2, C2).</p>
+
+### 입력
+
+<p>The first input line contains a positive integer, T, indicating the number of test cases. Each case consists of a line containing five integers N (3 &le; N &le; 10<sup>15</sup>), R1, C1, R2 and C2 (1 &le; R1, C1, R2, C2 &le; N).</p>
+
+### 출력
+
+<p>For each test case, first output &ldquo;Case #i:&rdquo; where i is the test case number, starting with 1. Then, output the minimum number of steps needed to move the knight from (R1, C1) to (R2, C2). Assume that there will always be a solution, i.e., it&rsquo;s possible to move the knight from its starting cell to its destination cell. Leave a blank line after the output for each test case. Follow the format illustrated in Sample Output.</p>

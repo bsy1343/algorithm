@@ -1,0 +1,16 @@
+7
+alloc
+call
+alloc
+alloc
+link 1 2
+return
+return
+6
+alloc
+call
+alloc
+link 2 1
+return
+return
+0

@@ -1,0 +1,6 @@
+Case 1:
+Worker 1: 2 3 9
+Worker 2: 4 4 12
+Worker 3: 1 1 14
+Worker 4: 3 2 10
+Total idle time: 2

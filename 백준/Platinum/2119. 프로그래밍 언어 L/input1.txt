@@ -1,0 +1,9 @@
+8
+	pass
+		ifgo 4
+		jump 5
+		ifgo 3
+	loop 2 2
+	pass
+loop 1 2
+die

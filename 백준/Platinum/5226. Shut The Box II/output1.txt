@@ -1,0 +1,4 @@
+The best move is: 1 2, and probability of shutting = 0.1667
+The best move is: 3, and probability of shutting = 0.2222
+The best move is: 1 2 3, and probability of shutting = 1
+No move found.

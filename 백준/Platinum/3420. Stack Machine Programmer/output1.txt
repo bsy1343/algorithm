@@ -1,0 +1,13 @@
+DUP
+MUL
+NUM 2
+ADD
+END
+
+END
+
+NUM 3
+MOD
+DUP
+MUL
+END

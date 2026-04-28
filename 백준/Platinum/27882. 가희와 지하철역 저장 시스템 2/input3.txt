@@ -1,0 +1,19 @@
+5 4 2 5
+eeeah
+subway
+kono
+akamada
+na
+4137 R
+2531 C
+6610 R
+2710 B
+3
+2531 2710 10
+2710 6610 10
+2710 4137 10
+6610 kono
+6610 kono
+4137 akamada
+6610 subway
+4137 akamada

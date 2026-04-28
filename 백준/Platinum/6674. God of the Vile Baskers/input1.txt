@@ -1,0 +1,5 @@
+4
+a'B'C'd'x'a'b'c'd
+4
+abcdabcd
+0

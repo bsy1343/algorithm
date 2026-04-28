@@ -1,0 +1,9 @@
+import java.io.*;
+import java.util.*;
+
+public class Main {
+
+    public static void main(String[] args) throws IOException {
+        // TODO: Tromino (트로미노) 타일 채우기
+    }
+}

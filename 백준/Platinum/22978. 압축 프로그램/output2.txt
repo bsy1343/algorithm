@@ -1,0 +1,11 @@
+10
+Write 0 1
+Write 1 0
+Print *1
+Print *0
+Print **1
+Print **0
+Add 1
+Write 0 0
+Print *0
+Print *1

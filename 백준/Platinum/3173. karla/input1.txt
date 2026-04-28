@@ -1,0 +1,7 @@
+5 8
+2 2
+.#ssssss
+.##ss.ss
+.vsv#s.s
+.vss###s
+.vsvs.s.

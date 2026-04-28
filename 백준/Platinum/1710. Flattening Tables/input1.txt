@@ -1,0 +1,4 @@
+<body>
+<table><tr><td>A</td><td><table><tr><td>B</td><td>C</td></tr></table></td></tr></table>
+<table><tr><td>The</td><td>rain</td><td><table><tr><td>1</td><td>2</td></tr><tr><td>3</td><td>4</td></tr></table></td></tr><tr><td><table><tr><td>in</td></tr><tr><td>in</td></tr></table></td><td>Spain</td><td>stays</td></tr></table>
+</body>

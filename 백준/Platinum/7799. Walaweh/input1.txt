@@ -1,0 +1,10 @@
+Walaweh 1 1
+Walaweh 3 6
+Walaweh 4 13
+Sequence 1100
+Walaweh 5 14
+Sequence 1110
+Sequence 01010
+Walaweh 6 1
+Walaweh 6 20
+Walaweh 6 32

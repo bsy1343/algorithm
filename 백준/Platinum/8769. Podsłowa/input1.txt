@@ -1,0 +1,11 @@
+5
+2
+aa
+2
+uv
+3
+aaa
+4
+fall
+4
+spot

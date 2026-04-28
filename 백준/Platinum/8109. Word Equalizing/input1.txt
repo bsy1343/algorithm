@@ -1,0 +1,7 @@
+4
+4 abba
+2 ab
+7 baaabad
+2 aa
+7 badccaa
+2 cc

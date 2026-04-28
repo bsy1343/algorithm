@@ -1,0 +1,25 @@
+1 
+MESSAGE                 
+        MESSAGE         
+                 MESSAGE
+                        
+
+2
+This      is a   message
+                        
+
+3
+TOO BIG
+
+4
+TOO BIG
+
+5
+  This message has a [ and a ]  
+                                
+
+6
+BAD TAG
+
+7
+TAG CONFLICT

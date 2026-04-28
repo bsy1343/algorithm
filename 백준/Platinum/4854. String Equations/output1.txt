@@ -1,0 +1,9 @@
+no
+yes
+i L 1
+am L 1
+lord L 1
+voldemort L 1
+tom R 1
+marvolo R 1
+riddle R 1

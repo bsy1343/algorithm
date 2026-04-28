@@ -1,0 +1,17 @@
+R 3
+S 2
+X
+R 2
+S 2
+X
+X
+S 2
+X
+X
+S 3
+X
+X
+X
+R 2
+X
+X

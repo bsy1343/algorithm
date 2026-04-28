@@ -1,0 +1,7 @@
+6
+URL www.acmicpc.net 9.9.9.9
+IP 9.9.9.9 IamCoder
+REDIRECT 9.9.9.9 10.10.10.10
+HTTP acmicpc.net
+HTTP 9.9.9.9
+HTTP 10.10.10.10

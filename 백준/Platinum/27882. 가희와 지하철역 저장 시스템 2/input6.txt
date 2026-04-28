@@ -1,0 +1,15 @@
+3 3 2 5
+Pareo
+Wa
+Emerald
+1 R
+2 C
+3 B
+2
+1 2 1
+2 3 10
+1 Pareo
+1 Wa
+1 Pareo
+1 Emerald
+1 Pareo

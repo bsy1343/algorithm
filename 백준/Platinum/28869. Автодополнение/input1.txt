@@ -1,0 +1,7 @@
+4
+abacaba
+ababb
+abcabac
+babacb
+abacb
+6

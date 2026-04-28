@@ -1,0 +1,10 @@
+Yes
+1 4 W
+2 3 W
+2 1 B
+No
+Yes
+Yes
+2 1 B
+No
+No

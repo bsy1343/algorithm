@@ -1,0 +1,17 @@
+5 3 1 5
+then
+wrong
+time
+no
+see
+33 R
+49 C
+24 B
+2
+33 49 10
+49 24 20
+33 then
+33 wrong
+33 then
+33 then
+33 then

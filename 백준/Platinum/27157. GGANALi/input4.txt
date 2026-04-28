@@ -1,0 +1,32 @@
+8 8
+30
+New A
+New B
+Add Window B
+Add Window A
+Remove A B
+Remove Window B
+Unparent B
+Add Window B
+SetProperty A SIZE 3 3
+SetProperty B SIZE 3 3
+SetProperty B COLOR 3
+SetProperty A POSITION 3 1
+SetProperty B POSITION 4 5
+SetProperty B ANCHOR_POINT 1 1
+GetProperty A SCREEN_POSITION
+GetProperty B SCREEN_POSITION
+Touch 3 2
+Touch 4 2
+Touch 3 1
+SetProperty B SENSITIVE 0
+Touch 3 2
+SetProperty B SENSITIVE 1
+Touch 3 2
+SetProperty B SENSITIVE 0
+New BA
+Unparent BA
+Add B BA
+SetProperty BA POSITION -1 -1
+SetProperty B CLIP_CHILD 1
+GetProperty BA SCREEN_POSITION

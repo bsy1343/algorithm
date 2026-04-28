@@ -1,0 +1,41 @@
+# [Platinum II] Cutting Brownies - 11090
+
+[문제 링크](https://www.acmicpc.net/problem/11090)
+
+### 성능 요약
+
+시간 제한: 2 초, 메모리 제한: 256 MB
+
+### 통계
+
+제출: 50, 정답: 32, 맞힌 사람: 29, 정답 비율: 70.732%
+
+### 분류
+
+그리디 알고리즘, 게임 이론, 불변량 찾기
+
+### 문제 설명
+
+<p><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11090/1.png" style="float:right; height:203px; width:257px" />John Horton Conway (1937-) is a British mathematician with many contributions to mathematics. He is famous for the invention of the cellular automaton, more popularly known as the &ldquo;Game of Life.&rdquo; This problem is inspired by a game Conway invented in the 1970s.</p>
+
+<p>This game is played using a rectangular sheet of brownies fresh out of the oven. The players are Harry Horizontal and Vicky Vertical. Initially, there is a single piece consisting of B &times; D connected squares (the individual brownies).</p>
+
+<p>At each turn, a player chooses one of the remaining pieces and if possible, cuts it into two smaller pieces such that both pieces have integer breadth and depth. Harry may make only horizontal cuts, Vicky only vertical cuts. Pieces may not be rotated before or after a cut. If a player cannot cut any of the remaining pieces, that player loses.</p>
+
+<p>Let&rsquo;s consider some examples. The simplest game is <img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11090/1x1.png" style="height:20px; width:20px" />. In this case, neither Harry nor Vicky can make a move, so whoever starts loses. On the other hand, <img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11090/2x1.png" style="height:29px; width:19px" /> is a win for Harry, no matter who starts. Similarly, <img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11090/1x2.png" style="height:16px; width:26px" /> is a win for Vicky, no matter who starts.</p>
+
+<p>Consider <img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11090/2x2.png" style="height:17px; width:17px" />, which is a loss for whoever starts. For instance, if Vicky starts, her only move leaves &nbsp;Harry with <img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11090/2x1.png" style="height:29px; line-height:20.8px; width:19px" />, <img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11090/2x1.png" style="height:29px; line-height:20.8px; width:19px" /> and once he cuts any of the pieces, Vicky is left with <img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11090/1x1.png" style="height:20px; line-height:20.8px; width:20px" />, <img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11090/1x1.png" style="height:20px; line-height:20.8px; width:20px" />, <img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11090/2x1.png" style="height:29px; line-height:20.8px; width:19px" /> (in any order) and thus again without moves. For reasons of symmetry, Harry loses if he is made to start.</p>
+
+<p>Intuition might tell us that Vicky should tend to win if the initial sheet is broader than it is deep (since such sheets yield more opportunities for vertical cuts), but consider <img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11090/2x3.png" style="height:25px; width:36px" />. If Harry starts, his only possible move leaves Vicky with <img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11090/1x3.png" style="height:17px; width:38px" />, <img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11090/1x3.png" style="height:17px; line-height:20.8px; width:38px" /> and a win. But if Vicky starts, any possible move leaves Harry with <img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11090/2x1.png" style="height:29px; line-height:20.8px; width:19px" />, <img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11090/2x2.png" style="height:17px; line-height:20.8px; width:17px" />. Harry responds and leaves Vicky with <img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11090/1x1.png" style="height:20px; line-height:20.8px; width:20px" />, <img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11090/1x1.png" style="height:20px; line-height:20.8px; width:20px" />, <img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11090/2x2.png" style="height:17px; line-height:20.8px; width:17px" />, which Vicky will eventually lose since there are no moves left in the 2 <img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11090/1x1.png" style="height:20px; line-height:20.8px; width:20px" /> sheets and whoever makes the first move on <img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11090/2x2.png" style="height:17px; line-height:20.8px; width:17px" /> loses.</p>
+
+<p>On the other hand, <img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11090/2x4.png" style="height:26px; width:51px" /> is a winner for Vicky, no matter who starts. If Harry starts, he runs out of moves after his first cut. If Vicky starts, her best move is to cut in the center, leaving Harry with <img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11090/2x2.png" style="height:17px; line-height:20.8px; width:17px" />, <img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11090/2x2.png" style="height:17px; line-height:20.8px; width:17px" />, which he loses because each <img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11090/2x2.png" style="height:17px; line-height:20.8px; width:17px" /> game is lost by whoever moves first.</p>
+
+<p>Given the initial size of the sheet, and given who starts the game, write a program that computes if the starting player has a strategy to force a win!</p>
+
+### 입력
+
+<p>The first line contains an integer 1 &le; N &le; 10 denoting the number of test cases that follow. Each test case consists of a single line containing two integers B and D, and a string S. Here B denotes the initial breadth of the sheet (1 &le; B &le; 500), D denotes the initial depth of the sheet (1 &le; D &le; 500) and S is either Harry or Vicky depending on whether Harry or Vicky moves first.</p>
+
+### 출력
+
+<p>For each test case, output whether the player who starts can force a win in the game. Output the player&rsquo;s name followed by can win or cannot win.</p>

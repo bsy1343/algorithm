@@ -1,0 +1,5 @@
+4
+ifgo 2
+ifgo 3
+pass
+die

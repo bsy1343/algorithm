@@ -1,0 +1,11 @@
+2
+5
+a b
+a c
+c d
+b d
+b e
+3
+alice bob
+bob carol
+alice carol

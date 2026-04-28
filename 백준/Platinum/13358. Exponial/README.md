@@ -1,0 +1,40 @@
+# [Platinum I] Exponial - 13358
+
+[문제 링크](https://www.acmicpc.net/problem/13358)
+
+### 성능 요약
+
+시간 제한: 2 초, 메모리 제한: 512 MB
+
+### 통계
+
+제출: 985, 정답: 239, 맞힌 사람: 188, 정답 비율: 22.596%
+
+### 분류
+
+수학, 정수론, 분할 정복을 이용한 거듭제곱, 소인수분해, 오일러 피 함수
+
+### 문제 설명
+
+<p>Everybody loves big numbers (if you do not, you might want to stop reading at this point). There are many ways of constructing really big numbers known to humankind, for instance:</p>
+
+<ul>
+	<li>Exponentiation: \( &nbsp;42^{2016}= \underbrace {42 \cdot 42 \cdot ... \cdot 42}_\text{2016 times}&nbsp;\)</li>
+	<li>Factorials: 2016! = 2016 &middot; 2015 &middot; . . . &middot; 2 &middot; 1.</li>
+</ul>
+
+<p>In this problem we look at their lesser-known love-child the exponial, which is an operation defined for all positive integers n as</p>
+
+<p>exponial(n) = \(&nbsp;n^{{(n-1)}^{{{(n-2)}^{{...}^{{2^1}}}}}} \)</p>
+
+<p>For example, exponial(1) = 1 and exponial(5) = \( 5^{4^{3^{2^1}}} \)&nbsp;&asymp; 6.206 &middot; 10<sup>183230</sup> which is already pretty big. Note that exponentiation is right-associative: \( a^{b^c}=a^{(b^c)} \).</p>
+
+<p>Since the exponials are really big, they can be a bit unwieldy to work with. Therefore&nbsp;we would like you to write a program which computes exponial(n) mod m (the remainder of&nbsp;exponial(n) when dividing by m).</p>
+
+### 입력
+
+<p>The input consists of two integers n (1 &le; n &le; 10<sup>9</sup>) and m (1 &le; m &le; 10<sup>9</sup>)</p>
+
+### 출력
+
+<p>Output a single integer, the value of exponial(n) mod m.</p>

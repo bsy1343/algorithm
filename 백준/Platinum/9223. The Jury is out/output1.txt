@@ -1,0 +1,2 @@
+Jury 1: balance 1, value 127
+2 3 4 6 7

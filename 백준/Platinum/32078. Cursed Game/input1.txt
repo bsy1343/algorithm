@@ -1,0 +1,27 @@
+3
+
+
+
+INCORRECT
+0
+
+
+
+CORRECT
+5
+
+
+
+
+
+INCORRECT
+111
+001
+111
+
+
+
+
+
+CORRECT
+(start of round 3, continue until 333 rounds)

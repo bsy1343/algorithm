@@ -1,0 +1,24 @@
+7 5 2 5
+honizzang
+nuotameno
+zezkkyo
+4daie
+machQine
+party
+dontstop
+1 R
+3 R
+5 R
+2 C
+4 B
+5
+1 3 2
+3 5 1
+5 2 7
+3 2 10
+2 4 5
+1 party
+1 dontstop
+1 honizzang
+1 dontstop
+1 party

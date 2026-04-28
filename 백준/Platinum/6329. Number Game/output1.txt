@@ -1,0 +1,8 @@
+Test Case #1
+The winning moves are: 2
+
+Test Case #2
+There's no winning move.
+
+Test Case #3
+The winning moves are: 4 5 6

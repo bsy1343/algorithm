@@ -1,0 +1,35 @@
+# [Platinum III] Honest Worker - 29993
+
+[문제 링크](https://www.acmicpc.net/problem/29993)
+
+### 성능 요약
+
+시간 제한: 1 초 (추가 시간 없음), 메모리 제한: 1024 MB
+
+### 통계
+
+제출: 32, 정답: 22, 맞힌 사람: 16, 정답 비율: 88.889%
+
+### 분류
+
+값 / 좌표 압축, 자료 구조, 다이나믹 프로그래밍, 그리디 알고리즘, 우선순위 큐, 세그먼트 트리, 정렬
+
+### 문제 설명
+
+<p>Rafael lives in an ideal egalitarian society: all jobs offer identical payment rates and you only have to work at a job that you find personally fulfilling. Unfortunately, even such a utopia can&rsquo;t account for the fact that Rafael is not very skilled at anything.</p>
+
+<p>To compensate for this, Rafael turns to contractor work, where potential employers lack the time to realize how unqualified for the job he is. Even then, given his lack of qualifications for these contractor positions, he must expend money on acquiring fake cover letters in order to even get hired.</p>
+
+<p>Rafael has a choice of N contractor jobs available to him. The i-th job starts at day ℓ<sub>i</sub>, ends at the end of day r<sub>i</sub> and pays exactly S gold coins a day. Rafael is a really bad worker, and cannot work two jobs at the same time; moreover, he can only start job i at day ℓ<sub>i</sub> but, once hired, he can choose to quit at the end of any day, keeping the money from the days he worked (including the last one), and being able to start another job from the next day on, but not on the same day. Additionally, Rafael knows that it would cost c<sub>i</sub> gold coins to buy a fake cover letter for job i. Aware of his inabilities and the need for fake cover letters, Rafael always has enough savings to pay for any number of cover letters he might need, even before working any of the N jobs.</p>
+
+<p>Given the description of the available jobs, what is the maximum profit that Rafael can attain, factoring in the expenses for the required fake cover letters?</p>
+
+### 입력
+
+<p>The first line contains two integers N (1 &le; N &le; 10<sup>6</sup>) and S (1 &le; S &le; 10<sup>9</sup>), representing the number of jobs available and what is their daily pay.</p>
+
+<p>Each of the following N lines contains three integers: ℓ<sub>i</sub>, r<sub>i</sub> and c<sub>i</sub> (1 &le; ℓ<sub>i</sub> &le; r<sub>i</sub> &le; 10<sup>9</sup>, 1 &le; c<sub>i</sub> &le; 10<sup>9</sup>), representing the start date, end date, and cost of obtaining a fake cover letter for job i, respectively.</p>
+
+### 출력
+
+<p>Output a single line with an integer indicating the amount of money Rafael can make after all the jobs are over.</p>

@@ -1,0 +1,4 @@
+3
+ifgo 2
+loop 1 3
+die

@@ -1,0 +1,13 @@
+Case 1 : Number of coins = 3; Repetitions = 0; Forbidden = []
+2 3 6
+2 4 4
+3 3 3
+3 solutions found
+Case 2 : Number of coins = 5; Repetitions = 1; Forbidden = [3 4]
+2 5 6 8 120
+2 5 6 9 45
+2 5 6 10 30
+2 5 6 12 20
+4 solutions found
+Case 3 : Number of coins = 4; Repetitions = 1; Forbidden = [2 3 4 5 6 7]
+No solutions found

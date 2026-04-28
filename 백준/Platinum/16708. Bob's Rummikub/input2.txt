@@ -1,0 +1,4 @@
+8
+blue6 blue7 yellow3 yellow6 red3 red6 red7 black1 
+9
+blue2 blue4 yellow2 yellow4 red2 red4 black2 black3 black4 

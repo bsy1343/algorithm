@@ -1,0 +1,10 @@
+9
+HTTP student.gs.hs.kr
+HTTP 12424.12.12.12
+HTTP 123.12.12.12
+IP 12.12.12.12 WOW
+HTTP 12.12.12.12
+URL www.student.gs.hs.kr 12.12.12.12
+URL student.gs.hs.kr 123.12.12.12
+HTTP 123.12.12.12
+HTTP student.gs.hs.kr

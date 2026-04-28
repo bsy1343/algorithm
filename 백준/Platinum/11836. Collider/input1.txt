@@ -1,0 +1,8 @@
+15 6
+xzxyyzxxzxyyzyx
+a 2 10
+a 15 4
+q 3
+a 12 2
+q 14
+q 2

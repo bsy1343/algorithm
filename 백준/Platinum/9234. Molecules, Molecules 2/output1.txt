@@ -1,0 +1,4 @@
+Molecule 1 is valid.
+Molecule 2 is invalid.
+Molecule 3 is invalid.
+Molecule 4 is valid.

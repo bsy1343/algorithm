@@ -1,0 +1,30 @@
+2
+3
+[1] Sindorim
+[1] Guro
+[1] Guil
+2
+3
+[1] Guil
+[1] Guro
+[1] Sindorim
+2
+3
+[1] Sindorim
+[1] Guro
+[1] Gasan Digital Complex
+2
+3
+[1] Gasan Digital Complex
+[1] Guro
+[1] Sindorim
+2
+3
+[1] Gasan Digital Complex
+[1] Guro
+[1] Guil
+2
+3
+[1] Guil
+[1] Guro
+[1] Gasan Digital Complex

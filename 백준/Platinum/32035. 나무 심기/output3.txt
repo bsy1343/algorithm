@@ -1,0 +1,5 @@
+YES
+3 3
+.OO
+OOO
+OO.

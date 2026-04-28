@@ -1,0 +1,11 @@
+
+
+examine 11 2
+
+examine 2 5
+
+examine 9 14
+
+examine 18 3
+
+solution 12 9

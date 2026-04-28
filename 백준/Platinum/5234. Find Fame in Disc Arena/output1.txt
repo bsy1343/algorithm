@@ -1,0 +1,3 @@
+Case 1: Maximum attainable fame = 2
+Case 2: Maximum attainable fame = 3
+Case 3: Maximum attainable fame = 0

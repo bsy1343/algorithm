@@ -6,7 +6,6 @@ task-*.png
 boj-*-reference.png
 testcase-ac-*.png
 tests/
-scripts/
 Tip/
 
 # IDE / editor settings

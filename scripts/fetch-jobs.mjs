@@ -194,7 +194,8 @@ async function fetchPlaywright(params) {
     }, { selector, filterByText });
 
     return items.map(({ text, href }) => {
-      const dl = text.match(/D-\d+|상시|채용시까지|채용종료시|마감|\d{4}\.\d{2}\.\d{2}/);
+      // D-N takes precedence; fall back to absolute date in either format.
+      const dl = text.match(/D-\d+|상시|채용시까지|채용종료시|마감|\d{4}\.\d{2}\.\d{2}|\d{4}년\s?\d{1,2}월\s?\d{1,2}일/);
       return {
         title: text.split('\n')[0].split(/\s{2,}|・|\|/)[0].trim().slice(0, 200),
         department: '',

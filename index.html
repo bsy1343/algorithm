@@ -3,6 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="robots" content="noindex, nofollow, noarchive">
 <title>BOJ 학습 뷰어</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -1468,7 +1469,8 @@
     COMPANY_COLORS: {
       daangn: '#ff6f0f', autoever: '#1f51a3', toss: '#3182f6',
       kakao: '#fee500', naver: '#03c75a', lgcns: '#a50034',
-      hyundai: '#002c5f', cj: '#cc0033',
+      lguplus: '#e6005c', hyundai: '#002c5f', cj: '#cc0033',
+      skt: '#ea002c', skax: '#ff7a00', skhynix: '#ff0000',
     },
 
     async load() {
@@ -1486,7 +1488,11 @@
 
     parseDeadline(s) {
       if (!s) return null;
-      const m = s.match(/(\d{4})[.-](\d{2})[.-](\d{2})/);
+      // 2026.05.30 / 2026-05-30
+      let m = s.match(/(\d{4})[.-](\d{1,2})[.-](\d{1,2})/);
+      if (m) return new Date(+m[1], +m[2] - 1, +m[3]);
+      // 2026년 5월 30일
+      m = s.match(/(\d{4})년\s?(\d{1,2})월\s?(\d{1,2})일/);
       if (m) return new Date(+m[1], +m[2] - 1, +m[3]);
       const dd = s.match(/^D-(\d+)$/);
       if (dd) {

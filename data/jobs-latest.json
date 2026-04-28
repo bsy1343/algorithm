@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-04-28T14:34:34.339Z",
-  "totalCount": 62,
+  "fetchedAt": "2026-04-28T14:56:27.778Z",
+  "totalCount": 81,
   "companies": [
     "당근",
     "현대오토에버",
@@ -10,7 +10,10 @@
     "LG CNS",
     "LG U+",
     "현대자동차",
-    "CJ (올리브영/올네/대한통운)"
+    "CJ (올리브영/올네/대한통운)",
+    "SKT",
+    "SK AX",
+    "SK하이닉스"
   ],
   "errors": [],
   "jobs": [
@@ -31,6 +34,15 @@
       "location": "",
       "deadline": "2026-04-30",
       "url": "https://career.hyundai-autoever.com/ko/apply/213503"
+    },
+    {
+      "company": "현대오토에버",
+      "companyId": "autoever",
+      "title": "[EnIT] Frontend Developer - 생성형 AI Service 개발 ",
+      "department": "Enterprise IT",
+      "location": "",
+      "deadline": "2026-04-30",
+      "url": "https://career.hyundai-autoever.com/ko/apply/211013"
     },
     {
       "company": "현대오토에버",
@@ -59,6 +71,15 @@
       "deadline": "2026.04.17",
       "url": "https://recruit.navercorp.com/rcrt/list.do?annoId=&sw=&subJobCdData=1010001%2C1010002%2C1010003%2C1010005%2C1010008%2C1010020&sysCompanyCdData=&jobCdData=1010#n",
       "_raw": "[네이버랩스] AI Data Platform Developer (인턴십) 모집 부서 Tech 모집 분야 AI/ML 모집 경력 신입 근로 조건 인턴 모집 기간 2026.04.17 ~ 2026.04.30"
+    },
+    {
+      "company": "CJ (올리브영/올네/대한통운)",
+      "companyId": "cj",
+      "title": "[CJ 4DPLEX] Frontend 개발자 인재 모집",
+      "department": "Frontend Engineer",
+      "location": "서울",
+      "deadline": "D-12",
+      "url": ""
     },
     {
       "company": "CJ (올리브영/올네/대한통운)",
@@ -243,6 +264,51 @@
     {
       "company": "당근",
       "companyId": "daangn",
+      "title": "Software Engineer, Frontend | 알림",
+      "department": "",
+      "location": "SEOUL",
+      "deadline": "",
+      "url": "https://about.daangn.com?gh_jid=7668837003"
+    },
+    {
+      "company": "당근",
+      "companyId": "daangn",
+      "title": "Software Engineer, Frontend | 커머스",
+      "department": "",
+      "location": "SEOUL",
+      "deadline": "",
+      "url": "https://about.daangn.com?gh_jid=6692173003"
+    },
+    {
+      "company": "당근",
+      "companyId": "daangn",
+      "title": "Software Engineer, Frontend | 커뮤니티 (모임)",
+      "department": "",
+      "location": "SEOUL",
+      "deadline": "",
+      "url": "https://about.daangn.com?gh_jid=7689088003"
+    },
+    {
+      "company": "당근",
+      "companyId": "daangn",
+      "title": "Software Engineer, Frontend (인턴) | 부동산",
+      "department": "",
+      "location": "SEOUL",
+      "deadline": "",
+      "url": "https://about.daangn.com?gh_jid=6093940003"
+    },
+    {
+      "company": "당근",
+      "companyId": "daangn",
+      "title": "Software Engineer, Frontend (인턴) | 로컬 비즈니스 (S&D)",
+      "department": "",
+      "location": "SEOUL",
+      "deadline": "",
+      "url": "https://about.daangn.com?gh_jid=7702533003"
+    },
+    {
+      "company": "당근",
+      "companyId": "daangn",
       "title": "Software Engineer, Machine Learning",
       "department": "",
       "location": "SEOUL",
@@ -295,6 +361,56 @@
       "deadline": "",
       "url": "https://toss.im/career/job-detail?job_id=6677722003",
       "_raw": "Cloud Engineer 인프라 ・ 오픈스택 ・ 클라우드 토스"
+    },
+    {
+      "company": "토스",
+      "companyId": "toss",
+      "title": "Frontend Developer 개발",
+      "department": "",
+      "location": "",
+      "deadline": "",
+      "url": "https://toss.im/career/job-detail?job_id=4664498003",
+      "_raw": "Frontend Developer 개발 ・ Frontend ・ TypeScript ・ JavaScript 토스 외 6개 계열사"
+    },
+    {
+      "company": "토스",
+      "companyId": "toss",
+      "title": "Frontend Developer [산업기능요원/전문연구요원] 병역특례",
+      "department": "",
+      "location": "",
+      "deadline": "",
+      "url": "https://toss.im/career/job-detail?job_id=4770557003",
+      "_raw": "Frontend Developer [산업기능요원/전문연구요원] 병역특례 ・ 개발 ・ React ・ TypeScript 토스"
+    },
+    {
+      "company": "토스",
+      "companyId": "toss",
+      "title": "Frontend Ops Developer 개발",
+      "department": "",
+      "location": "",
+      "deadline": "",
+      "url": "https://toss.im/career/job-detail?job_id=7586141003",
+      "_raw": "Frontend Ops Developer 개발 ・ Frontend ・ TypeScript ・ JavaScript 뱅크"
+    },
+    {
+      "company": "토스",
+      "companyId": "toss",
+      "title": "Frontend Platform Engineer 개발",
+      "department": "",
+      "location": "",
+      "deadline": "",
+      "url": "https://toss.im/career/job-detail?job_id=7545902003",
+      "_raw": "Frontend Platform Engineer 개발 ・ Frontend ・ TypeScript ・ JavaScript 토스 증권 플레이스"
+    },
+    {
+      "company": "토스",
+      "companyId": "toss",
+      "title": "Frontend UX Engineer 개발",
+      "department": "",
+      "location": "",
+      "deadline": "",
+      "url": "https://toss.im/career/job-detail?job_id=6490955003",
+      "_raw": "Frontend UX Engineer 개발 ・ Frontend ・ TypeScript ・ JavaScript ・ TDS 증권"
     },
     {
       "company": "토스",
@@ -385,6 +501,16 @@
       "deadline": "",
       "url": "https://toss.im/career/job-detail?job_id=5398782003",
       "_raw": "Network Security Engineer 인프라 ・ 네트워크 ・ 방화벽 ・ 보안 증권"
+    },
+    {
+      "company": "토스",
+      "companyId": "toss",
+      "title": "Node.js Developer 개발",
+      "department": "",
+      "location": "",
+      "deadline": "",
+      "url": "https://toss.im/career/job-detail?job_id=7686375003",
+      "_raw": "Node.js Developer 개발 ・ Typescript ・ Nest.js ・ Node.js 토스 플레이스 증권"
     },
     {
       "company": "토스",
@@ -535,6 +661,66 @@
       "deadline": "",
       "url": "https://careers.lg.com/apply/detail?id=1001327",
       "_raw": "[CTO] GPU Software Engineer 채용 (경력/석·박사)"
+    },
+    {
+      "company": "SK AX",
+      "companyId": "skax",
+      "title": "보안 아키텍트 영입 March 10, 2026(Tue) ~ April 28, 2026(Tue) D-DAY SK inc.(AX) 정보보안/정보보안 컨설팅",
+      "department": "",
+      "location": "",
+      "deadline": "",
+      "url": "https://www.skcareers.com/Recruit/Detail/R260542",
+      "_raw": "보안 아키텍트 영입 March 10, 2026(Tue) ~ April 28, 2026(Tue) D-DAY SK inc.(AX) 정보보안/정보보안 컨설팅"
+    },
+    {
+      "company": "SK AX",
+      "companyId": "skax",
+      "title": "제조 생산/물류 시뮬레이션, Planning & Scheduling, Dispatching 전문가 영입 (계약직) March 17, 2026(Tue) ~ April 28, 2026(Tue) D-DAY SK inc.(AX) Tech R&D/Software Engineering",
+      "department": "",
+      "location": "",
+      "deadline": "",
+      "url": "https://www.skcareers.com/Recruit/Detail/R260588",
+      "_raw": "제조 생산/물류 시뮬레이션, Planning & Scheduling, Dispatching 전문가 영입 (계약직) March 17, 2026(Tue) ~ April 28, 2026(Tue) D-DAY SK inc.(AX) Tech R&D/Software Engineering"
+    },
+    {
+      "company": "SK AX",
+      "companyId": "skax",
+      "title": "제조 솔루션(미들웨어) 분야 전문가 영입 March 17, 2026(Tue) ~ April 28, 2026(Tue) D-DAY SK inc.(AX) IT/Platform/Solution",
+      "department": "",
+      "location": "",
+      "deadline": "",
+      "url": "https://www.skcareers.com/Recruit/Detail/R260591",
+      "_raw": "제조 솔루션(미들웨어) 분야 전문가 영입 March 17, 2026(Tue) ~ April 28, 2026(Tue) D-DAY SK inc.(AX) IT/Platform/Solution"
+    },
+    {
+      "company": "SK AX",
+      "companyId": "skax",
+      "title": "제조 솔루션(MES) 분야 전문가 영입 March 17, 2026(Tue) ~ April 28, 2026(Tue) D-DAY SK inc.(AX) IT/Platform/Solution",
+      "department": "",
+      "location": "",
+      "deadline": "",
+      "url": "https://www.skcareers.com/Recruit/Detail/R260592",
+      "_raw": "제조 솔루션(MES) 분야 전문가 영입 March 17, 2026(Tue) ~ April 28, 2026(Tue) D-DAY SK inc.(AX) IT/Platform/Solution"
+    },
+    {
+      "company": "SK AX",
+      "companyId": "skax",
+      "title": "반도체 차세대 Platform 구축 프로젝트 전문가 영입 (계약직) March 17, 2026(Tue) ~ April 28, 2026(Tue) D-DAY SK inc.(AX) IT/구축/운영/최적화",
+      "department": "",
+      "location": "",
+      "deadline": "",
+      "url": "https://www.skcareers.com/Recruit/Detail/R260594",
+      "_raw": "반도체 차세대 Platform 구축 프로젝트 전문가 영입 (계약직) March 17, 2026(Tue) ~ April 28, 2026(Tue) D-DAY SK inc.(AX) IT/구축/운영/최적화"
+    },
+    {
+      "company": "SK AX",
+      "companyId": "skax",
+      "title": "반도체 차세대 Platform 구축 프로젝트 개발자 영입 (계약직) March 17, 2026(Tue) ~ April 28, 2026(Tue) D-DAY SK inc.(AX) IT/구축/운영/최적화",
+      "department": "",
+      "location": "",
+      "deadline": "",
+      "url": "https://www.skcareers.com/Recruit/Detail/R260595",
+      "_raw": "반도체 차세대 Platform 구축 프로젝트 개발자 영입 (계약직) March 17, 2026(Tue) ~ April 28, 2026(Tue) D-DAY SK inc.(AX) IT/구축/운영/최적화"
     },
     {
       "company": "카카오",

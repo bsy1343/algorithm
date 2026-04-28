@@ -1504,10 +1504,10 @@
       const map = {};
       const jobs = this.state.snapshot?.jobs || [];
       for (const j of jobs) {
-        const d = this.parseDeadline(j.deadline);
-        if (!d) continue;
-        const key = d.toISOString().slice(0, 10);
-        (map[key] = map[key] || []).push(j);
+        // Deadline is already ISO yyyy-mm-dd from fetcher — use directly
+        // (toISOString would shift KST midnight back a day in UTC).
+        if (!j.deadline || !/^\d{4}-\d{2}-\d{2}$/.test(j.deadline)) continue;
+        (map[j.deadline] = map[j.deadline] || []).push(j);
       }
       return map;
     },
@@ -1565,6 +1565,7 @@
       const today = new Date(); today.setHours(0,0,0,0);
       const grouped = this.groupByDate();
 
+      const pad = n => String(n).padStart(2, '0');
       let cells = '';
       // Trailing days from prev month
       for (let i = 0; i < startWday; i++) {
@@ -1573,7 +1574,8 @@
       }
       for (let day = 1; day <= last.getDate(); day++) {
         const d = new Date(year, month, day);
-        const key = d.toISOString().slice(0, 10);
+        // Local-date key (avoids UTC shift that would push KST midnight back a day).
+        const key = `${year}-${pad(month + 1)}-${pad(day)}`;
         const jobs = grouped[key] || [];
         const isToday = d.getTime() === today.getTime();
         const sel = this.state.selectedDate === key;
@@ -1618,6 +1620,9 @@
       if (days !== null) dlText = `D-${Math.max(0, days)}`;
       else if (j.deadline) dlText = j.deadline;
       else dlText = '상시';
+      const dateLine = j.deadline
+        ? `${j.deadline}${j.deadlineTime ? ' ' + j.deadlineTime : ''}`
+        : '상시 채용';
       return `<div class="job-item">
         <div class="job-item-top">
           <span class="job-company-dot" style="background:${this.COMPANY_COLORS[j.companyId]||'#888'}"></span>
@@ -1625,7 +1630,7 @@
           <span class="job-deadline ${urgent?'urgent':''}">${esc(dlText)}</span>
         </div>
         <div class="job-title">${j.url ? `<a href="${esc(j.url)}" target="_blank" rel="noopener">${esc(j.title)}</a>` : esc(j.title)}</div>
-        ${j.department || j.location ? `<div class="job-meta">${esc(j.department || '')}${j.location ? ' · ' + esc(j.location) : ''}</div>` : ''}
+        <div class="job-meta">${esc(dateLine)}${j.department ? ' · ' + esc(j.department) : ''}${j.location ? ' · ' + esc(j.location) : ''}</div>
       </div>`;
     },
 

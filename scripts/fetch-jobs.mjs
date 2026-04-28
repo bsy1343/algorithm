@@ -156,31 +156,32 @@ async function fetchPlaywright(params) {
         .replace(/\n{2,}/g, '\n');
       const jobs = [];
       const seen = new Set();
-      // Normalize any deadline form to ISO date (or '상시' if open-ended).
+      // Normalize raw text to { date: 'YYYY-MM-DD', time: 'HH:MM' or '' }.
       const normalize = (raw) => {
-        if (!raw) return '';
+        if (!raw) return { date: '', time: '' };
         const abs = raw.match(/(\d{4})[.-](\d{1,2})[.-](\d{1,2})/);
-        if (abs) return `${abs[1]}-${String(abs[2]).padStart(2,'0')}-${String(abs[3]).padStart(2,'0')}`;
+        const time = raw.match(/(\d{1,2}):(\d{2})/);
+        const t = time ? `${String(time[1]).padStart(2,'0')}:${time[2]}` : '';
+        if (abs) return { date: `${abs[1]}-${String(abs[2]).padStart(2,'0')}-${String(abs[3]).padStart(2,'0')}`, time: t };
         const dd = raw.match(/D-(\d+)/);
         if (dd) {
           const d = new Date();
           d.setHours(0,0,0,0);
           d.setDate(d.getDate() + +dd[1]);
-          return d.toISOString().slice(0, 10);
+          return { date: `${d.getFullYear()}-${String(d.getMonth()+1).padStart(2,'0')}-${String(d.getDate()).padStart(2,'0')}`, time: t };
         }
-        if (/상시|채용시까지|채용종료시/.test(raw)) return '';
-        return raw.trim();
+        return { date: '', time: '' };  // 상시/채용시까지 → 빈 값
       };
       const push = (title, dCode, dept, loc, dAbs) => {
         const t = title.replace(/^공유\s*/, '').trim();
         if (!t || t.length < 5 || /^채용|^전체|^본문|^로그인|^더보기|^선택|^등록일|^신규/.test(t)) return;
         // Prefer absolute date (more accurate); fall back to D-N translation.
-        const deadline = normalize(dAbs || dCode);
+        const { date: deadline, time: deadlineTime } = normalize(dAbs || dCode);
         // Dedup key strips bracket prefixes like "[LG CNS]" so patternA/C don't double-emit.
         const dedup = t.replace(/^\[[^\]]+\]\s*/, '').trim() + '|' + deadline;
         if (seen.has(dedup)) return;
         seen.add(dedup);
-        jobs.push({ title: t, department: (dept||'').trim(), location: (loc||'').trim(), deadline, url: '' });
+        jobs.push({ title: t, department: (dept||'').trim(), location: (loc||'').trim(), deadline, deadlineTime, url: '' });
       };
       // Pattern A (현대차 style — 6 lines): title \n D-N \n tag \n tag \n tag \n tag
       const reA = /([^\n]{5,150})\n(D-\d+|채용시까지|상시|마감)\n([^\n]+)\n([^\n]+)\n([^\n]+)\n([^\n]+)/g;
@@ -219,6 +220,8 @@ async function fetchPlaywright(params) {
       // Prefer absolute date (most accurate). D-N is fetch-time relative — convert now.
       const abs = text.match(/(\d{4})[.-](\d{1,2})[.-](\d{1,2})|(\d{4})년\s?(\d{1,2})월\s?(\d{1,2})일/);
       const dd = text.match(/D-(\d+)/);
+      const time = text.match(/(\d{1,2}):(\d{2})/);
+      const deadlineTime = time ? `${String(time[1]).padStart(2,'0')}:${time[2]}` : '';
       let deadline = '';
       if (abs) {
         const y = abs[1] || abs[4], mm = abs[2] || abs[5], d = abs[3] || abs[6];
@@ -226,15 +229,14 @@ async function fetchPlaywright(params) {
       } else if (dd) {
         const t = new Date(); t.setHours(0,0,0,0);
         t.setDate(t.getDate() + +dd[1]);
-        deadline = t.toISOString().slice(0, 10);
-      } else if (/상시|채용시까지|채용종료시|마감/.test(text)) {
-        deadline = '';
+        deadline = `${t.getFullYear()}-${String(t.getMonth()+1).padStart(2,'0')}-${String(t.getDate()).padStart(2,'0')}`;
       }
       return {
         title: text.split('\n')[0].split(/\s{2,}|・|\|/)[0].trim().slice(0, 200),
         department: '',
         location: '',
         deadline,
+        deadlineTime,
         url: href,
         _raw: text.slice(0, 200),
       };

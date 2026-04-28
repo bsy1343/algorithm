@@ -1,0 +1,5 @@
+5 3
+Bob Carol Eve Dave Alice
+Alice Carol
+Alice Bob
+Dave Eve

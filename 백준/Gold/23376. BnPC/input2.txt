@@ -1,0 +1,9 @@
+3 7
+JUMP 5
+RUN 7
+FLY 0
+4
+FLY 0
+JUMP 6
+RUN 10
+RUN 8

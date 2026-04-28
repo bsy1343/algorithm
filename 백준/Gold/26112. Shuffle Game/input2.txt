@@ -1,0 +1,4 @@
+6 3 3
+C9 HK SQ SQ H2 CA
+CA HK SQ
+H2 C9 SQ

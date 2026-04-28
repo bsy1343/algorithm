@@ -1,0 +1,16 @@
+2
+5
+xxxxx
+.....
+xxxxx
+.....
+xxxxx
+8
+.x.xx.x.
+x..x..xx
+..x.xx.x
+.x.x...x
+..xx...x
+x.x..x.x
+..x..x..
+.x..x...

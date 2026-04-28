@@ -1,0 +1,9 @@
+Episode      Episode Title      Release Date
+------- ----------------------- ------------
+IV      A New Hope                  1977
+V       The Empire Strikes Back     1980
+VI      Return of the Jedi          1983
+I       The Phantom Menace          1999
+II      Attack of the Clones        2002
+III     Revenge of the Sith         2005
+VII     The Force Awakens           2015

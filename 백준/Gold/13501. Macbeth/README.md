@@ -1,0 +1,37 @@
+# [Gold IV] Macbeth - 13501
+
+[문제 링크](https://www.acmicpc.net/problem/13501)
+
+### 성능 요약
+
+시간 제한: 2 초, 메모리 제한: 512 MB
+
+### 통계
+
+제출: 58, 정답: 13, 맞힌 사람: 13, 정답 비율: 38.235%
+
+### 분류
+
+그리디 알고리즘
+
+### 문제 설명
+
+<p>Macbeth starts out as a faithful follower of the king, having just played a pivotal role in a battle. Unfortunately, he meets&nbsp;three witches who predict an impending promotion, and his subsequent becoming king. When the promotion indeed&nbsp;happens, he starts to believe in his destiny to be king; he and his wife become blinded and crazed by naked ambition, and&nbsp;murder the king and pretty much everyone they perceive to be a threat or competition.</p>
+
+<p>What gave the witches so much power over Macbeth is their ability to make a correct prediction of the future.4 Perhaps,&nbsp;Macbeth should have made their task a little harder by asking for more than one prediction. As you all know, making&nbsp;predictions using a crystal ball is hard work: crystal balls tend to be fussy about when they will let you predict particular&nbsp;events, and some take longer than others. So it becomes a difficult task for the witches to figure out how to make the&nbsp;most predictions together.</p>
+
+<p>For each event, you will be given an interval of time. If the witches want to predict the event, one of them has to be&nbsp;looking at her crystal ball for the entirety of that time interval while thinking about the event. (So even if two events&nbsp;have the same interval, that one witch can only predict one of them.) Of course, the witches will coordinate to predict as&nbsp;many events total as possible.</p>
+
+### 입력
+
+<p>The first line contains a number K &ge; 1, which is the number of input data sets in the file. This is followed by K data sets&nbsp;of the following form:</p>
+
+<p>The first line of each data set contains two integers n, w. 0 &le; n &le; 1000 is the number of events, and 1 &le; w &le; 10 is the&nbsp;number of witches.</p>
+
+<p>This is followed by n lines, each describing one event i with two integers 0 &le; s<sub>i</sub> &lt; t<sub>i</sub> &le; 10<sup>7</sup>. In order to predict event i,&nbsp;one witch has to watch her crystal ball for the entirety of the interval [s<sub>i</sub>, t<sub>i</sub>] while only thinking about event i.</p>
+
+### 출력
+
+<p>For each data set, first output &ldquo;Data Set x:&rdquo; on a line by itself, where x is its number. Then, output the maximum total&nbsp;number of events the witches can predict.</p>
+
+<p>Each data set should be followed by a blank line.</p>

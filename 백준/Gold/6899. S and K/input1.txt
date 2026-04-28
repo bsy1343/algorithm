@@ -1,0 +1,8 @@
+((KS)K)
+((KK)S)
+(((SK)S)K)
+(((SS)K)S)
+(((SK)K)K)
+((((S((SK)K))(K(S((S(KS))K))))((S((S(KS))K))(K((SK)K))))((S((S(KS))K))(K((SK)K))))
+(((S((S((SK)K))(K(S((S(KS))K)))))(K(K((SK)K))))(((S((S(KS))K))((SK)K))((S((S(KS))K))((SK)K))))
+

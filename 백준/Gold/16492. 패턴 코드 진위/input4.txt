@@ -1,0 +1,2 @@
+gen: A -> AB
+target: BA

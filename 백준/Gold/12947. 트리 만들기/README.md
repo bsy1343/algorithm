@@ -1,0 +1,57 @@
+# [Gold IV] 트리 만들기 - 12947
+
+[문제 링크](https://www.acmicpc.net/problem/12947)
+
+### 성능 요약
+
+시간 제한: 2 초, 메모리 제한: 512 MB
+
+### 통계
+
+제출: 457, 정답: 173, 맞힌 사람: 143, 정답 비율: 39.722%
+
+### 분류
+
+애드 혹, 트리, 트리의 지름
+
+### 문제 설명
+
+<p>트리는 사이클이 없는 연결 그래프이다. 정점 N개로 이루어진 트리는 N-1개의 간선으로 이루어져 있다.</p>
+
+<p>트리의 두 정점 사이의 거리는 한 정점에서 다른 정점으로 갈 때, 지나는 간선 개수의 최솟값이다.</p>
+
+<p>트리의 지름은 모든 두 정점 사이의 거리 중에서 가장 큰 값이다.</p>
+
+<p>아래와 같은 조건을 만족하는 트리 중에서 지름이 가장 긴 것을 만들어보자.</p>
+
+<ul>
+	<li>트리의 루트를 V라고 하자.</li>
+	<li>V에서 가장 거리가 먼 정점과의 거리를 D라고 하자.</li>
+	<li>1보다 크거나 같고, D보다 작거나 같은 모든 i에 대해서, 거리가 i인 정점의 개수는 cnt[i] 이다.</li>
+</ul>
+
+<p>cnt배열이 주어졌을 때, 만들 수 있는 트리 중에서 지름이 가장 큰 것의 지름을 출력하는 프로그램을 작성하시오.</p>
+
+### 입력
+
+<p>첫째 줄에 cnt 배열의 크기 N (1 &le; N &le; 50)이 주어진다.</p>
+
+<p>둘째 줄에는 cnt 배열의 값이 cnt[1]부터 cnt[N]까지 차례대로 주어진다. (1 &le; cnt[i] &le; 1000)</p>
+
+### 출력
+
+<p>첫째 줄에 문제의 조건을 만족시키는 트리 중에서 지름이 가장 큰 것의 지름을 출력한다.</p>
+
+### 힌트
+
+<p>예제 1의 경우에 만들 수 있는 트리는 한 가지이다.</p>
+
+<p><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/12947/1.png" style="height:92px; width:124px" /></p>
+
+<p>예제 2의 경우에 다음과 같은 두 가지 트리를 만들 수 있다. 왼쪽 트리의 지름은 3, 오른쪽 트리의 지름은 4이다.</p>
+
+<p><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/12947/2.png" style="height:136px; width:270px" /></p>
+
+<p>예제 3의 경우에는 아래 그림과 같은 트리를 만들 수 있다.</p>
+
+<p><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/12947/3.png" style="height:241px; width:173px" /></p>

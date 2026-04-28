@@ -1,0 +1,10 @@
+2 3 1
+0 2 1
+5 5 3
+5 2 6
+5
+portugal
+uruguay
+uruguay
+korea
+korea

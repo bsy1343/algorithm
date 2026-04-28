@@ -1,0 +1,31 @@
+# [Gold V] Counting Liars - 24981
+
+[문제 링크](https://www.acmicpc.net/problem/24981)
+
+### 성능 요약
+
+시간 제한: 2 초 (추가 시간 없음), 메모리 제한: 1024 MB
+
+### 통계
+
+제출: 719, 정답: 320, 맞힌 사람: 283, 정답 비율: 47.804%
+
+### 분류
+
+브루트포스 알고리즘, 정렬, 스위핑
+
+### 문제 설명
+
+<p>Bessie the cow is hiding somewhere along the number line. Each of Farmer John&#39;s $N$ other cows ($1\le N\le 1000$) have a piece of information to share: the $i$-th cow either says that Bessie is hiding at some location less than or equal to $p_i$, or that Bessie is hiding at some location greater than or equal to $p_i$ ($0\le p_i\le 10^9$).</p>
+
+<p>Unfortunately, it is possible that no hiding location is consistent with the answers of all of the cows, meaning that not all of the cows are telling the truth. Count the minimum number of cows that must be lying.</p>
+
+### 입력
+
+<p>The first line contains $N$.</p>
+
+<p>The next $N$ lines each contain either L or G, followed by an integer $p_i$. L means that the $i$-th cow says that Bessie&#39;s hiding location is less than or equal to $p_i$, and G means that $i$-th cow says that Bessie&#39;s hiding location is greater than or equal to $p_i$.</p>
+
+### 출력
+
+<p>The minimum number of cows that must be lying.</p>

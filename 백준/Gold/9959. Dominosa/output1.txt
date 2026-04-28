@@ -1,0 +1,7 @@
+e=d g=g f d c=c
+b g=e a a a c f
+b b=a a a=g d g
+c e d b=c f d g
+a f d e e c b b
+d c=g a b e f=f
+g d=f b=f e e=c

@@ -1,0 +1,3 @@
+http://www.com/a.php?a=X&b=X
+http://www.com/a.php?c=X&a=Y
+http://www.com/a.php?b=Y&c=Y

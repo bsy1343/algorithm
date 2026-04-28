@@ -1,0 +1,2 @@
+Case #1: L T T T
+Case #2: - T -

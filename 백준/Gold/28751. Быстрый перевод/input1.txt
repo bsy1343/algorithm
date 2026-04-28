@@ -1,0 +1,7 @@
+withdraw 42
+
+withdraw 1
+
+withdraw 1
+
+finish

@@ -1,0 +1,17 @@
+3
+3
+hello
+hell
+hi
+4
+a
+b
+c
+d
+6
+a
+ab
+abc
+abcd
+abcde
+abcdef

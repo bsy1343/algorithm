@@ -1,0 +1,4 @@
+1 2 2
+http://www.com/a.php?a=1&b=2&c=0
+X
+Y

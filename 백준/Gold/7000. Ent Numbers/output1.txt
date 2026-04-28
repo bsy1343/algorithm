@@ -1,0 +1,5 @@
+Starting with N = 42 and B = 10, sequence converges to 0 at Base 192.
+Starting with N = 100 and B = 2, sequence did not converge to 0 before 2^60.
+Starting with N = 12 and B = 10, sequence converges to 0 at Base 24.
+Starting with N = 15 and B = 8, sequence converges to 0 at Base 30.
+Starting with N = 20 and B = 5, sequence converges to 0 at Base 80.

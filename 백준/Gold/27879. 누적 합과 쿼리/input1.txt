@@ -1,0 +1,12 @@
+5
+a a b a a
+b a a a a
+b b b b a
+b b a a a
+a a b b b
+5
+1 1 5 5 aa
+2 2 3 5 aa
+2 3 5 5 ab
+2 2 4 4 ba
+3 3 4 5 bb

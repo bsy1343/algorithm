@@ -1,0 +1,5 @@
+YES
+.abbb
+.abbb
+.abbb
+.....

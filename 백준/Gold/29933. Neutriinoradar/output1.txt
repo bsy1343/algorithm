@@ -1,0 +1,6 @@
+Locate(5)
+Scan(3, 6) = 3
+Scan(4, 2) = 1
+Scan(2, 1) = 2
+Scan(4, 5) = 4
+result = 3

@@ -1,0 +1,15 @@
+get A
+get B
+
+mov C A
+not C
+and C B
+
+mov D B
+not D
+and D A
+
+mov Z C
+or Z D
+
+put Z

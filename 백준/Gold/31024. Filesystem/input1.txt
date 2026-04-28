@@ -1,0 +1,13 @@
+2
+2
+echo "This is foo" > foo
+cp foo bar
+2
+foo
+bar
+3
+mkdir dir
+echo "Bar" > bar
+mv bar dir/bar
+1
+bar

@@ -1,0 +1,6 @@
+http://a.com/b.xtm?a=OR 1 IS 1
+http://a.com/b.xtm?a=FALSE
+http://a.com/b.xtm?b=OR 1 IS 1
+http://a.com/b.xtm?b=FALSE
+http://a.com/b.xtm?c=OR 1 IS 1
+http://a.com/b.xtm?c=FALSE

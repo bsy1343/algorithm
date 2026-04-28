@@ -1,0 +1,43 @@
+# [Gold II] Hidden Hierarchy - 15265
+
+[문제 링크](https://www.acmicpc.net/problem/15265)
+
+### 성능 요약
+
+시간 제한: 1 초, 메모리 제한: 512 MB
+
+### 통계
+
+제출: 57, 정답: 44, 맞힌 사람: 39, 정답 비율: 76.471%
+
+### 분류
+
+다이나믹 프로그래밍, 트리에서의 다이나믹 프로그래밍, 구현, 문자열, 트리
+
+### 문제 설명
+
+<p>You are working on the user interface for a simple text-based file explorer. One of your tasks is to build a navigation pane displaying the directory hierarchy. As usual, the filesystem consists of directories which may contain files and other directories, which may, in turn, again contain files and other directories etc. Hence, the directories form a hierarchical tree structure. The top-most directory in the hierarchy is called the root directory. If directory d directly contains directory e we will say that d is the parent directory of e while e is a subdirectory of d. Each file has a size expressed in bytes. The directory size is simply the total size of all files directly or indirectly contained inside that directory</p>
+
+<p>All files and all directories except the root directory have a name &mdash; a string that always starts with a letter and consists of only lowercase letters and &ldquo;.&rdquo; (dot) characters. All items (files and directories) directly inside the same parent directory must have unique names. Each item (file and directory) can be uniquely described by its path &mdash; a string built according to the following rules:</p>
+
+<ul>
+	<li>Path of the root directory is simply &ldquo;/&rdquo; (forward slash).</li>
+	<li>For a directory d, its path is obtained by concatenating the directory names top to bottom along the hierarchy from the root directory to d, preceding each name with the &ldquo;/&rdquo; character and placing another &ldquo;/&rdquo; character at the end of the path.</li>
+	<li>For a file f , its path is the concatenation of the parent directory path and the name of file f .</li>
+</ul>
+
+<p>We display the directory hierarchy by printing the root directory. We print a directory d by outputting a line of the form &ldquo;m<sub>d</sub> p<sub>d</sub> s<sub>d</sub>&rdquo; where p<sub>d</sub> and s<sub>d</sub> are the path and size of directory d respectively, while m<sub>d</sub> is its expansion marker explained shortly. If d contains other directories we must choose either to collapse it or to expand it. If we choose to expand d we print (using the same rules) all of its subdirectories in lexicographical order by name. If we choose to collapse directory d, we simply ignore its contents.</p>
+
+<p>The expansion marker m<sub>d</sub> is a single blank character when d does not have any subdirectories, &ldquo;+&rdquo; (plus) character when we choose to collapse d or a &ldquo;-&rdquo; (minus) character when we choose expand d.</p>
+
+<p>Given a list of files in the filesystem and a threshold integer t, display the directory hierarchy ensuring that each directory of size at least t is printed. Additionally, the total number of directories printed should be minimal. Assume there are no empty directories in the filesystem &mdash; the entire hierarchy can be deduced from the provided file paths. Note that the root directory has to be printed regardless of its size. Also note that a directory of size at least t only has to be printed, but not necessarily expanded.</p>
+
+### 입력
+
+<p>The first line contains an integer n (1 &le; n &le; 1 000) &mdash; the number of files. Each of the following n lines contains a string f and an integer s (1 &le; s &le; 10<sup>6</sup>) &mdash; the path and the size of a single file. Each path is at most 100 characters long and is a valid file path according to the rules above. All paths will be different.</p>
+
+<p>The following line contains an integer t (1 &le; t &le; 10<sup>9</sup>) &mdash; the threshold directory size.</p>
+
+### 출력
+
+<p>Output the minimal display of the filesystem hierarchy for the given threshold as described above.</p>

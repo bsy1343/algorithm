@@ -1,0 +1,31 @@
+Ucet 0000000001 vytvoren.
+
+Ulozeno 2.00 na ucet 0000000001.
+
+Vybrano 1.00 z uctu 0000000001.
+
+Pocet uctu: 1
+Celkem:           1.00
+
+Reset systemu.
+
+Ucet 1000000001 vytvoren.
+
+Ulozeno 20.50 na ucet 1000000001.
+
+Ucet 1000000002 vytvoren.
+
+Prevedeno 15.25 z uctu 1000000001 na ucet 1000000002.
+
+Ucet 1000000002 uz existuje.
+
+Vybrano 14.00 z uctu 1000000002.
+
+Nedostatek penez.
+
+Pocet uctu: 2
+1000000001       5.25
+1000000002       1.25
+Celkem:           6.50
+
+Konec.

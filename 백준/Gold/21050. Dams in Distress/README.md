@@ -1,0 +1,37 @@
+# [Gold II] Dams in Distress - 21050
+
+[문제 링크](https://www.acmicpc.net/problem/21050)
+
+### 성능 요약
+
+시간 제한: 2 초, 메모리 제한: 1024 MB
+
+### 통계
+
+제출: 107, 정답: 62, 맞힌 사람: 56, 정답 비율: 60.870%
+
+### 분류
+
+다이나믹 프로그래밍, 트리, 트리에서의 다이나믹 프로그래밍
+
+### 문제 설명
+
+<p>Freyr, the god of prosperity, rain and the harvest, is having a lot of trouble these days. The giants are once again trying to invade Midgard, and have built a war camp at the bottom of the many valleys leading to Midgard. &nbsp;Now Freyr needs to wash that camp away, so a great victory feast can be held. &nbsp;Being at the bottom of the valley, any rain in the region can make its way through rivers and streams to the bottom of the valley and contribute to the glorious flooding of the giants. However, beavers and industrious humans have built dams throughout the river system, and these act as buffers that can hold some amount of water. But, on the flip side, once a dam is filled up to its capacity, it will break and all of the water stored there (as well as any further water added) will be released downstream.</p>
+
+<p>Freyr, being the god of rain, knows exactly how much water is needed to wash the war camp away, and for each dam knows its exact capacity and how much water is currently stored there. Freyr, also being the god of prosperity and harvest, has better things to do than making it rain everywhere all day, so Freyr decides to only make it rain at a single place (either a dam, or the war camp), and to make it rain as little as possible in that place. What is the minimum amount of rain that Freyr needs to make to wash away the giants war camp, provided he carefully chooses the best location for the rain?</p>
+
+<p>The network of dams and the war camp form a rooted tree, where the war camp is the root and the parent of a dam is the location (either another dam, or the war camp) immediately downstream of the dam. &nbsp;See Figure 1 for an example.</p>
+
+<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/d2691247-a4b1-4787-97c1-b20ac26a9396/-/preview/" style="width: 378px; height: 207px;" /></p>
+
+<p style="text-align: center;">Figure 1:&nbsp;Illustration of Sample Input 1. &nbsp;In this case Freyr only has to make $2$ units of rain at the left-most dam in order to make it break and send $50$ units of water downstream, which then ultimately results in $100$ units of rain reaching the war camp, well exceeding the $75$ units of water needed to flood the camp.</p>
+
+### 입력
+
+<p>The first line of input consists of two integers $n$ and $w$ ($1 \le n \le 2 \cdot 10^5$, $1 \le w \le 10^9$), the number of dams and the amount of water needed to wash away the war camp, respectively. &nbsp;Then follow $n$ lines, describing the $n$ dams. &nbsp;The dams are numbered from $1$ to $n$.</p>
+
+<p>The $i$th line contains three integers $d_i$, $c_i$ and $u_i$ ($0 \le d_i &lt; i$, $1 \le c_i \le 10^9$, $0 \le u_i &lt; c_i$), where $d_i$ is the number of the dam immediately downstream of dam $i$ (or $0$ if the war camp is immediately downstream of dam $i$), $c_i$ is the maximum capacity of dam $i$, and $u_i$ is the current amount of water in dam $i$.</p>
+
+### 출력
+
+<p>Output the minimum amount of rain Freyr needs to make at one location, which will result in at least $w$ water reaching the war camp.</p>

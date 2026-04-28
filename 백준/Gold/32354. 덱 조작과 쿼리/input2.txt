@@ -1,0 +1,12 @@
+11
+push 10
+push 20
+push 30
+print
+pop
+pop
+print
+restore 3
+pop
+push 40
+print

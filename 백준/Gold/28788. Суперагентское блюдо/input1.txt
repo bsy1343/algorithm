@@ -1,0 +1,12 @@
+4
+onion pepper tomato_paste mayonnaise
+6
+onion 11
+pepper_black 3
+pepper_red 5
+mayonnaise 30
+tomato_paste 40
+tomato 20
+2
+1 pepper pepper_red
+1 tomato_paste tomato

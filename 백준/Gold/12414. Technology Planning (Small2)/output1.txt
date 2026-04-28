@@ -1,0 +1,18 @@
+Case #1: 8
+Fire
+Metalworking
+Iron
+Steel
+Alchemy
+Chemistry
+Explosives
+Battleships
+Case #2: 3
+Fire
+Pottery
+Metalworking
+Case #3: 1
+d
+Case #4: 2
+a
+A

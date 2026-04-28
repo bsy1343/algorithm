@@ -1,0 +1,5 @@
+puerta
+drzwi
+b,c,d
+b,c,d
+?

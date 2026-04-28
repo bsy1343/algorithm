@@ -1,0 +1,4 @@
+5 2 3
+CJ D5 HA C2 S7
+D5 HA
+CJ S7 C2

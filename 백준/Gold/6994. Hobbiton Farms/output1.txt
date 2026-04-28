@@ -1,0 +1,4 @@
+The given circle and rectangle overlap.
+The given circle and rectangle overlap.
+The given circle and rectangle do not overlap.
+The given circle and rectangle do not overlap.

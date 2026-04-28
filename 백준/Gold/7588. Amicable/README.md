@@ -1,0 +1,35 @@
+# [Gold IV] Amicable - 7588
+
+[문제 링크](https://www.acmicpc.net/problem/7588)
+
+### 성능 요약
+
+시간 제한: 1 초, 메모리 제한: 128 MB
+
+### 통계
+
+제출: 172, 정답: 55, 맞힌 사람: 34, 정답 비율: 23.776%
+
+### 분류
+
+수학, 정수론
+
+### 문제 설명
+
+<p>The numbers 220 and 284 are called Amicable Numbers because they are not equal, and for each, the sum of its divisors equals the other number. That is, the sum of the divisors of 220,</p>
+
+<p>1 + 2 + 4 + 5 + 10 + 11 + 20 + 22 + 44 + 55 + 110 equals 284,</p>
+
+<p>and the sum of the divisors of 284,</p>
+
+<p>1 + 2 + 4 + 71 + 142 equals 220.</p>
+
+<p>Produce a program that takes in a natural number and finds the pairs of Amicable Numbers up to and including the given value.&nbsp;</p>
+
+### 입력
+
+<p>The input is a series of lines, each with a single number N. 0 &lt; N &le;&nbsp;10<sup>6</sup>. Input is terminated by a line with the value 0.&nbsp;</p>
+
+### 출력
+
+<p>For each input number N, output a blank line, then a line with the text &lsquo;Amicable numbers between 1 and N. Follow that with a line for each distinct amicable pair discovered, giving the pair of numbers, separated with a space. Amicable pair should be output with the lesser of the two numbers displayed first. Pairs should be in ascending order of their lesser values. If there are no amicable pairs, display &lsquo;None&rsquo;. Note: A number cannot form an amicable pair with itself.&nbsp;</p>

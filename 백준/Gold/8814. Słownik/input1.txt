@@ -1,0 +1,15 @@
+2
+2
+drzwi pl door en 
+puerta es door en 
+2
+drzwi pl es
+door en pl
+3
+a x b y
+b y c y
+c y d y
+3
+a x y
+d y y
+acc tle wa

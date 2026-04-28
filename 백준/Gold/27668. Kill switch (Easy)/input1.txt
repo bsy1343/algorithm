@@ -1,0 +1,18 @@
+void example_sort(vector<unsigned> &A) {
+    int N = A.size();
+    if (N >= 2 && A[0] > A[1])
+        swap( A[0], A[1] );
+    if (N >= 3 && A[0] > A[2])
+        swap( A[0], A[2] );
+    if (N >= 3 && A[0] > A[1])
+        swap( A[0], A[1] );
+}
+-----------------------------------------
+def example_sort(A):
+    N = len(A)
+    if N >= 2 and A[0] > A[1]:
+        A[0], A[1] = A[1], A[0]
+    if N >= 3 and A[0] > A[2]:
+        A[0], A[2] = A[2], A[0]
+    if N >= 3 and A[0] > A[1]:
+        A[0], A[1] = A[1], A[0]

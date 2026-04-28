@@ -1,0 +1,7 @@
+6
+D 2 push
+D 2 push
+L 2 push
+R 2 push
+U 2 pull
+U 2 pull

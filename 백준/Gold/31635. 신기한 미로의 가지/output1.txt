@@ -1,0 +1,11 @@
+
+
+maze
+
+gaji 1
+
+maze
+
+answer
+1 2
+2 3

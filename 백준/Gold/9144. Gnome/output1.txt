@@ -1,0 +1,10 @@
+Game over!
+Score dosazene v teto hre je 1004 bodu.
+Byli bychom radi, kdybyste si zahrali jeste jednou.
+Prejete si hrat znovu?
+Prijemnou zabavu Vam preje firma ACMTENDO.
+Game over!
+Score dosazene v teto hre je 5 bodu.
+Byli bychom radi, kdybyste si zahrali jeste jednou.
+Prejete si hrat znovu?
+Prijemnou zabavu Vam preje firma ACMTENDO.

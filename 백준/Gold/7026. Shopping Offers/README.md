@@ -1,0 +1,37 @@
+# [Gold II] Shopping Offers - 7026
+
+[문제 링크](https://www.acmicpc.net/problem/7026)
+
+### 성능 요약
+
+시간 제한: 1 초, 메모리 제한: 512 MB
+
+### 통계
+
+제출: 8, 정답: 6, 맞힌 사람: 6, 정답 비율: 100.000%
+
+### 분류
+
+다이나믹 프로그래밍, 구현
+
+### 문제 설명
+
+<p><img alt="" src="https://upload.acmicpc.net/95ad9ef8-3a2f-4d4a-b175-cd93a07abdd5/-/preview/" />= 2,&nbsp;<img alt="" src="https://upload.acmicpc.net/abf404a6-0566-40a4-aa3e-b18cfef5f5c4/-/preview/" />= 5,&nbsp;<img alt="" src="https://upload.acmicpc.net/95ad9ef8-3a2f-4d4a-b175-cd93a07abdd5/-/preview/" />+<img alt="" src="https://upload.acmicpc.net/95ad9ef8-3a2f-4d4a-b175-cd93a07abdd5/-/preview/" />+<img alt="" src="https://upload.acmicpc.net/95ad9ef8-3a2f-4d4a-b175-cd93a07abdd5/-/preview/" />= 5,&nbsp;<img alt="" src="https://upload.acmicpc.net/abf404a6-0566-40a4-aa3e-b18cfef5f5c4/-/preview/" />+<img alt="" src="https://upload.acmicpc.net/abf404a6-0566-40a4-aa3e-b18cfef5f5c4/-/preview/" />+<img alt="" src="https://upload.acmicpc.net/95ad9ef8-3a2f-4d4a-b175-cd93a07abdd5/-/preview/" />= 10,&nbsp;<img alt="" src="https://upload.acmicpc.net/95ad9ef8-3a2f-4d4a-b175-cd93a07abdd5/-/preview/" />+<img alt="" src="https://upload.acmicpc.net/95ad9ef8-3a2f-4d4a-b175-cd93a07abdd5/-/preview/" />+<img alt="" src="https://upload.acmicpc.net/95ad9ef8-3a2f-4d4a-b175-cd93a07abdd5/-/preview/" />+<img alt="" src="https://upload.acmicpc.net/abf404a6-0566-40a4-aa3e-b18cfef5f5c4/-/preview/" />+<img alt="" src="https://upload.acmicpc.net/abf404a6-0566-40a4-aa3e-b18cfef5f5c4/-/preview/" />= ?</p>
+
+<p>In a shop each kind of product has a price. For example, the price of a flower is 2&nbsp;ICU (Informatics Currency Units) and the price of a vase is 5&nbsp;ICU. In order to attract more customers, the shop introduces some special offers.</p>
+
+<p>A special offer consists of one or more product items for a reduced price. Examples: three flowers for 5&nbsp;ICU instead of&nbsp;6, or two vases together with one flower for 10&nbsp;ICU instead of&nbsp;12.</p>
+
+<p>Write a program that calculates the price a customer has to pay for certain items, making optimal use of the special offers. That is, the price should be as low as possible. You are not allowed to add items, even if that would lower the price.</p>
+
+<p>For the prices and offers given above, the (lowest) price for three flowers and two vases is 14&nbsp;ICU: two vases and one flower for the reduced price of 10&nbsp;ICU and two flowers for the regular price of 4&nbsp;ICU.</p>
+
+### 입력
+
+<p>The first line of&nbsp;contains the number&nbsp;<i>b</i>&nbsp;of different kinds of products in the basket (0&lt;=<i>b</i>&lt;=5). Each of the next&nbsp;<i>b</i>&nbsp;lines contains three values&nbsp;<i>c</i>,&nbsp;<i>k</i>, and&nbsp;<i>p</i>. The value&nbsp;<i>c</i>&nbsp;is the (unique) product code (1&lt;=<i>c</i>&lt;=999). The value&nbsp;<i>k</i>&nbsp;indicates how many items of this product are in the basket (1&lt;=<i>k</i>&lt;=5). The value&nbsp;<i>p</i>&nbsp;is the regular price per item (1&lt;=<i>p</i>&lt;=999). Notice that all together at most 5*5=25 items can be in the basket.</p>
+
+<p>The <i>b</i>+2 line&nbsp;contains the number&nbsp;<i>s</i>&nbsp;of special offers (0&lt;=<i>s</i>&lt;=99). Each of the next&nbsp;<i>s</i>&nbsp;lines describes one offer by giving its structure and its reduced price. The first number&nbsp;<i>n</i>&nbsp;on such a line is the number of different kinds of products that are part of the offer (1&lt;=<i>n</i>&lt;=5). The next&nbsp;<i>n</i>&nbsp;pairs of numbers (<i>c</i>,<i>k</i>) indicate that&nbsp;<i>k</i>&nbsp;items (1&lt;=<i>k</i>&lt;=5) with product code&nbsp;<i>c</i>&nbsp;(1&lt;=<i>c</i>&lt;=999) are involved in the offer. The last number&nbsp;<i>p</i>&nbsp;on the line stands for the reduced price (1&lt;=<i>p</i>&lt;=9999). The reduced price of an offer is less than the sum of the regular prices.</p>
+
+### 출력
+
+<p>Write to the output file&nbsp;one line with the lowest possible price to be paid for the purchases in the input file.</p>

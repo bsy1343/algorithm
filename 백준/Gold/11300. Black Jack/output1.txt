@@ -1,0 +1,2 @@
+John 2 Sally 2 Peter 1 dealer 6
+Jenny 2 Siobhan 2 dealer 6

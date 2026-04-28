@@ -1,0 +1,5 @@
+query 3
+
+query 25
+
+answer 75

@@ -1,0 +1,12 @@
+3 4
+HOH.
+NCOH
+OO..
+3 4
+HOH.
+NCOH
+OONH
+2 3
+HOH
+HOH
+0 0

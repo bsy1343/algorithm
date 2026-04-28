@@ -1,0 +1,21 @@
+3 17 5
+pizza 3
+papercut 5
+joshua 2
+L 2
+E pizza
+L 2
+E pizza
+P blue 4
+E blue
+E papercut
+L 8
+E papercut
+L 30
+AE
+L 30
+E blue
+E pizza
+R joshua
+AR
+AR

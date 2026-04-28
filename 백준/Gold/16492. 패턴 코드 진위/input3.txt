@@ -1,0 +1,5 @@
+gen: A -> ABA
+gen: B -> BBB
+del: BBB
+del: AA
+target: AB

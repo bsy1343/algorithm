@@ -1,0 +1,37 @@
+# [Gold III] Imperfect Imperial Units - 26000
+
+[문제 링크](https://www.acmicpc.net/problem/26000)
+
+### 성능 요약
+
+시간 제한: 4 초 (추가 시간 없음), 메모리 제한: 1024 MB
+
+### 통계
+
+제출: 219, 정답: 64, 맞힌 사람: 53, 정답 비율: 32.515%
+
+### 분류
+
+그래프 이론, 자료 구조, 문자열, 그래프 탐색, 집합과 맵, 깊이 우선 탐색, 해시를 사용한 집합과 맵, 트리를 사용한 집합과 맵
+
+### 문제 설명
+
+<p>You are writing a paper for the Beta Astronomy Physics Conference about your recent discovery on grey holes. One of your collaborators has performed a huge number of measurements, which you would like to analyse in order to draw some conclusions. The only problem is: the data is measured in a wide variety of units, and to your disgust, they appear to use a mix of the imperial and metric systems. To simplify your analysis, you need to convert all these measurements into a different unit.</p>
+
+### 입력
+
+<p>The input consists of:</p>
+
+<ul>
+	<li>One line with two integers $n$ and $q$ ($1\leq n\leq 100$, $1\leq q\leq 10\,000$), the number of unit conversion equations and the number of queries to answer.</li>
+	<li>$n$ lines, each defining a unit conversion in the format &quot;<code>1 &lt;unit&gt; = &lt;value&gt; &lt;unit&gt;</code>&quot;.</li>
+	<li>$q$ lines, each with a query in the format &quot;<code>&lt;value&gt; &lt;unit&gt; to &lt;unit&gt;</code>&quot;.</li>
+</ul>
+
+<p>In these formats, &quot;<code>&lt;value&gt;</code>&quot; is a floating-point number $v$ ($0.001 \leq v \leq 1000$, with at most $9$ digits after the decimal point) and &quot;<code>&lt;unit&gt;</code>&quot; is a string of at most $20$ English lowercase letters (<code>a-z</code>). A unit in a query is guaranteed to be defined in at least one unit conversion equation. Every unit can be converted into every other unit in <em>at most</em> one way.</p>
+
+### 출력
+
+<p>For every query, output the value of the requested unit, or &quot;<code>impossible</code>&quot; if the query cannot be answered.</p>
+
+<p>Your answers should have a <em>relative</em> error of at most $10^{-6}$.</p>

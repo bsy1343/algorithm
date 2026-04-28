@@ -1,0 +1,14 @@
+2
+6 14
+XXX...........
+X.X.XXXX......
+XXX.X....XXXXX
+X.X.X....X.X.X
+....XXXX.X.X.X
+.........X.X.X
+5 13
+..XXX.....XX.
+.XXXXX.......
+.XXX....XXXXX
+.XXX....XXXXX
+.XXX....XXXXX

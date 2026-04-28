@@ -1,0 +1,8 @@
+- / 1009727
+- /cerc/ 1009627
+  /cerc/documents/ 4000
+- /cerc/problems/ 1005627
+- /cerc/problems/a/ 1005508
+  /cerc/problems/a/testdata/ 1000008
++ /cerc/problems/b/ 119
++ /sys/ 100

@@ -1,0 +1,5 @@
+LOW 5
+GOOD
+HIGH 1
+LOW 5
+LOW 5

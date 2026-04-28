@@ -1,0 +1,3 @@
+Case 1: 1 D,A
+Case 2: 3 C,A D,A D,B
+Case 3: 0

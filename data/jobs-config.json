@@ -46,6 +46,7 @@
       "fetcher": "playwright",
       "params": {
         "url": "https://career.hyundai-autoever.com/ko/apply?careers=EXPERIENCED&employments=FULL_TIME_WORKER",
+        "detailBase": "https://career.hyundai-autoever.com/ko/o",
         "extractNextData": true,
         "matchKeys": ["title", "dueDate"]
       },

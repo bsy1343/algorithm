@@ -90,7 +90,7 @@ async function getBrowser() {
 }
 
 async function fetchPlaywright(params) {
-  const { url, selector, scrollPasses = 6, parseFromBodyText, filterByText, clickFilters, extractNextData, matchKeys, reloadOnFirstLoad } = params;
+  const { url, selector, scrollPasses = 6, parseFromBodyText, filterByText, clickFilters, extractNextData, matchKeys, reloadOnFirstLoad, detailBase } = params;
   const browser = await getBrowser();
   const ctx = await browser.newContext({ userAgent: UA });
   const page = await ctx.newPage();
@@ -141,13 +141,25 @@ async function fetchPlaywright(params) {
       };
       find(data);
       if (!target) throw new Error('no jobs array in __NEXT_DATA__');
-      return target.map(j => ({
-        title: j.title,
-        department: j.workspaceDivision?.division || j.team?.name || j.department || '',
-        location: j.location || '',
-        deadline: j.dueDate ? j.dueDate.slice(0, 10) : '',
-        url: j.openingId ? `${url.split('?')[0]}/${j.openingId}` : '',
-      }));
+      const base = detailBase || url.split('?')[0];
+      const pad = n => String(n).padStart(2, '0');
+      return target.map(j => {
+        // dueDate is UTC ISO; shift +9h for KST display.
+        let deadline = '', deadlineTime = '';
+        if (j.dueDate) {
+          const kst = new Date(new Date(j.dueDate).getTime() + 9 * 3600_000);
+          deadline = `${kst.getUTCFullYear()}-${pad(kst.getUTCMonth()+1)}-${pad(kst.getUTCDate())}`;
+          deadlineTime = `${pad(kst.getUTCHours())}:${pad(kst.getUTCMinutes())}`;
+        }
+        return {
+          title: j.title,
+          department: j.workspaceDivision?.division || j.team?.name || j.department || '',
+          location: j.location || '',
+          deadline,
+          deadlineTime,
+          url: j.openingId ? `${base}/${j.openingId}` : '',
+        };
+      });
     }
 
     if (parseFromBodyText) {

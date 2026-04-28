@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-04-28T15:52:45.900Z",
+  "fetchedAt": "2026-04-28T16:04:09.331Z",
   "totalCount": 110,
   "companies": [
     "당근",
@@ -132,7 +132,8 @@
       "department": "Enterprise IT",
       "location": "",
       "deadline": "2026-04-30",
-      "url": "https://career.hyundai-autoever.com/ko/apply/213935"
+      "deadlineTime": "23:59",
+      "url": "https://career.hyundai-autoever.com/ko/o/213935"
     },
     {
       "company": "현대오토에버",
@@ -141,7 +142,8 @@
       "department": "Enterprise IT",
       "location": "",
       "deadline": "2026-04-30",
-      "url": "https://career.hyundai-autoever.com/ko/apply/213899"
+      "deadlineTime": "23:59",
+      "url": "https://career.hyundai-autoever.com/ko/o/213899"
     },
     {
       "company": "현대오토에버",
@@ -150,7 +152,8 @@
       "department": "Enterprise IT",
       "location": "",
       "deadline": "2026-04-30",
-      "url": "https://career.hyundai-autoever.com/ko/apply/213503"
+      "deadlineTime": "23:59",
+      "url": "https://career.hyundai-autoever.com/ko/o/213503"
     },
     {
       "company": "현대오토에버",
@@ -159,7 +162,8 @@
       "department": "Core Tech(AI/DATA/Cloud/보안)",
       "location": "",
       "deadline": "2026-04-30",
-      "url": "https://career.hyundai-autoever.com/ko/apply/213305"
+      "deadlineTime": "23:59",
+      "url": "https://career.hyundai-autoever.com/ko/o/213305"
     },
     {
       "company": "현대오토에버",
@@ -168,7 +172,8 @@
       "department": "Enterprise IT",
       "location": "",
       "deadline": "2026-04-30",
-      "url": "https://career.hyundai-autoever.com/ko/apply/211013"
+      "deadlineTime": "23:59",
+      "url": "https://career.hyundai-autoever.com/ko/o/211013"
     },
     {
       "company": "현대오토에버",
@@ -177,7 +182,8 @@
       "department": "Enterprise IT",
       "location": "",
       "deadline": "2026-04-30",
-      "url": "https://career.hyundai-autoever.com/ko/apply/211012"
+      "deadlineTime": "23:59",
+      "url": "https://career.hyundai-autoever.com/ko/o/211012"
     },
     {
       "company": "현대오토에버",
@@ -186,7 +192,8 @@
       "department": "Enterprise IT",
       "location": "",
       "deadline": "2026-04-30",
-      "url": "https://career.hyundai-autoever.com/ko/apply/210922"
+      "deadlineTime": "23:59",
+      "url": "https://career.hyundai-autoever.com/ko/o/210922"
     },
     {
       "company": "LG CNS",
@@ -464,7 +471,8 @@
       "department": "Enterprise IT",
       "location": "",
       "deadline": "",
-      "url": "https://career.hyundai-autoever.com/ko/apply/210281"
+      "deadlineTime": "",
+      "url": "https://career.hyundai-autoever.com/ko/o/210281"
     },
     {
       "company": "현대오토에버",
@@ -473,7 +481,8 @@
       "department": "Core Tech(AI/DATA/Cloud/보안)",
       "location": "",
       "deadline": "",
-      "url": "https://career.hyundai-autoever.com/ko/apply/210274"
+      "deadlineTime": "",
+      "url": "https://career.hyundai-autoever.com/ko/o/210274"
     },
     {
       "company": "현대오토에버",
@@ -482,7 +491,8 @@
       "department": "Core Tech(AI/DATA/Cloud/보안)",
       "location": "",
       "deadline": "",
-      "url": "https://career.hyundai-autoever.com/ko/apply/210269"
+      "deadlineTime": "",
+      "url": "https://career.hyundai-autoever.com/ko/o/210269"
     },
     {
       "company": "현대오토에버",
@@ -491,7 +501,8 @@
       "department": "Core Tech(AI/DATA/Cloud/보안)",
       "location": "",
       "deadline": "",
-      "url": "https://career.hyundai-autoever.com/ko/apply/210263"
+      "deadlineTime": "",
+      "url": "https://career.hyundai-autoever.com/ko/o/210263"
     },
     {
       "company": "토스",

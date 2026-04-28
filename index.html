@@ -40,7 +40,7 @@
 
   html, body { height: 100%; background: var(--bg); color: var(--text); font-family: var(--font); font-size: 14px; line-height: 1.6; }
 
-  .app { display: grid; grid-template-columns: 340px 1fr; grid-template-rows: 52px 1fr; height: 100vh; }
+  .app { display: grid; grid-template-columns: 360px 1fr; grid-template-rows: 52px 1fr; height: 100vh; }
   @media (max-width: 900px) { .app { grid-template-columns: 260px 1fr; } }
 
   /* Topbar */
@@ -67,19 +67,23 @@
 
   /* Sidebar */
   .sidebar { border-right: 1px solid var(--border); background: var(--bg2); display: flex; flex-direction: column; overflow: hidden; }
-  .tier-tabs { display: flex; overflow-x: auto; border-bottom: 1px solid var(--border); scrollbar-width: none; }
-  .tier-tabs::-webkit-scrollbar { display: none; }
+  .tier-tabs {
+    display: flex; flex-wrap: wrap;
+    border-bottom: 1px solid var(--border);
+    padding: 0 4px;
+  }
   .tier-tab {
-    padding: 8px 9px; font-size: 11px; font-family: var(--mono);
+    padding: 7px 8px; font-size: 11px; font-family: var(--mono);
     cursor: pointer; white-space: nowrap; color: var(--text3);
     border-bottom: 2px solid transparent; transition: color 0.15s;
     display: inline-flex; align-items: center; gap: 4px;
   }
   .tier-tab:hover { color: var(--text2); }
   .tier-tab.active { color: var(--text); border-bottom-color: var(--accent); }
-  .tier-tab .icon { font-size: 16px; line-height: 1; }
+  .tier-tab .icon { font-size: 15px; line-height: 1; }
   .tier-tab .icon.fav { color: var(--gold); }
   .tier-tab .icon.solved { color: var(--accent); }
+  .tier-tab .icon.boost { color: #79c0ff; }
 
   .search-box { padding: 8px 10px; border-bottom: 1px solid var(--border); }
   .search-box input {
@@ -750,6 +754,8 @@
     DRAFT_KEY: 'drafts',
     FAV_KEY: 'favorites',
     FAV_SEED_KEY: 'favorites-seeded-v1',
+    BOOST_KEY: 'boost-list',
+    BOOST_SEED_KEY: 'boost-seeded-v1',
 
     // Curated study course (백트래킹 → 정렬/그리디 → 투포인터 → 이분탐색 → DFS/BFS
     // → 트리/위상정렬 → 다익스트라 → DP). Seeded once on first run; if the user
@@ -766,10 +772,25 @@
       'Silver/9095', 'Silver/11726', 'Silver/2579',
     ],
 
+    // Reinforcement set — minimal addons covering categories the favorites list
+    // misses (LIS, knapsack, prefix-sum, Floyd, Union-Find, multi-source BFS,
+    // simulation). Mastering these + DEFAULT_FAVS covers ~95% of Korean tech
+    // company coding tests.
+    DEFAULT_BOOST: [
+      'Silver/11053',  // 가장 긴 증가하는 부분 수열 (LIS)
+      'Gold/12865',    // 평범한 배낭 (0/1 Knapsack)
+      'Silver/11659',  // 구간 합 구하기 4 (누적합)
+      'Gold/11404',    // 플로이드 (모든 쌍 최단경로)
+      'Gold/1717',     // 집합의 표현 (Union-Find)
+      'Gold/7569',     // 토마토 (멀티소스 BFS)
+      'Gold/14503',    // 로봇 청소기 (시뮬레이션 카카오풍)
+    ],
+
     problems: [],
     currentProblem: null,
     currentTab: 'problem',
     favs: new Set(),
+    boost: new Set(),
 
     pref: { tierFilter: 'ALL', searchQuery: '', currentTab: 'problem', compareMode: false },
 
@@ -778,14 +799,21 @@
       if (raw) Object.assign(this.pref, JSON.parse(raw));
       this.currentTab = this.pref.currentTab || 'problem';
       try {
-        const favs = JSON.parse(localStorage.getItem(this.FAV_KEY) || '[]');
-        this.favs = new Set(favs);
+        this.favs = new Set(JSON.parse(localStorage.getItem(this.FAV_KEY) || '[]'));
       } catch { this.favs = new Set(); }
-      // Seed default favorites once. Skipped on later loads — user removals stick.
+      try {
+        this.boost = new Set(JSON.parse(localStorage.getItem(this.BOOST_KEY) || '[]'));
+      } catch { this.boost = new Set(); }
+      // Seed default favorites/boost once. Skipped on later loads — user removals stick.
       if (!localStorage.getItem(this.FAV_SEED_KEY)) {
         for (const k of this.DEFAULT_FAVS) this.favs.add(k);
         localStorage.setItem(this.FAV_KEY, JSON.stringify([...this.favs]));
         localStorage.setItem(this.FAV_SEED_KEY, '1');
+      }
+      if (!localStorage.getItem(this.BOOST_SEED_KEY)) {
+        for (const k of this.DEFAULT_BOOST) this.boost.add(k);
+        localStorage.setItem(this.BOOST_KEY, JSON.stringify([...this.boost]));
+        localStorage.setItem(this.BOOST_SEED_KEY, '1');
       }
     },
 
@@ -796,6 +824,13 @@
       if (this.favs.has(k)) this.favs.delete(k);
       else this.favs.add(k);
       localStorage.setItem(this.FAV_KEY, JSON.stringify([...this.favs]));
+    },
+    isBoost(problem) { return this.boost.has(this.favKey(problem)); },
+    toggleBoost(problem) {
+      const k = this.favKey(problem);
+      if (this.boost.has(k)) this.boost.delete(k);
+      else this.boost.add(k);
+      localStorage.setItem(this.BOOST_KEY, JSON.stringify([...this.boost]));
     },
 
     savePref() {
@@ -852,10 +887,12 @@
       const tiers = [...new Set(State.problems.map(p => p.tier))];
       const sorted = Parser.sortTiers(tiers);
       const favCount = State.favs.size;
+      const boostCount = State.boost.size;
       const solvedCount = State.problems.filter(p => p.hasSolution).length;
       const all = [
         { key: 'ALL', html: 'ALL' },
         { key: '★', html: `<span class="icon fav">★</span>${favCount ? esc(String(favCount)) : ''}` },
+        { key: '+', html: `<span class="icon boost">+</span>${boostCount ? esc(String(boostCount)) : ''}` },
         { key: '✓', html: `<span class="icon solved">✓</span>${solvedCount ? esc(String(solvedCount)) : ''}` },
         ...sorted.map(t => ({ key: t, html: esc(t) })),
       ];
@@ -879,6 +916,7 @@
       let list;
       if (State.pref.tierFilter === 'ALL') list = State.problems;
       else if (State.pref.tierFilter === '★') list = State.problems.filter(p => State.isFav(p));
+      else if (State.pref.tierFilter === '+') list = State.problems.filter(p => State.isBoost(p));
       else if (State.pref.tierFilter === '✓') list = State.problems.filter(p => p.hasSolution);
       else list = State.problems.filter(p => p.tier === State.pref.tierFilter);
       if (q) list = list.filter(p => p.num.includes(q) || p.title.toLowerCase().includes(q));

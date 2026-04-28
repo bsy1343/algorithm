@@ -1,0 +1,6 @@
+This is a simple message.
+Each line of the input,
+represents some positive integer.
+The first 
+three lines are for latitude and
+the last three lines are for longitude.

@@ -1,0 +1,14 @@
+IBM
+OneBuyer: ThisWillWork
+TooExpensive: NO-ONE
+ThisWillWork: OneBuyer
+ACM
+one: two three
+two: one four
+three: one four
+four: two three
+CVUT
+seller: iamok
+toopoor: NO-ONE
+sellertwo: iamok
+iamok: seller sellertwo

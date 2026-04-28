@@ -1,0 +1,3 @@
+The longest decreasing suffix of abcdbca is ca
+The longest decreasing suffix of abcdljksdflkjzfcba is zfcba
+The longest decreasing suffix of qlpxosmpzygb is zygb

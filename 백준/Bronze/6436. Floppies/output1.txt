@@ -1,0 +1,8 @@
+File #1
+John needs 1 floppies.
+
+File #2
+John needs 5 floppies.
+
+File #3
+John needs 41 floppies.

@@ -1,0 +1,5 @@
+Sample #1
+The approximate age is 5700 years.
+
+Sample #2
+The approximate age is 26000 years.

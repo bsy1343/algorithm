@@ -1,0 +1,2 @@
+You can go to (3.000,2.000), the distance is 3.606 steps.
+You can go to (-7.071,7.071), the distance is 10.000 steps.

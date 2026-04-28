@@ -1,0 +1,2 @@
+B can be reached from A after 12 move(s).
+B cannot be reached from A.

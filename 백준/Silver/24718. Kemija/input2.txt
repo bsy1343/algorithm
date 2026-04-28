@@ -1,0 +1,3 @@
+2
+2AB+A->3AB
+2AB+2AC+2BC->4ABC

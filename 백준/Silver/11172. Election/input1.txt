@@ -1,0 +1,12 @@
+3
+3
+charlie 0 0 3
+john 1 1 1
+peter -1 -1 1
+2
+magne -100 -100 1
+edvard 100 100 100
+3
+christian 0 0 10
+christian 2 2 3
+ruben -5 0 1

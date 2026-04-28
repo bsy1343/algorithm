@@ -1,0 +1,33 @@
+3
+
+7
+Alfred 15
+Beth 15
+Calista 20
+Desdemona 20
+Ezekiel 15
+Fred 20
+Georgina 15
+
+11
+Hazel 20
+Izzy 15
+James 15
+Karl 20
+Lucinda 20
+Malia 20
+Nicholas 15
+Oscar 20
+Petra 20
+Quantasia 20
+Redd 15
+
+8
+Sasha 20
+Tabitha 20
+Ursula 20
+Victor 15
+Wanda 15
+Xavier 20
+Yolanda 20
+Zane 15

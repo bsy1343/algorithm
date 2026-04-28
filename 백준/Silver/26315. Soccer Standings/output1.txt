@@ -1,0 +1,19 @@
+Team #1
+Games: 6
+Points: 10
+Possible records:
+3-1-2
+2-4-0
+
+Team #2
+Games: 1
+Points: 3
+Possible records:
+1-0-0
+
+Team #3
+Games: 4
+Points: 4
+Possible records:
+1-1-2
+0-4-0

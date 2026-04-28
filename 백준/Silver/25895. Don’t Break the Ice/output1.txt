@@ -1,0 +1,5 @@
+Strategy #1: 2
+
+Strategy #2: 1
+
+Strategy #3: 0

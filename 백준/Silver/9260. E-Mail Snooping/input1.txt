@@ -1,0 +1,15 @@
+2
+5 1 3
+ack
+bruin
+ucla
+drone
+evade
+ack bruin ack me you .,bruins ack usc ackack .. bruin
+4 2 3
+ack
+bruin
+ucla
+drone
+ack bruin me ack you .,bruins ack usc, hello world
+ucla ackack .. bruin attack

@@ -1,0 +1,14 @@
+2
+5 3
+beautiful 8
+oilpainting 3
+portrait 3
+gorgeous 5
+spring 4
+beautiful ? oilpainting
+4 4
+landscape 6
+snowy 7
+winter 5
+earlywork 3
+? winter ? ?

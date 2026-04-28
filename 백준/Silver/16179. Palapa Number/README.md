@@ -1,0 +1,41 @@
+# [Silver IV] Palapa Number - 16179
+
+[문제 링크](https://www.acmicpc.net/problem/16179)
+
+### 성능 요약
+
+시간 제한: 2 초, 메모리 제한: 512 MB
+
+### 통계
+
+제출: 108, 정답: 75, 맞힌 사람: 60, 정답 비율: 83.333%
+
+### 분류
+
+수학, 조합론
+
+### 문제 설명
+
+<p>Palapa Number of&nbsp;<i>N</i>&nbsp;(4 &lt;=&nbsp;<i>N</i>&nbsp;&lt;= 100) is an&nbsp;<i>N</i>&nbsp;digits decimal number where the sum of the first two digits is even, or the last two digits is a prime number, or both. No leading zero allowed.</p>
+
+<p>For example,</p>
+
+<ul>
+	<li>1202 is Palapa Number of 4, because it has 4 digits and the last two digits (02) is a prime number.</li>
+	<li>53160 is Palapa Number of 5, because it has 5 digits and the sum of the first two digits (5 + 3 = 8) is an even number.</li>
+	<li>243913 is Palapa Number of 6, because it has 6 digits, the sum of the first two digits (2 + 4 = 6) is an even number, and the last two digits (13) is a prime number.</li>
+	<li>0313 is not Palapa Number.</li>
+	<li>460025 is not Palapa Number.</li>
+</ul>
+
+<p>Given N, output the number of Palapa Number of&nbsp;<i>N</i>, modulo by 9973.</p>
+
+### 입력
+
+<p>The first line of input contains an integer&nbsp;<i>T</i>, the number of test cases follow.</p>
+
+<p>Each test case contains an integer&nbsp;<i>N</i>&nbsp;(4 &lt;=&nbsp;<i>N</i>&nbsp;&lt;= 100).</p>
+
+### 출력
+
+<p>For each test case, output the number of Palapa Number of&nbsp;<i>N</i>&nbsp;exists modulo by 9973.</p>

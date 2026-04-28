@@ -1,0 +1,4 @@
+3
+multiply 0
+add 8
+print

@@ -1,0 +1,7 @@
+6 3 2
+Ivanov
+Petrov
+Sidorov
+Andreev
+Kazakov
+Sergeev

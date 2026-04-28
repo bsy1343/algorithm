@@ -1,0 +1,10 @@
+Word search puzzle #1:
+R 1 4 WORD
+U 4 3 SEARCH
+L 3 1 KNIGHTRO
+D 5 7 UNDERFUND
+D 1 10 INGESTING
+
+Word search puzzle #2:
+D 1 4 AGE
+U 3 5 THETHETHETHETH

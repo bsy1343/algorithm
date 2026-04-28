@@ -1,0 +1,61 @@
+# [Silver I] 싫은데요 - 25916
+
+[문제 링크](https://www.acmicpc.net/problem/25916)
+
+### 성능 요약
+
+시간 제한: 1 초, 메모리 제한: 1024 MB
+
+### 통계
+
+제출: 2623, 정답: 1070, 맞힌 사람: 842, 정답 비율: 39.624%
+
+### 분류
+
+두 포인터
+
+### 문제 설명
+
+<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/7047e2fb-861b-43df-9d5e-23b23001c102/-/preview/" style="width: 120px; height: 104px;" /></p>
+
+<p>싫은데요 햄스터는 콩쥐를 위해서 깨진 독을 자기 몸으로 막으려고 한다.</p>
+
+<p>햄스터는 유체라 자기 몸을 그림처럼 늘릴 수 있다.</p>
+
+<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/fc7b80e6-a1fb-4e6f-a5bd-9fbbef6e349d/-/preview/" style="width: 591px; height: 186px;" /></p>
+
+<p>또, 햄스터는 유체라 자기 몸을 아래 그림처럼 늘릴 수도 있다.</p>
+
+<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/4f612b6a-fb6f-4315-ba9b-3682db7b5741/-/preview/" style="width: 591px; height: 180px;" /></p>
+
+<p>하지만 햄스터의 부피는 $M$으로 정해져 있기 때문에, 늘릴 수 있는 크기에는 한계가 있다.</p>
+
+<p>독에 왼쪽부터 $N$개의 구멍이 일렬로 뚫려 있고, $i$번째 구멍의 크기 $A_i$가 주어진다. 햄스터는 구멍을 막기 위해 정확히 그 크기만큼의 부피를 소모해야 한다.</p>
+
+<p>싫은데요 햄스터는 콩쥐에게 최대한 도움이 되길 원하기 때문에 자기 부피를 가능한 한 많이 활용하길 원한다.</p>
+
+<p>어떻게 막으면 햄스터가 원하는 방식으로 독을 막는지 구해서 알려주자.</p>
+
+<p>아무리 햄스터가 유체라고 하지만 몸을 둘로 나눌 수는 없기 때문에 막는 모든 구멍은 연속되어야 한다.</p>
+
+### 입력
+
+<p>입력은 아래와 같이 주어진다.</p>
+
+<div style="background:#eeeeee;border:1px solid #cccccc;padding:5px 10px;">
+<p>$N$ $M$</p>
+
+<p>$A_1$ $A_2$ ... $A_N$</p>
+</div>
+
+### 출력
+
+<p>구멍을 막는 데에 활용할 수 있는 최대 부피를 출력한다.</p>
+
+### 제한
+
+<ul>
+	<li>$1\leq N\leq 500\,000$</li>
+	<li>$1\leq M\leq 10^9$</li>
+	<li>$1\leq A_i\leq 10^9$</li>
+</ul>

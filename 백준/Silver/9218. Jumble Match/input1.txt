@@ -1,0 +1,16 @@
+cat
+10 act canto chest colt crest eject hutch scant tact track
+10 bitch cat civet cotta cut evict notch stack tic tuck
+2 cant chert
+0
+cat_
+10 act canto chest colt crest eject hutch scant tact track
+10 bitch cat civet cotta cut evict notch stack tic tuck
+2 cant chert
+0
+c_t_
+10 act canto chest colt crest eject hutch scant tact track
+10 bitch cat civet cotta cut evict notch stack tic tuck
+2 cant chert
+0
+.

@@ -1,0 +1,33 @@
+4 pellets
+FX            F
+ X      F    F 
+ X             
+ X             
+ X             
+ XX            
+               
+               
+               
+         F     
+               
+               
+      F  F     
+               
+              F
+
+GAME OVER
+F   X         F
+    X   F    F 
+ F             
+ F             
+               
+  F     F      
+               
+               
+               
+         F     
+               
+               
+      F  F     
+               
+              F

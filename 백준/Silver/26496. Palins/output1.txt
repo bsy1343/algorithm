@@ -1,0 +1,4 @@
+3 - "M" "O" "MOM"
+5 - "M" "A" "D" "ADA" "MADAM"
+3 - "T" "O" "TOT"
+4 - "A" "D" "M" "ADA"

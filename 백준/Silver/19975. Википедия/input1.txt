@@ -1,0 +1,15 @@
+2
+Cat
+2
+Kitten
+Cats
+3
+Cat is one of the most common pets, together with dogs.
+In the wild cats are often enemies of dogs.
+Growing together a dog and a cat can often be friends.
+Dog
+1
+Dogs
+2
+Dog is one of the most common pets, together with cats.
+DOG can also be an abbreviation.

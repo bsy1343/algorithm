@@ -1,0 +1,7 @@
+Cat
+Cat is one of the most common pets, together with [[Dog|dogs]].
+In the wild cats are often enemies of [[Dog|dogs]].
+Growing together a [[dog]] and a cat can often be friends.
+Dog
+Dog is one of the most common pets, together with [[Cat|cats]].
+DOG can also be an abbreviation.

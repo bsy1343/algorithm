@@ -1,0 +1,22 @@
+10 11 10
+3
+3
+2
+5
+4
+1
+7
+10
+9
+6
+8
+swap 11 10
+assign 9 11
+assign 1 5
+reset 2
+assign 5 11
+reset 11
+reset 9
+swap 8 4
+reset 7
+assign 11 6

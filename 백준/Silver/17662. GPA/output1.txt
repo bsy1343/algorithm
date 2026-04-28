@@ -1,0 +1,6 @@
+Data Set 1:
+Student 1
+GPA: 3.67
+CSCI: 3.63
+CENG: 3.53
+

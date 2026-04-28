@@ -1,0 +1,8 @@
+WHO is the best professor in WHERE.
+WHO teaches WHAT in WHERE.
+Students love WHO.
+We love WHAT.
+0
+HyungSoo Jung
+Hanyang University
+Database System Programming

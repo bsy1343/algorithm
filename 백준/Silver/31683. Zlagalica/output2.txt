@@ -1,0 +1,5 @@
+4 9
+.....aaaa
+.....aaaa
+bbbbbaaaa
+bbbbb....

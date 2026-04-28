@@ -1,0 +1,16 @@
+Player1 41
+Neutral 10
+Player2 50
+Player1 42
+Neutral 10
+Player2 50
+Player1 43
+Neutral 0
+Player2 50
+Player1 42
+Neutral 0
+Player2 50
+Player1 44
+Player1 11
+Player2 50
+Player2 20

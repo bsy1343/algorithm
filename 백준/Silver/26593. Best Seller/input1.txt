@@ -1,0 +1,7 @@
+pens 120 .12
+binders 120 1.15
+hats 24 6.00
+shoes 12 12.00
+rings 44 22.86
+coats 14 28.64
+boots 12 12.00

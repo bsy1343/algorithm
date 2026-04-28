@@ -1,0 +1,8 @@
+1 2 5
+1
+1
+assign 1 1
+reset 1
+assign 2 1
+reset 2
+swap 1 1

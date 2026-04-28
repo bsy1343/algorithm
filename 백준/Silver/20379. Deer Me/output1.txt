@@ -1,0 +1,6 @@
+         HERD     ADULT     ADULT     MALE     FEMALE     MALE     FEMALE
+YEAR     SIZE     MALES    FEMALES    FAWNS     FAWNS    NEWBORN   NEWBORN
+----   -------   -------   -------   -------   -------   -------   -------
+1994      9395      1703      3714      2058      1920      1372      1280
+1995     11424       667      3727      3652      3378      2897      2674
+1996     12984       553      3777      4500      4154      2907      2683

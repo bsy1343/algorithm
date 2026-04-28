@@ -1,0 +1,11 @@
+5
+TOM 12
+Veg 10
+SPG 15
+XXX 9
+swc 10
+3
+Alm 8
+SAL 6
+Tna 5
+0

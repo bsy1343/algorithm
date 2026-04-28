@@ -1,0 +1,10 @@
+Machine #1:
+yes
+yes
+no
+Machine #2:
+yes
+no
+Machine #3:
+no
+yes

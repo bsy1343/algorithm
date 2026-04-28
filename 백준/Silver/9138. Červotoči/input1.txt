@@ -1,0 +1,8 @@
+4 10 2
+Adam
+Bohus
+**A***BBB*
+*A**AAA*B*
+**AA***BBB
+****AA****
+0 0 0

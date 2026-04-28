@@ -1,0 +1,24 @@
+2
+1 1 2 5
+plasma shifter
+auxiliary matrix
+life support
+shields
+plasma shifter
+auxiliary matrix
+auxiliary matrix
+life support
+shields
+0 0 1 11
+shields
+shields
+shields
+shields
+shields
+shields
+shields
+shields
+shields
+shields
+shields
+shields

@@ -1,0 +1,49 @@
+# [Silver I] Pawn Shop - 24754
+
+[문제 링크](https://www.acmicpc.net/problem/24754)
+
+### 성능 요약
+
+시간 제한: 2 초 (추가 시간 없음), 메모리 제한: 1024 MB
+
+### 통계
+
+제출: 54, 정답: 39, 맞힌 사람: 34, 정답 비율: 70.833%
+
+### 분류
+
+자료 구조, 집합과 맵, 해시를 사용한 집합과 맵
+
+### 문제 설명
+
+<p>You run a tight ship at the pawn shop. You arrange certain items in the window to be displayed to the street. You sometimes display the same type of item multiple times. For simplicity, we think of the items on display as a sequence of values where the value represents the type of item being shown.</p>
+
+<p>For example, your display could be this sequence: \[ 1~~2~~6~~2~~7~~9~~8~~5 \]</p>
+
+<p>After coming back from your latest vacation, you find that your staff has completely rearranged the display by moving items around. Yikes! For example, the display above could be rearranged to: \[ 2~~6~~1~~2~~9~~7~~5~~8 \]</p>
+
+<p>You fear this could be the cause of confusion and may scare off repeat customers. But you don&#39;t have time to move items back to their original positions.</p>
+
+<p>As a compromise, you will put dividers up in the window to partition the displayed items into groups of consecutive items. Each group should be a rearrangement of the types of items that were in those positions in your preferred arrangement.</p>
+
+<p>More precisely, let $a_1, \ldots, a_N$ denote the first sequence and $b_1, \ldots, b_N$ denote the second sequence. You may place dividers around $i, i+1, \ldots, j$ if $b_i, b_{i+1}, \ldots, b_j$ is a rearrangement of $a_i, a_{i+1}, \ldots, a_j$. You do not need to put a divider at the beginning or end of the sequence. Note, if $a_i = b_i$ then a group may be formed using just this single index $i$.</p>
+
+<p>With the sequences above, you could place dividers <code>#</code> at three positions as indicated here: \[ 2~~6~~1~~\texttt{#}~~2~~\texttt{#}~~7~~9~~\texttt{#}~~5~~8 \]</p>
+
+<p>It is not possible to divide the sequence into more than four groups that have this property.</p>
+
+<p>Given the two sequences, determine how to partition the new sequence into the maximum possible number of groups.</p>
+
+### 입력
+
+<p>The first line of input contains a single integer $N$ ($1 \leq N \leq 300\,000$), which is the length of the two sequences.</p>
+
+<p>The next line contains $N$ integers $a_1, \ldots, a_N$ ($1 \leq a_i \leq 10^9$), which is the original sequence.</p>
+
+<p>The next line contains $N$ integers $b_1, \ldots, b_N$ ($1 \leq b_i \leq 10^9$), which is the rearranged sequence. The values $b_1, \ldots, b_N$ are a rearrangement of the values $a_1, \ldots, a_N$.</p>
+
+### 출력
+
+<p>Display the rearranged sequence with a valid and maximum placing of dividers (<code>#</code>).</p>
+
+<p>If there are multiple possible solutions, display any of them.</p>

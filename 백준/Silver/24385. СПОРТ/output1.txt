@@ -1,0 +1,6 @@
+acd
+adc
+cad
+cda
+dac
+dca

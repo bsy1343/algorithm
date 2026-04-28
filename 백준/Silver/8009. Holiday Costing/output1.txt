@@ -1,0 +1,5 @@
+Stay 1 night at Hotel xyz, pay 1.
+Stay 12 nights at Hotel xyz, pay 10.
+Stay 23 nights at Hotel xyz, pay 21.
+Stay 24 nights at Hotel xyz, pay 21.
+Stay 11 nights at Hotel abc, pay 11.

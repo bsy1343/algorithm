@@ -1,0 +1,6 @@
+5
+[{"name":"yooshnn","score":9815,"isHidden":1},
+{"name":"netcopjr","score":9811,"isHidden":0},
+{"name":"chlwnsgud","score":9811,"isHidden":0},
+{"name":"aym","score":9815,"isHidden":0},
+{"name":"sonhy","score":9807,"isHidden":0}]

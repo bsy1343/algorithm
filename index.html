@@ -299,6 +299,88 @@
     white-space: pre; line-height: 1.7;
   }
 
+  /* Jobs screen */
+  .jobs-screen { flex: 1; padding: 28px 32px; overflow-y: auto; }
+  .jobs-header { display: flex; align-items: center; gap: 16px; margin-bottom: 20px; flex-wrap: wrap; }
+  .jobs-title { font-size: 22px; font-weight: 600; color: var(--text); }
+  .jobs-meta { font-size: 11px; color: var(--text3); font-family: var(--mono); }
+  .jobs-meta .ok { color: var(--accent); }
+  .jobs-layout { display: grid; grid-template-columns: 1fr 360px; gap: 24px; }
+  @media (max-width: 1100px) { .jobs-layout { grid-template-columns: 1fr; } }
+
+  .calendar-card { background: var(--bg2); border: 1px solid var(--border); border-radius: var(--radius); padding: 16px; }
+  .cal-nav { display: flex; align-items: center; gap: 12px; margin-bottom: 14px; }
+  .cal-nav .month { font-size: 15px; font-weight: 600; color: var(--text); flex: 1; font-family: var(--mono); }
+  .cal-nav button {
+    background: var(--bg3); border: 1px solid var(--border); color: var(--text2);
+    border-radius: var(--radius-sm); padding: 4px 10px; font-size: 12px;
+    cursor: pointer; font-family: var(--mono);
+  }
+  .cal-nav button:hover { color: var(--text); border-color: var(--border2); }
+  .cal-grid { display: grid; grid-template-columns: repeat(7, 1fr); gap: 4px; }
+  .cal-dow { font-size: 10px; color: var(--text3); padding: 4px; text-align: center; font-family: var(--mono); letter-spacing: 0.04em; }
+  .cal-cell {
+    aspect-ratio: 1.1; padding: 6px;
+    background: var(--bg3); border: 1px solid transparent; border-radius: var(--radius-sm);
+    cursor: default; position: relative; overflow: hidden;
+  }
+  .cal-cell.dim { opacity: 0.35; }
+  .cal-cell.has-jobs { cursor: pointer; }
+  .cal-cell.has-jobs:hover { border-color: var(--border2); }
+  .cal-cell.active { border-color: var(--accent); background: var(--bg); }
+  .cal-cell.today { box-shadow: inset 0 0 0 1px var(--gold); }
+  .cal-day { font-size: 11px; color: var(--text2); font-family: var(--mono); margin-bottom: 4px; }
+  .cal-cell.today .cal-day { color: var(--gold); font-weight: 600; }
+  .cal-dots { display: flex; flex-wrap: wrap; gap: 2px; }
+  .cal-dot { width: 6px; height: 6px; border-radius: 50%; }
+  .cal-count { font-size: 10px; color: var(--text3); font-family: var(--mono); }
+
+  .jobs-side { display: flex; flex-direction: column; gap: 16px; }
+  .jobs-list-card { background: var(--bg2); border: 1px solid var(--border); border-radius: var(--radius); padding: 16px; }
+  .jobs-list-title { font-size: 12px; color: var(--text2); font-family: var(--mono); margin-bottom: 12px; letter-spacing: 0.04em; }
+  .job-item {
+    padding: 10px; background: var(--bg3); border-radius: var(--radius-sm);
+    margin-bottom: 6px; border: 1px solid transparent; transition: border-color 0.15s;
+  }
+  .job-item:hover { border-color: var(--border2); }
+  .job-item-top { display: flex; align-items: center; gap: 6px; margin-bottom: 4px; }
+  .job-company-dot { width: 6px; height: 6px; border-radius: 50%; flex-shrink: 0; }
+  .job-company { font-size: 10px; color: var(--text3); font-family: var(--mono); }
+  .job-deadline { font-size: 10px; color: var(--gold); font-family: var(--mono); margin-left: auto; }
+  .job-deadline.urgent { color: var(--danger); }
+  .job-title { font-size: 13px; color: var(--text); margin-bottom: 2px; }
+  .job-title a { color: var(--text); text-decoration: none; }
+  .job-title a:hover { color: var(--accent); }
+  .job-meta { font-size: 10px; color: var(--text3); font-family: var(--mono); }
+
+  /* Bottom config panel */
+  .jobs-config-panel {
+    margin-top: 28px; background: var(--bg2); border: 1px solid var(--border);
+    border-radius: var(--radius); padding: 18px;
+  }
+  .jcp-title { font-size: 13px; color: var(--text2); margin-bottom: 12px; font-family: var(--mono); letter-spacing: 0.04em; }
+  .jcp-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 24px; }
+  @media (max-width: 800px) { .jcp-grid { grid-template-columns: 1fr; } }
+  .jcp-section h4 { font-size: 11px; color: var(--text3); margin: 0 0 8px 0; font-family: var(--mono); letter-spacing: 0.04em; text-transform: uppercase; }
+  .jcp-tags { display: flex; flex-wrap: wrap; gap: 4px; }
+  .jcp-tag {
+    font-size: 11px; padding: 3px 8px; border-radius: 10px;
+    background: var(--bg3); border: 1px solid var(--border);
+    color: var(--text2); font-family: var(--mono);
+  }
+  .jcp-tag.exclude { color: var(--text3); }
+  .jcp-tag.exclude::before { content: '−'; color: var(--danger); margin-right: 4px; }
+  .jcp-tag.include::before { content: '+'; color: var(--accent); margin-right: 4px; }
+  .jcp-companies { display: grid; grid-template-columns: repeat(auto-fill, minmax(140px,1fr)); gap: 6px; }
+  .jcp-company {
+    padding: 8px 10px; background: var(--bg3); border-radius: var(--radius-sm);
+    font-size: 11px; font-family: var(--mono); display: flex; align-items: center; gap: 6px;
+  }
+  .jcp-company.disabled { opacity: 0.4; }
+  .jcp-company-status { width: 6px; height: 6px; border-radius: 50%; flex-shrink: 0; }
+  .jcp-hint { font-size: 11px; color: var(--text3); font-family: var(--mono); margin-top: 12px; padding-top: 12px; border-top: 1px solid var(--border); }
+  .jcp-hint code { background: var(--bg3); border: 1px solid var(--border); border-radius: 3px; padding: 1px 5px; color: var(--text2); }
+
   /* Editor */
   .editor {
     width: 100%; min-height: 320px; resize: vertical;
@@ -344,6 +426,7 @@
     <div class="topbar-logo" id="topbar-logo" title="홈 + 새로고침">boj<span>.</span>study</div>
     <div class="topbar-spacer"></div>
     <span class="stat-chip" id="stat-chip"></span>
+    <button class="topbar-btn" id="jobs-btn" title="IT 채용 공고 (3일마다 갱신)">채용</button>
     <button class="topbar-btn" id="refresh-btn" title="GitHub 트리 강제 갱신">새로고침</button>
   </header>
   <aside class="sidebar"><div class="loading">트리 로딩 대기...</div></aside>
@@ -1328,6 +1411,7 @@
         App.goHome();
         await App.reloadTree({ force: true });
       });
+      document.getElementById('jobs-btn')?.addEventListener('click', () => App.showJobs());
     },
 
     setChip(text, tone = '') {
@@ -1370,6 +1454,238 @@
         }
         window.open(url, '_blank', 'noopener');
       });
+    },
+  };
+
+  /* ========================================================
+   * JobsView — IT job postings: calendar + list + config panel.
+   * Data fetched from data/jobs-latest.json (refreshed every 3 days
+   * by .github/workflows/fetch-jobs.yml).
+   * ======================================================== */
+  const JobsView = {
+    state: { config: null, snapshot: null, viewMonth: null, selectedDate: null },
+
+    COMPANY_COLORS: {
+      daangn: '#ff6f0f', autoever: '#1f51a3', toss: '#3182f6',
+      kakao: '#fee500', naver: '#03c75a', lgcns: '#a50034',
+      hyundai: '#002c5f', cj: '#cc0033',
+    },
+
+    async load() {
+      try {
+        const [cfg, snap] = await Promise.all([
+          fetch('data/jobs-config.json').then(r => r.ok ? r.json() : null),
+          fetch('data/jobs-latest.json').then(r => r.ok ? r.json() : null),
+        ]);
+        this.state.config = cfg;
+        this.state.snapshot = snap;
+      } catch (e) {
+        console.warn('[Jobs] load failed:', e);
+      }
+    },
+
+    parseDeadline(s) {
+      if (!s) return null;
+      const m = s.match(/(\d{4})[.-](\d{2})[.-](\d{2})/);
+      if (m) return new Date(+m[1], +m[2] - 1, +m[3]);
+      const dd = s.match(/^D-(\d+)$/);
+      if (dd) {
+        const t = new Date();
+        t.setDate(t.getDate() + +dd[1]);
+        t.setHours(0, 0, 0, 0);
+        return t;
+      }
+      return null;
+    },
+
+    groupByDate() {
+      const map = {};
+      const jobs = this.state.snapshot?.jobs || [];
+      for (const j of jobs) {
+        const d = this.parseDeadline(j.deadline);
+        if (!d) continue;
+        const key = d.toISOString().slice(0, 10);
+        (map[key] = map[key] || []).push(j);
+      }
+      return map;
+    },
+
+    async render() {
+      await this.load();
+      const main = document.querySelector('.main');
+      if (!main) return;
+      const snap = this.state.snapshot;
+      if (!snap) {
+        main.innerHTML = `<div class="jobs-screen"><div class="jobs-title">채용</div>
+          <p style="color:var(--text3);margin-top:12px;font-family:var(--mono);font-size:12px;">
+          아직 데이터 없음. <code>data/jobs-latest.json</code>이 생성되면 표시됩니다.<br>
+          (3일마다 GitHub Actions가 자동 갱신, 또는 <code>node scripts/fetch-jobs.mjs</code> 수동 실행)
+          </p></div>`;
+        return;
+      }
+      if (!this.state.viewMonth) this.state.viewMonth = new Date();
+      const fetched = new Date(snap.fetchedAt);
+      const ago = Math.floor((Date.now() - fetched.getTime()) / (24*3600*1000));
+
+      main.innerHTML = `
+        <div class="jobs-screen">
+          <div class="jobs-header">
+            <div class="jobs-title">📅 채용</div>
+            <div class="jobs-meta">
+              총 <span class="ok">${snap.totalCount}</span>건
+              · 마지막 갱신 ${ago === 0 ? '오늘' : ago + '일 전'} (${fetched.toLocaleString('ko-KR')})
+              ${snap.errors?.length ? `· <span style="color:var(--danger)">에러 ${snap.errors.length}</span>` : ''}
+            </div>
+          </div>
+          <div class="jobs-layout">
+            <div class="calendar-card" id="calendar-card"></div>
+            <div class="jobs-side">
+              <div class="jobs-list-card" id="jobs-list-card"></div>
+            </div>
+          </div>
+          <div class="jobs-config-panel" id="jobs-config-panel"></div>
+        </div>
+      `;
+      this.renderCalendar();
+      this.renderList();
+      this.renderConfigPanel();
+    },
+
+    renderCalendar() {
+      const root = document.getElementById('calendar-card');
+      if (!root) return;
+      const vm = this.state.viewMonth;
+      const year = vm.getFullYear(), month = vm.getMonth();
+      const first = new Date(year, month, 1);
+      const last = new Date(year, month + 1, 0);
+      const startWday = first.getDay();
+      const today = new Date(); today.setHours(0,0,0,0);
+      const grouped = this.groupByDate();
+
+      let cells = '';
+      // Trailing days from prev month
+      for (let i = 0; i < startWday; i++) {
+        const d = new Date(year, month, -startWday + i + 1);
+        cells += `<div class="cal-cell dim"><div class="cal-day">${d.getDate()}</div></div>`;
+      }
+      for (let day = 1; day <= last.getDate(); day++) {
+        const d = new Date(year, month, day);
+        const key = d.toISOString().slice(0, 10);
+        const jobs = grouped[key] || [];
+        const isToday = d.getTime() === today.getTime();
+        const sel = this.state.selectedDate === key;
+        const dots = jobs.slice(0, 6).map(j =>
+          `<span class="cal-dot" style="background:${this.COMPANY_COLORS[j.companyId] || '#888'}"></span>`).join('');
+        cells += `<div class="cal-cell ${jobs.length ? 'has-jobs' : ''} ${isToday ? 'today' : ''} ${sel ? 'active' : ''}" data-date="${key}">
+          <div class="cal-day">${day}</div>
+          <div class="cal-dots">${dots}</div>
+          ${jobs.length > 6 ? `<div class="cal-count">+${jobs.length - 6}</div>` : ''}
+        </div>`;
+      }
+
+      root.innerHTML = `
+        <div class="cal-nav">
+          <button id="cal-prev">&lt;</button>
+          <div class="month">${year}년 ${month + 1}월</div>
+          <button id="cal-today">오늘</button>
+          <button id="cal-next">&gt;</button>
+        </div>
+        <div class="cal-grid">
+          ${['일','월','화','수','목','금','토'].map(d => `<div class="cal-dow">${d}</div>`).join('')}
+          ${cells}
+        </div>
+      `;
+      document.getElementById('cal-prev').onclick = () => { vm.setMonth(month - 1); this.renderCalendar(); };
+      document.getElementById('cal-next').onclick = () => { vm.setMonth(month + 1); this.renderCalendar(); };
+      document.getElementById('cal-today').onclick = () => { this.state.viewMonth = new Date(); this.state.selectedDate = null; this.renderCalendar(); this.renderList(); };
+      root.querySelectorAll('.cal-cell.has-jobs').forEach(el => {
+        el.onclick = () => {
+          this.state.selectedDate = el.dataset.date;
+          this.renderCalendar();
+          this.renderList();
+        };
+      });
+    },
+
+    renderList() {
+      const root = document.getElementById('jobs-list-card');
+      if (!root) return;
+      const allJobs = this.state.snapshot?.jobs || [];
+      const grouped = this.groupByDate();
+      let title, list;
+      if (this.state.selectedDate) {
+        title = `${this.state.selectedDate} 마감 (${(grouped[this.state.selectedDate]||[]).length}건)`;
+        list = grouped[this.state.selectedDate] || [];
+      } else {
+        // Default: 마감 임박 14일 + 마감일 미정 공고
+        const now = new Date(); now.setHours(0,0,0,0);
+        const cutoff = new Date(now); cutoff.setDate(cutoff.getDate() + 14);
+        const urgent = allJobs.filter(j => {
+          const d = this.parseDeadline(j.deadline);
+          return d && d >= now && d <= cutoff;
+        }).sort((a,b) => this.parseDeadline(a.deadline) - this.parseDeadline(b.deadline));
+        const undated = allJobs.filter(j => !this.parseDeadline(j.deadline));
+        list = [...urgent, ...undated];
+        title = `📍 마감 임박 + 상시 (${list.length}건)`;
+      }
+      const html = list.length ? list.slice(0, 30).map(j => {
+        const d = this.parseDeadline(j.deadline);
+        const days = d ? Math.ceil((d - new Date()) / (24*3600*1000)) : null;
+        const urgent = days !== null && days <= 7;
+        const dlText = days !== null ? `D-${Math.max(0, days)}` : (j.deadline || '-');
+        return `<div class="job-item">
+          <div class="job-item-top">
+            <span class="job-company-dot" style="background:${this.COMPANY_COLORS[j.companyId]||'#888'}"></span>
+            <span class="job-company">${esc(j.company)}</span>
+            <span class="job-deadline ${urgent?'urgent':''}">${esc(dlText)}</span>
+          </div>
+          <div class="job-title">${j.url ? `<a href="${esc(j.url)}" target="_blank" rel="noopener">${esc(j.title)}</a>` : esc(j.title)}</div>
+          ${j.department || j.location ? `<div class="job-meta">${esc(j.department || '')}${j.location ? ' · ' + esc(j.location) : ''}</div>` : ''}
+        </div>`;
+      }).join('') : `<div style="font-size:12px;color:var(--text3);padding:8px 0;font-family:var(--mono);">해당 기간 공고 없음</div>`;
+      root.innerHTML = `<div class="jobs-list-title">${esc(title)}</div>${html}`;
+    },
+
+    renderConfigPanel() {
+      const root = document.getElementById('jobs-config-panel');
+      if (!root) return;
+      const cfg = this.state.config;
+      if (!cfg) {
+        root.innerHTML = `<div class="jcp-title">설정</div>
+          <div style="font-size:11px;color:var(--text3);font-family:var(--mono);">data/jobs-config.json 로드 실패</div>`;
+        return;
+      }
+      const includeTags = (cfg.filters?.include || []).map(t => `<span class="jcp-tag include">${esc(t)}</span>`).join('');
+      const excludeTags = (cfg.filters?.exclude || []).map(t => `<span class="jcp-tag exclude">${esc(t)}</span>`).join('');
+      const errs = new Set((this.state.snapshot?.errors || []).map(e => e.company));
+      const companyChips = (cfg.companies || []).map(c => {
+        const status = c.enabled === false ? '#444' : (errs.has(c.name) ? 'var(--danger)' : 'var(--accent)');
+        return `<div class="jcp-company ${c.enabled === false ? 'disabled' : ''}">
+          <span class="jcp-company-status" style="background:${status}"></span>
+          <span>${esc(c.name)}</span>
+          <span style="margin-left:auto;color:var(--text3);font-size:10px;">${esc(c.fetcher)}</span>
+        </div>`;
+      }).join('');
+
+      root.innerHTML = `
+        <div class="jcp-title">⚙️ 설정 (data/jobs-config.json 직접 편집)</div>
+        <div class="jcp-grid">
+          <div class="jcp-section">
+            <h4>회사 (${(cfg.companies||[]).length})</h4>
+            <div class="jcp-companies">${companyChips}</div>
+          </div>
+          <div class="jcp-section">
+            <h4>포함 키워드 (${(cfg.filters?.include||[]).length})</h4>
+            <div class="jcp-tags">${includeTags}</div>
+            <h4 style="margin-top:14px;">제외 키워드 (${(cfg.filters?.exclude||[]).length})</h4>
+            <div class="jcp-tags">${excludeTags}</div>
+          </div>
+        </div>
+        <div class="jcp-hint">
+          편집 후 <code>node scripts/fetch-jobs.mjs</code>로 즉시 갱신, 또는 GitHub Actions <code>Fetch IT job postings</code> 워크플로우를 수동 실행하세요.
+          크론은 매월 1·4·7·10·13·16·19·22·25·28일 KST 00:00 자동 실행됩니다.
+        </div>
+      `;
     },
   };
 
@@ -1429,6 +1745,12 @@
       Sidebar.buildTabs();
       Sidebar.renderList();
       this.renderHome();
+    },
+
+    async showJobs() {
+      State.currentProblem = null;
+      Sidebar.renderList();
+      await JobsView.render();
     },
 
     renderHome() {

@@ -1,0 +1,3 @@
+Scenario 1: smallest average = 2.3333
+
+Scenario 2: smallest average = 1.0000

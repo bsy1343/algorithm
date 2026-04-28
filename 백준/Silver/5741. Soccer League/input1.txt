@@ -1,0 +1,12 @@
+3
+Warriors 0 x 3 Sundance
+Sundance 3 x 2 Cats
+Cats 2 x 2 Warriors
+6
+Goalies 1 x 1 Wallops
+Wallops 1 x 1 Guardian
+Guardian 1 x 1 Goalies
+Artists 1 x 1 Goalies
+Artists 1 x 1 Guardian
+Wallops 1 x 1 Artists
+0

@@ -1,0 +1,17 @@
+URL #1
+Protocol = ftp
+Host     = acm.baylor.edu
+Port     = 1234
+Path     = pub/staff/mr-p
+
+URL #2
+Protocol = http
+Host     = www.informatik.uni-ulm.de
+Port     = <default>
+Path     = acm
+
+URL #3
+Protocol = gopher
+Host     = veryold.edu
+Port     = <default>
+Path     = <default>

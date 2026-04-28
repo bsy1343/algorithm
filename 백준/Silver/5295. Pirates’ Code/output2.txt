@@ -1,0 +1,1 @@
+Sequence is not 3-free. Witness: -7,-1,5.

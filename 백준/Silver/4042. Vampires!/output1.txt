@@ -1,0 +1,5 @@
+Case 1:
+vampire 1 east
+vampire 2 east north
+Case 2:
+none

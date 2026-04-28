@@ -1,0 +1,14 @@
+Data Set 1:
+2
+1 0 1
+
+Data Set 2:
+6
+3 3 3 3
+
+Data Set 3:
+16
+13 14 10 13 11 14 14 15
+
+Data Set 4:
+No such base.

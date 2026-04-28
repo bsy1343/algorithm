@@ -1,0 +1,9 @@
+import java.io.*;
+import java.util.*;
+
+public class Main {
+
+    public static void main(String[] args) throws IOException {
+        // TODO: 외계인의 기타 연주
+    }
+}

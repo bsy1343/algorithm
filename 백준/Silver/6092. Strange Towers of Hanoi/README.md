@@ -1,0 +1,56 @@
+# [Silver II] Strange Towers of Hanoi - 6092
+
+[문제 링크](https://www.acmicpc.net/problem/6092)
+
+### 성능 요약
+
+시간 제한: 1 초, 메모리 제한: 128 MB
+
+### 통계
+
+제출: 437, 정답: 212, 맞힌 사람: 161, 정답 비율: 47.633%
+
+### 분류
+
+다이나믹 프로그래밍, 런타임 전의 전처리
+
+### 문제 설명
+
+<p>Charlie Darkbrown sits in another one of those boring Computer Science lessons: At the moment the teacher just explains the standard Tower of Hanoi problem, which bores Charlie to death!&nbsp;</p>
+
+<p style="text-align: center;"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/6092/1.png" /></p>
+
+<p style="text-align: center;">Figure 4: The standard (three) Towers of Hanoi.</p>
+
+<p>The teacher points to the blackboard (Fig. 4) and says: &quot;So here is the problem:&nbsp;</p>
+
+<ul>
+	<li>There are three towers: A, B and C.&nbsp;</li>
+	<li>There are n disks. The number n is constant while working the puzzle.&nbsp;</li>
+	<li>All disks are different in size.&nbsp;</li>
+	<li>The disks are initially stacked on tower A increasing in size from the top to the bottom.&nbsp;</li>
+	<li>The goal of the puzzle is to transfer all of the disks from tower A to tower C.&nbsp;</li>
+	<li>One disk at a time can be moved from the top of a tower either to an empty tower or to a tower with a larger disk on the top.</li>
+</ul>
+
+<p>So your task is to write a program that calculates the smallest number of disk moves necessary to move all the disks from tower A to C.&quot;&nbsp;</p>
+
+<p>Charlie: &quot;This is incredibly boring&mdash;everybody knows that this can be solved using a simple recursion.I deny to code something as simple as this!&quot;&nbsp;</p>
+
+<p>The teacher sighs: &quot;Well, Charlie, let&#39;s think about something for you to do: For you there is a fourth tower D. Calculate the smallest number of disk moves to move all the disks from tower A to tower D using all four towers.&quot;&nbsp;</p>
+
+<p>Charlie looks irritated: &quot;Urgh. . . Well, I don&#39;t know an optimal algorithm for four towers. . . &quot;&nbsp;</p>
+
+<p>So the real problem is that problem solving does not belong to the things Charlie is good at. Actually, the only thing Charlie is really good at is &quot;sitting next to someone who can do the job&quot;. And now guess what &mdash; exactly! It is you who is sitting next to Charlie, and he is already glaring at you.&nbsp;</p>
+
+<p>Luckily, you know that the following algorithm works for n &lt;= 12: At first k &gt;= 1 disks on tower A are fixed and the remaining n-k disks are moved from tower A to tower B using the algorithm for four towers.Then the remaining k disks from tower A are moved to tower D using the algorithm for three towers. At last the n - k disks from tower B are moved to tower D again using the algorithm for four towers (and thereby not moving any of the k disks already on tower D). Do this for all k 2 &isin;{1, .... , n} and find the k with the minimal number of moves.&nbsp;</p>
+
+<p>So for n = 3 and k = 2 you would first move 1 (3-2) disk from tower A to tower B using the algorithm for four towers (one move). Then you would move the remaining two disks from tower A to tower D using the algorithm for three towers (three moves). And the last step would be to move the disk from tower B to tower D using again the algorithm for four towers (another move). Thus the solution for n = 3 and k = 2 is 5 moves. To be sure that this really is the best solution for n = 3 you need to check the other possible values 1 and 3 for k. (But, by the way, 5 is optimal. . . )</p>
+
+### 입력
+
+<p>There is no input.</p>
+
+### 출력
+
+<p>For each n (1 &lt;= n &lt;= 12) print a single line containing the minimum number of moves to solve the problem for four towers and n disks.</p>

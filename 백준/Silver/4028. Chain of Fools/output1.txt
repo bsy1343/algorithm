@@ -1,0 +1,4 @@
+Case 1: 1 8/40
+Case 2: 0 16/20
+Case 3: 25 32/40
+Case 4: Never

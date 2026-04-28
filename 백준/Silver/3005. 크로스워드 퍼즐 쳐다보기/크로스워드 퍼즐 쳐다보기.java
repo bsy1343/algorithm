@@ -1,0 +1,9 @@
+import java.io.*;
+import java.util.*;
+
+public class Main {
+
+    public static void main(String[] args) throws IOException {
+        // TODO: 크로스워드 퍼즐 쳐다보기
+    }
+}

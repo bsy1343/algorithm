@@ -1,0 +1,4 @@
+1: Bad brain
+2: Good brain
+3: Good brain
+4: Bad brain

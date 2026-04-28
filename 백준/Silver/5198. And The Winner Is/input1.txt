@@ -1,0 +1,12 @@
+1
+5 2 5
+1 Jay Bulworth
+1 Hugh Waldron
+2 USC
+2 UCLA
+2 CalTech
+xx###
+x#x##
+####x
+xx#x#
+x####

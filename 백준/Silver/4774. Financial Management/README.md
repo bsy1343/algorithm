@@ -1,0 +1,27 @@
+# [Silver III] Financial Management - 4774
+
+[문제 링크](https://www.acmicpc.net/problem/4774)
+
+### 성능 요약
+
+시간 제한: 1 초, 메모리 제한: 128 MB
+
+### 통계
+
+제출: 620, 정답: 71, 맞힌 사람: 40, 정답 비율: 11.696%
+
+### 분류
+
+사칙연산, 구현, 수학
+
+### 문제 설명
+
+<p>Larry graduated this year and finally has a job. He&rsquo;s making a lot of money, but somehow never seems to have enough. Larry has decided that he needs to grab hold of his financial portfolio and solve his financing problems. The first step is to figure out what&rsquo;s been going on with his money. Larry has his bank account statements and wants to see how much money he has. Help Larry by writing a program to take his closing balance from each of the past twelve months and calculate his average account balance.</p>
+
+### 입력
+
+<p>The input will be twelve lines. Each line will contain the closing balance of his bank account for a particular month. Each number will be positive and displayed to the penny. No dollar sign will be included.</p>
+
+### 출력
+
+<p>The output will be a single number, the average (mean) of the closing balances for the twelve months. It will be rounded to the nearest penny, preceded immediately by a dollar sign, and followed by the end-of-line. There will be no other spaces or characters in the output.</p>

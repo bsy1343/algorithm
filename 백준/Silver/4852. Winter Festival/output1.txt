@@ -1,0 +1,7 @@
+Party number 1
+Marie to Sally to George to Marie.
+Fred to Alice to Bob to Gordon to Fred.
+
+Party number 2
+Alice to Bob to Gordon to Fred to Alice.
+Marie to Sally to George to Marie.

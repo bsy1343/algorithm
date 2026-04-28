@@ -1,0 +1,17 @@
+Marie Sally
+Fred Alice
+Bob Gordon
+George Marie
+Gordon Fred
+Sally George
+Alice Bob
+#
+Alice Bob
+Marie Sally
+Fred Alice
+Bob Gordon
+George Marie
+Gordon Fred
+Sally George
+#
+#

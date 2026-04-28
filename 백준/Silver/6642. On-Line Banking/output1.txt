@@ -1,0 +1,20 @@
+withdraw 20.00: ok
+deposit 35.00: ok
+withdraw 200.00: insufficient funds
+transfer 100.50: ok
+transfer 50.00: interbank
+create: already exists
+create: ok
+transfer 100.00: same account
+transfer 100.00: insufficient funds
+withdraw 100.00: no such account
+deposit 0.11: no such account
+transfer 10000.00: no such account
+end
+
+deposit 6.92: ok
+withdraw 9.68: ok
+withdraw 6.64: ok
+end
+
+goodbye

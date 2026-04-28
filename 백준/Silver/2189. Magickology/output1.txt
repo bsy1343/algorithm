@@ -1,0 +1,3 @@
+Square 1: Not a Magick Square
+Square 2: Semi-Magick Square
+Square 3: Magically-Magick Square

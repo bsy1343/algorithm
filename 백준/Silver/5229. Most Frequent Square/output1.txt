@@ -1,0 +1,8 @@
+LENGTH = 1, COUNT = 1
+No squares among the points.
+LENGTH = 2, COUNT = 1
+LENGTH = 1, COUNT = 4
+LENGTH = 2, COUNT = 4
+LENGTH = 1, COUNT = 1
+LENGTH = 1, COUNT = 1
+LENGTH = 2, COUNT = 2

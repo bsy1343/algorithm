@@ -1,0 +1,3 @@
+Firefly 1 caught at (6,6)
+Firefly 2 not caught
+Firefly 3 caught at (50,50)

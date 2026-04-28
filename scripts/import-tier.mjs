@@ -169,8 +169,10 @@ async function main() {
   for (let i = 0; i < ids.length; i++) {
     const id = ids[i];
     const m = meta[id];
+    let lastStatus = null;
     try {
       const r = await importOne(id, m, { rootDir, refreshReadme });
+      lastStatus = r.status;
       if (r.status === 'imported') imported++;
       else if (r.status === 'readme-refreshed') refreshed++;
       else if (r.status === 'skipped') skipped++;
@@ -187,9 +189,10 @@ async function main() {
       await log(`progress ${i + 1}/${ids.length} | imported ${imported} refreshed ${refreshed} skipped ${skipped} notFound ${notFound} failed ${failed} (current id ${id})`);
     }
 
-    // Polite delay only for actual fetches (skip happens fast — no delay)
-    // We can't easily know what the previous result was here, so always wait.
-    await sleep(delayMs);
+    // Polite delay only when we actually hit BOJ. existsSync skip = no network.
+    if (lastStatus !== 'skipped') {
+      await sleep(delayMs);
+    }
   }
 
   await writeFile(FAIL_FILE, JSON.stringify(failures, null, 2));

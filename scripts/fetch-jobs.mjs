@@ -156,24 +156,46 @@ async function fetchPlaywright(params) {
         .replace(/\n{2,}/g, '\n');
       const jobs = [];
       const seen = new Set();
-      const push = (title, deadline, dept, loc) => {
+      // Normalize any deadline form to ISO date (or '상시' if open-ended).
+      const normalize = (raw) => {
+        if (!raw) return '';
+        const abs = raw.match(/(\d{4})[.-](\d{1,2})[.-](\d{1,2})/);
+        if (abs) return `${abs[1]}-${String(abs[2]).padStart(2,'0')}-${String(abs[3]).padStart(2,'0')}`;
+        const dd = raw.match(/D-(\d+)/);
+        if (dd) {
+          const d = new Date();
+          d.setHours(0,0,0,0);
+          d.setDate(d.getDate() + +dd[1]);
+          return d.toISOString().slice(0, 10);
+        }
+        if (/상시|채용시까지|채용종료시/.test(raw)) return '';
+        return raw.trim();
+      };
+      const push = (title, dCode, dept, loc, dAbs) => {
         const t = title.replace(/^공유\s*/, '').trim();
         if (!t || t.length < 5 || /^채용|^전체|^본문|^로그인|^더보기|^선택|^등록일|^신규/.test(t)) return;
-        const k = t + '|' + deadline;
-        if (seen.has(k)) return;
-        seen.add(k);
-        jobs.push({ title: t, department: (dept||'').trim(), location: (loc||'').trim(), deadline: deadline.trim(), url: '' });
+        // Prefer absolute date (more accurate); fall back to D-N translation.
+        const deadline = normalize(dAbs || dCode);
+        // Dedup key strips bracket prefixes like "[LG CNS]" so patternA/C don't double-emit.
+        const dedup = t.replace(/^\[[^\]]+\]\s*/, '').trim() + '|' + deadline;
+        if (seen.has(dedup)) return;
+        seen.add(dedup);
+        jobs.push({ title: t, department: (dept||'').trim(), location: (loc||'').trim(), deadline, url: '' });
       };
       // Pattern A (현대차 style — 6 lines): title \n D-N \n tag \n tag \n tag \n tag
       const reA = /([^\n]{5,150})\n(D-\d+|채용시까지|상시|마감)\n([^\n]+)\n([^\n]+)\n([^\n]+)\n([^\n]+)/g;
       let m;
-      while ((m = reA.exec(text)) !== null) push(m[1], m[2], m[6] || m[3], m[5]);
+      while ((m = reA.exec(text)) !== null) {
+        // 6 lines may include an absolute date in field 3 or 5 — try both.
+        const dateGuess = [m[3], m[5]].find(s => /\d{4}[.-]\d{1,2}[.-]\d{1,2}/.test(s));
+        push(m[1], m[2], m[6] || m[3], m[5], dateGuess);
+      }
       // Pattern B (CJ — 8 lines): title \n co \n D-N \n date~date \n career \n type \n loc \n dept
       const reB = /([^\n]{5,150})\n([^\n]+)\n(D-\d+|상시|마감|채용시까지)\n(\d{4}\.\d{2}\.\d{2}[^\n]*)\n([^\n]+)\n([^\n]+)\n([^\n]+)\n([^\n]+)/g;
-      while ((m = reB.exec(text)) !== null) push(m[1], m[3], m[8], m[7]);
+      while ((m = reB.exec(text)) !== null) push(m[1], m[3], m[8], m[7], m[4]);
       // Pattern C (LG CNS — 7 lines): co \n [co] title \n D-N \n date \n career \n co \n category
       const reC = /([^\n]+)\n\[[^\]]+\]\s*([^\n]{3,150})\n(D-\d+|상시|마감|채용시까지)\n(\d{4}\.\d{2}\.\d{2}[^\n]*)\n([^\n]+)\n([^\n]+)\n([^\n]+)/g;
-      while ((m = reC.exec(text)) !== null) push(m[2], m[3], m[7], '');
+      while ((m = reC.exec(text)) !== null) push(m[2], m[3], m[7], '', m[4]);
       return jobs;
     }
 
@@ -194,13 +216,25 @@ async function fetchPlaywright(params) {
     }, { selector, filterByText });
 
     return items.map(({ text, href }) => {
-      // D-N takes precedence; fall back to absolute date in either format.
-      const dl = text.match(/D-\d+|상시|채용시까지|채용종료시|마감|\d{4}\.\d{2}\.\d{2}|\d{4}년\s?\d{1,2}월\s?\d{1,2}일/);
+      // Prefer absolute date (most accurate). D-N is fetch-time relative — convert now.
+      const abs = text.match(/(\d{4})[.-](\d{1,2})[.-](\d{1,2})|(\d{4})년\s?(\d{1,2})월\s?(\d{1,2})일/);
+      const dd = text.match(/D-(\d+)/);
+      let deadline = '';
+      if (abs) {
+        const y = abs[1] || abs[4], mm = abs[2] || abs[5], d = abs[3] || abs[6];
+        deadline = `${y}-${String(mm).padStart(2,'0')}-${String(d).padStart(2,'0')}`;
+      } else if (dd) {
+        const t = new Date(); t.setHours(0,0,0,0);
+        t.setDate(t.getDate() + +dd[1]);
+        deadline = t.toISOString().slice(0, 10);
+      } else if (/상시|채용시까지|채용종료시|마감/.test(text)) {
+        deadline = '';
+      }
       return {
         title: text.split('\n')[0].split(/\s{2,}|・|\|/)[0].trim().slice(0, 200),
         department: '',
         location: '',
-        deadline: dl ? dl[0] : '',
+        deadline,
         url: href,
         _raw: text.slice(0, 200),
       };
@@ -239,8 +273,12 @@ async function main() {
       else if (c.fetcher === 'next-data') raw = await fetchNextData(c.params);
       else if (c.fetcher === 'playwright') raw = await fetchPlaywright(c.params);
       else throw new Error(`unknown fetcher: ${c.fetcher}`);
+      // Fallback url: link to the company's main listing page if individual url is empty
+      // (parseFromBodyText extractors can't reliably attach per-job URLs).
+      const fallbackUrl = c.params?.url || '';
       const filtered = raw.filter(j => passesFilter(j, filters)).map(j => ({
         company: c.name, companyId: c.id, ...j,
+        url: j.url || fallbackUrl,
       }));
       log(`   raw=${raw.length} filtered=${filtered.length}`);
       results.push(...filtered);

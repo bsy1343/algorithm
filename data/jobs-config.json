@@ -9,13 +9,15 @@
       "architect", "아키텍트", "아키텍처",
       "software engineer", "software developer",
       "web developer", "웹 개발자", "웹개발자",
+      "engineer", "엔지니어", "developer", "개발자",
       "platform", "플랫폼",
       "infra", "infrastructure", "인프라",
+      "cloud", "클라우드", "devops", "데브옵스",
       "sre", "site reliability",
       "system", "시스템 엔지니어",
       "java", "kotlin", "spring",
       "react", "vue", "next.js", "typescript",
-      "api", "msa", "microservice"
+      "api", "msa", "microservice", "mes"
     ],
     "exclude": [
       "ios", "android", "mobile", "모바일",

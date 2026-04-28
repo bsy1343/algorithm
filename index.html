@@ -1543,6 +1543,7 @@
             <div class="calendar-card" id="calendar-card"></div>
             <div class="jobs-side">
               <div class="jobs-list-card" id="jobs-list-card"></div>
+              <div class="jobs-list-card" id="standing-jobs-card"></div>
             </div>
           </div>
           <div class="jobs-config-panel" id="jobs-config-panel"></div>
@@ -1609,43 +1610,56 @@
       });
     },
 
+    jobItemHtml(j) {
+      const d = this.parseDeadline(j.deadline);
+      const days = d ? Math.ceil((d - new Date()) / (24*3600*1000)) : null;
+      const urgent = days !== null && days <= 7;
+      let dlText;
+      if (days !== null) dlText = `D-${Math.max(0, days)}`;
+      else if (j.deadline) dlText = j.deadline;
+      else dlText = '상시';
+      return `<div class="job-item">
+        <div class="job-item-top">
+          <span class="job-company-dot" style="background:${this.COMPANY_COLORS[j.companyId]||'#888'}"></span>
+          <span class="job-company">${esc(j.company)}</span>
+          <span class="job-deadline ${urgent?'urgent':''}">${esc(dlText)}</span>
+        </div>
+        <div class="job-title">${j.url ? `<a href="${esc(j.url)}" target="_blank" rel="noopener">${esc(j.title)}</a>` : esc(j.title)}</div>
+        ${j.department || j.location ? `<div class="job-meta">${esc(j.department || '')}${j.location ? ' · ' + esc(j.location) : ''}</div>` : ''}
+      </div>`;
+    },
+
     renderList() {
-      const root = document.getElementById('jobs-list-card');
-      if (!root) return;
+      const urgentCard = document.getElementById('jobs-list-card');
+      const standingCard = document.getElementById('standing-jobs-card');
+      if (!urgentCard) return;
       const allJobs = this.state.snapshot?.jobs || [];
       const grouped = this.groupByDate();
+      const empty = `<div style="font-size:12px;color:var(--text3);padding:8px 0;font-family:var(--mono);">해당 기간 공고 없음</div>`;
+
+      // === Urgent / selected-date card ===
       let title, list;
       if (this.state.selectedDate) {
         title = `${this.state.selectedDate} 마감 (${(grouped[this.state.selectedDate]||[]).length}건)`;
         list = grouped[this.state.selectedDate] || [];
       } else {
-        // Default: 마감 임박 14일 + 마감일 미정 공고
         const now = new Date(); now.setHours(0,0,0,0);
         const cutoff = new Date(now); cutoff.setDate(cutoff.getDate() + 14);
-        const urgent = allJobs.filter(j => {
+        list = allJobs.filter(j => {
           const d = this.parseDeadline(j.deadline);
           return d && d >= now && d <= cutoff;
         }).sort((a,b) => this.parseDeadline(a.deadline) - this.parseDeadline(b.deadline));
-        const undated = allJobs.filter(j => !this.parseDeadline(j.deadline));
-        list = [...urgent, ...undated];
-        title = `📍 마감 임박 + 상시 (${list.length}건)`;
+        title = `📍 마감 임박 (2주 내, ${list.length}건)`;
       }
-      const html = list.length ? list.slice(0, 30).map(j => {
-        const d = this.parseDeadline(j.deadline);
-        const days = d ? Math.ceil((d - new Date()) / (24*3600*1000)) : null;
-        const urgent = days !== null && days <= 7;
-        const dlText = days !== null ? `D-${Math.max(0, days)}` : (j.deadline || '-');
-        return `<div class="job-item">
-          <div class="job-item-top">
-            <span class="job-company-dot" style="background:${this.COMPANY_COLORS[j.companyId]||'#888'}"></span>
-            <span class="job-company">${esc(j.company)}</span>
-            <span class="job-deadline ${urgent?'urgent':''}">${esc(dlText)}</span>
-          </div>
-          <div class="job-title">${j.url ? `<a href="${esc(j.url)}" target="_blank" rel="noopener">${esc(j.title)}</a>` : esc(j.title)}</div>
-          ${j.department || j.location ? `<div class="job-meta">${esc(j.department || '')}${j.location ? ' · ' + esc(j.location) : ''}</div>` : ''}
-        </div>`;
-      }).join('') : `<div style="font-size:12px;color:var(--text3);padding:8px 0;font-family:var(--mono);">해당 기간 공고 없음</div>`;
-      root.innerHTML = `<div class="jobs-list-title">${esc(title)}</div>${html}`;
+      urgentCard.innerHTML = `<div class="jobs-list-title">${esc(title)}</div>` +
+        (list.length ? list.slice(0, 30).map(j => this.jobItemHtml(j)).join('') : empty);
+
+      // === Standing (상시 / undated) card ===
+      if (standingCard) {
+        const standing = allJobs.filter(j => !this.parseDeadline(j.deadline));
+        standingCard.innerHTML = `<div class="jobs-list-title">♾️ 상시 채용 (${standing.length}건)</div>` +
+          (standing.length ? standing.slice(0, 40).map(j => this.jobItemHtml(j)).join('') : empty);
+      }
     },
 
     renderConfigPanel() {

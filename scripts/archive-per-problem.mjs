@@ -32,6 +32,34 @@ import {
   extractSection, extractProblemInfo, extractSamples,
 } from './boj-lib.mjs';
 
+// Phase 0: ensure example I/O files exist. BaekjoonHub sometimes commits
+// a problem's README + .java without input1.txt/output1.txt. We fetch
+// them from BOJ and write the missing files.
+async function ensureExamples(folder, problemNum) {
+  const files = await readdir(folder);
+  const hasIO = files.some(f => /^input\d*\.txt$/.test(f));
+  if (hasIO) return { added: 0 };
+
+  let html;
+  try { html = await fetchBojPage(problemNum); }
+  catch (e) {
+    console.warn(`  ! ${problemNum} examples: ${e.message}`);
+    return { added: 0 };
+  }
+  const { inputs, outputs } = extractSamples(html);
+  if (!inputs.length && !outputs.length) return { added: 0 };
+
+  let added = 0;
+  for (let i = 0; i < inputs.length; i++) {
+    await writeFile(join(folder, `input${i + 1}.txt`), inputs[i], 'utf8');
+    added++;
+  }
+  for (let i = 0; i < outputs.length; i++) {
+    await writeFile(join(folder, `output${i + 1}.txt`), outputs[i], 'utf8');
+  }
+  return { added };
+}
+
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const ROOT = process.cwd();
 
@@ -229,6 +257,9 @@ async function processProblem(folder, problemNum) {
   // Compute folder path relative to repo root for use in img src URLs.
   const folderRel = folder.startsWith(ROOT + '/') ? folder.slice(ROOT.length + 1) : folder;
 
+  // Phase 0: fill in missing example I/O txt files.
+  const { added: addedIo } = await ensureExamples(folder, problemNum);
+
   // Phase 0: fix bare-filename src that already point to a local image but
   // lack the folder prefix (legacy bug from earlier script versions).
   content = content.replace(/(<img[^>]*?)src=(["'])([^"'/]+\.(?:png|jpg|jpeg|gif|svg|webp|bmp))\2/gi, (full, before, q, name) => {
@@ -249,9 +280,9 @@ async function processProblem(folder, problemNum) {
 
   if (content !== original) {
     await writeFile(readmePath, content, 'utf8');
-    return { changed: true, downloaded, kept };
+    return { changed: true, downloaded, kept, addedIo };
   }
-  return { changed: false, downloaded, kept };
+  return { changed: addedIo > 0, downloaded, kept, addedIo };
 }
 
 async function walkProblems() {

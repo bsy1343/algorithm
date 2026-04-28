@@ -20,7 +20,7 @@
 
 <p>영선이는 가고 싶은 여행지 리스트와 숙소 리스트를 미리 조사하여 작성했다. 그리고 각 여행지와 숙소에 조사한 자료를 통해 기대치를 매겼다. 시간이 없기에 영선이는 여행지 한 곳, 숙소 한 곳을 방문할 것이며, 이때 선택된 장소들의 기대치 합이 최대가 되는 여행 계획을 작성할 것이다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15808/1.png" style="width: 398px; height: 314px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/15808.%E2%80%85%EC%A3%BC%EB%A7%90%E2%80%85%EC%97%AC%ED%96%89%E2%80%85%EA%B3%84%ED%9A%8D/d61b3460.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15808/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 398px; height: 314px;" /></p>
 
 <p>또한, 여행지와 숙소 사이의 거리가 멀다면 여행지에서 관광을 하는 시간이 줄어들기 때문에, 여행 자체의 재미가 줄어든다고 생각했다. 결국 영선이는 기대치 합에서 둘 사이 거리를 빼기로 하였다.</p>
 

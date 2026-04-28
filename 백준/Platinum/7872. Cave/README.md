@@ -18,7 +18,7 @@
 
 <p>As an owner of a land with a cave you were delighted when you last heard that underground fuel tanks are great business. Of course, the more volume one can store, the better. In case of your cave, the effective volume is not easy to calculate, because the cave has a rather sophisticated shape (see figure). Thank heavens it is degenerate in one dimension!</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/0a665cf0-74b4-4970-bab6-44fe881fe192/-/preview/" style="width: 456px; height: 227px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/7872.%E2%80%85Cave/f8daae50.png" data-original-src="https://upload.acmicpc.net/0a665cf0-74b4-4970-bab6-44fe881fe192/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 456px; height: 227px;" /></p>
 
 <p style="text-align: center;">The cave. All ponds that can be flooded with fuel are marked black.</p>
 

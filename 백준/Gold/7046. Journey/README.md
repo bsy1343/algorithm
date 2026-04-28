@@ -44,4 +44,4 @@
 
 ### 힌트
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/0048dcd8-1130-4bd3-b23c-103ea541eea2/-/preview/" style="width: 162px; height: 143px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/7046.%E2%80%85Journey/9e3c1659.png" data-original-src="https://upload.acmicpc.net/0048dcd8-1130-4bd3-b23c-103ea541eea2/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 162px; height: 143px;" /></p>

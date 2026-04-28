@@ -22,7 +22,7 @@
 
 <p>The field is a region of the coordinate plane defined by 0 &le; x &le; 200 and 0 &le; y &le; 300. The robot can be modeled by a point that must remain on the field at all times. It starts at the bottom of the field (y = 0) and must end at the top of the field (y = 300), and must not pass within range of any sensor. There are N sensor locations given by triples (x, y, r) of integers, where each (x, y) is a point on the field, and r is its radius of detection. The implied sensor circles may overlap, but will never be tangent with each other nor with the boundary of the field. All sensors are initially inactive. You must find the largest value of k such that if sensors 1, 2, 3, . . . , k are activated there is a path for the robot across the field, but no path if the (k+1)st sensor is also activated. It is guaranteed that there is no path if all N sensors are activated.</p>
 
-<p style="text-align: center;"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11096/1.png" style="height:211px; width:164px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/11096.%E2%80%85UnDetected/c3630141.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11096/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:211px; width:164px" /></p>
 
 <p style="text-align: center;">Figure K.1: Sensor circles corresponding to the first three sample inputs.</p>
 

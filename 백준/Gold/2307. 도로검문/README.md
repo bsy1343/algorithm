@@ -18,7 +18,7 @@
 
 <p>그림 1은 어떤 도시의 주요 지점과 그 지점들 간의 이동시간을 나타낸 그래프이다. 그래프의 노드는 주요 지점을 나타내고 두 지점을 연결한 도로(에지)에 표시된 수는 그 도로로 이동할 때 걸리는 분 단위의 시간을 나타낸다. 두 지점 a와 b를 연결하는 도로는 도로(a,b)로 표시한다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/9f97f43f-357d-4818-8f7e-47b6a34cc52b/-/preview/" style="width: 280px; height: 156px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/2307.%E2%80%85%EB%8F%84%EB%A1%9C%EA%B2%80%EB%AC%B8/033ad6b0.png" data-original-src="https://upload.acmicpc.net/9f97f43f-357d-4818-8f7e-47b6a34cc52b/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 280px; height: 156px;" /></p>
 
 <p style="text-align: center;">그림 1</p>
 

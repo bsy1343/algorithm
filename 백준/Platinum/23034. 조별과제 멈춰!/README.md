@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/2949c980-da11-4575-8cd9-39b0372e783e/-/preview/" style="height: 500px; width: 500px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/23034.%E2%80%85%EC%A1%B0%EB%B3%84%EA%B3%BC%EC%A0%9C%E2%80%85%EB%A9%88%EC%B6%B0!/6e52c395.png" data-original-src="https://upload.acmicpc.net/2949c980-da11-4575-8cd9-39b0372e783e/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 500px; width: 500px;" /></p>
 
 <p>교수님이 시험 기간에 조별 과제를 준비하셨다...! 가톨릭대학교의 조교 아리는 <em>N</em>명의 학생을 2개의 조로 구성하여 과제 공지를 하려 한다. 이때, 구성된 각 조의 인원은 1명 이상이어야 한다. 각 학생은 1~<em>N</em>의 정수 중 고유한 번호를 학번으로 갖는다.</p>
 

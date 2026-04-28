@@ -46,4 +46,4 @@
 
 <p>In case of i = 2; There are 2 left stick and 1 right stick. There are pictures of possible LeftRight Tree.</p>
 
-<p style="text-align:center"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11250/1.png" style="height:358px; width:592px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/11250.%E2%80%85Design%E2%80%85A%E2%80%85Tree/94b5efc5.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11250/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:358px; width:592px" /></p>

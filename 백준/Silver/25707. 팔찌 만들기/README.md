@@ -20,7 +20,7 @@
 
 <p>오늘의 활동은 구슬 <em>N</em>개를 줄로 이어 팔찌를 만드는 것이다. 각 구슬에는 서로 다른 수가 하나씩 적혀 있는데, 두 구슬 사이를 잇는 줄의 길이는 두 구슬에 적힌 수들의 차의 절댓값이 되어야 한다. 선생님은 이 활동을 통해 아이들이 뺄셈을 즐겁게 배우길 기대하고 있다.</p>
 
-<p style="text-align: center"><img alt="" src="https://upload.acmicpc.net/0898992d-618a-4f31-bef6-813b3bef1c09/-/preview/" style="width: 500px; height: 489px;" /></p>
+<p style="text-align: center"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/25707.%E2%80%85%ED%8C%94%EC%B0%8C%E2%80%85%EB%A7%8C%EB%93%A4%EA%B8%B0/6b842e6b.png" data-original-src="https://upload.acmicpc.net/0898992d-618a-4f31-bef6-813b3bef1c09/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 500px; height: 489px;" /></p>
 
 <p>용모는 아이들에게 완성된 팔찌의 견본을 보여주는 역할을 맡았다. 선생님은 똑똑한 용모에게 N개의 구슬을 건네주며, <em>N</em>개의 구슬로 팔찌를 만들되 줄을 가능한 적게 사용할 것을 부탁하였다. 하지만 자원봉사를 너무 열심히 하느라 지친 용모는 필요한 줄의 최소 길이를 구할 방법이 생각나질 않았다. 여러분이 용모 대신 <em>N</em>개의 구슬로 팔찌를 만드는데 필요한 줄의 최소 길이를 구해주자.</p>
 

@@ -18,7 +18,7 @@
 
 <p>Remember the busy boards for toddlers that have an array of holes into which to hammer pegs of various shapes? There&rsquo;s a new, electronic version. The board consists of a 2D grid of pegs. Each peg on the board can be either up or down, but not both simultaneously. You can pick any peg that is currently up, and &ldquo;hammer&rdquo; it down. This will push that peg down, and also raise all of the other pegs in its row, and its column, regardless of their current state. You cannot &ldquo;hammer&rdquo; a peg that is down (well, maybe you can, but it will have no effect). Those poor kids will never get all the pegs down at one time!</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/ddde8070-5512-46ad-bca2-56a99bdd0bfc/-/preview/" style="width: 195px; height: 100px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/16996.%E2%80%85Busy%E2%80%85Board/1f8528ed.png" data-original-src="https://upload.acmicpc.net/ddde8070-5512-46ad-bca2-56a99bdd0bfc/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 195px; height: 100px;" /></p>
 
 <p>This example shows what happens when the top right peg is &ldquo;hammered.&rdquo; (◦ = up, &bull; = down)</p>
 

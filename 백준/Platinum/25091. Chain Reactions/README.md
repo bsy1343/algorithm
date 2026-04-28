@@ -24,11 +24,11 @@
 
 <p>For example, suppose Wile has $4$ modules with fun factors $F_1=60$, $F_2=20$, $F_3=40$, and $F_4=50$ and module $1$ points at the abyss, modules $2$ and $3$ at module $1$, and module $4$ at module $2$. There are two initiators ($3$ and $4$) that Wile must trigger, in some order.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/73323397-2995-460a-98cf-cf1993842498/example_1.gif" style="width: 462px; height: 195px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/25091.%E2%80%85Chain%E2%80%85Reactions/9a51323e.gif" data-original-src="https://upload.acmicpc.net/73323397-2995-460a-98cf-cf1993842498/example_1.gif" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 462px; height: 195px;" /></p>
 
 <p>As seen above, if Wile manually triggers module $4$ first, modules $4$, $2$, and $1$ will get triggered in the same chain reaction, for a fun of $\max{(50,20,60)}=60$. Then, when Wile triggers module $3$, module $3$ will get triggered alone (module $1$ cannot get triggered again), for a fun of $40$, and an overall fun for the session of $60+40=100$.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/20603977-c4dc-4d1c-b38d-97dfb849472b/example_2.gif" style="width: 462px; height: 195px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/25091.%E2%80%85Chain%E2%80%85Reactions/b836b2ba.gif" data-original-src="https://upload.acmicpc.net/20603977-c4dc-4d1c-b38d-97dfb849472b/example_2.gif" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 462px; height: 195px;" /></p>
 
 <p>However, if Wile manually triggers module $3$ first, modules $3$ and $1$ will get triggered in the same chain reaction, for a fun of $\max{(40,60)}=60$. Then, when Wile triggers module $4$, modules $4$ and $2$ will get triggered in the same chain reaction, for a fun of $\max{(50,20)}=50$, and an overall fun for the session of $60+50=110$.</p>
 

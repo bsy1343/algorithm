@@ -18,13 +18,13 @@
 
 <p>You have a directed graph. Some non-negative value is assigned on each edge of the graph. You know that the value of the graph satisfies the flow conservation law That is, for every node v, the sum of values on edges incoming to v equals to the sum of values of edges outgoing from v. For example, the following directed graph satisfies the flow conservation law.</p>
 
-<p><img alt="" src="/upload/images2/flow3.png" style="height:260px; width:201px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/10642.%E2%80%85Tree%E2%80%85Reconstruction/d7accbf6.png" data-original-src="https://www.acmicpc.net/upload/images2/flow3.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:260px; width:201px" /></p>
 
 <p>Suppose that you choose a subset of edges in the graph, denoted by E&#39;, and then you erase all the values on edges other than E&#39;. Now you want to recover the erased values by seeing only remaining information. Due to the flow conservation law, it may be possible to recover all the erased values. Your task is to calculate the smallest possible size for such E&#39;.</p>
 
 <p>For example, the smallest subset E&#39; for the above graph will be green edges in the following figure. By the flow conservation law, we can recover values on gray edges.</p>
 
-<p><img alt="" src="/upload/images2/flow4.png" style="height:260px; width:201px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/10642.%E2%80%85Tree%E2%80%85Reconstruction/1dd5e6ae.png" data-original-src="https://www.acmicpc.net/upload/images2/flow4.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:260px; width:201px" /></p>
 
 ### 입력
 

@@ -18,7 +18,7 @@
 
 <p>You are to&nbsp;find the length of the shortest path through a chamber containing obstructing walls. The chamber will always have sides at x = 0, x = 10, y = 0, and y = 10. The initial and final points of the path are always (0,5) and (10,5). There will also be from 0 to 18 vertical walls inside the chamber, each with two doorways. The finger below illustrates such a chamber and also shows the path of minimal length.</p>
 
-<p><img alt="" src="https://onlinejudgeimages.s3.amazonaws.com/problem/4683/1556_1.jpg.gif" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/4683.%E2%80%85The%E2%80%85Doors/5b7fc248.gif" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/4683/1556_1.jpg.gif" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 ### 입력
 

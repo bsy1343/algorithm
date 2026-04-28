@@ -18,7 +18,7 @@
 
 <p>As a worker at the local mall, you have to set out the Christmas ornaments display. The display setup is a triangular pyramid, with the top layer containing one ball, the second from the top containing three, and so on. Each layer&rsquo;s side length will be equal to their layer number. Write a program to determine the total number of ornaments in a pyramid, given the number of layers.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/c2d0caae-b0ce-45c5-b8d3-5422a37a1076/-/preview/" style="width: 278px; height: 135px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/26550.%E2%80%85Ornaments/a9bf57eb.png" data-original-src="https://upload.acmicpc.net/c2d0caae-b0ce-45c5-b8d3-5422a37a1076/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 278px; height: 135px;" /></p>
 
 ### 입력
 

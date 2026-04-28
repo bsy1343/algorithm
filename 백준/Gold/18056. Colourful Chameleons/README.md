@@ -41,7 +41,7 @@
 
 ### 힌트
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/59208c7c-4855-40da-8435-05a7c8dc71f5/-/preview/" style="width: 619px; height: 287px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/18056.%E2%80%85Colourful%E2%80%85Chameleons/f33bf5e3.png" data-original-src="https://upload.acmicpc.net/59208c7c-4855-40da-8435-05a7c8dc71f5/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 619px; height: 287px;" /></p>
 
 <p style="text-align: center;"><small>Images by <a href="https://pixabay.com/de/vectors/eidechse-rot-bunte-reptil-kriecht-46815/">OpenClipart-Vectors</a> on Pixabay.</small></p>
 

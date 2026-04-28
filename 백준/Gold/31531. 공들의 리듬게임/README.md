@@ -24,19 +24,19 @@
 	<li>왼쪽으로 움직이던 공과 오른쪽으로 움직이던 공이 충돌하면, 두 공 모두 진행 방향이 반대로 바뀌게 된다. 이 경우 $1$점을 얻는다.</li>
 </ul>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/9b768ae3-5f7a-4130-a0a1-962e4e24c2ad/-/preview/" style="height: 160px; width: 400px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/31531.%E2%80%85%EA%B3%B5%EB%93%A4%EC%9D%98%E2%80%85%EB%A6%AC%EB%93%AC%EA%B2%8C%EC%9E%84/0ac6c89b.png" data-original-src="https://upload.acmicpc.net/9b768ae3-5f7a-4130-a0a1-962e4e24c2ad/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 160px; width: 400px;" /></p>
 
 <ul>
 	<li>움직이던 공과 정지해 있던 공이 충돌하면, 움직이던 공은 그 자리에 정지하며, 정지해 있던 공은 움직이던 공이 이동하던 방향으로 움직인다. 이 경우 $2$점을 얻는다.</li>
 </ul>
 
-<p style="text-align: center;">​​​​​​​<img alt="" src="https://upload.acmicpc.net/cbf7958e-b5ba-4717-989f-d6d52e90017b/-/preview/" style="width: 400px; height: 160px;" /></p>
+<p style="text-align: center;">​​​​​​​<img alt="" src="%EB%B0%B1%EC%A4%80/Gold/31531.%E2%80%85%EA%B3%B5%EB%93%A4%EC%9D%98%E2%80%85%EB%A6%AC%EB%93%AC%EA%B2%8C%EC%9E%84/c79f8742.png" data-original-src="https://upload.acmicpc.net/cbf7958e-b5ba-4717-989f-d6d52e90017b/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 400px; height: 160px;" /></p>
 
 <ul>
 	<li>왼쪽으로 움직이던 공과 정지해 있던 공, 오른쪽으로 움직이던 공이 동시에 충돌하면, 왼쪽으로 움직이던 공과 오른쪽으로 움직이던 공은 모두 진행 방향이 반대로 바뀌게 되며, 정지해 있던 공은 계속 정지해 있는다. 이 경우 $5$점을 얻는다.</li>
 </ul>
 
-<p style="text-align: center;">​​​​​​​<img alt="" src="https://upload.acmicpc.net/2f56af3d-c1d9-4fe2-a28f-907f5ad2d6c0/-/preview/" style="height: 160px; width: 400px;" /></p>
+<p style="text-align: center;">​​​​​​​<img alt="" src="%EB%B0%B1%EC%A4%80/Gold/31531.%E2%80%85%EA%B3%B5%EB%93%A4%EC%9D%98%E2%80%85%EB%A6%AC%EB%93%AC%EA%B2%8C%EC%9E%84/a3675d5f.png" data-original-src="https://upload.acmicpc.net/2f56af3d-c1d9-4fe2-a28f-907f5ad2d6c0/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 160px; width: 400px;" /></p>
 
 <p>한 번의 충돌이 여러 조건을 만족할 경우, 점수가 가장 높은 조건만 적용된다.</p>
 

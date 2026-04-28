@@ -18,11 +18,11 @@
 
 <p>상근이는 구조체를 이용해서 실수를 저장하려고 한다. 구조체에는 30개의 숫자를 저장할 수 있는 정수 배열 (digits), 소수점의 위치를 나타내는 정수 (decpt), 부호(+/-)를 나타내는 sign이 있다. 예를 들어, -218.302869584는 아래와 같이 저장할 수 있다.</p>
 
-<p><img alt="" src="/upload/images/hpn1.png" style="height:154px; width:671px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/9411.%E2%80%85%EC%8B%A4%EC%88%98%E2%80%85%EA%B3%84%EC%82%B0/a5148897.png" data-original-src="https://www.acmicpc.net/upload/images/hpn1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:154px; width:671px" /></p>
 
 <p>0.0000123456789는 아래와 같이 저장할 수 있다.</p>
 
-<p><img alt="" src="/upload/images/hpn2.png" style="height:138px; width:663px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/9411.%E2%80%85%EC%8B%A4%EC%88%98%E2%80%85%EA%B3%84%EC%82%B0/a701a8d3.png" data-original-src="https://www.acmicpc.net/upload/images/hpn2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:138px; width:663px" /></p>
 
 <p>실수가 주어졌을 때, 상근이가 만든 방법을 이용해 합을 구하는 프로그램을 작성하시오.</p>
 

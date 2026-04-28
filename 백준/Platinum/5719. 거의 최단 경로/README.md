@@ -24,7 +24,7 @@
 
 <p>예를 들어, 도로 지도가 아래와 같을 때를 생각해보자. 원은 장소를 의미하고, 선은 단방향 도로를 나타낸다. 시작점은 S, 도착점은 D로 표시되어 있다. 굵은 선은 최단 경로를 나타낸다. (아래 그림에 최단 경로는 두 개가 있다)거의 최단 경로는 점선으로 표시된 경로이다. 이 경로는 최단 경로에 포함되지 않은 도로로 이루어진 경로 중 가장 짧은 경로이다. 거의 최단 경로는 여러 개 존재할 수도 있다. 예를 들어, 아래 그림의 길이가 3인 도로의 길이가 1이라면, 거의 최단 경로는 두 개가 된다. 또, 거의 최단 경로가 없는 경우도 있다.</p>
 
-<p><img alt="" src="/upload/images/almost.png" style="height:174px; width:265px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/5719.%E2%80%85%EA%B1%B0%EC%9D%98%E2%80%85%EC%B5%9C%EB%8B%A8%E2%80%85%EA%B2%BD%EB%A1%9C/5df523e8.png" data-original-src="https://www.acmicpc.net/upload/images/almost.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:174px; width:265px" /></p>
 
 ### 입력
 

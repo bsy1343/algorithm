@@ -30,13 +30,13 @@
 	<li>유사 중위 순회를 종료할 때까지 1 ~ 4를 반복한다.</li>
 </ol>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/ee01f435-9a8b-4d85-9720-4355f541fd4d/-/preview/" style="height: 392px; width: 600px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/22856.%E2%80%85%ED%8A%B8%EB%A6%AC%E2%80%85%EC%88%9C%ED%9A%8C/335e30fb.png" data-original-src="https://upload.acmicpc.net/ee01f435-9a8b-4d85-9720-4355f541fd4d/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 392px; width: 600px;" /></p>
 
 <p>위 그림에 있는 트리에서 중위 순회를 한다면&nbsp;$4 \rightarrow&nbsp;2 \rightarrow 5 \rightarrow 1 \rightarrow 6 \rightarrow 3 \rightarrow 7$ 순으로 순회를 한다.</p>
 
 <p>따라서, <strong>유사 중위 순회의 끝</strong>은 노드 7이 된다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/c6cd786c-4235-499f-8ef2-57cdafd33ce7/-/crop/2544x1786/0,0/-/preview/" style="height: 421px; width: 600px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/22856.%E2%80%85%ED%8A%B8%EB%A6%AC%E2%80%85%EC%88%9C%ED%9A%8C/08a36ea0.png" data-original-src="https://upload.acmicpc.net/c6cd786c-4235-499f-8ef2-57cdafd33ce7/-/crop/2544x1786/0,0/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 421px; width: 600px;" /></p>
 
 <p><strong>유사 중위 순회</strong>는 위 그림과 같이 루트인 노드 $1$에서 시작하여 노드 $7$에서 끝나고&nbsp;$1 \rightarrow 2&nbsp;\rightarrow 4 \rightarrow&nbsp;2 \rightarrow 5 \rightarrow 2 \rightarrow 1 \rightarrow 3 \rightarrow 6 \rightarrow 3 \rightarrow 7$ 이와 같은 순서로 순회를&nbsp;진행한다. <strong>유사 중위 순회</strong>를 진행하면서 총 10번 이동하였다.</p>
 

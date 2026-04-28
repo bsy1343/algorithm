@@ -20,7 +20,7 @@
 
 <p>The ball starts under the leftmost cup and Ois&iacute;n then swaps two cups in one of three possible ways a number of times.</p>
 
-<p style="text-align: center;"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/13224/1.png" style="height:140px; width:509px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/13224.%E2%80%85Chop%E2%80%85Cup/02235653.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/13224/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:140px; width:509px" /></p>
 
 <p>What Oisin doesn&#39;t realise is that you are recording the moves with your phone using the letters A, B or C and are going to use a simple program to determine where the ball is. Write that program.</p>
 

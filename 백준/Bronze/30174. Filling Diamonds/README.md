@@ -24,11 +24,11 @@
 
 <p>Please look at pictures below for better understanding.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/eb83ed1d-df58-4d9b-88a3-2e01f1680640/-/preview/" style="width: 471px; height: 170px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/30174.%E2%80%85Filling%E2%80%85Diamonds/bdf1c4c5.png" data-original-src="https://upload.acmicpc.net/eb83ed1d-df58-4d9b-88a3-2e01f1680640/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 471px; height: 170px;" /></p>
 
 <p style="text-align: center;">On the left you can see the diamond shape you will use, and on the right you can see the area you want to fill.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/84667493-d7a0-462b-a959-1db88a652ab8/-/preview/" style="width: 300px; height: 450px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/30174.%E2%80%85Filling%E2%80%85Diamonds/9d20982c.png" data-original-src="https://upload.acmicpc.net/84667493-d7a0-462b-a959-1db88a652ab8/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 300px; height: 450px;" /></p>
 
 <p style="text-align: center;">These are the figures of the area you want to fill for $n = 1, 2, 3, 4$.</p>
 
@@ -48,8 +48,8 @@
 
 <p>In the first test case, there are the following $2$ ways to fill the area:</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/ac36277d-3f41-4fde-9250-eb75feb83038/-/preview/" style="width: 420px; height: 172px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/30174.%E2%80%85Filling%E2%80%85Diamonds/095a9917.png" data-original-src="https://upload.acmicpc.net/ac36277d-3f41-4fde-9250-eb75feb83038/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 420px; height: 172px;" /></p>
 
 <p>In the second test case, there is a unique way to fill the area:</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/96d61e57-5121-4ddc-9761-36a42cf57b0f/-/preview/" style="width: 124px; height: 180px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/30174.%E2%80%85Filling%E2%80%85Diamonds/5e3110c5.png" data-original-src="https://upload.acmicpc.net/96d61e57-5121-4ddc-9761-36a42cf57b0f/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 124px; height: 180px;" /></p>

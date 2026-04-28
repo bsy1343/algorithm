@@ -18,11 +18,11 @@
 
 <p>파댕이는 그동안 학교 공부를 열심히 하여 무사히 댕댕대학교에 진학하였다! 파댕이는 MT 여행으로 이 기쁨을 만끽하려 했으나 술을 잘 마시지 못해서 걱정이 이만저만이 아니다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/1a3ce967-b0fa-43a5-8d8c-94aead6ce9a0/-/preview/" style="width: 256px; height: 240px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/30982.%E2%80%85%ED%8F%AD%ED%83%84%EC%A3%BC%EB%A5%BC%E2%80%85%ED%94%BC%ED%95%B4%EB%9D%BC!%E2%80%85%ED%8C%8C%EB%9E%80%EB%8C%95%EB%8C%95%EC%9D%B4!/05340625.png" data-original-src="https://upload.acmicpc.net/1a3ce967-b0fa-43a5-8d8c-94aead6ce9a0/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 256px; height: 240px;" /></p>
 
 <p>하지만, 이 사실을 알게 되면 댕댕이들이 파댕이만 빼고 친해질 것 같아 어쩔 수 없이 그 사실을 숨긴 채 술 게임에 참여하게 되었다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/71514014-b25b-45a4-8036-abd058211295/-/preview/" style="height: 221px; width: 256px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/30982.%E2%80%85%ED%8F%AD%ED%83%84%EC%A3%BC%EB%A5%BC%E2%80%85%ED%94%BC%ED%95%B4%EB%9D%BC!%E2%80%85%ED%8C%8C%EB%9E%80%EB%8C%95%EB%8C%95%EC%9D%B4!/7c60cc2b.png" data-original-src="https://upload.acmicpc.net/71514014-b25b-45a4-8036-abd058211295/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 221px; width: 256px;" /></p>
 
 <p>지금 하는 술 게임은 짝 만들기 게임으로 일렬로 나열된 $N$개의 구역에 각 댕댕이들은 원하는 구역에 들어가 같은 구역에 있는 댕댕이끼리 서로 한 무리가 된 채로 시작하여 다른 무리와 팀을 이뤄 제한 시간 $T$초 안에 $M$마리로 뭉쳐야 한다. 다른 무리와 팀을 이룰 때 무리 중 일부가 빠질 수 없으며, 팀을 이루지 않은 상황일 때도 현재 무리 중 일부가 빠져나갈 수도 없다. 만약 제한 시간 내에 $M$마리 무리에 속하지 않거나 규칙을 지키지 않은 댕댕이들은 벌칙으로 폭탄주를 마셔야 한다.</p>
 

@@ -34,4 +34,4 @@
 
 ### 힌트
 
-<p style="text-align: center;"><img alt="" src="/upload/images2/painting.png" style="height:224px; width:121px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/10538.%E2%80%85%EB%B9%85%E2%80%85%ED%94%BD%EC%B3%90/11ee2292.png" data-original-src="https://www.acmicpc.net/upload/images2/painting.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:224px; width:121px" /></p>

@@ -20,7 +20,7 @@
 
 <p>In a darts game, the target consists of a flat circle which is divided into slices and rings. The slices are numbered from 1 to 20 and the rings are called double or treble ring (see Figure 5). The center part of the board is called the bull&rsquo;s eye which is further subdivided into an inner part (the real bull&rsquo;s eye) and an outer part (called the bull, see Fig. 5).&nbsp;</p>
 
-<p style="text-align:center"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/6056/1.png" style="height:351px; width:306px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/6056.%E2%80%85Darts/37541fd7.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/6056/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:351px; width:306px" /></p>
 
 <p style="text-align:center">Figure 5: Layout of a dart board.</p>
 

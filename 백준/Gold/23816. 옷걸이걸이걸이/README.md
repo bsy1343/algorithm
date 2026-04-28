@@ -18,7 +18,7 @@
 
 <p>옷장을 정리해야 하는데 옷이 너무 많아 옷장 바닥에 흘러넘친다. 옷걸이를 걸 수 있는 위치는 $N$개고, 옷걸이는 $M$개가 있다. 이때 아주 놀라운 사실을 깨닫았는데, 옷장 크기에 비해 옷걸이가 많을 경우 옷걸이에 옷걸이를 걸면 옷을 더 많이 걸 수 있다는 사실이다 !!!</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/507c9e15-d240-4961-aa03-b56d00793a9d/-/preview/" style="width: 200px; height: 151px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/23816.%E2%80%85%EC%98%B7%EA%B1%B8%EC%9D%B4%EA%B1%B8%EC%9D%B4%EA%B1%B8%EC%9D%B4/503d0d25.png" data-original-src="https://upload.acmicpc.net/507c9e15-d240-4961-aa03-b56d00793a9d/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 200px; height: 151px;" /></p>
 
 <p>옷걸이에 옷을 거는 대신 양쪽에 옷걸이를 걸면 옷을 더 걸 수 있는데, 옷걸이의 균형을 위해 옷걸이의 양쪽에 걸리는 옷걸이의 총 개수가 같은 <strong>완전 이진 옷걸이</strong>를 만들어야 한다. 이때 당연히 옷걸이가 걸리지 않은 맨 아래 옷걸이에만 옷을 걸 수 있다.</p>
 

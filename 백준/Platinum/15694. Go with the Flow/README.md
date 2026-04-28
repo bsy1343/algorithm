@@ -18,13 +18,13 @@
 
 <p>In typesetting, a &ldquo;river&rdquo; is a string of spaces formed by gaps between words that extends down several lines of text. For instance, Figure F.1 shows several examples of rivers highlighted in red (text is intentionally blurred to make the rivers more visible).</p>
 
-<p style="text-align: center;"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15694/1.png" style="width: 431px; height: 123px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/15694.%E2%80%85Go%E2%80%85with%E2%80%85the%E2%80%85Flow/23f99660.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15694/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 431px; height: 123px;" /></p>
 
 <p style="text-align: center;">Figure F.1: Examples of rivers in typeset text.</p>
 
 <p>Celebrated river authority Flo Ng wants her new book on rivers of the world to include the longest typographic rivers possible. She plans to set the text in a mono-spaced font (all letters and spaces have equal width) in a left-aligned column of some fixed width, with exactly one space separating words on each line (the text is not aligned on the right). For Flo, a &ldquo;river&rdquo; is defined as a sequence of spaces lying in consecutive lines in which the position of each space in the sequence (except the first) differs by at most 1 from the position of the space in the line above it. Trailing white space cannot appear in a river. Words must be packed as tightly as possible on lines; no words may be split across lines. The line width used must be at least as long as the longest word in the text. For instance, Figure F.2 shows the same text set with two different line widths.</p>
 
-<p style="text-align: center;"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15694/2.png" style="width: 439px; height: 178px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/15694.%E2%80%85Go%E2%80%85with%E2%80%85the%E2%80%85Flow/6f3b379f.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15694/2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 439px; height: 178px;" /></p>
 
 <p style="text-align: center;">Figure F.2: Longest rivers (<code><span style="color:#ea3323;">*</span></code>) for two different line widths.</p>
 

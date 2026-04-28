@@ -43,10 +43,10 @@
 
 <p>In Sample Case #1 (as seen below), an optimal route (marked with a red line in the picture above) goes through the following sights:&nbsp;$2,3,1,3,4,5,4,6$.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/6a950414-89c8-438a-ac60-d76ae6abb5e1/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/24921.%E2%80%85Interesting%E2%80%85Outing/c36e21c7.png" data-original-src="https://upload.acmicpc.net/6a950414-89c8-438a-ac60-d76ae6abb5e1/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>In Sample Case #2 (as seen above), the only change compared with the setup in Sample Case #1 is that the transportation between sights&nbsp;$1$&nbsp;and&nbsp;$3$&nbsp;got more expensive: from&nbsp;$10$&nbsp;to&nbsp;$35$. The route&nbsp;$2,3,1,3,4,5,4,6$&nbsp;costs&nbsp;$150$&nbsp;in this scenario and it is not optimal. The optimal route is&nbsp;$2,3,4,6,4,5,4,3,1$&nbsp;instead (also marked in red in the picture).</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/1bc374c7-9284-47ae-bb3f-abc6b26d00e8/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/24921.%E2%80%85Interesting%E2%80%85Outing/d91e0ab7.png" data-original-src="https://upload.acmicpc.net/1bc374c7-9284-47ae-bb3f-abc6b26d00e8/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>Notice in Sample Case #3 that the answer may be larger than $2^{32}$.</p>

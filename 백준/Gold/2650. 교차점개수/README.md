@@ -20,7 +20,7 @@
 
 <p>예를 들어, 점이 아래 그림과 같이 주어졌다고 하자. 각 점의 위치는 두 개의 양의 정수로 표시된다. 첫째 정수는 점이 위치한 변을 나타내는데, 1은 윗변, 2는 밑변, 3은 왼쪽 변, 4는 오른쪽 변을 의미한다. 둘째 정수는 변 위에서의 위치를 나타낸다. 점이 윗변이나 밑변에 있는 경우는 왼쪽 꼭짓점부터의 거리를 나타내고, 점이 왼쪽 변이나 오른쪽 변에 있는 경우는 위쪽 꼭짓점부터의 거리를 나타낸다. 즉, 점 (4, 7)은 오른쪽 변에 있는 점으로 변의 위쪽 꼭짓점으로부터 거리 7만큼 떨어져 있다. 이 그림에서, 두 점(3, 5)와 (4, 7)을 점선과 같이 연결하여, 세 개의 연결선이 한 점에서 만나게 하면 안 된다. 이 그림에서 최소 교차점의 개수는 4이다.</p>
 
-<p style="text-align: center;"><img alt="" src="/upload/images/WZk6yaNPYOFC3bF6GfQvrze.png" style="width: 317px; height: 239px; " /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/2650.%E2%80%85%EA%B5%90%EC%B0%A8%EC%A0%90%EA%B0%9C%EC%88%98/8a7e8bf8.png" data-original-src="https://www.acmicpc.net/upload/images/WZk6yaNPYOFC3bF6GfQvrze.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 317px; height: 239px; " /></p>
 
 ### 입력
 

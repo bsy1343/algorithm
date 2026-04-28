@@ -32,6 +32,6 @@
 
 ### 힌트
 
-<p><img alt="" src="/upload/images2/graveyard.png" style="height:148px; width:555px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/3610.%E2%80%85Graveyard/c5bf51ac.png" data-original-src="https://www.acmicpc.net/upload/images2/graveyard.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:148px; width:555px" /></p>
 
 <p>Pictures show the first three examples. Marked circles denote original statues, empty circles denote new equidistant places, arrows denote movement plans for existing statues.</p>

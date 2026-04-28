@@ -22,7 +22,7 @@
 
 <p>아래 그림은 상근이의 방의 크기가 4&times;3일 때 이다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/2858.%E2%80%85%EA%B8%B0%EC%88%99%EC%82%AC%E2%80%85%EB%B0%94%EB%8B%A5/f0fa9ee9.png" data-original-src="https://upload.acmicpc.net/4600f2e6-6349-4c85-b3c9-e6f3a8e3f79a/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 122px; height: 94px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/2858.%E2%80%85%EA%B8%B0%EC%88%99%EC%82%AC%E2%80%85%EB%B0%94%EB%8B%A5/f0fa9ee9.png" data-original-src="%EB%B0%B1%EC%A4%80/Bronze/2858.%E2%80%85%EA%B8%B0%EC%88%99%EC%82%AC%E2%80%85%EB%B0%94%EB%8B%A5/f0fa9ee9.png" data-original-src="https://upload.acmicpc.net/4600f2e6-6349-4c85-b3c9-e6f3a8e3f79a/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 122px; height: 94px;" /></p>
 
 <p>어느 날 상근이네 방에 하근이가 놀러왔다. 하근이는 아름다운 타일 배치에 감동받았다. 다시 방으로 돌아온 하근이는 빨간색과 갈색 타일의 개수는 기억했지만, 방의 크기는 기억해내지 못했다.</p>
 

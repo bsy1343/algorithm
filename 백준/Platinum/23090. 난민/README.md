@@ -22,7 +22,7 @@
 
 <p>다음은 난민촌을 좌표평면으로 나타낸 그림이다. 파란색 선은 강, 빨간색 점은 난민의 거주 위치를 나타낸다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/80582599-7f78-4cf6-b2af-8beded1ada0e/-/preview/" / style="width: 400px;"><br />
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/23090.%E2%80%85%EB%82%9C%EB%AF%BC/8e831215.png" data-original-src="https://upload.acmicpc.net/80582599-7f78-4cf6-b2af-8beded1ada0e/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" / style="width: 400px;"><br />
 &nbsp;</p>
 
 <p>난민촌에는 직선 \(x=0\)을 따라 흐르는 강이 하나 있다.</p>

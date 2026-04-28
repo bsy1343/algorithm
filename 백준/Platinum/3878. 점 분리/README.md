@@ -20,7 +20,7 @@
 
 <p>아래 그림에서 제일 왼쪽 예제는 점선으로 표시된 직선으로 두 점을 나눌 수 있다. 하지만 나머지 예제는 직선으로 점을 분리할 수 없다.</p>
 
-<p><img alt="" src="/upload/images/sep.png" style="width: 616px; height: 175px;" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/3878.%E2%80%85%EC%A0%90%E2%80%85%EB%B6%84%EB%A6%AC/49724f75.png" data-original-src="https://www.acmicpc.net/upload/images/sep.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 616px; height: 175px;" /></p>
 
 <p>흰 점과 검은 점의 좌표가 주어졌을 때, 직선으로 점을 분리할 수 있는지 없는지를 알아내는 프로그램을 작성하시오.</p>
 

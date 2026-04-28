@@ -18,13 +18,13 @@
 
 <p>검도왕 피돌이는 후배들 앞에서 짚단 베기를 선보일 예정이다. 짚단은 $1$번부터 $N$번까지 총 $N$개가 있고 피돌이는 짚단 $N$단 베기를 할 예정이다. $i$번 짚단은 높이가 $H$이고 너비가 $1$인 직사각형이다. 짚단 $N$단 베기는 이 짚단 $N$개를 빈틈없이 번호 순서대로 붙여 높이가 $H$이고 너비가 $N$인 직사각형의 짚단 묶음을 베는 것을 의미한다. </p>
 
-<div style="text-align:center;max-width:800px; margin: 0 auto"><img alt="" src="https://upload.acmicpc.net/0cbe6bfe-3c97-41ae-8d6f-b32fb39487f5/-/preview/" style="height: auto; width: 800px;" /></div>
+<div style="text-align:center;max-width:800px; margin: 0 auto"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/32134.%E2%80%85%EC%A7%9A%EB%8B%A8%E2%80%85%EB%B2%A0%EA%B8%B0/615e7583.png" data-original-src="https://upload.acmicpc.net/0cbe6bfe-3c97-41ae-8d6f-b32fb39487f5/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: auto; width: 800px;" /></div>
 
 <p>베기는 짚단 묶음에서 직선 하나로 표현할 수 있으며 이를 베기 직선이라 한다. 베기 직선은 항상 짚단 묶음의 좌우 양 끝 변을 지나야 한다. 이때 베기 직선이 어떤 변의 끝점에 지나는 경우에도 그 변을 지난 것이다.</p>
 
 <p>$i$번 짚단 상단 두 꼭짓점을 왼쪽부터 순서대로 $A_i$, $B_i$, $i$번 짚단과 베기 직선이 만나는 교점을 왼쪽부터 순서대로 $D_i$, $C_i$, $i$번 짚단의 강도를 $f_i$라 할 때, $i$번 짚단을 베는 데 드는 힘은 $f_i \times (\square A_i B_i C_i D_i$의 넓이$)$이다. 특수한 경우 $\square A_i B_i C_i D_i$에서 $A_i$와 $D_i$가 겹치거나 $B_i$와 $C_i$가 겹칠 수 있다. 이때는 사각형의 넓이가 아닌 삼각형의 넓이로 계산한다.</p>
 
-<div style="text-align:center;max-width:700px; margin: 0 auto"><img alt="" src="https://upload.acmicpc.net/75b96c16-96bf-49b5-80cb-f831d659a212/-/preview/" style="height: auto; width: 700px;" /></div>
+<div style="text-align:center;max-width:700px; margin: 0 auto"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/32134.%E2%80%85%EC%A7%9A%EB%8B%A8%E2%80%85%EB%B2%A0%EA%B8%B0/1c0bd366.png" data-original-src="https://upload.acmicpc.net/75b96c16-96bf-49b5-80cb-f831d659a212/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: auto; width: 700px;" /></div>
 
 <p>피돌이는 후배들에게 멋진 모습을 보이기 위해 &#39;멋진 $N$단 베기&#39;를 선보이려 한다. &#39;멋진 $N$단 베기&#39;를 하기 위해서는 $N$단 베기를 했을 때 $\sum_{i=1}^{N} (\square A_i B_i C_i D_i$의 넓이$)$가 $S$ 이상이어야 한다. 피돌이가 &#39;멋진 $N$단 베기&#39;를 선보일 때 가장 적은 힘이 들도록 벤다면 힘이 얼마나 필요한지 구하여라.</p>
 

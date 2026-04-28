@@ -18,7 +18,7 @@
 
 <p>Anna Graham is a puzzle maker who prides herself in the quality and complexity of her work. She makes puzzles of all kinds - crosswords, logic problems, acrostics, and word search puzzles, to name but a few. For each puzzle, she has developed a set of rules which she constrains herself to follow. For word search puzzles, she insists not only that all the words be connected to one another (as in most word search puzzles), but also that removing any word from the word list will not cause one or more words to become disconnected from the rest. (Two words are connected if they contain a common letter in the grid.) The example word search puzzle on the left satisfies this condition, but the one on the right does not (removing the word Pascal from the word list disconnects Java from the other two words).</p>
 
-<p><img alt="" src="/upload/images2/puzzle.png" style="height:160px; width:452px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/4065.%E2%80%85A%E2%80%85Puzzling%E2%80%85Problem/3524c99c.png" data-original-src="https://www.acmicpc.net/upload/images2/puzzle.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:160px; width:452px" /></p>
 
 <p>Your job is to write a program that checks to see if Anna&rsquo;s word search problems are up to snuff.</p>
 

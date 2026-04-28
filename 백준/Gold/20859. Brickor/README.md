@@ -32,6 +32,6 @@
 
 ### 힌트
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/9274ba0c-5368-4130-b983-b5729bed8e8b/-/preview/" style="width: 453px; height: 400px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/20859.%E2%80%85Brickor/05632ad9.png" data-original-src="https://upload.acmicpc.net/9274ba0c-5368-4130-b983-b5729bed8e8b/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 453px; height: 400px;" /></p>
 
 <p style="text-align: center;">En m&ouml;jlig dragsekvens i exempel 2</p>

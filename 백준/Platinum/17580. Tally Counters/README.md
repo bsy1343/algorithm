@@ -18,7 +18,7 @@
 
 <p>A number of tally counters are placed in a row. Pushing the button on a counter will increment the displayed value by one, or, when the value is already the maximum, it goes down to one. All the counters are of the same model with the same maximum value.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/771d1055-26c4-4ba2-9dd4-fd601a0bda12/-/preview/" style="width: 407px; height: 209px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/17580.%E2%80%85Tally%E2%80%85Counters/e3925bf1.png" data-original-src="https://upload.acmicpc.net/771d1055-26c4-4ba2-9dd4-fd601a0bda12/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 407px; height: 209px;" /></p>
 
 <p style="text-align: center;">Fig. D-1 Tally Counters</p>
 

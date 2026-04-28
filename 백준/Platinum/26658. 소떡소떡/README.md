@@ -16,13 +16,13 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/54d98462-61e4-4160-93aa-308931291efd/-/preview/" style="height: 255px; width: 800px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/26658.%E2%80%85%EC%86%8C%EB%96%A1%EC%86%8C%EB%96%A1/e5643dac.png" data-original-src="https://upload.acmicpc.net/54d98462-61e4-4160-93aa-308931291efd/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 255px; width: 800px;" /></p>
 
 <p>그릴에 소시지 또는 가래떡 $N$개가 구워지고 있다. 그릴의 인접한 두 가로줄 사이의 거리와 인접한 두 세로줄 사이의 거리는 모두 $1$로 같고 그릴의 가로줄과 세로줄은 서로 수직이다. 그릴의 가로줄을 아래쪽부터 $1, 2, \cdot\cdot\cdot$번으로 매기고 그릴의 세로줄을 왼쪽부터 $1, 2, \cdot\cdot\cdot$번으로 매겼을 때 $i$번째 음식물은 $y_i$번 가로줄에 나란히 놓여있으며 $xl_i$번부터 $xr_i$번 세로줄과 걸쳐 있다. $i$번째 음식물의 길이는 $xr_i - xl_i + 1$이고 모든 음식물은 서로 겹치지 않게 놓여있다. 그릴은 모든 음식물을 구울 수 있을 정도로 충분히 크다.</p>
 
 <p>당신은 두께가 없는 꼬치 하나를 그릴의 세로줄과 겹치게 꽂아서 소떡소떡을 만들려고 한다. 소떡소떡을 만들기 위해서는 꼬치에 $1$개 이상의 음식물을 꽂아야 하며 음식물은 꼬치에 꽂힌 순서대로 소시지, 가래떡이 번갈아 나와야 한다. 맨 처음에 꽂히는 음식물은 소시지가 되든 가래떡이 되든 상관없다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/d47f57a1-9714-4fe9-920a-13153777989b/-/preview/" style="height: 311px; width: 800px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/26658.%E2%80%85%EC%86%8C%EB%96%A1%EC%86%8C%EB%96%A1/68ab31bd.png" data-original-src="https://upload.acmicpc.net/d47f57a1-9714-4fe9-920a-13153777989b/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 311px; width: 800px;" /></p>
 
 <p>당신이 만든 소떡소떡의 크기는 꽂힌 음식물의 길이의 합과 같다. 소떡소떡의 가치는 소떡소떡의 크기와 비례하므로 당신은 만들 수 있는 가장 큰 소떡소떡을 만들려고 한다. 하지만 꼬치를 만들기 전에 소시지와 가래떡 일부를 <strong>치울 수 없고</strong> 그릴의 특정 세로줄에 있는 모든 음식물을 꽂아야 한다. 음식물을 옮기거나 새로운 음식물을 넣는 것은 허용하지 않는다.</p>
 

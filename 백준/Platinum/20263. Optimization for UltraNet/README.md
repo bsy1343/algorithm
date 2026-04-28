@@ -28,7 +28,7 @@
 
 <p>Your task is to help UltraNet optimize the network and then output the sum of the bandwidths among all city pairs in the optimized network. For optimizing the following example, the three cables in dotted will be discarded. In the resulting network, the bottleneck is 3, the sum of bandwidths of the remaining four cables is 6 + 3 + 8 + 4 = 21, and the sum of the bandwidths among all city pairs is \(\sum_{i=1}{^n-1}\sum_{j=i+1}^{n}\)b&#39;<sub>i,j</sub>&nbsp;= 6 + 4 + 6 + 3 + 4 + 8 + 3 + 4 + 3 + 3 = 44.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/7abd5e46-6793-40e9-b3cd-3aa3c9702227/-/preview/" style="width: 212px; height: 183px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/20263.%E2%80%85Optimization%E2%80%85for%E2%80%85UltraNet/75bc87fa.png" data-original-src="https://upload.acmicpc.net/7abd5e46-6793-40e9-b3cd-3aa3c9702227/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 212px; height: 183px;" /></p>
 
 ### 입력
 

@@ -18,7 +18,7 @@
 
 <p>Mr. Chou is the flatworld diamond dealer. It is important that he knows the value of his (two dimensional) diamonds in order to be a successful businessman. Mr. Chou is tired of calculating the values by hand and you have to write a program that makes the calculation for him.</p>
 
-<p><img alt="" src="https://onlinejudgeimages.s3.amazonaws.com/problem/5414/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-06-13%20%EC%98%A4%ED%9B%84%203.51.04.png" style="height:184px; width:175px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/5414.%E2%80%85Diamond%E2%80%85Dealer/988b7865.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/5414/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-06-13%20%EC%98%A4%ED%9B%84%203.51.04.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:184px; width:175px" /></p>
 
 <p>The value of a diamond is determined by smoothness of its surface. This depends on the amount of faces on the surface, more faces means a smoother surface. If there are dents (marked red in figure 2) in the surface of the diamond, the value of the diamond decreases. Counting the number of dents in the surface (a) and the number of faces on the surface that are not in dents (b), the value of the diamond is determined by the following formula: v = &minus;a &middot; p + b &middot; q. When v is negative, the diamond has no value (ie. zero value).</p>
 

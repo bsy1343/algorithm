@@ -20,7 +20,7 @@
 
 <p>또한, Boolean tree의 node들은 다음과 같은 값을 갖는다. Leaf node의 경우 0이나 1의 값을 갖는다. Internal node는 AND gate, 또는 OR gate의 값을 갖는다. 아래의 그림이 Boolean Tree의 예시를 보여주고 있다.</p>
 
-<p style="text-align:center"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/12900/1.png" style="height:187px; width:329px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/12900.%E2%80%85Cheating%E2%80%85a%E2%80%85Boolean%E2%80%85Tree/5e7c3313.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/12900/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:187px; width:329px" /></p>
 
 <p>이와 같이 Boolean Tree가 정의된다면, Subtree의 값을 직관적으로 정의할 수 있다. 만약 subtree의 root가 leaf node였다면, 그 경우에는 그 leaf node의 값이 답이 된다. 만약 subtree의 root가 internal node였다면, 해당 internal node의 gate를 이용해 left subtree와 right subtree의 값을 합친 것이 해당 tree의 값이 된다. 예를 들어, 위 그림에서 2번 node를 root로 갖는 subtree의 값은 다음과 같다.</p>
 

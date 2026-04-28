@@ -18,7 +18,7 @@
 
 <p>Tessa is a high school senior who plays on the soccer team. Her coaches are trying to put an emphasis on passing, and they want to help players learn how to recognize when a teammate is open for a pass. They&rsquo;ve decided to model the field as a square grid like the one shown below. Each player (for both the offense and the defense) takes up one grid square - the offensive players are indicated with numbers and the defensive players with black circles. Each defensive player also has the ability to move to any neighboring square in order to intercept a pass; the squares that each defender can guard are shown with an X in them. Assume player 1 has the ball. Another player is considered open if the line drawn from the center of that person&rsquo;s square to the center of player 1&rsquo;s square does not touch any of the squares that can be reached by a defender. If the line touches a defenders area even at a single point, then the pass could be intercepted. Offensive players never block a pass to other offensive players.</p>
 
-<p style="text-align: center;"><img alt="" src="/upload/images2/tessa.png" style="height:212px; width:203px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/10385.%E2%80%85This%E2%80%85Too%E2%80%85Shall%E2%80%85Pass/0a6811f7.png" data-original-src="https://www.acmicpc.net/upload/images2/tessa.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:212px; width:203px" /></p>
 
 <p>In the above example, Player 1 can pass the ball to Player 2, but not to Players 3 and 4.</p>
 

@@ -25,7 +25,7 @@
 	<li>사회자가 더 이상 수를 부르지 않기로 하면, 게임이 끝나고 점수가 계산된다. 각 참가자의 점수는 색을 채운 칸들로만 이루어진 줄의 수이다. 이때 고려하는 줄은 가로 $n$줄, 세로 $n$줄과 대각선 $2$줄로, 총 $2n+2$개의 줄이 있다.</li>
 </ul>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/58b6a6e5-6ee1-4293-af16-962a8fc03a64/-/preview/" style="height: 300px; width: 279px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/26525.%E2%80%85%EB%B9%99%EA%B3%A0/76506598.png" data-original-src="https://upload.acmicpc.net/58b6a6e5-6ee1-4293-af16-962a8fc03a64/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 300px; width: 279px;" /></p>
 
 <p style="text-align: center;">위 빙고판의 점수는 $5$점이다.</p>
 

@@ -22,7 +22,7 @@
 
 <p>하지만 준호는 수학과에서 수학을 못해 전과했기 때문에 가끔 멀티탭을 적게 가지고 올 때가 있다. 수학을 더 잘하는 여러분이 멀티탭을 충분히 챙겨왔는지 준호에게 알려주자</p>
 
-<p style="text-align: center;"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15780/1.png" style="width: 326px; height: 170px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/15780.%E2%80%85%EB%A9%80%ED%8B%B0%ED%83%AD%E2%80%85%EC%B6%A9%EB%B6%84%ED%95%98%EB%8B%88%3F/3484baf7.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15780/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 326px; height: 170px;" /></p>
 
 <p>최초 전기 공급원(벽면 콘센트)는 총 K개이고, 각각의 멀티탭은 개별적으로 전기를 공급받는다. 즉, 멀티탭을 다른 멀티탭에 이어서 연결하는 경우는 없다.</p>
 

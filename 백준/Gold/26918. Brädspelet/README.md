@@ -22,7 +22,7 @@
 
 <p>Givet storleken p&aring; det ursprungliga br&auml;det, och det faktum att Ann-Charlotte alltid b&ouml;rjar, kan du avg&ouml;ra vem som vinner om de b&aring;da spelar optimalt?</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/6b179bb0-f6c2-471c-9cb7-f521d0dadef3/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/26918.%E2%80%85Br%C3%A4dspelet/e7d0c80f.png" data-original-src="https://upload.acmicpc.net/6b179bb0-f6c2-471c-9cb7-f521d0dadef3/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p style="text-align: center;">En illustration av det f&ouml;rsta exemplet.</p>
 

@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p><img alt="" src="/upload/images3/mul.png" style="float:right; height:175px; width:313px" />The multiplicative persistence of a number is defined by Neil Sloane (Neil J.A. Sloane in The Persistence of a Number published in Journal of Recreational Mathematics 6, 1973, pp. 97-98., 1973) as the number of steps to reach a one-digit number when repeatedly multiplying the digits. Example:</p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/4332.%E2%80%85Persistent%E2%80%85Numbers/efe9d207.png" data-original-src="https://www.acmicpc.net/upload/images3/mul.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="float:right; height:175px; width:313px" />The multiplicative persistence of a number is defined by Neil Sloane (Neil J.A. Sloane in The Persistence of a Number published in Journal of Recreational Mathematics 6, 1973, pp. 97-98., 1973) as the number of steps to reach a one-digit number when repeatedly multiplying the digits. Example:</p>
 
 <p style="text-align: center;">679 -&gt; 378 -&gt; 168 -&gt; 48 -&gt; 32 -&gt; 6.</p>
 

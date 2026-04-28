@@ -26,7 +26,7 @@
 	<li>ทําข้อ 1-4 ซ้ําไปเรื่อยๆ จนกระทั่งแบ่งสี่เหลี่ยมได้15 รูป ดังรูป (e)</li>
 </ol>
 
-<p><img alt="" src="/upload/images2/ne1.png" style="height:213px; width:509px" /><img alt="" src="/upload/images2/ne2.png" style="height:208px; width:363px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/10302.%E2%80%85%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%81%E0%B8%9A%E0%B9%88%E0%B8%87%E0%B8%9E%E0%B8%B7%E0%B9%89%E0%B8%99%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B9%81%E0%B8%9A%E0%B8%9A%E0%B8%9A%E0%B8%B1%E0%B8%99%E0%B9%84%E0%B8%94%E0%B8%A7%E0%B8%99/46b01832.png" data-original-src="https://www.acmicpc.net/upload/images2/ne1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:213px; width:509px" /><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/10302.%E2%80%85%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%81%E0%B8%9A%E0%B9%88%E0%B8%87%E0%B8%9E%E0%B8%B7%E0%B9%89%E0%B8%99%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B9%81%E0%B8%9A%E0%B8%9A%E0%B8%9A%E0%B8%B1%E0%B8%99%E0%B9%84%E0%B8%94%E0%B8%A7%E0%B8%99/ea142036.png" data-original-src="https://www.acmicpc.net/upload/images2/ne2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:208px; width:363px" /></p>
 
 <p>หลังจากแบ่งรูปสี่เหลี่ยมได้ 15 รูปแล้ว เขียนโปรแกรมเพื่อ ถ้าให้พิกัด (x,y) หาว่าพิกัดอยู่ในรูปสี่เหลี่ยมรูปใด</p>
 

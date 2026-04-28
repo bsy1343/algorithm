@@ -34,8 +34,8 @@
 
 ### 힌트
 
-<p>예제 1:&nbsp;<img alt="" src="http://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14600/1.png" style="height:54px; width:51px" /></p>
+<p>예제 1:&nbsp;<img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/14601.%E2%80%85%EC%83%A4%EC%9B%8C%EC%8B%A4%E2%80%85%EB%B0%94%EB%8B%A5%E2%80%85%EA%B9%94%EA%B8%B0%E2%80%85(Large)/a7b5e858.png" data-original-src="http://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14600/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:54px; width:51px" /></p>
 
-<p>예제 2:&nbsp;<img alt="" src="http://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14600/2.png" style="height:90px; width:87px" /></p>
+<p>예제 2:&nbsp;<img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/14601.%E2%80%85%EC%83%A4%EC%9B%8C%EC%8B%A4%E2%80%85%EB%B0%94%EB%8B%A5%E2%80%85%EA%B9%94%EA%B8%B0%E2%80%85(Large)/6f53f61d.png" data-original-src="http://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14600/2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:90px; width:87px" /></p>
 
-<p>예제 3:&nbsp;<img alt="" src="http://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14600/3.png" style="height:87px; width:86px" /></p>
+<p>예제 3:&nbsp;<img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/14601.%E2%80%85%EC%83%A4%EC%9B%8C%EC%8B%A4%E2%80%85%EB%B0%94%EB%8B%A5%E2%80%85%EA%B9%94%EA%B8%B0%E2%80%85(Large)/a67e177d.png" data-original-src="http://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14600/3.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:87px; width:86px" /></p>

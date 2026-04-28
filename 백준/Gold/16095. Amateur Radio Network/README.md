@@ -34,6 +34,6 @@
 
 ### 힌트
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/8317fdee-56bc-4848-9f43-e9935456b487/-/preview/" style="width: 184px; height: 93px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/16095.%E2%80%85Amateur%E2%80%85Radio%E2%80%85Network/1a2e7fbc.png" data-original-src="https://upload.acmicpc.net/8317fdee-56bc-4848-9f43-e9935456b487/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 184px; height: 93px;" /></p>
 
 <p style="text-align: center;">Figure 1: Illustration of the solution of the Sample Input</p>

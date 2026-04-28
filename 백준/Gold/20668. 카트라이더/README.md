@@ -22,7 +22,7 @@
 
 <p>카트라이더의 맵은 다음과 같은 무방향 가중 그래프로 나타낼 수 있다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/66acc209-9c1e-4a92-a63c-366bfb71b9d8/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/20668.%E2%80%85%EC%B9%B4%ED%8A%B8%EB%9D%BC%EC%9D%B4%EB%8D%94/e022b2a9.png" data-original-src="https://upload.acmicpc.net/66acc209-9c1e-4a92-a63c-366bfb71b9d8/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p style="text-align: center;">&lt;그림 1&gt; 예제 입력1 예시</p>
 

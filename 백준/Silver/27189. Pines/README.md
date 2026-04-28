@@ -40,7 +40,7 @@
 
 <p>Illustration for the second sample test:</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/fb0bb423-083d-4750-ae62-98aa97dfb6f0/-/preview/" style="width: 382px; height: 141px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/27189.%E2%80%85Pines/dfb02183.png" data-original-src="https://upload.acmicpc.net/fb0bb423-083d-4750-ae62-98aa97dfb6f0/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 382px; height: 141px;" /></p>
 
 <p>For clarity, red lamps in the illustration have a pentagon shape and blue lamps have a star shape.</p>
 

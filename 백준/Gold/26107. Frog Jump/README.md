@@ -20,7 +20,7 @@
 
 <p>The $n$ closed intervals, representing lotus leaves, on the line, that is, on the $x$-axis are given and the frog is initially on some interval $I_0$. The frog can move from an interval $I$ to an interval $J$ if they overlap. Two intervals overlap if they share a common point. So the frog can move through overlapping intervals. When the frog is moving to the right (left) through the overlapping intervals, it may reach an interval $H$, where it can no longer move to the right (left) from the right (left) endpoint of $H$. In this case, the frog can <em>jump</em> to the interval $K$ with the smallest (largest) left (right) endpoint among intervals whose left (right) endpoint is greater (smaller) than the right (left) endpoint of $H$ if they exist. Then, the <em>jump length</em> is defined to be the length between the right (left) endpoint of $H$ and the left (right) endpoint of $K$. See Figure F.1.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/272e78c8-f9b6-49cf-a938-f1b0b2375cd7/-/preview/" style="width: 384px; height: 107px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/26107.%E2%80%85Frog%E2%80%85Jump/425fd528.png" data-original-src="https://upload.acmicpc.net/272e78c8-f9b6-49cf-a938-f1b0b2375cd7/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 384px; height: 107px;" /></p>
 
 <p style="text-align: center;">Figure F.1 Jump length</p>
 
@@ -28,7 +28,7 @@
 
 <p>For example, in Figure F.2, eight intervals $[1, 8]$, $[2, 4]$, $[5, 11]$, $[13, 15]$, $[15, 17]$, $[16, 18]$, $[19, 22]$ and $[20, 22]$ are given and numbered from $1$ and $8$. The frog is initially on interval $1$. Intervals $3, 7, 4, 6, 3$ which the frog should visit in a sequence are given. Then the frog moves from interval $1$ to $3$ with no jump, and it moves from $3$ to $7$ with two jumps, say, $3 &rarr; 4$ and $6 &rarr; 7$ whose jump length is $3$ totally. In this movement, the frog passes through the interval $4$. Nevertheless, it should visit the interval $4$ after the interval $7$. Then, there are two jumps during the movements from $7$ to $4$ and from $6$ to $3$ whose jump length is $3$ totally. Thus after the frog visits all the given intervals, the total jump length is $6$.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/c7d49429-b0ce-4a7e-9c8a-98f6a7550bdc/-/preview/" style="width: 488px; height: 90px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/26107.%E2%80%85Frog%E2%80%85Jump/0829a3d5.png" data-original-src="https://upload.acmicpc.net/c7d49429-b0ce-4a7e-9c8a-98f6a7550bdc/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 488px; height: 90px;" /></p>
 
 <p style="text-align: center;">Figure F.2 The given eight intervals</p>
 

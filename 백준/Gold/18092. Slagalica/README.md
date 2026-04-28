@@ -18,7 +18,7 @@
 
 <p>Little Fabian got a one-dimensional jigsaw puzzle that consists of N pieces. He quickly realized that each piece belongs to one of the following types:</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/cfb5dd5a-c12b-43a0-8daf-a0c918651ec5/-/preview/" style="width: 387px; height: 175px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/18092.%E2%80%85Slagalica/ac7f0a32.png" data-original-src="https://upload.acmicpc.net/cfb5dd5a-c12b-43a0-8daf-a0c918651ec5/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 387px; height: 175px;" /></p>
 
 <p>Additionally, it is known that among those N pieces there is exactly one piece of either type 5 or type 6 (left border) and exactly one piece of either type 7 or type 8 (right border).</p>
 
@@ -46,6 +46,6 @@
 
 <p>There are only two possible solutions to the puzzle:</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/b9589fd4-b257-4f5c-a88b-5ce71a5c7d32/-/preview/" style="width: 369px; height: 177px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/18092.%E2%80%85Slagalica/f5834e13.png" data-original-src="https://upload.acmicpc.net/b9589fd4-b257-4f5c-a88b-5ce71a5c7d32/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 369px; height: 177px;" /></p>
 
 <p>We can see that the second depicted solution has a smaller number written on the second piece. Therefore, that is the lexicographically smallest solution.</p>

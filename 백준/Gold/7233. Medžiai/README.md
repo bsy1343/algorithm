@@ -22,7 +22,7 @@
 
 <p>Pvz.: N = 6, K = 1, M = 2</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/b51c90dd-cb7c-499c-a2e0-e20658e4f273/-/preview/" style="width: 390px; height: 296px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/7233.%E2%80%85Med%C5%BEiai/0a1f3fb5.png" data-original-src="https://upload.acmicpc.net/b51c90dd-cb7c-499c-a2e0-e20658e4f273/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 390px; height: 296px;" /></p>
 
 <p style="text-align: center;">1 pav.</p>
 

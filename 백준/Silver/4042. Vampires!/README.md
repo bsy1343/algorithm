@@ -22,7 +22,7 @@
 
 <p>In a room full of vampires and ordinary mortals there are a number of mirrors. Each mirror has one of four orientations &ndash; north, south, east, or west (the orientation indicates which side of the mirror reflects). A vampire is in danger of embarrassment if he or she is in a direct horizontal or vertical line with the reflecting side of a mirror, unless there are intervening objects (mortals or other mirrors). For example, in the following room layout</p>
 
-<p><img alt="" src="/upload/images2/vam.png" style="height:209px; width:233px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/4042.%E2%80%85Vampires!/7f37a251.png" data-original-src="https://www.acmicpc.net/upload/images2/vam.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:209px; width:233px" /></p>
 
 <p>vampire V<sub>2</sub> is exposed to a south-facing mirror and both vampires V<sub>1</sub> and V<sub>2</sub> are exposed to a west-facing mirror (note that a vampire can&rsquo;t protect another vampire from embarrassment since neither one casts a reflection.) Your job is to notify each vampire of the directions in which there is danger of experiencing ENR (embarrassing non-reflectivity).</p>
 

@@ -39,6 +39,6 @@
 
 ### 힌트
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/f8750e42-70eb-473e-b2ba-8573e4de0f73/-/preview/" style="width: 509px; height: 320px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/16064.%E2%80%85Coolest%E2%80%85Ski%E2%80%85Route/65f4b5f9.png" data-original-src="https://upload.acmicpc.net/f8750e42-70eb-473e-b2ba-8573e4de0f73/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 509px; height: 320px;" /></p>
 
 <p style="text-align: center;">Figure C.1: Map of the second sample case</p>

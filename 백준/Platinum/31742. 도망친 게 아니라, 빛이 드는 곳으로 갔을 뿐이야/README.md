@@ -22,7 +22,7 @@
 
 <p>우정 2관 사감실에 있는 특별한 기계를 아는가? 해당 기계에 $n$에 해당하는 값을 설정하고 수를 입력하면 아래 순서도에 따라 수를 출력하는 원리이다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/219bcacc-a8b9-4d6c-b07e-3c0cfdf3db5e/-/preview/" style="width: 700px; height: 378px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/31742.%E2%80%85%EB%8F%84%EB%A7%9D%EC%B9%9C%E2%80%85%EA%B2%8C%E2%80%85%EC%95%84%EB%8B%88%EB%9D%BC%2C%E2%80%85%EB%B9%9B%EC%9D%B4%E2%80%85%EB%93%9C%EB%8A%94%E2%80%85%EA%B3%B3%EC%9C%BC%EB%A1%9C%E2%80%85%EA%B0%94%EC%9D%84%E2%80%85%EB%BF%90%EC%9D%B4%EC%95%BC/8c9d9169.png" data-original-src="https://upload.acmicpc.net/219bcacc-a8b9-4d6c-b07e-3c0cfdf3db5e/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 700px; height: 378px;" /></p>
 
 <p>예를 들어, 기계의 $n$을 $3$으로 설정하고, 사용자가 입력한 값이 $731$이라면 아래와 같이 동작한다.</p>
 

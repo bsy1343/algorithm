@@ -22,7 +22,7 @@
 
 <p><br />
 <br />
-&nbsp;&nbsp;&nbsp;<img src="https://onlinejudgeimages.s3.amazonaws.com/problem/12565/images-31.png" style="border:0px; vertical-align:middle" />&nbsp;<br />
+&nbsp;&nbsp;&nbsp;<img src="%EB%B0%B1%EC%A4%80/Gold/12565.%E2%80%85World%E2%80%85Cup%E2%80%852010%E2%80%85(Small)/aadb83c7.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/12565/images-31.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="border:0px; vertical-align:middle" />&nbsp;<br />
 &nbsp;</p>
 
 <p>In order to help him decide which matches to see, Varva has compiled a list of constraints based on how much he likes a particular team. Specifically, for each team&nbsp;<code>i</code>&nbsp;he is&nbsp;&nbsp;<strong>willing to miss at most</strong>&nbsp;<code>M[i]</code>&nbsp;matches the team plays in the tournament.</p>

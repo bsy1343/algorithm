@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p><img alt="" src="https://onlinejudgeimages.s3.amazonaws.com/problem/4669/fig1trans-2.gif" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/4669.%E2%80%85Robot%E2%80%85Motion/c044b922.gif" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/4669/fig1trans-2.gif" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>A robot has been programmed to follow the instructions in its path. Instructions for the next direction the robot is to move are laid down in a grid. The possible instructions are</p>
 

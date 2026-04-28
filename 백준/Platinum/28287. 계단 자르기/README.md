@@ -20,7 +20,7 @@
 
 <p>크기 $n$의 계단은 하나의 열을 시작으로 첫 줄에 단위 정사각형 $1$개, 둘째 줄에 $2$개, ..., $n$번째 줄에 $n$개를 붙여놓은 형태이다. 계단을 직사각형으로 나눌 때는 각 직사각형 역시 한 개 이상의 단위 정사각형으로 이루어져 있어야 한다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/510b50b8-f258-4e76-b6fe-4c2907ef635e/" style="width: 397px; height: 207px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/28287.%E2%80%85%EA%B3%84%EB%8B%A8%E2%80%85%EC%9E%90%EB%A5%B4%EA%B8%B0/2df5b2b5.png" data-original-src="https://upload.acmicpc.net/510b50b8-f258-4e76-b6fe-4c2907ef635e/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 397px; height: 207px;" /></p>
 
 ### 입력
 

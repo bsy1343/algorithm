@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/a08934b3-63cd-4e95-9a8d-c2ce303e2e32/-/preview/" style="max-width: 384px;" /><br />
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/24503.%E2%80%85blobfearful/4ce22741.png" data-original-src="https://upload.acmicpc.net/a08934b3-63cd-4e95-9a8d-c2ce303e2e32/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="max-width: 384px;" /><br />
 &nbsp;</p>
 
 <p>건우는&nbsp;다음과 같은 문제를 만들었다.</p>

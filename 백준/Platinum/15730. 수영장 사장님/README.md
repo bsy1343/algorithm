@@ -30,4 +30,4 @@
 
 <p>다음과 같이 총 5 만큼의 물을 채울 수 있다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15730/1.png" style="width: 627px; height: 300px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/15730.%E2%80%85%EC%88%98%EC%98%81%EC%9E%A5%E2%80%85%EC%82%AC%EC%9E%A5%EB%8B%98/511a2ffe.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15730/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 627px; height: 300px;" /></p>

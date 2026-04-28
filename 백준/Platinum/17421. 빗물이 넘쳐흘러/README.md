@@ -18,7 +18,7 @@
 
 <p>정우가 살고있는&nbsp;마을은 분지(주위가 산지로 둘러싸여 주변보다 낮은 지형)이다. 한가로이 낮잠을 즐기던 정우는&nbsp;마을의 왼쪽으로부터&nbsp;물이 흘러 들어오고&nbsp;있는 것을 보았다!</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/3fdde286-20ea-47e0-ad72-95105e18baf9/-/crop/792x653/0,0/-/preview/" style="height: 330px; width: 400px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/17421.%E2%80%85%EB%B9%97%EB%AC%BC%EC%9D%B4%E2%80%85%EB%84%98%EC%B3%90%ED%9D%98%EB%9F%AC/d54ca4bf.png" data-original-src="https://upload.acmicpc.net/3fdde286-20ea-47e0-ad72-95105e18baf9/-/crop/792x653/0,0/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 330px; width: 400px;" /></p>
 
 <p>정우가 일찍 발견한 덕에 주민들과 정우는 무사히 탈출했지만, 호기심 꾸러기 정우는&nbsp;흘러들어온 물이 언제 처음으로&nbsp;<em>K</em>덩이가 되는지 궁금해졌다. (위의 그림에서 물은 3덩이이다.)</p>
 

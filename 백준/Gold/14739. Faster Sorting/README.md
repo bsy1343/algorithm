@@ -27,7 +27,7 @@
 	<li>부분배열의 길이가 $MINRUN$보다 작으면, 뒤에 있는 원소를 더 가져와서 그 길이로 맞춘다. 이때 가져오는 원소들을 &quot;나쁜 원소&quot;라고 부르자. 길이가 맞춰지기 전에 배열이 끝나면 멈춘다.</li>
 </ol>
 
-<p style="text-align:center"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14739/f.png" style="height:281px; width:631px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/14739.%E2%80%85Faster%E2%80%85Sorting/54b19dd3.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14739/f.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:281px; width:631px" /></p>
 
 <p>$MINRUN$이 작을수록 합쳐야 될 부분배열이 많아지고, $MINRUN$이 클수록 나쁜 원소가 많아져 삽입정렬이 힘들어지므로 적당한 $MINRUN$을 잡는 것이 중요하다. 배열을 합치는 과정 때문에 $N/MINRUN$이&nbsp;2의 지수에 가까워야 좋다는 조건도 있지만, 이는 이 문제에서 고려하지 않을 것이다. $MINRUN$의 값이 주어졌을 때 부분배열과 나쁜 원소의 개수를 구해 보자.<br />
 &nbsp;</p>

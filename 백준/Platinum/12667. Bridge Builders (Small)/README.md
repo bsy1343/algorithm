@@ -30,17 +30,17 @@
 
 <p>Consider this example. A green tile indicates a forest, gray indicates an empty island, and blue indicates water.</p>
 
-<p><img alt="" src="https://onlinejudgeimages.s3.amazonaws.com/problem/12668/images-14.png" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/12667.%E2%80%85Bridge%E2%80%85Builders%E2%80%85(Small)/27b901f7.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/12668/images-14.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>One optimal solution starts out by building the following bridges from the base camp forest.</p>
 
-<p><img alt="" src="https://onlinejudgeimages.s3.amazonaws.com/problem/12668/images-15.png" style="height:99px; width:96px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/12667.%E2%80%85Bridge%E2%80%85Builders%E2%80%85(Small)/5c8bd620.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/12668/images-15.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:99px; width:96px" /></p>
 
 <p>This has a cost of 1 + 2 + 1 + 2 + 3 + 4 = 13</p>
 
 <p>Now since the forest at row 3, column 3 is connected to base camp, we can build bridges from there. One optimal solution connects the rest of the islands with bridges built from this forest.</p>
 
-<p><img alt="" src="https://onlinejudgeimages.s3.amazonaws.com/problem/12668/images-16.png" style="height:99px; width:96px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/12667.%E2%80%85Bridge%E2%80%85Builders%E2%80%85(Small)/8b2c6fe2.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/12668/images-16.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:99px; width:96px" /></p>
 
 <p>This has a cost of 2 + 1 + 2 + 1 + 2 + 3 = 11. This brings the total cost to 24 which is the optimal solution.</p>
 

@@ -29,7 +29,7 @@
 	<li>There will never be two edges labeled with the same letter coming out of a single&nbsp;node (this way we minimize the number of nodes necessary to represent all&nbsp;prefixes).&nbsp;</li>
 </ul>
 
-<p><img alt="" src="https://onlinejudgeimages.s3.amazonaws.com/problem/13489/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-11-01%20%EC%98%A4%ED%9B%84%204.31.03.png" style="height:356px; width:390px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/13489.%E2%80%85Vje%C5%A1tica/5c81a7a0.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/13489/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-11-01%20%EC%98%A4%ED%9B%84%204.31.03.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:356px; width:390px" /></p>
 
 <p>Prefix tree for words: &ldquo;A&rdquo;, &ldquo;to&rdquo;, &ldquo;tea&rdquo;, &ldquo;ted&rdquo;, &ldquo;ten&rdquo;, &ldquo;i&rdquo;, &ldquo;in&rdquo;, i &ldquo;inn&rdquo;.</p>
 

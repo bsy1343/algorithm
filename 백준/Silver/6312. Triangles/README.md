@@ -22,7 +22,7 @@
 
 <p>Given a triangle structure with white and black fields inside you must find the largest triangle area of white fields, as shown in the following figure.</p>
 
-<p style="text-align: center;"><img alt="" src="/upload/images2/triangle(1).png" style="height:165px; width:214px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/6312.%E2%80%85Triangles/b397a4b6.png" data-original-src="https://www.acmicpc.net/upload/images2/triangle(1).png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:165px; width:214px" /></p>
 
 ### 입력
 

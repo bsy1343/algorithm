@@ -18,7 +18,7 @@
 
 <p>Bob and Alice are roommates at the International College of Polygonal Chambers (ICPC). To avoid conflict, they&#39;ve agreed to divide their dorm room in half---as closely as possible. However, the room is shaped so irregularly that they need your help!</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/7bcb1da1-e49c-497f-89d9-41a9ea3317d6/-/preview/" style="width: 500px; height: 338px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/24601.%E2%80%85Dorm%E2%80%85Room%E2%80%85Divide/af70dff1.png" data-original-src="https://upload.acmicpc.net/7bcb1da1-e49c-497f-89d9-41a9ea3317d6/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 500px; height: 338px;" /></p>
 
 <p>Each dorm room is a convex polygon, with a single entrance. You need to figure out how to divide this room in half (by area) using a single straight line starting at the door, and terminating on a wall or corner of the room.</p>
 

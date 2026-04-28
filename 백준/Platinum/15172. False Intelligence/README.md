@@ -20,7 +20,7 @@
 
 <p>Of course, secretly, the machines will still follow precise rules &ndash; those of threevalued logic invented by Jan Łukasiewicz. It adds to the two values F (false) and T (true) of Boolean logic a third value U (uncertain) and extends the logic operators as shown in the first three of the following tables:</p>
 
-<p style="text-align:center"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15172/1.png" style="height:101px; width:529px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/15172.%E2%80%85False%E2%80%85Intelligence/cbfde9a7.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15172/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:101px; width:529px" /></p>
 
 <p>For example, F &or; T = T as in Boolean logic, T &and; U = U and F &rarr; U = T. Some functions cannot be expressed using the three operators AND, OR and IMPLIES. For example, f(x, y) = x &rarr; x is the constant T function, but there is no expression g(x, y) in terms of x, y, AND, OR and IMPLIES which is constant F.</p>
 

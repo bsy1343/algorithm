@@ -34,4 +34,4 @@
 
 <p>Picture illustrating the last Sample Input:</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/4b6f2ca8-ea61-4af4-882b-055af3783b7b/-/preview/" style="width: 542px; height: 296px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/25804.%E2%80%85Caterpillar%E2%80%85Walk/7439a0f7.png" data-original-src="https://upload.acmicpc.net/4b6f2ca8-ea61-4af4-882b-055af3783b7b/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 542px; height: 296px;" /></p>

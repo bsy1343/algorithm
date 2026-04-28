@@ -29,7 +29,7 @@
 	<li>성게 밭에서 각 성게는 암컷 혹은 수컷이며, 지금 시기는 성게가 제철이기에 성게 밭은 서로 다른 두 암컷이나 두 수컷은 맞닿아 있지 않다.</li>
 </ul>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/8cd344f3-3071-47cb-bd6e-439ff06b8aa6/-/preview/" style="width: 30%;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/29153.%E2%80%85%EC%84%B1%EA%B2%8C%E2%80%85%EB%B0%AD/d33df652.png" data-original-src="https://upload.acmicpc.net/8cd344f3-3071-47cb-bd6e-439ff06b8aa6/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 30%;" /></p>
 
 <p>예시로 다음 그림을 살펴보자. 그림에서 주어진 성게밭은 중심이 1, 7인 성게가 가시 2, 3을 통해 맞닿고 있다. 또한 모든 정점과 간선이 한 개 이상의 성게에 포함되며, 성게의 중심인 정점 1, 7은 정확히 하나의 성게에 속한다.</p>
 

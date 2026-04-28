@@ -44,4 +44,4 @@
 
 <p>A histogram with heights $3,7,6,8,5,5$ is shown below. The maximum area rectangle inside the histogram has an area of $25$.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/f83b19d0-0a8a-4955-81bd-125f4331d949/-/preview/" style="max-width: 100%; width: 320px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/25730.%E2%80%85Histogram%E2%80%85Sequence%E2%80%854/5b446eb2.png" data-original-src="https://upload.acmicpc.net/f83b19d0-0a8a-4955-81bd-125f4331d949/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="max-width: 100%; width: 320px;" /></p>

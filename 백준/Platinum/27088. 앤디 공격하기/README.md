@@ -32,8 +32,8 @@
 <table class="table table-bordered td-center">
 	<tbody>
 		<tr>
-			<td><img alt="" src="https://upload.acmicpc.net/34f54917-6037-402a-847b-6206361eddf2/-/preview/" /></td>
-			<td><img alt="" src="https://upload.acmicpc.net/820d9af7-e336-4d54-94ba-6268ee47ef70/-/preview/" /></td>
+			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/27088.%E2%80%85%EC%95%A4%EB%94%94%E2%80%85%EA%B3%B5%EA%B2%A9%ED%95%98%EA%B8%B0/7230b997.png" data-original-src="https://upload.acmicpc.net/34f54917-6037-402a-847b-6206361eddf2/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></td>
+			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/27088.%E2%80%85%EC%95%A4%EB%94%94%E2%80%85%EA%B3%B5%EA%B2%A9%ED%95%98%EA%B8%B0/1acb992a.png" data-original-src="https://upload.acmicpc.net/820d9af7-e336-4d54-94ba-6268ee47ef70/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></td>
 		</tr>
 	</tbody>
 </table>
@@ -69,4 +69,4 @@
 
 <p>문제 이미지의 방향은 아래와 같다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/5aa4ad3d-25c0-4886-ba21-c99901737982/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/27088.%E2%80%85%EC%95%A4%EB%94%94%E2%80%85%EA%B3%B5%EA%B2%A9%ED%95%98%EA%B8%B0/c5179e54.png" data-original-src="https://upload.acmicpc.net/5aa4ad3d-25c0-4886-ba21-c99901737982/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>

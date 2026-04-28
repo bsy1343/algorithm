@@ -18,7 +18,7 @@
 
 <p>Turime dvi detales, sudarytas i&scaron; mažų kubelių. Abi detalės yra $1$ kubelio pločio ir $2$ kubelių auk&scaron;čio. Pirmosios detalės vir&scaron;utinioji eilė ir antrosios detalės apatinioji eilė yra pilnai užpildytos, pavyzdžiui:</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/d80bdef4-2c2d-4714-a9e5-ffad419fc6f6/-/preview/" style="width: 258px; height: 166px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/30084.%E2%80%85Kubeliai/d96af146.png" data-original-src="https://upload.acmicpc.net/d80bdef4-2c2d-4714-a9e5-ffad419fc6f6/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 258px; height: 166px;" /></p>
 
 <p>Keliais būdais &scaron;ias detales galima pastatyti vieną ant kitos taip, kad detalės liestųsi ir bendras auk&scaron;tis būtų ne daugiau kaip $3$?</p>
 

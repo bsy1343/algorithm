@@ -22,7 +22,7 @@
 
 <p>이 군대 속에는 Susanin이라는 첩자가 있다. 그는 Stefan과 Konstantin의 지도를 보고, 그들 장군이 어떤 길을 선택하도록 할지 결정하는 역할을 하고 있다. 그는 장군들에게 잘못된 길을 알려주어, Domino마을로의 이동거리를 최대한 길게 만들고 싶어한다. 하지만, Domino마을로의 방향과 완전히 다른 방향으로 이동하면 첩자라는 의심을 살 것이다. 따라서 Susanin은 각 지도 내에서의 최단거리가 감소하는 방향으로(Strictly Decreasing) 길을 안내하고자 한다. 즉, Susanin이 Stefan에게 선택해주는 길은 큰 길들만을 이용하였을 때의 Domino마을까지의 거리가 감소하는 방향으로 선택되어야 하며, Konstantin에게 선택해주는 길은 샛길들만을 이용하였을 때의 거리가 감소하는 방향으로 선택되어야 한다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/12883/1.png" style="height:158px; width:482px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/12883.%E2%80%85Journey/6f62a849.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/12883/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:158px; width:482px" /></p>
 
 <p>이때, Susanin이 택할 수 있는 가장 긴 경로의 길이를 구하시오.</p>
 

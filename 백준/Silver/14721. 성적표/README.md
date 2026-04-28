@@ -24,7 +24,7 @@
 
 <p>이 데이터로부터 공부를 x시간 했으면 시험 성적은 f(x) = ax + b일 것이라고 추정하려 한다. 동하를 위해 a와 b를 구해주자.</p>
 
-<p style="text-align:center"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14721/1.png" style="height:262px; width:397px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/14721.%E2%80%85%EC%84%B1%EC%A0%81%ED%91%9C/2f82ed50.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14721/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:262px; width:397px" /></p>
 
 <p>공부시간에 따른 시험성적을 예측하는 함수 f(x)는, 데이터 (x<sub>i</sub>, y<sub>i</sub>)에 대해, f(x<sub>i</sub>)와 y<sub>i</sub>의 차가 작아야 할 것이다. (I = 1, 2, 3, &hellip;, N)</p>
 

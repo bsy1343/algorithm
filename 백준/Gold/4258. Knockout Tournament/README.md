@@ -18,7 +18,7 @@
 
 <p>In a knockout tournament there are 2<sup>n</sup> players. One loss and a player is out of the tournament. Winners then play each other with the new winners advancing until there is only one winner left. If we number the players 1, 2, 3,..., 2<sup>n</sup>, with the first round pairings 2k&minus;1 vs 2k, for k = 1, 2,..., 2<sup>n&minus;1</sup>, then we could give the results of the tournament in a complete binary tree. The winners are indicated in the interior nodes of the tree. Below is an example of a tournament with n = 3.</p>
 
-<p><img alt="" src="/upload/images2/kt.png" style="height:142px; width:267px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/4258.%E2%80%85Knockout%E2%80%85Tournament/e9af4bb5.png" data-original-src="https://www.acmicpc.net/upload/images2/kt.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:142px; width:267px" /></p>
 
 <p>After the tournament, some reporters were arguing about the relative ranking of the players, as determined by the tournament results. It&rsquo;s assumed that if player A beats player B who in turn beats player C, that player A will also beat player C; that is, winning is transitive. Now there is no doubt who the best player is. The question is what is the highest ranking a player can reasonably claim as a result of the tournament and what is the worst ranking a player can have, as a result of the tournament? For example, in the above tournament player 2, having lost to the eventual winner, could claim to be the 2nd best player in the field, but could well be the worst (ranked 8th). Player 5 could claim to be as high as 3rd (having lost to someone who could be 2nd) but no worse than 7th (having beaten one player in the 1st round).</p>
 

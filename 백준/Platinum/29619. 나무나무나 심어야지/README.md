@@ -75,20 +75,20 @@
 
 <p>1번 예제 테스트 케이스를 확인해보자.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/9cc8964d-4a7c-48e0-b3b7-1a8b508c8f09/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/29619.%E2%80%85%EB%82%98%EB%AC%B4%EB%82%98%EB%AC%B4%EB%82%98%E2%80%85%EC%8B%AC%EC%96%B4%EC%95%BC%EC%A7%80/7127019c.png" data-original-src="https://upload.acmicpc.net/9cc8964d-4a7c-48e0-b3b7-1a8b508c8f09/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>최초 트리의 형태이다. 첫 번째 쿼리 시 $1$번 정점을 흔들면 $2$, $3$번 정점이 같이 흔들리고 $3$번 정점에 달린 열매를 떨어트리기 위해 $3$의 힘으로 흔들어야 한다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/d7cb0974-13c6-4cfc-a26f-a32788c5af21/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/29619.%E2%80%85%EB%82%98%EB%AC%B4%EB%82%98%EB%AC%B4%EB%82%98%E2%80%85%EC%8B%AC%EC%96%B4%EC%95%BC%EC%A7%80/2ab9936f.png" data-original-src="https://upload.acmicpc.net/d7cb0974-13c6-4cfc-a26f-a32788c5af21/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>3개 접목을 진행한 모습이다. $4$번 정점을 흔들면 $4$번만 흔들리고, $4$번에 달린 열매를 떨어트리기 위해 $5$의 힘으로 흔들어야 한다. 마찬가지로 $7$번 정점을 흔들면 $7$, $4$, $5$번이 흔들리고 $4$번과 $7$번의 열매를 떨어트리기 위해 $9$의 힘으로 흔들어야 한다.</p>
 
 <p>2번 예제를 확인해보자.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/439c3564-db11-4b86-92cd-3590d3d14b7c/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/29619.%E2%80%85%EB%82%98%EB%AC%B4%EB%82%98%EB%AC%B4%EB%82%98%E2%80%85%EC%8B%AC%EC%96%B4%EC%95%BC%EC%A7%80/3e886b6f.png" data-original-src="https://upload.acmicpc.net/439c3564-db11-4b86-92cd-3590d3d14b7c/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>첫 번째 쿼리 시 $1$번 정점을 흔들면 $2$, $3$, $4$번이 같이 흔들리지만, 열매가 달려 있지 않다. 흔들어야 할 힘이 $0$이기에 <span style="color:#c0392b;"><code>-1</code></span>을 출력한다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/f7133282-bbe7-4c16-a8bb-84221e9304bd/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/29619.%E2%80%85%EB%82%98%EB%AC%B4%EB%82%98%EB%AC%B4%EB%82%98%E2%80%85%EC%8B%AC%EC%96%B4%EC%95%BC%EC%A7%80/41d6122e.png" data-original-src="https://upload.acmicpc.net/f7133282-bbe7-4c16-a8bb-84221e9304bd/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>$1$번 정점을 흔들면 $2$, $3$, $4$, $7$번이 같이 흔들리고, $7$번의 열매를 떨어트리기 위해 $500$의 힘으로 흔들어야 한다.</p>

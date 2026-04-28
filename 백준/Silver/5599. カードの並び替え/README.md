@@ -24,13 +24,13 @@
 
 <p>上から k 枚のカードの山 A と 残りのカードの山 B に分けた後， 山 A の上に山 B をのせる．</p>
 
-<p><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/5599/1.png" style="height: 157px; width: 374px;" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/5599.%E2%80%85%E3%82%AB%E3%83%BC%E3%83%89%E3%81%AE%E4%B8%A6%E3%81%B3%E6%9B%BF%E3%81%88/757a9f8c.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/5599/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 157px; width: 374px;" /></p>
 
 <p><strong>リフルシャッフル</strong></p>
 
 <p>上から n 枚の山 A と残りの山 B に分け， 上から A の1枚目， B の1枚目， A の2枚目， B の2枚目， &hellip;， A の n枚目， B の n枚目， となるようにして， 1 つの山にする．</p>
 
-<p><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/5599/2.png" style="height: 160px; width: 313px;" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/5599.%E2%80%85%E3%82%AB%E3%83%BC%E3%83%89%E3%81%AE%E4%B8%A6%E3%81%B3%E6%9B%BF%E3%81%88/341dcfc5.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/5599/2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 160px; width: 313px;" /></p>
 
 <p>入力ファイルの指示に従い， カードを並び替えたあとのカードの番号を， 上から順番に出力するプログラムを作成せよ．</p>
 

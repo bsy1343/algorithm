@@ -42,4 +42,4 @@
 
 ### 힌트
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/7cb7d303-e754-482f-b8e9-d79940cbb320/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/8347.%E2%80%85Bug/cca07c22.png" data-original-src="https://upload.acmicpc.net/7cb7d303-e754-482f-b8e9-d79940cbb320/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>

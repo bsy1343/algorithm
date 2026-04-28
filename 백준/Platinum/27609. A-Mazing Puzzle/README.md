@@ -20,7 +20,7 @@
 
 <p>Recently a complex underground maze of the Desreverezam Civilization has been discovered. SCArED sent in two robots to investigate and over the course of several months they have mapped out the entire maze. But then disaster struck --- due to some unforeseen anomaly they no longer have radio contact with the two robots (the researchers are torn between the cause of this: either some magnetoferritin crystals in the walls or angry poltergeists). After several weeks of trying to regain contact with the two robots they finally have managed to open up a shared channel with them. There&#39;s not much bandwidth in the connection, so they can only send three basic commands to the robots: (Move) Forward, (Turn) Left and (Turn) Right. Since this is a shared channel they cannot send differentiated commands to each robot, so if they send the Forward command each robot will try to move forward simultaneously. If there is an opening in front of them that&#39;s fine but if there&#39;s a wall in front of one of the robots it will bump into the wall and remain where it is. Any Turn command will likewise cause the robots to turn in lockstep.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/28c99796-21dc-41ba-9cc0-25a280aa3283/-/preview/" style="width: 203px; height: 107px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/27609.%E2%80%85A-Mazing%E2%80%85Puzzle/cdfcfd33.png" data-original-src="https://upload.acmicpc.net/28c99796-21dc-41ba-9cc0-25a280aa3283/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 203px; height: 107px;" /></p>
 
 <p style="text-align: center;">Figure A.1: Sample Input $1$.</p>
 

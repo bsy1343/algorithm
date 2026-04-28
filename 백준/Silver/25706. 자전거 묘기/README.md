@@ -20,7 +20,7 @@
 
 <p>도로의 각 칸에는 점프대가 설치되어 있을 수 있다. <em>i(1 &le; i &le; N)</em>번 칸에 설치된 점프대의 높이를 <em>h<sub>i</sub></em>라고 하자. 높이가 <em>h<sub>i</sub></em>인 점프대를 밟으면 그 어떤 요인과도 관계없이 다음 <em>h<sub>i</sub></em>칸 위를 비행한 뒤 그다음 칸에 착지한다. 다음 예시를 확인해 보자.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/0dce84cd-42a2-47f2-9052-404dc651145a/-/preview/" style="height: 149px; width: 640px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/25706.%E2%80%85%EC%9E%90%EC%A0%84%EA%B1%B0%E2%80%85%EB%AC%98%EA%B8%B0/3a2fe437.png" data-original-src="https://upload.acmicpc.net/0dce84cd-42a2-47f2-9052-404dc651145a/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 149px; width: 640px;" /></p>
 
 <p>자전거를 타고 1번 칸에서 출발해 앞으로 달리면 다음과 같은 일들이 순서대로 일어난다.</p>
 

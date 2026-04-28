@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align:center"><img alt="" src="http://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15319/1.png" style="height:150px; width:225px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/15319.%E2%80%85%EB%8F%99%ED%98%81%EC%9D%B4%EC%9D%98%E2%80%85%EC%83%9D%EC%9D%BC%EC%84%A0%EB%AC%BC/91c28764.png" data-original-src="http://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15319/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:150px; width:225px" /></p>
 
 <p>동혁이에게는 N명의 친구가 있다. 동혁이의 생일은 4월 14일인데, 친구들은 그 날 동혁이에게 수열을 선물하려 했다. 하지만 그 수열을 구성하는 숫자가 너무 많았기 때문에 수열 전체를 선물하는 대신에 수열을 만들 수 있는 숫자 x만 선물하였고, 동혁이에게 수열을 만드는 방법을 전수해 줬다. 이제 7월 1일인 오늘, 친구들은 동혁이가 자신들의 선물을 얼마나 소중히 여겼는지 확인하기 위해 선물한 수열의 K번째 수를 물어보려 한다. 동혁이가 제대로 대답을 하지 못한다면, 친구들은 실망하고 떠나갈 것이다. 하지만 동혁이는 돈도 안되는 수열엔 관심이 없었기 때문에 하나도 외우지 못했다. 동혁이가 지금 당장 친구들의 물음에 빠르게 답할 수 있도록 도와주자.</p>
 

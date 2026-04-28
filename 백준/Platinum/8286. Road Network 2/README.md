@@ -37,4 +37,4 @@
 
 ### 힌트
 
-<p style="text-align:center"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/8286/1.gif" style="height:117px; width:125px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/8286.%E2%80%85Road%E2%80%85Network%E2%80%852/3b1cc2a5.gif" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/8286/1.gif" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:117px; width:125px" /></p>

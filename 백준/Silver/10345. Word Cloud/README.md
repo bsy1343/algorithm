@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align:center"><img alt="sample cloud" src="/upload/images2/teams.png" style="line-height:1.6em; width:675px" /></p>
+<p style="text-align:center"><img alt="sample cloud" src="%EB%B0%B1%EC%A4%80/Silver/10345.%E2%80%85Word%E2%80%85Cloud/cc2fcf11.png" data-original-src="https://www.acmicpc.net/upload/images2/teams.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="line-height:1.6em; width:675px" /></p>
 
 <p>A word cloud (or tag cloud) is a visual representation of textual data based on a weighted metric. In the above cloud (which is based on this year&#39;s list of Mid-Central teams), the font size of each word is based on its number of occurrences in the data set. Tagg Johnson is a man obsessed with counting words that appear in online documents. On his computer, he keeps a spreadsheet of all the sites he visits, along with a list of words that appear on each site and the number of times such word appears. Tagg would like to generate word clouds based on the data he has collected.</p>
 
@@ -34,8 +34,8 @@
 			<td><strong>word</strong></td>
 			<td><strong>count</strong></td>
 			<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
-			<td rowspan="7"><img alt="fruit cloud" src="/upload/images2/fruits260.png" style="width:250px" /></td>
-			<td rowspan="7"><img alt="fruit cloud" src="/upload/images2/fruits260Boxed.png" style="width:250px" /></td>
+			<td rowspan="7"><img alt="fruit cloud" src="%EB%B0%B1%EC%A4%80/Silver/10345.%E2%80%85Word%E2%80%85Cloud/ba45d940.png" data-original-src="https://www.acmicpc.net/upload/images2/fruits260.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width:250px" /></td>
+			<td rowspan="7"><img alt="fruit cloud" src="%EB%B0%B1%EC%A4%80/Silver/10345.%E2%80%85Word%E2%80%85Cloud/529cacba.png" data-original-src="https://www.acmicpc.net/upload/images2/fruits260Boxed.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width:250px" /></td>
 		</tr>
 		<tr>
 			<td>apple</td>

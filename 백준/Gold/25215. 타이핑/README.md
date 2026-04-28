@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/463541b3-bdc7-487d-9cc6-ce2742068e53/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/25215.%E2%80%85%ED%83%80%EC%9D%B4%ED%95%91/715b8c7b.png" data-original-src="https://upload.acmicpc.net/463541b3-bdc7-487d-9cc6-ce2742068e53/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>민겸이는 영어 소문자와 대문자로 이루어진 문자열을 타이핑하기로 했다. 민겸이가 사용할 수 있는 버튼은 26개의 영어 알파벳 버튼과 마름모(◆) 버튼, 별(★) 버튼이다. 각 버튼은 아래와 같이 작동한다.</p>
 

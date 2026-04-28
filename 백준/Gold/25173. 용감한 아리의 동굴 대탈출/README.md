@@ -46,10 +46,10 @@
 			<td style="text-align: center;">보스의 진행 방향이 &larr; 일 때</td>
 		</tr>
 		<tr>
-			<td style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/e4dd6817-6b86-46ba-aac0-09caf5be4639/" style="width: 250px; height: 259px;" /></td>
-			<td style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/f7b45904-823d-40e4-90f0-7e5932a2a666/" style="width: 265px; height: 250px;" /></td>
-			<td style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/783affa2-7eb7-45a4-85fd-6b2dd2625921/" style="width: 250px; height: 266px;" /></td>
-			<td style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/752f5a08-59e1-427b-88d8-4c2ca4c09c80/" style="width: 263px; height: 250px;" /></td>
+			<td style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/25173.%E2%80%85%EC%9A%A9%EA%B0%90%ED%95%9C%E2%80%85%EC%95%84%EB%A6%AC%EC%9D%98%E2%80%85%EB%8F%99%EA%B5%B4%E2%80%85%EB%8C%80%ED%83%88%EC%B6%9C/b947209f.png" data-original-src="https://upload.acmicpc.net/e4dd6817-6b86-46ba-aac0-09caf5be4639/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 250px; height: 259px;" /></td>
+			<td style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/25173.%E2%80%85%EC%9A%A9%EA%B0%90%ED%95%9C%E2%80%85%EC%95%84%EB%A6%AC%EC%9D%98%E2%80%85%EB%8F%99%EA%B5%B4%E2%80%85%EB%8C%80%ED%83%88%EC%B6%9C/65ad85d9.png" data-original-src="https://upload.acmicpc.net/f7b45904-823d-40e4-90f0-7e5932a2a666/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 265px; height: 250px;" /></td>
+			<td style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/25173.%E2%80%85%EC%9A%A9%EA%B0%90%ED%95%9C%E2%80%85%EC%95%84%EB%A6%AC%EC%9D%98%E2%80%85%EB%8F%99%EA%B5%B4%E2%80%85%EB%8C%80%ED%83%88%EC%B6%9C/59f0752c.png" data-original-src="https://upload.acmicpc.net/783affa2-7eb7-45a4-85fd-6b2dd2625921/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 250px; height: 266px;" /></td>
+			<td style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/25173.%E2%80%85%EC%9A%A9%EA%B0%90%ED%95%9C%E2%80%85%EC%95%84%EB%A6%AC%EC%9D%98%E2%80%85%EB%8F%99%EA%B5%B4%E2%80%85%EB%8C%80%ED%83%88%EC%B6%9C/7656c79f.png" data-original-src="https://upload.acmicpc.net/752f5a08-59e1-427b-88d8-4c2ca4c09c80/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 263px; height: 250px;" /></td>
 		</tr>
 	</tbody>
 </table>

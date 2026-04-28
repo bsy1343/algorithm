@@ -22,13 +22,13 @@
 
 <p>For the case given in the first sample input with four points, there are three patterns of point couplings as shown in Figure B.1. The numbers of parallel line pairs are 0, 0, and 1, from the left. So the maximum is 1.</p>
 
-<p style="text-align:center"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15330/1.png" style="height:193px; width:396px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/15330.%E2%80%85Parallel%E2%80%85Lines/4d437fe9.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15330/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:193px; width:396px" /></p>
 
 <p style="text-align:center">Figure B.1. All three possible couplings for Sample Input 1</p>
 
 <p>For the case given in the second sample input with eight points, the points can be coupled as shown in Figure B.2. With such a point pairing, all four lines are parallel to one another. In other words, the six line pairs (L<sub>1</sub>, L<sub>2</sub>), (L<sub>1</sub>, L<sub>3</sub>), (L<sub>1</sub>, L<sub>4</sub>), (L<sub>2</sub>, L<sub>3</sub>), (L<sub>2</sub>, L<sub>4</sub>) and (L<sub>3</sub>, L<sub>4</sub>) are parallel. So the maximum number of parallel line pairs, in this case, is 6.</p>
 
-<p style="text-align:center"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15330/2.png" style="height:343px; width:304px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/15330.%E2%80%85Parallel%E2%80%85Lines/8bb3b0a2.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15330/2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:343px; width:304px" /></p>
 
 <p style="text-align:center">Figure B.2. Maximizing the number of parallel line pairs for Sample Input 2</p>
 

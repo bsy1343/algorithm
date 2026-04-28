@@ -20,7 +20,7 @@
 
 <p>상추는 오랜 시간과 정성을 들여 키우다, 비로소 크기가 $m$ 이상이 되었을 때 수확할 수 있다.</p>
 
-<p style="display:flex;flex-direction:column;align-items:center;"><img src="https://upload.acmicpc.net/1afebe07-f394-48e4-8b9d-22ede29a7403/-/crop/701x683/46,21/-/preview/" style="max-height:359px;max-width:100%" /> <span style="text-align:center;">즐겁게 텃밭을 가꾸고 계신 윤○○ 선생님의 모습이다.</span></p>
+<p style="display:flex;flex-direction:column;align-items:center;"><img src="%EB%B0%B1%EC%A4%80/Platinum/32222.%E2%80%85%EB%8F%84%EC%8B%9C%EB%86%8D%EB%B6%80/1b907668.png" data-original-src="https://upload.acmicpc.net/1afebe07-f394-48e4-8b9d-22ede29a7403/-/crop/701x683/46,21/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="max-height:359px;max-width:100%" /> <span style="text-align:center;">즐겁게 텃밭을 가꾸고 계신 윤○○ 선생님의 모습이다.</span></p>
 
 <p>하지만 오늘 점심 메뉴가 삼겹살이기 때문에 진서는 상추를 수확 가능한 상태까지 빠르게 자라도록 영양제를 쓰기로 했다.</p>
 

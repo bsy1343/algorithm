@@ -20,7 +20,7 @@
 
 <p>Mr. Turtle has a picture in his head of how he wants his final drawing to appear. He plans out his entire drawing ahead of time, step by step. Mr. Turtle&rsquo;s plan is a sequence of commands: up, down, left or right, with a distance. He starts drawing in the bottom left corner of his whiteboard. Consider the 6 &times; 8 whiteboard and sequence of commands in the first diagram. If the marker runs dry at timestep 17, the board will look like the second diagram (the numbers indicate the timestep when the marker is at each cell). Note that it will make a mark at timestep 17, but not at timestep 18.</p>
 
-<p style="text-align: center;"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/13060/1.png" style="height:202px; width:613px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/13060.%E2%80%85Whiteboard/dc78d8d1.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/13060/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:202px; width:613px" /></p>
 
 <p>Mr. Turtle wants to know the earliest and latest time his marker can dry out, and he&rsquo;ll still obtain the drawing in his head. Can you help him? Note that timestep 0 is the moment before the marker touches the board. It is valid for a marker to dry out at timestep 0.</p>
 

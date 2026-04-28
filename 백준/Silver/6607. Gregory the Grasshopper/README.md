@@ -20,7 +20,7 @@
 
 <p>For simplicity, we will assume that Gregory lives on a rectangular grid consisting of unit squares. As a grasshopper, he prefers to move by jumping (or, more exactly, hopping) from one square to the other. Each hop takes him to a square that is in the adjacent row or column in one direction, and two columns or rows away in the other direction. So, his hops resemble the moves of a knight on a chessboard.</p>
 
-<p style="text-align: center;"><img alt="" src="/upload/images2/grass.png" style="height:248px; width:246px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/6607.%E2%80%85Gregory%E2%80%85the%E2%80%85Grasshopper/04d8d946.png" data-original-src="https://www.acmicpc.net/upload/images2/grass.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:248px; width:246px" /></p>
 
 ### 입력
 

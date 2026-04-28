@@ -24,7 +24,7 @@
 Some of the boxes (or cells) defined by the lattice have numbers within them; with a regular rectangular lattice, the numbers will be between 0 and 3 inclusive.<br />
 The goal of a Slitherlink puzzle is to connect adjacent dots (horizontally or vertically, like the sides of boxes) so that there is a single loop that never crosses itself, with no line segments that are not part of the loop (no &quot;dangling&quot; segments or other, separate loops) such that every cell that has a number has exactly that many sides as segments of the loop.</p>
 
-<p style="text-align: center;"><img alt="" src="/upload/images2/slitherlink.png" style="height:197px; width:390px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/4534.%E2%80%85The%E2%80%85Sidewinder%E2%80%85Sleeps%E2%80%85Tonite/59271ac5.png" data-original-src="https://www.acmicpc.net/upload/images2/slitherlink.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:197px; width:390px" /></p>
 
 <p style="text-align: center;">Left: Unsolved 5x5 Puzzle, Right: Solved 5x5 Puzzle</p>
 

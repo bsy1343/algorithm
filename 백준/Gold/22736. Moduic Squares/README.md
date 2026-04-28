@@ -18,13 +18,13 @@
 
 <p>Have you ever heard of Moduic Squares? They are like 3 &times; 3 Magic Squares, but each of them has one extra cell called a moduic cell. Hence a Moduic Square has the following form.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/cd4dbd34-f3bc-478f-bf5a-09d1aa14210a/-/preview/" style="width: 170px; height: 104px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/22736.%E2%80%85Moduic%E2%80%85Squares/3ad1be91.png" data-original-src="https://upload.acmicpc.net/cd4dbd34-f3bc-478f-bf5a-09d1aa14210a/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 170px; height: 104px;" /></p>
 
 <p style="text-align: center;">Figure 1: A Moduic Square</p>
 
 <p>Each of cells labeled from A to J contains one number from 1 to 10, where no two cells contain the same number. The sums of three numbers in the same rows, in the same columns, and in the diagonals in the 3 &times; 3 cells must be congruent modulo the number in the moduic cell. Here is an example Moduic Square:</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/6f9155b3-e580-4e8f-bd70-4e1e68a48c79/-/preview/" style="width: 170px; height: 104px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/22736.%E2%80%85Moduic%E2%80%85Squares/8a1a772c.png" data-original-src="https://upload.acmicpc.net/6f9155b3-e580-4e8f-bd70-4e1e68a48c79/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 170px; height: 104px;" /></p>
 
 <p style="text-align: center;">Figure 2: An example Moduic Square</p>
 
@@ -32,7 +32,7 @@
 
 <p>Now, we can consider interesting puzzles in which we complete Moduic Squares with partially filled cells. For example, we can complete the following square by filling 4 into the empty cell on the left and 9 on the right. Alternatively, we can also complete the square by filling 9 on the left and 4 on the right. So this puzzle has two possible solutions.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/45c7dbc3-4e75-49ef-b8e8-a6b105f9cb9f/-/preview/" style="width: 170px; height: 104px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/22736.%E2%80%85Moduic%E2%80%85Squares/826d4a0a.png" data-original-src="https://upload.acmicpc.net/45c7dbc3-4e75-49ef-b8e8-a6b105f9cb9f/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 170px; height: 104px;" /></p>
 
 <p style="text-align: center;">Figure 3: A Moduic Square as a puzzle</p>
 

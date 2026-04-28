@@ -16,13 +16,13 @@
 
 ### 문제 설명
 
-<p><img alt="" src="/upload/images2/robot1.png" style="float:right; height:273px; width:232px" />A team of up-to four robots is going to deliver parts in a factory floor. The floor is organized as a rectangular grid where each robot ocupies a single square cell. Each robot is represented by an integer from 1 to 4 and can move in the four orthogonal directions (left, right, up, down). However, once set in motion, a robot will stop only when it detects a neighbouring obstacle (i.e. walls, the edges of the factory or other stationary robots). Robots do not move simultaneously, i.e. only a single robot moves at each time step.</p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/10533.%E2%80%85Ricochet%E2%80%85Robots/c27fe7de.png" data-original-src="https://www.acmicpc.net/upload/images2/robot1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="float:right; height:273px; width:232px" />A team of up-to four robots is going to deliver parts in a factory floor. The floor is organized as a rectangular grid where each robot ocupies a single square cell. Each robot is represented by an integer from 1 to 4 and can move in the four orthogonal directions (left, right, up, down). However, once set in motion, a robot will stop only when it detects a neighbouring obstacle (i.e. walls, the edges of the factory or other stationary robots). Robots do not move simultaneously, i.e. only a single robot moves at each time step.</p>
 
 <p>The goal is to compute an efficient move sequence such that robot 1 reaches a designed target spot; this may require moving other robots out of the way or to use them as obstacles for &ldquo;ricocheting&rdquo; moves.</p>
 
 <p>Consider the example given above, on the right, where the gray cells represent walls, X is the target location and 1 , 2 mark the initial positions of two robots. One optimal solution consists of the six moves described below.</p>
 
-<p><img alt="" src="/upload/images2/robot2.png" style="height:120px; width:626px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/10533.%E2%80%85Ricochet%E2%80%85Robots/78b1fdb4.png" data-original-src="https://www.acmicpc.net/upload/images2/robot2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:120px; width:626px" /></p>
 
 <p>Note that the move sequence must leave robot 1 at the target location and not simply pass through it (the target does not cause robots to stop &mdash; only walls, edges and other robots).</p>
 

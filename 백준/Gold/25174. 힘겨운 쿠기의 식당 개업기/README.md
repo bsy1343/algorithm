@@ -31,7 +31,7 @@
 	<li>식당을 개업할 수 없는 좌표라면, <em>E</em>는 100,000,000이다.</li>
 </ul>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/2b652158-1ae3-45a3-a1d2-654657c02f85/-/preview/" style="height: 522px; width: 1000px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/25174.%E2%80%85%ED%9E%98%EA%B2%A8%EC%9A%B4%E2%80%85%EC%BF%A0%EA%B8%B0%EC%9D%98%E2%80%85%EC%8B%9D%EB%8B%B9%E2%80%85%EA%B0%9C%EC%97%85%EA%B8%B0/f7d773f3.png" data-original-src="https://upload.acmicpc.net/2b652158-1ae3-45a3-a1d2-654657c02f85/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 522px; width: 1000px;" /></p>
 
 <p>쿠기는 <i>E</i>가 최솟값인 곳에 식당을 개업하려고 한다. 식당 개업 준비로 바쁜 쿠기를 도와 <em>E</em>의 최솟값을 구하여라.</p>
 

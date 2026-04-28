@@ -36,7 +36,7 @@
 
 <p>The total length of the escape path should be carefully calculated in the model.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/15f87ea5-98fa-4ee2-8fb7-218ceee9f177/-/preview/" style="width: 308px; height: 163px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/23101.%E2%80%85Roof%E2%80%85Escape/d797a4f3.png" data-original-src="https://upload.acmicpc.net/15f87ea5-98fa-4ee2-8fb7-218ceee9f177/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 308px; height: 163px;" /></p>
 
 ### 입력
 

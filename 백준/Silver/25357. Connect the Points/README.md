@@ -36,4 +36,4 @@
 
 <p>The points and the segments from the example are shown below.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/34ef2e80-2570-404f-b863-cb8cc99df9c2/-/preview/" style="width: 512px; height: 406px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/25357.%E2%80%85Connect%E2%80%85the%E2%80%85Points/704cb7a5.png" data-original-src="https://upload.acmicpc.net/34ef2e80-2570-404f-b863-cb8cc99df9c2/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 512px; height: 406px;" /></p>

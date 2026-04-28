@@ -24,7 +24,7 @@
 
 <p>불장난을 하던 구석과 접한 벽에는 문이 없고, 맞은편 벽에 도착하면 문을 통해 랩실 밖으로 나갈 수 있다. 두 사람이 모두 안전하게 방을 탈출하는 경우의 수를 구해보자</p>
 
-<p style="text-align:center"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14945/2.png" style="height:142px; width:134px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/14945.%E2%80%85%EB%B6%88%EC%9E%A5%EB%82%9C/58a14667.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14945/2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:142px; width:134px" /></p>
 
 ### 입력
 

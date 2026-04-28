@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/95955af8-c363-4c4c-979d-42ac256e936b/-/preview/" style="height: 279px; width: 500px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/31931.%E2%80%85%EC%A7%80%EA%B8%88%EB%B6%80%ED%84%B0%E2%80%85%EC%84%9C%EB%A1%9C%E2%80%85%EC%A3%BD%EC%97%AC%EB%9D%BC/bbbef18d.png" data-original-src="https://upload.acmicpc.net/95955af8-c363-4c4c-979d-42ac256e936b/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 279px; width: 500px;" /></p>
 
 <p>나루토와 사스케는 서로를 죽이기 위한 혈투를 시작했다. 혈투가 시작되기 전, 나루토는 $X$, 사스케는 $Y$의 체력을 가지고 있다. 혈투는 나루토와 사스케의 차례가 번갈아 가면서 진행된다. 차례는 나루토부터 시작되며, 각자 자신의 차례일 때 공격 또는 회복 중 하나를 선택하여 시행한다.</p>
 

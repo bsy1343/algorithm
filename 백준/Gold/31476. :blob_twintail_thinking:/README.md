@@ -20,13 +20,13 @@
 
 <p>이 기도를 들은 토카는 블롭들에게 양갈래 머리를 하사하였으며, 블롭들은 대 양갈래 시대를 맞게 된다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/ee9a346c-7dd1-49a7-8b35-799d8ac64a5c/-/preview/" style="height: 42px; width: 50px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/31476.%E2%80%85%3Ablob_twintail_thinking%3A/ef2eb770.png" data-original-src="https://upload.acmicpc.net/ee9a346c-7dd1-49a7-8b35-799d8ac64a5c/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 42px; width: 50px;" /></p>
 
 <p style="text-align: center;"><small>양갈래 블롭</small></p>
 
 <p>그러나, 일부 블롭들은 거기서 더 새로운 헤어 스타일을 추구하였고, 이들은 그들의 머리를 묶어 포니테일 블롭이 된다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/cb1bbc05-ce2f-485b-9b2f-2fa858a2eb84/-/preview/" style="height: 238px; width: 250px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/31476.%E2%80%85%3Ablob_twintail_thinking%3A/33f32c4a.png" data-original-src="https://upload.acmicpc.net/cb1bbc05-ce2f-485b-9b2f-2fa858a2eb84/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 238px; width: 250px;" /></p>
 
 <p style="text-align: center;"><small>포니테일 블롭의 등장에 슬퍼하는 양갈래 블롭들</small></p>
 
@@ -52,7 +52,7 @@
 
 <p>이해를 돕기 위해 아래 예제를 준비하였다. 왼쪽이 양갈래 블롭들이 탐색하는 방법, 오른쪽이 포니테일 블롭들이 탐색하는 방법이다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/792e0b38-817c-4ff7-bc87-67839da4cbdd/-/preview/" style="height: 375px; width: 750px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/31476.%E2%80%85%3Ablob_twintail_thinking%3A/3d3f8c0d.png" data-original-src="https://upload.acmicpc.net/792e0b38-817c-4ff7-bc87-67839da4cbdd/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 375px; width: 750px;" /></p>
 
 <p>그렇게 전쟁이 선포되고 탐색이 시작되었다! 이 전쟁에서 어느 세력이 승리할지 구해보도록 하자.</p>
 

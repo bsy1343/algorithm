@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15435/1.png" style="float:right; height:45px; width:150px" />A&nbsp;<em>balanced bracket sequence</em>&nbsp;is a string consisting only of the characters &quot;<code>(</code>&quot; (opening brackets) and &quot;<code>)</code>&quot; (closing brackets) such that each opening bracket has a &quot;matching&quot; closing bracket, and vice versa.&nbsp;For example, &quot;<code>(())()</code>&quot; is a balanced bracket sequence, whereas &quot;<code>(())(()</code>&quot; and &quot;<code>())(()</code>&quot; are not.</p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/15435.%E2%80%85Enumerating%E2%80%85Brackets/522d02a6.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15435/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="float:right; height:45px; width:150px" />A&nbsp;<em>balanced bracket sequence</em>&nbsp;is a string consisting only of the characters &quot;<code>(</code>&quot; (opening brackets) and &quot;<code>)</code>&quot; (closing brackets) such that each opening bracket has a &quot;matching&quot; closing bracket, and vice versa.&nbsp;For example, &quot;<code>(())()</code>&quot; is a balanced bracket sequence, whereas &quot;<code>(())(()</code>&quot; and &quot;<code>())(()</code>&quot; are not.</p>
 
 <p>Given two bracket sequences&nbsp;<em>A</em>&nbsp;and&nbsp;<em>B</em>&nbsp;of the same length, we say that&nbsp;<em>A</em>&nbsp;is&nbsp;<em>lexicographically smaller than</em>&nbsp;<em>B</em>&nbsp;(and write&nbsp;<em>A &lt; B</em>) if:</p>
 

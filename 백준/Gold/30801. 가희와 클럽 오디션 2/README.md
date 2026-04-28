@@ -33,7 +33,7 @@
 	</li>
 </ul>
 
-<p style="text-align: center;"><img alt="" src="https://u.acmicpc.net/a180ff40-6114-4820-ab40-3aa03bdb80c0/2%20-%20%EB%B3%B5%EC%82%AC%EB%B3%B8.png" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/30801.%E2%80%85%EA%B0%80%ED%9D%AC%EC%99%80%E2%80%85%ED%81%B4%EB%9F%BD%E2%80%85%EC%98%A4%EB%94%94%EC%85%98%E2%80%852/c38c052d.png" data-original-src="https://u.acmicpc.net/a180ff40-6114-4820-ab40-3aa03bdb80c0/2%20-%20%EB%B3%B5%EC%82%AC%EB%B3%B8.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p style="text-align: center;"><strong>[그림 1]</strong> 역방향 키가 있는 레벨 6의 키 노트</p>
 
@@ -69,13 +69,13 @@
 	</li>
 </ul>
 
-<p style="text-align: center;"><img alt="" src="https://u.acmicpc.net/9c2cdadc-d23d-431b-9b49-392474a76bf0/3%20-%20%EB%B3%B5%EC%82%AC%EB%B3%B8.png" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/30801.%E2%80%85%EA%B0%80%ED%9D%AC%EC%99%80%E2%80%85%ED%81%B4%EB%9F%BD%E2%80%85%EC%98%A4%EB%94%94%EC%85%98%E2%80%852/b855163f.png" data-original-src="https://u.acmicpc.net/9c2cdadc-d23d-431b-9b49-392474a76bf0/3%20-%20%EB%B3%B5%EC%82%AC%EB%B3%B8.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p style="text-align: center;"><strong>[그림 2]</strong> 키 노트의 상태 #1</p>
 
 <p>[그림 2]의 위는 앞에서부터 2개의 키가 일치한 상태를 의미합니다. 이 상태에서 우 키를 입력하면 [그림 2]의 아래와 같은 상태가 됩니다. 키 노트의 3번째 키인 좌하와 입력한 방향 우가 일치하지 않기 때문입니다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://u.acmicpc.net/42590bfa-8eb4-4fb2-aa10-0f24ab1ab69c/4%20-%20%EB%B3%B5%EC%82%AC%EB%B3%B8.png" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/30801.%E2%80%85%EA%B0%80%ED%9D%AC%EC%99%80%E2%80%85%ED%81%B4%EB%9F%BD%E2%80%85%EC%98%A4%EB%94%94%EC%85%98%E2%80%852/f11ad6df.png" data-original-src="https://u.acmicpc.net/42590bfa-8eb4-4fb2-aa10-0f24ab1ab69c/4%20-%20%EB%B3%B5%EC%82%AC%EB%B3%B8.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p style="text-align: center;"><strong>[그림 3]</strong> 키 노트의 상태 #2</p>
 
@@ -83,7 +83,7 @@
 
 <p>레벨이 $lv$인 키 노트에 대해, 앞에서부터 $lv$개의 키와 일치한 상태에서 임의의 키를 입력하면, 앞에서부터 $0$개의 키와 일치하는 상태로 바뀌게 됩니다. [그림 4]는 이를 보여줍니다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://u.acmicpc.net/fe954fc6-fe57-48fa-a8fc-a565db296f80/5%20-%20%EB%B3%B5%EC%82%AC%EB%B3%B8.png" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/30801.%E2%80%85%EA%B0%80%ED%9D%AC%EC%99%80%E2%80%85%ED%81%B4%EB%9F%BD%E2%80%85%EC%98%A4%EB%94%94%EC%85%98%E2%80%852/e891ea10.png" data-original-src="https://u.acmicpc.net/fe954fc6-fe57-48fa-a8fc-a565db296f80/5%20-%20%EB%B3%B5%EC%82%AC%EB%B3%B8.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p style="text-align: center;"><strong>[그림 4]</strong> 키 노트의 상태 #3</p>
 

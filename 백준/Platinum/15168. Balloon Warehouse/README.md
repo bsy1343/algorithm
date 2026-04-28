@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align:center"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15168/1.png" style="height:109px; width:624px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/15168.%E2%80%85Balloon%E2%80%85Warehouse/d748e12d.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15168/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:109px; width:624px" /></p>
 
 <p>Figure B.1: An infinitely long line of balloons</p>
 

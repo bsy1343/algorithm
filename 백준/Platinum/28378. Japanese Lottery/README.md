@@ -20,7 +20,7 @@
 
 <p>You want to manipulate the lottery in such a way that the $i$th person gets the $i$th prize, for every $i$, by removing some horizontal bars. Since you do not want to get caught, you want to remove as few bars as possible.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/a31d21c6-ee03-487b-b658-735efe6616bc/-/preview/" style="width: 150px; height: 189px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/28378.%E2%80%85Japanese%E2%80%85Lottery/e61a37d0.png" data-original-src="https://upload.acmicpc.net/a31d21c6-ee03-487b-b658-735efe6616bc/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 150px; height: 189px;" /></p>
 
 <p style="text-align: center;">Figure J.1: Visualization of an Amida-kuji game. The first person is connected to the third prize. This is also Sample Input 2 after all connections are added and before any connection is removed. To connect the $i$th person to the $i$th prize, it suffices to remove both horizontal bars between legs $2$ and $3$ and the topmost horizontal bar between legs $3$ and $4$. This is the only minimal solution.</p>
 

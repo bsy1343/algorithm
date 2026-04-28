@@ -20,7 +20,7 @@
 
 <p>Sektionslokalerna finns p&aring; punkter i planet med heltalskoordinater. Elise och hennes kompisar g&aring;r alltid kortaste avst&aring;ndet mellan tv&aring; lokaler. Avst&aring;ndet &auml;r det vanliga Euklidiska, dvs. $\sqrt{(x_1 - x_2)^2 + (y_1 - y_2)^2}$. De f&aring;r b&ouml;rja vid vilken lokal som helst. Det &auml;r till&aring;tet att bes&ouml;ka samma sektionslokal flera g&aring;nger, och det r&auml;knas som separata bes&ouml;k. D&auml;remot f&aring;r de inte bes&ouml;ka samma st&auml;lle tv&aring; g&aring;nger p&aring; raken.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/6dc07ce3-c5a2-42d3-a22a-b2632fa01f62/-/preview/" style="width: 271px; height: 230px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/26961.%E2%80%85Longest%E2%80%85increasing%E2%80%85pub-sequence/0cdcec11.png" data-original-src="https://upload.acmicpc.net/6dc07ce3-c5a2-42d3-a22a-b2632fa01f62/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 271px; height: 230px;" /></p>
 
 <p style="text-align: center;">Bilden f&ouml;rest&auml;ller Exempel 1. Om du startar vid $(1,0)$ och g&aring;r l&auml;ngs med de r&ouml;da pilarna f&aring;r du en runda med $6$ bes&ouml;k, vilket ocks&aring; &auml;r det maximala antalet.</p>
 

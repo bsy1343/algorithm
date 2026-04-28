@@ -18,7 +18,7 @@
 
 <p>In a corridor in a student dormitory, there are five rooms numbered <strong>1, 2, 3, 4</strong> and <strong>5</strong>; room number <strong>1</strong> is the left-most room. The rooms have doors in different colours: <strong>blue, green, red, white</strong> and <strong>yellow</strong>, but not necessarily in that order.</p>
 
-<p><img alt="" src="https://onlinejudgeimages.s3.amazonaws.com/problem/6701/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-06-13%20%EC%98%A4%ED%9B%84%205.36.07.png" style="height:128px; width:409px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/6701.%E2%80%85Who%E2%80%85owns%E2%80%85the%E2%80%85Amiga%3F/e6d22b3e.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/6701/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-06-13%20%EC%98%A4%ED%9B%84%205.36.07.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:128px; width:409px" /></p>
 
 <p>In these rooms live five students <strong>Anna, Bernhard, Chris, David</strong> and <strong>Ellen</strong> of five different nationalities <strong>Danish, Finnish, Icelandic, Norwegian</strong> and <strong>Swedish</strong>. (Both the names and the nationalities are given in alphabetical order, so it does not follow automatically that Anna is Danish.)</p>
 

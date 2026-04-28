@@ -22,11 +22,11 @@
 
 <p>For example, the first-order polynomial 3x+ 3 produces the sequence below at x = 0, 1, 2, 3, 4, and the first differences are shown on the following line.</p>
 
-<p><img alt="" src="https://onlinejudgeimages.s3.amazonaws.com/problem/13737/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-12-06%20%EC%98%A4%ED%9B%84%208.30.39.png" style="height:37px; width:203px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/13737.%E2%80%85The%E2%80%85Calculus%E2%80%85of%E2%80%85Ada/085a83ea.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/13737/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-12-06%20%EC%98%A4%ED%9B%84%208.30.39.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:37px; width:203px" /></p>
 
 <p>As another example, the polynomial x 2 , if evaluated at inputs x = 3, 5, 7, 9, produces the sequence below.</p>
 
-<p><img alt="" src="https://onlinejudgeimages.s3.amazonaws.com/problem/13737/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-12-06%20%EC%98%A4%ED%9B%84%208.30.49.png" style="height:54px; width:154px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/13737.%E2%80%85The%E2%80%85Calculus%E2%80%85of%E2%80%85Ada/c11625ef.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/13737/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-12-06%20%EC%98%A4%ED%9B%84%208.30.49.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:54px; width:154px" /></p>
 
 <p>Furthermore, if we consider a minimum-order polynomial that produces the original sequence, its value at the next regularly spaced input can be predicted by extending the difference table.</p>
 

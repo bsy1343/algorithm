@@ -20,7 +20,7 @@
 
 <p>Обозначим за $(i, j)$  вершину на пересечении $i$-й строки и $j$-го столбца. Формально, в графе есть ребра между $(i, j)$ и $(i+1,j)$ для всех $(1 \leq i &lt; n, 1 \leq j \leq m)$, и ребра между $(i, j)$ и $(i, j+1)$ для всех $(1 \leq i \leq n, 1 \leq j &lt; m)$.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/f58cbde8-1bce-4f86-a248-0e494fbf8a92/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/28802.%E2%80%85%D0%94%D1%80%D0%B5%D0%B2%D0%BD%D0%B5%D0%B3%D1%80%D0%B5%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9%E2%80%85%D0%B8%D0%B7%D0%BE%D0%BC%D0%BE%D1%80%D1%84%D0%B8%D0%B7%D0%BC/854228f1.png" data-original-src="https://upload.acmicpc.net/f58cbde8-1bce-4f86-a248-0e494fbf8a92/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>(На иллюстрации изображен пример графа квадратной решетки $6 \times 5$).</p>
 
@@ -48,4 +48,4 @@
 
 <p>Граф из второго примера изображен на картинке:</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/a78a28f2-c705-4cd7-9c01-c1c167512d20/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/28802.%E2%80%85%D0%94%D1%80%D0%B5%D0%B2%D0%BD%D0%B5%D0%B3%D1%80%D0%B5%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9%E2%80%85%D0%B8%D0%B7%D0%BE%D0%BC%D0%BE%D1%80%D1%84%D0%B8%D0%B7%D0%BC/733f9356.png" data-original-src="https://upload.acmicpc.net/a78a28f2-c705-4cd7-9c01-c1c167512d20/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>

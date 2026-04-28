@@ -18,7 +18,7 @@
 
 <p>A square annulus is the planar shape contained between two concentric axis-parallel squares, i.e., two squares with a common center whose sides are parallel to the x- and y-axes. More precisely, it means the area inside the bigger square but outside the smaller one, including their boundaries. The width of a square annulus is defined to be half the difference of the side lengths of its two squares. See the left figure below, in which a square annulus is depicted as gray region with the center marked by &times;.&nbsp;</p>
 
-<p style="text-align: center;"><img alt="" src="/upload/images2/sq(1).png" style="height:191px; width:443px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/8899.%E2%80%85Square%E2%80%85Annulus/6eccf6d2.png" data-original-src="https://www.acmicpc.net/upload/images2/sq(1).png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:191px; width:443px" /></p>
 
 <p>You are given N points in the plane and you have to find a square annulus A of minimum width that contains all the N given points. The right figure above shows an example of a square annulus of minimum width containing all given points (marked by dots).&nbsp;</p>
 

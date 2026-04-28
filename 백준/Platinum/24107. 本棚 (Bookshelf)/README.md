@@ -32,7 +32,7 @@
 
 <p>例えば，本が左から 5, 3, 4, 1, 2 の順で並んでいるとき，本 1 を取り出し，本 4 と本 3 を順に右に動かし， 本 1 を本棚に戻すことで，本棚の本を左から 5, 1, 3, 4, 2 の順にすることができる．（下図）</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/b677bbc0-a9f5-4278-9513-deeaa6ed1383/-/preview/" style="width: 160px; height: 197px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/24107.%E2%80%85%E6%9C%AC%E6%A3%9A%E2%80%85(Bookshelf)/3b2fd82a.png" data-original-src="https://upload.acmicpc.net/b677bbc0-a9f5-4278-9513-deeaa6ed1383/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 160px; height: 197px;" /></p>
 
 <p>この操作で，JOI 君が重さ w グラムの本を本棚から取り出すとき，JOI 君はちょうど w カロリーを消費 する．また，JOI 君が重さ w グラムの本を本棚に戻すときも，JOI 君はちょうど w カロリーを消費する．ま た，本棚はなめらかな素材でできているので，JOI 君が本棚の中で本を動かすときには JOI 君はカロリー を消費しないとしてよい．</p>
 

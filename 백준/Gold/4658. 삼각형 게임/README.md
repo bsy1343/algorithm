@@ -16,11 +16,11 @@
 
 ### 문제 설명
 
-<p><img alt="" src="https://onlinejudgeimages.s3.amazonaws.com/problem/4658/tri.gif" style="opacity:0.9" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/4658.%E2%80%85%EC%82%BC%EA%B0%81%ED%98%95%E2%80%85%EA%B2%8C%EC%9E%84/baffa34b.gif" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/4658/tri.gif" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="opacity:0.9" /></p>
 
 <p>삼각형 게임은 시작할때 여섯개의삼각형을 부여받는데, 각 변에는 숫자가 쓰여있다(그림 참고). 이 삼각형들을 돌리고 움직여서 육각형을 만들어야 하는데, 반드시같은 숫자가 쓰여있는 변끼리만 닿아 있어야 한다. 삼각형을 뒤집을 순 없다. 완성된 육각형은 다음과 같다.</p>
 
-<p><img alt="" src="https://onlinejudgeimages.s3.amazonaws.com/problem/4658/hex.gif" style="opacity:0.9" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/4658.%E2%80%85%EC%82%BC%EA%B0%81%ED%98%95%E2%80%85%EA%B2%8C%EC%9E%84/d975d1bd.gif" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/4658/hex.gif" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="opacity:0.9" /></p>
 
 <p>점수를 계산하는 기준은 육각형의 각 변에 쓰인 숫자들의 합이다.</p>
 

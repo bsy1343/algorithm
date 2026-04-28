@@ -24,7 +24,7 @@
 
 <p>The professor teaching in the class presented an assignment today. This assignment requires students to make plots of the autocorrelation functions for given functions. Each function is piecewise linear and continuous for all real numbers. The figure below depicts one of those functions.</p>
 
-<p><img alt="" src="https://onlinejudgeimages.s3.amazonaws.com/problem/13840/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-12-27%20%EC%98%A4%ED%9B%84%204.48.23.png" style="height:235px; width:350px" /><br />
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/13840.%E2%80%85Autocorrelation%E2%80%85Function/bac5ce75.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/13840/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-12-27%20%EC%98%A4%ED%9B%84%204.48.23.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:235px; width:350px" /><br />
 Figure 2: An Example of Given Functions</p>
 
 <p>The professor suggested use of computer programs, but unfortunately Nathan hates programming. So he calls you for help, as he knows you are a great programmer. You are requested to write a program that computes the value of the autocorrelation function where a function f(x) and a parameter r are given as the input. Since he is good at utilization of existing software, he could finish his assignment with your program.</p>

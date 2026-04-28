@@ -29,8 +29,8 @@
 <table class="table" style="width:100%">
 	<tbody>
 		<tr>
-			<td style="text-align:center; width:50%"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15101/1.png" style="height:127px; width:295px" /></td>
-			<td style="text-align:center; width:50%"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15101/2.png" style="height:118px; width:134px" /></td>
+			<td style="text-align:center; width:50%"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/15101.%E2%80%85Faulty%E2%80%85Robot/4d31938a.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15101/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:127px; width:295px" /></td>
+			<td style="text-align:center; width:50%"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/15101.%E2%80%85Faulty%E2%80%85Robot/8021f99f.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15101/2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:118px; width:134px" /></td>
 		</tr>
 		<tr>
 			<td style="text-align:center; width:50%">Figure G.1: First sample graph.</td>

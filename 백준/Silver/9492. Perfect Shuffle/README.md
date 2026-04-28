@@ -18,7 +18,7 @@
 
 <p>A Perfect Shuffle of a deck of cards is executed by dividing the deck exactly in half, and then alternating cards from the two halves, starting with the top half.&nbsp;</p>
 
-<p><img alt="" src="/upload/images2/ps.png" style="height:103px; width:593px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/9492.%E2%80%85Perfect%E2%80%85Shuffle/32d3499c.png" data-original-src="https://www.acmicpc.net/upload/images2/ps.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:103px; width:593px" /></p>
 
 <p>Given a deck of cards, perform a Perfect Shuffle. If there is an odd number of cards, give the top half split one more card than the bottom half.</p>
 

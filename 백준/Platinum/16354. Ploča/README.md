@@ -20,7 +20,7 @@
 
 <p>Naprije je zaključio da želi da su oznake svih točaka prvog kvadranta strogo manje od oznaka svih točaka drugog kvadranta. Nadalje, želi da su oznake svih točaka drugog kvadranta manje od oznaka svih točaka trećeg kvadranta, te da su oznake svih točaka trećeg kvadranta manje od svih oznaka četvrtog kvadranta. Potom je odlučio da će skupu točaka svakog kvadranta oznake pridijeliti analognim rekurzivnim postupkom pri čemu će ulogu ishodi&scaron;ta nekog kvadranta preuzeti sjeci&scaron;te horizontalne i vertikalne osi simetrije skupa točaka tog kvadranta.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/6c966600-ce1b-4da4-8d88-44f27f60aa5c/-/preview/" style="width: 234px; height: 238px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/16354.%E2%80%85Plo%C4%8Da/db5117d0.png" data-original-src="https://upload.acmicpc.net/6c966600-ce1b-4da4-8d88-44f27f60aa5c/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 234px; height: 238px;" /></p>
 
 <p style="text-align: center;">Oznake istaknutih točaka za n = 2.</p>
 

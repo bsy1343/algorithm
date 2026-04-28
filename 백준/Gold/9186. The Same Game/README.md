@@ -25,7 +25,7 @@
 
 <p>For example, choosing the ball at the bottom left corner in the sub-board causes:</p>
 
-<p><img alt="" src="https://onlinejudgeimages.s3.amazonaws.com/problem/9186/poj_4149desc_0.jpg.png" style="height:246px; width:588px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/9186.%E2%80%85The%E2%80%85Same%E2%80%85Game/c5e5bfc1.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/9186/poj_4149desc_0.jpg.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:246px; width:588px" /></p>
 
 <p>The objective of the game is to remove all balls from the board, and the game is over when all balls are removed or when all clusters have only one ball.</p>
 

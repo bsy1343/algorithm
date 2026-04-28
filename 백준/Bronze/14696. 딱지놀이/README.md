@@ -28,7 +28,7 @@
 
 <p>예를 들어, 두 어린이 A, B가 낸 딱지가 다음 그림과 같다고 하자.</p>
 
-<p style="text-align:center"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14696/1.png" style="height:127px; width:186px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/14696.%E2%80%85%EB%94%B1%EC%A7%80%EB%86%80%EC%9D%B4/a9e3b08b.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14696/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:127px; width:186px" /></p>
 
 <p>위 규칙을 따르면 A의 딱지는 별 하나를 가지고 있고 B의 딱지는 별이 없으므로 승자는 A이다. 위의 그림이 라운드 1의 상황이었고, 라운드 2, 3, 4, 5의 상황이 아래 표와 같을 때, 라운드 2, 3, 4의 승자는 각각 B, B, A이며, 라운드 5에서는 무승부가 되어 이를 D로 표현하였다.</p>
 

@@ -25,7 +25,7 @@
 	<li>Keep adding more chmical to the mixture until it is not violating the new rule. &quot;</li>
 </ol>
 
-<p><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15834/1.png" style="width: 247px; height: 167px; float: right;" />For example, in the image you can see she was given 5 tubes and she is able to make 4 different mixture without violating the rule: {1,3,5}, {2,4}, {2,5}, {1,4}.</p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/15834.%E2%80%85Eli's%E2%80%85Curious%E2%80%85Mind/4875c0c0.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15834/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 247px; height: 167px; float: right;" />For example, in the image you can see she was given 5 tubes and she is able to make 4 different mixture without violating the rule: {1,3,5}, {2,4}, {2,5}, {1,4}.</p>
 
 <p>But she cannot mix 1 and 3 only because she still can add 5 without violating the rules.</p>
 

@@ -20,7 +20,7 @@
 
 <p>Several months ago, Peer was painting triangles on a canvas from the outside in. Now that triangles are out and squares are in, his newest paintings use concentric squares, and are created from the inside out! Peer starts painting on a rectangular canvas divided into a perfect square grid. He selects a number of single grid cells to act as central seeds, and paints them with the darkest shade. From each of the seed squares, Peer paints a larger square using a lighter shade to enclose it, and repeats with larger squares to enclose those, until the entire canvas is covered. Each square is exactly one grid cell larger and one shade lighter than the one it encloses. When squares overlap, the grid cell is always filled using the darker shade.</p>
 
-<p style="text-align: center;"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/7661/1.png" style="height:396px; width:321px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/7661.%E2%80%85Boundless%E2%80%85Boxes/c97c3641.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/7661/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:396px; width:321px" /></p>
 
 <p style="text-align: center;">Figure 1: Example of one of Peer&rsquo;s most recent works using six shades of color.</p>
 

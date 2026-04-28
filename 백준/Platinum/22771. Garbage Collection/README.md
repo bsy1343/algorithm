@@ -28,11 +28,11 @@
 	<li>Any other memory blocks that cannot be determined to be alive in the two rules above are dead.</li>
 </ul>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/accb4780-69b5-4048-8e26-66cecbc873a8/-/crop/506x284/0,0/-/preview/" style="width: 253px; height: 142px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/22771.%E2%80%85Garbage%E2%80%85Collection/97e27029.png" data-original-src="https://upload.acmicpc.net/accb4780-69b5-4048-8e26-66cecbc873a8/-/crop/506x284/0,0/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 253px; height: 142px;" /></p>
 
 <p style="text-align: center;">Figure 2: An example state with 3 stack frames and 5 objects.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/accb4780-69b5-4048-8e26-66cecbc873a8/-/crop/506x284/552,0/-/preview/" style="width: 253px; height: 142px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/22771.%E2%80%85Garbage%E2%80%85Collection/fad679aa.png" data-original-src="https://upload.acmicpc.net/accb4780-69b5-4048-8e26-66cecbc873a8/-/crop/506x284/552,0/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 253px; height: 142px;" /></p>
 
 <p style="text-align: center;">Figure 3: The object 4 went dead after returning from function g.</p>
 

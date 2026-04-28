@@ -18,7 +18,7 @@
 
 <p>Todo pol&iacute;gono convexo, com 2N v&eacute;rtices, pode ser decomposto em N &minus; 1 quadril ́ateros, fazendo-se N &minus; 2 cortes em linha reta entre certos pares de v&eacute;rtices. A figura abaixo ilustra tr&ecirc;s diferentes decomposi&ccedil;&otilde;oes do mesmo pol&iacute;gono com N = 5. O peso da decomposi&ccedil;&atilde;o &eacute; a soma dos comprimentos de seus N &minus; 2 cortes. Seu programa deve computar o peso de uma decomposi&ccedil;&atilde;o de peso m&iacute;nimo!</p>
 
-<p><img alt="" src="https://onlinejudgeimages.s3.amazonaws.com/problem/13619/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202017-01-05%20%EC%98%A4%ED%9B%84%207.04.50.png" style="height:128px; width:570px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/13619.%E2%80%85Corte/6262748b.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/13619/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202017-01-05%20%EC%98%A4%ED%9B%84%207.04.50.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:128px; width:570px" /></p>
 
 ### 입력
 

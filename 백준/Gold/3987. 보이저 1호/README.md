@@ -24,7 +24,7 @@
 
 <p>시그널은 항상 일직선으로 전파되며, 행성을 만났을 경우에는 전파되는 방향이 90도로 바뀌게 된다. 행성은 &#39;/&#39;와 &#39;\&#39;로 표현되는 두 종류가 있으며, 반사되는 법칙은 아래 그림과 같다.</p>
 
-<p style="text-align:center"><img alt="" src="https://upload.acmicpc.net/d64de82b-5fce-46ac-a54a-315b0a157136/-/preview/" style="width: 641px; height: 134px;" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/3987.%E2%80%85%EB%B3%B4%EC%9D%B4%EC%A0%80%E2%80%851%ED%98%B8/c9bae007.png" data-original-src="https://upload.acmicpc.net/d64de82b-5fce-46ac-a54a-315b0a157136/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 641px; height: 134px;" /></p>
 
 <p>시그널이 블랙홀이 있는 칸을 만나거나 항성계를 벗어날 때 까지 계속 전파된다. 시그널이 인접한 칸으로 이동하는데 걸리는 시간은 1초이다.</p>
 

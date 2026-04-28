@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><img alt="카카오_뷰_로고" src="https://upload.acmicpc.net/c74bf373-b655-4fd7-9c8d-e2e0171de94b/" style="max-height:270px; object-fit:contain; display:inline-block;" /></p>
+<p style="text-align: center;"><img alt="카카오_뷰_로고" src="%EB%B0%B1%EC%A4%80/Bronze/24544.%E2%80%85%EC%B9%B4%EC%B9%B4%EC%98%A4%EB%B7%B0%E2%80%85%ED%81%90%EB%A0%88%EC%9D%B4%ED%8C%85%E2%80%85%ED%9A%A8%EC%9A%A9%EC%84%B1%E2%80%85%EB%B6%84%EC%84%9D/f27eaa31.png" data-original-src="https://upload.acmicpc.net/c74bf373-b655-4fd7-9c8d-e2e0171de94b/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="max-height:270px; object-fit:contain; display:inline-block;" /></p>
 
 <p>카카오뷰는 사용자가 관심을 가질만한 주제를 분석하고, 이를 바탕으로 큐레이팅을 진행하는 카카오톡의 서비스이다. &#39;발견&#39;을 통해 흥미로운 주제의 콘텐츠를 탐색하고, 마음에 드는 콘텐츠는 My뷰에 등록해서 지속적으로 구독할 수 있다. 많은 사람들은 이 카카오뷰를 코로나 체크인 QR코드 용도로만 활용하고 있겠지만 사실은 더욱 대단한 일을 할 수 있는 서비스로서&nbsp;잠재력이 높다.</p>
 

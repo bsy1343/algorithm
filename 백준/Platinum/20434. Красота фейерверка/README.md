@@ -22,7 +22,7 @@
 
 <p>На рис. 1 показан пример корневого дерева с корнем в вершине 1. Родителем вершин 2 и 3 является вершина 1, родителем вершины 4 является вершина 2. Вершины 2 и 3 &mdash; дети вершины 1, а вершина 4 &mdash; ребенок вершины 2. Листьями являются вершины 3 и 4.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/3becf35f-9a0f-4f9b-b01e-257eff36e33e/-/preview/" style="width: 92px; height: 138px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/20434.%E2%80%85%D0%9A%D1%80%D0%B0%D1%81%D0%BE%D1%82%D0%B0%E2%80%85%D1%84%D0%B5%D0%B9%D0%B5%D1%80%D0%B2%D0%B5%D1%80%D0%BA%D0%B0/5a904b9c.png" data-original-src="https://upload.acmicpc.net/3becf35f-9a0f-4f9b-b01e-257eff36e33e/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 92px; height: 138px;" /></p>
 
 <p style="text-align: center;">Рис. 1. Пример корневого дерева с корнем в вершине 1, листьями 3 и 4.</p>
 
@@ -30,7 +30,7 @@
 
 <p>На рис. 2 показано дерево, представленное на рис. 1, в степенях 1, 2 и 3.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/de3aeca7-2831-463a-932c-efc7d835ebe8/-/preview/" style="width: 404px; height: 210px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/20434.%E2%80%85%D0%9A%D1%80%D0%B0%D1%81%D0%BE%D1%82%D0%B0%E2%80%85%D1%84%D0%B5%D0%B9%D0%B5%D1%80%D0%B2%D0%B5%D1%80%D0%BA%D0%B0/58527809.png" data-original-src="https://upload.acmicpc.net/de3aeca7-2831-463a-932c-efc7d835ebe8/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 404px; height: 210px;" /></p>
 
 <p style="text-align: center;">Рис. 2. Пример возведения дерева в степени 1, 2 и 3.</p>
 
@@ -38,7 +38,7 @@
 
 <p>Для того, чтобы оценить красоту фейерверка, необходимо определить, какое максимальное количество вершин может содержать путь в дереве, которым представляется фейерверк. На рис. 3 приведен путь в дереве T<sup>2</sup>, содержащий максимальное количество вершин. Таким образом, красота фейерверка с базовым деревом T и мощностью 2 равна 10.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/e99fcbf7-acc5-4f1a-a580-30c95f1a1a8f/-/preview/" style="width: 106px; height: 161px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/20434.%E2%80%85%D0%9A%D1%80%D0%B0%D1%81%D0%BE%D1%82%D0%B0%E2%80%85%D1%84%D0%B5%D0%B9%D0%B5%D1%80%D0%B2%D0%B5%D1%80%D0%BA%D0%B0/bc034c83.png" data-original-src="https://upload.acmicpc.net/e99fcbf7-acc5-4f1a-a580-30c95f1a1a8f/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 106px; height: 161px;" /></p>
 
 <p style="text-align: center;">Рис. 3. Путь в дереве T<sup>2</sup>, содержащий максимальное количество вершин.</p>
 

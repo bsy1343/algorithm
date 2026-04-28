@@ -20,7 +20,7 @@
 
 <p>Хоёртын хайлтын мод гэдэг нь орой бүр нь хамгийн ихдээ хоёр хүүтэй модыг хэлэх ба баруун хүүд хадгалагдсан утга нь эцэгт хадгалагдсан утгаас их буюу тэнцүү, зүүн хүүд хадгалагдсан утга нь эцэгт хадгалагдсан утгаас эрс бага байх гэсэн бүтцийг хадгалдаг.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/ce54e7b1-56eb-4f51-9a4d-44d9c281bdf5/-/preview/" style="width: 146px; height: 121px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/16083.%E2%80%85%D0%A5%D0%BE%D1%91%D1%80%D1%82%D1%8B%D0%BD%E2%80%85%D1%85%D0%B0%D0%B9%D0%BB%D1%82%D1%8B%D0%BD%E2%80%85%D0%BC%D0%BE%D0%B4/664a921e.png" data-original-src="https://upload.acmicpc.net/ce54e7b1-56eb-4f51-9a4d-44d9c281bdf5/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 146px; height: 121px;" /></p>
 
 <p style="text-align: center;">Illustration 1: Хоёртын хайлтын мод</p>
 

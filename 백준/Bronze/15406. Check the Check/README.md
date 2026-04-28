@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align:center"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15406/1.png" style="height:222px; width:166px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/15406.%E2%80%85Check%E2%80%85the%E2%80%85Check/db26d7ca.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15406/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:222px; width:166px" /></p>
 
 <p>As a tourist in Paris, you were told you should always carefully check the itemized bill (also called check) that is presented to you at the end of a meal with the list of what you ordered and the total price. Indeed, it is not uncommon for these bills to be handwritten, and for the total to be computed by hand by the waiter. You definitely do not want to overpay for your meal, and will protest if there is a mistake in the restaurant&rsquo;s favor. However, if the restaurant gives you a discount, you will not complain about it.</p>
 

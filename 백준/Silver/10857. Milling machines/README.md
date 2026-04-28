@@ -32,6 +32,6 @@
 
 <p>For each workpiece, output one line containing X integers specifying the remaining surface heights (in the same order as in the input).</p>
 
-<p style="text-align:center"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/10857/1.png" style="height:119px; width:289px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/10857.%E2%80%85Milling%E2%80%85machines/029d3483.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/10857/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:119px; width:289px" /></p>
 
 <p>Figure I.1: Second workpiece in first sample: initial workpiece followed by milling in each column &ndash; the value in the milling program determines the vertical position of the cutter head.</p>

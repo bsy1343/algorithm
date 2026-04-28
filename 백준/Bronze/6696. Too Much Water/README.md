@@ -20,7 +20,7 @@
 
 <p>Many of Fred&#39;s properties are located in Kampa. In the process of investigating the August data, he learned that in the case of flooding, the water covers exactly 50 square meters each hour. Now we need to know how much time is available for evacuation in any given point.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/6696.%E2%80%85Too%E2%80%85Much%E2%80%85Water/7552b7ff.gif" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/6696/1.gif" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:136px; width:218px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/6696.%E2%80%85Too%E2%80%85Much%E2%80%85Water/7552b7ff.gif" data-original-src="%EB%B0%B1%EC%A4%80/Bronze/6696.%E2%80%85Too%E2%80%85Much%E2%80%85Water/7552b7ff.gif" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/6696/1.gif" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:136px; width:218px" /></p>
 
 <p>After doing more research, Fred has learned that the land that is being flooded forms a semicircle. This semicircle is part of a circle centered at (0,0), with the line that bisects the circle being the x-axis. Locations below the x-axis are in the river. The semicircle has an area of 0 at the beginning of hour 1 (when the flood begins). The semicircle is illustrated in the Figure.</p>
 

@@ -43,8 +43,8 @@
 
 <p>첫째 예제의 경우, 별을 구분하는 방법은 총 6가지다. 속이 찬 빨간 원과 속이 빈 파란 원은 각각 A 별자리와 B 별자리에 속하는 별을 의미한다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/fa03457a-36c8-4914-90ce-6f28a6b1dea8/-/preview/" style="width: 768px; height: 512px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/23045.%E2%80%85%EB%B3%84%E2%80%85%EB%B3%B4%EB%8A%94%E2%80%85%EA%B5%90%EC%A4%80%EC%9D%B4/6dd78dde.png" data-original-src="https://upload.acmicpc.net/fa03457a-36c8-4914-90ce-6f28a6b1dea8/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 768px; height: 512px;" /></p>
 
 <p>마지막 예제를 그림으로 나타내면 아래와 같다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/3f773e2d-b0e5-4a07-9a14-4236c9a31175/-/preview/" style="width: 512px; height: 420px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/23045.%E2%80%85%EB%B3%84%E2%80%85%EB%B3%B4%EB%8A%94%E2%80%85%EA%B5%90%EC%A4%80%EC%9D%B4/4af3c1af.png" data-original-src="https://upload.acmicpc.net/3f773e2d-b0e5-4a07-9a14-4236c9a31175/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 512px; height: 420px;" /></p>

@@ -20,7 +20,7 @@
 
 <p>Four diagonals: 1-8, 8-3, 3-1 and 3-6 divide the polygon P&nbsp;shown in the picture below into two quadrilaterals and three triangles.</p>
 
-<p style="text-align: center;"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/8119/1.gif" style="width: 323px; height: 326px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/8119.%E2%80%85Polygon/121b27bd.gif" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/8119/1.gif" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 323px; height: 326px;" /></p>
 
 <p>Write a program that:</p>
 

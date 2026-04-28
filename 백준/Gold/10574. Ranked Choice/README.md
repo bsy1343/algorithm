@@ -20,13 +20,13 @@
 
 <p>The first five of what might be tens or even hundreds of thousands of ballots in a real election might look like this:</p>
 
-<p style="text-align: center;"><img alt="" src="/upload/images2/ranked.png" style="height:95px; width:482px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/10574.%E2%80%85Ranked%E2%80%85Choice/28c7adc2.png" data-original-src="https://www.acmicpc.net/upload/images2/ranked.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:95px; width:482px" /></p>
 
 <p>Initially, only first place votes matter, and if a single candidate gets the clear majority of all first place votes, then that candidate wins. Rarely would anyone get a majority of all first place votes (there were, for instance, 16 official candidates in San Francisco&rsquo;s mayoral election on November 8th, 2011, and Ed Lee, who eventually won, only got 31% of the first choice votes.) In that case, the candidates with the least number of first place votes are eliminated by effectively removing them from all ballots everywhere and promoting all second and third place votes to be first and second place votes to close out any gaps.</p>
 
 <p>If, for example, after an analysis of all ballots, it&rsquo;s determined that Phil Ting received the smallest number of first place votes, the ballots would be updated to look like this:</p>
 
-<p style="text-align: center;"><img alt="" src="/upload/images2/ranked2.png" style="height:94px; width:483px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/10574.%E2%80%85Ranked%E2%80%85Choice/676dbee8.png" data-original-src="https://www.acmicpc.net/upload/images2/ranked2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:94px; width:483px" /></p>
 
 <p>The first two ballots were left alone, but the next three were updated to reflect Phil Ting&rsquo;s elimination. The one ballot including a standalone vote for Phil Ting was removed, since it no longer contains any valid votes. The two other impacted ballots shown each show candidates Dennis Herrera and Ed Lee advance from third to second and second to first, respectively.</p>
 

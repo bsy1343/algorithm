@@ -22,7 +22,7 @@
 
 <p>보드게임은 가로 방향 $10^5$개의 행과, 세로 방향 $10^5$개의 열로 구성된 격자판 위에서 진행된다. $(i,j)$는 위에서 $i$번째 행과 왼쪽에서 $j$번째 열이 교차하는 칸을 나타낸다. 예를 들어 $(1,10^5)$은 우측상단, $(10^5,1)$는 좌측하단에 위치한다.</p>
 
-<div style="display: flex; flex-direction: column; align-items: center; justify-content: center;"><img alt="" src="https://upload.acmicpc.net/b6aa5f10-59ba-4369-9add-ac1d980d63b9/-/preview/" style="width: 100%; max-width: 421px;" />
+<div style="display: flex; flex-direction: column; align-items: center; justify-content: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/32219.%E2%80%85%EC%BD%94%EB%93%9C%EB%A7%88%EC%8A%A4%ED%84%B0%2C%E2%80%85%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%94%A9%E2%80%85%ED%8D%BC%EC%A6%90%E2%80%85%EB%A7%88%EC%8A%A4%ED%84%B0%2C%E2%80%85%EB%B3%B4%EB%93%9C%EA%B2%8C%EC%9E%84%E2%80%85%EB%A7%88%EC%8A%A4%ED%84%B0/72db2fc8.png" data-original-src="https://upload.acmicpc.net/b6aa5f10-59ba-4369-9add-ac1d980d63b9/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 100%; max-width: 421px;" />
 <p style="text-align: center;"><small>$(3,3)$에 위치한 말의 모습. 왼쪽 $(3,1),(3,2)$ 또는 위쪽 $(1,3),(2,3)$로만 이동할 수 있다.</small></p>
 </div>
 

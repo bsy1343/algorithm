@@ -18,7 +18,7 @@
 
 <p>Bajtek uwielbia grać w gry mobilne. Irytują go jednak często pojawiające się reklamy innych gier, w kt&oacute;rych osoba grająca radzi sobie bardzo źle, co ma wywołać frustrację osoby oglądającej i chęć zagrania. Jedna z takich reklam (kt&oacute;rą być może mieliście okazję sami zobaczyć) szczeg&oacute;lnie zapadła Bajtkowi w pamięć.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/80c0a57a-d6c3-4fc3-94cf-07b071daca9b/-/preview/" style="width: 729px; height: 600px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/31703.%E2%80%85%C5%81amig%C5%82%C3%B3wka%E2%80%853/965d7467.png" data-original-src="https://upload.acmicpc.net/80c0a57a-d6c3-4fc3-94cf-07b071daca9b/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 729px; height: 600px;" /></p>
 
 <p>Jako że inspirację można czerpać ze wszystkiego, Bajtek postanowił na podstawie powyższej gry stworzyć zadanie. Wybierze on sobie docelową kolorową planszę o wymiarach n&times;m, a grę rozpocznie z planszą n&times;m, na kt&oacute;rej żadne pole nie ma koloru. W jednym ruchu może on wybrać rząd lub kolumnę i przemalować wszystkie pola w nim/niej wybranym przez siebie kolorem (zwr&oacute;ć uwagę na to, że daje mu to większą swobodę niż w grze przedstawionej na obrazkach powyżej, gdzie wiersze i kolumny miały narzucone kolory). Aby nieco sformalizować zadanie, wszystkie kolory oznaczył wielkimi literami alfabetu angielskiego. Czy pomożesz mu i napiszesz program, kt&oacute;ry dla każdej zadanej przez niego planszy poda ciąg ruch&oacute;w, kt&oacute;ry poprawnie stworzy docelowy układ kolor&oacute;w? Możesz założyć, że dostaniesz dane wejściowe, w kt&oacute;rych ten cel można osiągnąć w co najwyżej n + m ruchach.</p>
 
@@ -42,4 +42,4 @@
 
 <p>Wyjaśnienie przykładu: Jeśli w pierwszym teście przykładowym założymy, że litera &lsquo;P&rsquo; oznacza kolor zielony, litera &lsquo;A&rsquo; oznacza kolor ż&oacute;łty, zaś litera &lsquo;Z&rsquo; oznacza kolor niebieski, to wybrany ciąg ruch&oacute;w maluje planszę w następujący spos&oacute;b:</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/0ccba224-a4f4-43bd-bdb8-a1a675f6dd94/-/preview/" style="width: 713px; height: 200px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/31703.%E2%80%85%C5%81amig%C5%82%C3%B3wka%E2%80%853/dcb2be81.png" data-original-src="https://upload.acmicpc.net/0ccba224-a4f4-43bd-bdb8-a1a675f6dd94/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 713px; height: 200px;" /></p>

@@ -18,7 +18,7 @@
 
 <p>A regular box of cupcakes holds 8 cupcakes, while a small box holds 3 cupcakes. There are 28 students in a class and a total of at least 28 cupcakes. Your job is to determine how many cupcakes will be left over if each student gets one cupcake.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/8ade8b89-bc7a-4438-a7fe-dad6f604a66d/-/preview/" style="width: 383px; height: 108px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/24568.%E2%80%85Cupcake%E2%80%85Party/829ea8a3.png" data-original-src="https://upload.acmicpc.net/8ade8b89-bc7a-4438-a7fe-dad6f604a66d/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 383px; height: 108px;" /></p>
 
 ### 입력
 

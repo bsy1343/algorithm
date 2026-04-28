@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p><img alt="" src="/upload/images2/fence.png" style="float:right; height:116px; width:114px" />The Great Farmer has decided to build a fence around his farm. His farm is made up of some connected unit squares on a grid; the farm does not have any holes. The farmer needs to know the length of the fence required to surround his farm, and has asked for your help. Given the places of all the unit squares, your task is to calculate the perimeter of the farm. For example, in the figure on the right, the farm is made up of 3 (dark) unit squares, and its perimeter is 8.</p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/9400.%E2%80%85Calculate%E2%80%85the%E2%80%85Fence%E2%80%85Needed/39868b9c.png" data-original-src="https://www.acmicpc.net/upload/images2/fence.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="float:right; height:116px; width:114px" />The Great Farmer has decided to build a fence around his farm. His farm is made up of some connected unit squares on a grid; the farm does not have any holes. The farmer needs to know the length of the fence required to surround his farm, and has asked for your help. Given the places of all the unit squares, your task is to calculate the perimeter of the farm. For example, in the figure on the right, the farm is made up of 3 (dark) unit squares, and its perimeter is 8.</p>
 
 ### 입력
 

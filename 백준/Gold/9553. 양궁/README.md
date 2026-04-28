@@ -31,7 +31,7 @@
 
 <p>&nbsp;</p>
 
-<p><img src="/upload/images2/archery.png" /></p>
+<p><img src="%EB%B0%B1%EC%A4%80/Gold/9553.%E2%80%85%EC%96%91%EA%B6%81/5ac48097.png" data-original-src="https://www.acmicpc.net/upload/images2/archery.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>위는 두 개의 타겟이 있는 게임의 예시이다. 플레이어는 원점에서 화살을 쏜다.</p>
 

@@ -46,14 +46,14 @@
 
 <p>아래와 같은 트리에 작업을 1회 진행해보자.</p>
 
-<p><img alt="" src="https://upload.acmicpc.net/afe50153-7f8f-4327-84da-6a343de5d04a/-/preview/" style="height: 300px; width: 300px;" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/26088.%E2%80%85%ED%8A%B8%EB%A6%AC%E2%80%85%EB%8B%A4%EB%93%AC%EA%B8%B0/e990aab0.png" data-original-src="https://upload.acmicpc.net/afe50153-7f8f-4327-84da-6a343de5d04a/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 300px; width: 300px;" /></p>
 
 <p>1. 트리에서 이웃한 두 정점 $2$와 $4$를 선택하여 $2$와 $4$를 잇는 간선을 삭제한다. 간선 삭제 후, $2$가 포함된 트리를 $S$, $4$가 포함된 트리를 $T$라 하자. </p>
 
-<p><img alt="" src="https://upload.acmicpc.net/7ac6b987-1dd7-48fb-8f02-48f80ddebd18/-/preview/" style="height: 300px; width: 300px;" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/26088.%E2%80%85%ED%8A%B8%EB%A6%AC%E2%80%85%EB%8B%A4%EB%93%AC%EA%B8%B0/708aa80c.png" data-original-src="https://upload.acmicpc.net/7ac6b987-1dd7-48fb-8f02-48f80ddebd18/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 300px; width: 300px;" /></p>
 
 <p>2. 트리 $S$에서 정점 $3$을 선택한다.</p>
 
 <p>3. $3$과 $4$를 잇는 간선을 추가하여 두 트리를 다시 하나의 트리로 합친다.</p>
 
-<p><img alt="" src="https://upload.acmicpc.net/306298ca-8a51-479a-bf1e-023add3426bc/-/preview/" style="height: 300px; width: 300px;" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/26088.%E2%80%85%ED%8A%B8%EB%A6%AC%E2%80%85%EB%8B%A4%EB%93%AC%EA%B8%B0/ff29662c.png" data-original-src="https://upload.acmicpc.net/306298ca-8a51-479a-bf1e-023add3426bc/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 300px; width: 300px;" /></p>

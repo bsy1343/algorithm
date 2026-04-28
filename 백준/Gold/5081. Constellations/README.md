@@ -27,7 +27,7 @@
 
 <p>For example, if the picture of the sky looked like the following:</p>
 
-<p style="text-align: center;"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/5081/1.png" style="height:225px; width:502px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/5081.%E2%80%85Constellations/65a1082e.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/5081/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:225px; width:502px" /></p>
 
 <p>Then there are 3 constellations: {1, 2, 3, 4, 5}, {6, 7, 8}, {9, 10}.</p>
 

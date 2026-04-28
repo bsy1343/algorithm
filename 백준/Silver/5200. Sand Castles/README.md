@@ -32,7 +32,7 @@
 
 <p>Here are two pictures, viewed from the top and as a crosscut, illustrating the quantities.</p>
 
-<p style="text-align: center;"><img alt="" src="/upload/images2/castle.png" style="height:252px; width:613px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/5200.%E2%80%85Sand%E2%80%85Castles/76360a08.png" data-original-src="https://www.acmicpc.net/upload/images2/castle.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:252px; width:613px" /></p>
 
 ### 출력
 

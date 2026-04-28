@@ -61,9 +61,9 @@
 
 <p>Task: The cell $M_0$ contains a zero, one or several consecutive cells after it contain positive integers and the rest of the cells all contain zeros again. Find the greatest integer that is contained in the array at the start of the execution and write the value of this integer into the cell $M_0$. You can assume that the answer does not exceed $50$ and there are no more than $100$ cells with nonzero contents in the input array. By the end of the execution all cells other than $M_0$ may contain any numbers.</p>
 
-<p>Input example: <img alt="" src="https://upload.acmicpc.net/4c62f5a6-93ba-4363-98d6-5a967ec43d88/-/preview/" style="width: 270px; height: 27px;" /></p>
+<p>Input example: <img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/29890.%E2%80%85Magical%E2%80%85BF%E2%80%855/4ecd1bdf.png" data-original-src="https://upload.acmicpc.net/4c62f5a6-93ba-4363-98d6-5a967ec43d88/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 270px; height: 27px;" /></p>
 
-<p>Output example: <img alt="" src="https://upload.acmicpc.net/1e1a299e-5780-4611-b62d-f73bb40078e3/-/preview/" style="width: 145px; height: 27px;" /></p>
+<p>Output example: <img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/29890.%E2%80%85Magical%E2%80%85BF%E2%80%855/24438cc1.png" data-original-src="https://upload.acmicpc.net/1e1a299e-5780-4611-b62d-f73bb40078e3/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 145px; height: 27px;" /></p>
 
 ### 입력
 

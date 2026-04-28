@@ -22,7 +22,7 @@
 
 <p>The following connection diagram illustrates the first sample input.</p>
 
-<p><img alt="" src="/upload/images2/riskmap.gif" style="height:154px; width:458px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/6462.%E2%80%85Risk/a754506a.gif" data-original-src="https://www.acmicpc.net/upload/images2/riskmap.gif" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:154px; width:458px" /></p>
 
 ### 입력
 

@@ -47,20 +47,20 @@
 
 <p>In Sample Case #1, we can connect the two holes with a wormhole so that we could touch both of them by sending the ball into either one. Notice that without the wormhole, the ball would just stay in the first hole it touches, so it would be impossible to touch more than one hole.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/205f7f19-50a1-4a22-85dd-9c769301f8e9/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/27813.%E2%80%85Wormhole%E2%80%85in%E2%80%85One/cb48a640.png" data-original-src="https://upload.acmicpc.net/205f7f19-50a1-4a22-85dd-9c769301f8e9/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>In Sample Case #2, we can connect the holes at (0, 0) and at (5, 5). We can then hit the ball from position (4.9, 5), for example, in the positive horizontal direction so that it first touches the hole at (5, 5). It goes into that hole and comes out of the hole at (0, 0), retaining its positive horizontal direction of movement. Finally, it touches the hole at (5, 0), and stops (since there is no wormhole linked to that hole).</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/f5b11e82-89a8-487b-818f-9fd733b724a6/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/27813.%E2%80%85Wormhole%E2%80%85in%E2%80%85One/9fec0866.png" data-original-src="https://upload.acmicpc.net/f5b11e82-89a8-487b-818f-9fd733b724a6/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>In Sample Case #3, we can connect the pair of holes at positions (0, 0) and (5, 0), and also the pair of holes at positions (3, 2) and (5, 5). Hitting the ball from (4, -1) towards the hole at (5, 0) makes it touch the holes at positions (5, 0), (0, 0), (5, 5) and (3, 2), in that order.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/5d7ffd6e-d75d-4ed1-9467-872fce016ab5/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/27813.%E2%80%85Wormhole%E2%80%85in%E2%80%85One/1852fc9f.png" data-original-src="https://upload.acmicpc.net/5d7ffd6e-d75d-4ed1-9467-872fce016ab5/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>In Sample Case #4, we can connect the pairs of holes at positions (0, 0) and (1, 1), the pair of holes at positions (2, 1) and (11, 2), and also the pair of holes at positions (8, 2) and (14, 2). Hitting the ball from (-1, 0) towards the hole at (0, 0) makes it touch the holes at the following positions, in this order: (0, 0), (1, 1), (2, 1), (11, 2), (14, 2), (8, 2), (11, 2), (2, 1), and (3, 1). Note that although the holes at positions (11, 2) and (2, 1) are touched twice, they are only counted once each for the answer, since the problem asks for a count of distinct holes.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/83b80d89-2d04-4aa7-9c00-5e0636bf81bd/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/27813.%E2%80%85Wormhole%E2%80%85in%E2%80%85One/b24ae2ca.png" data-original-src="https://upload.acmicpc.net/83b80d89-2d04-4aa7-9c00-5e0636bf81bd/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>In Sample Case #5, there is only one hole, and we can hit the ball into it without needing to consider wormholes at all. (For what it&#39;s worth, we can choose any starting location we want, even outside of the allowable range of coordinates for holes.)</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/ce550f08-0336-471b-a2d7-c1c5fd172fce/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/27813.%E2%80%85Wormhole%E2%80%85in%E2%80%85One/52d36522.png" data-original-src="https://upload.acmicpc.net/ce550f08-0336-471b-a2d7-c1c5fd172fce/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>

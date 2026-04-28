@@ -30,11 +30,11 @@
 
 <p>예를 들어, 다음은 $N=4$, $M=4$일 때 조건을 만족하는 그래프이다.</p>
 
-<p style="text-align:center;"><img alt="N = 4, M = 4일 때 조건을 만족하는 그래프" src="https://upload.acmicpc.net/1aa76a9d-b911-4f6b-b8ec-6c240427eb94/-/preview/" style="width: 300px; max-width: 100%;" /></p>
+<p style="text-align:center;"><img alt="N = 4, M = 4일 때 조건을 만족하는 그래프" src="%EB%B0%B1%EC%A4%80/Platinum/32116.%E2%80%854%EC%83%89%E2%80%85%EC%A0%95%EB%A6%AC/73e178a3.png" data-original-src="https://upload.acmicpc.net/1aa76a9d-b911-4f6b-b8ec-6c240427eb94/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 300px; max-width: 100%;" /></p>
 
 <p>그러나, 다음은 조건을 만족하는 그래프가 아니다.</p>
 
-<p style="text-align:center;"><img alt="조건을 만족하는 그래프가 아님" src="https://upload.acmicpc.net/75971876-a7f2-4112-acef-0625c74ae048/-/preview/" style="width: 300px; max-width: 100%;" /></p>
+<p style="text-align:center;"><img alt="조건을 만족하는 그래프가 아님" src="%EB%B0%B1%EC%A4%80/Platinum/32116.%E2%80%854%EC%83%89%E2%80%85%EC%A0%95%EB%A6%AC/9f1ac6e6.png" data-original-src="https://upload.acmicpc.net/75971876-a7f2-4112-acef-0625c74ae048/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 300px; max-width: 100%;" /></p>
 
 <p>그래프 $G$에 대해, $G$를 <strong>색칠</strong>한다는 것은 간선으로 연결된 두 정점의 색이 다르도록 모든 정점에 색을 부여하는 것을 의미한다.</p>
 

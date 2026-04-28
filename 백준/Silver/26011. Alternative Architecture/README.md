@@ -20,13 +20,13 @@
 
 <p>After an exchange with some other Lego creators he came across a technique that will allow him to place his buildings at different angles. Each building rests on a rectangular ground plate, to the underside of which he attaches four round $1\times 1$-plates in the corners. These $1\times 1$-plates are then placed on four studs of the base plate, like in Figure A.1.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/85aa9e59-b061-473d-92cd-d0216b0c3386/-/preview/" style="width: 279px; height: 184px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/26011.%E2%80%85Alternative%E2%80%85Architecture/fdc70a77.png" data-original-src="https://upload.acmicpc.net/85aa9e59-b061-473d-92cd-d0216b0c3386/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 279px; height: 184px;" /></p>
 
 <p style="text-align: center;">Figure A.1: Placing a $6\times6$ plate diagonally.</p>
 
 <p>If the ground plate of the building is $a\times b$ studs, what is the number of orientations it can be placed in using this technique, so that all the corner plates exactly fit on studs of the base plate?</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/a56b3f60-cc5b-41d1-89a2-62803ca7ea2b/-/preview/" style="width: 500px; height: 375px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/26011.%E2%80%85Alternative%E2%80%85Architecture/2dba4411.png" data-original-src="https://upload.acmicpc.net/a56b3f60-cc5b-41d1-89a2-62803ca7ea2b/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 500px; height: 375px;" /></p>
 
 <p style="text-align: center;">Figure A.2: Illustration of the first sample case. There are many ways of placing a $6 \times 11$ plate, but only $6$ distinct orientations.</p>
 

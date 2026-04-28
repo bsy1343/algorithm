@@ -32,13 +32,13 @@
 
 <p>よって&nbsp;<i>(4, 1)</i>&nbsp;の位置にある爆弾が爆発すると合計で 5 つの爆弾が爆発する．</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/747629b7-112b-47c0-87f9-e7753774dd08/-/preview/" style="width: 272px; height: 200px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/22362.%E2%80%85%E7%88%86%E7%99%BA%E3%81%AE%E9%80%A3%E9%8E%96/d897b49f.png" data-original-src="https://upload.acmicpc.net/747629b7-112b-47c0-87f9-e7753774dd08/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 272px; height: 200px;" /></p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/17dca2f6-9455-463a-a08e-4ec193a004b4/-/preview/" style="width: 278px; height: 200px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/22362.%E2%80%85%E7%88%86%E7%99%BA%E3%81%AE%E9%80%A3%E9%8E%96/78c6f4bf.png" data-original-src="https://upload.acmicpc.net/17dca2f6-9455-463a-a08e-4ec193a004b4/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 278px; height: 200px;" /></p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/90615b89-f702-4bcb-bf05-ed846922763c/-/preview/" style="width: 278px; height: 200px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/22362.%E2%80%85%E7%88%86%E7%99%BA%E3%81%AE%E9%80%A3%E9%8E%96/be763586.png" data-original-src="https://upload.acmicpc.net/90615b89-f702-4bcb-bf05-ed846922763c/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 278px; height: 200px;" /></p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/4d8a64e7-0851-47af-be2e-3210d1f0acde/-/preview/" style="width: 278px; height: 200px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/22362.%E2%80%85%E7%88%86%E7%99%BA%E3%81%AE%E9%80%A3%E9%8E%96/5ff4fd44.png" data-original-src="https://upload.acmicpc.net/4d8a64e7-0851-47af-be2e-3210d1f0acde/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 278px; height: 200px;" /></p>
 
 ### 입력
 

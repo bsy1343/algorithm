@@ -29,7 +29,7 @@
 
 <p>예를 들어, N=4인 경우에 IN, A<sub>1</sub>, A<sub>2</sub>, A<sub>3</sub>, 및 OUT의 총 5개의 마법 구슬들이 해리포터에게 주어져 있고, IN을 사용했더니 3번방에 들어가게 되었다고 하자.</p>
 
-<p style="text-align: center;"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/2301/1.png" style="height:68px; width:178px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/2301.%E2%80%85%EB%A7%88%EB%B2%95%E2%80%85%EA%B5%AC%EC%8A%AC/deed2a6e.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/2301/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:68px; width:178px" /></p>
 
 <p>이때, 그는 다음과 같은 방법으로 마법 구슬을 이용하여 방들에 있는 4개의&nbsp;보물을 찾아 가져올 수 있다.</p>
 
@@ -42,7 +42,7 @@
 
 <p>또 다른 예로, N=4인 경우에 IN을 이용했더니 1번방에 들어가게 되었다고 하자.</p>
 
-<p style="text-align: center;"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/2301/2.png" style="height:68px; width:170px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/2301.%E2%80%85%EB%A7%88%EB%B2%95%E2%80%85%EA%B5%AC%EC%8A%AC/1bb2a2a8.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/2301/2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:68px; width:170px" /></p>
 
 <p>이때는 다음의 방법으로 방들에 있는 4개의 보물을 찾아 가져올 수 있다.</p>
 

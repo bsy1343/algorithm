@@ -28,7 +28,7 @@
 
 <p>예를 들어 숭실대학교 캠퍼스가 아래 그림과 같은 형태이고 $1$번 건물에서 출발하며, $1,3,2$번 건물에서 차례대로 회의를 진행해야 한다고 하자.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/0bcc5e99-997e-4ac6-a764-29d163184864/-/preview/" style="width: 200px; height: 200px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/28119.%E2%80%85Traveling%E2%80%85SCCC%E2%80%85President/dded587e.png" data-original-src="https://upload.acmicpc.net/0bcc5e99-997e-4ac6-a764-29d163184864/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 200px; height: 200px;" /></p>
 
 <p>찬솔이는 먼저 1번 건물에서 회의를 진행한 뒤, 도로를 통해 2번 건물을 거쳐 3번 건물로 이동해서 회의를 진행한다. 이후 순간 이동 장치를 사용해 2번 건물로 이동해 회의를 진행한 뒤, 순간 이동 장치를 써서 1번 건물로 돌아올 수 있다. 이 과정에서 소요되는 총 시간은 3분이다.</p>
 

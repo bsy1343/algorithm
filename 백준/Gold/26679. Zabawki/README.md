@@ -36,6 +36,6 @@
 
 <p>Wyjaśnienie przykład&oacute;w: W pierwszym przykładzie z początkowego układu zabawek Bitek może utworzyć docelowy układ zabawek w trzech ruchach:</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/6276ae8d-981e-475b-b26c-e6c40525f19b/-/preview/" style="width: 167px; height: 168px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/26679.%E2%80%85Zabawki/9d8d9e14.png" data-original-src="https://upload.acmicpc.net/6276ae8d-981e-475b-b26c-e6c40525f19b/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 167px; height: 168px;" /></p>
 
 <p>Odpowiedź do drugiego przykładu to <code>NIE</code>, gdyż Bitek nie posiada żadnej zabawki typu <code>h</code> potrzebnej w docelowym układzie zabawek.</p>

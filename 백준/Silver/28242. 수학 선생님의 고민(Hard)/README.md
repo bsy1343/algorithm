@@ -26,7 +26,7 @@
 
 <p>하지만 답변 받는 도중 인터넷이 끊겨버렸다..!</p>
 
-<p style="text-align: center;"><img alt="" height="193" src="https://upload.acmicpc.net/778aa942-20be-45d2-a888-478b5a230cd7/-/preview/" width="516" /></p>
+<p style="text-align: center;"><img alt="" height="193" src="%EB%B0%B1%EC%A4%80/Silver/28242.%E2%80%85%EC%88%98%ED%95%99%E2%80%85%EC%84%A0%EC%83%9D%EB%8B%98%EC%9D%98%E2%80%85%EA%B3%A0%EB%AF%BC(Hard)/38df8be2.png" data-original-src="https://upload.acmicpc.net/778aa942-20be-45d2-a888-478b5a230cd7/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" width="516" /></p>
 
 <p style="text-align: center;">ChatGPT에게 프로그램을 만들어달라고 하다가 인터넷이 끊긴 모습이다.</p>
 

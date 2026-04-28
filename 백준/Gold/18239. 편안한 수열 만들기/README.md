@@ -26,7 +26,7 @@
 
 <p>하단의 그림은 N = 7, K = 3일 때의 변경된 수열의&nbsp;예시이다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/e4ec0aea-8009-438f-a856-21598645405d/-/crop/926x470/0,0/-/preview/" style="width: 450px; height: 228px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/18239.%E2%80%85%ED%8E%B8%EC%95%88%ED%95%9C%E2%80%85%EC%88%98%EC%97%B4%E2%80%85%EB%A7%8C%EB%93%A4%EA%B8%B0/a56e33be.png" data-original-src="https://upload.acmicpc.net/e4ec0aea-8009-438f-a856-21598645405d/-/crop/926x470/0,0/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 450px; height: 228px;" /></p>
 
 <p>불편해진 성우는 편안해지기 위해&nbsp;이 수열을 편안한 수열로 바꾸려고 한다.</p>
 

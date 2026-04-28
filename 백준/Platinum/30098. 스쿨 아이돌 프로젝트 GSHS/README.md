@@ -67,4 +67,4 @@
 
 ### 힌트
 
-<p><img alt="" src="https://upload.acmicpc.net/5a1a0444-e46d-44b5-8698-6b6728c9861e/-/preview/" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/30098.%E2%80%85%EC%8A%A4%EC%BF%A8%E2%80%85%EC%95%84%EC%9D%B4%EB%8F%8C%E2%80%85%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%E2%80%85GSHS/9bc3086c.png" data-original-src="https://upload.acmicpc.net/5a1a0444-e46d-44b5-8698-6b6728c9861e/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>

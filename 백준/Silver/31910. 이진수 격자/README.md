@@ -18,7 +18,7 @@
 
 <p>각 칸에 $0$ 또는 $1$이 적혀 있는 $N \times N$ 격자가 있다. 인선이는 $1$행 $1$열에서 출발해 $N$행 $N$열까지 이동하는데, 오른쪽(열 번호가 증가하는 방향) 또는 아래(행 번호가 증가하는 방향)로만 한 칸씩 이동할 수 있다. 인선이는 어떤 칸에 방문할 때마다 그 칸에 적힌 문자를 자신이 갖고 있는 문자열의 뒷부분에 덧붙인다. 예를 들어, 주어진 그림에서 인선이가 $1$행 $1$열에서 출발하여 순서대로 오른쪽, 아래, 오른쪽으로 한 칸씩 이동한다면 인선이가 가진 문자열은 <span style="color:#e74c3c;"><code>1101</code></span>이다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/7aff5b5b-631b-4d1b-9ae7-224fb5e7a01b/-/preview/" style="width: 180px; height: 180px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/31910.%E2%80%85%EC%9D%B4%EC%A7%84%EC%88%98%E2%80%85%EA%B2%A9%EC%9E%90/21dfab2a.png" data-original-src="https://upload.acmicpc.net/7aff5b5b-631b-4d1b-9ae7-224fb5e7a01b/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 180px; height: 180px;" /></p>
 
 <p>$N$행 $N$열에 도착하면 인선이는 자신이 갖고 있는 문자열을 이진수로 해석한 값 $M$을 계산한다. 예를 들어, 인선이가 가진 문자열이 <span style="color:#e74c3c;"><code>1101</code></span>일 경우 $M=13$이다. 인선이가 계산하게 될 $M$의 최댓값을 구하시오.</p>
 

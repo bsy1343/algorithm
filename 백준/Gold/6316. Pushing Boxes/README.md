@@ -22,7 +22,7 @@
 
 <p>One of the empty cells is marked as the target cell. Your job is to bring the box to the target cell by a sequence of walks and pushes. As the box is very heavy, you would like to minimize the number of pushes. Can you write a program that will work out the best such sequence?</p>
 
-<p style="text-align:center"><img alt="" src="/upload/images2/push.png" style="height:214px; width:448px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/6316.%E2%80%85Pushing%E2%80%85Boxes/3e7be9fc.png" data-original-src="https://www.acmicpc.net/upload/images2/push.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:214px; width:448px" /></p>
 
 ### 입력
 

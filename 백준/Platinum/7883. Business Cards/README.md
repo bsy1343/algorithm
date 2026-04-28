@@ -20,7 +20,7 @@
 
 <p>An example of a 9 &times; 6 paper sheet divided into 2 &times; 3 cards is given below.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/0a12beac-e812-4ebf-a106-db53349d010b/-/preview/" style="width: 159px; height: 112px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/7883.%E2%80%85Business%E2%80%85Cards/61ccdb2f.png" data-original-src="https://upload.acmicpc.net/0a12beac-e812-4ebf-a106-db53349d010b/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 159px; height: 112px;" /></p>
 
 ### 입력
 

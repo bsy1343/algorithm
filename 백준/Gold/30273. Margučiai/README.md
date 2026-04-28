@@ -20,7 +20,7 @@
 
 <p>Panagrinėkime pavyzdį su penkiais vaikais. Paveikslėlyje rodyklės žymi, kam vaikai norėtų dovanoti margučius, patys gavę margutį:</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/00e4490f-f24c-44e9-93e2-ade1f5cb8fb5/-/preview/" style="width: 204px; height: 116px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/30273.%E2%80%85Margu%C4%8Diai/fea96045.png" data-original-src="https://upload.acmicpc.net/00e4490f-f24c-44e9-93e2-ade1f5cb8fb5/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 204px; height: 116px;" /></p>
 
 <p>Jeigu Zuikis padovanos margutį antrajam vaikui, &scaron;is vaikas numargins ir padovanos po margutį trečiajam ir pirmajam vaikui, o pirmasis &ndash; ketvirtajam vaikui. Ketvirtasis vaikas norėtų padovanoti margutį antrajam vaikui, bet nedovanos, kadangi &scaron;is margutį jau turi. Pastebėkime, kad nors Zuikis padovanojo tik vieną margutį, galiausiai margučius gavo net keturi vaikai.</p>
 

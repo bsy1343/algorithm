@@ -24,7 +24,7 @@
 
 <p>Write a program that answers polygonal lines which have the same shape as the template.</p>
 
-<p style="text-align: center;"><img alt="" src="/upload/images3/B1.gif" style="height:139px; width:503px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/4987.%E2%80%85Polygonal%E2%80%85Line%E2%80%85Search/55240749.gif" data-original-src="https://www.acmicpc.net/upload/images3/B1.gif" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:139px; width:503px" /></p>
 
 <p style="text-align: center;">Figure 1: Polygonal lines</p>
 

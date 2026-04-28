@@ -22,7 +22,7 @@
 
 <p>Now several posts are broken or missing, and there are gaps in the fence. To prevent the cattle from getting out of the property, the fence must be restored as quickly as possible. Reconstructing the fence to its original form, with concrete posts, will take a long time. In the meantime, the farm owners decided to close the gaps with a temporary fence, made with wooden posts. Wooden posts will be placed in exactly the same spots where missing/broken concrete posts were/are. However, in order to make the temporary reconstruction faster and less expensive, the owners decided to use fewer posts: a wooden post will be used to replace a missing/broken concrete post only if the length of the barbed wired needed to close the distance to the next post (wooden or concrete) exceeds four meters.</p>
 
-<p><img alt="" src="/upload/images2/tornado.png" style="height:154px; width:415px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/5667.%E2%80%85Tornado!/52bec17e.png" data-original-src="https://www.acmicpc.net/upload/images2/tornado.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:154px; width:415px" /></p>
 
 <p>Given the description of which posts are missing/broken, you must write a program to determine the smallest number of wooden posts needed to close all the gaps in the fence, according to the owners&rsquo; decision.</p>
 

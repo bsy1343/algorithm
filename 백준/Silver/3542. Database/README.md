@@ -22,11 +22,11 @@
 
 <p>If the same author wrote several books, then this representation is clearly redundant. To formally define this kind of redundancy Peter has introduced his own normal form. A table is in Peter&rsquo;s Normal Form (PNF) if and only if there is no pair of rows and a pair of columns such that the values in the corresponding columns are the same for both rows.</p>
 
-<p style="text-align:center"><img alt="" src="/upload/images3/db1.png" style="height:71px; width:478px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/3542.%E2%80%85Database/fdcf333a.png" data-original-src="https://www.acmicpc.net/upload/images3/db1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:71px; width:478px" /></p>
 
 <p>The above table is clearly not in PNF, since values for 2rd and 3rd columns repeat in 2nd and 3rd rows. However, if we introduce unique author identifier and split this table into two tables &mdash; one containing book name and author id, and the other containing book id, author name, and author email, then both resulting tables will be in PNF.</p>
 
-<p style="text-align:center"><img alt="" src="/upload/images3/db2.png" style="height:77px; width:583px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/3542.%E2%80%85Database/0b15a0f1.png" data-original-src="https://www.acmicpc.net/upload/images3/db2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:77px; width:583px" /></p>
 
 <p>Given a table your task is to figure out whether it is in PNF or not.</p>
 

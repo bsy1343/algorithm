@@ -25,7 +25,7 @@
 
 <p>아래 그림은 N=4, M=7인 경우의 예이다. (노란색: 색칠, 검정색: 빈 칸)</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/d7acfe95-8e12-45c5-9cc1-6ec7493efc30/-/preview/" style="width: 428px; height: 250px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/14275.%E2%80%85%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95%E2%80%85%EC%83%89%EC%B9%A0/e142f757.png" data-original-src="https://upload.acmicpc.net/d7acfe95-8e12-45c5-9cc1-6ec7493efc30/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 428px; height: 250px;" /></p>
 
 <p>N과 M이 주어졌을 때, 색칠하는 방법의 수를 구하는 프로그램을 작성하시오.&nbsp;</p>
 
@@ -41,4 +41,4 @@
 
 <p>예제 2의 경우 아래와 같은 8가지 방법이 가능하다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/bf151c88-e762-40d8-98f9-1b5411c3e52e/-/preview/" style="width: 605px; height: 300px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/14275.%E2%80%85%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95%E2%80%85%EC%83%89%EC%B9%A0/e07350eb.png" data-original-src="https://upload.acmicpc.net/bf151c88-e762-40d8-98f9-1b5411c3e52e/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 605px; height: 300px;" /></p>

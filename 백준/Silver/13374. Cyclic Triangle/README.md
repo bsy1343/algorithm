@@ -20,7 +20,7 @@
 
 <p>For the case of N = 10, the resulting table is shown below. For this example, we filled in the triangle from (1) to (2) and then back toward (1) along the diagonal.&nbsp;</p>
 
-<p><img alt="" src="https://onlinejudgeimages.s3.amazonaws.com/problem/13374/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-10-11%20%EC%98%A4%ED%9B%84%204.16.17.png" style="height:208px; width:340px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/13374.%E2%80%85Cyclic%E2%80%85Triangle/fad839bd.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/13374/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-10-11%20%EC%98%A4%ED%9B%84%204.16.17.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:208px; width:340px" /></p>
 
 <p>What is more interesting is the following. Once we know N, we can find out which number is filled in at a given row and column. From the example, where N = 10, if the position&nbsp;is row = 0, and column = 7, then it is filled with number 8. However, if the position is row = 5 and column = 7, then the number is 2. Your task is to write a program that can quickly find out the circular number in the right triangle given the row and column.</p>
 

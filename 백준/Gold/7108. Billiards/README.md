@@ -20,11 +20,11 @@
 
 <p>Your task is to write a program that for the given integer numbers k(0 &le; k &le; 73) un n(0 &le; n &lt; 10<sup>9</sup>) would output the distance of the ball to the side R(B<sub>R</sub>) and side D (B<sub>D</sub>) after the ball has moved exactly n centimeters. The values B<sub>R</sub> and B<sub>D</sub> must be output as real numbers rounded to the nearest one thousandth of a centimeter.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/4552e666-d3b7-493e-927a-2687493583c2/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/7108.%E2%80%85Billiards/da36ae9b.png" data-original-src="https://upload.acmicpc.net/4552e666-d3b7-493e-927a-2687493583c2/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p style="text-align: center;">Pic. 3</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/de7c28fd-b1f2-4fee-bdb8-7f7afd2fd648/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/7108.%E2%80%85Billiards/07d8d152.png" data-original-src="https://upload.acmicpc.net/de7c28fd-b1f2-4fee-bdb8-7f7afd2fd648/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p style="text-align: center;">Pic. 4</p>
 

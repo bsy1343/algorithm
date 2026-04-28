@@ -26,7 +26,7 @@
 
 <p>예를 들어, 석규가 ABB를 기억한다면 BBAB이 적힌 포스트잇은 비밀번호일 가능성이 없고, HAEBBC가 적힌 포스트잇은 비밀번호일 가능성이 있다.&nbsp;</p>
 
-<p style="text-align: center;"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15786/1.png" style="width: 328px; height: 170px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/15786.%E2%80%85Send%E2%80%85me%E2%80%85the%E2%80%85money/9a61116a.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15786/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 328px; height: 170px;" /></p>
 
 <p>석규는 형동이에게 송금해주기 위해 포스트잇들 중 비밀번호가 적힌 포스트잇일 가능성이 있는 포스트잇들을 따로 분류하려고 한다. 석규가 기억하는 알파벳 N글자와 포스트잇 M개가 주어질 때, 해당 포스트잇에 적힌 알파벳이 비밀번호일 가능성이 있는지 여부를 판단하여 보자.</p>
 

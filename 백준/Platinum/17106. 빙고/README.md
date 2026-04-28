@@ -28,7 +28,7 @@
 
 <p>우리가 사용할 빙고판은 아래와 같다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/c97e4c8e-074d-4e94-a168-fb4f5fe8bcbc/-/preview/" style="width: 600px; height: 666px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/17106.%E2%80%85%EB%B9%99%EA%B3%A0/8c91ba64.png" data-original-src="https://upload.acmicpc.net/c97e4c8e-074d-4e94-a168-fb4f5fe8bcbc/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 600px; height: 666px;" /></p>
 
 ### 입력
 

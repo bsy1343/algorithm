@@ -29,7 +29,7 @@
 
 <p>아래 그림은 A = [9, 3, 7, 1, 8, 12, 10, 20, 15, 18, 5] 를 이용해서 만든 카르테시안 트리이다.</p>
 
-<p style="text-align:center"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/13336/1.png" style="height:414px; width:432px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/13396.%E2%80%85%EC%B9%B4%EB%A5%B4%ED%85%8C%EC%8B%9C%EC%95%88%E2%80%85%ED%8A%B8%EB%A6%AC%E2%80%852/c92d4cd6.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/13336/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:414px; width:432px" /></p>
 
 <p>수열 A를 이용해서 만든 카르테시안 트리를 T라고 했을 때, 카르테시안 트리 T의 점수는 다음과 같이 계산한다.</p>
 

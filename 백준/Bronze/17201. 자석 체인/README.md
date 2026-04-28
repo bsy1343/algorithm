@@ -22,7 +22,7 @@
 
 <p>보통, 자석은 같은 극끼리는 밀어내고 다른 극끼리는 서로 끌어당겨 붙는 성질이 있다. 관빈이는 이 성질을 이용해 가지고 있는 자석들을 정성스럽게 모두 이어 붙여 연결된 자석 체인을 만든 뒤&nbsp;자석 코인의 급등을 꿈꾸며 잠이 들었다. 하지만 그날 밤에, 자석 코인의 급등을 우려한 관빈이의 아버지가 연결된 자석 중 하나의 방향을 뒤집어 자석 체인을 분리했을&nbsp;수도 있다!&nbsp;자석 체인의 급락을 두려워하는 관빈이를 위해 자석 체인이 모두 연결되어 있는지&nbsp;아닌지&nbsp;알려주자.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/43d93151-2d4b-41ff-8680-1d8d87ab893f/-/preview/" style="width: 395px; height: 119px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/17201.%E2%80%85%EC%9E%90%EC%84%9D%E2%80%85%EC%B2%B4%EC%9D%B8/bffb74bd.png" data-original-src="https://upload.acmicpc.net/43d93151-2d4b-41ff-8680-1d8d87ab893f/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 395px; height: 119px;" /></p>
 
 ### 입력
 

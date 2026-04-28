@@ -18,7 +18,7 @@
 
 <p>바둑알 점프는 판 위에 있는 바둑알을 하나만 남기고 모두 없애는 게임이다. 바둑알은 가로, 세로, 대각선으로 인접한 바둑알 하나를 점프하여 움직일 수 있다. 움직였을 때, 뛰어넘은 바둑알은 없어진다. 이때 뛰어넘을 바둑알이 없으면 움직일 수 없다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/f7b003c7-b0bb-4815-a8f7-6341049587b4/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/17492.%E2%80%85%EB%B0%94%EB%91%91%EC%95%8C%E2%80%85%EC%A0%90%ED%94%84/ae96a455.png" data-original-src="https://upload.acmicpc.net/f7b003c7-b0bb-4815-a8f7-6341049587b4/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>예를 들어, [그림1]에서 왼쪽 상단 바둑알을 오른쪽 하단 대각선 방향으로 움직이면 [그림2] 와 같이 된다. [그림3]에서 오른쪽 하단에 있는 바둑알은 뛰어 넘을 바둑알이 없으므로 움직일 수 없다.</p>
 

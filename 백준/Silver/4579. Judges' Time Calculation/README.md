@@ -20,7 +20,7 @@
 
 <p>Having struggled for many years, the judges developed the following system. Before the contest starts, they place the following table on the board at the front of the room</p>
 
-<p style="text-align: center;"><img alt="" src="/upload/images2/judge.png" style="height:192px; width:183px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/4579.%E2%80%85Judges'%E2%80%85Time%E2%80%85Calculation/55954375.png" data-original-src="https://www.acmicpc.net/upload/images2/judge.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:192px; width:183px" /></p>
 
 <p>When a problem is submitted with a given time-stamp, they determine which row of the table to use, based upon the hour of the time-stamp. Then, the formula in the right column is used to compute the number of elapsed minutes. For example, with a submission time of 12:39, the top row is applied with XX=39, leading to the elapsed minutes calculated as 39 - 30 = 9. For a program submitted at 3:21, the fourth row is used to calculate 21 + 150 = 171 elapsed minutes.</p>
 

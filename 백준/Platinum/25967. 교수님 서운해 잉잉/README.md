@@ -18,7 +18,7 @@
 
 <p>승준이는 손이 도라에몽처럼 생겨서 컴퓨터로 키보드를 칠 때 오타를 많이 발생시킨다. 어느 날, 승준이는 시스템 프로그래밍 과제 점수로 F를 받게 되었다. 승준이는 도저히 이 사실이 믿기지 않아 왜 F가 나왔는지 소스코드를 다시 확인했다. 소스 코드를 본 결과 main을 mian이라고 쳐서 컴파일 에러가 난 것이다! 그래서 승준이는 소스 코드에서 이러한 오타가 더 있는지 확인을 하고 싶어졌다. 하지만 귀찮았던 나머지, 오타가 발생한 단어들을 자동으로 알고 있는 단어들 중에서 가장 유사도가 높은 단어로 바꾸는 프로그램을 작성하려 한다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/96b79efa-43a3-4cda-b44f-9a209267fa71/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/25967.%E2%80%85%EA%B5%90%EC%88%98%EB%8B%98%E2%80%85%EC%84%9C%EC%9A%B4%ED%95%B4%E2%80%85%EC%9E%89%EC%9E%89/32b24f3a.png" data-original-src="https://upload.acmicpc.net/96b79efa-43a3-4cda-b44f-9a209267fa71/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>오타가 발생하는 경우 두 자판이 키보드에서 가까이 있어야 하기 때문에 두 자판 사이의 거리가 짧을수록 유사도가 높고, 멀수록 유사도가 낮다. 예를 들어 A와 S는 거리가 16밖에 되지 않지만, A와 M는 692나 된다. 따라서 S와 A의 유사도가 S와 M의 유사도보다 높은 것이다. </p>
 

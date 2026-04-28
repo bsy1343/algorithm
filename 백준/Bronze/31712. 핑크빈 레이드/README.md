@@ -20,7 +20,7 @@
 
 <p>메이플스토리는 2003년 4월 29일부터 상용 서비스를 시작했으며, 2023년 4월 29일에 20주년을 맞이한 넥슨의 대표 게임 중 하나이다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/9f8db5c4-c954-4f5e-8bfb-e8d9fb5e9bf6/-/preview/" style="max-width: 100%" width="500px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/31712.%E2%80%85%ED%95%91%ED%81%AC%EB%B9%88%E2%80%85%EB%A0%88%EC%9D%B4%EB%93%9C/0ab12df3.png" data-original-src="https://upload.acmicpc.net/9f8db5c4-c954-4f5e-8bfb-e8d9fb5e9bf6/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="max-width: 100%" width="500px" /></p>
 
 <p>메이플스토리 월드는 메이플스토리와 그 외 IP를 사용하여 누구나 변형 게임을 제작할 수 있는 창작 플랫폼이다. 메이플스토리 월드에서 플레이할 수 있는 메이플랜드는, 빅뱅 업데이트 이전 메이플스토리를 구현한 &#39;과거로의 회귀&#39; 컨셉의 팬 게임이다.</p>
 

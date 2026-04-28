@@ -30,7 +30,7 @@
 
 <p>Some of the datasets in Sample Input are illustrated below. The points marked with an &quot;X&quot; indicate the presence of obstacles. The left figure corresponds to the first two datasets of Sample Input. In these datasets, the initial position of the bug is (0, 1), and it moves to (1, 1) and then to (2, 1). Next, it attempts to move to (3, 1), but since there is an obstacle there, it turns to the positive direction of <i>y</i> and moves to (2, 2). The points the bug traverses are shown with orange circles. The right figure shows the next two datasets.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/9e7c003c-c779-4130-b9cd-7e54833f7c87/-/preview/" style="width: 400px; height: 400px;" /><img alt="" src="https://upload.acmicpc.net/45a24e9c-e820-4fbc-b456-4b96f46b2dc5/-/preview/" style="width: 400px; height: 400px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/32049.%E2%80%85A%E2%80%85Bug%E2%80%85That's%E2%80%85Not%E2%80%85a%E2%80%85Pill%E2%80%85Bug/2a8c67cf.png" data-original-src="https://upload.acmicpc.net/9e7c003c-c779-4130-b9cd-7e54833f7c87/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 400px; height: 400px;" /><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/32049.%E2%80%85A%E2%80%85Bug%E2%80%85That's%E2%80%85Not%E2%80%85a%E2%80%85Pill%E2%80%85Bug/b97548d7.png" data-original-src="https://upload.acmicpc.net/45a24e9c-e820-4fbc-b456-4b96f46b2dc5/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 400px; height: 400px;" /></p>
 
 <p style="text-align: center;">Figure D-1: The first two datasets of Sample Input (left) and the next two datasets (right)</p>
 

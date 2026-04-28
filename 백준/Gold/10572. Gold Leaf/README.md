@@ -18,7 +18,7 @@
 
 <p>Gold leaf is a very thin layer of gold with a paper backing. If the paper gets folded and then unfolded, the gold leaf will stick to itself more readily than it will stick to the paper, so there will be patches of gold and patches of exposed paper. Note that the gold leaf will always stick to itself, rather than the paper. In the following example, the paper was folded along the dashed line. Notice how the gold leaf always sticks to one side or the other, never both.</p>
 
-<p style="text-align:center"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11234/1.png" style="height:303px; width:299px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/10572.%E2%80%85Gold%E2%80%85Leaf/04cf9e19.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11234/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:303px; width:299px" /></p>
 
 <p>Consider a crude digital image of a sheet of gold leaf. If the area covered by a pixel is mostly gold, that will be represented by a &lsquo;#&rsquo;. If it&rsquo;s mostly exposed paper, it will be represented by a &lsquo;.&rsquo;. Determine where the sheet was folded. The sheet was folded exactly once, along a horizontal, vertical, or 45 degree diagonal line. If the fold is horizontal or vertical, it is always between rows/columns. If the fold is diagonal, then the fold goes through a diagonal line of cells, and the cells along the fold are always &lsquo;#&rsquo;.</p>
 

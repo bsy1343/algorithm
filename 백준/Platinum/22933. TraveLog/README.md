@@ -20,7 +20,7 @@
 
 <p>When Alice asked Bob which path he took, he was stunned to find he didn&#39;t remember. Bob is efficient, and drove without stopping, and knows there is no path faster than the one he took. He also has a brand new National Adventuring Company (NAC) TraveLog! Every time Bob drives through a city, the TraveLog records the time between when he left city $1$ and when he arrived in the current city.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/3c8a7bfa-7c22-4c69-9a45-af71d66f8496/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/22933.%E2%80%85TraveLog/935bd9e1.png" data-original-src="https://upload.acmicpc.net/3c8a7bfa-7c22-4c69-9a45-af71d66f8496/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>In the above layout, there are two possible fastest paths Bob can take from city $1$ to city $n$: $1 \to 2 \to 3 \to 5$ or $1 \to 4 \to 5$. Both paths take a total of $9$ units of time. The first path would have a TraveLog of $0, 3, 7, 9$, and the second would have a TraveLog of $0, 5, 9$.</p>
 

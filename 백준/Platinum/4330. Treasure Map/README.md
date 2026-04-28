@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p><img alt="" src="https://upload.acmicpc.net/1709bc52-7263-4156-819c-f263b8ac8128/-/preview/" style="float: right;" /> You have come into possession of a pirate map that gives a series of steps to get from your landing place on a desert isle to&nbsp;the spot marked X where the treasure is located. Each step consists of a compass heading and a number of paces.</p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/4330.%E2%80%85Treasure%E2%80%85Map/315bfb55.png" data-original-src="https://upload.acmicpc.net/1709bc52-7263-4156-819c-f263b8ac8128/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="float: right;" /> You have come into possession of a pirate map that gives a series of steps to get from your landing place on a desert isle to&nbsp;the spot marked X where the treasure is located. Each step consists of a compass heading and a number of paces.</p>
 
 <p>After spending most of your savings chartering a boat, you arrive at the island and, with the help of your portable GPS receiver, duly execute the instructions on the map. Alas, no treasure! On your return home you are astonished to learn that the pirates had no knowledge of GPS and used a magnetic compass to create the map. The pirates were unaware that their compass pointed to&nbsp;<i>magnetic north</i>&nbsp;rather than true north. The relative angle between magnetic north and true north varies depending where you are on the planet, but you are able to determine that on this particular desert isle, magnetic north is&nbsp;<i>d</i>&nbsp;degrees from true north. How close were you to&nbsp;<i>the spot marked&nbsp;<b>X</b></i>&nbsp;at any moment while following the map?</p>
 

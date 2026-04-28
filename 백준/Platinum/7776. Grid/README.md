@@ -20,7 +20,7 @@
 
 <p>While Gerald was relaxing with a cup of tea, his brother Mike came and scratched a straight line on the sheet. Gerald felt outraged with Mike&rsquo;s behavior and ordered him to remove everything odd from the paper.</p>
 
-<p style="text-align: center;"><img alt="" src="/upload/images2/grid.png" style="height:190px; width:302px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/7776.%E2%80%85Grid/a63ff472.png" data-original-src="https://www.acmicpc.net/upload/images2/grid.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:190px; width:302px" /></p>
 
 <p>Mike didn&rsquo;t take his brother&rsquo;s words seriously and removed almost all the information with an eraser. However, he did not notice the points of intersection of his line with the grid. All those points were bold enough to be readable even after erasing.</p>
 

@@ -18,7 +18,7 @@
 
 <p>Nie wierzcie wszystkiemu, co widzicie w telewizji! Bajtuś skakał ostatnio po kanałach i ujrzał taki oto widok, gdzie ktoś niepoprawnie dodał pisemnie dwie liczby (obrazek po lewej):</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/8ddeeef1-ccfe-4bf8-a5f8-5cbcd401e4b3/-/preview/" style="width: 635px; height: 207px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/26660.%E2%80%85A%E2%80%85%2B%E2%80%85B/b3e0cda3.png" data-original-src="https://upload.acmicpc.net/8ddeeef1-ccfe-4bf8-a5f8-5cbcd401e4b3/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 635px; height: 207px;" /></p>
 
 <p>Całkiem spaczyło to jego pojmowanie matematyki i biedak ma teraz problemy z dodawaniem pisemnym dw&oacute;ch liczb. Bajtuś zapisuje je jedna pod drugą, wyr&oacute;wnując je do prawej, po czym na każdej pozycji dodaje do siebie dwie cyfry (na przykład 8 + 8 = 16) i ich sumę zapisuje dokładnie pod nimi w miejscu na wynik. Jeśli na jakiejś pozycji jest tylko jedna cyfra (bo jedna liczba jest kr&oacute;tsza od drugiej), to Bajtuś po prostu przepisuje tę cyfrę do wyniku. Chłopiec oczywiście używa systemu dziesiętnego. Powyżej po prawej stronie możesz zobaczyć dwa dodatkowe przykłady wyliczeń taką metodą.</p>
 

@@ -18,7 +18,7 @@
 
 <p>O reino da Poliminog&ocirc;nia passou recentemente uma lei ecol&oacute;gica que obriga todas as fazendas a preservar o m&aacute;ximo de &aacute;rvores poss&iacute;vel em uma porcentagem fixa da &aacute;rea da fazenda. Al&eacute;m disso, para que os animais silvestres possam se movimentar livremente, a &aacute;rea preservada deve ser conexa.&nbsp;</p>
 
-<p><img alt="" src="https://onlinejudgeimages.s3.amazonaws.com/problem/13614/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202017-01-05%20%EC%98%A4%ED%9B%84%206.55.41.png" style="height:137px; width:137px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/13614.%E2%80%85Ecologia/852f4024.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/13614/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202017-01-05%20%EC%98%A4%ED%9B%84%206.55.41.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:137px; width:137px" /></p>
 
 <p>As fazendas na Poliminog&ocirc;nia s&atilde;o sempre um reticulado de N &times; N quadrados de um hectare cada. A figura ao lado ilustra uma fazenda com N = 5. A &aacute;rea preservada deve cobrir exatamente M quadrados. No exemplo da figura, M = 6. Ela deve ser conexa ortogonalmente; quer dizer, tem que ser poss&iacute;vel se movimentar entre quaisquer dois quadrados preservados apenas com movimentos ortogonais entre quadrados preservados. A &aacute;rea n&atilde;o preservada, entretanto, pode ser desconexa.</p>
 

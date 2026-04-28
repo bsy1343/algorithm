@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/9d9f1301-dbd8-444a-8f0d-0519f5e5d1c3/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/20943.%E2%80%85%EC%B9%B4%EC%B9%B4%EC%98%A4%ED%86%A1/5ac14d6b.png" data-original-src="https://upload.acmicpc.net/9d9f1301-dbd8-444a-8f0d-0519f5e5d1c3/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>카카오톡은 주식회사 카카오가 2010년 3월 18일 서비스를 시작한 글로벌 모바일 인스턴트 메신저로, 2020년 기준 $4\,000$만 명의 사용자가 등록돼 있고 시장 점유율이 $96$%로 사실상 거의 모든 국민이 사용할 정도로 점유율이 매우 높다.</p>
 

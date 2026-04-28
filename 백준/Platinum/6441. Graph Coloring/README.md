@@ -18,7 +18,7 @@
 
 <p>You are to write a program that tries to find an optimal coloring for a given graph. Colors are applied to the nodes of the graph and the only available colors are black and white. The coloring of the graph is called optimal if a maximum of nodes is black. The coloring is restricted by the rule that no two connected nodes may be black.&nbsp;</p>
 
-<p><img alt="" src="/upload/images2/Coloring.gif" style="height:145px; width:217px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/6441.%E2%80%85Graph%E2%80%85Coloring/1ec504d7.gif" data-original-src="https://www.acmicpc.net/upload/images2/Coloring.gif" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:145px; width:217px" /></p>
 
 <p>Figure 1: An optimal graph with three black nodes</p>
 

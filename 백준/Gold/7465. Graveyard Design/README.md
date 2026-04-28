@@ -34,4 +34,4 @@
 
 <p>The picture below illustrates the graveyard for the first example.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/6489eefc-4b7f-4a2f-8af2-e3981cd1fa6d/-/preview/" style="width: 425px; height: 164px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/7465.%E2%80%85Graveyard%E2%80%85Design/8540a275.png" data-original-src="https://upload.acmicpc.net/6489eefc-4b7f-4a2f-8af2-e3981cd1fa6d/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 425px; height: 164px;" /></p>

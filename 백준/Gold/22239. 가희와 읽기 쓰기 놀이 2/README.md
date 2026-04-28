@@ -80,7 +80,7 @@
 
 <p style="text-align: center;">&nbsp;</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/0fd36678-77f8-41f1-ad7e-4475ac808511/-/preview/" /><br />
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/22239.%E2%80%85%EA%B0%80%ED%9D%AC%EC%99%80%E2%80%85%EC%9D%BD%EA%B8%B0%E2%80%85%EC%93%B0%EA%B8%B0%E2%80%85%EB%86%80%EC%9D%B4%E2%80%852/981024ce.png" data-original-src="https://upload.acmicpc.net/0fd36678-77f8-41f1-ad7e-4475ac808511/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /><br />
 <strong>[그림 1] 유효한&nbsp;결과 리스트</strong></p>
 
 <p>결과 리스트에서 두 번 이상 등장한 수는 2, 3입니다. 2가 등장한 횟수는 4번, 3이 등장한 횟수는 2번입니다.</p>
@@ -91,7 +91,7 @@
 
 <p>아래는 결과 리스트가 [2, 1, 2, 2, 3, 3, 2, 3]인 경우입니다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/f640d377-eb75-434d-b267-ad77e34fb98a/-/preview/" /><br />
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/22239.%E2%80%85%EA%B0%80%ED%9D%AC%EC%99%80%E2%80%85%EC%9D%BD%EA%B8%B0%E2%80%85%EC%93%B0%EA%B8%B0%E2%80%85%EB%86%80%EC%9D%B4%E2%80%852/30659226.png" data-original-src="https://upload.acmicpc.net/f640d377-eb75-434d-b267-ad77e34fb98a/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /><br />
 <strong>[그림 2] 유효하지 않은 결과 리스트</strong></p>
 
 <p>결과 리스트에서 2번 이상 나오는 수는 2, 3입니다. 2가 나온 횟수는 4번, 3이 나온 횟수는 3번으로, 이 둘을 합하면 7입니다.</p>

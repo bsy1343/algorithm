@@ -18,7 +18,7 @@
 
 <p>Marie likes Dominoes. She is too young to fully understand the game, so she just creates arrangements based on the following simple rule: Each of the two ends of a domino must be adjacent to an end of another domino with the same number on it.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/787090dc-8f1c-4188-b5a8-a8cb266177fd/-/preview/" style="width: 247px; height: 247px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/20904.%E2%80%85Decorative%E2%80%85Dominoes/b602a0b1.png" data-original-src="https://upload.acmicpc.net/787090dc-8f1c-4188-b5a8-a8cb266177fd/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 247px; height: 247px;" /></p>
 
 <p style="text-align: center;">Figure D.1: Visualization of the first sample test case.</p>
 

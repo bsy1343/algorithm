@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/99987025-e52d-4f98-a15f-87a0caa1c4dd/-/preview/" style="width: 200px; height: 123px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/26941.%E2%80%85Pyramidbygge/5a1423d8.png" data-original-src="https://upload.acmicpc.net/99987025-e52d-4f98-a15f-87a0caa1c4dd/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 200px; height: 123px;" /></p>
 
 <p style="text-align: center;">Figure 1: Ett exempel p&aring; en pyramid av h&ouml;jd 3 med 35 block.</p>
 

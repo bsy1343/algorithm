@@ -22,7 +22,7 @@
 
 <p>It is easy to identify what was pressed if only one key was pressed. In this case only one pair (row, column) will make contact. But keyboards allow to press more than one key at the same time and unfortunately some combinations of key presses are impossible to tell apart. This phenomenon is called &ldquo;ghosting&rdquo;. For example, in a 2 &times; 2 keyboard, all combinations of three or four presses are impossible to tell apart, since every pair (row, column) makes electric contact (maybe indirectly), as can be seen in Figure 3.</p>
 
-<p style="text-align:center"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14994/1.png" style="height:94px; width:431px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/14994.%E2%80%85Ghostbusters/7f6d073a.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14994/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:94px; width:431px" /></p>
 
 <p style="text-align:center">Figure 3: Four examples of connected wires in a keyboard. Bold lines of the same colour indicate wires that are connected via pressed buttons, which are depicted as red dots. The two sets of pressed buttons on the right cannot be distinguished from each other, since they connect the same rows and columns.</p>
 

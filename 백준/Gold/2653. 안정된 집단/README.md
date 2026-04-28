@@ -22,7 +22,7 @@
 
 <p>&lt; 그림 1 &gt;과 같은 경우에 집단 {1, 2, 3, 4, 5}를 소집단 {1, 4, 5}와 {2, 3}으로 분할했을 때 각 소집단에 속한 사람들끼리는 모두 서로 좋아하고 서로 다른 소집단에 속한 사람들끼리는 모두 서로 싫어하므로 안정된 집단이라고 볼 수 있다.</p>
 
-<p><img alt="" src="/upload/images/mAKbGel3gN93w7jDteS2clXnFNFM2.png" style="width: 139px; height: 181px; " /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/2653.%E2%80%85%EC%95%88%EC%A0%95%EB%90%9C%E2%80%85%EC%A7%91%EB%8B%A8/2fba3870.png" data-original-src="https://www.acmicpc.net/upload/images/mAKbGel3gN93w7jDteS2clXnFNFM2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 139px; height: 181px; " /></p>
 
 ### 입력
 

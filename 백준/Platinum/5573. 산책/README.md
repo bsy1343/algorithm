@@ -22,7 +22,7 @@
 
 <p>(a,b)는 위쪽에서 a번째, 왼쪽에서 b번째에 있는 교차로이다. 예를 들어, 상근이네 집은 교차로 (1,1)에 있다.</p>
 
-<p><img alt="" src="/upload/images/walk.png" style="height:226px; width:351px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/5573.%E2%80%85%EC%82%B0%EC%B1%85/73f48b83.png" data-original-src="https://www.acmicpc.net/upload/images/walk.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:226px; width:351px" /></p>
 
 <p>상근이는 산책 경로가 매일 달라야 질리지 않고 산책을 할 수 있다고 생각한다. 따라서, (1,1)에서 (H,W)까지 H &times; W개 교차로에 오른쪽을 뜻하는 오 또는 아래를 뜻하는 아를 쓰고, 다음과 같은 규칙에 따라서 산책을 하기로 했다.</p>
 
@@ -44,4 +44,4 @@
 
 ### 힌트
 
-<p><img alt="" src="/upload/images/walkpath.png" style="height:163px; width:644px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/5573.%E2%80%85%EC%82%B0%EC%B1%85/bb0fc6c6.png" data-original-src="https://www.acmicpc.net/upload/images/walkpath.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:163px; width:644px" /></p>

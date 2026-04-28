@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><img alt="배달하는 곰곰이" src="https://upload.acmicpc.net/4d23b4ad-3462-41cb-a6e4-13645a2cd09e/-/preview/" style="max-height:120px; object-fit:contain; display:inline-block;" /></p>
+<p style="text-align: center;"><img alt="배달하는 곰곰이" src="%EB%B0%B1%EC%A4%80/Platinum/25310.%E2%80%85%EA%B3%B0%EA%B3%B0%EC%9D%B4%EC%9D%98%E2%80%85%EC%95%84%EB%A5%B4%EB%B0%94%EC%9D%B4%ED%8A%B8/d993b3bb.png" data-original-src="https://upload.acmicpc.net/4d23b4ad-3462-41cb-a6e4-13645a2cd09e/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="max-height:120px; object-fit:contain; display:inline-block;" /></p>
 
 <p>심부름을 잘하는 곰곰이는 최근 배달 아르바이트를 할 기회를 얻었다.</p>
 

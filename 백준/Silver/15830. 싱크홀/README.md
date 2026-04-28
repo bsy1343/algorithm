@@ -18,7 +18,7 @@
 
 <p>남제관의 중앙에 싱크홀이 발생했다. 진원이와 광빈이는 구멍의 깊이가 궁금해 중앙에 모였다. 진원이는 돌을 떨어뜨려 바닥에 닿기까지의 시간을 측정해 구멍의 깊이를 계산하고자 했다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15829/1.png" style="width: 284px; height: 228px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/15830.%E2%80%85%EC%8B%B1%ED%81%AC%ED%99%80/454af286.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15829/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 284px; height: 228px;" /></p>
 
 <p style="text-align: center;">그림1. 진지한 실험을 하고있는 진원이와 광빈이의 모습이다.</p>
 
@@ -45,7 +45,7 @@
 	<li>충돌시에 수평속력은 80%만이 유지되며 운동 방향은 반대가 된다. (과학적 인지는 모르겠당)</li>
 </ol>
 
-<p style="text-align: center;"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15829/2.png" style="width: 275px; height: 277px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/15830.%E2%80%85%EC%8B%B1%ED%81%AC%ED%99%80/0c5ce179.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15829/2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 275px; height: 277px;" /></p>
 
 <p style="text-align: center;">그림3. 돌이 벽에 충돌하는 순간의 예시. 돌의 충돌전 수평 속도가 100이었다면 충돌 후에는 80으로 감소한다. 수평운동의 방향은 정반대가 된다.</p>
 

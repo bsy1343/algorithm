@@ -20,7 +20,7 @@
 	아시아-태평양 지역의 자랑거리로 새로 지어진 원형동물원이 있다. 태평양의 작은 섬에 있는 이 동물원은 다음 그림과 같이 동물우리들이 큰 원형의 형태를 이루고 있으며, 이들 각 우리 안에는 고유의 동물 한 마리가 있다.</p>
 
 <p>
-	<img alt="" src="/upload/images/zoo.png" style="width: 307px; height: 268px;" /></p>
+	<img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/4017.%E2%80%85%EB%8F%99%EB%AC%BC%EC%9B%90/c1dacc7b.png" data-original-src="https://www.acmicpc.net/upload/images/zoo.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 307px; height: 268px;" /></p>
 
 <p>
 	동물들을 관람하는 아이들에 대하여 가능하면 많은 아이들이 관람을 즐겁게 하도록 하는 일이 주어져 있다. 동물원을 관람하러 온 아이들을 즐겁게 하는 것은 쉬운 일이 아니다 - 어떤 아이들이 좋아하는 동물도 있고, 어떤 아이들이 무서워하는 동물도 있다.</p>
@@ -43,7 +43,7 @@
 	예를 들어, 어린이들이 좋아하는 동물들의 목록과 무서워하는 동물들의 목록이 아래와 같이 주어져 있다고 하자.</p>
 
 <p>
-	<img alt="" src="/upload/images/zoo2.png" style="width: 392px; height: 283px;" /></p>
+	<img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/4017.%E2%80%85%EB%8F%99%EB%AC%BC%EC%9B%90/6f2b16dc.png" data-original-src="https://www.acmicpc.net/upload/images/zoo2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 392px; height: 283px;" /></p>
 
 <table class="table table-bordered" style="width:60%;">
 	<thead>

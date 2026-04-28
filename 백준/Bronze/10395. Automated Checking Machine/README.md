@@ -22,7 +22,7 @@
 
 <p>The figure below shows examples of two connectors that are compatible and two connectors that are not compatible.</p>
 
-<p style="text-align: center;"><img alt="" src="/upload/images2/acm.png" style="height:145px; width:519px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/10395.%E2%80%85Automated%E2%80%85Checking%E2%80%85Machine/41afdeb4.png" data-original-src="https://www.acmicpc.net/upload/images2/acm.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:145px; width:519px" /></p>
 
 <p>ICPC is introducing a state-of-the-art Automated Checking Machine (ACM), with an optical checker, which will verify whether the two connectors packaged for a customer are indeed compatible. The complex and expensive hardware of the ACM is ready, but they need your help to finish the software.</p>
 

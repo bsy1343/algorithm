@@ -30,7 +30,7 @@
 
 <p>아래는 위 규칙에 따라 초콜릿 장식을 완성한 예시이다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/c4b18781-c950-4069-991b-e09a1829fdc3/-/preview/" style="height: 272px; width: 360px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/28261.%E2%80%85%ED%99%94%EC%9D%B4%ED%8A%B8%2C%E2%80%85%EB%8B%A4%ED%81%AC%2C%E2%80%85%EB%AF%BC%ED%8A%B8%E2%80%85%EC%B4%88%EC%BD%9C%EB%A6%BF/03003f1f.png" data-original-src="https://upload.acmicpc.net/c4b18781-c950-4069-991b-e09a1829fdc3/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 272px; width: 360px;" /></p>
 
 <p>맨 아랫줄의 디자인을 아직 결정하지 못한 코코는 초콜릿을 하나씩 바꿔가면서 고민하고 있다. 코코가 초콜릿을 하나 바꿀 때마다 맨 위에 올 초콜릿이 무엇인지 알려주자.</p>
 

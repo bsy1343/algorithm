@@ -24,7 +24,7 @@
 
 <p>아래 그림을 살펴보자. 각 칸은 박스에 들어있는 사탕의 개수를 나타낸다. 각각의 단계에서 참가자가 고른 박스는 동그라미로 표시되어 있고, 회색으로 칠해진 박스는 참가자의 선택 때문에 사탕이 사라질 박스이다. 총 여덟 단계가 지나면 게임은 끝나게 되고, 상근이는 총 10+9+8+3+7+6+10+1 = 54개의 사탕을 가져가게 된다.</p>
 
-<p><img alt="" src="/upload/images/candy.png" style="height:322px; width:633px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/5721.%E2%80%85%EC%82%AC%ED%83%95%E2%80%85%EC%A4%8D%EA%B8%B0%E2%80%85%EB%8C%80%ED%9A%8C/a77422e9.png" data-original-src="https://www.acmicpc.net/upload/images/candy.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:322px; width:633px" /></p>
 
 <p>M과 N이 주어졌을 때, 상근이가 이 대회에서 가져갈 수 있는 사탕의 최대 개수를 구하는 프로그램을 작성하시오.&nbsp;</p>
 

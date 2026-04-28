@@ -45,4 +45,4 @@
 
 <p>Wyjaśnienie do przykładu: Poziom wody na wszystkich polach może być r&oacute;wny 2 (1 możliwość) albo każde z p&oacute;l niezależnie może mieć poziom wody r&oacute;wny 0 lub 1 (2<sup>6</sup> = 64 możliwości).</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/388954cd-2238-44e7-b392-d6eea9f635a5/-/preview/" style="width: 128px; height: 187px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/26836.%E2%80%85Pow%C3%B3d%C5%BA/a78984e7.png" data-original-src="https://upload.acmicpc.net/388954cd-2238-44e7-b392-d6eea9f635a5/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 128px; height: 187px;" /></p>

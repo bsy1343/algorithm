@@ -32,7 +32,7 @@
 
 <p>별은 처음에 오른쪽을 바라보고 있으며, 별이 격자 밖으로 나가지 않고 위 과정이 무한히 반복된다면 별을 성공적으로 가둔 것이다. 하지만 중간에 별이 격자 밖으로 나가게 된다면 별을 가두는 데에 실패한 것이다.</p>
 
-<p><img alt="" src="https://u.acmicpc.net/67d94b9e-554e-4182-bb63-82a11b1541b0/example.png" style="height: 100%; width: 100%;" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/30679.%E2%80%85%EB%B3%84%E2%80%85%EA%B0%80%EB%91%90%EA%B8%B0/6629cac6.png" data-original-src="https://u.acmicpc.net/67d94b9e-554e-4182-bb63-82a11b1541b0/example.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 100%; width: 100%;" /></p>
 
 <p>스타는 처음에 별을 어느 칸에 올려놔야 별을 가둘 수 있는지 궁금해졌다. 스타를 위해 별을 가둘 수 있는 칸을 알아 내보자.</p>
 

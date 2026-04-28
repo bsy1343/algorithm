@@ -20,7 +20,7 @@
 
 <p>Cada uma das faces do Cubo de Rubik &eacute; denotada por uma letra: F, B, U, D, L, e R, como ilustrado na figura abaixo.</p>
 
-<p><img alt="" src="https://onlinejudgeimages.s3.amazonaws.com/problem/13645/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202017-01-05%20%EC%98%A4%ED%9B%84%209.38.48.png" style="height:207px; width:219px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/13645.%E2%80%85Ciclo%E2%80%85de%E2%80%85Rubik/8095994b.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/13645/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202017-01-05%20%EC%98%A4%ED%9B%84%209.38.48.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:207px; width:219px" /></p>
 
 <p>A rota&ccedil;&atilde;o de uma face &eacute; denominada de um movimento. Para descrever os movimentos utilizamos as letras identificadoras das faces:</p>
 

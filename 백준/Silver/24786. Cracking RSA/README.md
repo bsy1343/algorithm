@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<figure style="float: right;"><img alt="" src="https://upload.acmicpc.net/3b16c0d0-bf39-4fe4-bdd9-c935f243c4e0/-/preview/" style="width: 200px; height: 100px;" />
+<figure style="float: right;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/24786.%E2%80%85Cracking%E2%80%85RSA/4e1b076f.png" data-original-src="https://upload.acmicpc.net/3b16c0d0-bf39-4fe4-bdd9-c935f243c4e0/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 200px; height: 100px;" />
 <figcaption>Image by Sean MacEntee (<a href="https://flic.kr/p/qi1eYu">Flickr</a>) [<a href="http://creativecommons.org/licenses/by/2.0">CC BY 2.0</a>]</figcaption>
 </figure>
 

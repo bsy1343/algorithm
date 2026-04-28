@@ -36,7 +36,7 @@
 
 
 
-<p><img alt="" src="/upload/images/extriangle.png" style="height:465px; width:492px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/2773.%E2%80%85%EB%B0%94%EA%B9%A5%E2%80%85%EC%82%BC%EA%B0%81%ED%98%95%EC%9D%98%E2%80%85%EC%A4%91%EC%8B%AC/a423df9d.png" data-original-src="https://www.acmicpc.net/upload/images/extriangle.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:465px; width:492px" /></p>
 
 ### 입력
 

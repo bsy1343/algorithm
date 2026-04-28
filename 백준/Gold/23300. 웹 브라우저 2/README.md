@@ -94,4 +94,4 @@
 
 <p>파란색 도형 안에&nbsp;숫자는 페이지의 번호를 나타내고 있다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/b285016c-bbbf-45e7-92c2-b95645ba5694/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/23300.%E2%80%85%EC%9B%B9%E2%80%85%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%E2%80%852/a2631d0b.png" data-original-src="https://upload.acmicpc.net/b285016c-bbbf-45e7-92c2-b95645ba5694/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>

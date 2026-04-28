@@ -18,7 +18,7 @@
 
 <p>Jeehak Yoon is a member of United Committee of Puzzle Creation. Recently, he has made a puzzle to light all the bulbs on the board. The puzzle looks like the following:</p>
 
-<p style="text-align: center;"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/10877/bulb1.png" style="height:218px; width:313px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/10877.%E2%80%85Bulb/99341e6a.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/10877/bulb1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:218px; width:313px" /></p>
 
 <p>The board consists of N rows and M columns of cells. Each cell contains either a bulb, a wire or nothing. There are exactly two bulbs, and each bulb can be connected with an adjacent cell. There are two types of wires in this puzzle: q-type and l-type. A q-type wire connects two cells that share a vertex, and a l-type wire connects two cells that are opposite to each other.</p>
 
@@ -26,7 +26,7 @@
 
 <p>The figure below shows an example of a valid solution.</p>
 
-<p style="text-align: center;"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/10877/bulb2.png" style="height:218px; width:313px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/10877.%E2%80%85Bulb/d7104eed.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/10877/bulb2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:218px; width:313px" /></p>
 
 <p>Jeehak provided this idea to UCPC and got the test version of this puzzle. He tried to solve the puzzle, but he couldn&rsquo;t solve it because the size of puzzle was quite large for him. Why don&rsquo;t you help Jeehak to solve the puzzle?</p>
 

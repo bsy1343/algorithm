@@ -24,7 +24,7 @@
 
 <p>도시 A와 C를 횡단도로로 연결하면 도시 B와 D 사이의 최단경로 (B&harr;A&harr;E&harr;D)의 길이가 &radic;5 + &radic;8 + &radic;10로 가장 길게 된다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/8b7edfc4-9c21-453b-8439-16900079dd48/-/preview/" style="width: 245px; height: 320px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/2497.%E2%80%85%ED%9A%A1%EB%8B%A8%EB%8F%84%EB%A1%9C/0b83e168.png" data-original-src="https://upload.acmicpc.net/8b7edfc4-9c21-453b-8439-16900079dd48/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 245px; height: 320px;" /></p>
 
 <p>또한 &nbsp;도시 A와 D를 횡단도로로 연결하면 도시 A와 C 사이의 최단경로 (A&harr;D&harr;C)의 길이가&radic;26 + &radic;8로 가장 길게 된다.</p>
 

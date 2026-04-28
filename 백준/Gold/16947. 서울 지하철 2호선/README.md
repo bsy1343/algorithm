@@ -18,7 +18,7 @@
 
 <p>서울 지하철 2호선은 다음과 같이 생겼다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://u.acmicpc.net/c7f4e70a-f1d0-4f11-8eb1-91a3baedc002/2.png" style="width: 500px; height: 563px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/16947.%E2%80%85%EC%84%9C%EC%9A%B8%E2%80%85%EC%A7%80%ED%95%98%EC%B2%A0%E2%80%852%ED%98%B8%EC%84%A0/5bf7a8b9.png" data-original-src="https://u.acmicpc.net/c7f4e70a-f1d0-4f11-8eb1-91a3baedc002/2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 500px; height: 563px;" /></p>
 
 <p>지하철 2호선에는 51개의 역이 있고, 역과 역 사이를 연결하는 구간이 51개 있다. 즉, 정점이 51개이고, 양방향 간선이 51개인 그래프로 나타낼 수 있다. 2호선은 순환선 1개와 2개의 지선으로 이루어져 있다. 한 역에서 출발해서 계속 가면 다시 출발한 역으로 돌아올 수 있는 노선을 순환선이라고 한다. 지선은 순환선에 속하는 한 역에서 시작하는 트리 형태의 노선이다.</p>
 

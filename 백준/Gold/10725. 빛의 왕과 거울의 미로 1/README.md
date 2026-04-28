@@ -29,7 +29,7 @@
 
 <p>예를 들어 \(2 * 3\)크기의 직사각형 판의 테두리는 아래와 같이 번호 붙여지는 것이다.</p>
 
-<p style="text-align:center"><img alt="" src="/upload/codershigh2015/%EB%B2%88%ED%98%B8.png" style="height:176px; line-height:20.7999992370605px; width:224px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/10725.%E2%80%85%EB%B9%9B%EC%9D%98%E2%80%85%EC%99%95%EA%B3%BC%E2%80%85%EA%B1%B0%EC%9A%B8%EC%9D%98%E2%80%85%EB%AF%B8%EB%A1%9C%E2%80%851/4ca29644.png" data-original-src="https://www.acmicpc.net/upload/codershigh2015/%EB%B2%88%ED%98%B8.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:176px; line-height:20.7999992370605px; width:224px" /></p>
 
 <p>어린 빛의 왕은 요즘&nbsp;\(x\)에 레이저를 쏘면 \(y\)로 레이저가 나오는 장난감에 큰 관심을 가지고 있다. 또한 어린 빛의 왕은 특별한 배치의 장난감을 원하기 때문에 그가 원하는&nbsp;거울의 배치가 길이가&nbsp;\(M\)인 문자열 \(N\)개로 주어진다. 각 문자의 구성은 아래와 같다.</p>
 
@@ -60,6 +60,6 @@
 
 ### 힌트
 
-<p><img alt="" src="/upload/codershigh2015/%EA%B2%BD%EC%9A%B0.png" style="height:147px; width:699px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/10725.%E2%80%85%EB%B9%9B%EC%9D%98%E2%80%85%EC%99%95%EA%B3%BC%E2%80%85%EA%B1%B0%EC%9A%B8%EC%9D%98%E2%80%85%EB%AF%B8%EB%A1%9C%E2%80%851/635dd12b.png" data-original-src="https://www.acmicpc.net/upload/codershigh2015/%EA%B2%BD%EC%9A%B0.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:147px; width:699px" /></p>
 
 <p>위의 6가지 이다.</p>

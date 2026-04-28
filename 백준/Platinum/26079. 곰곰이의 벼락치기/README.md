@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><img alt="곰곰: 파스스" src="https://upload.acmicpc.net/6bcb40c8-2b48-4182-8a4d-c92a3e1c935c/-/preview/" style="max-height: 120px; object-fit:contain; display:inline-block;" /></p>
+<p style="text-align: center;"><img alt="곰곰: 파스스" src="%EB%B0%B1%EC%A4%80/Platinum/26079.%E2%80%85%EA%B3%B0%EA%B3%B0%EC%9D%B4%EC%9D%98%E2%80%85%EB%B2%BC%EB%9D%BD%EC%B9%98%EA%B8%B0/3209e9ae.png" data-original-src="https://upload.acmicpc.net/6bcb40c8-2b48-4182-8a4d-c92a3e1c935c/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="max-height: 120px; object-fit:contain; display:inline-block;" /></p>
 
 <p>기말고사가 다가오는 곰곰이는 밀린 강의 $N$개를 봐야 한다. 강의는 $1$번부터 $N$번까지 차례대로 번호가 붙어 있으며, 모든 강의에 대해서 해당 강의를 보기 전에 먼저 봐야 하는 강의가 <strong>최대 하나</strong> 존재한다. 곰곰이는 이러한 강의 간의 관계를 $a \rightarrow b$로 나타냈으며, 이는 강의 $b$를 보려면 강의 $a$를 먼저 봐야 한다는 의미이다. 이러한 강의 간의 관계가 사이클을 이루는 경우는 존재하지 않는다. 강의 간의 관계에 따라서 모든 강의를 보는 순서는 다양할 수 있다. 모든 강의를 보는 순서의 가짓수가 몇 가지인지 구해주자. 답이 커질 수 있으니 $10^9+7$로 나눈 나머지를 출력한다.</p>
 

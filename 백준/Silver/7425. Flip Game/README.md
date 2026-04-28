@@ -23,7 +23,7 @@
 	<li>Flip the chosen piece and also all adjacent pieces to the left, to the right, to the top, and to the bottom of the chosen piece (if there are any).</li>
 </ol>
 
-<p><img alt="" src="https://upload.acmicpc.net/e98541f7-ba5e-4d6c-9fd1-55b2b2f1b66e/-/preview/" style="width: 227px; height: 203px; float: right;" />Consider the following position as an example:</p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/7425.%E2%80%85Flip%E2%80%85Game/9d7d88ee.png" data-original-src="https://upload.acmicpc.net/e98541f7-ba5e-4d6c-9fd1-55b2b2f1b66e/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 227px; height: 203px; float: right;" />Consider the following position as an example:</p>
 
 <pre>
 bwbw

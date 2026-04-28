@@ -18,7 +18,7 @@
 
 <p>We are given a figure consisting of only horizontal and vertical line segments. Our goal is to count the number of all different rectangles formed by these segments. As an example, the number of rectangles in the Figures 1 and 2 are 5 and 0 respectively.</p>
 
-<p><img alt="" src="https://onlinejudgeimages.s3.amazonaws.com/problem/7338/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-09-22%20%EC%98%A4%EC%A0%84%2010.35.21.png" style="height:207px; width:480px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/7338.%E2%80%85Counting%E2%80%85Rectangles/1a692380.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/7338/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-09-22%20%EC%98%A4%EC%A0%84%2010.35.21.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:207px; width:480px" /></p>
 
 <p>There are many intersection points in the figure. An intersection point is a point shared by at least two segments. The input line segments are such that each intersection point comes from the intersection of exactly one horizontal segment and one vertical segment.</p>
 

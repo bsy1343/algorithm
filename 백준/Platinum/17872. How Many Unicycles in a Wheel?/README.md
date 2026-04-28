@@ -18,11 +18,11 @@
 
 <p>A Wheel Graph of size n is a cycle of n vertices each of which is connected to a center vertex. Examples of wheel graphs of size 4,5,6 and 8 are shown below:</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/2af40d26-8cc9-4c54-9676-0b8cc7aa4aef/-/preview/" style="width: 446px; height: 139px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/17872.%E2%80%85How%E2%80%85Many%E2%80%85Unicycles%E2%80%85in%E2%80%85a%E2%80%85Wheel%3F/f3790087.png" data-original-src="https://upload.acmicpc.net/2af40d26-8cc9-4c54-9676-0b8cc7aa4aef/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 446px; height: 139px;" /></p>
 
 <p>A spanning unicycle in a graph, G, is a spanning tree in G with one additional edge added to form a single cycle. Each of the examples below is a spanning unicycle in a wheel graph of size 5:</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/86959321-5825-45da-a8b8-70e7a6c25dbc/-/preview/" style="width: 539px; height: 118px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/17872.%E2%80%85How%E2%80%85Many%E2%80%85Unicycles%E2%80%85in%E2%80%85a%E2%80%85Wheel%3F/9d624687.png" data-original-src="https://upload.acmicpc.net/86959321-5825-45da-a8b8-70e7a6c25dbc/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 539px; height: 118px;" /></p>
 
 <p>Write a program to compute the number of different unicycles in a wheel graph of size n. Recall that two subgraphs, S1 and S2, of a graph G are different if there is at least one edge of G that is in S1 and not in S2 OR an edge in S2 which is not in S1.</p>
 

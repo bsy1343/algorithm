@@ -36,7 +36,7 @@
 
 <p>Double ring의 바깥에 다트를 맞춘 경우 점수는 0점이다. 모든 부채꼴의 넓이는 같다.</p>
 
-<p><img alt="" src="/upload/images/dartboard.png" style="height:181px; width:250px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/9246.%E2%80%85%EB%8B%A4%ED%8A%B8%ED%8C%90/3cc323ac.png" data-original-src="https://www.acmicpc.net/upload/images/dartboard.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:181px; width:250px" /></p>
 
 <p>출처: 위키미디어 (CC BY-SA 3.0 licensed by Tijmen Stam)</p>
 

@@ -28,7 +28,7 @@
 
 <p>The shortest path between Abby and Alberto has two steps (Abby &rarr; Zoey, and Zoey &rarr; Alberto), so we say the degree of separation is 2. Additionally, Alberto would be a friend of a friend of Abby</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/185c3872-cc4a-4855-b053-0b9e16a6ffdf/-/preview/" style="width: 570px; height: 469px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/6814.%E2%80%85Degrees%E2%80%85of%E2%80%85Separation/be713a36.png" data-original-src="https://upload.acmicpc.net/185c3872-cc4a-4855-b053-0b9e16a6ffdf/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 570px; height: 469px;" /></p>
 
 <p>You can assume an initial configuration of who is friends with who as outlined in the diagram above. You will need to store these relationships in your program. These relationships can change though, and your program needs to handle these changes. In particular, friendships can begin, possibly with new people. Friendships can end. You should be able to find friends of friends and determine the degree of separation between two people.</p>
 

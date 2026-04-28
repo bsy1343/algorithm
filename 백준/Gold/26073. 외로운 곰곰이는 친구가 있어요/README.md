@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/4f41643e-fc1b-40fc-a6f1-78ab98050b62/-/preview/" style="max-height: 360px; object-fit:contain; display:inline-block;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/26073.%E2%80%85%EC%99%B8%EB%A1%9C%EC%9A%B4%E2%80%85%EA%B3%B0%EA%B3%B0%EC%9D%B4%EB%8A%94%E2%80%85%EC%B9%9C%EA%B5%AC%EA%B0%80%E2%80%85%EC%9E%88%EC%96%B4%EC%9A%94/2b551239.png" data-original-src="https://upload.acmicpc.net/4f41643e-fc1b-40fc-a6f1-78ab98050b62/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="max-height: 360px; object-fit:contain; display:inline-block;" /></p>
 
 <p>곰곰이가 오늘 생일이래요.</p>
 
@@ -48,7 +48,7 @@
 
 ### 출력
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/b6e82302-f167-49ac-a2dd-ca6e8d9aebfa/-/preview/" style="max-height: 360px; object-fit:contain; display:inline-block;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/26073.%E2%80%85%EC%99%B8%EB%A1%9C%EC%9A%B4%E2%80%85%EA%B3%B0%EA%B3%B0%EC%9D%B4%EB%8A%94%E2%80%85%EC%B9%9C%EA%B5%AC%EA%B0%80%E2%80%85%EC%9E%88%EC%96%B4%EC%9A%94/e1f4d552.png" data-original-src="https://upload.acmicpc.net/b6e82302-f167-49ac-a2dd-ca6e8d9aebfa/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="max-height: 360px; object-fit:contain; display:inline-block;" /></p>
 
 <p>총 $N$개의 줄을 출력해야 합니다.</p>
 

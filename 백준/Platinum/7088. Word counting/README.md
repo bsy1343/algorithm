@@ -36,4 +36,4 @@
 
 <p>The four appearances can be extracted from the following parts of the paths: (0-7-6), (0-7-8), (0-7-2-5), (2-4)</p>
 
-<p style="text-align: center;"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/7088/1.gif" style="height:441px; width:453px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/7088.%E2%80%85Word%E2%80%85counting/23597c68.gif" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/7088/1.gif" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:441px; width:453px" /></p>

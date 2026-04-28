@@ -18,7 +18,7 @@
 
 <p>Koto市は，下図のように，道路が碁盤の目状である有名な街である． 南北に伸びる道と東西に伸びる道は，それぞれ1kmの間隔で並んでいる． Koto市の最も南西の交差点にあるKoto駅を (0, 0) として，そこから東に&nbsp;<var>x</var>&nbsp;km，北に&nbsp;<var>y</var>&nbsp;km 進んだ位置を (<var>x</var>,&nbsp;<var>y</var>) と記すこととする (0 &le;&nbsp;<var>x</var>,&nbsp;<var>y</var>&nbsp;である)．</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/16549930-761e-42c3-8d71-57a149674c20/-/preview/" style="width: 400px; height: 431px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/22421.%E2%80%85Koto%E2%80%85Municipal%E2%80%85Subway/a24579de.png" data-original-src="https://upload.acmicpc.net/16549930-761e-42c3-8d71-57a149674c20/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 400px; height: 431px;" /></p>
 
 <p>5年後に開かれるオリンピックにより観光客が増大することを見越して，市はKoto駅を始発駅とする新しい地下鉄の路線を建設することを決めた． 現在，Koto駅の次の駅として新しく建設されるShin-Koto駅までのレールを敷く計画を立てている． レールは，Koto駅からShin-Koto駅に向かってまっすぐ敷く． 従って，Shin-Koto駅の場所を (<var>x</var>,&nbsp;<var>y</var>) としたとき，レールの長さは， &radic;(<var>x</var><sup>2</sup>&nbsp;+&nbsp;<var>y</var><sup>2</sup>) である． レールを敷くための費用は，敷いたレールの長さ分だけ必要になる． レールの長さが1.5kmのように小数であっても，費用も同じように1.5必要となる．</p>
 
@@ -50,7 +50,7 @@
 
 <p>1つ目のデータセットでは，下図のように，Koto駅から道路に沿って2km進んだ交差点がShin-Koto駅を建設する場所の候補となる．</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/fb599981-022e-4c70-856a-474b3e446af2/-/preview/" style="width: 450px; height: 146px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/22421.%E2%80%85Koto%E2%80%85Municipal%E2%80%85Subway/2fb2532e.png" data-original-src="https://upload.acmicpc.net/fb599981-022e-4c70-856a-474b3e446af2/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 450px; height: 146px;" /></p>
 
 <p>各交差点にShin-Koto駅を建設した場合の，レールを敷くための費用と予算1とのずれは次のようになる．</p>
 

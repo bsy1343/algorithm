@@ -20,13 +20,13 @@
 
 <p>JOI 旗は，正方形が縦に M 行，横に N 列並んだ形をしており，各正方形には J，O，I のいずれかの文字が 1 つずつ書かれている．</p>
 
-<p style="text-align:center"><img alt="" src="/upload/images3/joi1.png" style="height:181px; width:289px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/10045.%E2%80%85JOI%E2%80%85%E7%B4%8B%E7%AB%A0%E2%80%85(JOI%E2%80%85Emblem)/c6bebdee.png" data-original-src="https://www.acmicpc.net/upload/images3/joi1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:181px; width:289px" /></p>
 
 <p style="text-align:center">JOI 旗の例</p>
 
 <p>情報オリンピック日本委員会は JOI 旗とは別に JOI 紋章というものを決めている．JOI 紋章は，正方形が縦に 2 行，横に 2 列並んだ形をしており，各正方形には J，O，I のいずれかの文字が 1 つずつ書かれている．</p>
 
-<p style="text-align:center"><img alt="" src="/upload/images3/joi2.png" style="height:128px; width:124px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/10045.%E2%80%85JOI%E2%80%85%E7%B4%8B%E7%AB%A0%E2%80%85(JOI%E2%80%85Emblem)/be4b821b.png" data-original-src="https://www.acmicpc.net/upload/images3/joi2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:128px; width:124px" /></p>
 
 <p style="text-align:center">JOI 紋章の例</p>
 

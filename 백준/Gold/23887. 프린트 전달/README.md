@@ -28,7 +28,7 @@
 
 <p>하지만 이 방법으로는 각 학생이 받는 프린트의 수에 따라 프린트를 받지 못하는 학생이 생기거나 프린트가 남을 수 있다. 모든 학생이 프린트를 받을 수 있도록&nbsp;각 학생이 받아야 하는 프린트의 수를 구해 학생들에게 미리 알려주자.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/8875c48f-d771-47b6-a6ca-65fc67bbafd6/-/crop/770x466/256,129/-/preview/" style="height: 325px; width: 537px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/23887.%E2%80%85%ED%94%84%EB%A6%B0%ED%8A%B8%E2%80%85%EC%A0%84%EB%8B%AC/4ad3e55f.png" data-original-src="https://upload.acmicpc.net/8875c48f-d771-47b6-a6ca-65fc67bbafd6/-/crop/770x466/256,129/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 325px; width: 537px;" /></p>
 
 <p style="text-align: center;">파란색은&nbsp;각 학생이 받은 프린트의 수, 빨간색은 전달되는 프린트의 수.</p>
 
@@ -36,7 +36,7 @@
 
 <p style="text-align: center;">3번 학생이 잘못 전달해서 4번 학생은 프린트가 남고, 8번 학생은 프린트를 받지 못한다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/ae2c39da-e092-4d58-bffc-37d3d9d1bdf9/-/crop/773x469/254,126/-/preview/" style="width: 536px; height: 325px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/23887.%E2%80%85%ED%94%84%EB%A6%B0%ED%8A%B8%E2%80%85%EC%A0%84%EB%8B%AC/f5e8d7b8.png" data-original-src="https://upload.acmicpc.net/ae2c39da-e092-4d58-bffc-37d3d9d1bdf9/-/crop/773x469/254,126/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 536px; height: 325px;" /></p>
 
 <p style="text-align: center;">올바른 분배. 모든 학생이 한 장의 프린트를 가진다.</p>
 

@@ -25,19 +25,19 @@
 
 <p>In the following picture, you can admire one of his creations on a board of size 4 &times; 4.</p>
 
-<p><img alt="" src="/upload/images2/stavitel.png" style="height:144px; width:166px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/10311.%E2%80%85Stavitel/6aa0c8d2.png" data-original-src="https://www.acmicpc.net/upload/images2/stavitel.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:144px; width:166px" /></p>
 
 <p>Little Matthew always wanted to be an architect and since his childhood he was spending all his free time building architectonic masterpieces. Due to his limited resources, he built his buildings from wooden unit cubes that he put on top of each other. The columns of the cubes were always placed on a checkerboard with K &times; K unit squares. Matthew always placed the cubes so that every column covered exactly one checkerboard square.</p>
 
 <p>In the following picture, you can admire one of his creations on a board of size 4 &times; 4.</p>
 
-<p><img alt="" src="/upload/images2/stavitel2.png" style="height:145px; width:427px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/10311.%E2%80%85Stavitel/6b72d130.png" data-original-src="https://www.acmicpc.net/upload/images2/stavitel2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:145px; width:427px" /></p>
 
 <p>Matthew believed that these drawings will be enough to reconstruct the buildings later. When he grew up, he realized that he had been wrong. Most of his pairs of drawings could depict many different buildings. After some research, he found out that some buildings may be called minimal because they are composed of the minimum number L of cubes among all buildings whose pair of projections match his drawings. Similarly, he called a building maximal if it used the maximal number M of cubes among all possible buildings.</p>
 
 <p>The following are examples of a minimal and a maximal building for the above pair of drawings. They use L = 7 and M = 17 cubes. They are not as perfect as the original building, but they are still worth your attention.</p>
 
-<p><img alt="" src="/upload/images2/stavitel3.png" style="height:154px; width:373px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/10311.%E2%80%85Stavitel/6c106283.png" data-original-src="https://www.acmicpc.net/upload/images2/stavitel3.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:154px; width:373px" /></p>
 
 <p>Matthew asked you to write a program that will compute the values L and M for every pair of drawings in his collection.</p>
 

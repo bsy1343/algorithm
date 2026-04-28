@@ -22,7 +22,7 @@
 
 <p>For example, if the kingdom has six cities and the king decides to upgrade and label the 8 bolded dirt roads as follows, then Mr. Plow will then plow the roads with labels 1, 2, 3, 4 and 6 (costing a total of 16 gold pieces).</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/ca841fa7-1fc6-44cc-98ca-8cd379420422/-/preview/" style="width: 569px; height: 180px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/22287.%E2%80%85Mr.%E2%80%85Plow%E2%80%85King/bc4346a9.png" data-original-src="https://upload.acmicpc.net/ca841fa7-1fc6-44cc-98ca-8cd379420422/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 569px; height: 180px;" /></p>
 
 <p>The king has decided on the number of roads to upgrade, but he is not sure how to label them, so he has turned to Barney (the kingdom&#39;s mathematician) to help decide. However, the king is unaware that Barney is actually invested in Mr. Plow, so Barney will choose the set of roads to upgrade and how to label them so that the total cost is as large as possible. What is the maximum cost of plowing the roads?</p>
 

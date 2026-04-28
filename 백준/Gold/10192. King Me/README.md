@@ -24,7 +24,7 @@
 
 <p>For example, on the following checkerboard, the K at row 1 and column 3 can jump once down and right, but twice down and left.</p>
 
-<p><img alt="" src="https://upload.acmicpc.net/9863059e-a2ca-439d-8085-437a2dc8e8b7/-/preview/" style="width: 211px; height: 163px; float: right;" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/10192.%E2%80%85King%E2%80%85Me/78b5bbe0.png" data-original-src="https://upload.acmicpc.net/9863059e-a2ca-439d-8085-437a2dc8e8b7/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 211px; height: 163px; float: right;" /></p>
 
 <pre>
 B B

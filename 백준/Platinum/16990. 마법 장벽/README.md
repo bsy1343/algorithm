@@ -22,7 +22,7 @@
 
 <p>예를 들어 패턴이 01101인 막을 그림으로 표현하면 아래와 같다. 0, 3번째 칸은 마법 포탄이 지나갈 수 없고, 1, 2, 4번째 칸은 마법 포탄이 지나갈 수 있다. 이 패턴이 무한히 반복되어 5, 8번째 칸과 -5, -2번째 칸 등도 마법 포탄이 지나갈 수 없고, 6, 7, 9번째 칸과 -4, -3, -1번째 칸 등은 마법 포탄이 지나갈 수 있다. 포탄이 지나갈 수 없는 칸에 포탄이 도달하면 그 포탄은 그 자리에서 소멸된다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/163b911a-deec-43ec-96b0-4d6a80ebd0d8/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/16990.%E2%80%85%EB%A7%88%EB%B2%95%E2%80%85%EC%9E%A5%EB%B2%BD/fb689ca1.png" data-original-src="https://upload.acmicpc.net/163b911a-deec-43ec-96b0-4d6a80ebd0d8/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>제국은 1번째 막에서 1만큼 떨어진 곳에 마법 대포들을 설치하고 총 <em>M</em>발의 마법 포탄을 쏘았다. <em>i</em>번째 마법 포탄은 <em>P<sub>i</sub></em>의 위치에서 <em>D<sub>i</sub></em> 방향으로 쏘아지는데, 1초마다 막을 1개씩 순서대로 통과하며, 막을 하나 통과할 때마다 <em>D<sub>i</sub></em>만큼씩 옆으로 이동하게 된다. 예를 들어 어떤 마법 대포를 3의 위치에서 -2 방향으로 쏘았다면 첫 번째 막에 도달할 때는 1, 두 번째 막에 도달할 때는 -1의 위치에 가게 된다. 포탄은 매 초마다 순간이동하기 때문에, 이동하는 도중 다른 칸의 영향은 받지 않는다. 마법 포탄이 모든 막을 통과하게 되면 왕국의 성에&nbsp;피해를 입히게&nbsp;된다.</p>
 

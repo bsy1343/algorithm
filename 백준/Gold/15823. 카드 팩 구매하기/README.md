@@ -29,15 +29,15 @@
 
 <p>예를 들어서 N=10이고 M=3인 경우를 가정해보자. 각 카드의 식별 번호가 차례로 10, 9, 7, 7, 9, 8, 8, 8, 2, 1 이라고 한다면, 아래와 같은 방법들로 구매할 수도 있다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15823/1.png" style="width: 388px; height: 52px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/15823.%E2%80%85%EC%B9%B4%EB%93%9C%E2%80%85%ED%8C%A9%E2%80%85%EA%B5%AC%EB%A7%A4%ED%95%98%EA%B8%B0/f2254fe7.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15823/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 388px; height: 52px;" /></p>
 
 <p style="text-align: center;">그림1. 카드 팩을 한 장으로 구성한 경우의 예시</p>
 
-<p style="text-align: center;"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15823/2.png" style="width: 388px; height: 52px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/15823.%E2%80%85%EC%B9%B4%EB%93%9C%E2%80%85%ED%8C%A9%E2%80%85%EA%B5%AC%EB%A7%A4%ED%95%98%EA%B8%B0/025e5ce6.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15823/2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 388px; height: 52px;" /></p>
 
 <p style="text-align: center;">그림 2. 카드 팩을 두 장으로 구성한 경우의 예시</p>
 
-<p style="text-align: center;"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15823/3.png" style="width: 393px; height: 60px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/15823.%E2%80%85%EC%B9%B4%EB%93%9C%E2%80%85%ED%8C%A9%E2%80%85%EA%B5%AC%EB%A7%A4%ED%95%98%EA%B8%B0/f0071a91.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15823/3.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 393px; height: 60px;" /></p>
 
 <p style="text-align: center;">그림 3. 구매할 수 없는 경우의 예시</p>
 

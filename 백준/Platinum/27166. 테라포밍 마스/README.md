@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><img alt="테라포밍_마스_한별이" src="https://upload.acmicpc.net/79ede54a-71b4-4e20-ba5a-369757910ce4/-/preview/" style="max-height:350px; object-fit:contain; display:inline-block;" /></p>
+<p style="text-align: center;"><img alt="테라포밍_마스_한별이" src="%EB%B0%B1%EC%A4%80/Platinum/27166.%E2%80%85%ED%85%8C%EB%9D%BC%ED%8F%AC%EB%B0%8D%E2%80%85%EB%A7%88%EC%8A%A4/f5e5dee3.png" data-original-src="https://upload.acmicpc.net/79ede54a-71b4-4e20-ba5a-369757910ce4/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="max-height:350px; object-fit:contain; display:inline-block;" /></p>
 
 <p><strong>《테라포밍 마스》</strong>를 구입해주신 여러분 감사합니다. <strong>《테라포밍 마스》</strong>는 &lsquo;프로젝트 테라포밍 마스&rsquo;에 참가한 기업가가 되어, 화성을 개척하는 하는 것이 목표인 게임입니다. 산소 포화도를 높이고, 화성 표면을 물로 채우며, 기온을 올려 화성을 생명체가 살 수 있는 행성으로 만들어야 합니다. 테라포밍 마스에는 TR(Terraform Rating)이라는 지표가 존재하는데 이는 얼마나 테라포밍에 기여했는지를 나타냅니다. 산소 포화도, 해수량, 그리고 기온 중 하나의 지표를 상승시키면 해당 플레이어의 TR이 오르며, 최종적으로 TR이 가장 높은 플레이어가 승리하게 됩니다.</p>
 

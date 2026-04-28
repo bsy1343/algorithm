@@ -24,7 +24,7 @@
 
 <p><span style="font-family:Arial,&quot;Helvetica Neue&quot;,Helvetica,Tahoma,sans-serif">디자이너 : 네? 이건 제가 담당하는 부분이 아닙니다! 전원을 공급해야 하는 사람은 당신입니다. 그리고 절대 회로를 건드리지 마세요! 접점에 전원만 연결하면 됩니다. 제 매니저에게 제 완벽한 작업을 보고해야겠군요. 그럼 이만.</span></p>
 
-<p><img alt="LED의 구조 : Anode(어노드)와 Cathode(캐소드)" src="https://onlinejudgeimages.s3.amazonaws.com/problem/9677/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-09-13%20%EC%98%A4%ED%9B%84%204.05.20.png" style="font-family:Arial,&quot;Helvetica Neue&quot;,Helvetica,Tahoma,sans-serif; height:90px; width:200px" title="LED의 구조 : Anode(어노드)와 Cathode(캐소드)" /></p>
+<p><img alt="LED의 구조 : Anode(어노드)와 Cathode(캐소드)" src="%EB%B0%B1%EC%A4%80/Platinum/9677.%E2%80%85LED%EC%97%90%E2%80%85%EC%A0%84%EC%9B%90%E2%80%85%EA%B0%99%EC%9D%80%E2%80%85%EA%B1%B8%E2%80%85%EB%81%BC%EC%96%B9%EA%B8%B0/c4b82e39.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/9677/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-09-13%20%EC%98%A4%ED%9B%84%204.05.20.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="font-family:Arial,&quot;Helvetica Neue&quot;,Helvetica,Tahoma,sans-serif; height:90px; width:200px" title="LED의 구조 : Anode(어노드)와 Cathode(캐소드)" /></p>
 
 <p>LED의 구조 : Anode(어노드)와 Cathode(캐소드)</p>
 

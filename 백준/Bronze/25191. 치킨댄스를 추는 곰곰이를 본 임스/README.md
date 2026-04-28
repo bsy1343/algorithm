@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><img alt="치킨댄스 곰곰이" src="https://upload.acmicpc.net/d23d74f0-5b19-4c90-8b90-d537c5e05b39/-/preview/" style="max-height:120px; object-fit:contain; display:inline-block;" /></p>
+<p style="text-align: center;"><img alt="치킨댄스 곰곰이" src="%EB%B0%B1%EC%A4%80/Bronze/25191.%E2%80%85%EC%B9%98%ED%82%A8%EB%8C%84%EC%8A%A4%EB%A5%BC%E2%80%85%EC%B6%94%EB%8A%94%E2%80%85%EA%B3%B0%EA%B3%B0%EC%9D%B4%EB%A5%BC%E2%80%85%EB%B3%B8%E2%80%85%EC%9E%84%EC%8A%A4/3c662d14.png" data-original-src="https://upload.acmicpc.net/d23d74f0-5b19-4c90-8b90-d537c5e05b39/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="max-height:120px; object-fit:contain; display:inline-block;" /></p>
 
 <p>치킨 댄스를 추고 있는 곰곰이를 본 임스는 치킨을&nbsp;먹고 싶어졌다. 임스는 치킨 $1$마리를 먹을 때 반드시 집에 있는 콜라 $2$개나 맥주 $1$개와&nbsp;같이 먹어야 한다.</p>
 

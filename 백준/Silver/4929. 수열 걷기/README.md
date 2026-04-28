@@ -18,7 +18,7 @@
 
 <p>길이가 유한하고, 오름차순 순서로 되어있는 두 수열이 주어진다. 두 수열에 공통으로 들어있는 원소는 교차점으로 생각할 수 있다.</p>
 
-<p><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/upload/images/twoseq.png" style="width: 153px; height: 354px; float: right;" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/4929.%E2%80%85%EC%88%98%EC%97%B4%E2%80%85%EA%B1%B7%EA%B8%B0/001c0952.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/upload/images/twoseq.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 153px; height: 354px; float: right;" /></p>
 
 <p>아래는 두 수열과 교차점은 굵게 나타낸 것이다.</p>
 

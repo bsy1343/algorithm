@@ -20,7 +20,7 @@
 
 <p>In order to perform a jump, the piece jumped must be immediately adjacent (diagonally) to the piece jumping, and the square on the other side of the jumped piece must be vacant.</p>
 
-<p style="text-align:center"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11647/1.png" style="height:392px; width:390px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/11647.%E2%80%85Checkers/f93cb448.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11647/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:392px; width:390px" /></p>
 
 <p>In this problem, it is Black&#39;s turn to move. Given a position of checkers, you must determine if it is possible for a Black King to jump all of White&#39;s Kings in a single move, and if so, how many Black Kings are able to do so.</p>
 

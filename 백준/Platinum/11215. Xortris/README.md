@@ -20,7 +20,7 @@
 
 <p>Unfortunately, the testing team has been complaining about some levels being impossible to solve. You know that testers are skilled enough to place a piece in any position and rotation needed, so the problem may be somewhere else. Your next debugging step is to write a program that checks whether a level is solvable.</p>
 
-<p style="text-align:center"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11215/1.png" style="height:107px; width:320px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/11215.%E2%80%85Xortris/d3e4b9f8.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11215/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:107px; width:320px" /></p>
 
 <p style="text-align:center">Figure D.1: All tetrominoes. <a href="https://commons.wikimedia.org/wiki/File:Tetrominoes_IJLO_STZ_Worlds.svg">From Wikimedia</a>.</p>
 

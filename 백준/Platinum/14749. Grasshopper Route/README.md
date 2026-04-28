@@ -22,7 +22,7 @@
 
 <p>In the tree shown in Figure D.1 below, for example, there is a grasshopper route 〈7,6,5,4,1,2,3,8,9,11,12,10 〉 for s = 7 and t = 10. The grasshopper can jump from vertex 5 to vertex 4 because the distance between the two is at most 3; however, it cannot jump from vertex 5 to vertex 3. As you guessed, there may exist more than one grasshopper routes.</p>
 
-<p style="text-align: center;"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14749/1.png" style="height:168px; width:339px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/14749.%E2%80%85Grasshopper%E2%80%85Route/25cf71eb.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14749/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:168px; width:339px" /></p>
 
 <p style="text-align: center;">Figure D.1: A grasshopper route from s to t, where s = 7 and t = 10.</p>
 

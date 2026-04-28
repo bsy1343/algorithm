@@ -22,7 +22,7 @@
 
 <p>Given a description of the running paths in <em>P</em>, compute the maximum number of students that can run in gym class simultaneously</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/e36bed23-4d37-4d61-8983-6aaa7d69d9b8/-/preview/" style="width: 512px; height: 256px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/17592.%E2%80%85Running%E2%80%85Routes/bf68d152.png" data-original-src="https://upload.acmicpc.net/e36bed23-4d37-4d61-8983-6aaa7d69d9b8/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 512px; height: 256px;" /></p>
 
 <p style="text-align: center;">Figure H.1: Illustrations of the two sample inputs, with possible solutions highlighted in thick red lines. Solid black lines represent running paths that are not assigned to a student, and dashed black lines are used to show the boundary of <em>P</em> in places where no running path exists.</p>
 

@@ -24,7 +24,7 @@
 
 <p>In the picture below the three line segments A, B and C cause three lighted areas, as indicated.</p>
 
-<p><img alt="" src="https://onlinejudgeimages.s3.amazonaws.com/problem/9121/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-06-13%20%EC%98%A4%ED%9B%84%206.08.48.png" style="height:176px; width:469px" /><img alt="" src="https://onlinejudgeimages.s3.amazonaws.com/problem/9121/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-06-13%20%EC%98%A4%ED%9B%84%206.08.48.png" style="height:176px; width:469px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/9121.%E2%80%85Lucky%E2%80%85Light/f15d1e38.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/9121/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-06-13%20%EC%98%A4%ED%9B%84%206.08.48.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:176px; width:469px" /><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/9121.%E2%80%85Lucky%E2%80%85Light/f15d1e38.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/9121/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-06-13%20%EC%98%A4%ED%9B%84%206.08.48.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:176px; width:469px" /></p>
 
 ### 입력
 

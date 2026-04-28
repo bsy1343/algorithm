@@ -18,7 +18,7 @@
 
 <p>Zaigrajmo igru Križić-kružić. Za one koji ne znaju &scaron;to je to, slijedi kratko predstavljanje pravila. Igru igraju dva igrača koji, svaki svojim znakom, popunjavaju tablicu koja u početku ima devet praznih polja podijeljenih u tri reda i tri stupca. Igrač X upisuje slovo &bdquo;X&ldquo; &ndash; križić, a igrač O upisuje slovo &bdquo;O&ldquo; &ndash; kružić. Počev&scaron;i od onog koji upisuje križić, igrači naizmjenično odabiru prazna polja i unutar njih upisuju svoj znak. Igra zavr&scaron;ava pobjedom jednog od njih kada upi&scaron;e tri svoja znaka uzastopno u nekom retku, stupcu, na glavnoj ili na sporednoj dijagonali. Ako to ne uspije niti jednom igraču, a sva polja su popunjena, igra zavr&scaron;ava bez pobjednika. Npr, na slici je prikazan slijed od sedam odigranih poteza koji je doveo do pobjede prvog igrača.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/3521d414-0c57-4e45-a0fd-bfafa2763033/-/preview/" style="width: 634px; height: 76px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/26361.%E2%80%85XO/860f04ad.png" data-original-src="https://upload.acmicpc.net/3521d414-0c57-4e45-a0fd-bfafa2763033/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 634px; height: 76px;" /></p>
 
 <p>Neka je zadan slijed od N odigranih poteza u jednoj realno odigranoj igri. Napi&scaron;i program koji će odrediti i ispisati &scaron;to slijedi nakon N-tog odigranog poteza. Na raspolaganju su nam sljedeće mogućnosti:</p>
 
@@ -48,4 +48,4 @@
 
 <p>Opis trećeg probnog primjera: Kako je vidljivo sa slike koja slijedi, nakon devet odigranih poteza igra je zavr&scaron;ila jer vi&scaron;e nema praznih polja, a nitko nije pobijedio.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/412ff40d-cbbe-4fb8-bf5b-e4bcbb00b206/-/preview/" style="width: 627px; height: 69px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/26361.%E2%80%85XO/c04d0ab1.png" data-original-src="https://upload.acmicpc.net/412ff40d-cbbe-4fb8-bf5b-e4bcbb00b206/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 627px; height: 69px;" /></p>

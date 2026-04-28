@@ -24,7 +24,7 @@
 	<li>2번 과정을 반복하여 초콜릿을 모두 먹으면 승리한다. $1$개 이상의 초콜릿이 남아있는 상태에서 2번 과정을 수행할 수 없으면 패배한다.</li>
 </ol>
 
-<p style="display: flex; flex-direction: row; justify-content: center;"><img alt="" src="https://upload.acmicpc.net/c68eba2f-a05e-402c-bf66-adb9e0743fd3/-/preview/" style="max-height: 95px; max-width: 100%" /></p>
+<p style="display: flex; flex-direction: row; justify-content: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/31463.%E2%80%85%EC%B4%88%EC%BD%9C%EB%A6%BF%E2%80%85%EB%92%A4%EC%A7%91%EA%B8%B0%E2%80%85%EA%B2%8C%EC%9E%84%E2%80%85(Sweet)/9fd47c45.png" data-original-src="https://upload.acmicpc.net/c68eba2f-a05e-402c-bf66-adb9e0743fd3/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="max-height: 95px; max-width: 100%" /></p>
 
 <p>코코가 이 게임을 하는 것을 본 한별이는 아래와 같은 문제를 냈다. 코코를 도와 이 문제를 해결해 주자.</p>
 

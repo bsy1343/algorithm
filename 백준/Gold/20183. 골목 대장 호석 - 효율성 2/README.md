@@ -20,7 +20,7 @@
 
 <p>당신은 <em>A&nbsp;</em>번 교차로에서 <em>B&nbsp;</em>번 교차로까지 <em>C&nbsp;</em>원을 가지고 가려고 한다. 호석이의 횡포를 보며 짜증은 나지만, 분신술을 이겨낼 방법이 없어서 돈을 내고 가려고 한다. 하지만 이왕 지나갈 거면, 최소한의 수치심을 받고 싶다. 당신이 받는 수치심은&nbsp;경로 상에서 가장 많이 낸 돈에 비례하기 때문에, 결국 갈 수 있는 다양한 방법들 중에서 최소한의 수치심을 받으려고&nbsp;한다. 즉, 한 골목에서 내야 하는 최대 요금을 최소화하는 것이다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://i.imgur.com/72X0NKv.png" style="width: 561px; height: 422px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/20183.%E2%80%85%EA%B3%A8%EB%AA%A9%E2%80%85%EB%8C%80%EC%9E%A5%E2%80%85%ED%98%B8%EC%84%9D%E2%80%85-%E2%80%85%ED%9A%A8%EC%9C%A8%EC%84%B1%E2%80%852/cbd566b1.png" data-original-src="https://i.imgur.com/72X0NKv.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 561px; height: 422px;" /></p>
 
 <p>예를 들어, 위의 그림과 같이 5개의 교차로와 5개의 골목이 있으며, 당신이 1번 교차로에서 3번 교차로로 가고 싶은 상황이라고 하자. 만약 10원을 들고 출발한다면 2가지 경로로 갈 수 있다. 1번 -&gt; 2번 -&gt; 3번 교차로로 이동하게 되면 총 10원이 필요하고 이 과정에서 최대 수금액을 5원이었고, 1번 -&gt; 4번 -&gt; 5번 -&gt; 3번 교차로로 이동하게 되면 총 8원이 필요하며 최대 수금액은 6원이 된다. 최소한의 수치심을 얻는 경로는 최대 수금액이 5인 경로이다. 하지만 만약 8원밖에 없다면, 전자의 경로는 갈 수 없기 때문에 최대 수금액이 6원인 경로로 가야 하는 것이 최선이다.</p>
 

@@ -25,7 +25,7 @@
 
 <p>Note that each row is left-justified and no longer than its preceding row. Also, the entries in each row,when read left to right, are non-increasing and the entries in each column, when read top to bottom are non-increasing. We will call such a pattern a stacking pattern (SP) because such a pattern can represent a way of stacking cubes in a corner in the following way: if you consider placing the topmost row and leftmost column against walls, then the SP gives a bird&#39;s-eye view of how many cubes are stacked vertically. The SP above represents the following corner stacking:&nbsp;</p>
 
-<p style="text-align: center;"><img alt="" src="https://onlinejudgeimages.s3.amazonaws.com/problem/7005/stack1.jpg" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/7005.%E2%80%85Stacking%E2%80%85Cubes/5fb39cbb.jpg" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/7005/stack1.jpg" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>We will call the wall against the topmost row the right wall , and the wall against the leftmost column the left wall. Here is another SP and the corner stacking it represents:&nbsp;</p>
 
@@ -37,7 +37,7 @@
 3 1 1 
 1 1 1</pre>
 
-<p style="text-align: center;"><img alt="" src="https://onlinejudgeimages.s3.amazonaws.com/problem/7005/stack2.jpg" style="height:295px; width:337px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/7005.%E2%80%85Stacking%E2%80%85Cubes/9cdf308a.jpg" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/7005/stack2.jpg" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:295px; width:337px" /></p>
 
 <p>Note that if you rotate a corner stacking so the left wall becomes the floor and the floor becomes the right wall, you still have a corner stacking. (We will call this a left rotation.) Likewise, you would still have a corner stacking if you rotate so the right wall becomes the floor and the floor becomes the left wall. (We will call this a right rotation.) So the SP of the left and right rotations of the first SP given above are&nbsp;</p>
 

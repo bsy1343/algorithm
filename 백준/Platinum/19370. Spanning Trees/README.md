@@ -18,7 +18,7 @@
 
 <p>Consider a complete graph with $N$ vertices. Find $K$ spanning trees that are edge-disjoint.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/53119c9c-a1e6-4f1e-8bbc-3c7a767f1fce/-/preview/" /><img alt="" src="https://upload.acmicpc.net/8dba9376-df62-4a87-9c10-87317533401b/-/preview/" /><img alt="" src="https://upload.acmicpc.net/863c1141-47e7-4b0b-9d58-6aaf58638554/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/19370.%E2%80%85Spanning%E2%80%85Trees/6382ecc3.png" data-original-src="https://upload.acmicpc.net/53119c9c-a1e6-4f1e-8bbc-3c7a767f1fce/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/19370.%E2%80%85Spanning%E2%80%85Trees/6963dd71.png" data-original-src="https://upload.acmicpc.net/8dba9376-df62-4a87-9c10-87317533401b/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/19370.%E2%80%85Spanning%E2%80%85Trees/248968fa.png" data-original-src="https://upload.acmicpc.net/863c1141-47e7-4b0b-9d58-6aaf58638554/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>The leftmost figure above shows a complete graph with four vertices. The two figures to the right are two edge-disjoint spanning trees of this graph.</p>
 

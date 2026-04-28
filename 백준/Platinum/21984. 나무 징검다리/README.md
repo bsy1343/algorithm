@@ -18,7 +18,7 @@
 
 <p>Albert는 다양한 크기의 나무 밑둥 (stump) 모양의 장난감으로 징검다리를 만들고 싶어한다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/c4936f44-3688-46e7-9d45-4b406b7ecaa0/-/crop/8167x3331/0,1450/-/preview/" style="height: 204px; width: 500px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/21984.%E2%80%85%EB%82%98%EB%AC%B4%E2%80%85%EC%A7%95%EA%B2%80%EB%8B%A4%EB%A6%AC/eac05970.png" data-original-src="https://upload.acmicpc.net/c4936f44-3688-46e7-9d45-4b406b7ecaa0/-/crop/8167x3331/0,1450/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 204px; width: 500px;" /></p>
 
 <p>각 장난감은 1부터 n까지 번호가 붙어있고, i번째 장난감의 높이는 H[i] 이고 반지름은 R[i] 이다.</p>
 

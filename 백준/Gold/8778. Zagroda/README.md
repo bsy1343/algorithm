@@ -49,4 +49,4 @@
 
 ### 힌트
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/0d92bafe-4c6c-4a67-afd9-23c32fa65743/-/preview/" /><img alt="" src="https://upload.acmicpc.net/24f3a452-fc3a-4cb5-9819-0dedcb10c713/-/preview/" /><img alt="" src="https://upload.acmicpc.net/c50ead6e-0ed8-49fa-9bf1-3096ab487fea/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/8778.%E2%80%85Zagroda/3b38be12.png" data-original-src="https://upload.acmicpc.net/0d92bafe-4c6c-4a67-afd9-23c32fa65743/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/8778.%E2%80%85Zagroda/d790137a.png" data-original-src="https://upload.acmicpc.net/24f3a452-fc3a-4cb5-9819-0dedcb10c713/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/8778.%E2%80%85Zagroda/3f111668.png" data-original-src="https://upload.acmicpc.net/c50ead6e-0ed8-49fa-9bf1-3096ab487fea/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>

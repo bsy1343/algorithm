@@ -22,7 +22,7 @@
 
 <p>Below is a typical 3 by 4 grid. The original layout is on the left, and the puzzle on the right.</p>
 
-<p><img alt="" src="https://onlinejudgeimages.s3.amazonaws.com/problem/12665/images-17.png" style="height:197px; width:403px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/12665.%E2%80%85Mine%E2%80%85Layer%E2%80%85(Small)/44dbb402.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/12665/images-17.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:197px; width:403px" /></p>
 
 <p>Since there may be many solutions, your task is to write a program that outputs the maximum possible number of mines in the middle row. The number of rows will always be odd, and there will always be at least one solution to the puzzle.</p>
 

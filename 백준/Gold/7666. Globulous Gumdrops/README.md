@@ -18,7 +18,7 @@
 
 <p>Gwen just bought a bag of gumdrops! However, she does not like carrying gumdrops in plastic bags; instead, she wants to pack her gumdrops in a cylindrical tube of diameter d. Given that each of her gumdrops are perfect spheres of radii r<sub>1</sub>,r<sub>2</sub>,... ,r<sub>n</sub>, find the shortest length tube Gwen can use to store her gumdrops.</p>
 
-<p style="text-align: center;"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/7666/1.png" style="height:250px; width:175px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/7666.%E2%80%85Globulous%E2%80%85Gumdrops/89680cad.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/7666/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:250px; width:175px" /></p>
 
 <p style="text-align: center;">Figure 4: Gumdrops packed into a cylindrical tube.</p>
 

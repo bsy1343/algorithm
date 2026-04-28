@@ -20,7 +20,7 @@
 
 <p>Given a single frame (image) from this camera, the software runs a highly advanced machine learning model to determine whether each pixel in the frame is sky, sea, or exactly on the horizon. The machine learning model is rather slow and can process only $900$ pixels before the next video frame comes in. To stabilize the drone quickly enough, you need to create an efficient algorithm that can find the horizon by querying at most $900$ pixels. Using this information, the rest of the BAPC will be able to compute the bank and pitch.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/9be68fd4-491d-4c0e-9243-680d59bdee5f/-/preview/" style="width: 250px; height: 250px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/20348.%E2%80%85Destabilized%E2%80%85Drone/797fd0c9.png" data-original-src="https://upload.acmicpc.net/9be68fd4-491d-4c0e-9243-680d59bdee5f/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 250px; height: 250px;" /></p>
 
 <p style="text-align: center;">Figure D.1: Visualisation of Sample 1 showing the queried pixels, including two pixels on the horizon marked in white.</p>
 

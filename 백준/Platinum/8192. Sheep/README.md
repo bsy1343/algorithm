@@ -32,7 +32,7 @@
 
 ### 힌트
 
-<p><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/8192/1.gif" style="height:222px; width:562px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/8192.%E2%80%85Sheep/4c778ca0.gif" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/8192/1.gif" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:222px; width:562px" /></p>
 
 <p>The figure depicts three possible partitions into triangles. The favourite spots of the sheep are marked with dots.</p>
 

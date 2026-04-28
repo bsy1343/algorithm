@@ -20,7 +20,7 @@
 
 ### 입력
 
-<p>Vstup se skl&aacute;d&aacute; z&nbsp;několika bloků. Každ&yacute; blok zač&iacute;n&aacute; ř&aacute;dkem s&nbsp;počtem prvků v&nbsp;permutaci&nbsp;<var>N</var>, 3&nbsp;<img alt="&lt;=" src="https://contest.felk.cvut.cz/01prg/solved/le.gif" />&nbsp;<var>N</var>&nbsp;<img alt="&lt;=" src="https://contest.felk.cvut.cz/01prg/solved/le.gif" />&nbsp;100&nbsp;000. Vstup je ukončen ř&aacute;dkem obsahuj&iacute;c&iacute;m nulu. Tento ř&aacute;dek nem&aacute;te d&aacute;le zpracov&aacute;vat. Na druh&eacute;m ř&aacute;dku každ&eacute;ho bloku je&nbsp;<var>N</var>&nbsp;vesměs různ&yacute;ch cel&yacute;ch č&iacute;sel z intervalu 1 až&nbsp;<var>N</var>, kter&aacute; popisuj&iacute; c&iacute;lovou permutaci.</p>
+<p>Vstup se skl&aacute;d&aacute; z&nbsp;několika bloků. Každ&yacute; blok zač&iacute;n&aacute; ř&aacute;dkem s&nbsp;počtem prvků v&nbsp;permutaci&nbsp;<var>N</var>, 3&nbsp;<img alt="&lt;=" src="%EB%B0%B1%EC%A4%80/Gold/9139.%E2%80%85Algebra/c5fdda1f.gif" data-original-src="https://contest.felk.cvut.cz/01prg/solved/le.gif" onerror="this.onerror=null;this.src=this.dataset.originalSrc" />&nbsp;<var>N</var>&nbsp;<img alt="&lt;=" src="%EB%B0%B1%EC%A4%80/Gold/9139.%E2%80%85Algebra/c5fdda1f.gif" data-original-src="https://contest.felk.cvut.cz/01prg/solved/le.gif" onerror="this.onerror=null;this.src=this.dataset.originalSrc" />&nbsp;100&nbsp;000. Vstup je ukončen ř&aacute;dkem obsahuj&iacute;c&iacute;m nulu. Tento ř&aacute;dek nem&aacute;te d&aacute;le zpracov&aacute;vat. Na druh&eacute;m ř&aacute;dku každ&eacute;ho bloku je&nbsp;<var>N</var>&nbsp;vesměs různ&yacute;ch cel&yacute;ch č&iacute;sel z intervalu 1 až&nbsp;<var>N</var>, kter&aacute; popisuj&iacute; c&iacute;lovou permutaci.</p>
 
 ### 출력
 

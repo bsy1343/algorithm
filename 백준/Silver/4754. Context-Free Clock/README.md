@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/4754/1.png" style="float:right; height:137px; width:142px" />You recently installed a stylish clock in your office that is perfectly round and has no markings that identify its orientation. After accidentally bumping it, you realized that 12 o&rsquo;clock might no longer be at the top. Nonetheless, you want to figure out what time it is. Fortunately you recently overheard a coworker giving the time and you have a protractor and can measure the angle between the hour and minute hands.</p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/4754.%E2%80%85Context-Free%E2%80%85Clock/905abb9a.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/4754/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="float:right; height:137px; width:142px" />You recently installed a stylish clock in your office that is perfectly round and has no markings that identify its orientation. After accidentally bumping it, you realized that 12 o&rsquo;clock might no longer be at the top. Nonetheless, you want to figure out what time it is. Fortunately you recently overheard a coworker giving the time and you have a protractor and can measure the angle between the hour and minute hands.</p>
 
 <p>￼Your program should print the first time that has the correct angle be-<br />
 tween the hour and minute hands and that is on or after the overheard time. The angle (0 to 359 degrees, inclusive) will be measured clockwise from the hour hand to the minute hand. Assume that the clock hands move smoothly.</p>

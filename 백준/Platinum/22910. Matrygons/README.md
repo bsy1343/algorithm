@@ -22,7 +22,7 @@
 
 <p>For example, the following pictures illustrates two matrygons. The first one contains 3 regular convex polygons: a regular icositetragon (24 sides), a regular hexagon (6 sides), and an equilateral triangle (3 sides). The second one contains 2 regular convex polygons: a regular icosidigon (22 sides) and a regular hendecagon (11 sides). Each of these matrygons has 33 total sides among all polygons in it.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/20b43845-0fc9-4b72-a1b1-a5442bab96e0/-/preview/" style="width: 289px; height: 294px;" /><img alt="" src="https://upload.acmicpc.net/9425f2f9-3ad7-4bfa-af1e-19368e0ee619/-/preview/" style="width: 298px; height: 293px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/22910.%E2%80%85Matrygons/64837d8a.png" data-original-src="https://upload.acmicpc.net/20b43845-0fc9-4b72-a1b1-a5442bab96e0/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 289px; height: 294px;" /><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/22910.%E2%80%85Matrygons/234e9c67.png" data-original-src="https://upload.acmicpc.net/9425f2f9-3ad7-4bfa-af1e-19368e0ee619/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 298px; height: 293px;" /></p>
 
 <p>Given a fixed total number of sides N, calculate the largest number of polygons that can be part of a matrygon such that the total number of sides among all polygons in it is exactly N.</p>
 

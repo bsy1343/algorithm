@@ -46,12 +46,12 @@
 <table class="table table-bordered">
 	<tbody>
 		<tr>
-			<td style="text-align: center;"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/4640/1.png" style="height:72px; width:72px" /></td>
-			<td style="text-align: center;"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/4640/2.png" style="height:72px; width:72px" /></td>
-			<td style="text-align: center;"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/4640/3.png" style="height:72px; width:72px" /></td>
-			<td style="text-align: center;"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/4640/4.png" style="height:72px; width:72px" /></td>
-			<td style="text-align: center;"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/4640/5.png" style="height:72px; width:72px" /></td>
-			<td style="text-align: center;"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/4640/6.png" style="height:72px; width:72px" /></td>
+			<td style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/4640.%E2%80%85Data%E2%80%85Mining%3F/d08f9db1.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/4640/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:72px; width:72px" /></td>
+			<td style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/4640.%E2%80%85Data%E2%80%85Mining%3F/b61ed169.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/4640/2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:72px; width:72px" /></td>
+			<td style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/4640.%E2%80%85Data%E2%80%85Mining%3F/eca94eef.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/4640/3.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:72px; width:72px" /></td>
+			<td style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/4640.%E2%80%85Data%E2%80%85Mining%3F/af53616f.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/4640/4.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:72px; width:72px" /></td>
+			<td style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/4640.%E2%80%85Data%E2%80%85Mining%3F/2096d064.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/4640/5.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:72px; width:72px" /></td>
+			<td style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/4640.%E2%80%85Data%E2%80%85Mining%3F/5ae5e8c3.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/4640/6.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:72px; width:72px" /></td>
 		</tr>
 		<tr>
 			<td style="text-align: center;">Figure 1</td>

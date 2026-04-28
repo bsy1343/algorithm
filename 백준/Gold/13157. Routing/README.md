@@ -41,6 +41,6 @@
 
 ### 힌트
 
-<p style="text-align: center;"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/13157/1.png" style="height:257px; width:621px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/13157.%E2%80%85Routing/134831ef.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/13157/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:257px; width:621px" /></p>
 
 <p style="text-align: center;">Figure K.1: Illustration of the sample inputs.</p>

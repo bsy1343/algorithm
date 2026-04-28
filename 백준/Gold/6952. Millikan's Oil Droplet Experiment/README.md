@@ -22,7 +22,7 @@
 
 <p>Given the measurements as input, your program must find the maximum possible value for the elementary charge consistent with the measurements. That is, each measurement, plus or minus an error of $1\%$ or less, must be a multiple of the elementary charge.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/2ee80ed2-b8bf-4c32-8c3f-5cc1324771b3/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/6952.%E2%80%85Millikan's%E2%80%85Oil%E2%80%85Droplet%E2%80%85Experiment/aae4239c.png" data-original-src="https://upload.acmicpc.net/2ee80ed2-b8bf-4c32-8c3f-5cc1324771b3/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 ### 입력
 

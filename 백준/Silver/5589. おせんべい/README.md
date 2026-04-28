@@ -24,15 +24,15 @@
 
 <p>地震の直後に， 煎餅が次の図のような状態になったとする． 黒い丸が表側が焼ける状態を， 白い丸が裏側が焼ける状態を表している．&nbsp;</p>
 
-<p><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/5589/1.png" style="height:209px; width:400px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/5589.%E2%80%85%E3%81%8A%E3%81%9B%E3%82%93%E3%81%B9%E3%81%84/4bd03bda.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/5589/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:209px; width:400px" /></p>
 
 <p>1行目を裏返すと次の図のような状態になる．&nbsp;</p>
 
-<p><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/5589/2.png" style="height:206px; width:400px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/5589.%E2%80%85%E3%81%8A%E3%81%9B%E3%82%93%E3%81%B9%E3%81%84/8c6ba874.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/5589/2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:206px; width:400px" /></p>
 
 <p>さらに， 1列目と5列目を裏返すと次の図のような状態になる． この状態では， 出荷できる煎餅は9枚である．&nbsp;</p>
 
-<p><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/5589/3.png" style="height:206px; width:400px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/5589.%E2%80%85%E3%81%8A%E3%81%9B%E3%82%93%E3%81%B9%E3%81%84/c28a2287.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/5589/3.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:206px; width:400px" /></p>
 
 ### 입력
 

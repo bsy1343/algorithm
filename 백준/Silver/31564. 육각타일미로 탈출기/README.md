@@ -18,7 +18,7 @@
 
 <p>윤수는 파티로 가는 길에 악랄한 종현에게 당해 육각타일미로에 빠졌다. 미로는 일정한 크기의 정육각형 타일로 구성된 $N$행 $M$열의 격자 형태로 이루어져 있다. 같은 열에 위치한 두 칸을 비교했을 때, 짝수 번째 행의 칸은 홀수 번째 행의 칸보다 반 칸 오른쪽에 위치해 있다. 다음 그림은 $N=4$이고 $M=7$인 육각타일미로를 나타낸 것이다.</p>
 
-<p style="display:flex;flex-direction:row;justify-content:center;"><img src="https://upload.acmicpc.net/e30aa9d1-f3a5-48b8-bea9-52f25e12eb25/-/preview/" style="max-height: 100%; max-width: 100%; " /></p>
+<p style="display:flex;flex-direction:row;justify-content:center;"><img src="%EB%B0%B1%EC%A4%80/Silver/31564.%E2%80%85%EC%9C%A1%EA%B0%81%ED%83%80%EC%9D%BC%EB%AF%B8%EB%A1%9C%E2%80%85%ED%83%88%EC%B6%9C%EA%B8%B0/9cc07ad3.png" data-original-src="https://upload.acmicpc.net/e30aa9d1-f3a5-48b8-bea9-52f25e12eb25/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="max-height: 100%; max-width: 100%; " /></p>
 
 <p>윤수는 항상 $(0,0)$에서 출발하며 탈출구는 항상 $(N-1, M-1)$에 존재한다. 종현은 윤수의 탈출을 막기 위해 $K$개의 장애물을 타일 위에 두었다. 윤수는 타일 위에서는 인접한 타일로 이동할 수 있지만 장애물이 있는 타일로는 이동할 수 없다. 두 타일이 하나의 변을 공유한다면 서로 인접하다고 한다.</p>
 

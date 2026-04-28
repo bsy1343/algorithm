@@ -21,10 +21,10 @@
 <table class="table" style="width:100%">
 	<tbody>
 		<tr>
-			<td style="text-align:center; width:25%"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15300/1.png" style="height:177px; width:158px" /></td>
-			<td style="text-align:center; width:25%"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15300/2.png" style="height:176px; width:158px" /></td>
-			<td style="text-align:center; width:25%"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15300/3.png" style="height:180px; width:158px" /></td>
-			<td style="text-align:center; width:25%"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15300/4.png" style="height:178px; width:159px" /></td>
+			<td style="text-align:center; width:25%"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/15300.%E2%80%85The%E2%80%85Components%E2%80%85Game/eac8300f.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15300/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:177px; width:158px" /></td>
+			<td style="text-align:center; width:25%"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/15300.%E2%80%85The%E2%80%85Components%E2%80%85Game/f79b020b.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15300/2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:176px; width:158px" /></td>
+			<td style="text-align:center; width:25%"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/15300.%E2%80%85The%E2%80%85Components%E2%80%85Game/05957285.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15300/3.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:180px; width:158px" /></td>
+			<td style="text-align:center; width:25%"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/15300.%E2%80%85The%E2%80%85Components%E2%80%85Game/fed08b77.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15300/4.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:178px; width:159px" /></td>
 		</tr>
 		<tr>
 			<td style="text-align:center; width:25%">Original Board</td>
@@ -37,7 +37,7 @@
 
 <p>Rigorously, these regions are defined as maximal sections of neighboring squares of the same color, where two squares are considered neighbors if they share an edge. After playing the game for a while, Narwhy noticed that between two boards with the same number of total regions, the one with more white regions gets a higher score. Given a state of the board, how can Narwhy get the highest score possible by touching a single column?</p>
 
-<p style="text-align:center"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15300/5.png" style="height:187px; width:266px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/15300.%E2%80%85The%E2%80%85Components%E2%80%85Game/f90a1a14.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15300/5.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:187px; width:266px" /></p>
 
 ### 입력
 

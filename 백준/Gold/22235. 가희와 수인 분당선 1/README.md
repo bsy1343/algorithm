@@ -22,7 +22,7 @@
 
 <p> </p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/7fb10beb-8226-46cc-90c5-5594d6668aac/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/22235.%E2%80%85%EA%B0%80%ED%9D%AC%EC%99%80%E2%80%85%EC%88%98%EC%9D%B8%E2%80%85%EB%B6%84%EB%8B%B9%EC%84%A0%E2%80%851/b42c5f88.png" data-original-src="https://upload.acmicpc.net/7fb10beb-8226-46cc-90c5-5594d6668aac/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p style="text-align: center;"><strong>[그림 1] 수인 분당선의 하행</strong></p>
 
@@ -42,7 +42,7 @@
 
 <p style="text-align: center;"> </p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/ed4543b8-b638-41ad-82b3-2c12bbaf29fe/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/22235.%E2%80%85%EA%B0%80%ED%9D%AC%EC%99%80%E2%80%85%EC%88%98%EC%9D%B8%E2%80%85%EB%B6%84%EB%8B%B9%EC%84%A0%E2%80%851/1d2ee546.png" data-original-src="https://upload.acmicpc.net/ed4543b8-b638-41ad-82b3-2c12bbaf29fe/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p style="text-align: center;"><strong>[그림 2] K233이 종착역인 하행 열차가 K232 역에 도착한 경우</strong></p>
 
@@ -52,7 +52,7 @@
 
 <p style="text-align: center;"> </p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/4fde783d-bf27-483b-9671-9338a3e0a1c2/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/22235.%E2%80%85%EA%B0%80%ED%9D%AC%EC%99%80%E2%80%85%EC%88%98%EC%9D%B8%E2%80%85%EB%B6%84%EB%8B%B9%EC%84%A0%E2%80%851/11fad626.png" data-original-src="https://upload.acmicpc.net/4fde783d-bf27-483b-9671-9338a3e0a1c2/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p style="text-align: center;"><strong>[그림 3] K233이 종착역인 하행 열차가 K233 역에 도착한 경우</strong></p>
 

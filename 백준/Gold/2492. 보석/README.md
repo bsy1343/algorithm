@@ -22,7 +22,7 @@
 
 <p>예를 들어, 아래 그림에서 K=3인 경우 가장 많은 금강석을 포함하는 정사각형은 5개의 금강석을 포함한다.&nbsp;</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/6afee9f8-bbc1-4c99-ae2e-5767893fca64/-/preview/" style="width: 284px; height: 186px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/2492.%E2%80%85%EB%B3%B4%EC%84%9D/01d4df05.png" data-original-src="https://upload.acmicpc.net/6afee9f8-bbc1-4c99-ae2e-5767893fca64/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 284px; height: 186px;" /></p>
 
 <p>지질 탐사 지도에 대한 정보를 입력받아 가장 많은 금강석을 포함하는 정사각형을 구하는 프로그램을 작성하라.&nbsp;</p>
 

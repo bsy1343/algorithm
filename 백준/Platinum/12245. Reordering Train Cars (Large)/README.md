@@ -22,7 +22,7 @@
 
 <p>The problem is that he currently has <strong>N</strong> sets of connected cars. He can represent each set of connected cars as a string of lowercase letters. He wants to count the number of ways he can connect all <strong>N</strong> sets of cars to form one <em>valid</em> train. A train is valid if all occurrences of the same character are adjacent to each other.</p>
 
-<p><img alt="" src="https://onlinejudgeimages.s3.amazonaws.com/problem/12244/images-62.png" style="height:199px; width:511px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/12245.%E2%80%85Reordering%E2%80%85Train%E2%80%85Cars%E2%80%85(Large)/23c4bbb1.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/12244/images-62.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:199px; width:511px" /></p>
 
 <p>The previous figure is one way Yahya could connect the cars &quot;ab&quot;, &quot;bc&quot; and &quot;cd&quot; to make a valid train: &quot;ab bc cd&quot;. If he had connected them in the order &quot;cd ab bc&quot;, that would have been invalid: the &quot;c&quot; characters would not have been adjacent to each other.</p>
 

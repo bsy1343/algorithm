@@ -22,7 +22,7 @@
 
 <p>A 씨가 전광판과 사무실의 등을 끄기 위해 필요한 최소 이동 거리를 계산하는 프로그램을 작성하라. 단, 엘리베이터와 가장자리에 있는 사무실과의 거리나 각 인접한 사무실과의 거리를 1 로 가정한다. 또한 엘리베이터를 이용한 층간 이동 거리도 1 로 가정한다.&nbsp;</p>
 
-<p><img alt="" src="https://onlinejudgeimages.s3.amazonaws.com/problem/9048/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202017-01-03%20%EC%98%A4%ED%9B%84%206.08.40.png" style="height:257px; width:233px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/9048.%E2%80%85%EC%88%98%EC%9C%84%E2%80%85%EC%95%84%EC%A0%80%EC%94%A8%EC%9D%98%E2%80%85%EA%B3%A0%EB%AF%BC/332ce8eb.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/9048/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202017-01-03%20%EC%98%A4%ED%9B%84%206.08.40.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:257px; width:233px" /></p>
 
 ### 입력
 

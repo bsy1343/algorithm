@@ -40,10 +40,10 @@
 
 <p>На рис. 1 показаны пять силовых полей, заданных во входном файле. Оптимальный способ выбрать из них три поля для эксперимента показан на рис. 2.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/2bfd3dbf-2dd4-4a10-9189-483fe201f541/-/preview/" style="width: 622px; height: 117px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/20460.%E2%80%85%D0%A1%D0%B8%D0%BB%D0%BE%D0%B2%D1%8B%D0%B5%E2%80%85%D0%BF%D0%BE%D0%BB%D1%8F/6bb50e98.png" data-original-src="https://upload.acmicpc.net/2bfd3dbf-2dd4-4a10-9189-483fe201f541/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 622px; height: 117px;" /></p>
 
 <p style="text-align: center;">Рис 1. Силовые поля в примере описания входных данных.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/9535ba2c-9e82-4b5e-a341-db17bc340437/-/preview/" style="width: 152px; height: 151px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/20460.%E2%80%85%D0%A1%D0%B8%D0%BB%D0%BE%D0%B2%D1%8B%D0%B5%E2%80%85%D0%BF%D0%BE%D0%BB%D1%8F/2251785e.png" data-original-src="https://upload.acmicpc.net/9535ba2c-9e82-4b5e-a341-db17bc340437/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 152px; height: 151px;" /></p>
 
 <p style="text-align: center;">Рис 2. Оптимальный выбор трех из пяти силовых полей в данном примере.</p>

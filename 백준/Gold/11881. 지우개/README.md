@@ -20,7 +20,7 @@
 
 <p>승현이는 자신이 좋아하는 자연수들로 구성된 수열 a<sub>1</sub>, a<sub>2</sub>, ⋯, a<sub>n</sub>을 생각해 냅니다. 그리고, 이 수열에서 서로 다른 세 원소 a<sub>i</sub>, a<sub>j</sub>, a<sub>k</sub>를 선택한 뒤, 이들을 가로, 세로, 높이로 하는 직육면체 모양의 지우개를 만들고 이를 i&minus;j&minus;k 지우개라고 명명하기로 했습니다. 단 승현이는 위로 길쭉한 지우개를 좋아하므로, a<sub>i</sub> &lt; a<sub>j</sub> &lt; a<sub>k</sub>를 만족해야 합니다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11881/1.png" style="height:245px; line-height:20.8px; opacity:0.9; text-align:center; width:494px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/11881.%E2%80%85%EC%A7%80%EC%9A%B0%EA%B0%9C/0784a99a.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11881/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:245px; line-height:20.8px; opacity:0.9; text-align:center; width:494px" /></p>
 
 <p>위 그림을 한 번 살펴봅시다. 승현이가 만든 수열을 a<sub>1</sub>=3, a<sub>2</sub>=1, a<sub>3</sub>=1, a<sub>4</sub>=2라고 둡시다. 1&minus;2&minus;3 지우개는 만들 수 없는데, 3&lt;1&lt;1은 성립하지 않기 때문입니다. 반면 2&minus;4&minus;1 지우개는 1 &lt; 2 &lt; 3이 성립하므로 만들 수 있습니다. 이 수열에서 만들 수 있는 지우개는 2&minus;4&minus;1 지우개와 3&minus;4&minus;1 지우개뿐입니다.</p>
 

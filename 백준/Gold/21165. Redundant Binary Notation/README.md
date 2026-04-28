@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/3b37ef17-e719-44c1-b7e5-1532da671d39/-/preview/" style="width: 400px; height: 229px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/21165.%E2%80%85Redundant%E2%80%85Binary%E2%80%85Notation/3947a9fc.png" data-original-src="https://upload.acmicpc.net/3b37ef17-e719-44c1-b7e5-1532da671d39/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 400px; height: 229px;" /></p>
 
 <p style="text-align: center;">Binomial trees of a binomial heap. Wikimedia, cc-by-sa</p>
 

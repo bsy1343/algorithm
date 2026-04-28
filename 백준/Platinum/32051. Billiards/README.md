@@ -26,7 +26,7 @@
 
 <p>Figure F-1 depicts the first and the second datasets of Sample Input.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/1a6452d9-80b6-431d-b0f5-7dcc3522d5b8/-/preview/" style="width: 366px; height: 366px;" /> <img alt="" src="https://upload.acmicpc.net/a7efb26d-732c-4c49-b5a4-88f6f817f375/-/preview/" style="width: 300px; height: 367px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/32051.%E2%80%85Billiards/a0dcb2c0.png" data-original-src="https://upload.acmicpc.net/1a6452d9-80b6-431d-b0f5-7dcc3522d5b8/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 366px; height: 366px;" /> <img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/32051.%E2%80%85Billiards/315edc6a.png" data-original-src="https://upload.acmicpc.net/a7efb26d-732c-4c49-b5a4-88f6f817f375/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 300px; height: 367px;" /></p>
 
 <p style="text-align: center;">Figure F-1: The first and the second datasets of Sample Input</p>
 

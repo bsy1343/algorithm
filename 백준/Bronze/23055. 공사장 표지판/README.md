@@ -22,7 +22,7 @@
 
 <p>백남이의 안전을 위해 출입제한 표지판을 만들어 주도록 하자.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/71a59881-5b9c-434f-ba67-86c02903342f/-/preview/" style="height: 500px; width: 500px;" /><br />
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/23055.%E2%80%85%EA%B3%B5%EC%82%AC%EC%9E%A5%E2%80%85%ED%91%9C%EC%A7%80%ED%8C%90/b7c967e3.png" data-original-src="https://upload.acmicpc.net/71a59881-5b9c-434f-ba67-86c02903342f/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 500px; width: 500px;" /><br />
 &nbsp;</p>
 
 ### 입력

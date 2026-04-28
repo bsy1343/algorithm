@@ -22,7 +22,7 @@
 
 <p>The following figure illustrates the configuration specified in the first dataset of the sample input given below. The figure shows the xy-plane, which is enough because, in this dataset, the z-coordinates of all the light sources, balloon centers, and the objective point are zero. In the figure, light sources are shown as stars and balloons as circles. The objective point is at the origin, and you may remove up to 4 balloons. In this case, the dashed circles in the figure correspond to the balloons to be removed.</p>
 
-<p style="text-align:center"><img alt="" src="/upload/imagesa/FigureG1.png" style="height:364px; width:402px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/3831.%E2%80%85Let%E2%80%85There%E2%80%85Be%E2%80%85Light/5cceab88.png" data-original-src="https://www.acmicpc.net/upload/imagesa/FigureG1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:364px; width:402px" /></p>
 
 <p style="text-align:center">Figure 1: First dataset of the sample input.</p>
 

@@ -18,7 +18,7 @@
 
 <p>아래 그림과 같이 직선 형태의 도로상에 왼쪽부터 오른쪽으로 $1$번부터 $N$번까지 번호가 붙어 있는 $N$개의 집이 있다. $i$ ($1 &le; i &le; N$)번 집의 위치는 $X_i$ ($X_i &gt; 0$)이다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/532a1e00-bef5-4d1c-a43d-afb6c68d86dd/-/preview/" style="width: 500px; height: 55px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/31964.%E2%80%85%EB%B0%98%ED%92%88%E2%80%85%ED%9A%8C%EC%88%98/4813dde9.png" data-original-src="https://upload.acmicpc.net/532a1e00-bef5-4d1c-a43d-afb6c68d86dd/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 500px; height: 55px;" /></p>
 
 <p>택배 회사는 한 대의 트럭을 이용해 $N$개의 집을 방문하면서 반품되는 물건을 회수하려고 한다. 트럭은 택배 회사가 있는 위치 $0$에서 시각 $0$에 출발하고, $i$번 집은 시각 $T_i$에 반품할 물건을 내놓는다. 트럭은 $1$의 속력으로 이동하므로, $d$만큼의 거리를 이동하는데 $d$시간이 걸린다. 또한, 트럭은 필요하면 움직이지 않고 제자리에 멈춰서 기다릴 수 있다.</p>
 

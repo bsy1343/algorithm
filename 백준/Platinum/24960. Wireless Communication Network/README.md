@@ -37,15 +37,15 @@
 <table class="table table-bordered">
 	<tbody>
 		<tr>
-			<td><img alt="" src="https://upload.acmicpc.net/eebf3782-0aad-403d-ba26-cd5352d8dea3/-/preview/" style="width: 311px; height: 100px;" /></td>
+			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/24960.%E2%80%85Wireless%E2%80%85Communication%E2%80%85Network/336a4175.png" data-original-src="https://upload.acmicpc.net/eebf3782-0aad-403d-ba26-cd5352d8dea3/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 311px; height: 100px;" /></td>
 			<td>Obtained after some repetitions of step 2 with a certain series of choices. There are three trees, $T_1$, $T_2$, and $T_3$. Here, the station h forms the tree $T_3$ consisting of only the station $h$.</td>
 		</tr>
 		<tr>
-			<td><img alt="" src="https://upload.acmicpc.net/ee354358-e9e8-4dc6-a1f6-4c7bf2588218/-/preview/" style="width: 311px; height: 101px;" /></td>
+			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/24960.%E2%80%85Wireless%E2%80%85Communication%E2%80%85Network/43cea1d6.png" data-original-src="https://upload.acmicpc.net/ee354358-e9e8-4dc6-a1f6-4c7bf2588218/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 311px; height: 101px;" /></td>
 			<td>Obtained by linking stations $g$ and $h$ in step 2. Trees $T_2$ and $T_3$, with top summits $g$ and $h$ respectively, are adjacent.</td>
 		</tr>
 		<tr>
-			<td><img alt="" src="https://upload.acmicpc.net/1df642a4-0d3a-41d0-bfd2-c3c6c2d0dd30/-/preview/" style="width: 311px; height: 100px;" /></td>
+			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/24960.%E2%80%85Wireless%E2%80%85Communication%E2%80%85Network/bf92dfba.png" data-original-src="https://upload.acmicpc.net/1df642a4-0d3a-41d0-bfd2-c3c6c2d0dd30/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 311px; height: 100px;" /></td>
 			<td>Obtained by linking stations $b$ and $h$ in the next step 2, merging two adjacent trees. Now all the stations form a single tree.</td>
 		</tr>
 	</tbody>

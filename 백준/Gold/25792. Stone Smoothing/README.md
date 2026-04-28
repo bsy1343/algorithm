@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p><img alt="" src="https://upload.acmicpc.net/760d9ee2-0609-4197-9226-64279e2d44bd/-/preview/" style="width: 132px; height: 102px; float: right;" />You found a really sharp stone that could be described as a convex polygon. You decided to use some skills to make it smoother. You can &ldquo;smooth&rdquo; a corner (vertex) of the stone (polygon) by shaving it down some amount as long as you don&rsquo;t smooth down another corner at the same time, i.e., only one corner can be smoothed at a time.</p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/25792.%E2%80%85Stone%E2%80%85Smoothing/5760b4bc.png" data-original-src="https://upload.acmicpc.net/760d9ee2-0609-4197-9226-64279e2d44bd/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 132px; height: 102px; float: right;" />You found a really sharp stone that could be described as a convex polygon. You decided to use some skills to make it smoother. You can &ldquo;smooth&rdquo; a corner (vertex) of the stone (polygon) by shaving it down some amount as long as you don&rsquo;t smooth down another corner at the same time, i.e., only one corner can be smoothed at a time.</p>
 
 <p>Note that, when one vertex (corner) is smoothed, it is replaced by two new vertices. So, if desired, these new vertices (corners) can be smoothed.</p>
 

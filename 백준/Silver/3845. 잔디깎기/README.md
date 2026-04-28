@@ -20,7 +20,7 @@
 
 <p>필드의 가로와 세로에 평행하게 여러 개의 길를 만들어 길를 따라 이동하며 잔디를 깎는다.</p>
 
-<p><img src="/upload/images/lawn.png" /></p>
+<p><img src="%EB%B0%B1%EC%A4%80/Silver/3845.%E2%80%85%EC%9E%94%EB%94%94%EA%B9%8E%EA%B8%B0/3c149472.png" data-original-src="https://www.acmicpc.net/upload/images/lawn.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>ICSC는 새로운 잔디깎er, 수진이를 고용하였다. 수진이는 매우 혼돈을 좋아하여, 필드를 순서대로 덮어나가는 것보다 랜덤으로 길을 정해 시작하는 것을 좋아한다. 그러나 그녀는 제대로 일을 하지 않아 ICSC로부터 해고되는 것이 두려워져 당신에게 도움을 요청하였다.</p>
 

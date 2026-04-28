@@ -28,7 +28,7 @@
 
 <p>The figures below show the tree after subsequently adding the following sequence of numbers: 3, 4, 3, 5, 4, 1, and 2.</p>
 
-<p style="text-align: center;"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/6649/1.png" style="height:353px; width:599px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/6649.%E2%80%85Tree%E2%80%85Insertions/9cad38a7.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/6649/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:353px; width:599px" /></p>
 
 <p>You may notice that different permutations of the same numbers will often result in the same BST. For example, the tree from the fifth figure above may be constructed by three different input sequences:</p>
 

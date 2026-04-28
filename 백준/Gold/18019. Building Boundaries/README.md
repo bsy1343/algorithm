@@ -22,7 +22,7 @@
 
 <p>What is the minimum area of land Maarja has to buy?</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/1be3e66f-9738-4aef-97a7-342a7c44eaff/-/preview/" style="width: 372px; height: 113px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/18019.%E2%80%85Building%E2%80%85Boundaries/9ad077a9.png" data-original-src="https://upload.acmicpc.net/1be3e66f-9738-4aef-97a7-342a7c44eaff/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 372px; height: 113px;" /></p>
 
 <p style="text-align: center;">Figure B.1: Illustration of the two test scenarios in Sample Input 1 and their solutions. In the second scenario the 5 &times; 1 building has been rotated by 90 degrees.</p>
 

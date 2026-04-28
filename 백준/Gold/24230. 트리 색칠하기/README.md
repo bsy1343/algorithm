@@ -22,19 +22,19 @@
 
 <p>아래 그림처럼 정점 10개로 구성된 트리가 있다고 가정을 해보자.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/d60753e6-25d7-4baa-94c3-e99d84ed3d42/-/preview/" style="width: 280px; height: 300px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/24230.%E2%80%85%ED%8A%B8%EB%A6%AC%E2%80%85%EC%83%89%EC%B9%A0%ED%95%98%EA%B8%B0/743066dc.png" data-original-src="https://upload.acmicpc.net/d60753e6-25d7-4baa-94c3-e99d84ed3d42/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 280px; height: 300px;" /></p>
 
 <p style="text-align: center;">[그림 1] 하얀색으로 칠해져 있는 트리</p>
 
 <p>3번 정점을 노란색으로 칠하면 그 아래 있는 정점 5, 6, 8, 9, 10 모두&nbsp;노란색으로 칠해진다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/6345e2aa-2c8a-4f59-a274-e9073c61e520/-/preview/" style="width: 280px; height: 300px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/24230.%E2%80%85%ED%8A%B8%EB%A6%AC%E2%80%85%EC%83%89%EC%B9%A0%ED%95%98%EA%B8%B0/94e1b3f4.png" data-original-src="https://upload.acmicpc.net/6345e2aa-2c8a-4f59-a274-e9073c61e520/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 280px; height: 300px;" /></p>
 
 <p style="text-align: center;">[그림 2] 정점 3에 노란색을 칠한 후 트리의 상태</p>
 
 <p>그리고 정점 5에 파란색을 칠한다면 그 아래 있는 정점 8, 9, 10&nbsp;모두 파란색으로 칠해진다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/25b335ab-1493-4ca6-a4a0-87486da7e39d/-/preview/" style="width: 280px; height: 300px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/24230.%E2%80%85%ED%8A%B8%EB%A6%AC%E2%80%85%EC%83%89%EC%B9%A0%ED%95%98%EA%B8%B0/a6e26cd6.png" data-original-src="https://upload.acmicpc.net/25b335ab-1493-4ca6-a4a0-87486da7e39d/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 280px; height: 300px;" /></p>
 
 <p style="text-align: center;">[그림 3] 정점 5에 파란색을 칠한 후 트리의 상태</p>
 

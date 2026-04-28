@@ -53,4 +53,4 @@
 
 <p>この入力例は，下図に対応する．チェックポイントとなっている地点は水色で示されている．また，最 小の移動距離を達成する 2 人の移動方法は赤色で示されている．</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/4c48c48d-dc1e-489b-b912-d6d5f9d16395/-/preview/" style="width: 164px; height: 454px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/24109.%E2%80%85%E3%82%AA%E3%83%AA%E3%82%A8%E3%83%B3%E3%83%86%E3%83%BC%E3%83%AA%E3%83%B3%E3%82%B0%E2%80%85(Orienteering)/1ccfac72.png" data-original-src="https://upload.acmicpc.net/4c48c48d-dc1e-489b-b912-d6d5f9d16395/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 164px; height: 454px;" /></p>

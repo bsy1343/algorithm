@@ -24,7 +24,7 @@
 
 <p>The difference between your performance $g$ and the target melody $f$ is the area between these two functions. &nbsp;See Figure \ref{fig:pitch} for an example. &nbsp;Given the melody $f$ and your performance $g$, compute their difference.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/e0870663-f85a-4ad2-a52d-44f464b9bdec/-/preview/" style="width: 392px; height: 300px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/20731.%E2%80%85Pitch%E2%80%85Performance/058d392b.png" data-original-src="https://upload.acmicpc.net/e0870663-f85a-4ad2-a52d-44f464b9bdec/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 392px; height: 300px;" /></p>
 
 <p style="text-align: center;">Illustration of Sample Input 1. &nbsp;The difference between $f$ and $g$ is the area of the shaded region in the figure.</p>
 

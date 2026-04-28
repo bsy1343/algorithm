@@ -20,7 +20,7 @@
 
 <p>송도고등학교는 경관이 참 예쁘다. 도훈이는 특히 학교 뒤쪽에 만개한 벚꽃을 보고 감탄하였다.</p>
 
-<p style="text-align: center;"><img alt="" height="405" src="https://upload.acmicpc.net/485976e4-1833-4a33-8883-8906465a1f42/-/preview/" width="542" /></p>
+<p style="text-align: center;"><img alt="" height="405" src="%EB%B0%B1%EC%A4%80/Silver/28245.%E2%80%85%EB%B0%B0%EA%B3%A0%ED%8C%8C(Hard)/192aee6f.png" data-original-src="https://upload.acmicpc.net/485976e4-1833-4a33-8883-8906465a1f42/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" width="542" /></p>
 
 <p style="text-align: center;">2021년 봄에 찍은 송도고등학교 뒤쪽 벚꽃 나무들의 풍경이다.</p>
 

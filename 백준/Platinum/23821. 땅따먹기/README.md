@@ -25,7 +25,7 @@
 
 <p>예를 들어 가로 길이가 4, 세로 길이가 4인 말을 위쪽으로 길이 1만큼 늘리면 아래 그림과 같이 변한다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/fa1b2c93-dcaf-494f-ab17-8b20b8035ad7/-/preview/" style="width: 512px; height: 194px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/23821.%E2%80%85%EB%95%85%EB%94%B0%EB%A8%B9%EA%B8%B0/c84c24a2.png" data-original-src="https://upload.acmicpc.net/fa1b2c93-dcaf-494f-ab17-8b20b8035ad7/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 512px; height: 194px;" /></p>
 
 <p>행동을 수행하면서 플레이어의 말이 보드 밖이나 `X&#39;를 포함하게 된다면 수행하지 못하고 종료한다.</p>
 

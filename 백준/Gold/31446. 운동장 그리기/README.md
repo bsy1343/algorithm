@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="display: flex; flex-direction: row; justify-content: center;"><img alt="운동장 그리기" src="https://upload.acmicpc.net/be6ba993-19ec-481f-b6d0-d7d27e13069e/-/preview/" style="max-height: 150px; max-width: 100%;" /></p>
+<p style="display: flex; flex-direction: row; justify-content: center;"><img alt="운동장 그리기" src="%EB%B0%B1%EC%A4%80/Gold/31446.%E2%80%85%EC%9A%B4%EB%8F%99%EC%9E%A5%E2%80%85%EA%B7%B8%EB%A6%AC%EA%B8%B0/97e22c72.png" data-original-src="https://upload.acmicpc.net/be6ba993-19ec-481f-b6d0-d7d27e13069e/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="max-height: 150px; max-width: 100%;" /></p>
 
 <p>유틸은 운동회 준비를 위해 운동장에 경계선을 그리려고 한다. 운동장은 꼭짓점이 $N$개이고 어떤 내각도 $180^{\circ}$가 아닌 단순다각형 $P$ 모양이며, 넓이는 $S$이다. 또한, 운동장의 각 꼭짓점의 $x$좌표와 $y$좌표는 $0$ 이상 $10^9$ 이하의 정수여야 한다. 유틸이 그릴 수 있는 운동장의 모양을 하나 찾아 주자.</p>
 

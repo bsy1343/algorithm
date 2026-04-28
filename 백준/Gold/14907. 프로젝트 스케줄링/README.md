@@ -18,7 +18,7 @@
 
 <p>퍼트라고 부르는 프로젝트 관리 기법은 큰 프로젝트를 작업 개수로 분할, 각 작업에서 요구되는 시간 계산, 다른 작업이 완료될 때까지 작업이 시작될 수 없도록 하는 결정을 포함한다. 이때 프로젝트를 차트 형식으로 표현할 수 있다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14907/1.png" style="height:146px; width:317px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/14907.%E2%80%85%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%E2%80%85%EC%8A%A4%EC%BC%80%EC%A4%84%EB%A7%81/41eb641e.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14907/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:146px; width:317px" /></p>
 
 <p>예를 들어, 입력 예제의 데이터를 사용했을 때 차트는 A, B, C, D, E, F라는 작업을 갖고 각각 5, 3, 2, 2, 4, 2일이 걸리며, C와 D가 완료될 때까지 작업 E는 시작되지&nbsp;않고, A가 수행되었다면 D와 B는 병렬로 수행 될 수 있다. 퍼트 차트에 따라 프로젝트를 완성하는데 걸리는 최소 시간을 계산하는 프로그램을 작성하시오.</p>
 

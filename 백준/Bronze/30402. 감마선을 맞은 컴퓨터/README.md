@@ -23,9 +23,9 @@
 <table align="center" border="1" cellpadding="1" cellspacing="1" class="table table-bordered" style="width: 500px;">
 	<tbody>
 		<tr>
-			<td style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/418e79b5-1210-4ed5-aa61-e6a9338a743c/-/preview/" /></td>
-			<td style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/91793c3d-9170-40ad-8b3d-8b95de54a4b4/-/preview/" /></td>
-			<td style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/3d6bc652-62e8-4b9b-8c2a-e42344f52f8d/-/preview/" /></td>
+			<td style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/30402.%E2%80%85%EA%B0%90%EB%A7%88%EC%84%A0%EC%9D%84%E2%80%85%EB%A7%9E%EC%9D%80%E2%80%85%EC%BB%B4%ED%93%A8%ED%84%B0/1bb323bb.png" data-original-src="https://upload.acmicpc.net/418e79b5-1210-4ed5-aa61-e6a9338a743c/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></td>
+			<td style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/30402.%E2%80%85%EA%B0%90%EB%A7%88%EC%84%A0%EC%9D%84%E2%80%85%EB%A7%9E%EC%9D%80%E2%80%85%EC%BB%B4%ED%93%A8%ED%84%B0/9ca2a9aa.png" data-original-src="https://upload.acmicpc.net/91793c3d-9170-40ad-8b3d-8b95de54a4b4/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></td>
+			<td style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/30402.%E2%80%85%EA%B0%90%EB%A7%88%EC%84%A0%EC%9D%84%E2%80%85%EB%A7%9E%EC%9D%80%E2%80%85%EC%BB%B4%ED%93%A8%ED%84%B0/c1867c60.png" data-original-src="https://upload.acmicpc.net/3d6bc652-62e8-4b9b-8c2a-e42344f52f8d/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></td>
 		</tr>
 		<tr>
 			<td style="text-align: center;">춘배(w)</td>

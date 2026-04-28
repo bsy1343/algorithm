@@ -32,6 +32,6 @@
 
 ### 힌트
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/088a1d78-9588-4aaf-9662-39e6beef80f5/-/preview/" style="width: 282px; height: 199px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/19804.%E2%80%85%D0%94%D0%B5%D0%BD%D1%8C%E2%80%85%D1%80%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%E2%80%85%D0%B2%D0%B8%D0%BA%D0%B8%D0%BD%D0%B3%D0%B0/dcd905ba.png" data-original-src="https://upload.acmicpc.net/088a1d78-9588-4aaf-9662-39e6beef80f5/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 282px; height: 199px;" /></p>
 
 <p style="text-align: center;">Одно из возможных расположений разреза во втором примере.</p>

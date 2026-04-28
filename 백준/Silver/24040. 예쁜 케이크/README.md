@@ -29,9 +29,9 @@
 
 <p>예를 들어, 아래 그림은 $N = 8$인 경우의 예쁜 케이크 중 하나와 그에 사용된 띠를 나타낸다.</p>
 
-<p style="text-align: center;"><img alt="예쁜 케이크 그림" src="https://upload.acmicpc.net/d4956718-50bc-4fa5-b891-ea89b80bd31a/" style="width: 500px; height: 205px;" /></p>
+<p style="text-align: center;"><img alt="예쁜 케이크 그림" src="%EB%B0%B1%EC%A4%80/Silver/24040.%E2%80%85%EC%98%88%EC%81%9C%E2%80%85%EC%BC%80%EC%9D%B4%ED%81%AC/bb9496b5.png" data-original-src="https://upload.acmicpc.net/d4956718-50bc-4fa5-b891-ea89b80bd31a/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 500px; height: 205px;" /></p>
 
-<p style="text-align: center;"><img alt="케이크 띠의 예시" src="https://upload.acmicpc.net/77d7dab9-b619-42b5-8b54-7ef3d67b72dd/" style="margin-top: 12px; margin-bottom: 12px; width: 500px; height: 38px;" /></p>
+<p style="text-align: center;"><img alt="케이크 띠의 예시" src="%EB%B0%B1%EC%A4%80/Silver/24040.%E2%80%85%EC%98%88%EC%81%9C%E2%80%85%EC%BC%80%EC%9D%B4%ED%81%AC/3262b16d.png" data-original-src="https://upload.acmicpc.net/77d7dab9-b619-42b5-8b54-7ef3d67b72dd/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="margin-top: 12px; margin-bottom: 12px; width: 500px; height: 38px;" /></p>
 
 <p>아쉽게도 $N$이 얼마인지에 따라 예쁜 케이크를 만들지 못 할 수도&nbsp;있다. 종서의 친구들을 위해 부피가 $N$인 예쁜 케이크를 만들 수 있는지 알려주자.</p>
 

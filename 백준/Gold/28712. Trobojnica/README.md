@@ -52,4 +52,4 @@
 
 <p>Poja&scaron;njenja probnih primjera: Lijevo je prikaz bojanja zastave prvog probnom prijema, u sredini drugog probnog prijema, i desno trećeg probnog primjera.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/d1875ad1-ec3c-46e6-8268-61463615b7ee/-/preview/" style="width: 469px; height: 200px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/28712.%E2%80%85Trobojnica/a57ba6d4.png" data-original-src="https://upload.acmicpc.net/d1875ad1-ec3c-46e6-8268-61463615b7ee/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 469px; height: 200px;" /></p>

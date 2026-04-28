@@ -18,7 +18,7 @@
 
 <p>평면에 N 개의 점이 주어져 있을 때, 이 N 개의 점을 모두 포함하는 가능한 작은 &ldquo; 두 개의 직사각형&rdquo; 을 찾으려 한다. 두 직사각형은 축에 평행하며, 여러분은 두 사각형 중 넓이가 큰 사각형의 넓이를 최소화해야 한다.&nbsp;</p>
 
-<p><img alt="" src="https://onlinejudgeimages.s3.amazonaws.com/problem/9061/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202017-01-03%20%EC%98%A4%ED%9B%84%205.47.30.png" style="height:208px; width:330px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/9061.%E2%80%85%EB%91%90%E2%80%85%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95/d43b9090.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/9061/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202017-01-03%20%EC%98%A4%ED%9B%84%205.47.30.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:208px; width:330px" /></p>
 
 <p>단, 위 그림에서 보는 바와 같이 두 직사각형은 위와 같이 서로 겹치지 않아야 하며 (변 혹은 꼭짓점이 서로 접하는 것은 가능하다.) 두 사각형이 같은 모양이거나 같은 넓이를 가질 필요는 없다. 문제는 두 직사각형 중 큰 것의 넓이를 최소화하여 그 넓이를 출력하는 것이다. (참고로 위 그림은 큰 사각형의 넓이를 더 줄일 수 있으므로 정답은 아니다. 아래의 Sample Input/Output 의 두 번째 테스트 케이스를 참조하시오.) 또한, 직사각형은 그 너비 혹은 높이가 0 인 경우도 가능하며, 그런 경우 직사각형의 넓이는 0 이다.&nbsp;</p>
 

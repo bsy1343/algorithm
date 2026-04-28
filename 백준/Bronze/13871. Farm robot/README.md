@@ -20,7 +20,7 @@
 
 <p>Since the farmer thinks his nephew is a smart boy, he took his advice and bought a robot scarecrow. The robot moves along a pathway that surrounds the corn field. In the pathway there are N unmanned charging stations, numbered sequentially in clockwise order starting from 1. The figure below shows an example with eight charging stations.</p>
 
-<p><img alt="" src="https://onlinejudgeimages.s3.amazonaws.com/problem/13871/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-11-19%20%EC%98%A4%EC%A0%84%203.55.17.png" style="height:123px; width:220px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/13871.%E2%80%85Farm%E2%80%85robot/32c15d86.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/13871/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-11-19%20%EC%98%A4%EC%A0%84%203.55.17.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:123px; width:220px" /></p>
 
 <p>The robot begins every day at station number 1, and is issued a sequence of commands that are to be performed in order during the day. These commands are generated based on advanced machine learning algorithms that work on data collected by sensors spread through the corn field, ensuring an optimal coverage of the crop. Each command results in the robot moving to another charging station next to the one it is currently at, either in clockwise or counter-clockwise direction.</p>
 

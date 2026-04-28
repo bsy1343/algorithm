@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/093f4b27-e33f-454a-a303-f89ed432cd74/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/26922.%E2%80%85Skolv%C3%A4gen/15b2deb1.png" data-original-src="https://upload.acmicpc.net/093f4b27-e33f-454a-a303-f89ed432cd74/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p style="text-align: center;">Den streckade linjen visar Cissis v&auml;g i f&ouml;rsta exemplet.</p>
 

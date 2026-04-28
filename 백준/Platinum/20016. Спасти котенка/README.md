@@ -36,6 +36,6 @@
 
 ### 힌트
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/1e78d2c6-1c46-4bc0-962e-01b50d475208/-/preview/" style="width: 252px; height: 114px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/20016.%E2%80%85%D0%A1%D0%BF%D0%B0%D1%81%D1%82%D0%B8%E2%80%85%D0%BA%D0%BE%D1%82%D0%B5%D0%BD%D0%BA%D0%B0/22451825.png" data-original-src="https://upload.acmicpc.net/1e78d2c6-1c46-4bc0-962e-01b50d475208/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 252px; height: 114px;" /></p>
 
 <p style="text-align: center;">Два способа для поля, приведенного в примере.</p>

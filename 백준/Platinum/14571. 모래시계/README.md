@@ -20,7 +20,7 @@
 
 <p>모래시계는 아래와 같이 생겼다.</p>
 
-<p style="text-align:center"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14571/1.png" style="height:158px; width:133px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/14571.%E2%80%85%EB%AA%A8%EB%9E%98%EC%8B%9C%EA%B3%84/2587ec97.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14571/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:158px; width:133px" /></p>
 
 <p>좀 더 정확히 말하면, 다음의 조건을 만족하는 부분그래프를 모래시계라 한다.</p>
 
@@ -32,7 +32,7 @@
 
 <p>3번 조건에 대한 예시를 부연설명하자면, 아래와 같은 그래프에서 진한 부분도 모래시계이다.</p>
 
-<p style="text-align:center"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14571/2.png" style="height:167px; width:198px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/14571.%E2%80%85%EB%AA%A8%EB%9E%98%EC%8B%9C%EA%B3%84/5cab94c8.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14571/2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:167px; width:198px" /></p>
 
 <p>만일 어떤 두 모래시계에 대해, 두 모래시계에 속한 정점과 간선의 합집합이 두 모래시계 중 어느 한 쪽과 동일할 때, 이 두 모래시계는 동일한 모래시계라고 한다. 이 조건을 만족하지 않는 모든 두 모래시계는 서로 다른 모래시계이다.</p>
 

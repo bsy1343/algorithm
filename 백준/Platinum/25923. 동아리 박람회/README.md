@@ -18,7 +18,7 @@
 
 <p>기나긴 비대면의 시대가 끝나고 연세대에도 동아리 박람회가 열리게 되었다! 오랜만에 신촌에 오게 된 건우도 설레는 마음으로 동아리 박람회를 둘러보기로 했다. </p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/9c48b5d8-7d8d-4fbd-9ddb-9a2091a3303c/-/preview/" style="width: 1000px; height: 196px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/25923.%E2%80%85%EB%8F%99%EC%95%84%EB%A6%AC%E2%80%85%EB%B0%95%EB%9E%8C%ED%9A%8C/8d789490.png" data-original-src="https://upload.acmicpc.net/9c48b5d8-7d8d-4fbd-9ddb-9a2091a3303c/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 1000px; height: 196px;" /></p>
 
 <p>동아리 박람회는 각 동아리가 부스에서 동아리를 홍보하는 행사이다. 동아리 부스는 백양로를 따라 일렬로 설치되어 있으며, $1$번부터 $N$번까지의 번호가 차례대로 붙어 있다. 이웃한 부스 사이의 거리는 $1$이며, $i$번 부스와 $j$번 부스 사이의 거리는 $|i-j|$이다. </p>
 

@@ -18,7 +18,7 @@
 
 <p>In the figure below you can see triangle ABC and its in-circle (Circle that touches all the sides of a triangle internally). The radius of this in circle is r. Three other circles are drawn. Each of them touches two sides of this triangle and the in circle of ABC. The radiuses of these circles are r<sub>1</sub>, r<sub>2</sub> and r<sub>3</sub>.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/81a0b6bb-db68-4660-92c2-d0710c24ebd3/-/preview/" style="width: 365px; height: 246px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/5654.%E2%80%85In-circles%E2%80%85Again/5fbf25b9.png" data-original-src="https://upload.acmicpc.net/81a0b6bb-db68-4660-92c2-d0710c24ebd3/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 365px; height: 246px;" /></p>
 
 <p>Given the values of r, r<sub>1</sub>, r<sub>2</sub> and r<sub>3</sub> you will have to find the area of triangle ABC.</p>
 

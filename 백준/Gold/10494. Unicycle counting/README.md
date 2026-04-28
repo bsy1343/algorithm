@@ -22,7 +22,7 @@
 
 <p>The figures below illustrate the sample input. Each thick black vertical stripe represents a mark left by a tire.</p>
 
-<p style="text-align: center;"><img alt="" src="/upload/images2/unicycle.png" style="height:191px; width:586px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/10494.%E2%80%85Unicycle%E2%80%85counting/830de45e.png" data-original-src="https://www.acmicpc.net/upload/images2/unicycle.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:191px; width:586px" /></p>
 
 ### 입력
 

@@ -23,7 +23,7 @@
 	(0,0)에서 (x,y)가 보이려면 (0,0)과 (x,y)를 연결하는 직선이 다른 점을 통과하지 않아야 한다. 예를 들어 (4,2)는 (0,0)에서 보이지 않는다. 그 이유는 (0,0)과 (4,2)를 연결하는 직선이 (2,1)을 통과하기 때문이다. 아래 그림은 0 &lt;= x,y&lt;=5인 경우에 (0,0)에서 보이는 점의 개수이다. 단, (0,0)은 계산하지 않는다.</p>
 
 <p>
-	<img alt="" src="/upload/images/qqwq.png" style="width: 221px; height: 208px; " /></p>
+	<img alt="" src="%EB%B0%B1%EC%A4%80/Silver/2725.%E2%80%85%EB%B3%B4%EC%9D%B4%EB%8A%94%E2%80%85%EC%A0%90%EC%9D%98%E2%80%85%EA%B0%9C%EC%88%98/c165981d.png" data-original-src="https://www.acmicpc.net/upload/images/qqwq.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 221px; height: 208px; " /></p>
 
 <p>
 	N이 주어졌을 때, 원점에서 보이는 (x,y) 좌표의 개수를 출력하시오. (0 &lt;= x,y &lt;= N)</p>

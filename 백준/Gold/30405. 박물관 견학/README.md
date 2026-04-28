@@ -20,7 +20,7 @@
 
 <p>모든 아기 고양이들은 출입구를 통해서 입장한 뒤, 자신이 원하는 순서대로 전시를 관람하고 난 뒤 다시 출입구를 통해 퇴장한다. $i$번째 전시관과 $j$번째 전시관 사이 이동 거리는 $|j - i|$로 계산한다.</p>
 
-<p style="text-align: center;"><img alt="왕 춘배" src="https://upload.acmicpc.net/7be5888f-c301-4826-860d-e309f1f3e258/-/preview/" style="max-height:200px; object-fit:contain; display:inline-block;" /></p>
+<p style="text-align: center;"><img alt="왕 춘배" src="%EB%B0%B1%EC%A4%80/Gold/30405.%E2%80%85%EB%B0%95%EB%AC%BC%EA%B4%80%E2%80%85%EA%B2%AC%ED%95%99/20467f14.png" data-original-src="https://upload.acmicpc.net/7be5888f-c301-4826-860d-e309f1f3e258/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="max-height:200px; object-fit:contain; display:inline-block;" /></p>
 
 <p>박물관 관장인 춘배는 $M$개 전시관 중 하나에 아기 고양이들을 위한 출입구를 설치하려고 한다. 춘배는 모든 아기 고양이들의 이동 거리의 합이 최소가 되는 지점에 출입구를 설치하고 싶지만, 박물관의 크기가 커서 설치 위치를 정하는 데 어려움을 겪고 있다.</p>
 

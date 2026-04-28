@@ -20,7 +20,7 @@
 
 <p style="text-align: center;">&nbsp;</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/8ee2ce30-4f6d-4ae4-ab53-21f92969b9b3/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/22237.%E2%80%85%EA%B0%80%ED%9D%AC%EC%99%80%E2%80%85%EA%B1%B0%EB%B6%81%EC%9D%B4%E2%80%85%EC%9D%B8%ED%98%95/9fea2ea9.png" data-original-src="https://upload.acmicpc.net/8ee2ce30-4f6d-4ae4-ab53-21f92969b9b3/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p style="text-align: center;"><strong>[그림 1] 거북이 인형 위에서 또아리를 튼 가희</strong></p>
 

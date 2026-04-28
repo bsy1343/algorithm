@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p><img alt="" src="https://upload.acmicpc.net/b33bc01c-93de-4a2a-8693-d40e7a7c1b73/-/preview/" style="width: 300px; height: 179px; float: right;" />Аня разделила доску размера m &times; n на клетки размера 1 &times; 1 и раскрасила их в черный и белый цвет в шахматном порядке. Васю заинтересовал вопрос: клеток какого цвета получилось больше &mdash; черного или белого.&nbsp;</p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/21649.%E2%80%85%D0%A8%D0%B0%D1%85%D0%BC%D0%B0%D1%82%D0%BD%D0%B0%D1%8F%E2%80%85%D0%B4%D0%BE%D1%81%D0%BA%D0%B0/2609f3c6.png" data-original-src="https://upload.acmicpc.net/b33bc01c-93de-4a2a-8693-d40e7a7c1b73/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 300px; height: 179px; float: right;" />Аня разделила доску размера m &times; n на клетки размера 1 &times; 1 и раскрасила их в черный и белый цвет в шахматном порядке. Васю заинтересовал вопрос: клеток какого цвета получилось больше &mdash; черного или белого.&nbsp;</p>
 
 <p>Для того, чтобы выяснить это, он спросил у Ани, в какой цвет она раскрасила j-ю клетку в i-м ряду доски. По этой информации Вася попытался &nbsp;определить, клеток какого цвета на доске больше.&nbsp;&nbsp; &nbsp;&nbsp;</p>
 

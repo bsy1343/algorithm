@@ -18,7 +18,7 @@
 
 <p>JOI 君はテンキーを&nbsp;<var>1</var>&nbsp;つ持っている．このテンキーには&nbsp;<var>0</var>&nbsp;から&nbsp;<var>9</var>&nbsp;までの数字が印字されているキーが以下の図のように配置されている．&nbsp;<var>2</var>&nbsp;が印字されたキーの下，および&nbsp;<var>3</var>&nbsp;が印字されたキーの下にはキーは存在しないことに注意せよ．</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/362ffde3-cb34-461b-882d-e7e2e413c878/-/preview/" style="width: 153px; height: 186px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/18420.%E2%80%85%E3%83%86%E3%83%B3%E3%82%AD%E3%83%BC%E2%80%85(Tenkey)/38afaa43.png" data-original-src="https://upload.acmicpc.net/362ffde3-cb34-461b-882d-e7e2e413c878/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 153px; height: 186px;" /></p>
 
 <p>またこのテンキーには，テンキーに配置されているキーのうち&nbsp;<var>1</var>&nbsp;つのキーを指し示すカーソルが存在している．カーソルは最初&nbsp;<var>0</var>&nbsp;が印字されているキーを指し示している．</p>
 

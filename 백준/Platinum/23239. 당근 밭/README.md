@@ -20,7 +20,7 @@
 
 <p>만일 마구간의 크기가 11 &times;&nbsp;6이고 묶은 줄의 길이가 9일때, 말이 먹을 수 있는 당근이 그림 B.1 의 오른쪽 그림에서 점으로 표시되어 있다. 단, 말과 말을 묶은 줄은 마굿간안으로는 들어갈 수 없으며 마굿간의 경계와 내부에는 당근이 심어져 있지 않다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/615e851b-5658-4de7-878a-d050e06cc9bc/-/preview/" style="width: 549px; height: 240px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/23239.%E2%80%85%EB%8B%B9%EA%B7%BC%E2%80%85%EB%B0%AD/cfe3906c.png" data-original-src="https://upload.acmicpc.net/615e851b-5658-4de7-878a-d050e06cc9bc/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 549px; height: 240px;" /></p>
 
 <p style="text-align: center;">그림 B.1 (왼쪽) 마구간과 길이 9 인 줄에 묶인 말. (오른쪽) 말이 먹을 수 있는 모든 당근 (점).</p>
 

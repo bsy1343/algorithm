@@ -62,6 +62,6 @@
 
 <p>The following figure corresponds to the game configuration.</p>
 
-<p><img alt="" src="/upload/images2/cnm.png" style="height:176px; width:138px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/10363.%E2%80%85Circle%E2%80%85and%E2%80%85Marble/6586dea3.png" data-original-src="https://www.acmicpc.net/upload/images2/cnm.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:176px; width:138px" /></p>
 
 <p>First player plays move(1, 2) resulting &lang;0, 2, 2, 3&rang;. Second player has no choice but to response with move(3, 4) resulting &lang;0, 2, 1, 4&rang;. First player then move the only marble in circle 3 to circle 4 and win the game.</p>

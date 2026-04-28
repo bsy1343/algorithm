@@ -36,6 +36,6 @@
 
 <p>Image of the rook placement for the third test case:</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/b9e91143-9218-4c8d-a6d8-d528094d3a5e/-/preview/" style="width: 300px; height: 186px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/24843.%E2%80%85Friendly%E2%80%85Rooks/82855ee3.png" data-original-src="https://upload.acmicpc.net/b9e91143-9218-4c8d-a6d8-d528094d3a5e/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 300px; height: 186px;" /></p>
 
 <p>Red marks the squares that the lower left rook can capture, blue marks the squares that the upper right rook can capture, purple --- squares that can be captured by both rooks.</p>

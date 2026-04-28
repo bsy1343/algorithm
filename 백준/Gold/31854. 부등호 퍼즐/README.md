@@ -18,15 +18,15 @@
 
 <p>부등호 퍼즐은 $1$부터 $N^2$까지의 정수를 모두 이용하여 $N \times N$ 격자판을 채우는 퍼즐이다. 격자 칸 사이에는 부등호가 그려져 있는데, 인접한 두 격자 칸의 정수가 만족해야 하는 대소 관계를 의미한다. 예를 들어, 다음과 같은 $3 \times 3$ 부등호 퍼즐이 주어졌다고 하자.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/354f6113-4b3a-428c-9330-ba2c9e21d137/-/preview/" style="width: 400px; height: 400px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/31854.%E2%80%85%EB%B6%80%EB%93%B1%ED%98%B8%E2%80%85%ED%8D%BC%EC%A6%90/110473fd.png" data-original-src="https://upload.acmicpc.net/354f6113-4b3a-428c-9330-ba2c9e21d137/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 400px; height: 400px;" /></p>
 
 <p>맨 왼쪽 맨 위에 위치한 격자판을 보자. 가로로 인접한 격자판과 세로로 인접한 격자판 사이에는 부등호가 적혀있다. 이때 다음 그림과 같이 주어진 대소 관계를 만족하면서 격자판에 정수를 채워 넣을 수 있다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/d8047077-b474-4fec-8f85-d9fd308df1d9/-/preview/" style="width: 500px; height: 249px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/31854.%E2%80%85%EB%B6%80%EB%93%B1%ED%98%B8%E2%80%85%ED%8D%BC%EC%A6%90/dab45887.png" data-original-src="https://upload.acmicpc.net/d8047077-b474-4fec-8f85-d9fd308df1d9/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 500px; height: 249px;" /></p>
 
 <p>이와 같이 주어진 격자판 간의 대소 관계를 만족하면서 $1$부터 $9$까지의 모든 정수를 이용하여 다음과 같이 퍼즐을 완성할 수 있다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/87a464c7-3373-41bf-a610-229effe9d0be/-/preview/" style="width: 400px; height: 400px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/31854.%E2%80%85%EB%B6%80%EB%93%B1%ED%98%B8%E2%80%85%ED%8D%BC%EC%A6%90/8c226476.png" data-original-src="https://upload.acmicpc.net/87a464c7-3373-41bf-a610-229effe9d0be/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 400px; height: 400px;" /></p>
 
 <p>$N \times N$ 부등호 퍼즐이 주어질 때 퍼즐의 해답을 출력하는 프로그램을 작성하라. 가능한 답이 여러 가지라면 그중 아무거나 하나를 출력한다.</p>
 

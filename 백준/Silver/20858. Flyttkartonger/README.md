@@ -22,7 +22,7 @@
 
 <p>Du befinner dig just nu p&aring; stapel $1$. Tyv&auml;rr kanske det &auml;r om&ouml;jligt f&ouml;r dig att komma till stapel $N$. Men som tur &auml;r f&aring;r du l&auml;gga till valfritt antal <em>extra</em>&nbsp;kartonger till stapel $1$ innan du b&ouml;rjar g&aring;. Skriv ett program som ber&auml;knar hur m&aring;nga extra kartonger du beh&ouml;ver l&auml;gga till f&ouml;r att kunna ta dig till stapel $N$.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/e11b31c0-70a3-4b51-830b-f5168789dfd9/-/preview/" style="width: 270px; height: 127px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/20858.%E2%80%85Flyttkartonger/0dce3b5f.png" data-original-src="https://upload.acmicpc.net/e11b31c0-70a3-4b51-830b-f5168789dfd9/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 270px; height: 127px;" /></p>
 
 <p style="text-align: center;">Bilden visar exempel 1. De m&ouml;rkgr&aring; kartongerna &auml;r extrakartonger. Strategin &auml;r allts&aring; att knuffa ner den &ouml;versta extrakartongen till stapel 2. D&auml;refter kan man g&aring; raka v&auml;gen till stapel 4. Det hade inte hade fungerat med f&auml;rre &auml;n 3 extrakartonger.</p>
 

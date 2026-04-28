@@ -43,7 +43,7 @@
 
 <p>The integers identify the positions of person A and person B in a family tree envisioned as follows: consider a full binary tree in which the root is numbered 0, its children are numbered 1 and 2, the children of 1 are 3 and 4, the children of 2 are 5 and 6, and numbering proceeds in that manner, level by level, left to right. This numbering scheme is shown in the diagram below. A parent-child relationship in this tree represents a parent-child relationship in the family.</p>
 
-<p style="text-align: center;"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11513/1.png" style="height:326px; width:661px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/11513.%E2%80%85Kinfolk/571bd16c.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11513/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:326px; width:661px" /></p>
 
 ### 출력
 

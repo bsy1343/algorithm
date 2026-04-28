@@ -26,7 +26,7 @@
 
 <p>As an example, the picture below illustrates a scenario with $\mathbf{W} = 2$ stations on the west side and $\mathbf{E} = 3$ stations on the east side. There are $2$ possible overpasses shown.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/22f35861-6fbb-476b-b019-5923026244ad/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/29802.%E2%80%85Indispensable%E2%80%85Overpass/cd552433.png" data-original-src="https://upload.acmicpc.net/22f35861-6fbb-476b-b019-5923026244ad/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>This table shows the lengths of the paths between pairs of stations if each overpass were to be built.</p>
 
@@ -142,4 +142,4 @@
 
 <p>Sample Case #1 is explained and illustrated in the problem statement. Sample Case #2 and Sample Case #3 are illustrated below.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/a0fd40ab-df4d-4287-98ae-d7e5e9ab2365/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/29802.%E2%80%85Indispensable%E2%80%85Overpass/f86ca709.png" data-original-src="https://upload.acmicpc.net/a0fd40ab-df4d-4287-98ae-d7e5e9ab2365/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>

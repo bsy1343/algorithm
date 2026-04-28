@@ -32,7 +32,7 @@
 
 <p style="text-align: justify;">예를 들어, 아래 그림에서 P 명령을 실행한 후 이동할 위치는 $DP$와 $CC$의 상태에 따라 표시된 8가지 중 하나가 된다. $DP$가 오른쪽, $CC$가 왼쪽이면 1로 이동하며, $DP$가 아래, $CC$가 오른쪽이면 4로 이동하게 된다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/f118bef5-c49d-4e3b-bc76-c1ba69f175e5/-/preview/" style="width: 200px; height: 200px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/25800.%E2%80%85%EC%B4%88%EC%BD%9C%EB%A6%BF%E2%80%85%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%E2%80%85%EC%96%B8%EC%96%B4/3e4156c1.png" data-original-src="https://upload.acmicpc.net/f118bef5-c49d-4e3b-bc76-c1ba69f175e5/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 200px; height: 200px;" /></p>
 
 <p>이때 이동할 칸이 빈 칸이거나 프로그램 영역 밖이면 이동할 수 없으며, 다음과 같이 $DP$와 $CC$를 바꿔가며 이동할 칸을 찾는다.</p>
 

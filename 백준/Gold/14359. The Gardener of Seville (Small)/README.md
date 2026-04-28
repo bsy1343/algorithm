@@ -48,7 +48,7 @@
 
 <p>In Case #3, the following pairs of courtiers are lovers: (8, 1), (4, 5), (2, 3), (7, 6). Here is an illustration of our sample output:</p>
 
-<p><img src="https://onlinejudgeimages.s3.amazonaws.com/problem/14359/%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C%20(3).png" style="height:165px; width:153px" /></p>
+<p><img src="%EB%B0%B1%EC%A4%80/Gold/14359.%E2%80%85The%E2%80%85Gardener%E2%80%85of%E2%80%85Seville%E2%80%85(Small)/40ed1a24.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/14359/%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C%20(3).png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:165px; width:153px" /></p>
 
 <p>For Case #3, note that this would also be a valid maze:</p>
 

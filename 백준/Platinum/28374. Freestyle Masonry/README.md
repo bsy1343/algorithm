@@ -18,7 +18,7 @@
 
 <p>Fred got a simple task, he just has to build a $w\times h$ wall. To make this even easier, he was provided with enough $2\times1$ bricks and also a few $1\times1$ bricks to complete the wall. Knowing that this task should not be too hard, Fred went to work and started building the wall without thinking too much about the design. Only when he ran out of $1\times1$ bricks, Fred noticed that this might have been a bad idea...</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/cc97b2ce-1f8b-4b69-81d5-66a380deb79d/-/preview/" style="width: 197px; height: 100px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/28374.%E2%80%85Freestyle%E2%80%85Masonry/dbc5da07.png" data-original-src="https://upload.acmicpc.net/cc97b2ce-1f8b-4b69-81d5-66a380deb79d/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 197px; height: 100px;" /></p>
 
 <p style="text-align: center;">Figure F.1: Visualization of Sample Input $2$. The red bricks have already been placed by Fred. The blue bricks still need to be placed to complete the wall (the only possible design in this case).</p>
 

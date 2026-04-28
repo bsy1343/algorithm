@@ -22,7 +22,7 @@
 
 <p>양의 유리수는 다음 그림처럼 열거할 수 있다.</p>
 
-<p><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14723/1.png" style="height:279px; width:295px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/14723.%E2%80%85%EC%9D%B4%EC%82%B0%EC%88%98%ED%95%99%E2%80%85%EA%B3%BC%EC%A0%9C/1b46b452.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14723/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:279px; width:295px" /></p>
 
 <p>첫 번째 유리수는 1/1, 두 번째 유리수는 2/1, 세 번째 유리수는 1/2, 네 번째 유리수는 3/1, 다섯 번째 유리수는 2/2, ... 이다.</p>
 

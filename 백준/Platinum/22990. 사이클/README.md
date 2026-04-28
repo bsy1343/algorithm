@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/18a4fb63-b67a-4674-860d-a5dd1b110bfd/-/preview/" style="width: 357px; height: 180px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/22990.%E2%80%85%EC%82%AC%EC%9D%B4%ED%81%B4/960dedc8.png" data-original-src="https://upload.acmicpc.net/18a4fb63-b67a-4674-860d-a5dd1b110bfd/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 357px; height: 180px;" /></p>
 
 <p>정점이 $N$개, 가중치가 있는 간선이 $M$개인 방향 그래프가 주어진다.</p>
 

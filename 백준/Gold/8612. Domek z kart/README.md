@@ -34,6 +34,6 @@
 
 ### 힌트
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/50052176-976d-4c29-8a3a-c1d6cb5b3d8f/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/8612.%E2%80%85Domek%E2%80%85z%E2%80%85kart/f3bcd1a9.png" data-original-src="https://upload.acmicpc.net/50052176-976d-4c29-8a3a-c1d6cb5b3d8f/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p align="center">Karty, kt&oacute;re Marcel powinien wyjąć z wieży, zostały zaznaczone na rysunku liniami przerywanymi. Mają one wartości: $1$, $-3$, $2$, $1$, $-1$, $5$, a więc suma ich wartości to $5$.</p>

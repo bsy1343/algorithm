@@ -18,7 +18,7 @@
 
 <p>An international newspaper, available in New Zealand, has a letter puzzle called Target. The puzzle presents a grid of 9 letters, from which participants are asked to make words of at least 4 letters. At least one of the words must contain all nine letters. The central letter in the grid must be contained in each word.</p>
 
-<p><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/5106/1.png" style="float:left; height:145px; width:104px" />In the example shown, all words must contain the letter P. The solution the paper gave for this puzzle is:</p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/5106.%E2%80%85Target/3dfa99a8.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/5106/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="float:left; height:145px; width:104px" />In the example shown, all words must contain the letter P. The solution the paper gave for this puzzle is:</p>
 
 <pre>
 apian apron camp campion capon carp corpa corp cramp crampon crimp

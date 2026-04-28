@@ -32,6 +32,6 @@
 
 ### 힌트
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/b29fb276-f369-4219-bfaf-d6a2dc55f210/-/preview/" style="width: 150px; height: 129px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/8250.%E2%80%85Malowanie/9305d776.png" data-original-src="https://upload.acmicpc.net/b29fb276-f369-4219-bfaf-d6a2dc55f210/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 150px; height: 129px;" /></p>
 
 <p>Do wyniku wliczają się obszary zamalowane na rysunku ciemniejszym i najciemniejszym kolorem.</p>

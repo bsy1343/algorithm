@@ -44,4 +44,4 @@
 
 <p>The second test case is <span style="text-align:center;">shown</span> in the figure below.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/0c6c6da5-e505-4975-9ab3-0f35ea5f7568/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/27641.%E2%80%85Brain%E2%80%85fold%E2%80%85(Hard)/6a63d006.png" data-original-src="https://upload.acmicpc.net/0c6c6da5-e505-4975-9ab3-0f35ea5f7568/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>

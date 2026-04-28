@@ -44,4 +44,4 @@
 
 <p>Wyjaśnienie do przykładu: Poniższy rysunek przedstawia sieć połączeń zgodną z informacjami zdobytymi przez Bajtazara; umieszczono na niej r&oacute;wnież długości tuneli.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/48c76b51-d7e5-4e83-8e4b-711f581ea11b/-/preview/" style="width: 300px; height: 145px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/26835.%E2%80%85Plan%E2%80%85metra/633e60db.png" data-original-src="https://upload.acmicpc.net/48c76b51-d7e5-4e83-8e4b-711f581ea11b/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 300px; height: 145px;" /></p>

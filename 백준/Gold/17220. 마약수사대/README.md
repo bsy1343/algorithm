@@ -26,7 +26,7 @@
 	<li>I는 J에게, J는 K에게, D는 G에게, E는 H에게 각각 마약을 공급한다.</li>
 </ul>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/0551e2c1-60b4-4bf1-b561-04c2f4ece589/-/preview/" style="width: 303px; height: 370px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/17220.%E2%80%85%EB%A7%88%EC%95%BD%EC%88%98%EC%82%AC%EB%8C%80/4efc4d5a.png" data-original-src="https://upload.acmicpc.net/0551e2c1-60b4-4bf1-b561-04c2f4ece589/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 303px; height: 370px;" /></p>
 
 <p>마약수사대는&nbsp;소재를 파악하고 있는&nbsp;마약 공급책을 검거할 수 있다.</p>
 

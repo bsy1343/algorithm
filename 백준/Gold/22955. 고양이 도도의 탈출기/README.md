@@ -28,7 +28,7 @@
 
 <p>이때, 평평한 바닥 위에서의 이동과 사다리 타기, 바닥으로 착지하는 행동은 별개의 행동으로 본다. 예시로&nbsp;고양이 도도가 사다리가 있는 위치로 1칸 이동한 후 사다리를 타고 1칸을 올라간다면 총 6만큼의 체력이 소비된다. 고양이 도도가 체력을 가장 적게 소비하며 탈출하고자 할 때 고양이 도도는 얼마의 체력으로 탈출할 수 있을까?</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/4c5b7fa5-a290-4457-8dda-822d9eeca5df/-/preview/" style="height: 330px; width: 602px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/22955.%E2%80%85%EA%B3%A0%EC%96%91%EC%9D%B4%E2%80%85%EB%8F%84%EB%8F%84%EC%9D%98%E2%80%85%ED%83%88%EC%B6%9C%EA%B8%B0/ef681a20.png" data-original-src="https://upload.acmicpc.net/4c5b7fa5-a290-4457-8dda-822d9eeca5df/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 330px; width: 602px;" /></p>
 
 ### 입력
 

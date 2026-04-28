@@ -18,7 +18,7 @@
 
 <p>Carol enjoys playing with wooden games. The objective of the game that fascinates her the most is to tilt a maze, made out of 1 cm-by-1 cm blocks, in any of the four cardinal directions to move a ball to a hole in the centre at (0, 0). As shown in Figure G.1, once the 1 cm wide ball starts moving, it keeps going until either it runs into a wooden block, or it falls into the hole&mdash;whichever comes first.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/ff434cb1-0332-44b1-992e-ce10015475af/-/preview/" style="width: 581px; height: 226px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/16607.%E2%80%85Game%E2%80%85Design/26df35a4.png" data-original-src="https://upload.acmicpc.net/ff434cb1-0332-44b1-992e-ce10015475af/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 581px; height: 226px;" /></p>
 
 <p style="text-align: center;">Figure G.1: Illustration of Sample Output 1.</p>
 

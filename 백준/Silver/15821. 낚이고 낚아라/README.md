@@ -20,7 +20,7 @@
 
 <p>낚싯줄을 최대한 멀리 보낼 수 있는 거리를 <strong>낚시 거리</strong>라고 하며, 낚시 거리를 반지름으로 원을 그렸을 때 모든 영역이 원의 내부에 포함되는 낚시터를 <strong>유효 낚시터</strong>라고 한다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15821/1.png" style="width: 402px; height: 347px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/15821.%E2%80%85%EB%82%9A%EC%9D%B4%EA%B3%A0%E2%80%85%EB%82%9A%EC%95%84%EB%9D%BC/3d6fed6d.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15821/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 402px; height: 347px;" /></p>
 
 <p style="text-align: center;">그림1. N=6, K=5일 때의 예시</p>
 

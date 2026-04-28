@@ -24,7 +24,7 @@
 
 <p>이제 상현이가 통근 요금의 기댓값이 가장 적도록 출근할 수 있는 경로를 찾아 줄 프로그램을 작성하면 된다.</p>
 
-<p><img src="/upload/images/dogging.png" /></p>
+<p><img src="%EB%B0%B1%EC%A4%80/Platinum/9323.%E2%80%85%EB%AC%B4%EC%9E%84%EC%8A%B9%EC%B0%A8/332d6cdf.png" data-original-src="https://www.acmicpc.net/upload/images/dogging.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>위는 세 번째 예제이다. 도시 1에서 도시 4까지 가는 최적의 경로는 아래와 같다.</p>
 

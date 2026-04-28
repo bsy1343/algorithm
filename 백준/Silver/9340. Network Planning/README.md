@@ -65,12 +65,12 @@
 
 <p>In this illustration, you will see that if they construct a new service station in City 3 only, it will maximize the total supply to 360 liters.</p>
 
-<p><img alt="" src="/upload/images/network1.png" style="height:168px; width:477px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/9340.%E2%80%85Network%C2%A0Planning/04e3c131.png" data-original-src="https://www.acmicpc.net/upload/images/network1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:168px; width:477px" /></p>
 
 <p>The second example</p>
 
 <p>In this example, there are two best solutions. Constructing new stations in city 1, city 2 and city 5 will give the same profit as constructing new stations in city 1, city 3 and city 5. We must answer 1 2 5 because it appear first in lexicographical order. The total supply will be 268.2 for the city 1, 182.6 for the city 2 and 290 for the city 5. The city 4 which we already have a service station supplies 150 liters. The total supply is 268.2 + 182.6 + 290 + 150 = 890.8. This is rounded to 891.&nbsp;</p>
 
-<p><img alt="" src="/upload/images/network2.png" style="height:173px; width:711px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/9340.%E2%80%85Network%C2%A0Planning/6c79747a.png" data-original-src="https://www.acmicpc.net/upload/images/network2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:173px; width:711px" /></p>
 
 <p>&nbsp;</p>

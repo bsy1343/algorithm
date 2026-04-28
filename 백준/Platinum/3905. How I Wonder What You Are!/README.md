@@ -36,7 +36,7 @@
 
 <p>Let us define that &theta;<sub>i,j</sub> is the angle between the direction of the i-th star and the center direction of the j-th telescope and &psi;<sub>j</sub> is the angular radius of the sight filed of the j-th telescope. The i-th star is observable through the j-th telescope if and only if &theta;<sub>i,j</sub> is less than &psi;<sub>j</sub>. You may assume that |&theta;<sub>i,j</sub> - &psi;<sub>j</sub>| &gt; 0.00000001 for all pairs of i and j.</p>
 
-<p style="text-align: center;"><img alt="" src="/upload/imagesa/figureA1(1).png" style="height:383px; opacity:0.9; width:499px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/3905.%E2%80%85How%E2%80%85I%E2%80%85Wonder%E2%80%85What%E2%80%85You%E2%80%85Are!/fcb84d68.png" data-original-src="https://www.acmicpc.net/upload/imagesa/figureA1(1).png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:383px; opacity:0.9; width:499px" /></p>
 
 <p style="text-align: center;">Figure 1: Direction and angular radius of a telescope</p>
 

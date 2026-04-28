@@ -20,7 +20,7 @@
 
 <p>Deja, Adomas nėra labai taiklus, todėl smigis gali pataikyti su vienoda tikimybe į bet kurį langelį, nutolusį nuo norimo langelio ne daugiau nei L langelių vertikaliai ir horizontaliai nuo nusitaikyto langelio. Tiksliau, jei Adomas taikosi į langelį (X; Y), jis gali pataikyti į bet kurį langelį (X&#39;; Y&#39;), jei |X &minus; X&#39;| &le; L ir |Y &minus; Y&#39;| &le; L. Jis nori sužinoti į kurį langelį reikia taikytis, kad vidutini&scaron;kai surinktų daugiausiai ta&scaron;kų.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/a7a2a834-41e6-4fe7-98a4-1e2a2406d188/-/preview/" style="width: 238px; height: 238px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/30283.%E2%80%85Smiginis/f5674d09.png" data-original-src="https://upload.acmicpc.net/a7a2a834-41e6-4fe7-98a4-1e2a2406d188/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 238px; height: 238px;" /></p>
 
 <p style="text-align: center;">1 pav.</p>
 

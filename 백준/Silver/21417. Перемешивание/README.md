@@ -22,7 +22,7 @@
 
 <p>Перемешивание карт происходит в несколько этапов. На каждом этапе Петя сначала по очереди берет карты из колоды от верхней к нижней и раскладывает их на две стопки: одну налево, одну направо, одну налево, одну направо. После этого он кладет левую стопку на правую. Эти действия повторяются $k$ раз.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/d6978c54-1ba0-47df-abdc-0c90575d3013/-/preview/" style="width: 563px; height: 142px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/21417.%E2%80%85%D0%9F%D0%B5%D1%80%D0%B5%D0%BC%D0%B5%D1%88%D0%B8%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/c776fba5.png" data-original-src="https://upload.acmicpc.net/d6978c54-1ba0-47df-abdc-0c90575d3013/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 563px; height: 142px;" /></p>
 
 <p>Помогите Васе определить, как будут лежать карты в колоде после перемешивания.</p>
 

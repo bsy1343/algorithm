@@ -23,7 +23,7 @@
 <p>Move one of its legs forward over any number of (possibly missing) planks. After the move, the leg should be on a plank and underneath one of Wormly&rsquo;s bubbles. A leg isn&rsquo;t allowed to overtake other legs.<br />
 Move all of its bubbles forward one plank while its legs remain on the same planks. After the move each leg must still be under one of Wormly&rsquo;s bubbles.</p>
 
-<p><img alt="" src="/upload/images2/worm.png" style="height:178px; width:365px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/3670.%E2%80%85Wormly/8963427f.png" data-original-src="https://www.acmicpc.net/upload/images2/worm.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:178px; width:365px" /></p>
 
 <p>In this example, the only possible move for the last leg is to position b. (The plank at position a is missing, so the leg cannot move there. To get to position c, the last leg would have to overtake the first leg.) Also, in this example, moving all the bubbles forward is not allowed because Wormly&rsquo;s last leg would end up without a bubble over it.</p>
 

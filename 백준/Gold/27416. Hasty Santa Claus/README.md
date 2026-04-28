@@ -50,6 +50,6 @@
 
 <p>The first sample is depicted in the figure below. Santa can leave the presents during the periods shown as horizontal lines with short vertical markers at both ends. For the House 4, Santa can visit only on a specific day. The triangles show the days on which Santa should visit each house.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/78f42f02-c70e-43b6-8cb5-542cb70daeda/-/preview/" style="width: 507px; height: 188px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/27416.%E2%80%85Hasty%E2%80%85Santa%E2%80%85Claus/ce54a791.png" data-original-src="https://upload.acmicpc.net/78f42f02-c70e-43b6-8cb5-542cb70daeda/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 507px; height: 188px;" /></p>
 
 <p style="text-align: center;">Figure A.1. Sample 1</p>

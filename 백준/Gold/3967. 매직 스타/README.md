@@ -18,7 +18,7 @@
 
 <p>매직 스타는 1부터 12까지 숫자가 헥사그램(hexagram)에 채워져 있는 모양으로 이루어져 있다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/upload/images/magicstar.png" style="height:239px; width:230px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/3967.%E2%80%85%EB%A7%A4%EC%A7%81%E2%80%85%EC%8A%A4%ED%83%80/b439de6b.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/upload/images/magicstar.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:239px; width:230px" /></p>
 
 <p>매직 스타의 이름에 매직이 들어가는 이유는 숫자 네 개로 이루어진 줄의 숫자를 모두 합하면 26이 되기 때문이다. 위의 그림의 여섯 줄에 쓰여 있는 숫자는 다음과 같다.</p>
 

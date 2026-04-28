@@ -18,7 +18,7 @@
 
 <p>나노의 머리 속에서는 두 개의 작은 시계가 돌아가고 있다. 시계 A에는 $1$부터 $N$까지의 눈금이 시계 방향 순서대로 그려져 있고, 시계 B에는 $1$부터 $M$까지의 눈금이 마찬가지로 그려져 있다. 각 시계의 시곗바늘은 $1$초에 한 칸씩 돌아가는데, A는 반시계 방향, B는 시계 방향으로 돌아간다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/84c37dc6-c75c-4b98-a577-2fe5207bda89/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/29258.%E2%80%85%EB%82%98%EB%85%B8%EC%9D%98%E2%80%85%EB%A8%B8%EB%A6%AC%E2%80%85%EC%86%8D%E2%80%85%EC%8B%9C%EA%B3%97%EB%B0%94%EB%8A%98/f8e56483.png" data-original-src="https://upload.acmicpc.net/84c37dc6-c75c-4b98-a577-2fe5207bda89/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>지금 두 시계의 시곗바늘은 모두 $1$을 가리키고 있다. 둘이 다시 서로 같은 정숫값을 가리키는 가장 이른 시점은 몇 초 후인지 계산해 보자.</p>
 

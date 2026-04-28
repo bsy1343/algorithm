@@ -24,7 +24,7 @@
 
 <p>행렬에 배열된 수를 <em>성분</em>이라고 한다. 행렬의 가로줄은 <em>행</em>이라고 부르며, 위에서부터 차례로 제1행, 제2행, 제3행, &hellip; 식으로 이름을 붙인다. 또한 행렬의 세로줄은 <em>열</em>이라고 부르며, 왼쪽에서부터 차례로 제1열, 제2열, 제3열, &hellip; 식으로 이름을 붙인다. \(m\)개의 행과 \(n\)개의 열로 이루어진 행렬은 <strong>\(m \times n\) 행렬</strong>이라고 한다. 마지막으로 제\(i\)행 제\(j\)열에 위치한 성분을 행렬의 \((i, j)\) 성분이라고 하며, 어떤 행렬 \(\textbf{A}\)의 \((i, j)\) 성분을 \(A_{ij}\)와 같이 표기한다고 한다.</p>
 
-<p style="text-align:center"><img alt="ㅎㅎ" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/12796/pic1.jpeg" style="height:405px; width:1000px" title="" /></p>
+<p style="text-align:center"><img alt="ㅎㅎ" src="%EB%B0%B1%EC%A4%80/Gold/12796.%E2%80%85%EB%82%98%EC%9D%98%E2%80%85%ED%96%89%EB%A0%AC%EA%B3%B1%EC%85%88%E2%80%85%EB%8B%B5%EC%82%AC%EA%B8%B0/b64e6969.jpeg" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/12796/pic1.jpeg" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:405px; width:1000px" title="" /></p>
 
 <p>그러면 행렬을 어떻게 곱한다는 것일까? 실수에서의 곱셈과 같이, 행렬의 곱셈도 두 개의 행렬을 가지고 할 수 있다. \(\textbf{A}\)가 \(m \times n\) 행렬이고, \(\textbf{B}\)가 \(n \times p\) 행렬일 때, \(\textbf{A}\)와 \(\textbf{B}\)의 곱 \(\textbf{AB}\)는 아래와 같은 \(m \times p\) 행렬로 정의된다고 한다.</p>
 

@@ -40,4 +40,4 @@
 
 <p>The only way to form an oblong is with points 1,2,7,8. Of the remaining four points there are two ways to form a right triangle from them.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/b8900cee-db65-4463-b03e-2f7d2555d8fa/-/crop/632x598/12,9/-/preview/" style="width: 316px; height: 299px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/16547.%E2%80%85Oblongs%E2%80%85and%E2%80%85Right%E2%80%85Triangles/b62bd861.png" data-original-src="https://upload.acmicpc.net/b8900cee-db65-4463-b03e-2f7d2555d8fa/-/crop/632x598/12,9/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 316px; height: 299px;" /></p>

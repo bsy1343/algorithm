@@ -34,4 +34,4 @@
 
 ### 힌트
 
-<p><img alt="" src="/upload/images2/drink.gif" style="height:200px; width:253px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/6545.%E2%80%85Drink%2C%E2%80%85on%E2%80%85Ice/bcab5b03.gif" data-original-src="https://www.acmicpc.net/upload/images2/drink.gif" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:200px; width:253px" /></p>

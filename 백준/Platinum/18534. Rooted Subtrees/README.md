@@ -40,7 +40,7 @@
 
 <p>The possible rootings of the first tree are</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/af3bd593-a654-4897-9d7a-870ae0469640/-/preview/" style="width: 489px; height: 130px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/18534.%E2%80%85Rooted%E2%80%85Subtrees/88a8b23d.png" data-original-src="https://upload.acmicpc.net/af3bd593-a654-4897-9d7a-870ae0469640/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 489px; height: 130px;" /></p>
 
 <p>Considering the rootings at 1 and 3, the 8 obtainable sets are:</p>
 

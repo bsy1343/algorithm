@@ -27,7 +27,7 @@
 
 <p>먼저 규현이는 문자를 위 규칙을 이용해 글자를 숫자로 바꾼 다음에 이것은 5자리 이진수로 바꾼다. 그 다음 아래 그림과 같이 소용돌이 패턴으로 행렬에 채운다. 행렬의 모든 칸을 채우지 못할 때는, 0으로 계속 채운다. 예를 들어 규현이가 보내려는 메시지가 &quot;ACM&quot;이고, R=4, C=4로 정했다면, 다음과 같이 행렬을 채우면 된다.</p>
 
-<p><img alt="" src="/upload/images/Screen%20Shot%202012-10-06%20at%20%EC%98%A4%EC%A0%84%2012_36_35.png" style="height:185px; width:126px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/2713.%E2%80%85%EA%B7%9C%ED%98%84%EC%9D%B4%EC%9D%98%E2%80%85%EC%82%AC%EB%9E%91%EC%9D%84%E2%80%85%EB%8B%B4%EC%9D%80%E2%80%85%EB%AC%B8%EC%9E%90%EB%A9%94%EC%8B%9C%EC%A7%80/a95cb2a4.png" data-original-src="https://www.acmicpc.net/upload/images/Screen%20Shot%202012-10-06%20at%20%EC%98%A4%EC%A0%84%2012_36_35.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:185px; width:126px" /></p>
 
 <p>A = 00001, C = 00011, M = 01101, 모자라는 칸은 0으로 채운다.</p>
 

@@ -22,11 +22,11 @@
 
 <p>Below you can see the three possible ways of creating a rectangle of width 2 and height 3.</p>
 
-<p style="text-align:center"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15243/1.png" style="height:83px; width:245px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/15243.%E2%80%85Tiling/068b40c7.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15243/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:83px; width:245px" /></p>
 
 <p>As you see there are many ways of tiling the rectangle. For example this is a possible solution with width 12:</p>
 
-<p style="text-align:center"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15243/2.gif" style="height:80px; width:273px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/15243.%E2%80%85Tiling/41736960.gif" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15243/2.gif" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:80px; width:273px" /></p>
 
 <p>Your task is to write a program that computes the number of possible ways of tiling a rectangle of width W and height 3.</p>
 

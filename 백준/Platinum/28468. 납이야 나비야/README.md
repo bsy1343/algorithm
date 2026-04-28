@@ -20,7 +20,7 @@
 
 <p>먼저, 성우는 엄청나게 큰 종이 위에 점 $N$개와 간선 $M$개를 찍는다. 그리고 이들 중 서로 다른 $7$개의 점을 순서대로 선택한다. 이 점을 각각 $a, b, c, d, e, f, g$라고 할 때, 선분 $(a, b)$, $(b, c)$, $(a, c)$, $(c, d)$, $(c, e)$, $(d, e)$, $(c, f)$, $(c, g)$가 모두 존재할 경우 성우는 이를 &#39;나비&#39;라 부른다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/45cf8615-2e0e-4eca-8caa-98c265ed0378/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/28468.%E2%80%85%EB%82%A9%EC%9D%B4%EC%95%BC%E2%80%85%EB%82%98%EB%B9%84%EC%95%BC/00d9c427.png" data-original-src="https://upload.acmicpc.net/45cf8615-2e0e-4eca-8caa-98c265ed0378/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>어떤 두 나비에 대해, 두 나비에 속한 간선의 집합이 같을 때, 이 두 나비는 같은 나비로 취급한다. 이 조건을 만족하지 않는 모든 두 나비는 서로 다른 나비다.</p>
 

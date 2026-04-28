@@ -20,7 +20,7 @@
 
 <p>현재 회사 망에는 1번부터 <em>N</em>번까지 총 <em>N</em>개의 통신 탑이 존재하며, 통신탑 간의 연결이 <em>M</em>개 존재한다. 이때 회사에서는 총 <em>Q</em>번 통신탑 간의 연결을 제거함으로써 하나의 통신망을 여러 개의 통신망으로 분리하려고 한다. 통신망이란, 통신탑의 연결을 통해 도달 가능한 통신탑들의 집합이다. 통신탑 간의 연결 관계를 제거할 때 드는 비용은 제거한 후 통신망이 두 개로 나누어진다면 나눠진 두 개의 통신망에 속한 통신탑들의 갯수의 곱이 되며, 나누어지지 않을 경우 0이다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/d75e532b-f1f9-4284-a0ef-8f06ad920998/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/17398.%E2%80%85%ED%86%B5%EC%8B%A0%EB%A7%9D%E2%80%85%EB%B6%84%ED%95%A0/eed4ff23.png" data-original-src="https://upload.acmicpc.net/d75e532b-f1f9-4284-a0ef-8f06ad920998/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p style="text-align: center;">&lt;그림 1&gt;</p>
 

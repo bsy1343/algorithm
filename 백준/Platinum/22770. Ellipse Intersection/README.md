@@ -27,7 +27,7 @@
 
 <p>Here is a sample:</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/6e4ec227-336a-4147-a533-85b2d5afa4e6/-/preview/" style="width: 201px; height: 202px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/22770.%E2%80%85Ellipse%E2%80%85Intersection/3c74e040.png" data-original-src="https://upload.acmicpc.net/6e4ec227-336a-4147-a533-85b2d5afa4e6/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 201px; height: 202px;" /></p>
 
 <p style="text-align: center;">Figure 1: Sample orbits</p>
 

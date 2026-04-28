@@ -18,7 +18,7 @@
 
 <p>Przypomnijmy jak wygląda drzewo binarne. Węzły tego drzewa będziemy numerowali kolejnymi liczbami naturalnymi od 1, idąc kolejnymi poziomami od g&oacute;ry do dołu poczynając od korzenia (wierzchołka na samej g&oacute;rze), a na każdym poziomie od lewej do prawej:</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/b47946e7-1262-4f05-8d3e-303f8a3f94c5/-/preview/" style="width: 443px; height: 254px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/26784.%E2%80%85Spacery%E2%80%85po%E2%80%85drzewie%E2%80%85binarnym/373e18dc.png" data-original-src="https://upload.acmicpc.net/b47946e7-1262-4f05-8d3e-303f8a3f94c5/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 443px; height: 254px;" /></p>
 
 <p style="text-align: center;">Drzewo binarne narysowane do węzła nr 18. Zwr&oacute;ć uwagę, że drzewo ma więcej niż 18 węzł&oacute;w.</p>
 

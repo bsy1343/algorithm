@@ -34,6 +34,6 @@
 
 <p>Following picture denotes genealogical tree of Bitian family. One of the optimal photos can contain members with numbers $7$, $6$, $8$, $1$, $2$, $5$, $3$ in this order. It can be shown it is impossible to have all of them on one photo.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/42e267b5-cf28-4e4a-8b53-64d2ce014f6d/-/preview/" style="width: 200px; height: 198px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/20582.%E2%80%85Family%E2%80%85photo/a87e2602.png" data-original-src="https://upload.acmicpc.net/42e267b5-cf28-4e4a-8b53-64d2ce014f6d/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 200px; height: 198px;" /></p>
 
 <p>&nbsp;</p>

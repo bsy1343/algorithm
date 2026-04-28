@@ -18,7 +18,7 @@
 
 <p><em>Figure 1</em> shows a honeycomb of numbers (side length of the honeycomb is 3). A route starts from some node in the uppermost row and ends at some node in the lowest row. From a node, the route can continue only diagonally down to the left or diagonally down to the right. When creating a route through the honeycomb, you are allowed to make <em>at most</em> one swap of two numbers on <em>at most</em> one horizontal row of the honeycomb. (Swapping essentially means that in one chosen row you are allowed to place the greatest number of that row to any position on the same row.) Your task is to write a program that calculates the highest sum of numbers on any route using the ability of swapping two numbers on a chosen row.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/72c4c636-3e14-4294-8576-4dac19f0f077/-/preview/" style="width: 194px; height: 198px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/3394.%E2%80%85Honeycomb%E2%80%85Problem/550653f7.png" data-original-src="https://upload.acmicpc.net/72c4c636-3e14-4294-8576-4dac19f0f077/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 194px; height: 198px;" /></p>
 
 <p style="text-align: center;">Figure 1. A honeycomb of side length 3.</p>
 

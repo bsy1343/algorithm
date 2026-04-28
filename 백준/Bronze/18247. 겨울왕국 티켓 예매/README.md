@@ -36,7 +36,7 @@
 
 <p>아래 사진은 <em>N</em> = 4, <em>M</em> = 6인 경우이다.</p>
 
-<p><img alt="" src="https://upload.acmicpc.net/2f8aa813-5fa1-4022-a3d6-55478030b9a2/-/preview/" style="height: 150px; width: 300px;" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/18247.%E2%80%85%EA%B2%A8%EC%9A%B8%EC%99%95%EA%B5%AD%E2%80%85%ED%8B%B0%EC%BC%93%E2%80%85%EC%98%88%EB%A7%A4/484093b5.png" data-original-src="https://upload.acmicpc.net/2f8aa813-5fa1-4022-a3d6-55478030b9a2/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 150px; width: 300px;" /></p>
 
 ### 출력
 
@@ -44,7 +44,7 @@
 
 ### 힌트
 
-<p><img alt="" src="https://upload.acmicpc.net/90113857-f281-4653-9342-c2e6625f831e/-/preview/" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/18247.%E2%80%85%EA%B2%A8%EC%9A%B8%EC%99%95%EA%B5%AD%E2%80%85%ED%8B%B0%EC%BC%93%E2%80%85%EC%98%88%EB%A7%A4/209f769e.png" data-original-src="https://upload.acmicpc.net/90113857-f281-4653-9342-c2e6625f831e/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p><strong>L4</strong></p>
 

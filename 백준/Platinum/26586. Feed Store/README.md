@@ -22,7 +22,7 @@
 
 <p>Here is an example:</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/b18b0900-775f-417b-acb9-8b990dd1d1aa/-/preview/" style="width: 471px; height: 185px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/26586.%E2%80%85Feed%E2%80%85Store/11862b0a.png" data-original-src="https://upload.acmicpc.net/b18b0900-775f-417b-acb9-8b990dd1d1aa/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 471px; height: 185px;" /></p>
 
 ### 입력
 

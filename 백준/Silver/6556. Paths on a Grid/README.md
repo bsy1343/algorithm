@@ -20,7 +20,7 @@
 
 <p>Fortunately you have a piece of squared paper and you choose a rectangle of size <em>n&times;m</em> on the paper. Let&#39;s call this rectangle together with the lines it contains a grid. Starting at the lower left corner of the grid, you move your pencil to the upper right corner, taking care that it stays on the lines and moves only to the right or up. The result is shown on the left:</p>
 
-<p style="text-align:center"><img src="/upload/images2/grid.gif" /></p>
+<p style="text-align:center"><img src="%EB%B0%B1%EC%A4%80/Silver/6556.%E2%80%85Paths%E2%80%85on%E2%80%85a%E2%80%85Grid/83d713a1.gif" data-original-src="https://www.acmicpc.net/upload/images2/grid.gif" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>Really a masterpiece, isn&#39;t it? Repeating the procedure one more time, you arrive with the picture shown on the right. Now you wonder: how many different works of art can you produce?</p>
 

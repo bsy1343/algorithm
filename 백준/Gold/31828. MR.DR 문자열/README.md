@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/bbc3eeb5-b1ec-4531-8fe5-8353092f2b26/-/preview/" style="height: 350px; width: 400px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/31828.%E2%80%85MR.DR%E2%80%85%EB%AC%B8%EC%9E%90%EC%97%B4/380bd8f1.png" data-original-src="https://upload.acmicpc.net/bbc3eeb5-b1ec-4531-8fe5-8353092f2b26/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 350px; width: 400px;" /></p>
 
 <p style="text-align: center;"><span style="color:#999999;">국민대학교의 정문에 앉아있는 Mr.Doctor</span></p>
 

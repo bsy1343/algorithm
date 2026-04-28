@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p><img alt="" src="https://upload.acmicpc.net/07709525-fe44-4c73-8faa-3d550db211eb/-/preview/" style="width: 242px; height: 242px; float: right;" />Walking across a huge parking lot is not only time consuming but also challenging because cars block your way and you may even get lost!</p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/24583.%E2%80%85Parking%E2%80%85Lot/5a2d6d04.png" data-original-src="https://upload.acmicpc.net/07709525-fe44-4c73-8faa-3d550db211eb/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 242px; height: 242px; float: right;" />Walking across a huge parking lot is not only time consuming but also challenging because cars block your way and you may even get lost!</p>
 
 <p>Imagine you are walking across a parking lot of r rows and c columns of parking spots. All parking spots have a size of a unit square. A parking spot either is empty or contains a parked car. You can walk across an empty parking spot in any direction, but can only walk along the boundaries of a parking spot if there&rsquo;s a parked car in it. You start at the top-left corner of the parking lot and walk at a constant speed of one unit distance per second. If you pick the fastest route, in how many seconds can you walk to the bottom-right corner of the parking lot?</p>
 

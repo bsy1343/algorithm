@@ -24,7 +24,7 @@
 
 <p>As an example, consider the first sample case shown in Figure D.1 on the left. The first algorithm (red, bottom left) can be used to verify the correctness of the second (yellow, top left) and third (blue, bottom right) algorithms. No algorithm can be used to verify the correctness of the fourth algorithm (grey, top right).</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/ede11962-247a-4b29-8a58-b88a558b12a2/-/preview/" style="width: 300px; height: 227px;" /> <img alt="" src="https://upload.acmicpc.net/fd7c4c07-b40c-4a3d-bdfe-648c3ced514a/-/preview/" style="width: 300px; height: 227px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/25983.%E2%80%85Dimensional%E2%80%85Debugging/10dad1d5.png" data-original-src="https://upload.acmicpc.net/ede11962-247a-4b29-8a58-b88a558b12a2/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 300px; height: 227px;" /> <img alt="" src="%EB%B0%B1%EC%A4%80/Gold/25983.%E2%80%85Dimensional%E2%80%85Debugging/6acbf3a7.png" data-original-src="https://upload.acmicpc.net/fd7c4c07-b40c-4a3d-bdfe-648c3ced514a/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 300px; height: 227px;" /></p>
 
 <p style="text-align: center;">Figure D.1: The algorithms to be tested in samples 1 and 2, respectively. The boxes indicate the parameters where an algorithm must be tested, while the lighter background indicates the region where an algorithm can be used to verify other algorithms.</p>
 

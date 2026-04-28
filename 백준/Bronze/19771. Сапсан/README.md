@@ -32,4 +32,4 @@
 
 <p>На рисунке приведено одно из возможных размещений пассажиров в примере. Заштрихованные клетки соответствуют занятым местам.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/a3333d29-7a8b-4785-923b-019ef95b3df1/-/preview/" style="width: 345px; height: 62px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/19771.%E2%80%85%D0%A1%D0%B0%D0%BF%D1%81%D0%B0%D0%BD/414f7176.png" data-original-src="https://upload.acmicpc.net/a3333d29-7a8b-4785-923b-019ef95b3df1/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 345px; height: 62px;" /></p>

@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><img alt="" src="https://u.acmicpc.net/cbd18160-fdec-4205-86c9-f8e5cb1259ff/logo.png" style="width: 700px; height: 230px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/31416.%E2%80%85%EA%B0%80%EC%83%81%E2%80%85%EA%B2%80%EC%A6%9D%E2%80%85%EA%B8%B0%EC%88%A0/b2aadf73.png" data-original-src="https://u.acmicpc.net/cbd18160-fdec-4205-86c9-f8e5cb1259ff/logo.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 700px; height: 230px;" /></p>
 
 <blockquote>
 <p>현대오토에버의 가상 검증 기술은 차량&middot;시스템&middot;제어기를 가상화하고 가상 주행 환경, 검증 도구 등을 제공해 기능별 검증, 기능 간 연계 검증, 시스템 단위 검증을 하드웨어 없이 가상으로 진행할 수 있도록 하는 기술이다. 가상 검증은 조기 검증을 통한 품질 확보와 실제 검증이 불가한 악조건 검증 시뮬레이션을 가능하게 한다. 또한 차량의 컴퓨팅 복잡도가 상승하는 SDV 시대에 가상 검증 기술은 다른 차원의 잠재적 SW 품질 리스크를 고려하여 차량의 안정성과 성능을 확보할 수 있는 효과적인 검증 방법이다.</p>

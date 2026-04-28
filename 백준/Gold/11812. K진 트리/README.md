@@ -22,7 +22,7 @@
 
 <p>아래 그림은 노드 9개로 이루어져 있는 3진 트리이다.</p>
 
-<p style="text-align:center"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11812/1.png" style="height:124px; width:188px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/11812.%E2%80%85K%EC%A7%84%E2%80%85%ED%8A%B8%EB%A6%AC/06b3c01a.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11812/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:124px; width:188px" /></p>
 
 <p>노드의 개수 N과 K가 주어졌을 때, 두 노드 x와&nbsp;y 사이의 거리를 구하는 프로그램을 작성하시오.</p>
 

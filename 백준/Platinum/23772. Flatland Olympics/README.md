@@ -40,6 +40,6 @@
 
 ### 힌트
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/fc0d36eb-b9b0-4f77-b224-e3c3c4ac30ce/-/preview/" style="width: 675px; height: 300px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/23772.%E2%80%85Flatland%E2%80%85Olympics/93b4e232.png" data-original-src="https://upload.acmicpc.net/fc0d36eb-b9b0-4f77-b224-e3c3c4ac30ce/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 675px; height: 300px;" /></p>
 
 <p style="text-align: center;">Figure 1:&nbsp;Illustration of Sample Input 2. The running track is drawn as a red line and the seats of the visitors are highlighted in blue. The second visitor will complain about the first visitor and the fourth visitor will complain about the third visitor.</p>

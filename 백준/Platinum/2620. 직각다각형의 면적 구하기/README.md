@@ -24,7 +24,7 @@
 	<li>다각형의 변이 교차하는 경우는 반드시 수평선분과 수직선분 사이에 교차한다. 즉, 수평선분끼리 교차하거나, 수직선분끼리 교차하는 경우는 없다.</li>
 </ol>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/0b64b5bb-a1e2-4bab-8e22-9df613a101c6/-/preview/" style="width: 251px; height: 170px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/2620.%E2%80%85%EC%A7%81%EA%B0%81%EB%8B%A4%EA%B0%81%ED%98%95%EC%9D%98%E2%80%85%EB%A9%B4%EC%A0%81%E2%80%85%EA%B5%AC%ED%95%98%EA%B8%B0/a027ae95.png" data-original-src="https://upload.acmicpc.net/0b64b5bb-a1e2-4bab-8e22-9df613a101c6/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 251px; height: 170px;" /></p>
 
 <p>이렇게 구성된 일반 직각다각형은 평면을 여러 개의 단순 직각다각형으로 분할하게 된다. 예를 들면, 아래 그림은 14개의 선분으로 구성된 일반 직각다각형이다. 이 직각다각형은 다각형의 외부는 제외하고 평면을 6개의 단순 직각다각형 A, B, C, D, E, F 로 분할하고 있으며, 이들 단순 직각다각형 중에서 가장 면적이 넓은 다각형은 F 이다.</p>
 

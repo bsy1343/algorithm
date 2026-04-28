@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/224dac63-0fb0-4c47-b813-b9ea2112edbf/-/preview/" style="height: 282px; width: 600px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/31938.%E2%80%85%ED%98%84%EB%8C%80%EB%AA%A8%EB%B9%84%EC%8A%A4%E2%80%85%ED%8A%B8%EB%9F%AD%E2%80%85%EA%B5%B0%EC%A7%91%EC%A3%BC%ED%96%89/b4459f81.png" data-original-src="https://upload.acmicpc.net/224dac63-0fb0-4c47-b813-b9ea2112edbf/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 282px; width: 600px;" /></p>
 
 <blockquote>
 <p>현대모비스는 앞으로 미래 모빌리티 산업에서 소프트웨어와 하드웨어를 결합한 차별화된 모빌리티 솔루션을 제공하는 선도기업으로 도약하기 위해 노력하고 있으며, 이러한 연구개발과 생산능력 등 핵심역량을 바탕으로 스마트 모빌리티, UAM, 로보틱스 사업분야로 비즈니스를 확대해 나가고 있습니다.</p>

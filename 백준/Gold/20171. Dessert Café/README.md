@@ -18,7 +18,7 @@
 
 <p>Kim, who wishes to start a business, is trying to open a dessert cafe he has been preparing after graduating from college. The road network in the town where Kim lives forms a tree structure, that is, a connected acyclic graph as shown in the figure below. There are <em>n</em> candidate sites for a dessert caf&eacute; in the town. In the figure below, a circle represents a candidate site for a dessert caf&eacute;, a line segment between two candidate sites represents a road, and the value labeled on a line segment represents the length of a road.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/ebc531ee-2918-4810-a999-baf35b1f0565/-/preview/" style="width: 215px; height: 178px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/20171.%E2%80%85Dessert%E2%80%85Caf%C3%A9/b76965b7.png" data-original-src="https://upload.acmicpc.net/ebc531ee-2918-4810-a999-baf35b1f0565/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 215px; height: 178px;" /></p>
 
 <p>There are <em>k</em> apartment complexes in this town, so he wants his dessert caf&eacute; to be located as close as possible to an apartment complex. In above figure, there are three apartment complexes which are located to the candidate sites labeled by A, B, and C. Considering the competitiveness and profitability, he thinks that a candidate site satisfying the following condition is a good place.</p>
 

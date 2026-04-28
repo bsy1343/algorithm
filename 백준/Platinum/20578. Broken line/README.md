@@ -38,8 +38,8 @@
 
 <p>String &quot;banan&quot; should be replaced with $\uparrow \uparrow \rightarrow \uparrow \rightarrow$. The area under the broken line is then $5$:</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/1971f292-8c10-4113-bfd2-0496531dbe33/-/preview/" style="width: 130px; height: 113px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/20578.%E2%80%85Broken%E2%80%85line/722dee62.png" data-original-src="https://upload.acmicpc.net/1971f292-8c10-4113-bfd2-0496531dbe33/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 130px; height: 113px;" /></p>
 
 <p>For string &quot;abcdefghijklmnopaaaa&quot; there are two optimal solutions with the area 90:</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/2e8d554b-4670-4863-9144-a5dce58e37ab/-/preview/" style="width: 320px; height: 127px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/20578.%E2%80%85Broken%E2%80%85line/ff25bc25.png" data-original-src="https://upload.acmicpc.net/2e8d554b-4670-4863-9144-a5dce58e37ab/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 320px; height: 127px;" /></p>

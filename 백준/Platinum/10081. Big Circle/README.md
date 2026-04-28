@@ -20,7 +20,7 @@
 
 <p>They succeed in making a perfect circle, but as they didn&#39;t practice very much, kids weren&#39;t uniformly distributed on circle. You spotted that very quickly, and you want to know what is the minimum distance between some two kids.</p>
 
-<p style="text-align:center"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/10081/1.png" style="height:191px; width:201px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/10081.%E2%80%85Big%E2%80%85Circle/8163aea0.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/10081/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:191px; width:201px" /></p>
 
 ### 입력
 

@@ -20,7 +20,7 @@
 
 <p>According to his unique design procedure, all of his ponds are rectangular with simple aspect ratios. First, Mr. Gardiner draws a regular grid on the map of the garden site so that the land is divided into cells of unit square, and annotates every cell with its elevation. In his design method, a pond occupies a rectangular area consisting of a number of cells. Each of its outermost cells has to be higher than all of its inner cells. For instance, in the following grid map, in which numbers are elevations of cells, a pond can occupy the shaded area, where the outermost cells are shaded darker and the inner cells are shaded lighter. You can easily see that the elevations of the outermost cells are at least three and those of the inner ones are at most two.</p>
 
-<p style="text-align: center;"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14971/1.png" style="height:148px; width:232px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/14971.%E2%80%85A%E2%80%85Garden%E2%80%85with%E2%80%85Ponds/3ad40611.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14971/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:148px; width:232px" /></p>
 
 <p>A rectangular area on which a pond is built must have at least one inner cell. Therefore, both its width and depth are at least three.</p>
 
@@ -28,7 +28,7 @@
 
 <p>Note that neither of the following rectangular areas can be a pond. In the left one, the cell at the bottom right corner is not higher than the inner cell. In the right one, the central cell is as high as the outermost cells.</p>
 
-<p style="text-align: center;"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14971/2.png" style="height:183px; width:401px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/14971.%E2%80%85A%E2%80%85Garden%E2%80%85with%E2%80%85Ponds/a8b577c1.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14971/2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:183px; width:401px" /></p>
 
 ### 입력
 

@@ -24,7 +24,7 @@
 
 <p>일반적으로 삼각형은 1, 2, 또는 3개의 이퀼라이저를 갖는다. (2개인 경우는 특수한 조건일 때만 나타난다)</p>
 
-<p style="text-align: center;"><img alt="" src="/upload/images/treq.png" style="width: 586px; height: 169px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/2692.%E2%80%85%EC%8C%8D%EB%91%A5%EC%9D%B4%E2%80%85%EA%B7%9C%ED%98%84%EC%9D%B4%EC%99%80%E2%80%85%EC%8A%B9%ED%99%98%EC%9D%B4%EC%9D%98%E2%80%85%EC%83%9D%EC%9D%BC%E2%80%85%EC%BC%80%EC%9D%B5/7ae63a03.png" data-original-src="https://www.acmicpc.net/upload/images/treq.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 586px; height: 169px;" /></p>
 
 <p>삼각형이 주어졌을 때, 삼각형 이퀼라이저를 하나만 구하는 프로그램을 작성하시오. 이때, double을 이용해서 계산을 하면 된다.</p>
 

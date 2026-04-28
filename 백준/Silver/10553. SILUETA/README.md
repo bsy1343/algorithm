@@ -38,4 +38,4 @@
 
 <p>Clarification of the first example: Blue color denotes the skyscrapers&rsquo; silhouette (character &lsquo;#&rsquo;), whereas yellow is the part of abscissa located on Vincent&rsquo;s painting (character &lsquo;*&rsquo;).</p>
 
-<p style="text-align: center;"><img alt="" src="/upload/images2/ex.png" style="height:285px; width:602px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/10553.%E2%80%85SILUETA/d17fff45.png" data-original-src="https://www.acmicpc.net/upload/images2/ex.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:285px; width:602px" /></p>

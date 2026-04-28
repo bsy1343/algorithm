@@ -18,7 +18,7 @@
 
 <p>심심했던 무지와 콘은 TV를 보다가, 대한민국 선수단이 실시간으로 출전하고 있는 경기를 보게 되었다.</p>
 
-<p><img alt="" src="https://upload.acmicpc.net/bb60ed3b-d0a3-4c0e-ae8b-b02f40c870f9/-/preview/" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/15997.%E2%80%85%EC%8A%B9%EB%B6%80%E2%80%85%EC%98%88%EC%B8%A1/02b0f4ac.png" data-original-src="https://upload.acmicpc.net/bb60ed3b-d0a3-4c0e-ae8b-b02f40c870f9/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>지금 보고 있는 경기는 조별리그가 진행 중인데, 대한민국이 속한 조는 총 4개&nbsp;국가가 참가하여 경기가 진행되고 있다.</p>
 

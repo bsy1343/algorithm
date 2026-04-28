@@ -27,8 +27,8 @@
 <table class="table table-bordered td-center">
 	<tbody>
 		<tr>
-			<td><img alt="" src="https://upload.acmicpc.net/bc3cfe2c-9ebc-4198-b36e-010f76fc2baa/-/crop/341x300/0,0/-/preview/" style="width: 171px; height: 150px;" /></td>
-			<td><img alt="" src="https://upload.acmicpc.net/bc3cfe2c-9ebc-4198-b36e-010f76fc2baa/-/crop/341x300/575,0/-/preview/" style="width: 171px; height: 150px;" /></td>
+			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/23572.%E2%80%85Logistical%E2%80%85Warehouse%E2%80%852/c44c9ca7.png" data-original-src="https://upload.acmicpc.net/bc3cfe2c-9ebc-4198-b36e-010f76fc2baa/-/crop/341x300/0,0/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 171px; height: 150px;" /></td>
+			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/23572.%E2%80%85Logistical%E2%80%85Warehouse%E2%80%852/87ddb3e0.png" data-original-src="https://upload.acmicpc.net/bc3cfe2c-9ebc-4198-b36e-010f76fc2baa/-/crop/341x300/575,0/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 171px; height: 150px;" /></td>
 		</tr>
 		<tr>
 			<td>(a)</td>

@@ -28,7 +28,7 @@
 
 <p>Nule predstavljaju prazne lopoče, a ostali brojevi tip žabe koja se zadržala na lopoču. Osjenčani su lopoči po kojima je zadnja žaba skakala dok se nije smjestila na svoj lopoč.&nbsp;</p>
 
-<p><img alt="" src="https://onlinejudgeimages.s3.amazonaws.com/problem/14144/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202017-01-03%20%EC%98%A4%ED%9B%84%202.58.46.png" style="height:296px; width:317px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/14144.%E2%80%85%C5%BDabe/2231ab5f.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/14144/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202017-01-03%20%EC%98%A4%ED%9B%84%202.58.46.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:296px; width:317px" /></p>
 
 <p>Zadnja žaba tipa 1 nalazi se na poziciji 2, žaba tipa 2 na poziciji 6, a zadnja žaba tipa 3 na poziciji 9.</p>
 

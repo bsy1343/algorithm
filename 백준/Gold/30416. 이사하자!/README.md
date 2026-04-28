@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><img alt="춘배와 상자1" src="https://upload.acmicpc.net/f039ab95-e309-4b4d-8f3c-a8682bb35847/-/preview/" /></p>
+<p style="text-align: center;"><img alt="춘배와 상자1" src="%EB%B0%B1%EC%A4%80/Gold/30416.%E2%80%85%EC%9D%B4%EC%82%AC%ED%95%98%EC%9E%90!/671a325b.png" data-original-src="https://upload.acmicpc.net/f039ab95-e309-4b4d-8f3c-a8682bb35847/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>춘배는 2차원 평면 위에 고정된 정사각형의 둘레와 그 내부를 포함하는 영역인 상자에 살고 있다. 춘배는 지금 살고 있는 상자가 너무 좁다고 생각해 더 넓은 상자로 이주할 계획을 세웠다. 춘배는 보미가 가지고 있는 상자 여러 개 중에서 가장 마음에 드는 상자를 구매해 입주하게 되었다.</p>
 

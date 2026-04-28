@@ -20,7 +20,7 @@
 
 <p>예를 들어, 왼쪽 그림의 점으로 만든 다각형은 오른쪽과 같다.</p>
 
-<p><img alt="" src="/upload/images/spolygon.png" style="height:192px; width:441px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/3679.%E2%80%85%EB%8B%A8%EC%88%9C%E2%80%85%EB%8B%A4%EA%B0%81%ED%98%95/3727fdb7.png" data-original-src="https://www.acmicpc.net/upload/images/spolygon.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:192px; width:441px" /></p>
 
 <p>항상 문제의 조건을 만족하는 다각형만 입력으로 주어지며, 가능한 다각형이 여러 가지인 경우에는 아무거나 출력해도 된다. 두 점이 같은 위치에 있는 경우는 없으며, 모든 점이 한 직선위에 있는 경우는 없다.</p>
 

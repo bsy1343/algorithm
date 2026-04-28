@@ -28,11 +28,11 @@
 
 <p>다음은 벽을 넘는 것에 대한 예시다. 주황색은 건우가 있는 곳 파란색은 벽이다.<img alt="" src="" /></p>
 
-<p style="text-align: center;"><img alt="" src="" /><img alt="" src="https://upload.acmicpc.net/8dedbc28-5f75-42e1-b285-dbfae801a0a2/-/crop/818x328/113,156/-/preview/" style="height: 241px; width: 600px;" /></p>
+<p style="text-align: center;"><img alt="" src="" /><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/18224.%E2%80%85%EB%AF%B8%EB%A1%9C%EC%97%90%E2%80%85%EA%B0%87%ED%9E%8C%E2%80%85%EA%B1%B4%EC%9A%B0/ea53107f.png" data-original-src="https://upload.acmicpc.net/8dedbc28-5f75-42e1-b285-dbfae801a0a2/-/crop/818x328/113,156/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 241px; width: 600px;" /></p>
 
 <p>위 경우는 벽을 넘을 수 있다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/988cf875-949f-4d6e-a7d7-4fbbd92c4a5d/-/crop/870x344/120,146/-/preview/" style="width: 610px; height: 241px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/18224.%E2%80%85%EB%AF%B8%EB%A1%9C%EC%97%90%E2%80%85%EA%B0%87%ED%9E%8C%E2%80%85%EA%B1%B4%EC%9A%B0/bdde2516.png" data-original-src="https://upload.acmicpc.net/988cf875-949f-4d6e-a7d7-4fbbd92c4a5d/-/crop/870x344/120,146/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 610px; height: 241px;" /></p>
 
 <p>위 경우처럼 벽을 넘었을 때 미로를 벗어날 경우에는 이동할 수 없다.</p>
 

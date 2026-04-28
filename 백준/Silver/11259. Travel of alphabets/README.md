@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11259/1.png" style="float:left; height:174px; width:267px" />John Corner demands to generate words from his alphabet table. Each word is composed by traveling of alphabets in four directions (&larr; le*, &uarr; up, &rarr; right, and &darr; down), star/ng from first alphabet (&lsquo;i&rsquo;) un/l last alphabet (&lsquo;r&rsquo;). When all words have been created, he would like to know how many words he has. Of course, it is possible to have some duplicated words and he also needs to know how many unique words he got. Please help him to finish these funny tasks.</p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/11259.%E2%80%85Travel%E2%80%85of%E2%80%85alphabets/7805bec1.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11259/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="float:left; height:174px; width:267px" />John Corner demands to generate words from his alphabet table. Each word is composed by traveling of alphabets in four directions (&larr; le*, &uarr; up, &rarr; right, and &darr; down), star/ng from first alphabet (&lsquo;i&rsquo;) un/l last alphabet (&lsquo;r&rsquo;). When all words have been created, he would like to know how many words he has. Of course, it is possible to have some duplicated words and he also needs to know how many unique words he got. Please help him to finish these funny tasks.</p>
 
 <p><strong>Moving step explanation:</strong></p>
 

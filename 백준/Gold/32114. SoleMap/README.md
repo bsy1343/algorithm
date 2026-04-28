@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align:center;"><img alt="현대오토에버 로고" src="https://upload.acmicpc.net/8580742e-1361-4277-b5e3-3a064131566e/-/preview/" style="width: 200px; max-width: 100%;" /></p>
+<p style="text-align:center;"><img alt="현대오토에버 로고" src="%EB%B0%B1%EC%A4%80/Gold/32114.%E2%80%85SoleMap/bec3ada5.png" data-original-src="https://upload.acmicpc.net/8580742e-1361-4277-b5e3-3a064131566e/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 200px; max-width: 100%;" /></p>
 
 <p>모든 지도는 &lsquo;단 하나&rsquo;(Sole)로 통한다, 현대오토에버 차세대 내비게이션 지도 &lsquo;SoleMap&rsquo;</p>
 

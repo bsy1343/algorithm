@@ -20,7 +20,7 @@
 
 <p>사장님은 피자 하나를 새로 만들 때 마다 다음과 같은 그만의 놀라운 방법을 사용한다. 현재 이미 만들어진 다른 피자들과 겹치지 않으면서 (접할 수는 있다) 테이블의 변 중 두개 이상에 접하도록 만들 수 있는 피자 중 가장 넓이가 큰 피자를 만든다. 상언이는 문득 이 테이블에 만들어질 <em>k</em>번째 피자의 넓이가 궁금해졌다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/13202/pizza.png" style="height:193px; width:256px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/13202.%E2%80%85%ED%94%BC%EC%9E%90%E2%80%85%EB%B0%B0%EC%B9%98/1f8c5cb5.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/13202/pizza.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:193px; width:256px" /></p>
 
 ### 입력
 

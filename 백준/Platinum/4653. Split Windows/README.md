@@ -22,7 +22,7 @@
 
 <p>For example, the sequence of splits below would generate Window 1: Initially there could be an application window labeled M, that is split next into left and right subwindows, adding label R, and the left subwindow is split into top and bottom subwindows, adding the label C.</p>
 
-<p><img alt="" src="https://onlinejudgeimages.s3.amazonaws.com/problem/4653/4653-1.gif" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/4653.%E2%80%85Split%E2%80%85Windows/1f531fb4.gif" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/4653/4653-1.gif" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>For each pattern of splits there is a binary tree of characters that can describe it. &nbsp;The window splitting and tree structures are described together, building up from the simplest cases.</p>
 
@@ -31,9 +31,9 @@ A window may either be split into left and right subwindows or into top and bott
 
 <p>Tree 1, above, and Trees 2-4, below, would be consistent with Windows 1-4. &nbsp;Note that Tree 4 contains Trees 2 and 3.</p>
 
-<p><img alt="" src="https://onlinejudgeimages.s3.amazonaws.com/problem/4653/wt23.gif" style="height:211px; width:482px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/4653.%E2%80%85Split%E2%80%85Windows/92627563.gif" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/4653/wt23.gif" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:211px; width:482px" /></p>
 
-<p><img alt="" src="https://onlinejudgeimages.s3.amazonaws.com/problem/4653/wt4.gif" style="height:195px; width:465px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/4653.%E2%80%85Split%E2%80%85Windows/9865585c.gif" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/4653/wt4.gif" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:195px; width:465px" /></p>
 
 <p>The trees may be more succinctly expressed via a preorder traversal:</p>
 

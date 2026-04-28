@@ -36,7 +36,7 @@
 
 ### 힌트
 
-<p style="text-align:center"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14699/1.png" style="height:189px; width:267px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/14699.%E2%80%85%EA%B4%80%EC%95%85%EC%82%B0%E2%80%85%EB%93%B1%EC%82%B0/173ab35d.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14699/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:189px; width:267px" /></p>
 
 <p>2번 쉼터에서 출발하면 1번, 4번, 3번 쉼터를 차례대로 방문할 때 가장 많은 쉼터를 방문할 수 있다.</p>
 

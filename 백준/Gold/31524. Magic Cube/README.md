@@ -42,7 +42,7 @@
 
 <p>Each time you rotate the cube at slice $k$ along one of the $x$-, $y$-, and $z$- axes, you are rotating the $(k+1)$th layer along the corresponding axis, as well as all the layers after $k$ in the increasing direction of that axis.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/b22b18b0-94af-4460-a3a7-1b18c1d28808/-/preview/" style="width: 512px; height: 220px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/31524.%E2%80%85Magic%E2%80%85Cube/ba699ea2.png" data-original-src="https://upload.acmicpc.net/b22b18b0-94af-4460-a3a7-1b18c1d28808/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 512px; height: 220px;" /></p>
 
 ### 입력
 

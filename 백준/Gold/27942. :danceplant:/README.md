@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/f6e0fc29-c98a-4bad-a22f-4aea7752a3b9/-" style="max-width: min(100%,128px); height: auto;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/27942.%E2%80%85%3Adanceplant%3A/bd03ba6c.png" data-original-src="https://upload.acmicpc.net/f6e0fc29-c98a-4bad-a22f-4aea7752a3b9/-" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="max-width: min(100%,128px); height: auto;" /></p>
 
 <p style="text-align: center;"><small>춤추는 가지의 모습</small></p>
 

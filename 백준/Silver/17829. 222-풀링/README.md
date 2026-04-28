@@ -24,12 +24,12 @@
 	<li>
 	<p>행렬을 2&times;2 정사각형으로 나눈다.</p>
 
-	<p><img alt="" src="https://upload.acmicpc.net/61c48878-d2bb-4680-a7d3-8f9922f3c30f/-/preview/" style="width: 350px; height: 350px;" /></p>
+	<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/17829.%E2%80%85222-%ED%92%80%EB%A7%81/a606f2fc.png" data-original-src="https://upload.acmicpc.net/61c48878-d2bb-4680-a7d3-8f9922f3c30f/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 350px; height: 350px;" /></p>
 	</li>
 	<li>
 	<p>각 정사각형에서 2번째로 큰 수만 남긴다. 여기서 2번째로 큰 수란, 정사각형의 네 원소를 크기순으로 a<sub>4&nbsp;</sub>&le;<sub>&nbsp;</sub>a<sub>3&nbsp;</sub>&le;&nbsp;a<sub>2&nbsp;</sub>&le;<sub>&nbsp;</sub>a<sub>1</sub> 라 했을 때, 원소 a<sub>2</sub>를 뜻한다.</p>
 
-	<p><img alt="" src="https://upload.acmicpc.net/c2d98fd8-f0dd-4ab4-8fe7-f360e74fa86e/-/preview/" style="height: 350px; width: 676px;" /></p>
+	<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/17829.%E2%80%85222-%ED%92%80%EB%A7%81/88583e81.png" data-original-src="https://upload.acmicpc.net/c2d98fd8-f0dd-4ab4-8fe7-f360e74fa86e/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 350px; width: 676px;" /></p>
 	</li>
 	<li>
 	<p>2번 과정에 의해 행렬의 크기가 줄어들게 된다.</p>
@@ -54,4 +54,4 @@
 
 <p>예제2는 본문에 이어 다음과 같은 과정으로 답을 구할 수 있다.</p>
 
-<p><img alt="" src="https://upload.acmicpc.net/f264fad5-e575-4cf8-aa36-3163ade6ea6c/-/preview/" style="height: 222px; width: 600px;" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/17829.%E2%80%85222-%ED%92%80%EB%A7%81/0c659bb3.png" data-original-src="https://upload.acmicpc.net/f264fad5-e575-4cf8-aa36-3163ade6ea6c/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 222px; width: 600px;" /></p>

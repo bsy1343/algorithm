@@ -18,7 +18,7 @@
 
 <p>Below is a picture of an infinite hyperbolic tessellation of octagons. If we think of this as a graph of vertices (of degree three), then there exists an isomorphism of the graph which maps any vertex $x$ onto any other vertex $y$. &nbsp;Every edge is given a label from the set {<code>a</code>, <code>b</code>, <code>c</code>} in such a way that every vertex has all three types of edges incident on it, and the labels alternate around each octagon. Part of this labeling is illustrated in the diagram below.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/da928c9f-2a7d-4c12-81ac-002ceae9bd8a/-/preview/" style="width: 512px; height: 512px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/19339.%E2%80%85Octagons/04ffe46c.png" data-original-src="https://upload.acmicpc.net/da928c9f-2a7d-4c12-81ac-002ceae9bd8a/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 512px; height: 512px;" /></p>
 
 <p>So a path in this graph (starting from any vertex) can be specified by a sequence of edge labels. Your job is to write a program which, given a sequence of labels such as &quot;<code>abcbcbcabcaccadb</code>&quot;, returns &quot;<code>closed</code>&quot; if the path ends on the same vertex where it starts, and returns &quot;<code>open</code>&quot; otherwise.</p>
 

@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/13221/1.png" style="float:right; height:250px; width:250px" />The island of Manhattan in New York has a grid-like network of streets, where taxis have to travel in a rectilinear fashion along the north, south, east and west cardinal directions. The distance from one intersection to another is often called the taxicab distance or manhattan distance. This form of geometry was first considered by Hermann Minkowski in 19th century Germany.</p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/13221.%E2%80%85Manhattan/e98ebff4.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/13221/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="float:right; height:250px; width:250px" />The island of Manhattan in New York has a grid-like network of streets, where taxis have to travel in a rectilinear fashion along the north, south, east and west cardinal directions. The distance from one intersection to another is often called the taxicab distance or manhattan distance. This form of geometry was first considered by Hermann Minkowski in 19th century Germany.</p>
 
 <p>Suppose Manhattan is a 100km x 100km grid of streets with street blocks measuring 1km x 1km. If someone was waiting for a taxi at the (x,y) intersection of (0,0) and the only taxi in Manhattan is at an (x,y) intersection of (100,100), the manhattan distance between them is 200km. Vice versa, if the person is waiting at the (x,y) intersection of (100,100) and the taxi was at (0,0), the manhattan distance would still be 200km.</p>
 

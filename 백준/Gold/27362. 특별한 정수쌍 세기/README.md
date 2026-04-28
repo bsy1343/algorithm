@@ -20,7 +20,7 @@
 
 <p>예를 들어 $N = 5$, $A = [2, 4, 6, 4, 2]$, $B = [9, 1, 3, 7, 5]$ 라 하자. 아래 그림은 순서대로 $X$, $Y$, $Z$ 2차원 배열의 값을 나타낸다. 행은 i인덱스, 열은 j인덱스를 나타낸다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/a7278318-5bae-4b41-804b-49c78207b15d/-/preview/" style="height: 162px; width: 600px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/27362.%E2%80%85%ED%8A%B9%EB%B3%84%ED%95%9C%E2%80%85%EC%A0%95%EC%88%98%EC%8C%8D%E2%80%85%EC%84%B8%EA%B8%B0/7c0895de.png" data-original-src="https://upload.acmicpc.net/a7278318-5bae-4b41-804b-49c78207b15d/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 162px; width: 600px;" /></p>
 
 <p>위 정보를 활용하면 다양한 $D$ 값에 대하여 $C(D)$ 값을 계산할 수 있다:</p>
 

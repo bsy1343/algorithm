@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p><img alt="" src="https://upload.acmicpc.net/278869fd-24fc-43c9-923b-c0baf177da6a/-/preview/" style="width: 300px; height: 201px; float: right;" />Princess Peach is in trouble again! Of course, Mario is on a quest to rescue her from Bowser. &nbsp;To save her, he has to collect a number of coins located in coin rooms under the surface. &nbsp;To get to a coin room, he must enter pipes on the surface which send him to a room below.</p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/24810.%E2%80%85Bowser's%E2%80%85Pipes/be8a90a8.png" data-original-src="https://upload.acmicpc.net/278869fd-24fc-43c9-923b-c0baf177da6a/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 300px; height: 201px; float: right;" />Princess Peach is in trouble again! Of course, Mario is on a quest to rescue her from Bowser. &nbsp;To save her, he has to collect a number of coins located in coin rooms under the surface. &nbsp;To get to a coin room, he must enter pipes on the surface which send him to a room below.</p>
 
 <p>Unfortunately, some pipes don&#39;t lead directly to a coin room, but lead to a warp room instead: those warp rooms might lead to other warp rooms in turn, until Mario eventually reaches a coin room. Once Mario chooses a pipe to enter, he&#39;ll be warped through the pipes without regaining control until he reaches a coin room.</p>
 

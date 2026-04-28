@@ -61,18 +61,18 @@ IGRUS 회원들은 목적을 최대한 잘 수행하기 위해 항상 최선의 
 
 <p>(<em>x, y</em>)는 <em>x&nbsp;</em>행 <em>y&nbsp;</em>열을 의미합니다.&nbsp;</p>
 
-<p><img alt="" src="https://upload.acmicpc.net/dee996ca-95f0-4e1a-a277-b67b47fd3e69/-/preview/" /><br />
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/19954.%E2%80%85%EB%B0%94%EB%82%98%EB%82%98%ED%82%A5%EC%9D%84%E2%80%85%EC%9E%A1%EC%95%84%EB%9D%BC!/605a67e4.png" data-original-src="https://upload.acmicpc.net/dee996ca-95f0-4e1a-a277-b67b47fd3e69/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /><br />
 0초 - (2,1)에 바나나킥 하나 (2,2)에 바나나킥이 하나 있는 상황입니다. 둘 다 왼쪽으로 움직이는 상황입니다.</p>
 
-<p><img alt="" src="https://upload.acmicpc.net/9ef0d569-bee2-47c6-8d92-b35713c989de/-/preview/" /><br />
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/19954.%E2%80%85%EB%B0%94%EB%82%98%EB%82%98%ED%82%A5%EC%9D%84%E2%80%85%EC%9E%A1%EC%95%84%EB%9D%BC!/3fecc73b.png" data-original-src="https://upload.acmicpc.net/9ef0d569-bee2-47c6-8d92-b35713c989de/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /><br />
 0.5초 -&nbsp;(2,1)에 있던 바나나가 벽에 부딪혀서 방향을 바꿉니다.</p>
 
-<p><img alt="" src="https://upload.acmicpc.net/874e75b7-f866-4a1b-be49-1d1afc65297b/-/preview/" /><br />
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/19954.%E2%80%85%EB%B0%94%EB%82%98%EB%82%98%ED%82%A5%EC%9D%84%E2%80%85%EC%9E%A1%EC%95%84%EB%9D%BC!/4e8ac9e9.png" data-original-src="https://upload.acmicpc.net/874e75b7-f866-4a1b-be49-1d1afc65297b/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /><br />
 1초 - 두 바나나가 (2,1)에서 충돌합니다. 만약 이때 (2,1)에 도착하는 회원이 있다면 두 바나나킥을 모두 먹습니다.</p>
 
 <p>&nbsp;</p>
 
-<p><img alt="" src="https://upload.acmicpc.net/ec27d2ae-3403-4593-b88f-a1a1bb306b31/-/preview/" /><br />
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/19954.%E2%80%85%EB%B0%94%EB%82%98%EB%82%98%ED%82%A5%EC%9D%84%E2%80%85%EC%9E%A1%EC%95%84%EB%9D%BC!/998c538e.png" data-original-src="https://upload.acmicpc.net/ec27d2ae-3403-4593-b88f-a1a1bb306b31/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /><br />
 2초 - (2,1)과 (2,2)에 있는 바나나킥 모두 오른쪽을 향하게 됩니다.</p>
 
 <p>&nbsp;</p>

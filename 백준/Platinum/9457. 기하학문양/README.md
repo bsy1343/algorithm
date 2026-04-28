@@ -26,11 +26,11 @@
 
 <p>n이 주어졌을 때, 2 &times; n 직사각형 그리드와 2 &times; n 원형 그리드에서 만들 수 있는 스패닝 트리의 개수를 구하는 프로그램을 작성하시오.</p>
 
-<p style="text-align:center"><img alt="" src="/upload/images/rsp.png" style="height:126px; width:557px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/9457.%E2%80%85%EA%B8%B0%ED%95%98%ED%95%99%EB%AC%B8%EC%96%91/874475bf.png" data-original-src="https://www.acmicpc.net/upload/images/rsp.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:126px; width:557px" /></p>
 
 <p style="text-align:center"><strong>그림 1</strong>. 2&nbsp;&times; 6 직사각형 그리드와 스패닝 트리 한 개</p>
 
-<p style="text-align:center"><img alt="" src="/upload/images/csp.png" style="height:200px; width:613px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/9457.%E2%80%85%EA%B8%B0%ED%95%98%ED%95%99%EB%AC%B8%EC%96%91/ce8e080d.png" data-original-src="https://www.acmicpc.net/upload/images/csp.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:200px; width:613px" /></p>
 
 <p style="text-align:center"><strong>그림 2</strong>. 2&nbsp;&times; 6 원형 그리드와 서로 다른 스패닝 트리 두 개</p>
 

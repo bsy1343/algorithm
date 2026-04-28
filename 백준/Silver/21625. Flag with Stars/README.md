@@ -40,4 +40,4 @@
 
 <p>An example of the optimal arrangement of the stars in the fourth test case:</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/e45471dd-6efb-47b3-9754-7b0c9acb3945/-/preview/" style="width: 512px; height: 343px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/21625.%E2%80%85Flag%E2%80%85with%E2%80%85Stars/64b8c192.png" data-original-src="https://upload.acmicpc.net/e45471dd-6efb-47b3-9754-7b0c9acb3945/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 512px; height: 343px;" /></p>

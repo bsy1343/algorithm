@@ -18,7 +18,7 @@
 
 <p>You are sharing a large, circular pizza with n &minus; 1 of your friends. Your technique for slicing the pizza is shown in Figure 1; you rotate the pizza clockwise about its center by angle &theta;, and then you make a slice from the center of the pizza straight to the right. You repeat this process, rotating by the same angle &theta; and slicing to the right until you have done it a total of n times.</p>
 
-<p style="text-align:center"><img alt="" src="/upload/images2/pizza.png" style="height:257px; width:283px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/10488.%E2%80%85Biggest%E2%80%85Slice/01226731.png" data-original-src="https://www.acmicpc.net/upload/images2/pizza.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:257px; width:283px" /></p>
 
 <p style="text-align:center">Figure 1: Rotate-and-slice pizza division technique.</p>
 

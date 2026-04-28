@@ -18,7 +18,7 @@
 
 <p>Soohwan is leading the International Committee for Program Complexity (ICPC), and the major task of ICPC is measuring the complexity of program codes. A well-known representation of a program is the control flow graph, where the nodes represent the program constructs and the edges the possible flow of controls. The cyclomatic complexity is a popular way to measure the complexity of a flow graph. For the digraph G(V, E) representing a flow graph, the cyclomatic complexity C(G) is defined by the formula C(G) = |E| - |V| + 2. For instance, for the flow graphs G<sub>1</sub> and G<sub>2</sub> in Figure C.1, the complexities of them are computed to be 3 (C(G<sub>1</sub>) = C(G<sub>2</sub>) = 9 - 8 + 2 = 3).</p>
 
-<p style="text-align: center;"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14748/1.png" style="height:260px; width:270px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/14748.%E2%80%85Flow%E2%80%85Graph%E2%80%85Complexity/b0f278c0.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14748/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:260px; width:270px" /></p>
 
 <p style="text-align: center;">Figure C.1: Two flow graphs G<sub>1</sub> (a) and G<sub>2</sub> (b)</p>
 

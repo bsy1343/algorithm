@@ -18,7 +18,7 @@
 
 <p>After ruling a large chunk of the Milky Way for millennia, the Cosmic OBsolescent OLigarchy is finally breaking up into a collection of independent monarchies. COBOL is a very organized empire and takes the shape of a gigantic cube with dimensions n by m by k parsecs. (COBOL is also very secretive, so only a few know the exact values of n, m and k.) To facilitate the control of the empire it is partitioned into nmk smaller dominions, each 1 cubic parsec in size. These dominions are numbered as follows:</p>
 
-<p><img alt="" src="/upload/images2/gb.png" style="height:267px; width:270px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/4255.%E2%80%85Galactic%E2%80%85Breakup/26dc51e3.png" data-original-src="https://www.acmicpc.net/upload/images2/gb.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:267px; width:270px" /></p>
 
 <p>Each independent monarchy is a connected collection of one or more dominions (a dominion is connected to another if they share a face) and over a period of several imperial months, one monarchy per month will secede from the empire. Each secession begins at the first day of the month. One concern of COBOL is that during the breakup, various parts of the remaining empire may become disconnected from one another, which could hamper the administration of what&rsquo;s left of the empire. Your job is to determine the number of months of the breakup during which the empire is disconnected.</p>
 

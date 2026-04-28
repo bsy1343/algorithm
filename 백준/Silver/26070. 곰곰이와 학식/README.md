@@ -18,7 +18,7 @@
 
 <p>지금 곰곰대학교 학생식당에는 시험기간에 밤을 새, 굶주려 있는 곰곰이들이 기다리고 있다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/8fd2bba0-2900-4f32-b2fc-9df88e08fdfc/-/preview/" style="max-height: 250px; object-fit:contain; display:inline-block;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/26070.%E2%80%85%EA%B3%B0%EA%B3%B0%EC%9D%B4%EC%99%80%E2%80%85%ED%95%99%EC%8B%9D/269c2771.png" data-original-src="https://upload.acmicpc.net/8fd2bba0-2900-4f32-b2fc-9df88e08fdfc/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="max-height: 250px; object-fit:contain; display:inline-block;" /></p>
 
 <p>정확히는 치킨을 먹고 싶은 곰곰이가 $A$마리, 피자를 먹고 싶은 곰곰이가 $B$마리, 햄버거를 먹고 싶은 곰곰이가 $C$마리 있다.</p>
 
@@ -32,7 +32,7 @@
 
 <p>굶주린 곰곰이들을 위해, 식권과 이벤트를 적절히 활용했을 때 배불리 먹일 수 있는 곰곰이의 최대 마릿수를 구해주자.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/ca0daab3-8442-4e37-93c0-b6cd88ed4dc6/-/preview/" style="max-height: 340px; object-fit:contain; display:inline-block;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/26070.%E2%80%85%EA%B3%B0%EA%B3%B0%EC%9D%B4%EC%99%80%E2%80%85%ED%95%99%EC%8B%9D/b7319d7d.png" data-original-src="https://upload.acmicpc.net/ca0daab3-8442-4e37-93c0-b6cd88ed4dc6/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="max-height: 340px; object-fit:contain; display:inline-block;" /></p>
 
 ### 입력
 

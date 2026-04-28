@@ -18,7 +18,7 @@
 
 <p>엔토피아는 기억력을 강화하기 위해 게임을 하나 하려고 한다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/22a384e5-649c-47f4-a4dd-aab80df76280/-/preview/" style="width: 115px; height: 151px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/23280.%E2%80%85%EC%97%94%ED%86%A0%ED%94%BC%EC%95%84%EC%9D%98%E2%80%85%EA%B8%B0%EC%96%B5%EA%B0%95%ED%99%94/d89faf02.png" data-original-src="https://upload.acmicpc.net/22a384e5-649c-47f4-a4dd-aab80df76280/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 115px; height: 151px;" /></p>
 
 <p>위의 그림과 같이 3&times;4 칸에 정수가 하나씩 있는 게임판이 하나 있다. 그리고 각 칸을 눌러야 하는 순서가 적혀있는 종이를 엔토피아에게 준다. 그리고 3초 후에 원숭이가 종이를 뻇어간다. 이제 엔토피아는 그걸 잘 기억해서 순서대로 정수를 눌러야 한다.</p>
 

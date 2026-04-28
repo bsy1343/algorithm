@@ -34,7 +34,7 @@
 
 <p>Opis trećeg probnog primjera:</p>
 
-<p><img alt="" src="https://upload.acmicpc.net/417455e4-f1fa-4483-8219-f555fd5b5c4a/-/preview/" style="width: 168px; height: 164px; float: right;" />Na slici desno prikazano je stablo iz primjera.</p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/25467.%E2%80%85Putevi/d521f3d0.png" data-original-src="https://upload.acmicpc.net/417455e4-f1fa-4483-8219-f555fd5b5c4a/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 168px; height: 164px; float: right;" />Na slici desno prikazano je stablo iz primjera.</p>
 
 <p>U tom stablo je $6$ puteva duljine $1$, to su putevi u kojima je samo jedan čvor.</p>
 

@@ -55,7 +55,7 @@
 
 <p>아래의 그림은 $N = 15, K = 3$ 인 경우의 예제이다.</p>
 
-<p style="text-align:center"><img alt="" src="https://upload.acmicpc.net/a18902f9-9236-46e6-b56a-09ba1d001fe5/-/preview/" style="max-width: 700px;width:90%" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/23631.%E2%80%85%EC%A7%84%EC%8B%AC%E2%80%85%EC%A2%8C%EC%9A%B0%E2%80%85%EB%B0%98%EB%B3%B5%EB%9B%B0%EA%B8%B0/a4a8cd4e.png" data-original-src="https://upload.acmicpc.net/a18902f9-9236-46e6-b56a-09ba1d001fe5/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="max-width: 700px;width:90%" /></p>
 
 <p>총 거리가 $14$인 지점의 $x$좌표는 2이고, 방향은 오른쪽이다. 그래서 답은 <code>&quot;2 R&quot;</code>이다.</p>
 

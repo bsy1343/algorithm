@@ -26,7 +26,7 @@
 
 <p>예를 들어 $K$ = 512이고, 피자가 다음 그림과 같다고 하자.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/fef23d13-b479-493a-9c95-0a0fb2a9c866/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/28072.%E2%80%85%24K%24512%EC%97%90%EC%84%9C%E2%80%85%ED%94%BC%EC%9E%90%E2%80%85%EB%A8%B9%EA%B8%B0/fc88d1cc.png" data-original-src="https://upload.acmicpc.net/fef23d13-b479-493a-9c95-0a0fb2a9c866/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>1, 2번 조각을 합치면 무게가 512이고, 3, 4, 5, 6번 조각을 합치면 무게가 1024이므로 이렇게 두 덩어리로 나눌 수 있다. 3, 5번 조각을 합치면 무게가 512이고 4, 6번 조각을 합치면 무게가 512지만 서로 연결되어 있지 않기 때문에 그러한 경우는 생각하지 않는다.</p>
 

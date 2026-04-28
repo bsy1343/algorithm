@@ -21,9 +21,9 @@
 <table class="table" style="width: 100%;">
 	<tbody>
 		<tr>
-			<td style="width: 33%; text-align: center;"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15605/1.png" style="width: 114px; height: 185px;" /></td>
-			<td style="width: 34%; text-align: center;"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15605/2.png" style="width: 159px; height: 164px;" /></td>
-			<td style="width: 33%; text-align: center;"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15605/3.png" style="width: 224px; height: 119px;" /></td>
+			<td style="width: 33%; text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/15605.%E2%80%85Glyph%E2%80%85Recognition/809c5986.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15605/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 114px; height: 185px;" /></td>
+			<td style="width: 34%; text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/15605.%E2%80%85Glyph%E2%80%85Recognition/230edef6.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15605/2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 159px; height: 164px;" /></td>
+			<td style="width: 33%; text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/15605.%E2%80%85Glyph%E2%80%85Recognition/3b450b7e.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15605/3.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 224px; height: 119px;" /></td>
 		</tr>
 		<tr>
 			<td style="width: 33%; text-align: center;">(a) The six glyphs.</td>

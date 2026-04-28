@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/780530c4-7111-4d53-8128-90ea9e16e51a/-/preview/" style="width: 900px; height: 300px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/27927.%E2%80%85%EB%B2%9A%EA%BD%83%E2%80%85%EC%97%94%EB%94%A9/31c32ae3.png" data-original-src="https://upload.acmicpc.net/780530c4-7111-4d53-8128-90ea9e16e51a/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 900px; height: 300px;" /></p>
 
 <p style="color: rgb(170, 170, 170); font-style: italic; text-align: center;">출처: 윤찐빵</p>
 

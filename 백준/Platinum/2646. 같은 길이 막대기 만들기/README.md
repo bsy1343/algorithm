@@ -26,7 +26,7 @@
 
 <p>아래 그림의 예에서 길이가 12인 긴 막대기 2개를 만들 수도 있으나 가장 짧은 동일한 막대기들의 길이는 6이 된다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/016f265e-e9fe-43ac-8277-ba7325c1eb4e/-/preview/" style="width: 235px; height: 128px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/2646.%E2%80%85%EA%B0%99%EC%9D%80%E2%80%85%EA%B8%B8%EC%9D%B4%E2%80%85%EB%A7%89%EB%8C%80%EA%B8%B0%E2%80%85%EB%A7%8C%EB%93%A4%EA%B8%B0/6a4b8f3a.png" data-original-src="https://upload.acmicpc.net/016f265e-e9fe-43ac-8277-ba7325c1eb4e/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 235px; height: 128px;" /></p>
 
 ### 입력
 

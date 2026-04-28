@@ -31,7 +31,7 @@
 
 <p>For example, let N = 10 and the town structure is as shown in the following figure.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/8f5a190d-1be4-4750-ac54-cdba84df4d32/-/preview/" style="width: 450px; height: 188px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/20688.%E2%80%85Cul-De-Sac%E2%80%85Parades/339f8c05.png" data-original-src="https://upload.acmicpc.net/8f5a190d-1be4-4750-ac54-cdba84df4d32/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 450px; height: 188px;" /></p>
 
 <p>As we can see, there are 7 cul-de-sacs and their numbers are {1, 2, 3, 4, 8, 9, 10}. In this example, the maximum happiness can be obtained by running 3 parades of the following routes.</p>
 

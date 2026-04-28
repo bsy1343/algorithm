@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/c1ba83ca-8e21-4fa4-b5b5-ceb5ebdf559d/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/23323.%E2%80%85%ED%99%A9%EC%86%8C%E2%80%85%EB%8B%A4%EB%A7%88%EA%B3%A0%EC%B9%98/4286a798.png" data-original-src="https://upload.acmicpc.net/c1ba83ca-8e21-4fa4-b5b5-ceb5ebdf559d/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p style="color: rgb(170, 170, 170); font-style: italic; text-align: center;">홍익대학교 캐릭터 &#39;황소&#39; - 출처 : 홍익대학교 홈페이지</p>
 

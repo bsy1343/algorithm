@@ -20,7 +20,7 @@
 
 <p>직각 삼각형의 두 변의 길이가 주어졌을 때, 한 변의 길이를 구하는 프로그램을 작성하시오.</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/6322.%E2%80%85%EC%A7%81%EA%B0%81%E2%80%85%EC%82%BC%EA%B0%81%ED%98%95%EC%9D%98%E2%80%85%EB%91%90%E2%80%85%EB%B3%80/8399afda.png" data-original-src="https://www.acmicpc.net/upload/images/righttriangle.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:250px; width:337px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/6322.%E2%80%85%EC%A7%81%EA%B0%81%E2%80%85%EC%82%BC%EA%B0%81%ED%98%95%EC%9D%98%E2%80%85%EB%91%90%E2%80%85%EB%B3%80/8399afda.png" data-original-src="%EB%B0%B1%EC%A4%80/Bronze/6322.%E2%80%85%EC%A7%81%EA%B0%81%E2%80%85%EC%82%BC%EA%B0%81%ED%98%95%EC%9D%98%E2%80%85%EB%91%90%E2%80%85%EB%B3%80/8399afda.png" data-original-src="https://www.acmicpc.net/upload/images/righttriangle.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:250px; width:337px" /></p>
 
 ### 입력
 

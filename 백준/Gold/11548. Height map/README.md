@@ -20,11 +20,11 @@
 
 <p>For instance, a 2 &times; 2 matrix with all values equal to 2 represents a cube of side 2. However, if one of the values is 1, the represented polyhedron is the same cube with one corner cut off. The following picture represents both alternatives.</p>
 
-<p style="text-align: center;"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11548/1.png" style="height:77px; width:506px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/11548.%E2%80%85Height%E2%80%85map/b6334340.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11548/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:77px; width:506px" /></p>
 
 <p>While not every polyhedron can be represented in this fashion, there are several that can. Here are a couple of other examples.</p>
 
-<p style="text-align: center;"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11548/2.png" style="height:98px; width:530px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/11548.%E2%80%85Height%E2%80%85map/56ec1257.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11548/2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:98px; width:530px" /></p>
 
 <p>Given a height map, you are asked to count the number of faces of the represented polyhedron. Notice that a face is defined as a simple polygon that describes a contiguous and maximal boundary of the polyhedron. As you can see in the last two examples, it is possible for two different coplanar faces to share a common vertex, or even a side, or portions of a side.</p>
 

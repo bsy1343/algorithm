@@ -20,13 +20,13 @@
 
 <p>For this problem, a type will be represented as a tree made up of nodes. Each node has zero or more child nodes, corresponding to component types. Here is an example of a tree:</p>
 
-<p style="text-align:center"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15190/1.png" style="height:191px; width:143px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/15190.%E2%80%85Infinite%E2%80%85Trees/691b6a76.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15190/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:191px; width:143px" /></p>
 
 <p>Figure 1: A simple finite tree. The root is node 0 and its children are nodes 1 and 2. Node 1 does not have any children, and node 2 has one child (node 3).</p>
 
 <p>Types are allowed to be recursive. This means that a node can have any node as a child, including its parent and even itself. The result is an infinite tree:</p>
 
-<p style="text-align:center"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15190/2.png" style="height:290px; width:176px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/15190.%E2%80%85Infinite%E2%80%85Trees/a229d256.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15190/2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:290px; width:176px" /></p>
 
 <p>Figure 2: An infinite tree. Node 0 has node 2 as a child, which has node 0 as a child, which has node 2 as a child, and so on. The tree keeps going forever, and has been truncated to fit on this page.</p>
 

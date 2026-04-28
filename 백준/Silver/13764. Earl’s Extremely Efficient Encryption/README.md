@@ -18,7 +18,7 @@
 
 <p>Earl has just finished writing an extremely efficient encryption algorithm for decreasing the size of video files. The algorithm has the capability to decrease the file size of a long video by many orders of magnitude. You can think of a video as a series of images.</p>
 
-<p><img alt="" src="https://onlinejudgeimages.s3.amazonaws.com/problem/13764/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-11-19%20%EC%98%A4%EC%A0%84%202.27.19.png" style="height:86px; width:630px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/13764.%E2%80%85Earl%E2%80%99s%E2%80%85Extremely%E2%80%85Efficient%E2%80%85Encryption/b67552a6.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/13764/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-11-19%20%EC%98%A4%EC%A0%84%202.27.19.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:86px; width:630px" /></p>
 
 <p>One simple algorithm is to store each of these images individually. The secret of Earl&rsquo;s algorithm is to only use the differences between successive images in the series. He stores each transition in a 32-bit integer (these values are called the transition integers). Using an unencrypted version of the first image and all of the transition integers, you can fully recreate the video.</p>
 

@@ -23,7 +23,7 @@
 
 <p>이때&nbsp;얻은 Z가&nbsp;X &le; Z &le; Y를 만족한다면 게임을 승리하고 Z만원을 얻을 수 있다!</p>
 
-<p style="text-align:center"><img alt="The wheel of Numbers" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11504/1.png" style="height:240px; width:366px" title="The wheel of Numbers" /></p>
+<p style="text-align:center"><img alt="The wheel of Numbers" src="%EB%B0%B1%EC%A4%80/Silver/11504.%E2%80%85%EB%8F%8C%EB%A0%A4%E2%80%85%EB%8F%8C%EB%A0%A4%E2%80%85%EB%8F%8C%EB%A6%BC%ED%8C%90!/caa4a28a.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11504/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:240px; width:366px" title="The wheel of Numbers" /></p>
 
 <p>예를 들어, 돌림판이 N = 8 등분되어있고, 시계방향으로 읽었을 때 [3, 7, 8, 3, 1, 9, 2, 7]&nbsp;과 같다고 하자. X = 200 이고 Y = 311일 경우 &quot;숫자 2&quot;가 적힌 부분부터 시작한다면 Z = 273 으로&nbsp;X = 200 &le; 273 &le; 311 = Y 를 만족하여 게임을 승리한다.</p>
 

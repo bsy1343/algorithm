@@ -26,15 +26,15 @@
 
 <p>아래 그림은 노드가 6개인 이중 연결 리스트의 모습이다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/5b34905c-567f-483d-860a-b80667f0c7f9/-/preview/" style="width: 518px; height: 55px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/3045.%E2%80%85%EC%9D%B4%EC%A4%91%E2%80%85%EC%97%B0%EA%B2%B0%E2%80%85%EB%A6%AC%EC%8A%A4%ED%8A%B8/69934bd3.png" data-original-src="https://upload.acmicpc.net/5b34905c-567f-483d-860a-b80667f0c7f9/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 518px; height: 55px;" /></p>
 
 <p>여기에 &quot;A 1 4&quot; 연산을 수행하면 아래와 같이 된다. (노드 1을 노드 4의 앞으로 이동)</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/7609bf26-d382-4c89-8c03-af85246548bc/-/preview/" style="width: 518px; height: 54px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/3045.%E2%80%85%EC%9D%B4%EC%A4%91%E2%80%85%EC%97%B0%EA%B2%B0%E2%80%85%EB%A6%AC%EC%8A%A4%ED%8A%B8/239b3d78.png" data-original-src="https://upload.acmicpc.net/7609bf26-d382-4c89-8c03-af85246548bc/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 518px; height: 54px;" /></p>
 
 <p>그 다음, &quot;B 3 5&quot; 연산을 수행하면 아래 그림과 같은 모습이 된다. (노드 3을 노드 5의 뒤로 이동)</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/35803717-9d37-4a98-9c17-e5538914a134/-/preview/" style="width: 518px; height: 55px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/3045.%E2%80%85%EC%9D%B4%EC%A4%91%E2%80%85%EC%97%B0%EA%B2%B0%E2%80%85%EB%A6%AC%EC%8A%A4%ED%8A%B8/d6008e23.png" data-original-src="https://upload.acmicpc.net/35803717-9d37-4a98-9c17-e5538914a134/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 518px; height: 55px;" /></p>
 
 <p>리스트를 가지고 다 논 다음에는 처음 상태로 다시 만들어야 한다. 따라서, 상근이는 리스트에 연산을 입력할 때 마다 종이에 적어두었다.</p>
 

@@ -24,19 +24,19 @@
 
 <p>Сначала у Тора есть полностью непораженное поле $6 \times 6$.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/0801ad1b-0f20-4473-8bf7-489bd852cb6d/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/28876.%E2%80%85%D0%A2%D1%80%D0%B5%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B8%E2%80%85%D0%A2%D0%BE%D1%80%D0%B0/25906fb2.png" data-original-src="https://upload.acmicpc.net/0801ad1b-0f20-4473-8bf7-489bd852cb6d/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>Затем Тор поражает разрядом молнии контур прямоугольника $(1, 1), (5, 4)$ и связанных областей становится $2$.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/00dda78d-bd0a-42a2-bb2e-81842e84b8f7/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/28876.%E2%80%85%D0%A2%D1%80%D0%B5%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B8%E2%80%85%D0%A2%D0%BE%D1%80%D0%B0/fac41969.png" data-original-src="https://upload.acmicpc.net/00dda78d-bd0a-42a2-bb2e-81842e84b8f7/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>Затем он поражает молнией контур прямоугольника $(3, 2), (6, 5)$ и связанных областей становится $4$.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/2c8eb666-27fc-44ca-b101-3ea7b7d4054e/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/28876.%E2%80%85%D0%A2%D1%80%D0%B5%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B8%E2%80%85%D0%A2%D0%BE%D1%80%D0%B0/f4878c5c.png" data-original-src="https://upload.acmicpc.net/2c8eb666-27fc-44ca-b101-3ea7b7d4054e/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>Финальным разрядом Тор поражает вырожденный прямоугольник $(2, 6), (4, 6)$ и количество связанных областей становится равным $5$.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/d91c72fc-cf99-41a9-a0f8-83c53d6ac79c/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/28876.%E2%80%85%D0%A2%D1%80%D0%B5%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B8%E2%80%85%D0%A2%D0%BE%D1%80%D0%B0/a593d664.png" data-original-src="https://upload.acmicpc.net/d91c72fc-cf99-41a9-a0f8-83c53d6ac79c/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>На вычисления руками у Тора нет времени, поэтому он попросил вас помочь ему с этой задачей.</p>
 

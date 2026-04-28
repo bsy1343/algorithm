@@ -20,7 +20,7 @@
 
 <p>A blue card and a red card can be paired when both of the numbers printed on them have a common divisor greater than 1. There may be more than one red card that can be paired with one blue card. Also, there may be more than one blue card that can be paired with one red card. When a blue card and a red card are chosen and paired, these two cards are removed from the whole cards on the table.</p>
 
-<p style="text-align: center;"><img alt="" src="/upload/images3/E1.png" style="height:283px; width:394px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/4966.%E2%80%85Cards/e84e41bd.png" data-original-src="https://www.acmicpc.net/upload/images3/E1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:283px; width:394px" /></p>
 
 <p style="text-align: center;">Figure E-1: Four blue cards and three red cards</p>
 

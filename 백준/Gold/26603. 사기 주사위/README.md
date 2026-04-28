@@ -20,7 +20,7 @@
 
 <p>민우의 주사위는 정팔면체 주사위로 1부터 8까지의 숫자가 각 면에 적혀 있고, 주사위를 굴린 후 위에서 보면 다음과 같이 정육각형 모양으로 4개의 면이 보인다. </p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/68659646-db0b-4f7a-a789-5df1491f214c/-/preview/" style="width: 100px; height: 112px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/26603.%E2%80%85%EC%82%AC%EA%B8%B0%E2%80%85%EC%A3%BC%EC%82%AC%EC%9C%84/82fca7bf.png" data-original-src="https://upload.acmicpc.net/68659646-db0b-4f7a-a789-5df1491f214c/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 100px; height: 112px;" /></p>
 
 <p>기성이는 매번 주사위를 굴릴 때마다 보이는 4개의 숫자를 기억하고 있다가 어떤 정팔면체 주사위도 이러한 조합을 만족할 수 없다는 것을 증명해 민우의 주사위가 사기 주사위라는 것을 밝히려고 한다. 기성이가 기억하는 숫자의 조합이 주어질 때, 민우의 주사위가 사기 주사위인지 판별하는 프로그램을 작성하시오.</p>
 

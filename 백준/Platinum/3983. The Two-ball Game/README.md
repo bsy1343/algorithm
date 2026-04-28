@@ -22,7 +22,7 @@
 
 <p>Lizarb&rsquo;s national soccer team observed that for some locations of kickers the two-ball game is possible but for some others it is impossible. The figure below shows two example locations: to the left, playing two-ball game is impossible; to the right, playing the game is possible.</p>
 
-<p style="text-align: center;"><img alt="" src="/upload/images2/twoball.png" style="height:215px; width:484px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/3983.%E2%80%85The%E2%80%85Two-ball%E2%80%85Game/0fc714a0.png" data-original-src="https://www.acmicpc.net/upload/images2/twoball.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:215px; width:484px" /></p>
 
 <p>Your task is to write a program that checks if for given player locations the two-ball game is possible or not.</p>
 

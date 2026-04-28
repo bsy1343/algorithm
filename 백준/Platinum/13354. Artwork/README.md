@@ -20,7 +20,7 @@
 
 <p>The beauty of an artwork is the number of regions in the grid. Each region consists of one or&nbsp;more white squares that are connected to each other using a path of white squares in the grid,&nbsp;walking horizontally or vertically but not diagonally. The initial beauty of the artwork is 1. Your&nbsp;task is to calculate the beauty after each new stroke. Figure A.1 illustrates how the beauty of the&nbsp;artwork varies in Sample Input 1.</p>
 
-<p style="text-align: center;"><img alt="" src="https://onlinejudgeimages.s3.amazonaws.com/problem/13354/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-10-10%20%EC%98%A4%ED%9B%84%204.24.15.png" style="height:139px; width:555px" /><br />
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/13354.%E2%80%85Artwork/ed6d6705.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/13354/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-10-10%20%EC%98%A4%ED%9B%84%204.24.15.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:139px; width:555px" /><br />
 Figure A.1: Illustration of Sample Input 1.</p>
 
 ### 입력

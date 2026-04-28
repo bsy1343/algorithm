@@ -67,7 +67,7 @@
 	<li>Mr. Raven&#39;s initial position is in the cell with &quot;You are here&quot; text.</li>
 </ul>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/0439a0a7-1d8f-41ad-bddc-0a32d0b00627/-/preview/" style="width: 283px; height: 280px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/23985.%E2%80%85Cave%E2%80%85Escape/2d6aae84.png" data-original-src="https://upload.acmicpc.net/0439a0a7-1d8f-41ad-bddc-0a32d0b00627/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 283px; height: 280px;" /></p>
 
 <p>In this case, one of the optimal ways to reach the exit with maximum energy points is to</p>
 

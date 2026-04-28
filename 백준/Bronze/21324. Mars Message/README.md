@@ -20,7 +20,7 @@
 
 <p>The prod points at a hexidecimal digit, i.e. <code>0-9</code> or <code>a-f</code>, and Mark creates letters and other characters by converting a pair of hexadecimal digits according to ASCII encoding. To determine which digit the prod is pointing at Mark has divided a circle of 360 degrees into 16 parts of 22.5 degrees each.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/41c226d1-f550-4b6e-9fe2-db5a2d78e14f/-/preview/" style="width: 305px; height: 275px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/21324.%E2%80%85Mars%E2%80%85Message/23b14df1.png" data-original-src="https://upload.acmicpc.net/41c226d1-f550-4b6e-9fe2-db5a2d78e14f/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 305px; height: 275px;" /></p>
 
 <p>For example, the pair of angles $(100*{\circ}, 30^{\circ})$ represents the hexadecimal number 41, which in decimal is $65$. According to <a href="https://en.wikipedia.org/wiki/ASCII\#ASCII\_printable\_characters">ASCII</a>&nbsp;that is the character <code>A</code>.</p>
 

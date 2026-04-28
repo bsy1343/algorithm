@@ -24,15 +24,15 @@
 
 <p>Figures D-1 to D-3 show examples of your territories whose borders are depicted as bold rectangles. In Figure D-1 the moat cells, which are depicted as blue squares, surround the castle cell. On the other hand, in Figures D-2 and D-3 the moat cells don&#39;t surround the castle cells.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/4e532d8a-c89f-402e-b217-ae886c07e8db/-/preview/" style="width: 300px; height: 255px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/22372.%E2%80%85Surround%E2%80%85the%E2%80%85Castle/19b68903.png" data-original-src="https://upload.acmicpc.net/4e532d8a-c89f-402e-b217-ae886c07e8db/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 300px; height: 255px;" /></p>
 
 <p style="text-align: center;">Figure D-1. An example of a castle cell surrounded by moat cells</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/08fcc7f0-c245-4f8f-9d28-9eb41f7dce32/-/preview/" style="width: 300px; height: 255px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/22372.%E2%80%85Surround%E2%80%85the%E2%80%85Castle/8da6391a.png" data-original-src="https://upload.acmicpc.net/08fcc7f0-c245-4f8f-9d28-9eb41f7dce32/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 300px; height: 255px;" /></p>
 
 <p style="text-align: center;">Figure D-2. An example of a castle cell not surrounded by moat cells</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/e5ed250f-9b4b-43f0-894f-3a5e02e8fcf2/-/preview/" style="width: 300px; height: 255px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/22372.%E2%80%85Surround%E2%80%85the%E2%80%85Castle/4eb7de09.png" data-original-src="https://upload.acmicpc.net/e5ed250f-9b4b-43f0-894f-3a5e02e8fcf2/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 300px; height: 255px;" /></p>
 
 <p style="text-align: center;">Figure D-3. Another example of a castle cell not surrounded by moat cells</p>
 

@@ -18,21 +18,21 @@
 
 <p>A&nbsp;<a href="https://en.wikipedia.org/wiki/Crossword" target="_blank">crossword puzzle</a>&nbsp;is a rectangular grid of black cells and letters&nbsp;<code>A-Z</code>&nbsp;like the one shown below.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/de3271dd-981c-432a-8774-02b1b91289ab/-/crop/242x177/0,94/-/preview/" /><img alt="" src="" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/23017.%E2%80%85Palindromic%E2%80%85Crossword/c2135f1d.png" data-original-src="https://upload.acmicpc.net/de3271dd-981c-432a-8774-02b1b91289ab/-/crop/242x177/0,94/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /><img alt="" src="" /></p>
 
 <p>Words in the crossword are defined as maximal vertical or horizontal segments of characters. In the crossword below, DO and ON are examples of words.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/b32ac8dc-68a8-4d4d-8074-2f565557197d/-/crop/252x174/22,47/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/23017.%E2%80%85Palindromic%E2%80%85Crossword/a6df2aaf.png" data-original-src="https://upload.acmicpc.net/b32ac8dc-68a8-4d4d-8074-2f565557197d/-/crop/252x174/22,47/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>A palindromic crossword is one where every word is a <a href="https://en.wikipedia.org/wiki/Palindrome">palindrome</a>. Let R<sub>i,j</sub> represent the character on the i-th row and j-th column, where i and j are 1-indexed. The top left corner is R<sub>1,1</sub>. In the example palindromic crossword below, the <code>B</code> in R<sub>3,2</sub> is part of both the horizontal word starting at R<sub>3,1</sub> and the vertical word ending at R<sub>4,2</sub>, and both are palindromes.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/0d245359-2698-4839-9b2a-bbaede92d379/-/crop/242x170/0,17/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/23017.%E2%80%85Palindromic%E2%80%85Crossword/f52b8978.png" data-original-src="https://upload.acmicpc.net/0d245359-2698-4839-9b2a-bbaede92d379/-/crop/242x170/0,17/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>You have been gifted a palindromic crossword puzzle with N rows and M columns. You finished the crossword and throw away the clues, preparing to hang it on your wall. However, you accidentally erase some of the letters! You want to recover as much of the crossword as possible, but you do not have the clues anymore. Using only the knowledge that the crossword is palindromic, restore the maximum possible number of missing characters in the given crossword.</p>
 
 <p>Missing letters are represented as empty white cells in the below diagram. The crossword on the left is the crossword you are given and the crossword on the right is the result after you recover as many letters as possible. The remaining cells cannot be filled because we do not have sufficient information to recover them.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/74174f5a-ccdd-4646-93bd-684324d35394/-/crop/562x172/0,96/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/23017.%E2%80%85Palindromic%E2%80%85Crossword/0a39f11a.png" data-original-src="https://upload.acmicpc.net/74174f5a-ccdd-4646-93bd-684324d35394/-/crop/562x172/0,96/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 ### 입력
 

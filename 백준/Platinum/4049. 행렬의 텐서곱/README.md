@@ -29,7 +29,7 @@
 	아래는 행렬의 텐서 곱의 예시이다.&nbsp;</p>
 
 <p>
-	<img alt="" src="/upload/images/tensor.png" style="width: 661px; height: 122px;" /></p>
+	<img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/4049.%E2%80%85%ED%96%89%EB%A0%AC%EC%9D%98%E2%80%85%ED%85%90%EC%84%9C%EA%B3%B1/151ae551.png" data-original-src="https://www.acmicpc.net/upload/images/tensor.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 661px; height: 122px;" /></p>
 
 <p>
 	일반적인 행렬 곱과는 다르게, q와 n이 같아야 한다는 조건이 없다. 어떤 행렬이 주어졌을 때, 텐서 곱으로 이 행렬을 만들 수 있는 행렬의 가짓수를 구하는 프로그램을 작성하시오.</p>

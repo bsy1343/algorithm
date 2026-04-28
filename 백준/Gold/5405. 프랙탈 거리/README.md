@@ -24,7 +24,7 @@
 
 <p>첫 번째 힐베르트 곡선은 컵(왼쪽 그림에 나와있는 ㄷ자) 하나로 이루어져 있다.&nbsp;두 번째 힐베르트 곡선은 구역을 네 개의 정사각형으로 나누고, 각각의 정사각형에 컵을 채운 다음에 네 컵을 직선으로 연결한 것이다.</p>
 
-<p><img alt="" src="/upload/images/house.png" style="height:206px; width:580px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/5405.%E2%80%85%ED%94%84%EB%9E%99%ED%83%88%E2%80%85%EA%B1%B0%EB%A6%AC/33a094b6.png" data-original-src="https://www.acmicpc.net/upload/images/house.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:206px; width:580px" /></p>
 
 <p>힐베르트 곡선에 대한 설명은 <a href="https://www.acmicpc.net/problem/4645">4645번</a>에 잘 나와 있기 때문에, 이 문제를 참고하면 된다.</p>
 

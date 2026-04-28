@@ -18,7 +18,7 @@
 
 <p>Mirko is a big fan of crop circles, geometrical formations of flattened crops that are supposedly of alien origin. One summer night he decided to make his own formation on his grandmother&rsquo;s meadow. The great patriot that he is, Mirko decided to make a crop formation that would have the shape of the shield part of the Croatian coat of arms, which is a 5&times;5 chessboard with 13 red squares and 12 white squares.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/20ae0a57-bfe4-44d5-b629-65d7e2b783e4/-/preview/" style="width: 157px; height: 156px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/22317.%E2%80%85Aliens/a48109f7.png" data-original-src="https://upload.acmicpc.net/20ae0a57-bfe4-44d5-b629-65d7e2b783e4/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 157px; height: 156px;" /></p>
 
 <p style="text-align: center;">The chessboard part of the Croatian coat of arms.</p>
 
@@ -26,7 +26,7 @@
 
 <p>Mirko decided to flatten only the grass belonging to red squares in the chessboard, leaving the rest of the grass intact. He picked an <strong>odd integer</strong> M &ge; 3 and flattened the grass so that each square of the chessboard comprises M&times;M cells in the meadow, and the chessboard completely fits inside the meadow.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/d27a7ed7-0d9d-4e1f-9a60-081dd1937eb2/-/preview/" style="width: 254px; height: 252px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/22317.%E2%80%85Aliens/7191dd9a.png" data-original-src="https://upload.acmicpc.net/d27a7ed7-0d9d-4e1f-9a60-081dd1937eb2/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 254px; height: 252px;" /></p>
 
 <p style="text-align: center;">Example meadow and Mirko&#39;s crop formation, with N=19 and M=3. Cells with flattened grass are shown in gray.</p>
 

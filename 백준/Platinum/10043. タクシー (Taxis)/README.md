@@ -50,7 +50,7 @@
 
 <p>上の入出力例は，以下の図に対応している．円は町を，線は道路を表す．</p>
 
-<p><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/10043/1.png" style="height:185px; width:373px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/10043.%E2%80%85%E3%82%BF%E3%82%AF%E3%82%B7%E3%83%BC%E2%80%85(Taxis)/5a8d288f.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/10043/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:185px; width:373px" /></p>
 
 <p>この入出力例でJOI 君が最小の運賃で町 6 に到達するには，以下のようにする．</p>
 

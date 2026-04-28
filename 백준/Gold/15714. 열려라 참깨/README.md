@@ -28,7 +28,7 @@
 
 <p>디디는 chogahui05가 자리를 비운 사이 퍼즐을 최대한 빨리 풀어 보물을 가지고 도망치려고 한다. 디디가 이 퍼즐을 풀 수 있는 가장 빠른 시간(초)을 구하는 프로그램을 작성해야 한다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15714/1.png" style="width: 166px; height: 275px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/15714.%E2%80%85%EC%97%B4%EB%A0%A4%EB%9D%BC%E2%80%85%EC%B0%B8%EA%B9%A8/1ad5daee.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15714/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 166px; height: 275px;" /></p>
 
 <p style="text-align: center;">위는 가로3 세로5 격자판의 예시이다. (●는 자갈, ✕는 홈)</p>
 

@@ -18,7 +18,7 @@
 
 <p>무한한 크기의 2차원 격자판이 있다. 성모는 좌측 상단의 점 $(0, 0)$에 있고, 우측 하단의 $(N, M)$에 있는 찬민이를 만나러 가려고 한다. 격자판 위에는 $K$개의 폭탄들이 격자점에 있기 때문에, 성모는 폭탄들을 피해서 이동해야 한다. 성모는 오른쪽, 또는 아래로만 이동할 수 있을 때, 성모가 폭탄을 피해서 찬민이가 있는 곳까지 도착할 수 있는 이동할 수 있는 경우의 수를 구하여라.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/62e070dc-ed26-4356-a2a6-a439a393dc78/-/preview/" style="width: 500px; height: 258px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/29157.%E2%80%85%ED%8F%AD%ED%83%84%E2%80%85%ED%94%BC%ED%95%98%EA%B8%B0/828682ee.png" data-original-src="https://upload.acmicpc.net/62e070dc-ed26-4356-a2a6-a439a393dc78/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 500px; height: 258px;" /></p>
 
 ### 입력
 

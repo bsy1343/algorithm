@@ -20,7 +20,7 @@
 
 <p>Considering two unbounded staircases L and U, there can be several or no <em>closed</em> <em>rectilinear</em> <em>regions</em> bounded by staircases L and U. Among the closed rectilinear regions, some regions are bounded by a staircase L to the bottom and by a staircase U to the top. For example, in the following figure, the two regions colored yellow are that kind of closed rectilinear regions. We would like to compute the total area of such regions.</p>
 
-<p style="text-align:center"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14957/1.png" style="height:262px; width:449px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/14957.%E2%80%85Rectilinear%E2%80%85Regions/ebeaa4fb.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14957/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:262px; width:449px" /></p>
 
 <p style="text-align:center"><strong>Figure</strong> <strong>G.1.</strong> Two staircases L and U, where U has 3-steps and L has 4-steps. The two yellow colored regions are closed rectilinear regions bounded by a staircase L to the bottom, and a staircase U to the top. The <em>x<sub>i</sub><sup>L</sup></em>,<em>y<sub>i</sub><sup>L</sup></em> (resp., <em>x<sub>i</sub><sup>U</sup></em>,<em>y<sub>i</sub><sup>U</sup></em>) are the <em>x</em>-, <em>y</em>-coordinates of corner points of the staircase L (resp., U).</p>
 

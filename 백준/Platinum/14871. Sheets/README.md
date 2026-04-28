@@ -60,6 +60,6 @@
 
 ### 힌트
 
-<p><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14871/1.png" style="height:79px; width:106px" />S = &lt; 1, 3, 4, 2 &gt;</p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/14871.%E2%80%85Sheets/1d5113c7.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14871/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:79px; width:106px" />S = &lt; 1, 3, 4, 2 &gt;</p>
 
-<p><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14871/2.png" style="height:130px; width:176px" />S = &lt; 1, 13, 16, 4, 8, 12, 9, 5, 6, 10, 11, 7, 3, 15, 14, 2 &gt;</p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/14871.%E2%80%85Sheets/52943c85.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14871/2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:130px; width:176px" />S = &lt; 1, 13, 16, 4, 8, 12, 9, 5, 6, 10, 11, 7, 3, 15, 14, 2 &gt;</p>

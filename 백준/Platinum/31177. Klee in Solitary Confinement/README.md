@@ -18,7 +18,7 @@
 
 <p>Since the traveler comes, People in Monstadt suddenly raise great interest in computer programming and algorithms, including Klee, the Spark Knight of the Knights of Favonius.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/4f6b1d1f-09a2-42cb-8315-b4e9b2420535/-/preview/" style="width: 500px; height: 310px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/31177.%E2%80%85Klee%E2%80%85in%E2%80%85Solitary%E2%80%85Confinement/bcf8ca12.png" data-original-src="https://upload.acmicpc.net/4f6b1d1f-09a2-42cb-8315-b4e9b2420535/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 500px; height: 310px;" /></p>
 
 <p style="text-align: center;">Source: Genshin Impact Official</p>
 

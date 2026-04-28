@@ -18,7 +18,7 @@
 
 <p>Given a sequence of integers a1, a2, a3, &hellip;, an, an island in the sequence is a contiguous subsequence for which each element is greater than the elements immediately before and after the subsequence. In the examples below, each island in the sequence has a bracket below it. The bracket for an island contained within another island is below the bracket of the containing island.</p>
 
-<p><img alt="" src="/upload/images/ids.png" style="height:197px; width:342px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/9468.%E2%80%85Islands%E2%80%85in%E2%80%85the%E2%80%85Data%E2%80%85Stream/bf7c8e3c.png" data-original-src="https://www.acmicpc.net/upload/images/ids.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:197px; width:342px" /></p>
 
 <p>Write a program that takes as input a sequence of 15 non-negative integers, in which each integer differs from the previous integer by at most 1, and outputs the number of islands in the sequence.</p>
 

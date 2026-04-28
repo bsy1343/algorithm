@@ -25,7 +25,7 @@
 
 <p>아래와 같은 예시를 생각해 보자.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/bca9738e-b5f4-46a1-9f0f-67e11da7dd19/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/27655.%E2%80%85%EC%A0%90%ED%94%84/62ea39ea.png" data-original-src="https://upload.acmicpc.net/bca9738e-b5f4-46a1-9f0f-67e11da7dd19/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>1층에는 2개의 발판이 존재한다. 1층의 오른쪽 발판과 왼쪽 발판 중 어느 곳에서든 캐릭터는 시작할 수 있으며, 이 경우 오른쪽 발판에서 4층으로 1번의 점프로 이동하는 방법이 최적이다. 또한 점프 방식에 대한 정의에 의하여 1층의 오른쪽 발판 위에 캐릭터가 있고, 만약 위치 8에서 점프를 할 경우 2층의 발판에 도달함을 알 수 있다.</p>
 

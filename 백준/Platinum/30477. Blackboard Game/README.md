@@ -27,7 +27,7 @@
 
 <p>The figure below depicts the only possible outcome for the first sample. In this case Equalizer wins for sure, no matter how they play both sums will be equal to 25.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/6f779e5d-ce45-4b76-94fa-5e014fefb5ba/-/preview/" style="width: 253px; height: 146px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/30477.%E2%80%85Blackboard%E2%80%85Game/40e75f17.png" data-original-src="https://upload.acmicpc.net/6f779e5d-ce45-4b76-94fa-5e014fefb5ba/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 253px; height: 146px;" /></p>
 
 <p>Carlinhos, feeling the game is imbalanced, seeks to determine whether he can secure a victory when both players play optimally. Can you help him with this task?</p>
 

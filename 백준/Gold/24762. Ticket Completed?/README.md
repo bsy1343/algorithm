@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/1053415b-d575-4429-ba2b-90429fcea070/-/preview/" style="width: 378px; height: 305px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/24762.%E2%80%85Ticket%E2%80%85Completed%3F/c97783fa.png" data-original-src="https://upload.acmicpc.net/1053415b-d575-4429-ba2b-90429fcea070/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 378px; height: 305px;" /></p>
 
 <p>Many are familiar with the board game Ticket To&nbsp;Ride (<a href="https://www.daysofwonder.com/tickettoride/en/">Ticket To&nbsp;Ride</a> is copyrighted by Days of Wonder, Inc.) where players compete to build a railway empire, claiming routes between cities. The game consists of a map of cities and various rail segments each connecting two adjacent cities.&nbsp;</p>
 

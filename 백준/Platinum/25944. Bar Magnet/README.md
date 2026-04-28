@@ -18,7 +18,7 @@
 
 <p>Jaehyun makes and sells bar magnets of various lengths and colors. He makes a lot of cube-shaped &quot;basic magnets&quot; of the same size. The basic magnets are colored in one of the 26 colors. See Figure 1. Jaehyun makes various bar magnets according to the customers&rsquo; request by connecting basic magnets. But connecting basic magnets one by one takes quite a long time. So Jaehyun tried to save time by using a &quot;template bar magnet&quot; consisting of several basic magnets instead of the basic magnets. To simplify the process, Jaehyun decided to use only one type of template bar magnet and make it in bulk in advance. Now he uses the pre- made template bar magnets to produce bar magnets requested by customers. Note that the template bar magnets are polarized and cannot be connected in the opposite direction.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/e4b1f5f9-8632-46cc-9c74-c42657c176fd/-/preview/" style="width: 359px; height: 57px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/25944.%E2%80%85Bar%E2%80%85Magnet/c2279c27.png" data-original-src="https://upload.acmicpc.net/e4b1f5f9-8632-46cc-9c74-c42657c176fd/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 359px; height: 57px;" /></p>
 
 <p style="text-align: center;">Figure 1 Basic Magnets</p>
 
@@ -38,11 +38,11 @@
 
 <p>For example, assume that the T-bar consists of 6 basic magnets as Figure 2. Assume a customer requests a bar magnet consisting of 17 basic magnets as Figure 3.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/445500fc-a816-459c-a1d9-524d30e365e1/-/preview/" style="width: 244px; height: 57px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/25944.%E2%80%85Bar%E2%80%85Magnet/b0134a39.png" data-original-src="https://upload.acmicpc.net/445500fc-a816-459c-a1d9-524d30e365e1/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 244px; height: 57px;" /></p>
 
 <p style="text-align: center;">Figure 2 A T-bar consisting of 6 basic magnets</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/8da21f6b-5a86-4f4e-9d02-ffa03659e141/-/preview/" style="width: 598px; height: 57px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/25944.%E2%80%85Bar%E2%80%85Magnet/21b60071.png" data-original-src="https://upload.acmicpc.net/8da21f6b-5a86-4f4e-9d02-ffa03659e141/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 598px; height: 57px;" /></p>
 
 <p style="text-align: center;">Figure 3 A requested bar magnet by a customer</p>
 

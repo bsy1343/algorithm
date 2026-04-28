@@ -18,9 +18,9 @@
 
 <p><strong>Sudoku</strong> is a popular single player game. The objective is to fill a 9x9 matrix with digits so that each column, each row, and all 9 non-overlapping 3x3 sub-matrices contain all of the digits from 1 through 9. Each 9x9 matrix is partially completed at the start of game play and typically has a unique solution.</p>
 
-<p><img alt="" src="https://onlinejudgeimages.s3.amazonaws.com/problem/12266/images-59.png" style="height:250px; width:250px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/12267.%E2%80%85Sudoku%E2%80%85Checker%E2%80%85(Large)/ee0eb329.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/12266/images-59.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:250px; width:250px" /></p>
 
-<p><img alt="" src="https://onlinejudgeimages.s3.amazonaws.com/problem/12266/images-60.png" style="height:250px; width:250px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/12267.%E2%80%85Sudoku%E2%80%85Checker%E2%80%85(Large)/cf9e4a48.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/12266/images-60.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:250px; width:250px" /></p>
 
 <p>Given a completed <strong>N</strong><strong><sup>2</sup></strong>x<strong>N</strong><strong><sup>2</sup></strong> Sudoku matrix, your task is to determine whether it is a <em>valid</em> solution. A <em>valid</em> solution must satisfy the following criteria:</p>
 

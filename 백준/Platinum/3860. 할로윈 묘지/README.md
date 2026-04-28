@@ -30,7 +30,7 @@
 
 <p>상근이는 묘지를 빨리 나가기 위해 귀신 구멍도 이용할 것이다. 묘지를 나갈 수 없는 경우나, 계속해서 과거로 이동하는 경우가 존재할 수도 있다.</p>
 
-<p style="text-align: center;"><img alt="" src="/upload/images/grave.png" style="height:271px; width:342px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/3860.%E2%80%85%ED%95%A0%EB%A1%9C%EC%9C%88%E2%80%85%EB%AC%98%EC%A7%80/422de9b1.png" data-original-src="https://www.acmicpc.net/upload/images/grave.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:271px; width:342px" /></p>
 
 <p>묘지가 위와 같이 생긴 경우(문제의 두 번째 예제)를 살펴보자. 묘비는 (2,1)와 (3,1)에 있고, 귀신 구멍은 0초만에 (3,0)로 들어가서 (2,2)에서 나오는 구멍 하나가 있다. 묘지를 빠져나오는데 걸리는 가장 빠른 시간은 4초이며, 다음과 같다.</p>
 

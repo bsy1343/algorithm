@@ -20,7 +20,7 @@
 
 <p>Mirko se pohvalio da će jednim ravnim potezom noža prerezati oba bureka točno na dvije povr&scaron;inom jednake polovice. Pomozite Mirku da to i napravi prije no &scaron;to se bureci sasvim ohlade.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/ddd1d7ca-426b-4fe9-9cd3-d2a54b600826/-/preview/" style="width: 250px; height: 202px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/31191.%E2%80%85Dra%C5%BEesni%E2%80%85Doru%C4%8Dak/d453435a.png" data-original-src="https://upload.acmicpc.net/ddd1d7ca-426b-4fe9-9cd3-d2a54b600826/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 250px; height: 202px;" /></p>
 
 <p style="text-align: center;">Slika odgovara prvom probnom primjeru</p>
 

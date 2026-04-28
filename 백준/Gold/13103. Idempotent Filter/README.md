@@ -22,19 +22,19 @@
 
 <p>Example 1: Color a pixel in white when all of its neighboring pixels are white. Otherwise the color will not change.</p>
 
-<p><img alt="" src="https://onlinejudgeimages.s3.amazonaws.com/problem/13103/NoiseCanceller.png" style="height:235px; width:488px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/13103.%E2%80%85Idempotent%E2%80%85Filter/31a368cf.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/13103/NoiseCanceller.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:235px; width:488px" /></p>
 
 <p>Performing this operation on all the pixels simultaneously results in &quot;noise canceling,&quot; which removes isolated black pixels.</p>
 
 <p>Example 2: Color a pixel in white when its all neighboring pixels are black. Otherwise the color will not change.</p>
 
-<p><img alt="" src="https://onlinejudgeimages.s3.amazonaws.com/problem/13103/EdgeDetector.png" style="height:235px; width:488px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/13103.%E2%80%85Idempotent%E2%80%85Filter/e6e4f8d1.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/13103/EdgeDetector.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:235px; width:488px" /></p>
 
 <p>Performing this operation on all the pixels simultaneously results in &quot;edge detection,&quot; which leaves only the edges of filled areas.</p>
 
 <p>Example 3: Color a pixel with the color of the pixel just below it, ignoring any other neighbors.</p>
 
-<p><img alt="" src="https://onlinejudgeimages.s3.amazonaws.com/problem/13103/MoveUp.png" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/13103.%E2%80%85Idempotent%E2%80%85Filter/b1ea73b5.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/13103/MoveUp.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>Performing this operation on all the pixels simultaneously results in &quot;shifting up&quot; the whole image by one pixel.</p>
 
@@ -51,7 +51,7 @@
 
 <p>c<sub>i</sub> is either &#39;0&#39; (represents black) or &#39;1&#39; (represents white), which indicates the output of the filter for a pixel when the binary representation of the pixel and its neighboring six pixels is i. The mapping from the pixels to the bits is as following:</p>
 
-<p><img alt="" src="https://onlinejudgeimages.s3.amazonaws.com/problem/13103/Bit.png" style="height:235px; width:226px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/13103.%E2%80%85Idempotent%E2%80%85Filter/aa356f35.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/13103/Bit.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:235px; width:226px" /></p>
 
 <p>and the binary representation i is defined as i=&sum;<sup>6</sup><sub>j=0</sub>bit<sub>j</sub>&times;2<sup>j</sup>, where bit<sub>j</sub> is 0 or 1 if the corresponding pixel is in black or white, respectively. Note that the filter is applied on the center pixel, denoted as bit 3.</p>
 

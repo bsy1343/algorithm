@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p><img alt="" src="https://upload.acmicpc.net/8ce8a5ce-4735-4587-a0ab-962e68e74922/-/preview/" style="width: 106px; height: 170px; float: right;" />Nakon posjete dalekoj otočnoj zemlji Ivan ima novo omiljeno piće. Toliko ga je zavolio da ga sada kupuje na bačve. Tijekom kupovine uvijek se iznova susreće s istim problemom, a to je transport bačve od trgovine do svog doma.</p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/25142.%E2%80%85BA%C4%8CVA/7f266ada.png" data-original-src="https://upload.acmicpc.net/8ce8a5ce-4735-4587-a0ab-962e68e74922/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 106px; height: 170px; float: right;" />Nakon posjete dalekoj otočnoj zemlji Ivan ima novo omiljeno piće. Toliko ga je zavolio da ga sada kupuje na bačve. Tijekom kupovine uvijek se iznova susreće s istim problemom, a to je transport bačve od trgovine do svog doma.</p>
 
 <p>Bačvu zami&scaron;ljamo kao valjak koji se sastoji od dvije baze i pla&scaron;ta kao &scaron;to je vidljivo na slici. Trgovina i Ivanov dom su polja u tablici, a na svakom polju tablice nalazi se praznina ili zapreka. Bačvu pomičemo kroz tablicu na sljedeći način.</p>
 
@@ -29,8 +29,8 @@
 <table class="table table-bordered td-middle td-center">
 	<tbody>
 		<tr>
-			<td><img alt="" src="https://upload.acmicpc.net/4319397c-95ff-4d51-9f4e-11640c2a6937/-/preview/" style="width: 408px; height: 382px;" /></td>
-			<td><img alt="" src="https://upload.acmicpc.net/99a74aae-6160-4aaa-a71c-9017001e010c/-/preview/" style="width: 431px; height: 369px;" /></td>
+			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/25142.%E2%80%85BA%C4%8CVA/a4fc62a1.png" data-original-src="https://upload.acmicpc.net/4319397c-95ff-4d51-9f4e-11640c2a6937/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 408px; height: 382px;" /></td>
+			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/25142.%E2%80%85BA%C4%8CVA/c77a229e.png" data-original-src="https://upload.acmicpc.net/99a74aae-6160-4aaa-a71c-9017001e010c/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 431px; height: 369px;" /></td>
 		</tr>
 		<tr>
 			<td>Slika 1.</td>

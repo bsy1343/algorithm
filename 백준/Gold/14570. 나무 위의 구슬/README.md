@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align:center"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14570/1.png" style="height:185px; width:193px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/14570.%E2%80%85%EB%82%98%EB%AC%B4%E2%80%85%EC%9C%84%EC%9D%98%E2%80%85%EA%B5%AC%EC%8A%AC/00fcd150.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14570/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:185px; width:193px" /></p>
 
 <p>이진 트리란, 위처럼 모든 노드의 자식의 수가 2개 이하인 트리이다.</p>
 

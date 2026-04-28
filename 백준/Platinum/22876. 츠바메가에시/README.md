@@ -29,8 +29,8 @@
 <table class="table table-bordered td-center">
 	<tbody>
 		<tr>
-			<td><img alt="" src="https://upload.acmicpc.net/8604b60b-d965-4a9a-9a7f-2958fd07da18/-/preview/" style="width: 480px; height: 480px;" /></td>
-			<td><img alt="" src="https://upload.acmicpc.net/dd551807-2711-49a5-a54e-5c8192ac24d6/-/preview/" style="width: 480px; height: 480px;" /></td>
+			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/22876.%E2%80%85%EC%B8%A0%EB%B0%94%EB%A9%94%EA%B0%80%EC%97%90%EC%8B%9C/f1823571.png" data-original-src="https://upload.acmicpc.net/8604b60b-d965-4a9a-9a7f-2958fd07da18/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 480px; height: 480px;" /></td>
+			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/22876.%E2%80%85%EC%B8%A0%EB%B0%94%EB%A9%94%EA%B0%80%EC%97%90%EC%8B%9C/f9499e98.png" data-original-src="https://upload.acmicpc.net/dd551807-2711-49a5-a54e-5c8192ac24d6/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 480px; height: 480px;" /></td>
 		</tr>
 		<tr>
 			<td>그림 D.1: 2차원 평면상에 배치된 제비</td>

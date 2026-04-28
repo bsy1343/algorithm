@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p><img src="/upload/images2/cone.gif" /></p>
+<p><img src="%EB%B0%B1%EC%A4%80/Gold/1798.%E2%80%85%EC%9B%90%EB%BF%94%EC%A2%8C%ED%91%9C%EA%B3%84%EC%83%81%EC%9D%98%E2%80%85%EA%B1%B0%EB%A6%AC/b0c2d725.gif" data-original-src="https://www.acmicpc.net/upload/images2/cone.gif" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>원뿔 하나가 평면 z=0에 반지름 r인 밑면을 두고 놓여 있다. 밑면의 중심은 (0,0,0) 이며, 원뿔의 꼭대기는 (0,0,h)에 위치해 있다. 즉, 원뿔의 높이는 h이다.</p>
 

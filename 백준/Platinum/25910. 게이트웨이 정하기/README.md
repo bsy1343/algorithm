@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/c75a21a0-b308-4205-999b-0381db142a8c/-/preview/" style="width:700px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/25910.%E2%80%85%EA%B2%8C%EC%9D%B4%ED%8A%B8%EC%9B%A8%EC%9D%B4%E2%80%85%EC%A0%95%ED%95%98%EA%B8%B0/3bafe797.png" data-original-src="https://upload.acmicpc.net/c75a21a0-b308-4205-999b-0381db142a8c/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width:700px;" /></p>
 
 <p>$N$개의 노드와 $N-1$개의 양방향 링크로 이루어져 있는 트리 구조의 네트워크가 있다.</p>
 

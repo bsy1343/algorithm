@@ -22,7 +22,7 @@
 
 <p>아래의 그림은 민호가 설계한 CPU가 처리할 수 있는 16-bit 단위 명령어들의 구조를 모아놓은 표이다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/00f0520a-b036-4407-96f6-bc0db2cea615/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/16506.%E2%80%85CPU/d74b1158.png" data-original-src="https://upload.acmicpc.net/00f0520a-b036-4407-96f6-bc0db2cea615/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>입력과 출력은 항상 명령어 단위이며, 어셈블리어 코드는 <em>&quot;opcode rD rA rB&quot;</em> 또는 <em>&quot;opcode rD rA #C&quot;</em>의 형태이다. 기본적으로 레지스터 <em>rA</em>와 <em>rB</em>에 있는 두 수 또는 레지스터 <em>rA</em>에 있는 수와 상수 <em>#C</em>를 <em>opcode</em>에 해당하는 연산을 수행하고, 그 결괏값을 레지스터 <em>rD</em>에 저장하는 명령어이다. <em>rA</em>는 <em>opcode</em>에 따라 사용하지 않을 수도 있다. 어셈블러는 <em>opcode, rD, rA, rB, #C</em>를 각 bit의 자리에 맞게 2진수 0과 1로 이루어진 16-bit 기계어 코드로 변역한다. bit마다 자리의 의미는 아래와 같다.</p>
 

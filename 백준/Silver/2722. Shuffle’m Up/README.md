@@ -20,7 +20,7 @@
 
 <p>The actual shuffle operation is performed by interleaving a chip from S<sub>1</sub> with a chip from S<sub>2</sub> as shown below for C=5:&nbsp;</p>
 
-<p><img alt="" src="/upload/images/shff.png" style="height:314px; width:744px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/2722.%E2%80%85Shuffle%E2%80%99m%E2%80%85Up/8a76a8fb.png" data-original-src="https://www.acmicpc.net/upload/images/shff.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:314px; width:744px" /></p>
 
 <p>The single resultant stack, S<sub>12</sub>, contains 2*C chips. The bottommost chip of S<sub>12</sub> is the bottommost chip from S<sub>2</sub>. On top of that chip, is the bottommost chip from S<sub>1</sub>. The interleaving process continues taking the 2<sup>nd</sup> chip from the bottom of S<sub>2</sub> and placing that on S<sub>12</sub>, followed by the 2<sup>nd</sup> chip from the bottom of S<sub>1</sub> and so on until the topmost chip from S<sub>1</sub> is placed on top of S<sub>12</sub>.&nbsp;</p>
 

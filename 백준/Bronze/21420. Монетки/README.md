@@ -18,7 +18,7 @@
 
 <p>На столе лежат $n$ монеток. Некоторые из них лежат вверх решкой, а некоторые --- гербом. Определите минимальное число монеток, которые нужно перевернуть, чтобы все монетки были повернуты вверх одной и той же стороной.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/5b317559-c1b6-4210-8be8-e1dfd7d24afb/-/preview/" style="width: 386px; height: 174px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/21420.%E2%80%85%D0%9C%D0%BE%D0%BD%D0%B5%D1%82%D0%BA%D0%B8/d124d7a1.png" data-original-src="https://upload.acmicpc.net/5b317559-c1b6-4210-8be8-e1dfd7d24afb/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 386px; height: 174px;" /></p>
 
 ### 입력
 

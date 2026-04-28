@@ -18,7 +18,7 @@
 
 <p>Pretty Networks Inc. is a company that builds some curious artifacts whose purpose is to transform a set of input values in a given way. The transformation is determined by what they call a p-network. The following picture shows an example of a p-network.</p>
 
-<p style="text-align: center;"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/5758/1.png" style="height:107px; width:389px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/5758.%E2%80%85P-Networks/a3eec87f.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/5758/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:107px; width:389px" /></p>
 
 <p>In the general case, a p-network of order N and size M, has N horizontal wires numbered 1, 2, . . . N, and M vertical strokes. Each stroke connects two consecutive wires. There are no two different strokes touching the same point of any wire, and there is no stroke touching the leftmost or rightmost point of any wire. The above example is a p-network of order 5 and size 9.</p>
 

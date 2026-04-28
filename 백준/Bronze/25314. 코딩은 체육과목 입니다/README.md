@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="margin-bottom: 15px;"><img alt="" src="https://u.acmicpc.net/ccbbee06-7e6f-4e56-bb9f-9a1abd795508/long-long-long-img1.png" style="display: block; margin-left: auto; margin-right: auto; width: 100%; max-width: 400px;" /></p>
+<p style="margin-bottom: 15px;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/25314.%E2%80%85%EC%BD%94%EB%94%A9%EC%9D%80%E2%80%85%EC%B2%B4%EC%9C%A1%EA%B3%BC%EB%AA%A9%E2%80%85%EC%9E%85%EB%8B%88%EB%8B%A4/090462be.png" data-original-src="https://u.acmicpc.net/ccbbee06-7e6f-4e56-bb9f-9a1abd795508/long-long-long-img1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="display: block; margin-left: auto; margin-right: auto; width: 100%; max-width: 400px;" /></p>
 
 <p>오늘은 혜아의 면접 날이다. 면접 준비를 열심히 해서 앞선 질문들을 잘 대답한 혜아는 이제 마지막으로 칠판에 직접 코딩하는 문제를 받았다. 혜아가 받은 문제는 두 수를 더하는 문제였다. C++ 책을 열심히 읽었던 혜아는 간단히 두 수를 더하는 코드를 칠판에 적었다. 코드를 본 면접관은 다음 질문을 했다. &ldquo;만약, 입출력이 $N$바이트 크기의 정수라면 프로그램을 어떻게 구현해야 할까요?&rdquo;</p>
 

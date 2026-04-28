@@ -22,7 +22,7 @@
 
 <p>Skriv ett program som, givet antalet schemalagda f&ouml;rel&auml;sningar under $N$ veckor, skriver ut antalet f&ouml;rel&auml;sningar Bjarki kommer h&aring;lla inf&ouml;r tomma klassrum samt antalet f&ouml;rel&auml;sningar Bjarki inte dyker upp p&aring;.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/a42b4005-f57d-413c-a250-d96a942ecc84/-/preview/" style="width: 660px; height: 249px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/21280.%E2%80%85F%C3%B6rvirrad%E2%80%85f%C3%B6rel%C3%A4sare/a49eab07.png" data-original-src="https://upload.acmicpc.net/a42b4005-f57d-413c-a250-d96a942ecc84/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 660px; height: 249px;" /></p>
 
 <p style="text-align: center;">Figur 1.&nbsp;Schemat i det f&ouml;rsta exemplet. F markerar schemalagda f&ouml;rel&auml;sningar. En bl&aring; cirkel markerar att Bjarki h&aring;ller lektionen inf&ouml;r tomt klassrum och en r&ouml;d triangel markerar att han inte dyker upp. <strong>F&ouml;rklaring:</strong> F&ouml;rsta veckan har Bjarki alltid koll p&aring; vilka f&ouml;rel&auml;sningar han ska h&aring;lla. Veckan d&auml;rp&aring; tror han att han bara ska h&aring;lla en f&ouml;rel&auml;sning, och missar d&auml;rf&ouml;r tv&aring; stycken. Tredje veckan h&aring;ller han tre f&ouml;rel&auml;sningar, varav en inf&ouml;r tomt klassrum, och sista veckan missar han tv&aring; f&ouml;rel&auml;sningar. Totalt har han h&aring;llt 1 tom f&ouml;rel&auml;sning och missat 4 f&ouml;rel&auml;sningar.</p>
 

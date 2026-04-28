@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align:center"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/8312/1.gif" style="height:100px; width:150px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/8312.%E2%80%85Rectangles%E2%80%852/6829fb9f.gif" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/8312/1.gif" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:100px; width:150px" /></p>
 
 <p>We have found: 6 rectangles 1 &times; 1, 4 rectangles 2 &times; 1, 3 rectangles 1 &times; 2, 2 rectangles 2 &times; 2, 2 rectangles 3&nbsp;&times; 1&nbsp;and one rectangle 3 &times; 2, what gives 18 in total. Clearly, we are interested in rectangles with vertices in grid points, i.e., the points located at the intersections of vertical and horizontal line segments, and having vertical or horizontal sides. The above grid has dimensions 3 &times; 2.</p>
 

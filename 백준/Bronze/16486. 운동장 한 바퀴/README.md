@@ -18,7 +18,7 @@
 
 <p>세연이네 학교 운동장은 아래와 같다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/2f29c6a0-5406-493c-a4d6-d2595c32be2e/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/16486.%E2%80%85%EC%9A%B4%EB%8F%99%EC%9E%A5%E2%80%85%ED%95%9C%E2%80%85%EB%B0%94%ED%80%B4/c806d96b.png" data-original-src="https://upload.acmicpc.net/2f29c6a0-5406-493c-a4d6-d2595c32be2e/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>위의 그림에서 영역 A와 B는 반원이며, 영역 C는 직사각형이다. 영역 C의 가로의 길이를&nbsp;<em>d</em><sub>1</sub>,&nbsp;영역 A의 반지름의 길이 <em>d</em><sub>2</sub>의 값이 주어지면 운동장의 한 바퀴 둘레를 알아내는 프로그램을 작성하시오. (단, 이 문제에서는 &pi;&nbsp;(원주율)의 값을 3.141592라고 한다.)</p>
 

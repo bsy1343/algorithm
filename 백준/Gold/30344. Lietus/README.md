@@ -20,7 +20,7 @@
 
 <p>Adomas pamir&scaron;o dėžutę su kubeliais lauke ir į ją prilijo vandens. Dėl skirtingo kubelių kiekio kai kuriuose stulpeliuose galėjo užsilikti vandens. Dėžutės &scaron;onai (kurių matmenys N &times; M) ir dugnas sudaryti i&scaron; tankios medžiagos, todėl nepraleidžia vandens, bet dėžutės galai (kurių matmenys 1 &times; M) vandens nesulaiko.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/309b9c26-5a0b-4468-bb0d-8ce27856be9f/-/preview/" style="width: 256px; height: 197px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/30344.%E2%80%85Lietus/2e42111a.png" data-original-src="https://upload.acmicpc.net/309b9c26-5a0b-4468-bb0d-8ce27856be9f/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 256px; height: 197px;" /></p>
 
 <p style="text-align: center;">1 pav. N = 6, M = 5, o palijus užsiliko trys kubeliai vandens.</p>
 

@@ -18,7 +18,7 @@
 
 <p>You are the lead programmer for the Securitron 9042, the latest and greatest in home security software from Jellern Inc. (Motto: We secure your stuff so YOU can&#39;t even get to it). The software is designed to &quot;secure&quot; a room; it does this by determining the minimum number of locks it has to perform to prevent access to a given room from one or more other rooms. Each door connects two rooms and has a single control panel that will unlock it. This control panel is accessible from only one side of the door. So, for example, if the layout of a house looked like this:</p>
 
-<p style="text-align: center;"><img alt="" src="/upload/images2/panicroom.png" style="height:233px; width:343px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/4546.%E2%80%85Panic%E2%80%85Room/c762c22a.png" data-original-src="https://www.acmicpc.net/upload/images2/panicroom.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:233px; width:343px" /></p>
 
 <p>with rooms numbered 0-6 and control panels marked with the letters &quot;CP&quot; (each next to the door it can unlock and in the room that it is accessible from), then one could say that the minimum number of locks to perform to secure room 2 from room 1 is two; one has to lock the door between room 2 and room 1 and the door between room 3 and room 1. Note that it is impossible to secure room 2 from room 3, since one would always be able to use the control panel in room 3 that unlocks the door between room 3 and room 2.&nbsp;</p>
 

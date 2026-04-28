@@ -18,7 +18,7 @@
 
 <p>무어 기계는 상태에 의해서 출력이 결정되는 유한 상태 기계이다. 무어 기계는 이름은 미국의 수학자이자 컴퓨터 과학자 Edward F. Moore의 이름을 따서 지었다. 무어 기계의 상태 전이는 입력에 의해서 정해진다. 예를 들어, 입력이 &quot;aabba&quot;이면, 아래와 같은 무어 기계의 출력은 &quot;PRETTY&quot;가 된다.</p>
 
-<p><img alt="" src="/upload/images/moore1.png" style="height:144px; width:461px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/3300.%E2%80%85%EB%AC%B4%EC%96%B4%E2%80%85%EA%B8%B0%EA%B3%84/9acd779c.png" data-original-src="https://www.acmicpc.net/upload/images/moore1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:144px; width:461px" /></p>
 
 <p>위의 그림에서 동그라미는 상태를 나타내고, 화살표 위의 글자는 입력 심볼을 나타낸다. 상태 중 하나는 시작 상태로 디자인 되어져 있다. 이 상태는 출발 노드가 없는 화살표로 나타나 있다. 이 경우에 시작 상태는 1번 상태이다. 상태 N과 출력 심볼 S는 N/S로 나타낸다.</p>
 
@@ -28,7 +28,7 @@
 
 <p>예를 들어, 아래 그림과 같은 직병렬 무어 기계가 있다.</p>
 
-<p><img alt="" src="/upload/images/moore2.png" style="height:140px; width:278px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/3300.%E2%80%85%EB%AC%B4%EC%96%B4%E2%80%85%EA%B8%B0%EA%B3%84/5497d124.png" data-original-src="https://www.acmicpc.net/upload/images/moore2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:140px; width:278px" /></p>
 
 <p>위의 그림에는 상태를 간단하게 나타내기 위해 출력 심볼만 나타나 있다. 빈 원은 출력 심볼이 지워진 상태이다. 예를 들어, 기계의 출력이 &quot;ADC&quot;인 경우에는, 지워진 심볼이 D임을 알 수 있다. 하지만, 출력이 &quot;ABC&quot; 라면, 주어진 심볼을 유일하게 결정할 수 없다. &quot;ABD&quot;는 이 기계에서 나올 수 없는 출력이기 때문에, 불가능한 경우이다.</p>
 

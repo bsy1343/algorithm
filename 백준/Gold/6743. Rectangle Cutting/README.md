@@ -22,7 +22,7 @@
 
 <p>For example, in the following figure, the cake size is 3&times;5, and three people have made rectangular cuts in it. As a result, the cake is cut into six pieces.</p>
 
-<p><img alt="" src="https://onlinejudgeimages.s3.amazonaws.com/problem/6743/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-09-09%20%EC%98%A4%ED%9B%84%204.59.17.png" style="height:144px; width:240px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/6743.%E2%80%85Rectangle%E2%80%85Cutting/8c895147.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/6743/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-09-09%20%EC%98%A4%ED%9B%84%204.59.17.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:144px; width:240px" /></p>
 
 <p>Each rectangular cut is specified by the (<em>x</em>,<em>y</em>) coordinates of its two opposite corners. The input for the above figure can be found in the first sample input. As there are large families in Basinia, the number of pieces may be large and we need a computer program to compute it.</p>
 

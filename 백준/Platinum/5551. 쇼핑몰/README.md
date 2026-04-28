@@ -38,4 +38,4 @@
 
 <p>예제 1의 경우에 도로의 길이는 모두 1이고, 쇼핑몰은 1번 도시에만 있다. 쇼핑몰과 가장 먼 거리에 있는 집의 위치는 2번 도시와 3번 도시를 연결하는 도로에서 2번 도시와 거리가 0.5만큼 떨어져 있는 위치 위에 있는 곳이다. 이 집과 쇼핑몰의 거리는 1.5이다. 따라서, 반올림하면 2가 된다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/71c6d184-00c8-4046-985f-5504caa88823/-/preview/" style="width: 221px; height: 181px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/5551.%E2%80%85%EC%87%BC%ED%95%91%EB%AA%B0/9cd0e040.png" data-original-src="https://upload.acmicpc.net/71c6d184-00c8-4046-985f-5504caa88823/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 221px; height: 181px;" /></p>

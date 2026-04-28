@@ -24,11 +24,11 @@
 
 <p>예를 들어, N = 11인 경우 상근이의 작품은 다음과 같다.</p>
 
-<p><img alt="" src="/upload/images/artist1.png" style="height:350px; width:350px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/5556.%E2%80%85%ED%83%80%EC%9D%BC/f35de020.png" data-original-src="https://www.acmicpc.net/upload/images/artist1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:350px; width:350px" /></p>
 
 <p>또, N = 16인 경우에는 아래와 같다.</p>
 
-<p><img alt="" src="/upload/images/artist2.png" style="height:510px; width:510px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/5556.%E2%80%85%ED%83%80%EC%9D%BC/e67fe90c.png" data-original-src="https://www.acmicpc.net/upload/images/artist2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:510px; width:510px" /></p>
 
 ### 입력
 
@@ -40,4 +40,4 @@
 
 ### 힌트
 
-<p><img alt="" src="/upload/images/artist3.png" style="height:350px; width:350px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/5556.%E2%80%85%ED%83%80%EC%9D%BC/eef22304.png" data-original-src="https://www.acmicpc.net/upload/images/artist3.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:350px; width:350px" /></p>

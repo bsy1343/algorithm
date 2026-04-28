@@ -18,7 +18,7 @@
 
 <p>파댕이는 중견기업 회사에서 직장인으로 일하고 있다. 사장님이 직장인 파댕이를 무척 아끼기 때문에, 파댕이는 사장실에 찾아가 사장님께 인사를 하려고 한다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/927f6335-c795-4e5f-b1da-ff2ee40f951f/-/preview/" style="height: 221px; width: 256px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/30985.%E2%80%85%EC%A7%81%EC%9E%A5%EC%9D%B8%E2%80%85%ED%8C%8C%EB%8C%95%EC%9D%B4%EC%9D%98%E2%80%85%EC%82%AC%ED%9A%8C%EC%83%9D%ED%99%9C/9885185f.png" data-original-src="https://upload.acmicpc.net/927f6335-c795-4e5f-b1da-ff2ee40f951f/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 221px; width: 256px;" /></p>
 
 <p>직장인 파댕이의 회사가 있는 건물은 $K$층으로 구성되어 있는데 각 층은 <strong>방</strong>과 <strong>복도</strong>로 구성되어 있다. 복도를 통해 방과 방 사이를 <strong>양방향</strong>으로 이동할 수 있다. <strong>모든 층은 같은 모습</strong>을 하고 있다. 파댕이는 현재 $1$층의 $1$번 방에 있고, 사장실은 $K$층의 $N$번 방이다. 파댕이는 현재 자신의 위치에서부터 사장실까지 최소 시간을 사용하여 도착할 방법을 찾아야 한다.</p>
 

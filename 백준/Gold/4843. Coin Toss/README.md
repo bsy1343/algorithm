@@ -18,7 +18,7 @@
 
 <p>In a popular carnival game, a coin is tossed onto a table with an area that is covered with square tiles in a grid. The prizes are determined by the number of tiles covered by the coin when it comes to rest: the more tiles it covers, the better the prize. In the following diagram, the results from five coin tosses are shown:</p>
 
-<p><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/4843/1.png" style="height:306px; width:313px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/4843.%E2%80%85Coin%E2%80%85Toss/294d54c2.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/4843/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:306px; width:313px" /></p>
 
 <p>In this example:</p>
 

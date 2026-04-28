@@ -20,7 +20,7 @@
 
 <p>The way in which we define connected is most easily explained with a small artificial example. Consider the magnified 6 row by 10 column pixel image on the left below. There are three colours of pixel, white, grey and black. We consider two pixels of the same colour to be part of the same area if they are adjacent, horizontally, vertically or diagonally. So the set of 7 grey pixels form one connected area. In all there are 5 connected areas in this image. The areas are shown in the image to the right, where pixels in the same area have the same number.</p>
 
-<p style="text-align: center;"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/5082/1.png" style="height:140px; width:484px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/5082.%E2%80%85Image%E2%80%85Segmentation/f04129ce.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/5082/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:140px; width:484px" /></p>
 
 <p>Your task is to write a program which will examine an image and report the number of areas. There are some extra details to consider.</p>
 

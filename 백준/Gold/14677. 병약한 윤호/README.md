@@ -18,7 +18,7 @@
 
 <p>윤호는 병약하다. 그래서 약을 먹어야 하는데 약은 아침, 점심, 저녁 한 번씩 먹어야 한다. 윤호는 hyo123bin 님에게 총 N일치 약을 받아왔다. N일치 이므로 약은 총 3N포가 들어있다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14677/1.png" style="height:265px; width:470px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/14677.%E2%80%85%EB%B3%91%EC%95%BD%ED%95%9C%E2%80%85%EC%9C%A4%ED%98%B8/a0b0ab6f.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14677/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:265px; width:470px" /></p>
 
 <p>윤호는 완벽주의자다. 따라서 총 3N개의 약이 한 줄로 나열되어 있을 때, 중간에 끊지 않고 약을 먹고 싶다. 즉, 맨 앞의 약과 맨 뒤의 약만을 꺼내 먹고 싶다. 만약 위와 같은 규칙을 지키지 못할 경우 윤호는 답답해서 죽어버린다. 과연 3N개의 약을 다 먹을 수 있을까? 못 먹는다면 최대 몇 개까지 먹을 수 있을까?</p>
 

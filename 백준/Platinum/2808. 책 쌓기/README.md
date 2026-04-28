@@ -24,7 +24,7 @@
 	<li>가장 아래에 있는 직사각형의 왼쪽 아래 좌표는 (-2,0)이고, 오른쪽 아래의 좌표는 (0,0)이다.</li>
 </ul>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/52256334-6542-4693-a710-f75c2a5bfb5f/-/preview/" style="height: 192px; width: 482px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/2808.%E2%80%85%EC%B1%85%E2%80%85%EC%8C%93%EA%B8%B0/2ffa6110.png" data-original-src="https://upload.acmicpc.net/52256334-6542-4693-a710-f75c2a5bfb5f/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 192px; width: 482px;" /></p>
 
 <p>직사각형의 x중심은 아랫변의 중점이다.</p>
 

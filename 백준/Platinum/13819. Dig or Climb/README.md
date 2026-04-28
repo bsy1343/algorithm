@@ -18,7 +18,7 @@
 
 <p>Benjamin Forest VIII is a king of a country. One of his best friends Nod lives in a village far from his castle. Nod gets seriously sick and is on the verge of death. Benjamin orders his subordinate Red to bring good medicine for him as soon as possible. However, there is no road from the castle to the village. Therefore, Red needs to climb over mountains and across canyons to reach the village. He has decided to get to the village on the shortest path on a map, that is, he will move on the straight line between the castle and the village. Then his way can be considered as polyline with n points (x<sub>1</sub>, y<sub>1</sub>) . . . (x<sub>n</sub>, y<sub>n</sub>) as illustlated in the following figure.</p>
 
-<p><img alt="" src="https://onlinejudgeimages.s3.amazonaws.com/problem/13819/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-11-23%20%EC%98%A4%ED%9B%84%201.49.51.png" style="height:204px; width:350px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/13819.%E2%80%85Dig%E2%80%85or%E2%80%85Climb/4d9214e3.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/13819/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-11-23%20%EC%98%A4%ED%9B%84%201.49.51.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:204px; width:350px" /></p>
 
 <p>Figure 1: An example route from the castle to the village</p>
 

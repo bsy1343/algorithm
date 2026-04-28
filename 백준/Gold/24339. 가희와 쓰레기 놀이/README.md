@@ -18,7 +18,7 @@
 
 <p>가희는 친구들과 함께 쓰레기 수집 놀이를 하고 있습니다. 이 놀이를 이해하는 데 필요한 용어를 설명하겠습니다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/ffe643c3-3a92-45e5-af60-85eb5e40c135/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/24339.%E2%80%85%EA%B0%80%ED%9D%AC%EC%99%80%E2%80%85%EC%93%B0%EB%A0%88%EA%B8%B0%E2%80%85%EB%86%80%EC%9D%B4/c42d6459.png" data-original-src="https://upload.acmicpc.net/ffe643c3-3a92-45e5-af60-85eb5e40c135/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p style="text-align: center;"><strong>[그림 1-1(좌), 그림 1-2 (우)] object 1에서 object 2로 연결하는 연결 관계</strong></p>
 
@@ -66,7 +66,7 @@
 	<li>root에서&nbsp;조건을 만족하는 연결 관계를 거쳐서 object x에 도달할 수 있습니다.</li>
 </ul>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/0f33cfce-f33e-402d-9651-a2a97d179b4d/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/24339.%E2%80%85%EA%B0%80%ED%9D%AC%EC%99%80%E2%80%85%EC%93%B0%EB%A0%88%EA%B8%B0%E2%80%85%EB%86%80%EC%9D%B4/14d0d155.png" data-original-src="https://upload.acmicpc.net/0f33cfce-f33e-402d-9651-a2a97d179b4d/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p style="text-align: center;"><strong>[그림 2-1 (좌), 그림 2-2 (우)]</strong></p>
 

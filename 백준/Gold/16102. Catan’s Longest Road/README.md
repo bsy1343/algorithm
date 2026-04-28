@@ -18,7 +18,7 @@
 
 <p>In the game Settlers of Catan, several players compete to gain the most points by building items on a hexagonal grid. You and two friends are playing on the grid shown in Figure C.1. The board consists of seven regular hexagons which define 24 intersections (vertices of the hexagons) and 30 lanes (edges of the hexagons) connecting them.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/68531ebd-6a14-4378-9743-0a372cf2dd84/-/preview/" style="width: 320px; height: 336px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/16102.%E2%80%85Catan%E2%80%99s%E2%80%85Longest%E2%80%85Road/b0b4d683.png" data-original-src="https://upload.acmicpc.net/68531ebd-6a14-4378-9743-0a372cf2dd84/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 320px; height: 336px;" /></p>
 
 <p style="text-align: center;">Figure C.1: The game board.</p>
 

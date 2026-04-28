@@ -32,4 +32,4 @@
 
 <p>Visualization of the first Sample Input &amp; Sample Output</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/256a8b95-e5ac-4e3d-b8ad-da11f283177e/-/preview/" style="width: 249px; height: 107px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/9778.%E2%80%85Nonogram/6ead1251.png" data-original-src="https://upload.acmicpc.net/256a8b95-e5ac-4e3d-b8ad-da11f283177e/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 249px; height: 107px;" /></p>

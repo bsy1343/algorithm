@@ -18,7 +18,7 @@
 
 <p>Consider a simplified keyboard consisting of the 26 lowercase letters as illustrated below:</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/0ebf61c2-5efa-4446-bd24-643c024cc529/-/preview/" style="width: 216px; height: 68px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/25882.%E2%80%85Simplified%E2%80%85Keyboard/9b8d654d.png" data-original-src="https://upload.acmicpc.net/0ebf61c2-5efa-4446-bd24-643c024cc529/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 216px; height: 68px;" /></p>
 
 <p>We define the neighbors of a key (letter) as all the letters adjacent to it. For example, the neighbors of &lsquo;a&rsquo; are {b, k, j}, neighbors of &lsquo;b&rsquo; are {a, c, l, k, j}, neighbors of &lsquo;n&rsquo; are {d, e, f, o, x, w, v, m}, and neighbors of &lsquo;z&rsquo; are {p, q, r, y}.</p>
 

@@ -18,7 +18,7 @@
 
 <p>A space station is being built on a planet. The station will employ N persons. They have to live somewhere, and for that, a city will be built around the station. The land surrounding the station is divided into equal-sized square lots, and an apartment building with up to K floors may be built on each lot. Each building shall have exactly one apartment on each floor, and each person shall live in a separate apartment. The lots are assigned coordinates in the form (x, y), where the space station has coordinates (0, 0) and the rest of the lots are numbered as shown below:</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/718d1b32-b619-45ed-a142-4a85c513a29f/-/preview/" style="width: 294px; height: 293px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/3370.%E2%80%85City%E2%80%85Planning/a2f89d4c.png" data-original-src="https://upload.acmicpc.net/718d1b32-b619-45ed-a142-4a85c513a29f/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 294px; height: 293px;" /></p>
 
 <p>As the traffic can only flow on streets between the lots, the distance of the lot (x, y) from the space station is |x| + |y| &ndash; 1 units.</p>
 

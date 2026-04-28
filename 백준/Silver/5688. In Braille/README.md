@@ -18,7 +18,7 @@
 
 <p>The Braille system, designed by Louis Braille in 1825, revolutionized written communication for blind and visually impaired persons. Braille, a blind Frenchman, developed a tactile language where each element is represented by a cell with six dot positions, arranged in three rows and two columns. Each dot position can be raised or not, allowing for 64 different configurations which can be felt by trained fingers. The figure below shows the Braille representation for the decimal digits (a black dot indicates a raised position).</p>
 
-<p><img alt="" src="/upload/images2/bra.png" style="height:189px; width:284px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/5688.%E2%80%85In%E2%80%85Braille/f6fd657d.png" data-original-src="https://www.acmicpc.net/upload/images2/bra.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:189px; width:284px" /></p>
 
 <p>In order to develop a new software system to help teachers to deal with blind or visual impaired students, a Braille dictionary module is necessary. Given a message, composed only by digits, your job is to translate it to or from Braille. Can you help?</p>
 

@@ -20,17 +20,17 @@
 
 <p>When you open a folder with Filer, the name list of files in the folder is displayed on a Filer window. Each filename is displayed within a rectangular region, and this region is called a filename region. Each filename region is aligned to the left side of the Filer window. The height of each filename region is 1, and the width of each filename region is the filename length. For example, when three files &quot;acm.in1&quot;, &quot;acm.c~&quot;, and &quot;acm.c&quot; are stored in this order in a folder, it looks like Fig.C-1 on the Filer window.</p>
 
-<p><img alt="" src="https://onlinejudgeimages.s3.amazonaws.com/problem/13084/figC1.png" style="height:154px; width:300px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/13084.%E2%80%85Delete%E2%80%85Files/ab0c0564.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/13084/figC1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:154px; width:300px" /></p>
 
 <p>Fig.C-1</p>
 
 <p>You can delete files by taking the following steps. First, you select a rectangular region with dragging a mouse. This region is called selection region. Next, you press the delete key on your keyboard. A file is deleted if and only if its filename region intersects with the selection region. After the deletion, Filer shifts each filename region to the upside on the Filer window not to leave any top margin on any remaining filename region. For example, if you select a region like Fig.C-2, then the two files &quot;acm.in1&quot; and &quot;acm.c~&quot; are deleted, and the remaining file &quot;acm.c&quot; is displayed on the top of the Filer window as Fig.C-3.</p>
 
-<p><img alt="" src="https://onlinejudgeimages.s3.amazonaws.com/problem/13084/figC2.png" style="height:153px; width:300px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/13084.%E2%80%85Delete%E2%80%85Files/144e8c16.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/13084/figC2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:153px; width:300px" /></p>
 
 <p>Fig.C-2</p>
 
-<p><img alt="" src="https://onlinejudgeimages.s3.amazonaws.com/problem/13084/figC3.png" style="height:153px; width:300px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/13084.%E2%80%85Delete%E2%80%85Files/2d73fd85.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/13084/figC3.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:153px; width:300px" /></p>
 
 <p>Fig.C-3</p>
 

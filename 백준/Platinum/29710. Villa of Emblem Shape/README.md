@@ -23,10 +23,10 @@
 <table class="table table-bordered td-center">
 	<tbody>
 		<tr>
-			<td><img alt="" src="https://upload.acmicpc.net/9ceff845-50b1-41dc-a269-eb46e5afbeba/-/preview/" style="width: 100px; height: 100px;" /></td>
-			<td><img alt="" src="https://upload.acmicpc.net/73f21216-059b-4fcb-ab3e-becf3a39306f/-/preview/" style="width: 100px; height: 100px;" /></td>
-			<td><img alt="" src="https://upload.acmicpc.net/98fda7d1-b1db-4167-ace3-5a6d98c03757/-/preview/" style="width: 100px; height: 100px;" /></td>
-			<td><img alt="" src="https://upload.acmicpc.net/141be72f-104b-49c0-b15c-713beaa07c20/-/preview/" style="width: 100px; height: 100px;" /></td>
+			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/29710.%E2%80%85Villa%E2%80%85of%E2%80%85Emblem%E2%80%85Shape/ea1e289e.png" data-original-src="https://upload.acmicpc.net/9ceff845-50b1-41dc-a269-eb46e5afbeba/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 100px; height: 100px;" /></td>
+			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/29710.%E2%80%85Villa%E2%80%85of%E2%80%85Emblem%E2%80%85Shape/d0283a49.png" data-original-src="https://upload.acmicpc.net/73f21216-059b-4fcb-ab3e-becf3a39306f/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 100px; height: 100px;" /></td>
+			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/29710.%E2%80%85Villa%E2%80%85of%E2%80%85Emblem%E2%80%85Shape/77aeaaa0.png" data-original-src="https://upload.acmicpc.net/98fda7d1-b1db-4167-ace3-5a6d98c03757/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 100px; height: 100px;" /></td>
+			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/29710.%E2%80%85Villa%E2%80%85of%E2%80%85Emblem%E2%80%85Shape/258d790f.png" data-original-src="https://upload.acmicpc.net/141be72f-104b-49c0-b15c-713beaa07c20/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 100px; height: 100px;" /></td>
 		</tr>
 		<tr>
 			<td>Dataset 1</td>
@@ -39,7 +39,7 @@
 
 <p style="text-align: center;">Figure F-1: The emblems in Sample Input</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/cf86e36d-ee17-4506-a4d1-29c194b1b468/-/preview/" style="width: 480px; height: 200px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/29710.%E2%80%85Villa%E2%80%85of%E2%80%85Emblem%E2%80%85Shape/3786592e.png" data-original-src="https://upload.acmicpc.net/cf86e36d-ee17-4506-a4d1-29c194b1b468/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 480px; height: 200px;" /></p>
 
 <p style="text-align: center;">Figure F-2: An example of overlaying of copies for the first dataset of Sample Input</p>
 

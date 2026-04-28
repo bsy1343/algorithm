@@ -22,7 +22,7 @@
 
 <p>For example, the histogram with $(3, 2, 1, 4)$ as its histogram sequence has $(3, 3, 3, 2, 2, 1, 4, 4, 4, 4)$ as its height sequence.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/85a70af7-c46c-4204-b444-c1e076297a1a/-/preview/" style="width: 253px; height: 142px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/23175.%E2%80%85Histogram%E2%80%85Sequence%E2%80%853/fad9f6d5.png" data-original-src="https://upload.acmicpc.net/85a70af7-c46c-4204-b444-c1e076297a1a/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 253px; height: 142px;" /></p>
 
 <p>Write a program to find the histogram sequence given the height sequence.</p>
 

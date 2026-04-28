@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/3d9a5f7c-38dc-4b6e-96f4-8b5908e45076/-/preview/" style="height: 225px; width: 225px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/17072.%E2%80%85%EC%95%84%EC%8A%A4%ED%82%A4%E2%80%85%EC%95%84%ED%8A%B8/6ce409c7.png" data-original-src="https://upload.acmicpc.net/3d9a5f7c-38dc-4b6e-96f4-8b5908e45076/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 225px; width: 225px;" /></p>
 
 <p>위와 같이, 아스키 문자로 그린 그림을 &lsquo;아스키 아트&rsquo; 라고 한다.&nbsp;우리가 알고 있는 일반적인 그림 파일(.jpg, .png 등)들은 기본적으로 해상도에 맞게 픽셀 단위로 분할된 2차원 그리드에 대해 각 픽셀의 정보를 담는 방식으로 저장된다. 이 정보에는 여러 가지가 있으나, 그중 &lsquo;R&rsquo;, &lsquo;G&rsquo;, &lsquo;B&rsquo; 값은 &lsquo;Red&rsquo;, &lsquo;Green&rsquo;, &lsquo;Blue&rsquo;의 3색이 각각 어느 정도 섞여 있는지를 나타내 주는 지표이며, 각 값은 0 이상 255 이하의 범위에 있는 정숫값을 가진다.</p>
 
@@ -25,7 +25,7 @@
 <p>하지만 이미지를 흑백 이미지로 바꾸는 필터를 통해 원본 이미지를 흑백 이미지로 바꾸고, 그 이후 아스키 아트로 변환할 수 있다면 퀄리티가 높아질 수 있다.<br />
 아래는 이미지 하나가 아스키 아트로 변하는 예시를 보여준다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/db41aa3b-2632-4b6c-bf95-cfff3bdb08e1/-/preview/" />&nbsp; &nbsp; <img alt="" src="https://upload.acmicpc.net/33d63b46-bb38-4db8-b434-68ad22f1d1e0/-/preview/" />&nbsp; &nbsp;&nbsp;<img alt="" src="https://upload.acmicpc.net/a2ace80f-c15c-4f9b-99e0-3077a5d4619b/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/17072.%E2%80%85%EC%95%84%EC%8A%A4%ED%82%A4%E2%80%85%EC%95%84%ED%8A%B8/9659353a.png" data-original-src="https://upload.acmicpc.net/db41aa3b-2632-4b6c-bf95-cfff3bdb08e1/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" />&nbsp; &nbsp; <img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/17072.%E2%80%85%EC%95%84%EC%8A%A4%ED%82%A4%E2%80%85%EC%95%84%ED%8A%B8/8cbad509.png" data-original-src="https://upload.acmicpc.net/33d63b46-bb38-4db8-b434-68ad22f1d1e0/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" />&nbsp; &nbsp;&nbsp;<img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/17072.%E2%80%85%EC%95%84%EC%8A%A4%ED%82%A4%E2%80%85%EC%95%84%ED%8A%B8/ed1c1718.png" data-original-src="https://upload.acmicpc.net/a2ace80f-c15c-4f9b-99e0-3077a5d4619b/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>어떤 그림 하나를 흑백 이미지로 바꾸기 위해&nbsp;각 픽셀마다 R, G, B&nbsp;3색이 어떤 비율로 혼합될지 결정하는 Intensity function을 사용한다. Intensity function은 0 이상 255 이하의 정수 R, G, B의 값을 받아 정수 하나를 리턴하는 함수로, 아래와 같이 정의한다.</p>
 
@@ -93,4 +93,4 @@
 
 <p>예제의 원본&nbsp;그림은 이렇게 생겼다.</p>
 
-<p><img alt="" src="https://upload.acmicpc.net/9a6a97b1-d760-49e1-90df-a4812bc9f6d0/-/preview/" style="height: 58px; width: 40px;" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/17072.%E2%80%85%EC%95%84%EC%8A%A4%ED%82%A4%E2%80%85%EC%95%84%ED%8A%B8/772fc25b.png" data-original-src="https://upload.acmicpc.net/9a6a97b1-d760-49e1-90df-a4812bc9f6d0/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 58px; width: 40px;" /></p>

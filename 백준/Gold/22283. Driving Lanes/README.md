@@ -22,7 +22,7 @@
 
 <p>Whenever Sam is on a straightaway, they may change from one lane into an adjacent lane. &nbsp;When changing to an adjacent lane, Sam moves forward $k$ meters, but travels a total of $k+r$ meters. &nbsp;Each lane change must be completed before the car reaches the end of the current straightaway. &nbsp;Sam may change lanes multiple times in the same straightaway. For safety reasons, changing lanes is not possible on curves.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/3110dd5f-ac94-4483-adf9-d53911139c32/-/preview/" style="width: 387px; height: 209px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/22283.%E2%80%85Driving%E2%80%85Lanes/99198784.png" data-original-src="https://upload.acmicpc.net/3110dd5f-ac94-4483-adf9-d53911139c32/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 387px; height: 209px;" /></p>
 
 <p>Sam starts in lane $1$ and wishes to end in lane $1$. What is the minimum distance they must travel?</p>
 

@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14630/1.png" style="height:194px; width:205px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/14630.%E2%80%85%EB%B3%80%EC%8B%A0%EB%A1%9C%EB%B4%87/a0a15d42.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14630/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:194px; width:205px" /></p>
 
 <p>승균이는 변신로봇에 심취해있었다. 한 분야가 극에 달한 사람은 그것을 통해 세상을 이해한다는 말이 있는데, 승균이가 바로 그러했다. 승균이는 시시때때로 감정이 변하는 사람들을 보면서 사람은 변신로봇과 같다고 생각했다. 또한, 세계의 흐름은 거대한 변신로봇을 조립하는 과정이며, 그 흐름 속에서 우리의 역할은 변신로봇의 부품으로써 다른 부품들과 올바르게 맞물려있는 것에 있다고 믿고 있었다. 그러나 이런 승균이를 보고 있던 승균이의 선생님 준하는 마음이 편치 않았다. 왜냐하면, 자신이 승균이에게 변신로봇을 소개 시켜준 것은 변신로봇을 통해 과학과 수학에 관심을 갖게 하려는 의도였는데, 준하의 의도와는 달리 승균이가 변신로봇을 통해 철학가가 되어가고 있었기 때문이다. 보다 못한 준하는 변신로봇에 동전투입기를 박아버렸다.</p>
 

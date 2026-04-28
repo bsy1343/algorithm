@@ -20,7 +20,7 @@
 
 <p>After many failed attempts, we noticed that this task gets significantly easier if the bottle is filled with just the right amount of water. The simple reason for this is that the amount of water affects the centre of mass of our bottle as it is about to land.<sup>1</sup> A lower centre of mass makes it easier for the bottle to stay upright after it lands. Unfortunately, the optimal amount of water depends on the bottle, and we already wasted enough time on this challenge\dots</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/defdb2f7-f084-4e12-a172-9568997cf296/-/preview/" style="width: 400px; height: 200px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/26175.%E2%80%85Bottle%E2%80%85Flip/5e7e61a1.png" data-original-src="https://upload.acmicpc.net/defdb2f7-f084-4e12-a172-9568997cf296/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 400px; height: 200px;" /></p>
 
 <p style="text-align: center;">Figure B.1: Sketch of a bottle flip. The bottle is filled to roughly $33\%$ to ease the challenge.}</p>
 

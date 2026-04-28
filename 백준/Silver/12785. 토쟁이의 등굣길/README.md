@@ -20,11 +20,11 @@
 
 <p>예를 들면, y축과 평행한 도로가 3개 있으며, x축과 평행한 &nbsp;도로가 2개 있다고 했을 때, 도시는 아래의 그림과 같이 그려진다.</p>
 
-<p style="text-align:center"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/12785/1.png" style="height:133px; width:177px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/12785.%E2%80%85%ED%86%A0%EC%9F%81%EC%9D%B4%EC%9D%98%E2%80%85%EB%93%B1%EA%B5%A3%EA%B8%B8/db2603ee.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/12785/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:133px; width:177px" /></p>
 
 <p>이때, 토스트 가게가 (2,2)에 위치하면, 토쟁이의 집은 (1,1)에 위치하고, 학교는 (3,2)에 위치하므로, 이때 경로들은</p>
 
-<p style="text-align:center"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/12785/2.png" style="height:158px; width:363px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/12785.%E2%80%85%ED%86%A0%EC%9F%81%EC%9D%B4%EC%9D%98%E2%80%85%EB%93%B1%EA%B5%A3%EA%B8%B8/49a24252.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/12785/2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:158px; width:363px" /></p>
 
 <p>위와 같이 2가지이다.</p>
 

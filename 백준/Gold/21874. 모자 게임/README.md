@@ -16,21 +16,21 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/49ef4c39-5833-4ed7-8e40-8a883161e659/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/21874.%E2%80%85%EB%AA%A8%EC%9E%90%E2%80%85%EA%B2%8C%EC%9E%84/3a944902.png" data-original-src="https://upload.acmicpc.net/49ef4c39-5833-4ed7-8e40-8a883161e659/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>CS-House에서는 매주 목요일에 연세대학교 컴퓨터과학과에 대한 여러&nbsp;이야기를 팟캐스트 형식으로 다룬다. 2021년 3월 18일에 진행한 CS-House에서는&nbsp;ICPC World Final에 진출한 윤인섭 선배가 게스트로 나와서 알고리즘 및&nbsp;Competitive Programming에 대해서&nbsp;이야기를 했다. 이야기 도중에&nbsp;시청자들과 함께&nbsp;재미있는&nbsp;문제들을 풀어보는 시간을 가졌는데,&nbsp;그 문제&nbsp;중 하나를 변형해서 연세대학교 신입생 프로그래밍 경진대회에 내기로 했다. 다음과 같은 문제를&nbsp;생각해보자.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/6d1c64a8-c896-46d6-8d2d-300ed8efa697/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/21874.%E2%80%85%EB%AA%A8%EC%9E%90%E2%80%85%EA%B2%8C%EC%9E%84/64065100.png" data-original-src="https://upload.acmicpc.net/6d1c64a8-c896-46d6-8d2d-300ed8efa697/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>그림과 같이 $N$명의 사람이 앞을 보고 일렬로 서있다. 각 사람은&nbsp;맨 뒷사람을 제외하고 $0$ 이상 $63$ 이하의 정수가 적힌 모자를 쓰고 있다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/6aa76f61-ae82-4fb4-87fe-715b515a0088/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/21874.%E2%80%85%EB%AA%A8%EC%9E%90%E2%80%85%EA%B2%8C%EC%9E%84/0ad533cd.png" data-original-src="https://upload.acmicpc.net/6aa76f61-ae82-4fb4-87fe-715b515a0088/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>각 사람은 자신보다&nbsp;앞에 있는 사람의&nbsp;모자에 적힌 수를&nbsp;모두 볼 수 있지만, 자신을 포함해서&nbsp;뒤에 있는 사람의&nbsp;모자에 적힌 수는&nbsp;볼 수 없다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/16cbd0ee-12c7-439e-97e3-40f48af48263/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/21874.%E2%80%85%EB%AA%A8%EC%9E%90%E2%80%85%EA%B2%8C%EC%9E%84/75d28e72.png" data-original-src="https://upload.acmicpc.net/16cbd0ee-12c7-439e-97e3-40f48af48263/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/6b3f821c-cf4f-40e1-8619-aa06ca586aa1/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/21874.%E2%80%85%EB%AA%A8%EC%9E%90%E2%80%85%EA%B2%8C%EC%9E%84/8c2f8392.png" data-original-src="https://upload.acmicpc.net/6b3f821c-cf4f-40e1-8619-aa06ca586aa1/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>게임이 시작되면 맨 뒷 사람부터 순서대로 $0$ 이상 $63$ 이하의 정수 중 하나를 말한다.</p>
 

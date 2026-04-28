@@ -18,7 +18,7 @@
 
 <p>코코는 정육각형 초콜릿이 다음과 같이 삼각형 형태로 붙어있는 모양의 초콜릿을 만들려고 한다. 그냥 만드는 것은 재미없으니, 다음 그림과 같이 두 종류의 초콜릿을 붙여서 무늬를 만들려고 한다. 흰색은 화이트 초콜릿, 파란색은 민트 초콜릿이다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/637bf41c-aa5e-4502-b0a0-242756934e8f/-/preview/" style="height: 481px; width: 720px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/28257.%E2%80%85%EC%95%8C%EB%A1%9D%EB%8B%AC%EB%A1%9D%E2%80%85%EC%B4%88%EC%BD%9C%EB%A6%BF%E2%80%85%EB%A7%8C%EB%93%A4%EA%B8%B0/0efb23f4.png" data-original-src="https://upload.acmicpc.net/637bf41c-aa5e-4502-b0a0-242756934e8f/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 481px; width: 720px;" /></p>
 
 <p>이 무늬를 만드는 구체적인 방법은 다음과 같다.</p>
 

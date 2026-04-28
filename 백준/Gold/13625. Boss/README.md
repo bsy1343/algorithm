@@ -20,7 +20,7 @@
 
 <p>Iks has also a non-standard management system. For example, there are no committees or boards,&nbsp;which means less time spent on internal meetings. However, as usual in other companies, there is a chain (or rather several chains) of command, as a person may manage other employees, and may be managed by other employees. The figure below shows the chain of command for some employees, along with their ages.</p>
 
-<p style="text-align:center"><img alt="" src="https://onlinejudgeimages.s3.amazonaws.com/problem/13625/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202017-01-05%20%EC%98%A4%ED%9B%84%208.35.00.png" style="height:181px; width:612px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/13625.%E2%80%85Boss/70eb4024.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/13625/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202017-01-05%20%EC%98%A4%ED%9B%84%208.35.00.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:181px; width:612px" /></p>
 
 <p>A person P<sub>1</sub> may manage another person P<sub>2</sub> directly (when P<sub>1</sub> is the immediate superior of P<sub>1</sub>) or indirectly (when P<sub>1</sub> manages direclty a person P<sub>3</sub> who manages P<sub>2</sub> directly or indirectly). For example, in the figure above, Alice manages David directly and Claire indirectly. A person does not manage himself/herself, either directly or indirectly.</p>
 

@@ -20,7 +20,7 @@
 
 <p>Labirint je poseban po tome &scaron;to se na svakom polju (x,y) nalazi P[x][y] kilograma mistične tvari. Ta tvar djeluje na čovjeka i oduzima mu energiju.</p>
 
-<p><img alt="" src="https://upload.acmicpc.net/bcdcc713-74c2-48be-8abd-08179bcbecf1/-/preview/" style="width: 114px; height: 139px; float: right;" />Svaki put kada Vedran stupi na neko polje (x,y), na njega djeluje sva mistična tvar koja se nalazi u poljima do kojih je moguće doći u K ili manje koraka od polja (x,y) krećući se u osam smjerova: gorelijevo, gore, gore-desno, lijevo, desno, dolje-lijevo, dolje, dolje-desno. Jedan kilogram mistične tvari Vedranu oduzme jednu jedinicu energije.</p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/25154.%E2%80%85Kriptonit/9344590d.png" data-original-src="https://upload.acmicpc.net/bcdcc713-74c2-48be-8abd-08179bcbecf1/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 114px; height: 139px; float: right;" />Svaki put kada Vedran stupi na neko polje (x,y), na njega djeluje sva mistična tvar koja se nalazi u poljima do kojih je moguće doći u K ili manje koraka od polja (x,y) krećući se u osam smjerova: gorelijevo, gore, gore-desno, lijevo, desno, dolje-lijevo, dolje, dolje-desno. Jedan kilogram mistične tvari Vedranu oduzme jednu jedinicu energije.</p>
 
 <p>Npr. ako Vedran stane na polje (2, 3) i ako je K=1, tada će na njega djelovati tvar iz polja koja su na slici osjenčana.</p>
 

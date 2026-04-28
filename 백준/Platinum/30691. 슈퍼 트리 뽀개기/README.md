@@ -18,7 +18,7 @@
 
 <p>트리 문제만 공부하다 정신이 돌아버린 형진이는, 트리를 뽀개기로 결정하였다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://u.acmicpc.net/e88e53fc-9fdf-4058-82df-b359689017c7/tree_description2_1.png" style="height: 629px; width: 800px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/30691.%E2%80%85%EC%8A%88%ED%8D%BC%E2%80%85%ED%8A%B8%EB%A6%AC%E2%80%85%EB%BD%80%EA%B0%9C%EA%B8%B0/af3ad799.png" data-original-src="https://u.acmicpc.net/e88e53fc-9fdf-4058-82df-b359689017c7/tree_description2_1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 629px; width: 800px;" /></p>
 
 <p>여기 $N$개의 정점으로 이루어진, 간선에 가중치가 있는 트리가 있다. 이 트리는 항상 1번 노드가 트리의 루트가 된다.</p>
 
@@ -36,7 +36,7 @@
 	<li>루트까지의 단순 경로에 $v$가 포함되는 모든 노드는 노드 $v$의 손자 노드이다.</li>
 </ul>
 
-<p style="text-align: center;"><img alt="" src="https://u.acmicpc.net/37d8a3bc-ba27-433e-b82f-624d31e89109/tree_description2_2.png" style="height: 430px; width: 1000px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/30691.%E2%80%85%EC%8A%88%ED%8D%BC%E2%80%85%ED%8A%B8%EB%A6%AC%E2%80%85%EB%BD%80%EA%B0%9C%EA%B8%B0/5ea2df3f.png" data-original-src="https://u.acmicpc.net/37d8a3bc-ba27-433e-b82f-624d31e89109/tree_description2_2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 430px; width: 1000px;" /></p>
 
 <p>다음은 $K$ = 2일 때 트리를 뽀개는 예시이다. 왼쪽의 경우 1번 노드를 선택해 슈퍼 트리 뽀개기를 진행했고, 오른쪽의 경우 3번 노드를 선택해 슈퍼 트리 뽀개기를 진행했다. 각각 4, 5개의 노드가 뽀개졌다.</p>
 

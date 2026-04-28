@@ -40,7 +40,7 @@
 
 <p>타일은 N줄로 놓여져 있고, 홀수 줄에는 N개의 타일이, 짝수 줄에는 N-1개의 타일이 놓여져 있다. 아래 그림은 (N=5)일 때 타일이 놓여져 있는 형태이다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/04f37a7b-2308-4f1c-837a-ad5197c14870/-/preview/" style="width: 304px; height: 122px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/5213.%E2%80%85%EA%B3%BC%EC%99%B8%EB%A7%A8/b0eb5d93.png" data-original-src="https://upload.acmicpc.net/04f37a7b-2308-4f1c-837a-ad5197c14870/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 304px; height: 122px;" /></p>
 
 <p>한 타일에서 다른 타일로 넘어가려면, 두 타일이 인접해야 한다. 또, 같은 변을 공유하는 조각에 쓰여 있는 숫자가 같아야 한다.</p>
 

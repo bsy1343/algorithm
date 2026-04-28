@@ -32,5 +32,5 @@
 
 <p>재원이는 아래와 같이 작도를 한다. (단, 재원이가 작도한 결과는 A, B, C, D, X, Y의 위치와 <i>n</i>이나 <em>d</em>의 값으로 바뀔 수 있다.)</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/4036e728-9498-4003-9648-06a25c6e7b7e/-/preview/" style="height: 243px; width: 250px;" /><br />
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/16484.%E2%80%85%EC%9E%91%EB%8F%84%ED%95%98%EC%9E%90!%E2%80%85-%E2%80%85%E2%91%A0/c6b7571d.png" data-original-src="https://upload.acmicpc.net/4036e728-9498-4003-9648-06a25c6e7b7e/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 243px; width: 250px;" /><br />
 &nbsp;</p>

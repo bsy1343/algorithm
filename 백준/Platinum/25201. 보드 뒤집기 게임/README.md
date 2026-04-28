@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><img alt="곰곰이" src="https://upload.acmicpc.net/2a25a7d6-27fd-4d7f-8e3f-410fbe3a8fd6/-/crop/199x229/70,100/-/preview/" style="max-height:100px; object-fit:contain; display:inline-block;" /></p>
+<p style="text-align: center;"><img alt="곰곰이" src="%EB%B0%B1%EC%A4%80/Platinum/25201.%E2%80%85%EB%B3%B4%EB%93%9C%E2%80%85%EB%92%A4%EC%A7%91%EA%B8%B0%E2%80%85%EA%B2%8C%EC%9E%84/c6a8220f.png" data-original-src="https://upload.acmicpc.net/2a25a7d6-27fd-4d7f-8e3f-410fbe3a8fd6/-/crop/199x229/70,100/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="max-height:100px; object-fit:contain; display:inline-block;" /></p>
 
 <p>$10^5&nbsp;\times 10^5$ 크기의 커다란 격자판 위에서 곰곰이는 놀이 하나를 하고 있다. 이 격자판의 칸들 중 일부분은 빨간색으로 칠해져 있고, 나머지 칸은 노란색으로 칠해져 있다.</p>
 

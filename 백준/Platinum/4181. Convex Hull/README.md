@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p><img alt="" src="/upload/images2/convex.png" style="float:right; height:210px; width:280px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/4181.%E2%80%85Convex%E2%80%85Hull/43d1e272.png" data-original-src="https://www.acmicpc.net/upload/images2/convex.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="float:right; height:210px; width:280px" /></p>
 
 <p>때때로 주어진 점들 사이에서 볼록 껍질(Convex Hull)을 찾아내는 기술은 요긴하게 쓰인다. ACM 월드파이널에서 볼록 껍질을 응용해야 하는 문제가 출제되다 보니, 이걸 할 줄 아는 것은 참가자의 소양이 되었다.</p>
 

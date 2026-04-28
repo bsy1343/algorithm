@@ -27,7 +27,7 @@
 
 <p>For example, this diagram shows the initial state and two turns of a dance with eight people.</p>
 
-<p><img alt="" src="https://onlinejudgeimages.s3.amazonaws.com/problem/12035/12035.png" style="height:157px; width:589px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/12035.%E2%80%85Dance%E2%80%85Around%E2%80%85The%E2%80%85Clock%E2%80%85(Small)/badd8bb7.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/12035/12035.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:157px; width:589px" /></p>
 
 <p>Which two dancers will be next to dancer number&nbsp;<strong>K</strong>&nbsp;when the dance is over?</p>
 

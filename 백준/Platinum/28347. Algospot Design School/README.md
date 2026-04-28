@@ -44,7 +44,7 @@
 <p>&ldquo;Extra ones&hellip; Oh, I have one that I drew for the exhibition the other day. Wait a second&hellip; &rdquo;</p>
 </blockquote>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/299e3b78-54c5-4491-8fb5-554545b3f73f/-/preview/" style="width: 477px; height: 360px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/28347.%E2%80%85Algospot%E2%80%85Design%E2%80%85School/0bc5184a.png" data-original-src="https://upload.acmicpc.net/299e3b78-54c5-4491-8fb5-554545b3f73f/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 477px; height: 360px;" /></p>
 
 <p>Bada found her sketchbook and gave it to Woojoo. The book had a lot of drawings, on both front and back of the pages.</p>
 

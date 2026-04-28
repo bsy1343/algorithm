@@ -18,7 +18,7 @@
 
 <p>You have an integer matrix A, with R rows and C columns. That means it has R rows with each row containing C integers. Two integers are adjacent if their container cells share an edge. For example, in the following grid</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/540f4b54-c625-4a6c-b6c2-253a1e1456d1/-/preview/" style="width: 142px; height: 117px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/26352.%E2%80%85Matrix%E2%80%85Transformation/ef3a43ff.png" data-original-src="https://upload.acmicpc.net/540f4b54-c625-4a6c-b6c2-253a1e1456d1/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 142px; height: 117px;" /></p>
 
 <p>(0, 1), (4, 5), (1, 4), (5, 2) are adjacent but (0, 4), (2, 6), (5, 7) are not adjacent.</p>
 

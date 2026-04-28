@@ -18,7 +18,7 @@
 
 <p>대한민국을 지키는 가장 높은 힘! 대한민국 공군의 마크는 현재 다음과 같다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/ed6360da-87aa-4295-896b-bb647c9f1f3a/-/preview/" style="height: 501px; width: 600px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/29693.%E2%80%85%ED%8F%AC%EC%8A%A4%ED%84%B0%E2%80%85%EB%A7%8C%EB%93%A4%EA%B8%B0/220879df.png" data-original-src="https://upload.acmicpc.net/ed6360da-87aa-4295-896b-bb647c9f1f3a/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 501px; width: 600px;" /></p>
 
 <p>이 사진을 본 운영진은 자신만의 마크를 보라매컵 포스터에 포함하기로 하였다. 공군 마크를 분석한 결과, 다음과 같은 디자인을 협의할 수 있었다.</p>
 
@@ -33,11 +33,11 @@
 
 <p>올바른 마크의 예시는 다음과 같다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/5c9f24c0-8226-4cb7-a6a2-d98caca41c71/-/preview/" style="height: 380px; width: 600px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/29693.%E2%80%85%ED%8F%AC%EC%8A%A4%ED%84%B0%E2%80%85%EB%A7%8C%EB%93%A4%EA%B8%B0/8b241119.png" data-original-src="https://upload.acmicpc.net/5c9f24c0-8226-4cb7-a6a2-d98caca41c71/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 380px; width: 600px;" /></p>
 
 <p>올바르지 않은 마크의 예시와 관련 규칙은 다음과 같다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/d47ad9a6-43b5-47f1-a65b-2edde80dafa1/-/preview/" style="height: 411px; width: 600px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/29693.%E2%80%85%ED%8F%AC%EC%8A%A4%ED%84%B0%E2%80%85%EB%A7%8C%EB%93%A4%EA%B8%B0/a563e5c8.png" data-original-src="https://upload.acmicpc.net/d47ad9a6-43b5-47f1-a65b-2edde80dafa1/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 411px; width: 600px;" /></p>
 
 <p>그런데 인쇄를 맡기기 직전에서야 인쇄용지의 일부가 이미 파란색으로 색칠되어 있음을 알게 되었다! 어쩔 수 없이 운영진은 인쇄용지의 상태에 맞춰서, 이미 색칠된 부분을 파란색으로 유지하면서 위의 조건을 여전히 만족하는 새로운 마크를 만들고자 한다.</p>
 

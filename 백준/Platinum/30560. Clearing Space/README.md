@@ -20,7 +20,7 @@
 
 <p>You would like to put the fence around as much of the event space as possible. However, the ground is only suitable in a few places around the border, and you only have so many fence posts to put in the ground, so you&#39;ll have to choose carefully if you want to maximise area.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/bfb08f8d-6a3e-4b5d-8820-7b838bfee99e/-/preview/" style="height: 250px; width: 244px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/30560.%E2%80%85Clearing%E2%80%85Space/45e68438.png" data-original-src="https://upload.acmicpc.net/bfb08f8d-6a3e-4b5d-8820-7b838bfee99e/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 250px; width: 244px;" /></p>
 
 <p style="text-align: center;">Figure C.1: An illustration of using 4 posts to capture the maximum area in sample input 1.</p>
 

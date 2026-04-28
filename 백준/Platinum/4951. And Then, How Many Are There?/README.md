@@ -20,7 +20,7 @@
 
 <p>To start with, all the discs are randomly scattered around the center of a table. During the play, you can remove a pair of discs of the same color if neither of them has any discs on top of it. Note that a disc is not considered to be on top of another when they are externally tangent to each other.</p>
 
-<p style="text-align: center;"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/4951/D-1.png" style="height:105px; width:130px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/4951.%E2%80%85And%E2%80%85Then%2C%E2%80%85How%E2%80%85Many%E2%80%85Are%E2%80%85There%3F/f5a52c6a.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/4951/D-1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:105px; width:130px" /></p>
 
 <p style="text-align: center;">Figure D-1: Seven discs on the table</p>
 

@@ -39,7 +39,7 @@
 
 <p>The following are the road configuration and the queries for the first sample:&nbsp;</p>
 
-<p><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15846/1.png" style="width: 145px; height: 85px;" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/15846.%E2%80%85Travelling%E2%80%85Businessmen%E2%80%85Problem/4a983e68.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15846/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 145px; height: 85px;" /></p>
 
 <ul>
 	<li>Originally all cities have an economic value of 0.</li>

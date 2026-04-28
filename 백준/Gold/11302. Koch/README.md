@@ -18,19 +18,19 @@
 
 <p>The Koch curve or snowflake is drawn in the XY plane. It is defined recursively.</p>
 
-<p style="text-align: center;"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11302/1.png" style="height:45px; width:198px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/11302.%E2%80%85Koch/c3726bae.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11302/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:45px; width:198px" /></p>
 
 <p>Start with a line of length 1 from (0,0) to (1,0). We call this a level 0 Koch curve.</p>
 
-<p style="text-align: center;"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11302/2.png" style="height:83px; width:196px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/11302.%E2%80%85Koch/995f71d0.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11302/2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:83px; width:196px" /></p>
 
 <p>Divide the line into thirds. Make an equilateral triangle on the centre third, then delete the bottom edge of the triangle. This is a level 1 Koch curve.</p>
 
-<p style="text-align: center;"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11302/3.png" style="height:84px; width:199px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/11302.%E2%80%85Koch/3494c086.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11302/3.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:84px; width:199px" /></p>
 
 <p>Divide and put triangles on each of the sections of the level 1 curve. This results in a level 2 curve.</p>
 
-<p style="text-align: center;"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11302/4.png" style="height:76px; width:196px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/11302.%E2%80%85Koch/5beaaa5d.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11302/4.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:76px; width:196px" /></p>
 
 <p>And so on. Here is a level 4 curve.</p>
 

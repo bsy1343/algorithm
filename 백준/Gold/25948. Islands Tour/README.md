@@ -22,11 +22,11 @@
 
 <p>For example, the figure below shows an example of the islands represented as a directed graph.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/eda3b984-a12b-436d-bbd6-cdacb8236b4a/-/preview/" style="width: 239px; height: 245px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/25948.%E2%80%85Islands%E2%80%85Tour/a47d6f0b.png" data-original-src="https://upload.acmicpc.net/eda3b984-a12b-436d-bbd6-cdacb8236b4a/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 239px; height: 245px;" /></p>
 
 <p>The dotted path in the following graph denotes a longest tour that visits as many distinct islands as possible.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/5196f4d2-2ff8-45d2-b10f-06aacc32149c/-/preview/" style="width: 232px; height: 240px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/25948.%E2%80%85Islands%E2%80%85Tour/4bac4bbd.png" data-original-src="https://upload.acmicpc.net/5196f4d2-2ff8-45d2-b10f-06aacc32149c/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 232px; height: 240px;" /></p>
 
 <p>Given a directed graph $G(V, E)$ that represents the islands and their connections using zip-lines, write a program to output the maximum number of islands that can be visited by Optimizer. Note that Optimizer can start from an arbitrary island and cannot visit the same island twice or more.</p>
 

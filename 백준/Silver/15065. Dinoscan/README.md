@@ -21,9 +21,9 @@
 <table class="table" style="width:100%">
 	<tbody>
 		<tr>
-			<td style="text-align:center; width:33%"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15065/1.png" style="height:106px; width:126px" /></td>
-			<td style="text-align:center; width:34%"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15065/2.png" style="height:106px; width:78px" /></td>
-			<td style="text-align:center; width:33%"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15065/3.png" style="height:105px; width:102px" /></td>
+			<td style="text-align:center; width:33%"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/15065.%E2%80%85Dinoscan/0a0212ed.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15065/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:106px; width:126px" /></td>
+			<td style="text-align:center; width:34%"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/15065.%E2%80%85Dinoscan/786184e0.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15065/2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:106px; width:78px" /></td>
+			<td style="text-align:center; width:33%"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/15065.%E2%80%85Dinoscan/59de9f6f.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15065/3.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:105px; width:102px" /></td>
 		</tr>
 		<tr>
 			<td style="text-align:center; width:33%">Scan 1</td>
@@ -38,8 +38,8 @@
 <table class="table" style="width:100%">
 	<tbody>
 		<tr>
-			<td style="text-align:center; width:50%"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15065/4.png" style="height:105px; width:101px" /></td>
-			<td style="text-align:center; width:50%"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15065/5.png" style="height:105px; width:78px" /></td>
+			<td style="text-align:center; width:50%"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/15065.%E2%80%85Dinoscan/badd87f7.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15065/4.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:105px; width:101px" /></td>
+			<td style="text-align:center; width:50%"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/15065.%E2%80%85Dinoscan/840b4829.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15065/5.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:105px; width:78px" /></td>
 		</tr>
 		<tr>
 			<td style="text-align:center; width:50%">Scan 3</td>

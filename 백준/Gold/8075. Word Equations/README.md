@@ -40,4 +40,4 @@
 
 ### 출력
 
-<p>For every&nbsp;i, 1 &le; i &le; x, your program should write the number of distinct solutions of the&nbsp;<img src="https://main.edu.pl/en/images/OI5/row-en-tex.34.png" />-th equation to the i-th line of the standard output.</p>
+<p>For every&nbsp;i, 1 &le; i &le; x, your program should write the number of distinct solutions of the&nbsp;<img src="%EB%B0%B1%EC%A4%80/Gold/8075.%E2%80%85Word%E2%80%85Equations/85f4bffe.png" data-original-src="https://main.edu.pl/en/images/OI5/row-en-tex.34.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" />-th equation to the i-th line of the standard output.</p>

@@ -22,7 +22,7 @@
 
 <p>The waiting times of three agents <em>A</em>, <em>B</em>, <em>C</em> have already been determined as <em>w<sub>A</sub></em>, <em>w<sub>B</sub></em>, <em>w<sub>C</sub></em>. It is crucial that each of the arrival times <em>t<sub>A</sub></em>, <em>t<sub>B</sub></em>, <em>t<sub>C</sub></em>&nbsp;is a real number between 0 and <em>S</em>, not necessarily an integer, whereas each of the waiting times <em>w<sub>A</sub></em>, <em>w<sub>B</sub></em>, <em>w<sub>C</sub></em> is a positive integer satisfying 0 &lt; <em>w<sub>A</sub></em> + <em>w<sub>B</sub></em>, <em>w<sub>B</sub></em> + <em>w<sub>C</sub></em>, <em>w<sub>A</sub></em> + <em>w<sub>C</sub></em> &lt; <em>S</em>. We assume it takes no time in code confirmation task. The agent immediately leaves the café if the agent confirms the code with the agent arrived later. Let us explain this procedure using Figure G.1.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/51a02b70-24f2-49df-b85e-20f579dc04ff/-/preview/" style="width: 557px; height: 299px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/16363.%E2%80%85Secret%E2%80%85Code/ae27f29b.png" data-original-src="https://upload.acmicpc.net/51a02b70-24f2-49df-b85e-20f579dc04ff/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 557px; height: 299px;" /></p>
 
 <p style="text-align: center;">Figure G.1 Four cases for successful and unsuccessful confirmations.</p>
 

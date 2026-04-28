@@ -18,7 +18,7 @@
 
 <p>극악무도한 테러리스트&nbsp;주현이가 도시를 습격했다. 습격받은 도시는 세로&nbsp;$N$칸, 가로&nbsp;$N$칸으로 이뤄진 격자 모양이며, 각 칸은 빈칸이거나 건물이 존재한다. 주현이는 자신이 만든 수제 폭탄을 건물이 없는 곳에 설치한다. 폭탄은 터질 때 상하좌우 각 방향에 대해 충격파가 퍼져나가는데,&nbsp;충격파가 닿은 건물은 파괴되어 건물 잔해가 된다. 충격파는 건물 또는 건물 잔해에 닿고 난 뒤 소멸한다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/497021c4-a031-4ab6-ab73-6b3d546a7863/-/preview/" style="width: 600px; height: 222px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/20947.%E2%80%85%EC%8A%B5%EA%B2%A9%EB%B0%9B%EC%9D%80%E2%80%85%EB%8F%84%EC%8B%9C/8b6a700f.png" data-original-src="https://upload.acmicpc.net/497021c4-a031-4ab6-ab73-6b3d546a7863/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 600px; height: 222px;" /></p>
 
 <p>이번 테러 사건 수사를 맡은 향빈이는 현장을 재구성하는 중이다. 건물 잔해의 위치를 통해 어떤 위치에서 폭탄이 터졌는지 알아내고자 한다. 아무리 생각해도 폭탄의 위치를 알아낼 수 없는 향빈이는 문제 해결의 대가인 당신을 찾아왔다. 습격받은 도시의 정보가 주어졌을 때, 주현이가 설치한 폭탄의 위치를 구해주자.</p>
 

@@ -22,11 +22,11 @@
 
 <p>For example, the figures below show the locations of the knots for six threads. The location of a knot is denoted by a point. All the threads actually lie on the x-axis, however, they are drawn separately to distinguish each other. In Figure I.1, the distance between the closest two knots is 20. However, if we make the knot for <em>T</em><sub>2</sub> at different location as shown in Figure I.2, the distance between the closest two knots becomes 25, which is what this problem requests.&nbsp;</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/1a4d1dc4-61c4-40fd-b967-9bbd44f161c1/-/preview/" style="width: 516px; height: 136px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/17976.%E2%80%85Thread%E2%80%85Knots/9d860139.png" data-original-src="https://upload.acmicpc.net/1a4d1dc4-61c4-40fd-b967-9bbd44f161c1/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 516px; height: 136px;" /></p>
 
 <p style="text-align: center;">Figure I.1: An example of knots for 6 threads.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/974696fd-e6f2-4f37-b3d6-108be8dddd6d/-/preview/" style="width: 510px; height: 138px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/17976.%E2%80%85Thread%E2%80%85Knots/50cbc3ae.png" data-original-src="https://upload.acmicpc.net/974696fd-e6f2-4f37-b3d6-108be8dddd6d/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 510px; height: 138px;" /></p>
 
 <p style="text-align: center;">Figure I.2: Another example with different location of knot for <em>T</em><sub>2</sub>.</p>
 

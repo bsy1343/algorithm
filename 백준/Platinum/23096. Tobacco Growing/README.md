@@ -49,6 +49,6 @@
 
 ### 힌트
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/a0ba5f9f-856c-463c-809c-600784dd20c8/-/preview/" style="width: 586px; height: 179px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/23096.%E2%80%85Tobacco%E2%80%85Growing/a3dced61.png" data-original-src="https://upload.acmicpc.net/a0ba5f9f-856c-463c-809c-600784dd20c8/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 586px; height: 179px;" /></p>
 
 <p style="text-align: center;">Figure 1: Illustration of Sample Input 2</p>

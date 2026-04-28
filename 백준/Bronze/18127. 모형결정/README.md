@@ -20,7 +20,7 @@
 
 <p>결정의 크기가 증가할 때의 규칙은 다음과 같다. 그림에서 기존 결정은 파란색으로, 각&nbsp;온도에서 새로 생긴 최소 결정은 노란색으로 표시하였다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/b2170e2c-5783-4a17-af3a-6de5dbe42bfc/-/preview/" style="height: 463px; width: 700px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/18127.%E2%80%85%EB%AA%A8%ED%98%95%EA%B2%B0%EC%A0%95/3989c4b0.png" data-original-src="https://upload.acmicpc.net/b2170e2c-5783-4a17-af3a-6de5dbe42bfc/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 463px; width: 700px;" /></p>
 
 <ol>
 	<li>정<em>A</em>각형 모양을 유지한다. 정<em>A</em>각형이란 정다각형의 변이 <em>A</em>개임을 의미한다.</li>

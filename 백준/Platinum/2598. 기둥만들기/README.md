@@ -21,10 +21,10 @@
 <table class="table table-bordered td-center">
 	<tbody>
 		<tr>
-			<td><img alt="" src="" /><img alt="" src="https://upload.acmicpc.net/3e0f7493-5d11-457a-b7e3-0d7f58353ad5/-/crop/135x148/5,0/-/preview/" style="width: 68px; height: 74px;" /></td>
-			<td><img alt="" src="" /><img alt="" src="https://upload.acmicpc.net/3e0f7493-5d11-457a-b7e3-0d7f58353ad5/-/crop/135x148/140,0/-/preview/" style="width: 68px; height: 74px;" /></td>
-			<td><img alt="" src="" /><img alt="" src="https://upload.acmicpc.net/3e0f7493-5d11-457a-b7e3-0d7f58353ad5/-/crop/135x148/274,0/-/preview/" style="width: 68px; height: 74px;" /></td>
-			<td><img alt="" src="" /><img alt="" src="https://upload.acmicpc.net/3e0f7493-5d11-457a-b7e3-0d7f58353ad5/-/crop/137x148/408,0/-/preview/" style="width: 69px; height: 74px;" /></td>
+			<td><img alt="" src="" /><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/2598.%E2%80%85%EA%B8%B0%EB%91%A5%EB%A7%8C%EB%93%A4%EA%B8%B0/61ac9f3f.png" data-original-src="https://upload.acmicpc.net/3e0f7493-5d11-457a-b7e3-0d7f58353ad5/-/crop/135x148/5,0/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 68px; height: 74px;" /></td>
+			<td><img alt="" src="" /><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/2598.%E2%80%85%EA%B8%B0%EB%91%A5%EB%A7%8C%EB%93%A4%EA%B8%B0/6e5c8eb2.png" data-original-src="https://upload.acmicpc.net/3e0f7493-5d11-457a-b7e3-0d7f58353ad5/-/crop/135x148/140,0/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 68px; height: 74px;" /></td>
+			<td><img alt="" src="" /><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/2598.%E2%80%85%EA%B8%B0%EB%91%A5%EB%A7%8C%EB%93%A4%EA%B8%B0/90607e85.png" data-original-src="https://upload.acmicpc.net/3e0f7493-5d11-457a-b7e3-0d7f58353ad5/-/crop/135x148/274,0/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 68px; height: 74px;" /></td>
+			<td><img alt="" src="" /><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/2598.%E2%80%85%EA%B8%B0%EB%91%A5%EB%A7%8C%EB%93%A4%EA%B8%B0/b6c39f99.png" data-original-src="https://upload.acmicpc.net/3e0f7493-5d11-457a-b7e3-0d7f58353ad5/-/crop/137x148/408,0/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 69px; height: 74px;" /></td>
 		</tr>
 		<tr>
 			<td>정육면체 1</td>
@@ -41,9 +41,9 @@
 <table class="table table-bordered td-center">
 	<tbody>
 		<tr>
-			<td><img alt="" src="https://upload.acmicpc.net/b20dbd8b-a3a3-47f9-8044-3f858a940bc0/-/crop/139x406/0,0/-/preview/" style="width: 70px; height: 203px;" /></td>
-			<td><img alt="" src="https://upload.acmicpc.net/b20dbd8b-a3a3-47f9-8044-3f858a940bc0/-/crop/139x406/178,0/-/preview/" style="width: 70px; height: 203px;" /></td>
-			<td><img alt="" src="https://upload.acmicpc.net/b20dbd8b-a3a3-47f9-8044-3f858a940bc0/-/crop/139x406/355,0/-/preview/" style="width: 70px; height: 203px;" /></td>
+			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/2598.%E2%80%85%EA%B8%B0%EB%91%A5%EB%A7%8C%EB%93%A4%EA%B8%B0/44f3552a.png" data-original-src="https://upload.acmicpc.net/b20dbd8b-a3a3-47f9-8044-3f858a940bc0/-/crop/139x406/0,0/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 70px; height: 203px;" /></td>
+			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/2598.%E2%80%85%EA%B8%B0%EB%91%A5%EB%A7%8C%EB%93%A4%EA%B8%B0/8610e095.png" data-original-src="https://upload.acmicpc.net/b20dbd8b-a3a3-47f9-8044-3f858a940bc0/-/crop/139x406/178,0/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 70px; height: 203px;" /></td>
+			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/2598.%E2%80%85%EA%B8%B0%EB%91%A5%EB%A7%8C%EB%93%A4%EA%B8%B0/d1aeb5d1.png" data-original-src="https://upload.acmicpc.net/b20dbd8b-a3a3-47f9-8044-3f858a940bc0/-/crop/139x406/355,0/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 70px; height: 203px;" /></td>
 		</tr>
 		<tr>
 			<td>그림 2</td>
@@ -61,7 +61,7 @@
 
 <p>첫줄에는 1번 정육면체, 두 번째 줄에 2번 정육면체, 세 번째 줄에 3번 정육면체, 네 번째 줄에 4번 정육면체가 입력된다. 각 줄은 6개의 영문자로 이루어진다. 영문자는 R, G, B, Y 중의 하나이다. 6개의 영문자는 순서대로 그림 5의 가, 나, 다, 라, 마, 바 면의 색을 나타낸다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/99eec680-9bb1-41cf-8709-e01fad6f263c/-/preview/" style="height: 70px; width: 70px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/2598.%E2%80%85%EA%B8%B0%EB%91%A5%EB%A7%8C%EB%93%A4%EA%B8%B0/2b2b8a68.png" data-original-src="https://upload.acmicpc.net/99eec680-9bb1-41cf-8709-e01fad6f263c/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 70px; width: 70px;" /></p>
 
 <p style="text-align: center;">그림 5</p>
 

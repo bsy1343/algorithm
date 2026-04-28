@@ -18,7 +18,7 @@
 
 <p>왼쪽 아래의 각이 직각인 직각이등변삼각형 모양의 정원이 있다. 정원의 왼쪽 아래 꼭지점의 좌표를 (0, 0)이라 하고, 길지 않은 변의 길이를 <em>R</em>이라고 하자. 다음은 <code>R = 6</code>인 정원의 모습이다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://u.acmicpc.net/dbf0ec1a-e7ab-461a-b695-9140707c82f0/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202023-10-21%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%2010.58.35.png" style="height: 240px; width: 240px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/30648.%E2%80%85%ED%8A%B8%EB%A6%AD%E2%80%85%ED%94%8C%EB%9D%BC%EC%9B%8C/18acac07.png" data-original-src="https://u.acmicpc.net/dbf0ec1a-e7ab-461a-b695-9140707c82f0/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202023-10-21%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%2010.58.35.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 240px; width: 240px;" /></p>
 
 <p>정원에 트릭 플라워를 심으면 1초가 지날 때마다 한 송이씩 새로운 꽃이 피어난다. 트릭 플라워의 좌표를 (x<sub>0</sub>, y<sub>0</sub>)라 하고, t초가 지났을 때 피어나는 꽃의 좌표를 (x<sub>t</sub>, y<sub>t</sub>)라고 하자. 좌표 (x<sub>t</sub>, y<sub>t</sub>)를 알고 있다면 (x<sub>t + 1</sub>, y<sub>t + 1</sub>)는 다음과 같이 알아낼 수 있다.</p>
 

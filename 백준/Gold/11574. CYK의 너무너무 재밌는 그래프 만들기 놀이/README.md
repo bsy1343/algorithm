@@ -27,7 +27,7 @@
 
 <p>두 그래프는 정점에 부여된 색깔과, 정점 사이에 이어진 간선이 동일할 때 동일하다고 간주된다. 예를 들어, N=3, K=2 인경우 아래와 같이 24개의 서로 다른 그래프가 가능하다.</p>
 
-<p style="text-align:center"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11574/1.png" style="height:223px; width:261px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/11574.%E2%80%85CYK%EC%9D%98%E2%80%85%EB%84%88%EB%AC%B4%EB%84%88%EB%AC%B4%E2%80%85%EC%9E%AC%EB%B0%8C%EB%8A%94%E2%80%85%EA%B7%B8%EB%9E%98%ED%94%84%E2%80%85%EB%A7%8C%EB%93%A4%EA%B8%B0%E2%80%85%EB%86%80%EC%9D%B4/a114b536.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11574/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:223px; width:261px" /></p>
 
 <p>N, K가 주어질 때, 서로 다른 그래프의 경우의 수를 1,000,000,007 나눈 나머지를 출력하시오.</p>
 

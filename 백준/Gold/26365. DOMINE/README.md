@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p><img alt="" src="https://upload.acmicpc.net/bb615a48-2318-4a26-acf4-55a8b7bfa144/-/preview/" style="width: 189px; height: 202px; float: right;" />Patrik i Kre&scaron;imir nedavno su prona&scaron;li drevnu domino-puzzle ploču. Ploča je pravokutnog oblika podijeljena na NxM jednakih polja, pri čemu su N i M neparni prirodni brojevi. Ploča je ispunjena s (N*M-1)/2 domino pločica, svaka pločica zauzima dva susjedna polja, neke su pločice postavljene horizontalno, neke vodoravno, a očito je da je jedno polje uvijek prazno.</p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/26365.%E2%80%85DOMINE/610fb1dd.png" data-original-src="https://upload.acmicpc.net/bb615a48-2318-4a26-acf4-55a8b7bfa144/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 189px; height: 202px; float: right;" />Patrik i Kre&scaron;imir nedavno su prona&scaron;li drevnu domino-puzzle ploču. Ploča je pravokutnog oblika podijeljena na NxM jednakih polja, pri čemu su N i M neparni prirodni brojevi. Ploča je ispunjena s (N*M-1)/2 domino pločica, svaka pločica zauzima dva susjedna polja, neke su pločice postavljene horizontalno, neke vodoravno, a očito je da je jedno polje uvijek prazno.</p>
 
 <p>Kre&scaron;imir i Patrik gledaju puzzle ploču i razmi&scaron;ljaju kakvi bi se sve lijepi zadaci mogli smisliti iz ove priče. Odmah im je na pamet pala jedna ideja.</p>
 
@@ -38,4 +38,4 @@
 
 <p>Opis trećeg primjera: Žute (osjenčane) domine su one koje se mogu pomaknuti sa svoje originalne pozicije.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/b1a76047-ef4b-471c-9256-9501a4a43b48/-/preview/" style="width: 242px; height: 257px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/26365.%E2%80%85DOMINE/2acf0de3.png" data-original-src="https://upload.acmicpc.net/b1a76047-ef4b-471c-9256-9501a4a43b48/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 242px; height: 257px;" /></p>

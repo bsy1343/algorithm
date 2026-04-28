@@ -38,4 +38,4 @@
 
 ### 힌트
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/6b6fab57-c5a8-45de-a32c-ff95c0271299/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/8693.%E2%80%85Hodowla/6e7daf0a.png" data-original-src="https://upload.acmicpc.net/6b6fab57-c5a8-45de-a32c-ff95c0271299/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>

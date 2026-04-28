@@ -20,7 +20,7 @@
 
 <p>Svaki put kada mu profesorica zada za lektiru knjigu L<sub>i</sub>, Mirko je mora izvući iz tornja kako bi je pročitao, &scaron;to obavlja tako da podigne sve knjige koje se nalaze iznad knjige L<sub>i</sub>, izvuče knjigu L<sub>i</sub>, te spusti podignute knjige na toranj. Nakon &scaron;to Mirko pročita knjigu L<sub>i</sub>, vraća je na vrh tornja. Knjigu L<sub>i </sub>također smatramo podignutom.&nbsp;</p>
 
-<p><img alt="" src="https://onlinejudgeimages.s3.amazonaws.com/problem/14093/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202017-01-02%20%EC%98%A4%ED%9B%84%204.35.48.png" style="height:151px; width:350px" /><br />
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/14093.%E2%80%85Lektire/e6596e05.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/14093/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202017-01-02%20%EC%98%A4%ED%9B%84%204.35.48.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:151px; width:350px" /><br />
 Mirko čita lektiru s oznakom 3</p>
 
 <p>Na primjer, pogledajmo toranj na slici. Ako je prva lektira knjiga označena brojem 3, Mirko će podići tri knjige označene brojevima 1, 2 i 3. Zatim će spustiti knjige označene brojevima 1 i 2. Nakon &scaron;to pročita knjigu označenu brojem 3, stavit će je na vrh tornja.</p>

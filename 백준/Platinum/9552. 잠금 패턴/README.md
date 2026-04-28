@@ -20,7 +20,7 @@
 
 <p>청호의 휴대폰은 4개의 행에 각각 3개의 점이 있는 형태의 잠금 패턴을 사용한다. 아래의 그림은 잠금 패턴의 예시로, 잠금 패턴은 아래와 같이 2차원 평면으로 모델링되며 각각의 점은 X좌표와 Y좌표를 갖는 정수 격자점으로 표현된다. 가장 왼쪽 위의 점이 (1,4)이며, 가장 오른쪽 아래의 점이 (3,1)이 된다.</p>
 
-<p><img src="/upload/images2/lockpattern.png" /></p>
+<p><img src="%EB%B0%B1%EC%A4%80/Platinum/9552.%E2%80%85%EC%9E%A0%EA%B8%88%E2%80%85%ED%8C%A8%ED%84%B4/b087d0f3.png" data-original-src="https://www.acmicpc.net/upload/images2/lockpattern.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>위의 패턴을 좌표로 읽으면 (3,4) (2,4) (1,2) (2,1) (2,2) (3,2) (3,1) (1,3) 이 된다.</p>
 

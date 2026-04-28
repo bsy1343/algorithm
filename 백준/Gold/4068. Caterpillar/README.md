@@ -20,7 +20,7 @@
 
 <p>For example, the left graph below is not a caterpillar, but the right graph is. One possible spine is shown by dots.</p>
 
-<p><img alt="" src="/upload/images2/cater.png" style="height:141px; width:385px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/4068.%E2%80%85Caterpillar/f21f728b.png" data-original-src="https://www.acmicpc.net/upload/images2/cater.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:141px; width:385px" /></p>
 
 ### 입력
 

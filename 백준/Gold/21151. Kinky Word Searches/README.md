@@ -18,7 +18,7 @@
 
 <p>You&#39;re probably familiar with regular word searches, where you&#39;re presented with a grid of letters and a word to find. &nbsp;The word can be in a straight line horizontally, vertically, or diagonally (and perhaps backwards in any of those directions). &nbsp;For example, here is a grid of letters:</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/6a5bad95-62ba-4212-860b-a82547e38075/-/preview/" style="width: 170px; height: 172px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/21151.%E2%80%85Kinky%E2%80%85Word%E2%80%85Searches/ce27ac54.png" data-original-src="https://upload.acmicpc.net/6a5bad95-62ba-4212-860b-a82547e38075/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 170px; height: 172px;" /></p>
 
 <p style="text-align: center;">Figure 1:&nbsp;A word search grid</p>
 
@@ -26,7 +26,7 @@
 
 <p>In a <em>kinky word search</em> the path that spells out the word can have one or more &quot;kinks&quot; -- places where the path changes direction. &nbsp;For example, in the given grid you can spell the word &quot;PYTHON&quot; with $3$ kinks (one each at the T, H and &nbsp;O):</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/d515c216-df97-4974-bb52-0bcbbf76a8a9/-/preview/" style="width: 170px; height: 172px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/21151.%E2%80%85Kinky%E2%80%85Word%E2%80%85Searches/986a7249.png" data-original-src="https://upload.acmicpc.net/d515c216-df97-4974-bb52-0bcbbf76a8a9/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 170px; height: 172px;" /></p>
 
 <p style="text-align: center;">Figure 2:&nbsp;A kinky spelling of &quot;PYTHON&quot;</p>
 

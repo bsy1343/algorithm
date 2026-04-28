@@ -24,13 +24,13 @@
 
 <p>Consider, for example, the game board below. &nbsp;Assume we have 5 turns to finish the game, and each turn we can move between 1 and 4 spaces depending on what we spin. &nbsp;Notice that we must start just before the board begins, so spinning a 1 causes us to land on the first square. &nbsp;Also notice we must end by landing past the end of the last square. &nbsp;It does not have to be exact; any number that gets us off of the board will work.</p>
 
-<p style="text-align:center"><img alt="" src="/upload/images2/ripoff1.png" style="height:74px; width:543px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/4596.%E2%80%85RIPOFF/4bceaace.png" data-original-src="https://www.acmicpc.net/upload/images2/ripoff1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:74px; width:543px" /></p>
 
 <p style="text-align:center">Figure 1</p>
 
 <p>The illustration shows two different possible ways the game might go. &nbsp;Following the arrows on the top, if we spin a 2, 3, 4, 1, and 1 respectively, we will win a total rebate of 50 + 30 + 20 + 70 = \$170. &nbsp;However, the best possible rebate we could win would be \$220. &nbsp;We would win this amount if we spun a 1, 3, 2, 4, and 1 respectively, as shown by the lower path. &nbsp;Notice that we did not land on every square with a positive number; if we had we wouldn&rsquo;t have been able to make it to the end of the board before the 5 turns was up.</p>
 
-<p style="text-align:center"><img alt="" src="/upload/images2/ripoff2.png" style="height:74px; width:543px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/4596.%E2%80%85RIPOFF/ce838102.png" data-original-src="https://www.acmicpc.net/upload/images2/ripoff2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:74px; width:543px" /></p>
 
 <p style="text-align:center">Figure 2</p>
 

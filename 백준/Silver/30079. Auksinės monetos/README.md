@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p><img alt="" src="https://upload.acmicpc.net/a7551fed-2631-40ae-962c-704fb8249741/-/preview/" style="width: 119px; height: 111px; float: right;" />Jonas žaidžia kompiuterinį žaidimą apie legendinį aukso miestą <em>El Dorado</em>. Ką Jonas veikia auksiniame mieste? Žinoma, renka auksą!</p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/30079.%E2%80%85Auksin%C4%97s%E2%80%85monetos/ed2646cc.png" data-original-src="https://upload.acmicpc.net/a7551fed-2631-40ae-962c-704fb8249741/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 119px; height: 111px; float: right;" />Jonas žaidžia kompiuterinį žaidimą apie legendinį aukso miestą <em>El Dorado</em>. Ką Jonas veikia auksiniame mieste? Žinoma, renka auksą!</p>
 
 <p>Miesto žemėlapis yra $N \times M$ dydžio stačiakampis, kuriame kiekviename ta&scaron;ke yra pastatas, gatvė arba aukso moneta. Jonas gali judėti tik pietų (žemėlapyje žemyn) bei rytų (žemėlapyje de&scaron;inėn) kryptimis ir nori susirinkti kiek įmanoma daugiau monetų.</p>
 

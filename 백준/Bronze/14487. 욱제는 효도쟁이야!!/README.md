@@ -20,7 +20,7 @@
 
 <p>코드게이트 섬은 해안가를 따라 원형으로 마을들이 위치해있다. 임의의 A마을에서 임의의 B마을로 가기 위해서는 왼쪽 또는 오른쪽 도로를 통해 해안가를 따라 섬을 돌아야 한다. 섬을 빙빙 도는 원형의 길 외에 다른 길은 존재하지 않는다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14487/1.png" style="height:257px; width:300px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/14487.%E2%80%85%EC%9A%B1%EC%A0%9C%EB%8A%94%E2%80%85%ED%9A%A8%EB%8F%84%EC%9F%81%EC%9D%B4%EC%95%BC!!/f4fc65bb.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14487/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:257px; width:300px" /></p>
 
 <p>각 마을에서 마을까지의 이동비용이 주어질 때, 욱제가 최소한의 이동비용으로 부모님을 모시고 섬의 모든 마을을 관광하려면 얼마의 이동비용을 준비해야하는지 알려주자.</p>
 

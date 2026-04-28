@@ -68,9 +68,9 @@
 			<th>Third Sample</th>
 		</tr>
 		<tr>
-			<td><img alt="" src="https://upload.acmicpc.net/d46ccaea-64ae-4f46-9021-26c25f1967f5/-/preview/" style="width: 355px; height: 269px;" /></td>
-			<td><img alt="" src="https://upload.acmicpc.net/350d4e41-4328-41ab-8203-3cba8a0c3c42/-/preview/" style="width: 414px; height: 403px;" /></td>
-			<td><img alt="" src="https://upload.acmicpc.net/b86e3e05-2eac-46ff-a247-f711d8d947eb/-/preview/" style="width: 171px; height: 171px;" /></td>
+			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/28008.%E2%80%85LaLa%E2%80%85and%E2%80%85Monster%E2%80%85Hunting%E2%80%85(Part%E2%80%851)/cb94f0e2.png" data-original-src="https://upload.acmicpc.net/d46ccaea-64ae-4f46-9021-26c25f1967f5/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 355px; height: 269px;" /></td>
+			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/28008.%E2%80%85LaLa%E2%80%85and%E2%80%85Monster%E2%80%85Hunting%E2%80%85(Part%E2%80%851)/b66c644d.png" data-original-src="https://upload.acmicpc.net/350d4e41-4328-41ab-8203-3cba8a0c3c42/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 414px; height: 403px;" /></td>
+			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/28008.%E2%80%85LaLa%E2%80%85and%E2%80%85Monster%E2%80%85Hunting%E2%80%85(Part%E2%80%851)/67d6b16d.png" data-original-src="https://upload.acmicpc.net/b86e3e05-2eac-46ff-a247-f711d8d947eb/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 171px; height: 171px;" /></td>
 		</tr>
 	</tbody>
 </table>

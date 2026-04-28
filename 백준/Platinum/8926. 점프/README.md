@@ -20,7 +20,7 @@
 
 <p>Jump(10,2)의 처음 다섯 수는 2, 4, 6, 8, 10이다. 그 다음에는 3, 7, 1, 9, 5를 고를 수 있다. 따라서, Jump(10,2) = [2,4,6,8,10,3,7,1,9,5]이다. Jump(13,3) = [3,6,9,12,2,7,11,4,10,5,1,8,13]이고, Jump(13,10) = [10,7,5,4,6,9,13,8,3,12,1,11,2], Jump(10,19) = [9,10,3,8,1,6,4,5,7,2]이다.</p>
 
-<p><img alt="" src="/upload/images/jump(1).png" style="height:206px; width:254px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/8926.%E2%80%85%EC%A0%90%ED%94%84/ecddcfaa.png" data-original-src="https://www.acmicpc.net/upload/images/jump(1).png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:206px; width:254px" /></p>
 
 <p>n과 k가 주어졌을 때, Jump(n,k)의 마지막 세 숫자를 구하는 프로그램을 작성하시오. n=10, k=2인 경우 1,9,5를 출력하면 된다. Jump(1,k) = [1]이다.</p>
 

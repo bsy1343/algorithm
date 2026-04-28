@@ -27,7 +27,7 @@
 	<li>if she first draws (&minus;1, 0, 2) and then (1, 0, 2), then the part of the first circle to the right of the x = 0 axis will be erased.</li>
 </ul>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/54c41449-3424-4cd9-be11-e6f24c0674eb/-/preview/" style="width: 489px; height: 198px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/20989.%E2%80%85Drawing%E2%80%85Circles/8676d538.png" data-original-src="https://upload.acmicpc.net/54c41449-3424-4cd9-be11-e6f24c0674eb/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 489px; height: 198px;" /></p>
 
 <p style="text-align: center;">Figure A.1: Sample inputs. Dotted lines are areas that have been erased.</p>
 

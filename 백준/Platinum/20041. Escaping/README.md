@@ -22,7 +22,7 @@
 
 <p>예를 들어, 다음 아래 왼쪽 그림과 같은 초기 조건에서 도둑이 북쪽 또는 남쪽 방향으로만 움직인다면 경찰은 도둑을 영원히 잡을 수 없다. 그러나 아래 오른쪽 그림과 같은 조건이라면 도둑이 어떻게 도망을 가더라도 최선을 다하는 경찰에 의해서 결국은 잡히게 된다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/507ecd86-4ab0-4066-8dbd-ed297ca27b86/-/preview/" style="width: 418px; height: 217px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/20041.%E2%80%85Escaping/1b7ad2df.png" data-original-src="https://upload.acmicpc.net/507ecd86-4ab0-4066-8dbd-ed297ca27b86/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 418px; height: 217px;" /></p>
 
 ### 입력
 

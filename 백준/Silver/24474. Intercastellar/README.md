@@ -37,7 +37,7 @@
 
 <p>Given information of the castella and the questions, write a program which answer the questions.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/269e41f1-dc7d-4235-8a90-cc10a9a29903/-/preview/" style="width: 264px; height: 198px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/24474.%E2%80%85Intercastellar/c41ee66e.png" data-original-src="https://upload.acmicpc.net/269e41f1-dc7d-4235-8a90-cc10a9a29903/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 264px; height: 198px;" /></p>
 
 ### 입력
 

@@ -22,7 +22,7 @@
 
 <p>Help Hansel and Gretel! They will tell you how many mushrooms there are on each of the eight pizza slices, and your job is to find the largest total number of mushrooms Gretel can get. The following image depicts the optimal division for the second test sample below (1. denotes the first slice given in the input data):</p>
 
-<p style="text-align: center;"><img alt="" src="/upload/images2/funghi.png" style="height:246px; width:272px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/10643.%E2%80%85FUNGHI/c20a1706.png" data-original-src="https://www.acmicpc.net/upload/images2/funghi.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:246px; width:272px" /></p>
 
 ### 입력
 

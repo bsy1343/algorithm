@@ -20,15 +20,15 @@
 
 <p>ㄷ 모양은 $k \times k$ 정사각형 7개를 붙인 형태로 정의한다. 다음은 각각 $k=1, k=2$일 때의 ㄷ 모양이다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/fa6509c8-3f03-4b51-8c4e-350dd7011d72/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/23562.%E2%80%85%E3%84%B7%E2%80%85%EB%A7%8C%EB%93%A4%EA%B8%B0/acdbb3dc.png" data-original-src="https://upload.acmicpc.net/fa6509c8-3f03-4b51-8c4e-350dd7011d72/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>ㄷ 모양이 아닌 것의 예는 다음과 같다.</p>
 
 <table align="center" border="1" cellpadding="1" cellspacing="1" class="table table-bordered" style="width: 500px;">
 	<tbody>
 		<tr>
-			<td style="text-align: center; vertical-align: middle;"><img alt="" src="https://upload.acmicpc.net/d5044050-ccd7-4c93-92e5-05a2b52fb707/-/preview/" /></td>
-			<td style="text-align: center; vertical-align: middle;"><img alt="" src="https://upload.acmicpc.net/25a258e1-5461-4048-a7fb-bd0d7caac079/-/preview/" /></td>
+			<td style="text-align: center; vertical-align: middle;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/23562.%E2%80%85%E3%84%B7%E2%80%85%EB%A7%8C%EB%93%A4%EA%B8%B0/74798643.png" data-original-src="https://upload.acmicpc.net/d5044050-ccd7-4c93-92e5-05a2b52fb707/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></td>
+			<td style="text-align: center; vertical-align: middle;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/23562.%E2%80%85%E3%84%B7%E2%80%85%EB%A7%8C%EB%93%A4%EA%B8%B0/ba6c409b.png" data-original-src="https://upload.acmicpc.net/25a258e1-5461-4048-a7fb-bd0d7caac079/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></td>
 		</tr>
 		<tr>
 			<td style="text-align: center;">7개의 $k \times k$ 정사각형으로 이루어지지 않음</td>

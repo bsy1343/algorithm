@@ -20,7 +20,7 @@
 
 <p>The city shape is a square grid. City services have several excavator types available &ndash; Reepadlo, Qrtech, Bugger, Namakatschenko, and Kopatsch. Each of them has different specifications and movement pattern. Excavators may move either as a Rook, a Queen, a Bishop, a kNight, or as a King in the game of chess, respectively (see images for movement illustration). Due to compatibility issues only a single type of excavators can be deployed.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/edc49bb3-9706-4ab8-8fa0-df2a10fc2459/-/preview/" style="width: 499px; height: 304px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/23095.%E2%80%85Excavation/198bbb46.png" data-original-src="https://upload.acmicpc.net/edc49bb3-9706-4ab8-8fa0-df2a10fc2459/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 499px; height: 304px;" /></p>
 
 <p style="text-align: center;">Figure 1: Illustration of specific excavator movement patterns.</p>
 

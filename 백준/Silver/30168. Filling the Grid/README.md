@@ -25,7 +25,7 @@
 
 <p>In other words, the $i$-th row starts exactly with $r_i$ full cells. Similarly, the $j$-th column starts exactly with $c_j$ full cells.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/978d94ca-3273-409d-9ccf-2db997a47b29/-/preview/" style="width: 264px; height: 200px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/30168.%E2%80%85Filling%E2%80%85the%E2%80%85Grid/6760b473.png" data-original-src="https://upload.acmicpc.net/978d94ca-3273-409d-9ccf-2db997a47b29/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 264px; height: 200px;" /></p>
 
 <p style="text-align: center;">These are the $r$ and $c$ values of some $3 \times 4$ grid. Black cells are full and white cells are empty.</p>
 
@@ -47,7 +47,7 @@
 
 <p>In the first example, this is the other possible case.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/2f39d50c-e58a-474c-b45e-4d48a0113c80/-/preview/" style="width: 272px; height: 200px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/30168.%E2%80%85Filling%E2%80%85the%E2%80%85Grid/0458717d.png" data-original-src="https://upload.acmicpc.net/2f39d50c-e58a-474c-b45e-4d48a0113c80/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 272px; height: 200px;" /></p>
 
 <p>In the second example, it&#39;s impossible to make a grid to satisfy such $r$, $c$ values.</p>
 

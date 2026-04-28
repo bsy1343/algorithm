@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><img alt="치킨들이 올려져 있는 시소" src="https://upload.acmicpc.net/008519ed-3e19-4a07-9f9b-a775ebdc2798/-/preview/" style="max-height:160px; object-fit:contain; display:inline-block;" /></p>
+<p style="text-align: center;"><img alt="치킨들이 올려져 있는 시소" src="%EB%B0%B1%EC%A4%80/Silver/26072.%E2%80%85%EA%B3%B0%EA%B3%B0%EC%9D%B4%EC%99%80%E2%80%85%EC%8B%9C%EC%86%8C/02a7594e.png" data-original-src="https://upload.acmicpc.net/008519ed-3e19-4a07-9f9b-a775ebdc2798/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="max-height:160px; object-fit:contain; display:inline-block;" /></p>
 
 <p>곰곰이는 $N$개의 치킨들을 커다란 시소 위에 올려놓아 보관하고 있다. 이 시소의 길이는 $L$이다.</p>
 
@@ -26,7 +26,7 @@
 
 <p>시소를 평행하게 만드는 받침점의 위치를 구해보자! (시소의 무게는 치킨의 무게에 비해 무시해도 될 정도로 가볍다.)</p>
 
-<p style="text-align: center;"><img alt="곰곰: 고맙습니다" src="https://upload.acmicpc.net/d4f9bca9-9e0c-4348-aaa2-3dbffa219ee6/-/preview/" style="max-height:160px; object-fit:contain; display:inline-block;" /></p>
+<p style="text-align: center;"><img alt="곰곰: 고맙습니다" src="%EB%B0%B1%EC%A4%80/Silver/26072.%E2%80%85%EA%B3%B0%EA%B3%B0%EC%9D%B4%EC%99%80%E2%80%85%EC%8B%9C%EC%86%8C/e20b7d28.png" data-original-src="https://upload.acmicpc.net/d4f9bca9-9e0c-4348-aaa2-3dbffa219ee6/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="max-height:160px; object-fit:contain; display:inline-block;" /></p>
 
 ### 입력
 

@@ -20,7 +20,7 @@
 
 <p>The seven elements of the display are all light-emitting diodes (LEDs) and can be lit in different combinations to represent the arabic numerals like:</p>
 
-<p><img alt="" src="https://onlinejudgeimages.s3.amazonaws.com/problem/12206/images-69.png" style="height:69px; width:429px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/12206.%E2%80%85Seven-segment%E2%80%85Display%E2%80%85(Small)/249449fe.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/12206/images-69.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:69px; width:429px" /></p>
 
 <p>However, just when he finished the programs and tried to test the stopwatch, some of the LEDs turned out to be broken! Some of the segments can never be lit while others worked fine. So the display kept on producing some ambiguous states all the time...</p>
 
@@ -30,15 +30,15 @@
 
 <p>For convenience, we refer the seven segments of the display by the letters A to G as the picture below:</p>
 
-<p><img alt="" src="https://onlinejudgeimages.s3.amazonaws.com/problem/12206/images-70.png" style="height:93px; width:53px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/12206.%E2%80%85Seven-segment%E2%80%85Display%E2%80%85(Small)/f95afb0e.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/12206/images-70.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:93px; width:53px" /></p>
 
 <p>For example, if the record of states is like:</p>
 
-<p><img alt="" src="https://onlinejudgeimages.s3.amazonaws.com/problem/12206/images-71.png" style="height:69px; width:213px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/12206.%E2%80%85Seven-segment%E2%80%85Display%E2%80%85(Small)/b2435a03.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/12206/images-71.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:69px; width:213px" /></p>
 
 <p>It&#39;s not that hard to figure out that ONLY segment B is broken and the sequence of states the display is trying to produce is simply &quot;9 -&gt; 8 -&gt; 7 -&gt; 6 -&gt; 5&quot;. Then the next number should be 4, but considering of the brokenness of segment B, the next state should be:</p>
 
-<p><img alt="" src="https://onlinejudgeimages.s3.amazonaws.com/problem/12206/images-72.png" style="height:69px; width:40px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/12206.%E2%80%85Seven-segment%E2%80%85Display%E2%80%85(Small)/c9bfca68.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/12206/images-72.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:69px; width:40px" /></p>
 
 ### 입력
 

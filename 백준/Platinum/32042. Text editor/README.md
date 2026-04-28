@@ -20,7 +20,7 @@
 
 <p>Robert&#39;s program has $N$ lines with lengths $l_1, l_2, \ldots, l_N$. Robert always ends his programs with an empty line, therefore $l_N = 0$. The cursor can be placed between two characters, as well as at the start or end of a line. As such, line $i$ has $l_i + 1$ possible cursor positions (called columns) numbered from $1$ to $l_i + 1$. For example, this is what a cursor placed on line 2 in column 6 would look like:</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/b21e72bf-3394-465e-a1b8-a6c67d1df47e/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/32042.%E2%80%85Text%E2%80%85editor/5b768329.png" data-original-src="https://upload.acmicpc.net/b21e72bf-3394-465e-a1b8-a6c67d1df47e/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>Robert wants to move his cursor from line $s_l$ column $s_c$ to line $e_l$ column $e_c$. He would like to know the minimum number of key presses needed to do so.</p>
 
@@ -28,11 +28,11 @@
 
 <p>For example, <em>left</em> presses can look like this:</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/6ec0f932-dce6-4998-86cf-a66a8b42f964/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/32042.%E2%80%85Text%E2%80%85editor/ce9bf0ce.png" data-original-src="https://upload.acmicpc.net/6ec0f932-dce6-4998-86cf-a66a8b42f964/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>And <em>right</em> presses can look like this:</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/9c79b9b9-4a7b-48e1-a1ca-6cddcfbb5acc/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/32042.%E2%80%85Text%E2%80%85editor/c352b116.png" data-original-src="https://upload.acmicpc.net/9c79b9b9-4a7b-48e1-a1ca-6cddcfbb5acc/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>Pressing <em>left</em> at the very start of the file or pressing <em>right</em> at the very end of the file will have no effect.</p>
 
@@ -40,11 +40,11 @@
 
 <p>For example, <em>up</em> presses can look like this:</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/65174296-cf1d-405a-a867-3b16b5179586/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/32042.%E2%80%85Text%E2%80%85editor/39e6afff.png" data-original-src="https://upload.acmicpc.net/65174296-cf1d-405a-a867-3b16b5179586/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>And <em>down</em> presses can look like this:</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/3924a215-6ced-4e03-a31a-fcf581daa42d/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/32042.%E2%80%85Text%E2%80%85editor/44d1e87a.png" data-original-src="https://upload.acmicpc.net/3924a215-6ced-4e03-a31a-fcf581daa42d/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>If pressing <em>up</em> or <em>down</em> would put the cursor on a line that doesn&#39;t exist, the cursor won&#39;t move at all.</p>
 

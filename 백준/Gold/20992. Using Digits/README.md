@@ -24,7 +24,7 @@
 
 <p>For example, starting at the &ldquo;1&rdquo; on the bottom left corner in the figure shown, with Code Key 11, his best path is step right, step right, hop right, hop up, step right, step up, for a total of 1+0+3+2+1+1+8 = 16. But starting with Code Key 12, his best path is step right, hop up, hop right, step right, step up, for a total of 18.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/8fe400c4-d814-48d3-8acf-334aa39cd6db/-/preview/" style="width: 193px; height: 134px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/20992.%E2%80%85Using%E2%80%85Digits/f3abae39.png" data-original-src="https://upload.acmicpc.net/8fe400c4-d814-48d3-8acf-334aa39cd6db/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 193px; height: 134px;" /></p>
 
 <p style="text-align: center;">Figure D.1: Illustration for the sample inputs.</p>
 

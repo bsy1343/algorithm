@@ -24,7 +24,7 @@
 
 <p>10&times;10크기의 보드판은 다음과 같이 생겼다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/5b18d519-414b-4a16-aceb-fd9959bc70dd/-/preview/" style="width: 620px; height: 281px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/2968.%E2%80%85%EB%B3%B4%EB%93%9C%E2%80%85%EA%B2%8C%EC%9E%84%EC%9D%98%E2%80%85%EC%99%95%E2%80%85%EA%B9%80%EB%8F%99%ED%98%81/a0a78546.png" data-original-src="https://upload.acmicpc.net/5b18d519-414b-4a16-aceb-fd9959bc70dd/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 620px; height: 281px;" /></p>
 
 <p>동혁이는 자신의 말을 위쪽 오른쪽 그림과 같은 순서로 방문하려고 한다. 말은 (0, 0)에서 시작한다. 이때, 말이 회색 칸을 몇 번 방문하는지 구하려고 한다.</p>
 

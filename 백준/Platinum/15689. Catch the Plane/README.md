@@ -22,7 +22,7 @@
 
 <p>If you arrive before the departure time of a bus, you can transfer to that bus. But if you arrive exactly at the departure time, you will not have enough time to get on the bus. You cannot verify ahead of time whether a given bus will run as planned &ndash; you will find out only when you try to get on the bus. So if two or more buses leave a station at the same time, you can try to get on only one of them.</p>
 
-<p style="text-align: center;"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15689/1.png" style="width: 311px; height: 283px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/15689.%E2%80%85Catch%E2%80%85the%E2%80%85Plane/b1903a42.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15689/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 311px; height: 283px;" /></p>
 
 <p style="text-align: center;">Figure A.1: Bus schedule corresponding to Sample Input 1.</p>
 

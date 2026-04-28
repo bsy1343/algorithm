@@ -28,7 +28,7 @@
 
 <p>다음 그림은 각각 정4각형과 정5각형에서의 경우를 나타낸 예시다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/ce294002-7554-4900-8ae3-00d0b96d363a/-/preview/" style="width: 300px; height: 301px;" title="" /><img alt="" src="https://upload.acmicpc.net/dafedb5f-7755-47d7-a8db-47b12cbf2dff/-/preview/" style="height: 301px; width: 300px; margin-left: 30px; margin-right: 30px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/28294.%E2%80%85%ED%94%84%EB%9E%99%ED%83%88/e83f2f3d.png" data-original-src="https://upload.acmicpc.net/ce294002-7554-4900-8ae3-00d0b96d363a/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 300px; height: 301px;" title="" /><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/28294.%E2%80%85%ED%94%84%EB%9E%99%ED%83%88/df2da6d4.png" data-original-src="https://upload.acmicpc.net/dafedb5f-7755-47d7-a8db-47b12cbf2dff/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 301px; width: 300px; margin-left: 30px; margin-right: 30px;" /></p>
 
 <p>midori는 이 프랙탈의 둘레를 구하고 싶다. 그러나 midori는 유리수를 싫어하기 때문에 프랙탈 패턴을 그리다가, 새로 만들어진 도형의 변의 길이가 1이 될 때까지만 패턴을 만든 후 도형의 둘레를 계산하기로 했다.</p>
 

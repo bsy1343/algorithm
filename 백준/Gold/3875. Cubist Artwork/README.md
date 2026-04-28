@@ -24,7 +24,7 @@
 
 <p>Each design proposal of an artwork consists of the front view and the side view (the view seen from the right-hand side), as shown in Figure 1.</p>
 
-<p style="text-align:center"><img alt="" src="/upload/imagesa/figure1.png" style="height:223px; width:356px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/3875.%E2%80%85Cubist%E2%80%85Artwork/64cef359.png" data-original-src="https://www.acmicpc.net/upload/imagesa/figure1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:223px; width:356px" /></p>
 
 <p>Figure 1: An example of an artwork proposal</p>
 
@@ -32,7 +32,7 @@
 
 <p>There are several ways to install this proposal of artwork, such as the following figures.</p>
 
-<p style="text-align:center"><img alt="" src="/upload/imagesa/figure1_2.png" style="height:151px; width:513px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/3875.%E2%80%85Cubist%E2%80%85Artwork/d97b1106.png" data-original-src="https://www.acmicpc.net/upload/imagesa/figure1_2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:151px; width:513px" /></p>
 
 <p>In these figures, the dotted lines on the ground indicate the grid lines. The left figure makes use of 16 cubes, which is not optimal. That is, the artwork can be installed with a fewer number of cubes. Actually, the right one is optimal and only uses 13 cubes. Note that, a single pile of height three in the right figure plays the roles of two such piles in the left one.</p>
 
@@ -40,13 +40,13 @@
 
 <p>For example, consider the artwork proposal given in Figure 2.</p>
 
-<p style="text-align:center"><img alt="" src="/upload/imagesa/figure2.png" style="height:222px; width:355px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/3875.%E2%80%85Cubist%E2%80%85Artwork/8426f6b7.png" data-original-src="https://www.acmicpc.net/upload/imagesa/figure2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:222px; width:355px" /></p>
 
 <p>Figure 2: Another example of artwork proposal</p>
 
 <p>An optimal installation of this proposal of artwork can be achieved with 13 cubes, as shown in the following figure, which can be obtained by exchanging the rightmost two columns of the optimal installation of the artwork of Figure 1.</p>
 
-<p style="text-align:center"><img alt="" src="/upload/imagesa/figure2_2.png" style="height:149px; width:159px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/3875.%E2%80%85Cubist%E2%80%85Artwork/f195cca2.png" data-original-src="https://www.acmicpc.net/upload/imagesa/figure2_2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:149px; width:159px" /></p>
 
 ### 입력
 

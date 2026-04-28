@@ -22,7 +22,7 @@
 
 <p>It is believed that emblems have more impact as their&nbsp;<i>n</i>&nbsp;are taken larger. So you want to paint the emblem of&nbsp;<i>n</i>&nbsp;as large as possible, but you don&rsquo;t have so much chemicals to paint. Your task is to write a program which outputs the area of the emblem for given&nbsp;<i>n</i>&nbsp;so that you can estimate the amount of the needed chemicals.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/30a38814-e285-4fe3-be08-840ec445a715/-/preview/" style="width: 203px; height: 205px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/22704.%E2%80%85Triangles/86b59a61.png" data-original-src="https://upload.acmicpc.net/30a38814-e285-4fe3-be08-840ec445a715/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 203px; height: 205px;" /></p>
 
 <p style="text-align: center;">Figure 1: The Emblem for&nbsp;<i>n</i>&nbsp;= 2</p>
 

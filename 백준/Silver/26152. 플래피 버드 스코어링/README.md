@@ -22,7 +22,7 @@
 
 <p>플래피 버드 고수 세정이는 장애물이 어떤 식으로 주어지든 플래피 버드를 조작해 피할 수 있다. (<strong>단, 플래피 버드의 크기가 장애물의 틈새보다 클 경우에는 세정이도 장애물을 피하지 못한다.)</strong> 즉, 플래피 버드의 크기 $w$가 장애물의 틈새보다 클 경우에는 장애물을 피하지 못한다. 이때, 장애물을 피하지 못하면 게임이 바로 끝나게 된다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/c73789c2-fba0-471d-acdf-ad6ebafc9d6e/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/26152.%E2%80%85%ED%94%8C%EB%9E%98%ED%94%BC%E2%80%85%EB%B2%84%EB%93%9C%E2%80%85%EC%8A%A4%EC%BD%94%EC%96%B4%EB%A7%81/36697961.png" data-original-src="https://upload.acmicpc.net/c73789c2-fba0-471d-acdf-ad6ebafc9d6e/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>여러 종류의 플래피 버드가 각 게임마다 주어질 때, 해당 플래피 버드를 가지고 몇 점까지 획득할 수 있는지 구하려고 한다.</p>
 

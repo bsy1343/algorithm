@@ -20,7 +20,7 @@
 
 <p>A board is made up of exactly two pieces of wood. The length of a board made of wood with lengths L<sub>i</sub> and L<sub>j</sub> is L<sub>i</sub> + L<sub>j</sub>. A fence consists of boards that are the same length. The length of the fence is the number of boards used to make it, and the height of the fence is the length of each board in the fence. In the example fence below, the length of the fence is 4; the height of the fence is 50; and, the length of each piece of wood is shown:</p>
 
-<p style="text-align: center;"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14685/1.png" style="height:248px; width:397px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/14685.%E2%80%85Nailed%E2%80%85It!/b4983998.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14685/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:248px; width:397px" /></p>
 
 <p>Tudor would like to make the longest fence possible. Please help him determine the maximum length of any fence he could make, and the number of different heights a fence of that maximum length could have.</p>
 

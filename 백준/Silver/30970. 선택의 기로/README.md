@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<figure style="float: right; text-align: center;"><img alt="촉석루 사진" src="https://u.acmicpc.net/5074acea-f512-48db-8b0a-c5134e706bf4/IMG_9386.jpeg" style="height: 180px; margin-left: 40px;" />
+<figure style="float: right; text-align: center;"><img alt="촉석루 사진" src="%EB%B0%B1%EC%A4%80/Silver/30970.%E2%80%85%EC%84%A0%ED%83%9D%EC%9D%98%E2%80%85%EA%B8%B0%EB%A1%9C/5f35ddb8.jpeg" data-original-src="https://u.acmicpc.net/5074acea-f512-48db-8b0a-c5134e706bf4/IMG_9386.jpeg" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 180px; margin-left: 40px;" />
 <figcaption><strong>[사진]</strong> 촉석루</figcaption>
 </figure>
 

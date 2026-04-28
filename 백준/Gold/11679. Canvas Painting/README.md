@@ -29,7 +29,7 @@
 
 <p>Consider for example that Samuel bought four canvasses of sizes 3, 5, 5 and 7. The following picture shows 2 different options for painting them.</p>
 
-<p style="text-align: center;"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11678/1.png" style="height:248px; width:595px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/11679.%E2%80%85Canvas%E2%80%85Painting/9538f109.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11678/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:248px; width:595px" /></p>
 
 <p>Given the sizes of the canvasses Samuel bought, can you help Samuel finding the minimum amount of ink the machine needs to spend in order to have all canvasses with different colors?</p>
 

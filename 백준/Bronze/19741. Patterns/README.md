@@ -22,7 +22,7 @@
 
 <p>Then he colors cells which contain the number with no more than $k$ different divisors. After that, Petya studies the resulting picture in hope of finding some patterns. For example, if $n = 7$, $k = 3$, Petya will get the following picture:</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/5571537d-b76c-4f1a-a0c4-3db58d756d13/-/preview/" style="width: 203px; height: 200px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/19741.%E2%80%85Patterns/0187a414.png" data-original-src="https://upload.acmicpc.net/5571537d-b76c-4f1a-a0c4-3db58d756d13/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 203px; height: 200px;" /></p>
 
 <p>Help Petya, print the picture which he will get after coloring, representing colored cells with asterisks &lt;&lt;<code>*</code>&gt;&gt;, and non-colored cells with dots &lt;&lt;<code>.</code>&gt;&gt;.</p>
 

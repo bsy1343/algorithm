@@ -17,7 +17,7 @@
 ### 문제 설명
 
 <p>We are given a bar of chocolate composed of m x n square pieces. One should break the chocolate into single squares. Parts of the chocolate may be broken along the vertical and horizontal lines as indicated by the broken lines in the picture. A single break of a part of the chocolate along a chosen vertical or horizontal line divides that part into two smaller ones. Each break of a part of the chocolate is charged a cost expressed by a positive integer. This cost does not depend on the size of the part that is being broken but only depends on the line the break goes along. Let us denote the costs of breaking along consecutive vertical lines with x<sub>1</sub>,x<sub>2</sub>,&hellip;,x<sub>m-1</sub>&nbsp;and along horizontal lines with y<sub>1</sub>,y<sub>2</sub>,&hellip;,y<sub>n-1</sub>. The cost of breaking the whole bar into single squares is the sum of the successive breaks. One should compute the minimal cost of breaking the whole chocolate into single single squares.<br />
-<img alt="" src="https://onlinejudgeimages.s3.amazonaws.com/problem/7998/cze.jpg" style="height:215px; width:300px" /></p>
+<img alt="" src="%EB%B0%B1%EC%A4%80/Gold/7998.%E2%80%85Chocolate/56f6cb1e.jpg" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/7998/cze.jpg" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:215px; width:300px" /></p>
 
 <p>For example, if we break the chocolate presented in the picture first along the horizontal lines, and next each obtained part along vertical lines then the cost of that breaking will be y<sub>1</sub>+y<sub>2</sub>+y<sub>3</sub>+4&sdot;(x<sub>1</sub>+x<sub>2</sub>+x<sub>3</sub>+x<sub>4</sub>+x<sub>5</sub>).</p>
 

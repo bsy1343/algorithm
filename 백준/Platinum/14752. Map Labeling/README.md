@@ -22,13 +22,13 @@
 
 <p>Specifically, there is a straight line L, considered to be the x-axis, on which n points, corresponding to the point features, lie. The locations of the n points are strictly different. In this problem, the labels are considered as rectangular areas with height 1 on the plane. So each point p<sub>i</sub> is associated with an axis-parallel rectangular label l<sub>i</sub> of width w<sub>i</sub> and height 1. Note that the heights of all the labels are identical. These rectangular labels should be pairwise disjoint, but the boundaries of two labels can be touched. Consider a line U which is parallel to L, above L, and has a vertical distance 1 from L. The labels l<sub>i</sub> should be placed such that their lower sides are attached on U and they are above U as shown in Figure G.1.</p>
 
-<p style="text-align: center;"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14752/1.png" style="height:122px; width:417px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/14752.%E2%80%85Map%E2%80%85Labeling/fc1d1ac5.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14752/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:122px; width:417px" /></p>
 
 <p style="text-align: center;">Figure G.1 Rectangular labels of point features</p>
 
 <p>You write a program to find the placements of labels such that the number of bended connectors is minimized. For example, for the point features and the labels given in Figure G.1, the placement of labels shown in Figure G.2 minimizes the number of bended connectors.</p>
 
-<p style="text-align: center;"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14752/2.png" style="height:122px; width:412px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/14752.%E2%80%85Map%E2%80%85Labeling/ab204502.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14752/2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:122px; width:412px" /></p>
 
 <p style="text-align: center;">Figure G.2 Optimal placement of labels</p>
 

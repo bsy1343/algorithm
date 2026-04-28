@@ -18,7 +18,7 @@
 
 <p>Luna, a historian, was exploring the archives of an old monastery when she stumbled on a mysterious scroll of parchment. On it were only two types of symbols: &#39;<code>(</code>&#39; and &#39;<code>)</code>&#39;. Soon she noticed that the sequence of symbols satisfies an interesting property: It can be constructed by repeatedly inserting &#39;<code>()</code>&#39; at some position into an initially empty sequence. Historians call such sequences <em>balanced</em>. Figure L.1 gives an example of a balanced sequence.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/a7000f77-3955-4776-808e-0088db25ed1a/-/preview/" style="width: 450px; height: 20px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/28380.%E2%80%85Loop%E2%80%85Invariant/378e7c18.png" data-original-src="https://upload.acmicpc.net/a7000f77-3955-4776-808e-0088db25ed1a/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 450px; height: 20px;" /></p>
 
 <p style="text-align: center;">Figure L.1: Sample Input 2 derived by successively inserting &#39;<code>()</code>&#39; into an initially empty sequence.</p>
 

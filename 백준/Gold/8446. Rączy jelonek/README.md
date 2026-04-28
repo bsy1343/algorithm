@@ -29,7 +29,7 @@
 
 <p>Poniżej przedstawiono przykładową podr&oacute;ż rączego jelonka, kt&oacute;ra rozpoczęła się w punkcie po lewej stronie drogi. Numery nad strzałkami oznaczają poziom energii jelonka&nbsp;<i>po</i>&nbsp;danym skoku. Wartość 0&nbsp;oznacza, że jelonek się zatrzymał.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/ffcd3ced-4a3d-4a55-a1ae-45f96f3085ed/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/8446.%E2%80%85R%C4%85czy%E2%80%85jelonek/fe3c385f.png" data-original-src="https://upload.acmicpc.net/ffcd3ced-4a3d-4a55-a1ae-45f96f3085ed/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>Droga prowadząca do polany jest nieskończona w obydw&oacute;ch kierunkach. Oznacza to, że jelonek w trakcie podr&oacute;ży może znaleźć się za polaną lub przed punktem, z kt&oacute;rego wyrusza. Jelonka od celu dzieli początkowo <i>n</i>&nbsp;metr&oacute;w. Oblicz, jaka jest najmniejsza liczba skok&oacute;w, kt&oacute;ra pozwoli mu dotrzeć do polany i zatrzymać się tam.</p>
 

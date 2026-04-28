@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/2151cf07-1489-4434-84e0-6f265e62be77/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/17247.%E2%80%85%ED%83%9D%EC%8B%9C%E2%80%85%EA%B1%B0%EB%A6%AC/2758895b.png" data-original-src="https://upload.acmicpc.net/2151cf07-1489-4434-84e0-6f265e62be77/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>택시 거리는 바둑판 모양의 도로망을 가진 도시에서 점 A에서 B까지의 최단 거리를 구할 경우 도로를 따라서만 가는 가장 짧은 거리를 뜻한다.</p>
 

@@ -18,7 +18,7 @@
 
 <p>아이즈원의 팬인 시온이는 드디어 티켓팅에 성공하여 콘서트를 갔다. 콘서트장에 일찍 도착한 시온이는 기대하며 입장을 위해 줄을 섰다. 하지만 아이즈원의 인기대로 시온이를 포함한&nbsp;많은 팬이 줄을 서고 있다.&nbsp;콘서트의 입장이 시작되었고 입장은 티켓 번호 순서대로 이루어졌다. 하지만 입구에 너무 많은 팬이 몰려 아무도 이동할 수 없는 상황이 되었고, 결국 주최 측에서 인원을 정렬시켜 다음과 같이 간신히 사람 한 줄이 설 수 있는 대기 공간을 만들었다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/bc504cb9-71fa-4df1-8ad9-0575a0203262/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/17178.%E2%80%85%EC%A4%84%EC%84%9C%EA%B8%B0/158becfe.png" data-original-src="https://upload.acmicpc.net/bc504cb9-71fa-4df1-8ad9-0575a0203262/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>주최 측은 번호표 순서대로만 통과할 수 있는 입구를 만들어 두었지만, 줄에서는 마구잡이로 사람들이 기다리고 있다. 대기 공간을 이용하여 입장이 원활히 이루어지도록 하려고 한다. 콘서트장에 사람들이 제대로 들어갈 수 있는지 확인해보자.</p>
 
@@ -26,21 +26,21 @@
 
 <p>위의 예시를 예로 들면 다음과 같이 모든 사람들이 입장할 수 있다. 그림과는 달리 대기 공간에는 무한히 많은 사람들이 들어올 수 있다는 것에 주의하여야 한다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/9827f814-14b0-4334-8af0-10a89be7a623/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/17178.%E2%80%85%EC%A4%84%EC%84%9C%EA%B8%B0/bef71733.png" data-original-src="https://upload.acmicpc.net/9827f814-14b0-4334-8af0-10a89be7a623/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/d21ef9b6-6de8-4640-8822-b142f4cccf6c/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/17178.%E2%80%85%EC%A4%84%EC%84%9C%EA%B8%B0/ef11be35.png" data-original-src="https://upload.acmicpc.net/d21ef9b6-6de8-4640-8822-b142f4cccf6c/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/8af4d04f-6fa2-40d4-ad4c-d21cd50f8389/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/17178.%E2%80%85%EC%A4%84%EC%84%9C%EA%B8%B0/38dbefc4.png" data-original-src="https://upload.acmicpc.net/8af4d04f-6fa2-40d4-ad4c-d21cd50f8389/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/6ce1200a-d930-4d6a-9a45-f785857737b8/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/17178.%E2%80%85%EC%A4%84%EC%84%9C%EA%B8%B0/aedc20d7.png" data-original-src="https://upload.acmicpc.net/6ce1200a-d930-4d6a-9a45-f785857737b8/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/828c1fd8-a5d8-4728-980a-f7371db21328/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/17178.%E2%80%85%EC%A4%84%EC%84%9C%EA%B8%B0/0fe31c50.png" data-original-src="https://upload.acmicpc.net/828c1fd8-a5d8-4728-980a-f7371db21328/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/aa24fa18-f5cb-4a1c-9fd7-e88c38bd1c31/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/17178.%E2%80%85%EC%A4%84%EC%84%9C%EA%B8%B0/196ea1b9.png" data-original-src="https://upload.acmicpc.net/aa24fa18-f5cb-4a1c-9fd7-e88c38bd1c31/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/4433b135-81c3-4b12-9431-e761c71dd6cd/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/17178.%E2%80%85%EC%A4%84%EC%84%9C%EA%B8%B0/6538a1d9.png" data-original-src="https://upload.acmicpc.net/4433b135-81c3-4b12-9431-e761c71dd6cd/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/052561a8-730e-43ab-b929-2ebe0d6ff31d/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/17178.%E2%80%85%EC%A4%84%EC%84%9C%EA%B8%B0/566da4c0.png" data-original-src="https://upload.acmicpc.net/052561a8-730e-43ab-b929-2ebe0d6ff31d/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 ### 입력
 

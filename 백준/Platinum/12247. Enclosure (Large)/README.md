@@ -25,7 +25,7 @@
 
 <p>For example, to enclose 8 points on a 4x5 grid, we need at least 6 stones. One of many valid stone layouts is shown below. Enclosed points are marked with an &quot;x&quot;.</p>
 
-<p><img alt="" src="https://onlinejudgeimages.s3.amazonaws.com/problem/12246/images-61.png" style="height:150px; width:181px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/12247.%E2%80%85Enclosure%E2%80%85(Large)/d03bcef8.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/12246/images-61.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:150px; width:181px" /></p>
 
 ### 입력
 

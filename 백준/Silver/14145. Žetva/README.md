@@ -24,7 +24,7 @@
 
 <p>Jednim poljem p&scaron;enice nazivamo maksimalan skup susjednih kvadrata na kojima je posijana p&scaron;enica. U lijevoj tablici prepoznajemo tako četiri polja. U desnoj tablici polja su označena redom kojim će ih Zoran žnjeti.</p>
 
-<p><img alt="" src="https://onlinejudgeimages.s3.amazonaws.com/problem/14145/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202017-01-03%20%EC%98%A4%ED%9B%84%203.00.16.png" style="height:90px; width:302px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/14145.%E2%80%85%C5%BDetva/df42810a.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/14145/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202017-01-03%20%EC%98%A4%ED%9B%84%203.00.16.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:90px; width:302px" /></p>
 
 <p>Napi&scaron;ite program koji će za svaki kvadrat na kojem je posijana p&scaron;enica odrediti na koji će dan Zoran proći svojim kombajnom i požnjeti p&scaron;enicu.&nbsp;</p>
 

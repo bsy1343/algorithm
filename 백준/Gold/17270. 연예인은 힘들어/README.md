@@ -27,7 +27,7 @@
 	<li>위의 세 조건을 모두 만족하는 약속 장소가 여러 곳이 있다면, 그 중에 지헌이로부터 가장 가까운 곳이 최종 약속 장소가 된다. 그런 장소도 여러 곳이 있다면, 그 중에 번호가 가장 작은 장소가 최종 약속 장소가 된다.</li>
 </ol>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/fe6c7237-d6f3-417c-9eeb-a368228bc999/-/preview/" style="height: 362px; width: 600px;" /><br />
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/17270.%E2%80%85%EC%97%B0%EC%98%88%EC%9D%B8%EC%9D%80%E2%80%85%ED%9E%98%EB%93%A4%EC%96%B4/3548f208.png" data-original-src="https://upload.acmicpc.net/fe6c7237-d6f3-417c-9eeb-a368228bc999/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 362px; width: 600px;" /><br />
 &nbsp;</p>
 
 <p>위와 같은 상황이 있다고 했을 때 새로 바꿀 약속 장소를 찾아보자.</p>

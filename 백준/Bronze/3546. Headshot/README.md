@@ -18,7 +18,7 @@
 
 <p>You have a revolver gun with a cylinder that has n chambers. Chambers are located in a circle on a cylinder. Each chamber can be empty or can contain a round. One chamber is aligned with the gun&rsquo;s barrel. When trigger of the gun is pulled, the gun&rsquo;s cylinder rotates, aligning the next chamber with the barrel, hammer strikes the round, making a shot by firing a bullet through the barrel. If the chamber is empty when the hammer strikes it, then there is no shot but just a &ldquo;click&rdquo;.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/3546.%E2%80%85Headshot/5a4cb403.png" data-original-src="https://www.acmicpc.net/upload/images3/headshot.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:183px; width:488px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/3546.%E2%80%85Headshot/5a4cb403.png" data-original-src="%EB%B0%B1%EC%A4%80/Bronze/3546.%E2%80%85Headshot/5a4cb403.png" data-original-src="https://www.acmicpc.net/upload/images3/headshot.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:183px; width:488px" /></p>
 
 <p>You have found a use for this gun. You are playing Russian Roulette with your friend. Your friend loads rounds into some chambers, randomly rotates the cylinder, aligning a random chamber with a gun&rsquo;s barrel, puts the gun to his head and pulls the trigger. You hear &ldquo;click&rdquo; and nothing else &mdash; the chamber was empty and the gun did not shoot.</p>
 

@@ -22,7 +22,7 @@
 
 <p>Each ticket reader must be programmed with a list of valid starting stations, but the more memory this list needs, the more expensive the machine will be. Help Hobson by determining, for each station A, the number of stations (including A) from which a customer can reach A in at most k legs.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/e7cf3b6d-d168-4e14-86f8-302447a4e3c6/-/preview/" style="width: 460px; height: 222px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/17157.%E2%80%85Hobson%E2%80%99s%E2%80%85Trains/72a0a7b9.png" data-original-src="https://upload.acmicpc.net/e7cf3b6d-d168-4e14-86f8-302447a4e3c6/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 460px; height: 222px;" /></p>
 
 <p style="text-align: center;">Figure H.1: Illustration of Sample Input 1. Each circle represents a station. The numbers outside the circles are the station numbers loaded into the ticket readers when k = 2.</p>
 

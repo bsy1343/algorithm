@@ -32,6 +32,6 @@
 
 ### 힌트
 
-<p><img alt="" src="https://onlinejudgeimages.s3.amazonaws.com/problem/8214/1.gif" style="height:108px; width:100px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/8214.%E2%80%85Party/66f89fe0.gif" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/8214/1.gif" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:108px; width:100px" /></p>
 
 <p>Byteasar&#39;s friends numbered 1, 3, 4, 5 know one another. However, any pair of Byteasar&#39;s friends who know each other, like 2 and 4 for instance, constitutes a correct solution, i.e., such a pair needs not be part of aforementioned quadruple.</p>

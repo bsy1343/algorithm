@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/0917cd7b-b78a-4582-932a-cc0ecaaeb81d/-/preview/" style="width: 311px; height: 206px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/15920.%E2%80%85%EC%84%A0%EB%A1%9C%EC%97%90%E2%80%85%EB%A7%88%EB%84%A4%ED%82%B9%EC%9D%B4%EC%95%BC!!/2553ea8f.png" data-original-src="https://upload.acmicpc.net/0917cd7b-b78a-4582-932a-cc0ecaaeb81d/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 311px; height: 206px;" /></p>
 
 <p>광차 문제는 철학에서 다뤄지는 유명한 딜레마이다.</p>
 
@@ -24,7 +24,7 @@
 
 <p>하지만 사람을 해치는 것은 <strong>세계로 미래로 꿈을 펼치는</strong> 선린인의 정신에 맞지 않기 때문에 이 문제에서는 마네킹이 선로에 묶여 있다고 가정하자.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/e1856400-5b8e-4196-bc2d-e9d187e3313c/-/preview/" style="width: 297px; height: 187px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/15920.%E2%80%85%EC%84%A0%EB%A1%9C%EC%97%90%E2%80%85%EB%A7%88%EB%84%A4%ED%82%B9%EC%9D%B4%EC%95%BC!!/b26fec03.png" data-original-src="https://upload.acmicpc.net/e1856400-5b8e-4196-bc2d-e9d187e3313c/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 297px; height: 187px;" /></p>
 
 <p>위의 그림을 A, B, C 세 구역으로 나누어 보았다. 매 순간 당신은 둘 중 하나의 행동을 한다.</p>
 

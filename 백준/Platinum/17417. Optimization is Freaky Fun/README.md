@@ -18,7 +18,7 @@
 
 <p>다음은 교준이가 작성한 소스 코드다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/77bd0aa1-52ef-4eff-a905-08ea8ddd6a03/-/preview/" style="height: 371px; width: 600px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/17417.%E2%80%85Optimization%E2%80%85is%E2%80%85Freaky%E2%80%85Fun/2789fe4d.png" data-original-src="https://upload.acmicpc.net/77bd0aa1-52ef-4eff-a905-08ea8ddd6a03/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 371px; width: 600px;" /></p>
 
 <p style="text-align: center;"><strong>&lt;그림 1&gt;</strong>&nbsp;교준이가 작성한 소스 코드</p>
 

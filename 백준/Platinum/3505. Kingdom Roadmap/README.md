@@ -24,7 +24,7 @@
 
 <p>For example, the picture below shows 5 Kingdom&rsquo;s cities numbered from 1 to 5 and roads between them in solid lines. One of the ways to build new roads is shown in dashed lines.</p>
 
-<p style="text-align: center;"><img alt="" src="/upload/images2/roadmap.png" style="height:134px; width:208px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/3505.%E2%80%85Kingdom%E2%80%85Roadmap/eeb661ff.png" data-original-src="https://www.acmicpc.net/upload/images2/roadmap.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:134px; width:208px" /></p>
 
 <p>Your task is to build as few new roads as possible so that there is always a path between any two cities even if one of the roads gets unusable for any reason. There may be multiple optimal solutions. Any one can be used.</p>
 

@@ -24,19 +24,19 @@
 
 <p>다음은 예제 1에 대한 설명이다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/cb595dd9-8d16-4350-947c-3c75e3c613e8/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/28063.%E2%80%85%EB%8F%99%EC%A0%84%E2%80%85%EB%B3%B5%EC%82%AC/4097ea0c.png" data-original-src="https://upload.acmicpc.net/cb595dd9-8d16-4350-947c-3c75e3c613e8/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>처음 \((2, 1)\)에 동전이 놓여있다. 여기에서 기계를 오른쪽으로 작동하면 다음 그림처럼 된다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/47858668-46f5-4475-b9b4-2ceda628d142/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/28063.%E2%80%85%EB%8F%99%EC%A0%84%E2%80%85%EB%B3%B5%EC%82%AC/b8581a76.png" data-original-src="https://upload.acmicpc.net/47858668-46f5-4475-b9b4-2ceda628d142/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>여기에서 기계를 위쪽으로 작동하면 다음 그림처럼 된다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/49be9878-19f2-4a28-906c-bedc6ef11576/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/28063.%E2%80%85%EB%8F%99%EC%A0%84%E2%80%85%EB%B3%B5%EC%82%AC/3682f4da.png" data-original-src="https://upload.acmicpc.net/49be9878-19f2-4a28-906c-bedc6ef11576/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>기계를 왼쪽으로 작동하면 다음 그림처럼 된다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/a8439e80-785c-4260-a653-a0436e84c050/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/28063.%E2%80%85%EB%8F%99%EC%A0%84%E2%80%85%EB%B3%B5%EC%82%AC/7076d528.png" data-original-src="https://upload.acmicpc.net/a8439e80-785c-4260-a653-a0436e84c050/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>\(3\) 회의 기계 작동으로 모든 칸을 채웠다. 이 예제에서 \(2\) 회 이하로 모든 칸을 채울 수는 없고, 답은 \(3\)이 된다.</p>
 

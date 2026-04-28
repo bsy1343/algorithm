@@ -36,4 +36,4 @@
 
 <p>Иллюстрация ко второму примеру:</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/1a8c5093-1bcf-49e6-bf47-50b4ee1c9b93/-/preview/" style="width: 582px; height: 120px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/29624.%E2%80%85%D0%A1%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B%E2%80%85%D0%B2%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%BD%D1%8B%D1%85%E2%80%85%D0%BA%D0%BE%D0%BB%D0%BB%D0%B0%D0%B9%D0%B4%D0%B5%D1%80%D0%BE%D0%B2/20ada547.png" data-original-src="https://upload.acmicpc.net/1a8c5093-1bcf-49e6-bf47-50b4ee1c9b93/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 582px; height: 120px;" /></p>

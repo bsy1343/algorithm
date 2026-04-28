@@ -24,7 +24,7 @@
 
 <p>店長の証言から電気プラグの対応関係を特定するプログラムを作成せよ．</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/ec24c029-eba8-484d-948a-262a74434a2d/-/preview/" style="width: 308px; height: 267px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/24126.%E2%80%85%E3%83%97%E3%83%A9%E3%82%B0%E2%80%85(Plugs)/8ed1c3ef.png" data-original-src="https://upload.acmicpc.net/ec24c029-eba8-484d-948a-262a74434a2d/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 308px; height: 267px;" /></p>
 
 <p style="text-align: center;">図 1</p>
 

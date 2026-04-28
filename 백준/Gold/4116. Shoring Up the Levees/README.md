@@ -18,11 +18,11 @@
 
 <p>The tiny country of Waterlogged is protected by a series of levees that form a quadrilateral as shown below:&nbsp;</p>
 
-<p><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/4116/1.png" style="height:245px; width:367px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/4116.%E2%80%85Shoring%E2%80%85Up%E2%80%85the%E2%80%85Levees/612fec5e.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/4116/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:245px; width:367px" /></p>
 
 <p>The quadrilateral is defined by four vertices. The levees partition the country into four quadrants. Each quadrant is identified by a pair of vertices representing the outside edge of that quadrant. For example, Quadrant 1 shown below is defined by the points (x1,y1) and (x2,y2).&nbsp;</p>
 
-<p><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/4116/2.png" style="height:247px; width:376px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/4116.%E2%80%85Shoring%E2%80%85Up%E2%80%85the%E2%80%85Levees/f10b4577.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/4116/2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:247px; width:376px" /></p>
 
 <p>It happens very often that the country of Waterlogged becomes flooded, and the levees need to be reinforced, but their country is poor and they have limited resources. They would like to be able to reinforce those levees that encompass the largest area first, then the next largest second, then the next largest third, and the smallest area fourth.&nbsp;</p>
 

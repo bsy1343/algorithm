@@ -20,7 +20,7 @@
 
 <p>Supposed you have relationship information of N users in a certain social networking services. In how many ways can you choose three users such that those three are strangers to each other? In other words, these three persons do not have any connection to each other. For example, consider relationship information of 7 users as shown in the following figure.</p>
 
-<p><img alt="" src="/upload/images2/stran.png" style="height:177px; width:342px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/10364.%E2%80%85Group%E2%80%85of%E2%80%85Strangers/237f9c6e.png" data-original-src="https://www.acmicpc.net/upload/images2/stran.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:177px; width:342px" /></p>
 
 <p>In this example, there are 7 ways to choose three users which are stranger to each other, namely: A-E-F, A-E-G, B-C-E, B-C-G, B-E-G, C-E-F, and C-E-G. If you observe it carefully, user D cannot exists in any of those group-of-three as he has connections to all other users except G, thus any group-of-three will contain at least one user whom D connects to. An invalid example would be A-B-E. Even though A and B does not have any connection to E, but A and B are connected to each other.</p>
 

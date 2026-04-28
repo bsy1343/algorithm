@@ -20,7 +20,7 @@
 
 <p>The distance between two consecutive poles turns out not to be an integer multiple of the length of his steps because sometimes he takes two steps between the poles, and sometimes he takes three steps.</p>
 
-<p style="text-align: center;"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11211/1.png" style="height:152px; width:615px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/11211.%E2%80%85Count%E2%80%85von%E2%80%85Walken%E2%80%99s%E2%80%85Fence/619e8405.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11211/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:152px; width:615px" /></p>
 
 <p style="text-align: center;">Figure I.1: A picture of sample case 2</p>
 

@@ -18,7 +18,7 @@
 
 <p>Din v&auml;n h&aring;ller p&aring; att designa en ljusshow f&ouml;r avslutningsceremonin i &aring;rets Programmeringsolympiadsfinal. Salen d&auml;r ceremonin h&aring;lls kan ses som ett rutn&auml;t med $R$ rader och $C$ kolumner. Utmed de fyra sidorna &auml;r olika lampor monterade, vilka kan lysa med en av tre olika f&auml;rger: r&ouml;tt, bl&aring;tt eller gr&ouml;nt. Under ceremonin &auml;r tanken att lamporna skiftar i olika m&ouml;nster.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/a43c546a-dee6-41e0-9ad5-18ef5766aad3/-/preview/" style="width: 400px; height: 347px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/24190.%E2%80%85Ljusshow/5e4ab670.png" data-original-src="https://upload.acmicpc.net/a43c546a-dee6-41e0-9ad5-18ef5766aad3/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 400px; height: 347px;" /></p>
 
 <p>En lampa lyser upp samtliga rutor l&auml;ngs med samma kolumn eller rad som den &auml;r monterad. Om en viss ruta lyses upp av minst en lampa av varje f&auml;rg kommer ljuset i rutan att uppfattas som ett otrevligt bl&auml;ndande vitt. Din v&auml;n har redan designat ett utkast till ljusshowen, och undrar nu om vissa av de valda ljuskonfigurationerna orsakar att f&ouml;r m&aring;nga rutor blir vita. F&ouml;r att kunna avg&ouml;ra om en konfiguration &auml;r okej eller inte har du f&aring;tt i uppgift att skriva ett program som l&auml;ser in vilken f&auml;rg samtliga lampor ska lysa med, och ber&auml;knar antalet rutor som kommer lysa vitt.</p>
 

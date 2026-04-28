@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/0cb8f639-3f8c-49ed-862e-0c8e570839f1/-/preview/" style="width: 200px; height: 137px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/31042.%E2%80%85Turning%E2%80%85Trominos/a4d435b5.png" data-original-src="https://upload.acmicpc.net/0cb8f639-3f8c-49ed-862e-0c8e570839f1/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 200px; height: 137px;" /></p>
 
 <p style="text-align: center;">$L$ trominos,replicated.</p>
 
@@ -24,11 +24,11 @@
 
 <p>For this problem, you will be given a square in the first quadrant, and your task is to find the orientation of the $L$-tromino covering that square. The unit squares of the first quadrant are numbered $0, 1, 2, \ldots $ in the $x$- and $y$-directions, as shown. The dots, in order from left to right, correspond to the first four sample inputs.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/0d13b0aa-27b4-4805-b2bd-29946579b47f/-/preview/" style="width: 250px; height: 256px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/31042.%E2%80%85Turning%E2%80%85Trominos/4ebd199a.png" data-original-src="https://upload.acmicpc.net/0d13b0aa-27b4-4805-b2bd-29946579b47f/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 250px; height: 256px;" /></p>
 
 <p style="text-align: center;"><b>Figure 1</b>: $L$-trominos tiling the first quadrant.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/6fe93cd9-0c4e-4013-a567-1207acbde979/-/preview/" style="width: 150px; height: 41px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/31042.%E2%80%85Turning%E2%80%85Trominos/e084c142.png" data-original-src="https://upload.acmicpc.net/6fe93cd9-0c4e-4013-a567-1207acbde979/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 150px; height: 41px;" /></p>
 
 <p style="text-align: center;"><b>Figure 2</b>: $L$-tromino orientations.</p>
 

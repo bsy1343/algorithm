@@ -20,7 +20,7 @@
 
 <p>ところで， 一般的なキーボードのキー配置(図A-1)をQWERTY配列と呼ぶのに対し， それとは別のDvorak配列と呼ばれるキー配置も考案されている． Dvorak配列ではよく使われるキーがホームポジションにあるので， より速くタイプできると T氏(仮) は強硬に主張している．</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/44a5c0d2-80f7-4184-bfc0-b83d52de103a/-/preview/" style="width: 510px; height: 170px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/22524.%E2%80%85koukyoukoukokukikou/a3782e2a.png" data-original-src="https://upload.acmicpc.net/44a5c0d2-80f7-4184-bfc0-b83d52de103a/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 510px; height: 170px;" /></p>
 
 <p style="text-align: center;">図A-1 QWERTY配列</p>
 
@@ -30,7 +30,7 @@
 
 <p>なお， QWERTY 配列でそれぞれのキーが左右どちらの手でタイプされるものなのかわからなくなったときは， 下の図A-2を参照すればよいだろう．</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/c30dc296-2203-412f-8e69-8b463f37e339/-/preview/" style="width: 510px; height: 170px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/22524.%E2%80%85koukyoukoukokukikou/0aa98415.png" data-original-src="https://upload.acmicpc.net/c30dc296-2203-412f-8e69-8b463f37e339/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 510px; height: 170px;" /></p>
 
 <p style="text-align: center;">図A-2 それぞれの手でタイプされる範囲</p>
 

@@ -20,9 +20,9 @@
 
 <p>동현이가 점을 매우 적절하게 찍었기 때문에, 한 점에서 $3$개 이상의 선분이 만나지 않는다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/79688a4c-33f4-46c9-87e1-5a3debdd1a1c/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/31853.%E2%80%85%EC%82%BC%EA%B0%81%ED%98%95%E2%80%85%EC%B0%BE%EA%B8%B0/293c4fd1.png" data-original-src="https://upload.acmicpc.net/79688a4c-33f4-46c9-87e1-5a3debdd1a1c/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/e79e4a9c-c2d7-4bc3-99df-ca6e536177c7/-/preview/" /> </p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/31853.%E2%80%85%EC%82%BC%EA%B0%81%ED%98%95%E2%80%85%EC%B0%BE%EA%B8%B0/08e0202b.png" data-original-src="https://upload.acmicpc.net/e79e4a9c-c2d7-4bc3-99df-ca6e536177c7/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /> </p>
 
 ### 입력
 

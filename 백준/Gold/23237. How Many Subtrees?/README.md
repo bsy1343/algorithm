@@ -20,7 +20,7 @@
 
 <p>There are a lot of trees in computer science, but there are even more than might appear at first glance. This is because every tree is itself made up of one or more subtrees. A subtree S of a tree T is itself a tree, made only from the vertices and edges of T. A subtree must have at least one vertex, and a tree is considered a subtree of itself. Here is an example of a tree with four vertices (the large tree on the left) and its 11 subtrees (the smaller trees in the box on the right):</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/9e9c74ea-a3ba-4c50-95fc-124c30098e67/-/preview/" style="width: 285px; height: 138px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/23237.%E2%80%85How%E2%80%85Many%E2%80%85Subtrees%3F/e4eafc83.png" data-original-src="https://upload.acmicpc.net/9e9c74ea-a3ba-4c50-95fc-124c30098e67/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 285px; height: 138px;" /></p>
 
 <p>Write a program that, for each given tree, determines the number of subtrees that it has.</p>
 

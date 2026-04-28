@@ -21,10 +21,10 @@
 <table class="table table-bordered td-center">
 	<tbody>
 		<tr>
-			<td><img alt="" src="https://upload.acmicpc.net/5fc20b4e-4942-4bec-8e31-6cf1972a38c4/-/preview/" style="width: 115px; height: 119px;" /></td>
-			<td><img alt="" src="https://upload.acmicpc.net/8e32932b-119b-4e4d-ac0e-135e25a0aba1/-/preview/" style="width: 118px; height: 119px;" /></td>
-			<td><img alt="" src="https://upload.acmicpc.net/a1518ff8-820b-475e-86ff-48bddf1eaa83/-/preview/" style="width: 126px; height: 119px;" /></td>
-			<td><img alt="" src="https://upload.acmicpc.net/c3645870-fcc0-4721-a5eb-7408555552c6/-/preview/" style="width: 118px; height: 119px;" /></td>
+			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/21507.%E2%80%85POBEDA-2014/1d7f7b09.png" data-original-src="https://upload.acmicpc.net/5fc20b4e-4942-4bec-8e31-6cf1972a38c4/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 115px; height: 119px;" /></td>
+			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/21507.%E2%80%85POBEDA-2014/50744716.png" data-original-src="https://upload.acmicpc.net/8e32932b-119b-4e4d-ac0e-135e25a0aba1/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 118px; height: 119px;" /></td>
+			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/21507.%E2%80%85POBEDA-2014/3e8c7c9f.png" data-original-src="https://upload.acmicpc.net/a1518ff8-820b-475e-86ff-48bddf1eaa83/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 126px; height: 119px;" /></td>
+			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/21507.%E2%80%85POBEDA-2014/ec3a03a7.png" data-original-src="https://upload.acmicpc.net/c3645870-fcc0-4721-a5eb-7408555552c6/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 118px; height: 119px;" /></td>
 		</tr>
 		<tr>
 			<td>&nbsp;1 тип</td>
@@ -53,4 +53,4 @@
 
 <p>Далее приведен рисунок для первого примера.&nbsp;</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/c192fa24-08e6-48dd-a970-63ae73836f03/-/preview/" style="width: 222px; height: 214px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/21507.%E2%80%85POBEDA-2014/c129419b.png" data-original-src="https://upload.acmicpc.net/c192fa24-08e6-48dd-a970-63ae73836f03/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 222px; height: 214px;" /></p>

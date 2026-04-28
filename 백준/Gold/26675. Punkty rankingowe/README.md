@@ -45,4 +45,4 @@
 
 <p>Poniżej przedstawiony jest ciąg zmian z zaznaczonymi największymi wzrostami rankingu w jednych, dw&oacute;ch, trzech i czterech kolejnych zawodach:</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/d80cf81e-b200-430a-b527-ace9dbfee3d7/-/preview/" style="width: 233px; height: 61px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/26675.%E2%80%85Punkty%E2%80%85rankingowe/371501df.png" data-original-src="https://upload.acmicpc.net/d80cf81e-b200-430a-b527-ace9dbfee3d7/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 233px; height: 61px;" /></p>

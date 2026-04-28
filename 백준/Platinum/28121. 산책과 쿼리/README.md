@@ -34,7 +34,7 @@
 	<li><code>a b</code>: 산책로 $(a,b)$를 산책로 리스트에 추가한다. 이후 산책의 자유도가 높은 자취방의 개수를 출력한다.</li>
 </ul>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/b039f58c-9071-4db9-84cb-804cbaaa7f58/-/preview/" style="width: 407px; height: 200px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/28121.%E2%80%85%EC%82%B0%EC%B1%85%EA%B3%BC%E2%80%85%EC%BF%BC%EB%A6%AC/f151b36d.png" data-original-src="https://upload.acmicpc.net/b039f58c-9071-4db9-84cb-804cbaaa7f58/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 407px; height: 200px;" /></p>
 
 <p>예를 들어 자취방이 $6$개이고 산책로 리스트가 $\{(1,2) ,(2,3) ,(1,3) ,(4,5)\}$라면 위 그림처럼 표현할 수 있다.</p>
 

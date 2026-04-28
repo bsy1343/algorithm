@@ -20,7 +20,7 @@
 
 <p>예를 들어, 아래 그림의 왼쪽 상태에서 위에서 6번째 공의 색을 노랑에서 파랑으로 변경하면 파랑공 5개가 연속되므로 팡!하고 터진다. 이후 빨강공 4개가 연쇄적으로 팡!하고 터지므로 3개의 공이 소멸하지 않고 남게된다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/5577/1.png" style="width: 643px; height: 491px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/5577.%E2%80%85RBY%ED%8C%A1!/fb89184a.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/5577/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 643px; height: 491px;" /></p>
 
 <p>초기 상태에서 N개의 공의 색이 주어졌을 때, 1개 공의 색만 변경하여 연쇄적인 팡! 후에 남아있는 공의 최솟값 M을 구해보자.</p>
 

@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/22af9de7-a246-4a30-bd12-fc64d985cb1d/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/30414.%E2%80%85%ED%88%AC%EC%8A%A4%ED%83%80%E2%80%85%EC%B6%98%EB%B0%B0/f9240ace.png" data-original-src="https://upload.acmicpc.net/22af9de7-a246-4a30-bd12-fc64d985cb1d/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>춘배 나라에는 $1$부터 $N$까지의 번호가 붙은 $N$개의 산, 그리고 두 산 사이를 이동할 수 있는 $N-1$개의 길이 있다. 게다가 임의의 두 산 사이를 항상 길을 통해 이동할 수 있다고 한다. 즉, 산을 정점, 길을 간선으로 생각하면 춘배 나라는 트리 형태이다.</p>
 

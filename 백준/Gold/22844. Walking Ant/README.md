@@ -20,7 +20,7 @@
 
 <p>Here, an ant is walking in a rectangular area tiled with square flagstones, seeking the only hole leading to her nest.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/9bed007f-b595-4477-b1e6-90a9f011c2ad/-/preview/" style="width: 481px; height: 333px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/22844.%E2%80%85Walking%E2%80%85Ant/c6886334.png" data-original-src="https://upload.acmicpc.net/9bed007f-b595-4477-b1e6-90a9f011c2ad/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 481px; height: 333px;" /></p>
 
 <p>The ant takes exactly one second to move from one flagstone to another. That is, if the ant is on the flagstone with coordinates (x,y) at time t, she will be on one of the five flagstones with the following coordinates at time t + 1:</p>
 

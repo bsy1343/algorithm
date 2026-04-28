@@ -22,7 +22,7 @@
 
 <p>두 볼록다각형이 겹쳐 있지 않으면, 반드시 두 도형을 분리하는 직선이 존재한다. 또한, 그 직선의 방향으로 투영하면 그림자가 겹치지 않을 것이다. 두 도형이 겹쳐 있다면 어떤 방향으로 투영하더라도 반드시 그림자가 겹친다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/b844e755-b32b-4bcf-ae14-63a21ea7229f/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/16135.%E2%80%85OBB(Oriented%E2%80%85bounding%E2%80%85box)/52f6d013.png" data-original-src="https://upload.acmicpc.net/b844e755-b32b-4bcf-ae14-63a21ea7229f/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>투영은 단위벡터와의 내적을 활용해 보자.</p>
 
@@ -44,4 +44,4 @@
 
 <p>두 직사각형이 겹치면 1, 겹치지 않으면 0을 출력한다. 자세한 내용은 문제를 참고한다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/a9a7543a-f9b6-42f9-a31e-349e2d6109d3/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/16135.%E2%80%85OBB(Oriented%E2%80%85bounding%E2%80%85box)/1c360152.png" data-original-src="https://upload.acmicpc.net/a9a7543a-f9b6-42f9-a31e-349e2d6109d3/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>

@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p><img alt="" src="https://onlinejudgeimages.s3.amazonaws.com/problem/14183/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-12-29%20%EC%98%A4%ED%9B%84%201.10.35.png" style="height:156px; width:164px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/14183.%E2%80%85Key%E2%80%85Maker/0fc60d9a.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/14183/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-12-29%20%EC%98%A4%ED%9B%84%201.10.35.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:156px; width:164px" /></p>
 
 <p>Hassan is a happy key maker. Every customer arrives with a safe-box key, and asks him to create some copies of the key. Each key has several cuts of different depths. The picture below shows a safe-box key with 3 cuts. To make a copy, Hassan needs to make the same number of cuts with exactly the same sequence of depths in a new blank key.</p>
 

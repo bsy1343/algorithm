@@ -18,7 +18,7 @@
 
 <p>Mobile phones prevail in everyday life. Every mobile phone has a number pad for users to dial the telephone number. Figure 1 shows a typical layout of number pads, which can be represented as 4 by 3 rectangular cells. We know that some mobile phone numbers are easy to memorize, since entering in sequence of digits implies an easy-to-remember geometric figure.&nbsp;</p>
 
-<p style="text-align: center;"><img alt="" src="https://onlinejudgeimages.s3.amazonaws.com/problem/8943/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-11-17%20%EC%98%A4%ED%9B%84%204.10.15.png" style="height:159px; width:134px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/8943.%E2%80%85PHONE/c5804546.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/8943/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-11-17%20%EC%98%A4%ED%9B%84%204.10.15.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:159px; width:134px" /></p>
 
 <p style="text-align: center;">Figure 1</p>
 
@@ -26,11 +26,11 @@
 
 <p>Let us show a few examples. The Phone Plot for the number 1023289873 is shown as the thick lines in Figure 2(a). Figure 2(b) shows that the Phone Plot for a number 1159533969.&nbsp;</p>
 
-<p style="text-align: center;"><img alt="" src="https://onlinejudgeimages.s3.amazonaws.com/problem/8943/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-11-17%20%EC%98%A4%ED%9B%84%204.11.44.png" style="height:156px; width:134px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/8943.%E2%80%85PHONE/4fa6f3cb.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/8943/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-11-17%20%EC%98%A4%ED%9B%84%204.11.44.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:156px; width:134px" /></p>
 
 <p style="text-align: center;">Figure 2(a)</p>
 
-<p style="text-align: center;"><img alt="" src="https://onlinejudgeimages.s3.amazonaws.com/problem/8943/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-11-17%20%EC%98%A4%ED%9B%84%204.11.50.png" style="height:157px; width:134px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/8943.%E2%80%85PHONE/07197343.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/8943/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-11-17%20%EC%98%A4%ED%9B%84%204.11.50.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:157px; width:134px" /></p>
 
 <p style="text-align: center;">Figure 2(b)</p>
 
@@ -42,7 +42,7 @@
 
 <p>According to this classification, we say 1023289873 is BAD and 1159533969 is EXCELLENT. Figure 3 shows another example with 5233999008. Since the MNDS of 5233999008 is 5, so this number is BAD.&nbsp;</p>
 
-<p style="text-align: center;"><img alt="" src="https://onlinejudgeimages.s3.amazonaws.com/problem/8943/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-11-17%20%EC%98%A4%ED%9B%84%204.11.57.png" style="height:159px; width:134px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/8943.%E2%80%85PHONE/ea3d274c.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/8943/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-11-17%20%EC%98%A4%ED%9B%84%204.11.57.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:159px; width:134px" /></p>
 
 <p style="text-align: center;">Figure 3</p>
 

@@ -18,7 +18,7 @@
 
 <p>Taxi는 프로그래밍 언어로, 가상의 도시에서 택시가 이동하면서 승객을 태우는 과정으로 코드가 표현된다는 점이 특징이다. 이 도시의 지도는 다음과 같다.</p>
 
-<p style="margin-top: 15px;"><img alt="taxi" src="https://upload.acmicpc.net/1d90baf8-833c-4dba-bf75-fe2fa605d4cb/-/preview/" style="display: block; margin-left: auto; margin-right: auto; width: 100%; max-width: 500px;" /></p>
+<p style="margin-top: 15px;"><img alt="taxi" src="%EB%B0%B1%EC%A4%80/Platinum/17377.%E2%80%85Taxi/a69f0936.png" data-original-src="https://upload.acmicpc.net/1d90baf8-833c-4dba-bf75-fe2fa605d4cb/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="display: block; margin-left: auto; margin-right: auto; width: 100%; max-width: 500px;" /></p>
 
 <p style="margin-bottom: 15px; text-align: center;">(image from <a href="https://bigzaphod.github.io/Taxi/">https://bigzaphod.github.io/Taxi/</a>)</p>
 

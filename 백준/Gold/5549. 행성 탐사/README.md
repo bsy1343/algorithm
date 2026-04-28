@@ -40,4 +40,4 @@
 
 <p>두 번째 조사 대상 영역에는 정글(J)이 3개, 바다(O)가 5개, 얼음(I)이 2개 있다.</p>
 
-<p><img alt="" src="https://upload.acmicpc.net/8f3542c0-aa83-4956-afb7-91e337c81a8d/-/preview/" style="width: 218px; height: 113px;" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/5549.%E2%80%85%ED%96%89%EC%84%B1%E2%80%85%ED%83%90%EC%82%AC/e272577b.png" data-original-src="https://upload.acmicpc.net/8f3542c0-aa83-4956-afb7-91e337c81a8d/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 218px; height: 113px;" /></p>

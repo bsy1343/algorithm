@@ -22,7 +22,7 @@
 
 <p>쉬운 이해를 위해 A, B, C, D 4명의 유저가 통신하는 해시그래프의 그림을 보자.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/cd2be5d4-69d3-4c54-bae4-26785136cabc/-/preview/" style="width: 179px; height: 203px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/17223.%E2%80%85%ED%95%B4%EC%8B%9C%EA%B7%B8%EB%9E%98%ED%94%84/272d9b0f.png" data-original-src="https://upload.acmicpc.net/cd2be5d4-69d3-4c54-bae4-26785136cabc/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 179px; height: 203px;" /></p>
 
 <p>위 그림에서 네 명의 유저 A, B, C, D는 모두 첫 이벤트 A1, B1, C1, D1을 가지고 시작한다.</p>
 

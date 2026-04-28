@@ -28,7 +28,7 @@
 
 <p>로 계산한다. 아래 그림은 $A = \left\{ 1,3,2,7,6 \right\}, B = \left\{ 5,4,7 \right\}$일 때&nbsp;conv1d를 수행한 결과이다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/175eef64-3601-422a-a23e-527b0cc037f9/-/preview/" style="height: 404px; width: 1000px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/22964.%E2%80%85conv1d/5b58b4c1.png" data-original-src="https://upload.acmicpc.net/175eef64-3601-422a-a23e-527b0cc037f9/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 404px; width: 1000px;" /></p>
 
 <p>여러분이 풀어야 하는 문제는 다음과 같다.</p>
 

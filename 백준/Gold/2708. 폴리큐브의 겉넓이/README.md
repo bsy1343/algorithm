@@ -18,7 +18,7 @@
 
 <p>폴리큐브는 모서리의 길이가 1인 단위 정육면체를 면과 면끼리 붙여서 만든 입체이다. 아래 그림에서 왼쪽 아래 입체는 선과 선끼리 붙였기 때문에, 폴리큐브가 아니다.</p>
 
-<p style="text-align: center;"><img alt="" src="/upload/images/Screen%20Shot%202012-10-04%20at%20%EC%98%A4%EC%A0%84%2011_04_47.png" style="height:467px; width:581px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/2708.%E2%80%85%ED%8F%B4%EB%A6%AC%ED%81%90%EB%B8%8C%EC%9D%98%E2%80%85%EA%B2%89%EB%84%93%EC%9D%B4/fe35d87e.png" data-original-src="https://www.acmicpc.net/upload/images/Screen%20Shot%202012-10-04%20at%20%EC%98%A4%EC%A0%84%2011_04_47.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:467px; width:581px" /></p>
 
 <p>폴리큐브를 이루는 정육면체의 중심은 모두 3차원 공간에 있고, 정수 좌표이다.</p>
 

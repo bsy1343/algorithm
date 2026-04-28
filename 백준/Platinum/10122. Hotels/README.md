@@ -34,6 +34,6 @@
 
 ### 힌트
 
-<p><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/10122/1.png" style="height:146px; width:224px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/10122.%E2%80%85Hotels/06711b90.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/10122/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:146px; width:224px" /></p>
 
 <p>The triplets (unordered) of towns where the hotels can be erected are: {1,3,5}, {2,4,6}, {2,4,7}, {2,6,7}, {4,6,7}.</p>

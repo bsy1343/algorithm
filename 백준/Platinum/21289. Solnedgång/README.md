@@ -22,7 +22,7 @@
 
 <p>The question is how long it will take before there exists a path to the hotel that does not involve getting burned by the sun. The hotel is house number $N$, and you are currently in the shadow of house number 1. Since the hotel entrence is at the north side of the house, that&#39;s where you need to go. In the worst case you might have to wait until nightfall, which will occur in $K$ units of time.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/a59da767-95cb-4fc8-801b-27689bd54b8c/-/preview/" style="width: 512px; height: 256px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/21289.%E2%80%85Solnedg%C3%A5ng/2c5baa41.png" data-original-src="https://upload.acmicpc.net/a59da767-95cb-4fc8-801b-27689bd54b8c/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 512px; height: 256px;" /></p>
 
 ### 입력
 

@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align:center"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14632/1.png" style="height:146px; width:146px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/14632.%E2%80%85%EA%B3%A0%EA%B8%89%E2%80%85%EC%9E%91%ED%92%88/410caae4.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14632/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:146px; width:146px" /></p>
 
 <p>준하는 세계적인 화가이다. 한때 수학의 길을 걷고자 했으나 꿈을 접고 미술계에 몸을 담게 되었다. 준하의 작품은 도장을 이용하여 만드는 것으로 유명하다.</p>
 

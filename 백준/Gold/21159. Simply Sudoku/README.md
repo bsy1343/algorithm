@@ -33,7 +33,7 @@
 
 <p>Consider the partially solved Sudoku puzzle shown in Figure 1. &nbsp;The Single Value Rule applies to grid square A$7$ where $8$ is the only value that can be placed there. &nbsp;The Unique Location Rule can be used to put a $5$ in square B$3$ as it is the only location in row $3$ where a $5$ can be placed.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/3ac610d9-58c3-4bf2-b937-f9cdb8e5fb09/-/preview/" style="width: 400px; height: 413px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/21159.%E2%80%85Simply%E2%80%85Sudoku/b19c5360.png" data-original-src="https://upload.acmicpc.net/3ac610d9-58c3-4bf2-b937-f9cdb8e5fb09/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 400px; height: 413px;" /></p>
 
 <p style="text-align: center;">Figure 1:&nbsp;Sample Input $1$</p>
 

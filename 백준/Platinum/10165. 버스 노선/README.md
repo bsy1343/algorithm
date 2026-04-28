@@ -22,7 +22,7 @@
 
 <p style="text-align: center;">[0, 4], [2, 6], [5, 0], [7, 9], [9, 4]</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/e7832911-1721-4bd6-a15b-026521866be7/-/preview/" style="width: 269px; height: 258px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/10165.%E2%80%85%EB%B2%84%EC%8A%A4%E2%80%85%EB%85%B8%EC%84%A0/f4bf4f06.png" data-original-src="https://upload.acmicpc.net/e7832911-1721-4bd6-a15b-026521866be7/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 269px; height: 258px;" /></p>
 
 <p>위 그림에서 버스 노선 ①은 ⑤에 포함되고, 버스 노선 ④는 ③에 포함된다. 버스 노선 ②, ③, ⑤를 포함하는 노선은 없다. 따라서 취소되는 버스 노선은 ①과 ④이다.</p>
 

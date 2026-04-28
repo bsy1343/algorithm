@@ -24,7 +24,7 @@
 
 <p>An illustration showing the configuration of the tank of the first sample input is given below:</p>
 
-<p style="text-align:center"><img alt="" src="/upload/images2/aqua.png" style="height:174px; width:313px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/10415.%E2%80%85Aquarium%E2%80%85Tank/43a1858f.png" data-original-src="https://www.acmicpc.net/upload/images2/aqua.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:174px; width:313px" /></p>
 
 ### 입력
 

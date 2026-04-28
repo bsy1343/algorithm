@@ -22,7 +22,7 @@
 
 <p>Definition 2. 아래 예시와 같이, 디지털 XOR의 연산 결과는 피연산자들과 자릿수가 같으며, 각 피연산자의 대응되는 위치의 불빛이 홀수 개 켜져 있는 경우 해당 위치의 불빛이 켜진 상태가, 짝수 개 켜져 있는 경우 꺼진 상태가 된다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/7318ba80-f6f9-48a4-bc4f-99c0a221f3c4/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/27298.%E2%80%85%EB%94%94%EC%A7%80%ED%84%B8%E2%80%85XOR/8a63bfd4.png" data-original-src="https://upload.acmicpc.net/7318ba80-f6f9-48a4-bc4f-99c0a221f3c4/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>우영이는 문득, 두 개 이상의 피연산자들을 디지털 XOR 했을 때의 연산 결과가 특정한 양의 정수 $N$이 되는 경우가 있을지 살펴보기 시작했다. 여기서 우영이는 아래와 같이 자신만의 규칙을 만들었다.</p>
 
@@ -31,7 +31,7 @@
 	<li>피연산자의 길이 이하의 임의의 양의 정수 $i$에 대해서, 모든 피연산자들의 $i$번째 자릿수는 모두 같거나, 모두 다르다.</li>
 </ol>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/edcba86d-a90c-459e-b0bd-c04803bd1101/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/27298.%E2%80%85%EB%94%94%EC%A7%80%ED%84%B8%E2%80%85XOR/be98484f.png" data-original-src="https://upload.acmicpc.net/edcba86d-a90c-459e-b0bd-c04803bd1101/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>우영이는 위 조건을 만족하는 피연산자의 조합이 여러 개가 존재할 수 있음을 발견하고, 다음과 같은 추가 규칙을 작성했다.</p>
 

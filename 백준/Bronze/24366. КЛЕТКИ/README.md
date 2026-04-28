@@ -41,4 +41,4 @@
 
 <p>Обяснение на пример 4: Едно възможно кацане на гълъбите</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/380d7035-f027-4f42-b7c9-ab3e170a8dfb/-/preview/" style="width: 506px; height: 121px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/24366.%E2%80%85%D0%9A%D0%9B%D0%95%D0%A2%D0%9A%D0%98/4342e8f3.png" data-original-src="https://upload.acmicpc.net/380d7035-f027-4f42-b7c9-ab3e170a8dfb/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 506px; height: 121px;" /></p>

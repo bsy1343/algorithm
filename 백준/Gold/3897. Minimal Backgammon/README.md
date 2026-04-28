@@ -31,7 +31,7 @@
 
 <p>Given a game board configuration (the size N, and the placement of the special instructions), you are requested to compute the probability with which the game succeeds within a given number of turns.</p>
 
-<p style="text-align:center"><img alt="" src="/upload/imagesa/figurec1.png" style="height:502px; opacity:0.9; width:321px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/3897.%E2%80%85Minimal%E2%80%85Backgammon/82b29f0a.png" data-original-src="https://www.acmicpc.net/upload/imagesa/figurec1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:502px; opacity:0.9; width:321px" /></p>
 
 <p style="text-align:center">Figure 1: An example game</p>
 

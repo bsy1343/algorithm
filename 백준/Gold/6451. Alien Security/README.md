@@ -50,4 +50,4 @@ Put guards in room N.</pre>
 
 <p>The diagram on the right illustrates the Sample Input sequence below.</p>
 
-<p style="text-align:center"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/6451/1.png" style="height:353px; width:351px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/6451.%E2%80%85Alien%E2%80%85Security/22b9a2b3.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/6451/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:353px; width:351px" /></p>

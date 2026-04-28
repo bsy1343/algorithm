@@ -24,7 +24,7 @@
 
 <p>근성은 매일 아침 개발 문서를 읽으며 하루를 시작한다. 한국어 문서를 다 읽은 근성은 해외 문서를 읽기 시작했지만, 세상의 다양한 언어로 작성된 개발 문서를 보고 눈앞이 아득해지기 시작했다. 이를 본 영도는 근성을 도와주고자 $N$개 언어 간 번역을 일부 제공하는 &#39;정영도 봇&#39;(이하 봇)을 만들었다.</p>
 
-<p style="display:flex;flex-direction:row;justify-content:center;"><img alt="" src="https://upload.acmicpc.net/02e0d613-5deb-4e41-aa83-56d78224e40e/-/preview/" style="max-height:200px;max-width:200%" /></p>
+<p style="display:flex;flex-direction:row;justify-content:center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/31566.%E2%80%85%ED%9E%98%EC%84%B8%EA%B3%A0%E2%80%85%EA%B0%95%ED%95%9C%E2%80%85%EC%95%84%EC%B9%A8/0fdb6bd9.png" data-original-src="https://upload.acmicpc.net/02e0d613-5deb-4e41-aa83-56d78224e40e/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="max-height:200px;max-width:200%" /></p>
 
 <p>봇은 프로토타입이기에 특이한 번역 로직을 지니고 있다.</p>
 

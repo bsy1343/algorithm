@@ -18,7 +18,7 @@
 
 <p>Om n&aring;gon fr&aring;gar hur mycket klockan &auml;r, svarar de flesta &quot;kvart &ouml;ver fem&quot;, <code>15:29</code> eller n&aring;got liknande. Vill man g&ouml;ra det lite sv&aring;rare s&aring; kan man annars svara med vinkeln mellan tim- och minutvisaren, eftersom man ur denna information entydigt kan best&auml;mma klockslaget. Dock &auml;r det m&aring;nga m&auml;nniskor som &auml;r ovana vid detta s&auml;tt att ange tider, s&aring; det vore bra att ha ett datorprogram som &ouml;vers&auml;tter till ett mer normalt format. Du ska skriva ett s&aring;dant program.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/9037f234-5e7a-4151-86f0-94ea1d20e6f2/-/preview/" style="width: 706px; height: 300px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/26947.%E2%80%85Klockan/6ab5af58.png" data-original-src="https://upload.acmicpc.net/9037f234-5e7a-4151-86f0-94ea1d20e6f2/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 706px; height: 300px;" /></p>
 
 <p style="text-align: center;">Klockan till v&auml;nster &auml;r <code>01:21</code> och den till h&ouml;ger &auml;r <code>03:08</code>.</p>
 

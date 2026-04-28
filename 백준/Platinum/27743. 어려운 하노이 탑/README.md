@@ -28,7 +28,7 @@
 
 <p>첫 번째 막대기에 원판이 크기 내림차순으로, 크기가 같다면 번호 내림차순으로 쌓여있을 때, 쌓인 순서 그대로 세 번째 막대기로 옮기기 위한 이동 횟수의 최솟값을 구하시오.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/8e93cbc8-e9fd-4cdc-94c2-1885ffe9bb86/-/preview/" style="width: 700px; height: 316px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/27743.%E2%80%85%EC%96%B4%EB%A0%A4%EC%9A%B4%E2%80%85%ED%95%98%EB%85%B8%EC%9D%B4%E2%80%85%ED%83%91/b293675c.png" data-original-src="https://upload.acmicpc.net/8e93cbc8-e9fd-4cdc-94c2-1885ffe9bb86/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 700px; height: 316px;" /></p>
 
 <p style="text-align: center;">위 그림은 $N = 3$ 일 때의 모습이다.</p>
 

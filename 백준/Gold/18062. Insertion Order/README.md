@@ -20,7 +20,7 @@
 
 <p>Recall that a binary search tree is a binary tree with each node storing a key, and the property that the key of each node is greater than all keys in the left subtree of that node and less than all keys in the right subtree. A new key is inserted into the tree by adding a new leaf node with that key in the only position such that the property is maintained, as seen in the figure below.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/11b9f022-0079-4615-a91b-2b29b4e39c7b/-/preview/" style="width: 625px; height: 232px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/18062.%E2%80%85Insertion%E2%80%85Order/935ff8b8.png" data-original-src="https://upload.acmicpc.net/11b9f022-0079-4615-a91b-2b29b4e39c7b/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 625px; height: 232px;" /></p>
 
 <p style="text-align: center;">Figure I.1: Illustration of the first sample case.</p>
 

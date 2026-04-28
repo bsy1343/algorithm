@@ -32,7 +32,7 @@
 
 <p>looking more like a staircase than a smooth line.</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/4708.%E2%80%85AAAA/537a3268.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/4708/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-06-10%20%EC%98%A4%ED%9B%84%204.14.38.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:103px; width:206px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/4708.%E2%80%85AAAA/537a3268.png" data-original-src="%EB%B0%B1%EC%A4%80/Bronze/4708.%E2%80%85AAAA/537a3268.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/4708/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-06-10%20%EC%98%A4%ED%9B%84%204.14.38.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:103px; width:206px" /></p>
 
 <p>Aliasing (a.k.a. jaggies) can be countered by anti-aliasing schemes&nbsp;in which pixels are drawn in varying shades of gray and, sometimes, diffused over neighboring pixels to yield a smoother-looking image when viewed from sufficient distance, as illustrated by the picture at the top of this page.</p>
 

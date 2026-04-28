@@ -22,7 +22,7 @@
 
 <p>Bill would like to connect each ant colony to a single apple tree so that all n routes are non-intersecting straight lines. In this problem such connection is always possible. Your task is to write a program that finds such connection.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/795db574-b8dc-4cf7-aac0-eecd3328212d/-/preview/" style="width: 172px; height: 168px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/3582.%E2%80%85Ants/00c3b370.png" data-original-src="https://upload.acmicpc.net/795db574-b8dc-4cf7-aac0-eecd3328212d/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 172px; height: 168px;" /></p>
 
 <p>On this picture ant colonies are denoted by empty circles and apple trees are denoted by filled circles. One possible connection is denoted by lines.</p>
 

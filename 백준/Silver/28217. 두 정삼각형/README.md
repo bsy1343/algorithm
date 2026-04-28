@@ -18,17 +18,17 @@
 
 <p>첫 번째 줄에는 $1$개의 수를, 두 번째 줄에는 $2$개의 수를, $\dots$, $N$번째 줄에는 $N$개의 수를 아래 그림과 같이 배치한 정삼각형 $A$, $B$가 주어진다. 각 위치에 있는 수는 $0$ 또는 $1$이다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/503aaf1e-f7b0-4663-9011-847953a734b3/-/preview/" style="width: 261px; height: 149px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/28217.%E2%80%85%EB%91%90%E2%80%85%EC%A0%95%EC%82%BC%EA%B0%81%ED%98%95/a169bf2f.png" data-original-src="https://upload.acmicpc.net/503aaf1e-f7b0-4663-9011-847953a734b3/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 261px; height: 149px;" /></p>
 
 <p>당신은 정삼각형을 시계방향 또는 반시계 방향으로 $120^◦$ 회전시키거나 좌우로 대칭시킬 수 있다.</p>
 
 <p>예를 들어, 위 그림의 정삼각형 $A$를 회전시켜서 얻을 수 있는 정삼각형들은 다음과 같다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/2f5086f7-0941-4448-bd6a-a0cd9bd5c9b2/-/preview/" style="width: 261px; height: 122px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/28217.%E2%80%85%EB%91%90%E2%80%85%EC%A0%95%EC%82%BC%EA%B0%81%ED%98%95/b97114e5.png" data-original-src="https://upload.acmicpc.net/2f5086f7-0941-4448-bd6a-a0cd9bd5c9b2/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 261px; height: 122px;" /></p>
 
 <p>$A$를 대칭시켜서 얻을 수 있는 정삼각형은 다음과 같다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/f7057e8a-b2f3-40ba-a3e5-44545be6190f/-/preview/" style="width: 261px; height: 224px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/28217.%E2%80%85%EB%91%90%E2%80%85%EC%A0%95%EC%82%BC%EA%B0%81%ED%98%95/2e6f767e.png" data-original-src="https://upload.acmicpc.net/f7057e8a-b2f3-40ba-a3e5-44545be6190f/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 261px; height: 224px;" /></p>
 
 <p>두 정삼각형의 차이는 두 정삼각형을 겹쳤을 때 값이 다른 위치의 개수이다.</p>
 

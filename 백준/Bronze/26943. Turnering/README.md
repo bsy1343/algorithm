@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/6bb1553b-b271-4e14-86f7-3013477fe85b/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/26943.%E2%80%85Turnering/c8ad6330.png" data-original-src="https://upload.acmicpc.net/6bb1553b-b271-4e14-86f7-3013477fe85b/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>Om man vill ordna t.ex. en bordshockeyturnering d&auml;r alla m&ouml;ter alla kan man anv&auml;nda sig av ett praktiskt rotationsschema som kallas round robin. Det g&aring;r till s&aring; att spelarna i den f&ouml;rsta omg&aring;ngen m&ouml;ter varandra enligt figuren ovan (vi antar att antalet spelare $n$ &auml;r j&auml;mnt). N&auml;r f&ouml;rsta omg&aring;ngen &auml;r klar f&ouml;rflyttar sig alla spelare ett steg medurs, utom spelaren i det nedre v&auml;nstra h&ouml;rnet som hoppas &ouml;ver (d&auml;rav namnet, man f&ouml;rflyttar sig &quot;runt&quot; Robin, d.v.s. den sista spelaren). Med detta rotationsschema &auml;r man garanterad att alla har m&ouml;tt alla precis en g&aring;ng efter $n-1$ omg&aring;ngar.</p>
 

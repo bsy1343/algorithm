@@ -41,6 +41,6 @@
 
 <p>In sample 1, optimum command structure is shown below at the left. The numbers in vertices correspond to reading times for the respective scouts. The maximum time of handling the message is $13$.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/5267594b-d996-4fe2-8123-44ec32b13966/-/preview/" style="width: 157px; height: 110px;" />&nbsp;<img alt="" src="https://upload.acmicpc.net/fbd6d978-63b5-43b2-9c87-6c77ae59ff79/-/preview/" style="width: 156px; height: 110px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/25003.%E2%80%85Scouts/47f10ed7.png" data-original-src="https://upload.acmicpc.net/5267594b-d996-4fe2-8123-44ec32b13966/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 157px; height: 110px;" />&nbsp;<img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/25003.%E2%80%85Scouts/cf17447f.png" data-original-src="https://upload.acmicpc.net/fbd6d978-63b5-43b2-9c87-6c77ae59ff79/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 156px; height: 110px;" /></p>
 
 <p>In sample 2, an optimum command structure is shown above at the right. The numbers in vertices correspond to reading times for the respective scouts. The maximum time of handling the message is $4$.</p>

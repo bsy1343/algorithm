@@ -20,7 +20,7 @@
 
 <p>Whenever a bucket reaches the top of the water wheel, it is filled to its maximum capacity. When the bucket reaches the bottom, diametrically opposite, it is emptied again.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/84f629cb-641a-4da7-90c4-91059a97a93c/-/preview/" style="width: 604px; height: 237px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/17568.%E2%80%85Dynamo%E2%80%85Wheel/9355147e.png" data-original-src="https://upload.acmicpc.net/84f629cb-641a-4da7-90c4-91059a97a93c/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 604px; height: 237px;" /></p>
 
 <p style="text-align: center;">Figure D.1: Illustration of Sample Input 1 at approximately 15.0 degrees clockwise from the start. The centre of mass is drawn as a vector from the origin.</p>
 

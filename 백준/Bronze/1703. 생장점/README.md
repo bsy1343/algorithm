@@ -20,11 +20,11 @@
 
 <p>아래의 예는 Brown 씨의 과수원에서 한&nbsp;branchorama&nbsp;나무가 유목에서부터 3년간 자란 결과를 보여줍니다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/1703.%E2%80%85%EC%83%9D%EC%9E%A5%EC%A0%90/1c0f49e5.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/1703/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202017-01-12%20%EC%98%A4%EC%A0%84%208.31.45.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:204px; width:550px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/1703.%E2%80%85%EC%83%9D%EC%9E%A5%EC%A0%90/1c0f49e5.png" data-original-src="%EB%B0%B1%EC%A4%80/Bronze/1703.%E2%80%85%EC%83%9D%EC%9E%A5%EC%A0%90/1c0f49e5.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/1703/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202017-01-12%20%EC%98%A4%EC%A0%84%208.31.45.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:204px; width:550px" /></p>
 
 <p>예시에서 예측할 수 있듯이, branchorama&nbsp;나무는 과밀하게 성장하는 경향이 있습니다. 따라서 Brown 씨는 매 겨울마다 과도하게 성장한 나무들의 가지를 쳐냅니다. 아래는 가지를 쳐낸 &nbsp;branchorama&nbsp;나무의 예입니다</p>
 
-<p style="text-align: center;"><img alt="스크린샷 2017-01-12 오전 8.31.53.png" src="%EB%B0%B1%EC%A4%80/Bronze/1703.%E2%80%85%EC%83%9D%EC%9E%A5%EC%A0%90/d2255caf.png" data-original-src="https://upload.acmicpc.net/7ed14a0d-f79e-41fd-b899-051095b7edc7/-/crop/320x225/628,183/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p style="text-align: center;"><img alt="스크린샷 2017-01-12 오전 8.31.53.png" src="%EB%B0%B1%EC%A4%80/Bronze/1703.%E2%80%85%EC%83%9D%EC%9E%A5%EC%A0%90/d2255caf.png" data-original-src="%EB%B0%B1%EC%A4%80/Bronze/1703.%E2%80%85%EC%83%9D%EC%9E%A5%EC%A0%90/d2255caf.png" data-original-src="https://upload.acmicpc.net/7ed14a0d-f79e-41fd-b899-051095b7edc7/-/crop/320x225/628,183/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>branchorama&nbsp;나뭇잎은 굉장히 크고 광합성에 유리하지만, 오직&nbsp;생장점이 온전히 보존된 가지의 끝에만 달립니다. 따라서 나무가 버티지 못할 정도로 가지를 쳐내는 일은 없어야 합니다.</p>
 

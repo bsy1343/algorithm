@@ -18,7 +18,7 @@
 
 <p>In Mini Sudoku X, there are 6 x 6 boxes to be filled with digits so that each row, column, main diagonal, and 2 x 3 square contains all the digits from 1 to 6. An example of a solution is as follows with the main diagonals shaded:</p>
 
-<p><img alt="" src="https://onlinejudgeimages.s3.amazonaws.com/problem/9727/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-09-29%20%EC%98%A4%ED%9B%84%209.22.14.png" style="height:149px; width:150px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/9727.%E2%80%85Mini%E2%80%85Sudoku%E2%80%85X/345fdf79.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/9727/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-09-29%20%EC%98%A4%ED%9B%84%209.22.14.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:149px; width:150px" /></p>
 
 <p>Write a program that reads a series of 36 digits representing a solution for Mini Sudoku X, and determines whether the solution is correct.</p>
 

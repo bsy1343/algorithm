@@ -38,6 +38,6 @@
 
 <p>Wyjaśnienie przykładu: W pierwszym teście przykładowym Bajtazar może pokryć ścianę dziewięcioma obrazami (sześcioma rozmiaru 1&times;1, dwoma rozmiaru 3&times;3 i jednym rozmiaru 6&times;6) na przykład w następujący spos&oacute;b:</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/2cb65c01-4f56-4423-91bf-1da5832ab4f1/-/preview/" style="height: 300px; width: 492px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/31700.%E2%80%85Obrazy/909f4ff3.png" data-original-src="https://upload.acmicpc.net/2cb65c01-4f56-4423-91bf-1da5832ab4f1/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 300px; width: 492px;" /></p>
 
 <p>W drugim teście przykładowym nie jest możliwe dokładne pokrycie ściany.</p>

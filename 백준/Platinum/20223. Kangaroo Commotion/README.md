@@ -26,7 +26,7 @@
 
 <p>The first sample is shown in figure K.1.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/25a66a91-ee18-4891-ae14-a0d2887a1888/-/preview/" style="width: 256px; height: 249px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/20223.%E2%80%85Kangaroo%E2%80%85Commotion/c31df3e4.png" data-original-src="https://upload.acmicpc.net/25a66a91-ee18-4891-ae14-a0d2887a1888/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 256px; height: 249px;" /></p>
 
 <p style="text-align: center;">Figure K.1: Visualisation of Sample 1 showing one possible way to get to the safe area using $9$ jumps.</p>
 

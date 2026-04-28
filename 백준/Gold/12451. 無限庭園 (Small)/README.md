@@ -36,7 +36,7 @@
 
 <p>このロボットを座標 (1,1) に置き、<strong>Y</strong>&nbsp;軸方向正の向きを向かせ、 &quot;X&quot; 一文字だけ書かれたテープを読ませる。ロボットの初期状態は A モードで、読取ヘッダは文字 &quot;X&quot; を指している。ここでロボットを起動すると、ロボットは庭を無限に走り続ける。このロボットの軌跡を迷路の壁とすると、複雑な迷路ができることがわかった。王様はあなたのこの業績を褒めた。</p>
 
-<p><img src="https://onlinejudgeimages.s3.amazonaws.com/problem/12451/images-39.png" style="border:0px; vertical-align:middle" /></p>
+<p><img src="%EB%B0%B1%EC%A4%80/Gold/12451.%E2%80%85%E7%84%A1%E9%99%90%E5%BA%AD%E5%9C%92%E2%80%85(Small)/a81b4ffb.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/12451/images-39.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="border:0px; vertical-align:middle" /></p>
 
 <div style="color: rgb(0, 0, 0); font-family: Arial, sans-serif;">図: ロボットの最初 8 歩の動きと状態変化。テープ中の &quot;[]&quot; で囲まれた文字は、読取ヘッダの指している字を示している。</div>
 

@@ -38,4 +38,4 @@
 
 <p>The first sample test case is shown below. The integers beside the edges are their indices (outside the parentheses) and lengths (inside the parentheses). The simple cycle with the smallest length consists of edges $2$, $4$, $5$ and $6$ with a length of $2^2 + 2^4 + 2^5 + 2^6 = 116$.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/65d3c9cb-b16c-4dfd-81b2-065aeb29e834/-/preview/" style="width: 300px; height: 81px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/31691.%E2%80%85Link-Cut%E2%80%85Tree/2dbc2330.png" data-original-src="https://upload.acmicpc.net/65d3c9cb-b16c-4dfd-81b2-065aeb29e834/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 300px; height: 81px;" /></p>

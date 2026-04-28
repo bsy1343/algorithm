@@ -26,7 +26,7 @@
 
 <p>각각의 칸을 시작점이라고 했을 때, 항상 시작점으로 돌아올 수 있게 방향판의 화살표를 바꾸려고 한다. 예를 들어, 아래 그림과 같은 경우에 (1, 1), (1, 2), (2, 0), (2, 3)에 적힌 화살표를 바꿔서 항상 시작점으로 돌아오게 방향판을 바꿀 수 있다. 바꿔야 하는 화살표 개수의 최소 개수를 구하는 프로그램을 작성하시오.</p>
 
-<p><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/12959/1.png" style="height:141px; width:376px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/12959.%E2%80%85%EB%B0%A9%ED%96%A5%ED%8C%90/59c7eb78.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/12959/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:141px; width:376px" /></p>
 
 ### 입력
 
@@ -42,4 +42,4 @@
 
 <p>예제 3</p>
 
-<p><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/12959/2.png" style="height:141px; width:314px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/12959.%E2%80%85%EB%B0%A9%ED%96%A5%ED%8C%90/a5d46578.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/12959/2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:141px; width:314px" /></p>

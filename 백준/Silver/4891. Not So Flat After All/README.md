@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p><img alt="" src="/upload/images2/flat1.png" style="float:right; height:231px; width:237px" />Any positive integer v can be written as p<sub>1</sub><sup>a<sub>1</sub></sup> &lowast; p<sub>2</sub><sup>a<sub>2</sub></sup> &lowast; . . . &lowast; p<sub>n</sub><sup>a<sub>n</sub></sup> where p<sub>i</sub> is a prime number and a<sub>i</sub> &ge; 0. For example: 24 = 2<sup>3</sup> &lowast; 3<sup>1</sup>.</p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/4891.%E2%80%85Not%E2%80%85So%E2%80%85Flat%E2%80%85After%E2%80%85All/238a1484.png" data-original-src="https://www.acmicpc.net/upload/images2/flat1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="float:right; height:231px; width:237px" />Any positive integer v can be written as p<sub>1</sub><sup>a<sub>1</sub></sup> &lowast; p<sub>2</sub><sup>a<sub>2</sub></sup> &lowast; . . . &lowast; p<sub>n</sub><sup>a<sub>n</sub></sup> where p<sub>i</sub> is a prime number and a<sub>i</sub> &ge; 0. For example: 24 = 2<sup>3</sup> &lowast; 3<sup>1</sup>.</p>
 
 <p>Pick any two prime numbers p<sub>1</sub> and p<sub>2</sub> where p<sub>1</sub> &ne; p<sub>2</sub>. Imagine a two dimensional plane where the powers of p<sub>1</sub> are plotted on the x-axis and the powers of p<sub>2</sub> on the yaxis. Now any number that can be written as p<sub>1</sub><sup>a<sub>1</sub></sup> &lowast; p<sub>2</sub><sup>a<sub>2</sub></sup> can be plotted on this plane at location (x, y) = (a<sub>1</sub>, a<sub>2</sub>). The figure on the right shows few examples where p<sub>1</sub> = 3 and p<sub>2</sub> = 2.</p>
 
@@ -30,7 +30,7 @@
 
 <p>Given two positive integers, write a program that determines the minimum ordinal of a space where both numbers can be plotted in. The program also determines the distance between these two integers in that space.</p>
 
-<p style="text-align: center;"><img alt="" src="/upload/images2/flat2.png" style="height:280px; width:400px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/4891.%E2%80%85Not%E2%80%85So%E2%80%85Flat%E2%80%85After%E2%80%85All/c4bfe2ad.png" data-original-src="https://www.acmicpc.net/upload/images2/flat2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:280px; width:400px" /></p>
 
 ### 입력
 

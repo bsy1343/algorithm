@@ -48,7 +48,7 @@
 
 <p>Consider the following map, where each dot represents a city and its number of soldiers is given above it:</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/c8b84982-ad10-439e-ae3e-98576e7d7700/-/preview/" style="width: 254px; height: 259px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/3369.%E2%80%85Countries/a315991c.png" data-original-src="https://upload.acmicpc.net/c8b84982-ad10-439e-ae3e-98576e7d7700/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 254px; height: 259px;" /></p>
 
 <p>Assuming that its 5 cities are numbered from top to bottom and left to right.</p>
 

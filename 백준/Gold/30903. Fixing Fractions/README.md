@@ -18,11 +18,11 @@
 
 <p>Maths is hard.<sup>[citation needed]</sup> But it could be easier! And the internet&trade; has found some excellent ways to make it easier. Take a look at the following true equations:</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/634b73a8-90e3-48a5-a275-3876cc12b91c/-/preview/" style="width: 256px; height: 55px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/30903.%E2%80%85Fixing%E2%80%85Fractions/97e9eed4.png" data-original-src="https://upload.acmicpc.net/634b73a8-90e3-48a5-a275-3876cc12b91c/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 256px; height: 55px;" /></p>
 
 <p>Following the patterns, we come to the conclusion that the following equation should also be true:\vspace{-0.75\baselineskip}</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/36d3d2db-bd46-45db-9947-483dcd2ce16b/-/preview/" style="width: 64px; height: 31px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/30903.%E2%80%85Fixing%E2%80%85Fractions/e7294247.png" data-original-src="https://upload.acmicpc.net/36d3d2db-bd46-45db-9947-483dcd2ce16b/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 64px; height: 31px;" /></p>
 
 <p>However, this is actually wrong in boring old standard maths. Therefore, we define a new kind of funky maths where it is allowed to cancel out digits on the left side of the equality sign. This surely will make everyone&#39;s life easier. Except yours, since you have to evaluate if two given fractions are equal in our new funky maths.</p>
 

@@ -24,7 +24,7 @@
 
 <p dir="ltr">다음 그림은 한 방사능 층에 대해 레이저를 발사하는 서로 다른 두 경우를 보여준다.</p>
 
-<p dir="ltr" style="text-align: center;"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14616/1.png" style="height:242px; width:435px" /></p>
+<p dir="ltr" style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/14616.%E2%80%85Explore%E2%80%85space/6b2a072d.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14616/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:242px; width:435px" /></p>
 
 <p dir="ltr">그림 (a)는 (2, 4)를 향해 발사한 레이저가 방사능 층과 충돌해 방사능 층을 파괴하는 모습을 나타낸다. 그림 (b)는 (3, 2)를 향해 발사한 레이저가 방사능 층을 파괴하지 못하고 빗겨나가는 모습을 나타낸다.</p>
 

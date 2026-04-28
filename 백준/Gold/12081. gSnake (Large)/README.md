@@ -18,7 +18,7 @@
 
 <p>Alex is a huge fan of the&nbsp;<a href="https://en.wikipedia.org/wiki/Snake_%28video_game%29" style="color: rgb(85, 26, 139); font-family: Arial, sans-serif;" target="_blank">Snake</a>&nbsp;game.</p>
 
-<p><img alt="" src="https://onlinejudgeimages.s3.amazonaws.com/problem/12080/12080:12081.png" style="height:207px; width:488px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/12081.%E2%80%85gSnake%E2%80%85(Large)/11d41d94.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/12080/12080:12081.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:207px; width:488px" /></p>
 
 <p><strong>Note:</strong>&nbsp;This Google Doodle does not exactly match the rules of the Snake game we will describe below. It is only intended to give you a general idea of what the game looks like.</p>
 

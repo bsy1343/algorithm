@@ -18,7 +18,7 @@
 
 <p>Andr&eacute; Claude Marzipan is the head chef at the French restaurant Le Chaud Chien. He owns a vast number of baking trays, which come in two sizes: 1 foot by 1 foot, and 1 foot by 2 feet. He stores them along 3-foot deep shelves of various lengths. For example, on a shelf that is 5 feet long, he might store baking trays in either of the two ways shown below:</p>
 
-<p style="text-align: center;"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11769/1.png" style="height:97px; width:304px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/11769.%E2%80%85Tray%E2%80%85Bien/0abcf4c8.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11769/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:97px; width:304px" /></p>
 
 <p style="text-align: center;">Figure G.1</p>
 

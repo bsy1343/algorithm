@@ -18,7 +18,7 @@
 
 <p>大きさが異なる n 個のコップと 3 つのトレイ（お盆）A，B，C があり， それらのコップは 3 つのトレイの上にそれぞれ何個かずつ一山に重ねて置かれている． ただし， どのトレイにおいても， そのトレイの中で一番小さいコップが一番下に， 2 番目に小さいコップがその上に， 3 番目に小さいコップがその上にと， 小さい順に伏せて重ねてある． 例えば， 下図の右側は， n = 5 個のコップがトレイ A，B，C にそれぞれ 2 個，0 個，3 個重ねて置かれている状態を示している．</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/c9907e09-7c7c-4561-a25d-75695dccf8c9/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/5610.%E2%80%85%E5%95%8F%E9%A1%8C%E2%80%85%EF%BC%94/3511952b.png" data-original-src="https://upload.acmicpc.net/c9907e09-7c7c-4561-a25d-75695dccf8c9/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>このように， コップの初期状態が与えられたとき， 次の規則 1 ～ 3 を守りながら， すべてのコップを A または C のどちらかのトレイに移動させるには何回移動を行えばよいかを求めたい．</p>
 

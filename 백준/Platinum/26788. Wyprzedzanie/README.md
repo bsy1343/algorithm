@@ -44,4 +44,4 @@
 
 <p>Wyjaśnienie przykładu: Auto Bajtazara porusza się z prędkością 1, a ciężar&oacute;wki z prędkościami 1/4 , 1/2 i 1/4 . W chwili 1+1/3 Bajtazar dojeżdża do pierwszej ciężar&oacute;wki i zmienia pas na lewy, w chwili 5+1/3 z powrotem wraca na prawy pas. W chwili 6 drugi raz zmienia pas na lewy. W chwili 8 druga ciężar&oacute;wka dojeżdża do trzeciej i zmniejsza prędkość do 1/4. W chwili 14+2/3 Bajtazar powraca na prawy pas.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/7c932418-c6dc-4206-a6fe-00651ce9696b/-/preview/" style="width: 552px; height: 239px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/26788.%E2%80%85Wyprzedzanie/9ed40554.png" data-original-src="https://upload.acmicpc.net/7c932418-c6dc-4206-a6fe-00651ce9696b/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 552px; height: 239px;" /></p>

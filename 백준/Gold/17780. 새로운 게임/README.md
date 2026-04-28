@@ -45,7 +45,7 @@
 
 <p>다음은 크기가 4&times;4인 체스판 위에 말이 4개&nbsp;있는 경우이다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/0aec7e3d-e8f5-428a-bebc-6a0fd514b387/-/preview/" style="width: 250px; height: 251px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/17780.%E2%80%85%EC%83%88%EB%A1%9C%EC%9A%B4%E2%80%85%EA%B2%8C%EC%9E%84/d5cc8bb8.png" data-original-src="https://upload.acmicpc.net/0aec7e3d-e8f5-428a-bebc-6a0fd514b387/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 250px; height: 251px;" /></p>
 
 <p>첫 번째 턴은 다음과 같이 진행된다.</p>
 
@@ -53,10 +53,10 @@
 <table class="table table-bordered" style="width: 100%;">
 	<tbody>
 		<tr>
-			<td style="width: 25%; text-align: center;"><img alt="" src="https://upload.acmicpc.net/46796304-b486-4420-9d2c-ea49e2d5665b/-/preview/" style="width: 250px; height: 251px;" /></td>
-			<td style="width: 25%; text-align: center;"><img alt="" src="https://upload.acmicpc.net/04643ced-fdfd-46f5-a07e-374704dbb1c5/-/preview/" style="width: 250px; height: 252px;" /></td>
-			<td style="width: 25%; text-align: center;"><img alt="" src="https://upload.acmicpc.net/46f4bfab-841b-41c8-842e-56027816f846/-/preview/" style="width: 250px; height: 251px;" /></td>
-			<td style="width: 25%; text-align: center;"><img alt="" src="https://upload.acmicpc.net/fcccf76c-9431-4ff5-8a05-7dbd2feff142/-/preview/" style="width: 250px; height: 251px;" /></td>
+			<td style="width: 25%; text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/17780.%E2%80%85%EC%83%88%EB%A1%9C%EC%9A%B4%E2%80%85%EA%B2%8C%EC%9E%84/35fc279e.png" data-original-src="https://upload.acmicpc.net/46796304-b486-4420-9d2c-ea49e2d5665b/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 250px; height: 251px;" /></td>
+			<td style="width: 25%; text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/17780.%E2%80%85%EC%83%88%EB%A1%9C%EC%9A%B4%E2%80%85%EA%B2%8C%EC%9E%84/81244cc4.png" data-original-src="https://upload.acmicpc.net/04643ced-fdfd-46f5-a07e-374704dbb1c5/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 250px; height: 252px;" /></td>
+			<td style="width: 25%; text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/17780.%E2%80%85%EC%83%88%EB%A1%9C%EC%9A%B4%E2%80%85%EA%B2%8C%EC%9E%84/16c2e6ce.png" data-original-src="https://upload.acmicpc.net/46f4bfab-841b-41c8-842e-56027816f846/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 250px; height: 251px;" /></td>
+			<td style="width: 25%; text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/17780.%E2%80%85%EC%83%88%EB%A1%9C%EC%9A%B4%E2%80%85%EA%B2%8C%EC%9E%84/5858f8d9.png" data-original-src="https://upload.acmicpc.net/fcccf76c-9431-4ff5-8a05-7dbd2feff142/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 250px; height: 251px;" /></td>
 		</tr>
 	</tbody>
 </table>
@@ -68,10 +68,10 @@
 <table class="table table-bordered" style="width: 100%;">
 	<tbody>
 		<tr>
-			<td style="width: 25%; text-align: center;"><img alt="" src="https://upload.acmicpc.net/387d9a2f-5921-438e-a28e-d049bb35728f/-/preview/" style="width: 250px; height: 253px;" /></td>
-			<td style="width: 25%; text-align: center;"><img alt="" src="https://upload.acmicpc.net/601f9193-f004-4e70-8514-33851f8a0615/-/preview/" style="width: 250px; height: 254px;" /></td>
-			<td style="width: 25%; text-align: center;"><img alt="" src="https://upload.acmicpc.net/796bab27-1a9d-473a-b478-9eb33b4a8998/-/preview/" style="width: 250px; height: 254px;" /></td>
-			<td style="width: 25%; text-align: center;"><img alt="" src="https://upload.acmicpc.net/9a8e6227-c720-4ea6-9065-d0dc21188f03/-/preview/" style="width: 250px; height: 252px;" /></td>
+			<td style="width: 25%; text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/17780.%E2%80%85%EC%83%88%EB%A1%9C%EC%9A%B4%E2%80%85%EA%B2%8C%EC%9E%84/d49a651f.png" data-original-src="https://upload.acmicpc.net/387d9a2f-5921-438e-a28e-d049bb35728f/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 250px; height: 253px;" /></td>
+			<td style="width: 25%; text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/17780.%E2%80%85%EC%83%88%EB%A1%9C%EC%9A%B4%E2%80%85%EA%B2%8C%EC%9E%84/d27a3de4.png" data-original-src="https://upload.acmicpc.net/601f9193-f004-4e70-8514-33851f8a0615/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 250px; height: 254px;" /></td>
+			<td style="width: 25%; text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/17780.%E2%80%85%EC%83%88%EB%A1%9C%EC%9A%B4%E2%80%85%EA%B2%8C%EC%9E%84/13e92403.png" data-original-src="https://upload.acmicpc.net/796bab27-1a9d-473a-b478-9eb33b4a8998/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 250px; height: 254px;" /></td>
+			<td style="width: 25%; text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/17780.%E2%80%85%EC%83%88%EB%A1%9C%EC%9A%B4%E2%80%85%EA%B2%8C%EC%9E%84/40b15fc8.png" data-original-src="https://upload.acmicpc.net/9a8e6227-c720-4ea6-9065-d0dc21188f03/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 250px; height: 252px;" /></td>
 		</tr>
 	</tbody>
 </table>

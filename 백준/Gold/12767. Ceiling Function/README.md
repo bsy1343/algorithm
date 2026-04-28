@@ -31,7 +31,7 @@
 
 <p>Given a set of prototypes, your task is to determine how many different tree shapes they induce.</p>
 
-<p style="text-align: center;"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/12767/1.png" style="height:191px; width:557px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/12767.%E2%80%85Ceiling%E2%80%85Function/5342ef38.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/12767/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:191px; width:557px" /></p>
 
 <p style="text-align: center;">Figure C.1: The four tree shapes induced by the ceiling prototypes in Sample Input 1.</p>
 

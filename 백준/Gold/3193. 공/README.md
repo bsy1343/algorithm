@@ -22,7 +22,7 @@
 
 <p>다음은 게임판을 시계 방향으로 회전시킨 후 시계 반대 방향으로 다시 회전시키는 예시이다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/d5d1f037-63f7-40ed-a5f6-3ce72bb4aad7/-/preview/" style="width: 562px; height: 97px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/3193.%E2%80%85%EA%B3%B5/b86b8744.png" data-original-src="https://upload.acmicpc.net/d5d1f037-63f7-40ed-a5f6-3ce72bb4aad7/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 562px; height: 97px;" /></p>
 
 <p>게임판을 주어진 대로 회전시킨 이후의 상태를 출력하시오.</p>
 

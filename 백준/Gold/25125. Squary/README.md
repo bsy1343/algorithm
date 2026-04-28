@@ -18,7 +18,7 @@
 
 <p>Addition and squaring do not commute. That is, the square of the sum of all elements of a list of integers is not necessarily equal to the sum of the squares of those same elements. However, this is true for some lists; one example is $[3,-2,6]$, because $(3+(-2)+6)^2=49=3^2+(-2)^2+6^2$. Let us call these lists <i>squary</i>.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/7c975379-291a-4b0b-a76f-2f213b0c8ad8/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/25125.%E2%80%85Squary/b90468c2.png" data-original-src="https://upload.acmicpc.net/7c975379-291a-4b0b-a76f-2f213b0c8ad8/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>Given a (not necessarily squary) list of relatively small integers, we want to know whether it is possible to add at least $1$ and at most $K$ more elements such that the final list is squary. Each added element must be an integer between $-10^{18}$ and $10^{18}$, inclusive, and these do not have to be distinct from each other or from the initial list&#39;s elements.</p>
 

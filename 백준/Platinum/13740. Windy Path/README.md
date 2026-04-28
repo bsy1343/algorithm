@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p><img alt="" src="https://onlinejudgeimages.s3.amazonaws.com/problem/13740/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-12-06%20%EC%98%A4%ED%9B%84%208.44.05.png" style="height:292px; width:236px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/13740.%E2%80%85Windy%E2%80%85Path/1cedae51.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/13740/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-12-06%20%EC%98%A4%ED%9B%84%208.44.05.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:292px; width:236px" /></p>
 
 <p>Consider following along the path in the figure above, starting from (4, 4) and moving to (2, 5). Then the path turns rightward toward (1, 6), then sharp left to (5, 0) and finally sharp left again to (4, 2). If we use &lsquo;L&rsquo; for left and &lsquo;R&rsquo; for right, we see that the sequence of turn directions is given by &lsquo;RLL&rsquo;. Notice that the path does not cross itself: the only intersections of segments are the connection points along the path.</p>
 

@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15769/puyo.png" style="width: 574px; height: 346px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/15769.%E2%80%85PuyoPuyo/9dd72c0c.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15769/puyo.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 574px; height: 346px;" /></p>
 
 <p style="text-align: center;">사진: 실제 뿌요뿌요의 플레이 화면. 이 게임에서는 12 &times; 6격자가 사용되었고, 뿌요의 색은 4종류이다.</p>
 

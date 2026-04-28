@@ -18,7 +18,7 @@
 
 <p>Little Lev is learning how to draw letters <code>Q</code> and <code>F</code>. Initially, he has a white grid of size $n \times m$. Then he will draw several letters of one of the following two shapes:</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/dbd5fa17-096e-42c3-8d99-0b5c46aa4f31/-/preview/" style="width: 178px; height: 122px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/24649.%E2%80%85Letters%E2%80%85Q%E2%80%85and%E2%80%85F/7f6ac3c6.png" data-original-src="https://upload.acmicpc.net/dbd5fa17-096e-42c3-8d99-0b5c46aa4f31/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 178px; height: 122px;" /></p>
 
 <p>Lev will not rotate or mirror these two shapes. Every time he draws a new letter, he will choose a position for the letter inside the grid and paint all cells of the shape black. Lev will only draw letters in such a way that before drawing all black cells of the letter are white --- that is, he will never paint a cell twice.</p>
 
@@ -40,4 +40,4 @@
 
 <p>Illustration for the fourth example test:</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/7e35fef8-3c6b-486a-b384-8442bbed097d/-/preview/" style="width: 156px; height: 157px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/24649.%E2%80%85Letters%E2%80%85Q%E2%80%85and%E2%80%85F/65ab4c06.png" data-original-src="https://upload.acmicpc.net/7e35fef8-3c6b-486a-b384-8442bbed097d/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 156px; height: 157px;" /></p>

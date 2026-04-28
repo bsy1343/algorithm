@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/2c737b14-fec3-40bf-8f14-5b246fcca7b4/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/25969.%E2%80%85%ED%98%84%EB%8C%80%E2%80%85%EB%AA%A8%EB%B9%84%EC%8A%A4%E2%80%85%EC%9E%90%EC%9C%A8%E2%80%85%EC%A3%BC%ED%96%89%E2%80%85%EC%8B%9C%EC%8A%A4%ED%85%9C/16e7ea01.png" data-original-src="https://upload.acmicpc.net/2c737b14-fec3-40bf-8f14-5b246fcca7b4/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>현대 모비스의 서산 주행 시험장에서 현대 모비스의 새로운 자율 주행 시스템이 적용된 부품을 사용한 모빌리티가 주행 시험을 하고 있다. 이 시스템은 인공위성에서 모빌리티 주위를 인식해 현재 위치에서 목적지로 가기 위한 최단 거리를 계산한다. 기존의 시스템은 모빌리티의 상하좌우 만으로 이동하며 최단 거리를 계산했지만, 새로운 시스템은 상하좌우로 이동할 수 있을 뿐만 아니라 이동할 수 있는 추가 패턴으로 이동하며 최단 거리를 계산한다. 하지만 인공위성과 계속 통신하지는 못하기 때문에, 이 추가 패턴들을 무한정 사용하지는 못한다.</p>
 

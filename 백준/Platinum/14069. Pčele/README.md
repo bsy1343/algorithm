@@ -18,7 +18,7 @@
 
 <p>Pčele svakog dana pohranjuju med u saće &ndash; mrežu vo&scaron;tanih ćelija koja se sastoji od pravilnih &scaron;esterokuta organiziranih u retke i stupce. Tijekom noći, ličinke pojedu sav med iz saća tako da je na početku svakog dana saće potpuno prazno. Malo je poznata činjenica da pčele ne pohranjuju med u nasumične ćelije, budući da raspored ovisi izravno o tome koje su ćelije sadržavale med prethodnog dana. Celija će, naime, sadržavati med ako i samo ako je broj susjednih ćelija (ne uključujući i promatranu ćeliju) koje su sadržavale med prethodnog dana bio neparan. U suprotnom će ćelija biti prazna.</p>
 
-<p><img alt="" src="https://onlinejudgeimages.s3.amazonaws.com/problem/14069/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202017-01-02%20%EC%98%A4%ED%9B%84%201.39.11.png" style="height:103px; width:512px" /><br />
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/14069.%E2%80%85P%C4%8Dele/b8fe8b37.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/14069/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202017-01-02%20%EC%98%A4%ED%9B%84%201.39.11.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:103px; width:512px" /><br />
 Ilustracija prvog primjera test podataka</p>
 
 ### 입력

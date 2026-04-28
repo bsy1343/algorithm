@@ -22,7 +22,7 @@
 
 <p>예를 들어 &quot;<code>ABCDE</code>&quot;라는 문자열이 주어지면 &lsquo;<code>A</code>&rsquo;,&nbsp;&lsquo;<code>B</code>&rsquo;,&nbsp;&lsquo;<code>C</code>&rsquo;,&nbsp;&lsquo;<code>D</code>&rsquo;,&nbsp;&lsquo;<code>E</code>&rsquo; 각 문자의 획수인 3, 2, 1, 2, 3으로 바꾸어 아래의 그림처럼 과정을 진행한다. 단, 계산할 때, 더한 값이 10을 넘는다면 10으로 나눈 나머지로 바꿔준다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/949da89b-426f-41da-bac6-dde8835b0922/-/preview/" style="width: 929px; height: 150px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/20154.%E2%80%85%EC%9D%B4%E2%80%85%EA%B5%AC%EC%97%AD%EC%9D%98%E2%80%85%EC%8A%B9%EC%9E%90%EB%8A%94%E2%80%85%EB%88%84%EA%B5%AC%EC%95%BC%3F!/49b4bb2f.png" data-original-src="https://upload.acmicpc.net/949da89b-426f-41da-bac6-dde8835b0922/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 929px; height: 150px;" /></p>
 
 <p>&lsquo;<code>E</code>&rsquo;의 경우는 짝을 지을 수 없으므로 3이 바로 내려오게 된다. 결국, 마지막 남은 수가 1인 홀수이므로 이 게임은 이기게 되는 것이다.</p>
 

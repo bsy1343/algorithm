@@ -18,7 +18,7 @@
 
 <p>Cody-Jamal is working on his latest piece of abstract art: a mural consisting of a row of waning moons and closed umbrellas. Unfortunately, greedy copyright trolls are claiming that waning moons look like an uppercase C and closed umbrellas look like a J, and they have a copyright on CJ and JC. Therefore, for each time CJ appears in the mural, Cody-Jamal must pay X, and for each time JC appears in the mural, he must pay Y.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/7a04f85f-2dd5-4b51-bfe8-b57dc2cbce50/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/22886.%E2%80%85Moons%E2%80%85and%E2%80%85Umbrellas/dcecdc42.png" data-original-src="https://upload.acmicpc.net/7a04f85f-2dd5-4b51-bfe8-b57dc2cbce50/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>Cody-Jamal is unwilling to let them compromise his art, so he will not change anything already painted. He decided, however, that the empty spaces he still has could be filled strategically, to minimize the copyright expenses.</p>
 

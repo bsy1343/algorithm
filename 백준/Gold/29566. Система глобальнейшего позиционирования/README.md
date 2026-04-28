@@ -20,7 +20,7 @@
 
 <p>Для этого во Флатландии было построено три радиовышки, не находящиеся на одной прямой. Объект, который хочет узнать свое местоположение, посылает вышкам сигнал. По силе сигнала, дошедшего до вышек, определяется расстояние между вышками и объектом.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/c5df5667-fbbd-4f3c-acf5-8b3e75103509/-/preview/" style="width: 235px; height: 257px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/29566.%E2%80%85%D0%A1%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0%E2%80%85%D0%B3%D0%BB%D0%BE%D0%B1%D0%B0%D0%BB%D1%8C%D0%BD%D0%B5%D0%B9%D1%88%D0%B5%D0%B3%D0%BE%E2%80%85%D0%BF%D0%BE%D0%B7%D0%B8%D1%86%D0%B8%D0%BE%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F/4f6adcf4.png" data-original-src="https://upload.acmicpc.net/c5df5667-fbbd-4f3c-acf5-8b3e75103509/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 235px; height: 257px;" /></p>
 
 <p>Напишите программу, которая реализует последний компонент системы, который, получая координаты вышек и расстояния от объекта до каждой из них, находит координаты объекта.</p>
 

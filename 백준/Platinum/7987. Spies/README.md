@@ -38,4 +38,4 @@
 
 ### 힌트
 
-<p><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/7987/1.gif" style="height:168px; width:251px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/7987.%E2%80%85Spies/1b88e972.gif" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/7987/1.gif" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:168px; width:251px" /></p>

@@ -28,7 +28,7 @@
 
 <p>나머지 값을 채우는 방법은 (서쪽값 * 동쪽값 + 1) / 북쪽값 이다.</p>
 
-<p><img alt="" src="/upload/images/p1(1).png" style="height:327px; width:327px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/2676.%E2%80%85%EB%9D%BC%EC%8A%A4%EC%B9%BC%E2%80%85%EC%82%BC%EA%B0%81%ED%98%95/7f729744.png" data-original-src="https://www.acmicpc.net/upload/images/p1(1).png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:327px; width:327px" /></p>
 
 <p>이것을 수식으로 표현해보면 R(n+1,m+1) = (R(n,m) * R(n,m+1) + 1) / R(n-1,m) 이다.</p>
 
@@ -44,4 +44,4 @@
 
 ### 힌트
 
-<p><img alt="" src="/upload/images/rascal_triangle.jpg" style="height:279px; width:500px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/2676.%E2%80%85%EB%9D%BC%EC%8A%A4%EC%B9%BC%E2%80%85%EC%82%BC%EA%B0%81%ED%98%95/9b7e6b25.jpg" data-original-src="https://www.acmicpc.net/upload/images/rascal_triangle.jpg" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:279px; width:500px" /></p>

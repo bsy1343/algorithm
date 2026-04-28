@@ -36,7 +36,7 @@
 
 <p>Figure B-1 shows the initial hands of the three players of the second dataset in Sample Input. Immediately after, the player <i>P</i><sub>1</sub> discards the two cards in the hand. <i>p</i> of the first turn is <i>P</i><sub>2</sub> because <i>P</i><sub>1</sub> has no cards.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/42f7bcc2-617f-4ae2-973c-a67debb0cab1/-/preview/" style="width: 400px; height: 330px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/25528.%E2%80%85Leave%E2%80%85No%E2%80%85One%E2%80%85Behind/45014a89.png" data-original-src="https://upload.acmicpc.net/42f7bcc2-617f-4ae2-973c-a67debb0cab1/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 400px; height: 330px;" /></p>
 
 <p style="text-align: center;">Figure B-1: The initial hands of the second dataset in Sample Input</p>
 
@@ -50,7 +50,7 @@
 
 <p>After this, <i>P</i><sub>1</sub> draws the only remaining card in <i>P</i><sub>5</sub>&#39;s hand and discards the drawn card and the card with the same number 2 in the hand. The player to be drawn from the hand next is the next player of <i>P</i><sub>5</sub>, which is <i>P</i><sub>2</sub> because <i>P</i><sub>1</sub>&#39;s hand is empty now.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/efe95bd2-ac19-4828-8d7b-d99f5f43cb39/-/preview/" style="width: 400px; height: 347px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/25528.%E2%80%85Leave%E2%80%85No%E2%80%85One%E2%80%85Behind/d9631f98.png" data-original-src="https://upload.acmicpc.net/efe95bd2-ac19-4828-8d7b-d99f5f43cb39/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 400px; height: 347px;" /></p>
 
 <p style="text-align: center;">Figure B-2: The hands of the last dataset in Sample Input after the fourth turn</p>
 

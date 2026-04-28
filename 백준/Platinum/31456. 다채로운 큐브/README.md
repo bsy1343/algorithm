@@ -18,7 +18,7 @@
 
 <p>Albert는 최근 3D 프린터를 구매했는데, 이를 이용해 장난감 큐브 (cube)를 만드는 취미가 있다. 구체적으로, $1 \times 1 \times 1$ 크기의 큐브가 $x$ 축으로 $N_x$개, $y$ 축으로 $N_y$개, $z$ 축으로 $N_z$개 놓이도록 하여 총 $N_x \times N_y \times N_z$ 개의 큐브를 만든다. 아래 그림은 $N_x = 3, N_y = 3, N_z = 2$인 경우 총 18개의 ($1 \times 1 \times 1$ 단위) 큐브가 있음을 보여준다. 편의상 각 큐브는 $x,y,z$ 좌표를 이용하여 표현할 수 있으며, 아래 그림의 경우 정면에 보이는 우측 상단의 큐브는 $x = 3, y = 3, z = 1$ 좌푯값을 가지므로 $(3, 3, 1)$로 표현 가능하다 (그림에서 빨간색 점선 화살표로 강조된 큐브이다).</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/f1a252be-d02d-4406-863c-94061496a685/-/preview/" style="height: 292px; width: 300px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/31456.%E2%80%85%EB%8B%A4%EC%B1%84%EB%A1%9C%EC%9A%B4%E2%80%85%ED%81%90%EB%B8%8C/302b9fbd.png" data-original-src="https://upload.acmicpc.net/f1a252be-d02d-4406-863c-94061496a685/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 292px; width: 300px;" /></p>
 
 <p>Albert의 3D 프린터를 이용하면 각 큐브의 면을 빨간색 (R), 초록색 (G), 혹은 파란색 (B)으로 칠할 수 있는데, 이를 위해 우선 길이가 각각 $N_x+1, N_y+1, N_z+1$ 이고 &quot;<code>RGB</code>&quot; 로만 구성된 문자열 $S_x, S_y, S_z$를 입력해야 한다. 편의상 $S_x[i]$, $S_y[j]$, $S_z[k]$ 는 각각 $S_x, S_y, S_z$ 의 $i,j,k$ 번째 글자라 하자 ($1 \le i \le N_x+1$, $1 \le j \le N_y+1$, $1 \le k \le N_z+1$). 이 때 $(i, j, k)$ 에 위치한 큐브의 여섯개의 면 색은 아래 규칙에 따라 칠해진다:</p>
 

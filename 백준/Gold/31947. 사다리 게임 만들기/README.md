@@ -24,7 +24,7 @@
 
 <p>프로그램이 완성되자 지환이를 포함한 SCSC 부원 네 명이 $N=4$, $M=3$을 입력으로 사다리 게임을 진행했다. 예를 들어 아래와 같은 사다리가 생성될 수 있다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/61110e2d-648d-48ce-9e63-cf4cb75ec81f/-/preview/" style="height: 360px; width: 400px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/31947.%E2%80%85%EC%82%AC%EB%8B%A4%EB%A6%AC%E2%80%85%EA%B2%8C%EC%9E%84%E2%80%85%EB%A7%8C%EB%93%A4%EA%B8%B0/8443f3a0.png" data-original-src="https://upload.acmicpc.net/61110e2d-648d-48ce-9e63-cf4cb75ec81f/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 360px; width: 400px;" /></p>
 
 <p>부원들은 각자 위쪽 지점 A, B, C, D 중 하나를 골라 1등이 돈을 얻는 게임을 계속했다. 지환이는 항상 D를 골랐지만 한 번도 1등이 나오지 않아 돈을 모두 잃었고, D가 1등이 될 확률보다 4등이 될 확률이 훨씬 높은 것 같다며 화를 냈다. 그런데 지환이의 말이 사실이었다!</p>
 

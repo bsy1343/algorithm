@@ -26,7 +26,7 @@
 
 <p>As an example, consider the second sample case, visualized in Figure L.1. The three striped red nodes are sold, and the two bold green nodes are the remaining customer nodes.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/105087b2-a0fc-48d1-927a-22a8655ccbb1/-/preview/" style="width: 200px; height: 346px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/30316.%E2%80%85Losing%E2%80%85Leaves/3ddc216c.png" data-original-src="https://upload.acmicpc.net/105087b2-a0fc-48d1-927a-22a8655ccbb1/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 200px; height: 346px;" /></p>
 
 <p style="text-align: center;">Figure L.1: Visualization of the second sample input.</p>
 

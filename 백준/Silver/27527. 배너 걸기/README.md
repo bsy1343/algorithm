@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><img alt="현대오토에버 그림" src="https://upload.acmicpc.net/c8138d2b-80e8-4a6c-b24a-8d824365a1f5/-/preview/" style="max-height:300px; object-fit:contain; display:inline-block;" /></p>
+<p style="text-align: center;"><img alt="현대오토에버 그림" src="%EB%B0%B1%EC%A4%80/Silver/27527.%E2%80%85%EB%B0%B0%EB%84%88%E2%80%85%EA%B1%B8%EA%B8%B0/35d0b81d.png" data-original-src="https://upload.acmicpc.net/c8138d2b-80e8-4a6c-b24a-8d824365a1f5/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="max-height:300px; object-fit:contain; display:inline-block;" /></p>
 
 <p>현대오토에버는 현대자동차그룹의 모빌리티 소프트웨어 전문 기업으로서, In-Car와 Out-Car 영역 전반의 소프트웨어와 인프라를 안정적, 효율적, 혁신적으로 지원하는 &#39;Mobility SW Provider&#39; 역할을 수행하고 있다. 당신은 현대오토에버의 다양한 소프트웨어 기술을 선보이기 위한 행사를 준비하고 있으며, 행사는 현대오토에버 본사가 위치한 서울 삼성역 인근에서 개최될 예정이다.</p>
 

@@ -45,12 +45,12 @@
 
 <p>In Sample Case #1, Onyaomale can illuminate the entire freeway by placing bulbs in the western-most and middle street lights only, leaving the eastern-most one unused. With these two lights covering $[0, 5]$ and $[4, 10]$, the entire freeway ($[0, 10]$) is illuminated.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/bb78904f-86f5-4de2-afd2-7c3ca657ed00/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/29780.%E2%80%85Illumination%E2%80%85Optimization/da8224cd.png" data-original-src="https://upload.acmicpc.net/bb78904f-86f5-4de2-afd2-7c3ca657ed00/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>In Sample Case #2, Onyaomale has the same configuration as in Sample Case #1, but with weaker lightbulbs. In this case, there is no way for her to illuminate the entire freeway. In particular, even if all the street lights are lit, the middle point between the $4$-th and $5$-th meters would still not be illuminated.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/d8735a37-bf6e-4a7d-8bf5-f5ced437cc6b/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/29780.%E2%80%85Illumination%E2%80%85Optimization/c2a7e04c.png" data-original-src="https://upload.acmicpc.net/d8735a37-bf6e-4a7d-8bf5-f5ced437cc6b/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>For Sample Case #3 Onyaomale has an additional street light at the $3$-th meter, compared to Sample Case #2, while all other conditions are the same. In this case, installing a lightbulb in every street light is the only way to have the entire freeway illuminated.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/c0feb206-926a-43e0-be91-707b0aff0503/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/29780.%E2%80%85Illumination%E2%80%85Optimization/9fc375a6.png" data-original-src="https://upload.acmicpc.net/c0feb206-926a-43e0-be91-707b0aff0503/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>

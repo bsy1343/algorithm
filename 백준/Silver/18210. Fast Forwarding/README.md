@@ -22,7 +22,7 @@
 
 <p>For instance, assume that his favorite scene starts at 19 seconds from the start of the film. When the <strong>[3x]</strong> button is on at one second and at two seconds after the playback starts, and the <strong>[1/3x]</strong> button is on at three seconds and at five seconds after the start, the desired scene can be watched in the normal speed five seconds after starting the playback, as depicted in the following chart.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/0beb6b46-3158-4622-8590-6248c98d4e85/-/preview/" style="width: 562px; height: 130px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/18210.%E2%80%85Fast%E2%80%85Forwarding/bbee10f6.png" data-original-src="https://upload.acmicpc.net/0beb6b46-3158-4622-8590-6248c98d4e85/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 562px; height: 130px;" /></p>
 
 <p>Your task is to compute the shortest possible time period after the playback starts until the desired scene starts. The playback of the scene, of course, should be in the normal speed.</p>
 

@@ -28,11 +28,11 @@
 
 <p>The following figure shows the layout of silhouettes and the position of the sun at the last moment when the sunlight is blocked, that corresponds to the first dataset of Sample Input below. As this figure indicates, there are possibilities that the last moment when the sunlight is blocked can be the time <i>t</i>=0.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/cd6abdc7-bb76-4eeb-b633-194e8f9ed9d9/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/10235.%E2%80%85Vampire/970409cb.png" data-original-src="https://upload.acmicpc.net/cd6abdc7-bb76-4eeb-b633-194e8f9ed9d9/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>The sunlight is blocked even when two silhouettes share parts of their edges. The following figure shows the layout of silhouettes and the position of the sun at the last moment when the sunlight is blocked, corresponding to the second dataset of Sample Input. In this dataset the radius of the sun is 2 and there are two silhouettes: the one with height 4 is in -2 &le; <i>x</i> &le; 0, and the other with height 3 is in 0 &le; <i>x</i> &le; 2.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/601b7067-456b-4f46-97ea-ac8d601fbe39/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/10235.%E2%80%85Vampire/d809f84e.png" data-original-src="https://upload.acmicpc.net/601b7067-456b-4f46-97ea-ac8d601fbe39/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 ### 입력
 

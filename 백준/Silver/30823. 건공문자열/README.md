@@ -34,4 +34,4 @@
 
 ### 힌트
 
-<p><img alt="" src="https://u.acmicpc.net/fd61ce79-0521-4847-a3ed-040c5324727c/gungongstring.JPG" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/30823.%E2%80%85%EA%B1%B4%EA%B3%B5%EB%AC%B8%EC%9E%90%EC%97%B4/a42e0f55.jpg" data-original-src="https://u.acmicpc.net/fd61ce79-0521-4847-a3ed-040c5324727c/gungongstring.JPG" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>

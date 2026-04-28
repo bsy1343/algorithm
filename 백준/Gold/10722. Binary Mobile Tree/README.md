@@ -57,4 +57,4 @@
 
 <p>예제를 그림으로 그리면 다음과 같다.</p>
 
-<p><img alt="" src="/upload/codershigh2015/binaryex(1).png" style="height:322px; width:509px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/10722.%E2%80%85Binary%E2%80%85Mobile%E2%80%85Tree/582a7ddc.png" data-original-src="https://www.acmicpc.net/upload/codershigh2015/binaryex(1).png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:322px; width:509px" /></p>

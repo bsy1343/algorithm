@@ -18,7 +18,7 @@
 
 <p>Recently, your friend Oscar purchased an ant farm. He accidentally let the ants loose on his floor and now they&rsquo;re crawling everywhere! You want to fence them off with a single continuous rectangle so that they&rsquo;re not running amok. However, due to technical limitations your fence pieces must be aligned with the X and Y axes. The figure below shows an example of a fence around a set of ants (slight offsets from the border are just for visual effect).</p>
 
-<p style="text-align:center"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/9298/1.png" style="height:212px; width:304px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/9298.%E2%80%85Ant%E2%80%85Entrapment/61c2d3fb.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/9298/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:212px; width:304px" /></p>
 
 <p>What is the perimeter and area of the smallest fence that contains all of the ants?</p>
 

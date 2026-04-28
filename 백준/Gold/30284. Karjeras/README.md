@@ -24,7 +24,7 @@
 
 <p>Automatinė kasimo sistema dirba vykdydama kasimo komandas. Kiekviena komanda sumažins karjero auk&scaron;tį H<sub>i</sub> metrų nurodytame intervale. 1 pav. parodyta, kaip keičiasi karjero auk&scaron;tis įvykdžius dvi komandas, kurių pirma kasa intervale [0; 2], antra &ndash; [1; 3], abi i&scaron;kasa 1 metro gylio duobes. Komandų i&scaron;kasami plotai atitinkamai pažymėti žaliai (atspausdintoje nespalvotoje sąlygoje &ndash; &scaron;viesiai pilkai) ir mėlynai (nespalvotoje sąlygoje &ndash; pilkai).</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/402ae5ca-4787-4152-9621-dc4105865a4f/-/preview/" style="width: 238px; height: 207px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/30284.%E2%80%85Karjeras/9a6ce8b0.png" data-original-src="https://upload.acmicpc.net/402ae5ca-4787-4152-9621-dc4105865a4f/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 238px; height: 207px;" /></p>
 
 <p style="text-align: center;">1 pav.</p>
 

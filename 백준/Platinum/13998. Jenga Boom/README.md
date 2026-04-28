@@ -18,10 +18,10 @@
 
 <p>Jane is a game designer and she designs the next version of Jenga Boom, where the blocks have dimensions of 1&times;w &times;wn instead of the ordinary 1&times;2&times;6. As usual, the initial tower is created at the game start. It consists of the blocks in levels of n blocks placed next to each other along their long sides and at a right angle to the previous level. Players remove blocks from the tower in turns, until the tower collapses.</p>
 
-<p><img alt="" src="https://onlinejudgeimages.s3.amazonaws.com/problem/13998/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-12-22%20%EC%98%A4%ED%9B%84%208.10.49.png" style="height:143px; width:221px" /><br />
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/13998.%E2%80%85Jenga%E2%80%85Boom/b0785661.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/13998/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-12-22%20%EC%98%A4%ED%9B%84%208.10.49.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:143px; width:221px" /><br />
 Initial tower</p>
 
-<p><img alt="" src="https://onlinejudgeimages.s3.amazonaws.com/problem/13998/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-12-22%20%EC%98%A4%ED%9B%84%208.11.00.png" style="height:145px; width:221px" /><br />
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/13998.%E2%80%85Jenga%E2%80%85Boom/5090c513.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/13998/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-12-22%20%EC%98%A4%ED%9B%84%208.11.00.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:145px; width:221px" /><br />
 The tower before collapse</p>
 
 <p>Jane wants to build a game simulator that helps her to decide the best n and w. The simulator shall compute the moment when the tower collapses if blocks are removed in the specified order. Tower collapses if there is a cross-section between levels such that the center of the mass of the levels above it does not belong to or is at the edge of the convex hull of the previous level projection.</p>

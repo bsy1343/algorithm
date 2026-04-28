@@ -20,7 +20,7 @@
 
 <p>용모가 주문한 피자는 가로 길이가 $W$, 세로 길이가 $H$인 직사각형 모양이며, 가로 방향이나 세로 방향으로 각 방향에 대해 피자를 가르는 직선 커팅이 피자의 아래쪽 끝이나 왼쪽 끝을 기준으로 1 이상의 자연수만큼의 거리에 하나 이상 존재한다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/84dc15f8-ce80-4708-93d4-295ae548ca38/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/28081.%E2%80%85%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95%E2%80%85%ED%94%BC%EC%9E%90/51ea36e8.png" data-original-src="https://upload.acmicpc.net/84dc15f8-ce80-4708-93d4-295ae548ca38/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>피자의 크기가 $W$ = 7, $H$ = 5이며, 가로 방향으로 $y$ = 2인 위치에 커팅이 있고 세로 방향으로 $x$ = 1, $x$ = 5인 위치에 커팅이 있는 경우 피자의 조각 각각의 크기는 위 그림과 같다.</p>
 

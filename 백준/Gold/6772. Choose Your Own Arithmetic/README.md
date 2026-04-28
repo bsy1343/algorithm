@@ -18,7 +18,7 @@
 
 <p>In Waterloo, you probably have seen some geese. How can you see geese with your calculator? Start with 6, add 7, multiply by 6, multiply by 8, add 7, multiply by 8, and multiply by 7, giving 35336. Then if you flip your calculator upside down, it says gEESE:</p>
 
-<p style="text-align: center;"><img alt="" src="https://onlinejudgeimages.s3.amazonaws.com/problem/6772/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202017-03-24%20%EC%98%A4%ED%9B%84%201.17.23.png" style="height:92px; width:556px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/6772.%E2%80%85Choose%E2%80%85Your%E2%80%85Own%E2%80%85Arithmetic/5d10eee6.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/6772/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202017-03-24%20%EC%98%A4%ED%9B%84%201.17.23.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:92px; width:556px" /></p>
 
 <p>You want to write a program to help automatically build tricks of this type. However, your calculator has a lot of broken buttons: the only mathematical operators that work are + and &times;, and only a few of the digits work. Your goal is to figure out whether your half-broken calculator can achieve a given target value, using single-digit inputs and a fixed number of operations.</p>
 

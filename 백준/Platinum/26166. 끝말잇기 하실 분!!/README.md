@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><img alt="총총: 밥? 곰곰: 밥!" src="https://upload.acmicpc.net/251df57f-3a30-477b-b281-a0abb6b062e7/-/preview/" style="max-height:120px; object-fit:contain; display:inline-block;" /></p>
+<p style="text-align: center;"><img alt="총총: 밥? 곰곰: 밥!" src="%EB%B0%B1%EC%A4%80/Platinum/26166.%E2%80%85%EB%81%9D%EB%A7%90%EC%9E%87%EA%B8%B0%E2%80%85%ED%95%98%EC%8B%A4%E2%80%85%EB%B6%84!!/31eba6fa.png" data-original-src="https://upload.acmicpc.net/251df57f-3a30-477b-b281-a0abb6b062e7/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="max-height:120px; object-fit:contain; display:inline-block;" /></p>
 
 <p>곰곰과 총총은 끝말잇기를 하고 있다. 끝말잇기는 두 명이서 번갈아 가며 상대방이 말한 단어의 끝 글자로 시작하는 단어를 말하는 게임이다.</p>
 
@@ -30,7 +30,7 @@
 
 <p>단어의 수가 많아 힘들어하고 있는 곰곰을 위해 당신이 답을 구해 알려주도록 하자!</p>
 
-<p style="text-align: center;"><img alt="곰곰: 고맙습니다" src="https://upload.acmicpc.net/d4f9bca9-9e0c-4348-aaa2-3dbffa219ee6/-/preview/" style="max-height:160px; object-fit:contain; display:inline-block;" /></p>
+<p style="text-align: center;"><img alt="곰곰: 고맙습니다" src="%EB%B0%B1%EC%A4%80/Platinum/26166.%E2%80%85%EB%81%9D%EB%A7%90%EC%9E%87%EA%B8%B0%E2%80%85%ED%95%98%EC%8B%A4%E2%80%85%EB%B6%84!!/e20b7d28.png" data-original-src="https://upload.acmicpc.net/d4f9bca9-9e0c-4348-aaa2-3dbffa219ee6/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="max-height:160px; object-fit:contain; display:inline-block;" /></p>
 
 ### 입력
 

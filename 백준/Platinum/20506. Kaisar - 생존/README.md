@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/f87417b6-be3b-4490-b7fb-4e2d6968b47c/-/preview/" style="height: 358px; width: 800px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/20506.%E2%80%85Kaisar%E2%80%85-%E2%80%85%EC%83%9D%EC%A1%B4/3911fb05.png" data-original-src="https://upload.acmicpc.net/f87417b6-be3b-4490-b7fb-4e2d6968b47c/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 358px; width: 800px;" /></p>
 
 <p>준원이(0/5/3)는 생존해있는 카이사(2/7/0)를 찾으러 소환사의 협곡을 수색하고 있다. 협곡은 정점이 N개 있는 트리 모양이고, 정점은 1번 정점에서 N번 정점까지 번호 붙여져 있다. 준원이는 모든 정점 쌍 x, y에 대해 x번 정점과 y번 정점의 LCA를 방문해보고, 방문한 정점의 번호들을 모두 배열에 적어두었다. 여러 번 방문하면 여러 번 적었다.</p>
 

@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/45117fb9-7986-4866-aaa9-86b15864b606/-/preview/" style="width: 400px; height: 405px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/23815.%E2%80%85%EB%98%A5%EA%B2%8C%EC%9E%84/f3c71ec8.png" data-original-src="https://upload.acmicpc.net/45117fb9-7986-4866-aaa9-86b15864b606/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 400px; height: 405px;" /></p>
 
 <p>이 게임은 똥냄새가 너무 나서 도저히 볼 수가 없다!&nbsp;따라서 당신은 직접 똥게임을 하지 않고 프로그램한테 똥게임을 시킬 것이다.&nbsp;처음에는 사람 1명으로 시작한다.&nbsp;당신에게는 총 $N$번의 턴이 주어지며, 각 턴마다 다음 선택지 4개중 2개가 주어진다. 같은 선택지가 주어질 수도 있다. 각 선택지는 $+x, -x, *x, /x \, (1 \leq x \leq 9)$ 중 하나로 주어진다.</p>
 

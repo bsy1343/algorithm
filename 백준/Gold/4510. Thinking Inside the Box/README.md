@@ -18,7 +18,7 @@
 
 <p>Data Co is having trouble organizing its vast collection of data. It has dozens of sets of survey data that span large portions of the globe. The bounding boxes of these surveys are stored so that anyone curious about a specific region&#39;s geological information merely needs to enter in some coordinates to retrieve the data; and that&#39;s where you come in...</p>
 
-<p><img alt="Map image" src="/upload/images2/parkers-box.png" /></p>
+<p><img alt="Map image" src="%EB%B0%B1%EC%A4%80/Gold/4510.%E2%80%85Thinking%E2%80%85Inside%E2%80%85the%E2%80%85Box/8c949283.png" data-original-src="https://www.acmicpc.net/upload/images2/parkers-box.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 ### 입력
 

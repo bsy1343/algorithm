@@ -24,7 +24,7 @@
 
 <p>(1) R은 I, Q, N으로 만든 평면 위의 한 점이다. &ang;IQN = &ang;NQR</p>
 
-<p style="text-align:center"><img alt="" src="/upload/images/laser.png" style="height:346px; width:374px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/3889.%E2%80%85%EA%B5%AC%EB%A9%B4%E2%80%85%EA%B1%B0%EC%9A%B8/a9f61e6f.png" data-original-src="https://www.acmicpc.net/upload/images/laser.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:346px; width:374px" /></p>
 
 <p>레이저가 마지막으로 반사되는 점의 위치를 찾는 프로그램을 작성하시오.</p>
 

@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/f4e23dad-8668-4acc-a6b5-ddac9b4def7f/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/21316.%E2%80%85%EC%8A%A4%ED%94%BC%EC%B9%B4/8115a150.png" data-original-src="https://upload.acmicpc.net/f4e23dad-8668-4acc-a6b5-ddac9b4def7f/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>위 그림은 처녀자리 중 12개의 별을 12개의 선분으로 이어 만든 그림이다.</p>
 

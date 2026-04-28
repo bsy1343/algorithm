@@ -34,6 +34,6 @@
 
 <p>この入力例に対応する 8 個の都市間の光ファイバー網を図示すると，以下の通りである．</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/9a9a86b4-fc96-499a-8b2b-70869553705b/-/preview/" style="width: 257px; height: 163px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/24164.%E2%80%85%E5%85%89%E3%83%95%E3%82%A1%E3%82%A4%E3%83%90%E3%83%BC%E7%B6%B2%E3%81%AE%E6%95%B4%E5%82%99%E2%80%85(Fiber)/426257f2.png" data-original-src="https://upload.acmicpc.net/9a9a86b4-fc96-499a-8b2b-70869553705b/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 257px; height: 163px;" /></p>
 
 <p>2 本の光ファイバーを新たに敷設すれば，全ての都市と都市の間で高速通信が可能になる．例 えば，都市 2 と 1，都市 6 と 4 の間に敷設すればよい．これが新たに必要な光ファイバーの本数 の最小値である．</p>

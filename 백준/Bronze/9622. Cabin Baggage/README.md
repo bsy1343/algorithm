@@ -22,7 +22,7 @@
 
 <p>Cabin baggage should have a maximum length of 56 cm, width of 45 cm and depth of 25 cm or the sum of all 3 sides (length+width+depth) should not exceed 125 cm. Its weight must not exceed 7 kg.&nbsp;</p>
 
-<p><img alt="" src="/upload/images2/cabin.png" style="height:152px; width:153px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/9622.%E2%80%85Cabin%E2%80%85Baggage/0881559b.png" data-original-src="https://www.acmicpc.net/upload/images2/cabin.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:152px; width:153px" /></p>
 
 <p>The company has a laser measurement device with high precision to evaluate the size and weight of cabin baggage. The device gives 4 values which are positive numbers with 2 decimal points. They are length, width, depth (in cm) and weight (in kg), respectively.&nbsp;</p>
 

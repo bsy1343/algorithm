@@ -32,6 +32,6 @@
 
 ### 힌트
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/016a001b-f61c-449e-ae9c-bef1f8e69995/-/preview/" style="width: 512px; height: 100px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/20811.%E2%80%85%C3%96ar/4d98545d.png" data-original-src="https://upload.acmicpc.net/016a001b-f61c-449e-ae9c-bef1f8e69995/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 512px; height: 100px;" /></p>
 
 <p style="text-align: center;">FIGUR 1. Figuren visar situationen i det f&ouml;rsta exemplet n&auml;r den sista (tolfte) deltagaren f&ouml;rsvunnit p&aring; &ouml; nummer 5.</p>

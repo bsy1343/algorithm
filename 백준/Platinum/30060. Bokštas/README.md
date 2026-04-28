@@ -22,11 +22,11 @@
 
 <p>Pavyzdžiui, turint bok&scaron;tą:</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/25aca470-94d1-4dd7-a42a-01eedc37e9a9/-/preview/" style="width: 50px; height: 171px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/30060.%E2%80%85Bok%C5%A1tas/273ba7f7.png" data-original-src="https://upload.acmicpc.net/25aca470-94d1-4dd7-a42a-01eedc37e9a9/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 50px; height: 171px;" /></p>
 
 <p>ir $K = 3$, Jonas pa&scaron;alintų ilgą žalių kubelių seką. Taip gautų naują bok&scaron;tą:</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/ccd109ae-92f2-4a50-9dd3-f100c243bb35/-/preview/" style="width: 158px; height: 171px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/30060.%E2%80%85Bok%C5%A1tas/49feadf1.png" data-original-src="https://upload.acmicpc.net/ccd109ae-92f2-4a50-9dd3-f100c243bb35/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 158px; height: 171px;" /></p>
 
 <p>Jei bok&scaron;te yra kelios &scaron;alinamos sekos, jos <strong>visos pa&scaron;alinamos vienu metu</strong>.</p>
 
@@ -34,7 +34,7 @@
 
 <p>&Scaron;iame bok&scaron;te raudonų kubelių seka yra ilgio $K = 3$, todėl Jonas vėl perstato bok&scaron;tą:</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/a678ae62-610a-431e-b2e5-55478e8c351b/-/preview/" style="width: 168px; height: 93px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/30060.%E2%80%85Bok%C5%A1tas/d943bee4.png" data-original-src="https://upload.acmicpc.net/a678ae62-610a-431e-b2e5-55478e8c351b/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 168px; height: 93px;" /></p>
 
 <p>Akivaizdu, kad kartais toks perstatymo procesas gali būti kartojamas gan ilgai. Padėkite Jonui surasti, kaip atrodytų bok&scaron;tas po visų perstatymų.</p>
 

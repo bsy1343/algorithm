@@ -28,7 +28,7 @@
 
 <p>For example, suppose we are given a friendship graph shown in the figure below. Decomposing the students into $A = \{u_1, u_2, u_3, u_6\}$ and $B = \{u_4, u_5, u_7\}$ is not possible because $u_2$ and $u_6$ are not friends. On the other hand, in the decomposition into $A = \{u_1, u_2\}$ and $B = \{u_3, u_4, u_5, u_6, u_7\}$, any two students in each group are friends with each other; however, the size difference ($|2 - 5| = 3$) between the two groups is larger than the difference ($|3 - 4| = 1$) in the decomposition into $A = \{u_1, u_2, u_3\}$ and $B = \{u_4, u_5, u_6, u_7\}$. The last one is an optimal decomposition we want.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/a74bd91c-648d-46ae-80f8-a1ea13567fa0/-/preview/" style="width: 255px; height: 125px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/23569.%E2%80%85Friendship%E2%80%85Graphs/265e241f.png" data-original-src="https://upload.acmicpc.net/a74bd91c-648d-46ae-80f8-a1ea13567fa0/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 255px; height: 125px;" /></p>
 
 ### 입력
 

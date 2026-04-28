@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p><img alt="" src="/upload/images2/snowball.jpg" style="float:right; height:139px; width:300px" />You have a sequence of lowercase characters that you want to encrypt.</p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/10465.%E2%80%85Rolling%E2%80%85Encryption/2b7e3cc8.jpg" data-original-src="https://www.acmicpc.net/upload/images2/snowball.jpg" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="float:right; height:139px; width:300px" />You have a sequence of lowercase characters that you want to encrypt.</p>
 
 <p>The first <em>k</em> characters will be encoded as plain-text. All characters after the first <em>k</em> characters will be shifted by the most frequently occuring character that appeared in the previous <em>k</em> characters, with ties broken by the character which occurs first in the alphabet. By &quot;shifted by&quot;, we mean that if <code>c</code> was the most frequently occuring character, the character would be shifted ahead by 3 positions (since <code>c</code> is the third letter of the alphabet), modulo 26 (e.g., <code>b</code> becomes <code>e</code>, and <code>z</code> becomes <code>c</code>).</p>
 

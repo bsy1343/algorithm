@@ -26,7 +26,7 @@
 	노드가 N개있는 이진 트리가 있다. 이때, 각 노드의 오른쪽 서브트리와 왼쪽 서브트리의 높이의 차이는 1이내이다. 서브트리의 높이란 그 서브트리의 루트와 리프 노드와의 경로의 길이 중에서 가장 긴 값이다. 노드가 하나있는 서브트리의 높이는 0이고, 노드가 없는 서브트리의 높이는 -1이다.</p>
 
 <p>
-	<img alt="" src="/upload/images/subtree.png" style="width: 368px; height: 283px;" /></p>
+	<img alt="" src="%EB%B0%B1%EC%A4%80/Gold/4457.%E2%80%85%EC%83%81%EA%B7%BC%EC%9D%B4%EC%9D%98%E2%80%85%EC%9E%90%EB%AC%BC%EC%87%A0/dcc0be63.png" data-original-src="https://www.acmicpc.net/upload/images/subtree.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 368px; height: 283px;" /></p>
 
 ### 입력
 

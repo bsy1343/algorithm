@@ -21,7 +21,7 @@
 <p>선형 분류기란 쉽게 말해서 어떤 데이터가 가지고 있는 두 특징 값(x1, x2)을 통하여 올바르게 데이터의 유형을 분류할 수 있는 직선의 방정식을 의미한다. 실제로 주어진 데이터들 사이에서 이러한 방정식 중 최적의 방정식을 자동으로 찾기 위해 수많은 알고리즘들이 개발되었다.</p>
 
 
-<p style="text-align:center"><img alt="" src="http://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14604/1.png" style="height:225px; width:236px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/14604.%E2%80%85Over%E2%80%85Fitting%E2%80%85(Small)/e3976fdb.png" data-original-src="http://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14604/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:225px; width:236px" /></p>
 
 <p style="text-align:center">&lt;위의 데이터들은 선형 분류기를 이용해 두 그룹으로 정확히 나눌 수 있다&gt;</p>
 
@@ -29,7 +29,7 @@
 
 <p>하지만 항상 이렇게 정확하게 분류할 수 있는 선형 분류기가 존재하는 것은 아니다. 현실의 데이터들은 수많은 예외와 오차가 존재하고 이에 반해서 선형 분류기는 너무 단순하기 때문이다.</p>
 
-<p style="text-align:center"><img alt="" src="http://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14604/2.png" style="height:211px; width:226px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/14604.%E2%80%85Over%E2%80%85Fitting%E2%80%85(Small)/b8056b98.png" data-original-src="http://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14604/2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:211px; width:226px" /></p>
 
 <p>동이는 N명의 사람을 표현할 수 있는 두 특징값과 각 사람이 가장 좋아하는 걸그룹 정보를 수집하였다. 이를 바탕으로 동이는 두 특징값을 이용해 러블리즈를 가장 좋아하는 사람을 분류할 수 있는 선형 분류기를 찾고자 한다. 동이가 찾고자 하는 선형 분류기는 아래와 같은 조건을 만족하여야 한다.</p>
 
@@ -44,7 +44,7 @@
 
 <p>동이가 선형 분류기를 만드는 데 사용할 데이터들이 주어질 때, 위의 조건을 만족하며 가장 좋은 선형분류기는 러블리즈를 가장 좋아하는 사람 중 몇 명을 Positive 그룹으로 분류할 수 있는지 계산하는 프로그램을 작성해주자.</p>
 
-<p style="text-align:center"><img alt="" src="http://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14604/3.png" style="height:249px; width:276px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/14604.%E2%80%85Over%E2%80%85Fitting%E2%80%85(Small)/87786a46.png" data-original-src="http://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14604/3.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:249px; width:276px" /></p>
 
 <p style="text-align:center">&lt;흰 점을 가장 많이 Positive에 포함시키는 선형분류기는 L이다&gt;</p>
 

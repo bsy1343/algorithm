@@ -22,7 +22,7 @@
 
 <p>Besides showing the current position of a car, the pole is also used to display the number of positions the cars have won or lost, relative to the starting grid. This is done by showing, side by side to the car number, an integer number. A positive value v beside a car number in the pole means that car has won v positions relative to the starting grid. A negative value v means that car has lost v positions relative to the starting grid. A zero beside a car number in the pole means the car has neither won nor lost any positions relative to the starting grid (the car is in the same position it started).</p>
 
-<p style="text-align: center;"><img alt="" src="/upload/images2/pole.png" style="height:177px; width:195px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/5725.%E2%80%85Pole%E2%80%85Position/ef947a19.png" data-original-src="https://www.acmicpc.net/upload/images2/pole.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:177px; width:195px" /></p>
 
 <p>We are in the middle of the Swedish Grand Prix, the last race of the World Championship. The race director, Dr. Shoo Makra, is getting worried: there have been some complaints that the software that controls the pole position system is defective, showing information that does not reflect the true race order.</p>
 

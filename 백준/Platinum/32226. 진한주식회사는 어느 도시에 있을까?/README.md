@@ -28,7 +28,7 @@
 
 <p>각 나라들이 영역을 확장해 나가면서 영역이 서로 겹치는 경우도 있었는데, 세 나라가 동시에 겹치는 영역을 <strong>격전지</strong>라고 불렀다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/8dffa5a4-4d76-49a8-a281-7bca80d10663/-/preview/" style="width: 320px; max-width: 100%;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/32226.%E2%80%85%EC%A7%84%ED%95%9C%EC%A3%BC%EC%8B%9D%ED%9A%8C%EC%82%AC%EB%8A%94%E2%80%85%EC%96%B4%EB%8A%90%E2%80%85%EB%8F%84%EC%8B%9C%EC%97%90%E2%80%85%EC%9E%88%EC%9D%84%EA%B9%8C%3F/008cc5ca.png" data-original-src="https://upload.acmicpc.net/8dffa5a4-4d76-49a8-a281-7bca80d10663/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 320px; max-width: 100%;" /></p>
 
 <p>진한주식회사에서 연구하던 진한이는 세 나라의 수도 사이의 거리를 알아내었다. 이제 진한이는 세 나라의 격전지의 넓이를 알고 싶다. 진한이를 도와 격전지의 넓이를 알아보자.</p>
 

@@ -20,7 +20,7 @@
 
 <p>Любимым занятием Васи стала сортировка поездов с использованием специального <em>сортировочного тупика</em>.&nbsp;</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/4eaaaf12-93a5-4734-8a53-298ba70fbf84/-/preview/" style="width: 320px; height: 129px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/20479.%E2%80%85%D0%9F%D0%BE%D0%B5%D0%B7%D0%B4%D0%B0/f47ce0be.png" data-original-src="https://upload.acmicpc.net/4eaaaf12-93a5-4734-8a53-298ba70fbf84/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 320px; height: 129px;" /></p>
 
 <p>Справа к тупику подъезжает поезд, составленный из всех $n$ вагонов. Затем вагоны по одному загоняются в сортировочный тупик и выгоняются из него налево. Васе нравится, если ему удается отсортировать поезд с помощью сортировочного тупика --- добиться того, чтобы слева от тупика вагоны были расположены по порядку от 1 до $n$.</p>
 

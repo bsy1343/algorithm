@@ -18,7 +18,7 @@
 
 <p>There are two rows of positive integer numbers. We can draw one line segment between any two equal numbers, with values r, if one of them is located in the first row and the other one is located in the second row. We call this line segment an r-matching segment. The following figure shows a 3-matching and a 2-matching segment.</p>
 
-<p><img alt="" src="https://onlinejudgeimages.s3.amazonaws.com/problem/7337/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-09-22%20%EC%98%A4%EC%A0%84%2010.38.05.png" style="height:76px; width:140px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/7337.%E2%80%85Crossed%E2%80%85Matchings/5851082e.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/7337/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-09-22%20%EC%98%A4%EC%A0%84%2010.38.05.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:76px; width:140px" /></p>
 
 <p>We want to find the maximum number of matching segments possible to draw for the given input, such that:</p>
 
@@ -27,7 +27,7 @@
 	<li>No two matching segments can be drawn from a number. For example, the following matchings are not allowed.</li>
 </ol>
 
-<p><img alt="" src="https://onlinejudgeimages.s3.amazonaws.com/problem/7337/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-09-22%20%EC%98%A4%EC%A0%84%2010.38.11.png" style="height:63px; width:180px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/7337.%E2%80%85Crossed%E2%80%85Matchings/9fa0edaa.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/7337/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-09-22%20%EC%98%A4%EC%A0%84%2010.38.11.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:63px; width:180px" /></p>
 
 <p>Write a program to compute the maximum number of matching segments for the input data. Note that this number is always even.</p>
 

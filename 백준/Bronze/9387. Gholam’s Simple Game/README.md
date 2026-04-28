@@ -18,7 +18,7 @@
 
 <p>The floor of Gholam&rsquo;s bedroom is tiled with white and yellow tiles. Sometimes when he is bored, he stands on one of the tiles and starts to walk along the row he is standing on. He first decides on a number n and starts to walk n steps. If he reaches the wall, he turns back and continues to walk in the opposite direction. He continues until he takes n steps. Note that turning back besides a wall does not count as a step. He counts how many yellow tiles he steps on.</p>
 
-<p><img alt="" src="/upload/images2/gh.png" style="float:right; height:52px; width:139px" />For example, the figure on the right shows a row in the floor. The colors of the tiles are shown with the characters &lsquo;Y&rsquo; and &lsquo;W&rsquo; for yellow and white tiles respectively. If he starts at tile 3 facing to the right, and decides to take 7 steps, he finally stops at tile 2. During this walk, he steps 3 times on yellow tiles.</p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/9387.%E2%80%85Gholam%E2%80%99s%E2%80%85Simple%E2%80%85Game/d418ab71.png" data-original-src="https://www.acmicpc.net/upload/images2/gh.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="float:right; height:52px; width:139px" />For example, the figure on the right shows a row in the floor. The colors of the tiles are shown with the characters &lsquo;Y&rsquo; and &lsquo;W&rsquo; for yellow and white tiles respectively. If he starts at tile 3 facing to the right, and decides to take 7 steps, he finally stops at tile 2. During this walk, he steps 3 times on yellow tiles.</p>
 
 ### 입력
 

@@ -22,7 +22,7 @@
 
 <p>As an example, consider the first sample case, shown in Figure A.1. The input block can be rotated clockwise $90$ degrees and shifted left to make it fit exactly and clear all rows of the grid once it touches down.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/57f05ba1-5d71-4171-abf4-7ffcf3abff1b/-/preview/" style="width: 512px; height: 152px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/30305.%E2%80%85Anti-Tetris/13dbea72.png" data-original-src="https://upload.acmicpc.net/57f05ba1-5d71-4171-abf4-7ffcf3abff1b/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 512px; height: 152px;" /></p>
 
 <p style="text-align: center;">Figure A.1: Visualization of the first sample case. The falling block (the input, light yellow) perfectly fits in the Tetris grid (the output, other colours).</p>
 

@@ -24,7 +24,7 @@
 	<li>3. A rectangle R<sub>a</sub> must have the same color as R<sub>b</sub>&nbsp;if there is a sequence of rectangles R<sub>a&nbsp;</sub>=&nbsp;R<sub>i1</sub>,&nbsp;R<sub>i2</sub>, &hellip;,R<sub>ik&nbsp;</sub>= R<sub>b </sub>such that&nbsp;R<sub>ij&nbsp;</sub>and R<sub>ij+1&nbsp;</sub>are intersecting for all 1&le; j &lt; k ; otherwise, they must have different&nbsp;colors. For instance, rectangle R<sub>9</sub>&nbsp;in the following figure must have the same color as R<sub>4, </sub>R<sub>5, </sub>R<sub>8</sub>,&nbsp;and have a different color from R<sub>1, </sub>R<sub>2</sub>, R<sub>3</sub>, R<sub>6</sub>, R<sub>7</sub>.</li>
 </ol>
 
-<p style="text-align: center;"><img alt="" src="https://onlinejudgeimages.s3.amazonaws.com/problem/9001/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-11-15%20%EC%98%A4%ED%9B%84%205.08.12.png" style="height:250px; width:275px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/9001.%E2%80%85Rectangle%E2%80%85Coloring/a18d4359.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/9001/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-11-15%20%EC%98%A4%ED%9B%84%205.08.12.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:250px; width:275px" /></p>
 
 ### 입력
 

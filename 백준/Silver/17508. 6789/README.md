@@ -20,7 +20,7 @@
 
 <p>Currently, Jaehyun has $N\times M$ cards. Jaehyun wants to make a magical $N$ by $M$ matrix of cards. Each row of the matrix should contain $M$ cards. He already arranged his cards in a shape of $N$ by $M$ matrix.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/56e283c5-7f2b-43f0-bbcb-81c15d7bba03/-/preview/" /><br />
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/17508.%E2%80%856789/26dbee44.png" data-original-src="https://upload.acmicpc.net/56e283c5-7f2b-43f0-bbcb-81c15d7bba03/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /><br />
 &nbsp;</p>
 
 <p style="text-align: center;"><em>Figure 1. Initial state, not point symmetric.</em></p>
@@ -29,7 +29,7 @@
 
 <p>Jaehyun doesn&#39;t want to switch the position of the cards, so his goal is to make the matrix point symmetrical by only rotating the cards in their original positions.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/2628d8c3-19f3-474c-a59b-95b79b7ad5b3/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/17508.%E2%80%856789/3631fb32.png" data-original-src="https://upload.acmicpc.net/2628d8c3-19f3-474c-a59b-95b79b7ad5b3/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p style="text-align: center;"><em>Figure 2. After rotating two cards, they are point symmetric.</em></p>
 

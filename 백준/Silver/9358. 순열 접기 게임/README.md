@@ -27,15 +27,15 @@
 	<li>이제 수열에는 숫자 두 개가 포함되어 있다. 첫 번째 수가 두 번째 수보다 큰 경우에는 상근이가 이기고, 나머지 경우는 창영이가 이긴다.</li>
 </ol>
 
-<p style="text-align:center"><img alt="" src="/upload/images/fold1.png" style="height:201px; width:497px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/9358.%E2%80%85%EC%88%9C%EC%97%B4%E2%80%85%EC%A0%91%EA%B8%B0%E2%80%85%EA%B2%8C%EC%9E%84/e303f423.png" data-original-src="https://www.acmicpc.net/upload/images/fold1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:201px; width:497px" /></p>
 
 <p style="text-align:center">그림 1.a 접기 전</p>
 
-<p style="text-align:center"><img alt="" src="/upload/images/fold2.png" style="height:133px; width:327px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/9358.%E2%80%85%EC%88%9C%EC%97%B4%E2%80%85%EC%A0%91%EA%B8%B0%E2%80%85%EA%B2%8C%EC%9E%84/d356ed79.png" data-original-src="https://www.acmicpc.net/upload/images/fold2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:133px; width:327px" /></p>
 
 <p style="text-align:center">그림 1.b 한 번 접고 난 후</p>
 
-<p style="text-align:center"><img alt="" src="/upload/images/fold3.png" style="height:124px; width:376px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/9358.%E2%80%85%EC%88%9C%EC%97%B4%E2%80%85%EC%A0%91%EA%B8%B0%E2%80%85%EA%B2%8C%EC%9E%84/860c6db4.png" data-original-src="https://www.acmicpc.net/upload/images/fold3.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:124px; width:376px" /></p>
 
 <p style="text-align:center">그림 1.c 한 번 더 접고 난 후, 상근이가 이겼다!</p>
 

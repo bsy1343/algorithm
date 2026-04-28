@@ -20,7 +20,7 @@
 
 <p>모래시계는 아래와 같이 생겼다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/98609f29-cedc-4b2a-8804-fd391c4c581a/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/20133.%E2%80%85%EB%AA%A8%EB%9E%98%EC%8B%9C%EA%B3%84%E2%80%852/cc4a87b6.png" data-original-src="https://upload.acmicpc.net/98609f29-cedc-4b2a-8804-fd391c4c581a/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p style="text-align: center;">[그림] 모래시계</p>
 

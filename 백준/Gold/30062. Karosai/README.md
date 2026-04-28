@@ -20,7 +20,7 @@
 
 <p>Pavyzdžiui, yra trys tvenkiniai ($N = 3$), pirmas ir antras tvenkiniai yra sujungti pertvara, kurios auk&scaron;tis $h_{1,2} = 5\,000$, o antras ir trečias &ndash; pertvara, kurios auk&scaron;tis $h_{2,3} = 7\,000$. Karosai galės perplaukti i&scaron; pirmo tvenkinio į antrą, jeigu vandens lygis pirmame (taigi ir antrame) tvenkinyje sieks bent $5\,000$. Tačiau, jie galėtų perplaukti i&scaron; pirmo į trečią tvenkinį, tik jei vandens lygis sieks $7\,000$.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/b0a1c192-4cd6-4391-a5b0-12e5814ed2c8/-/preview/" style="width: 366px; height: 169px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/30062.%E2%80%85Karosai/ca64f9d9.png" data-original-src="https://upload.acmicpc.net/b0a1c192-4cd6-4391-a5b0-12e5814ed2c8/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 366px; height: 169px;" /></p>
 
 <p style="text-align: center;">Karosai gali perplaukti i&scaron; pirmojo į antrąjį tvenkinį, bet ne į trečiąjį.</p>
 

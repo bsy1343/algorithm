@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/f56b312b-9138-4a89-a26b-ae3c0be0b1d1/-/preview/" style="width: 382px; height: 234px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/16288.%E2%80%85Passport%E2%80%85Control/fcd2dc83.png" data-original-src="https://upload.acmicpc.net/f56b312b-9138-4a89-a26b-ae3c0be0b1d1/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 382px; height: 234px;" /></p>
 
 <p style="text-align: center;">그림 G.1: <em>N</em>명의 입국 승객은 <em>k</em>개의 여권 심사 창구 {<em>Q</em><sub><em>k</em></sub>} 중 하나를 반드시 거쳐야 한다.</p>
 

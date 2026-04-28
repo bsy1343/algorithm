@@ -37,7 +37,7 @@
 
 <p>For a query such as &quot;Give usage of the student 1 between 13:00 and 14:30&quot;, your program should answer &quot;55 minutes&quot;, that is, the sum of 45 minutes from 13:00 to 13:45 and 10 minutes from 14:20 to 14:30, as depicted in the following figure.</p>
 
-<p style="text-align: center;"><img alt="" src="/upload/images3/B.png" style="height:302px; width:684px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/4975.%E2%80%85Analyzing%E2%80%85Login%EF%BC%8FLogout%E2%80%85Records/9515c84c.png" data-original-src="https://www.acmicpc.net/upload/images3/B.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:302px; width:684px" /></p>
 
 ### 입력
 

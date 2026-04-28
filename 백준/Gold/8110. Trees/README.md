@@ -27,7 +27,7 @@
 <p>The following picture shows an example of a complete binary tree. The nodes of that tree are numbered in a special order called preorder. In this order the root has the number&nbsp;1, a father precedes its sons, and the left son and any its descendant have smaller numbers than the right son and every its descendant.</p>
 
 <p style="text-align: center;"><br />
-<img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/8110/1.gif" style="width: 285px; height: 258px;" /></p>
+<img alt="" src="%EB%B0%B1%EC%A4%80/Gold/8110.%E2%80%85Trees/2a88d7c9.gif" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/8110/1.gif" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 285px; height: 258px;" /></p>
 
 <p>There are many written representations of complete binary trees having such numbering of nodes. Three ones follow.</p>
 

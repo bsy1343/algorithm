@@ -40,6 +40,6 @@
 
 ### 힌트
 
-<p style="text-align:center"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15007/1.png" style="height:279px; width:200px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/15007.%E2%80%85Easter%E2%80%85Eggs/f15d8926.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15007/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:279px; width:200px" /></p>
 
 <p style="text-align:center">Figure 3: Illustration of the second example input. The eggs are hidden in the four filled bushes.</p>

@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p><img alt="" src="/upload/images/connect.png" style="float:right; height:133px; width:128px" />전기 회로에서 두 점을 전선으로 이을 때, 길이는 짧을 수록 좋다.</p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/5022.%E2%80%85%EC%97%B0%EA%B2%B0/ea37117b.png" data-original-src="https://www.acmicpc.net/upload/images/connect.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="float:right; height:133px; width:128px" />전기 회로에서 두 점을 전선으로 이을 때, 길이는 짧을 수록 좋다.</p>
 
 <p>크기가 N&times;M인 비어있는 회로판에서 두 점 A1과 A2, 그리고 B1와 B2를 전선을 이용해서 이으려고 한다. 전선은 항상 그리드의 수직, 수평선 위에 있어야 한다. 또, 두 직선은 접하면 안 된다. 이 경우에 필요한 전선의 길이의 최솟값을 구하는 프로그램을 작성하시오. 전선은 회로판 바깥으로 나갈 수 없다.</p>
 

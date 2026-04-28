@@ -24,7 +24,7 @@
 
 <p>병아리들은 관찰하던 다진이는 문득 N일 후에는 병아리가 몇 마리가 될 지 궁금해졌다.&nbsp;</p>
 
-<p><img alt="" src="https://upload.acmicpc.net/87050431-899c-4bf0-b308-46749569792b/-/preview/" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/16467.%E2%80%85%EB%B3%91%EC%95%84%EB%A6%AC%EC%9D%98%E2%80%85%EB%B3%80%EC%8B%A0%EC%9D%80%E2%80%85%EB%AC%B4%EC%A3%84/8cc8aa19.png" data-original-src="https://upload.acmicpc.net/87050431-899c-4bf0-b308-46749569792b/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>위의 그림은 K = 0일 때 상태를 나타낸다. K = 0이므로 병아리가 알을 낳자 마자 알은 병아리로 부화한다. 그림에서 사각형은 병아리를 나타낸다. 다진이를 도와 N일 후의 병아리의 수를 알아내어보자.&nbsp;</p>
 
@@ -40,6 +40,6 @@
 
 ### 힌트
 
-<p><img alt="" src="https://upload.acmicpc.net/a429494e-6b2f-42fd-b5c6-b34df0e28b48/-/preview/" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/16467.%E2%80%85%EB%B3%91%EC%95%84%EB%A6%AC%EC%9D%98%E2%80%85%EB%B3%80%EC%8B%A0%EC%9D%80%E2%80%85%EB%AC%B4%EC%A3%84/1990e2f4.png" data-original-src="https://upload.acmicpc.net/a429494e-6b2f-42fd-b5c6-b34df0e28b48/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>위의 그림은 K = 2일때의 상태를 나타낸다. K = 2이므로 병아리가 알을 낳은 후 2일이 지나면 병아리로 부화한다. 위의 그림에서 원은 알을 나타낸다.</p>

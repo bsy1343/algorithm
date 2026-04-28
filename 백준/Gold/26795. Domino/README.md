@@ -20,7 +20,7 @@
 
 <p>Poniższy rysunek prezentuje prostokąt o szerokości n = 6, w kt&oacute;rym zamalowano dwa pola. Pozostałe 10 p&oacute;l można pokryć kostkami domina na dokładnie 4 sposoby. Dwa ze sposob&oacute;w zostały przedstawione na rysunku (kostki domina zostały nieco pomniejszone jedynie dla lepszego zobrazowania sytuacji):</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/ebaf8b0c-1d8c-4393-b0b1-b703838a8d39/-/preview/" style="width: 470px; height: 75px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/26795.%E2%80%85Domino/9f0a8a70.png" data-original-src="https://upload.acmicpc.net/ebaf8b0c-1d8c-4393-b0b1-b703838a8d39/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 470px; height: 75px;" /></p>
 
 <p>Nie jest to jednak optymalne rozwiązanie dla m = 4, ponieważ istnieje rozwiązanie, w kt&oacute;rym n = 5.</p>
 

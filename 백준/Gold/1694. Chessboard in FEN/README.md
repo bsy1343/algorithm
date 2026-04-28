@@ -37,7 +37,7 @@
 
 <p>is the FEN notation description of the following chessboard:</p>
 
-<p><img alt="" src="/upload/images2/chb1.gif" style="height:171px; width:171px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/1694.%E2%80%85Chessboard%E2%80%85in%E2%80%85FEN/c4368e5d.gif" data-original-src="https://www.acmicpc.net/upload/images2/chb1.gif" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:171px; width:171px" /></p>
 
 <p>The chessboard of the beginning of a chess game is described in FEN as:</p>
 

@@ -18,7 +18,7 @@
 
 <p>기다랗고 2N개의 방이 있는 미술관이 있다. 미술관은 세로로 N줄, 가로로 2칸의 방으로 구성된다. 위아래, 양 옆으로 붙어있는 방들은 서로 연결되어 있다. 오늘의 큐레이터는 미술관 운영진으로부터 비용 절감을 위해 k개의 방을 닫아야 한다는 통보를 받았다. 방문자들은 한쪽 끝의 두 방중 적어도 한 방에는 방문할 수 있어야 하며 다른쪽 끝의 두 방중 한 방으로 나갈 수 있어야 한다. 즉, 큐레이터는 같은 줄의 어느 두 방을 모두 닫거나 대각선으로 붙어있는 두 방을 닫아서는 안 된다는 뜻이다. 또한, 각 방들이 대중에게 공개되었을 때 얼마나 큰 가치를 지니는지를 큐레이터는 알고 있다. 큐레이터는 위 조건과 같이 방문자들의 길을 막지 않으면서 방문자들에게 공개 가능한 가치의 합을 최대로 하고 싶어한다.</p>
 
-<p style="text-align:center"><img alt="" src="/upload/images2/gallery.png" style="height:351px; width:90px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/10476.%E2%80%85%EC%A2%81%EC%9D%80%E2%80%85%EB%AF%B8%EC%88%A0%EC%A0%84%EC%8B%9C%EA%B4%80/93e6efe0.png" data-original-src="https://www.acmicpc.net/upload/images2/gallery.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:351px; width:90px" /></p>
 
 <p>그림 H.1: 샘플 인풋에 대한 최적해를 나타낸다. 회색으로 색칠된 방들을 닫아야 한다.</p>
 

@@ -18,7 +18,7 @@
 
 <p>Consider the point sets in figures 1a, 2a, and 3a. Using only those points as vertices, figures 1b, 2b, and 3b show all the rectangles that can be formed with horizontal and vertical sides. No rectangles can be formed from the points in figure 4.</p>
 
-<p><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/4671/rect.gif" style="height:632px; width:751px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/4671.%E2%80%85Finding%E2%80%85Rectangles/3b8a1878.gif" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/4671/rect.gif" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:632px; width:751px" /></p>
 
 <p>Your task is to write a program that can find all rectangles that can be formed from a given set of points. The example input and output given below correspond to the figures above.</p>
 

@@ -26,7 +26,7 @@
 
 <p>Knowing all this, you want to know when you will be able to go home.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/a2edeba9-3a8b-4f43-b3de-2a9090fc5eda/-/preview/" style="height: 256px; width: 228px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/30546.%E2%80%85Gas%E2%80%85Station/235fb86e.png" data-original-src="https://upload.acmicpc.net/a2edeba9-3a8b-4f43-b3de-2a9090fc5eda/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 256px; width: 228px;" /></p>
 
 ### 입력
 

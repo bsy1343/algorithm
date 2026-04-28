@@ -22,7 +22,7 @@
 
 <p>The drawing works as follows. First some ramp sections from among the $N \cdot M$ are removed. For each section, a $B$-sided die (with the sides numbered $1, \ldots, B$) is rolled and if the result is at most $A$, the section is removed. After that, a ball is released from the top-left corner of the machine, above the topmost ramp. If the ball ends up in a basket, the player&#39;s prize is the amount written on the basket.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/5d50b05b-7324-4fb9-9f0f-018e72e6071c/-/preview/" /><img alt="" src="https://upload.acmicpc.net/58e9c6a1-14a9-40ce-b494-f19c5f423f9a/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/29903.%E2%80%85Lottery/fbb28e80.png" data-original-src="https://upload.acmicpc.net/5d50b05b-7324-4fb9-9f0f-018e72e6071c/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/29903.%E2%80%85Lottery/1a230b2c.png" data-original-src="https://upload.acmicpc.net/58e9c6a1-14a9-40ce-b494-f19c5f423f9a/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>You try to explain to Jack that in general, he always loses money in such games. To prove your point, you want to compute the expected average value of the prize of this game.</p>
 

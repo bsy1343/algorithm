@@ -22,7 +22,7 @@
 
 <p>꿍은 매우 게을러서 원하는 알람시각을 맞추는데 최소한의 노력만 하고싶다. 그래서 여러분들은 꿍이 어떻게 하면 최소한의 노력을 들여서 원하는 시각으로 알람을 맞출 수 있을지 알아내는 프로그램을 만들어야 한다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/3154.%E2%80%85%EC%95%8C%EB%9E%8C%EC%8B%9C%EA%B3%84/b5505714.png" data-original-src="https://upload.acmicpc.net/91730349-4dba-40f8-8901-1b10949e9d75/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 86px; height: 114px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/3154.%E2%80%85%EC%95%8C%EB%9E%8C%EC%8B%9C%EA%B3%84/b5505714.png" data-original-src="%EB%B0%B1%EC%A4%80/Bronze/3154.%E2%80%85%EC%95%8C%EB%9E%8C%EC%8B%9C%EA%B3%84/b5505714.png" data-original-src="https://upload.acmicpc.net/91730349-4dba-40f8-8901-1b10949e9d75/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 86px; height: 114px;" /></p>
 
 <p>키보드는 위와 같이 생겼고 키 a에서 키 b로 이동할 때 필요한 노력은 다음과 같다.</p>
 

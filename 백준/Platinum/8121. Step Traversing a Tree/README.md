@@ -26,7 +26,7 @@
 
 <p>The picture shows a tree of 7 vertices. The vertices are represented by black dots, and edges by line segments joining the dots.</p>
 
-<p style="text-align: center;"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/8121/1.gif" style="width: 421px; height: 157px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/8121.%E2%80%85Step%E2%80%85Traversing%E2%80%85a%E2%80%85Tree/bf4d57da.gif" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/8121/1.gif" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 421px; height: 157px;" /></p>
 
 <p>This tree can be traversed with step 3 by visiting its vertices in the following order: 7 2 3 5 6 4 1.</p>
 

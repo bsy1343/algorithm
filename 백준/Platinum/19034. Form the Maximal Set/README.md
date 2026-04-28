@@ -34,4 +34,4 @@
 
 <p>In the second example, you may replace the chord $(1, 7)$ to obtain a set of three intersecting chords: for example, all chords except $(2, 4)$ form a pairwise intersecting set.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/48623b79-d971-4d75-a7a4-2057309660ab/-/preview/" style="width: 300px; height: 307px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/19034.%E2%80%85Form%E2%80%85the%E2%80%85Maximal%E2%80%85Set/edb513f0.png" data-original-src="https://upload.acmicpc.net/48623b79-d971-4d75-a7a4-2057309660ab/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 300px; height: 307px;" /></p>

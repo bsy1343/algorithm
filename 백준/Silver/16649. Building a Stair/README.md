@@ -20,11 +20,11 @@
 
 <p>The latest thing Barney built is a stair. A stair consists of one or more towers of cubes, where the heights of towers are non-increasing from left to right. In the following picture, you can see three different shapes with 12 cubes each. The first two are stairs and the third one is not a stair.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/7243fc1c-b5a6-4896-9477-f2f59d0b99a6/-/preview/" style="width: 266px; height: 87px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/16649.%E2%80%85Building%E2%80%85a%E2%80%85Stair/9f31ae2c.png" data-original-src="https://upload.acmicpc.net/7243fc1c-b5a6-4896-9477-f2f59d0b99a6/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 266px; height: 87px;" /></p>
 
 <p>Barney noticed that for some stairs you can turn your head 90 degrees to the right and you will see the same stair, but reversed! He calls such stairs symmetric. For example, the first stair above is symmetric, but the second one is not. Formally, a stair is symmetric if and only if when you reflect the picture over the x = y line, you get the same stair (where the x-axis is horizontal and oriented to the right, and the y-axis is vertical and oriented upwards).</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/8c33cb72-69e6-4797-9077-a6641f69a7ce/-/preview/" style="width: 116px; height: 117px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/16649.%E2%80%85Building%E2%80%85a%E2%80%85Stair/70f230d3.png" data-original-src="https://upload.acmicpc.net/8c33cb72-69e6-4797-9077-a6641f69a7ce/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 116px; height: 117px;" /></p>
 
 <p>Barney wants to build a symmetric stair using all of his n cubes. Show him how to do it!</p>
 

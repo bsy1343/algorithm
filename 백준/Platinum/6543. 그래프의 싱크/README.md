@@ -50,4 +50,4 @@
 
 ### 힌트
 
-<p><img alt="" src="/upload/images2/bottom.gif" style="height:190px; width:159px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/6543.%E2%80%85%EA%B7%B8%EB%9E%98%ED%94%84%EC%9D%98%E2%80%85%EC%8B%B1%ED%81%AC/9c6d5a35.gif" data-original-src="https://www.acmicpc.net/upload/images2/bottom.gif" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:190px; width:159px" /></p>

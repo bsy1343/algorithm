@@ -20,7 +20,7 @@
 
 <p>G를 자기 루프와 중복 간선 없는 단순 방향성 그래프라고 하자. 어떤 두 정점 v, w가 G에 있다고 할 때, v에서 w로 가는 경로를 (u<sub>1</sub>, u<sub>2</sub>, &hellip; ,u<sub>l</sub>)라 하자. 이때, u<sub>i</sub>들은 서로 다르고, u<sub>1</sub> = v, u<sub>l</sub> = w이고, 1이상 l 미만인 모든 i에 대해 u<sub>i</sub>에서 u<sub>i+1</sub>로 가는 방향성 간선이 존재한다. 만약 l &ge; 2이고 u<sub>l</sub>에서 u<sub>1</sub>으로 가는 방향성 간선이 존재한다면, 이를 싸이클이라고 한다. 홀수 싸이클이란 싸이클 중에서 길이 l이 홀수인 싸이클을 의미한다. 아래 &lt;그림 1&gt;을 참고하자.</p>
 
-<p style="text-align:center"><img src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11498/1.png" style="height:122px; width:543px" /><br />
+<p style="text-align:center"><img src="%EB%B0%B1%EC%A4%80/Platinum/11498.%E2%80%85%ED%99%80%EC%88%98%E2%80%85%EC%8B%B8%EC%9D%B4%ED%81%B4/d701c264.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11498/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:122px; width:543px" /><br />
 &lt;그림 1&gt; 단순 방향성 그래프들</p>
 
 ### 입력

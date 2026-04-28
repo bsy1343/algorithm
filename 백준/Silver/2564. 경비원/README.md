@@ -20,7 +20,7 @@
 
 <p>예를 들어 가로의 길이가 10, 세로의 길이가 5인 블록의 경계에 무인 경비를 의뢰한 3개의 상점이 있다고 하자. &lt;그림 1&gt;과 같이 이들은 1, 2, 3으로 표시되어 있고, 동근이는 X로 표시한 위치에 있다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/e89bf381-c913-4e99-b4b7-42bc4ba7c3ec/-/preview/" style="width: 274px; height: 163px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/2564.%E2%80%85%EA%B2%BD%EB%B9%84%EC%9B%90/d0d59031.png" data-original-src="https://upload.acmicpc.net/e89bf381-c913-4e99-b4b7-42bc4ba7c3ec/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 274px; height: 163px;" /></p>
 
 <p style="text-align: center;">&lt; 그림 1 &gt;</p>
 

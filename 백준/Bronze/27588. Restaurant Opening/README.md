@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<figure style="float: right;"><img alt="" src="https://upload.acmicpc.net/5af31fcd-2897-4b8a-9ef6-715b7c760a39/-/resize/600x/" style="width: 200px; height: 300px;" />
+<figure style="float: right;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/27588.%E2%80%85Restaurant%E2%80%85Opening/f79b06ee.png" data-original-src="https://upload.acmicpc.net/5af31fcd-2897-4b8a-9ef6-715b7c760a39/-/resize/600x/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 200px; height: 300px;" />
 <figcaption>Image by <a href="https://www.freepik.com/free-photo/vertical-shot-orange-blue-neon-sign-that-says-open-bar_17247073.htm">wirestock on Freepik</a></figcaption>
 </figure>
 

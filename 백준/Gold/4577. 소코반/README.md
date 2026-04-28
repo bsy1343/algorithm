@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p><img alt="" src="/upload/images/example.png" style="float:right; height:178px; width:200px" />소코반은 1982년에 일본에서 만들어진 게임으로, 일본어로 창고지기라는 뜻이다. 이 게임은 캐릭터를 이용해 창고 안에 있는 박스를 모두 목표점으로 옮기는 게임이다. 목표점의 수와 박스의 수는 같다. 플레이어는 화살표(위, 아래, 왼쪽, 오른쪽)를 이용해 캐릭터를 아래와 같은 규칙으로 조정할 수 있다.</p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/4577.%E2%80%85%EC%86%8C%EC%BD%94%EB%B0%98/e1bf9a53.png" data-original-src="https://www.acmicpc.net/upload/images/example.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="float:right; height:178px; width:200px" />소코반은 1982년에 일본에서 만들어진 게임으로, 일본어로 창고지기라는 뜻이다. 이 게임은 캐릭터를 이용해 창고 안에 있는 박스를 모두 목표점으로 옮기는 게임이다. 목표점의 수와 박스의 수는 같다. 플레이어는 화살표(위, 아래, 왼쪽, 오른쪽)를 이용해 캐릭터를 아래와 같은 규칙으로 조정할 수 있다.</p>
 
 <ul>
 	<li>캐릭터에게 지시한 방향이 빈 칸(박스나 벽이 아닌 곳)인 경우에는 그 칸으로 이동한다.</li>

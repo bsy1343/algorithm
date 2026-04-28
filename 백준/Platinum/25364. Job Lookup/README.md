@@ -38,4 +38,4 @@
 
 <p>The minimal possible total cost is $566 \cdot 1+239 \cdot 1+30 \cdot 1+1 \cdot 2+1 \cdot 2=839$:</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/a59cf6e2-7960-4b70-8466-00f63747fe98/-/preview/" style="width: 206px; height: 150px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/25364.%E2%80%85Job%E2%80%85Lookup/89afe56b.png" data-original-src="https://upload.acmicpc.net/a59cf6e2-7960-4b70-8466-00f63747fe98/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 206px; height: 150px;" /></p>

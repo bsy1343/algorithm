@@ -40,4 +40,4 @@
 
 <p>Note: The figures below illustrate the two sample input cases.&nbsp;</p>
 
-<p style="text-align: center;"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/5488/1.png" style="height:74px; width:336px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/5488.%E2%80%85That%E2%80%85Nice%E2%80%85Euler%E2%80%85Circuit/a673c0a5.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/5488/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:74px; width:336px" /></p>

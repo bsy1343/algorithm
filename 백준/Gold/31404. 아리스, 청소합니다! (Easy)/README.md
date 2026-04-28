@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align: right;"><img alt="" src="https://upload.acmicpc.net/bb1b1790-a790-4ec9-b566-07b4af5e3bcf/-/preview/" style="float: right; width: 160px; margin-left: 16px; margin-right: 16px;" /><em>뽜밤뽜밤-! 아리스는 메이드 용사로 전직했습니다!</em></p>
+<p style="text-align: right;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/31404.%E2%80%85%EC%95%84%EB%A6%AC%EC%8A%A4%2C%E2%80%85%EC%B2%AD%EC%86%8C%ED%95%A9%EB%8B%88%EB%8B%A4!%E2%80%85(Easy)/b6b7a572.png" data-original-src="https://upload.acmicpc.net/bb1b1790-a790-4ec9-b566-07b4af5e3bcf/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="float: right; width: 160px; margin-left: 16px; margin-right: 16px;" /><em>뽜밤뽜밤-! 아리스는 메이드 용사로 전직했습니다!</em></p>
 
 <p>밀레니엄 사이언스 스쿨 엔지니어부의 히비키는 튜링 머신과 비슷한 원리로 작동하는 로봇 청소기를 발명했습니다.</p>
 

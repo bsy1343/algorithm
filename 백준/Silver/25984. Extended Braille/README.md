@@ -20,7 +20,7 @@
 
 <p>The goal is to extend the braille alphabet to include all Unicode characters. Of course, this will not fit in the standard $2 \times 3$ format, so using a bigger box is allowed. Important is that no two braille characters are the same up to translation, i.e., have the same shape. See Figure \ref{fig:braille} for an example. You let a designer make up a large braille alphabet, and your job is to check how many unique shapes there are among the characters.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/7521df4a-84a4-46cc-a7db-53fbe159959d/-/preview/" style="width: 223px; height: 150px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/25984.%E2%80%85Extended%E2%80%85Braille/37138f2b.png" data-original-src="https://upload.acmicpc.net/7521df4a-84a4-46cc-a7db-53fbe159959d/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 223px; height: 150px;" /></p>
 
 <p style="text-align: center;">Figure E.1: Illustration of Sample Input 1: two characters with the same shape.</p>
 

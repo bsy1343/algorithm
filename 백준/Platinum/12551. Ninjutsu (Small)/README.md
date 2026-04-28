@@ -28,7 +28,7 @@
 
 <p>Example</p>
 
-<p><img src="https://onlinejudgeimages.s3.amazonaws.com/problem/12551/images-34.png" style="vertical-align:middle" /></p>
+<p><img src="%EB%B0%B1%EC%A4%80/Platinum/12551.%E2%80%85Ninjutsu%E2%80%85(Small)/f6f8fd75.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/12551/images-34.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="vertical-align:middle" /></p>
 
 <p>In the example above, there are 6 points:</p>
 
@@ -51,7 +51,7 @@
 
 <p>and will end up orbiting point&nbsp;(14, 5)&nbsp;with about 1.3004 units of rope remaining. This path amounts to 5 bends, in total, and is an optimal solution.</p>
 
-<p><img src="https://onlinejudgeimages.s3.amazonaws.com/problem/12551/images-33.png" style="vertical-align:middle" /></p>
+<p><img src="%EB%B0%B1%EC%A4%80/Platinum/12551.%E2%80%85Ninjutsu%E2%80%85(Small)/3266eeec.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/12551/images-33.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="vertical-align:middle" /></p>
 
 <p>Case #1 in the sample input below represents this example.</p>
 

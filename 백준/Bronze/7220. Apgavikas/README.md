@@ -35,7 +35,7 @@
 
 <p>Pavyzdinę žaidimo eigą galite pamatyti žemiau pateiktame pavyzdyje.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/7e41c1db-a34b-4728-9981-97699fcad488/-/preview/" style="width: 310px; height: 317px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/7220.%E2%80%85Apgavikas/322f23c7.png" data-original-src="https://upload.acmicpc.net/7e41c1db-a34b-4728-9981-97699fcad488/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 310px; height: 317px;" /></p>
 
 <p>Martynas sužinojo, kad naujai žaidžiamame žaidime jis bus apgavikas, bei tai, kuris žaidėjas į kokį kambarį bus siunčiamas kiekvieno turo metu.</p>
 

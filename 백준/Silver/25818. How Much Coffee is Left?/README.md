@@ -20,7 +20,7 @@
 
 <p>Your coffee mug is the shape of a cross section of a cone. Here is a horizontal view:</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/8cced1c5-892a-4a23-ad6c-2e66ef09baf3/-/preview/" style="width: 240px; height: 223px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/25818.%E2%80%85How%E2%80%85Much%E2%80%85Coffee%E2%80%85is%E2%80%85Left%3F/a222ca53.png" data-original-src="https://upload.acmicpc.net/8cced1c5-892a-4a23-ad6c-2e66ef09baf3/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 240px; height: 223px;" /></p>
 
 <p>You start the morning with a full cup. After some amount of time, you note the depth of the coffee remaining &ndash; this is the distance from the bottom of the cup to the surface of the coffee (note that the surface of the coffee is a plane parallel to the bottom of the cup). Given this information, calculate how much more time it will take before the coffee is finished, assuming that you drink coffee at the same constant rate the whole time.</p>
 

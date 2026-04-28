@@ -28,13 +28,13 @@
 
 <p>where P<sub>i</sub> is a positive number called the power of the object i, r<sub>i</sub> is the radius of the object i, and d<sub>i</sub> is the distance between Tom and the circumference of the object when he gets to the closest point.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/81e601f4-95f4-44dc-8021-e43ed00d19f1/-/preview/" style="width: 139px; height: 175px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/22799.%E2%80%85Get%E2%80%85out!/b81cdfc1.png" data-original-src="https://upload.acmicpc.net/81e601f4-95f4-44dc-8021-e43ed00d19f1/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 139px; height: 175px;" /></p>
 
 <p>Tom gets unable to move anymore if he loses all his energy.</p>
 
 <p>Your task is to write a program that shows Tom&rsquo;s remaining energy after his escape when he moves in such a direction that he remains his energy as much as possible.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/44478051-a831-4a8b-9cc3-446a88b10144/-/preview/" style="width: 408px; height: 288px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/22799.%E2%80%85Get%E2%80%85out!/255c4788.png" data-original-src="https://upload.acmicpc.net/44478051-a831-4a8b-9cc3-446a88b10144/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 408px; height: 288px;" /></p>
 
 ### 입력
 

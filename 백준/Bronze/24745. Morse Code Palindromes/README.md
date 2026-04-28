@@ -24,17 +24,17 @@
 
 <p>Morse code is a method used in telecommunication to encode text characters as standardized sequences of two different signal durations, called dots and dashes, or dits and dahs. Morse code is named after Samuel Morse, one of the inventors of the telegraph. The international morse code for letters and digits is (Note that the code for upper and lower case letters is the same.):</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/74f37042-07e4-455d-aeb4-f581e05d90df/-/preview/" style="width: 418px; height: 300px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/24745.%E2%80%85Morse%E2%80%85Code%E2%80%85Palindromes/333779ef.png" data-original-src="https://upload.acmicpc.net/74f37042-07e4-455d-aeb4-f581e05d90df/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 418px; height: 300px;" /></p>
 
 <p>A word, number or phrase is a <strong>Morse Code Palindrome</strong> if the morse code for the letters and digits in the word, number or phrase reads the same backwards or forwards (ignoring spaces between character codes. For example:</p>
 
 <p>159</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/a4bdf6de-decd-4d2d-a884-5fb4ab2248df/-/preview/" style="width: 411px; height: 22px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/24745.%E2%80%85Morse%E2%80%85Code%E2%80%85Palindromes/56405479.png" data-original-src="https://upload.acmicpc.net/a4bdf6de-decd-4d2d-a884-5fb4ab2248df/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 411px; height: 22px;" /></p>
 
 <p>Footstool</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/6650fad5-1597-40c5-bc3b-c5eaff66e88c/-/preview/" style="width: 718px; height: 22px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/24745.%E2%80%85Morse%E2%80%85Code%E2%80%85Palindromes/9336dd23.png" data-original-src="https://upload.acmicpc.net/6650fad5-1597-40c5-bc3b-c5eaff66e88c/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 718px; height: 22px;" /></p>
 
 <p>Write a program which takes as input a string and determines if the string is a Morse Code Palindrome.</p>
 

@@ -18,7 +18,7 @@
 
 <p>Одна из центральных площадей Архангельска замощена прямоугольными плитками размера $1 \times k$. Если ввести систему координат, так что левый нижний угол одной из плиток будет иметь координаты $(0, 0)$, то левые нижние углы плиток будут иметь координаты $(i \cdot k+j,j)$ для всех целых $i$ и $j$.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/885562b9-fc3a-4c21-8248-ddaa270cb7d8/-/preview/" style="width: 625px; height: 250px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/21500.%E2%80%85%D0%9F%D0%B0%D0%BC%D1%8F%D1%82%D0%BD%D0%B8%D0%BA/bd05ac21.png" data-original-src="https://upload.acmicpc.net/885562b9-fc3a-4c21-8248-ddaa270cb7d8/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 625px; height: 250px;" /></p>
 
 <p>На площади было решено установить памятник известному архангельскому писателю и художнику Степану Писахову. Для установки памятника необходимо удалить все плитки, полностью или частично попадающие под его основание. Основание памятника имеет форму многоугольника с целочисленными координатами вершин, все стороны которого параллельны осям координат. Известно, что любая прямая, пересекающая основание памятника и параллельная одной из осей координат, в пересечении с основанием образует один отрезок.</p>
 
@@ -38,10 +38,10 @@
 
 ### 힌트
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/abec8219-7550-46bf-b4e0-ec71818291f3/-/preview/" style="width: 619px; height: 212px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/21500.%E2%80%85%D0%9F%D0%B0%D0%BC%D1%8F%D1%82%D0%BD%D0%B8%D0%BA/d5180039.png" data-original-src="https://upload.acmicpc.net/abec8219-7550-46bf-b4e0-ec71818291f3/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 619px; height: 212px;" /></p>
 
 <p style="text-align: center;">Исходное расположение основания памятника в первом примере.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/ae0be17e-578b-485c-aa35-d15bdffc54c1/-/preview/" style="width: 619px; height: 210px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/21500.%E2%80%85%D0%9F%D0%B0%D0%BC%D1%8F%D1%82%D0%BD%D0%B8%D0%BA/7d053348.png" data-original-src="https://upload.acmicpc.net/ae0be17e-578b-485c-aa35-d15bdffc54c1/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 619px; height: 210px;" /></p>
 
 <p style="text-align: center;">Оптимальное расположение основания памятника в первом примере.</p>

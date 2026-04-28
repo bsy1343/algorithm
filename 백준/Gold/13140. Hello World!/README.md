@@ -18,7 +18,7 @@
 
 <p>N이 주어질 때 hello + world = N을 만족하는 서로 다른 한 자리 자연수(0 포함)&nbsp;d, e, h, l, o, r, w를 구해서 아래 그림과 같은 형태로 출력하는 프로그램을 작성하여라. 단, h와 w는 0이 될 수 없다.</p>
 
-<p style="text-align:center"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/13140/H_term.png" style="height:106px; width:265px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/13140.%E2%80%85Hello%E2%80%85World!/dafb038e.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/13140/H_term.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:106px; width:265px" /></p>
 
 ### 입력
 

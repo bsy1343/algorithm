@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p><img alt="" src="/upload/images2/dg.png" style="float:right; height:208px; width:257px" /> 꿍과 석은 군대에서 수많은 보드게임을 해서 일반적으로 6개의 면을 갖는 주사위가 아닌 특이한 주사위들, 예를 들면, 47,48,...,56이 적혀있는 10개의 면을 가진 주사위 등을 갖고 있다.</p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/10262.%E2%80%85%EC%A3%BC%EC%82%AC%EC%9C%84%E2%80%85%EA%B2%8C%EC%9E%84/6f474223.png" data-original-src="https://www.acmicpc.net/upload/images2/dg.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="float:right; height:208px; width:257px" /> 꿍과 석은 군대에서 수많은 보드게임을 해서 일반적으로 6개의 면을 갖는 주사위가 아닌 특이한 주사위들, 예를 들면, 47,48,...,56이 적혀있는 10개의 면을 가진 주사위 등을 갖고 있다.</p>
 
 <p>할일없는 군대에서, 꿍과 석은 각자 갖고있는 2개의 주사위를 굴려서 합이 높은 사람이 이기는 새로운 주사위게임을 만들어보기로 했다.</p>
 

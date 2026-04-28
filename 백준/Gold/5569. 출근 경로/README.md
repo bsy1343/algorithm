@@ -38,4 +38,4 @@
 
 <p>예제 1의 경우 다음과 같은 5가지 경로가 있다.</p>
 
-<p style="text-align: center;"><img alt="" src="/upload/images/path.png" style="width: 332px; height: 293px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/5569.%E2%80%85%EC%B6%9C%EA%B7%BC%E2%80%85%EA%B2%BD%EB%A1%9C/7c1f7519.png" data-original-src="https://www.acmicpc.net/upload/images/path.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 332px; height: 293px;" /></p>

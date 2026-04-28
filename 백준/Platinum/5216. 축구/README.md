@@ -36,7 +36,7 @@
 
 <p>아래 그림은 예제를 그림으로 나타낸 것이다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/ecceb149-a51e-4512-af23-8554575c6225/-/preview/" style="width: 461px; height: 189px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/5216.%E2%80%85%EC%B6%95%EA%B5%AC/574d22b8.png" data-original-src="https://upload.acmicpc.net/ecceb149-a51e-4512-af23-8554575c6225/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 461px; height: 189px;" /></p>
 
 ### 입력
 

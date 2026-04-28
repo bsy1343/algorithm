@@ -20,7 +20,7 @@
 <p>오름은 올라야만 한다.</p>
 </blockquote>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/4d440ef1-170a-427d-ae36-3218d0fe3406/-/preview/" style="height: 408px; width: 700px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/31671.%E2%80%85%ED%8A%B9%EB%B3%84%ED%95%9C%E2%80%85%EC%98%A4%EB%A6%84%E2%80%85%EB%93%B1%EB%B0%98/7edd4afa.png" data-original-src="https://upload.acmicpc.net/4d440ef1-170a-427d-ae36-3218d0fe3406/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 408px; width: 700px;" /></p>
 
 <p>NLCS Jeju의 기숙사 이름 &quot;오름&quot;은 제주에서 봉우리나 산을 부르는 말인 오름에서 따왔다. 각 기숙사의 학생들은 1년에 한 번, 실제로 기숙사 이름의 기원인 오름을 오르게 된다.</p>
 

@@ -20,13 +20,13 @@
 
 <p>Close-ups of some of the pieces are shown below:</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/0ad8a0d0-505c-4b68-ab46-b0af36cac393/-/preview/" style="width: 200px; height: 150px;" />&nbsp;<img alt="" src="https://upload.acmicpc.net/6e27e13c-8257-4c11-a83f-2825a4d3d2dd/-/preview/" style="width: 200px; height: 150px;" />&nbsp;<img alt="" src="https://upload.acmicpc.net/86e4afa3-090d-4669-8d10-b9eca453a83f/-/preview/" style="width: 200px; height: 150px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/24789.%E2%80%85Railroad/8be0098a.png" data-original-src="https://upload.acmicpc.net/0ad8a0d0-505c-4b68-ab46-b0af36cac393/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 200px; height: 150px;" />&nbsp;<img alt="" src="%EB%B0%B1%EC%A4%80/Silver/24789.%E2%80%85Railroad/59b05352.png" data-original-src="https://upload.acmicpc.net/6e27e13c-8257-4c11-a83f-2825a4d3d2dd/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 200px; height: 150px;" />&nbsp;<img alt="" src="%EB%B0%B1%EC%A4%80/Silver/24789.%E2%80%85Railroad/e0e04023.png" data-original-src="https://upload.acmicpc.net/86e4afa3-090d-4669-8d10-b9eca453a83f/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 200px; height: 150px;" /></p>
 
 <p>To play, she picks a number of X-shaped level junctions and a number of Y-shaped switches and connects them with straight and curved pieces, using bridges as necessary.</p>
 
 <p>Because the set doesn&#39;t include any bumpers, she wants to build a closed track, like all the examples shown in the manual that came with the set:</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/259ef401-f156-4f8b-a7c1-bc37cb488205/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/24789.%E2%80%85Railroad/12324d0f.png" data-original-src="https://upload.acmicpc.net/259ef401-f156-4f8b-a7c1-bc37cb488205/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p style="text-align: center;">Figure 1: Various track layouts possible with the DUPLO railway system. Curved pieces are shown in green, straights in red, switches in orange, level junctions in yellow, bridges in blue, and crossings in black. DUPLO is a trademark of the LEGO Group.</p>
 

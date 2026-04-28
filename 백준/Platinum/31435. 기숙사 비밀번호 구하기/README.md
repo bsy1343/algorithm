@@ -18,7 +18,7 @@
 
 <p>이 문제는 <strong>인터랙티브</strong> 문제이다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/216686e3-9a60-4d29-ac8c-aa3f44a59255/-/preview/" style="width: 768px; height: 567px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/31435.%E2%80%85%EA%B8%B0%EC%88%99%EC%82%AC%E2%80%85%EB%B9%84%EB%B0%80%EB%B2%88%ED%98%B8%E2%80%85%EA%B5%AC%ED%95%98%EA%B8%B0/7aa27f16.png" data-original-src="https://upload.acmicpc.net/216686e3-9a60-4d29-ac8c-aa3f44a59255/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 768px; height: 567px;" /></p>
 
 <p>한별이와 우빈이는 같은 기숙사 방을 배정받게 되었다. 그런데 한별이와 같은 방을 쓰기 부끄러웠던 우빈이는 한별이가 들어오기 전 문에다가 비밀번호 장치를 설치해 버렸다. 장치를 풀기 위해선 $0 \leq x_{i} &lt; 998\,244\,353$를 만족하는 $N$개의 정수 $x_{1},x_{2},\cdots,x_{N}$를 알아내야 한다. 그러나 츤데레인 우빈이는 한별이의 프로그래밍 실력이 뛰어난지 알아보기 위하여 다음의 함수를 제공하였다. 한별이는 $N$개의 원하는 정수 $a_{1},a_{2},\cdots,a_{N}$을 골라 그 함숫값 $f(a_{1},a_{2},\cdots,a_{N})$을 알아낼 수 있다.</p>
 

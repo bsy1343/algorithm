@@ -18,7 +18,7 @@
 
 <p>UCPC 대학교 내에서 열리는 체육대회의 응원단에 $N^2$($N$은 짝수)명의 단원이 참가할 예정이다. 응원단장은 먼저 $N^2$명의 단원을 $N$개의 행(가로줄)과 $N$개의 열(세로줄)로 구성된 $N\times N$의 격자 형태로 배치했다. 그리고 $i$행 $j$열에 위치한 응원단의 번호를 $A_{i,j}$라 할 때, $A_{i,j}=(i-1)\times N+j$번의 번호를 부여하는 방식으로 각 단원에게 $1$번부터 $N^2$번까지 번호를 매겼다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/a9e11329-a0f5-4d69-9ec8-1ddf83091294/-/preview/" style="width: 300px; height: 243px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/28300.%E2%80%85%EC%9D%91%EC%9B%90%EB%8B%A8/c17a1432.png" data-original-src="https://upload.acmicpc.net/a9e11329-a0f5-4d69-9ec8-1ddf83091294/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 300px; height: 243px;" /></p>
 
 <p style="text-align: center;">$N=4$일 때 응원단의 상태</p>
 

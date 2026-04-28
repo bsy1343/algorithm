@@ -20,7 +20,7 @@
 
 <p>예를 들어 아래 그림처럼 $M = 4$ 장의 카드를 나열한 경우 $X = $<code>&quot;2024&quot;</code> 로 표현할 수 있다. Albert는 항상 인접한 숫자 카드 쌍 사이에 공백을 충분히 두어 덧셈 카드를 넣을 수 있도록 배열하는데, 아래 그림에서 이러한 &quot;빈 칸&quot;이 총 $M-1 = 3$ 개 임을 확인할 수 있다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/bbba121d-d3cb-4417-b210-3f10665f241c/-/preview/" style="width: 350px; height: 42px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/31457.%E2%80%85%EC%88%AB%EC%9E%90%E2%80%85%EC%B9%B4%EB%93%9C%EB%A1%9C%E2%80%85%EB%8D%A7%EC%85%88%E2%80%85%EB%86%80%EC%9D%B4/e4c8927c.png" data-original-src="https://upload.acmicpc.net/bbba121d-d3cb-4417-b210-3f10665f241c/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 350px; height: 42px;" /></p>
 
 <p>Albert는 이제 각 빈칸에 덧셈 기호를 넣을지 말지 정하여 총 $2^{M-1} = 8$ 가지 다른 덧셈 공식을 얻을 수 있고, 아래 규칙에 따라 이 공식들을 정렬해보았다:</p>
 
@@ -31,7 +31,7 @@
 
 <p>이 방법으로 위와 같은 예제에서 8개의 공식을 정렬한 결과는 아래와 같다. 가령 3번째 공식과 4번째 공식의 첫 번째 빈칸은 서로 같지만, 두 번째 빈칸이 최초로 다른데 3번째 공식에는 덧셈 카드가 있으므로 정렬시 앞선다. 1번째와 2번째 공식도 같은 이유로 정렬시 순서가 정해진다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/e39e7f48-63b7-448e-afa2-6f6e9a5ddbb6/-/preview/" style="height: 347px; width: 400px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/31457.%E2%80%85%EC%88%AB%EC%9E%90%E2%80%85%EC%B9%B4%EB%93%9C%EB%A1%9C%E2%80%85%EB%8D%A7%EC%85%88%E2%80%85%EB%86%80%EC%9D%B4/cf050db9.png" data-original-src="https://upload.acmicpc.net/e39e7f48-63b7-448e-afa2-6f6e9a5ddbb6/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 347px; width: 400px;" /></p>
 
 <p>Albert의 놀이를 지켜보던 Bob은 아래와 같은 문제를 냈다:</p>
 

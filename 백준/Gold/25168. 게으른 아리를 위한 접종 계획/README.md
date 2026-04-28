@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/23397f9c-08e3-4cfe-ae0a-6a215ad0c4c1/-/preview/" style="width: 500px; height: 500px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/25168.%E2%80%85%EA%B2%8C%EC%9C%BC%EB%A5%B8%E2%80%85%EC%95%84%EB%A6%AC%EB%A5%BC%E2%80%85%EC%9C%84%ED%95%9C%E2%80%85%EC%A0%91%EC%A2%85%E2%80%85%EA%B3%84%ED%9A%8D/d88f759c.png" data-original-src="https://upload.acmicpc.net/23397f9c-08e3-4cfe-ae0a-6a215ad0c4c1/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 500px; height: 500px;" /></p>
 
 <p>아리와 쿠기가 사는 나라에 고양이 바이러스가 유행해서 고양이들이 백신을 맞아야 한다.</p>
 

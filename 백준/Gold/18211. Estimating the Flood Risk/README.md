@@ -28,7 +28,7 @@
 
 <p>In the third sample, no altitude assignments satisfy the assumption on altitude differences.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/11a1e0c5-c07f-48b6-b8bd-f8b787077fa9/-/preview/" style="width: 548px; height: 164px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/18211.%E2%80%85Estimating%E2%80%85the%E2%80%85Flood%E2%80%85Risk/9adca18a.png" data-original-src="https://upload.acmicpc.net/11a1e0c5-c07f-48b6-b8bd-f8b787077fa9/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 548px; height: 164px;" /></p>
 
 <p>Your job is to write a program that approximates the average altitude of his estate. To be precise, the program should compute the total of approximated and measured altitudes of all the mesh-divided areas. If two or more different approximations are possible, the program should compute the total with the severest approximation, that is, one giving the lowest total of the altitudes.</p>
 

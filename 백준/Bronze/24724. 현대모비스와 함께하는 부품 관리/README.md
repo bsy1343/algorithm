@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/2fa622f4-5868-4ca3-907d-37cc52bb9d45/-/preview/" style="width: 400px; height: 139px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/24724.%E2%80%85%ED%98%84%EB%8C%80%EB%AA%A8%EB%B9%84%EC%8A%A4%EC%99%80%E2%80%85%ED%95%A8%EA%BB%98%ED%95%98%EB%8A%94%E2%80%85%EB%B6%80%ED%92%88%E2%80%85%EA%B4%80%EB%A6%AC/174ea945.png" data-original-src="https://upload.acmicpc.net/2fa622f4-5868-4ca3-907d-37cc52bb9d45/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 400px; height: 139px;" /></p>
 
 <blockquote>
 <p>현대모비스는 연간 매출 36조 이상의 글로벌 7위 자동차 부품사입니다.</p>

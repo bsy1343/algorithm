@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/b3d2b290-1f8c-47f7-b96d-e9c40d78fa4d/-/preview/" style="width: 557px; height: 120px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/26646.%E2%80%85%EC%95%8C%ED%94%84%EC%8A%A4%E2%80%85%EC%BC%80%EC%9D%B4%EB%B8%94%EC%B9%B4/b2e0ca12.png" data-original-src="https://upload.acmicpc.net/b3d2b290-1f8c-47f7-b96d-e9c40d78fa4d/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 557px; height: 120px;" /></p>
 
 <p>ALPS 부원들은 친목 도모를 위해 다 같이 알프스 산맥으로 여행을 떠났다! 알프스 산맥은 $N$개의 산이 겹치거나 빈 부분 없이 일렬로 나열된 형태이며, 왼쪽에서부터 $i$번째에 위치한 산은 빗변을 아래로 하며 높이가 $H_i$인 직각 이등변 삼각형이다.</p>
 

@@ -20,7 +20,7 @@
 
 <p>예를 들어, 희원이가 세 개의 체인을 가지고 있고, 각 체인이 고리 하나로만 이루어져 있다면, 그 중 하나를 열어서 나머지 두 개를 연결하고 닫으면 된다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/d753b8f9-9b5b-4644-9cf9-a00771530de6/-/preview/" style="width: 152px; height: 131px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/2785.%E2%80%85%EC%B2%B4%EC%9D%B8/c7b3c75c.png" data-original-src="https://upload.acmicpc.net/d753b8f9-9b5b-4644-9cf9-a00771530de6/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 152px; height: 131px;" /></p>
 
 <p>체인의 개수와 각각의 체인의 길이가 주어지면, 하나의 긴 체인으로 모든 체인을 묶기 위해 희원이가 열고 닫아야할 최소한의 고리 수를 찾아라.</p>
 

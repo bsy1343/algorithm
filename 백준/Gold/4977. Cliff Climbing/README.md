@@ -20,13 +20,13 @@
 
 <p>Figure D-1 shows an example of cliff data that you will receive. The cliff is covered with square blocks. Jack starts cliff climbing from the ground under the cliff, by stepping his left or right foot on one of the blocks marked with &#39;S&#39; at the bottom row. The numbers on the blocks are the &quot;slippery levels&quot;. It takes t time units for him to safely put his foot on a block marked with t, where 1 &le; t &le; 9. He cannot put his feet on blocks marked with &#39;X&#39;. He completes the climbing when he puts either of his feet on one of the blocks marked with &#39;T&#39; at the top row.</p>
 
-<p style="text-align:center"><img alt="" src="/upload/images3/D-1.png" style="height:313px; width:324px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/4977.%E2%80%85Cliff%E2%80%85Climbing/33783cda.png" data-original-src="https://www.acmicpc.net/upload/images3/D-1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:313px; width:324px" /></p>
 
 <p style="text-align:center">Figure D-1: Example of Cliff Data</p>
 
 <p>Jack&#39;s movement must meet the following constraints. After putting his left (or right) foot on a block, he can only move his right (or left, respectively) foot. His left foot position (lx, ly) and his right foot position (rx, ry) should satisfy lx &lt; rx and | lx - rx | + | ly - ry | &le; 3. This implies that, given a position of his left foot in Figure D-2 (a), he has to place his right foot on one of the nine blocks marked with blue color. Similarly, given a position of his right foot in Figure D-2 (b), he has to place his left foot on one of the nine blocks marked with blue color.</p>
 
-<p style="text-align:center"><img alt="" src="/upload/images3/D-2.png" style="height:238px; width:406px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/4977.%E2%80%85Cliff%E2%80%85Climbing/39e0dff4.png" data-original-src="https://www.acmicpc.net/upload/images3/D-2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:238px; width:406px" /></p>
 
 <p style="text-align:center">Figure D-2: Possible Placements of Feet</p>
 

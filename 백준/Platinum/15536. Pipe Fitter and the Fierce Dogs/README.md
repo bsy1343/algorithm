@@ -38,7 +38,7 @@
 
 <p>The figure below is an example of a water pipe network in a 5 &times; 5 area with 4 special pipes. This corresponds to the first sample.</p>
 
-<p style="text-align:center"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15536/1.png" style="height:218px; width:392px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/15536.%E2%80%85Pipe%E2%80%85Fitter%E2%80%85and%E2%80%85the%E2%80%85Fierce%E2%80%85Dogs/448e749b.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15536/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:218px; width:392px" /></p>
 
 <p>Locating a common pipe at a no-dog block costs 1 unit time, but locating a common pipe at a dog-living block costs 2 unit time because you have to fight against the fierce dog. Note that when you locate multiple pipes at the same block, each pipe-locating costs 1 unit time for no-dog blocks and 2 for dog-living blocks, respectively. By the way, special pipes are very special, so locating a special pipe costs 0 unit time.</p>
 

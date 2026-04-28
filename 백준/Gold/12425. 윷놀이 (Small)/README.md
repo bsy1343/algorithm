@@ -30,7 +30,7 @@
 
 <p>&nbsp;</p>
 
-<p><img src="https://onlinejudgeimages.s3.amazonaws.com/problem/12425/images-43.png" style="vertical-align:middle" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://onlinejudgeimages.s3.amazonaws.com/problem/12425/images-42.png" style="vertical-align:middle" /></p>
+<p><img src="%EB%B0%B1%EC%A4%80/Gold/12425.%E2%80%85%EC%9C%B7%EB%86%80%EC%9D%B4%E2%80%85(Small)/754ba94c.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/12425/images-43.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="vertical-align:middle" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="%EB%B0%B1%EC%A4%80/Gold/12425.%E2%80%85%EC%9C%B7%EB%86%80%EC%9D%B4%E2%80%85(Small)/cf23504a.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/12425/images-42.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="vertical-align:middle" /></p>
 
 <p>말은 출발지인 0번 지점에서부터 출발하여 결승점인 0번 지점을 지나치는 경로로 이동한다. 말은 말판의 외곽을 따라서 움직이며, 빨간 점으로 표시된 부분에 말이 멈췄을 때 빠른 길로 이동한다. 최초의 말은 말판 위에 있지 않으므로 윷을 던져 말판에 올려놓기 전에는 잡을 수 없다. 또한, 결승점을 완전히 지나쳐야 말을 통과시킨 것으로 인정되므로 19번 위치에서 말을 통과시키기 위해서는 두 칸 이상 이동해야 한다. 한 칸을 움직이게 되면 0번 지점에 있게 되고, 다른 말에 의해 탈락될 수 있다. 결승점을 통과한 말은 다시 사용할 수 없으며, 모든 말이 통과하는 순간 그 팀이 승리하게 되며 경기는 중단된다. 마지막에 윷이나 모를 던져서 승리를 했더라도 게임이 중단된 후에는 더이상 던지지 않는다.</p>
 

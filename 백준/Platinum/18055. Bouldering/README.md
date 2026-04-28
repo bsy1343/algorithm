@@ -24,7 +24,7 @@
 
 <p>The bouldering wall is a rectangular grid of cells of size 1 &times; 1 where holds can be installed. For this problem we do not consider the varying sizes of the holds, so you can assume them to be the shape of a singular point exactly in the middle of the cell. Carl can only move from one hold to another if their distance (the Euclidean distance between the centres of the cells) does not exceed his arms&rsquo; reach.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/73deeb8f-a0a7-4d7c-ac24-ef88ba1844d4/-/preview/" style="width: 285px; height: 297px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/18055.%E2%80%85Bouldering/7536a590.png" data-original-src="https://upload.acmicpc.net/73deeb8f-a0a7-4d7c-ac24-ef88ba1844d4/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 285px; height: 297px;" /></p>
 
 <p style="text-align: center;">Figure B.1: Sample test case 1</p>
 

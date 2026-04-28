@@ -20,7 +20,7 @@
 
 <p>For example, in this picture:</p>
 
-<p><img alt="" src="https://onlinejudgeimages.s3.amazonaws.com/problem/12621/images-22.png" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/12621.%E2%80%85EZ-Sokoban%E2%80%85(Small)/31aa5c34.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/12621/images-22.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>Box 1 can be pushed in any of the four directions because the four spaces adjacent to it are empty. Box 2 can only be pushed east or west; it cannot be pushed north or south because the space to its south is not empty. Box 3 cannot be pushed in any direction. Box 4 can only be pushed east or west because there is a wall south of it.</p>
 
@@ -28,15 +28,15 @@
 
 <p>For example, in this picture:</p>
 
-<p><img src="https://onlinejudgeimages.s3.amazonaws.com/problem/12621/images-23.png" style="border:0px; height:164px; vertical-align:middle; width:183px" /></p>
+<p><img src="%EB%B0%B1%EC%A4%80/Gold/12621.%E2%80%85EZ-Sokoban%E2%80%85(Small)/f4e46137.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/12621/images-23.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="border:0px; height:164px; vertical-align:middle; width:183px" /></p>
 
 <p>The situation is stable, since all 4 boxes are connected, edge to edge. Let&#39;s assume that you decided to push the northmost box west:</p>
 
-<p><img src="https://onlinejudgeimages.s3.amazonaws.com/problem/12621/images-24.png" style="border:0px; vertical-align:middle" /></p>
+<p><img src="%EB%B0%B1%EC%A4%80/Gold/12621.%E2%80%85EZ-Sokoban%E2%80%85(Small)/5e4d37bb.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/12621/images-24.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="border:0px; vertical-align:middle" /></p>
 
 <p>Now, we are in dangerous mode since the northmost box is not connected to any other boxes. The next push must return us to a stable position. For example, we can push that northmost box south:</p>
 
-<p><img src="https://onlinejudgeimages.s3.amazonaws.com/problem/12621/images-25.png" style="border:0px; vertical-align:middle" /></p>
+<p><img src="%EB%B0%B1%EC%A4%80/Gold/12621.%E2%80%85EZ-Sokoban%E2%80%85(Small)/3a03bd92.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/12621/images-25.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="border:0px; vertical-align:middle" /></p>
 
 <p>Making the boxes stable again.</p>
 

@@ -20,7 +20,7 @@
 
 <p>Ковальски не умеет читать, зато умеет считать. Поэтому он хочет, чтобы при вводе пароля, загорелось ровно $n$ сегментов (единичных отрезков, из которых состоят $7$-сегментные индикаторы). Так же Ковальски не хочет, чтобы его пароль подобрали слишком быстро, поэтому среди всех подходящих паролей он хочет найти тот, который соответствует максимальному числу.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/0ad8b0cf-106c-4a75-ad93-2a5b28833bb7/-/preview/" style="width: 150px; height: 88px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/28660.%E2%80%85%D0%AD%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BD%D0%BD%D1%8B%D0%B9%E2%80%85%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA/c0e007b3.png" data-original-src="https://upload.acmicpc.net/0ad8b0cf-106c-4a75-ad93-2a5b28833bb7/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 150px; height: 88px;" /></p>
 
 <p style="text-align: center;">Рис. 1: Примеры того, как на $7$-сегментном индикаторе отображаются все цифры.</p>
 

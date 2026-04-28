@@ -18,7 +18,7 @@
 
 <p>DIY(Do It Yourself)는 호석이가 제일 좋아하는 컨텐츠이다. 이번 DIY는 동네 친구 하늘이랑 각자 직소 퍼즐을 하나씩 맞춰보기로 했다. 두 개의 퍼즐은 각자 N<sub>1</sub>&nbsp;행&nbsp;M<sub>1</sub>&nbsp;열과&nbsp;N<sub>2</sub>&nbsp;행&nbsp;M<sub>2</sub>&nbsp;열의 격자 형태로&nbsp;이루어져 있다. 각 격자는 정사각형 모양이며,&nbsp;퍼즐 조각이 있을 수도 있고, 없을 수도 있다. 즉, 아래 그림도 올바른 퍼즐의 완성 형태이다.</p>
 
-<p><img alt="" src="https://upload.acmicpc.net/df7fb12e-b45f-43ac-87c3-2de7f8672251/-/preview/" style="height: 250px; width: 250px;" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/21277.%E2%80%85%EC%A7%A0%EB%8F%8C%EC%9D%B4%E2%80%85%ED%98%B8%EC%84%9D/7f50e371.png" data-original-src="https://upload.acmicpc.net/df7fb12e-b45f-43ac-87c3-2de7f8672251/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 250px; width: 250px;" /></p>
 
 <p>성공적으로 DIY가 끝나서 퍼즐이 2개가 완성되었는데, 보관해야 하는 액자를 아직 구매하지 않았다. 그 이유는, 호석이는 엄청난 짠돌이기 때문에 퍼즐 하나마다 액자 하나를 사는 것은 상상도 못하기 때문이다. 액자의 가격은 액자의 넓이<strong>(행의 개수 &times;&nbsp;열의 개수)</strong> 로 결정된다. 즉, 퍼즐 두 개를&nbsp;퍼즐 조각끼리 같은 격자에서 만나지 않도록 배치해서 하나의 액자에 담는 방법 중에 가장 적은 비용일 때를&nbsp;찾아보자! 단, 각 퍼즐은 90도, 180도, 270도로 자유롭게 회전시켜도 된다.</p>
 

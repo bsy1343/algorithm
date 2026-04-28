@@ -20,7 +20,7 @@
 
 <p>These dice are ordinary cubes with a number on each of the six faces. The numbers are in the range 1&ndash;6, but they do not need to be distinct. For example, $\{ 1, 2, 3, 4, 5, 6\} $, $\{ 1, 1, 1, 1, 1, 1\} $ and $\{ 2, 2, 2, 4, 4, 5\} $ are all valid sets of numbers for the six faces. For this problem you want to find the size of the largest set of identical dice you can create from your very large collection. Two dice are considered identical to each other if it is possible to rotate one of the dice so that their top numbers are the same, their bottom numbers are the same, and so on for all six faces.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/ae3cbf21-d308-4359-bab3-8ba7efbac5a9/-/preview/" style="width: 200px; height: 144px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/31050.%E2%80%85Unique%E2%80%85Dice/2e92e961.png" data-original-src="https://upload.acmicpc.net/ae3cbf21-d308-4359-bab3-8ba7efbac5a9/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 200px; height: 144px;" /></p>
 
 <p style="text-align: center;"><b>Figure 1</b>: The six faces of a die.</p>
 

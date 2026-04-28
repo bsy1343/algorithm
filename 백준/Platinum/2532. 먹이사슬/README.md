@@ -18,7 +18,7 @@
 
 <p>1부터 N까지 번호가 붙여져 있는 N마리 서로 다른 동물이 있다. 모든 동물은 동일한 하나의 수평선 상에서 연속된 구간 내에서 활동한다. 이 구간을 그 동물의 활동영역이라 한다. 동물의 활동영역은 구간의 왼쪽 위치와 오른쪽 위치 쌍으로 나타낸다. 예를 들어, 7마리 동물의 활동영역이 다음 그림과 같다고 하자. 각 동물의 활동 영역은 선분으로 나타내어져 있다. 아래에서 동물 1의 활동영역은 (2, 4), 동물 2의 활동영역은 (6, 10), ..., 동물 7의 활동영역은 (3, 4)이다.</p>
 
-<p style="text-align: center;"><img alt="" src="/upload/images/hgfgd.png" style="height: 106px; width: 230px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/2532.%E2%80%85%EB%A8%B9%EC%9D%B4%EC%82%AC%EC%8A%AC/aa9c0c04.png" data-original-src="https://www.acmicpc.net/upload/images/hgfgd.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 106px; width: 230px;" /></p>
 
 <p>활동영역이 (x<sub>1</sub>, x<sub>2</sub>)인 동물 i와 (x<sub>3</sub>, x<sub>4</sub>)인 동물 j에 대하여, 다음 세 조건 중 하나를 만족하면 i가 j보다 먹이사슬에서 상위에 있다고 한다.&nbsp;</p>
 

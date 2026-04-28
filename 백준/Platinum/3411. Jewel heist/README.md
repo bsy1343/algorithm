@@ -20,7 +20,7 @@
 
 <p>Lupin has invented a device: a big, robotic hand that can grab some of the Erwin&rsquo;s jewels without triggering any of the alarms. The hand can make one (and only one) grab, taking all the jewels lying on some horizontal segment or below it (see the picture). Lupin could easily take all the jewels this way, but he knows that the more he takes, the harder it will be to get rid of them. He decided that the safest way is to take a set of jewels that does not contain all the k colors.</p>
 
-<p style="text-align: center;"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/upload/images2/jewel(1).png" style="height:278px; width:311px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/3411.%E2%80%85Jewel%E2%80%85heist/9ce83dfd.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/upload/images2/jewel(1).png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:278px; width:311px" /></p>
 
 <p>The robotic hand grabs jewels 1,2,4,5 and 6, carefully omitting the black ones</p>
 

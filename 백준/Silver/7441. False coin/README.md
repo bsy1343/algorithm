@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p><img alt="" src="/upload/images2/falsecoin.png" style="float:right; height:140px; width:184px" />The &ldquo;Gold Bar&rdquo; bank received information from reliable sources that in their last group of N coins exactly one coin is false and differs in weight from other coins (while all other coins are equal in weight). After the economic crisis they have only a simple balance available (like one in the picture). Using this balance, one is able to determine if the weight of objects in the left pan is less than, greater than, or equal to the weight of objects in the right pan.&nbsp;</p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/7441.%E2%80%85False%E2%80%85coin/49985900.png" data-original-src="https://www.acmicpc.net/upload/images2/falsecoin.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="float:right; height:140px; width:184px" />The &ldquo;Gold Bar&rdquo; bank received information from reliable sources that in their last group of N coins exactly one coin is false and differs in weight from other coins (while all other coins are equal in weight). After the economic crisis they have only a simple balance available (like one in the picture). Using this balance, one is able to determine if the weight of objects in the left pan is less than, greater than, or equal to the weight of objects in the right pan.&nbsp;</p>
 
 <p>In order to detect the false coin the bank employees numbered all coins by the integers from 1 to N, thus assigning each coin a unique integer identifier. After that they began to weight various groups of coins by placing equal numbers of coins in the left pan and in the right pan. The identifiers of coins and the results of the weightings were carefully recorded.&nbsp;</p>
 

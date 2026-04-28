@@ -22,7 +22,7 @@
 
 <p>Unfortunately, the billboard makers did not realize one thing. The tiles are very close to each other and their sides touch. Whenever a tile is tapped, it takes all neighboring tiles with it and all of them flip over together. Therefore, if you want to change the color of a tile, all neighboring tiles change their color too. Neighboring tiles are those that touch each other with the whole side. All inner tiles have 4 neighbors, which means 5 tiles are flipped over when tapped. Border tiles have less neighbors, of course.</p>
 
-<p><img alt="" src="/upload/images2/board.png" style="height:124px; width:382px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/3436.%E2%80%85Strange%E2%80%85Billboard/ed0298b4.png" data-original-src="https://www.acmicpc.net/upload/images2/board.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:124px; width:382px" /></p>
 
 <p>For example, if you have the billboard configuration shown in the left picture above and tap the tile marked with the cross, you will get the picture on the right. As you can see, the billboard reconfiguration is not so easy under these conditions. Your task is to find the fastest way to &rdquo;clear&rdquo; the billboard, i.e., to flip all tiles to their white side.</p>
 

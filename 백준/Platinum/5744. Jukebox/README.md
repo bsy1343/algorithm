@@ -20,11 +20,11 @@
 
 <p>In this jukebox, when you search for a string s, the software returns every music whose title or artist name contains s as a substring. String s is a substring of string t if t contains all characters of s as a contiguous sequence (for example, &lsquo;bc&rsquo; is a substring of &lsquo;abcd&rsquo;, but &lsquo;ac&rsquo; is not). To save their precious time, while looking for a song, they always use one of the song&rsquo;s golden string, i.e. one of the shortest strings for which the search returns as a result only the song they want.</p>
 
-<p style="text-align: center;"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/5744/1.png" style="height:222px; width:521px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/5744.%E2%80%85Jukebox/c36e9b85.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/5744/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:222px; width:521px" /></p>
 
 <p>In the example above, a possible golden string for the song &lsquo;johnnatan&rsquo; is &lsquo;ta&rsquo;. Note that &lsquo;ta&rsquo; is not a substring of the name of another song nor a substring of the artist of another song. Note also that there is no string of size equal to 1 that could identify uniquely the song &lsquo;johnnatan&rsquo;.</p>
 
-<p style="text-align: center;"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/5744/2.png" style="height:223px; width:522px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/5744.%E2%80%85Jukebox/9ff08205.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/5744/2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:223px; width:522px" /></p>
 
 <p>They discovered that if they remove the artist fields from some of the songs they can get even smaller golden strings. For the song &lsquo;john&rsquo;, there is no golden string. However, if one removes the artist field from all other songs, the string &lsquo;c&rsquo; becomes the golden string for the song &lsquo;john&rsquo;.</p>
 

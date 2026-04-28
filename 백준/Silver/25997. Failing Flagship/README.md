@@ -22,7 +22,7 @@
 
 <p>Unfortunately, you have encountered some bad weather. After a few hours of heavy winds and big waves, you can finally look at your compass again. You read off the wind direction $X$ you are going and know in which wind direction $Y$ you need to go. However, to make the ship turn you have to enter the degrees of the angle the ship has to make in the control system. What is the smallest turn, in degrees, you have to make to get back on the right course?</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/e7038f3e-a40c-45fc-bd97-890828ae2122/-/preview/" style="width: 250px; height: 257px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/25997.%E2%80%85Failing%E2%80%85Flagship/c2328f74.png" data-original-src="https://upload.acmicpc.net/e7038f3e-a40c-45fc-bd97-890828ae2122/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 250px; height: 257px;" /></p>
 
 <p style="text-align: center;">Figure F.1: Wind directions</p>
 

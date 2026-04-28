@@ -24,7 +24,7 @@
 
 <p>Например, если нужно построить мост из семи рядов, и при этом есть шесть бревен длины 3 и десять бревен длины 2, то можно построить мост ширины 5.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/ecd66a22-d258-4a97-b822-3a933201f1b8/-/preview/" style="width: 157px; height: 152px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/19966.%E2%80%85%D0%9C%D0%BE%D1%81%D1%82%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B5%D0%BD%D0%B8%D0%B5/0c5b1d55.png" data-original-src="https://upload.acmicpc.net/ecd66a22-d258-4a97-b822-3a933201f1b8/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 157px; height: 152px;" /></p>
 
 ### 입력
 

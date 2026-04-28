@@ -48,6 +48,6 @@
 
 <p>The following graphic shows the first sample:</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/cb652f9e-01b7-43cf-af21-2a140d8bd67f/-/preview/" style="width: 94px; height: 144px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/21850.%E2%80%85The%E2%80%85Xana%E2%80%85coup/9d23e17a.png" data-original-src="https://upload.acmicpc.net/cb652f9e-01b7-43cf-af21-2a140d8bd67f/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 94px; height: 144px;" /></p>
 
 <p>An optimal sequence of button presses to turn off all the cameras is given by pressing the buttons for cameras 4, 5, 3, and 1 in this order.</p>

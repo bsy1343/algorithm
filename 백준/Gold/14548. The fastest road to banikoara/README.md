@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14548/1.png" style="float:left; height:346px; width:249px" />Codjo: I am ready for the trip to Banikoara</p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/14548.%E2%80%85The%E2%80%85fastest%E2%80%85road%E2%80%85to%E2%80%85banikoara/7ed9a120.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14548/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="float:left; height:346px; width:249px" />Codjo: I am ready for the trip to Banikoara</p>
 
 <p>Bossi: Let us go through Parakou</p>
 

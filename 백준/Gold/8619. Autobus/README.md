@@ -26,7 +26,7 @@
 
 <p>Po pierwsze, okazało się, że autobus jest mało zwrotny, i może na skrzyżowaniach wykonywać skręty tylko wtedy, kiedy kąt skrętu jest nie większy niż $90^{\circ}$.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/b46caea6-e2ca-4c9e-be31-9d91d9c96e5d/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/8619.%E2%80%85Autobus/0fb35abf.png" data-original-src="https://upload.acmicpc.net/b46caea6-e2ca-4c9e-be31-9d91d9c96e5d/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p style="text-align: center;">Jeżeli autobus jedzie w kierunku zgodnym ze strzałką, to $\alpha$&nbsp;oznacza jego kąt skrętu.</p>
 
@@ -56,6 +56,6 @@
 
 ### 힌트
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/82872051-6b26-40c5-a3f3-e1f81a505c87/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/8619.%E2%80%85Autobus/259b49fb.png" data-original-src="https://upload.acmicpc.net/82872051-6b26-40c5-a3f3-e1f81a505c87/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>Na rysunku k&oacute;łkami oznaczono skrzyżowania, a kwadratami - przystanki. Cienkimi kreskami oznaczono ulice, natomiast grubą - najlepszą możliwą trasę z pierwszego przystanku na drugi, czyli pierwszy fragment optymalnej trasy autobusu. Dla uproszczenia na rysunku pominięto czasy przejazdu przez poszczeg&oacute;lne ulice.</p>

@@ -18,7 +18,7 @@
 
 <p>We have a grid of height $3$ and width $n$, as well as pieces that occupy $3$ adjacent cells. Given $n$, determine the number of ways to fill the grid so that each cell is covered by exactly one piece and no piece sticks out of the grid. Here there is an example of a way to fill a grid of width $4$:</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/9463129d-db9d-4ab0-bc89-875149bcdef6/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/21071.%E2%80%85Long%E2%80%85Grid%E2%80%85Covering/59a1ace1.png" data-original-src="https://upload.acmicpc.net/9463129d-db9d-4ab0-bc89-875149bcdef6/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>Notice that any piece will be a rotation of one of the pieces of this example. Find the answers modulo $10^9 + 7$.</p>
 

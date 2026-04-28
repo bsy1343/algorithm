@@ -40,4 +40,4 @@
 
 <p>下の図の例では, 10 本の柱があり, 座標 (4, 2),(5, 2),(5, 3),(4, 3) にある 4 本と座 標 (1, 1),(4, 0),(5, 3),(2, 4) にある 4 本が正方形をなしている. 面積が最大の正方形 は後者で, その面積は 10 である.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/3e38f506-4621-469f-8bd5-78965be88a21/-/preview/" style="width: 265px; height: 243px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/5593.%E2%80%85%E6%9C%80%E5%8F%A4%E3%81%AE%E9%81%BA%E8%B7%A1/93d456b1.png" data-original-src="https://upload.acmicpc.net/3e38f506-4621-469f-8bd5-78965be88a21/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 265px; height: 243px;" /></p>

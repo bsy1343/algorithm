@@ -20,11 +20,11 @@
 
 <p>Но Ян не отчаивается. Он смастерил свою собственную игру --- &lt;&lt;Настольный Тетрис&gt;&gt;. Правила этой игры очень просты. Игра производится на прямоугольном поле размера $n \times m$. Изначально некоторые клетки поля заняты, а остальные свободны. Игроку требуется набором фигурок из тетриса покрыть все свободные клетки, при этом фигурки не должны накладываться друг на друга или на уже занятые клетки. Так как все фигурки с одной стороны покрашены, а с другой нет, то переворачивать их нельзя, однако можно их поворачивать.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/5f54ad0a-62bc-4120-a830-dbb977f32080/-/preview/" style="width: 647px; height: 128px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/29548.%E2%80%85%D0%A2%D0%B5%D1%82%D1%80%D0%B8%D1%81/c473ac62.png" data-original-src="https://upload.acmicpc.net/5f54ad0a-62bc-4120-a830-dbb977f32080/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 647px; height: 128px;" /></p>
 
 <p>Изначально Ян хотел выпилить бесконечно много фигурок каждого типа, но он очень быстро устал, поэтому у него есть только $a_i$ фигурок типа $i$.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/5a8e9597-e7d8-4b63-96e1-fe059e8503e7/-/preview/" style="width: 116px; height: 117px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/29548.%E2%80%85%D0%A2%D0%B5%D1%82%D1%80%D0%B8%D1%81/3d265cda.png" data-original-src="https://upload.acmicpc.net/5a8e9597-e7d8-4b63-96e1-fe059e8503e7/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 116px; height: 117px;" /></p>
 
 <p>Ян смастерил несколько полей для игры, и теперь ему интересно, можно ли их покрыть фигурками. Помогите Яну решить эту задачу.</p>
 

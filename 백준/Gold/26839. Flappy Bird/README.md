@@ -36,6 +36,6 @@
 
 ### 힌트
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/75143458-7a1d-4237-9199-1c6536647fc8/-/preview/" style="width: 330px; height: 200px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/26839.%E2%80%85Flappy%E2%80%85Bird/f3ad3f93.png" data-original-src="https://upload.acmicpc.net/75143458-7a1d-4237-9199-1c6536647fc8/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 330px; height: 200px;" /></p>
 
 <p style="text-align: center;">Rysunek odpowiada pierwszemu testowi przykładowemu. Strzałkami oznaczono pozycje, w kt&oacute;rych gracz stuka w ekran telefonu.</p>

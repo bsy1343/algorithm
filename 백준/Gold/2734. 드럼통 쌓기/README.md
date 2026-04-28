@@ -20,7 +20,7 @@
 
 <p>드럼통의 반지름은 항상 1이다.</p>
 
-<p><img alt="" src="/upload/images/Screen%20Shot%202012-10-11%20at%20%EC%98%A4%ED%9B%84%2010_22_56.png" style="height:257px; width:400px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/2734.%E2%80%85%EB%93%9C%EB%9F%BC%ED%86%B5%E2%80%85%EC%8C%93%EA%B8%B0/eabec820.png" data-original-src="https://www.acmicpc.net/upload/images/Screen%20Shot%202012-10-11%20at%20%EC%98%A4%ED%9B%84%2010_22_56.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:257px; width:400px" /></p>
 
 <p>가장 위에 있는 실린더의 중심 좌표를 구하는 프로그램을 작성하시오. 값을 계산할 때, double을 사용하면 된다.</p>
 

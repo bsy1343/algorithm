@@ -36,24 +36,24 @@
 			<td>Board after the black player has placed a disc in row 5 and column 6.</td>
 		</tr>
 		<tr>
-			<td><img alt="" src="https://upload.acmicpc.net/6846183a-bd8d-429a-9ccb-feed644416a7/-/preview/" style="width: 172px; height: 173px;" /></td>
-			<td><img alt="" src="https://upload.acmicpc.net/97ff80f4-583d-4d00-b078-725ce34e6e57/-/preview/" style="width: 173px; height: 173px;" /></td>
+			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/6859.%E2%80%85CCC%E2%80%85Othello/25c443b2.png" data-original-src="https://upload.acmicpc.net/6846183a-bd8d-429a-9ccb-feed644416a7/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 172px; height: 173px;" /></td>
+			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/6859.%E2%80%85CCC%E2%80%85Othello/f8d6a51a.png" data-original-src="https://upload.acmicpc.net/97ff80f4-583d-4d00-b078-725ce34e6e57/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 173px; height: 173px;" /></td>
 		</tr>
 		<tr>
 			<td>Board after several plays by each player</td>
 			<td>Board after the white player has placed a disc in row 4 and column 6</td>
 		</tr>
 		<tr>
-			<td><img alt="" src="https://upload.acmicpc.net/d4ed4f74-aebe-4cae-9732-b35e9efa13d2/-/preview/" style="width: 173px; height: 173px;" /></td>
-			<td><img alt="" src="https://upload.acmicpc.net/1ca3e104-c660-424a-af03-03ece43be6db/-/preview/" style="width: 173px; height: 173px;" /></td>
+			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/6859.%E2%80%85CCC%E2%80%85Othello/2f16b756.png" data-original-src="https://upload.acmicpc.net/d4ed4f74-aebe-4cae-9732-b35e9efa13d2/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 173px; height: 173px;" /></td>
+			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/6859.%E2%80%85CCC%E2%80%85Othello/fcbd21ef.png" data-original-src="https://upload.acmicpc.net/1ca3e104-c660-424a-af03-03ece43be6db/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 173px; height: 173px;" /></td>
 		</tr>
 		<tr>
 			<td>Board after several plays by each player</td>
 			<td>Board after the white player has placed a disc in row 1 and column 4.</td>
 		</tr>
 		<tr>
-			<td><img alt="" src="https://upload.acmicpc.net/112fb714-322a-49f1-9551-ec61e3cbe227/-/preview/" style="width: 173px; height: 173px;" /></td>
-			<td><img alt="" src="https://upload.acmicpc.net/2598599f-d568-408c-a44b-81f43bc91d1e/-/preview/" style="width: 172px; height: 173px;" /></td>
+			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/6859.%E2%80%85CCC%E2%80%85Othello/3b1a115e.png" data-original-src="https://upload.acmicpc.net/112fb714-322a-49f1-9551-ec61e3cbe227/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 173px; height: 173px;" /></td>
+			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/6859.%E2%80%85CCC%E2%80%85Othello/de04fd93.png" data-original-src="https://upload.acmicpc.net/2598599f-d568-408c-a44b-81f43bc91d1e/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 172px; height: 173px;" /></td>
 		</tr>
 	</tbody>
 </table>
@@ -76,9 +76,9 @@
 			<td>Configuration &rsquo;c&rsquo;</td>
 		</tr>
 		<tr>
-			<td><img alt="" src="https://upload.acmicpc.net/dc19e32a-b933-43e9-8cff-a6fc889c8cab/-/preview/" style="width: 172px; height: 173px;" /></td>
-			<td><img alt="" src="https://upload.acmicpc.net/0c78fbf3-4b6c-428a-839e-d69c8524b9ad/-/preview/" style="width: 172px; height: 173px;" /></td>
-			<td><img alt="" src="https://upload.acmicpc.net/e8909255-59a6-408b-9a45-f9c76840f8f6/-/preview/" style="width: 172px; height: 173px;" /></td>
+			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/6859.%E2%80%85CCC%E2%80%85Othello/5a4cbd74.png" data-original-src="https://upload.acmicpc.net/dc19e32a-b933-43e9-8cff-a6fc889c8cab/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 172px; height: 173px;" /></td>
+			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/6859.%E2%80%85CCC%E2%80%85Othello/535150be.png" data-original-src="https://upload.acmicpc.net/0c78fbf3-4b6c-428a-839e-d69c8524b9ad/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 172px; height: 173px;" /></td>
+			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/6859.%E2%80%85CCC%E2%80%85Othello/538fd5cf.png" data-original-src="https://upload.acmicpc.net/e8909255-59a6-408b-9a45-f9c76840f8f6/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 172px; height: 173px;" /></td>
 		</tr>
 	</tbody>
 </table>

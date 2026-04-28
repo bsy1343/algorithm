@@ -20,7 +20,7 @@
 
 <p>예를 들어 아래 그림은 $n = 8$인 케이크이고 $0$은 토핑이 없는 칸, $1$은 과일 토핑이 있는 칸을 나타낸다. 이를 정수 배열로 나타내면 $A = [0, 1, 1, 0, 0, 1, 1, 0]$로 표현할 수 있다. 구체적으로, $A[i]$는 $i$번째 칸에 토핑이 있으면 $1$, 없으면 $0$이다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/eb27b42b-56af-4262-b272-8b4e80816b07/-/preview/" style="width: 400px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/25334.%E2%80%85%EA%B8%B4%E2%80%85%EC%BC%80%EC%9D%B4%ED%81%AC%E2%80%85%EB%82%98%EB%88%A0%EC%A3%BC%EA%B8%B0/20a9184d.png" data-original-src="https://upload.acmicpc.net/eb27b42b-56af-4262-b272-8b4e80816b07/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 400px;" /></p>
 
 <p>Albert는 이 케이크를 정확히 $k-1$번 잘라 $k$개의 조각으로 나누고 싶은데, 아래 조건을 만족하도록 자르고 싶다:</p>
 
@@ -31,15 +31,15 @@
 
 <p>예를 들어 $k = 2$ 인 경우 버려지는 칸이나 조각 없이 위 케이크를 자를 수 있는 방법은 총 $7$가지 존재한다. 그 중 조건 1을 만족하는 경우는 아래와 같이 세 가지 방법이다. 각 케이크 조각에는 토핑이 올라간 칸이 두 개씩 있다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/49d5a282-4665-4571-b4ec-e692d66840cc/-/preview/" style="height: 60px; width: 400px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/25334.%E2%80%85%EA%B8%B4%E2%80%85%EC%BC%80%EC%9D%B4%ED%81%AC%E2%80%85%EB%82%98%EB%88%A0%EC%A3%BC%EA%B8%B0/0cd85b01.png" data-original-src="https://upload.acmicpc.net/49d5a282-4665-4571-b4ec-e692d66840cc/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 60px; width: 400px;" /></p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/d2eb2dd6-1583-4978-8148-46b9383d91cb/-/preview/" style="height: 60px; width: 400px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/25334.%E2%80%85%EA%B8%B4%E2%80%85%EC%BC%80%EC%9D%B4%ED%81%AC%E2%80%85%EB%82%98%EB%88%A0%EC%A3%BC%EA%B8%B0/d651e440.png" data-original-src="https://upload.acmicpc.net/d2eb2dd6-1583-4978-8148-46b9383d91cb/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 60px; width: 400px;" /></p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/530396df-cabc-4c62-ab79-f83d8c02effd/-/preview/" style="height: 58px; width: 400px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/25334.%E2%80%85%EA%B8%B4%E2%80%85%EC%BC%80%EC%9D%B4%ED%81%AC%E2%80%85%EB%82%98%EB%88%A0%EC%A3%BC%EA%B8%B0/c7724215.png" data-original-src="https://upload.acmicpc.net/530396df-cabc-4c62-ab79-f83d8c02effd/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 58px; width: 400px;" /></p>
 
 <p>다른 예로, 아래 그림은 $n = 5$, $A = [0, 1, 0, 1, 0]$, $k = 2$인 경우 위 조건들을 만족하면서 케이크를 자를 수 있는 두 가지 방법을 나타낸다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/73d42293-e2ac-4321-8624-e9658da5444d/-/preview/" style="height: 41px; width: 600px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/25334.%E2%80%85%EA%B8%B4%E2%80%85%EC%BC%80%EC%9D%B4%ED%81%AC%E2%80%85%EB%82%98%EB%88%A0%EC%A3%BC%EA%B8%B0/87e4af79.png" data-original-src="https://upload.acmicpc.net/73d42293-e2ac-4321-8624-e9658da5444d/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 41px; width: 600px;" /></p>
 
 <p>입력으로 $n$, $k$, 그리고 토핑의 유무를 나타내는 배열 $A$가 주어졌을 때, 조건을 만족하며 케이크를 자를 수 있는 방법이 총 몇 가지 있는지 구해보자. 단, 답이 매우 클 수 있으므로 $10^9+7$ 로 나눈 나머지를 출력한다.</p>
 

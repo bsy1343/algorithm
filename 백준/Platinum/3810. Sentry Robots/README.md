@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p><img alt="" src="/upload/images2/robot(1).png" style="float:right; height:97px; width:148px" />We need to guard a set of points of interest using sentry robots that can not move or turn. We can position a sentry at any position facing either north, south, east or west. Once a sentry is settled, it guards the points of interest that are infront of it. If two or more points are in the same row or column a single robot can guard them all. Unfortunately, there are also some obstacles that the robot cannot see through.</p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/3810.%E2%80%85Sentry%E2%80%85Robots/6d05c2dd.png" data-original-src="https://www.acmicpc.net/upload/images2/robot(1).png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="float:right; height:97px; width:148px" />We need to guard a set of points of interest using sentry robots that can not move or turn. We can position a sentry at any position facing either north, south, east or west. Once a sentry is settled, it guards the points of interest that are infront of it. If two or more points are in the same row or column a single robot can guard them all. Unfortunately, there are also some obstacles that the robot cannot see through.</p>
 
 <p>From a set of points of interest and obstacles lying on a grid, calculate the minimum number of robots needed to guard all the points. In order to guard a point of interest, a robot must be facing the direction of this point and must not be any obstacles in between.</p>
 

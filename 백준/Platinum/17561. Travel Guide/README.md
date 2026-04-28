@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/84c58aca-e6c4-44f7-b0f2-9a30e6f6f078/-/preview/" style="width: 254px; height: 222px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/17561.%E2%80%85Travel%E2%80%85Guide/3164c94e.png" data-original-src="https://upload.acmicpc.net/84c58aca-e6c4-44f7-b0f2-9a30e6f6f078/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 254px; height: 222px;" /></p>
 
 <p>Paris counts many hotels. Some are very close to the Orly airport, which is very useful to spend a night before an early flight. Some are very close to the Notre-Dame cathedral which allows tourists to walk around the &ldquo;&Icirc;le Saint-Louis&rdquo; at dawn and enjoy the banks of the Seine. Finally, some are closer to the Disneyland Paris resort which is the most visited tourist attraction. Travelers who come to Paris usually want to stay near these three main Points Of Interest (POIs): Orly, Notre-Dame, and Disneyland.</p>
 

@@ -22,7 +22,7 @@
 
 <p>As the PCR tests started before the disease started spreading in the city, the number of positive cases is zero on the first day. The last reported day is not counted as a peak. No two consecutive days have the same number of positive cases.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/4434ac32-a66c-4775-b7f4-1974091990a1/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/25527.%E2%80%85Counting%E2%80%85Peaks%E2%80%85of%E2%80%85Infection/2887c87f.png" data-original-src="https://upload.acmicpc.net/4434ac32-a66c-4775-b7f4-1974091990a1/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p style="text-align: center;">Figure A-1: Numbers of positive cases of the last dataset in Sample Input. Red circles indicate the peaks.</p>
 

@@ -18,7 +18,7 @@
 
 <p>건덕이는 일감호에 딸린 작은 섬, 와우도에 앉아 세월을 낚아 올리는 중이다.</p>
 
-<p align="center"><img alt="" src="https://upload.acmicpc.net/7c43b950-5e78-4777-bc15-1721077d7432/-/preview/" width="400px" /></p>
+<p align="center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/30461.%E2%80%85%EB%82%9A%EC%8B%9C/999b2979.png" data-original-src="https://upload.acmicpc.net/7c43b950-5e78-4777-bc15-1721077d7432/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" width="400px" /></p>
 
 <p>일감호는 $N\times M$ 공간으로 나타낼 수 있다. 공간은 $1\times 1$ 크기의 정사각형 칸으로 나누어져 있고, 각 칸에는 물고기가 여럿 존재한다. 가장 수심이 깊으면서 건덕이로부터 가장 먼 칸은 $\left( N,M \right)$이다.</p>
 

@@ -27,7 +27,7 @@
 
 <p>예로, 다음은 $6\times 6$ Jigsaw Sudoku를 제대로 풀어낸 경우이다.</p>
 
-<p style="text-align:center;"><img alt="" src="https://u.acmicpc.net/86f68671-19d6-4ea5-9e6c-8bdaeb104a04/sudoku-region-creator.png" style="width: 200px; height: 200px;" /></p>
+<p style="text-align:center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/30875.%E2%80%85Recovering%E2%80%85the%E2%80%85Region/9b41a894.png" data-original-src="https://u.acmicpc.net/86f68671-19d6-4ea5-9e6c-8bdaeb104a04/sudoku-region-creator.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 200px; height: 200px;" /></p>
 
 <p>세훈이는 최근 극악의 난이도를 자랑하는 Jigsaw Sudoku를 풀었고, 이를 노트에 기록했다. 하지만, 실수로 보드에 적힌 수만 기록하고 보드가 어떻게 나뉘어져 있는지를 기록하지 않았다.</p>
 

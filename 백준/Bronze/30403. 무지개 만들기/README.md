@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/cdba67e7-27f4-4646-98f7-3cea57f096b7/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/30403.%E2%80%85%EB%AC%B4%EC%A7%80%EA%B0%9C%E2%80%85%EB%A7%8C%EB%93%A4%EA%B8%B0/c78d3083.png" data-original-src="https://upload.acmicpc.net/cdba67e7-27f4-4646-98f7-3cea57f096b7/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>무지개 문자열은 <code><span style="color:#e74c3c;">R</span></code>(빨간색), <code><span style="color:#e74c3c;">O</span></code>(주황색), <code><span style="color:#e74c3c;">Y</span></code>(노란색), <code><span style="color:#e74c3c;">G</span></code>(초록색), <code><span style="color:#e74c3c;">B</span></code>(파란색), <code><span style="color:#e74c3c;">I</span></code>(남색), <code><span style="color:#e74c3c;">V</span></code>(보라색) 순으로 이루어진 문자열이며, 대소문자를 구분하지 않는다.</p>
 

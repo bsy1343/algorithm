@@ -18,7 +18,7 @@
 
 <p>Anna has just finished her course project. She has a lot of seven-segment LED displays as leftovers and a small power source. Each display consumes power proportionally to the number of lit segments, e.g. &lsquo;9&rsquo; consumes twice more power than &lsquo;7&rsquo;.</p>
 
-<p style="text-align:center"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15131/1.png" style="height:58px; width:375px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/15131.%E2%80%85Auxiliary%E2%80%85Project/ba3f21ed.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15131/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:58px; width:375px" /></p>
 
 <p>Anna wonders what is the maximum possible sum of digits she is able to achieve, if her power source is able to light n segments, and she wants to light exactly n segments.</p>
 

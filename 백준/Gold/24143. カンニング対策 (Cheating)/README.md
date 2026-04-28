@@ -27,7 +27,7 @@
 
 <p>ただし，d<sub>i</sub>, p<sub>i</sub> の値は整数であり，それぞれの監視装置について個別に設定できるが，0 &le; d<sub>i</sub> で，d<sub>i</sub> が小さいほど精度よく監視することができる．使用しない監視装置があってもよい．</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/ff798e35-336c-4e89-9002-cec728135256/-/preview/" style="width: 161px; height: 197px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/24143.%E2%80%85%E3%82%AB%E3%83%B3%E3%83%8B%E3%83%B3%E3%82%B0%E5%AF%BE%E7%AD%96%E2%80%85(Cheating)/985efbf8.png" data-original-src="https://upload.acmicpc.net/ff798e35-336c-4e89-9002-cec728135256/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 161px; height: 197px;" /></p>
 
 <p style="text-align: center;">図 1: 監視装置で受験者を監視している様子</p>
 

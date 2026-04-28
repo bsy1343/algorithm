@@ -38,8 +38,8 @@
 
 <p>The pictures below illustrate the grids from the three sample cases and a valid square in the third sample case.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/f181a6dc-a5c7-494c-a3dd-a61657c642c9/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/23989.%E2%80%85Square%E2%80%85Counting/18bc243c.png" data-original-src="https://upload.acmicpc.net/f181a6dc-a5c7-494c-a3dd-a61657c642c9/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/e8ae0c35-cd65-40d0-8ba2-6a133349eb1d/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/23989.%E2%80%85Square%E2%80%85Counting/dbc4cbfc.png" data-original-src="https://upload.acmicpc.net/e8ae0c35-cd65-40d0-8ba2-6a133349eb1d/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/2f65a4c4-0786-4f0a-8ed0-ec168ccd66ed/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/23989.%E2%80%85Square%E2%80%85Counting/3565d3f9.png" data-original-src="https://upload.acmicpc.net/2f65a4c4-0786-4f0a-8ed0-ec168ccd66ed/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>

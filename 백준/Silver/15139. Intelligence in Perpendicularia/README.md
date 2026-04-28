@@ -20,7 +20,7 @@
 
 <p>The total secured perimeter is calculated as the total length of the facility walls invisible for the perpendicularly-looking outside observer. The figure below shows one of the proposed plans and corresponding secured perimeter.</p>
 
-<p style="text-align:center"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15139/1.png" style="height:181px; width:238px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/15139.%E2%80%85Intelligence%E2%80%85in%E2%80%85Perpendicularia/224cb7fb.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15139/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:181px; width:238px" /></p>
 
 <p>Write a program that calculates the total secured perimeter for the given plan of the secret service facility.</p>
 

@@ -18,7 +18,7 @@
 
 <p>Ali is playing a board game by himself. The board&rsquo;s track consists of N locations (cells, spots) laid out in a circle, i.e., the board cell N is followed by the board cell 1. At every step in the game, Ali rolls a die with k sides and moves his piece forward (clockwise) as many cells (spots) as it is indicated by the die. The die&rsquo;s sides have the value 1, 2, 3, ..., k (each occurring exactly once), and each side is equally likely to come up.</p>
 
-<p><img alt="" src="https://upload.acmicpc.net/6f3bbfbb-330f-4f80-b914-6124a38482e4/-/preview/" style="width: 225px; height: 223px; float: right;" />Ali starts his piece at location 1, and when Ali moves his piece past location N, Ali&rsquo;s piece continues its movement to locations 1, 2, etc. (again, the board is circular).</p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/25811.%E2%80%85Really%E2%80%85Nerdy%E2%80%85Game/bf69ad2e.png" data-original-src="https://upload.acmicpc.net/6f3bbfbb-330f-4f80-b914-6124a38482e4/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 225px; height: 223px; float: right;" />Ali starts his piece at location 1, and when Ali moves his piece past location N, Ali&rsquo;s piece continues its movement to locations 1, 2, etc. (again, the board is circular).</p>
 
 <p>There are several spots on the board that are instant win cells, and there are several spots on the board that are instant loss cells. Reaching either one of these spots ends the game immediately. Any spot that is not an instant win or an instant loss allows the game to continue.</p>
 

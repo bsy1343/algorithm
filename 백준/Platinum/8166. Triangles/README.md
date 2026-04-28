@@ -40,4 +40,4 @@
 
 ### 힌트
 
-<p><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/8166/1.gif" style="height:115px; width:112px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/8166.%E2%80%85Triangles/7681a7f0.gif" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/8166/1.gif" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:115px; width:112px" /></p>

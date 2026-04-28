@@ -22,7 +22,7 @@
 
 <p>Ось симметрии делит ожерелье на непрерывные части, содержащие одинаковое число жемчужин. При этом, если ось проходит через какую-то жемчужину, то она относится к обеим частям, если же ось проходит между двух жемчужин, то эти жемчужины находятся в разных частях. Таким образом, следующие ожерелья имеют ось симметрии:</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/957110c3-3a59-4a9c-af16-2f6f5d48a4d2/-/preview/" style="width: 607px; height: 194px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/19960.%E2%80%85%D0%9E%D0%B6%D0%B5%D1%80%D0%B5%D0%BB%D1%8C%D0%B5/748be621.png" data-original-src="https://upload.acmicpc.net/957110c3-3a59-4a9c-af16-2f6f5d48a4d2/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 607px; height: 194px;" /></p>
 
 <p>Ваша задача --- помочь Октябрине найти необходимую расстановку жемчужин.</p>
 
@@ -38,4 +38,4 @@
 
 <p>Растановка жемчужин в первом примере</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/a2b2131f-c40d-470d-a161-ca58f49a5f7f/-/preview/" style="width: 182px; height: 173px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/19960.%E2%80%85%D0%9E%D0%B6%D0%B5%D1%80%D0%B5%D0%BB%D1%8C%D0%B5/6b194db9.png" data-original-src="https://upload.acmicpc.net/a2b2131f-c40d-470d-a161-ca58f49a5f7f/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 182px; height: 173px;" /></p>

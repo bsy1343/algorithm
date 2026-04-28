@@ -18,7 +18,7 @@
 
 <p><strong>3색 그래프</strong>라는 음식을 아는가? 3색 그래프는 경기과학고등학교 학생들의 지친 심신을 위로해주는 보양식으로, 이름에서 알 수 있듯 간편한 조리 방식과 깊은 풍미를 가지고 있어 널리 사랑받는 음식이다. 타 업체의 인기 제품인 &lt;3분 그래프&gt;와의 유사성 논란에도 불구하고 올해는 신제품 <strong>&lt;3색 그래프 뿌려먹는 맛&gt;</strong>을 출시했다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://u.acmicpc.net/2814646e-9595-46e2-8ac4-6542cda96b7d/%EC%82%BC%EC%83%89%EA%B7%B8%EB%9E%98%ED%94%84.png" style="width: 400px; height: 486px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/24024.%E2%80%85%EC%82%BC%EC%83%89%E2%80%85%EA%B7%B8%EB%9E%98%ED%94%84/a7f05924.png" data-original-src="https://u.acmicpc.net/2814646e-9595-46e2-8ac4-6542cda96b7d/%EC%82%BC%EC%83%89%EA%B7%B8%EB%9E%98%ED%94%84.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 400px; height: 486px;" /></p>
 
 <p style="text-align: center;">신제품 3색 그래프 뿌려먹는 맛. 분말스프가 동봉되어 있다.</p>
 

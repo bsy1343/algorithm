@@ -20,7 +20,7 @@
 
 <p>고려대학교는 아래와 같이 $N$개의 건물이 일렬로 배치된 형태이다. 왼쪽에 있는 건물부터 순서대로 $1$번 건물, $2$번 건물, $\cdots$, $N$번 건물이고, 인접한 건물 사이에는 두 건물을 직접 연결하는 길목이 있다. 파라솔은 각 길목당 하나씩 설치할 수 있으며, 파라솔이 설치된 길목은 지나갈 때 비를 맞지 않는다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://u.acmicpc.net/bc73471f-bfc4-4f61-967e-cac83afc6df8/ER.png" style="width: 1024px; height: 384px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/30705.%E2%80%85ENDLESS%E2%80%85RAIN/b7a626f4.png" data-original-src="https://u.acmicpc.net/bc73471f-bfc4-4f61-967e-cac83afc6df8/ER.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 1024px; height: 384px;" /></p>
 
 <p>근호는 한 학기 동안 고려대학교에서 수업을 들을 것이다. 한 학기는 $M$일이고, $i(1\leq i\leq M)$번째 날에는 $A_i$번 건물부터 $B_i$번 건물 사이에 있는 건물들에서 수업을 듣는다. 근호가 $i$번째 날에 비를 맞지 않으려면 $i$번째 날 수업을 듣기 전에 $A_i$번 건물과 $B_i$번 건물 사이에 있는 모든 길목에 파라솔이 설치되어 있어야 한다.</p>
 

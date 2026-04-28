@@ -20,13 +20,13 @@
 
 <p>The two most common problems Sara faces are birds and droughts. To combat annoying crop-eating birds, some fields are equipped with a scarecrow. A scarecrow (if present) occupies a single cell and there can be at most one scarecrow in each 5x5 field.</p>
 
-<p style="text-align:center"><img alt="" src="/upload/images3/watering1.png" style="height:209px; width:605px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/11732.%E2%80%85Watering%E2%80%85-%E2%80%858/4fe49e89.png" data-original-src="https://www.acmicpc.net/upload/images3/watering1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:209px; width:605px" /></p>
 
 <p style="text-align:center">Figure 1: Example layout of Sara&rsquo;s land, its textual representation and a valid sprinkler arrangement</p>
 
 <p>During droughts, which can last for months, Sara uses sprinklers to keep her crops watered. Each of her sprinklers has three nozzles: one main nozzle and two side nozzles. It occupies exactly three cells and waters all of them. The side nozzles always occupy exactly two cells that are adjacent (up, down, left or right) to the main nozzle. Hence, a single sprinkler is always in one of the following configurations:</p>
 
-<p style="text-align:center"><img alt="" src="/upload/images3/watering2.png" style="height:63px; width:306px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/11732.%E2%80%85Watering%E2%80%85-%E2%80%858/39f8207a.png" data-original-src="https://www.acmicpc.net/upload/images3/watering2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:63px; width:306px" /></p>
 
 <p>Sara wants to put sprinklers on her land in such a way that there is exactly one sprinkler on every cell that is not occupied with a scarecrow. A cell containing a scarecrow must not contain a sprinkler nozzle. In addition, nozzles must not be placed outside Sara‟s land.</p>
 

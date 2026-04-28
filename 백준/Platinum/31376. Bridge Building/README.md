@@ -30,7 +30,7 @@
 
 <p>For example, if the villagers want to build a bridge of seven rows, and there are six logs of length $3$ and ten logs of length $2$, then they can build a bridge of width $5$.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/154d0572-d0fa-4c9b-85e4-02932480d583/-/preview/" style="width: 145px; height: 139px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/31376.%E2%80%85Bridge%E2%80%85Building/1f2d7223.png" data-original-src="https://upload.acmicpc.net/154d0572-d0fa-4c9b-85e4-02932480d583/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 145px; height: 139px;" /></p>
 
 ### 입력
 

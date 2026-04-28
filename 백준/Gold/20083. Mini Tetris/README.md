@@ -32,15 +32,15 @@
 	<tbody>
 		<tr>
 			<td>1</td>
-			<td><img alt="" src="https://upload.acmicpc.net/3fd490de-ec3b-4028-bc62-9ceb300bec05/-/preview/" style="width: 108px; height: 42px;" /></td>
+			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/20083.%E2%80%85Mini%E2%80%85Tetris/477e2636.png" data-original-src="https://upload.acmicpc.net/3fd490de-ec3b-4028-bc62-9ceb300bec05/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 108px; height: 42px;" /></td>
 		</tr>
 		<tr>
 			<td>2</td>
-			<td><img alt="" src="https://upload.acmicpc.net/c00c569d-32b0-4185-9d98-71051394b937/-/preview/" style="width: 79px; height: 46px;" /></td>
+			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/20083.%E2%80%85Mini%E2%80%85Tetris/2c76678b.png" data-original-src="https://upload.acmicpc.net/c00c569d-32b0-4185-9d98-71051394b937/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 79px; height: 46px;" /></td>
 		</tr>
 		<tr>
 			<td>3</td>
-			<td><img alt="" src="https://upload.acmicpc.net/53111709-d795-4394-9c2a-328b9f6bf2ef/-/preview/" style="width: 79px; height: 78px;" /></td>
+			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/20083.%E2%80%85Mini%E2%80%85Tetris/e8feaae0.png" data-original-src="https://upload.acmicpc.net/53111709-d795-4394-9c2a-328b9f6bf2ef/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 79px; height: 78px;" /></td>
 		</tr>
 	</tbody>
 </table>

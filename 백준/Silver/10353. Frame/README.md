@@ -18,7 +18,7 @@
 
 <p>Let&#39;s consider a X&times;Y rectangle with the middle (X &ndash; 2)&times;(Y &ndash; 2) rectangle cut out. We will call this figure a frame with size X&times;Y. Picture 1 shows the frame 5 &times; 6.</p>
 
-<p><img alt="" src="/upload/images2/frma.png" style="height:191px; width:559px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/10353.%E2%80%85Frame/49236f5d.png" data-original-src="https://www.acmicpc.net/upload/images2/frma.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:191px; width:559px" /></p>
 
 <p>Let&#39;s assume that we have unlimited number of tiles with size A&times;1. We consider the following problem: is it possible to completely pave a frame with size X&times;Y using these tiles (tiles can be rotated by 90 degrees). For example, frame 5&times;6 from Picture 1 can be paved completely with tiles of size 3&times;1 (one way to do so is shown in Picture 2), but can&rsquo;t be paved with tiles of size 4&times;1.</p>
 

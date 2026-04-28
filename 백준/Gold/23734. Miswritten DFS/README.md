@@ -29,7 +29,7 @@
 
 <p>The pseudocode of Yunee&#39;s <code>DFS</code> is as above. Now consider the following example.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/e1664bef-fd8d-4db6-a187-b0ce171414b3/" style="max-width: 100%; width: 200px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/23734.%E2%80%85Miswritten%E2%80%85DFS/d82d6458.png" data-original-src="https://upload.acmicpc.net/e1664bef-fd8d-4db6-a187-b0ce171414b3/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="max-width: 100%; width: 200px;" /></p>
 
 <p>If we pre-order traverse the above tree, the nodes $1, 2, 3, 4, 5$ are visited in order. However, Yunee&#39;s <code>DFS</code>&nbsp;visits the nodes $1, 2, 3, 3, 4, 2, 3, 3, 4, 5$ in order.</p>
 

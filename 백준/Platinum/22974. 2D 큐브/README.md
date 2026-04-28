@@ -25,7 +25,7 @@
 	<li>위에서부터 순서대로 첫째 줄은 모두 $1$, 두번째 줄은 모두 $2$, ... $N$번째 줄은 모두 $N$으로 채워져 있다. 즉, 위에서 $i$번째, 왼쪽에서 $j$번째 칸에 적힌 값을 $Val(i,j)$라고 하면, $Val(i,j) = i$가 성립한다.&nbsp;</li>
 </ul>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/d28ecffe-28e8-4e59-a41d-83a8d9fb5cc0/" style="width: 359px; height: 360px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/22974.%E2%80%852D%E2%80%85%ED%81%90%EB%B8%8C/3717dff7.png" data-original-src="https://upload.acmicpc.net/d28ecffe-28e8-4e59-a41d-83a8d9fb5cc0/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 359px; height: 360px;" /></p>
 
 <p style="text-align: center;">$N=5$일 때 2D Cube의 초기 상태</p>
 

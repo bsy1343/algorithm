@@ -18,7 +18,7 @@
 
 <p>밑변이 모두 x축에 평행한 N개의 직사각형이 주어질 때, 이 N개의 직사각형들이 차지하는 면적을 구하는 프로그램을 작성하시오. 여기서 주어진 직사각형들은 서로 겹칠 수도 있으며, 변이나 꼭짓점을 공유할 수도 있다.</p>
 
-<p style="text-align: center;"><img alt="" src="/upload/images/3hUW3YtZzHC.gif" style="height:186px; width:352px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/2672.%E2%80%85%EC%97%AC%EB%9F%AC%E2%80%85%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95%EC%9D%98%E2%80%85%EC%A0%84%EC%B2%B4%E2%80%85%EB%A9%B4%EC%A0%81%E2%80%85%EA%B5%AC%ED%95%98%EA%B8%B0/42413d0e.gif" data-original-src="https://www.acmicpc.net/upload/images/3hUW3YtZzHC.gif" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:186px; width:352px" /></p>
 
 ### 입력
 

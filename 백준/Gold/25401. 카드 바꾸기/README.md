@@ -26,15 +26,15 @@
 
 <p>예를 들어, 아래의 그림과 같이 카드들이 주어졌다고 하자.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/8d506a7b-640a-4d7b-9e11-1c3b2a98cc47/-/preview/" style="width: 248px; height: 84px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/25401.%E2%80%85%EC%B9%B4%EB%93%9C%E2%80%85%EB%B0%94%EA%BE%B8%EA%B8%B0/28ad18ec.png" data-original-src="https://upload.acmicpc.net/8d506a7b-640a-4d7b-9e11-1c3b2a98cc47/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 248px; height: 84px;" /></p>
 
 <p>이 경우 $3$번 카드에 적혀있는 수를 $3$으로 바꾸면 아래와 같이 $1$씩 증가하도록 할 수 있고, 적혀있는 수를 바꾼 카드의 수는 $1$개이다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/55eb58ab-6c53-4513-8dff-dcf7d94edf8a/-/preview/" style="width: 248px; height: 84px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/25401.%E2%80%85%EC%B9%B4%EB%93%9C%E2%80%85%EB%B0%94%EA%BE%B8%EA%B8%B0/e9030d98.png" data-original-src="https://upload.acmicpc.net/55eb58ab-6c53-4513-8dff-dcf7d94edf8a/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 248px; height: 84px;" /></p>
 
 <p>다음과 같이 모든 카드에 적혀있는 수를 $2$가 되도록 할 수도 있다. 이때, 적혀있는 수를 바꾼 카드의 수는 $2$개이다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/cf3e8f3d-fef9-4920-9196-930d978f42e3/-/preview/" style="width: 248px; height: 84px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/25401.%E2%80%85%EC%B9%B4%EB%93%9C%E2%80%85%EB%B0%94%EA%BE%B8%EA%B8%B0/da67f8ee.png" data-original-src="https://upload.acmicpc.net/cf3e8f3d-fef9-4920-9196-930d978f42e3/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 248px; height: 84px;" /></p>
 
 <p>가장 왼쪽에 있는 카드부터 가장 오른쪽에 있는 카드까지 각 카드에 적혀있는 수들이 순서대로 주어질 때, 조건을 만족하도록 하려면 바꿔야 할 카드 수의 최솟값을 구하여라.</p>
 

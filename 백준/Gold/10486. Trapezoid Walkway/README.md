@@ -18,7 +18,7 @@
 
 <p>You are planning to place a small, prefabricated gazebo in your back yard, with a paved walkway connecting it to your back porch. You&rsquo;ll build the walkway out of paving stones purchased at your local home improvement store. The paving stones come in a variety of sizes, but they are all shaped like isosceles trapezoids. As illustrated on the left of Figure 1, an isosceles trapezoid is what you get if you take an isosceles triangle and cut off a corner with a line that is parallel to the base. We can describe such a paving stone with three parameters: the length of one of its parallel edges, a, the length of the other parallel edge, b, and the perpendicular distance, h, between these edges.</p>
 
-<p style="text-align: center;"><img alt="" src="/upload/images2/trape.png" style="height:186px; width:475px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/10486.%E2%80%85Trapezoid%E2%80%85Walkway/cf9c7026.png" data-original-src="https://www.acmicpc.net/upload/images2/trape.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:186px; width:475px" /></p>
 
 <p style="text-align: center;">Figure 1: Isosceles trapezoid shape (left), walkway example (center) and join requirements (right)</p>
 

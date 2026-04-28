@@ -20,7 +20,7 @@
 
 <p>For example, the following figure shows the relative positions of five customers {c<sub>1</sub>, c<sub>2</sub>, , c<sub>5</sub>} to the pizza house and the earning to be made by selling pizzas to each customer.&nbsp;</p>
 
-<p><img alt="" src="https://onlinejudgeimages.s3.amazonaws.com/problem/8908/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202017-01-05%20%EC%98%A4%ED%9B%84%204.53.56.png" style="height:152px; width:433px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/8908.%E2%80%85Pizza%E2%80%85Delivery/715c8df0.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/8908/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202017-01-05%20%EC%98%A4%ED%9B%84%204.53.56.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:152px; width:433px" /></p>
 
 <p>If the delivering sequence of customers is &lt;c<sub>4</sub>, c<sub>3</sub>, c<sub>2</sub>, c<sub>5</sub>, c<sub>1</sub>&gt;, then the amount of penalty for late delivery to each customer is 2 for c<sub>4</sub>, 5 for c<sub>3</sub>, 7 for c<sub>2</sub>, 15 for c<sub>5</sub> and 26 for c<sub>1</sub>. In this case the profit from each customer is 3 for c<sub>4</sub>, -3 for c<sub>3</sub>, 3 for c<sub>2</sub>, 5 for c<sub>5</sub> and 1 for c<sub>1</sub>. Since the profit from customer c<sub>3</sub> is -3, it is better not to deliver pizza to c<sub>3</sub>. Therefore the total profit by delivering pizzas to the customers in this order is 12. The best profit the owner can make, in this case, is 32, where the delivering sequence is &lt;c<sub>3</sub>, c<sub>2</sub>, c<sub>1</sub>, c<sub>5</sub>&gt;.</p>
 

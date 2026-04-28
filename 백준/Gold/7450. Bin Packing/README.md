@@ -40,4 +40,4 @@
 
 <p>Note: The sample instance and an optimal solution is shown in the figure below. Items are numbered from 1 to 10 according to the input order.</p>
 
-<p style="text-align: center;"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/7450/1.png" style="height:133px; width:637px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/7450.%E2%80%85Bin%E2%80%85Packing/4734bcc5.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/7450/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:133px; width:637px" /></p>

@@ -34,4 +34,4 @@
 
 ### 힌트
 
-<p style="text-align:center"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15285/1.png" style="height:171px; width:181px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/15285.%E2%80%85Connections/86a8b49d.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15285/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:171px; width:181px" /></p>

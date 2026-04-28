@@ -18,7 +18,7 @@
 
 <p>서훈이는 오늘 있었던 알고리즘 과목 기말고사를 망쳐서 기분이 좋지 않다. 서훈이는 스트레스도 풀 겸 시험 문제로 나온 그래프를 불로 태우려고 한다.</p>
 
-<p style="text-align:center"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/13141/I_ignite.png" style="height:200px; width:524px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/13141.%E2%80%85Ignition/a15ec482.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/13141/I_ignite.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:200px; width:524px" /></p>
 
 <p>서훈이는 그래프의 정점 (위 그림에서 동그라미로 표시된 곳) 중 한 곳에 불을 붙일 수 있다. 정점에 불이 붙으면 곧바로 노드와 연결된 간선을 따라서 불이 전달된다. 간선 위에서는 불은 1초당 1만큼의 거리를 이동한다. 만약 어떤 간선의 양 끝 정점에 불이 붙은 경우 불은 간선의 중앙까지 태운 후 꺼진다.</p>
 

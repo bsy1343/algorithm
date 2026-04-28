@@ -18,13 +18,13 @@
 
 <p>Balls are placed on a curved structure as shown in Figure A.1, and each ball has a number written on it. Due to the law of gravity, all balls naturally gather near the lowest spot of the structure. The permitted action to change the position of the balls is to &ldquo;pick a ball, lift it up, and place it on the far left or on the far right&rdquo;. This action will naturally change the location of some balls due to the law of gravity.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/c79fce05-4ed4-47c1-859c-ae4141065a8b/-/preview/" style="width: 427px; height: 88px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/20036.%E2%80%85Ball%E2%80%85Alignment/8d85e2c3.png" data-original-src="https://upload.acmicpc.net/c79fce05-4ed4-47c1-859c-ae4141065a8b/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 427px; height: 88px;" /></p>
 
 <p style="text-align: center;">Figure A.1</p>
 
 <p>Figure A.2 shows how the locations of the balls change when the marked ball 5 was picked up in Figure A.1 and placed on the far right.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/570aa792-039d-4467-9d77-384d14024dcf/-/preview/" style="width: 409px; height: 92px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/20036.%E2%80%85Ball%E2%80%85Alignment/02dabbad.png" data-original-src="https://upload.acmicpc.net/570aa792-039d-4467-9d77-384d14024dcf/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 409px; height: 92px;" /></p>
 
 <p style="text-align: center;">Figure A.2</p>
 

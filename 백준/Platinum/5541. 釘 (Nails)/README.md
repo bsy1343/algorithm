@@ -18,7 +18,7 @@
 
 <p>JOI くんは板に釘を刺して遊んでいる．下図のように，JOI くんは一辺 N 本の正三角形の形に釘を並べて刺した．上から a 行目 (1 &le; a &le; N) には a 本の釘が並んでいる．そのうち左から b 本目 (1 &le; b &le; a) の釘を (a, b) で表す．</p>
 
-<p style="text-align:center"><img alt="" src="/upload/images3/nail1.png" style="height:252px; width:297px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/5541.%E2%80%85%E9%87%98%E2%80%85(Nails)/505ff535.png" data-original-src="https://www.acmicpc.net/upload/images3/nail1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:252px; width:297px" /></p>
 
 <p style="text-align:center">図 1: 釘の並び方（N = 5 の場合）</p>
 
@@ -26,7 +26,7 @@
 
 <p>JOI くんは，輪ゴムを使って，「よい正三角形」の周りを囲うことにした．</p>
 
-<p style="text-align:center"><img alt="" src="/upload/images3/nail2.png" style="height:237px; width:276px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/5541.%E2%80%85%E9%87%98%E2%80%85(Nails)/25fb0e83.png" data-original-src="https://www.acmicpc.net/upload/images3/nail2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:237px; width:276px" /></p>
 
 <p style="text-align:center">図 2: 輪ゴムによる「よい正三角形」の囲い方の例</p>
 

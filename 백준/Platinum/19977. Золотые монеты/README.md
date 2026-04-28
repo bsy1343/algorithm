@@ -22,7 +22,7 @@
 
 <p>Пример игрового поля приведен на рисунке, перекрестки обозначены черными точками, дороги --- отрезками, а число на дороге задает начальное количество золотых монет на ней.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/86c0a7e9-85f1-4c4b-b833-6b4162cc96bd/-/preview/" style="width: 201px; height: 144px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/19977.%E2%80%85%D0%97%D0%BE%D0%BB%D0%BE%D1%82%D1%8B%D0%B5%E2%80%85%D0%BC%D0%BE%D0%BD%D0%B5%D1%82%D1%8B/09f84d51.png" data-original-src="https://upload.acmicpc.net/86c0a7e9-85f1-4c4b-b833-6b4162cc96bd/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 201px; height: 144px;" /></p>
 
 <p>Персонажем игры является бородатый электромонтер Томас. Сначала игрок может поместить Томаса на любой перекресток. Затем каждый ход игрок перемещает Томаса с перекрестка, на котором он находится, на соседний перекресток по одной из дорог, на которой еще лежит хотя бы одна монета.</p>
 

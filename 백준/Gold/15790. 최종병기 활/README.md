@@ -32,7 +32,7 @@
 
 <p>지훈이가 만들 수있는 가장 긴 활의 길이는?</p>
 
-<p style="text-align: center;"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15790/1.png" style="width: 469px; height: 187px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/15790.%E2%80%85%EC%B5%9C%EC%A2%85%EB%B3%91%EA%B8%B0%E2%80%85%ED%99%9C/989822ec.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15790/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 469px; height: 187px;" /></p>
 
 ### 입력
 

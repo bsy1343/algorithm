@@ -25,7 +25,7 @@
 	<li>무게가 a와 b인 선분을 집어갈 때, 얻는 점수는 a &times; b이다.</li>
 </ol>
 
-<p><img alt="" src="/upload/images/lineseg.png" style="height:213px; width:221px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/8992.%E2%80%85%EC%A7%91%EA%B8%B0%E2%80%85%EA%B2%8C%EC%9E%84/3279d970.png" data-original-src="https://www.acmicpc.net/upload/images/lineseg.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:213px; width:221px" /></p>
 
 <p>게임의 첫 번째 목표는 최대한 많은 선분을 집어가는 것이다. 두 번째 목표는 최대한 많은 점수를 얻는 것이다. 즉, 선분을 많이 집어가는 방법이 여러 가지라면, 점수를 최대로 하는 방법으로 집어가야 한다.</p>
 

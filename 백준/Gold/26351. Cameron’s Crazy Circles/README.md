@@ -18,11 +18,11 @@
 
 <p>Your cousin Cameron loves circles and has created a rather tantalizing geometry problem, involving an infinite number of circles. He also loves triangles, but he loves circles even more. His problem starts with inscribing a circle in a right triangle as shown below:</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/19c0dbf5-b915-45fe-aa1b-e2cb5ae7f20a/-/preview/" style="width: 111px; height: 69px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/26351.%E2%80%85Cameron%E2%80%99s%E2%80%85Crazy%E2%80%85Circles/f23a2502.png" data-original-src="https://upload.acmicpc.net/19c0dbf5-b915-45fe-aa1b-e2cb5ae7f20a/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 111px; height: 69px;" /></p>
 
 <p>Most circle and triangle lovers would stop here, but Cameron is curious what happens if you inscribe a second circle in between the longer leg of the triangle, the hypotenuse and the previous circle (without circles overlapping each other):</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/7b3c0c92-a8f1-4635-854c-54cee879bec7/-/preview/" style="width: 111px; height: 69px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/26351.%E2%80%85Cameron%E2%80%99s%E2%80%85Crazy%E2%80%85Circles/9dd75668.png" data-original-src="https://upload.acmicpc.net/7b3c0c92-a8f1-4635-854c-54cee879bec7/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 111px; height: 69px;" /></p>
 
 <p>In fact, it turns out that you could continue this process an infinitum, inscribing a new circle in between the longer leg, the hypotenuse and the previous circle.</p>
 

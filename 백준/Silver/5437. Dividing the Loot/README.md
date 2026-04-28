@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p><img alt="" src="/upload/images2/loot.png" style="float:right; height:149px; width:152px" />You have successfully led a group of pirates in taking over a commercial vessel. You have seized gold coins, silver coins, and other precious goods. Now it comes down to dividing the loot. It is important to keep everyone satisfied, otherwise you risk mutiny. A pirate is not satisfied if another pirate gets more items than he does. Therefore you might have to content yourself with fewer items than the other pirates or throw some items into open sea. Fortunately, the other pirates have no notion of the value of the items, while you do. Can you make the most out of this without mutiny?</p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/5437.%E2%80%85Dividing%E2%80%85the%E2%80%85Loot/1b42b2a9.png" data-original-src="https://www.acmicpc.net/upload/images2/loot.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="float:right; height:149px; width:152px" />You have successfully led a group of pirates in taking over a commercial vessel. You have seized gold coins, silver coins, and other precious goods. Now it comes down to dividing the loot. It is important to keep everyone satisfied, otherwise you risk mutiny. A pirate is not satisfied if another pirate gets more items than he does. Therefore you might have to content yourself with fewer items than the other pirates or throw some items into open sea. Fortunately, the other pirates have no notion of the value of the items, while you do. Can you make the most out of this without mutiny?</p>
 
 ### 입력
 

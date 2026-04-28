@@ -28,4 +28,4 @@
 
 ### 힌트
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/ce575f6d-f14c-4a2d-b8a6-6fe9d211f3c0/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/8664.%E2%80%85Kwadrat/ce6e9c50.png" data-original-src="https://upload.acmicpc.net/ce575f6d-f14c-4a2d-b8a6-6fe9d211f3c0/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>

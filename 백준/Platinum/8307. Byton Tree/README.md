@@ -30,6 +30,6 @@
 
 ### 힌트
 
-<p><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/8307/1.gif" style="height:215px; width:247px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/8307.%E2%80%85Byton%E2%80%85Tree/453b96d6.gif" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/8307/1.gif" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:215px; width:247px" /></p>
 
 <p><strong>Explanation of the example:</strong>&nbsp;The byton tree from the example contains 3 branches on which bytons grow - the intervals in the figure represent their periods of eatability. In order to collect all bytons, 2 cuts are sufficient: the first one can be performed e.g. in moment 5, the second one in moment 8.</p>

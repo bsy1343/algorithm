@@ -36,4 +36,4 @@
 
 ### 힌트
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/b72520c9-6b11-465e-a819-023f590e406a/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/8429.%E2%80%85Drogi/af5155b8.png" data-original-src="https://upload.acmicpc.net/b72520c9-6b11-465e-a819-023f590e406a/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>

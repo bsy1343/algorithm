@@ -42,7 +42,7 @@
 	</li>
 </ul>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/43755b39-8d58-4132-a673-e2b1887af875/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/21775.%E2%80%85%EA%B0%80%ED%9D%AC%EC%99%80%E2%80%85%EC%9E%90%EC%9B%90%E2%80%85%EB%86%80%EC%9D%B4/ed5993b5.png" data-original-src="https://upload.acmicpc.net/43755b39-8d58-4132-a673-e2b1887af875/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p style="text-align: center;"><strong>[그림 1]</strong> 자원 게임의 초기 상태</p>
 

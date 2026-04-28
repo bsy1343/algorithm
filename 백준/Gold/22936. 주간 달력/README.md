@@ -26,7 +26,7 @@
 
 <p>아래의 그림을 보자.&nbsp;</p>
 
-<p style="text-align: center;"><img alt="예시 이미지" src="https://upload.acmicpc.net/304a2595-7fde-4db4-aa03-3260c56b9b25/" style="width: 1052px; height: 200px;" /></p>
+<p style="text-align: center;"><img alt="예시 이미지" src="%EB%B0%B1%EC%A4%80/Gold/22936.%E2%80%85%EC%A3%BC%EA%B0%84%E2%80%85%EB%8B%AC%EB%A0%A5/fc01e48a.png" data-original-src="https://upload.acmicpc.net/304a2595-7fde-4db4-aa03-3260c56b9b25/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 1052px; height: 200px;" /></p>
 
 <p>하늘색과 회색 일정처럼 일정의 일부라도&nbsp;주력에 포함된다면 일정 개수에 포함된다. 하지만 넓이는 주력 내에 있는 영역만 계산한다.</p>
 
@@ -34,7 +34,7 @@
 
 <p>위 예시에서 테이프를 자르는 총 횟수는 10번이다. 이유는 아래의 그림과 같다.&nbsp;</p>
 
-<p style="text-align: center;"><img alt="커팅 예시" src="https://upload.acmicpc.net/6f26aa3f-c4fc-440f-9d73-397eec1c195d/" style="width: 1048px; height: 200px;" /></p>
+<p style="text-align: center;"><img alt="커팅 예시" src="%EB%B0%B1%EC%A4%80/Gold/22936.%E2%80%85%EC%A3%BC%EA%B0%84%E2%80%85%EB%8B%AC%EB%A0%A5/4f42f92a.png" data-original-src="https://upload.acmicpc.net/6f26aa3f-c4fc-440f-9d73-397eec1c195d/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 1048px; height: 200px;" /></p>
 
 ### 입력
 

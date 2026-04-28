@@ -53,7 +53,7 @@
 			<li>
 			<p>상급 좀비가 벽의 개수를 셀 때는 해당 상급 좀비가 벽을 무시하고 게임 필드 경계까지 이동했을 때, 만나게 되는 벽의 개수를 센다.</p>
 
-			<p><img alt="" src="https://upload.acmicpc.net/82753bfb-0aa9-462f-8666-63a106e80b2a/-/preview/" style="height: 200px; width: 200px;" /></p>
+			<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/25598.%E2%80%85Alive%E2%80%85or%E2%80%85Dead%3F/e0df0d45.png" data-original-src="https://upload.acmicpc.net/82753bfb-0aa9-462f-8666-63a106e80b2a/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 200px; width: 200px;" /></p>
 
 			<p>위 그림은 상급 좀비가 상, 하, 좌, 우 방향으로 벽을 세는 모습이다.</p>
 			</li>

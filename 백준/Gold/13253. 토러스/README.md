@@ -18,7 +18,7 @@
 
 <p>상근이는 도넛해를 항해하고 있다. 도넛해는 토러스 모양이며, N &times; M개의 칸으로 나누어져 있으며, 아래 그림처럼 생겼다.</p>
 
-<p style="text-align:center"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/13253/1.png" style="height:260px; width:310px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/13253.%E2%80%85%ED%86%A0%EB%9F%AC%EC%8A%A4/1a165e6f.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/13253/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:260px; width:310px" /></p>
 
 <p style="text-align:center">(Image by YassineMrabet from Wikimedia Commons, licensed under CC BY-SA 3.0.)</p>
 

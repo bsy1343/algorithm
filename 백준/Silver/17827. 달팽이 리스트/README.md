@@ -22,7 +22,7 @@
 
 <p>즉, 달팽이 리스트는 다음과 같이 생긴 연결리스트이다. 노드 안의 수는 저장된 값을&nbsp;뜻한다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/9c987950-3731-49c1-bab6-8e545e8d54bc/-/preview/" style="height: 426px; width: 560px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/17827.%E2%80%85%EB%8B%AC%ED%8C%BD%EC%9D%B4%E2%80%85%EB%A6%AC%EC%8A%A4%ED%8A%B8/8694d5b9.png" data-original-src="https://upload.acmicpc.net/9c987950-3731-49c1-bab6-8e545e8d54bc/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 426px; width: 560px;" /></p>
 
 <p>&quot;달팽아 달팽아 1번 노드부터 한 칸씩 총 <em>K</em>번 이동해 도착한 노드엔 어떤 값이 있을까?&quot;</p>
 

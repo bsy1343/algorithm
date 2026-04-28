@@ -20,11 +20,11 @@
 
 <p>이때 임의의 $i$번째 빌딩과 $j$번째 빌딩에 대해서, $i$번째&nbsp;빌딩의 옥상을 나타내는 점 $(i, H_i)$와 $j$번째&nbsp;빌딩의 옥상을 나타내는 점 $(j, H_j)$를 잇는 선분이 다른 모든 빌딩과 만나지 않거나 빌딩의 끝점에서만 만날 경우 두 빌딩은 옥상에서&nbsp;서로의 옥상을&nbsp;볼 수 있다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/1bbe4ec5-8963-4a64-aa15-5c57ece2b4d3/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/22975.%E2%80%85%EB%8F%84%EC%8B%9C%E2%80%85%EA%B3%84%ED%9A%8D/9bb30fa0.png" data-original-src="https://upload.acmicpc.net/1bbe4ec5-8963-4a64-aa15-5c57ece2b4d3/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>예를 들어&nbsp;도시에 빌딩이 6개가 있고 첫번째 빌딩부터 순서대로 높이가 2,3,7,6,1,4였다고 하자. 이 경우 각 빌딩을 직선으로 나타냈을 때 위와 같이 그림을 그릴 수 있다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/8578cbe2-2b86-4439-80f5-b60beb804311/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/22975.%E2%80%85%EB%8F%84%EC%8B%9C%E2%80%85%EA%B3%84%ED%9A%8D/d3f70e31.png" data-original-src="https://upload.acmicpc.net/8578cbe2-2b86-4439-80f5-b60beb804311/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>예시에서 첫번째 빌딩의 옥상에서 네번째 빌딩의 옥상을 보려고 할 경우, 위 그림의 왼쪽과 같이 세번째 빌딩에 가로막혀서 서로 옥상을 볼 수가 없다. 반면 세번째 빌딩의 옥상에서 여섯번째 빌딩의 옥상을 보려고 할경우, 두 옥상을 이은 직선이 네 번째 빌딩의 옥상과 만나지만 끝점에서만 만나기 때문에 서로의 옥상을 볼 수 있다.</p>
 

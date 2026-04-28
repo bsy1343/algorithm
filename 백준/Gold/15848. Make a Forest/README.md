@@ -46,11 +46,11 @@
 
 <p>Explanation for the 1st sample case</p>
 
-<p><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15848/1.png" style="width: 239px; height: 189px;" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/15848.%E2%80%85Make%E2%80%85a%E2%80%85Forest/8ce2b464.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15848/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 239px; height: 189px;" /></p>
 
 <p>For the first sample, this forest is the only forest which satisfies all the requirements. There are 2 trees in this forest.</p>
 
-<p><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15848/2.png" style="width: 212px; height: 252px;" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/15848.%E2%80%85Make%E2%80%85a%E2%80%85Forest/d674677d.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15848/2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 212px; height: 252px;" /></p>
 
 <p>On the other hand, this forest does not satisfy the requirements due to:</p>
 

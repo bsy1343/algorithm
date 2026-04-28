@@ -20,7 +20,7 @@
 
 <p>성우는 홍보 글이 주어질 때 각 문장에 <span style="color:#e74c3c;"><code>01</code></span> 또는 <span style="color:#e74c3c;"><code>OI</code></span>가 포함되어 있다면 문장 끝에 한 개의 영일이 이모티콘을 넣기로 했다. 이때, 홍보 글에 영일이 이모티콘을 총 몇 번 넣어야 하는지 구하여라.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/a1376dea-4d12-4c21-bab6-8eeb5eeb4b1f/-/crop/3876x2707/0,181/-/preview/" style="height: 105px; width: 150px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/30045.%E2%80%85ZOAC%E2%80%856/62a9c3fb.png" data-original-src="https://upload.acmicpc.net/a1376dea-4d12-4c21-bab6-8eeb5eeb4b1f/-/crop/3876x2707/0,181/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 105px; width: 150px;" /></p>
 
 ### 입력
 

@@ -44,4 +44,4 @@
 
 <p>Синим и красным цветом показаны планы двух непересекающихся лабиринтов во втором примере:</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/827cd6df-d9b8-442a-ab39-b60851f44b71/-/preview/" style="width: 130px; height: 168px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/28576.%E2%80%85%D0%A1%D0%BF%D1%80%D1%8F%D1%82%D0%B0%D1%82%D1%8C%E2%80%85%D0%B7%D0%B0%D0%BB%D0%BE%D0%B6%D0%BD%D0%B8%D1%86%D1%83/eeb6fa87.png" data-original-src="https://upload.acmicpc.net/827cd6df-d9b8-442a-ab39-b60851f44b71/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 130px; height: 168px;" /></p>

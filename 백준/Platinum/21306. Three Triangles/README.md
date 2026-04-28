@@ -18,19 +18,19 @@
 
 <p>Starting with a <strong>△ABC</strong> with vertices <strong>A</strong>, <strong>B</strong>, <strong>C</strong> and sides <strong>a</strong>, <strong>b</strong>, <strong>c</strong> opposite <strong>A</strong>, <strong>B</strong>, <strong>C</strong>, respectively:</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/6d8e1d31-141c-4d08-9e34-b639dea920f9/-/preview/" style="width: 164px; height: 140px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/21306.%E2%80%85Three%E2%80%85Triangles/fc397a7f.png" data-original-src="https://upload.acmicpc.net/6d8e1d31-141c-4d08-9e34-b639dea920f9/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 164px; height: 140px;" /></p>
 
 <p>Construct the altitudes <strong>ha</strong>, <strong>hb</strong> and <strong>hc</strong> to sides <strong>a</strong>, <strong>b</strong>, <strong>c</strong> respectively (red) and the perpendicular bisectors <strong>pa</strong>, <strong>pb</strong> and <strong>pc</strong> to sides <strong>a</strong>, <strong>b</strong>, <strong>c</strong> (green):</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/9e7e5a1e-d39b-4fb9-8480-da865b76f1fe/-/preview/" style="width: 231px; height: 282px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/21306.%E2%80%85Three%E2%80%85Triangles/ba0a7a0b.png" data-original-src="https://upload.acmicpc.net/9e7e5a1e-d39b-4fb9-8480-da865b76f1fe/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 231px; height: 282px;" /></p>
 
 <p>Let <strong>A&rsquo;</strong> = <strong>hc</strong> intersect <strong>pb</strong>, <strong>B&rsquo;</strong> = <strong>ha</strong> intersect <strong>pc</strong> and <strong>C&rsquo;</strong> = <strong>hb</strong> intersect <strong>pa</strong> yeilding a new <strong>△A&rsquo;B&rsquo;C&rsquo;</strong> similar to <strong>ABC</strong> as shown on the below.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/11926b42-1080-41e1-8166-8a55fb912fa0/-/preview/" style="width: 243px; height: 303px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/21306.%E2%80%85Three%E2%80%85Triangles/9e863048.png" data-original-src="https://upload.acmicpc.net/11926b42-1080-41e1-8166-8a55fb912fa0/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 243px; height: 303px;" /></p>
 
 <p>Finally, let <strong>A&rsquo;&rsquo;</strong> = reflection of <strong>A&rsquo;</strong> in side <strong>b</strong>, <strong>B&rsquo;&rsquo;</strong> = reflection of <strong>B&rsquo;</strong> in side <strong>c</strong> and <strong>C&rsquo;&rsquo;</strong> = reflection of <strong>C&rsquo;</strong> in side <strong>a</strong> to obtain yet another similar triangle:</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/0393d691-ed24-44b3-a686-78bc71d69e28/-/preview/" style="width: 243px; height: 303px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/21306.%E2%80%85Three%E2%80%85Triangles/bcaa63a9.png" data-original-src="https://upload.acmicpc.net/0393d691-ed24-44b3-a686-78bc71d69e28/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 243px; height: 303px;" /></p>
 
 <p>Write a program which takes as input the coordinates of the vertices <strong>A</strong>, <strong>B</strong> and <strong>C</strong> and outputs the areas of the three triangles.</p>
 

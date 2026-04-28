@@ -24,7 +24,7 @@
 
 <p>트럼프 카드는 다음과 같은 52장의 카드로 구성된다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/64df8111-c7d3-4fca-82d0-13950a80294b/-/preview/" style="height: 215px; width: 500px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/16565.%E2%80%85N%ED%8F%AC%EC%BB%A4/9d58448a.png" data-original-src="https://upload.acmicpc.net/64df8111-c7d3-4fca-82d0-13950a80294b/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 215px; width: 500px;" /></p>
 
 <p style="text-align: center;"><em><b>Figure</b></em>:<b>&nbsp;</b>트럼프 카드 (Playing Card)의 구성</p>
 

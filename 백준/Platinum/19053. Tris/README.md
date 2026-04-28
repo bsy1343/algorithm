@@ -18,7 +18,7 @@
 
 <p>You are given some domino-like pieces. The following types of pieces are possible:</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/80b9dc5b-e67b-4ffc-abcf-ad43eb963daa/-/preview/" style="width: 314px; height: 79px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/19053.%E2%80%85Tris/be09d647.png" data-original-src="https://upload.acmicpc.net/80b9dc5b-e67b-4ffc-abcf-ad43eb963daa/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 314px; height: 79px;" /></p>
 
 <p>Note that there are only four types, and you may rotate and reflect any piece for further use. You want to place all the pieces in a matrix of size at most $800 \times 800$ so that you get a single non-self-touching cycle. Formally, this means:</p>
 
@@ -49,4 +49,4 @@
 
 ### 힌트
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/52bec420-2780-40ae-b23b-c83cd667b576/-/preview/" style="width: 82px; height: 147px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/19053.%E2%80%85Tris/7fb80b9f.png" data-original-src="https://upload.acmicpc.net/52bec420-2780-40ae-b23b-c83cd667b576/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 82px; height: 147px;" /></p>

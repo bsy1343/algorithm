@@ -20,7 +20,7 @@
 
 <p>Naturally, the smaller of the two areas would go to the younger kids. So can you help the school determine what the area of the smaller play-area would be for different fence positions?</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/4ae0425f-bdac-48a9-b6df-6fc8f7818864/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/30138.%E2%80%85Playing%E2%80%85Field/464832f4.png" data-original-src="https://upload.acmicpc.net/4ae0425f-bdac-48a9-b6df-6fc8f7818864/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 ### 입력
 

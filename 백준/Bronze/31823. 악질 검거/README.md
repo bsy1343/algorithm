@@ -22,7 +22,7 @@
 
 <p>그러나 동아리에 들어온 후 프로그래밍 공부를 소홀히 하며 잠적하는 회원들이 생겨나기 시작했다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/70f4d3d7-7ac4-461a-95dd-3ab335083580/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/31823.%E2%80%85%EC%95%85%EC%A7%88%E2%80%85%EA%B2%80%EA%B1%B0/5c18bc5e.png" data-original-src="https://upload.acmicpc.net/70f4d3d7-7ac4-461a-95dd-3ab335083580/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>이러한 상황을 목격한 부동아리장은 분노하여 &#39;리버스-스트릭을 이용한 강퇴&#39;라는 새로운 규칙을 도입하기로 했다. 여기서 &#39;리버스-스트릭&#39;이란, 문제를 며칠 연속으로 풀지 않았는지 보여주는 지표를 의미한다. 즉, 총 $x$일 동안 연속해서 문제를 전혀 풀지 않았다면 &#39;리버스-스트릭&#39; $x$일이라고 한다.</p>
 

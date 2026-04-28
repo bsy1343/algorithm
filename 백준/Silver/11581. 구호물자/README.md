@@ -24,7 +24,7 @@
 
 <p>대피소에 반드시 구호물자를 보내야 한다고 생각하는 민지는 현재 위치인 1번 교차로에서 대피소가 있는 N번 교차로까지 어떤 도로를 선택하며 가더라도 지나친 교차로를 다시 방문하지 않는다는 것을 증명해 트럭 운전사들을 설득하려 한다.</p>
 
-<p style="text-align:center"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11581/1.png" style="height:100px; width:233px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/11581.%E2%80%85%EA%B5%AC%ED%98%B8%EB%AC%BC%EC%9E%90/4b06166d.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11581/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:100px; width:233px" /></p>
 
 <p>위 그림은 대피소가 3번에 있다고 했을 때 가능한 두 가지 모양이다. 왼쪽 그림에서는 어떠한 도로를 선택하더라도 지나친 교차로를 다시 방문하지 않고 대피소가 있는 3번에 무사히 도착할 수 있다. 하지만 오른쪽 그림에서는 방문했던 교차로를 다시 방문할 가능성이 있다.</p>
 

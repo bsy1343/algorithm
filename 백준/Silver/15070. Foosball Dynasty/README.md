@@ -18,7 +18,7 @@
 
 <p>Balaji and his coworkers like to play Foosball on their lunch break. Foosball is a game typically played by 2 players (individual matchup) or 4 players (team play). However, due to the increasing interest and availability of coworkers, Balaji has created a new variation that supports 5 or more players. Each individual point is played by four players: two on the White team and two on the Black team.</p>
 
-<p style="text-align:center"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15070/1.png" style="height:431px; width:372px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/15070.%E2%80%85Foosball%E2%80%85Dynasty/3f39fece.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15070/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:431px; width:372px" /></p>
 
 <p style="text-align:center">Figure B.1</p>
 

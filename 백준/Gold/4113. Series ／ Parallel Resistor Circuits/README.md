@@ -18,7 +18,7 @@
 
 <p>A series / parallel resistor circuit is shown below.</p>
 
-<p><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/4113/1.png" style="height:120px; width:203px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/4113.%E2%80%85Series%E2%80%85%EF%BC%8F%E2%80%85Parallel%E2%80%85Resistor%E2%80%85Circuits/38f7620c.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/4113/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:120px; width:203px" /></p>
 
 <p>The resistance value is given next to each resistor. Connection points (wires connecting two or more resistors together, are denoted by an uppercase letter. A and Z are reserved for the names of the connection points which are the endpoints of the circuit. Our goal is to calculate the equivalent resistance of the circuit (i.e., the equivalent resistance between A and Z).</p>
 
@@ -26,11 +26,11 @@
 
 <p>A pair of resistors is in series if one of either of their endpoints have a common connection point that is not use by any other resistor (e.g., resistor 6 and 9, are both connected to C, which is not connected to anything else). Two series resistors can be replaced by an equivalent single resistor whose resistance is the sum of the replaced resistors (15, in the previous example). A pair of resistors is in parallel if both their endpoints have common connection points (e.g., resistors 3 and 10 above, both are connected to R and D). Two parallel resistors can be replaced by an equivalent single resistor whose resistance is the inverse of the sum of the inverses of the two resistors ( (1/3 + 1/10)<sup>-1</sup> = 2.307692, in the previous example).&nbsp;</p>
 
-<p><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/4113/2.png" style="height:100px; width:299px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/4113.%E2%80%85Series%E2%80%85%EF%BC%8F%E2%80%85Parallel%E2%80%85Resistor%E2%80%85Circuits/4db8b55b.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/4113/2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:100px; width:299px" /></p>
 
 <p>The equivalent resistance of a well-formed series-parallel resistor<sup>1</sup> circuit can be determined by successively replacing a series or parallel resistor pair by the single equivalent resistor, until only one is left. If this technique fails, the circuit is not well-formed.&nbsp;</p>
 
-<p><sup>1</sup>A Wheatstone Bridge circuit, shown on the right, is not a well-formed series-parallel circuit.&nbsp;<img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/4113/3.png" style="float:right; height:68px; width:94px" /></p>
+<p><sup>1</sup>A Wheatstone Bridge circuit, shown on the right, is not a well-formed series-parallel circuit.&nbsp;<img alt="" src="%EB%B0%B1%EC%A4%80/Gold/4113.%E2%80%85Series%E2%80%85%EF%BC%8F%E2%80%85Parallel%E2%80%85Resistor%E2%80%85Circuits/8399fe81.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/4113/3.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="float:right; height:68px; width:94px" /></p>
 
 ### 입력
 

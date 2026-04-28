@@ -22,7 +22,7 @@
 
 <p>Your task is to write a program that verifies validity of a well plan by verifying that the borehole will not intersect itself. A two-dimensional well plan is used to represent a vertical cross-section of the borehole, and this well plan includes some drilling that has occurred starting at (0, &minus;1) and moving to (&minus;1, &minus;5). You will encode in your program the current well plan shown in the figure below:</p>
 
-<p style="text-align: center;"><img alt="" src="https://onlinejudgeimages.s3.amazonaws.com/problem/6781/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202017-03-24%20%EC%98%A4%ED%9B%84%201.36.30.png" style="height:235px; width:396px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/6781.%E2%80%85Boring%E2%80%85Business/f64e5f48.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/6781/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202017-03-24%20%EC%98%A4%ED%9B%84%201.36.30.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:235px; width:396px" /></p>
 
 ### 입력
 

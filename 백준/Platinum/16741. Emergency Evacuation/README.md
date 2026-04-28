@@ -42,7 +42,7 @@
 
 <p>Your task is to write a program that gives the smallest possible number of steps for all the passengers to get off the car, given the seat arrangement and passengers&rsquo; initial positions.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/3f07d98a-ce02-49ac-a258-e6469a271251/-/preview/" style="width: 604px; height: 232px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/16741.%E2%80%85Emergency%E2%80%85Evacuation/337f7ed1.png" data-original-src="https://upload.acmicpc.net/3f07d98a-ce02-49ac-a258-e6469a271251/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 604px; height: 232px;" /></p>
 
 <p style="text-align: center;">Figure C.1. Simple Model</p>
 

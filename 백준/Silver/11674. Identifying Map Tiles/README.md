@@ -23,8 +23,8 @@
 <table class="table">
 	<tbody>
 		<tr>
-			<td style="text-align: center;"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11674/1.png" style="height:215px; width:368px" /></td>
-			<td style="text-align: center;"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11674/2.png" style="height:209px; width:209px" /></td>
+			<td style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/11674.%E2%80%85Identifying%E2%80%85Map%E2%80%85Tiles/0abb27b7.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11674/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:215px; width:368px" /></td>
+			<td style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/11674.%E2%80%85Identifying%E2%80%85Map%E2%80%85Tiles/67cd31a8.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11674/2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:209px; width:209px" /></td>
 		</tr>
 	</tbody>
 	<tfoot>

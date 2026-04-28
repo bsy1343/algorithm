@@ -20,7 +20,7 @@
 
 <p>We denote a network switch in layer j by S(j). A switch S(0) consists of one input, one output and a cable connecting the input to the output. A switch S(j) with j &gt; 0 consists of 2<sup>j</sup> inputs, 2<sup>j</sup> outputs and two switches S(j - 1). Input i of S(j) (0 &le; i &lt; 2<sup>j</sup>) is connected via a cable to the inputs i mod 2<sup>j-1</sup> of each of the two switches S(j - 1). Similarly, output i of S(j) is connected to the outputs i mod 2<sup>j-1</sup> of each of the two switches S(j - 1).</p>
 
-<p style="text-align: center;"><img alt="" src="/upload/images2/telephone.png" style="height:163px; width:324px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/3669.%E2%80%85Telephone%E2%80%85Network/53b3af6c.png" data-original-src="https://www.acmicpc.net/upload/images2/telephone.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:163px; width:324px" /></p>
 
 <p>The connections between a switch S(j) and the two switches S(j - 1) it consists of.</p>
 
@@ -51,6 +51,6 @@
 
 ### 힌트
 
-<p><img alt="" src="/upload/images2/telephonehint.png" style="height:365px; width:506px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/3669.%E2%80%85Telephone%E2%80%85Network/5626fb3b.png" data-original-src="https://www.acmicpc.net/upload/images2/telephonehint.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:365px; width:506px" /></p>
 
 <p>A possible connection scheme for the second sample case, with used cables in bold.</p>

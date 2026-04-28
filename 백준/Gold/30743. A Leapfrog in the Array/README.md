@@ -20,7 +20,7 @@
 
 <p>Let&#39;s consider that initially array contains $n$ numbers from $1$ to $n$ and the number $i$ is located in the cell with the index $2i - 1$ (Indices are numbered starting from one) and other cells of the array are empty. Each step Dima selects a non-empty array cell with the maximum index and moves the number written in it to the nearest empty cell to the left of the selected one. The process continues until all $n$ numbers will appear in the first $n$ cells of the array. For example if $n = 4$, the array is changing as follows:</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/95468ed3-e773-4fcf-ae55-89106342e5c5/-/preview/" style="width: 391px; height: 120px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/30743.%E2%80%85A%E2%80%85Leapfrog%E2%80%85in%E2%80%85the%E2%80%85Array/b781081f.png" data-original-src="https://upload.acmicpc.net/95468ed3-e773-4fcf-ae55-89106342e5c5/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 391px; height: 120px;" /></p>
 
 <p>You have to write a program that allows you to determine what number will be in the cell with index $x$ ($1 \leq x \leq n$) after Dima&#39;s algorithm finishes.</p>
 

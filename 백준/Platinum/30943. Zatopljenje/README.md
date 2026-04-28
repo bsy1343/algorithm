@@ -20,7 +20,7 @@
 
 <p>We imagine the coast as a sequence of $n$ numbers $h_1, h_2, \dots , h_n$, where the $i$-th number represents relief height at the $i$-th point. Mr. Malnar has $q$ queries, where the $i$-th query is as following: <em>How many islands would there be between the $l_i$-th and $r_i$-th point if the sea level rose by $x_i$ meters?</em></p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/2b789c39-d844-4627-a532-33840fe42859/-/preview/" style="width: 504px; height: 175px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/30943.%E2%80%85Zatopljenje/5a937a23.png" data-original-src="https://upload.acmicpc.net/2b789c39-d844-4627-a532-33840fe42859/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 504px; height: 175px;" /></p>
 
 <p style="text-align: center;">The left image shows the first query of the first sample test case, and the right image shows the second query of the second sample test case.</p>
 

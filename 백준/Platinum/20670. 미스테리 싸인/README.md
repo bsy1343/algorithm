@@ -31,7 +31,7 @@
 	<li>문제에서 주어지는 모든 좌표는 정수다.</li>
 </ul>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/8338cb94-eb6a-4543-9732-ecf09dcd7dfc/" style="width: 600px; height: 187px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/20670.%E2%80%85%EB%AF%B8%EC%8A%A4%ED%85%8C%EB%A6%AC%E2%80%85%EC%8B%B8%EC%9D%B8/2279d06d.png" data-original-src="https://upload.acmicpc.net/8338cb94-eb6a-4543-9732-ecf09dcd7dfc/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 600px; height: 187px;" /></p>
 
 <p style="text-align: center;">&lt;그림 1&gt; 왼쪽부터 차례로 성공적인 싸인, B내부에 점이 존재해 실패한 싸인, A외부에 점이 존재해 실패한 싸인</p>
 

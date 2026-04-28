@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p><img src="/upload/images/qr.png" /></p>
+<p><img src="%EB%B0%B1%EC%A4%80/Gold/2680.%E2%80%85QR/31147581.png" data-original-src="https://www.acmicpc.net/upload/images/qr.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>QR 코드는 위와 같이&nbsp;최소 21*21개의 단위&nbsp;픽셀로&nbsp;이루어진 정방형의 흑백 픽셀 매트릭스이다.</p>
 

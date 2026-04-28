@@ -38,7 +38,7 @@
 
 <p>이를 그림으로 나타내면 다음과 같다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/518e60cd-1bed-47d5-9f1a-bafbbe8f6972/-/preview/" style="height: 510px; width: 640px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/17289.%E2%80%85%EC%97%90%EB%8B%88%EA%B7%B8%EB%A7%88/bb4aec2c.png" data-original-src="https://upload.acmicpc.net/518e60cd-1bed-47d5-9f1a-bafbbe8f6972/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 510px; width: 640px;" /></p>
 
 ### 입력
 

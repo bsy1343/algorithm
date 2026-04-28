@@ -31,7 +31,7 @@
 
 <p>The first steps of the algorithm is illustrated in the figure below (only the pixels on the boundary are labelled 1 in this bitmap):</p>
 
-<p><img alt="" src="/upload/images2/cant.png" style="height:165px; width:637px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/4810.%E2%80%85Contour%E2%80%85Tracing/4075e550.png" data-original-src="https://www.acmicpc.net/upload/images2/cant.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:165px; width:637px" /></p>
 
 <p>In this problem, you will be given a bitmap with at most 200 rows and 200 columns. The bitmap contains a number of objects. You are to determine the length of the contour for each object in the bitmap using the procedure above. In the bitmap, a pixel intensity of 0 represents the background, and a pixel intensity of 1 represents an object pixel. Two pixels with intensity 1 belong to the same object if there is a path from one pixel to another consisting of only 1&#39;s, and the path is allowed to follow in any of the 8 compass directions. The borders of the bitmap (first row, last row, first column, last column) contain only background pixels. Any object consisting of fewer than 5 pixels should be ignored as it is most likely noise. None of the objects in the bitmap has holes. Equivalently, there exists a path of background pixels following only the 4 main compass directions (N, S, E, W) for every pair of background pixels in the bitmap.</p>
 

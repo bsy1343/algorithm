@@ -20,7 +20,7 @@
 
 <p>각 지역은 일정한 길이 l (1 &le; l &le; 15)의 길로 다른 지역과 연결되어 있고 이 길은 양방향 통행이 가능하다. 예은이는 낙하한 지역을 중심으로 거리가 수색 범위 m (1 &le; m &le; 15) 이내의 모든 지역의 아이템을 습득 가능하다고 할 때, 예은이가 얻을 수 있는 아이템의 최대 개수를 알려주자.</p>
 
-<p style="text-align:center"><img alt="" src="https://upload.acmicpc.net/ef3a5124-833a-42ef-a092-fd658bc8e662/-/preview/" style="width: 491px; height: 500px;" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/14938.%E2%80%85%EC%84%9C%EA%B0%95%EA%B7%B8%EB%9D%BC%EC%9A%B4%EB%93%9C/55855904.png" data-original-src="https://upload.acmicpc.net/ef3a5124-833a-42ef-a092-fd658bc8e662/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 491px; height: 500px;" /></p>
 
 <p>주어진 필드가 위의 그림과 같고, 예은이의 수색범위가 4라고 하자. ( 원 밖의 숫자는 지역 번호, 안의 숫자는 아이템 수, 선 위의 숫자는 거리를 의미한다) 예은이가 2번 지역에 떨어지게 되면 1번,2번(자기 지역), 3번, 5번 지역에 도달할 수 있다. (4번 지역의 경우 가는 거리가 3 + 5 = 8 &gt; 4(수색범위) 이므로 4번 지역의 아이템을 얻을 수 없다.) 이렇게 되면 예은이는 23개의 아이템을 얻을 수 있고, 이는 위의 필드에서 예은이가 얻을 수 있는 아이템의 최대 개수이다.</p>
 

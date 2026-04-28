@@ -18,7 +18,7 @@
 
 <p>프로젝트 하느라 바쁜 득수는 밥 먹을 시간이 부족하다. 그래서 주로 찾는 식당 네 개 중 하나에서 하루에 한 번 밥을 먹는다. 귀찮으면 굶을 때도 있다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/b339904f-f057-4c14-91b0-a7934e72b2e9/-/preview/" style="height: 251px; width: 675px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/24464.%E2%80%85%EB%93%9D%EC%88%98%E2%80%85%EB%B0%A5%E2%80%85%EB%A8%B9%EC%9D%B4%EA%B8%B0/5d36b2d2.png" data-original-src="https://upload.acmicpc.net/b339904f-f057-4c14-91b0-a7934e72b2e9/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 251px; width: 675px;" /></p>
 
 <p>늘 새로운 느낌을 받고 싶었던 득수는 다음과 같은 규칙으로 다음날 갈 식당을 정한다.</p>
 

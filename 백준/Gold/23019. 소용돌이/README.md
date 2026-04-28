@@ -21,7 +21,7 @@
 <p>이 게임 보드의 각 칸에는&nbsp;영문 대문자 알파벳이&nbsp;(&#39;A&#39;-&#39;Z&#39;)&nbsp;하나씩 적혀있다. 예를 들어, 아래 그림의 좌측은&nbsp;크기가 3 x 3인 게임 보드를 나타낸다. (1, 2) 칸에는 &quot;C&quot;가 적혀있고 (3, 1) 칸에는 &quot;G&quot;가 적혀있다.<br />
 그림의 우측은 크기가 5 x 5인 게임 보드를 나타낸다. 이 게임 보드의 <em>가장 바깥쪽</em> 칸에는&nbsp;&quot;A&quot; 혹은 &quot;B&quot;가 적혀있다 (총 16개의 칸이 이에 해당한다).&nbsp;<em>가장 안쪽</em>에 위치한 칸에는 &quot;Z&quot;가 적혀있다. 나머지 칸에는 &quot;X&quot;&nbsp;혹은 &quot;Y&quot;가 적혀있다 (총 8개의 칸이 이에 해당한다).</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/e8f42741-54cb-4ede-9b2c-48dacb3f8360/-/preview/" style="height: 184px; width: 190px;" />&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<img alt="" src="https://upload.acmicpc.net/c4f84957-9514-4dd2-88a1-fb9c8bd5c7ad/-/preview/" style="height: 301px; width: 300px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/23019.%E2%80%85%EC%86%8C%EC%9A%A9%EB%8F%8C%EC%9D%B4/25a299c2.png" data-original-src="https://upload.acmicpc.net/e8f42741-54cb-4ede-9b2c-48dacb3f8360/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 184px; width: 190px;" />&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<img alt="" src="%EB%B0%B1%EC%A4%80/Gold/23019.%E2%80%85%EC%86%8C%EC%9A%A9%EB%8F%8C%EC%9D%B4/86f4c5ba.png" data-original-src="https://upload.acmicpc.net/c4f84957-9514-4dd2-88a1-fb9c8bd5c7ad/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 301px; width: 300px;" /></p>
 
 <p>구체적으로,&nbsp;n x n인 게임 보드의 &quot;가장 바깥쪽&quot;칸 부터 &quot;가장 안쪽&quot;칸은 아래와 같이 정의한다.</p>
 
@@ -31,7 +31,7 @@
 	<li>이와 같이 계속 게임 보드의 안쪽을 향하여 가장 바깥 쪽 부터 가장 안 쪽 칸 까지 정의 할 수 있다.</li>
 </ul>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/fdbb0ba7-6427-45f0-8f0e-41b707bbcfc0/-/preview/" style="height: 261px; width: 500px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/23019.%E2%80%85%EC%86%8C%EC%9A%A9%EB%8F%8C%EC%9D%B4/2de7daf5.png" data-original-src="https://upload.acmicpc.net/fdbb0ba7-6427-45f0-8f0e-41b707bbcfc0/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 261px; width: 500px;" /></p>
 
 <p>소용돌이 게임은 아래와 같은 규칙에 따라&nbsp;한 칸씩 선택하여 총 n<sup>2</sup>개의 칸을 선택하는 게임이다.</p>
 

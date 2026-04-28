@@ -38,6 +38,6 @@
 
 ### 힌트
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/50d7e6d0-bab6-485b-abc4-301e91e34613/-/preview/" style="width: 640px; height: 89px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/31241.%E2%80%85%D0%9F%D0%9E%D0%A9%D0%90%D0%9B%D0%AC%D0%9E%D0%9D/a8d386b7.png" data-original-src="https://upload.acmicpc.net/50d7e6d0-bab6-485b-abc4-301e91e34613/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 640px; height: 89px;" /></p>
 
 <p>Тръгвайки от къща номер 4, Пенчо най-напред ще отиде до къща номер 3, при което ще измине 10 м, след това до къща номер 2 &ndash; още 20 м, след това до къща номер 5 &ndash; още 80 м и накрая до къща номер 1 &ndash; още 170 м. Така общото разстояние, което ще измине е 10+20+80+170 = 280 м.</p>

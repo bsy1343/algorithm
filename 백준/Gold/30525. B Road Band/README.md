@@ -18,7 +18,7 @@
 
 <p>All the residents of the rural community of Axes Point live on one of two parallel streets separated by a band of green park land. Recently, the local board of supervisors received a grant to (finally) bring wireless service to the town. The grant provides enough money for them to install $k$ access points, and the supervisors have decided to place them in a straight line on County Road &quot;B,&quot; which lies in the wooded band midway between the two residential streets. They want to place them in a way that minimizes the distance between users and their nearest access point. Specifically, they want to minimize the sum of the squares of the distances of each user from their nearest access point. For instance, Figure \ref{samplefig} shows two streets with eight customers and their locations along the streets (this is the first sample input). The streets are $3$ units apart, and two access points have been placed at points midway between the two streets so that the sum of the eight squared distances is minimized.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/825b9474-4a87-4e47-a74a-fd30e44f1bdf/-/preview/" style="width: 400px; height: 163px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/30525.%E2%80%85B%E2%80%85Road%E2%80%85Band/f9b51df9.png" data-original-src="https://upload.acmicpc.net/825b9474-4a87-4e47-a74a-fd30e44f1bdf/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 400px; height: 163px;" /></p>
 
 <p style="text-align: center;">Figure B.1: Sample Input 1 showing placement of access points</p>
 

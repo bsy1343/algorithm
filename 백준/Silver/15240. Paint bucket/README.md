@@ -16,13 +16,13 @@
 
 ### 문제 설명
 
-<p dir="ltr"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15240/1.gif" style="float:right; height:144px; width:144px" />One of the most time-saving operations when drawing on a computer (for example using Photoshop) is the &ldquo;bucket fill&rdquo; &nbsp;operation.</p>
+<p dir="ltr"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/15240.%E2%80%85Paint%E2%80%85bucket/4b635ea4.gif" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15240/1.gif" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="float:right; height:144px; width:144px" />One of the most time-saving operations when drawing on a computer (for example using Photoshop) is the &ldquo;bucket fill&rdquo; &nbsp;operation.</p>
 
 <p dir="ltr">When you select this tool and click on a (target) pixel of the image it will fill all the pixels that have the same color than the target pixel and are connected to it. Two pixels are connected if they share a side or if they are connected through a path of connected pixels.</p>
 
 <p dir="ltr">Let&rsquo;s see an example: In the following image, if we select the &ldquo;fill&rdquo; operation in an image editor program and click on the center of the image (orange pixel). The whole region will be painted orange. Notice that the pixels are not connected diagonally so two corners of the image remain white.</p>
 
-<p dir="ltr" style="text-align:center"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15240/2.png" style="height:150px; width:151px" />&nbsp;<img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15240/3.png" style="height:155px; width:153px" /></p>
+<p dir="ltr" style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/15240.%E2%80%85Paint%E2%80%85bucket/342e51f5.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15240/2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:150px; width:151px" />&nbsp;<img alt="" src="%EB%B0%B1%EC%A4%80/Silver/15240.%E2%80%85Paint%E2%80%85bucket/a55d0687.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15240/3.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:155px; width:153px" /></p>
 
 <p dir="ltr">Your task is: Given a matrix of digits representing the pixels, simulated what would be the result of a &ldquo;fill&rdquo; operation on given pixels. Thus, the colors will be represented with a number from 0 to 9.</p>
 

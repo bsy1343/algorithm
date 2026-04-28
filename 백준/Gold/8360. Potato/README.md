@@ -42,6 +42,6 @@
 
 ### 힌트
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/485cb3fe-c09c-42eb-a04f-2670a15ab7f6/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/8360.%E2%80%85Potato/e2d8c0b5.png" data-original-src="https://upload.acmicpc.net/485cb3fe-c09c-42eb-a04f-2670a15ab7f6/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p style="text-align: center;">Sample potato can be optimally peeled with 3&nbsp;cuts in the way demonstrated above.</p>

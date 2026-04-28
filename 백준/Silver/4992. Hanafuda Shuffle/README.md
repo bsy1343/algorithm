@@ -22,7 +22,7 @@
 
 <p>Write a program that simulates Hanafuda shuffling and answers which card will be finally placed on the top of the deck.</p>
 
-<p style="text-align: center;"><img alt="" src="/upload/images3/A.gif" style="height:380px; width:574px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/4992.%E2%80%85Hanafuda%E2%80%85Shuffle/eb7b8133.gif" data-original-src="https://www.acmicpc.net/upload/images3/A.gif" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:380px; width:574px" /></p>
 
 <p style="text-align: center;">Figure 1: Cutting operation</p>
 

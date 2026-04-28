@@ -20,7 +20,7 @@
 
 <p>다트판의 각 고리에는 점수가 적혀있고, 중심에 가까울수록 점수가 높다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/2756.%E2%80%85%EB%8B%A4%ED%8A%B8/f85b6b06.png" data-original-src="https://www.acmicpc.net/upload/images/dart.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:216px; width:249px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/2756.%E2%80%85%EB%8B%A4%ED%8A%B8/f85b6b06.png" data-original-src="%EB%B0%B1%EC%A4%80/Bronze/2756.%E2%80%85%EB%8B%A4%ED%8A%B8/f85b6b06.png" data-original-src="https://www.acmicpc.net/upload/images/dart.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:216px; width:249px" /></p>
 
 <p>각 고리의 반지름은 3cm, 6cm, 9cm, 12cm, 15cm이다. (따라서, 불스아이의 지름은 6cm) 간단한 다트게임은 두 플레이어가 게임을 하며, 다음과 같이 플레이한다.</p>
 

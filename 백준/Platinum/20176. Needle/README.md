@@ -24,7 +24,7 @@
 
 <p>For this pity assassin, write a program to tell how many possible escape passages from the North Kingdom to the South Kingdom are available.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/ba6c16d8-ae84-4b90-91cc-b3a7ecdbc411/-/preview/" style="width: 399px; height: 353px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/20176.%E2%80%85Needle/9b44193c.png" data-original-src="https://upload.acmicpc.net/ba6c16d8-ae84-4b90-91cc-b3a7ecdbc411/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 399px; height: 353px;" /></p>
 
 ### 입력
 

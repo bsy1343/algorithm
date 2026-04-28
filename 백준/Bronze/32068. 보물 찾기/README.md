@@ -18,11 +18,11 @@
 
 <p>당신은 친구인 다빈과 함께 아래와 같이 무한히 긴 수직선 위에서 보물찾기 놀이를 하고 있다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/4642f3fc-45a1-4528-bc2e-01104417793f/-/preview/" style="width: 446px; height: 41px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/32068.%E2%80%85%EB%B3%B4%EB%AC%BC%E2%80%85%EC%B0%BE%EA%B8%B0/991ec5ff.png" data-original-src="https://upload.acmicpc.net/4642f3fc-45a1-4528-bc2e-01104417793f/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 446px; height: 41px;" /></p>
 
 <p>먼저 당신은 수직선에 있는 서로 다른 두 위치 $L$, $R$에 보물 두 개를 숨긴다. ($L &lt; R$) 아래는 숨긴 두 보물의 위치가 $L = -2$, $R = 3$인 경우의 예시이다. 주황색으로 표시된 두 개의 칸에 보물이 숨겨져 있다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/b43b2004-38a2-4a98-8d42-9022ce091c73/-/preview/" style="width: 446px; height: 42px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/32068.%E2%80%85%EB%B3%B4%EB%AC%BC%E2%80%85%EC%B0%BE%EA%B8%B0/2c60996c.png" data-original-src="https://upload.acmicpc.net/b43b2004-38a2-4a98-8d42-9022ce091c73/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 446px; height: 42px;" /></p>
 
 <p>당신이 보물 두 개를 숨긴 다음, 다빈이 보물을 찾기 시작한다. 다빈은 당신이 정한 시작 위치 $S$에서 시작해, 아래 단계들을 순서대로 수행하며 보물을 찾을 것이다. 시작 위치 $S$는 항상 두 보물의 위치 $L$과 $R$ 사이에 있다. ($L &lt; S &lt; R$) 두 보물 중 하나의 보물을 찾으면 보물찾기 놀이가 끝난다.</p>
 
@@ -38,7 +38,7 @@
 
 <p>즉, $x$번째 단계에서는, $x$가 짝수라면 오른쪽으로 $x-1$칸 이동하고 $x$가 홀수라면 왼쪽으로 $x-1$칸 이동해서 도착한 위치를 조사한다. 만약, 어떤 단계에서 조사한 칸에 보물이 있으면 보물찾기 놀이가 끝난다. 아래 그림은 $L = -2$, $R = 3$이고 다빈의 시작 위치 $S = 0$인 경우의 보물찾기 놀이의 과정이다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/3a54f084-201a-4299-bad7-fcf0a63eb0d8/-/preview/" style="width: 512px; height: 288px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/32068.%E2%80%85%EB%B3%B4%EB%AC%BC%E2%80%85%EC%B0%BE%EA%B8%B0/43fa3481.png" data-original-src="https://upload.acmicpc.net/3a54f084-201a-4299-bad7-fcf0a63eb0d8/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 512px; height: 288px;" /></p>
 
 <p>5번째 단계에서 조사한 위치 $-2$에 보물이 있으므로, 5번째 단계에서 보물찾기 놀이가 끝난다.</p>
 

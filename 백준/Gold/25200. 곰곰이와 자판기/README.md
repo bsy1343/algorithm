@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><img alt="곰곰이" src="https://upload.acmicpc.net/973bc40d-77e5-4dae-8694-622882d06b42/-/crop/269x318/0,0/-/preview/" style="max-height:120px; object-fit:contain; display:inline-block;" /></p>
+<p style="text-align: center;"><img alt="곰곰이" src="%EB%B0%B1%EC%A4%80/Gold/25200.%E2%80%85%EA%B3%B0%EA%B3%B0%EC%9D%B4%EC%99%80%E2%80%85%EC%9E%90%ED%8C%90%EA%B8%B0/7fbefd69.png" data-original-src="https://upload.acmicpc.net/973bc40d-77e5-4dae-8694-622882d06b42/-/crop/269x318/0,0/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="max-height:120px; object-fit:contain; display:inline-block;" /></p>
 
 <p>곰곰이는 좋아하는 음료수 자판기가 있다. 이 자판기에는 &quot;랜덤&quot; 버튼이 있는데, 이 버튼을 누르면 이세계에서 출발한 음료수가 $M$ 번의 차원 이동 후 자판기 상품 출구로 떨어진다.</p>
 

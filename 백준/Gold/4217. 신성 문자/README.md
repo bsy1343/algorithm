@@ -22,7 +22,7 @@
 
 <p>이 문제에서, 아래와 같은 글자 여섯개를 인식하는 프로그램을 작성하시오.</p>
 
-<p><img alt="" src="/upload/images/egypt.png" style="height:175px; width:563px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/4217.%E2%80%85%EC%8B%A0%EC%84%B1%E2%80%85%EB%AC%B8%EC%9E%90/46b8573e.png" data-original-src="https://www.acmicpc.net/upload/images/egypt.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:175px; width:563px" /></p>
 
 ### 입력
 
@@ -61,6 +61,6 @@
 
 ### 힌트
 
-<p>첫 번째 예제:&nbsp;<img alt="" src="/upload/images/akw.png" style="height:104px; width:109px" /></p>
+<p>첫 번째 예제:&nbsp;<img alt="" src="%EB%B0%B1%EC%A4%80/Gold/4217.%E2%80%85%EC%8B%A0%EC%84%B1%E2%80%85%EB%AC%B8%EC%9E%90/b99fa1c5.png" data-original-src="https://www.acmicpc.net/upload/images/akw.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:104px; width:109px" /></p>
 
-<p>두 번째 예제:&nbsp;<img alt="" src="/upload/images/aaaaa(1).png" style="height:158px; width:164px" /></p>
+<p>두 번째 예제:&nbsp;<img alt="" src="%EB%B0%B1%EC%A4%80/Gold/4217.%E2%80%85%EC%8B%A0%EC%84%B1%E2%80%85%EB%AC%B8%EC%9E%90/6063efa4.png" data-original-src="https://www.acmicpc.net/upload/images/aaaaa(1).png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:158px; width:164px" /></p>

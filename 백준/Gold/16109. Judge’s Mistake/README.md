@@ -18,7 +18,7 @@
 
 <p>Setting problems for programming competitions takes a long time. Several months ago, the judges sent out a call for problems and Kevin replied with the problem in Figure J.1.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/f718304b-c0f2-4862-b319-15d710083313/-/preview/" style="width: 565px; height: 523px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/16109.%E2%80%85Judge%E2%80%99s%E2%80%85Mistake/36f16d6c.png" data-original-src="https://upload.acmicpc.net/f718304b-c0f2-4862-b319-15d710083313/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 565px; height: 523px;" /></p>
 
 <p style="text-align: center;">Figure J.1: The original problem that Kevin proposed.</p>
 

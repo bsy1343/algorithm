@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/be1f2e82-5cb0-460f-b9e4-45af6330b8ad/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/27651.%E2%80%85%EB%B2%8C%EB%A0%88%EC%BB%B7/1c02b2ff.png" data-original-src="https://upload.acmicpc.net/be1f2e82-5cb0-460f-b9e4-45af6330b8ad/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>크기 $N$의 $1$차원 양의 정수 배열로 이루어진 자벌레가 있다. 자벌레는 곤충이기 때문에 머리, 가슴, 배로 부위를 구분할 수 있다.</p>
 

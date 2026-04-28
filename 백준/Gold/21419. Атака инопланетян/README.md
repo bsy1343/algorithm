@@ -22,7 +22,7 @@
 
 <p>Флот инопланетян прилетел с северо-востока, и застыл в таком положении, что все оси кораблей направлены строго на юго-запад.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/2bf50f97-5cdd-45ec-a9b5-23f026acef18/-/preview/" style="width: 184px; height: 168px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/21419.%E2%80%85%D0%90%D1%82%D0%B0%D0%BA%D0%B0%E2%80%85%D0%B8%D0%BD%D0%BE%D0%BF%D0%BB%D0%B0%D0%BD%D0%B5%D1%82%D1%8F%D0%BD/a395893d.png" data-original-src="https://upload.acmicpc.net/2bf50f97-5cdd-45ec-a9b5-23f026acef18/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 184px; height: 168px;" /></p>
 
 <p>Единственный способ нанести урон инопланетной армии --- это пустить из некоторой точки поверхности Земли лазерный луч вертикально вверх. Пущенный так луч прожигает насквозь все вражеские корабли, через которые он проходит (даже те, которые он задевает по границе). Но этот выстрел повредит инопланетянам только в случае, если все $n$ кораблей будут при этом поражены.</p>
 

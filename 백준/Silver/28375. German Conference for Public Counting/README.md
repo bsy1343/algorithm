@@ -20,7 +20,7 @@
 
 <p>At this event, Greta meets counting enthusiasts from all over the country for one week of counting and counting and counting... Together they participate in the Glamorous Competitive Public Counting and the Great Chaotic Public Counting. At the end of the week they all try to win the Golden Cup of Public Counting. Her favourite is the Gently Calming Public Counting where the crowd counts in silence, trying to harmoniously synchronise to reach the target number at precisely the same moment.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/fcc4bc58-212a-4702-a734-e468f8b22d9c/-/preview/" style="width: 599px; height: 150px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/28375.%E2%80%85German%E2%80%85Conference%E2%80%85for%E2%80%85Public%E2%80%85Counting/e87903de.png" data-original-src="https://upload.acmicpc.net/fcc4bc58-212a-4702-a734-e468f8b22d9c/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 599px; height: 150px;" /></p>
 
 <p style="text-align: center;">Figure G.1: People holding up signs for the countdown.</p>
 

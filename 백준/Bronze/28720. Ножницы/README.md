@@ -31,7 +31,7 @@
 
 <p>Пример получившейся спирали показан на рисунке. Красным цветом обозначена линия разреза.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/267bcb50-4a77-47d4-8aea-ac2d53c61d7b/-/preview/" style="width: 150px; height: 113px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/28720.%E2%80%85%D0%9D%D0%BE%D0%B6%D0%BD%D0%B8%D1%86%D1%8B/cbe43561.png" data-original-src="https://upload.acmicpc.net/267bcb50-4a77-47d4-8aea-ac2d53c61d7b/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 150px; height: 113px;" /></p>
 
 <p>Джоржи не терпится, как можно быстрее поиграть с корабликом, поэтому ему очень важно знать суммарную длину разрезов, которые должен будет сделать Билл, чтобы понимать, когда тот закончит. Помогите Джоржи с подсчетом этой величины!</p>
 

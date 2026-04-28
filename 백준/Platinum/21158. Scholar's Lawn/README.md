@@ -22,7 +22,7 @@
 
 <p>For instance, Figure 1 shows an area of lawn together with the fixed set of paved walkways (solid lines) and the path taken by a Fellow of the university (dotted line); $F$ and $S$ denote the initial positions of the Fellow and student, respectively. If both travel at the same speed (say, one meter per second), then after $17.67767$ seconds the Fellow will find the student waiting to have a chat at location $(22.5,12.5)$ (marked by the small open circle &quot;$\large\circ$&quot;).</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/5b6ae0f0-bd58-4e7a-b042-6eafe1da61ba/-/preview/" style="width: 400px; height: 352px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/21158.%E2%80%85Scholar's%E2%80%85Lawn/3766f265.png" data-original-src="https://upload.acmicpc.net/5b6ae0f0-bd58-4e7a-b042-6eafe1da61ba/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 400px; height: 352px;" /></p>
 
 <p style="text-align: center;">Figure 1:&nbsp;Sample Input 1</p>
 

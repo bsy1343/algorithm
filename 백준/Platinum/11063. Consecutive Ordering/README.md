@@ -18,11 +18,11 @@
 
 <p>An interval graph is the intersection graph of family F = {I<sub>1</sub>, I<sub>2</sub>, ..., I<sub>n</sub>} of closed intervals on the real line, where two vertices, v<sub>i</sub> and v<sub>j</sub>, are connected with an edge if and only if their corresponding intervals, I<sub>i</sub> and I<sub>j</sub>, intersect. The family F is usually called an interval representation for the graph. A unit interval graph is an interval graph with an interval representation in which all the intervals have the same length. Refer to Figure 1 for an example of a unit interval graph and its interval representation.</p>
 
-<p style="text-align: center;"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11063/1.png" style="height:76px; width:567px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/11063.%E2%80%85Consecutive%E2%80%85Ordering/d033447b.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11063/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:76px; width:567px" /></p>
 
 <p style="text-align: center;">(a) A unit interval graph G.</p>
 
-<p style="text-align: center;"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11063/2.png" style="height:133px; width:490px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/11063.%E2%80%85Consecutive%E2%80%85Ordering/b9d2b9e5.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11063/2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:133px; width:490px" /></p>
 
 <p style="text-align: center;">(b) An interval representation of the graph G.&nbsp;</p>
 

@@ -22,7 +22,7 @@
 
 <p>You are given a field state: $a_1, a_2, \ldots, a_n$, where $a_i$ --- the number of occupied cells in the $i$-th column of the field. In the given field no empty cell is under the occupied one. For example, if sequence $a$ is $3, 2, 4, 2, 2, 4$, the field looks like this:</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/be898f53-092b-4ca3-9493-76101c0352b7/-/preview/" style="width: 146px; height: 149px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/23855.%E2%80%85Tetris%E2%80%85Remastered/4ff4f440.png" data-original-src="https://upload.acmicpc.net/be898f53-092b-4ca3-9493-76101c0352b7/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 146px; height: 149px;" /></p>
 
 <p>Find the minimum number of pieces Mila needs to play to occupy the lower rows of the field forming a rectangle of width $n$.</p>
 
@@ -42,4 +42,4 @@
 
 <p>In the example Mile can use the following four pieces:</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/95d33fbb-2fb6-4579-80a0-9ed20cb97069/-/preview/" style="width: 146px; height: 149px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/23855.%E2%80%85Tetris%E2%80%85Remastered/a8c701e9.png" data-original-src="https://upload.acmicpc.net/95d33fbb-2fb6-4579-80a0-9ed20cb97069/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 146px; height: 149px;" /></p>

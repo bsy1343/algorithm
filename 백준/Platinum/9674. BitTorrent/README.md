@@ -20,7 +20,7 @@
 
 <p>You want to download a package of files, but you are approaching your monthly Internet usage limit and you don&rsquo;t want to wait till the next month. You want to download the maximum number of files with the bandwidth left. Which pieces must be downloaded?</p>
 
-<p><img alt="" src="https://onlinejudgeimages.s3.amazonaws.com/problem/9674/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-09-13%20%EC%98%A4%ED%9B%84%203.38.16.png" style="height:71px; width:370px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/9674.%E2%80%85BitTorrent/294cb7a6.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/9674/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-09-13%20%EC%98%A4%ED%9B%84%203.38.16.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:71px; width:370px" /></p>
 
 ### 입력
 

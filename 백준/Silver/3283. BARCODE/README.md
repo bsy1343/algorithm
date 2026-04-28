@@ -22,7 +22,7 @@
 
 <p>Each bar in a bar code on a product appears as five &lsquo;squares&rsquo; high column (see the picture below). Width of a thin bar is one and of a thick bar are two &lsquo;squares&rsquo;. For example, bar code depicted below represents the sequence 010001.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/88bc75cd-216d-464e-a483-bf6ebb0125d2/-/preview/" style="width: 129px; height: 84px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/3283.%E2%80%85BARCODE/f9248ccb.png" data-original-src="https://upload.acmicpc.net/88bc75cd-216d-464e-a483-bf6ebb0125d2/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 129px; height: 84px;" /></p>
 
 <p>Bar code reader used in this problem fell on a floor and since then was unable to properly recognize a color of some &lsquo;squares&rsquo; of a bar code.</p>
 

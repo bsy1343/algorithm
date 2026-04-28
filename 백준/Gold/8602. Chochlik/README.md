@@ -20,7 +20,7 @@
 
 <p>Istnieją dwa rodzaje połączeń między dwoma r&oacute;żnymi kołami. Jeśli koło kręci się w pewną stronę, to koło połączone z nim sposobem A kręci się w tę samą stronę, zaś połączone sposobem B - w przeciwną.</p>
 
-<p align="center"><img alt="" src="https://upload.acmicpc.net/a155ef0e-b6ef-4c80-a2f0-f2e025a5d061/-/preview/" /></p>
+<p align="center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/8602.%E2%80%85Chochlik/d31799cf.png" data-original-src="https://upload.acmicpc.net/a155ef0e-b6ef-4c80-a2f0-f2e025a5d061/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p align="center">Dwa sposoby połączeń k&oacute;ł pasami transmisyjnymi.</p>
 
@@ -47,6 +47,6 @@
 
 ### 힌트
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/6de94c0c-e843-4f75-9378-afa811eb3b00/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/8602.%E2%80%85Chochlik/0497e0e8.png" data-original-src="https://upload.acmicpc.net/6de94c0c-e843-4f75-9378-afa811eb3b00/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p><b>Wyjaśnienie do przykładu:</b>&nbsp;Pierwszy wydział nie może działać poprawnie, ponieważ wprawienie w ruch koła numer $1$&nbsp;w prawą stronę spowodowałoby wprawienie w ruch koła numer $2$&nbsp;w prawą i lewą stronę r&oacute;wnocześnie, a taki ruch jest niepoprawny. W drugim wydziale nie ma żadnych pas&oacute;w i jest to poprawna konfiguracja.</p>

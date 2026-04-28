@@ -40,6 +40,6 @@
 
 <p>The following figure illustrates how the BEARs can get to within distance 1 of the warehouse:</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/63e42334-de52-4bb4-8a88-5e8008dc49b0/-/preview/" style="width: 309px; height: 233px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/3352.%E2%80%85BEARs/195082ca.png" data-original-src="https://upload.acmicpc.net/63e42334-de52-4bb4-8a88-5e8008dc49b0/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 309px; height: 233px;" /></p>
 
 <p>Even though the BEARs may continue trying forever, the sheriff can prevent them from ever getting closer to the warehouse.</p>

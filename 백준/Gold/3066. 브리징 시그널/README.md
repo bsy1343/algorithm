@@ -24,9 +24,9 @@
 	<tbody>
 		<tr>
 			<td style="width:50%;text-align:center">
-				<img alt="" src="/upload/images/chip1.png" style="width: 139px; height: 184px;" /></td>
+				<img alt="" src="%EB%B0%B1%EC%A4%80/Gold/3066.%E2%80%85%EB%B8%8C%EB%A6%AC%EC%A7%95%E2%80%85%EC%8B%9C%EA%B7%B8%EB%84%90/69cca29d.png" data-original-src="https://www.acmicpc.net/upload/images/chip1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 139px; height: 184px;" /></td>
 			<td style="width:50%;text-align:center">
-				<img alt="" src="/upload/images/chip2.png" style="width: 139px; height: 183px;" /></td>
+				<img alt="" src="%EB%B0%B1%EC%A4%80/Gold/3066.%E2%80%85%EB%B8%8C%EB%A6%AC%EC%A7%95%E2%80%85%EC%8B%9C%EA%B7%B8%EB%84%90/3758df1f.png" data-original-src="https://www.acmicpc.net/upload/images/chip2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 139px; height: 183px;" /></td>
 		</tr>
 		<tr>
 			<td style="text-align:center">

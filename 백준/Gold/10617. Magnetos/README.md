@@ -28,7 +28,7 @@
 
 <p>The figure below shows a segment of the valid magnetic arrangement that could be part of a StarGate.&nbsp;</p>
 
-<p style="text-align:center"><img alt="" src="/upload/images2/lahore2.png" style="height:51px; width:445px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/10617.%E2%80%85Magnetos/2682914d.png" data-original-src="https://www.acmicpc.net/upload/images2/lahore2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:51px; width:445px" /></p>
 
 <p>Magnetos have sent a few random configurations of magnets and are asking if the magnets can be arranged in a straight line where first and the last end of the line have the same polarity.</p>
 

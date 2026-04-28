@@ -24,7 +24,7 @@
 
 <p>You have been assigned an expert miner to assist you. The expert miner can fetch a single unit of any metal you want. From that unit, you can use your spell to create other metals and then use the spell on the resulting metals to create even more units. The picture below shows a single unit of metal 4 being converted into one unit of metal 1 and two units of metal 2 using two spells with A = 1 and B = 2.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/5dc5ec48-b4ef-416c-ae13-d4cd6f0d3963/-/preview/" style="width: 400px; height: 157px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/22894.%E2%80%85Subtransmutation/e2004fcc.png" data-original-src="https://upload.acmicpc.net/5dc5ec48-b4ef-416c-ae13-d4cd6f0d3963/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 400px; height: 157px;" /></p>
 
 <p>Metals represented by larger integers are heavier and more difficult to handle, so you want to ask the expert miner for a single unit of metal represented by the smallest possible integer that is sufficient to complete your task, or say that there is no such metal.</p>
 

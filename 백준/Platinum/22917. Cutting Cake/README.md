@@ -18,7 +18,7 @@
 
 <p>Today is your and your twin sibling&#39;s birthday. To celebrate, you got a rectangular cake to share. The cake is decorated with N triangular patches of icing (which may overlap). All the icing patches were created with the same triangular mold, so they have the same shape and orientation. Although you and your twin are very similar, your tastes in icing are much different. This difference is formalized by each of you having a different enjoyment value for each patch of icing. Specifically, your enjoyment value for eating the entire i⁠-⁠th patch of icing is A<sub>i</sub>, and your twin&#39;s is B<sub>i</sub>. If someone eats part of a patch, they get enjoyment proportional to the eaten area. For example, if you eat 2/3 of the area of the i⁠-⁠th icing patch, you would get 2A<sub>i</sub>/3 enjoyment from it. Note that there may be some flavors of icing that you or your twin do not enjoy, so the A<sub>i</sub> and/or B<sub>i</sub> values can be negative.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/8bea7659-5b32-486d-b2f6-63faab370c66/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/22917.%E2%80%85Cutting%E2%80%85Cake/9c25005f.png" data-original-src="https://upload.acmicpc.net/8bea7659-5b32-486d-b2f6-63faab370c66/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>You will cut the cake into two rectangular pieces by making a single vertical cut (parallel to the Y-axis). After cutting the cake, you will eat the left piece and your twin will eat the right piece. Your total enjoyment is the sum of the enjoyment you get from all icing to the left of the cut. Similarly, your twin&#39;s enjoyment is the sum of the enjoyment they get from all icing to the right of the cut.</p>
 
@@ -36,16 +36,16 @@
 
 <p>In Sample Case #1, there is a single icing patch. The optimal cut is to the left of the patch. You will eat no icing and receive 0 enjoyment. Your twin will eat all of the icing patch and receive 5 enjoyment from it. The absolute value of the difference between your and your twin&#39;s enjoyments is |0&minus;5|=5.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/a754ed2a-ea44-40a3-9baa-1f5cacf41c97/-/preview/" />&nbsp;<img alt="" src="https://upload.acmicpc.net/70d7aad9-0270-4c0c-9a0b-4ff43458a318/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/22917.%E2%80%85Cutting%E2%80%85Cake/3b724b43.png" data-original-src="https://upload.acmicpc.net/a754ed2a-ea44-40a3-9baa-1f5cacf41c97/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" />&nbsp;<img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/22917.%E2%80%85Cutting%E2%80%85Cake/a4cdf7cb.png" data-original-src="https://upload.acmicpc.net/70d7aad9-0270-4c0c-9a0b-4ff43458a318/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>In Sample Case #2, there are two icing patches. The optimal cut is at X = 15099999.99. Notice that the numerator and denominator of the answer can get very large.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/50cac805-a507-48e9-9d8f-7809a3021b59/-/preview/" />&nbsp;<img alt="" src="https://upload.acmicpc.net/8ea5aea3-2c24-4781-9b03-6e0bc16d6a40/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/22917.%E2%80%85Cutting%E2%80%85Cake/fb0d0c6c.png" data-original-src="https://upload.acmicpc.net/50cac805-a507-48e9-9d8f-7809a3021b59/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" />&nbsp;<img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/22917.%E2%80%85Cutting%E2%80%85Cake/5a87d187.png" data-original-src="https://upload.acmicpc.net/8ea5aea3-2c24-4781-9b03-6e0bc16d6a40/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>In Sample Case #3, there are two icing patches. The optimal cut is at X = 4. You will eat 75% of the first icing patch and receive &minus;3 enjoyment from it. Your twin will eat 25% of the first icing patch and all of the second icing patch getting 5 &sdot; 0.25 + 5 = 6.25 enjoyment. The absolute value of the difference between your and your twin&#39;s enjoyments is |&minus;3 &minus; 6.25| = 9.25 = 37/4.</p>
 
 <p>Notice that cutting at X = 1 would give you 0 enjoyment and your twin 10 enjoyment. While both of those values are greater than the corresponding enjoyment when cutting at X = 4, the difference between them is 10 &gt; 9.25, which means cutting at X = 4 is preferable anyway.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/840e1a5e-8fd4-4f87-8aee-5687af5564be/-/preview/" />&nbsp;<img alt="" src="https://upload.acmicpc.net/f7000519-c692-41af-ba0b-1650c987fd10/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/22917.%E2%80%85Cutting%E2%80%85Cake/783a5430.png" data-original-src="https://upload.acmicpc.net/840e1a5e-8fd4-4f87-8aee-5687af5564be/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" />&nbsp;<img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/22917.%E2%80%85Cutting%E2%80%85Cake/321c32a3.png" data-original-src="https://upload.acmicpc.net/f7000519-c692-41af-ba0b-1650c987fd10/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>In Sample Case #4, there are three icing patches. The optimal cut is at X &asymp; 521241077.6027.</p>

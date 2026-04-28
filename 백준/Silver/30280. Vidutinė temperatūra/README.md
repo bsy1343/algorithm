@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p><img alt="" src="https://upload.acmicpc.net/b2abca63-83d7-4114-8a08-4b8836cc8885/-/preview/" style="width: 161px; height: 204px; float: right;" />&Scaron;ią žiemą Vytautas nusprendė grūdintis. Jis ketina grūdintis tiek &scaron;iltu, tiek &scaron;altu oru, ir jis tai norėtų daryti kuo galima ilgiau be pertraukos. Prie&scaron; sudarydamas grūdinimosi tvarkara&scaron;tį, Vytautas pažiūrėjo į orų prognozę. Kiekvienai i&scaron; ateinančių N dienų jis pasižymėjo ar ta diena bus &scaron;ilta ar &scaron;alta. &Scaron;iltas dienas Vytautas pažymėjo pliusais, o &scaron;altas &ndash; minusais.</p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/30280.%E2%80%85Vidutin%C4%97%E2%80%85temperat%C5%ABra/671e1234.png" data-original-src="https://upload.acmicpc.net/b2abca63-83d7-4114-8a08-4b8836cc8885/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 161px; height: 204px; float: right;" />&Scaron;ią žiemą Vytautas nusprendė grūdintis. Jis ketina grūdintis tiek &scaron;iltu, tiek &scaron;altu oru, ir jis tai norėtų daryti kuo galima ilgiau be pertraukos. Prie&scaron; sudarydamas grūdinimosi tvarkara&scaron;tį, Vytautas pažiūrėjo į orų prognozę. Kiekvienai i&scaron; ateinančių N dienų jis pasižymėjo ar ta diena bus &scaron;ilta ar &scaron;alta. &Scaron;iltas dienas Vytautas pažymėjo pliusais, o &scaron;altas &ndash; minusais.</p>
 
 <p>Žinodami pliusų ir minusų seką, nusakančią orų prognozę, suraskite patį ilgiausią intervalą, kuriame būtų po lygiai &scaron;iltų ir &scaron;altų dienų.</p>
 

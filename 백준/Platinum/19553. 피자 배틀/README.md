@@ -37,9 +37,9 @@
 
 <p>최종 결과: 실버 $7$, 브론즈 $3$</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/aa21585f-b3f9-456b-b95c-9f9d4382da1e/-/preview/" style="max-width: 100%; width: 840px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/19553.%E2%80%85%ED%94%BC%EC%9E%90%E2%80%85%EB%B0%B0%ED%8B%80/47a9a8af.png" data-original-src="https://upload.acmicpc.net/aa21585f-b3f9-456b-b95c-9f9d4382da1e/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="max-width: 100%; width: 840px;" /></p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/f0c37713-1548-4a29-86c9-c0ac20d5f314/-/preview/" style="max-width: 100%; width: 420px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/19553.%E2%80%85%ED%94%BC%EC%9E%90%E2%80%85%EB%B0%B0%ED%8B%80/1878c49b.png" data-original-src="https://upload.acmicpc.net/f0c37713-1548-4a29-86c9-c0ac20d5f314/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="max-width: 100%; width: 420px;" /></p>
 
 <p>예시에 있는 두 사람의 플레이는 최선의 플레이가 아닐 수 있음에 유의한다. 피자가 주어지면, 두 사람이 최선의 전략으로 플레이했을 때 실버가 먹게 되는 피자의 양을 구하는 프로그램을 작성하여라.</p>
 

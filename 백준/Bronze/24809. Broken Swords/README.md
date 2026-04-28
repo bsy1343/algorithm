@@ -26,7 +26,7 @@
 
 <p>Ken doesn&#39;t want an uncomfortable grip, so he will put only an old slat in a new position if it is of the same or opposite type. &nbsp;There are four possible slats &quot;top&quot; (<code>T</code>), &quot;bottom&quot; (<code>B</code>), &quot;left&quot; (<code>L</code>), and &quot;right&quot; (<code>R</code>). When looking at a sword head on, these slats form the following configuration:</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/f2e07817-da28-4a42-86ad-833d4a941fef/-/preview/" style="width: 100px; height: 104px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/24809.%E2%80%85Broken%E2%80%85Swords/608a1d83.png" data-original-src="https://upload.acmicpc.net/f2e07817-da28-4a42-86ad-833d4a941fef/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 100px; height: 104px;" /></p>
 
 <p>As an example, Ken will only replace a top slat with a top or bottom slat.</p>
 

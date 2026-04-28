@@ -18,19 +18,19 @@
 
 <p>윤이, 포닉스, 달구는 UDPC가 열리는 것을 기념해 한 장소에 모여 파티를 열기로 했다! 수많은 참가자와 함께 즐거운 시간을 보내던 중, 참가자들이 세 마스코트 중 누가 제일 귀여운지 토론하기 시작했다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/6520773a-76d2-43dc-a389-0c1fdebaa546/-/preview/" style="width: 250px; height: 250px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/27919.%E2%80%85UDPC%E2%80%85%ED%8C%8C%ED%8B%B0/090e5bdd.png" data-original-src="https://upload.acmicpc.net/6520773a-76d2-43dc-a389-0c1fdebaa546/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 250px; height: 250px;" /></p>
 
 <p style="color: rgb(170, 170, 170); font-style: italic; text-align: center;">UNIST 마스코트 &#39;윤이&#39; - 출처: 윤찐빵</p>
 
 <p style="text-align: center;">야, 아무리 봐도 우리 윤이가 제일 귀엽지. 앙증맞은 뿔과 매력적인 갈기 좀 봐!</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/89332e51-917c-483a-9c29-aa932fc51738/-/preview/" style="width: 250px; height: 251px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/27919.%E2%80%85UDPC%E2%80%85%ED%8C%8C%ED%8B%B0/8b6ec000.png" data-original-src="https://upload.acmicpc.net/89332e51-917c-483a-9c29-aa932fc51738/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 250px; height: 251px;" /></p>
 
 <p style="color: rgb(170, 170, 170); font-style: italic; text-align: center;">POSTECH 마스코트 &#39;포닉스&#39; - 출처: POSTECH 홈페이지</p>
 
 <p style="text-align: center;">그렇게 치면 우리 포닉스의 갈기는! 귀여운 날개랑 꼬리도 가지고 있지~</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/d216c4bb-eecf-434b-a01a-dff9065d44b1/-/preview/" style="height: 249px; width: 250px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/27919.%E2%80%85UDPC%E2%80%85%ED%8C%8C%ED%8B%B0/866ecf32.png" data-original-src="https://upload.acmicpc.net/d216c4bb-eecf-434b-a01a-dff9065d44b1/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 249px; width: 250px;" /></p>
 
 <p style="color: rgb(170, 170, 170); font-style: italic; text-align: center;">DGIST 마스코트 &#39;달구&#39; - 출처: 주식회사 테라핀 홈페이지</p>
 
@@ -40,11 +40,11 @@
 
 <p>투표가 모두 끝나 세 마스코트가 개표를 시작했다. 그런데 글씨체와 방향이 제각각이라 종이에 적힌 알파벳이 서로 비슷하게 생긴 <code>U</code>와 <code>C</code>, 그리고 <code>D</code>와 <code>P</code> 중 무엇인지 알 수 없어 개표 결과가 엉망이 되었다!</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/2f3c13ef-ee53-4f82-9a8b-d5257224a7a1/-/crop/659x227/73,17/-/preview/" style="height: 150px; width: 435px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/27919.%E2%80%85UDPC%E2%80%85%ED%8C%8C%ED%8B%B0/5ad59392.png" data-original-src="https://upload.acmicpc.net/2f3c13ef-ee53-4f82-9a8b-d5257224a7a1/-/crop/659x227/73,17/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 150px; width: 435px;" /></p>
 
 <p style="text-align: center;">U일까 C일까? 정답은 UUUU!</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/d0b327e9-8c50-4965-8091-dc5fc59c2577/-/crop/574x207/82,249/-/preview/" style="width: 416px; height: 150px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/27919.%E2%80%85UDPC%E2%80%85%ED%8C%8C%ED%8B%B0/d6cd83b9.png" data-original-src="https://upload.acmicpc.net/d0b327e9-8c50-4965-8091-dc5fc59c2577/-/crop/574x207/82,249/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 416px; height: 150px;" /></p>
 
 <p style="text-align: center;">D일까 P일까? 정답은 DPDP!</p>
 

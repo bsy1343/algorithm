@@ -34,11 +34,11 @@
 
 <p style="text-align: center;">\[XCorr(0) = x_0y_0 + x_1y_1 + \dots + x_{n-1}y_{n-1}\]</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/8e0de57f-6576-41af-bb75-a30cecfb2ac8/-/preview/" style="width: 233px; height: 111px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/15976.%E2%80%85XCorr/6f65eb42.png" data-original-src="https://upload.acmicpc.net/8e0de57f-6576-41af-bb75-a30cecfb2ac8/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 233px; height: 111px;" /></p>
 
 <p style="text-align: center;">\[XCorr(1) = x_0y_1 + x_1y_2 + \dots + x_{n-1}y_n\]</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/3be4587f-07d4-40d7-8bfc-afa37891bd1d/-/preview/" style="width: 249px; height: 110px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/15976.%E2%80%85XCorr/146b8fc2.png" data-original-src="https://upload.acmicpc.net/3be4587f-07d4-40d7-8bfc-afa37891bd1d/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 249px; height: 110px;" /></p>
 
 <p>회색 칸에 들어있는 부분은 계산결과에 영향을 주지 않음에 주의하라. $y_0$는 계산식에 포함되지 않고, $x_{n-1}$은 곱해지는 $y_n=0$ 이므로 계산 결과에 영향을 주지 않는다. 따라서 예시 수열 $X$와 $Y$에서 $XCorr(1)$은 다음과 같이 계산할 수 있다.</p>
 
@@ -46,7 +46,7 @@
 
 <p style="text-align: center;">\[XCorr(-1) = x_0y_{-1} + x_1y_0 + \dots + x_{n-1}y_{n-2}\]</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/d0a276cf-34aa-4ae2-a923-13ccb4c81257/-/preview/" style="width: 249px; height: 109px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/15976.%E2%80%85XCorr/ffa93ad8.png" data-original-src="https://upload.acmicpc.net/d0a276cf-34aa-4ae2-a923-13ccb4c81257/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 249px; height: 109px;" /></p>
 
 <p>임의의 $t$값의 범위 $(a \le t \le b)$에 대해 $XCorr(t)$를 모두 구해서 더한 값 $S(a,b)$는 다음과 같이 정의된다.</p>
 

@@ -18,7 +18,7 @@
 
 <p>While the most typical type of dice have $6$ sides, each of which shows a different integer $1$ through $6$, there are many games that use other types. In particular, a $dk$ is a die with $k$ sides, each of which shows a different integer $1$ through $k$. A $d6$ is a typical die, a $d4$ has four sides, and a $d1000000$ has one million sides.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/71c9cbbf-a002-47f1-8afa-4843d4be1ca0/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/25090.%E2%80%85d1000000/45597248.png" data-original-src="https://upload.acmicpc.net/71c9cbbf-a002-47f1-8afa-4843d4be1ca0/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>In this problem, we start with a collection of $N$ dice. The $i$-th die is a $dS_i$, that is, it has $S_i$ sides showing integers $1$ through $S_i$. A straight of length $ℓ$ starting at $x$ is the list of integers $x,x+1,\dots ,x+(ℓ-1)$. We want to choose some of the dice (possibly all) and pick one number from each to form a straight. What is the longest straight we can form in this way?</p>
 

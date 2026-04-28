@@ -48,7 +48,7 @@
 
 <p>Here is an illustration of the sample answer for Case #1:</p>
 
-<p><img src="https://onlinejudgeimages.s3.amazonaws.com/problem/14365/%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C%20(1).png" /></p>
+<p><img src="%EB%B0%B1%EC%A4%80/Gold/14366.%E2%80%85Slides!%E2%80%85(Large)/0a77cf23.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/14365/%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C%20(1).png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>The four ways to get from building 1 to building 5 are:</p>
 

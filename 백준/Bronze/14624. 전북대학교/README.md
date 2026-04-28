@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14624/1.png" style="height:211px; width:211px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/14624.%E2%80%85%EC%A0%84%EB%B6%81%EB%8C%80%ED%95%99%EA%B5%90/96910b70.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14624/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:211px; width:211px" /></p>
 
 <p>전북대학교의 심볼은 균형과 조화, 지성과 이상을 향한 방향성과 목표를 나타낸다. 절제된 한국적 아름다움을 꾸밈없는 소박함과 여백을 통해 시각화하였으며, 심볼의 방향에 따라 한국적인 대학, 학문에 정진하는 대학, 미래로 나아가는 대학의 의미를 포함하여 &lsquo;성장을 넘어 성숙의 대학으로 나아가는 전북대학교&rsquo;의 철학과 비전을 상징한다.</p>
 

@@ -34,7 +34,7 @@
 
 ### 힌트
 
-<p>For the sample input:<img alt="" src="https://onlinejudgeimages.s3.amazonaws.com/problem/8213/1.gif" style="height:84px; width:179px" /></p>
+<p>For the sample input:<img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/8213.%E2%80%85Dynamite/c1c029ae.gif" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/8213/1.gif" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:84px; width:179px" /></p>
 
 <p>We light the fuses in chambers 3 and 5. The charge in chamber 3 explodes at time zero, and the charges in chambers 1, 4, 6 and 7 explode after a single time unit.</p>
 

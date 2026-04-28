@@ -18,7 +18,7 @@
 
 <p>DGIST의 E1 건물 앞에는 뉴턴의 사과나무에서 네 번 접목한 나무가 심겨&nbsp;있습니다.&nbsp;</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/407a2de3-8e98-45ea-a70d-8dfe54eff152/-/preview/" style="width: 400px; height: 394px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/25052.%E2%80%85%EB%89%B4%ED%84%B4%EC%9D%98%E2%80%85%EC%82%AC%EA%B3%BC%EB%82%98%EB%AC%B4/f2ccd036.png" data-original-src="https://upload.acmicpc.net/407a2de3-8e98-45ea-a70d-8dfe54eff152/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 400px; height: 394px;" /></p>
 
 <p>은하는 왜인지 모르게 앙상해 보이는 나무가 문득 불쌍하게 느껴졌습니다. 그래서 나무를&nbsp;아름답게 색칠해 주려고 합니다.</p>
 

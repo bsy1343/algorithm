@@ -20,7 +20,7 @@
 
 <p>The length of each rope is not greater than the height of the climbing wall. When one climber in a pair has reached the top of the wall, the other climber from the pair cannot go downwards.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/20c02c5a-4df1-4c93-84df-09b1753dea98/-/preview/" style="height: 100px; width: 24px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/8273.%E2%80%85Climbing/d238ea38.png" data-original-src="https://upload.acmicpc.net/20c02c5a-4df1-4c93-84df-09b1753dea98/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 100px; width: 24px;" /></p>
 
 <p align="center">Figure: A pair of climbers attached to a single rope.</p>
 
@@ -36,4 +36,4 @@
 
 ### 힌트
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/72d0863b-87a0-4348-96bb-e46040a88e28/-/preview/" style="width: 300px; height: 96px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/8273.%E2%80%85Climbing/37964e49.png" data-original-src="https://upload.acmicpc.net/72d0863b-87a0-4348-96bb-e46040a88e28/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 300px; height: 96px;" /></p>

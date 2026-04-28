@@ -18,7 +18,7 @@
 
 <p>어떤 섬나라의 해변은 수직선분과 수평선분으로만 구성되어 있다. 우리는 이 나라의 해안에 둑을 쌓아 간척지를 만들려고 한다. 이러한 간척지를 만들기 위해서 쌓아야 하는 둑은 수평 선분이거나 수직 선분이어야 한다.이때 간척지의 효율은 (간척지의 넓이)&divide;(둑의 길이)로 계산된다. 문제는 이 효율을 최대로 하는 간척지의 효율을 구하는 것이다.</p>
 
-<p><img alt="" src="/upload/images/AUUTKTdSXYFgCh6KBPstmUCL6.png" style="height:250px; width:434px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/2663.%E2%80%85%EA%B0%84%EC%B2%99%EC%A7%80%E2%80%85%EB%A7%8C%EB%93%A4%EA%B8%B0/c7c6fa7c.png" data-original-src="https://www.acmicpc.net/upload/images/AUUTKTdSXYFgCh6KBPstmUCL6.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:250px; width:434px" /></p>
 
 <p>만일, (a-b) 지점을 막아서 간척지를 만들면, 그로부터 만들어지는 간척지의 넓이는 5, 둑의 길이는 1이므로 효율은 5&divide;1=5가 된다. 이와 비교해서 (f-g) 지점을 막으면, 둑의 길이는 3, 그로부터 만들어지는 간척지의 넓이는 8이므로 효율은 8&divide;3=2.667이 된다. 따라서 (a-b) 둑이 (f-g) 둑보다 더 효율적이라고 본다. 계속해서 (c-d) 지점을 막으면 그 효율은 4&divide;2=2가 되고 (c-e) 지점을 막으면, 그 효율은 6&divide;3=2가 된다. 따라서 위의 그림과 같은 섬나라에서는 (a-b) 지점을 막는 것이 가장 효율적이다.</p>
 

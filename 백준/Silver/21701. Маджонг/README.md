@@ -22,7 +22,7 @@
 
 <p>Например, на рисунке показан пример позиции в игре, когда можно сделать два хода: снять две фишки четвертого цвета, поскольку они являются самыми левыми в своих горизонталях, либо снять две фишки первого цвета, поскольку они являются самыми верхними в своих вертикалях.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/36437e0b-f73d-4f1a-bc60-55323c62809c/-/preview/" style="width: 267px; height: 164px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/21701.%E2%80%85%D0%9C%D0%B0%D0%B4%D0%B6%D0%BE%D0%BD%D0%B3/8e7767c4.png" data-original-src="https://upload.acmicpc.net/36437e0b-f73d-4f1a-bc60-55323c62809c/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 267px; height: 164px;" /></p>
 
 <p>Цель игры состоит в том, чтобы сделать как можно больше ходов.&nbsp;</p>
 

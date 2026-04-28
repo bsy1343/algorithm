@@ -18,7 +18,7 @@
 
 <p>옥수수밭 주인 민석이는 한 해 동안 열심히 기른 옥수수를 수확하려고 한다. 옥수수밭은 $N$행 $M$열의 격자로 생각할 수 있는데, 격자의 각 칸에는 한 그루의 옥수수가 심어져 있다. 민석이는 각 옥수수의 가치를 측정해서 서로 다른 정수 $1,2,\cdots ,N\times M$을 부여했다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/8bfc31ad-3ecd-4a0b-aafe-9ef98a081e27/-/preview/" width="400px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/30024.%E2%80%85%EC%98%A5%EC%88%98%EC%88%98%EB%B0%AD/207aaa4e.png" data-original-src="https://upload.acmicpc.net/8bfc31ad-3ecd-4a0b-aafe-9ef98a081e27/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" width="400px" /></p>
 
 <p>민석이는 처음에 옥수수밭 바깥에 위치한다. 민석이는 옥수수밭 바깥을 돌아다니면서 옥수수밭 바깥과 인접한 칸의 옥수수를 수확할 수 있다. 또는 옥수수밭 안에서 옥수수를 수확한 칸으로만 돌아다니면서 현재 위치한 칸에서 상하좌우로 인접한 칸의 옥수수를 수확할 수 있다.</p>
 

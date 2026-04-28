@@ -38,10 +38,10 @@
 
 ### 힌트
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/7f94469d-fa77-434f-86a6-33f88b92a98f/-/preview/" style="width: 93px; height: 95px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/19743.%E2%80%85Jump%E2%80%85and%E2%80%85turn/fe8160f5.png" data-original-src="https://upload.acmicpc.net/7f94469d-fa77-434f-86a6-33f88b92a98f/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 93px; height: 95px;" /></p>
 
 <p style="text-align: center;">Explanation for the first test</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/2b09bce7-3c03-44a7-9ecc-2eb9fc84267c/-/preview/" style="width: 159px; height: 95px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/19743.%E2%80%85Jump%E2%80%85and%E2%80%85turn/7079e564.png" data-original-src="https://upload.acmicpc.net/2b09bce7-3c03-44a7-9ecc-2eb9fc84267c/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 159px; height: 95px;" /></p>
 
 <p style="text-align: center;">Explanation for the second test</p>

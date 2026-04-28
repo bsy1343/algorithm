@@ -28,7 +28,7 @@
 
 <p>What is the total length of paper in each of the $M+1$ piles?</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/262fe3a4-1258-4754-af9c-c80667be487b/-/preview/" style="width: 558px; height: 271px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/21199.%E2%80%85Paper%E2%80%85Snowflakes/481b5228.png" data-original-src="https://upload.acmicpc.net/262fe3a4-1258-4754-af9c-c80667be487b/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 558px; height: 271px;" /></p>
 
 ### 입력
 

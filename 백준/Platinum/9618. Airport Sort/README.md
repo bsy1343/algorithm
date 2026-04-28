@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p><img alt="" src="/upload/images2/airplane.png" style="float:right; height:210px; width:320px" />There are few airlines that don&rsquo;t specify seat numbers before boarding. Instead, each passenger gets a ticket containing a unique integer in the range [1, n] where n indicates the total number of seats in the airplane. Each ticketnumber belongs to a specified zone. Suppose a zone contains k tickets, then tickets with numbers [1, k] are in zone 1; tickets with numbers [k+1, 2k] are in zone 2 and so on. The last zone may contain less than k tickets if n is not divisible by k.</p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/9618.%E2%80%85Airport%E2%80%85Sort/fedb123b.png" data-original-src="https://www.acmicpc.net/upload/images2/airplane.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="float:right; height:210px; width:320px" />There are few airlines that don&rsquo;t specify seat numbers before boarding. Instead, each passenger gets a ticket containing a unique integer in the range [1, n] where n indicates the total number of seats in the airplane. Each ticketnumber belongs to a specified zone. Suppose a zone contains k tickets, then tickets with numbers [1, k] are in zone 1; tickets with numbers [k+1, 2k] are in zone 2 and so on. The last zone may contain less than k tickets if n is not divisible by k.</p>
 
 <p>Before boarding, all the n passengers line up randomly in a straight line. In order to expedite the boarding process, it is convenient that the first k passengers in the line belong to zone 1, the next k in zone 2 and so on. There are two ways of rearranging the positions of the passengers.&nbsp;</p>
 

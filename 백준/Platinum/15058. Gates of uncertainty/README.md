@@ -18,11 +18,11 @@
 
 <p>A NAND gate (negative-AND gate) is a digital electronic circuit which produces an output that is false only if all its inputs are true; in other words, the output of a NAND gate is the complement to the output of an AND gate for the same inputs. A two-input NAND gate is a NAND gate with two inputs. The following figure shows the usual symbol of a two-input NAND gate and its truth table, using 1 for true and 0 for false.</p>
 
-<p style="text-align:center"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15058/1.png" style="height:86px; width:411px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/15058.%E2%80%85Gates%E2%80%85of%E2%80%85uncertainty/f228403d.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15058/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:86px; width:411px" /></p>
 
 <p>In this problem we have a binary tree representing a circuit composed only by two-input NAND gates. In the tree, each internal node represents a NAND gate, which uses as inputs the values produced by its two children. Each leaf in the tree represents an external input to the circuit, and is a value in {0, 1}. The value produced by the circuit is the value produced by the gate at the root of the tree. The following picture shows a circuit with nine nodes, of which four are NAND gates and five are external inputs.</p>
 
-<p style="text-align:center"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15058/2.png" style="height:101px; width:167px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/15058.%E2%80%85Gates%E2%80%85of%E2%80%85uncertainty/0f24a2cc.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15058/2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:101px; width:167px" /></p>
 
 <p>Each gate in the circuit may be stuck, meaning that it either only produce 0 or only produce 1, regardless of the gate&rsquo;s inputs. A test pattern is an assignment of values to the external inputs so that the value produced by the circuit is incorrect, due to the stuck gates.</p>
 

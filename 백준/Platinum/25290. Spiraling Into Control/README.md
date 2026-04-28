@@ -20,7 +20,7 @@
 
 <p>For example, here are the room numberings for houses with $\mathbf{N} = 3$ and $\mathbf{N} = 5$:</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/eb40be61-c359-452c-af98-8bcc32fa9c38/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/25290.%E2%80%85Spiraling%E2%80%85Into%E2%80%85Control/31b87b7f.png" data-original-src="https://upload.acmicpc.net/eb40be61-c359-452c-af98-8bcc32fa9c38/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>Dante starts off in room $1$ and is trying to reach the central room (room $\mathbf{N}^2$). Throughout his journey, he can only make moves from his current room to higher-numbered, adjacent rooms. (Two rooms must share an edge &mdash; not just a corner &mdash; to be adjacent.)</p>
 
@@ -39,7 +39,7 @@
 
 <p>As a specific example using the $5 \times 5$ house above, suppose that $\mathbf{K}$ = $4$. One option is for Dante to move from $1$ to $2$, then move from $2$ to $17$ (which is a shortcut), then move from $17$ to $18$, then move from $18$ to $25$ (which is another shortcut). This is illustrated below (the red arrows represent shortcuts):</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/88127ed8-3aeb-4410-bcaa-9fc85f7df74d/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/25290.%E2%80%85Spiraling%E2%80%85Into%E2%80%85Control/35435c9b.png" data-original-src="https://upload.acmicpc.net/88127ed8-3aeb-4410-bcaa-9fc85f7df74d/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>Can you help Dante find a sequence of exactly $\mathbf{K}$ moves that gets him to the central room, or tell him that it is impossible?</p>
 
@@ -73,7 +73,7 @@
 
 <p>In Sample Case #3, observe that $22$ appears both as the end of one shortcut and the start of the next. It would not be valid to include the line <code>11 22 25</code> in the output; each line must represent a single shortcut.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/7966c1e4-6929-4f80-9a87-cfcde67f03de/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/25290.%E2%80%85Spiraling%E2%80%85Into%E2%80%85Control/6041e548.png" data-original-src="https://upload.acmicpc.net/7966c1e4-6929-4f80-9a87-cfcde67f03de/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>There is another solution that uses only one shortcut: Dante can move from $1 \to 2 \to 3 \to 4 \to 5 \to 6$, then move from $6 \to 19$ (a shortcut), then move from $19 \to 20 \to 21 \to 22 \to 23 \to 24 \to 25$. This is also valid; there is no requirement to minimize (or maximize) the number of shortcuts taken.</p>
 

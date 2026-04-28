@@ -38,4 +38,4 @@
 
 <p>Примеру соответствует следующее расположение фигур:</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/35b1897f-af73-4ed7-98c9-3376ef3befa8/-/preview/" style="width: 239px; height: 246px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/19957.%E2%80%85%D0%A8%D0%B0%D1%85%D0%BC%D0%B0%D1%82%D0%BD%D0%B0%D1%8F%E2%80%85%D0%B3%D0%BE%D0%BB%D0%BE%D0%B2%D0%BE%D0%BB%D0%BE%D0%BC%D0%BA%D0%B0/f2212d8f.png" data-original-src="https://upload.acmicpc.net/35b1897f-af73-4ed7-98c9-3376ef3befa8/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 239px; height: 246px;" /></p>

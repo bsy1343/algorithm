@@ -52,4 +52,4 @@
 
 <p>このときの JOI 国を図示すると，下のようになる．見張られている区画の個数は 18 である (黒丸は見張 りを表す．また，見張られている区画は灰色で示されている)．</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/27d72181-afc7-4ed6-94f6-5adbce39fdfc/-/preview/" style="width: 232px; height: 226px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/24111.%E2%80%85%E6%88%A6%E5%9B%BD%E6%99%82%E4%BB%A3%E2%80%85(Sengoku)/114df0b0.png" data-original-src="https://upload.acmicpc.net/27d72181-afc7-4ed6-94f6-5adbce39fdfc/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 232px; height: 226px;" /></p>

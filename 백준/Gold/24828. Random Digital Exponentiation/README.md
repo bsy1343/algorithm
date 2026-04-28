@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p><img alt="" src="https://upload.acmicpc.net/6615a226-be25-494b-a5b6-675246a62592/-/preview/" style="width: 200px; height: 120px; float: right;" />In a random digital exponentiation (RDE) cipher, each digit of a number $a$ is raised to a certain power which is determined by a randomly chosen encryption key. The encrypted number is the number that results when each digit is replaced with its power at the corresponding place value.</p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/24828.%E2%80%85Random%E2%80%85Digital%E2%80%85Exponentiation/ac5f36ac.png" data-original-src="https://upload.acmicpc.net/6615a226-be25-494b-a5b6-675246a62592/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 200px; height: 120px; float: right;" />In a random digital exponentiation (RDE) cipher, each digit of a number $a$ is raised to a certain power which is determined by a randomly chosen encryption key. The encrypted number is the number that results when each digit is replaced with its power at the corresponding place value.</p>
 
 <p>For instance, for $a = 243$ and an encryption key of <code>7 4 3</code>, the encrypted value $b$ would be $b = 2^7 \times 10^2 + 4^4 \times 10 + 3^3 = 15\,387$.</p>
 

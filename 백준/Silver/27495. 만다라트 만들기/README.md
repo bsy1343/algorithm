@@ -37,7 +37,7 @@
 
 <p>아래는 완성된 만다라트의 예시이다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/fc818ada-c263-475b-9dc8-3b36a990cc0c/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/27495.%E2%80%85%EB%A7%8C%EB%8B%A4%EB%9D%BC%ED%8A%B8%E2%80%85%EB%A7%8C%EB%93%A4%EA%B8%B0/fd1a484a.png" data-original-src="https://upload.acmicpc.net/fc818ada-c263-475b-9dc8-3b36a990cc0c/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>하지만 아무도 우주의 계획표를 알아보지 못했고, 우주는 만다라트를 쉽게 풀어서 써주기로 했다. 쉽게 쓰인 계획표는 이렇게 만들어진다. 먼저 중간 목표를 하나 출력하고, 그 아래로 8개의 세부 목표를 출력한다. 이를 8번 반복하여 8개의 중간 목표와 그 아래의 세부 목표들을 모두 출력한다. 이 때, 중간 목표끼리는 사전순으로 정렬되어 있어야 하며, 중간 목표 아래의 세부 목표 8개도 사전순으로 정렬되어 있어야 한다. 목표 a가 목표 b보다 사전순으로 앞에 오는 경우는 다음과 같다.</p>
 

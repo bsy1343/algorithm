@@ -36,6 +36,6 @@
 
 ### 힌트
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/9f05cbd2-7269-4ec4-9938-d3ca2334218f/-/preview/" style="width: 225px; height: 230px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/30938.%E2%80%85Probing%E2%80%85the%E2%80%85Disk/f0d10b4d.png" data-original-src="https://upload.acmicpc.net/9f05cbd2-7269-4ec4-9938-d3ca2334218f/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 225px; height: 230px;" /></p>
 
 <p style="text-align: center;">Figure K.1. Sample Interaction</p>

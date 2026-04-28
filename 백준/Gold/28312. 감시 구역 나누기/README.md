@@ -22,13 +22,13 @@
 
 <p>가령 이 예제에서 $D(1, 4) = d_1+d_2+d_3 = 6$이고 $D(3, 4) = d_3 = 1$ 이다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/1daf68b9-9f13-496f-83a5-23105443103a/-/preview/" style="height: 78px; width: 600px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/28312.%E2%80%85%EA%B0%90%EC%8B%9C%E2%80%85%EA%B5%AC%EC%97%AD%E2%80%85%EB%82%98%EB%88%84%EA%B8%B0/e5fe69fa.png" data-original-src="https://upload.acmicpc.net/1daf68b9-9f13-496f-83a5-23105443103a/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 78px; width: 600px;" /></p>
 
 <p>Albert는 총 $M$대의 감시용 로봇을 활용하고 싶은데 우선 $N$개의 방을 적절하게 $M$개의 연속한 구역으로 쪼갠 후 각 구역을 하나의 감시용 로봇이 24시간 감시하도록 하고 싶다. 각 구역은 1개 이상의 연속한 방으로 구성되며, 각 방은 반드시 하나의 구역에 속해야 한다. 이후 각 로봇은 자신이 담당한 구역에 속한 방들을 감시하는데, 이 때 필요한 에너지의 양은 해당 구역에 속한 서로 다른 방간의 거리 총합과 같다. 즉, 어떤 구역이 $i$번 방부터 $j$번 방까지 포함한다면 이 구역을 감시하기 위해 필요한 에너지의 양을 $S(i, j)$라 하면 $S(i, j) = \sum_{i \le k \le l \le j} D(k, l)$ 이 된다 - 이 정의에 따르면 $S(i, i) = 0$ 임에 유의하자 (이 경우 감시용 로봇은 $i$번째 방에 가만히 있을 수 있으므로 에너지를 거의 소비하지 않는다).</p>
 
 <p>예를 들어 $M = 2$ 인 경우, 총 4가지 다른 방법으로 5개의 방을 2개의 구간으로 나눌 수 있다 - 곡선으로 표시된 거리는 두 방 사이의 거리인 $D(\cdot, \cdot)$ 값을 나타낸다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/7c292fab-4a89-456b-a2d5-38c43680f68d/-/preview/" style="height: 310px; width: 600px;" /> <img alt="" src="https://upload.acmicpc.net/127dd59c-e5b3-4a04-96ee-36664b2bf29c/-/preview/" style="height: 466px; width: 600px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/28312.%E2%80%85%EA%B0%90%EC%8B%9C%E2%80%85%EA%B5%AC%EC%97%AD%E2%80%85%EB%82%98%EB%88%84%EA%B8%B0/c0d7826e.png" data-original-src="https://upload.acmicpc.net/7c292fab-4a89-456b-a2d5-38c43680f68d/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 310px; width: 600px;" /> <img alt="" src="%EB%B0%B1%EC%A4%80/Gold/28312.%E2%80%85%EA%B0%90%EC%8B%9C%E2%80%85%EA%B5%AC%EC%97%AD%E2%80%85%EB%82%98%EB%88%84%EA%B8%B0/675ddc9a.png" data-original-src="https://upload.acmicpc.net/127dd59c-e5b3-4a04-96ee-36664b2bf29c/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 466px; width: 600px;" /></p>
 
 <ul>
 	<li>첫 번째 방법은 [1, 3]과 [4, 5]로 두 구역을 나눈 경우이다. 첫 번째 구역을 감시하는데 필요한 에너지의 양은 $D(1, 2) + D(1, 3) + D(2, 3) = 10$ 이며 두 번째 구역을 감시하는데 필요한 에너지의 영은 $D(4, 5) = 4$ 이다.</li>

@@ -22,7 +22,7 @@
 
 <p>Therefore, the Home Affairs Minister Sobeslav Gros has decided to reverse this procedure. The bodyguards take their places first. Then, it is the responsibility of the V.I.P. to find the proper position in the center of symmetry. If the person appears anywhere else, we take no responsibility for his/her security.</p>
 
-<p style="text-align: center;"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/6694/1.gif" style="height:424px; width:365px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/6694.%E2%80%85The%E2%80%85Perfect%E2%80%85Symmetry/edda6a9e.gif" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/6694/1.gif" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:424px; width:365px" /></p>
 
 <p>Your task is to automate the process. Given a set of N points (bodyguard positions), you are to find its center of symmetry S, where the V.I.P. is relatively safe. More formal description follows.</p>
 

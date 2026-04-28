@@ -26,7 +26,7 @@
 	<li>비용 3 : cab, bca</li>
 </ul>
 
-<p><img alt="" src="/upload/images/sg1.png" style="height:93px; width:200px" /><img alt="" src="/upload/images/sg2.png" style="height:96px; width:200px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/2779.%E2%80%85%EB%B9%84%EB%B0%80%EC%96%B4/aaa0504e.png" data-original-src="https://www.acmicpc.net/upload/images/sg1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:93px; width:200px" /><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/2779.%E2%80%85%EB%B9%84%EB%B0%80%EC%96%B4/6e26d95e.png" data-original-src="https://www.acmicpc.net/upload/images/sg2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:96px; width:200px" /></p>
 
 <p>비밀 어와 비밀 어의 합은 비밀 문장이 될 수 있다. &nbsp;예를 들어 ab와 dc라는 비밀 어가 있을 경우 abdc라는 비밀 문장이 만들어 질 수 있다. 만약 하나의 비밀 어가 문장에 여러 번 등장할 경우 각각은 다르게 변형되어 사용 될 수 있다. 즉, 주어진 단어가 위처럼 되어 있을때 abcacb라는 문장을 만들 수 있다는 것이다. ( 비용을 들이지 않고 abc단어를 사용하고 비용 2를 들여 acb단어를 사용하여 이 문장을 만들 수 있다. 이때 총 비용은 2이다.)</p>
 

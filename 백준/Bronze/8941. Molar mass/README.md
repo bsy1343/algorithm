@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/8941/1.png" style="float:right; height:190px; width:215px" />An organic compound is any member of a large class of chemical compounds whose molecules contain carbon. The molar mass of an organic compound is the mass of one mole of the organic compound. The molar mass of an organic compound can be computed from the standard atomic weights of the elements.</p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/8941.%E2%80%85Molar%E2%80%85mass/f3726932.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/8941/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="float:right; height:190px; width:215px" />An organic compound is any member of a large class of chemical compounds whose molecules contain carbon. The molar mass of an organic compound is the mass of one mole of the organic compound. The molar mass of an organic compound can be computed from the standard atomic weights of the elements.</p>
 
 <p>When an organic compound is given as a molecular formula, Dr. CHON wants to find its molar mass. A molecular formula, such as C3H4O3, identifies each constituent element by its chemical symbol and indicates the number of atoms of each element found in each discrete molecule of that compound. If a molecule contains more than one atom of a particular element, this quantity is indicated using a subscript after the chemical symbol.</p>
 

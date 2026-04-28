@@ -30,6 +30,6 @@
 
 ### 힌트
 
-<p style="text-align:center"><img alt="" src="http://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15267/1.png" style="height:198px; width:425px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/15267.%E2%80%85Justified%E2%80%85Jungle/0c991bc4.png" data-original-src="http://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15267/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:198px; width:425px" /></p>
 
 <p style="text-align:center">Figures depict justified forests obtained by erasing 1, 3 and 7 edges from the tree in the example input.</p>

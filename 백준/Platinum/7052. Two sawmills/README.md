@@ -42,4 +42,4 @@
 
 <p style="text-align: center;">1 &middot; (2 + 1) + 2 &middot; 1+1 &middot; (1 + 2) + 3 &middot; 2+2 &middot; (1 + 2 + 1) + 1 &middot; (2 + 1) + 1 &middot; 1</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/7e452303-ade5-4787-9c29-5c532e371322/-/preview/" style="height: 96px; width: 469px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/7052.%E2%80%85Two%E2%80%85sawmills/d31542f3.png" data-original-src="https://upload.acmicpc.net/7e452303-ade5-4787-9c29-5c532e371322/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 96px; width: 469px;" /></p>

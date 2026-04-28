@@ -18,7 +18,7 @@
 
 <p>The king of Byteland has received a gift, a jigsaw puzzle. The puzzle consists of a board of size n&times;n. The field in the i-th row and j-th column (1 &le; i, j &le; n) has coordinates (i, j) and contains a piece with the number p(i, j), 1 &le; p(i, j) &le; n<sup>2</sup>. Each of the numbers 1 ... n<sup>2</sup> appears on exactly one of the pieces.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/aa71a13b-4c0c-4273-bb16-f9a60cc6fbb3/-/preview/" style="width: 218px; height: 225px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/7051.%E2%80%85Puzzle/aa442a86.png" data-original-src="https://upload.acmicpc.net/aa71a13b-4c0c-4273-bb16-f9a60cc6fbb3/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 218px; height: 225px;" /></p>
 
 <p style="text-align: center;">Coordinates of the fields</p>
 
@@ -61,4 +61,4 @@
 
 <p>The above sequence of moves gives the following sequence of configurations:</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/bdcafc34-d234-443f-9573-3fe3cf552d74/-/preview/" style="width: 477px; height: 80px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/7051.%E2%80%85Puzzle/6a68b46b.png" data-original-src="https://upload.acmicpc.net/bdcafc34-d234-443f-9573-3fe3cf552d74/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 477px; height: 80px;" /></p>

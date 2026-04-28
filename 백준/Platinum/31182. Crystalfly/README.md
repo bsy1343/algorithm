@@ -18,7 +18,7 @@
 
 <p>Paimon is catching crystalflies on a tree, which are a special kind of butterflies in Teyvat. A tree is a connected graph consisting of $n$ vertices and $(n - 1)$ undirected edges. </p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/2b060885-46ff-4e12-aa29-4d82b44fd18c/-/preview/" style="width: 400px; height: 266px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/31182.%E2%80%85Crystalfly/55ec81b5.png" data-original-src="https://upload.acmicpc.net/2b060885-46ff-4e12-aa29-4d82b44fd18c/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 400px; height: 266px;" /></p>
 
 <p style="text-align: center;">Pixiv ID: 93964680</p>
 

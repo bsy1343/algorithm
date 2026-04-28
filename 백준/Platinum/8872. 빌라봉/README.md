@@ -24,7 +24,7 @@
 
 <p>캥거루는 또한 뱀이 최대한 빨리 이동할 수 있기를 원한다. 캥거루는 임의의 두 빌라봉 사이를 오가는데 드는 최대 시간이 최소가 되도록 길을 만들 것이다. 캥거루가 이렇게 길을 만든 뒤 뱀이 두 빌라봉 사이를 오가는데 드는 최대 시간을 계산하시오.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/9b6a5a7a-c614-4f14-a05a-b0877360a0e2/-/preview/" style="width: 362px; height: 271px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/8872.%E2%80%85%EB%B9%8C%EB%9D%BC%EB%B4%89/0947fc6a.png" data-original-src="https://upload.acmicpc.net/9b6a5a7a-c614-4f14-a05a-b0877360a0e2/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 362px; height: 271px;" /></p>
 
 <p>위 그림에는 N = 12 개의 빌라봉과 M = 8 개의 길이 있다. 새로 만들어지는 길을 뱀이 통행하는 데에는 2일이 걸린다고 가정하자 (즉, L = 2 이다). 그러면 캥거루는 아래와 같이 세 개의 길을 만들 수 있다.</p>
 
@@ -34,7 +34,7 @@
 	<li>빌라봉 4와 10 사이.</li>
 </ul>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/3591f600-864b-48c7-ba8c-78ffe9311a6f/-/preview/" style="width: 362px; height: 271px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/8872.%E2%80%85%EB%B9%8C%EB%9D%BC%EB%B4%89/f93e4f24.png" data-original-src="https://upload.acmicpc.net/3591f600-864b-48c7-ba8c-78ffe9311a6f/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 362px; height: 271px;" /></p>
 
 <p>모든 길이 만들어진 뒤의 모습이 위 그림에 나타나 있다. 여기서 두 빌라봉 사이의 최대 통행 시간은 18일인데 (빌라봉 0과 11 사이), 이것이 가능한 가장 작은 값이다. 즉, 캥거루가 어떤 식으로 새로운 길을 만들더라도, 뱀이 통행하는 데 18일 이상이 걸리는 빌라봉 쌍이 항상 존재한다.</p>
 

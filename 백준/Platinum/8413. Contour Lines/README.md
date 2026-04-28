@@ -38,4 +38,4 @@
 
 ### 힌트
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/c4864e9d-291a-476c-8405-065cdf4a24fa/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/8413.%E2%80%85Contour%E2%80%85Lines/4f12e106.png" data-original-src="https://upload.acmicpc.net/c4864e9d-291a-476c-8405-065cdf4a24fa/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>

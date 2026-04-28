@@ -20,7 +20,7 @@
 
 <p>m&times;n 격자 위에 격자 정사각형은 총 몇 개가 있을까?</p>
 
-<p><img alt="" src="/upload/images/latticesqu.png" style="height:275px; width:439px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/9616.%E2%80%85%ED%99%80%EC%88%98%E2%80%85%EC%A0%95%EC%82%AC%EA%B0%81%ED%98%95/bc74b89e.png" data-original-src="https://www.acmicpc.net/upload/images/latticesqu.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:275px; width:439px" /></p>
 
 <p>위의 그림은 4&times;4 격자 위에서 찾을 수 있는 격자 정사각형의 일부이다. 그림 1, 2, 3과 같이 축에 평행한 격자 정사각형도 있고, 4, 5, 6과 같이 평행하지 않은 정사각형도 있다. 그림 2, 4, 6의 정사각형은 넓이가 짝수이고, 1, 3, 5는 홀수이다.</p>
 

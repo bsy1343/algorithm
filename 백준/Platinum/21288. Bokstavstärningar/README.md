@@ -20,7 +20,7 @@
 
 <p>Write a program to count the number of valid words that can be constructed using Klara&#39;s dice. You will get a wordlist, that contains all the $M$ valid $N$-letter words.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/6fc7a973-f97c-43b6-9c68-ca7c9e1e658f/-/preview/" style="width: 322px; height: 265px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/21288.%E2%80%85Bokstavst%C3%A4rningar/ab8e0a8f.png" data-original-src="https://upload.acmicpc.net/6fc7a973-f97c-43b6-9c68-ca7c9e1e658f/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 322px; height: 265px;" /></p>
 
 <p style="text-align: center;">Figure 1:&nbsp;An illustration of the first example. Since $K = 3$, each die has three sides. You can also write <code>STOL</code> and <code>MASK</code>, but not <code>NATT</code> or <code>KOST</code>.</p>
 

@@ -43,16 +43,16 @@
 <table class="table table-bordered td-center">
 	<tbody>
 		<tr>
-			<td><img alt="" src="https://upload.acmicpc.net/b9cb2781-dd88-4439-a9f2-0ac453090c72/-/preview/" style="width: 215px; height: 124px;" /></td>
-			<td><img alt="" src="https://upload.acmicpc.net/15d9d267-cd18-49f8-b964-ff7756b934ce/-/preview/" style="width: 205px; height: 141px;" /></td>
+			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/5595.%E2%80%85%E6%9C%80%E8%BB%BD%E9%87%8F%E3%81%AE%E3%83%A2%E3%83%93%E3%83%BC%E3%83%AB/cecb2e0a.png" data-original-src="https://upload.acmicpc.net/b9cb2781-dd88-4439-a9f2-0ac453090c72/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 215px; height: 124px;" /></td>
+			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/5595.%E2%80%85%E6%9C%80%E8%BB%BD%E9%87%8F%E3%81%AE%E3%83%A2%E3%83%93%E3%83%BC%E3%83%AB/01660c8c.png" data-original-src="https://upload.acmicpc.net/15d9d267-cd18-49f8-b964-ff7756b934ce/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 205px; height: 141px;" /></td>
 		</tr>
 		<tr>
 			<td>簡単なモビールの例</td>
 			<td>バランスが取られていないので モビールではない例</td>
 		</tr>
 		<tr>
-			<td><img alt="" src="https://upload.acmicpc.net/b9085c87-aaa2-4a5d-9162-59abf50e6903/-/preview/" style="width: 273px; height: 209px;" /></td>
-			<td><img alt="" src="https://upload.acmicpc.net/513b28e5-a8b3-4007-a3ad-d3416e78512b/-/preview/" style="width: 270px; height: 215px;" /></td>
+			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/5595.%E2%80%85%E6%9C%80%E8%BB%BD%E9%87%8F%E3%81%AE%E3%83%A2%E3%83%93%E3%83%BC%E3%83%AB/a3c1bc0b.png" data-original-src="https://upload.acmicpc.net/b9085c87-aaa2-4a5d-9162-59abf50e6903/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 273px; height: 209px;" /></td>
+			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/5595.%E2%80%85%E6%9C%80%E8%BB%BD%E9%87%8F%E3%81%AE%E3%83%A2%E3%83%93%E3%83%BC%E3%83%AB/6a6eaae0.png" data-original-src="https://upload.acmicpc.net/513b28e5-a8b3-4007-a3ad-d3416e78512b/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 270px; height: 215px;" /></td>
 		</tr>
 		<tr>
 			<td>モビールの例</td>
@@ -74,8 +74,8 @@
 <table class="table table-bordered td-center">
 	<tbody>
 		<tr>
-			<td><img alt="" src="https://upload.acmicpc.net/08f28bd6-cd96-41be-814a-3388a55fb43d/-/preview/" style="width: 217px; height: 122px;" /></td>
-			<td><img alt="" src="https://upload.acmicpc.net/5b3cbfc8-6079-4130-9afe-dc207e1711c2/-/preview/" style="width: 245px; height: 122px;" /></td>
+			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/5595.%E2%80%85%E6%9C%80%E8%BB%BD%E9%87%8F%E3%81%AE%E3%83%A2%E3%83%93%E3%83%BC%E3%83%AB/3714bcaf.png" data-original-src="https://upload.acmicpc.net/08f28bd6-cd96-41be-814a-3388a55fb43d/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 217px; height: 122px;" /></td>
+			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/5595.%E2%80%85%E6%9C%80%E8%BB%BD%E9%87%8F%E3%81%AE%E3%83%A2%E3%83%93%E3%83%BC%E3%83%AB/64cc61fb.png" data-original-src="https://upload.acmicpc.net/5b3cbfc8-6079-4130-9afe-dc207e1711c2/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 245px; height: 122px;" /></td>
 		</tr>
 		<tr>
 			<td>この構成で最軽量のモビール</td>

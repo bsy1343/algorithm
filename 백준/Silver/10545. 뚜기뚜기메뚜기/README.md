@@ -22,7 +22,7 @@
 
 <p>이 그림은 핸드폰의 자판이다(안타깝게도 재석이는 메뚜기라 스마트폰을 사지 못 했다.). 예를 들어, a를 입력하고 싶으면 2를 한 번 누르면 되고, b를 입력하고 싶으면 2를 두 번 누르면 된다. 만약 똑같은 키를 연속해서 눌러 다른 문자를 입력하고 싶으면 #을 누르면 된다. 예를 들어, klor을 입력하고 싶으면 55#555666777을 눌러 입력하면 된다.&nbsp;</p>
 
-<p style="text-align:center"><img alt="" src="/upload/images2/keyboard(1).png" style="height:144px; width:151px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/10545.%E2%80%85%EB%9A%9C%EA%B8%B0%EB%9A%9C%EA%B8%B0%EB%A9%94%EB%9A%9C%EA%B8%B0/84b0795c.png" data-original-src="https://www.acmicpc.net/upload/images2/keyboard(1).png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:144px; width:151px" /></p>
 
 ### 입력
 

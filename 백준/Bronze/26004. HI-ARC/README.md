@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/0a404cc6-6d02-4bf4-a64f-3d2f6f955e84/-/crop/295x287/151,70/-/preview/" /><img alt="" src="" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/26004.%E2%80%85HI-ARC/1a147c23.png" data-original-src="https://upload.acmicpc.net/0a404cc6-6d02-4bf4-a64f-3d2f6f955e84/-/crop/295x287/151,70/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /><img alt="" src="" /></p>
 
 <p>당신은 𝐇𝐈-𝐀𝐑𝐂의 열렬한 팬이다. 따라서 위의 이모지를 만들고 싶어 한다.</p>
 

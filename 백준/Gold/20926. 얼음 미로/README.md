@@ -16,24 +16,24 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><img alt="" height="250px" src="https://upload.acmicpc.net/5fa6f462-a6c2-4dff-a2e7-a1ce6d9d0541/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" height="250px" src="%EB%B0%B1%EC%A4%80/Gold/20926.%E2%80%85%EC%96%BC%EC%9D%8C%E2%80%85%EB%AF%B8%EB%A1%9C/4e9f0004.png" data-original-src="https://upload.acmicpc.net/5fa6f462-a6c2-4dff-a2e7-a1ce6d9d0541/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>탐험가 테라는 얼음 미로에 갇혔다. 얼음 미로의 바닥은 빙판으로 되어 있어 발을 내디디면 바위에 부딪힐 때까지 미끄러진다. 예를 들어, 위 그림에서 테라가 왼쪽 방향으로 이동한다면 중간에 멈출 수 없고&nbsp;왼쪽 바위에 부딪힐 때까지 미끄러진다. 얼음 미로 바깥은 절벽이기 때문에 빠지면 탈출할 수 없다.</p>
 
 <p>얼음 미로에는 $4$가지 오브젝트가 있다.</p>
 
 <ol>
-	<li><img alt="" height="32px" src="https://upload.acmicpc.net/1727be99-41c5-41d1-8f49-85745820114a/-/preview/" />&nbsp; 테라 : 얼음 미로에 갇힌 탐험가. 상하좌우 $4$방향으로 이동할 수 있다. 얼음 미로에 단 $1$명의 테라만 존재한다.&nbsp;테라가 최초 위치한 빙판의 <strong>미끌 시간</strong>은 $0$이다.</li>
-	<li><img alt="" height="32px" src="https://upload.acmicpc.net/1019dc88-5904-48c4-8db5-748efaa17076/-/preview/" />&nbsp; 바위 : 통과할 수 없다. 미끄러지다 부딪히면 앞에서 멈춘다.</li>
-	<li><img alt="" height="32px" src="https://upload.acmicpc.net/2fb7171d-22a1-4bae-82a1-241738606465/-/preview/" />&nbsp; 구멍 : 이곳에 빠지면 영영 탈출할 수 없다.</li>
-	<li><img alt="" height="32px" src="https://upload.acmicpc.net/ed684f4e-0a35-4ffc-a961-5d9a1efdee96/-/preview/" />&nbsp; 출구 : 이곳에 방문하는 즉시&nbsp;얼음 미로를 탈출한다. 얼음 미로에 단 $1$개의 출구만 존재한다.</li>
+	<li><img alt="" height="32px" src="%EB%B0%B1%EC%A4%80/Gold/20926.%E2%80%85%EC%96%BC%EC%9D%8C%E2%80%85%EB%AF%B8%EB%A1%9C/2b72afe6.png" data-original-src="https://upload.acmicpc.net/1727be99-41c5-41d1-8f49-85745820114a/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" />&nbsp; 테라 : 얼음 미로에 갇힌 탐험가. 상하좌우 $4$방향으로 이동할 수 있다. 얼음 미로에 단 $1$명의 테라만 존재한다.&nbsp;테라가 최초 위치한 빙판의 <strong>미끌 시간</strong>은 $0$이다.</li>
+	<li><img alt="" height="32px" src="%EB%B0%B1%EC%A4%80/Gold/20926.%E2%80%85%EC%96%BC%EC%9D%8C%E2%80%85%EB%AF%B8%EB%A1%9C/62e83dad.png" data-original-src="https://upload.acmicpc.net/1019dc88-5904-48c4-8db5-748efaa17076/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" />&nbsp; 바위 : 통과할 수 없다. 미끄러지다 부딪히면 앞에서 멈춘다.</li>
+	<li><img alt="" height="32px" src="%EB%B0%B1%EC%A4%80/Gold/20926.%E2%80%85%EC%96%BC%EC%9D%8C%E2%80%85%EB%AF%B8%EB%A1%9C/da15a92d.png" data-original-src="https://upload.acmicpc.net/2fb7171d-22a1-4bae-82a1-241738606465/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" />&nbsp; 구멍 : 이곳에 빠지면 영영 탈출할 수 없다.</li>
+	<li><img alt="" height="32px" src="%EB%B0%B1%EC%A4%80/Gold/20926.%E2%80%85%EC%96%BC%EC%9D%8C%E2%80%85%EB%AF%B8%EB%A1%9C/29a1baab.png" data-original-src="https://upload.acmicpc.net/ed684f4e-0a35-4ffc-a961-5d9a1efdee96/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" />&nbsp; 출구 : 이곳에 방문하는 즉시&nbsp;얼음 미로를 탈출한다. 얼음 미로에 단 $1$개의 출구만 존재한다.</li>
 </ol>
 
 <p>어떤 빙판 위에서 미끄러지는 데 걸리는 시간을 <strong>미끌 시간</strong>이라고 하자. 각 빙판마다 <strong>미끌 시간</strong>은 다를 수 있다.</p>
 
 <p>테라가 어느 한쪽 방향으로 이동할 때, 테라가 미끄러지는 동안&nbsp;위치한 빙판의 <strong>미끌 시간</strong>을 더하면 이동 시간을 구할 수 있다. 단, 이동 시간 계산과 관련하여 두 가지 규칙이 있다.</p>
 
-<p style="text-align: center;"><img alt="" height="252px" src="https://upload.acmicpc.net/4675606f-626c-453f-8e83-c562190177bf/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" height="252px" src="%EB%B0%B1%EC%A4%80/Gold/20926.%E2%80%85%EC%96%BC%EC%9D%8C%E2%80%85%EB%AF%B8%EB%A1%9C/94576186.png" data-original-src="https://upload.acmicpc.net/4675606f-626c-453f-8e83-c562190177bf/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <ul>
 	<li>테라가 어느 한쪽 방향으로 이동을 시작할 때, 시작 빙판의 <strong>미끌 시간</strong>은 포함하지 않는다.</li>

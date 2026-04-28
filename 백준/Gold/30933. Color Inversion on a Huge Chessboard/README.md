@@ -55,6 +55,6 @@
 
 ### 힌트
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/e1d13c52-a8a5-48bf-aa9e-a8d082c1b77d/-/preview/" style="width: 501px; height: 150px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/30933.%E2%80%85Color%E2%80%85Inversion%E2%80%85on%E2%80%85a%E2%80%85Huge%E2%80%85Chessboard/375399e5.png" data-original-src="https://upload.acmicpc.net/e1d13c52-a8a5-48bf-aa9e-a8d082c1b77d/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 501px; height: 150px;" /></p>
 
 <p style="text-align: center;">Figure F.1. Illustration of Sample Input 1</p>

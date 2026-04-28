@@ -18,7 +18,7 @@
 
 <p>중앙대학교의 자랑스러운 청룡 푸앙이는 요즘 즐겨 듣는 노래가 있다. 〈Show me the 중앙〉에 나온 &#39;말해 xor NO!&#39; 라는 노래이다. 노래에 심취한 푸앙이는 노래의 제목대로 &#39;말해 xor NO!&#39;를 계산하기 위해 <em>N</em>장의 &#39;말해&#39; 카드와 <em>M</em>장의 &#39;NO!&#39; 카드를 만들었다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/fda9939c-99d3-48a2-a92e-70e04aa9f1cd/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/24397.%E2%80%85%EB%A7%90%ED%95%B4%E2%80%85xor%E2%80%85NO!/8aec4989.png" data-original-src="https://upload.acmicpc.net/fda9939c-99d3-48a2-a92e-70e04aa9f1cd/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>정수 <em>n</em>이 쓰여 있는 &#39;말해&#39; 카드와 <em>m</em>이 쓰여 있는 &#39;NO!&#39; 카드를 하나씩 뽑았을 때, 두 카드에 대한 &#39;말해 xor NO!&#39; 연산의 값은 <em>n</em> xor <em>m</em>으로 정의한다.</p>
 

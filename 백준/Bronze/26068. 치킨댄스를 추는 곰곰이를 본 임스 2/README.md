@@ -24,7 +24,7 @@
 
 <p>임스는 기프티콘을 아껴 사용하기 위해 유효기간이 <strong>90일 이하</strong>로 남은 기프티콘만 사용할 것이다.</p>
 
-<p style="text-align: center;"><img alt="하트 곰곰" src="https://upload.acmicpc.net/edeff635-26ea-4303-995a-e6e2a6bc7b3b/-/preview/" style="max-height:120px; object-fit:contain; display:inline-block;" /></p>
+<p style="text-align: center;"><img alt="하트 곰곰" src="%EB%B0%B1%EC%A4%80/Bronze/26068.%E2%80%85%EC%B9%98%ED%82%A8%EB%8C%84%EC%8A%A4%EB%A5%BC%E2%80%85%EC%B6%94%EB%8A%94%E2%80%85%EA%B3%B0%EA%B3%B0%EC%9D%B4%EB%A5%BC%E2%80%85%EB%B3%B8%E2%80%85%EC%9E%84%EC%8A%A4%E2%80%852/918f9dd0.png" data-original-src="https://upload.acmicpc.net/edeff635-26ea-4303-995a-e6e2a6bc7b3b/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="max-height:120px; object-fit:contain; display:inline-block;" /></p>
 
 ### 입력
 

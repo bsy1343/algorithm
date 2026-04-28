@@ -20,7 +20,7 @@
 
 <p>Let&rsquo;s investigate a simpler version of the game, called &ldquo;Tiny TETRIS&rdquo; (or just &ldquo;Tiny&rdquo; for short). There are only nine different Tiny pieces (or t-pieces) consisting of one to three squares:</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/639c6125-1b47-4875-b078-22df004d0140/-/crop/984x194/0,2/-/preview/" style="width: 492px; height: 97px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/22204.%E2%80%85Tiny%E2%80%85-%E2%80%854/df16e7a7.png" data-original-src="https://upload.acmicpc.net/639c6125-1b47-4875-b078-22df004d0140/-/crop/984x194/0,2/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 492px; height: 97px;" /></p>
 
 <p>The number denotes the type of a t-piece and will be used further to reference the particular t-piece.</p>
 
@@ -44,7 +44,7 @@
 
 <p>Let&rsquo;s analyze one particular game.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/66a7d02c-bf83-4ef1-a0c3-f5695e294a22/-/preview/" style="width: 191px; height: 195px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/22204.%E2%80%85Tiny%E2%80%85-%E2%80%854/9699724a.png" data-original-src="https://upload.acmicpc.net/66a7d02c-bf83-4ef1-a0c3-f5695e294a22/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 191px; height: 195px;" /></p>
 
 <p>Sequence of the given 20 t-pieces is the following: 5,4,1,6,7,6,4,4,7,9,5,5,6,8,3,4,3,7,4,2. Let&rsquo;s assume that the first 17 t-pieces have already been&nbsp;successfully dropped in the container in the columns 1,2,2,4,8,8,7,4,8,6,1,1,4,8,3,7,7, respectively. Until this moment no lines have been completed, the current value of the counter is 17 and it is time to drop t-piece 7 (letters in the figure are assigned consecutively to t-pieces):</p>
 
@@ -59,8 +59,8 @@
 	</thead>
 	<tbody>
 		<tr>
-			<td><img alt="" src="https://upload.acmicpc.net/1675ff33-55f0-464b-975f-49e3240fdef8/-/preview/" style="width: 225px; height: 231px;" /></td>
-			<td><img alt="" src="https://upload.acmicpc.net/8d6dd923-4e9f-4385-87ab-31dda0db27df/-/preview/" style="width: 225px; height: 231px;" /></td>
+			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/22204.%E2%80%85Tiny%E2%80%85-%E2%80%854/f155b6d6.png" data-original-src="https://upload.acmicpc.net/1675ff33-55f0-464b-975f-49e3240fdef8/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 225px; height: 231px;" /></td>
+			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/22204.%E2%80%85Tiny%E2%80%85-%E2%80%854/4f45290b.png" data-original-src="https://upload.acmicpc.net/8d6dd923-4e9f-4385-87ab-31dda0db27df/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 225px; height: 231px;" /></td>
 		</tr>
 	</tbody>
 </table>

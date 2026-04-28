@@ -20,7 +20,7 @@
 
 <p>Because the dryer uses a lot of electricity, you are going to partition <em>n</em> clothes into at most <em>k</em> groups and runs the dryer for each group. Given <em>n</em> clothes with <em>t<sub>i</sub></em>&rsquo;s and <em>w<sub>i</sub></em>&rsquo;s, write a program to find the minimum total time to dry all the clothes without damage.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/aaca7bb4-c93b-45d9-9efd-9d458a132212/-/preview/" style="width: 405px; height: 177px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/17524.%E2%80%85Dryer/1f30a3f7.png" data-original-src="https://upload.acmicpc.net/aaca7bb4-c93b-45d9-9efd-9d458a132212/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 405px; height: 177px;" /></p>
 
 <p>This figure illustrates an example of <em>n</em> = 4, <em>k</em> = 2. In this case, the total time is 90 + 30 = 120 minutes.</p>
 

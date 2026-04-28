@@ -25,7 +25,7 @@
 <p>You must write a program to solve valid directed mazes. Solving a maze means (if possible) finding a route through the maze that leaves the Entrance in the prescribed direction, and ends in the Goal. This route should not be longer than necessary, of course.</p>
 
 <p>Figure 1: An example of a directed maze<br />
-<img alt="" src="https://onlinejudgeimages.s3.amazonaws.com/problem/6724/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-06-13%20%EC%98%A4%ED%9B%84%205.40.08.png" style="height:294px; width:315px" /></p>
+<img alt="" src="%EB%B0%B1%EC%A4%80/Gold/6724.%E2%80%85Directed%E2%80%85mazes/b8b1269a.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/6724/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-06-13%20%EC%98%A4%ED%9B%84%205.40.08.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:294px; width:315px" /></p>
 
 ### 입력
 

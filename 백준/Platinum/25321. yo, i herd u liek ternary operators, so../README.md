@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="margin-bottom: 15px;"><img alt="" src="https://upload.acmicpc.net/a2068ae8-c874-48c3-a2eb-4e104b3c38d5/-/preview/" style="display: block; margin-left: auto; margin-right: auto; width: 100%; max-width: 400px;" /></p>
+<p style="margin-bottom: 15px;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/25321.%E2%80%85yo%2C%E2%80%85i%E2%80%85herd%E2%80%85u%E2%80%85liek%E2%80%85ternary%E2%80%85operators%2C%E2%80%85so../974a2462.png" data-original-src="https://upload.acmicpc.net/a2068ae8-c874-48c3-a2eb-4e104b3c38d5/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="display: block; margin-left: auto; margin-right: auto; width: 100%; max-width: 400px;" /></p>
 
 <p>진수는 삼항 연산자를 아주 좋아한다. 삼항 연산자는</p>
 

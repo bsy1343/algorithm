@@ -18,7 +18,7 @@
 
 <p>아래와 같이 M행 N열 격자 그리드로 설계된 운전 면허 시험장에서 운전 면허 시험을 치르려 한다.</p>
 
-<p style="text-align: center;"><img src="https://www.acmicpc.net/upload/images2/driving1(1).png" /></p>
+<p style="text-align: center;"><img src="%EB%B0%B1%EC%A4%80/Platinum/10251.%E2%80%85%EC%9A%B4%EC%A0%84%E2%80%85%EB%A9%B4%ED%97%88%E2%80%85%EC%8B%9C%ED%97%98/0e16603a.png" data-original-src="https://www.acmicpc.net/upload/images2/driving1(1).png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>시험의 규칙은 세 가지이다.</p>
 
@@ -32,7 +32,7 @@
 
 <p>위에 예시로 주어진 4*6 그리드에서 각 도로에 쓰여진 정수가 그 도로를 시간 L동안 주행하는 데에 드는 연료량이다. 방향을 바꿀 때는 연료가 사용되지 않는다.</p>
 
-<p style="text-align: center;"><img src="https://www.acmicpc.net/upload/images2/driving2(1).png" /></p>
+<p style="text-align: center;"><img src="%EB%B0%B1%EC%A4%80/Platinum/10251.%E2%80%85%EC%9A%B4%EC%A0%84%E2%80%85%EB%A9%B4%ED%97%88%E2%80%85%EC%8B%9C%ED%97%98/76e1812f.png" data-original-src="https://www.acmicpc.net/upload/images2/driving2(1).png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>위의 그림은 G=19이며 L=10일 때 가능한 두 가지 경로를 표시한 것이다.</p>
 

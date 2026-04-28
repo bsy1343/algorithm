@@ -30,7 +30,7 @@
 	<li>To avoid crashes between boats, the route never crossed itself.</li>
 </ul>
 
-<p><img alt="" src="https://upload.acmicpc.net/6c872627-5e87-4ed4-baea-bbc5fa61711c/-/preview/" style="width: 206px; height: 225px; float: left;" />The figure shows the lake and the cities around it. The lines (both thick and thin) represent commercial agreements between cities. The thick lines represent a commerce route starting in city 2 and ending in city 5.</p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/5481.%E2%80%85The%E2%80%85Valley%E2%80%85of%E2%80%85Mexico/de42e66e.png" data-original-src="https://upload.acmicpc.net/6c872627-5e87-4ed4-baea-bbc5fa61711c/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 206px; height: 225px; float: left;" />The figure shows the lake and the cities around it. The lines (both thick and thin) represent commercial agreements between cities. The thick lines represent a commerce route starting in city 2 and ending in city 5.</p>
 
 <p>This route never crosses itself. It would not be legal, for example, to construct a route that went from 2 to 6 to 5 to 1, since the route would cross itself.</p>
 

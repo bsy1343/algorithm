@@ -20,7 +20,7 @@
 
 <p>The radius of a curve is the radius of the section of a circle along the middle of the road where the curve is constant. See Figure 1 for a drawing of this.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/5ad15b5d-d040-43f4-9126-a939ffdd39c5/-/preview/" style="width: 562px; height: 250px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/21167.%E2%80%85Curve%E2%80%85Speed/09404963.png" data-original-src="https://upload.acmicpc.net/5ad15b5d-d040-43f4-9126-a939ffdd39c5/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 562px; height: 250px;" /></p>
 
 <p>Figure 1:&nbsp;Section of a circle along the middle of a road with radius $R$.</p>
 

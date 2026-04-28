@@ -18,7 +18,7 @@
 
 <p>상근이는 다음 학기에 먹을 술 값을 벌기 위해서 방학동안 일을 하고 있다. 상근이가 하는 일은 N&times;N크기의 행렬로 나타낼 수 있으며, 행렬의 각 칸은 작업 하나를 나타낸다. (x, y)에 있는 작업을 하려면, (x, y-1)과 (x-1, y)에 있는 작업을 모두 끝내야 할 수 있다. (그 칸이 존재하는 경우)</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/10af0a03-ab27-4dbf-acd3-ca9c0e800778/-/preview/" style="width: 112px; height: 113px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/3087.%E2%80%85%EC%83%81%EA%B7%BC%EC%9D%BC/e6a8495c.png" data-original-src="https://upload.acmicpc.net/10af0a03-ab27-4dbf-acd3-ca9c0e800778/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 112px; height: 113px;" /></p>
 
 <p>위의 그림은 회색 칸에 해당하는 작업을 하기 위해서 먼저 해야하는 작업을 나타낸 것이다.</p>
 

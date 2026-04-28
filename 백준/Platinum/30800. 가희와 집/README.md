@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><img alt="" src="https://u.acmicpc.net/ece68488-c374-4f5c-813a-f3e42338606c/1.jpg" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/30800.%E2%80%85%EA%B0%80%ED%9D%AC%EC%99%80%E2%80%85%EC%A7%91/877f4f1b.jpg" data-original-src="https://u.acmicpc.net/ece68488-c374-4f5c-813a-f3e42338606c/1.jpg" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p style="text-align: center;"><strong>[그림 1]</strong> 바깥으로 쫓겨난 가희를 위한 집</p>
 

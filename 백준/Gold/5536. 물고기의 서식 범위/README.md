@@ -36,4 +36,4 @@
 
 ### 힌트
 
-<p style="text-align: center;"><img alt="" src="/upload/images/fish.png" style="width: 400px; height: 400px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/5536.%E2%80%85%EB%AC%BC%EA%B3%A0%EA%B8%B0%EC%9D%98%E2%80%85%EC%84%9C%EC%8B%9D%E2%80%85%EB%B2%94%EC%9C%84/debedb2a.png" data-original-src="https://www.acmicpc.net/upload/images/fish.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 400px; height: 400px;" /></p>

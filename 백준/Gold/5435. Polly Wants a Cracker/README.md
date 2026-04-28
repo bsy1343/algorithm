@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p><img alt="" src="/upload/images2/pirat.png" style="float:right; height:163px; width:123px" />In the pirate society, each pirate captain is obligated to obtain a pet. This pet should be at the side (or on the shoulder) of a pirate captain at all times, especially during conversations with good doers who wish to challenge the captain&rsquo;s evil ways.</p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/5435.%E2%80%85Polly%E2%80%85Wants%E2%80%85a%E2%80%85Cracker/564111d9.png" data-original-src="https://www.acmicpc.net/upload/images2/pirat.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="float:right; height:163px; width:123px" />In the pirate society, each pirate captain is obligated to obtain a pet. This pet should be at the side (or on the shoulder) of a pirate captain at all times, especially during conversations with good doers who wish to challenge the captain&rsquo;s evil ways.</p>
 
 <p>Greedbeard is the infamous and feared captain of the pirate ship Greatlooter. His pet is the infamous and feared parrot known as Polly. As a parrot, Polly likes to mimic the conversations he overhears. Unfortunately, Polly is not very good at mimicking the sentences he hears. For this reason, Greedbeard has taken it upon himself to assist Polly as he learns to speak the human tongue.</p>
 

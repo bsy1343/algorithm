@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align:center"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/13199/chicken.jpg" style="height:520px; width:780px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/13199.%E2%80%85%EC%B9%98%ED%82%A8%E2%80%85%EB%A8%B9%EA%B3%A0%E2%80%85%EC%8B%B6%EB%8B%A4/e0fd2e7d.jpg" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/13199/chicken.jpg" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:520px; width:780px" /></p>
 
 <p>서울대학교 301동에는 아는 사람만 아는 &ldquo;눕치킨&rdquo;이란 치킨집이 있다. 이 치킨집은 여느 치킨집처럼 치킨을 시킬 때 마다 쿠폰을 <em>C</em> 장 주고, 쿠폰을 <em>F</em> 장 모으면 치킨을 공짜로 시킬 수 있다.</p>
 

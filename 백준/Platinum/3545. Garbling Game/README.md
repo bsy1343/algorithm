@@ -20,7 +20,7 @@
 
 <p>The rules of rearrangement are defined by garbling map that is (r &minus; 1) &times; (c &minus; 1) matrix of letters L, R, and N. Initial 4 &times; 5 matrix and the sample 3 &times; 4 garbling map for it are shown below.</p>
 
-<p style="text-align: center;"><img alt="" src="/upload/images3/grabling.png" style="height:102px; width:338px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/3545.%E2%80%85Garbling%E2%80%85Game/f622315b.png" data-original-src="https://www.acmicpc.net/upload/images3/grabling.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:102px; width:338px" /></p>
 
 <p>Pavel garbles the matrix in a series of turns. On his first turn Pavel takes the number in the first row and the first column (it is put in parenthesis on the above picture for clarity) and writes it down.</p>
 
@@ -38,7 +38,7 @@
 
 <p>The matrices below show the effect of the first four turns with the sample garbling map.</p>
 
-<p style="text-align: center;"><img alt="" src="/upload/images3/garbling2.png" style="height:83px; width:681px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/3545.%E2%80%85Garbling%E2%80%85Game/95e93775.png" data-original-src="https://www.acmicpc.net/upload/images3/garbling2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:83px; width:681px" /></p>
 
 <p>The following sequence of numbers is written down in the first 4 turns: 1 7 7 9. On 5th turn the number from the second row and the first column is written, but the matrix remains unchanged, since the second row and the first column of the garbling map contains N. In six turns Pavel gets 1 7 7 9 1 8.</p>
 

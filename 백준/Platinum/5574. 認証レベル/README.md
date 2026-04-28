@@ -47,8 +47,8 @@
 <table class="table table-bordered td-center td-middle">
 	<tbody>
 		<tr>
-			<td style="width:50%;"><img alt="" src="https://upload.acmicpc.net/65a79459-b095-4dad-b917-28c78435a78c/-/preview/" style="width: 66px; height: 65px;" /></td>
-			<td style="width:50%;"><img alt="" src="https://upload.acmicpc.net/f4d11644-6f98-428e-a8ff-0bab02e84bd0/-/preview/" style="width: 93px; height: 65px;" /></td>
+			<td style="width:50%;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/5574.%E2%80%85%E8%AA%8D%E8%A8%BC%E3%83%AC%E3%83%99%E3%83%AB/f945d18b.png" data-original-src="https://upload.acmicpc.net/65a79459-b095-4dad-b917-28c78435a78c/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 66px; height: 65px;" /></td>
+			<td style="width:50%;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/5574.%E2%80%85%E8%AA%8D%E8%A8%BC%E3%83%AC%E3%83%99%E3%83%AB/87656e87.png" data-original-src="https://upload.acmicpc.net/f4d11644-6f98-428e-a8ff-0bab02e84bd0/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 93px; height: 65px;" /></td>
 		</tr>
 		<tr>
 			<td style="width:50%;">事務所 1 (認証レベル 9)</td>
@@ -62,8 +62,8 @@
 <table class="table table-bordered td-center td-middle">
 	<tbody>
 		<tr>
-			<td style="width:50%;"><img alt="" src="https://upload.acmicpc.net/10bbb3d6-d734-4911-bb37-441e385f36e1/-/preview/" style="width: 92px; height: 92px;" /></td>
-			<td style="width:50%;"><img alt="" src="https://upload.acmicpc.net/8c465bc3-f892-4c15-8add-e4f14e595c42/-/preview/" style="width: 62px; height: 62px;" /></td>
+			<td style="width:50%;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/5574.%E2%80%85%E8%AA%8D%E8%A8%BC%E3%83%AC%E3%83%99%E3%83%AB/b6c23d93.png" data-original-src="https://upload.acmicpc.net/10bbb3d6-d734-4911-bb37-441e385f36e1/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 92px; height: 92px;" /></td>
+			<td style="width:50%;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/5574.%E2%80%85%E8%AA%8D%E8%A8%BC%E3%83%AC%E3%83%99%E3%83%AB/44e6e411.png" data-original-src="https://upload.acmicpc.net/8c465bc3-f892-4c15-8add-e4f14e595c42/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 62px; height: 62px;" /></td>
 		</tr>
 		<tr>
 			<td style="width:50%;">事務所 1 (認証レベル 9)</td>

@@ -20,7 +20,7 @@
 
 <p>They bought $n$ Christmas ornaments arranged next to each other in an elongated box, and the $i$-th ornament has the color $a_i$. The box is open on both sides, so the ornaments can be taken out from both the left and the right side of the box. The box is transparent, so Marin and Josip can see the color of each ornament.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/9448dc6e-8f88-4ec9-bc34-3d02b82b4934/-/preview/" style="width: 445px; height: 80px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/30942.%E2%80%85Kuglice/81fa36ad.png" data-original-src="https://upload.acmicpc.net/9448dc6e-8f88-4ec9-bc34-3d02b82b4934/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 445px; height: 80px;" /></p>
 
 <p style="text-align: center;">The illustration shows the initial state of the box in the second example. On his first move, Marin can draw either an ornament of color $1$ from the left end of the box or an ornament of color $3$ from the right end of the box.</p>
 
@@ -42,7 +42,7 @@
 
 <p>Clarification of the first example:</p>
 
-<p><img alt="" src="https://upload.acmicpc.net/2fa251fd-0dbf-4f39-861e-95410ea3a839/-/preview/" style="width: 221px; height: 250px; float: left;" />Marin is first, and he draws an ornament of color $1$ from the left end of the box. Marin scores a point.</p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/30942.%E2%80%85Kuglice/c4a2b19e.png" data-original-src="https://upload.acmicpc.net/2fa251fd-0dbf-4f39-861e-95410ea3a839/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 221px; height: 250px; float: left;" />Marin is first, and he draws an ornament of color $1$ from the left end of the box. Marin scores a point.</p>
 
 <p>Josip draws an ornament of color $1$ from the right end of the box, but he does not score a point because a ball of color $1$ has already been drawn.</p>
 

@@ -20,7 +20,7 @@
 
 <p>첫 번째 셔플을 X-셔플이라고 하고 셔플을 하는 방법은 다음과 같다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/8ac7f509-d217-47ef-980a-686b7eae7511/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/20121.%E2%80%85%EC%B9%B4%EB%93%9C%E2%80%85%EC%85%94%ED%94%8C/dfe19d04.png" data-original-src="https://upload.acmicpc.net/8ac7f509-d217-47ef-980a-686b7eae7511/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>앞 부분의 <em>(N+1)/2</em> 개와 뒷 부분 <em>(N-1)/2</em> 개로 나눈다.</p>
 
@@ -28,7 +28,7 @@
 
 <p>두 번째 셔플을 Y-셔플이라고 하고 셔플을 하는 방법은 다음과 같다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/b2230350-6c44-449c-8b7b-3aaf7c998a34/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/20121.%E2%80%85%EC%B9%B4%EB%93%9C%E2%80%85%EC%85%94%ED%94%8C/8f0d2af8.png" data-original-src="https://upload.acmicpc.net/b2230350-6c44-449c-8b7b-3aaf7c998a34/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>앞 부분의 <em>(N-1)/2</em> 개와 뒷 부분 <em>(N+1)/2</em> 개로 나눈다.</p>
 

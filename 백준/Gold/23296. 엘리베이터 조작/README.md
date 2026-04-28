@@ -24,7 +24,7 @@
 
 <p>각 층에 한 명씩의 사람들이 기다리고 있고, 사람들을 모두 원하는 층에 내려주기 위해 버튼을 눌러야 하는 최소 횟수와 눌러야하는 버튼 순서를 출력한다. 엘리베이터는 처음에 1층에 위치하고 있다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/555f5a1c-5e19-4dfa-8ea2-06e48b0e7fce/-/preview/" style="height: 546px; width: 700px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/23296.%E2%80%85%EC%97%98%EB%A6%AC%EB%B2%A0%EC%9D%B4%ED%84%B0%E2%80%85%EC%A1%B0%EC%9E%91/daf3dd3b.png" data-original-src="https://upload.acmicpc.net/555f5a1c-5e19-4dfa-8ea2-06e48b0e7fce/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 546px; width: 700px;" /></p>
 
 <p style="text-align: center;">&lt;그림 1&gt; 예시 1</p>
 

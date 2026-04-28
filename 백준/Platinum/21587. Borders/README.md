@@ -22,7 +22,7 @@
 
 <p>Consider these examples:</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/cc8cfbee-7723-45ac-acd7-f54b1e9f3f19/-/preview/" style="width: 616px; height: 176px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/21587.%E2%80%85Borders/1a9835b7.png" data-original-src="https://upload.acmicpc.net/cc8cfbee-7723-45ac-acd7-f54b1e9f3f19/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 616px; height: 176px;" /></p>
 
 <ul>
 	<li>In the first case, the minimum is three. Because they&rsquo;re on the edges, there is no choice but to draw a border around all three.</li>

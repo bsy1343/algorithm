@@ -22,7 +22,7 @@
 
 <p>An example map containing three cities is presented below.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/1f5bea0d-90d5-4176-a9ba-e80afca7bbba/-/preview/" style="width: 143px; height: 114px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/7873.%E2%80%85Decision/38a2b957.png" data-original-src="https://upload.acmicpc.net/1f5bea0d-90d5-4176-a9ba-e80afca7bbba/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 143px; height: 114px;" /></p>
 
 ### 입력
 
@@ -30,7 +30,7 @@
 
 <p>The first line of an input instance contains two integers n and m, the photo dimensions, such that 1 &le; n, m &le; 1000. The following n lines contain the description of the photo. Each line contains m characters from the set {<code>A</code>, <code>B</code>, <code>C</code>, <code>D</code>, <code>E</code>, <code>F</code>} encoding the grid elements in the following way:</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/b963381c-60a2-4842-be31-d2dbe41edc0a/-/preview/" style="width: 383px; height: 50px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/7873.%E2%80%85Decision/54b0c2c3.png" data-original-src="https://upload.acmicpc.net/b963381c-60a2-4842-be31-d2dbe41edc0a/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 383px; height: 50px;" /></p>
 
 ### 출력
 

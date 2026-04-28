@@ -18,7 +18,7 @@
 
 <p>The Windblume Festival in Mondstadt is coming! People are preparing windblumes for Barbatos and for those they love and adore. The Windblume Festival is also an opportunity to improve the relationships people have.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/36f9010f-a9f4-4ea3-a5fd-b2cf6f567bdf/-/preview/" style="width: 333px; height: 249px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/31187.%E2%80%85Windblume%E2%80%85Festival/8d28f45a.png" data-original-src="https://upload.acmicpc.net/36f9010f-a9f4-4ea3-a5fd-b2cf6f567bdf/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 333px; height: 249px;" /></p>
 
 <p style="text-align: center;">Source: Genshin Impact Official</p>
 

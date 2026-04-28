@@ -24,7 +24,7 @@
 
 <p>Итак, перед Джонни стоит башня из $n$ уровней, и очень умный противник, не желающий сдаваться. Выведите, кто выиграет, если первым начинает Джонни.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/dc2d2936-04e4-4a57-9aad-034d1afa6c28/-/preview/" style="width: 400px; height: 300px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/28790.%E2%80%85%D0%98%D0%B3%D1%80%D0%B0%E2%80%85%D0%B2%E2%80%85%D0%B4%D0%B6%D0%B5%D0%BD%D0%B3%D1%83/8f9c6a08.png" data-original-src="https://upload.acmicpc.net/dc2d2936-04e4-4a57-9aad-034d1afa6c28/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 400px; height: 300px;" /></p>
 
 ### 입력
 

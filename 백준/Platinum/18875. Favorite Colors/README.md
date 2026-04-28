@@ -36,4 +36,4 @@
 
 <p>In the image below, the circles with bolded borders represent the cows with favorite color 1.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/7031a8be-2191-4cfc-8050-13b07a658639/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/18875.%E2%80%85Favorite%E2%80%85Colors/de78540d.png" data-original-src="https://upload.acmicpc.net/7031a8be-2191-4cfc-8050-13b07a658639/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>

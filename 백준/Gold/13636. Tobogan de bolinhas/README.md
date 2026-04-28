@@ -18,11 +18,11 @@
 
 <p>Uma f&aacute;brica quer produzir um tobogan de brinquedo como o da figura abaixo, composto de duas hastes de madeira sustentando aletas que se alternam nas duas hastes. Uma bolinha de a&ccedil;o &eacute; solta na aleta mais alta do tobogan; sob efeito da gravidade, a bolinha desliza pelas aletas, terminando por sair do brinquedo.</p>
 
-<p><img alt="" src="https://onlinejudgeimages.s3.amazonaws.com/problem/13636/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202017-01-05%20%EC%98%A4%ED%9B%84%209.19.49.png" style="height:168px; width:122px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/13636.%E2%80%85Tobogan%E2%80%85de%E2%80%85bolinhas/f95ff63c.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/13636/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202017-01-05%20%EC%98%A4%ED%9B%84%209.19.49.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:168px; width:122px" /></p>
 
 <p>O projeto do brinquedo, contendo as especifica&ccedil;&otilde;es do tamanho, posi&ccedil;&atilde;o e inclina&ccedil;&atilde;o das hastes e de cada aleta, foi feito pelo dono da f&aacute;brica, e milhares de unidades j&aacute; est&atilde;o sendo confeccionadas na China. O gerente da f&aacute;brica foi incumbido de comprar as bolinhas de a&ccedil;o, mas antes de fazer o pedido das milhares de bolinhas quer saber o di&acirc;metro m&aacute;ximo da bolinha, para que esta n&atilde;o pare no meio do brinquedo.</p>
 
-<p><img alt="" src="https://onlinejudgeimages.s3.amazonaws.com/problem/13636/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202017-01-05%20%EC%98%A4%ED%9B%84%209.19.56.png" style="height:182px; width:250px" /><br />
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/13636.%E2%80%85Tobogan%E2%80%85de%E2%80%85bolinhas/c80bf06d.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/13636/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202017-01-05%20%EC%98%A4%ED%9B%84%209.19.56.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:182px; width:250px" /><br />
 Figura 1: Dois exemplos: em (a) a bolinha chega ao final, e (b) a bolinha para no meio do brinquedo e n&atilde;o chega ao final.</p>
 
 <p>O gerente da f&aacute;brica quer que voc&ecirc; escreva um programa que, dadas as especifica&ccedil;&otilde;es do brinquedo, determine o di&acirc;metro m&aacute;ximo da bolinha para que esta n&atilde;o pare no meio do brinquedo.</p>

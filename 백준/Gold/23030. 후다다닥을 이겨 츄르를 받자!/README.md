@@ -26,7 +26,7 @@
 
 <p>하지만 쿠기는 프로그래밍을 할 줄 모르기 때문에 츄르 100개를 걸고 대신 코드를 짜줄 사람을 찾고 있다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/8524a542-2aa5-4e21-b063-a5163896a1bf/-/preview/" style="width: 600px; height: 400px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/23030.%E2%80%85%ED%9B%84%EB%8B%A4%EB%8B%A4%EB%8B%A5%EC%9D%84%E2%80%85%EC%9D%B4%EA%B2%A8%E2%80%85%EC%B8%84%EB%A5%B4%EB%A5%BC%E2%80%85%EB%B0%9B%EC%9E%90!/9973d99e.png" data-original-src="https://upload.acmicpc.net/8524a542-2aa5-4e21-b063-a5163896a1bf/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 600px; height: 400px;" /></p>
 
 <p>맛있는 츄르를 얻어보자. 사용자가 환승 시간 T와 출발지, 도착지를 입력하면 최단 경로로 이동하였을 때 걸리는 소요 시간을 알려주는 프로그램을 만들어야 한다.</p>
 

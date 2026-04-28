@@ -18,7 +18,7 @@
 
 <p>You have 8 circles of equal size and you want to pack them inside a square. You want to minimize the size of the square. The following figure illustrates the minimum way of packing 8 circles inside a square:</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/b865558f-719a-44cf-a203-ca851ca001c3/-/preview/" style="width: 179px; height: 180px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/26326.%E2%80%85Circles%E2%80%85Inside%E2%80%85a%E2%80%85Square/12e649d0.png" data-original-src="https://upload.acmicpc.net/b865558f-719a-44cf-a203-ca851ca001c3/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 179px; height: 180px;" /></p>
 
 <p>Given the radius, r, find the area of the minimum square into which 8 circles of that radius can be packed.</p>
 

@@ -20,7 +20,7 @@
 
 <p>During her most recent assignment, she was given the following chart displaying the chain of command within the department:</p>
 
-<p><img alt="" src="/upload/images2/phy.png" style="height:134px; width:159px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/9859.%E2%80%85Super%E2%80%85Phyllis/8b9111e2.png" data-original-src="https://www.acmicpc.net/upload/images2/phy.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:134px; width:159px" /></p>
 
 <p>Figure 1</p>
 

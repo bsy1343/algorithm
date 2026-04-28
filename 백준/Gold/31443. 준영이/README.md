@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="display: flex; flex-direction: row; justify-content: center;"><img alt="준영이" src="https://upload.acmicpc.net/2219d3f0-d290-48ea-bc66-833d9d1c0205/-/preview/" style="max-height: 150px; max-width: 100%;" /></p>
+<p style="display: flex; flex-direction: row; justify-content: center;"><img alt="준영이" src="%EB%B0%B1%EC%A4%80/Gold/31443.%E2%80%85%EC%A4%80%EC%98%81%EC%9D%B4/d4147fcf.png" data-original-src="https://upload.acmicpc.net/2219d3f0-d290-48ea-bc66-833d9d1c0205/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="max-height: 150px; max-width: 100%;" /></p>
 
 <p>준영이는 운동회를 준비하는 친구들을 위해 자신이 가지고 있는 초코바를 쪼갠 뒤 나누어 주려고 한다.</p>
 

@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align:center"><img alt="" src="/upload/images2/pushup.png" style="height:85px; width:170px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/10564.%E2%80%85%ED%8C%94%EA%B5%BD%ED%98%80%ED%8E%B4%EA%B8%B0/36a88dff.png" data-original-src="https://www.acmicpc.net/upload/images2/pushup.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:85px; width:170px" /></p>
 
 <p>동혁이는 미식축구를 보면서 팔굽혀펴기를 하고 있다. 동혁이는 자신이 응원하는 팀이 득점을 성공할 때 마다 팀이 득점한 점수만큼 팔굽혀펴기를 한다.</p>
 

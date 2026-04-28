@@ -22,7 +22,7 @@
 
 <p>For example, if there are six squares as in the figure below, then the largest diameter is defined as the distance between two corner points of squares S<sub>1</sub> and S<sub>4</sub> .</p>
 
-<p><img alt="" src="https://onlinejudgeimages.s3.amazonaws.com/problem/8927/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-11-18%20%EC%98%A4%ED%9B%84%202.39.30.png" style="height:225px; width:235px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/8927.%E2%80%85Squares/0f0f38b0.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/8927/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-11-18%20%EC%98%A4%ED%9B%84%202.39.30.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:225px; width:235px" /></p>
 
 <p>Given a set of n squares in the plane, write a program to compute the largest diameter D of the points when a point is chosen from each square, and to output D<sup>2</sup>, i.e., the squared value of D .</p>
 

@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/223958a7-5b84-4160-bd38-9dbe9144ec27/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/23308.%E2%80%85%EC%85%94%ED%8B%80%EB%B2%84%EC%8A%A4/ae7ca7f7.png" data-original-src="https://upload.acmicpc.net/223958a7-5b84-4160-bd38-9dbe9144ec27/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p style="text-align: center;">[그림1] 연세대학교 셔틀버스</p>
 
@@ -24,7 +24,7 @@
 
 <p>연세대의 셔틀버스는 순환선 방식으로, 모든 정류장에서 정차한&nbsp;후 마지막 정류장에서 유턴해 동일한 길을 따라&nbsp;다시 순차적으로 모든 정류장에 정차하는 것을 반복한다.&nbsp;즉, 다음과 같은&nbsp;노선이 있다면 <em>백양누리 - 경영관 - 성암관 - 우정원 - 무악학사 - 우정원 - 성암관 - 경영관 - 백양누리 - ...</em> 를&nbsp;반복하는 것이다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/0e75f8e9-351b-4562-9a92-2c0f99e53bd5/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/23308.%E2%80%85%EC%85%94%ED%8B%80%EB%B2%84%EC%8A%A4/c0a8c189.png" data-original-src="https://upload.acmicpc.net/0e75f8e9-351b-4562-9a92-2c0f99e53bd5/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p style="text-align: center;">[그림2] 학교 셔틀버스 노선도</p>
 

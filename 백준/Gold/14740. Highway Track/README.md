@@ -18,7 +18,7 @@
 
 <p>태영이의 고향 &quot;위&quot; 도시에는 순환 고속도로가 있다. 이 고속도로에는 총 $N$개의 주유소가 있고, 각 주유소는 $1$번부터 $N$번까지 번호가 붙어있다. 어느 날 태영이는 이 고속도로 한 바퀴를 드라이브하려는 원대한 계획을 세우고, 하나의 주유소를 골라 순환 여행을 시작하려고 한다. 그런데 이 도시는 특이하여 한 주유소에서 구입할 수 있는 기름의 양은 정해져 있고, 각 주유소에서 구입할 수 있는 기름의 양을 모두 합해야 간신히 고속도로 한 바퀴를 순환할 수 있는 기름이 나온다. 가난한 태영이에게는 기름이 한 방울도 없으므로, 도시를 잘못 고르면 운전을 하다가 자동차가 서버릴 지도 모른다!</p>
 
-<p style="text-align: center;"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14740/h1.png" style="height:418px; width:741px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/14740.%E2%80%85Highway%E2%80%85Track/66065b70.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14740/h1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:418px; width:741px" /></p>
 
 <p>이 그림에서 세 주유소에서 기름을 최대 2만큼 구입할 수 있고, 1번 주유소-2번 주유소 도로와 2번 주유소-3번 주유소 도로가 기름이 1만큼 필요하고 3번 주유소-1번 주유소 도로가 4만큼 필요하다면, 1번 주유소에서 시작해 무사히 고속도로를 순환할 수 있다.</p>
 

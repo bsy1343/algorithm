@@ -22,11 +22,11 @@
 
 <p>For example, the figure below shows a four-segment stick with a sum of segment lengths of $10$. In the figure, the lengths of the segments are $3$, $2$, $2$, and $3$ from left to right, and the hinges are marked with ①, ②, ③.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/0f27f678-d172-4395-9b7a-8b3cbedb1cea/-/preview/" style="width: 312px; height: 55px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/26105.%E2%80%85Folding%E2%80%85Stick/901a2437.png" data-original-src="https://upload.acmicpc.net/0f27f678-d172-4395-9b7a-8b3cbedb1cea/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 312px; height: 55px;" /></p>
 
 <p>In this example, the stick cannot be folded at both hinges ① and ②. This is because if the stick is folded at hinge ① and then at hinge ②, the segment with length 3 passing over the hinge ② will be broken. If it is folded only at hinge ②, the wrapping length is 5. If it is folded at hinges ① and ③ in order, the wrapping length is 4 as shown in the figure below.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/bbb60e1d-20d8-4198-bc9a-3bcbfe9bbabe/-/preview/" style="width: 478px; height: 66px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/26105.%E2%80%85Folding%E2%80%85Stick/20ee047d.png" data-original-src="https://upload.acmicpc.net/bbb60e1d-20d8-4198-bc9a-3bcbfe9bbabe/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 478px; height: 66px;" /></p>
 
 <p>Given a sequence of segments lengths of a folding stick, write a program to output the minimum wrapping length of the stick.</p>
 

@@ -21,8 +21,8 @@
 <table class="table table-bordered td-center">
 	<tbody>
 		<tr>
-			<td><img alt="" src="https://upload.acmicpc.net/fba66622-257e-415e-b4cc-e54fb14bd267/-/preview/" style="width: 239px; height: 83px;" /></td>
-			<td><img alt="" src="https://upload.acmicpc.net/3bf2f2b4-38fe-4501-980e-49efc599b365/-/preview/" style="width: 275px; height: 83px;" /></td>
+			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/2647.%E2%80%85%EA%B2%80%EC%9D%80%EC%A0%90%EA%B3%BC%E2%80%85%ED%95%98%EC%96%80%EC%A0%90%E2%80%85%EC%97%B0%EA%B2%B0/7efad4ce.png" data-original-src="https://upload.acmicpc.net/fba66622-257e-415e-b4cc-e54fb14bd267/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 239px; height: 83px;" /></td>
+			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/2647.%E2%80%85%EA%B2%80%EC%9D%80%EC%A0%90%EA%B3%BC%E2%80%85%ED%95%98%EC%96%80%EC%A0%90%E2%80%85%EC%97%B0%EA%B2%B0/d5891b3f.png" data-original-src="https://upload.acmicpc.net/3bf2f2b4-38fe-4501-980e-49efc599b365/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 275px; height: 83px;" /></td>
 		</tr>
 		<tr>
 			<td>그림 1</td>

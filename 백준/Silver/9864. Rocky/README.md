@@ -18,7 +18,7 @@
 
 <p>Sylvester Stallion is an old horse who likes nothing better than to wander around in the fields around his stable. Sylvester is a little single minded and will walk in a straight line unless there is a rock in this path. If that&rsquo;s the case, he does one of three things: 1) if there is no rock to his right, he turns right and continues walking straight in that direction; 2) otherwise, if there is no rock to his left, he turns left and walks in that direction; 3) otherwise, he turns around and walks back the way he came. In a particularly rocky field, he may make several turns in his walk and exit the field in quite an unexpected location. For example, in the field shown below, if Sylvester enters the field at square (1,4), he will follow the path shown (a total of 12 squares), exiting at square (3,5).</p>
 
-<p style="text-align: center;"><img alt="" src="/upload/images2/rocky.png" style="height:135px; width:149px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/9864.%E2%80%85Rocky/e5bbdda0.png" data-original-src="https://www.acmicpc.net/upload/images2/rocky.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:135px; width:149px" /></p>
 
 <p>Many of his other animal friends are concerned about Sylvester, and would like to know where he ends up on his walks (in particular, his good friend, the ram Beau). That&rsquo;s where you come in &ndash; given a description of a field and the location of Sylvester&rsquo;s entrance, you are to determine where he will exit the field and how long it will take him to get there.</p>
 

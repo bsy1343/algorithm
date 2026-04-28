@@ -20,7 +20,7 @@
 
 <p>Given a sequence of daily temperature measurements over a period of n days, George is interested in finding the greatest temperature increase that occurs within a window of m days. In other words, he wants to identify the maximum temperature difference between two days, where the second day occurs no more than m days after the first one.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/2f8e0229-bec1-4484-ac18-de11e86e9491/-/preview/" style="width: 664px; height: 344px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/30613.%E2%80%85Weather%E2%80%85Trends/4e7382ab.png" data-original-src="https://upload.acmicpc.net/2f8e0229-bec1-4484-ac18-de11e86e9491/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 664px; height: 344px;" /></p>
 
 ### 입력
 

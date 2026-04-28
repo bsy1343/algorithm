@@ -24,7 +24,7 @@
 
 <p>Here is an example showing the bark of a Chess Board tree and the first few chess boards that will be cut out of it.</p>
 
-<p><img alt="" src="https://onlinejudgeimages.s3.amazonaws.com/problem/12575/images-28.png" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/12576.%E2%80%85Making%E2%80%85Chess%E2%80%85Boards%E2%80%85(Large)/edd456fd.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/12575/images-28.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 ### 입력
 

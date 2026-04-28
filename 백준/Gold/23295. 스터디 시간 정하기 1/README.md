@@ -22,7 +22,7 @@
 
 <p>예를 들어 스터디를 4시간 동안 진행하려 하고 1번, 2번, 3번 참가자들의 가능한 시간들이 아래 그림과 같다고 하자</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/75d67214-cc62-45ce-b6a9-90832a4c985e/-/preview/" style="height: 281px; width: 700px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/23295.%E2%80%85%EC%8A%A4%ED%84%B0%EB%94%94%E2%80%85%EC%8B%9C%EA%B0%84%E2%80%85%EC%A0%95%ED%95%98%EA%B8%B0%E2%80%851/ca74b1af.png" data-original-src="https://upload.acmicpc.net/75d67214-cc62-45ce-b6a9-90832a4c985e/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 281px; width: 700px;" /></p>
 
 <p style="text-align: center;">&lt;그림 1&gt; 참가자별로 스터디가 가능한 시간 예시</p>
 

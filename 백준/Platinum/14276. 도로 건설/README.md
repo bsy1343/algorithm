@@ -37,8 +37,8 @@
 
 <p>예제 1의 경우 아래와 같이 도로를 건설하는 것이 가능하다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/796b26fd-fe92-4850-ac73-35316a9e6b13/-/preview/" style="width: 328px; height: 250px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/14276.%E2%80%85%EB%8F%84%EB%A1%9C%E2%80%85%EA%B1%B4%EC%84%A4/fe1e32f3.png" data-original-src="https://upload.acmicpc.net/796b26fd-fe92-4850-ac73-35316a9e6b13/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 328px; height: 250px;" /></p>
 
 <p>예제 2의 경우 아래와 같이 도로를 건설하는 것이 가능하다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/bb3ccc25-dd0e-4d87-800b-3dc530bb1800/-/preview/" style="width: 419px; height: 350px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/14276.%E2%80%85%EB%8F%84%EB%A1%9C%E2%80%85%EA%B1%B4%EC%84%A4/c5789054.png" data-original-src="https://upload.acmicpc.net/bb3ccc25-dd0e-4d87-800b-3dc530bb1800/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 419px; height: 350px;" /></p>

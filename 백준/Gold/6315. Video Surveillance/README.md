@@ -20,7 +20,7 @@
 
 <p>The first problem is to choose where to install the camera for every floor. The only requirement is that every part of the room must be visible from there. In the following figure the left floor can be completely surveyed from the position indicated by a dot, while for the right floor, there is no such position, the given position failing to see the lower left part of the floor.</p>
 
-<p style="text-align: center;"><img alt="" src="/upload/images2/cctv.png" style="height:153px; width:238px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/6315.%E2%80%85Video%E2%80%85Surveillance/16aa9d59.png" data-original-src="https://www.acmicpc.net/upload/images2/cctv.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:153px; width:238px" /></p>
 
 <p>Before trying to install the cameras, your friend first wants to know whether there is indeed a suitable position for them. He therefore asks you to write a program that, given a ground plan, determines whether there is a position from which the whole floor is visible. All floor ground plans form rectangular polygons, whose edges do not intersect each other and touch each other only at the corners.</p>
 

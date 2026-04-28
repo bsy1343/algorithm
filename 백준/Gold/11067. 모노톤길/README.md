@@ -18,7 +18,7 @@
 
 <p>제주 올레길 코스로 유명한 산책로가 있다. 산책로의 입구는 산책로에서 가장 서쪽에 위치하고 있다. 이 산책로는 단순 경로이며 수평 구간과 수직 구간으로만 구성되어 있어 모든 코너에서 90도 각도로 왼쪽 또는 오른쪽으로 회전만 할 수 있다. 또한 입구에서 출구 방향으로 걸어갈 때 동쪽에서 서쪽으로 이동을 전혀 하지 않아도, 즉, 보행자의 현재 위치를 나타내는 좌표의 x축 값이 작아지는 경우가 없이도 출구까지 도달할 수 있다. 그래서 이 산책로를 모노톤길이라고 부른다. 그림 1은 모노톤길의 예를 보여준다.</p>
 
-<p style="text-align:center"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11067/1.png" style="height:188px; width:321px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/11067.%E2%80%85%EB%AA%A8%EB%85%B8%ED%86%A4%EA%B8%B8/d380f9a8.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11067/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:188px; width:321px" /></p>
 
 <p style="text-align:center">그림 1. 모노톤길의 예</p>
 

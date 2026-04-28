@@ -30,7 +30,7 @@
 
 <p>Originally, each tree was planted in the center of an imaginary square whose area was exactly one square meter. Thus, the position of each tree can be described by the coordinates of the square on which it is standing. The dividing fence between the two parts of the orchard will run along the borders of the squares.</p>
 
-<p><img alt="" src="https://onlinejudgeimages.s3.amazonaws.com/problem/13920/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-11-21%20%EC%98%A4%ED%9B%84%205.52.35.png" style="height:199px; width:200px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/13920.%E2%80%85Orchard%E2%80%85Division/1211bd77.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/13920/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-11-21%20%EC%98%A4%ED%9B%84%205.52.35.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:199px; width:200px" /></p>
 
 ### 입력
 

@@ -24,7 +24,7 @@
 
 <p>Below you can see the initial and the following states of the array, after two right moves are made.</p>
 
-<p><img alt="" src="https://onlinejudgeimages.s3.amazonaws.com/problem/9405/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-09-13%20%EC%98%A4%ED%9B%84%206.26.02.png" style="height:137px; width:480px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/9405.%E2%80%85Array%E2%80%85Game/61befd16.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/9405/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-09-13%20%EC%98%A4%ED%9B%84%206.26.02.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:137px; width:480px" /></p>
 
 <p>Your task is to find the maximum possible score one can get from a given initial array.</p>
 

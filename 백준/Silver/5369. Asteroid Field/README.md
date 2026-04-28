@@ -35,7 +35,7 @@ s*-*
 
 <p>Your ship can move up, down, left, and right (not diagonally). Each position in a mxm grid will be assigned an integer between 0 and m<sup>2</sup>-1 as follows.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/b44cd4a5-7baf-4560-b59d-1d7e3a8205da/-/preview/" style="width: 128px; height: 85px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/5369.%E2%80%85Asteroid%E2%80%85Field/4641b998.png" data-original-src="https://upload.acmicpc.net/b44cd4a5-7baf-4560-b59d-1d7e3a8205da/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 128px; height: 85px;" /></p>
 
 ### 입력
 

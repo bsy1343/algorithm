@@ -22,7 +22,7 @@
 
 <p>The image below shows one possible trajectory for the missile and the anti-missile. Note that the missile&rsquo;s trajectory is a parabola while the anti-missile&rsquo;s trajectory is a straight line. Also note in this scenario that v<sub>x</sub> is negative (v<sub>y</sub> will always be positive).</p>
 
-<p style="text-align:center"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15082/1.png" style="height:295px; width:556px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/15082.%E2%80%85KaBlam!/5d7ea5f5.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15082/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:295px; width:556px" /></p>
 
 <p>Your higher-ups want to be able to destroy the missile at a specific time t<sub>K</sub>. Your job is to decide when to shoot your anti-missle and at what angle &alpha; so that you intercept the enemy&rsquo;s missile at that time. To aid in your calculations you also know the velocity of your anti-missile along its trajectory, v<sub>a</sub>. Note that it might be impossible to destroy the missile at time t<sub>K</sub>, either because you would have had to shoot your anti-missile before the enemy&rsquo;s missile is launched, or because the missile would have already landed (and blown up) prior to or at time t<sub>K</sub>. If that&rsquo;s the case, your software should sound an alarm so that everyone can start running.</p>
 

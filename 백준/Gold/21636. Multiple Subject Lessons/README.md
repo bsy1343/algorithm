@@ -36,4 +36,4 @@
 
 <p>The following picture shows all possible ways to solve the task in the first sample test. Note that the order of integers written doesn&#39;t matter, only the number of integers written with each color.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/29a2d73e-35ff-485c-9110-d1f2a0487829/-/preview/" style="width: 492px; height: 511px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/21636.%E2%80%85Multiple%E2%80%85Subject%E2%80%85Lessons/dc7ba0db.png" data-original-src="https://upload.acmicpc.net/29a2d73e-35ff-485c-9110-d1f2a0487829/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 492px; height: 511px;" /></p>

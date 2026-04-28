@@ -22,7 +22,7 @@
 
 <p>However, I am more interested in the underlying math. Given my randomly selected starting position and the card faces of every selected card (including my final one), can you compute the probability that Alice chose a starting position ending up on the same final card? You may assume that her starting position is randomly chosen with uniform probability (between 1 and 10 inclusive). I forgot to note the cards that I skipped, so these cards are unknown. You may assume that the card face of every single of the unknown cards is independent of the other card faces and random with uniform probability out of the possible card faces (i.e. 2-10, J, Q, K, and A).</p>
 
-<p><img alt="" src="/upload/images2/cardtrick.png" style="height:76px; width:612px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/9645.%E2%80%85Card%E2%80%85Trick/a54e1a55.png" data-original-src="https://www.acmicpc.net/upload/images2/cardtrick.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:76px; width:612px" /></p>
 
 <p>Figure 1 &ndash; Illustration of first sample input: my starting position is 2, so I start selecting that card. Then I keep skipping cards depending on the card&rsquo;s face. This process iterates until there are not enough cards to skip (in this sample: Q). The final Q card is followed by 0 to 9 unknown cards, since Q counts as 10.</p>
 

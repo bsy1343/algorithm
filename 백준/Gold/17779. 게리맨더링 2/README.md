@@ -48,9 +48,9 @@
 <table class="table table-bordered" style="width: 100%;">
 	<tbody>
 		<tr>
-			<td style="width: 33%; text-align: center;"><img alt="" src="https://upload.acmicpc.net/c144c31e-db45-4094-9c1d-0656a690aef0/-/preview/" style="width: 300px; height: 303px;" /></td>
-			<td style="width: 33%; text-align: center;"><img alt="" src="https://upload.acmicpc.net/813c38e0-3197-4589-bc96-17d96eb9ed14/-/preview/" style="width: 300px; height: 305px;" /></td>
-			<td style="width: 34%; text-align: center;"><img alt="" src="https://upload.acmicpc.net/892417dd-b824-4d4e-8bce-2faf341a9f66/-/preview/" style="width: 300px; height: 302px;" /></td>
+			<td style="width: 33%; text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/17779.%E2%80%85%EA%B2%8C%EB%A6%AC%EB%A7%A8%EB%8D%94%EB%A7%81%E2%80%852/b742f384.png" data-original-src="https://upload.acmicpc.net/c144c31e-db45-4094-9c1d-0656a690aef0/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 300px; height: 303px;" /></td>
+			<td style="width: 33%; text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/17779.%E2%80%85%EA%B2%8C%EB%A6%AC%EB%A7%A8%EB%8D%94%EB%A7%81%E2%80%852/10b853a2.png" data-original-src="https://upload.acmicpc.net/813c38e0-3197-4589-bc96-17d96eb9ed14/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 300px; height: 305px;" /></td>
+			<td style="width: 34%; text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/17779.%E2%80%85%EA%B2%8C%EB%A6%AC%EB%A7%A8%EB%8D%94%EB%A7%81%E2%80%852/0d47a442.png" data-original-src="https://upload.acmicpc.net/892417dd-b824-4d4e-8bce-2faf341a9f66/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 300px; height: 302px;" /></td>
 		</tr>
 		<tr>
 			<td style="width: 33%; text-align: center;">x = 2, y = 4, d<sub>1</sub> = 2, d<sub>2</sub> = 2</td>

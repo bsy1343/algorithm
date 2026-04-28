@@ -22,13 +22,13 @@
 
 <p>A spanning tree T is a tree (a connected subgraph without cycles) which connects all the n vertices with n &minus; 1 edges. The slimness of a spanning tree T is defined as the difference between the largest weight and the smallest weight among the n &minus; 1 edges of T.</p>
 
-<p style="text-align:center"><img alt="" src="/upload/imagesa/figuref1.png" style="height:137px; width:257px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/3900.%E2%80%85Slim%E2%80%85Span/a52931a0.png" data-original-src="https://www.acmicpc.net/upload/imagesa/figuref1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:137px; width:257px" /></p>
 
 <p style="text-align:center">Figure 5: A graph G and the weights of the edges</p>
 
 <p>For example, a graph G in Figure 5(a) has four vertices {v<sub>1</sub>, v<sub>2</sub>, v<sub>3</sub>, v<sub>4</sub>} and five undirected edges {e<sub>1</sub>, e<sub>2</sub>, e<sub>3</sub>, e<sub>4</sub>, e<sub>5</sub>}. The weights of the edges are w(e<sub>1</sub>) = 3, w(<sub>e2</sub>) = 5, w(e<sub>3</sub>) = 6, w(e<sub>4</sub>) = 6, w(e<sub>5</sub>) = 7 as shown in Figure 5(b).</p>
 
-<p style="text-align:center"><img alt="" src="/upload/imagesa/figuref2.png" style="height:140px; opacity:0.9; width:631px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/3900.%E2%80%85Slim%E2%80%85Span/ac614779.png" data-original-src="https://www.acmicpc.net/upload/imagesa/figuref2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:140px; opacity:0.9; width:631px" /></p>
 
 <p style="text-align:center">Figure 6: Examples of the spanning trees of G</p>
 

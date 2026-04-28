@@ -40,8 +40,8 @@
 
 <p>Pictures for the sample cases are given below:</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/9f1a64ec-81c0-4a0f-b6e0-65e38d5fdbf0/-/preview/" style="width: 250px; height: 250px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/19286.%E2%80%85Piecewise%E2%80%85Linearity/cb02d56b.png" data-original-src="https://upload.acmicpc.net/9f1a64ec-81c0-4a0f-b6e0-65e38d5fdbf0/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 250px; height: 250px;" /></p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/93bdaee4-92bf-4a7e-86f3-59f52e178b3c/-/preview/" style="width: 250px; height: 250px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/19286.%E2%80%85Piecewise%E2%80%85Linearity/e0877d98.png" data-original-src="https://upload.acmicpc.net/93bdaee4-92bf-4a7e-86f3-59f52e178b3c/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 250px; height: 250px;" /></p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/f34f2680-cdad-4080-aa6c-ba3e4ee87891/-/preview/" style="width: 250px; height: 250px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/19286.%E2%80%85Piecewise%E2%80%85Linearity/e651eb90.png" data-original-src="https://upload.acmicpc.net/f34f2680-cdad-4080-aa6c-ba3e4ee87891/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 250px; height: 250px;" /></p>

@@ -18,11 +18,11 @@
 
 <p>A number from 1&nbsp;to n&nbsp;is inscribed in each cell of a 2&nbsp;&times; n&nbsp;grid in such a way that each number appears exactly twice in the grid and each column contains two different numbers. An example of such a configuration is depicted below.</p>
 
-<p align="center"><img alt="" src="https://upload.acmicpc.net/6a59b623-1ddc-4ec6-ae28-8558dccde36c/-/preview/" /></p>
+<p align="center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/8340.%E2%80%85Colouring/1f13906f.png" data-original-src="https://upload.acmicpc.net/6a59b623-1ddc-4ec6-ae28-8558dccde36c/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>We would like to colour each of the cells white or gray in such a way that cells located in the same column receive different colours and cells containing same number receive different colours. An example of such a colouring of the grid from the previous figure is depicted below.</p>
 
-<p align="center"><img alt="" src="https://upload.acmicpc.net/592d4229-12c9-43be-b100-60d9d9d71e21/-/preview/" /></p>
+<p align="center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/8340.%E2%80%85Colouring/cc7d42b2.png" data-original-src="https://upload.acmicpc.net/592d4229-12c9-43be-b100-60d9d9d71e21/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>How many such colourings exist?</p>
 

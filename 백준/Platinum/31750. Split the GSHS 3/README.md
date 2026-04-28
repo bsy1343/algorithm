@@ -24,11 +24,11 @@
 
 <p>예를 들어, 아래 그림과 같이 건물의 개수 $N=7$이고, 각 건물에 있는 학생의 수가 $A=[1, 3, 4, 0, 3, 6, 2]$인 경우를 생각해 봅시다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/5b70ffd2-8fa5-4758-8b3e-55711122796b/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/31750.%E2%80%85Split%E2%80%85the%E2%80%85GSHS%E2%80%853/e95ad5ee.png" data-original-src="https://upload.acmicpc.net/5b70ffd2-8fa5-4758-8b3e-55711122796b/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>동현이가 $1$, $5$번 건물 사이의 길과 $5$, $7$번 건물 사이의 길을 파괴하면 경기과학고등학교는 다음과 같이 세 영역으로 분할됩니다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/26cc2f61-911f-4415-b4bc-cb75a22620ac/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/31750.%E2%80%85Split%E2%80%85the%E2%80%85GSHS%E2%80%853/6b4e05ce.png" data-original-src="https://upload.acmicpc.net/26cc2f61-911f-4415-b4bc-cb75a22620ac/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>이때, $1$번 건물이 포함된 영역의 결집도는 $1+4+0=5$이며, $2$번 건물, $6$번 건물이 포함된 영역의 결집도는 각각 $6$, $8$입니다. 따라서 이 경우의 <strong>지배력</strong>은 $5\times 6\times 8=240$입니다.</p>
 

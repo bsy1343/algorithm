@@ -22,7 +22,7 @@
 
 <p>An example of an avenue with 5 skyscrapers after 2 days is given below.</p>
 
-<p style="text-align: center;"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/7882/1.png" style="height:114px; width:278px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/7882.%E2%80%85Skyscrapers/7c3df868.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/7882/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:114px; width:278px" /></p>
 
 ### 입력
 

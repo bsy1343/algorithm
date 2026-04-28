@@ -29,8 +29,8 @@
 <table class="table table-bordered td-center">
 	<tbody>
 		<tr>
-			<td><img alt="" src="https://upload.acmicpc.net/3f393c77-0f24-4027-80cc-07f337e045ce/-/preview/" /> 			 </td>
-			<td><img alt="" src="https://upload.acmicpc.net/ba0398ad-79cb-47b1-b041-099b441b537b/-/preview/" /></td>
+			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/32050.%E2%80%85Colorful%E2%80%85Residential%E2%80%85Area/776ff1bb.png" data-original-src="https://upload.acmicpc.net/3f393c77-0f24-4027-80cc-07f337e045ce/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /> 			 </td>
+			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/32050.%E2%80%85Colorful%E2%80%85Residential%E2%80%85Area/9c7f3281.png" data-original-src="https://upload.acmicpc.net/ba0398ad-79cb-47b1-b041-099b441b537b/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></td>
 		</tr>
 		<tr>
 			<td>Figure E-1: Inappropriate arrangement</td>

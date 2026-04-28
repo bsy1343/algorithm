@@ -20,7 +20,7 @@
 
 <p>For instance, suppose that you have a regular $4$-sided polygon, i.e., a square. The following illustration shows how the special points are located within each side when $A = [3, 1, 4, 6]$. The uppermost side is labelled as side $1$.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/ed32a404-915b-43f4-86e4-fd9202656831/-/preview/" style="width: 199px; height: 200px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/32088.%E2%80%85Triangle%E2%80%85Construction/7d368e01.png" data-original-src="https://upload.acmicpc.net/ed32a404-915b-43f4-86e4-fd9202656831/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 199px; height: 200px;" /></p>
 
 <p>You want to create as many <strong>non-degenerate triangles</strong> as possible while satisfying the following requirements. Each triangle consists of $3$ distinct special points (not necessarily from different sides) as its corners. Each special point can only become the corner of at most $1$ triangle. All triangles must not intersect with each other.</p>
 

@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align:center"><img alt="" src="http://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14606/1.png" style="height:154px; width:233px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/14606.%E2%80%85%ED%94%BC%EC%9E%90%E2%80%85(Small)/774f82c6.png" data-original-src="http://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14606/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:154px; width:233px" /></p>
 
 <p style="text-align:center">&lt; Picture: Designed by Kstudio / Freepik &gt;</p>
 
@@ -30,7 +30,7 @@
 
 <p>갑은 문득, 혼자 놀기를 통해 얼마나 재밌게 놀 수 있을지 궁금해졌습니다. 갑이 주문한 피자판의 수 N 이 주어질 때, 갑이 혼자 놀기를 통해 얻을 수 있는 즐거움의 총합의 최댓값을 구해주세요.</p>
 
-<p style="text-align:center"><img alt="" src="http://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14606/2.png" style="height:189px; width:283px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/14606.%E2%80%85%ED%94%BC%EC%9E%90%E2%80%85(Small)/cfc9fa8a.png" data-original-src="http://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14606/2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:189px; width:283px" /></p>
 
 <p style="text-align:center">&lt; 높이가 8인 피자탑을 높이가 4인 피자탑 둘로 분리시키는 과정 &gt;</p>
 

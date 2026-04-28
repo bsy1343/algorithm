@@ -30,7 +30,7 @@
 
 <p>경로는 천장이나 바닥과 닿아서는 안되며, 코너에서도 천장이나 바닥과 닿아서는 안 된다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/cffab7b9-3930-40ec-a3e2-18888a8ec9db/-/preview/" style="width: 380px; height: 170px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/3155.%E2%80%85%ED%84%B0%EB%84%90/23509799.png" data-original-src="https://upload.acmicpc.net/cffab7b9-3930-40ec-a3e2-18888a8ec9db/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 380px; height: 170px;" /></p>
 
 <p>터널의 예제는 주어진 그림과 같다. 천장과 바닥은 실선으로, 경로는 점선으로 그려져있다.</p>
 

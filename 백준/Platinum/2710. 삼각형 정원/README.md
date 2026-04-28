@@ -20,13 +20,13 @@
 	선영이의 조경회사는 컴퓨터 geek을 위한 정원 관리로 유명하다. 그 중 가장 유명한 것은 정삼각형 모양의 테라스에 원형 풀장이 내접하고 있는 형태이다.</p>
 
 <p>
-	<img alt="" src="/upload/images/sy1.png" style="width: 238px; height: 198px;" /></p>
+	<img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/2710.%E2%80%85%EC%82%BC%EA%B0%81%ED%98%95%E2%80%85%EC%A0%95%EC%9B%90/1b376264.png" data-original-src="https://www.acmicpc.net/upload/images/sy1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 238px; height: 198px;" /></p>
 
 <p>
 	그러나 선영이의 일부 고객은 정원 가운데 정삼각형 모양을 만드는 대신, 정원의 구석이나 비스듬한 면에 테라스를 만들기를 원한다. 선영이는 임의의 삼각형 모양에 대해 아래 그림과 같이 타원형의 풀장이 삼각형 변의 중점에 접하는 형태를 제안했다.</p>
 
 <p>
-	<img alt="" src="/upload/images/sy2.png" style="width: 449px; height: 232px;" /></p>
+	<img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/2710.%E2%80%85%EC%82%BC%EA%B0%81%ED%98%95%E2%80%85%EC%A0%95%EC%9B%90/77c6908a.png" data-original-src="https://www.acmicpc.net/upload/images/sy2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 449px; height: 232px;" /></p>
 
 <p>
 	타원의 두 초점에 막대를 꽂으면, 막대에 줄을 연결해 타원을 그릴 수 있다. 삼각형의 세 꼭짓점의 좌표가 주어졌을 때, 두 초점의 좌표와 필요한 줄의 길이를 출력하는 프로그램을 작성하라. (줄의 길이는 두 초점에서 타원 위의 임의의 점까지의 길이의 합이다.)</p>

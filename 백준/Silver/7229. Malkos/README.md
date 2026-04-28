@@ -27,7 +27,7 @@
 	<li>Ant vir&scaron;aus vėl paguldoma kuo daugiau malkų, statmenai. Ir taip toliau.</li>
 </ol>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/cb50894b-26ba-4f6b-bc20-b4f1b6594e6c/-/preview/" style="width: 251px; height: 203px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/7229.%E2%80%85Malkos/2962a821.png" data-original-src="https://upload.acmicpc.net/cb50894b-26ba-4f6b-bc20-b4f1b6594e6c/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 251px; height: 203px;" /></p>
 
 <p style="text-align: center;">1 pav. Malkų krūvos pavyzdys.</p>
 

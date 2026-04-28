@@ -20,15 +20,15 @@
 
 <p>There are four possible winning directions: up, down, left and right. You win a direction if all numbers in this direction from the bet cell are strictly less than a number in the bet cell. And if the bet cell is on the edge of the grid, you win the corresponding direction automatically!</p>
 
-<p style="text-align: center;"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11477/1.png" style="height:159px; width:123px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/11477.%E2%80%85Lucky%E2%80%85Chances/76c88282.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11477/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:159px; width:123px" /></p>
 
 <p style="text-align: center;">Unscratched ticket</p>
 
-<p style="text-align: center;"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11477/2.png" style="height:165px; width:168px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/11477.%E2%80%85Lucky%E2%80%85Chances/b0b73ddc.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11477/2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:165px; width:168px" /></p>
 
 <p style="text-align: center;">Scratched ticket 1</p>
 
-<p style="text-align: center;"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11477/3.png" style="height:169px; width:167px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/11477.%E2%80%85Lucky%E2%80%85Chances/e03ad674.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11477/3.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:169px; width:167px" /></p>
 
 <p style="text-align: center;">Scratched ticket 2</p>
 

@@ -20,7 +20,7 @@
 
 <p>Квайт уже большой лягушонок, а листья не очень надежные, поэтому когда он прыгает на какой-то лист и съедает сидящую на нем муху, лист начинает тонуть, так что Квайт должен сразу же прыгать дальше.&nbsp;</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/b37ec095-c907-4ec0-9f75-cef555a59065/-/preview/" style="width: 381px; height: 105px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/21413.%E2%80%85%3C%3C%D0%91%D0%BE%D0%BB%D0%BE%D1%82%D0%BE%E2%80%852%3E%3E/25311cf7.png" data-original-src="https://upload.acmicpc.net/b37ec095-c907-4ec0-9f75-cef555a59065/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 381px; height: 105px;" /></p>
 
 <p>Для того, чтобы продолжать приключения, Квайту необходимо съесть всех мух, начав свой путь с листа номер $a$ и закончив на листе номер $b$ (листья пронумерованы вдоль прямой последовательными натуральными числами, начиная с единицы).&nbsp;</p>
 

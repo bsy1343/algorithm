@@ -18,19 +18,19 @@
 
 <p>You are all probably familiar with the pen and paper version of Battleships, but humor us while we describe it: Each puzzle consists of a 10-by-10 grid of squares in which 10 different ships have been secretly placed. One of these ships is 4 grid squares long, two of them are 3 grid squares long, three of them are 2 grid squares long, and the remaining four ships are each 1 grid square in length. No two ships can overlap and none can be adjacent to another, even diagonally. The only clues you have to the ship locations are a set of row and column sums printed on the left and bottom of the grid. Each row/column sum specifies how many grid squares in that row/column are occupied by ships. The figures below show an example of a Battleships puzzle and its solution.</p>
 
-<p><img alt="" src="/upload/images2/battleship1.png" style="height:193px; width:403px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/9854.%E2%80%85Battleships/6f626c19.png" data-original-src="https://www.acmicpc.net/upload/images2/battleship1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:193px; width:403px" /></p>
 
 <p>Figure 1</p>
 
 <p>When designing a Battleships puzzle, you must make sure that there is a unique solution for the given row and column sums. Sometimes the sums on the sides are all that are needed to ensure a unique solution (like the example above), but sometimes you must specify one or more squares in the grid in order to rule out all but one solution (as in the example below).</p>
 
-<p><img alt="" src="/upload/images2/battleship2.png" style="height:193px; width:385px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/9854.%E2%80%85Battleships/618ee5cd.png" data-original-src="https://www.acmicpc.net/upload/images2/battleship2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:193px; width:385px" /></p>
 
 <p>Figure 2</p>
 
 <p>These specified squares can be one of seven types: water, interior of a ship, left end of a horizontal ship, top end of a vertical ship, right end of a horizontal ship, bottom end of a vertical ship, and 1-square ship. These are shown at the top of the next page. The characters beneath each square will be used for your output. Note that the last character is an upper-case letter &lsquo;O&rsquo;, not a zero; also note that the &lsquo;X&rsquo; is upper-case but the &lsquo;w&rsquo; and &lsquo;v&rsquo; are lower-case.</p>
 
-<p><img alt="" src="/upload/images2/battleship3.png" style="height:69px; width:227px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/9854.%E2%80%85Battleships/69af00d3.png" data-original-src="https://www.acmicpc.net/upload/images2/battleship3.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:69px; width:227px" /></p>
 
 <p>Figure 3</p>
 

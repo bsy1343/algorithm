@@ -31,8 +31,8 @@
 			<td style="text-align:center">Willi who is more lazy and often walks around just numbered the cells clockwise starting from 1 in the middle of the hive.</td>
 		</tr>
 		<tr>
-			<td style="text-align:center"><img alt="Maja" src="/upload/images2/bee2.gif" /></td>
-			<td style="text-align:center"><img alt="Willi" src="/upload/images2/bee1.gif" /></td>
+			<td style="text-align:center"><img alt="Maja" src="%EB%B0%B1%EC%A4%80/Silver/6575.%E2%80%85Bee%E2%80%85Maja/f43f9481.gif" data-original-src="https://www.acmicpc.net/upload/images2/bee2.gif" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></td>
+			<td style="text-align:center"><img alt="Willi" src="%EB%B0%B1%EC%A4%80/Silver/6575.%E2%80%85Bee%E2%80%85Maja/67597b72.gif" data-original-src="https://www.acmicpc.net/upload/images2/bee1.gif" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></td>
 		</tr>
 	</tbody>
 </table>

@@ -24,7 +24,7 @@
 
 <p>Condition: Given that Jeniffer moved from room $(i_1, j_1)$ to $(i_2, j_2)$, and then she moved to room $(i_3, j_3)$. Then, $(i_2 - i_1) \times (j_3 - j_2) - (j_2 - j_1) \times (i_3 - i_2) = -1$ holds.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/61908384-f6f7-4df0-a27f-a4cce78bcc85/-/preview/" style="width: 266px; height: 271px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/30367.%E2%80%85Break%E2%80%85a%E2%80%85Prison/74690f61.png" data-original-src="https://upload.acmicpc.net/61908384-f6f7-4df0-a27f-a4cce78bcc85/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 266px; height: 271px;" /></p>
 
 <p style="text-align: center;">Figure B.1. Example of allowed and denied moves</p>
 
@@ -69,6 +69,6 @@
 
 <p>In Sample Input 3, one of the optimal routes is below.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/1b49621d-44eb-4055-b19a-5e2dbbb11b70/-/preview/" style="width: 254px; height: 140px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/30367.%E2%80%85Break%E2%80%85a%E2%80%85Prison/c0adbace.png" data-original-src="https://upload.acmicpc.net/1b49621d-44eb-4055-b19a-5e2dbbb11b70/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 254px; height: 140px;" /></p>
 
 <p style="text-align: center;">Figure B.2. The optimal route in Sample Input 3</p>

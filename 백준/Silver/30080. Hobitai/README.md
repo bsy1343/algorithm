@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p><img alt="" src="https://upload.acmicpc.net/b175f3b1-e57d-4ae9-b3fc-9c617ea42f3d/-/preview/" style="width: 233px; height: 87px; float: right;" />Saulėtoje kalno pusėje savo namus turi $N$ hobitų. Kiekvienas hobitas gyvena vienas savo atskirame namuke. Hobitai būna arba <em>herbivorai</em> (&bdquo;H&ldquo;), t. y. valgantys tik vaisius ir daržoves, arba <em>omnivorai</em> (&bdquo;O&ldquo;), t. y. valgantys viską.</p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/30080.%E2%80%85Hobitai/eff25b1b.png" data-original-src="https://upload.acmicpc.net/b175f3b1-e57d-4ae9-b3fc-9c617ea42f3d/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 233px; height: 87px; float: right;" />Saulėtoje kalno pusėje savo namus turi $N$ hobitų. Kiekvienas hobitas gyvena vienas savo atskirame namuke. Hobitai būna arba <em>herbivorai</em> (&bdquo;H&ldquo;), t. y. valgantys tik vaisius ir daržoves, arba <em>omnivorai</em> (&bdquo;O&ldquo;), t. y. valgantys viską.</p>
 
 <p>Prie&scaron;piečiams hobitai nori užsisakyti savo mėgstamų užkandžių i&scaron; maisto pristatymo traukinuko. Traukinuką sudaro $8$ maisto vagonėliai, galintys vienu metu atvežti maisto į a&scaron;tuonis greta vienas kito esančius hobitų namukus (t. y. hobaitą). Norint užtikrinti efektyvų &scaron;io traukinuko darbą, reikia laikytis &scaron;ių reikalavimų:</p>
 

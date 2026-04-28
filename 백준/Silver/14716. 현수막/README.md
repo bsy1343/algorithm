@@ -18,7 +18,7 @@
 
 <p>ANT가 처음 알고리즘 대회를 개최하게 되면서 현수막을 내걸었다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14716/1.png" style="height:59px; width:470px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/14716.%E2%80%85%ED%98%84%EC%88%98%EB%A7%89/8e5fc2cf.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14716/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:59px; width:470px" /></p>
 
 <p>저번 학기 영상처리 수업을 듣고 배웠던 지식을 최대한 응용 해보고 싶은 혁진이는 이 현수막에서 글자가 몇 개인지 알아보는 프로그램을 만들려 한다.</p>
 

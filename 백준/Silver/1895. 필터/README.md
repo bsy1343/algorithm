@@ -24,15 +24,15 @@
 
 <p>예를 들어, 아래와 같은 6&nbsp;&times; 5 이미지가 있다.</p>
 
-<p><img alt="" src="/upload/images/filter1.gif" style="height:160px; width:200px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/1895.%E2%80%85%ED%95%84%ED%84%B0/d90b7db8.gif" data-original-src="https://www.acmicpc.net/upload/images/filter1.gif" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:160px; width:200px" /></p>
 
 <p>필터링된 이미지의 크기는 4&nbsp;&times; 3이고, 아래와 같다.</p>
 
-<p><img alt="" src="/upload/images/filter2.gif" style="height:110px; width:150px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/1895.%E2%80%85%ED%95%84%ED%84%B0/19855a26.gif" data-original-src="https://www.acmicpc.net/upload/images/filter2.gif" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:110px; width:150px" /></p>
 
 <p>가장 왼쪽 윗 행에 필터를 두고, 오른쪽으로 움직이면서 중앙값을 찾는다. 한 행을 모두 이동했으면, 다음 행으로 이동해 다시 중앙값을 찾는다. 아래와 같은 순서를 가진다.</p>
 
-<p><img alt="" src="/upload/images/filter3.gif" style="height:160px; width:460px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/1895.%E2%80%85%ED%95%84%ED%84%B0/7a8c6f93.gif" data-original-src="https://www.acmicpc.net/upload/images/filter3.gif" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:160px; width:460px" /></p>
 
 <p>위의 그림에서 각각의 중앙값은 36, 36, 21이 된다. 이 값은 필터링된 이미지 J의 첫 행과 같다.&nbsp;</p>
 

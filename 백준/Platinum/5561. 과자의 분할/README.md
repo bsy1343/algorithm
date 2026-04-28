@@ -20,7 +20,7 @@
 
 <p>&nbsp;예를 들어 길이 6인 과자가 있고, 각 지점을 자르는 데 필요한 힘이 왼쪽부터 {1, 8, 12, 6, 2}라면 이때 필요한 최소 힘은 다음과 같이 잘랐을 때의 합인 7이 된다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/5561/1.png" style="height:203px; width:336px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/5561.%E2%80%85%EA%B3%BC%EC%9E%90%EC%9D%98%E2%80%85%EB%B6%84%ED%95%A0/933983bd.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/5561/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:203px; width:336px" /></p>
 
 ### 입력
 

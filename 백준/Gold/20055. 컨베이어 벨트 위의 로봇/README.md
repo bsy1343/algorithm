@@ -16,9 +16,9 @@
 
 ### 문제 설명
 
-<p><img alt="" src="https://upload.acmicpc.net/2d0d6aba-da7d-45b0-a450-a47cc1016dc0/-/crop/512x358/0,79/-/preview/" style="width: 256px; height: 179px; float: right;" />길이가 N인 컨베이어 벨트가 있고, 길이가 2N인 벨트가 이 컨베이어 벨트를 위아래로 감싸며 돌고 있다. 벨트는 길이 1 간격으로 2N개의 칸으로 나뉘어져 있으며, 각 칸에는 아래 그림과 같이 1부터 2N까지의 번호가 매겨져 있다.</p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/20055.%E2%80%85%EC%BB%A8%EB%B2%A0%EC%9D%B4%EC%96%B4%E2%80%85%EB%B2%A8%ED%8A%B8%E2%80%85%EC%9C%84%EC%9D%98%E2%80%85%EB%A1%9C%EB%B4%87/0dc831a5.png" data-original-src="https://upload.acmicpc.net/2d0d6aba-da7d-45b0-a450-a47cc1016dc0/-/crop/512x358/0,79/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 256px; height: 179px; float: right;" />길이가 N인 컨베이어 벨트가 있고, 길이가 2N인 벨트가 이 컨베이어 벨트를 위아래로 감싸며 돌고 있다. 벨트는 길이 1 간격으로 2N개의 칸으로 나뉘어져 있으며, 각 칸에는 아래 그림과 같이 1부터 2N까지의 번호가 매겨져 있다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/396139ea-9079-4115-9a00-446865434900/-/preview/" style="width: 476px; height: 224px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/20055.%E2%80%85%EC%BB%A8%EB%B2%A0%EC%9D%B4%EC%96%B4%E2%80%85%EB%B2%A8%ED%8A%B8%E2%80%85%EC%9C%84%EC%9D%98%E2%80%85%EB%A1%9C%EB%B4%87/1649f554.png" data-original-src="https://upload.acmicpc.net/396139ea-9079-4115-9a00-446865434900/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 476px; height: 224px;" /></p>
 
 <p>벨트가 한 칸 회전하면 1번부터 2N-1번까지의 칸은 다음 번호의 칸이 있는 위치로 이동하고, 2N번 칸은 1번 칸의 위치로 이동한다. i번 칸의 내구도는 A<sub>i</sub>이다. 위의 그림에서 1번 칸이 있는 위치를 &quot;<strong>올리는 위치</strong>&quot;, N번 칸이 있는 위치를 &quot;<strong>내리는 위치</strong>&quot;라고 한다.</p>
 

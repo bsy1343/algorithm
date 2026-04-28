@@ -22,11 +22,11 @@
 
 <p>Mr. Jones buys the products in the order in which they appear in Mrs. Jones&rsquo; list and he never goes back as he walks down the aisles. Therefore, if he buys the i-th product on his way as the j-th item on the list, the next product to be bought is the (j+1)-th item of the list &ndash; and it must be bought from the products that come after i in his path. The figure below shows an example where products are identified by integers. Note that different brands of the same product may appear separately. In the example Mr. Jones must buy products 1,1,2,20 (notice that product 1 appears twice in the list). For the example, the least cost for Mr. Jones following his constraints is 21.30. Notice that with this new way of shopping it may be impossible for Mr. Jones to buy all the goods on Mrs. Jones list; in that case, your program should warn Mr. Jones.</p>
 
-<p><img alt="" src="https://onlinejudgeimages.s3.amazonaws.com/problem/5788/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-06-13%20%EC%98%A4%ED%9B%84%205.25.23.png" style="height:70px; width:50px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/5788.%E2%80%85Supermarket/415b9f41.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/5788/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-06-13%20%EC%98%A4%ED%9B%84%205.25.23.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:70px; width:50px" /></p>
 
 <p>(a) Mrs.Jones&rsquo;list&nbsp;</p>
 
-<p><img alt="" src="https://onlinejudgeimages.s3.amazonaws.com/problem/5788/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-06-13%20%EC%98%A4%ED%9B%84%205.25.45.png" style="height:62px; width:368px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/5788.%E2%80%85Supermarket/14535093.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/5788/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-06-13%20%EC%98%A4%ED%9B%84%205.25.45.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:62px; width:368px" /></p>
 
 <p>(b) List of products with respective prices, and order they appear on Mr. Jones&rsquo; way down the aisles</p>
 

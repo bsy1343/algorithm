@@ -22,15 +22,15 @@
 
 <p>이 문자들을 이용하면 다음과 같이 재밌는 모양들을 만들 수 있다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/b94f0ae0-7378-4a23-872e-2a8abfb97ff5/-/preview/" style="width: 519px; height: 269px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/23038.%E2%80%85%EB%B0%95%EC%8A%A4%E2%80%85%EA%B7%B8%EB%A6%BC%E2%80%85%EB%AC%B8%EC%9E%90/4469e968.png" data-original-src="https://upload.acmicpc.net/b94f0ae0-7378-4a23-872e-2a8abfb97ff5/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 519px; height: 269px;" /></p>
 
 <p>위 모양들은 모두 선이 끊어지는 곳이 없다는 특징이 있다. 예를 들어 어떤 문자가 오른쪽 방향의 선을 갖고 있다면, 그 오른쪽에는 반드시 왼쪽 방향의 선을 갖고 있는 문자가 있다. 이러한 특징을 갖는 모양들을 <strong>아름다운 모양</strong>이라고 하자. 다음은 아름다운 모양이 아닌 모양의 예시이다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/ff0307da-1a64-452b-821a-3082a8b503db/-/preview/" style="width: 266px; height: 264px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/23038.%E2%80%85%EB%B0%95%EC%8A%A4%E2%80%85%EA%B7%B8%EB%A6%BC%E2%80%85%EB%AC%B8%EC%9E%90/1e0ee0fb.png" data-original-src="https://upload.acmicpc.net/ff0307da-1a64-452b-821a-3082a8b503db/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 266px; height: 264px;" /></p>
 
 <p>실버는 아름다운 모양 하나를 만들어 파일로 저장해 두었다. 하지만 컴퓨터가 바이러스에 감염되어 파일의 일부분이 <code>.</code>으로 날아가버렸다!</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/aa6b6e6d-b616-480b-806a-8696b0dfa0b4/-/preview/" style="width: 263px; height: 259px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/23038.%E2%80%85%EB%B0%95%EC%8A%A4%E2%80%85%EA%B7%B8%EB%A6%BC%E2%80%85%EB%AC%B8%EC%9E%90/fa063d35.png" data-original-src="https://upload.acmicpc.net/aa6b6e6d-b616-480b-806a-8696b0dfa0b4/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 263px; height: 259px;" /></p>
 
 <p>다행히도 <code>.</code>으로 대체된 부분들은 체스판처럼 배열되어 있다. 다시 말하면, $i+j$가 홀수일 때 $i$행 $j$열의 문자가 <code>.</code>으로 대체되어 있다. 자신의 작품이 망가져 좌절한 실버를 도와 모양을 복원해 보자. 단, 당신은 박스 그림 문자를 제대로 출력할 줄 모르기 때문에 각 문자들을 다음의 $3 \times 3$ 블록으로 치환하여 입출력할 것이다.</p>
 

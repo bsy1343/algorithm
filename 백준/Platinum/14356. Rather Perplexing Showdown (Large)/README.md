@@ -60,7 +60,7 @@
 
 <p>Here is an illustration of the tournament for sample case #3:</p>
 
-<p><img src="https://onlinejudgeimages.s3.amazonaws.com/problem/14355/%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C%20(2).png" /></p>
+<p><img src="%EB%B0%B1%EC%A4%80/Platinum/14356.%E2%80%85Rather%E2%80%85Perplexing%E2%80%85Showdown%E2%80%85(Large)/b7db90b4.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/14355/%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C%20(2).png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>Other lineups such as&nbsp;<code>PSSR</code>&nbsp;will appear on the list you give to your boss, but&nbsp;<code>PSRS</code>&nbsp;is alphabetically first.</p>
 

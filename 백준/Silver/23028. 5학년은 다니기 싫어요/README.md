@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/5d4e7c30-9dbf-4649-94ea-13ed440ae340/-/preview/" style="height: 417px; width: 500px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/23028.%E2%80%855%ED%95%99%EB%85%84%EC%9D%80%E2%80%85%EB%8B%A4%EB%8B%88%EA%B8%B0%E2%80%85%EC%8B%AB%EC%96%B4%EC%9A%94/28fb8396.png" data-original-src="https://upload.acmicpc.net/5d4e7c30-9dbf-4649-94ea-13ed440ae340/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 417px; width: 500px;" /></p>
 
 <p>5학년은 다니기 싫은 아리는 4학년까지 졸업 학점을 채워 졸업할 수 있는지 궁금해졌다. 아리가 졸업하려면 총 130학점 이상 들어야 하고, 그중 66학점 이상은 전공학점이어야 한다. 아리는 현재 2021년 2학기까지 <em>N</em>학기를 마쳤고, 전공학점 <em>A</em>를&nbsp;포함하여&nbsp;총 <em>B</em>학점을&nbsp;이수하였다. 고민하던 아리는 학교 홈페이지에서 다음과 같은 공지가 올라온 것을 확인했다.</p>
 

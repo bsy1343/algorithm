@@ -18,7 +18,7 @@
 
 <p>ZOYI는 사이트 내 온라인 유저과 대화할 수 있는 채널이라는 툴을 개발하고 있다. 최근에는 채널을 이용하는 온라인 유저를 분류하기 위해 RF(Recency / Frequency) 모델을 도입하였고 다음과 같은 계산을 통해 유저들을 분류하기로 하였다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/fb23321f-3bc3-4c72-8a1e-3b86eb586d55/-/preview/" style="width: 654px; height: 352px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/15772.%E2%80%85Segmentation/73ce1932.png" data-original-src="https://upload.acmicpc.net/fb23321f-3bc3-4c72-8a1e-3b86eb586d55/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 654px; height: 352px;" /></p>
 
 <p style="text-align: center;">사진: RF채널에 따른 유저의 분류. 가로축이 Recency, 세로축이 Frequency 축이다.</p>
 

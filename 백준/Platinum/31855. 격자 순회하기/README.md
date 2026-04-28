@@ -18,17 +18,17 @@
 
 <p>\(N \times M\) 크기의 격자가 있다. 격자의 한 칸에서 시작해서 모든 칸을 한 번씩 방문한 뒤, 격자 밖으로 나가는 경로를 만들어 보자.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/1cfe27a7-235e-4963-a8e9-d591c03dc4a6/-/preview/" style="width: 500px; height: 304px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/31855.%E2%80%85%EA%B2%A9%EC%9E%90%E2%80%85%EC%88%9C%ED%9A%8C%ED%95%98%EA%B8%B0/85ccc222.png" data-original-src="https://upload.acmicpc.net/1cfe27a7-235e-4963-a8e9-d591c03dc4a6/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 500px; height: 304px;" /></p>
 
 <p>조금만 생각해 보면 아주 간단하게 풀리는 문제라는 사실을 알 수 있다. 하지만 여러분을 괴롭히고 싶었던 치훈이는 여기에 한 가지 조건을 더하기로 했다.</p>
 
 <p><strong>임의의 한 칸에서의 이동 방향이 정해져 있다면</strong> 어떨까? 예를 들어, 위 격자의 \(3\)행 \(2\)열에 있는 칸에서는 무조건 오른쪽으로 이동해야 한다고 생각해 보자.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/3b8ea2d1-915d-4aeb-9789-6650f3f9f11c/-/preview/" style="height: 299px; width: 300px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/31855.%E2%80%85%EA%B2%A9%EC%9E%90%E2%80%85%EC%88%9C%ED%9A%8C%ED%95%98%EA%B8%B0/00f1700a.png" data-original-src="https://upload.acmicpc.net/3b8ea2d1-915d-4aeb-9789-6650f3f9f11c/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 299px; width: 300px;" /></p>
 
 <p>이는 다음과 같이 해결할 수 있다. 물론 이것 말고도 다양한 답이 존재한다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/9b0ca2e0-26bc-4d4c-a5ca-a27277965775/-/preview/" style="height: 281px; width: 500px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/31855.%E2%80%85%EA%B2%A9%EC%9E%90%E2%80%85%EC%88%9C%ED%9A%8C%ED%95%98%EA%B8%B0/35f8cdb9.png" data-original-src="https://upload.acmicpc.net/9b0ca2e0-26bc-4d4c-a5ca-a27277965775/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 281px; width: 500px;" /></p>
 
 <p>이제 여러분의 차례이다. \(x\)행 \(y\)열에 있는 칸에서의 이동 방향이 정해져 있을 때, 격자의 한 칸에서 시작해서 모든 칸을 한 번씩 방문한 뒤, 격자 밖으로 나가는 경로를 출력하는 프로그램을 작성해 보자.</p>
 

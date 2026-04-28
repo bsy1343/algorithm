@@ -18,7 +18,7 @@
 
 <p>안즈는 사탕을 정말 좋아한다. 그래서 안즈는 그동안 벌었던 모든 돈을 투자해 사탕 공장을 세웠다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/1ede87ac-fb6c-487b-9040-00fd93d86604/-/preview/" style="height: 622px; width: 600px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/31857.%E2%80%85%EC%82%AC%ED%83%95%E2%80%85%EA%B3%B5%EC%9E%A5/0f2e4e73.png" data-original-src="https://upload.acmicpc.net/1ede87ac-fb6c-487b-9040-00fd93d86604/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 622px; width: 600px;" /></p>
 
 <p>사탕 공장의 마지막 공정인 포장 단계에서는 다양한 종류의 사탕을 두 개의 컨베이어 벨트와 하나의 집게를 이용해 조작한다. 컨베이어 벨트는 \(N\)개의 칸으로 이루어져 있으며, 집게는 컨베이어 벨트의 첫 번째 칸부터 임의의 칸까지 모든 사탕을 한 번에 집을 때 쓰인다.</p>
 

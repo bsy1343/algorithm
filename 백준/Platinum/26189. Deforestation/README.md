@@ -41,6 +41,6 @@ The next line will continue with the description of the first tree segment; its 
 
 ### 힌트
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/b2b1618b-e6f8-4bae-abab-dcf6bdfaf152/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/26189.%E2%80%85Deforestation/6e484897.png" data-original-src="https://upload.acmicpc.net/b2b1618b-e6f8-4bae-abab-dcf6bdfaf152/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p style="text-align: center;">Image shows some possible solutions of sample test cases.</p>

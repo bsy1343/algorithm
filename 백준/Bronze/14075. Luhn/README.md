@@ -27,11 +27,11 @@
 
 <p>Na primjer, ako je broj kartice 1234567890123452, udvostručenjem svake druge znamenke dobili bismo:&nbsp;</p>
 
-<p><img alt="" src="https://onlinejudgeimages.s3.amazonaws.com/problem/14075/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202017-01-02%20%EC%98%A4%ED%9B%84%203.37.04.png" style="height:89px; width:613px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/14075.%E2%80%85Luhn/7d960c7e.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/14075/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202017-01-02%20%EC%98%A4%ED%9B%84%203.37.04.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:89px; width:613px" /></p>
 
 <p>Kada svakom broju većem ili jednakom 10 zbroje znamenke, dobijemo:&nbsp;</p>
 
-<p><img alt="" src="https://onlinejudgeimages.s3.amazonaws.com/problem/14075/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202017-01-02%20%EC%98%A4%ED%9B%84%203.37.15.png" style="height:88px; width:613px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/14075.%E2%80%85Luhn/74926ef7.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/14075/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202017-01-02%20%EC%98%A4%ED%9B%84%203.37.15.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:88px; width:613px" /></p>
 
 <p>Kada se tako dobiveni brojevi zbroje, ukupan rezultat je 60, &scaron;to je djeljivo s 10 pa je i kartica valjana.</p>
 

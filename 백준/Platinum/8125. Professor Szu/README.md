@@ -42,6 +42,6 @@
 
 <p>For the Sample input </p>
 
-<p><img alt="" src="https://onlinejudgeimages.s3.amazonaws.com/problem/8125/1.png" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/8125.%E2%80%85Professor%E2%80%85Szu/3e462d31.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/8125/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p> </p>

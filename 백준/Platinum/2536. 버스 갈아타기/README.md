@@ -18,7 +18,7 @@
 
 <p>2차원 평면상에 m개의 수직선과 n개의 수평선으로 이루어진 격자 형태의 도로망이 있다. 아래 그림은 7개의 수직선과 6개의 수평선으로 이루어진 도로망의 예이다. &nbsp;</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/85ad3211-f20a-45cc-bd94-91ed20bf5eff/-/preview/" style="width: 248px; height: 226px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/2536.%E2%80%85%EB%B2%84%EC%8A%A4%E2%80%85%EA%B0%88%EC%95%84%ED%83%80%EA%B8%B0/d1b5cda1.png" data-original-src="https://upload.acmicpc.net/85ad3211-f20a-45cc-bd94-91ed20bf5eff/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 248px; height: 226px;" /></p>
 
 <p>수직선과 수평선이 만나는 교차점들 중 가장 왼쪽 아래 점의 위치는 (1,1)이고, 가장 오른쪽 위 점의 좌표는 (m,n)이다. 이 도로망을 운행하는 버스들이 k개 있고, 각 &nbsp;버스는 하나의 수평선 상의 두 교차점 사이 선분이나 하나의 수직선 상의 두 교차점 사이 선분을 왕복 운행한다. 각 버스는 운행하는 선분 사이의 모든 교차점(선분의 양 끝 교차점 포함)에서 정차한다.&nbsp;</p>
 

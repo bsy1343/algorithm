@@ -20,7 +20,7 @@
 
 <p>A long time ago he has written a lock-free parallel string sorting program. It was a combination of burstsort and multi-key quicksort. To implement burstsort you need to build a tree of buckets. For each input string you walk through the tree and insert part of the string into the right bucket. When a bucket fills up, it &quot;bursts&quot; and becomes a new subtree (with new buckets).</p>
 
-<p style="text-align:center"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/10855/1.png" style="height:239px; width:495px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/10855.%E2%80%85Extreme%E2%80%85Sort/386a31c4.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/10855/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:239px; width:495px" /></p>
 
 <p style="text-align:center">Figure G.1: Burstsort data structure</p>
 

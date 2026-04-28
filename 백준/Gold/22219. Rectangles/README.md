@@ -29,7 +29,7 @@
 
 <p>Write a program to find a point B for which the segment AB crosses as many rectangles as possible.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/20384ff3-46d5-4b4f-85d1-2aa7bab693a1/-/preview/" style="width: 413px; height: 276px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/22219.%E2%80%85Rectangles/c0b2208b.png" data-original-src="https://upload.acmicpc.net/20384ff3-46d5-4b4f-85d1-2aa7bab693a1/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 413px; height: 276px;" /></p>
 
 <p style="text-align: center;">Example with 8 rectangles. The segment AB crosses 5 of them.</p>
 

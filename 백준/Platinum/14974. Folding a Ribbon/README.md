@@ -22,7 +22,7 @@
 
 <p>The figure below depicts the case of the first dataset of the sample input.</p>
 
-<p style="text-align: center;"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14974/1.png" style="height:364px; width:666px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/14974.%E2%80%85Folding%E2%80%85a%E2%80%85Ribbon/217a9287.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14974/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:364px; width:666px" /></p>
 
 ### 입력
 

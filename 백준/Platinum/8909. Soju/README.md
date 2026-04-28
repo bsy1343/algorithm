@@ -18,7 +18,7 @@
 
 <p>Two rival companies, named IC and PC, share the Soju market in Korea. Soju is well-known Korean distilled liquor, going well with Korean cuisine. Currently they have an agreement on the location of their selling branches; the branches of IC should be located in the west of those of PC, that is, all the IC branches have smaller x-coordinates than any PC branch. At the beginning of every month, they observe any change in the location condition of the agreement. For this, they want to compute the distance of the closest pair of two branches, one from each company. The distance of two points (x<sub>1</sub>, y<sub>1</sub>) and (x<sub>2</sub>, y<sub>2</sub>) is defined as |x<sub>1</sub>-x<sub>2</sub>| + |y<sub>1</sub>-y<sub>2</sub>|.</p>
 
-<p><img alt="" src="https://onlinejudgeimages.s3.amazonaws.com/problem/8909/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202017-01-05%20%EC%98%A4%ED%9B%84%204.58.42.png" style="height:238px; width:331px" /><br />
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/8909.%E2%80%85Soju/b271c1f9.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/8909/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202017-01-05%20%EC%98%A4%ED%9B%84%204.58.42.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:238px; width:331px" /><br />
 Figure 1. Blue disks are the IC branches and red squares are the PC branches. The distance of a closest pair between them is 5.</p>
 
 <p>You are given two sets of points, I and P, which represent branches of IC and PC companies, respectively. All points in I have smaller x-coordinates than any point in P. You write a program to compute the minimum distance of pairs (i, p) for i &isin; I and p &isin; P.</p>

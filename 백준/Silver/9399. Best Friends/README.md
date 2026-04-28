@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p><img alt="" src="/upload/images2/bf.png" style="float:right; height:252px; width:278px" />Two friends, Petey and Patty are locked up in a maze. The maze has an infinite number of circles of the same size, arranged like the figure on the right. Petey and Patty are initially standing on two (not necessarily distinct) circles.</p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/9399.%E2%80%85Best%E2%80%85Friends/6292c02f.png" data-original-src="https://www.acmicpc.net/upload/images2/bf.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="float:right; height:252px; width:278px" />Two friends, Petey and Patty are locked up in a maze. The maze has an infinite number of circles of the same size, arranged like the figure on the right. Petey and Patty are initially standing on two (not necessarily distinct) circles.</p>
 
 <p>Petey wants to reach her friend Patty. In each step, she can go from the circle she is standing on, to one of the adjacent circles. Two circles are adjacent to each other, if they share a point.</p>
 

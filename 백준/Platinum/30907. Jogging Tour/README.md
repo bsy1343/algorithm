@@ -20,7 +20,7 @@
 
 <p>Some stroopwafel bakeries have already been built in New Delft, but none of the streets have been constructed. Your task is to lay out the grid of streets. For this, you need to decide on an orientation for the grid so that there are two orthogonal directions for the two types of streets. Once the orientation is fixed, you may build arbitrary streets, as long as each of them has one of the two given directions, as shown in Figure J.1. Each street can be traversed in either direction.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/a6134d45-d88c-4459-bf72-f74342a2e5d3/-/preview/" style="width: 300px; height: 300px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/30907.%E2%80%85Jogging%E2%80%85Tour/bd049b6d.png" data-original-src="https://upload.acmicpc.net/a6134d45-d88c-4459-bf72-f74342a2e5d3/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 300px; height: 300px;" /></p>
 
 <p style="text-align: center;">Figure J.1: Illustration of Sample Input 2 with a possible street layout that gives the shortest possible path that visits all bakeries in some order.</p>
 

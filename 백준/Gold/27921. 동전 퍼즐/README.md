@@ -22,11 +22,11 @@
 
 <p>예를 들어, 다음과 같은 두 가지 동전의 배치를 생각하자.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/ff7e9006-2a35-4a6e-8982-e9896295eb5a/-/preview/" style="width: 700px; height: 350px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/27921.%E2%80%85%EB%8F%99%EC%A0%84%E2%80%85%ED%8D%BC%EC%A6%90/7f0c6f93.png" data-original-src="https://upload.acmicpc.net/ff7e9006-2a35-4a6e-8982-e9896295eb5a/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 700px; height: 350px;" /></p>
 
 <p>첫 번째 배치에서 두 번째 배치로 만들기 위해서는 아래와 같이 최소 네 개의 동전을 옮겨야 한다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/5565b710-b0a8-438d-9f25-ab650af440bd/-/preview/" style="width: 455px; height: 350px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/27921.%E2%80%85%EB%8F%99%EC%A0%84%E2%80%85%ED%8D%BC%EC%A6%90/1e542917.png" data-original-src="https://upload.acmicpc.net/5565b710-b0a8-438d-9f25-ab650af440bd/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 455px; height: 350px;" /></p>
 
 <p>현재 동전의 배치와 만들어야 하는 동전의 배치가 주어질 때, 옮겨야 하는 동전의 개수는 최소 몇 개인지 구하시오.</p>
 

@@ -18,7 +18,7 @@
 
 <p>체스에는 대각선 방향으로 움직일 수 있는 비숍(bishop)이 있다. 다음 그림과 같은 $5\times5$ 정사각형 체스판 위의&nbsp;B라고 표시된 곳에 비숍이 있을 때, 비숍은 대각선 방향으로 움직여 X로 표시된 칸에 있는 다른 말을 잡을 수 있다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/4864578c-b38e-4dbb-a0b5-2e056e63efcf/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/21869.%E2%80%85Maximum%E2%80%85Bishop/e50b8bf6.png" data-original-src="https://upload.acmicpc.net/4864578c-b38e-4dbb-a0b5-2e056e63efcf/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>$N$-Maximum Bishop 문제는 $N \times N$ 체스판 위에&nbsp;최대한 많은 비숍을 서로 공격할 수 없도록&nbsp;배치하는&nbsp;문제다.</p>
 

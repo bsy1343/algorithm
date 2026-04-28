@@ -19,7 +19,7 @@
 <p>욱제에게 미션이 주어졌다! 바로 학급비(서울시민들의 세금)로 구매할 물품을 정하는 것이다. 욱제는 학급비를 낭비(?)할 생각에 신이 났다. 본인(경기도민)이 낸 세금이 아니기 때문이다. 욱제는 낭비(?)에 적합한 두 개의 물품을 정해서 친구들의 의견을 수렴하기로 했다. 그 두 개의 물품은 바로 뽁뽁이와 꼭꼭이이다.</p>
 
 <p style="text-align: center;"><br />
-<img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14498/1.png" style="height:243px; width:137px" /><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14498/2.png" style="height:248px; width:95px" /></p>
+<img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/14498.%E2%80%85%ED%95%99%EA%B8%89%EB%B9%84%E2%80%85%EB%82%AD%EB%B9%84%ED%95%98%EA%B8%B0/4f3e1240.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14498/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:243px; width:137px" /><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/14498.%E2%80%85%ED%95%99%EA%B8%89%EB%B9%84%E2%80%85%EB%82%AD%EB%B9%84%ED%95%98%EA%B8%B0/4424d676.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14498/2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:248px; width:95px" /></p>
 
 <p style="text-align: center;">(뽁뽁이와 꼭꼭이)</p>
 

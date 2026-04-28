@@ -30,7 +30,7 @@
 
 <p>U centru jednog, nama nepoznatog, travnatog kvadrata nalazi se Lukina kuća, dok se u centru jednog drugog, tako&ntilde;er nepoznatog, travnatog kvadrata nalazi &scaron;kola.&nbsp;</p>
 
-<p><img alt="" src="https://onlinejudgeimages.s3.amazonaws.com/problem/14143/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202017-01-03%20%EC%98%A4%ED%9B%84%202.56.56.png" style="height:153px; width:540px" /><br />
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/14143.%E2%80%85%C5%A0kola/072e8f8d.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/14143/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202017-01-03%20%EC%98%A4%ED%9B%84%202.56.56.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:153px; width:540px" /><br />
 Ilustracije prikazuju rje&scaron;enje prvog primjera. Postoji ukupno tri moguća para pozicija Lukine kuće i &scaron;kole.</p>
 
 <p>Napi&scaron;ite program koji će za zadanu kvadratnu mrežu odrediti ukupan broj parova pozicija na kojima se mogu nalaziti Lukina kuća i &scaron;kola.&nbsp;</p>

@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><img alt="" src="https://u.acmicpc.net/c05302a4-539e-40db-abad-710b9e0b89d3/%EA%B7%B8%EB%A6%BC1.PNG" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/30892.%E2%80%85%EC%83%81%EC%96%B4%E2%80%85%ED%82%A4%EC%9A%B0%EA%B8%B0/5abc1708.png" data-original-src="https://u.acmicpc.net/c05302a4-539e-40db-abad-710b9e0b89d3/%EA%B7%B8%EB%A6%BC1.PNG" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>인천대학교의 앞바다에는 $N$마리의 상어가 살고 있다고 한다. 각각의 상어는 서로 같거나 다른 크기의 몸집 $A_i$를 가지고 있다. 상어의 세계는 완전한 약육강식의 세계로, 상어 자신의 크기보다 작은 상어는 전부 먹을 수 있다. 이때, 상어의 크기는 잡아먹힌 상어의 크기만큼 커지게 된다. 반면, 자신의 크기 이상인 상어는 전혀 잡아먹지 못한다.</p>
 

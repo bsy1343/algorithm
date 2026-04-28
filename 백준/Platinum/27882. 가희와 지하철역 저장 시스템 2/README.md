@@ -25,13 +25,13 @@
 
 <p>[그림 1]은 4개의 노드로 이루어진 시스템을 나타냅니다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/91bb52ce-6b15-44f1-8a6b-2d5b1ca2aa04/-/preview/" style="width: 334px; height: 90px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/27882.%E2%80%85%EA%B0%80%ED%9D%AC%EC%99%80%E2%80%85%EC%A7%80%ED%95%98%EC%B2%A0%EC%97%AD%E2%80%85%EC%A0%80%EC%9E%A5%E2%80%85%EC%8B%9C%EC%8A%A4%ED%85%9C%E2%80%852/64c7075d.png" data-original-src="https://upload.acmicpc.net/91bb52ce-6b15-44f1-8a6b-2d5b1ca2aa04/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 334px; height: 90px;" /></p>
 
 <p style="text-align: center;"><strong>[그림 1] 노드 4개로 이루어진 시스템</strong></p>
 
 <p>[그림 1]에서 4번 노드에서 1번 노드로 데이터를 보내는 전송 시간은 4입니다. 4번 노드에서 1번 노드로 갈 때, 4번 노드와 3번 노드를 연결하는 회선, 3번 노드와 2번 노드를 연결하는 회선, 2번 노드와 1번 노드를 연결하는 회선의 전송 시간을 모두 더한 값이 4이기 때문입니다. [그림 2]는 [그림 1]의 시스템에서 4번 노드와 2번 노드를 연결하는 회선이 하나 추가된 것입니다. </p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/8cd3aeda-a6ff-4bab-8842-8ecffa8f7b97/-/crop/497x325/0,0/-/preview/" style="width: 248px; height: 162px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/27882.%E2%80%85%EA%B0%80%ED%9D%AC%EC%99%80%E2%80%85%EC%A7%80%ED%95%98%EC%B2%A0%EC%97%AD%E2%80%85%EC%A0%80%EC%9E%A5%E2%80%85%EC%8B%9C%EC%8A%A4%ED%85%9C%E2%80%852/5a9022b6.png" data-original-src="https://upload.acmicpc.net/8cd3aeda-a6ff-4bab-8842-8ecffa8f7b97/-/crop/497x325/0,0/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 248px; height: 162px;" /></p>
 
 <p style="text-align: center;"><strong>[그림 2] 그림 1에서 연결 관계가 하나 추가된 시스템</strong></p>
 

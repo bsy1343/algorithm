@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><img alt="" src="https://u.acmicpc.net/7263f3a5-89aa-4ea4-9030-11d7cb35ca4c/img0.png" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/30788.%E2%80%85Sakura%E2%80%85Reflection/521acb7c.png" data-original-src="https://u.acmicpc.net/7263f3a5-89aa-4ea4-9030-11d7cb35ca4c/img0.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p style="text-align: center;">Ryu☆ - Sakura Reflection의 앨범아트</p>
 
@@ -24,7 +24,7 @@
 
 <p>Ryu☆는 $N$개의 축을 각각 한 번씩 사용해서 앨범아트를 $N$번 대칭이동하려고 한다. 혹독한 대칭이동의 세계에서는 대칭이동하는 순서에 따라 결과가 다르게 나올 수 있다. (a)는 $60^{\circ}$ 축으로 대칭이동한 후 $120^{\circ}$ 축으로 대칭이동한 그림이며, (b)는 $120^{\circ}$ 축으로 대칭이동한 후 $60^{\circ}$ 축으로 대칭이동한 그림이다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://u.acmicpc.net/b863000d-9ce8-4220-86c6-54b93acc4ec2/img1.png" style="height: 558px; width: 600px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/30788.%E2%80%85Sakura%E2%80%85Reflection/c9534eb1.png" data-original-src="https://u.acmicpc.net/b863000d-9ce8-4220-86c6-54b93acc4ec2/img1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 558px; width: 600px;" /></p>
 
 <p style="text-align: center;">두 가지 대칭이동 순서. 순서에 따라 다른 결과가 나올 수 있다.</p>
 

@@ -18,7 +18,7 @@
 
 <p>How far can you make a stack of cards overhang a table? If you have one card, you can create a maximum overhang of half a card length. (We&#39;re assuming that the cards must be perpendicular to the table.) With two cards you can make the top card overhang the bottom one by half a card length, and the bottom one overhang the table by a third of a card length, for a total maximum overhang of 1/2&nbsp;<code>+</code>&nbsp;1/3&nbsp;<code>=</code>&nbsp;5/6 card lengths. In general you can make&nbsp;<em>n</em>&nbsp;cards overhang by 1/2&nbsp;<code>+</code>&nbsp;1/3&nbsp;<code>+</code>&nbsp;1/4&nbsp;<code>+</code>&nbsp;...&nbsp;<code>+</code>&nbsp;1/(<em>n</em>&nbsp;<code>+</code>&nbsp;1) card lengths, where the top card overhangs the second by 1/2, the second overhangs tha third by 1/3, the third overhangs the fourth by 1/4, etc., and the bottom card overhangs the table by 1/(<em>n</em>&nbsp;<code>+</code>&nbsp;1). This is illustrated in the figure below.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/4655.%E2%80%85Hangover/67942f8b.jpg" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/4655/1.jpg" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:115px; width:424px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/4655.%E2%80%85Hangover/67942f8b.jpg" data-original-src="%EB%B0%B1%EC%A4%80/Bronze/4655.%E2%80%85Hangover/67942f8b.jpg" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/4655/1.jpg" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:115px; width:424px" /></p>
 
 ### 입력
 

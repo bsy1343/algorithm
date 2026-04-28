@@ -18,17 +18,17 @@
 
 <p>You are trying to pass the time while at the optometrist. You notice there is a grid of four numbers:</p>
 
-<p style="text-align: center;"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/17013/1.svg" style="width: 69px; height: 50px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/17013.%E2%80%85Flipper/7e70f278.svg" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/17013/1.svg" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 69px; height: 50px;" /></p>
 
 <p>You see lots of mirrors and lenses at the optometrist, and wonder how flipping the grid horizontally or vertically would change the grid.</p>
 
 <p>Specifically, a &quot;horizontal&quot; flip (across the horizontal centre line) would take the original grid of four numbers and result in:</p>
 
-<p style="text-align: center;"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/17013/2.svg" style="width: 69px; height: 50px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/17013.%E2%80%85Flipper/52a251ba.svg" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/17013/2.svg" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 69px; height: 50px;" /></p>
 
 <p>A &quot;vertical&quot; flip (across the vertical centre line) would take the original grid of four numbers and result in:</p>
 
-<p style="text-align: center;"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/17013/3.svg" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/17013.%E2%80%85Flipper/71348f32.svg" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/17013/3.svg" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>Your task is to determine the final orientation of the numbers in the grid after a sequence of horizontal and vertical flips.</p>
 

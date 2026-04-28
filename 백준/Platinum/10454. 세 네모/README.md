@@ -20,7 +20,7 @@
 
 <p>철승이네 집의 벽은 한 변이 1cm인 정사각형의 패턴이 그려진 벽지로 도배되어 있으며, 똑똑한 파리는 이 패턴 정사각형의 모서리에만 앉았다.</p>
 
-<p style="text-align:center"><img alt="" src="/upload/images2/3sq1.png" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/10454.%E2%80%85%EC%84%B8%E2%80%85%EB%84%A4%EB%AA%A8/4cc7f5e8.png" data-original-src="https://www.acmicpc.net/upload/images2/3sq1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p style="text-align:center">&lt; 파리가 앉은 예시 &gt;</p>
 
@@ -30,7 +30,7 @@
 
 <p>아래의 예제는 정사각형 종이 3장으로 위의 점들을 가리는 경우들을 보여준다.</p>
 
-<p style="text-align:center"><img alt="" src="/upload/images2/3sq2.png" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/10454.%E2%80%85%EC%84%B8%E2%80%85%EB%84%A4%EB%AA%A8/d701a687.png" data-original-src="https://www.acmicpc.net/upload/images2/3sq2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>두 경우에서 오른쪽의 방법이 종이가 더 작으므로 더 좋은 방법이 된다. 철승이의 궁금증을 풀어주기 위해 최소의 벽지 조각의 크기를 계산하자.</p>
 

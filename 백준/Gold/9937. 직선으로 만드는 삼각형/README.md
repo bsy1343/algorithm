@@ -20,7 +20,7 @@
 
 <p>상근이가 가지고 있는 직선으로 만들어지는 삼각형의 개수를 구하는 프로그램을 작성하시오.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/dbd256b3-1447-4505-9a4d-f6033831bc50/-/preview/" style="width: 444px; height: 347px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/9937.%E2%80%85%EC%A7%81%EC%84%A0%EC%9C%BC%EB%A1%9C%E2%80%85%EB%A7%8C%EB%93%9C%EB%8A%94%E2%80%85%EC%82%BC%EA%B0%81%ED%98%95/72203237.png" data-original-src="https://upload.acmicpc.net/dbd256b3-1447-4505-9a4d-f6033831bc50/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 444px; height: 347px;" /></p>
 
 <p>세 직선이 한 점에서 만나는 경우는 없다.</p>
 

@@ -34,4 +34,4 @@
 
 <p>На рисунке представлена иллюстрация первого примера --- прямая $x = 1.171572875$ делит амулет на две части с площадью равной 3.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/3e6d8afc-5c1b-4bfa-9db7-4b91c9ac1a0f/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/28973.%E2%80%85%D0%A0%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%E2%80%85%D0%B0%D0%BC%D1%83%D0%BB%D0%B5%D1%82%D0%B0/247284ef.png" data-original-src="https://upload.acmicpc.net/3e6d8afc-5c1b-4bfa-9db7-4b91c9ac1a0f/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>

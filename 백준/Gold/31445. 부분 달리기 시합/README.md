@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="display: flex; flex-direction: row; justify-content: center;"><img alt="부분 달리기 시합" src="https://upload.acmicpc.net/e4f5f453-c672-4077-9ab8-ec73a5f7c825/-/preview/" style="max-height: 150px; max-width: 100%;" /></p>
+<p style="display: flex; flex-direction: row; justify-content: center;"><img alt="부분 달리기 시합" src="%EB%B0%B1%EC%A4%80/Gold/31445.%E2%80%85%EB%B6%80%EB%B6%84%E2%80%85%EB%8B%AC%EB%A6%AC%EA%B8%B0%E2%80%85%EC%8B%9C%ED%95%A9/00efb6d0.png" data-original-src="https://upload.acmicpc.net/e4f5f453-c672-4077-9ab8-ec73a5f7c825/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="max-height: 150px; max-width: 100%;" /></p>
 
 <p>월간 향유회에서 $N$명의 사람들이 달리기 시합을 하려고 한다. 각 사람에게는 $1$부터 $N$까지의 서로 다른 번호가 부여되어 있다. 각 사람의 달리기 실력은 모두 다르며, 모든 시합에서 순위는 <strong>항상</strong> 실력순으로 결정된다.</p>
 

@@ -24,7 +24,7 @@
 
 <p>Help the Regional Contest Director determine the expected deliciousness factor for a tray with N sides.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/94c3f1ab-7470-4352-b9a6-87ed773c9e93/-/preview/" style="width: 207px; height: 189px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/18705.%E2%80%85Baklava%E2%80%85Tray/16159d88.png" data-original-src="https://upload.acmicpc.net/94c3f1ab-7470-4352-b9a6-87ed773c9e93/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 207px; height: 189px;" /></p>
 
 <p style="text-align: center;">The first three polygons for N = 5.</p>
 

@@ -32,4 +32,4 @@
 
 ### 힌트
 
-<p><img alt="" src="/upload/images/squ.png" style="height:128px; width:341px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/3614.%E2%80%85%EC%A0%95%EC%82%AC%EA%B0%81%ED%98%95/78877c2f.png" data-original-src="https://www.acmicpc.net/upload/images/squ.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:128px; width:341px" /></p>

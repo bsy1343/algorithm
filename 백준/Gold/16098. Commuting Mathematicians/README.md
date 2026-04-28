@@ -38,6 +38,6 @@
 
 <p>The second example consists of two lines. The green line forms a circle connecting all stations in the network and taking 2 minutes to go between any two consecutive stations. The orange line directly connects stations 1 to 4, with a travel time of 4 minutes. The mathematicians want to go from station 1 to 4. There are two fastest routes, each of which has a travel time of 4 minutes: to go via the green line, or by the orange line. Further, neither of these two options requires a line change.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/4dce2689-8510-4ffd-a145-2a4ec71d1ce3/-/preview/" style="width: 451px; height: 234px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/16098.%E2%80%85Commuting%E2%80%85Mathematicians/53deec16.png" data-original-src="https://upload.acmicpc.net/4dce2689-8510-4ffd-a145-2a4ec71d1ce3/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 451px; height: 234px;" /></p>
 
 <p style="text-align: center;">Figure 4: Subway networks of the sample inputs</p>

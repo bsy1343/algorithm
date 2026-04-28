@@ -20,7 +20,7 @@
 
 <p>The pump is automatic: you set the pressure to a specific number of pascals and plug the pump into the inflatable product, and it will inflate as needed to that exact pressure. There are only two buttons on the pump: up and down. They increase and decrease the target pressure, respectively, by exactly $1$ pascal.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/39657b8b-fdf4-48a2-b544-51a8ada8e4e2/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/25097.%E2%80%85Controlled%E2%80%85Inflation/6d566d3a.png" data-original-src="https://upload.acmicpc.net/39657b8b-fdf4-48a2-b544-51a8ada8e4e2/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>There is a line of $N$ customers, each of whom brings exactly $P$ products that they need to get inflated by the pump. You know the target pressure of each product. You can inflate the products from a customer in any order you want, but you cannot change the order of the customers. Specifically, you must inflate all products from the $i$⁠-th customer before inflating any from the $(i+1)$⁠-th customer. In between handling two products, if those two products have different target pressures, you need to use the buttons on the pump.</p>
 

@@ -18,11 +18,11 @@
 
 <p>김소마는 최근에 포화 이진 트리에 대해 배웠다. 포화 이진 트리란, 이진 트리에서 리프 노드를 제외한 모든 노드가 두 자식 노드를 가지며, 모든 리프 노드가 채워진 것을 말한다. 아래의 그림을 통해 쉽게 이해하자.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/ce12902b-0148-4863-be4c-812683455221/-/preview/" style="height: 343px; width: 600px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/26260.%E2%80%85%EC%9D%B4%EA%B0%80%E2%80%85%EB%B9%A0%EC%A7%84%E2%80%85%EC%9D%B4%EC%A7%84%E2%80%85%ED%8A%B8%EB%A6%AC/69ce2f06.png" data-original-src="https://upload.acmicpc.net/ce12902b-0148-4863-be4c-812683455221/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 343px; width: 600px;" /></p>
 
 <p>김소마는 예쁜 포화 이진 <strong>검색</strong> 트리를 그려 만족했지만, 밥 먹다 흘린 소스가 리프 노드 한 개를 가려버렸다. 여기서 이진 검색 트리란, 모든 왼쪽 자식이 자신보다 작고, 모든 오른쪽 자식이 자신보다 큰 이진 트리를 이야기한다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/6038d927-7b9e-4147-95ea-99304a3c672f/-/preview/" style="height: 310px; width: 600px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/26260.%E2%80%85%EC%9D%B4%EA%B0%80%E2%80%85%EB%B9%A0%EC%A7%84%E2%80%85%EC%9D%B4%EC%A7%84%E2%80%85%ED%8A%B8%EB%A6%AC/34bc3c18.png" data-original-src="https://upload.acmicpc.net/6038d927-7b9e-4147-95ea-99304a3c672f/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 310px; width: 600px;" /></p>
 
 <p>그림을 버리려던 찰나, 김소마는 갑자기 포화 이진 검색 트리를 유지하며, 임의의 수를 넣을 때, 트리 구조가 어떻게 바뀔지 궁금해졌다. 멍청한 김소마를 위해 당신이 도와주자.</p>
 
@@ -36,7 +36,7 @@
 
 <p>입력으로 주어지는 모든 수는 정수이다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/c4d28fc3-1469-4849-913e-6249ed50cd64/-/preview/" style="height: 346px; width: 900px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/26260.%E2%80%85%EC%9D%B4%EA%B0%80%E2%80%85%EB%B9%A0%EC%A7%84%E2%80%85%EC%9D%B4%EC%A7%84%E2%80%85%ED%8A%B8%EB%A6%AC/3faf2843.png" data-original-src="https://upload.acmicpc.net/c4d28fc3-1469-4849-913e-6249ed50cd64/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 346px; width: 900px;" /></p>
 
 ### 출력
 

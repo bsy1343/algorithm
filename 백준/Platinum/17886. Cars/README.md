@@ -22,7 +22,7 @@
 
 <p>You know that all cities consist of only north-south and east-west oriented streets in a perfect grid, and all cars are perfect rectangular prisms. When detecting collisions you only need to worry about cars traveling at a constant speed without turning.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/9247b337-d8ee-4dda-81d6-38f6a463e220/-/preview/" style="width: 210px; height: 157px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/17886.%E2%80%85Cars/bb63d467.png" data-original-src="https://upload.acmicpc.net/9247b337-d8ee-4dda-81d6-38f6a463e220/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 210px; height: 157px;" /></p>
 
 <p style="text-align: center;">Figure B.1: Illustration of Sample Input 1.</p>
 

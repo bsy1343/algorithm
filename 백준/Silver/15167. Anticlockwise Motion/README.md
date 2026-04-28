@@ -18,7 +18,7 @@
 
 <p>You have come up with an idea for a board game. The game is played on a board that is made up of 32 001 &times; 32 001 numbered squares. The centre square contains the number 1 and the other numbers are arranged in an anticlockwise spiral outwards (first moving downwards, then to the right, then upwards, then to the left, then downwards again, and so on). Figure A.1 displays the 5 &times; 5 squares in the middle of the board and Figure A.2 displays the 21 &times; 21 squares in the middle of the board for further clarification. When playing the game, players will only be able to move up, left, down and right. To help work out the rules for the game, you would like to know the shortest distance between two squares on the board using only these moves.</p>
 
-<p style="text-align:center"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15167/1.png" style="height:199px; width:198px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/15167.%E2%80%85Anticlockwise%E2%80%85Motion/a9790a9b.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15167/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:199px; width:198px" /></p>
 
 <p style="text-align:center">Figure A.1: The middle 25 squares.</p>
 
@@ -32,6 +32,6 @@
 
 ### 힌트
 
-<p style="text-align:center"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15167/2.png" style="height:633px; width:631px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/15167.%E2%80%85Anticlockwise%E2%80%85Motion/060e317a.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15167/2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:633px; width:631px" /></p>
 
 <p style="text-align:center">Figure A.2: The middle 441 squares.</p>

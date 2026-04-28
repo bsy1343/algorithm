@@ -27,7 +27,7 @@
 
 <p>Let&#39;s take the set of vertices 1,&hellip;,4 and the permutation p: p(1)=2, p(2)=4, p(3)=3, p(4)=1. There are only four tournaments for which this permutation is an automorphism:</p>
 
-<p><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/8046/1.gif" style="height:91px; width:395px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/8046.%E2%80%85Automorphisms/0319b58c.gif" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/8046/1.gif" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:91px; width:395px" /></p>
 
 <p>Write a program which:</p>
 

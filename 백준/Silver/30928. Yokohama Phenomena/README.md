@@ -30,7 +30,7 @@
 
 <p>Figure A.1 (a) is an illustration of the board corresponding to Sample Input 1. Figures A.1 (b) and (c) show trajectories on two of the YOKOHAMA traces. Both traces start at the leftmost square in the upper row. The same square marked with <code>O</code> appears twice in the trace illustrated in Figure A.1 (c).</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/e078cca6-7b8d-45a9-ab61-229c241d6d5a/-/preview/" style="width: 523px; height: 150px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/30928.%E2%80%85Yokohama%E2%80%85Phenomena/801e0379.png" data-original-src="https://upload.acmicpc.net/e078cca6-7b8d-45a9-ab61-229c241d6d5a/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 523px; height: 150px;" /></p>
 
 <p style="text-align: center;">Figure A.1. A board and trajectories on two of the YOKOHAMA traces</p>
 

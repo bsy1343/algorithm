@@ -20,7 +20,7 @@
 
 <p>&quot;-&quot;을 단항 연산자, &quot;*&quot;와 &quot;+&quot;는 이항 연산자라고 하자. 이 연산자는 각각 NOT, AND, OR을 의미한다. 3차 논리에서 3개 연산자는 다음과 같이 정의되어 있다.</p>
 
-<p><img alt="" src="/upload/images/tv.png" style="height:187px; width:446px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/4970.%E2%80%85%EB%94%94%EC%A7%80%ED%84%B8%E2%80%85%ED%9A%8C%EB%A1%9C%E2%80%85%EA%B0%9C%EB%A1%A0/64cb44d6.png" data-original-src="https://www.acmicpc.net/upload/images/tv.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:187px; width:446px" /></p>
 
 <p>P, Q, R을 3차 논리값을 갖는 변수라고 하자. 이때, 식이 주어졌을 때, 식의 값을 2로 만드는 (P,Q,R)쌍의 개수를 구하는 프로그램을 작성하시오. 식은 다음 중 하나의 형태를 갖는다. (X와 Y는 식을 의미한다)</p>
 

@@ -24,7 +24,7 @@
 	<li><strong>L&nbsp;R:</strong>&nbsp;<em>B<sub>L</sub> + B<sub>L+1</sub> + ... + B<sub>R-1</sub> + B<sub>R</sub></em> 을 출력한다.</li>
 </ul>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/c849170d-749c-4743-9829-2136c89e2212/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/17390.%E2%80%85%EC%9D%B4%EA%B1%B4%E2%80%85%EA%BC%AD%E2%80%85%ED%92%80%EC%96%B4%EC%95%BC%E2%80%85%ED%95%B4!/71da4876.png" data-original-src="https://upload.acmicpc.net/c849170d-749c-4743-9829-2136c89e2212/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p style="text-align: center;"><strong>Figure 1.</strong>&nbsp;모든 참가자가&nbsp;문제를 풀 수 있을 것이라고&nbsp;기대하는 욱제의 표정</p>
 

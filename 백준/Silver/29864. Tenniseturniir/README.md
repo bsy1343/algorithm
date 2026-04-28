@@ -18,7 +18,7 @@
 
 <p>Kalju vaatas tenniseturniiri, kus iga m&auml;ngu v&otilde;itja p&auml;&auml;ses edasi j&auml;rgmisse vooru. Ta kasutas v&otilde;istlejate t&auml;histamiseks kaarte numbritega &uuml;hest kaheksani ja paigutas tahvlile iga m&auml;ngu osav&otilde;tjate kaartide kohale selle m&auml;ngu v&otilde;itja numbri.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/1b61d1b1-3e40-44f3-8846-07ea4a32821f/-/preview/" style="width: 305px; height: 189px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/29864.%E2%80%85Tenniseturniir/cae56572.png" data-original-src="https://upload.acmicpc.net/1b61d1b1-3e40-44f3-8846-07ea4a32821f/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 305px; height: 189px;" /></p>
 
 <p>Siis tuli tema noorem vend Tarmo, kes v&otilde;ttis k&otilde;ik v&otilde;itjate kaardid tahvlilt ja pani need tahvli alla numbrite j&auml;rjekorda. Kalju ei saanud siiski pahaseks, sest ta saab k&otilde;ik tulemused taastada.</p>
 

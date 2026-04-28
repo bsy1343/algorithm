@@ -61,9 +61,9 @@
 
 <p>Task: The cells $M_0$ and $M_1$ of the array contain the integers $x$ and $y$ ($0 \le y \le x \le 200$), all other cells contain zeros. Write the difference $x-y$ into the cell $M_0$.</p>
 
-<p>Input example: <img alt="" src="https://upload.acmicpc.net/675c2f3e-ea43-49f7-963c-886bc9927568/-/preview/" style="width: 139px; height: 27px;" /></p>
+<p>Input example: <img alt="" src="%EB%B0%B1%EC%A4%80/Gold/29886.%E2%80%85Magical%E2%80%85BF%E2%80%851/8ba4e050.png" data-original-src="https://upload.acmicpc.net/675c2f3e-ea43-49f7-963c-886bc9927568/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 139px; height: 27px;" /></p>
 
-<p>Output example: <img alt="" src="https://upload.acmicpc.net/92ec46e7-3be9-40cb-a931-ecd74163f3a1/-/preview/" style="width: 169px; height: 27px;" /></p>
+<p>Output example: <img alt="" src="%EB%B0%B1%EC%A4%80/Gold/29886.%E2%80%85Magical%E2%80%85BF%E2%80%851/31c12879.png" data-original-src="https://upload.acmicpc.net/92ec46e7-3be9-40cb-a931-ecd74163f3a1/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 169px; height: 27px;" /></p>
 
 <p>In the output, it only matters that the cell $M_0$ contains the difference of $x$ and $y$ (in this case, $7 - 5 = 2$), other cells may contain any numbers (for example, $1500$, $0$, $42$, \ldots).</p>
 

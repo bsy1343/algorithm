@@ -18,7 +18,7 @@
 
 <p>Take some text. Put a small ball at the top of the first letter of the first word of the first sentence. The ball is drawn via gravity downwards. The text is also at a slight angle, so the ball wants to also move towards the right. The ball can freely move between the lines, and can drop through spaces. Considering the first column to be column 1, what column will the ball end up in? In this example, the ball ends up in column 8.&nbsp;</p>
 
-<p><img alt="" src="/upload/images/a.png" style="height:125px; width:556px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/9494.%E2%80%85Text%E2%80%85Roll/3c78313c.png" data-original-src="https://www.acmicpc.net/upload/images/a.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:125px; width:556px" /></p>
 
 ### 입력
 

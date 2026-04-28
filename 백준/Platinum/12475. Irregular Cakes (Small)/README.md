@@ -18,7 +18,7 @@
 
 <p>Mary the Mathematician has a bakery that she founded some years ago, but after all this time she has become bored with always baking the same rectangular and circular cakes. For her next birthday, she wants to bake an&nbsp;<em>irregular</em>&nbsp;cake, which is defined as the area between two &quot;polylines&quot; between x=0 and x=<strong>W</strong>. These polylines will be called the lower boundary and the upper boundary.</p>
 
-<p><img src="https://onlinejudgeimages.s3.amazonaws.com/problem/12475/images-38.png" style="border:0px; opacity:0.9; vertical-align:middle" /></p>
+<p><img src="%EB%B0%B1%EC%A4%80/Platinum/12475.%E2%80%85Irregular%E2%80%85Cakes%E2%80%85(Small)/42d7adb0.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/12475/images-38.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="border:0px; opacity:0.9; vertical-align:middle" /></p>
 
 <p>Formally, a polyline is defined by a sequence of points (P<sub>0</sub>, P<sub>1</sub>, ..., P<sub>n</sub>) going from left to right. Consecutive points are connected to form a sequence of line segments, which together make up the polyline.</p>
 

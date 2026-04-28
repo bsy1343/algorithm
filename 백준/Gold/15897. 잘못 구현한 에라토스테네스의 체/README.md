@@ -18,7 +18,7 @@
 
 <p>성원이는 오늘 이산수학 수업 시간에 에라토스테네스의 체에 대해 배웠다. 에라토스테네스의 체는 고대 그리스 수학자 에라토스테네스가 발견한 소수를 찾는 방법이다. 성원이는 이 방법에 너무나 큰 감명을 받았고, 당장 실습실에 가서 C++로 구현해보기로 했다. 그런데 성원이는 교재도 없고 필기를 하는 성격도 아니기 때문에 수업내용이 정확히 기억나지 않았다. 성원이는 기억을 열심히 더듬어 마침내 아래와 같은 코드를 작성했다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/e3f61892-1308-4a56-b3f7-eafe8fc94403/-/preview/" style="width: 340px; height: 135px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/15897.%E2%80%85%EC%9E%98%EB%AA%BB%E2%80%85%EA%B5%AC%ED%98%84%ED%95%9C%E2%80%85%EC%97%90%EB%9D%BC%ED%86%A0%EC%8A%A4%ED%85%8C%EB%84%A4%EC%8A%A4%EC%9D%98%E2%80%85%EC%B2%B4/29fef87a.png" data-original-src="https://upload.acmicpc.net/e3f61892-1308-4a56-b3f7-eafe8fc94403/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 340px; height: 135px;" /></p>
 
 <p>옆에 앉아있던 킹갓제너럴엠페러충무공마제스티알고리즘마스터 형석이는 성원이의 이 코드를 보고 실소를 금할 수 없었다. 아니 대체 세상에 어떤 사람이 이딴 코드를 짠단 말이지? 형석이는 신이 나서 성원이에게 이 코드의 문제점을 마구 지적했다.</p>
 

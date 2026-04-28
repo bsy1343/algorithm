@@ -20,7 +20,7 @@
 
 <p>$N$개의 휴식점이 주어지고, 각각의 휴식점의 좌표 $X_i, Y_i$가 주어진다. 가장 많은 수의 휴식점을 지나가는 것이 날다람쥐의 목표이다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/2204be5a-6c3b-43a1-a4bf-c52f8b56eb51/-/preview/" style="width: 200px; height: 200px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/25925.%E2%80%85%EC%95%88%EC%95%84%EC%A4%98%EC%9A%94/bcdd2f7a.png" data-original-src="https://upload.acmicpc.net/2204be5a-6c3b-43a1-a4bf-c52f8b56eb51/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 200px; height: 200px;" /></p>
 
 <p>안아줘요 날다람쥐는 언제나 안아줘요 포즈를 취하고 있기 때문에 공기 저항을 크게 받아 좌우 방향의 이동보다 빠르게 낙하할 수는 없다.</p>
 

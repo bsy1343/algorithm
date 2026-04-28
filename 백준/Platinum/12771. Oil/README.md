@@ -20,7 +20,7 @@
 
 <p>Drilling oil wells optimally is getting harder each day &ndash; the newly discovered oil deposits often do not form a single body, but are split into many parts. The ICPC is currently concerned with stratified deposits, as illustrated in Figure G.1.</p>
 
-<p style="text-align: center;"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/12771/1.png" style="height:269px; width:547px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/12771.%E2%80%85Oil/12840420.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/12771/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:269px; width:547px" /></p>
 
 <p style="text-align: center;">Figure G.1: Oil layers buried in the earth. This figure corresponds to Sample Input 1.</p>
 

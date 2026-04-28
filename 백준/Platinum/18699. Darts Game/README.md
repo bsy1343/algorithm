@@ -42,4 +42,4 @@
 
 <p>The following image represents the first sample test case, there&rsquo;s no way to take the point which gives score 100, but we can rotate the square little bit such that it no longer includes the point which gives score -101.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/937f2be0-a550-407f-8e70-c4a33ee252d9/-/preview/" style="width: 399px; height: 383px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/18699.%E2%80%85Darts%E2%80%85Game/71854d43.png" data-original-src="https://upload.acmicpc.net/937f2be0-a550-407f-8e70-c4a33ee252d9/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 399px; height: 383px;" /></p>

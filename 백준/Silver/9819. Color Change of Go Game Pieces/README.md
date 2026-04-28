@@ -20,7 +20,7 @@
 
 <p>For example, when n=8, m=2, k=2, the situation is as following:&nbsp;</p>
 
-<p style="text-align: center;"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/9819/1.png" style="height:112px; width:336px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/9819.%E2%80%85Color%E2%80%85Change%E2%80%85of%E2%80%85Go%E2%80%85Game%E2%80%85Pieces/5199fc59.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/9819/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:112px; width:336px" /></p>
 
 <p style="text-align: center;">Original first repetition second repetition</p>
 

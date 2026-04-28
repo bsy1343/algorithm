@@ -61,9 +61,9 @@
 
 <p>Task: Find the number of the leftmost cell with zero in it and write this number into the cell $M_0$. By the end of the execution all cells other than $M_0$ may contain any integers. You can assume that the answer will not exceed $100$ and that at the start of the execution no cell will contain value greater than $50$.</p>
 
-<p>Input example: <img alt="" src="https://upload.acmicpc.net/df49a328-bf0d-44d7-b974-799be6b5e765/-/preview/" style="width: 309px; height: 27px;" /></p>
+<p>Input example: <img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/29888.%E2%80%85Magical%E2%80%85BF%E2%80%853/298124bf.png" data-original-src="https://upload.acmicpc.net/df49a328-bf0d-44d7-b974-799be6b5e765/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 309px; height: 27px;" /></p>
 
-<p>Output example: <img alt="" src="https://upload.acmicpc.net/70af0fda-784d-4f59-9815-402be578ee11/-/preview/" style="width: 160px; height: 27px;" /></p>
+<p>Output example: <img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/29888.%E2%80%85Magical%E2%80%85BF%E2%80%853/ce9a4d29.png" data-original-src="https://upload.acmicpc.net/70af0fda-784d-4f59-9815-402be578ee11/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 160px; height: 27px;" /></p>
 
 ### 입력
 

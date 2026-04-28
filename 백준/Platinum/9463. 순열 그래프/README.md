@@ -20,11 +20,11 @@
 
 <p>{1, 2, 3, 4, 5}로 이루어진 두 순열 (2, 5, 4, 1, 3)과 (1, 5, 3, 2, 4)가 있다. 평행선을 그리고, 그 위에 순열에 적힌 숫자 순서대로 정점을 그린다. 그 다음 같은 숫자끼리 선분을 연결한다. 아래 그림과 같이 교차하는 선분의 쌍은 총 여섯 개라는 것을 알 수 있다.</p>
 
-<p><img alt="" src="/upload/images/perm1.png" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/9463.%E2%80%85%EC%88%9C%EC%97%B4%E2%80%85%EA%B7%B8%EB%9E%98%ED%94%84/b15b26c2.png" data-original-src="https://www.acmicpc.net/upload/images/perm1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>교차하는 쌍은 순열 그래프의 간선이 된다. 순열 그래프의 정점은 숫자가 되고, 간선은 교차하는 쌍이 된다. 위의 예를 이용해 순열 그래프를 만들면 V = {1, 2, 3, 4, 5}, E = {(1,2), (1,4), (1,5), (2,3), (2,5), (3,4)}. 위의 두 순열을 이용해 순열 그래프를 그리면 아래 그림과 같이 된다.</p>
 
-<p><img alt="" src="/upload/images/perm2.png" style="height:150px; width:232px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/9463.%E2%80%85%EC%88%9C%EC%97%B4%E2%80%85%EA%B7%B8%EB%9E%98%ED%94%84/8ec0a4cc.png" data-original-src="https://www.acmicpc.net/upload/images/perm2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:150px; width:232px" /></p>
 
 <p>{1, 2, ..., n}으로 이루어진 두 순열이 주어졌을 때, 두 순열을 이용해 만든 순열 그래프의 간선의 개수를 구하는 프로그램을 작성하시오. 예를 들어, (2, 5, 4, 1, 3)과 (1, 5, 3, 2, 4)로 만든 순열 그래프의 간선의 개수는 6개이다.</p>
 

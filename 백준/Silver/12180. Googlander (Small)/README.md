@@ -51,4 +51,4 @@ How many different paths is it possible for Googlander to walk? (Two paths are t
 In Case #2, Googlander cannot take a step straight ahead, because it would take him off the stage, but he can turn right and then take a step. Once he has done so, he cannot turn right and then take a step, but he can take a step straight ahead. At that point, there are no more moves he can make and the show is over. This is the only possible path he can take.<br />
 <br />
 In Case #3, these are the possible paths:<br />
-<img alt="" src="https://onlinejudgeimages.s3.amazonaws.com/problem/12180/images-73.png" style="height:292px; width:445px" /></p>
+<img alt="" src="%EB%B0%B1%EC%A4%80/Silver/12180.%E2%80%85Googlander%E2%80%85(Small)/8d166522.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/12180/images-73.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:292px; width:445px" /></p>

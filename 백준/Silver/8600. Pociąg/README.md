@@ -32,6 +32,6 @@
 
 ### 힌트
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/6a0c1af8-d717-4ad7-a9ef-39997fdac4ab/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/8600.%E2%80%85Poci%C4%85g/c6bb7723.png" data-original-src="https://upload.acmicpc.net/6a0c1af8-d717-4ad7-a9ef-39997fdac4ab/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p><b>Wyjaśnienie do przykładu:</b>&nbsp;W pierwszym okrążeniu odczepiony zostaje tylko wagon przewożący surowiec numer 5, w drugim - wagon przewożący surowiec numer 4, wreszcie w trzecim, ostatnim okrążeniu odczepione zostają kolejno wagony przewożące surowce o numerach 3, 2, 1.</p>

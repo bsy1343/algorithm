@@ -26,7 +26,7 @@
 
 <p>Whoever doesn&rsquo;t have more cards to remove, or whoever is forced to remove more cards than those available on a pile, loses the game.</p>
 
-<p><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11683/1.png" style="float:right; height:275px; width:262px" />In the figure, you can see an example with two piles and K = 1. The player to move might:</p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/11683.%E2%80%85Game%E2%80%85of%E2%80%85Cards/bc765a6d.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11683/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="float:right; height:275px; width:262px" />In the figure, you can see an example with two piles and K = 1. The player to move might:</p>
 
 <ol style="list-style-type:lower-alpha">
 	<li>Select the first pile and 0 cards to remove, being forced to remove 1 card from the top next.</li>

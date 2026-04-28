@@ -20,7 +20,7 @@
 
 <p>The rules are the following: A shuffled deck is laid out in eight stacks. Only the topmost card of a stack may be moved. A card of value v may be moved to the top of another stack only if the column is empty, or if the topmost card of the destination stack is of the opposite color and of value v + 1. For instance the three of hearts may be moved on top of the four of clubs. At your disposal you have four free cells (think of them as the available memory if you like!) that are initially empty. Free cells can hold at most one card each, which can be moved according to the same rules as stack cards. Figure H.1 below illustrates a few legal moves.</p>
 
-<p style="text-align: center;"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11201/1.png" style="height:279px; width:432px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/11201.%E2%80%85FreeCell/92935528.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11201/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:279px; width:432px" /></p>
 
 <p style="text-align: center;">Figure H.1: Legal moves for the three of hearts and six of clubs</p>
 

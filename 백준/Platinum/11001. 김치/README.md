@@ -18,7 +18,7 @@
 
 <p>최재현은 지지부진한 알앤이 진도에 분노해서, 구재현의 싸대기에 잘 익은 김치를 던지려고 한다.</p>
 
-<p><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11001/kimchi.jpg" style="height:275px; width:497px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/11001.%E2%80%85%EA%B9%80%EC%B9%98/fa9ccdbd.jpg" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11001/kimchi.jpg" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:275px; width:497px" /></p>
 
 <p>물론 김치를 만드는 것이 쉬운 일은 아니기 때문에, 갈수록 추워지는 가을날 최재현은 남도에 있는 한 김치 명장을 찾아갔다.</p>
 

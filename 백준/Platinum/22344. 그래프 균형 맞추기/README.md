@@ -28,17 +28,17 @@
 
 <p>예를 들어, 아래와 같이 5개의 정점과 4개의 간선으로 이루어진 그래프를 생각하자. 그림에서 정점을 나타 내는 원 안에 적힌 수는 정점의 번호이고, 간선을 나타내는 선에 적힌 수는 간선에 붙은 가중치이다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/b1bc832a-633b-4c14-bc59-e7c0fe7f00ce/-/preview/" style="width: 132px; height: 249px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/22344.%E2%80%85%EA%B7%B8%EB%9E%98%ED%94%84%E2%80%85%EA%B7%A0%ED%98%95%E2%80%85%EB%A7%9E%EC%B6%94%EA%B8%B0/4c631dd7.png" data-original-src="https://upload.acmicpc.net/b1bc832a-633b-4c14-bc59-e7c0fe7f00ce/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 132px; height: 249px;" /></p>
 
 <p>아래의 그림과 같이 각 정점에 [2, -7, 3, -5, 0]의 가중치를 부여해서, 각 간선이 연결하고 있는 두 정점의 가중치의 합이 간선의 가중치와 같게 할 수 있다. 아래 그림에서 정점을 나타내는 원 안에 적힌 수는 정점의 가중치이다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/78b82521-224f-4eda-bd93-2ee2001f1385/-/preview/" style="width: 132px; height: 245px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/22344.%E2%80%85%EA%B7%B8%EB%9E%98%ED%94%84%E2%80%85%EA%B7%A0%ED%98%95%E2%80%85%EB%A7%9E%EC%B6%94%EA%B8%B0/be7cd536.png" data-original-src="https://upload.acmicpc.net/78b82521-224f-4eda-bd93-2ee2001f1385/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 132px; height: 245px;" /></p>
 
 <p>총 비용은 |2| + | &minus; 7| + |3| + | &minus; 5| + |0| = 2 + 7 + 3 + 5 + 0 = 17이다. 총 비용을 17보다 작게 할 수 있는 방법은 없기 때문에, 위 방법은 총 비용을 최소화하는 방법이다.</p>
 
 <p>아래와 같이 각 정점에 [6, -3, -1, -9, 4]의 가중치를 부여해도 균형이 맞는 그래프가 되지만, 이 경우 총 비용은 17보다 큰 23이 되기 때문에 아래 방법은 총 비용을 최소화하는 방법이 아니다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/2d164b11-c1b8-4080-85b6-70c7611cd170/-/preview/" style="width: 132px; height: 251px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/22344.%E2%80%85%EA%B7%B8%EB%9E%98%ED%94%84%E2%80%85%EA%B7%A0%ED%98%95%E2%80%85%EB%A7%9E%EC%B6%94%EA%B8%B0/fc201513.png" data-original-src="https://upload.acmicpc.net/2d164b11-c1b8-4080-85b6-70c7611cd170/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 132px; height: 251px;" /></p>
 
 <p>그래프의 균형이 맞도록 정점에 가중치를 부여하는 것이 <strong>가능한지 확인</strong>하고, 가능하다면 그 중 <strong>총 비용을 최소화</strong>하는 방법을 하나 구하는 프로그램을 작성하라.</p>
 

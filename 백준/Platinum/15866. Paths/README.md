@@ -36,7 +36,7 @@
 
 ### 힌트
 
-<p style="text-align: center;"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15866/1.png" style="width: 258px; height: 150px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/15866.%E2%80%85Paths/db022c31.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15866/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 258px; height: 150px;" /></p>
 
 <p>The graph in the first example is illustrated in the figure, where each vertex has been filled with white (color 1), gray (color 2) or black (color 3). There are 10 paths whose vertices all have distinct colors: &ldquo;1-2&rdquo;, &ldquo;2-1&rdquo;, &ldquo;2-3&rdquo;, &ldquo;3-2&rdquo;, &ldquo;2-4&rdquo;, &ldquo;4-2&rdquo;, &ldquo;1-2-4&rdquo;, &ldquo;4-2-1&rdquo;, &ldquo;3-2-4&rdquo; and &ldquo;4-2-3&rdquo;.</p>
 

@@ -20,7 +20,7 @@
 
 <p>Unfortunately, your opponent appears to bend the rules to their liking. It looks like they do not always determine the placement of their ships before you start shooting. You are not impressed by their attempt at cheating, and decide to try and win the game anyway.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/71987c62-425b-468e-a231-e18db31fbf3e/-/preview/" style="width: 212px; height: 200px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/30909.%E2%80%85Lateral%E2%80%85Damage/3eab8aa9.png" data-original-src="https://upload.acmicpc.net/71987c62-425b-468e-a231-e18db31fbf3e/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 212px; height: 200px;" /></p>
 
 <p style="text-align: center;">Figure L.1: Illustration of Sample Interaction 1 after the first four shots were fired.</p>
 

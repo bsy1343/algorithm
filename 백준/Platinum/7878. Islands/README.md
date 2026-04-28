@@ -29,8 +29,8 @@
 	</thead>
 	<tbody>
 		<tr>
-			<td><img alt="" src="https://upload.acmicpc.net/fb099529-df05-43ea-adc5-d841293e6388/-/preview/" style="width: 115px; height: 95px;" /></td>
-			<td><img alt="" src="https://upload.acmicpc.net/aefee11a-7eda-4005-8ebf-8eac5b3a0f0f/-/preview/" style="width: 114px; height: 92px;" /></td>
+			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/7878.%E2%80%85Islands/22308f62.png" data-original-src="https://upload.acmicpc.net/fb099529-df05-43ea-adc5-d841293e6388/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 115px; height: 95px;" /></td>
+			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/7878.%E2%80%85Islands/b604a217.png" data-original-src="https://upload.acmicpc.net/aefee11a-7eda-4005-8ebf-8eac5b3a0f0f/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 114px; height: 92px;" /></td>
 		</tr>
 	</tbody>
 </table>

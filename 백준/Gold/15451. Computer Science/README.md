@@ -34,4 +34,4 @@
 
 <p>For the first example, one possible solution is to choose x<sub>1</sub> = &minus;1, x<sub>2</sub> = &minus;2, x<sub>3</sub> = 4, x<sub>4</sub> = 0, x<sub>5</sub> = 0, which is illustrated below.</p>
 
-<p style="text-align:center"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15451/1.png" style="height:218px; width:523px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/15451.%E2%80%85Computer%E2%80%85Science/5d42a0dc.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15451/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:218px; width:523px" /></p>

@@ -32,7 +32,7 @@
 
 <p>Figure D.1 gives a sketch of a situation, roughly corresponding to the situation of the Sample Input 4 given below.</p>
 
-<p style="text-align:center"><img alt="" src="/upload/images2/spacegolf.png" style="height:306px; width:730px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/10333.%E2%80%85Space%E2%80%85Golf/48e7bef7.png" data-original-src="https://www.acmicpc.net/upload/images2/spacegolf.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:306px; width:730px" /></p>
 
 <p style="text-align:center">Figure D.1. A sample situation</p>
 

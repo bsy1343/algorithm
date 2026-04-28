@@ -18,7 +18,7 @@
 
 <p>동현이는 바다 위에서 표류 중이다. 그에게 남은 것은 오직 작살 하나뿐. 배가 고파진 동현이는 작살로 물고기를 잡아보려고 한다. 동현이는 다음&nbsp;그림과 같이 작살을&nbsp;수직 아래 방향으로 던진다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/4c9a62cf-ed7f-4821-9106-c27e6b5c23af/-/preview/" style="width: 600px; height: 325px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/24233.%E2%80%85%EB%82%9A%EC%8B%9C/41c57b45.png" data-original-src="https://upload.acmicpc.net/4c9a62cf-ed7f-4821-9106-c27e6b5c23af/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 600px; height: 325px;" /></p>
 
 <p>바닷속에는 $N$마리의 물고기가 살고 있는데, 편의상 $i$번째 물고기의 현재 위치를 구간 [$S_i$, $E_i$]로 나타내자.</p>
 

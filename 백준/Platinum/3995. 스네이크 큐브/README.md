@@ -20,11 +20,11 @@
 
 <p>스네이크 큐브가 주어졌을 때, 3&times;3&times;3으로 접는 프로그램을 작성하시오.</p>
 
-<p><img alt="" src="/upload/images/snake.png" style="height:343px; width:668px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/3995.%E2%80%85%EC%8A%A4%EB%84%A4%EC%9D%B4%ED%81%AC%E2%80%85%ED%81%90%EB%B8%8C/3b074517.png" data-original-src="https://www.acmicpc.net/upload/images/snake.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:343px; width:668px" /></p>
 
 <p>스네이크 큐브 퍼즐은 두 색으로 이루어져 있고, 색이 번갈아가면서 색칠되어 있다. 두 색은 알파벳 대문자와 소문자로 나타내며, 첫 번째 정육면체는 &#39;A&#39;, 두 번째는 &#39;a&#39;, 세 번째는 &#39;B&#39;, 네 번째는 &#39;b&#39;, ... 이와 같은 식으로 알파벳을 붙일 수 있다. 마지막 27번째 정육면체는 &#39;N&#39;이다. 아래 그림은 스네이크 큐브 퍼즐을 접어서 3&times;3&times;3으로 만든 것이다.</p>
 
-<p><img alt="" src="/upload/images/snake2.png" style="height:258px; width:234px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/3995.%E2%80%85%EC%8A%A4%EB%84%A4%EC%9D%B4%ED%81%AC%E2%80%85%ED%81%90%EB%B8%8C/dae350cf.png" data-original-src="https://www.acmicpc.net/upload/images/snake2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:258px; width:234px" /></p>
 
 <p>평면에 놓여져있는 퍼즐이 주어졌을 때, 3&times;3&times;3로 접은 후의 모양을 출력하는 프로그램을 작성하시오.</p>
 

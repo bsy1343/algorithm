@@ -35,8 +35,8 @@
 <table class="table table-bordered td-center">
 	<tbody>
 		<tr>
-			<td><img alt="" src="https://upload.acmicpc.net/563fbfda-6750-49ca-931d-125d4259c870/-/crop/195x192/0,0/-/preview/" style="width: 98px; height: 96px;" /></td>
-			<td><img alt="" src="https://upload.acmicpc.net/563fbfda-6750-49ca-931d-125d4259c870/-/crop/640x192/302,0/-/preview/" style="width: 320px; height: 96px;" /></td>
+			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/1890.%E2%80%85%EC%A0%90%ED%94%84/9bbbe94a.png" data-original-src="https://upload.acmicpc.net/563fbfda-6750-49ca-931d-125d4259c870/-/crop/195x192/0,0/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 98px; height: 96px;" /></td>
+			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/1890.%E2%80%85%EC%A0%90%ED%94%84/5d84787b.png" data-original-src="https://upload.acmicpc.net/563fbfda-6750-49ca-931d-125d4259c870/-/crop/640x192/302,0/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 320px; height: 96px;" /></td>
 		</tr>
 		<tr>
 			<td>그림 1</td>

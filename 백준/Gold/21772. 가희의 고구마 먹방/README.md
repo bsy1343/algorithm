@@ -18,7 +18,7 @@
 
 <p>가희는 고구마를 정말 좋아합니다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://imgur.com/F3lqKOu" /><img alt="" src="https://i.imgur.com/F3lqKOu.png" style="width: 209px; height: 348px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/21772.%E2%80%85%EA%B0%80%ED%9D%AC%EC%9D%98%E2%80%85%EA%B3%A0%EA%B5%AC%EB%A7%88%E2%80%85%EB%A8%B9%EB%B0%A9/60835a03.png" data-original-src="https://imgur.com/F3lqKOu" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/21772.%E2%80%85%EA%B0%80%ED%9D%AC%EC%9D%98%E2%80%85%EA%B3%A0%EA%B5%AC%EB%A7%88%E2%80%85%EB%A8%B9%EB%B0%A9/5ebcc34c.png" data-original-src="https://i.imgur.com/F3lqKOu.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 209px; height: 348px;" /></p>
 
 <p>이번에도 어김 없이 고구마 냄새가 났는데,&nbsp;고구마가 보이지 않습니다. 오빠가&nbsp;방&nbsp;안에 고구마를 숨겨 놓았기 때문입니다.</p>
 

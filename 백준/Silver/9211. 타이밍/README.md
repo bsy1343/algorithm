@@ -34,10 +34,10 @@
 
 ### 힌트
 
-<p><img alt="" src="/upload/images/timing1(1).png" style="height:130px; width:530px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/9211.%E2%80%85%ED%83%80%EC%9D%B4%EB%B0%8D/1c2da69e.png" data-original-src="https://www.acmicpc.net/upload/images/timing1(1).png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:130px; width:530px" /></p>
 
 <p><strong>그림 3</strong>&nbsp;&ndash; 첫 번째 예제의 힘의 통계값 (왼쪽: 처음, 오른쪽: 1시간이 지난 후)</p>
 
-<p><img alt="" src="/upload/images/timing2.png" style="height:133px; opacity:0.9; width:496px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/9211.%E2%80%85%ED%83%80%EC%9D%B4%EB%B0%8D/2af23ae0.png" data-original-src="https://www.acmicpc.net/upload/images/timing2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:133px; opacity:0.9; width:496px" /></p>
 
 <p><strong>그림 4</strong>&nbsp;&ndash; 공격을 시작한 시점에서 각 요새의 힘의 통계값 (이때, 링크는 양방향이 된다)</p>

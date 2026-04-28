@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/f632276d-e048-4886-8533-1ab985e5abdc/-/preview/" style="width: 800px; max-width: 100%;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/27169.%E2%80%85100%25%E2%80%85Orange%E2%80%85Juice!/a22473f5.png" data-original-src="https://upload.acmicpc.net/f632276d-e048-4886-8533-1ab985e5abdc/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 800px; max-width: 100%;" /></p>
 
 <p><strong>《100% Orange Juice》</strong>는 6면체 주사위를 이용해서 최대 $4$명의 플레이어가 함께 플레이할 수 있는 보드게임 형태의 아케이드 게임입니다. 플레이어는 캐릭터를 하나 선택하고, 각자의 목적(스타 $200$개 획득, 상대방을 $14$번 쓰러트리기 등)을 달성하기 위해 플레이하며, 가장 먼저 목적을 달성한 플레이어가 승리합니다.</p>
 

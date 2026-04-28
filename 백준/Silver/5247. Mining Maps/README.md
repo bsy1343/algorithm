@@ -28,4 +28,4 @@
 
 ### 힌트
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/b395c2e0-aeae-4493-b66f-14ae86899e5d/-/preview/" style="width: 206px; height: 166px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/5247.%E2%80%85Mining%E2%80%85Maps/cd1a3a93.png" data-original-src="https://upload.acmicpc.net/b395c2e0-aeae-4493-b66f-14ae86899e5d/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 206px; height: 166px;" /></p>

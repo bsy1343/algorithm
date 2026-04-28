@@ -22,7 +22,7 @@
 
 <p>Now you need to figure out which sub-arrays to sort! Given an array of length $n$, output at most three sub-arrays of length $\tfrac{1}{2}n$ so that sorting these sub-arrays in order will result in a sorted array. It is guaranteed that this is always possible.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/332d1423-33a9-4697-abac-567def794d9b/-/preview/" style="width: 406px; height: 80px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/20337.%E2%80%85Incomplete%E2%80%85Sort/2c94eb09.png" data-original-src="https://upload.acmicpc.net/332d1423-33a9-4697-abac-567def794d9b/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 406px; height: 80px;" /></p>
 
 <p style="text-align: center;">Figure I.1: First sorting step of sample output 1</p>
 

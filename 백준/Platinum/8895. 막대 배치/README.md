@@ -18,7 +18,7 @@
 
 <p>높이가 1, 2, ..., n인 막대 n개가 일렬로 배치되어 있다. 막대를 왼쪽이나 오른쪽에서 보면, 큰 막대가 뒤에있는 작은 막대를 가리게 된다. 아래와 같이 4개의 막대로 이루어진 두 배치를 살펴보자.</p>
 
-<p style="text-align: center;"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/upload/images/polearr.png" style="height:157px; width:412px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/8895.%E2%80%85%EB%A7%89%EB%8C%80%E2%80%85%EB%B0%B0%EC%B9%98/81a96364.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/upload/images/polearr.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:157px; width:412px" /></p>
 
 <p>위의 두 배치는 모두 왼쪽에서 봤을 때 막대가 한 개 보이고, 오른쪽에서 봤을 때는 막대가 두 개 보인다.</p>
 

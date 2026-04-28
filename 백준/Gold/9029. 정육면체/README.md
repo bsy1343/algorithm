@@ -24,7 +24,7 @@
 
 <p>나무를 자르는 과정에서 발생할 수 있는 길이의 손실은 무시하기로 한다. 아래 그림에서 보인 것처럼, 자르기 전의 나무 조각의 크기가 W, L, H 이고, 절단한 후 두 조각의 크기가 각각 W, L, H1과 W, L, H2라면 H = H1 + H2 라고 가정한다. W와 L에 대해서도 동일하게 적용된다.</p>
 
-<p><img alt="" src="/upload/images2/cub.png" style="height:199px; width:329px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/9029.%E2%80%85%EC%A0%95%EC%9C%A1%EB%A9%B4%EC%B2%B4/9ca53235.png" data-original-src="https://www.acmicpc.net/upload/images2/cub.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:199px; width:329px" /></p>
 
 ### 입력
 

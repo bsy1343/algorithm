@@ -62,10 +62,10 @@
 
 <p>1번 예제의&nbsp;초기 친한 친구 관계를 그래프로 나타내면 다음과 같다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/0dac1538-eb2b-4080-bfca-e90d198513c5/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/23086.%E2%80%85%EB%91%90%E2%80%85%EB%B0%98%EC%9C%BC%EB%A1%9C%E2%80%85%EB%82%98%EB%88%84%EA%B8%B0/f4b85763.png" data-original-src="https://upload.acmicpc.net/0dac1538-eb2b-4080-bfca-e90d198513c5/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>종민이는 5번째, 3번째, 그리고 7번째 친한 친구 쌍을 차례대로 절교시키려고 한다.&nbsp;이 중 5번째와 3번째, 두 쌍을 절교시키면 한 분반에는 1, 4번 학생을, 나머지 분반에는 2, 3, 5번 학생을 배치함으로써 각 분반에 친한 친구 쌍이 없도록 나눌 수 있다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/dfdb5ad1-a6c5-44d6-b3fd-1d666915d967/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/23086.%E2%80%85%EB%91%90%E2%80%85%EB%B0%98%EC%9C%BC%EB%A1%9C%E2%80%85%EB%82%98%EB%88%84%EA%B8%B0/86c2d716.png" data-original-src="https://upload.acmicpc.net/dfdb5ad1-a6c5-44d6-b3fd-1d666915d967/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>이보다 적은 쌍을 절교시키면서 문제의 조건을 만족하도록 하는 것은 불가능하다.</p>

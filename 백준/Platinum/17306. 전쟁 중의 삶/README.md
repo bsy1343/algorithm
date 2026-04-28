@@ -18,7 +18,7 @@
 
 <p>석환나라에 전쟁이 일어났다! 석환나라는 엄청나게 큰 이진 트리 모양의 국가로,&nbsp;1,2, ... ,10<sup>100</sup> 까지 번호가 붙여진 총&nbsp;10<sup>100</sup>&nbsp;개의 도시로 이루어져 있다. 석환나라에는&nbsp;10<sup>100</sup>-1개의 도로가 있는데, 이 중 <em>i</em>번째 도로는 (1 &le; <em>i</em> &lt;10<sup>100</sup>)&nbsp;$\lfloor \frac{i+1}{2} \rfloor$ 번 도시와 <em>i</em>+1 번 도시를 잇는데, 이를 그림으로 묘사하면 아래와 같다:</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/7d145311-fa1b-474e-9fdf-c2535cab046e/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/17306.%E2%80%85%EC%A0%84%EC%9F%81%E2%80%85%EC%A4%91%EC%9D%98%E2%80%85%EC%82%B6/137afe88.png" data-original-src="https://upload.acmicpc.net/7d145311-fa1b-474e-9fdf-c2535cab046e/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>총리 <em>윈스턴 아기서콴</em>(<em>Winston Agiseokhwan</em>)은 위기의 석환나라를 구하는 중대한 임무를 맡고 있다. 석환나라의 적국들은 석환나라의 중요 군 시설을 방해하는 데 혈안이 되어 있기 때문에, 석환나라의 국민들을 보호하기 위해서는 군대가 자주 오가는 도시를 우선 방어하는 것이 효과적이다. 석환나라에는&nbsp;<em>N</em>개의 군부대가 서로 다른 도시에 존재하고, 군부대들은 서로 물자나 정보를 주고받기 위해서 오간다.</p>
 

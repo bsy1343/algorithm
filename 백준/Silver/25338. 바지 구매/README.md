@@ -22,7 +22,7 @@
 
 <p>지면에서 $x$ 만큼 떨어진 시루의 하체 둘레는 $f(x) = \max(a(x-b)^2+c, d)$로 계산할 수 있다. 예를 들어 $f(x) = \max(-0.1(x-50)^2+10, 6)$이라고 하면, 시루가 엎드려 있을 때 하체는 다음과 같은 형태이다.</p>
 
-<p><img alt="" src="https://upload.acmicpc.net/86ba98a1-165c-479a-bd96-bed7e37e6048/-/preview/" style="height: 175px; width: 800px;" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/25338.%E2%80%85%EB%B0%94%EC%A7%80%E2%80%85%EA%B5%AC%EB%A7%A4/9142359a.png" data-original-src="https://upload.acmicpc.net/86ba98a1-165c-479a-bd96-bed7e37e6048/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 175px; width: 800px;" /></p>
 
 <p>시루는 백화점에서 $n$개의 바지를 골랐다. $i$번째 바지의 허리둘레는 $u_i$, 길이는 $v_i$이다. 바지를 위에서부터 내려가는 방식으로 허리둘레가 시루의 하체 둘레와 딱 맞도록 바지를 입었을 때, 바지가 끌리지 않으면서 끝부분의 높이가 지면과 일치하는지 확인해 보자. 바지의 허리 부분은 시루의 하체에서 둘레가 가장 큰 위치보다 높거나 같은 곳에서만 걸린다.</p>
 

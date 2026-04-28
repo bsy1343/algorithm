@@ -18,15 +18,15 @@
 
 <p>The Towers puzzle challenges a single player to place towers of varying heights in an n x n grid (3 &le; n &le; 5). The heights of each tower can be any integer between 1 and n, inclusive, but the placement of the n<sup>2</sup> towers must be such that no tower of the same height appears twice within the same row or column. Given no other constraints, there is an exponentially large number of ways to place towers. Take, for example, the 5 x 5 puzzle, where one of the solutions looks like this:</p>
 
-<p style="text-align: center;"><img alt="" src="/upload/images2/puzzle1.png" style="height:176px; width:171px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/10567.%E2%80%85Towers/73490367.png" data-original-src="https://www.acmicpc.net/upload/images2/puzzle1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:176px; width:171px" /></p>
 
 <p>The puzzles become more interesting (and harder to solve) as they further constrain that one or more grid locations be occupied by towers of specified heights. A 5 x 5 puzzle, for instance, might require that the upper left and lower right corners house towers of height 3, and that the center location house a tower of height 5. The puzzle would look like that on the left below, and a solution&mdash;again, one of many&mdash;might look like that presented to its right.</p>
 
-<p style="text-align: center;"><img alt="" src="/upload/images2/puzzle2.png" style="height:160px; width:333px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/10567.%E2%80%85Towers/0b859c34.png" data-original-src="https://www.acmicpc.net/upload/images2/puzzle2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:160px; width:333px" /></p>
 
 <p>Some puzzles include one or more numbers around the perimeter, where each number specifies the exact number of towers visible when looking into the grid from that direction, with the understanding that taller towers fully conceal shorter ones. For example, the 5 x 5 puzzle presented below and on the left would have the (incidentally unique) solution to its right.</p>
 
-<p style="text-align: center;"><img alt="" src="/upload/images2/puzzle3.png" style="height:157px; width:365px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/10567.%E2%80%85Towers/a8012647.png" data-original-src="https://www.acmicpc.net/upload/images2/puzzle3.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:157px; width:365px" /></p>
 
 <p>The number above the final column requires that just a single tower be visible when viewing its sequence of five towers from above (which essentially means that the top row of that column must house a 5.) The second row introduces multiple requirements:</p>
 

@@ -42,4 +42,4 @@
 
 ### 힌트
 
-<p><img alt="" src="/upload/images/rfid.png" style="height:234px; width:434px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/3659.%E2%80%85RFID%E2%80%85%EC%B6%94%EC%A0%81/3ddf995c.png" data-original-src="https://www.acmicpc.net/upload/images/rfid.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:234px; width:434px" /></p>

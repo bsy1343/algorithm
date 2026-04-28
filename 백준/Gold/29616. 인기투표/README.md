@@ -18,7 +18,7 @@
 
 <p>종현은 인생에서 한 번 있을 군 생활을 기념 겸 추억거리로 남겨두기 위해 증명사진을 찍어보았다. 그런데 웬걸! 사진관으로부터 받은 증명사진 속엔 대학생 상병 박종현이 아니라 세상 고초 다 겪은 직업 군인 중사 박종현이 찍혀있었다. 사진에 불만이 생긴 종현은 생활관 동기들에게 하소연 했지만, 동기들은 종현을 놀리기에 바빴다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/726d963a-a8db-42f6-98c6-134ba4feab60/-/preview/" style="max-width: 100%; width: 360px; height: 364px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/29616.%E2%80%85%EC%9D%B8%EA%B8%B0%ED%88%AC%ED%91%9C/ff791d82.png" data-original-src="https://upload.acmicpc.net/726d963a-a8db-42f6-98c6-134ba4feab60/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="max-width: 100%; width: 360px; height: 364px;" /></p>
 
 <p>억울한 종현은 SNS에 이 사진이 정말로 자신과 닮았는지 공개 투표를 부쳐, 사진관에서 사진을 이상하게 편집했다고 주장하려고 한다. 투표는 백분율로 공개되고, 철회하거나 번복할 수 없다.</p>
 

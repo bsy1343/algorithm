@@ -22,7 +22,7 @@
 
 <p>Alice has noticed that this requires careful planning of her hike and wonders how to find such a route. Determine which cabin Alice should walk to for every day. Figure H.1 shows a possible route for the second sample case.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/2d8e52da-de27-4b14-bac6-51349c32a257/-/preview/" style="width: 258px; height: 200px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/23382.%E2%80%85Hamiltooonian%E2%80%85Hike/d94ce27e.png" data-original-src="https://upload.acmicpc.net/2d8e52da-de27-4b14-bac6-51349c32a257/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 258px; height: 200px;" /></p>
 
 <p style="text-align: center;">Figure H.1: The input and a possible route (dashed red arrows) for the second sample case.</p>
 

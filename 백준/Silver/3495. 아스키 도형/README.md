@@ -26,7 +26,7 @@
 	창영이가 그린 도형의 넓이를 출력하는 프로그램을 작성하시오.</p>
 
 <p>
-	<img alt="" src="/upload/images/aa.png" style="width: 291px; height: 148px;" /></p>
+	<img alt="" src="%EB%B0%B1%EC%A4%80/Silver/3495.%E2%80%85%EC%95%84%EC%8A%A4%ED%82%A4%E2%80%85%EB%8F%84%ED%98%95/f0a6ebc4.png" data-original-src="https://www.acmicpc.net/upload/images/aa.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 291px; height: 148px;" /></p>
 
 ### 입력
 

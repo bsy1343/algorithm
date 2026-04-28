@@ -20,13 +20,13 @@
 
 <p>As a materials engineer at Shanghai Hypercomputers, your job is to prepare ACM solutions from ACM particles. You go to your factory everyday at 8 am and find a batch of ACM particles on your workbench. You prepare the ACM solutions by dripping some water, as well as some acetone, into those particles and watch the ACMs dissolve in the solvents. You always want to prepare unmixed solutions, so you first separate the ACM particles by placing an Insulating Carbon Partition Card (ICPC) perpendicular to your workbench. The ICPC is long enough to completely separate the particles. You then drip water on one side of the ICPC and acetone on the other side. The ICPC helps you obtain hydrophilic ACMs dissolved in water on one side and hydrophobic ACMs dissolved in acetone on the other side. If you happen to put the ICPC on top of some ACM particles, those ACMs will be right at the border between the water solution and the acetone solution, and they will be dissolved. Fig.1 shows your working situation.&nbsp;</p>
 
-<p style="text-align: center;"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/5061/1.png" style="height:198px; width:364px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/5061.%E2%80%85Amphiphilic%E2%80%85Carbon%E2%80%85Molecules/9321af16.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/5061/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:198px; width:364px" /></p>
 
 <p style="text-align: center;">Fig. 1</p>
 
 <p>Your daily job is very easy and boring, so your supervisor makes it a little bit more challenging by asking you to dissolve as much ACMs into solution as possible. You know you have to be very careful about where to put the ICPC since hydrophilic ACMs on the acetone side, or hydrophobic ACMs on the water side, will not dissolve. As an experienced engineer, you also know that sometimes it can be very difficult to find the best position for the ICPC, so you decide to write a program to help you. You have asked your supervisor to buy a special digital camera and have it installed above your workbench, so that your program can obtain the exact positions and species (hydrophilic or hydrophobic) of each ACM particle in a 2D pictures taken by the camera. The ICPC you put on your workbench will appear as a line in the 2D pictures.&nbsp;</p>
 
-<p style="text-align: center;"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/5061/2.png" style="height:136px; width:214px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/5061.%E2%80%85Amphiphilic%E2%80%85Carbon%E2%80%85Molecules/1beb018c.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/5061/2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:136px; width:214px" /></p>
 
 <p style="text-align: center;">Fig. 2</p>
 

@@ -46,4 +46,4 @@
 
 <p>예제의 순열 그래프를 그리면 다음과 같다.</p>
 
-<p><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/7982/2.png" style="height:44px; width:140px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/7982.%E2%80%85%EC%88%9C%EC%97%B4%E2%80%85%EA%B7%B8%EB%9E%98%ED%94%84%EC%9D%98%E2%80%85%EC%97%B0%EA%B2%B0%EC%84%B1%E2%80%85%ED%8C%90%EB%B3%84/c5eba112.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/7982/2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:44px; width:140px" /></p>

@@ -22,7 +22,7 @@
 
 <p>Consider, for example, the board shown on the left on the figure below. If one conductor has to connect A to B and another D to C, this could be achieved in a single layer, as shown in the middle on the figure. But a conductor connecting A to C and another connecting D to B could not be laid out in the same layer, as can be seen on the right on the figure.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/82452545-3014-4ac0-a9df-fe459c7b4964/-/preview/" style="width: 463px; height: 120px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/3353.%E2%80%85Printed%E2%80%85Circuit%E2%80%85Board/60f8f41b.png" data-original-src="https://upload.acmicpc.net/82452545-3014-4ac0-a9df-fe459c7b4964/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 463px; height: 120px;" /></p>
 
 <p>Write a program that is given the locations of the endpoints of the N conductors on a W &times; H board and determines the minimal number of layers needed to accommodate all of them.</p>
 

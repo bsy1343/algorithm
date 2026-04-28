@@ -18,7 +18,7 @@
 
 <p>The International Betting Machine company has just issued a new type of slot machine. The machine display consists of a set of identical circles placed in a triangular shape. An example with four rows is shown below. When the player pulls the lever, the machine places a random letter in the center of each circle. The machine pays off whenever any set of identical letters form the vertices of an equilateral triangle. In the example below, the letters &lsquo;a&rsquo; and &lsquo;c&rsquo; satisfy this condition.</p>
 
-<p><img alt="" src="/upload/images2/sof.png" style="height:148px; width:175px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/4261.%E2%80%85Slots%E2%80%85of%E2%80%85Fun/3366813a.png" data-original-src="https://www.acmicpc.net/upload/images2/sof.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:148px; width:175px" /></p>
 
 <p>In order to prevent too many payoffs, the electronics in the machine ensures that no more than 3 of any letter will appear in any display configuration.</p>
 

@@ -25,7 +25,7 @@
 	<li>jump over one neighboring piece to an empty field (up, down, left or right).</li>
 </ul>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/8809564f-2d80-4bf0-bbb4-c057656ebe60/-/preview/" style="width: 400px; height: 401px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/6294.%E2%80%85Solitaire/cf48736b.png" data-original-src="https://upload.acmicpc.net/8809564f-2d80-4bf0-bbb4-c057656ebe60/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 400px; height: 401px;" /></p>
 
 <p>There are 4 moves allowed for each piece in the configuration shown above. As an example let&#39;s consider a piece placed in the row 4, column 4. It can be moved one row up, two rows down, one column left or two columns right.</p>
 

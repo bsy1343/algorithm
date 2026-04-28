@@ -26,7 +26,7 @@
 <p>진호 : 스타크래프트 좋아하시잖아~</p>
 </blockquote>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/47e14ba0-a6ef-4b45-9743-509359a3b4d3/-/preview/" style="width: 300px; height: 300px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/25430.%E2%80%85%EB%8B%A4%EC%9D%B4%EC%A0%9C%EC%8A%A4%ED%83%80/73f6ac18.png" data-original-src="https://upload.acmicpc.net/47e14ba0-a6ef-4b45-9743-509359a3b4d3/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 300px; height: 300px;" /></p>
 
 <p>스타크래프트의 저그들은 커널을 가지고 있다. 커널은 1부터 $N$까지 번호가 붙어 있으며 커널들은 길이가 있는 양방향 연결통로를 통해 연결되어 있다. </p>
 

@@ -29,7 +29,7 @@
 
 <p>Write a program that will, for a given configuration of land, calculate the minimal time for a car to travel the whole road with optimal construction of tunnels and viaducts. Total number of objects built must not be greater than the given number K.&nbsp;</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/41a6408f-61b5-4bff-825e-923b9d0de4c3/-/preview/" style="width: 428px; height: 237px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/3191.%E2%80%85autoput/b4225c05.png" data-original-src="https://upload.acmicpc.net/41a6408f-61b5-4bff-825e-923b9d0de4c3/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 428px; height: 237px;" /></p>
 
 <p>Figure above corresponds to the third example. Original road is denoted by the thin line, and the optimal path is denoted by the thick line. Because the number of objects is restricted to 2, we could not build a tunnel under the first mountain.&nbsp;</p>
 

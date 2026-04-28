@@ -18,7 +18,7 @@
 
 <p>골룸산업은 유연하고 재배치가 가능한 최신 트렌드의 오피스 공간을 디자인하고 있다. 새로이 만드는 공간은 가로로 긴 직사각형 형태의 오피스와 군데군데 선택해 배치할 수 있는 세로 파티션으로 구성되어 있다.</p>
 
-<p style="text-align:center"><img alt="" src="/upload/images2/flexible.png" style="height:133px; width:315px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/10471.%E2%80%85%EA%B3%B5%EA%B0%84%EC%9D%84%E2%80%85%EB%A7%8C%EB%93%A4%EC%96%B4%E2%80%85%EB%B4%85%EC%8B%9C%EB%8B%A4/4b058a84.png" data-original-src="https://www.acmicpc.net/upload/images2/flexible.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:133px; width:315px" /></p>
 
 <p style="text-align:center">그림 C.1</p>
 

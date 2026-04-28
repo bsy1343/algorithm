@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p><img alt="" src="https://upload.acmicpc.net/e70f41ad-24ff-40e3-91f9-ce8643e6615a/-/preview/" style="width: 247px; height: 358px; float: right; margin-left:10px;" />Captchas are getting more and more elaborate. It started with doing simple calculations like $7 + 2$, and now, it has evolved into having to distinguish chihuahuas from double chocolate chip muffins.</p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/30905.%E2%80%85Higher%E2%80%85Arithmetic/c289d87c.png" data-original-src="https://upload.acmicpc.net/e70f41ad-24ff-40e3-91f9-ce8643e6615a/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 247px; height: 358px; float: right; margin-left:10px;" />Captchas are getting more and more elaborate. It started with doing simple calculations like $7 + 2$, and now, it has evolved into having to distinguish chihuahuas from double chocolate chip muffins.</p>
 
 <p>To combat the rise of smarter bots, the Internet Captcha Production Company (ICPC) has outdone itself this time: given a distorted image containing many integers, find the maximum value that can be expressed using each of the given integers exactly once, using addition, multiplication, and arbitrary parentheses.</p>
 

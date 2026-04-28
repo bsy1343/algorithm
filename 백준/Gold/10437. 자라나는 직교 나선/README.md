@@ -18,7 +18,7 @@
 
 <p>자라나는 직교 나선이란 원점에서 출발하여 연속적으로 돌아가는 나선이다. 첫 부분은 항상 오른쪽으로 출발하며(양의 X축 방향), 그 다음 부분은 위로(양의 Y축 방향), 그 다음은 왼쪽으로(음의 X축 방향), 그 다음은 아래로(음의 Y축 방향) 진행한다. 단, 나선의 각 부분은 바로 이전의 부분보다 1 이상 증가한 길이를 가져야 한다. 첫 부분의 길이는 1 이상인 어떤 자연수라도 가능하다. 아래는 1,2,4,6,7,9,11,12,15,20의 길이로 자라나는 직교 나선의 예시이다.</p>
 
-<p style="text-align: center;"><img src="https://www.acmicpc.net/upload/images2/spiral.png" /></p>
+<p style="text-align: center;"><img src="%EB%B0%B1%EC%A4%80/Gold/10437.%E2%80%85%EC%9E%90%EB%9D%BC%EB%82%98%EB%8A%94%E2%80%85%EC%A7%81%EA%B5%90%E2%80%85%EB%82%98%EC%84%A0/c8e6c6af.png" data-original-src="https://www.acmicpc.net/upload/images2/spiral.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>1사분면의 어떤 점 (x,y)가 주어졌을 때, 직교 나선이 자라나서 그 점에 도달할 수 있을까? 있다면 어떤 방법으로 자라나는 것이 최소의 총합 길이를 가질까?</p>
 

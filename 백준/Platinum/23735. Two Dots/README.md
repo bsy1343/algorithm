@@ -26,7 +26,7 @@
 
 <p>Help Yunee write a program to determine whether it is possible to solve a given problem.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/242d1a31-dc0a-4604-9d3a-7f12afc19037/" style="max-width: 100%; width: 600px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/23735.%E2%80%85Two%E2%80%85Dots/881c0f5a.png" data-original-src="https://upload.acmicpc.net/242d1a31-dc0a-4604-9d3a-7f12afc19037/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="max-width: 100%; width: 600px;" /></p>
 
 ### 입력
 

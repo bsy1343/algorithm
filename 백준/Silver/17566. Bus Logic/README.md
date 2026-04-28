@@ -20,7 +20,7 @@
 
 <p>Max&rsquo;s idea of a good time is a visit to a spot that takes exactly one bus journey to get to. He is considering moving house to be near to one specific spot along his favourite bus route&mdash;how many such other scenic spots can he reach from there (assuming that on a given trip he can choose a new bus route each time)?</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/88169d21-0b5e-4acd-97e3-ceebab42baeb/-/preview/" style="width: 193px; height: 200px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/17566.%E2%80%85Bus%E2%80%85Logic/1f602db4.png" data-original-src="https://upload.acmicpc.net/88169d21-0b5e-4acd-97e3-ceebab42baeb/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 193px; height: 200px;" /></p>
 
 <p style="text-align: center;">Figure B.1: A bus route map illustrating Sample Input 1. Max, as usual, is drawn as a white dot in the centre of each bus stop he can start from.</p>
 

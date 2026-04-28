@@ -26,7 +26,7 @@
 
 <p>욱제는 효빈이가 학교를 떠나지 못하도록 심술부릴 작정이다. 욱제는 총 $Q$번에 걸쳐 어떤 $i$번째 소를 선택할 것이다. 그러고는 $A_i$가 적힌 스티커를 떼어내고, $A_i \times -1$이 적힌 스티커를 붙일 작정이다. 그러면 효빈이는 $Q$번에 걸쳐서 $S$를 다시 계산해야 한다. 한 번 바꾼 스티커는 다음에 또 다시 바꾸지 않는 이상 계속 유지된다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/46d9d347-cbae-4650-a391-b7c702663b10/-/crop/1456x1291/0,54/-/preview/" style="height: 399px; width: 450px;" /> <img alt="" src="https://upload.acmicpc.net/01e9c0fd-90d8-4843-85e1-0d182a21deec/-/crop/1471x1293/0,79/-/preview/" style="height: 396px; width: 450px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/17128.%E2%80%85%EC%86%8C%EA%B0%80%E2%80%85%EC%A0%95%EB%B3%B4%EC%84%AC%EC%97%90%E2%80%85%EC%98%AC%EB%9D%BC%EC%98%A8%E2%80%85%EC%9D%B4%EC%9C%A0/8f7125a5.png" data-original-src="https://upload.acmicpc.net/46d9d347-cbae-4650-a391-b7c702663b10/-/crop/1456x1291/0,54/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 399px; width: 450px;" /> <img alt="" src="%EB%B0%B1%EC%A4%80/Silver/17128.%E2%80%85%EC%86%8C%EA%B0%80%E2%80%85%EC%A0%95%EB%B3%B4%EC%84%AC%EC%97%90%E2%80%85%EC%98%AC%EB%9D%BC%EC%98%A8%E2%80%85%EC%9D%B4%EC%9C%A0/11a87f44.png" data-original-src="https://upload.acmicpc.net/01e9c0fd-90d8-4843-85e1-0d182a21deec/-/crop/1471x1293/0,79/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 396px; width: 450px;" /></p>
 
 <p>효빈이의 절친인 당신은 악동 욱제에게 괴롭힘 받는 효빈이를 도와 주기로 했다. 효빈이를 도와 $S$를 계산해 보자!</p>
 

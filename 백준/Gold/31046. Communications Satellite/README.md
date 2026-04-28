@@ -42,6 +42,6 @@
 
 ### 힌트
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/7bae1d3c-c238-4fb7-a82e-1d5ca1c899c0/-/preview/" style="width: 200px; height: 183px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/31046.%E2%80%85Communications%E2%80%85Satellite/edcddec3.png" data-original-src="https://upload.acmicpc.net/7bae1d3c-c238-4fb7-a82e-1d5ca1c899c0/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 200px; height: 183px;" /></p>
 
 <p style="text-align: center;">Illustration of the sample input solution (beams in blue).</p>

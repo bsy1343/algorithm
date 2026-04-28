@@ -20,7 +20,7 @@
 
 <p><strong><em>그리고 그의 이름은 존 시나!!!!</em></strong></p>
 
-<p><img alt="CENA.png" src="https://upload.acmicpc.net/0a735ed4-7f4a-4536-8ec0-35ae4611fbf5/-/preview/" /></p>
+<p><img alt="CENA.png" src="%EB%B0%B1%EC%A4%80/Platinum/12516.%E2%80%85%EC%B1%94%ED%94%BC%EC%96%B8%EC%86%8C%ED%8A%B8%E2%80%85(Large)/b408203e.png" data-original-src="https://upload.acmicpc.net/0a735ed4-7f4a-4536-8ec0-35ae4611fbf5/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>알고리즘 전문이 아닌 존 시나는 자신만의 방법으로 수를 정렬하려고 한다. 존 시나가 정렬할 배열에는 1부터 N까지의 자연수가 하나씩 들어있다. 우선 존 시나는 배열 안에서 몇 개의 원소를 골라 &quot;You can&#39;t see me&quot;라고 발언한다. 그 후 선택한 원소에 동시에 파이브 너클 셔플을 날린다. 그러면 선택한 원소들이 큰 대미지를 입으며 순서가 무작위로 섞이게 된다.</p>
 

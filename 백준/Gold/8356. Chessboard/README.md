@@ -55,6 +55,6 @@
 
 ### 힌트
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/39dc50fd-a932-402b-aa02-c20e4aeec0ee/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/8356.%E2%80%85Chessboard/a8f585a0.png" data-original-src="https://upload.acmicpc.net/39dc50fd-a932-402b-aa02-c20e4aeec0ee/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p style="text-align: center;">The image above represents the chessboard from the sample input. Lines of different style represent positions being captured by chessmen. The possible destinations of the knight are represented by big dots.</p>

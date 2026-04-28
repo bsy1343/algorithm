@@ -18,7 +18,7 @@
 
 <p>Bob은 2차원 격자무늬 평면에 색종이와 블록을 올려놓고 재미있는 놀이를 하고 있다. 각 블록의 크기는 1x1로 모두 동일하며, 같은 위치에 블록을 여럿 쌓을 수도 있다. 조금 더 구체적으로, $N$개의 블록이 있을 때 $i$ 번째 블록의 위치는 $(x_i, y_i)$ 라 하자. 이 문제의 예제에서 좌측 상단이 (1, 1) 이며 좌-우가 $x$축이다. 가령 아래 그림에서 좌측 상단의 경우 1번 블록은 (2, 2) 위치에 있고 3번 블록은 (4, 3) 위치에 있다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/2102828a-2f99-4281-a00f-669e9263cd74/-/preview/" style="height: 404px; width: 600px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/27898.%E2%80%852%EC%B0%A8%EC%9B%90%E2%80%85%EC%A2%85%EC%9D%B4%E2%80%85%EB%86%80%EC%9D%B4/ef273690.png" data-original-src="https://upload.acmicpc.net/2102828a-2f99-4281-a00f-669e9263cd74/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 404px; width: 600px;" /></p>
 
 <p>Bob은 또한 $M$ 장의 색종이를 갖고 있는데 $j$ 번째 색종이의 크기는 가로 $w_j$ 칸 세로 $h_j$ 칸 이며, 이 문제에서는 색종이를 회전하지 않는다고 하자.</p>
 

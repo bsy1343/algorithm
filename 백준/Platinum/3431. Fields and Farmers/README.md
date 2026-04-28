@@ -28,7 +28,7 @@
 
 <p>Of course, the parcel may only increase by implementing the operation above, so each farmer makes sure these steps are repeated till the farming parcel does not change; we call such a parcel final. An example is depicted below. The initial farming parcel consists of four fields (figure A), after one iteration it grows (figure B), and after another one it becomes final (figure C).</p>
 
-<p><img alt="" src="/upload/images2/field.png" style="height:126px; width:553px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/3431.%E2%80%85Fields%E2%80%85and%E2%80%85Farmers/9e258eff.png" data-original-src="https://www.acmicpc.net/upload/images2/field.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:126px; width:553px" /></p>
 
 <p>It appears, however, that the final farming parcel would sometimes be the same even if the farmer did not buy all the initial fields but just a subset of them. A subset of this property is called valid. The farmer wants to know in how many ways he may choose a valid subset of initial fields.</p>
 

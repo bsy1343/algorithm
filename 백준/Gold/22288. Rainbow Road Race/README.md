@@ -20,7 +20,7 @@
 
 <p>The race starts at the <em>Festival Tent</em>. The goal of the race is to get covered by chalk of every color and come back to the tent. Help Marcy determine the shortest distance she has to travel to get every color and make it back to the tent.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/678132ad-8444-404f-955a-8305739923bb/-/preview/" style="width: 445px; height: 203px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/22288.%E2%80%85Rainbow%E2%80%85Road%E2%80%85Race/bd94bd8b.png" data-original-src="https://upload.acmicpc.net/678132ad-8444-404f-955a-8305739923bb/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 445px; height: 203px;" /></p>
 
 <p style="text-align: center;">Figure J.1:&nbsp;The left picture illustrates Sample Input 1 and the right picture illustrates Sample Input 2. The triangle is the Festival Tent.</p>
 

@@ -50,7 +50,7 @@
 
 <p>Wyjaśnienie przykładu: Poniższy rysunek obrazuje sieć drogą Bajtogrodu z testu przykładowego. K&oacute;łka oznaczają skrzyżowania, liczby wewnątrz k&oacute;łek to ich numery. Kreski oznaczają drogi, a liczby przy nich napisane oznaczają czas przejazdu daną drogą. Trasa przejazdu autobusu linii 1 jest oznaczona kolorem czerwonym, natomiast trasa autobusu linii 2 &ndash; kolorem niebieskim.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/e82ac8e5-74ef-42f6-bd2a-f8075e0d42e1/-/preview/" style="width: 186px; height: 100px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/26801.%E2%80%85Droga%E2%80%85do%E2%80%85domu/ed9107fe.png" data-original-src="https://upload.acmicpc.net/e82ac8e5-74ef-42f6-bd2a-f8075e0d42e1/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 186px; height: 100px;" /></p>
 
 <p>Bajtek wychodzi ze szkoły w minucie t = 1, czeka na autobus linii 2, kt&oacute;ry przyjeżdża w minucie 2, jedzie nim do skrzyżowania numer 3, tam przesiada się w minucie 6 na autobus linii 1, kt&oacute;ry przyjeżdża do jego domu w minucie 8.</p>
 

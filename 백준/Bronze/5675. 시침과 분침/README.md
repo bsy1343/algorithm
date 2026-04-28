@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/5675.%E2%80%85%EC%8B%9C%EC%B9%A8%EA%B3%BC%E2%80%85%EB%B6%84%EC%B9%A8/b3ea0c47.png" data-original-src="https://www.acmicpc.net/upload/images/clock.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="float:right; height:158px; width:179px" />상근이 방에 걸려있는 시계는 완벽한 원 모양이다. 시계에는 시침과 분침이 원의 중심을 기준으로 돌아가고 있다. 시침은 시를 나타내고, 분침은 분을 나타낸다. 시계에는 60개의 눈금이 지름을 따라서 표시되어 있다. 눈금과 눈금 사이의 거리는 모두 같다.</p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/5675.%E2%80%85%EC%8B%9C%EC%B9%A8%EA%B3%BC%E2%80%85%EB%B6%84%EC%B9%A8/b3ea0c47.png" data-original-src="%EB%B0%B1%EC%A4%80/Bronze/5675.%E2%80%85%EC%8B%9C%EC%B9%A8%EA%B3%BC%E2%80%85%EB%B6%84%EC%B9%A8/b3ea0c47.png" data-original-src="https://www.acmicpc.net/upload/images/clock.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="float:right; height:158px; width:179px" />상근이 방에 걸려있는 시계는 완벽한 원 모양이다. 시계에는 시침과 분침이 원의 중심을 기준으로 돌아가고 있다. 시침은 시를 나타내고, 분침은 분을 나타낸다. 시계에는 60개의 눈금이 지름을 따라서 표시되어 있다. 눈금과 눈금 사이의 거리는 모두 같다.</p>
 
 <p>분침은 1분에 한 번씩 다음 눈금으로 이동한다. 시침은 12분에 한 번식 다음 눈금으로 이동한다. 즉, 1시간이 지나면 다섯 눈금을 이동하게 된다. 이 시계는 시나 분이 바뀌는 순간 즉시 다음 눈금으로 이동한다. 즉, 시침과 분침은 항상 눈금을 가리키고 있으며, 그 사이를 가리키는 경우는 없다.</p>
 

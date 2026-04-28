@@ -39,7 +39,7 @@
 	</li>
 </ol>
 
-<p><img alt="" src="/upload/images/asd.gif" style="height:758px; width:300px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/2654.%E2%80%85%EC%97%B0%EA%B2%B0%E2%80%85%EC%82%AC%EA%B0%81%ED%98%95/2e9fb00e.gif" data-original-src="https://www.acmicpc.net/upload/images/asd.gif" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:758px; width:300px" /></p>
 
 <p>위의 조건을 만족시키면서 가장 높은 점수를 얻도록 하는 프로그램을 작성하시오.</p>
 

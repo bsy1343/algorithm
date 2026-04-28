@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p><img alt="" src="https://upload.acmicpc.net/59b1e82c-b367-46b2-a6f9-7350c5a4619f/-/preview/" style="width: 150px; height: 178px; float: right;" />A <em>Ghost Leg</em> is a method for representing permutations.</p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/27387.%E2%80%85Ghost%E2%80%85Leg/027c1cc8.png" data-original-src="https://upload.acmicpc.net/59b1e82c-b367-46b2-a6f9-7350c5a4619f/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 150px; height: 178px; float: right;" />A <em>Ghost Leg</em> is a method for representing permutations.</p>
 
 <p>A Ghost Leg can be represented as a set of vertical lines, each line corresponding to one element of the set being permuted. Horizontal lines (like the rungs of a ladder) connect adjacent vertical lines in such a way that no two rungs share an endpoint. An example is shown in the illustration to the right.</p>
 

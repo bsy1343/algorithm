@@ -26,7 +26,7 @@
 
 <p>다음은 영 다이어그램의 예시이다.</p>
 
-<p style="text-align:center"><img alt="" src="/upload/images2/dnt1.png" style="height:77px; line-height:20.8px; opacity:0.9; text-align:center; width:356px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/9646.%E2%80%85%EB%8B%A4%EC%9D%B4%EC%96%B4%EA%B7%B8%EB%9E%A8%EA%B3%BC%E2%80%85%ED%83%9C%EB%B8%94%EB%A1%9C/75909f80.png" data-original-src="https://www.acmicpc.net/upload/images2/dnt1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:77px; line-height:20.8px; opacity:0.9; text-align:center; width:356px" /></p>
 
 <p>영 태블로는 영 다이어그램에 아래와 같은 조건을 지키면서 수를 채운 것이다.</p>
 
@@ -38,7 +38,7 @@
 
 <p>N = 3인 경우 아래 그림은 가능한 영 태블로의 예시이다.</p>
 
-<p style="text-align:center"><img alt="" src="/upload/images2/dnt2.png" style="height:62px; line-height:20.8px; opacity:0.9; text-align:center; width:451px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/9646.%E2%80%85%EB%8B%A4%EC%9D%B4%EC%96%B4%EA%B7%B8%EB%9E%A8%EA%B3%BC%E2%80%85%ED%83%9C%EB%B8%94%EB%A1%9C/e3d690f2.png" data-original-src="https://www.acmicpc.net/upload/images2/dnt2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:62px; line-height:20.8px; opacity:0.9; text-align:center; width:451px" /></p>
 
 <p>N과 영 다이어그램의 형태가 주어졌을 때, 영 태블로를 만드는 방법의 수를 구하는 프로그램을 작성하시오.</p>
 

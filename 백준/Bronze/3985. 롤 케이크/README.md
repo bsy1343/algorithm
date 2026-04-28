@@ -28,7 +28,7 @@
 
 <p>아래 그림은 이 문제의 예제를 나타낸 것이다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/3985.%E2%80%85%EB%A1%A4%E2%80%85%EC%BC%80%EC%9D%B4%ED%81%AC/72b9f7fb.png" data-original-src="https://upload.acmicpc.net/6807aea1-d6c6-4ab4-9850-baf9d53859a1/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 284px; height: 50px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/3985.%E2%80%85%EB%A1%A4%E2%80%85%EC%BC%80%EC%9D%B4%ED%81%AC/72b9f7fb.png" data-original-src="%EB%B0%B1%EC%A4%80/Bronze/3985.%E2%80%85%EB%A1%A4%E2%80%85%EC%BC%80%EC%9D%B4%ED%81%AC/72b9f7fb.png" data-original-src="https://upload.acmicpc.net/6807aea1-d6c6-4ab4-9850-baf9d53859a1/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 284px; height: 50px;" /></p>
 
 <p>가장 많은 케이크 조각을 받을 것으로 기대한 방청객의 번호와 실제로 가장 많은 케이크 조각을 받는 방청객의 번호를 구하는 프로그램을 작성하시오.</p>
 

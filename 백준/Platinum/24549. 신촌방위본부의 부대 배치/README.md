@@ -16,15 +16,15 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/6e1ace4a-fb78-4822-9a0e-09ceb9b02505/" style="width: 400px; height: 400px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/24549.%E2%80%85%EC%8B%A0%EC%B4%8C%EB%B0%A9%EC%9C%84%EB%B3%B8%EB%B6%80%EC%9D%98%E2%80%85%EB%B6%80%EB%8C%80%E2%80%85%EB%B0%B0%EC%B9%98/64ba471d.png" data-original-src="https://upload.acmicpc.net/6e1ace4a-fb78-4822-9a0e-09ceb9b02505/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 400px; height: 400px;" /></p>
 
 <p>2021년 8월 21일. 2021 ICPC Sinchon Summer Algorithm Camp Contest가 진행되던 중 정체불명의 조직으로부터 공격받았다. 신촌방위본부는 이를 인명피해 없이 막아내고 정체불명의 조직의 은거지를 찾아내는 큰 공을 세웠다.&nbsp;</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/a57b5a02-abc3-4bb0-a1c1-6720ceabc63f/" style="width: 400px; height: 400px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/24549.%E2%80%85%EC%8B%A0%EC%B4%8C%EB%B0%A9%EC%9C%84%EB%B3%B8%EB%B6%80%EC%9D%98%E2%80%85%EB%B6%80%EB%8C%80%E2%80%85%EB%B0%B0%EC%B9%98/1eab8e5e.png" data-original-src="https://upload.acmicpc.net/a57b5a02-abc3-4bb0-a1c1-6720ceabc63f/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 400px; height: 400px;" /></p>
 
 <p>ICPC Sinchon 연합은 찾아낸 은거지로 총공격을 준비하던 중에&nbsp;무수히 많은 코끼리를 투입하기로 결정했다. 이제 코끼리와 신촌 연합 병사들과 함께 적들의 은거지로 총공격을 가하기 이전에 안정적인 부대 진형을 갖추려고 한다. 다만 이미 짠 부대 진형을 엎고&nbsp;처음부터 다시 부대 진형을 짤 시간이 없다. 따라서 기존에 배치한 병사들의 위치는 그대로 놔두고 빈자리에 코끼리를 배치하려고 한다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/04c26fac-42ed-4ff6-9386-16b53afc5e5b/" style="width: 500px; height: 317px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/24549.%E2%80%85%EC%8B%A0%EC%B4%8C%EB%B0%A9%EC%9C%84%EB%B3%B8%EB%B6%80%EC%9D%98%E2%80%85%EB%B6%80%EB%8C%80%E2%80%85%EB%B0%B0%EC%B9%98/3f854006.png" data-original-src="https://upload.acmicpc.net/04c26fac-42ed-4ff6-9386-16b53afc5e5b/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 500px; height: 317px;" /></p>
 
 <p>부대의 진형은 $N \times M$ 격자로 구성되어 있으며, 가장 왼쪽 아래 칸이 $(1,1)$, 가장 왼쪽 위&nbsp;칸이 $(1,M)$, 가장 오른쪽 아래 칸이 $(N,1)$, 가장 오른쪽 위&nbsp;칸이 $(N,M)$이다. 코끼리는 그림과 같이 앞으로 한 칸, 대각선으로 두 칸 떨어진 지점을 공격한다.&nbsp;그리고 병사는 위의 한 칸, 좌우 한 칸 공격할 수 있다. 코끼리가 공격할 때 해당 코끼리의&nbsp;공격&nbsp;지점에&nbsp;있는 병사들과 코끼리를 다치게 할 수 있기 때문에 해당 지점에 병사와 코끼리를 배치할 수 없다.&nbsp;병사들의 공격 지점에 있는 코끼리 또한 다칠 수 있기에 해당 지점에 코끼리를 배치할 수 없다.</p>
 

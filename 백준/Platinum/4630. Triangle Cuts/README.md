@@ -19,12 +19,12 @@
 <table class="table table-bordered">
 	<tbody>
 		<tr>
-			<td style="text-align:center"><img alt="Tri 1" src="/upload/images2/f1.gif" style="height:122px; width:175px" /></td>
-			<td style="text-align:center; vertical-align:middle"><img alt="Tri 2" src="/upload/images2/f2.gif" style="height:149px; width:248px" /></td>
-			<td style="text-align:center; vertical-align:top"><img alt="Tri 3" src="/upload/images2/f3.gif" style="height:145px; width:173px" /></td>
+			<td style="text-align:center"><img alt="Tri 1" src="%EB%B0%B1%EC%A4%80/Platinum/4630.%E2%80%85Triangle%E2%80%85Cuts/82eb6a51.gif" data-original-src="https://www.acmicpc.net/upload/images2/f1.gif" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:122px; width:175px" /></td>
+			<td style="text-align:center; vertical-align:middle"><img alt="Tri 2" src="%EB%B0%B1%EC%A4%80/Platinum/4630.%E2%80%85Triangle%E2%80%85Cuts/56fd343a.gif" data-original-src="https://www.acmicpc.net/upload/images2/f2.gif" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:149px; width:248px" /></td>
+			<td style="text-align:center; vertical-align:top"><img alt="Tri 3" src="%EB%B0%B1%EC%A4%80/Platinum/4630.%E2%80%85Triangle%E2%80%85Cuts/458382fb.gif" data-original-src="https://www.acmicpc.net/upload/images2/f3.gif" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:145px; width:173px" /></td>
 			<td style="text-align:center; vertical-align:top"><strong>Disallowed&nbsp; Pattern</strong><br />
 			<br />
-			<img alt="Tri 4" src="/upload/images2/f4.gif" style="height:88px; width:164px" /></td>
+			<img alt="Tri 4" src="%EB%B0%B1%EC%A4%80/Platinum/4630.%E2%80%85Triangle%E2%80%85Cuts/70d7c2fd.gif" data-original-src="https://www.acmicpc.net/upload/images2/f4.gif" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:88px; width:164px" /></td>
 		</tr>
 		<tr>
 			<td style="text-align:center">Figure 1</td>

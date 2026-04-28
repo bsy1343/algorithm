@@ -22,7 +22,7 @@
 
 <p>Međutim, svaki diplomatski posjet rezultira glomaznom gužvom na nekom pravokutnom području grada. Sve ceste koje se nalaze strogo unutar tog područja jednako su zahvaćene gužvom, a njihova prohodnost (vrijeme prolaska bloka) ovisi o važnosti tog specifičnog diplomatskog posjeta. Dakako, vi&scaron;e se diplomatskih posjeta može događati istovremeno, ali niti jedna dva pravokutna područja nikad se ne sijeku niti diraju.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/96204aab-535b-458e-8abf-cbe91bf2b7c5/-/preview/" style="width: 411px; height: 269px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/26299.%E2%80%85Glomazna%E2%80%85Gu%C5%BEva/f735fccd.png" data-original-src="https://upload.acmicpc.net/96204aab-535b-458e-8abf-cbe91bf2b7c5/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 411px; height: 269px;" /></p>
 
 <p>Za dano stanje u prometu u gradu Zagrebu, odredite najkraće vrijeme potrebno da se proputuje od zadanog početnog do zadanog zavr&scaron;nog križanja.</p>
 

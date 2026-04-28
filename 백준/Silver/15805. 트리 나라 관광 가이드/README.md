@@ -18,7 +18,7 @@
 
 <p>윤호는 K개의 도시들이 트리 형태로 연결되어 있는 트리 나라의 관광 가이드이다. 윤호가 새롭게 맡게 된 패키지는 트리 나라의 루트 도시에서 시작해서 모든 도시를 순회하고 오는 상품이다. 이 상품은 컨셉만 결정된 상태이기 때문에 어떤 도시들을 방문할 지는 윤호가 결정할 수 있다. 윤호는 게임 폐인이기 때문에 빠르게 일을 끝내고 보틀 그라운드를 하러 가고 싶다. 그래서 방문할 도시를 최소한으로 하는 패키지 상품을 짜서 투어를 진행해왔다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15805/1.png" style="width: 434px; height: 256px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/15805.%E2%80%85%ED%8A%B8%EB%A6%AC%E2%80%85%EB%82%98%EB%9D%BC%E2%80%85%EA%B4%80%EA%B4%91%E2%80%85%EA%B0%80%EC%9D%B4%EB%93%9C/37e1c58c.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15805/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 434px; height: 256px;" /></p>
 
 <p>위와 같은 트리 나라가 있다고 해보자. 이 트리 나라의 경우에는 루트 도시가 0번이다. 따라서 위와 같은 트리 나라에서 윤호가 패키지를 짤 경우 그 중 하나는 아래와 같을 것이다.</p>
 

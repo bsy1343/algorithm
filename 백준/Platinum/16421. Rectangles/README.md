@@ -18,7 +18,7 @@
 
 <p>You are working on a new graphics system, which has added a new feature. Whenever you draw a figure, all the pixels in that figure flip from white to black, or from black to white. This image is what happens when three overlapping rectangles are drawn on a white field:</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/88a890d7-e4a9-4db3-aac2-f9f503997c22/-/preview/" style="width: 204px; height: 124px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/16421.%E2%80%85Rectangles/9b6538a8.png" data-original-src="https://upload.acmicpc.net/88a890d7-e4a9-4db3-aac2-f9f503997c22/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 204px; height: 124px;" /></p>
 
 <p>Starting with a white field, given a series of axis-aligned rectangles, how many pixels end up black?</p>
 

@@ -57,13 +57,13 @@
 
 <p><strong>나이트</strong>, <strong>비숍</strong>, <strong>룩</strong>이 한번의 이동으로 도달할 수 있는 칸은 각각 다음과 같다.</p>
 
-<p><img alt="" src="https://upload.acmicpc.net/6c3ac847-3c5a-432c-b9ce-b60b64dac98d/-/preview/" style="width: 301px; height: 300px;" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/20549.%E2%80%85%EC%9D%B8%EB%8D%95%EC%9D%B4%EC%9D%98%E2%80%85%EA%B3%A0%EB%AF%BC/c1ad8657.png" data-original-src="https://upload.acmicpc.net/6c3ac847-3c5a-432c-b9ce-b60b64dac98d/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 301px; height: 300px;" /></p>
 
 <p><br />
-<img alt="" src="https://upload.acmicpc.net/cef86704-40b4-4df2-aa49-1e7beed434e2/-/preview/" style="height: 300px; width: 300px;" /></p>
+<img alt="" src="%EB%B0%B1%EC%A4%80/Gold/20549.%E2%80%85%EC%9D%B8%EB%8D%95%EC%9D%B4%EC%9D%98%E2%80%85%EA%B3%A0%EB%AF%BC/535e0958.png" data-original-src="https://upload.acmicpc.net/cef86704-40b4-4df2-aa49-1e7beed434e2/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 300px; width: 300px;" /></p>
 
 <p><br />
-<img alt="" src="https://upload.acmicpc.net/75825a8c-6d71-4fa9-b1c3-b855b731e1fe/-/preview/" style="width: 300px; height: 300px;" /></p>
+<img alt="" src="%EB%B0%B1%EC%A4%80/Gold/20549.%E2%80%85%EC%9D%B8%EB%8D%95%EC%9D%B4%EC%9D%98%E2%80%85%EA%B3%A0%EB%AF%BC/84436068.png" data-original-src="https://upload.acmicpc.net/75825a8c-6d71-4fa9-b1c3-b855b731e1fe/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 300px; height: 300px;" /></p>
 
 <p>그림 출처 : 위키백과(<a href="https://ko.wikipedia.org/wiki/%EB%A3%A9_(%EC%B2%B4%EC%8A%A4)">https://ko.wikipedia.org/wiki/%EB%A3%A9_(%EC%B2%B4%EC%8A%A4)</a></p>
 

@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><img alt="" src="/upload/images2/salary.png" style="height:155px; width:173px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/10565.%E2%80%85Salary%E2%80%85Inequity/c2c1e9ad.png" data-original-src="https://www.acmicpc.net/upload/images2/salary.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:155px; width:173px" /></p>
 
 <p>There is a large company of N employees. With the exception of one employee, everyone has a direct supervisor. The employee with no direct supervisor is indirectly a supervisor of all other employees in the company. We say that employee X is a subordinate of employee Y if either Y is the direct supervisor of X, or the direct supervisor of X is a subordinate of Y .</p>
 

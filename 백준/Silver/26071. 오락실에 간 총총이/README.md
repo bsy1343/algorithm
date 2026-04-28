@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><img alt="곰곰 피규어를 생각하며 신나있는 총총이" src="https://upload.acmicpc.net/ccc56785-97d2-4857-b92e-cb8c96b035b8/-/preview/" style="max-height: 200px; object-fit:contain; display:inline-block;" /></p>
+<p style="text-align: center;"><img alt="곰곰 피규어를 생각하며 신나있는 총총이" src="%EB%B0%B1%EC%A4%80/Silver/26071.%E2%80%85%EC%98%A4%EB%9D%BD%EC%8B%A4%EC%97%90%E2%80%85%EA%B0%84%E2%80%85%EC%B4%9D%EC%B4%9D%EC%9D%B4/761fe7e2.png" data-original-src="https://upload.acmicpc.net/ccc56785-97d2-4857-b92e-cb8c96b035b8/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="max-height: 200px; object-fit:contain; display:inline-block;" /></p>
 
 <p>우연히 들리게 된 오락실에서, 총총이는 귀여운 곰곰이가 잔뜩 등장하는 게임을 발견했다.</p>
 

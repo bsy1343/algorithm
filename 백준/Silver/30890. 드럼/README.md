@@ -20,7 +20,7 @@
 
 <p>왼손과 오른손이 서로 다른 박자로 드럼을 연주하는 경우가 있다. 한 박자 동안 왼손이 $X$번, 오른손이 $Y$번 연주를 해야 한다면 왼손은 $1/X$박자마다, 오른손은 $1/Y$박자마다 연주한다. $X=2$, $Y=3$이면 그림과 같이 (오른손) / (왼손) / (오른손) / (왼손 + 오른손) 순으로 연주해야 한다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://u.acmicpc.net/2362c0de-5725-41b0-9679-747f5b68f279/drum.png" style="width: 837px; height: 250px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/30890.%E2%80%85%EB%93%9C%EB%9F%BC/8ee3b67f.png" data-original-src="https://u.acmicpc.net/2362c0de-5725-41b0-9679-747f5b68f279/drum.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 837px; height: 250px;" /></p>
 
 <p>영현이는 이러한 상황을 만나면 심각한 연주 불능 상태에 빠지고 만다. 불쌍한 영현이를 위해 어떤 순서로 드럼을 연주해야 하는지 알려주자.</p>
 

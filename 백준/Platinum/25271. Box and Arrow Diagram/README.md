@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/57e966ed-c98e-4b2d-a593-aab82edc24ff/-/preview/" style="width: 263px; height: 160px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/25271.%E2%80%85Box%E2%80%85and%E2%80%85Arrow%E2%80%85Diagram/942f28cb.png" data-original-src="https://upload.acmicpc.net/57e966ed-c98e-4b2d-a593-aab82edc24ff/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 263px; height: 160px;" /></p>
 
 <p style="text-align: center;">An example of a box and arrow diagram, taken from <a href="https://github.com/dicander/box_arrow_diagram">github.com/dicander/box_arrow_diagram</a></p>
 

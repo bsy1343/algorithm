@@ -22,7 +22,7 @@
 
 <p>Knowing the number of atoms $n$ determine which one of the villains survives the game.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/cab782bd-9d12-4933-80a1-954b33d11acc/-/preview/" style="width: 333px; height: 264px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/19253.%E2%80%85Don't%E2%80%85Split%E2%80%85The%E2%80%85Atom!/af4d475a.png" data-original-src="https://upload.acmicpc.net/cab782bd-9d12-4933-80a1-954b33d11acc/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 333px; height: 264px;" /></p>
 
 ### 입력
 

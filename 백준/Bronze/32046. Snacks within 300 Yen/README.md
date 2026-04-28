@@ -20,7 +20,7 @@
 
 <p>Given a list of the prices of the snacks in the store, compute how much money Greedy George will spend.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/295eae5a-541d-4eec-a48f-41625808e7a6/-/preview/" style="width: 512px; height: 205px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/32046.%E2%80%85Snacks%E2%80%85within%E2%80%85300%E2%80%85Yen/fa9a8caa.png" data-original-src="https://upload.acmicpc.net/295eae5a-541d-4eec-a48f-41625808e7a6/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 512px; height: 205px;" /></p>
 
 <p style="text-align: center;">Figure A-1: The first dataset of Sample Input</p>
 

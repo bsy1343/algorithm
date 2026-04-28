@@ -24,7 +24,7 @@
 
 <p>명랑한 아리가 쿠기와의 약속을 위해 집에서 학교로 갈 때, 집에서 학교로 가는 경로의 장소들에서 약속까지 남은 시간 동안 가장 많이 할 수 있는 일의 양을 구하자.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/c0f668e1-4cd6-4130-b91e-5c8d16f86471/-/preview/" width="500px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/25170.%E2%80%85%EB%AA%85%EB%9E%91%ED%95%9C%E2%80%85%EC%95%84%EB%A6%AC%EC%9D%98%E2%80%85%EC%99%B8%EC%B6%9C/f0a383c1.png" data-original-src="https://upload.acmicpc.net/c0f668e1-4cd6-4130-b91e-5c8d16f86471/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" width="500px" /></p>
 
 ### 입력
 

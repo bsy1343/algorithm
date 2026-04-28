@@ -20,7 +20,7 @@
 
 <p>Figure 1 shows an example of the process. &nbsp;Here queue $A$ has three mine carts carrying loads $4$, $3$ and $2$, queue $B$ has four mine carts carrying loads $1$, $5$, $2$ and $2$, and the train has three cars with capacities $8$, $5$ and $4$. &nbsp;The starting setup is shown in the leftmost image. &nbsp;After (say) the first car in queue $A$ dumps its load into the first train car it goes back to the mine and (eventually) returns to the end of the line in queue $A$. &nbsp;This situation is shown in the second image, where &nbsp;the first train car still has capacity $4$ to be filled. &nbsp;This can be accomplished by dumping ore from the front car of both queues $A$ and $B$. Once filled, the first train car moves out of the loading station leaving an alignment of cars and carts shown in the third image. &nbsp;Here, the only way to fill the train car is for the front car of queue $B$ to dump its load. &nbsp;This leads to the final image. &nbsp;Here the last train car can be filled either by the front cars of both queues or the first two cars of queue $B$. &nbsp;Note that if the third train car had capacity $3$ it could not be filled to full capacity.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/584d4609-39a6-4512-9b67-0753b981e97b/-/preview/" style="width: 809px; height: 188px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/21153.%E2%80%85Oreperations%E2%80%85Research/b4aca991.png" data-original-src="https://upload.acmicpc.net/584d4609-39a6-4512-9b67-0753b981e97b/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 809px; height: 188px;" /></p>
 
 <p style="text-align: center;">Figure 1:&nbsp;Sample Input $1$</p>
 

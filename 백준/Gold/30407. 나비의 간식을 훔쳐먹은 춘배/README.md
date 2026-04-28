@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/615d1ace-c9b7-4d7f-ae2a-1cd6d0cb90fe/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/30407.%E2%80%85%EB%82%98%EB%B9%84%EC%9D%98%E2%80%85%EA%B0%84%EC%8B%9D%EC%9D%84%E2%80%85%ED%9B%94%EC%B3%90%EB%A8%B9%EC%9D%80%E2%80%85%EC%B6%98%EB%B0%B0/134e93b0.png" data-original-src="https://upload.acmicpc.net/615d1ace-c9b7-4d7f-ae2a-1cd6d0cb90fe/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>춘배가 나비의 간식을 뺏어 먹고 도망가자 화난 나비는 냥냥펀치를 날리려 한다. </p>
 
@@ -27,9 +27,9 @@
 <table align="center" border="1" cellpadding="1" cellspacing="1" class="table table-bordered" style="width: 500px;">
 	<tbody>
 		<tr>
-			<td style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/6d08a486-8bd2-4952-9b57-f4d1d3258873/-/preview/" /></td>
-			<td style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/600456a1-4c88-49a0-a381-fe50d672fb64/-/preview/" /></td>
-			<td style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/ceb2aa77-d110-438a-a481-560787fe08c4/-/preview/" /></td>
+			<td style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/30407.%E2%80%85%EB%82%98%EB%B9%84%EC%9D%98%E2%80%85%EA%B0%84%EC%8B%9D%EC%9D%84%E2%80%85%ED%9B%94%EC%B3%90%EB%A8%B9%EC%9D%80%E2%80%85%EC%B6%98%EB%B0%B0/d4e70a0a.png" data-original-src="https://upload.acmicpc.net/6d08a486-8bd2-4952-9b57-f4d1d3258873/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></td>
+			<td style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/30407.%E2%80%85%EB%82%98%EB%B9%84%EC%9D%98%E2%80%85%EA%B0%84%EC%8B%9D%EC%9D%84%E2%80%85%ED%9B%94%EC%B3%90%EB%A8%B9%EC%9D%80%E2%80%85%EC%B6%98%EB%B0%B0/f85fe8bb.png" data-original-src="https://upload.acmicpc.net/600456a1-4c88-49a0-a381-fe50d672fb64/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></td>
+			<td style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/30407.%E2%80%85%EB%82%98%EB%B9%84%EC%9D%98%E2%80%85%EA%B0%84%EC%8B%9D%EC%9D%84%E2%80%85%ED%9B%94%EC%B3%90%EB%A8%B9%EC%9D%80%E2%80%85%EC%B6%98%EB%B0%B0/610d8cce.png" data-original-src="https://upload.acmicpc.net/ceb2aa77-d110-438a-a481-560787fe08c4/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></td>
 		</tr>
 		<tr>
 			<td style="text-align: center;">웅크리기</td>

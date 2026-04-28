@@ -26,7 +26,7 @@
 
 <p>For example:</p>
 
-<p><img alt="" src="https://onlinejudgeimages.s3.amazonaws.com/problem/1811/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202017-01-12%20%EC%98%A4%EC%A0%84%208.37.55.png" style="height:153px; width:325px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/1811.%E2%80%85Adjacent%E2%80%85Mastermind/3d26b551.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/1811/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202017-01-12%20%EC%98%A4%EC%A0%84%208.37.55.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:153px; width:325px" /></p>
 
 <p>In guess 1, only the A in slot 1 contributes to the score, since only one peg may match the target A and this one is the best match. Similarly in guess 3 only the B in slot 3 scores, and similarly only one of the Cs in guess 4 scores. Finally in guess 5, only one of the As counts as white, because there is only one target A available.</p>
 

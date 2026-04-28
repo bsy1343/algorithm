@@ -37,9 +37,9 @@
 <table class="table" style="width:100%">
 	<tbody>
 		<tr>
-			<td style="text-align:center; width:33%"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15387/1.png" style="height:200px; width:196px" /></td>
-			<td style="text-align:center; width:34%"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15387/2.png" style="height:207px; width:285px" /></td>
-			<td style="text-align:center; width:33%"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15387/3.png" style="height:181px; width:299px" /></td>
+			<td style="text-align:center; width:33%"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/15387.%E2%80%85Go%E2%80%85Go%E2%80%85Go%E2%80%85Special%E2%80%85Action%E2%80%85Force!/33bcf6f0.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15387/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:200px; width:196px" /></td>
+			<td style="text-align:center; width:34%"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/15387.%E2%80%85Go%E2%80%85Go%E2%80%85Go%E2%80%85Special%E2%80%85Action%E2%80%85Force!/439ec6ce.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15387/2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:207px; width:285px" /></td>
+			<td style="text-align:center; width:33%"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/15387.%E2%80%85Go%E2%80%85Go%E2%80%85Go%E2%80%85Special%E2%80%85Action%E2%80%85Force!/76e3e390.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15387/3.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:181px; width:299px" /></td>
 		</tr>
 		<tr>
 			<td style="text-align:center; width:33%">Figure 1: Infiltrate</td>

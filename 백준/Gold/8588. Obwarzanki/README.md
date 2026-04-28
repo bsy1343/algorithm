@@ -28,7 +28,7 @@
 
 <p>W $n$&nbsp;następnych wierszach znajdują się opisy kolejnych obwarzank&oacute;w nawleczonych na patyk, począwszy od lewej strony. Każdy z tych wierszy zawiera dwie liczby całkowite $w_i$&nbsp;oraz $z_i$&nbsp;($1 &le; w_i &lt; z_i &le; 1\,000\,000\,000$) oddzielone pojedynczym odstępem, oznaczające odpowiednio średnicę wewnętrzną oraz średnicę zewnętrzną $i$-tego obwarzanka.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/798fd759-a392-4d36-86b6-c7e0240af1f9/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/8588.%E2%80%85Obwarzanki/07f4de0d.png" data-original-src="https://upload.acmicpc.net/798fd759-a392-4d36-86b6-c7e0240af1f9/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 ### 출력
 

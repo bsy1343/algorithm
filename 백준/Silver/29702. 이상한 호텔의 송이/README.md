@@ -20,7 +20,7 @@
 
 <p>다음 그림은 이 호텔의 $1$층부터 $3$층 사이에 존재하는 방과 계단을 나타낸 것이다. 그림에서 직사각형으로 표현된 노드는 방이고 방과 방을 잇는 선은 계단을 의미한다. 직사각형 안에 쓰여있는 수는 그 방의 호수이다. 또, 파란색 사각형 안의 수는 호텔에 있는 모든 방을 호수를 기준으로 오름차순 정렬했을 때 몇 번째로 오는지를 나타내는 수이다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/6574830d-a725-42f2-b4dd-7f2e20cc0995/-/preview/" style="max-width: 100%;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/29702.%E2%80%85%EC%9D%B4%EC%83%81%ED%95%9C%E2%80%85%ED%98%B8%ED%85%94%EC%9D%98%E2%80%85%EC%86%A1%EC%9D%B4/5a27f45d.png" data-original-src="https://upload.acmicpc.net/6574830d-a725-42f2-b4dd-7f2e20cc0995/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="max-width: 100%;" /></p>
 
 <p>이 호텔은 특이하게도 가장 꼭대기 층이 $1$층이고, 아래로 내려올수록 층의 번호가 $1$씩 증가하여 가장 아래쪽 층은 $60$층이다. 완전 이진 트리 구조를 갖는 이 호텔에는, $1$층에 $1$개의 방이, $1$층을 제외한 나머지 층에는 층마다 바로 위층에 존재하는 방 개수의 두 배만큼의 방이 존재한다.</p>
 

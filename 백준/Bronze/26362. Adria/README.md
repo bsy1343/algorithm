@@ -58,6 +58,6 @@
 
 <p>Opis prvog probnog primjera: Tijek igre po setovima prikazan je u tablici. Rezultati su oblika &bdquo;broj_gemova_Nikola:broj_gemova_Josip&ldquo;:</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/ed4a9455-7891-4b77-a1be-3eed521bcecf/-/preview/" style="width: 665px; height: 66px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/26362.%E2%80%85Adria/07891723.png" data-original-src="https://upload.acmicpc.net/ed4a9455-7891-4b77-a1be-3eed521bcecf/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 665px; height: 66px;" /></p>
 
 <p>U prvom setu rezultat je bio 6:3 za Nikolu, u drugom 6:5 za Josipa, a u trećem 6:1 za Nikolu. Nikola je za G1 odabrao vrijednost tri zato &scaron;to bi, da se tijekom online igre osvajao set nakon tri osvojena gema, osvojio sva tri seta. Sva tri seta bi osvojio i za G1=4 dok bi za G1=1 i G1=2 i G1=5 osvojio po dva seta.</p>

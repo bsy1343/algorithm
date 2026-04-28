@@ -20,7 +20,7 @@
 
 <p>윤호는 그 사실이 불편했다. 따라서 모두가 영우를 알 수 있도록 영우가 출몰하는 곳곳에 라이트를 설치하여 스포트라이트를 받게 하려 한다. 모든 라이트를 켠 후 윤호는 영우가 나타났을 때 얼마나 빛날지 궁금했다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15807/1.png" style="width: 531px; height: 437px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/15807.%E2%80%85*%EB%B9%9B*%EC%98%81*%EC%9A%B0*/1b906243.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15807/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 531px; height: 437px;" /></p>
 
 <p>윤호가 설치한 라이트의 위치가 주어진다. 라이트는 항상 북쪽(y 좌표가 증가하는 방향) 방향으로 90도 각도로 비추고 있으며, 아무리 멀어도 빛의 세기는 약해지지 않는다. 윤호가 설치한 라이트는 빛의 세기가 중첩된다. 즉, 2개의 라이트에게 빛을 받는 영역의 세기는 2이고, 3개의 라이트에게 빛을 받는 영역의 세기는 3이 된다.</p>
 

@@ -24,7 +24,7 @@
 
 <p>For example, in the following network, we can form a collider of length 4 by building a tunnel between junctions 1 and 5, or between 2 and 5:</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/e66006bb-1b72-4217-a27d-49d72d1a5643/-/preview/" style="width: 179px; height: 161px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/6759.%E2%80%85LHC/64d1fc2e.png" data-original-src="https://upload.acmicpc.net/e66006bb-1b72-4217-a27d-49d72d1a5643/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 179px; height: 161px;" /></p>
 
 ### 입력
 

@@ -20,7 +20,7 @@
 
 <p>The conversation with your brother went something like this:</p>
 
-<p><img alt="" src="https://onlinejudgeimages.s3.amazonaws.com/problem/13469/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-11-01%20%EC%98%A4%ED%9B%84%202.22.39.png" style="height:276px; width:550px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/13469.%E2%80%85Older%E2%80%85Brother/adb11dc0.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/13469/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-11-01%20%EC%98%A4%ED%9B%84%202.22.39.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:276px; width:550px" /></p>
 
 ### 입력
 

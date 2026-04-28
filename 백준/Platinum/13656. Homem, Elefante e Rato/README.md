@@ -20,7 +20,7 @@
 
 <p>O Homem &eacute; representado pela m&atilde;o fechada, como a cabe&ccedil;a de um homem. O Elefante &eacute; representado pela m&atilde;o aberta, exibindo os cinco dedos, como a pata do elefante nlogonense. Por fim, o Rato &eacute; representado pela m&atilde;o fechada, com o dedo indicador e o dedo m&eacute;dio esticados, como as orelhas do pequeno animal.</p>
 
-<p><img alt="" src="https://onlinejudgeimages.s3.amazonaws.com/problem/13656/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202017-01-12%20%EC%98%A4%EC%A0%84%206.12.11.png" style="height:103px; width:279px" /><br />
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/13656.%E2%80%85Homem%2C%E2%80%85Elefante%E2%80%85e%E2%80%85Rato/2532cecb.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/13656/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202017-01-12%20%EC%98%A4%EC%A0%84%206.12.11.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:103px; width:279px" /><br />
 &nbsp;</p>
 
 <p>Figura 1: Os tr&ecirc;s s&iacute;mbolos do jogo Homem, Elefante e Rato.</p>

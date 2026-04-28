@@ -20,7 +20,7 @@
 
 <p>For example, there are three ways to cut the left polygon in the proper way, and two ways for the right&nbsp;polygon.</p>
 
-<p><img alt="" src="https://onlinejudgeimages.s3.amazonaws.com/problem/13481/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-11-01%20%EC%98%A4%ED%9B%84%203.47.21.png" style="height:129px; width:315px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/13481.%E2%80%85Integral%E2%80%85Polygons/730ce80d.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/13481/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-11-01%20%EC%98%A4%ED%9B%84%203.47.21.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:129px; width:315px" /></p>
 
 <p>The polygons in the shop are always of excellent quality, so the business is expanding. Now Ingrid needs&nbsp;some automatic tool to determine the number of ways to cut the polygon in the proper way. This is very&nbsp;important for her shop, since otherwise you will spend a lot of time on setting prices &mdash; just imagine how&nbsp;much time would it take to set prices for a medium-sized van with polygons. Could you help Ingrid and&nbsp;write the tool for her?</p>
 

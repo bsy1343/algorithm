@@ -22,13 +22,13 @@
 
 <p>Например, рассмотрим расположение гнезд, изображенное на рисунке.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/d77901da-9dbc-4b93-b67d-b57b36fcf8fb/-/preview/" style="width: 426px; height: 53px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/21408.%E2%80%85%D0%9F%D1%80%D0%BE%D0%B2%D0%BE%D0%B4%D0%B0/520e3c10.png" data-original-src="https://upload.acmicpc.net/d77901da-9dbc-4b93-b67d-b57b36fcf8fb/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 426px; height: 53px;" /></p>
 
 <p>Можно соединить треугольное гнездо 1 с круглым гнездом A, а треугольное гнездо 2 --- с круглым гнездом B. Для такого соединения необходимы провода длины 5 и 4, суммарная длина --- 9. Можно также соединить 1 с B и 2 с A, в этом случае необходимы провода длины 7 и 2, суммарная длина также 9. Таким образом необходимо заказать с Земли кабель длиной 9 метров.</p>
 
 <p>В случае же, показанном на следующем рисунке, есть лишь один способ соединить гнезда: 1 с A, а 2 с B. Гнездо 2 нельзя соединить с A, поскольку A расположено левее. Так что в этом случае необходимо 2 метра кабеля.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/200cafa1-aaed-42df-ac69-815be60b662c/-/preview/" style="width: 426px; height: 53px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/21408.%E2%80%85%D0%9F%D1%80%D0%BE%D0%B2%D0%BE%D0%B4%D0%B0/1883d300.png" data-original-src="https://upload.acmicpc.net/200cafa1-aaed-42df-ac69-815be60b662c/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 426px; height: 53px;" /></p>
 
 ### 입력
 

@@ -23,16 +23,16 @@
 <table align="center" class="table table-bordered">
 	<tbody>
 		<tr>
-			<td><img alt="2D-Maze" src="/upload/images2/fig_01.png" style="width:200px" /><br />
+			<td><img alt="2D-Maze" src="%EB%B0%B1%EC%A4%80/Gold/10346.%E2%80%85The%E2%80%85Maze%E2%80%85Makers/90aef092.png" data-original-src="https://www.acmicpc.net/upload/images2/fig_01.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width:200px" /><br />
 			&nbsp;
 			<p><strong>Figure 1:</strong> Sample Maze</p>
 			</td>
-			<td><img alt="Hex Code for Walls and Passageways" src="/upload/images2/fig_02.png" style="width:200px" /><br />
+			<td><img alt="Hex Code for Walls and Passageways" src="%EB%B0%B1%EC%A4%80/Gold/10346.%E2%80%85The%E2%80%85Maze%E2%80%85Makers/07e3fa1d.png" data-original-src="https://www.acmicpc.net/upload/images2/fig_02.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width:200px" /><br />
 			&nbsp;
 			<p><strong>Figure 2:</strong> Hex Code for Walls<br />
 			and Passageways</p>
 			</td>
-			<td><img alt="Maze with Cell	  Labels" src="/upload/images2/fig_03.png" style="width:200px" /><br />
+			<td><img alt="Maze with Cell	  Labels" src="%EB%B0%B1%EC%A4%80/Gold/10346.%E2%80%85The%E2%80%85Maze%E2%80%85Makers/d5ac76ad.png" data-original-src="https://www.acmicpc.net/upload/images2/fig_03.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width:200px" /><br />
 			&nbsp;
 			<p><strong>Figure 3:</strong> Maze with Cell Labels</p>
 			</td>
@@ -71,4 +71,4 @@ MAZE OK - None of the above problems exist.</blockquote>
 
 ### 힌트
 
-<p><img alt="" src="/upload/images2/mazes.png" style="height:959px; width:674px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/10346.%E2%80%85The%E2%80%85Maze%E2%80%85Makers/fe8ab057.png" data-original-src="https://www.acmicpc.net/upload/images2/mazes.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:959px; width:674px" /></p>

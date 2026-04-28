@@ -18,7 +18,7 @@
 
 <p>The Best Acceleration Production Company specializes in multi-gear engines. The performance of an engine in a certain gear, measured in the amount of torque produced, is not constant: the amount of torque depends on the RPM of the engine. This relationship can be described using a torque-RPM curve.</p>
 
-<p style="text-align: center;"><img alt="" src="/upload/images2/growing.png" style="height:291px; width:483px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/10325.%E2%80%85Growling%E2%80%85Gears/5a52f187.png" data-original-src="https://www.acmicpc.net/upload/images2/growing.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:291px; width:483px" /></p>
 
 <p style="text-align: center;">The torque-RPM curve of the gears given in the second sample input.<br />
 The second gear can produce the highest torque.</p>

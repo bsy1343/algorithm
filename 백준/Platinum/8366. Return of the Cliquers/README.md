@@ -18,7 +18,7 @@
 
 <p>An undirected graph with <em>n</em>&nbsp;vertices is called&nbsp;<b>a symmetric labeled cliquer</b>&nbsp;if each connected component of the graph contains the same number of vertices and is a clique, and the vertices of the graph are numbered with numbers from the set {1, ..., <em>n</em>}. Maurycy has drawn all symmetric labeled cliquers on a piece of paper and is going to assess beauty of each of them with a number from the set {1, ..., <em>m</em>}&nbsp;(in particular, different cliquers may be assigned equal grades). In how many ways can he do this? The result should be computed modulo 10<sup>9</sup> - 401. The figure below depicts all symmetric labeled cliquers for <em>n</em> = 4.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/04d63c30-d376-4eb9-8555-13bd0a67ce17/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/8366.%E2%80%85Return%E2%80%85of%E2%80%85the%E2%80%85Cliquers/4873538e.png" data-original-src="https://upload.acmicpc.net/04d63c30-d376-4eb9-8555-13bd0a67ce17/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 ### 입력
 

@@ -28,4 +28,4 @@
 
 ### 힌트
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/f1e94a98-4aa5-410b-b378-40fb8ac2da93/-/preview/" style="width: 326px; height: 423px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/19494.%E2%80%85Triangles/ae2c2310.png" data-original-src="https://upload.acmicpc.net/f1e94a98-4aa5-410b-b378-40fb8ac2da93/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 326px; height: 423px;" /></p>

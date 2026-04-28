@@ -18,7 +18,7 @@
 
 <p>크레이지 아케이드의 버블힐에서는 매년 새해가 찾아오면 다오가 개최하는 행사가 열린다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/7c00f081-750a-4782-b4a5-3d64425df0a7/-/preview/" style="height: 300px; width: 300px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/26615.%E2%80%85%EB%8B%A4%EC%98%A4%EC%9D%98%E2%80%85%ED%96%89%EC%82%AC%E2%80%85%EA%B3%84%ED%9A%8D%ED%95%98%EA%B8%B0/44d4b97a.png" data-original-src="https://upload.acmicpc.net/7c00f081-750a-4782-b4a5-3d64425df0a7/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 300px; width: 300px;" /></p>
 
 <p style="text-align: center;">행사를 계획하려는 다오  </p>
 

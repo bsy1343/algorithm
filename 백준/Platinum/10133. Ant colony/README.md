@@ -27,7 +27,7 @@
 
 <p>The following figure depicts m ants upon entering a chamber with three outgoing unexplored corridors, dividing themselves into three (equal) groups of [m/3] ants each.</p>
 
-<p><img alt="" src="https://onlinejudgeimages.s3.amazonaws.com/problem/10133/1.png" style="height:228px; width:305px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/10133.%E2%80%85Ant%E2%80%85colony/bf654015.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/10133/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:228px; width:305px" /></p>
 
 <p>A hungry anteater dug into one of the corridors and can now eat all the ants passing through it. However, just like the ants, the anteater is very picky when it comes to numbers. It will devour a passing group if and only if it consists of exactly k ants. We want to know how many ants the anteater will eat.</p>
 
@@ -42,7 +42,7 @@
 ### 출력
 
 <p>Your program should print to the standard output a single line containing a single integer: the number of ants eaten by the anteater.<br />
-<img alt="" src="https://onlinejudgeimages.s3.amazonaws.com/problem/10133/2.png" style="height:234px; width:443px" /></p>
+<img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/10133.%E2%80%85Ant%E2%80%85colony/973e9b07.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/10133/2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:234px; width:443px" /></p>
 
 <p>&nbsp;</p>
 

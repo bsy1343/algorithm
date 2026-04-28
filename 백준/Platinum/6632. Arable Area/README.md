@@ -22,7 +22,7 @@
 
 <p>For example, the polygon in the picture (it corresponds to the first scenario in Sample Input) contains three square fields.</p>
 
-<p style="text-align: center;"><img alt="" src="/upload/images2/aa.png" style="height:215px; width:212px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/6632.%E2%80%85Arable%E2%80%85Area/54467301.png" data-original-src="https://www.acmicpc.net/upload/images2/aa.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:215px; width:212px" /></p>
 
 ### 입력
 

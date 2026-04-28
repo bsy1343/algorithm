@@ -26,7 +26,7 @@
 
 <p>펭귄들이 어떤 얼음 위로 모여야 다 모일 수 있을까?</p>
 
-<p><img src="/upload/images2/penguin.png" style="height:297.529411764706px; width:281px" /></p>
+<p><img src="%EB%B0%B1%EC%A4%80/Platinum/3692.%E2%80%85%ED%8E%AD%EA%B7%84%EB%93%A4%EC%9D%98%E2%80%85%ED%96%89%EC%A7%84/2ed52e96.png" data-original-src="https://www.acmicpc.net/upload/images2/penguin.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:297.529411764706px; width:281px" /></p>
 
 <p>얼음 조각 5개와 펭귄 세 마리가 있는 예제</p>
 

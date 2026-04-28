@@ -22,7 +22,7 @@
 
 <p>For instance, assume the card size is 3 x 4 cm, and the grid size 1 x 2 cards. The four possible orientations of the grid are depicted in the following figure. The minimum paper size needed for each of them is stated.</p>
 
-<p style="text-align: center;"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/6683/1.gif" style="height:176px; width:591px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/6683.%E2%80%85Paper%E2%80%85Cutting/a46ab35c.gif" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/6683/1.gif" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:176px; width:591px" /></p>
 
 <p>The cutting machine used to cut the cards is able to make an arbitrary long continuous cut. The cut must run through the whole piece of the paper, it cannot stop in the middle. Only one free piece of paper can be cut at once -- you cannot stack pieces of paper onto each other, nor place them beside each other to save cuts.</p>
 

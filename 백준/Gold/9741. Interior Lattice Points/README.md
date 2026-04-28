@@ -18,7 +18,7 @@
 
 <p>A lattice point is a point whose coordinates on a rectangular coordinate system are integers. An interior lattice point is a lattice point that is inside a given polygon and not on its boundary. For example, the drawing below shows a triangle having six interior lattice points.</p>
 
-<p style="text-align: center;"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/9741/1.png" style="height:148px; width:219px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/9741.%E2%80%85Interior%E2%80%85Lattice%E2%80%85Points/32d96006.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/9741/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:148px; width:219px" /></p>
 
 <p>Write a program that reads an input containing three pairs of coordinates (xA, yA), (xB, yB), (xC, yC), where each coordinate is an unsigned integer with a value less than or equal to 100. The numbers in the line are separated exactly by one space and are in the order xA yA xB yB xC yC. The coordinates describe three distinct (but possibly collinear) lattice points. If the given coordinates describe a triangle with non-zero area, then the program should display on the screen the number of interior lattice points of the triangle. Otherwise, the program should display on the screen the number zero. (If the three points are collinear, then there are no interior lattice points.)</p>
 

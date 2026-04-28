@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p><img alt="" src="https://upload.acmicpc.net/b55ec73d-17b9-4674-92a4-39c696e8e0eb/-/preview/" style="width: 100px; height: 96px; float: right;" />Little Vera really likes Advent and Christmas time. Most of all, she likes colorful Christmas lights and enjoys decorating her balcony with shining colors. To decorate her balcony, she bought a sequence of $n$ lights connected in a row, each shining in one of a thousand different colors.</p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/23849.%E2%80%85Lampice/4482f75b.png" data-original-src="https://upload.acmicpc.net/b55ec73d-17b9-4674-92a4-39c696e8e0eb/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 100px; height: 96px; float: right;" />Little Vera really likes Advent and Christmas time. Most of all, she likes colorful Christmas lights and enjoys decorating her balcony with shining colors. To decorate her balcony, she bought a sequence of $n$ lights connected in a row, each shining in one of a thousand different colors.</p>
 
 <p>Apart from lights, Vera also really likes repeating patterns, so she would like to have her balcony decorated so that a certain pattern of colors repeats $k$ times in a row. However, the lamps she bought might not satisfy her obsession of repetition and patterns, so she decided to cut off zero or more lamps from the beginning and from the end of the sequence to obtain a sequence in which a pattern of colors repeats $k$ times in a row.</p>
 

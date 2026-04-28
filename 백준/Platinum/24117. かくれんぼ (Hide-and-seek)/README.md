@@ -40,7 +40,7 @@
 
 <p>障害物の情報と各武器の攻撃力が与えられたとき，敵が所持する武器毎に最適な隠れ場所を求めるプロ グラムを作成せよ．ただし，どのように隠れても攻撃を受けてしまう場合には，隠れる場所がないという 意味で (-1,-1) を出力せよ．</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/b1c8ddc8-707b-40a3-8e3d-306edf6db7f5/-/preview/" style="width: 427px; height: 236px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/24117.%E2%80%85%E3%81%8B%E3%81%8F%E3%82%8C%E3%82%93%E3%81%BC%E2%80%85(Hide-and-seek)/c98e4c6e.png" data-original-src="https://upload.acmicpc.net/b1c8ddc8-707b-40a3-8e3d-306edf6db7f5/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 427px; height: 236px;" /></p>
 
 <p style="text-align: center;">図 1: 攻撃力が 4 である武器に対応する隠れ方</p>
 

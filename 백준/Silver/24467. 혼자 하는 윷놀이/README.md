@@ -41,11 +41,11 @@
 
 <p>게임이 진행될 윷놀이판은 다음과 같다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/83d426ed-6abf-45eb-a483-26f06c810f9c/-/preview/" style="width: 576px; height: 577px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/24467.%E2%80%85%ED%98%BC%EC%9E%90%E2%80%85%ED%95%98%EB%8A%94%E2%80%85%EC%9C%B7%EB%86%80%EC%9D%B4/b4da01d3.png" data-original-src="https://upload.acmicpc.net/83d426ed-6abf-45eb-a483-26f06c810f9c/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 576px; height: 577px;" /></p>
 
 <p>윷판에서 말이 갈 수 있는 길은 그림과 같이 네 가지이다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/cf46bde6-7d01-4cba-b3bf-700f2b4b017e/-/preview/" style="width: 720px; height: 179px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/24467.%E2%80%85%ED%98%BC%EC%9E%90%E2%80%85%ED%95%98%EB%8A%94%E2%80%85%EC%9C%B7%EB%86%80%EC%9D%B4/515fdac6.png" data-original-src="https://upload.acmicpc.net/cf46bde6-7d01-4cba-b3bf-700f2b4b017e/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 720px; height: 179px;" /></p>
 
 <p>빈 원으로 표시된 위치에 말이 놓이면 상대적으로 짧은 길로 가야한다. 그 위치에 놓이지 않는다면 상대적으로 먼 길로 가야 한다.</p>
 

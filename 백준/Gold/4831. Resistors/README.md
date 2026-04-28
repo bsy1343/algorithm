@@ -31,13 +31,13 @@
 	<li>The resistance of a parallel configuration is the reciprocal of the sum of the reciprocals of its component configurations.</li>
 </ol>
 
-<p style="text-align:center"><img alt="" src="/upload/images2/resi1.png" style="height:246px; width:598px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/4831.%E2%80%85Resistors/3badea62.png" data-original-src="https://www.acmicpc.net/upload/images2/resi1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:246px; width:598px" /></p>
 
 <p>In Figure 1, the resistance of the configuration is 3/2 + 3/4 + 1/4 = 5/2 ohm.</p>
 
 <p>In Figure 2, the resistance of the configuration is 1/(1/(3/2) + 1/(1/2) + 1/ (1/4)) = 3/20 ohm</p>
 
-<p style="text-align:center"><img alt="" src="/upload/images2/resi2.png" style="height:213px; width:534px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/4831.%E2%80%85Resistors/4372fa48.png" data-original-src="https://www.acmicpc.net/upload/images2/resi2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:213px; width:534px" /></p>
 
 <p>In Figure 3, we first calculate 1/(1/(1/2) + 1/(2/3)) + 2/5 = 24/35 and 1/2 + 1/(1/(2/3) + 1/(2/5)) + 3/2 = 9/4. Adding the reciprocals of these two values and reciprocating the result, we get 72/137 ohm.</p>
 

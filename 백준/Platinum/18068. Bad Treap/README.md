@@ -31,8 +31,8 @@
 <table class="table table-bordered" style="width:100%;">
 	<tbody>
 		<tr>
-			<td style="width: 50%; text-align: center;"><img alt="" src="https://upload.acmicpc.net/e0204c8d-83b3-4eb2-8673-d3495fbe7974/-/crop/665x270/0,0/-/preview/" style="width: 333px; height: 135px;" /></td>
-			<td style="width: 50%; text-align: center;"><img alt="" src="https://upload.acmicpc.net/e0204c8d-83b3-4eb2-8673-d3495fbe7974/-/crop/456x270/768,0/-/preview/" style="width: 228px; height: 135px;" /></td>
+			<td style="width: 50%; text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/18068.%E2%80%85Bad%E2%80%85Treap/a1776e41.png" data-original-src="https://upload.acmicpc.net/e0204c8d-83b3-4eb2-8673-d3495fbe7974/-/crop/665x270/0,0/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 333px; height: 135px;" /></td>
+			<td style="width: 50%; text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/18068.%E2%80%85Bad%E2%80%85Treap/031b151f.png" data-original-src="https://upload.acmicpc.net/e0204c8d-83b3-4eb2-8673-d3495fbe7974/-/crop/456x270/768,0/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 228px; height: 135px;" /></td>
 		</tr>
 		<tr>
 			<td style="width: 50%; text-align: center;">A treap with 7 nodes; its height is 4</td>

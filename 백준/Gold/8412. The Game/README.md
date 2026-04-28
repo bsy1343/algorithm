@@ -18,7 +18,7 @@
 
 <p>The board consists of 2<em>n</em> + 1&nbsp;numbered fields. There are&nbsp;<em>n</em>&nbsp;black and&nbsp;<em>n</em>&nbsp;white pawns. The black pawns are located on&nbsp;<em>n</em>&nbsp;first fields of the board (the fields numbered from 1 to&nbsp;<em>n</em>), whereas the white pawns are located on the last&nbsp;<em>n</em>&nbsp;fields (the fields numbered from <em>n</em> + 2&nbsp;to 2<em>n</em> + 1). Initially, only the (<em>n</em> + 1)-th field is empty.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/b3cd5a13-f7af-40f7-9486-d014c919aa2b/-/preview/" /><br />
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/8412.%E2%80%85The%E2%80%85Game/e40f6408.png" data-original-src="https://upload.acmicpc.net/b3cd5a13-f7af-40f7-9486-d014c919aa2b/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /><br />
 <b>a.</b>&nbsp;the initial configuration of pawns on the board for <em>n</em> = 3&nbsp;and possible moves of the pawns<br />
 <b>b.</b>&nbsp;the board after moving the white pawn from the field number 5 and possible moves of the pawns</p>
 

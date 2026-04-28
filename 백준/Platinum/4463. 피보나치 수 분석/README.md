@@ -20,7 +20,7 @@
 
 <p>피보나치 수는 아래와 같이 재귀적으로 정의할 수 있다.</p>
 
-<p><img alt="" src="/upload/images/fibonacci.png" style="height:94px; width:280px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/4463.%E2%80%85%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98%E2%80%85%EC%88%98%E2%80%85%EB%B6%84%EC%84%9D/58786de0.png" data-original-src="https://www.acmicpc.net/upload/images/fibonacci.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:94px; width:280px" /></p>
 
 <p>64비트 부호있는 정수로 표현할 수 있는 정수 범위가 주어진다. 이때, 그 구간에 포함되는 피보나치 수를 찾은 다음, 그 수의 밑이 2인 로그를 취한 값과 소인수 분해를 하는 프로그램을 작성하시오. 소인수는 오름 차순이며, 여러 번 등장하는 수는 그만큼 출력해야 한다. 만약, 그 구간에 해당하는 피보나치 수가 없는 경우에는 없다고 출력하면 된다.</p>
 

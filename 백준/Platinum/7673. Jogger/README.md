@@ -20,7 +20,7 @@
 
 <p>In this problem, your task is to help Joe plan a jogging route from one house in the neighborhood to another house. Because Joe is a veteran jogger, he wants his route to take as long as possible. Given a matrix of distances (in meters) between each pair of houses along the road graph, the number of seconds r it takes Joe to run one meter, and the number of seconds t it takes for Joe to cross each intersection along the route, determine the pair of houses for which the total travel time is as long as possible.</p>
 
-<p style="text-align: center;"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/7673/1.png" style="height:185px; width:386px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/7673.%E2%80%85Jogger/d72c4da9.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/7673/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:185px; width:386px" /></p>
 
 <p style="text-align: center;">Figure 4: Diagram of neighborhood with n = 9. Houses correspond to numbered nodes, whereas internal nodes of the tree (i.e., intersections) correspond to filled nodes. Note that multiple roads may meet at a single intersection. Here, d<sub>3,9</sub> = 9 + 1 + 7 + 6 = 23. If r = 1 and t = 5, then running from house 3 to house 9 takes Joe 1 &times; 23 + 3 &times; 5 = 38 seconds. In the neighborhood shown above, this is the longest possible route, timewise, that Joe can take.</p>
 

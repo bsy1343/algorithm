@@ -29,7 +29,7 @@ Two zero digits 00. An edge with this label is not compatible with any edge (not
 
 <p>Figure A.1 shows an example of three molecule types and a structure of bounded size that can be assembled from them (other bounded structures are also possible with this set of molecules).</p>
 
-<p><img alt="" src="/upload/images/sasem.png" style="height:249px; width:468px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/8877.%E2%80%85Self-Assembly/74791b2c.png" data-original-src="https://www.acmicpc.net/upload/images/sasem.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:249px; width:468px" /></p>
 
 <p>Figure A.1: Illustration of Sample Input 1.</p>
 

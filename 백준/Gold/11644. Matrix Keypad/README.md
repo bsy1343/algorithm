@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11644/1.png" style="float:right; height:285px; width:206px" />A matrix keypad consists of an r &times; c grid of buttons. Additionally, there is one wire for each row and one wire for each column. These wires are exposed through pins so the keypad can be connected to a larger circuit.</p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/11644.%E2%80%85Matrix%E2%80%85Keypad/6d16ee91.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11644/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="float:right; height:285px; width:206px" />A matrix keypad consists of an r &times; c grid of buttons. Additionally, there is one wire for each row and one wire for each column. These wires are exposed through pins so the keypad can be connected to a larger circuit.</p>
 
 <p>When a button at row i and column j is pressed, the wire for row i and the wire for column j will carry an electrical current. If just a single button is pressed, it can be identified by sequentially checking if a current can be detected at each row wire and at each column wire.</p>
 

@@ -26,7 +26,7 @@
 
 <p>L-shaped triominos look like this:</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/6b7a04c0-bd7d-4957-a211-27e0c3bca9cb/-/preview/" style="width: 228px; height: 34px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/22934.%E2%80%85You%E2%80%85be%E2%80%85The%E2%80%85Judge%2C%E2%80%85Again/dcc02d91.png" data-original-src="https://upload.acmicpc.net/6b7a04c0-bd7d-4957-a211-27e0c3bca9cb/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 228px; height: 34px;" /></p>
 
 ### 입력
 

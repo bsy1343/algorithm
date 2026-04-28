@@ -28,6 +28,6 @@
 
 ### 힌트
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/8dc2ad63-a507-48d1-90cb-9e246017ed58/-/preview/" style="width: 332px; height: 232px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/22243.%E2%80%85Piles%E2%80%85of%E2%80%85books/24c965d1.png" data-original-src="https://upload.acmicpc.net/8dc2ad63-a507-48d1-90cb-9e246017ed58/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 332px; height: 232px;" /></p>
 
 <p>Stack on the position (2, 2) is not visible and tiles (2, 3), (3, 3) and (3, 4) have no books on it.</p>

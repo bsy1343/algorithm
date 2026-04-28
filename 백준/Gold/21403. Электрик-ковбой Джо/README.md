@@ -26,7 +26,7 @@
 
 <p>Если в результате прыжка Джо оказался на земле, он подходит к другому столбу и взбирается на него. Если же Джо оказался на столбе, то он взбирается на вершину из той точки, в которой он оказался.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/76daa3b1-3ddc-4162-ab3e-eaaffb676b70/-/preview/" style="width: 651px; height: 154px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/21403.%E2%80%85%D0%AD%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%B8%D0%BA-%D0%BA%D0%BE%D0%B2%D0%B1%D0%BE%D0%B9%E2%80%85%D0%94%D0%B6%D0%BE/cf3246a2.png" data-original-src="https://upload.acmicpc.net/76daa3b1-3ddc-4162-ab3e-eaaffb676b70/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 651px; height: 154px;" /></p>
 
 <p>Джо просит вас помочь ему выполнить работу, сообщив какое минимальное расстояние ему придется лезть вверх по столбам.</p>
 

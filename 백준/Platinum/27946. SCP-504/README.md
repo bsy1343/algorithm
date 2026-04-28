@@ -20,7 +20,7 @@
 
 <p><strong>등급:</strong> 안전 (Safe)</p>
 
-<figure style="float: right; margin-left: 5px; max-width: min(30%,270px); box-sizing: border-box;"><img alt="" src="https://upload.acmicpc.net/e61a66ea-0fcf-4b52-bfe2-22734b6a320c/-" style="width: 100%; height: auto;" />
+<figure style="float: right; margin-left: 5px; max-width: min(30%,270px); box-sizing: border-box;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/27946.%E2%80%85SCP-504/db2bc3f9.png" data-original-src="https://upload.acmicpc.net/e61a66ea-0fcf-4b52-bfe2-22734b6a320c/-" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 100%; height: auto;" />
 <figcaption style="text-align: center;">SCP-504</figcaption>
 </figure>
 

@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14932/1.png" style="float:right; height:129px; width:146px" />제연이는 멘사 회원이 되고 싶어 멘사 수학 퀴즈를 살펴보던 중 흥미로운 사실을 발견하게 된다. 바로 멘사 회원들은 평범한 금고를 쓰지 않고 오른쪽 그림과 같은 금고를 사용한다는 점이다! 이 금고의 작동원리는 다음과 같다:</p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/14932.%E2%80%85%EA%B8%88%EA%B3%A0%E2%80%85(SAFE)/201d28d4.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14932/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="float:right; height:129px; width:146px" />제연이는 멘사 회원이 되고 싶어 멘사 수학 퀴즈를 살펴보던 중 흥미로운 사실을 발견하게 된다. 바로 멘사 회원들은 평범한 금고를 쓰지 않고 오른쪽 그림과 같은 금고를 사용한다는 점이다! 이 금고의 작동원리는 다음과 같다:</p>
 
 <ol>
 	<li>한 버튼을 선택한 후 그 버튼에 쓰인 글씨를 읽는다.</li>

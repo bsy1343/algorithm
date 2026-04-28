@@ -34,11 +34,11 @@
 
 <p>예를 들어, 아래 트리는 4개의 구역으로 나누어진다.</p>
 
-<p><img alt="" src="https://upload.acmicpc.net/530c7fce-6f58-4d87-89af-83e910bb8d0d/-/preview/" style="height: 333px; width: 800px;" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/25337.%E2%80%85Merge%E2%80%85the%E2%80%85Tree%E2%80%85and%E2%80%85Sequence/69ea6634.png" data-original-src="https://upload.acmicpc.net/530c7fce-6f58-4d87-89af-83e910bb8d0d/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 333px; width: 800px;" /></p>
 
 <p>그리고, 만약 정휘가 아래와 같은 방식으로 수열과 트리를 합친다면, 아래와 같은 102점을 얻게 된다.</p>
 
-<p><img alt="" src="https://upload.acmicpc.net/d6b9ebfa-863f-41a7-a83c-ab40b3d0a3a0/-/preview/" style="height: 368px; width: 800px;" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/25337.%E2%80%85Merge%E2%80%85the%E2%80%85Tree%E2%80%85and%E2%80%85Sequence/c3b22b8c.png" data-original-src="https://upload.acmicpc.net/d6b9ebfa-863f-41a7-a83c-ab40b3d0a3a0/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 368px; width: 800px;" /></p>
 
 <p>정휘는 트리와 수열을 합칠 때 얻을 수 있는 점수의 최솟값과 최댓값이 궁금해졌지만, 트리와 수열의 크기가 너무 커서 계산하지 못하고 있다. 컴퓨터를 잘 다루는 여러분들이 정휘를 도와 얻을 수 있는 점수의 최솟값과 최댓값을 구해보자.</p>
 

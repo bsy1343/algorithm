@@ -18,7 +18,7 @@
 
 <p>You are asked to help diagnose class diagrams to identify instances of diamond inheritance. The following example class diagram illustrates the property of diamond inheritance. There are four classes: A, B, C and D. An arrow pointing from X to Y indicates that class X inherits from class Y.</p>
 
-<p><img src="https://onlinejudgeimages.s3.amazonaws.com/problem/12382/images-49.png" style="vertical-align:middle" /></p>
+<p><img src="%EB%B0%B1%EC%A4%80/Gold/12383.%E2%80%85Diamond%E2%80%85Inheritance%E2%80%85(Large)/251d1227.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/12382/images-49.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="vertical-align:middle" /></p>
 
 <p>In this class diagram, D inherits from both B and C, B inherits from A, and C also inherits from A. An inheritance path from X to Y is defined as a sequence of classes X, C<sub>1</sub>, C<sub>2</sub>, C<sub>3</sub>, ..., C<sub>n</sub>, Y where X inherits from C<sub>1</sub>, C<sub>i</sub>&nbsp;inherits from C<sub>i + 1</sub>&nbsp;for 1 &le; i &le; n - 1, and C<sub>n</sub>&nbsp;inherits from Y. There are two inheritance paths from D to A in the example above. The first path is D, B, A and the second path is D, C, A.</p>
 

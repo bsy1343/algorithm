@@ -20,7 +20,7 @@
 
 <p>성현이는 $5$칸으로 이루어져 있는 <strong>달력의 열</strong>을 &quot;세로 달력&quot;이라고 부르기로 했다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/4b6b893c-c375-4136-b31f-cbdc9afe6b72/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/26148.%E2%80%85%EC%84%B8%EB%A1%9C%E2%80%85%EB%8B%AC%EB%A0%A5/875d452b.png" data-original-src="https://upload.acmicpc.net/4b6b893c-c375-4136-b31f-cbdc9afe6b72/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>성현이는 $N$년 달력에는 총 몇 개의 &quot;세로 달력&quot;이 있는 지 궁금해한다.</p>
 

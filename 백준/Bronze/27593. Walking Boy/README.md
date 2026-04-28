@@ -18,7 +18,7 @@
 
 <p>One of the SWERC judges has a dog named Boy. Besides being a good competitive programmer, Boy loves fresh air, so she wants to be walked at least twice a day. Walking Boy requires $120$ <strong>consecutive</strong> minutes. Two walks cannot overlap, but one can start as soon as the previous one has finished.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/5eb65505-4063-40ef-89ae-35e5c855487d/-/preview/" style="width: 350px; height: 229px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/27593.%E2%80%85Walking%E2%80%85Boy/83ae7950.png" data-original-src="https://upload.acmicpc.net/5eb65505-4063-40ef-89ae-35e5c855487d/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 350px; height: 229px;" /></p>
 
 <p style="text-align: center;">Boy before and after getting ACCEPTED on this problem.</p>
 
@@ -46,10 +46,10 @@
 
 <p>In the second test case, the times are the same as above, but $500$ and $1000$ are missing. The judge could have walked Boy, for instance, during the time intervals $[440, 560]$ and $[980, 1100]$. The situation is illustrated in the picture below, where the walks are represented by green intervals.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/95ecba34-defc-477d-8885-6fd8e0c69ca8/-/preview/" style="width: 609px; height: 164px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/27593.%E2%80%85Walking%E2%80%85Boy/4944bd0f.png" data-original-src="https://upload.acmicpc.net/95ecba34-defc-477d-8885-6fd8e0c69ca8/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 609px; height: 164px;" /></p>
 
 <p>In the <strong>third test case</strong>, the times are the same as in the first test case, but $1000$ is missing. The judge could have walked Boy at most once.</p>
 
 <p>In the <strong>fourth test case</strong>, Boy could have been walked during the time intervals $[739, 859]$ and $[859, 979]$.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/37194989-a513-43b8-b727-a28cb838eeb7/-/preview/" style="width: 612px; height: 152px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/27593.%E2%80%85Walking%E2%80%85Boy/66949074.png" data-original-src="https://upload.acmicpc.net/37194989-a513-43b8-b727-a28cb838eeb7/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 612px; height: 152px;" /></p>

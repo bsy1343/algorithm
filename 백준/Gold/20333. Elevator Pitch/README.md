@@ -22,7 +22,7 @@
 
 <p>The image below shows the second sample input. Designs can consist of multiple buildings; this one contains three buildings. The design requires two elevators: one for the pyramid-shaped building and one for the tall tower. The small building of height one does not require an elevator, since it only has a ground floor.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/dcfb8c09-0c2b-43b9-afdc-56a159b69769/-/preview/" style="width: 161px; height: 114px;" /><img alt="" src="https://upload.acmicpc.net/e4eaa32d-4907-4f69-ad18-3c05ba24f41a/-/preview/" style="width: 160px; height: 135px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/20333.%E2%80%85Elevator%E2%80%85Pitch/c4053586.png" data-original-src="https://upload.acmicpc.net/dcfb8c09-0c2b-43b9-afdc-56a159b69769/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 161px; height: 114px;" /><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/20333.%E2%80%85Elevator%E2%80%85Pitch/2c67730d.png" data-original-src="https://upload.acmicpc.net/e4eaa32d-4907-4f69-ad18-3c05ba24f41a/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 160px; height: 135px;" /></p>
 
 <p style="text-align: center;">Figure E.1: A visualisation of the second sample input.</p>
 

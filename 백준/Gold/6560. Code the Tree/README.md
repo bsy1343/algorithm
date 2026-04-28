@@ -43,4 +43,4 @@ N ::= number
 
 ### 힌트
 
-<p><img alt="" src="/upload/images2/code.gif" style="height:159px; width:222px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/6560.%E2%80%85Code%E2%80%85the%E2%80%85Tree/14ba1a54.gif" data-original-src="https://www.acmicpc.net/upload/images2/code.gif" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:159px; width:222px" /></p>

@@ -37,7 +37,7 @@
 
 <p>게임의 진행 예시는 아래와 같다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15672/1.png" style="width: 471px; height: 195px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/15672.%E2%80%85%EC%8B%9C%EA%B3%B5%EC%8A%A4%ED%86%A4/7e8a19e2.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15672/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 471px; height: 195px;" /></p>
 
 <p>남규는 2라운드부터 지능 조커의 힘을 사용하기로 결정하고, 택희는 5라운드부터 힘 조커를 사용하기로 결정한 상태이다.</p>
 

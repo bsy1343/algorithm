@@ -20,7 +20,7 @@
 
 <p>There exist many different definitions of what exactly constitutes a circumnavigation, but for the purposes of this problem we consider a circumnavigation a journey starting and ending at the same point and visiting all meridians (lines of longitude) along the way. Note that the North and South Pole are part of every meridian.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/4164ecd7-9310-4534-8624-896cbfc1ca55/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/23776.%E2%80%85Jet%E2%80%85Set/1d05450a.png" data-original-src="https://upload.acmicpc.net/4164ecd7-9310-4534-8624-896cbfc1ca55/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p style="text-align: center;">Figure 1:&nbsp;Illustration of Sample Input 1, giving a circumnavigation starting and ending in Reykjav&iacute;k, with additional waypoints in Athens, Jakarta, Honolulu and Chicago.</p>
 

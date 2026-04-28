@@ -30,11 +30,11 @@
 
 <p>In the example of Prison A (labyrinth of length 4 and width 2), the prisoner can escape. In the second example (labyrinth of length 3 and width 2), the prisoner cannot escape.</p>
 
-<p style="text-align: center;"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14546/1.png" style="height:159px; width:339px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/14546.%E2%80%85Prison%E2%80%85Break/a29839d6.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14546/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:159px; width:339px" /></p>
 
 <p style="text-align: center;">Prison A</p>
 
-<p style="text-align: center;"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14546/2.png" style="height:182px; width:260px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/14546.%E2%80%85Prison%E2%80%85Break/e2b5f972.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14546/2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:182px; width:260px" /></p>
 
 <p style="text-align: center;">Prison B (Typo: Entry hut: (2, 2))</p>
 

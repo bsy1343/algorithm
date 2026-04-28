@@ -20,11 +20,11 @@
 
 <p>아래에는 가능한 5가지 4-오미노가 있다.</p>
 
-<p><img alt="images-73.png" src="https://upload.acmicpc.net/e9ed4bdd-14d6-477c-85f1-4b487f2c094f/-/preview/" /></p>
+<p><img alt="images-73.png" src="%EB%B0%B1%EC%A4%80/Platinum/12173.%E2%80%85N-%EC%98%A4%EB%AF%B8%EB%85%B8%E2%80%85%ED%8C%90%E2%80%85%EC%B1%84%EC%9A%B0%EA%B8%B0%E2%80%85(Large)/774e9f61.png" data-original-src="https://upload.acmicpc.net/e9ed4bdd-14d6-477c-85f1-4b487f2c094f/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>아래에는 전체 108가지의 7-오미노 중 일부가 있다.</p>
 
-<p><img alt="images-74.png" src="https://upload.acmicpc.net/002f9f2d-5cde-4031-9b74-950f14df52b4/-/preview/" /></p>
+<p><img alt="images-74.png" src="%EB%B0%B1%EC%A4%80/Platinum/12173.%E2%80%85N-%EC%98%A4%EB%AF%B8%EB%85%B8%E2%80%85%ED%8C%90%E2%80%85%EC%B1%84%EC%9A%B0%EA%B8%B0%E2%80%85(Large)/c2a743e8.png" data-original-src="https://upload.acmicpc.net/002f9f2d-5cde-4031-9b74-950f14df52b4/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>철수와 동수는 변수 X, R, C가 정해진 상태에서 아래의 절차대로 게임을 진행하려고 한다.</p>
 

@@ -22,7 +22,7 @@
 
 <p>Книга в координате $a$ при падении роняет книгу в координате $b$, если в момент падения, когда верхняя точка первой книги находится в координате $b$ на высоте $y$, верно, что $y \ge \frac{h}{2}$. Толщиной книги можно пренебречь.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/f8c07ec7-816d-4b5b-a5d8-790ae78df078/-/preview/" style="width: 214px; height: 127px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/28915.%E2%80%85%D0%9A%D0%BD%D0%B8%D0%B6%D0%BD%D0%B0%D1%8F%E2%80%85%D0%BF%D0%BE%D0%BB%D0%BA%D0%B0/7dde625e.png" data-original-src="https://upload.acmicpc.net/f8c07ec7-816d-4b5b-a5d8-790ae78df078/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 214px; height: 127px;" /></p>
 
 <p>Cтрэнджу пришлось просчитать $14\,000\,605$ вариантов будущего, чтобы понять какое минимальное число книг нужно поставить между двумя исходными, чтобы толкнув книгу, стоящую в координате $0$, можно было уронить в итоге книгу в координате $r$. Вонгу такая магия неведома, поэтому он просит вас помочь узнать ответ на эту загадку.</p>
 

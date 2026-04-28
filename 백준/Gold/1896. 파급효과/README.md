@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p><img src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/1896/1.png" style="float:right; height:346px; line-height:20.8px; opacity:0.9; width:347px" />파급효과가 가능한 퍼즐인지 판별하여라.</p>
+<p><img src="%EB%B0%B1%EC%A4%80/Gold/1896.%E2%80%85%ED%8C%8C%EA%B8%89%ED%9A%A8%EA%B3%BC/44be5bb0.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/1896/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="float:right; height:346px; line-height:20.8px; opacity:0.9; width:347px" />파급효과가 가능한 퍼즐인지 판별하여라.</p>
 
 <p>파급효과는 여러개의 폴리오미노로 구성된&nbsp;직사각형의 그리드에서 발생한다. 폴리오미노는 하나 이상의 같은 크기의 정사각형을 이어붙여 만든 도형이다.</p>
 

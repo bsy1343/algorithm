@@ -18,7 +18,7 @@
 
 <p>인하대학교의 자료구조 &middot; 알고리즘 연구 소모임 CTP는 스터디에 필요한 비품들을 비좁은 창고에 보관하고 있다. 창고는 아래의 그림과 같이 일렬로 나열된 $1\times1$ 크기의 칸 $10$개로 이루어져 있다. 각 칸에는 로봇 또는 박스가 하나 있을 수 있으며, 창고에는 로봇과 박스가 정확히 하나씩 있다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/5e262bc1-2767-4909-baec-62519e075145/-/preview/" style="height: 120px; width: 524px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/31844.%E2%80%85%EC%B0%BD%EA%B3%A0%EC%A7%80%EA%B8%B0/fb6d93e9.png" data-original-src="https://upload.acmicpc.net/5e262bc1-2767-4909-baec-62519e075145/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 120px; width: 524px;" /></p>
 
 <p>CTP의 창고지기 시은이는 로봇에게 명령을 내려 박스를 원하는 칸으로 옮기려고 한다. 로봇에게 내릴 수 있는 명령은 다음 두 종류이다.</p>
 

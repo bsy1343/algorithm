@@ -42,10 +42,10 @@
 <table class="table table-bordered td-center">
 	<tbody>
 		<tr>
-			<td><img alt="" src="https://upload.acmicpc.net/e75cdbac-fd1c-484c-a1d7-77f03eff8a77/-/crop/152x320/0,0/-/preview/" style="height: 160px; width: 76px;" /></td>
-			<td><img alt="" src="https://upload.acmicpc.net/e75cdbac-fd1c-484c-a1d7-77f03eff8a77/-/crop/228x320/174,0/-/preview/" style="height: 160px; width: 114px;" /></td>
-			<td><img alt="" src="https://upload.acmicpc.net/e75cdbac-fd1c-484c-a1d7-77f03eff8a77/-/crop/151x320/498,0/-/preview/" style="height: 160px; width: 76px;" /></td>
-			<td><img alt="" src="https://upload.acmicpc.net/e75cdbac-fd1c-484c-a1d7-77f03eff8a77/-/crop/75x320/865,0/-/preview/" style="height: 160px; width: 38px;" /></td>
+			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/26285.%E2%80%85Easy%E2%80%85Assembly/876e80a3.png" data-original-src="https://upload.acmicpc.net/e75cdbac-fd1c-484c-a1d7-77f03eff8a77/-/crop/152x320/0,0/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 160px; width: 76px;" /></td>
+			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/26285.%E2%80%85Easy%E2%80%85Assembly/27af28d3.png" data-original-src="https://upload.acmicpc.net/e75cdbac-fd1c-484c-a1d7-77f03eff8a77/-/crop/228x320/174,0/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 160px; width: 114px;" /></td>
+			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/26285.%E2%80%85Easy%E2%80%85Assembly/fcecba7c.png" data-original-src="https://upload.acmicpc.net/e75cdbac-fd1c-484c-a1d7-77f03eff8a77/-/crop/151x320/498,0/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 160px; width: 76px;" /></td>
+			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/26285.%E2%80%85Easy%E2%80%85Assembly/b2b1ecd5.png" data-original-src="https://upload.acmicpc.net/e75cdbac-fd1c-484c-a1d7-77f03eff8a77/-/crop/75x320/865,0/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 160px; width: 38px;" /></td>
 		</tr>
 		<tr>
 			<td>Initial</td>

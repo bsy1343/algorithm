@@ -18,7 +18,7 @@
 
 <p>지난 주에 제주도에 다녀온 선생님은 냉장고에 제주 초콜릿을 숨겨두고 몰래 먹고 있다. </p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/33d1eff3-41c7-49b8-85d4-c4658513ed70/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/27535.%E2%80%85%EC%A0%9C%EC%A3%BC%E2%80%85%EC%B4%88%EC%BD%9C%EB%A6%BF%E2%80%85%EC%A7%80%ED%82%A4%EA%B8%B0/8eab1813.png" data-original-src="https://upload.acmicpc.net/33d1eff3-41c7-49b8-85d4-c4658513ed70/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p style="text-align: center;">사진 1. 실제 선생님의 냉장고 안을 찍은 사진 </p>
 

@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14647/1.png" style="height:230px; width:246px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/14647.%E2%80%85%EC%A4%80%EC%98%A4%EB%8A%94%E2%80%85%EC%A1%B0%EB%A5%98%ED%98%90%EC%98%A4%EC%95%BC!!/1b4c5b6d.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14647/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:230px; width:246px" /></p>
 
 <p>심술쟁이 해커 임준오(동탄 주민)는 새를 싫어한다. 특히 비둘기를 싫어한다.</p>
 

@@ -38,7 +38,7 @@
 
 <p>To help visualize, here is a picture of the tree in the first sample input.</p>
 
-<p><img alt="" src="https://onlinejudgeimages.s3.amazonaws.com/problem/12704/images-2.png" style="height:240px; width:422px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/12703.%E2%80%85Cheating%E2%80%85a%E2%80%85Boolean%E2%80%85Tree%E2%80%85(Small)/a9d56d33.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/12704/images-2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:240px; width:422px" /></p>
 
 <p>Limits</p>
 

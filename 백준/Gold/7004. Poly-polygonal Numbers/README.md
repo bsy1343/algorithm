@@ -18,7 +18,7 @@
 
 <p>A polygonal number is a number which can be represented by a regular geometrical arrangement of equally spaced points, where the arrangement forms a regular polygon. Some examples are shown in the figure below.</p>
 
-<p style="text-align: center;"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/7004/1.png" style="height:131px; width:416px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/7004.%E2%80%85Poly-polygonal%E2%80%85Numbers/dd325def.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/7004/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:131px; width:416px" /></p>
 
 <p>The first figure shows the first 4 triangular numbers 1, 3, 6, 10. The next three show the first four square, pentagonal and hexagonal numbers, respectively. In general, k-gonal numbers are those whose points define a regular k-gon (hence triangular numbers are 3-gonal, square numbers are 4-gonal, etc.). We will define k as an index of the polygonal number. For this problem, you are to find numbers which are k-gonal for two or more values of k. We will call these numbers poly-polygonal .</p>
 

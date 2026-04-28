@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><img alt="" height="452" src="https://u.acmicpc.net/e50f9597-6eb0-4e27-b049-bceb953bb777/Untitled.png" width="575" /></p>
+<p style="text-align: center;"><img alt="" height="452" src="%EB%B0%B1%EC%A4%80/Platinum/30643.%E2%80%85%EB%82%98%EB%AC%B4%E2%80%85%EB%8B%A4%EB%A6%AC/fd6dc716.png" data-original-src="https://u.acmicpc.net/e50f9597-6eb0-4e27-b049-bceb953bb777/Untitled.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" width="575" /></p>
 
 <p>너비가 <em>W</em>인 강에 목수가 나무토막으로 이루어진 나무 다리를 지으려 한다.</p>
 

@@ -20,7 +20,7 @@
 
 <p>동일한 지도를 어떻게 놓느냐에 따라 필요한 종이의 개수가 달라질 수도 있다. 상근이의 정원의 지도와 종이의 크기가 주어졌을 때, 지도를 인쇄하는데 필요한 종이 개수의 최솟값을 구하는 프로그램을 작성하시오.</p>
 
-<p><img alt="" src="/upload/images/fmap.png" style="height:210px; line-height:1.6em; opacity:0.9; width:457px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/9274.%E2%80%85%EC%A2%85%EC%9D%B4%E2%80%85%EC%A7%80%EB%8F%84/a70b96ba.png" data-original-src="https://www.acmicpc.net/upload/images/fmap.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:210px; line-height:1.6em; opacity:0.9; width:457px" /></p>
 
 <p>위의 그림은 텍사스처럼 생긴 지도를 인쇄하는 두 가지 방법이다. 첫 번째 그림은 종이 14개로 인쇄하는 방법이고, 오른쪽은 같은 지도를 동일한 종이 10개로 인쇄하는 방법이다.</p>
 

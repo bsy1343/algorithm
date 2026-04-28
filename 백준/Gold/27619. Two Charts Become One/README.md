@@ -18,7 +18,7 @@
 
 <p>When businesses feel that they are a little bloated and in need of restructuring, they call in the well-known reorganization consultant Don Sizing.  One of the first things Don asks for is a chart showing the hierarchy of departments in the business, i.e., which departments are in charge of other departments.  Often there will be some confusion about this hierarchy and Don will end up with two or more different charts displaying the same set of departments.  In situations like this Don must determine if the charts are similar, i.e., if they show the exact set of hierarchies while not necessarily being drawn the same way. For example, consider the two charts shown on the left in Figure K.1.  While they do not look the same, they do represent the same hierarchies -- department $11$ is in charge of departments $10$ and $12$ and department $12$ is in charge of departments $13$, $17$ and $28$.  The three charts on the right in Figure K.1 are all truly different, each representing  different hierarchies.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/e2462d8b-7efd-4970-9101-65b01c1e7182/-/preview/" style="width: 512px; height: 94px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/27619.%E2%80%85Two%E2%80%85Charts%E2%80%85Become%E2%80%85One/9b71a22b.png" data-original-src="https://upload.acmicpc.net/e2462d8b-7efd-4970-9101-65b01c1e7182/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 512px; height: 94px;" /></p>
 
 <p style="text-align: center;">Figure K.1: Two sets of hierarchical charts.</p>
 

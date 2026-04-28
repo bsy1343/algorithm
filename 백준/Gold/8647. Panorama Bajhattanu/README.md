@@ -45,17 +45,17 @@
 
 <p>Bajhattan wygląda jak na rysunku poniżej:</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/64db7839-b397-4d3c-8ebd-7c4c0df277b5/-/preview/" style="width: 137px; height: 142px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/8647.%E2%80%85Panorama%E2%80%85Bajhattanu/13e1c92d.png" data-original-src="https://upload.acmicpc.net/64db7839-b397-4d3c-8ebd-7c4c0df277b5/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 137px; height: 142px;" /></p>
 
 <p>Bajtłomiej widział Bajhattan tylko na zdjęciach. Najbardziej znane są dwie panoramy, zachodnia oraz południowa. W przykładzie, w panoramie zachodniej wybijają się wieżowce o wysokościach 3, 2 oraz 2, a w panoramie południowej wieżowce o wysokościach 2, 2, 1 oraz 3. Zdjęcia były robione z dosyć daleka, więc widoczne są na nich jedynie zarysy budynk&oacute;w.</p>
 
 <p>Dla układu wieżowc&oacute;w z przykładu, panorama zachodnia wygląda następująco:</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/7569ebe0-c81c-491e-aedb-533e11c6d0cc/-/preview/" style="width: 70px; height: 43px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/8647.%E2%80%85Panorama%E2%80%85Bajhattanu/60fe6946.png" data-original-src="https://upload.acmicpc.net/7569ebe0-c81c-491e-aedb-533e11c6d0cc/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 70px; height: 43px;" /></p>
 
 <p>A oto panorama południowa:</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/66d3192a-3ab7-470d-88e0-f2219632a79d/-/preview/" style="width: 84px; height: 43px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/8647.%E2%80%85Panorama%E2%80%85Bajhattanu/0224b28d.png" data-original-src="https://upload.acmicpc.net/66d3192a-3ab7-470d-88e0-f2219632a79d/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 84px; height: 43px;" /></p>
 
 <p>Bajtłomiej chciałby ustalić na podstawie zdjęć, jak duże są wieżowce na Bajhattanie. Chciałby oszacować ich&nbsp;<i>objętość</i>&nbsp;(kubaturę).</p>
 

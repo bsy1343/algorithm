@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/7e511773-be18-4dcc-a516-00dc87dda2f4/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/20499.%E2%80%85Darius%EB%8B%98%E2%80%85%ED%95%9C%ED%83%80%E2%80%85%EC%95%88%E2%80%85%ED%95%A8%3F/f7ef9ec6.png" data-original-src="https://upload.acmicpc.net/7e511773-be18-4dcc-a516-00dc87dda2f4/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>아무래도 우리 팀 다리우스가 고수인 것 같다. 그의 $K/D/A$를 보고 그가 「<strong>진짜</strong>」인지 판별해 보자.</p>
 

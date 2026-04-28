@@ -24,7 +24,7 @@
 
 <p>센서들의 배치도가 주어져 있을 때, 이&nbsp;원(현석 혹은 로봇)이 센서에 걸리지 않고 복도를 지나갈 수 있게 하기 위한 원의 최대 반지름을 구하자.</p>
 
-<p><img alt="" src="/upload/images/through.png" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/9373.%E2%80%85%EB%B3%B5%EB%8F%84%E2%80%85%EB%9A%AB%EA%B8%B0/784ebe38.png" data-original-src="https://www.acmicpc.net/upload/images/through.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>예제 입력을 시각화한 것이다.</p>
 

@@ -22,7 +22,7 @@
 
 <p>You&rsquo;ve calculated how far you can bike before your tire runs out of air and you know the layout of your town, including all the intersections, distances between them, and the locations of the repair stations. What is the shortest possible trip from school to your home that you can take without becoming stuck due to a flat tire? (You do not become stuck if you roll into a repair station, or your home, at the exact same time as your tire goes flat.)</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/41f54764-0c8b-4e2e-a5a2-98113e31464e/-/preview/" style="width: 512px; height: 249px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/17593.%E2%80%85Slow%E2%80%85Leak/1f3f4c66.png" data-original-src="https://upload.acmicpc.net/41f54764-0c8b-4e2e-a5a2-98113e31464e/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 512px; height: 249px;" /></p>
 
 <p style="text-align: center;">Figure I.1: An illustration of the two sample inputs.</p>
 

@@ -39,7 +39,7 @@
 	<li>Stay at street crossing $(i, j)$.</li>
 </ul>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/6545fe5c-63d1-4f18-8ea2-9ffd535b2b75/-/preview/" style="width: 500px; height: 453px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/26427.%E2%80%85Pizza%E2%80%85Delivery/f1890caa.png" data-original-src="https://upload.acmicpc.net/6545fe5c-63d1-4f18-8ea2-9ffd535b2b75/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 500px; height: 453px;" /></p>
 
 <p>The city has a unique toll system in place for using the streets. There is a toll for using each street and the toll depends on Ada&#39;s current number of coins and the direction in which she is travelling to. The toll function is defined for every cardinal direction (North, East, West, South) separately. The toll function $F_d$ for $d \in \{ North, East, West, South \}$ returns the amount of coins Ada will have after moving in the direction $d$ and is defined as follows:</p>
 

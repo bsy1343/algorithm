@@ -22,7 +22,7 @@
 
 <p>In Figure B.1, you can see the pattern of a non-ideal performance, where bells only change position by at most one.</p>
 
-<p style="text-align:center"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11268/1.png" style="height:416px; width:284px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/11268.%E2%80%85Bell%E2%80%85Ringing/0163b322.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11268/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:416px; width:284px" /></p>
 
 <p style="text-align:center">Figure B.1: A non-ideal performance respecting the inertia of bells. The trajectory of bell number 1 is marked with a blue line and trajectory of bell number 2 marked with a brown line.</p>
 

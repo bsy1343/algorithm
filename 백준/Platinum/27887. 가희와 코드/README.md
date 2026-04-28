@@ -111,7 +111,7 @@
 
 <p>즉, 음에 대한 정보는 {<code>octave</code>} 와 음의 이름으로 이루어져 있습니다. 아래 [그림 1]은 피아노 건반을 나타내며, <strong>오른쪽으로 갈수록 음높이가 높아집니다.</strong></p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/ce7b7391-9d6c-480f-b0e8-cc8d640f87c8/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/27887.%E2%80%85%EA%B0%80%ED%9D%AC%EC%99%80%E2%80%85%EC%BD%94%EB%93%9C/36023af1.png" data-original-src="https://upload.acmicpc.net/ce7b7391-9d6c-480f-b0e8-cc8d640f87c8/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p style="text-align: center;"><strong>[그림 1] 0 옥타브에 있는 음들과 대응되는 피아노 건반</strong></p>
 
@@ -129,7 +129,7 @@
 
 <p>예를 들어, <code>0</code> 옥타브 <code>C</code>와 <code>0</code> 옥타브 <code>C#</code>은 1번 조건을, <code>0</code> 옥타브 <code>B</code>와 <code>1</code> 옥타브 <code>C</code>는 2번 조건을 만족시킵니다. 따라서, <code>1</code> 옥타브 <code>C</code>와 1 옥타브 <code>C#</code>, <code>0</code> 옥타브 <code>B</code>와 <code>1</code> 옥타브 <code>C</code>는 인접합니다. 아래 [그림 2]에서 빨간 화살표는 인접한 두 음을 보여줍니다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/be1a813d-0818-402a-93cc-b64c8ef9acd2/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/27887.%E2%80%85%EA%B0%80%ED%9D%AC%EC%99%80%E2%80%85%EC%BD%94%EB%93%9C/8934d2b9.png" data-original-src="https://upload.acmicpc.net/be1a813d-0818-402a-93cc-b64c8ef9acd2/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p style="text-align: center;"><strong>[그림 2] 인접한 두 음의 예시</strong></p>
 
@@ -165,7 +165,7 @@
 
 <p style="text-align: center;"><strong>[표 2] 문제에 자주 나오는 용어들과 대응되는 반음 거리</strong></p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/aeefb245-eeba-4a09-b58a-d2e2231cc35d/-/preview/" /> <strong>[그림 3] 0 옥타브 도 <code>C0</code>로부터 단 3도 위, 장 3도 위에 있는 음</strong></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/27887.%E2%80%85%EA%B0%80%ED%9D%AC%EC%99%80%E2%80%85%EC%BD%94%EB%93%9C/27135d76.png" data-original-src="https://upload.acmicpc.net/aeefb245-eeba-4a09-b58a-d2e2231cc35d/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /> <strong>[그림 3] 0 옥타브 도 <code>C0</code>로부터 단 3도 위, 장 3도 위에 있는 음</strong></p>
 
 <p>[그림 1]에서 <strong>각 화살표들은 반음 1개의 거리</strong>를 나타냅니다. 음 <code>C0</code>으로부터 단 3도 위에 있는 음은 <code>D0#</code>이고 음의 이름은 <code>D#</code>입니다. <code>C0</code>에서 출발하여 빨간색 화살표 따라 이동하면 도착하는 음이기 때문입니다. 음 <code>C0</code>으로부터 장 3도 위에 있는 음은 <code>E0</code>이고, 음의 이름은 <code>E</code>입니다. <code>C0</code>에서 출발하여, 빨간색 화살표와 보라색 화살표를 따라 이동하면 도착하는 음이기 때문입니다.</p>
 

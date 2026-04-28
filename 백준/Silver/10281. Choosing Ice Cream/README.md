@@ -42,6 +42,6 @@
 
 ### 힌트
 
-<p><img alt="" src="/upload/images2/icecream.png" style="height:144px; width:146px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/10281.%E2%80%85Choosing%E2%80%85Ice%E2%80%85Cream/39130a31.png" data-original-src="https://www.acmicpc.net/upload/images2/icecream.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:144px; width:146px" /></p>
 
 <p>Example: For n = 4 and k = 20 one throw is enough.</p>

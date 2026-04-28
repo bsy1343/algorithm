@@ -18,7 +18,7 @@
 
 <p>헤네시스 오솔길의 좌우로 늘어진 길이 $4L$의 필드에 주황버섯이 $N$마리 있습니다. 이 주황버섯들은 모든 버섯들의 어머니와 같은 존재, 머쉬맘의 명령을 받고 모였습니다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/e70d73e6-c7f1-47aa-a6fd-72ec9d7c9727//" style="height: 179px; width: 200px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/31407.%E2%80%85%ED%97%A4%EB%84%A4%EC%8B%9C%EC%8A%A4%E2%80%85%EC%98%A4%EC%86%94%EA%B8%B8%E2%80%85(Easy)/35736dd2.png" data-original-src="https://upload.acmicpc.net/e70d73e6-c7f1-47aa-a6fd-72ec9d7c9727//" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 179px; width: 200px;" /></p>
 
 <p>처음에 $i$번 주황버섯은 필드의 왼쪽 끝에서 $4P_i+1$만큼 떨어진 곳에 있으며, 주황버섯은 정해진 왼쪽 혹은 오른쪽 방향을 바라보고 있습니다. $(1 \le i \le N)$ 주황버섯은 매 초마다 다음 규칙을 따라 이동합니다.</p>
 

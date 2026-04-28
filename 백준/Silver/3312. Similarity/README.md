@@ -20,7 +20,7 @@
 
 <p>Given a pattern and a text, one can align them in many different ways, so that each letter of the pattern has a corresponding letter in the text. Here we only consider alignments without holes, in which the pattern is matched against a consecutive part of the text of length equal to the length of the pattern. For any such alignment, one can count the positions where the letter of the pattern is the same as the corresponding letter of the text. The sum of such numbers is called the similarity of the pattern and the text. The table below illustrates the computation of the similarity between an example pattern <code>abaab</code> and the text <code>aababacab</code>.</p>
 
-<p><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/3312/1.png" style="height:171px; width:301px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/3312.%E2%80%85Similarity/25c234ed.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/3312/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:171px; width:301px" /></p>
 
 <p>Byteman has already managed to implement the graphical interface of the tool. Could you help him in writing the piece of software responsible for computing the similarity?</p>
 

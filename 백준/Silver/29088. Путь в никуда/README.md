@@ -35,7 +35,7 @@
 
 <p>Утром Колобок решил проанализировать свой сон. Он догадался, что в каждой клетке он был максимум один раз, но никак не может вспомнить, сколько клеток он посетил. Колобок просит вас написать программу, которая посчитает количество посещённых им клеток.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/135e8ba0-6cb4-4cf3-afa9-efb458d3df4e/-/preview/" style="width: 172px; height: 161px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/29088.%E2%80%85%D0%9F%D1%83%D1%82%D1%8C%E2%80%85%D0%B2%E2%80%85%D0%BD%D0%B8%D0%BA%D1%83%D0%B4%D0%B0/4ea0bfdd.png" data-original-src="https://upload.acmicpc.net/135e8ba0-6cb4-4cf3-afa9-efb458d3df4e/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 172px; height: 161px;" /></p>
 
 ### 입력
 

@@ -25,7 +25,7 @@
 
 <p>For this problem we are only interested in single sections of a KenKen puzzle, not the entire puzzle. Two examples of sections from an 8 &times; 8 KenKen puzzle are shown below along with some of their possible assignments of digits.</p>
 
-<p style="text-align:center"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11765/1.png" style="height:157px; width:535px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/11765.%E2%80%85KenKen%E2%80%85You%E2%80%85Do%E2%80%85It%3F/5f83c487.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11765/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:157px; width:535px" /></p>
 
 <p style="text-align:center">Figure C.1</p>
 

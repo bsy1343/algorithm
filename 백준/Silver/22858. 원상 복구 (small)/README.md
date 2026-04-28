@@ -22,7 +22,7 @@
 
 <p>예를 들어, $P_1, P_2, \cdots , P_N$이 1, 4, 5, 3, 2이고, $D_1, D_2, \cdots , D_N$가 4, 3, 1, 2, 5라고 가정해보자. 이 카드를 한번 섞으면 3, 5, 1, 4, 2가 된다. 아래 그림에서 $S$는 카드를 한 번 섞은 후를 의미한다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/c315a95d-a165-4c50-ae75-7da607484771/-/crop/1167x696/355,193/-/preview/" style="height: 358px; width: 600px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/22858.%E2%80%85%EC%9B%90%EC%83%81%E2%80%85%EB%B3%B5%EA%B5%AC%E2%80%85(small)/b47cd75b.png" data-original-src="https://upload.acmicpc.net/c315a95d-a165-4c50-ae75-7da607484771/-/crop/1167x696/355,193/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 358px; width: 600px;" /></p>
 
 <p>위 방식을 그대로 $K$번 셔플한 카드의 정보와 $D$의 정보를 알고 있다고 할 때, 원래 카드는 어떤 배치를 이루고 있었는지 구해보자.</p>
 

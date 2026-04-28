@@ -18,15 +18,15 @@
 
 <p>An artist begins with a roll of ribbon, one inch wide. She clips it into pieces of various integral lengths, then aligns them with the bottom of a frame, rising vertically in columns, to form a mountain scene. A mountain scene must be uneven; if all columns are the same height, it&rsquo;s a plain scene, not a mountain scene! It is possible that she may not use all of the ribbon.</p>
 
-<p style="text-align:center"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/13056/1.png" style="height:127px; width:315px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/13056.%E2%80%85Mountain%E2%80%85Scenes/150b7740.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/13056/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:127px; width:315px" /></p>
 
 <p>If our artist has 4 inches of ribbon and a 2 &times; 2 inch frame, she could form these scenes:</p>
 
-<p style="text-align:center"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/13056/2.png" style="height:88px; width:626px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/13056.%E2%80%85Mountain%E2%80%85Scenes/1e405287.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/13056/2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:88px; width:626px" /></p>
 
 <p>She would not form these scenes, because they&rsquo;re plains, not mountains!</p>
 
-<p style="text-align:center"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/13056/3.png" style="height:91px; width:313px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/13056.%E2%80%85Mountain%E2%80%85Scenes/213fb4ce.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/13056/3.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:91px; width:313px" /></p>
 
 <p>Given the length of the ribbon and the width and height of the frame, all in inches, how many different mountain scenes can she create? Two scenes are different if the regions covered by ribbon are different. There&rsquo;s no point in putting more than one piece of ribbon in any column.</p>
 

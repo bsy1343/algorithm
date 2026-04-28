@@ -18,7 +18,7 @@
 
 <p>크기가 N &times; N인 육각 보드가 주어진다. 아래 그림은 N = 1, 2, 3, 4인 경우의 그림이다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/178f50c1-48cc-4c06-b8fb-e72b49396348/-/preview/" style="width: 972px; height: 366px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/12946.%E2%80%85%EC%9C%A1%EA%B0%81%E2%80%85%EB%B3%B4%EB%93%9C/3a01733b.png" data-original-src="https://upload.acmicpc.net/178f50c1-48cc-4c06-b8fb-e72b49396348/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 972px; height: 366px;" /></p>
 
 <p>육각 보드의 일부 칸을 색칠하려고 한다. 두 칸이 변을 공유하는 경우에는 같은 색으로 칠할 수 없다.</p>
 

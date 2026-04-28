@@ -42,4 +42,4 @@
 
 <p>In the last sample there is only one maximum length path, but the best option is to block the road (4, 5). If we block the road (1, 4) the racers can re-route earlier and achieve a path of length 2.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/b6ff9c11-83d5-443d-8961-cf3e2630f6d2/-/preview/" style="width: 418px; height: 284px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/18199.%E2%80%85Commemorative%E2%80%85Race/a6966a6e.png" data-original-src="https://upload.acmicpc.net/b6ff9c11-83d5-443d-8961-cf3e2630f6d2/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 418px; height: 284px;" /></p>

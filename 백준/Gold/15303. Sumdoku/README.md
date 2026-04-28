@@ -18,7 +18,7 @@
 
 <p>Sumdoku is a variant of the game Sudoku. As in Sudoku, the aim is to fill in a 9-by-9 grid with the digits 1 through 9 so that each digit 1 through 9 occurs exactly once in each row, exactly once in each column and exactly once in each of the 9 3-by-3 sub-squares subject to constraints on the choices. In Sudoku, the constraints are that certain squares must contain fixed values. In Sumdoku, the constraints are on the sum of adjacent squares within each 3-by-3 sub-square. In the illustration below, the symbols &lt;. = and &gt; indicate that the sum of the values on either side (or above and below) the symbol must have sum less than 10, equal to 10 or greater than 10, respectively.</p>
 
-<p style="text-align:center"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15303/1.png" style="height:458px; width:457px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/15303.%E2%80%85Sumdoku/05295a6e.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15303/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:458px; width:457px" /></p>
 
 <p>Write a program to solve Sumdoku problems.</p>
 

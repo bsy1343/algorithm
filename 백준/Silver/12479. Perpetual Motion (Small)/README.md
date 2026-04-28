@@ -18,7 +18,7 @@
 
 <p>Have you ever been to the Google Lemming Factory? It is a very unusual place. The floor is arranged into an&nbsp;<strong>R</strong>&nbsp;x&nbsp;<strong>C</strong>&nbsp;grid. Within each grid square, there is a conveyor belt oriented up-down, left-right, or along one of the two diagonals. The conveyor belts move either forwards or backwards along their orientations, and you can independently choose which of the two possible directions each conveyor belt should move in.</p>
 
-<p><img src="https://onlinejudgeimages.s3.amazonaws.com/problem/12479/images-36.png" style="border:0px; opacity:0.9; vertical-align:middle" /></p>
+<p><img src="%EB%B0%B1%EC%A4%80/Silver/12479.%E2%80%85Perpetual%E2%80%85Motion%E2%80%85(Small)/e408a6af.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/12479/images-36.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="border:0px; opacity:0.9; vertical-align:middle" /></p>
 
 <p>Currently, there is a single lemming standing at the center of each square. When you start the conveyor belts, each lemming will move in the direction of the conveyor belt he is on until he reaches the center of a new square. All these movements happen simultaneously and take exactly one second to complete. Afterwards, the lemmings will all be on new squares, and the process will repeat from their new positions. This continues forever, or at least until you turn off the conveyor belts.</p>
 
@@ -32,7 +32,7 @@
 
 <p>Here are two ways of assigning directions to each conveyor belt from the earlier example:</p>
 
-<p><img src="https://onlinejudgeimages.s3.amazonaws.com/problem/12479/images-37.png" style="border:0px; vertical-align:middle" /></p>
+<p><img src="%EB%B0%B1%EC%A4%80/Silver/12479.%E2%80%85Perpetual%E2%80%85Motion%E2%80%85(Small)/780fbdc9.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/12479/images-37.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="border:0px; vertical-align:middle" /></p>
 
 <p>&nbsp;</p>
 

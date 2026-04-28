@@ -18,7 +18,7 @@
 
 <p>햄최$125$인 지훈이는 먹은 햄버거를 소화하기 위해 $60$일을 굶었다. 슬슬 배가 고픈 지훈이는 부엌에서 직접 음식을 요리해 먹기로 했다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/3ea11d52-6c6b-47db-9df6-e0d703f03525/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/27925.%E2%80%85%EC%9D%B8%EB%8D%95%EC%85%98/bab99351.png" data-original-src="https://upload.acmicpc.net/3ea11d52-6c6b-47db-9df6-e0d703f03525/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>부엌에는 인덕션이 있고, 인덕션에 요리할 수 있는 공간이 총 세 개 있다. 그리고 공간마다 따로 있는 온도 조절 버튼 $(-,+)$으로 온도를 조절할 수 있다. 온도는 다음 규칙을 따른다.</p>
 

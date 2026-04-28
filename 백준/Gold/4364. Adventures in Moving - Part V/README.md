@@ -29,7 +29,7 @@
 
 <p>You may assume there are no obstructions (such as a ceiling or the ground) outside the truck that might interfere with loading.</p>
 
-<p style="text-align: center;"><img alt="" src="/upload/images3/tilt.gif" style="height:250px; width:512px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/4364.%E2%80%85Adventures%E2%80%85in%E2%80%85Moving%E2%80%85-%E2%80%85Part%E2%80%85V/119b9333.gif" data-original-src="https://www.acmicpc.net/upload/images3/tilt.gif" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:250px; width:512px" /></p>
 
 ### 입력
 

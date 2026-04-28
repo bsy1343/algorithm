@@ -22,7 +22,7 @@
 
 <p>Dla przykładu, jeżeli rozważymy ciąg <code>()())</code>, to ma on 15 niepustych sp&oacute;jnych fragment&oacute;w (wypisanych poniżej), z czego jedynie 3 z nich są poprawnymi nawiasowaniami (oznaczone zielonym kolorem).</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/ca0ec9f3-d30d-453b-a43b-5750f9bceef2/-/preview/" style="width: 290px; height: 159px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/26740.%E2%80%85Nawiasowania/ea4857ad.png" data-original-src="https://upload.acmicpc.net/ca0ec9f3-d30d-453b-a43b-5750f9bceef2/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 290px; height: 159px;" /></p>
 
 <p>Bajtosia zastanawia się, czy istnieje taki ciąg nawias&oacute;w, dla kt&oacute;rego liczba sp&oacute;jnych fragment&oacute;w będących poprawnymi nawiasowaniami wynosi dokładnie N. Czy jesteś w stanie pom&oacute;c jej wygenerować taki ciąg nawias&oacute;w? Ciąg ten nie powinien być zbyt długi &ndash; jego długość nie powinna przekraczać 100 000 znak&oacute;w.</p>
 

@@ -41,8 +41,8 @@
 <table class="table table-bordered">
 	<tbody>
 		<tr>
-			<td><img alt="" src="https://upload.acmicpc.net/c5262838-f440-410c-b3d3-8a508680923b/-/preview/" style="width: 77px; height: 76px;" /></td>
-			<td><img alt="" src="https://upload.acmicpc.net/45610b46-8db8-4a93-9460-b75fe7fc0b19/-/preview/" style="width: 98px; height: 98px;" /></td>
+			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/28730.%E2%80%85%D0%A1%D1%83%D0%BC%D0%B0%D1%81%D1%88%D0%B5%D0%B4%D1%88%D0%B5%D0%B5%E2%80%85%D0%B4%D0%BE%D0%BC%D0%B8%D0%BD%D0%BE/bdaa0f14.png" data-original-src="https://upload.acmicpc.net/c5262838-f440-410c-b3d3-8a508680923b/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 77px; height: 76px;" /></td>
+			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/28730.%E2%80%85%D0%A1%D1%83%D0%BC%D0%B0%D1%81%D1%88%D0%B5%D0%B4%D1%88%D0%B5%D0%B5%E2%80%85%D0%B4%D0%BE%D0%BC%D0%B8%D0%BD%D0%BE/b1e0dcb9.png" data-original-src="https://upload.acmicpc.net/45610b46-8db8-4a93-9460-b75fe7fc0b19/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 98px; height: 98px;" /></td>
 		</tr>
 		<tr>
 			<td>(a) Первый тест</td>

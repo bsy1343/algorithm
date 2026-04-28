@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p><a href="https://www.publicdomainpictures.net/se/view-image.php?image=279898"><img alt="" src="https://upload.acmicpc.net/bc6bca59-d94c-4a66-a2b8-a1c77a88c2cf/-/preview/" style="width: 200px; height: 159px; float: right;" /></a>Anton is a famous choir singer in the <em>Kongliga Teknologk&ouml;ren</em>, the KTH choir. After years of careful political maneuvering, he managed to become the chairman of the choir. As such he has absolute power of what the choir does -- including what pieces to rehearse.</p>
+<p><a href="https://www.publicdomainpictures.net/se/view-image.php?image=279898"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/22034.%E2%80%85Alto%E2%80%85Singing/751b45d8.png" data-original-src="https://upload.acmicpc.net/bc6bca59-d94c-4a66-a2b8-a1c77a88c2cf/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 200px; height: 159px; float: right;" /></a>Anton is a famous choir singer in the <em>Kongliga Teknologk&ouml;ren</em>, the KTH choir. After years of careful political maneuvering, he managed to become the chairman of the choir. As such he has absolute power of what the choir does -- including what pieces to rehearse.</p>
 
 <p>Anton has chosen a particular song he likes very much that he wants the choir to sing. There is only a slight problem -- the song is not at all suited for his particular vocal range. Anton has the <em>alto</em> vocal range, and wants to make sure that the most important part of the piece is perfect for his voice.</p>
 

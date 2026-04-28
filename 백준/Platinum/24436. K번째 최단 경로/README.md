@@ -29,7 +29,7 @@
 
 <p>아래 그림은 $L = 2$ 인 경우 그래프의 일부를 보여준다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/5eaba66a-f88e-4ce2-96c1-74530ffcb0b1/-/preview/" style="width: 500px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/24436.%E2%80%85K%EB%B2%88%EC%A7%B8%E2%80%85%EC%B5%9C%EB%8B%A8%E2%80%85%EA%B2%BD%EB%A1%9C/6a860d89.png" data-original-src="https://upload.acmicpc.net/5eaba66a-f88e-4ce2-96c1-74530ffcb0b1/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 500px;" /></p>
 
 <p>위 규칙에 따라 그래프를 만든 뒤, Alice는 Bob에게 두 정점 $x$와 $y$사이의 최단 경로 중 사전 순으로 정렬했을 시 $K$번째에 해당하는 최단 경로를 찾아보라고 했다. 예를 들어 $L = 2$, $x = 37$, $y = 55$인 경우를 생각해보자. 이 경우 두 노드 사이의 최단 거리는 $4$이며, 아래와 같이 총 여섯 개의 최단 경로가 존재한다. 만약 $K = 3$이라면 정답은 $3$번째 최단 경로인 $37 - 36 - 46 - 56 - 55$가 된다.</p>
 

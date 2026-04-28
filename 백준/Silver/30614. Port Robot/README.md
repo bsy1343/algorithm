@@ -27,7 +27,7 @@
 
 <p>There are 26 types of containers in this port, each one characterized by a letter of the Latin alphabet. Each time an action is performed, the robot logs the type of the container in lowercase when storing a container and in uppercase when taking a container from storage. Your task is to <u>check</u> if the logs produced by a robot indicate stable operation. In stable operation, the logged containers of action type 2 exist in storage and are in the uppermost position. Moreover, in stable operation, we always end with empty storage.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/0c20ad0e-7ec0-47d4-b76f-1f8732535c06/-/preview/" style="width: 484px; height: 400px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/30614.%E2%80%85Port%E2%80%85Robot/b9474f2e.png" data-original-src="https://upload.acmicpc.net/0c20ad0e-7ec0-47d4-b76f-1f8732535c06/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 484px; height: 400px;" /></p>
 
 <p>As an example, consider a scenario in which the robot produces the log: &#39;cdDC&#39;. Here, we have a stable operation of the robot, as the robot initially places &#39;c&#39; and then &#39;d&#39; (indicating that &#39;d&#39; is in the upper position). The robot then takes the first &#39;d&#39; out and, finally, takes out &#39;c&#39;. On the other hand, an unstable operation would result from the log: &#39;cdCD&#39;, since the robot cannot take &#39;c&#39; before taking out &#39;d&#39;.</p>
 

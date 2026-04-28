@@ -18,7 +18,7 @@
 
 <p>&#39;<strong>테스트케이스(TestCase)</strong>&#39;란 사용자가 제출한 코드가 옳은 답을 출력하는지 판단하기 위한 데이터다. 한 문제는 여러 개의 테스트케이스를 가지며, 문제를 &#39;맞았다&#39;는 것은 해당 문제의 모든 테스트케이스를 통과했다는 것을 의미한다. 즉, 하나의 테스트케이스라도 틀린다면 해당 문제는 틀린 것이 된다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15820/1.png" style="width: 418px; height: 104px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/15820.%E2%80%85%EB%A7%9E%EC%95%98%EB%8A%94%EB%8D%B0%E2%80%85%EC%99%9C%E2%80%85%ED%8B%80%EB%A6%AC%EC%A3%A0%3F/6299af15.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15820/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 418px; height: 104px;" /></p>
 
 <p style="text-align: center;">그림1. 실제 대회 시스템의 채점 방식을 나타내는 그림</p>
 

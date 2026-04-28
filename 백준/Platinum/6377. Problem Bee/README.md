@@ -18,7 +18,7 @@
 
 <p>Imagine a perfectly formed honeycomb, spanning the infinite Cartesian plane. It is an interlocking grid composed of congruent equilateral hexagons. One hexagon is located so that its center is at the origin and has two corners on the X-axis. A bee must be very careful about how it travels in order not to get lost in the infinite plane. To get from an arbitrary point A to another arbitrary point B, it will first head from A to the exact center of the hexagon in which A is located. Then, it will travel in a straight line to the exact center of an adjacent hexagon. It will move from center to adjacent center until it has reached the hexagon containing point B. At the destination hexagon, it will move from the center to point B. In all cases the bee will take a path of minimal distance that obeys the rules. The figure below demonstrates one possible minimal path from point A to point B.</p>
 
-<p><img alt="" src="https://onlinejudgeimages.s3.amazonaws.com/problem/6377/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-06-13%20%EC%98%A4%ED%9B%84%205.31.01.png" style="height:319px; width:640px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/6377.%E2%80%85Problem%E2%80%85Bee/bc0d12be.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/6377/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-06-13%20%EC%98%A4%ED%9B%84%205.31.01.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:319px; width:640px" /></p>
 
 ### 입력
 

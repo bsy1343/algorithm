@@ -20,7 +20,7 @@
 
 <p>However, the fence is made out of N non-uniform pieces of wood, and your neighbour believes that they have an artistic flair. In particular, the pieces of wood may be of various widths. The bottom of each piece of wood will be horizontal, both sides will be vertical, but its top may be cut on an angle. Two such pieces of wood are shown below:</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/75da34c5-330f-4648-944a-e95cea3b7493/-/preview/" style="width: 126px; height: 123px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/21617.%E2%80%85Crazy%E2%80%85Fencing/4f3d21be.png" data-original-src="https://upload.acmicpc.net/75da34c5-330f-4648-944a-e95cea3b7493/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 126px; height: 123px;" /></p>
 
 <p>Thankfully, the fence has been constructed so that adjacent pieces of wood have the same height on the sides where they touch, which makes the fence more visually appealing.</p>
 

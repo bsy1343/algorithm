@@ -20,7 +20,7 @@
 
 <p>The grids below show the steps in encoding the message <code>GENERAL TSO NEEDS CHICKEN NOW</code>. The first grid shows the encoding after the first diamond has been filled in. The second, third and fourth grids show successively smaller diamonds being filled in. Finally, the last grid shows the final message after random letters have been placed in the empty squares around the grid.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/cdfeb3ab-e6e1-402d-8dda-aba4113e1ff4/-/preview/" style="width: 516px; height: 272px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/17847.%E2%80%85Diamonds%E2%80%85Are%E2%80%85for%E2%80%85Evers/9dfcde0a.png" data-original-src="https://upload.acmicpc.net/cdfeb3ab-e6e1-402d-8dda-aba4113e1ff4/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 516px; height: 272px;" /></p>
 
 <p>Note that if the original message had not filled in the entire set of diamonds then random letters would have been used to fill those empty slots as well (see Sample Input 2 for an example of this when encoding <code>GENERAL TSO HATES CHICKEN</code>). To send the message, Evers concatenates all the rows together, topto-bottom. The above grid would be sent as</p>
 

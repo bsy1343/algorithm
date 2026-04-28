@@ -50,10 +50,10 @@
 
 <p>For the first sample test case, the following illustration shows who held which medals throughout the tournament. When participant 1 loses on the 3rd day, all her medals are given to participant 2.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/47411c88-f757-448b-acdc-06741a2d3a78/-/preview/" style="width: 350px; height: 193px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/28594.%E2%80%85Padel%E2%80%85Prize%E2%80%85Pursuit/9e88ebca.png" data-original-src="https://upload.acmicpc.net/47411c88-f757-448b-acdc-06741a2d3a78/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 350px; height: 193px;" /></p>
 
 <p>The second sample can be seen below.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/d1a69987-f743-4e8e-af17-4f5459000ac2/-/preview/" style="width: 700px; height: 261px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/28594.%E2%80%85Padel%E2%80%85Prize%E2%80%85Pursuit/236eb310.png" data-original-src="https://upload.acmicpc.net/d1a69987-f743-4e8e-af17-4f5459000ac2/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 700px; height: 261px;" /></p>
 
 <p>After the prize ceremony, participant 0 is given medals 5 and 6, participant 1 is given medals 3 and 4, and participant 2 is given medals 0, 1 and 2.</p>

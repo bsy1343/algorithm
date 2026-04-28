@@ -32,7 +32,7 @@
 
 <p>다음은 $N=5$일 때의 올바른 색칠과 올바르지 않은 색칠의 예시다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/62b30bfb-f0ee-4685-bfff-0704417d0a6c/-/preview/" style="width: 350px; height: 202px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/23048.%E2%80%85%EC%9E%90%EC%97%B0%EC%88%98%E2%80%85%EC%83%89%EC%B9%A0%ED%95%98%EA%B8%B0/776002bf.png" data-original-src="https://upload.acmicpc.net/62b30bfb-f0ee-4685-bfff-0704417d0a6c/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 350px; height: 202px;" /></p>
 
 <p>첫 번째 색칠은 <strong>올바른 색칠</strong>이다. $2$와 $4$는 같은 색으로 색칠했지만, 서로소가 아니므로 문제의 조건에 위배되지 않는다. 또한, $5$까지의 자연수를 색칠하기 위해 최소 $4$개의 색이 필요함을 증명할 수 있다.</p>
 

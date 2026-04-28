@@ -44,7 +44,7 @@
 
 ### 힌트
 
-<p><img alt="" src="https://onlinejudgeimages.s3.amazonaws.com/problem/8215/1.gif" style="height:144px; width:143px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/8215.%E2%80%85Inspection/f84caf74.gif" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/8215/1.gif" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:144px; width:143px" /></p>
 
 <p>The figure illustrates the railway network as specified in the example. It is possible to inspect all the stations only for S=2. One optimal order of inspection is: 7, 4, 8, 6, 1, 5, 3, 9. It results in 23 hours of travel.</p>
 

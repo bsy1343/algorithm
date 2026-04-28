@@ -18,7 +18,7 @@
 
 <p>준민이는 점프를 좋아한다. 창영이는 그의 점프력을 시험하기 위해 수직선을 하나 놓고, a 이상 b 이하의 모든 정수 좌표에 맛있는 초콜릿을 놓았다. 수직선은 아래의 그림과 같이 나타낼 수 있다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11564/1.png" style="height:45px; width:270px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/11564.%E2%80%85%EC%A0%90%ED%94%84%EC%99%95%E2%80%85%EC%B5%9C%EC%A4%80%EB%AF%BC/8392b23b.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11564/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:45px; width:270px" /></p>
 
 <p>준민이는 항상 0에서 시작하며, 준민이의 점프력이 k 라면 한 번 점프를 하여 -k 나 +k 좌표에 도달한다. 준민이는 항상 점프 거리가 k가 되도록 점프를 한다. 만약 0의 위치에 초콜릿이 있다면, 준민이는 점프하기 전에 초콜릿을 일단 먹고 시작한다.</p>
 

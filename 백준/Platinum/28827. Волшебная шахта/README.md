@@ -32,8 +32,8 @@
 
 <p>Пояснение к первому тесту, штрихованным отмечены части, которые нужно выкопать:</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/dc3ceaa5-a82a-441f-adee-41f1ec04555d/-/preview/" style="width: 149px; height: 175px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/28827.%E2%80%85%D0%92%D0%BE%D0%BB%D1%88%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F%E2%80%85%D1%88%D0%B0%D1%85%D1%82%D0%B0/8497c770.png" data-original-src="https://upload.acmicpc.net/dc3ceaa5-a82a-441f-adee-41f1ec04555d/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 149px; height: 175px;" /></p>
 
 <p>Пояснение ко второму тесту:</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/7cdb6253-621e-4d22-b78e-95cb281e9ed5/-/preview/" style="width: 150px; height: 200px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/28827.%E2%80%85%D0%92%D0%BE%D0%BB%D1%88%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F%E2%80%85%D1%88%D0%B0%D1%85%D1%82%D0%B0/1640f4b1.png" data-original-src="https://upload.acmicpc.net/7cdb6253-621e-4d22-b78e-95cb281e9ed5/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 150px; height: 200px;" /></p>

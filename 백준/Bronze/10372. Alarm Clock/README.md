@@ -20,11 +20,11 @@
 
 <p>Alice&rsquo;s clock have four digits: two for hours and two for minutes. For example, the clock below shows 9:30 (note the leading zero).</p>
 
-<p style="text-align:center"><img alt="" src="/upload/images2/alarm1.png" style="height:69px; width:149px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/10372.%E2%80%85Alarm%E2%80%85Clock/d919781d.png" data-original-src="https://www.acmicpc.net/upload/images2/alarm1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:69px; width:149px" /></p>
 
 <p>The clock uses following digit representation.</p>
 
-<p style="text-align:center"><img alt="" src="/upload/images2/alarm2.png" style="height:69px; width:395px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/10372.%E2%80%85Alarm%E2%80%85Clock/3ee80093.png" data-original-src="https://www.acmicpc.net/upload/images2/alarm2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:69px; width:395px" /></p>
 
 ### 입력
 

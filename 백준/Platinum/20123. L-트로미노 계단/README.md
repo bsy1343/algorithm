@@ -16,19 +16,19 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/1ca0cce9-314c-46bc-8a1a-70425b4a9d93/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/20123.%E2%80%85L-%ED%8A%B8%EB%A1%9C%EB%AF%B8%EB%85%B8%E2%80%85%EA%B3%84%EB%8B%A8/5d7d8d16.png" data-original-src="https://upload.acmicpc.net/1ca0cce9-314c-46bc-8a1a-70425b4a9d93/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>엘과 제이는 L-트로미노를 가지고 놀고 있다.</p>
 
 <p>L-트로미노는 1 x 1 블럭 3개를 L 모양으로 이어붙인 도형이고 회전하여 사용할 수 있다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/54cb901f-0f9b-40a6-a8c4-044b2dd2ddfc/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/20123.%E2%80%85L-%ED%8A%B8%EB%A1%9C%EB%AF%B8%EB%85%B8%E2%80%85%EA%B3%84%EB%8B%A8/d664a587.png" data-original-src="https://upload.acmicpc.net/54cb901f-0f9b-40a6-a8c4-044b2dd2ddfc/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p style="text-align: center;">&lt; 1층, 2층, 3층, 4층 계단 &gt;</p>
 
 <p>1층 계단은 1 x 1 블럭 하나만 있는 도형이며 <em>N</em>층 계단은 <em>(N-1)</em>층 계단에서 아래에 (가로 <em>N</em>) x (세로 1) 블럭을 이어 붙인 도형이다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/3b1c15cb-ad9a-401b-965c-d2d72575edf4/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/20123.%E2%80%85L-%ED%8A%B8%EB%A1%9C%EB%AF%B8%EB%85%B8%E2%80%85%EA%B3%84%EB%8B%A8/6e955de7.png" data-original-src="https://upload.acmicpc.net/3b1c15cb-ad9a-401b-965c-d2d72575edf4/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p style="text-align: center;">&lt;&nbsp;L-트로미노 7개를 사용하여 만든 6층 계단 &gt;</p>
 

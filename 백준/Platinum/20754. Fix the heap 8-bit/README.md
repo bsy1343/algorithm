@@ -46,4 +46,4 @@
 
 <p>Illustration for the second example (integers displayed in decimal format):</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/be770155-539b-4926-b1f6-f10fa6a4f692/-/preview/" style="width: 332px; height: 61px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/20754.%E2%80%85Fix%E2%80%85the%E2%80%85heap%E2%80%858-bit/03ab23b1.png" data-original-src="https://upload.acmicpc.net/be770155-539b-4926-b1f6-f10fa6a4f692/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 332px; height: 61px;" /></p>

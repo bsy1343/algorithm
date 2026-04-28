@@ -25,7 +25,7 @@
 
 <p>It&rsquo;s well known that the optimal (i.e., shortest) solution for a Tower of Hanoi puzzle with n disks involves 2<sup>n</sup> &minus; 1 moves. The optimal solution for n = 3 is shown below (where the start peg is the leftmost peg and the destination peg is the rightmost peg):</p>
 
-<p style="text-align:center"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15075/1.png" style="height:177px; width:650px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/15075.%E2%80%85That%E2%80%99s%E2%80%85One%E2%80%85Hanoi-ed%E2%80%85Teacher/c8eb361f.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15075/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:177px; width:650px" /></p>
 
 <p style="text-align:center">Figure G.1</p>
 

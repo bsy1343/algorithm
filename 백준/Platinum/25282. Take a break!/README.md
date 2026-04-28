@@ -26,7 +26,7 @@
 
 <p>For instance, here are two (suboptimal) ways of scheduling the four tasks in sample $3$:</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/2b1a98a4-acf0-4ab8-9bbe-5a8c413ba5de/-/preview/" style="width: 512px; height: 168px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/25282.%E2%80%85Take%E2%80%85a%E2%80%85break!/ff61df3f.png" data-original-src="https://upload.acmicpc.net/2b1a98a4-acf0-4ab8-9bbe-5a8c413ba5de/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 512px; height: 168px;" /></p>
 
 <p>In both schedules, task 3 takes $2^2\cdot 1000=4000$ seconds.</p>
 

@@ -29,7 +29,7 @@
 
 <p>Given the layout of the cell and the location of the prisoner, assign a fraction of power each Sorcerer should spend so that the containment spell works.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/6f351cf9-2012-43fa-9da3-23ef0ee1cdbe/-/preview/" style="width: 241px; height: 145px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/17792.%E2%80%85Keep%E2%80%85Him%E2%80%85Inside/d0797fb1.png" data-original-src="https://upload.acmicpc.net/6f351cf9-2012-43fa-9da3-23ef0ee1cdbe/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 241px; height: 145px;" /></p>
 
 <p>Figure K.1: The prison of sample 1. S<sub>1</sub>, S<sub>2</sub>, and S<sub>3</sub> are the Sorcerers, while P is the prisoner. Note that (1/3)S<sub>1</sub> + (1/3)S<sub>2</sub> + (1/3)S<sub>3</sub> = 1/3(0, 0) + 1/3(3, 0) + 1/3(0, 3) = (1, 1) = P.</p>
 

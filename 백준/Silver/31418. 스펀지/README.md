@@ -20,7 +20,7 @@
 
 <p>바이러스는 $1$초마다 스펀지 바깥으로 벗어나지 않는 선에서 자신이 위치한 칸의 상하좌우 및 대각선 $8$칸으로 이동하거나, 자신이 위치한 칸에 가만히 있을 수 있다. 한 칸에 바이러스는 여러 마리 존재할 수 있으며, 모양이 다르기 때문에 구분이 가능하다.</p>
 
-<p style="text-align: center;"><img alt="" height="399" src="https://u.acmicpc.net/d70df67b-8e96-448a-a9ea-2cf4be9e193b/62wPX6.png" width="550" /></p>
+<p style="text-align: center;"><img alt="" height="399" src="%EB%B0%B1%EC%A4%80/Silver/31418.%E2%80%85%EC%8A%A4%ED%8E%80%EC%A7%80/54dc859d.png" data-original-src="https://u.acmicpc.net/d70df67b-8e96-448a-a9ea-2cf4be9e193b/62wPX6.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" width="550" /></p>
 
 <p><strong>raa</strong>는 바이러스들을 관찰하다 $T$초 후 가능한 서로 다른 바이러스 분포의 수가 궁금해졌다. 두 바이러스 분포의 어떤 바이러스의 위치가 다를 경우 두 분포는 다르다. <strong>raa</strong>를 도와 그 수를 구하자.</p>
 

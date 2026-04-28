@@ -27,7 +27,7 @@
 
 <p>Każde kolejne odwiedzone pole zawodnik numeruje kolejną liczbą naturalną. Dodatkowo zakładamy, że w pierwszym ruchu zawodnik nie może wykonać skrętu, a jedynie p&oacute;jść naprz&oacute;d w wyznaczonym kierunku. Pole startowe musi więc zostać wybrane z rozwagą. Jeżeli na przykład kwadrat ma bok długości $5$, zadany został kierunek p&oacute;łnoc i skręt w prawo, to doświadczony zawodnik wybrałby jako pole startowe r&oacute;g południowo-zachodni, a cały ponumerowany kwadrat wyglądałby tak:</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/adabf349-f983-4575-91d8-50383d71b1ab/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/8606.%E2%80%85Klasy/119356e1.png" data-original-src="https://upload.acmicpc.net/adabf349-f983-4575-91d8-50383d71b1ab/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>Twoim zadaniem jest napisanie programu, kt&oacute;ry wypisze zawartość pewnego zadanego wycinka kwadratu wypełnionego przez dzieci.</p>
 

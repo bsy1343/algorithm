@@ -22,7 +22,7 @@
 
 <p>아래 그림 (a)는 꼭짓점의 수가 10개인 원에 내접하는 다각형이고, (b)는 (a)에서&nbsp;꼭짓점 다섯 개를 제거해, 정오각형을 만든 그림이다.</p>
 
-<p><img alt="" src="/upload/images/poly(1).png" style="height:186px; width:386px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/5729.%E2%80%85%EC%88%98%EC%B6%95%ED%95%98%EB%8A%94%E2%80%85%EB%8B%A4%EA%B0%81%ED%98%95/f0e2092d.png" data-original-src="https://www.acmicpc.net/upload/images/poly(1).png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:186px; width:386px" /></p>
 
 <p>다각형의 변의 개수는 적어도 세 개이다.</p>
 

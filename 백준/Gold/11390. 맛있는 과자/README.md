@@ -18,7 +18,7 @@
 
 <p>엘리가 좋아하는 과자는 직각삼각형 모양이고, 빗변을 제외한 다른 두 변의 길이가 각각 a와 b이다. 어느 날 엘리는 이 과자를 많이 많이 먹을 수 있는 방법을 떠올리고 자신의 천재성에 전율했다.</p>
 
-<p style="text-align:center"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11390/1.png" style="height:212px; width:304px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/11390.%E2%80%85%EB%A7%9B%EC%9E%88%EB%8A%94%E2%80%85%EA%B3%BC%EC%9E%90/45916e4e.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11390/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:212px; width:304px" /></p>
 
 <p>엘리는 빗변의 양 끝점이 아닌 점에서 빗변으로 과자를 자르면 직각삼각형 두 개를 만들 수 있다는 것을 알았다! 사실 이렇게 잘라봐야 과자의 총 면적은 같지만, 어린 엘리는 과자가 두 개가 되었다는 사실이 너무 행복했고 이런 방법을 떠올린 자신이 너무 기특했다. 그리고 또 생각했다. 직각삼각형 모양 과자가 두 개가 되었으니까 이 두 개를 아까처럼 자르면 직각삼각형 모양 과자가 네 개&hellip; 여덟 개&hellip; 2<sup>N</sup>개! 즉 엘리가 하나의 직각삼각형 모양 과자를 가지고 시작해서 자신이 가진 모든 과자를 잘라 과자의 개수를 두 배로 불리는 것을 N번 반복하면 엘리가 가진 직각삼각형 모양 과자의 개수는 2<sup>N</sup>개가 되는 것이다! 이렇게 자르는 것은 엘리가 가진 놀라운 힘을 이용하면 간단한 것이었고, 엘리는 이미 이런 식으로 과자들을 자르는 행위를 N번 반복해 2<sup>N</sup>개의 조각을 가지고 있다.</p>
 

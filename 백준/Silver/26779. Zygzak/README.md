@@ -18,7 +18,7 @@
 
 <p>Bajtosia ma sw&oacute;j ulubiony ułamek zwykły p/q , gdzie p oraz q są liczbami całkowitymi dodatnimi. Ułamek Bajtosi niekoniecznie jest ułamkiem w postaci skr&oacute;conej, może to być ułamek 1 2 , 4 8 , lub 6 4 . Na kartce w kratkę narysowała (wzdłuż linii kratek) prostokąt o wysokości p i szerokości q. W tym prostokącie narysowała przekątną od lewego dolnego rogu do prawego g&oacute;rnego rogu. Następnie, r&oacute;wnież od lewego dolnego rogu do prawego g&oacute;rnego rogu, poprowadziła zygzak pod narysowaną przekątną, przesuwając oł&oacute;wek w prawo lub do g&oacute;ry wzdłuż linii kratek. Zygzak musi przez cały czas biec jak najwyżej to możliwe, jednak nigdy nie powinien przekraczać przekątnej (choć może jej dotykać). Innymi słowy: Bajtosia zawsze rysuje kreskę w g&oacute;rę, o ile nie przekracza w ten spos&oacute;b przekątnej. Jeżeli kreska przekroczyłaby przekątną, wtedy rysuje kreskę w prawo.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/dd6c67b7-54e6-4618-b7b7-07f56eb654c5/-/preview/" style="width: 501px; height: 87px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/26779.%E2%80%85Zygzak/198ec7c0.png" data-original-src="https://upload.acmicpc.net/dd6c67b7-54e6-4618-b7b7-07f56eb654c5/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 501px; height: 87px;" /></p>
 
 <p style="text-align: center;">Rysunki powyżej przedstawiają przykładową sytuację, gdy ułamkiem Bajtosi jest 2/3. Po lewej stronie mamy prostokąt o wysokości 2 i szerokości 3. Środkowy rysunek ma narysowaną przekątną (linią przerywaną). Rysunek po prawej ma zaznaczony odpowiadający zygzak.</p>
 

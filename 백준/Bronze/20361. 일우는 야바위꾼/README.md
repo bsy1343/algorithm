@@ -25,7 +25,7 @@
 	<li>그 컵에 공이 숨겨져 있다면&nbsp;참가자가, 그렇지 않다면 진행자가 이긴다.</li>
 </ol>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/3a3fbee0-2322-4556-a978-1732f9da439f/-/preview/" style="height: 225px; width: 300px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/20361.%E2%80%85%EC%9D%BC%EC%9A%B0%EB%8A%94%E2%80%85%EC%95%BC%EB%B0%94%EC%9C%84%EA%BE%BC/fdbf9e88.png" data-original-src="https://upload.acmicpc.net/3a3fbee0-2322-4556-a978-1732f9da439f/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 225px; width: 300px;" /></p>
 
 <p>수혁이는 Shell Game을 잘하고 싶다. 하지만, 일우가 진행자라면 무슨 수를 써도 이길 수 없어 수혁이는 일우의 사기도박을 의심하고 있다. 현재 우리는 수혁과 일우가 진행한 Shell Game의 모든 기록을 입수했다. 이를 바탕으로, 일우가 사기도박을 하지 않았다면 공이 몇 번째 컵에 있는지 알려주는 프로그램을 작성하자.</p>
 

@@ -34,7 +34,7 @@
 
 <p style="text-align: center;">a 🍰 b = (a.z + b.x, a.y &times; b.y, a.x + b.z)</p>
 
-<p style="text-align: center;"><img alt="케이크와 마카롱 사진" src="https://upload.acmicpc.net/241defcd-0b6c-461f-b354-a2435f3ba56c/-/crop/1549x1071/0,0/-/preview/" style="height: 277px; width: 400px;" /></p>
+<p style="text-align: center;"><img alt="케이크와 마카롱 사진" src="%EB%B0%B1%EC%A4%80/Bronze/17256.%E2%80%85%EB%8B%AC%EB%8B%AC%ED%95%A8%EC%9D%B4%E2%80%85%EB%84%98%EC%B3%90%ED%9D%98%EB%9F%AC/b64cc868.png" data-original-src="https://upload.acmicpc.net/241defcd-0b6c-461f-b354-a2435f3ba56c/-/crop/1549x1071/0,0/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 277px; width: 400px;" /></p>
 
 <p>SCCC의 회장 욱제는 케이크 수를 이용해 문제를 만들기로 했다. 마카롱과 욱제를 기쁘게 하기 위해서 문제를 풀어주자! 욱제가 만든 문제는 다음과 같다.</p>
 

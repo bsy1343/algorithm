@@ -18,7 +18,7 @@
 
 <p>코코네 초콜릿 가게에서는 밸런타인데이 특별 상품으로 정육각형 $3$개를 삼각형 모양으로 붙인 초콜릿을 판매하려고 한다. 코코는 같은 크기의 정육각형 $\frac{N(N+1)}{2}$개를 삼각형 모양으로 붙인 형태의 틀에 이 초콜릿들을 빈틈없이 넣어 포장하려고 한다. 그리고 이를 조금 더 예뻐 보이게 하기 위해, 위로 뾰족한 방향으로 배치된 초콜릿은 빨간색, 반대 방향의 초콜릿은 파란색으로 개별 포장을 하기로 했다. 포장이 완료된 상품은 겉에서 볼 때 각각의 육각형이 빨간색인지 파란색인지만 알 수 있고, 어느 칸들이 같은 조각인지는 알 수 없다.</p>
 
-<p style="display: flex; flex-direction: row; justify-content: center;"><img alt="" src="https://upload.acmicpc.net/cc0a45c3-1065-48be-ba9f-d04d075afda9/-/preview/" style="max-height: 283px; max-width: 100%" /></p>
+<p style="display: flex; flex-direction: row; justify-content: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/31462.%E2%80%85%EC%82%BC%EA%B0%81%E2%80%85%EC%B4%88%EC%BD%9C%EB%A6%BF%E2%80%85%ED%8F%AC%EC%9E%A5%E2%80%85(Sweet)/be562fde.png" data-original-src="https://upload.acmicpc.net/cc0a45c3-1065-48be-ba9f-d04d075afda9/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="max-height: 283px; max-width: 100%" /></p>
 
 <p>코코네 가게에 놀러 온 한별이는 완성된 상품을 구경하다가, 다른 모양의 초콜릿이 들어 있는 것으로 보이는 상품을 보게 되었다. 한별이를 도와서 주어진 상품이 잘못되었는지 판별하여 코코에게 알려주자.</p>
 

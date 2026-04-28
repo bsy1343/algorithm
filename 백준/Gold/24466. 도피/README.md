@@ -20,7 +20,7 @@
 
 <p>경찰은 병준이가 하루 동안 각 도시를 이동할 확률을 알고 있다. 확률에 따라 병준이가 탈옥한 날로부터 $9$일이 지난 후, 병준이가 어느 도시에 있는지 구하려고 한다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/e226508c-684b-43e6-8ae8-eefa8e977ee0/-/preview/" style="height: 375px; width: 667px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/24466.%E2%80%85%EB%8F%84%ED%94%BC/ff96aaee.png" data-original-src="https://upload.acmicpc.net/e226508c-684b-43e6-8ae8-eefa8e977ee0/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 375px; width: 667px;" /></p>
 
 <p>위 그림을 예로 들어 보자. $0$번 도시에 감옥이 있고, 각 도시에서 다른 도시로 이동할 확률이 나타나 있다.</p>
 

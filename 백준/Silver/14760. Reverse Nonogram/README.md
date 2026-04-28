@@ -18,7 +18,7 @@
 
 <p>A Nonogram is a pencil puzzle played on a grid. The grid is initially blank. There are numbers on the side and top of the grid, which indicate how the grid squares should be filled in. The numbers measure how many unbroken lines of filled-in squares there are in any given row or column. For example, a clue of &quot;4 8 3&quot; would mean there are sets of four, eight, and three filled squares, in that order, with at least one blank square between successive groups. Here is a small example, with its solution.</p>
 
-<p style="text-align: center;"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14760/1.png" style="height:168px; width:443px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/14760.%E2%80%85Reverse%E2%80%85Nonogram/05c880e8.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14760/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:168px; width:443px" /></p>
 
 <p>You are going to work backwards. Given a Nonogram solution, produce the numbers which should be at the side and top of the grid.</p>
 

@@ -24,7 +24,7 @@
 
 <p>You are given the number of columns <em>c</em> and the desired sum of each triplet <em>s</em>. Compute the number of ways to fill the table in the desired way. Since this number may be large, compute it modulo 10<sup>9</sup> + 9.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/9b480dcc-41a2-45e2-aad3-904b59ef4f8d/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/27673.%E2%80%85Ultimate%E2%80%85magic%E2%80%85rectangles%E2%80%85(Hard)/09e93707.png" data-original-src="https://upload.acmicpc.net/9b480dcc-41a2-45e2-aad3-904b59ef4f8d/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>Above: one of the many triplets on a board with <em>c</em> = 8 columns.</p>
 

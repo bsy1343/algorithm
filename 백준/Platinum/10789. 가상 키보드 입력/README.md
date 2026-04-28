@@ -18,7 +18,7 @@
 
 <p dir="ltr">그림 1의 왼쪽은 4x7 크기의 가상 키보드를 보여주며, 사용자가 텍스트를 입력하기 위해서는 가상 키보드의 키를 직접 누르는 대신에 그림 오른쪽에 보여지는 5개의 하드웨어 버튼을 이용해야 합니다. 가상 키보드의 왼쪽 맨 위 키의 위치에서 시작하는 &ldquo;커서&rdquo;가 있으며, 네 개의 화살표 버튼은 커서의 움직임을 제어합니다. 화살표를 한 번 누르면 다른 글자가 나올 때까지 그 방향으로 이동하지만, 그런 글자가 없으면 이동하지 않습니다. 커서가 적절한 키 위에있을 때 선택 (SEL) 버튼을 누르면 해당 문자가 선택되고 텍스트의 끝에 추가됩니다. 이러한 방식으로 주어진 텍스트의 문자들을 입력할 수 있으며 텍스트를 종료하려면 사용자가 Enter 키를 찾아 선택해야 (즉, 선택 버튼을 눌러야) 합니다.</p>
 
-<p style="text-align:center"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/10789/1.png" style="height:188px; width:481px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/10789.%E2%80%85%EA%B0%80%EC%83%81%E2%80%85%ED%82%A4%EB%B3%B4%EB%93%9C%E2%80%85%EC%9E%85%EB%A0%A5/a6bfc978.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/10789/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:188px; width:481px" /></p>
 
 <p style="text-align:center">그림 1. 가상키보드와 하드웨어 버튼의 예시</p>
 

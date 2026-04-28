@@ -20,7 +20,7 @@
 
 <p>Following the saying &quot;the friends of my friends are my friends&quot;, two cities $c_0$ and $c_f$ can be indirectly friendly if there exist cities $c_1, \ldots, c_{f-1}$ such that $c_k$ is friendly with $c_{k+1}$ for $0\leq k &lt; f$. If $c_0$ and $c_f$ are different and indirectly friendly, then we say that the friendship degree of these cities is the smallest possible $f$ following this definition. See Figure B.1 for an example.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/45107bc1-86b9-44c7-8684-08d60906e63f/-/preview/" style="width: 512px; height: 188px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/26172.%E2%80%85Brothers%E2%80%85in%E2%80%85Arms/3b8e2dea.png" data-original-src="https://upload.acmicpc.net/45107bc1-86b9-44c7-8684-08d60906e63f/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 512px; height: 188px;" /></p>
 
 <p style="text-align: center;">Parts of these coats of arms are CC BY-SA 4.0 on Wikimedia Commons.</p>
 

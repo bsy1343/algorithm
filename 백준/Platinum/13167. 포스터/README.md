@@ -34,7 +34,7 @@
 
 ### 힌트
 
-<p style="text-align: center;"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/13167/1.png" style="height:205px; width:292px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/13167.%E2%80%85%ED%8F%AC%EC%8A%A4%ED%84%B0/cdf85e5b.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/13167/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:205px; width:292px" /></p>
 
 <ul>
 	<li>1번 후보자 : 파란색 포스터 / 2번 후보자 : 초록색 포스터</li>

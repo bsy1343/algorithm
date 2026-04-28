@@ -18,7 +18,7 @@
 
 <p>Your chicken farm would like to send eggs to the market. Each package has different sizes, so you need to take care how you pack them. You decide to pack the egg packages vertically and sort them from the shortest to tallest.</p>
 
-<p style="text-align: center;"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11254/1.png" style="height:405px; width:483px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/11254.%E2%80%85Hydraulic%E2%80%85Arm/10309017.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11254/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:405px; width:483px" /></p>
 
 <p>Your farm uses the hydraulic arm system and the arm can do one of these three actions at a time.</p>
 

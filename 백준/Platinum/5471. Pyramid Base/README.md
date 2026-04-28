@@ -39,6 +39,6 @@
 
 ### 힌트
 
-<p><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/5471/1.png" style="height:136px; width:305px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/5471.%E2%80%85Pyramid%E2%80%85Base/0b312955.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/5471/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:136px; width:305px" /></p>
 
 <p>The figure shows the only possible location for the pyramid&#39;s base having a side of length 3.</p>

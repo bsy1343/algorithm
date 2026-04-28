@@ -44,14 +44,14 @@
 
 <p>In Sample Case #1, the first train line is essential because it is the only one serving station $2$. Since shutting any other line down would not make travel between at least one pair of stations impossible, they are not essential.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/5b7cb452-ee75-4b5e-9ca7-f01bb5c34e8f/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/29787.%E2%80%85Railroad%E2%80%85Maintenance/354c6d0c.png" data-original-src="https://upload.acmicpc.net/5b7cb452-ee75-4b5e-9ca7-f01bb5c34e8f/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>In Sample Case #2, no line is essential.</p>
 
-<p align="center"><img alt="" src="https://upload.acmicpc.net/c1afe4cb-c80e-4db3-9d7f-6ab41b2aadcf/-/preview/" /></p>
+<p align="center"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/29787.%E2%80%85Railroad%E2%80%85Maintenance/5da807a4.png" data-original-src="https://upload.acmicpc.net/c1afe4cb-c80e-4db3-9d7f-6ab41b2aadcf/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>Sample Case #3 is similar to Sample Case #2, but missing the last train line. That makes all remaining train lines essential.</p>
 
 <p>In Sample Case #4, the last train line is essential as there is no way to go from station $1$ to station $4$ without it. As in Sample Case #1, since this train line already connects every station, no other line is essential.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/415c1d46-e8e8-409b-bd6e-900af3beb66e/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/29787.%E2%80%85Railroad%E2%80%85Maintenance/96e70810.png" data-original-src="https://upload.acmicpc.net/415c1d46-e8e8-409b-bd6e-900af3beb66e/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>

@@ -26,7 +26,7 @@
 
 <p>Find the number of ways to put integers in the grid. Since the answer can be very large, find the answer modulo $(10^{9} + 7)$.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/f60b532d-b998-49f4-aa25-aaaf72cdde91/-/preview/" style="width: 500px; height: 250px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/30171.%E2%80%85Another%E2%80%85Filling%E2%80%85the%E2%80%85Grid/e3672bd6.png" data-original-src="https://upload.acmicpc.net/f60b532d-b998-49f4-aa25-aaaf72cdde91/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 500px; height: 250px;" /></p>
 
 <p>These are the examples of valid and invalid grid when $n=k=2$.</p>
 
@@ -42,6 +42,6 @@
 
 <p>In the first example, following $7$ cases are possible.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/e2c51953-8468-4f86-bcff-d864da30e22c/-/preview/" style="width: 500px; height: 243px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/30171.%E2%80%85Another%E2%80%85Filling%E2%80%85the%E2%80%85Grid/7187d7a8.png" data-original-src="https://upload.acmicpc.net/e2c51953-8468-4f86-bcff-d864da30e22c/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 500px; height: 243px;" /></p>
 
 <p>In the second example, make sure you print the answer modulo $(10^{9} + 7)$.</p>

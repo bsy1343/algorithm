@@ -18,7 +18,7 @@
 
 <p>There&rsquo;s an asteroid headed for earth! If we&rsquo;re clever, we might be able to avoid a catastrophe. Unfortunately at this time, we can only see part of it, the rest is blocked by the sun. So we must plan for an asteroid of unknown size moving at an unknown speed. On the plus side, we have missiles! But since we don&rsquo;t know much about the asteroid, it is unclear when we should fire. When the missiles hit the asteroid, the asteroid will split into two pieces. The pieces will move away from each other at an angle determined by the size of the asteroid. We must fire the missiles soon enough in order to make sure that the pieces will miss the earth, which has a radius of 6,378.1 km. Given the angle at which the pieces will move, and the speed of the initial asteroid, we would like to know how much time is left until it is too late to fire the missiles.</p>
 
-<p style="text-align: center;"><img alt="" src="/upload/images2/armag.png" style="height:293px; width:674px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/5125.%E2%80%85Armageddon/08be524e.png" data-original-src="https://www.acmicpc.net/upload/images2/armag.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:293px; width:674px" /></p>
 
 ### 입력
 

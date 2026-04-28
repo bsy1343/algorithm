@@ -18,7 +18,7 @@
 
 <p>현진이는 집에서 취미로 운영 체제를 만들고 있다. 오늘은 디렉토리 안의 파일 리스트를 보여주는 &quot;ls&quot;를 구현해야 할 차례이다. 현진이는 사용자들이 와일드카드(*)를 이용해서 패턴과 일치한 파일 이름을 보여주게 하려고 한다. 와일드 카드는 어떤 문자의 0개 또는 그 이상에 해당한다.</p>
 
-<p><img alt="" src="/upload/images/Screen%20Shot%202013-02-09%20at%20%EC%98%A4%ED%9B%84%204_40_21.png" style="height:736px; width:1070px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/5015.%E2%80%85ls/7be318e3.png" data-original-src="https://www.acmicpc.net/upload/images/Screen%20Shot%202013-02-09%20at%20%EC%98%A4%ED%9B%84%204_40_21.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:736px; width:1070px" /></p>
 
 ### 입력
 

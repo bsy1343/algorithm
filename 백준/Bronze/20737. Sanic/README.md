@@ -20,7 +20,7 @@
 
 <p>To simplify things, we measure the world in terms of Sanic radii. While spinning through a loop, Sanic can be accurately modeled as a circle of radius $1$. Furthermore, the inside of the loops Sanic spins through can be modeled as circles with radius $r$ (measured in Sanic radii). &nbsp;We also know that $r$ will always be at least $1.10$ as Sanic does not attempt to spin through smaller loops. &nbsp;Sanic spins clockwise and he follows the loop counter-clockwise, as illustrated in the diagram.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/c087b2a4-e4a4-4b1f-8e09-c6f3259ba064/-/preview/" style="width: 350px; height: 250px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/20737.%E2%80%85Sanic/f24d4bfb.png" data-original-src="https://upload.acmicpc.net/c087b2a4-e4a4-4b1f-8e09-c6f3259ba064/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 350px; height: 250px;" /></p>
 
 <p style="text-align: center;">Illustration of Sanic&#39;s motion through a loop. The small circle represents Sanic (radius=$1$), the large circle represents the loop (radius=$r$).</p>
 

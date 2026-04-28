@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/0493353b-54c9-4a27-ba72-31a2c8e9ce78/-/preview/" style="width: 450px; height: 255px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/31932.%E2%80%85%EB%82%98%EB%8A%94%E2%80%85%EB%B6%81%EA%B7%B9%EA%B3%B0%EC%9E%85%EB%8B%88%EB%8B%A4/0d81cd10.png" data-original-src="https://upload.acmicpc.net/0493353b-54c9-4a27-ba72-31a2c8e9ce78/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 450px; height: 255px;" /></p>
 
 <p>북극은 총 $N$개의 빙하와 서로 다른 두 빙하를 잇는 $M$개의 얼음 다리로 이루어져 있다. 각 얼음 다리는 양방향으로 자유롭게 왕복할 수 있으며, $i$번 얼음 다리의 길이는 $d_{i}$이다. 초기에 서로 다른 두 빙하 사이를 왕복할 수 있는 경로가 반드시 존재한다.</p>
 

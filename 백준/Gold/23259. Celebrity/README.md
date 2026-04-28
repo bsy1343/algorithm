@@ -30,7 +30,7 @@
 
 <p>어떤 별 $A$의 연결 관계를 유지한 채 정점을 적당히 이동시키거나 회전하여 별 $B$와 같은 모양으로 만들 수 있다면 $A$와 $B$는 같은 별이다. 예를 들어, 아래 이미지의 첫 번째 별과 두 번째 별은 같지만 세 번째 별은 다르다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/87f8f706-5a1b-4e0f-955d-d4debedb5ccd/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/23259.%E2%80%85Celebrity/2cd7620c.png" data-original-src="https://upload.acmicpc.net/87f8f706-5a1b-4e0f-955d-d4debedb5ccd/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>찬우는 왼손으로 별을 $N$개 그리고 각 별마다 $1$부터 $N$까지의 번호를 붙여 준 뒤, 한 번만 그려진 유일한 별들을 아름답다고 정의하였다. 찬우가 그린 별 $N$개가 주어질 때 아름다운 별의 개수를 구하는 프로그램을 작성하시오.</p>
 

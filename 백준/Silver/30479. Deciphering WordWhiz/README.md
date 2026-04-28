@@ -36,7 +36,7 @@
 
 <p>The feedbacks above can be seen in the following picture.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/f8b284b0-545d-482b-8011-8690f0e1d85f/-/preview/" style="width: 181px; height: 146px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/30479.%E2%80%85Deciphering%E2%80%85WordWhiz/35e7a0be.png" data-original-src="https://upload.acmicpc.net/f8b284b0-545d-482b-8011-8690f0e1d85f/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 181px; height: 146px;" /></p>
 
 <p>Some time ago, your company added a WordWhiz player on its website and now wants to enhance the game by adding functionality to display previous game sessions. However, only the feedback for each guess was stored, not the submitted words. This means that it might not be possible to accurately recover the guesses submitted in each session, and before investing any further effort, the company wants to analyze the recorded game sessions.</p>
 

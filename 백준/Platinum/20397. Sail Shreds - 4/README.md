@@ -30,7 +30,7 @@
 
 <p>You may assume that there exists a solution for each of the input data. In particular, it holds that the sum of the areas of the shreds is equal to the area of the original sail. There can be several shreds of the same shape.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/54d53d87-d2ca-4f32-83cf-c2f0ad08afa4/-/preview/" style="width: 629px; height: 169px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/20397.%E2%80%85Sail%E2%80%85Shreds%E2%80%85-%E2%80%854/e4c44509.png" data-original-src="https://upload.acmicpc.net/54d53d87-d2ca-4f32-83cf-c2f0ad08afa4/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 629px; height: 169px;" /></p>
 
 ### 입력
 

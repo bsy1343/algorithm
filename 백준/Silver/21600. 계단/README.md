@@ -18,7 +18,7 @@
 
 <p>자료의 분포를 아래의 그림과 같이 나타낸 그래프를 히스토그램이라고 합니다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/0884793b-e0b1-41cc-9f91-bb69b534b428/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/21600.%E2%80%85%EA%B3%84%EB%8B%A8/b4ba80e4.png" data-original-src="https://upload.acmicpc.net/0884793b-e0b1-41cc-9f91-bb69b534b428/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>당신은 히스토그램 영역에서 가장 큰 계단을 찾으려고 합니다. 계단은 아래 조건을 만족하는 영역을 말합니다.</p>
 
@@ -31,7 +31,7 @@
 
 <p>위 히스토그램에서 가장 큰 계단은 아래와 같습니다. 가장 큰 계단은 가장 길이가 긴 계단과 같은 의미입니다. 히스토그램이 입력으로 주어질 때, 가장 큰 계단의 길이를 구해 봅시다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/adfa5014-5f0d-42d0-a8eb-e0ac08cd8b60/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/21600.%E2%80%85%EA%B3%84%EB%8B%A8/fc30f0ab.png" data-original-src="https://upload.acmicpc.net/adfa5014-5f0d-42d0-a8eb-e0ac08cd8b60/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 ### 입력
 

@@ -20,7 +20,7 @@
 
 <p>For this problem, the positions of beacons and boats are relative to a rectangular coordinate system. The positive x-axis points east; the positive y-axis points north. The course is the direction of travel of the boat and is measured in degrees clockwise from north. That is, north is 0&deg;, east is 90&deg;, south is 180&deg;, and west is 270&deg;. The relative bearing of a beacon is given in degrees clockwise relative to the course of the boat. A boat&rsquo;s antenna cannot indicate on which side the beacon is located. A relative bearing of 90&deg; means that the beacon is toward 90&deg; or 270&deg;.</p>
 
-<p><img alt="" src="https://onlinejudgeimages.s3.amazonaws.com/problem/6734/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-06-13%20%EC%98%A4%ED%9B%84%205.45.49.png" style="height:277px; width:359px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/6734.%E2%80%85Radio%E2%80%85direction%E2%80%85finder/b059ee81.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/6734/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-06-13%20%EC%98%A4%ED%9B%84%205.45.49.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:277px; width:359px" /></p>
 
 ### 입력
 

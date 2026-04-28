@@ -25,7 +25,7 @@
 	<li>좌측 하단 $(2, 1)$에는 블루베리가(<code>B</code>) 있고 우측 하단 $(2, 2)$에는 라즈베리가(<code>R</code>) 있다.</li>
 </ul>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/f83e731c-7219-4459-9704-f8f45b0688ec/-/preview/" style="height: 79px; width: 80px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/25218.%E2%80%85%EC%BC%80%EC%9D%B4%ED%81%AC%E2%80%85%EC%9E%90%EB%A5%B4%EA%B8%B0/9efcbb4e.png" data-original-src="https://upload.acmicpc.net/f83e731c-7219-4459-9704-f8f45b0688ec/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 79px; width: 80px;" /></p>
 
 <p>Bob은 케이크를 총 $N-1$번 가로나 세로로 잘라서 총 $N$조각의 직사각형 모양의 크기가 더 작은 케이크를 만들어 친구들에게 나눠주고 싶다. 단, Bob이 케이크를 자를 때에는 아래 규칙에 따라 케이크를 $N-1$번 잘라야 한다.</p>
 
@@ -48,7 +48,7 @@
 		<tr>
 			<td>방법 1</td>
 			<td>
-			<p><img alt="" src="https://upload.acmicpc.net/34cdaa18-3de0-4be4-abf4-6356c94474bc/-/preview/" style="height: 107px; width: 100px;" /></p>
+			<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/25218.%E2%80%85%EC%BC%80%EC%9D%B4%ED%81%AC%E2%80%85%EC%9E%90%EB%A5%B4%EA%B8%B0/c186b7d5.png" data-original-src="https://upload.acmicpc.net/34cdaa18-3de0-4be4-abf4-6356c94474bc/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 107px; width: 100px;" /></p>
 
 			<p>1번째 자르기: 가로로 자르기</p>
 
@@ -57,7 +57,7 @@
 			<p><strong>하단</strong>의 $1 \times 2$ 케이크를 $2$, $3$번 친구에게 준다.</p>
 			</td>
 			<td>
-			<p><img alt="" src="https://upload.acmicpc.net/06395d4c-fd37-4b21-b3f6-6817ac0b85f6/-/preview/" style="height: 49px; width: 100px;" /></p>
+			<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/25218.%E2%80%85%EC%BC%80%EC%9D%B4%ED%81%AC%E2%80%85%EC%9E%90%EB%A5%B4%EA%B8%B0/725fa8af.png" data-original-src="https://upload.acmicpc.net/06395d4c-fd37-4b21-b3f6-6817ac0b85f6/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 49px; width: 100px;" /></p>
 
 			<p>2번째 자르기: 세로로 자르기</p>
 
@@ -66,7 +66,7 @@
 		</tr>
 		<tr>
 			<td>방법 2</td>
-			<td><img alt="" src="https://upload.acmicpc.net/0e015d22-77cf-4164-bc66-f8cfe479b61e/-/preview/" style="height: 88px; width: 100px;" />
+			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/25218.%E2%80%85%EC%BC%80%EC%9D%B4%ED%81%AC%E2%80%85%EC%9E%90%EB%A5%B4%EA%B8%B0/c1774222.png" data-original-src="https://upload.acmicpc.net/0e015d22-77cf-4164-bc66-f8cfe479b61e/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 88px; width: 100px;" />
 			<p>1번째 자르기: 세로로 자르기</p>
 
 			<p>규칙대로 $1$번 친구에게 <strong>좌측</strong>의 $2 \times 1$ 케이크 조각을 준다. 이 조각은 딸기 하나와 블루베리 하나를 포함한다.</p>
@@ -74,7 +74,7 @@
 			<p><strong>우측</strong>의 $2 \times 1$ 케이크를 $2$, $3$번 친구에게 준다.</p>
 			</td>
 			<td>
-			<p><img alt="" src="https://upload.acmicpc.net/ebab1d1b-34f6-4efe-84e4-bbf6309c229d/-/preview/" style="height: 101px; width: 50px;" /></p>
+			<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/25218.%E2%80%85%EC%BC%80%EC%9D%B4%ED%81%AC%E2%80%85%EC%9E%90%EB%A5%B4%EA%B8%B0/b334f2f7.png" data-original-src="https://upload.acmicpc.net/ebab1d1b-34f6-4efe-84e4-bbf6309c229d/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 101px; width: 50px;" /></p>
 
 			<p>2번째 자르기: 가로로 자르기</p>
 

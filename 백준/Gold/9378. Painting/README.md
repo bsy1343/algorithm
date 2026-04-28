@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/9378/1.png" style="float:right; height:219px; width:219px" />Ethan wants to draw a painting on an m&times;n board. He can draw some strips on the board using a paintbrush of width one. In each step, he must choose a new color and paint a full column or a full row. He has a great image to be drawn on the board, but he doesn&rsquo;t know which color to use first. You must help him in finding out the order of colors.</p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/9378.%E2%80%85Painting/98df88b3.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/9378/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="float:right; height:219px; width:219px" />Ethan wants to draw a painting on an m&times;n board. He can draw some strips on the board using a paintbrush of width one. In each step, he must choose a new color and paint a full column or a full row. He has a great image to be drawn on the board, but he doesn&rsquo;t know which color to use first. You must help him in finding out the order of colors.</p>
 
 ### 입력
 

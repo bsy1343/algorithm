@@ -22,7 +22,7 @@
 
 <p>Let&#39;s see the following example in the figure below. Each edge cost lies beside each edge and the list of three forbidden turns are in the right box. The shortest path without forbidden turns from the vertex $3$ to the vertex $2$ is $(3, 0, 1, 5, 4, 1, 2)$ which is denoted as blue arrows in the following figure. The distance of the shortest path is $3 + 12 + 4 + 7 + 8 + 2 = 36$. Note that we cannot take the shorter paths $(3, 0, 1, 2)$ and $(3, 0, 1, 5, 2)$ since they contain forbidden turns $(0, 1, 2)$ and $(1, 5, 2)$, respectively.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/789c5f59-1f74-49d1-8087-b03f8884234d/-/preview/" style="width: 497px; height: 202px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/26106.%E2%80%85Forbidden%E2%80%85Turns/04012d26.png" data-original-src="https://upload.acmicpc.net/789c5f59-1f74-49d1-8087-b03f8884234d/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 497px; height: 202px;" /></p>
 
 <p>Given a directed graph $G(V, E)$ with the edge cost $c$, a set of forbidden turns $F$, and two vertices $v$ and $w$, write a program to output the distance of the shortest path from $v$ to $w$ that avoids all the forbidden turns. We assume that out-degree of each vertex $v$, i.e., the number of edges that starts from $v$ is at most $10$.</p>
 

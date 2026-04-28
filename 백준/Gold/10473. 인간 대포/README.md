@@ -20,11 +20,11 @@
 
 <p>여러 대포를 사용하면 회의장을 좀 더 편리하게 돌아다닐 수 있다. 만약 당신이 a장소에서 b장소까지 이동하려 한다면 a 부터 b까지 직선으로 걸어갈 수도 있고, 주변의 대포에 탑승해서 어딘가 다른 곳으로 발사되어 이동할 수도 있다. 발사되고 나면 내린 위치에서 도착점을 향해서 걸어갈 수도 있고, 다시 한 번 또 다른 대포를 이용하여 목적지에 더 빠르게 도착할 수도 있다. 그림 E.1처럼 배치된 지도에서 당신은 a에서 b로 이동하기 위하여 그림 E.2와 같은 경로로 걷거나 대포를 이용하여 움직일 수 있다. 화살표는 당신이 대포에서 발사되어 떨어진 점을 의미하며 직선은 당신이 달린 경로를 나타낸다.</p>
 
-<p style="text-align:center"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/upload/images2/human1.png" style="height:199px; width:305px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/10473.%E2%80%85%EC%9D%B8%EA%B0%84%E2%80%85%EB%8C%80%ED%8F%AC/0b41738d.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/upload/images2/human1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:199px; width:305px" /></p>
 
 <p style="text-align:center">그림 E.1</p>
 
-<p style="text-align:center"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/upload/images2/human2.png" style="height:200px; width:299px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/10473.%E2%80%85%EC%9D%B8%EA%B0%84%E2%80%85%EB%8C%80%ED%8F%AC/c3419a7e.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/upload/images2/human2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:200px; width:299px" /></p>
 
 <p style="text-align:center">그림 E.2</p>
 

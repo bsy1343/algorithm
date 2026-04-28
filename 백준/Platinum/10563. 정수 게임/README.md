@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align:center"><img alt="" src="/upload/images2/numbergame.png" style="height:94px; width:333px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/10563.%E2%80%85%EC%A0%95%EC%88%98%E2%80%85%EA%B2%8C%EC%9E%84/d4ad247e.png" data-original-src="https://www.acmicpc.net/upload/images2/numbergame.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:94px; width:333px" /></p>
 
 <p>Alice와 Bob은 N개의 정사각형을 일렬로 놓고 게임을 하고 있다. 정사각형에는 1부터 N까지의 수가 하나씩 적혀져 있다.</p>
 

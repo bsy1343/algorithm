@@ -22,11 +22,11 @@
 
 <p>Here, two patterns are said to <em>match</em> if one pattern is obtained from the other by applying some number of 90-degree rotations on the plane and a parallel displacement if necessary, but without mirroring. For example, in the source pattern on the left of Figure D.1, by moving the coin at $(1, 0)$ to $(3, 1)$, we obtain the pattern on the right that matches the target pattern shown in Figure D.2.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/191a62a8-30f1-48c0-a0c0-2c8cec77e8aa/-/preview/" style="width: 345px; height: 112px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/27419.%E2%80%85Move%E2%80%85One%E2%80%85Coin/ca23888d.png" data-original-src="https://upload.acmicpc.net/191a62a8-30f1-48c0-a0c0-2c8cec77e8aa/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 345px; height: 112px;" /></p>
 
 <p style="text-align: center;">Figure D.1. Source pattern and a move</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/821731ae-b08a-4599-b7e7-5cbfc06c2a58/-/preview/" style="width: 96px; height: 173px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/27419.%E2%80%85Move%E2%80%85One%E2%80%85Coin/98e89bd9.png" data-original-src="https://upload.acmicpc.net/821731ae-b08a-4599-b7e7-5cbfc06c2a58/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 96px; height: 173px;" /></p>
 
 <p style="text-align: center;">Figure D.2. Target Pattern</p>
 

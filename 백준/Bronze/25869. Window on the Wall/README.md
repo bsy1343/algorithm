@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p><img alt="" src="https://upload.acmicpc.net/fc781aa3-f60c-4a61-aef7-e279ee1f6349/-/preview/" style="width: 242px; height: 147px; float: right;" />Anya (Arup&rsquo;s daughter) would like to add a window on the wall in her room. She asks Travis (the mathematician) to figure out the largest window she can have on her wall. Travis consults Chris (the engineer) to see if there are any structural constraints. Chris explains that there must be a minimum distance between the wall perimeter and the window perimeter for the wall to hold the window; otherwise the entire structure collapses.</p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/25869.%E2%80%85Window%E2%80%85on%E2%80%85the%E2%80%85Wall/940a49cd.png" data-original-src="https://upload.acmicpc.net/fc781aa3-f60c-4a61-aef7-e279ee1f6349/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 242px; height: 147px; float: right;" />Anya (Arup&rsquo;s daughter) would like to add a window on the wall in her room. She asks Travis (the mathematician) to figure out the largest window she can have on her wall. Travis consults Chris (the engineer) to see if there are any structural constraints. Chris explains that there must be a minimum distance between the wall perimeter and the window perimeter for the wall to hold the window; otherwise the entire structure collapses.</p>
 
 <p>Given the width and height of a rectangular wall and the window-border gap (minimum distance required between the perimeter of the wall and the perimeter of the window), determine the area of the largest rectangular window that can be installed on the wall.</p>
 

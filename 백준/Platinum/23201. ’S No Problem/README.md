@@ -22,7 +22,7 @@
 
 <p>The YETI maintenance crew want to choose the storage buildings of the snow blowers and design the routes along which they will be pushed, so that they minimize the total distance the two machines will travel out in the cold (to protect both the precious equipment and the staff members from freezing). Note that the routes might involve pushing along already-cleared sidewalks, as seen in Figure J.1, which shows an optimal solution for the sidewalk layout of Sample Input 1.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/4435e202-6b06-48c0-9a67-9b54809fe19f/-/preview/" style="width: 242px; height: 132px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/23201.%E2%80%85%E2%80%99S%E2%80%85No%E2%80%85Problem/90e165f2.png" data-original-src="https://upload.acmicpc.net/4435e202-6b06-48c0-9a67-9b54809fe19f/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 242px; height: 132px;" /></p>
 
 <p style="text-align: center;">Figure J.1: Illustration of Sample Input 1 showing one possible pair of optimal routes.</p>
 

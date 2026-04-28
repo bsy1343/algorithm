@@ -18,7 +18,7 @@
 
 <p>You are using a very simple text editor to create a document. You have typed in several lines, with the flashing cursor advancing as you type, but then you see a mistake on a previous line. Unfortunately, the mouse doesn&rsquo;t work! You will have to press arrow keys to move the cursor back to the position where you can fix the mistake. Of course, you want to get to this position as quickly as possible.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/a89a89d5-17a7-4e89-bab2-f0bdf02cdfc2/-/preview/" style="width: 566px; height: 170px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/25884.%E2%80%85Editor%E2%80%85Navigation/caa47cda.png" data-original-src="https://upload.acmicpc.net/a89a89d5-17a7-4e89-bab2-f0bdf02cdfc2/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 566px; height: 170px;" /></p>
 
 <p>This simple editor uses a monospace font, so each character is exactly the same width. The cursor can be at the beginning of the line (before the first character), end of the line (after the last character), or at a horizontal position between two characters on a given line. The following keys can be pressed to move the cursor (each keypress is independent of any preceding keypress):</p>
 

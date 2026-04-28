@@ -18,7 +18,7 @@
 
 <p>The Latin alphabet contains 26 characters and telephones only have ten digits on the keypad. We would like to make it easier to write a message to your friend using a sequence of keypresses to indicate the desired characters. The letters are mapped onto the digits as shown below. To insert the character&nbsp;<code>B</code>&nbsp;for instance, the program would press&nbsp;<code>22</code>. In order to insert two characters in sequence from the same key, the user must pause before pressing the key a second time. The space character&nbsp;<code>&#39; &#39;</code>&nbsp;should be printed to indicate a pause. For example,&nbsp;<code>2 2</code>&nbsp;indicates&nbsp;<code>AA</code>&nbsp;whereas&nbsp;<code>22</code>&nbsp;indicates&nbsp;<code>B</code>.</p>
 
-<p><img alt="" src="https://onlinejudgeimages.s3.amazonaws.com/problem/12608/images-27.png" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/12608.%E2%80%85T9%E2%80%85Spelling%E2%80%85(Large)/f2d22ae6.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/12608/images-27.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 ### 입력
 

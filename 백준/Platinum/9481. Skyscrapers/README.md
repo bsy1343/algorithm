@@ -18,7 +18,7 @@
 
 <p>Skyscrapers is a pencil puzzle. It&rsquo;s played on a square nxn grid. Each cell of the grid has a building. Each row, and each column, of the grid must have exactly one building of height 1, height 2, height 3, and so on, up to height n. There may be numbers at the beginning and end of each row, and each column. They indicate how many buildings can be seen from that vantage point, where taller buildings obscure shorter buildings. In the game, you are given the numbers along the outside of the grid, and you must determine the heights of the buildings in each cell of the grid.</p>
 
-<p><img alt="" src="/upload/images2/skyscrapper.png" style="height:245px; width:573px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/9481.%E2%80%85Skyscrapers/c7630f04.png" data-original-src="https://www.acmicpc.net/upload/images2/skyscrapper.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:245px; width:573px" /></p>
 
 <p>Consider a single row of a puzzle of size nxn. If we know how many buildings can be seen from the left, and from the right, of the row, how many different ways are there of populating that row with buildings of heights 1..n?&nbsp;</p>
 

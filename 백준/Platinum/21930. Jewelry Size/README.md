@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/2eeb87e4-14f4-4c46-9797-139f73904967/-/preview/" style="width: 263px; height: 186px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/21930.%E2%80%85Jewelry%E2%80%85Size/96af660f.png" data-original-src="https://upload.acmicpc.net/2eeb87e4-14f4-4c46-9797-139f73904967/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 263px; height: 186px;" /></p>
 
 <p style="text-align: center;">Figure E.1. Jewelry</p>
 
@@ -25,9 +25,9 @@
 <table class="table table-bordered td-center">
 	<tbody>
 		<tr>
-			<td><img alt="" src="https://upload.acmicpc.net/337743bd-80e5-4938-b419-7033b4f700e7/-/crop/372x372/0,0/-/preview/" style="width: 186px; height: 186px;" /></td>
-			<td><img alt="" src="https://upload.acmicpc.net/337743bd-80e5-4938-b419-7033b4f700e7/-/crop/363x372/391,0/-/preview/" style="width: 182px; height: 186px;" /></td>
-			<td><img alt="" src="https://upload.acmicpc.net/337743bd-80e5-4938-b419-7033b4f700e7/-/crop/372x372/773,0/-/preview/" style="width: 186px; height: 186px;" /></td>
+			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/21930.%E2%80%85Jewelry%E2%80%85Size/f6b41d97.png" data-original-src="https://upload.acmicpc.net/337743bd-80e5-4938-b419-7033b4f700e7/-/crop/372x372/0,0/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 186px; height: 186px;" /></td>
+			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/21930.%E2%80%85Jewelry%E2%80%85Size/961c2946.png" data-original-src="https://upload.acmicpc.net/337743bd-80e5-4938-b419-7033b4f700e7/-/crop/363x372/391,0/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 182px; height: 186px;" /></td>
+			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/21930.%E2%80%85Jewelry%E2%80%85Size/f0778178.png" data-original-src="https://upload.acmicpc.net/337743bd-80e5-4938-b419-7033b4f700e7/-/crop/372x372/773,0/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 186px; height: 186px;" /></td>
 		</tr>
 		<tr>
 			<td>(a)</td>

@@ -20,7 +20,7 @@
 
 <p>Ahmad puts the bricks on the wall in the following way. First he select some of the bricks and put them vertically. Then he puts the rest of the bricks <strong>horizontally above</strong> the vertical bricks. The sum of widths of the horizontal bricks must be no more than the total thickness of the vertical bricks. A sample arrangement of the bricks is depicted in the ﬁgure.</p>
 
-<p style="text-align: center;"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14536/1.png" style="height:294px; width:291px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/14536.%E2%80%85Bricks%E2%80%85on%E2%80%85the%E2%80%85Wall/02b1db79.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14536/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:294px; width:291px" /></p>
 
 <p>Help Ahmad to ﬁnd the <strong>minimum total thickness</strong> of the vertical bricks that he can achieve.</p>
 

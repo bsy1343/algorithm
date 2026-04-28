@@ -20,11 +20,11 @@
 
 <p>높이 $h$의 빌딩에서 가지를 오른쪽으로 발사하면, 가지는 높이 $h$ 이하인 빌딩들의 위를 통과하여 날아갑니다. 가지가 높이 $h$ 초과인 빌딩에 부딪히면 부딪힌 빌딩의 높이를 $1$ 줄이고 진행 방향을 반대로 바꿉니다.</p>
 
-<p style="display:flex;flex-direction:column;align-items:center;"><img src="https://upload.acmicpc.net/1fc04f66-1059-4a64-a161-fcb31288855f/-/preview/" style="max-height:12em;max-width:100%" /><span style="text-align:center;">높이 $h$인 빌딩에서 오른쪽으로 날아가는 가지가 높이 $h$ 미만인 빌딩의 위를 통과하여 날아가는 모습</span></p>
+<p style="display:flex;flex-direction:column;align-items:center;"><img src="%EB%B0%B1%EC%A4%80/Gold/31631.%E2%80%85%3Arightplant%3A/c5aa6b07.png" data-original-src="https://upload.acmicpc.net/1fc04f66-1059-4a64-a161-fcb31288855f/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="max-height:12em;max-width:100%" /><span style="text-align:center;">높이 $h$인 빌딩에서 오른쪽으로 날아가는 가지가 높이 $h$ 미만인 빌딩의 위를 통과하여 날아가는 모습</span></p>
 
-<p style="display:flex;flex-direction:column;align-items:center;"><img src="https://upload.acmicpc.net/6343c80f-c3c1-4174-8c7c-99b2618658b8/-/preview/" style="max-height:12em;max-width:100%" /><span style="text-align:center;">높이 $h$인 빌딩에서 오른쪽으로 날아가는 가지가 높이 $h$인 빌딩의 위를 통과하여 날아가는 모습</span></p>
+<p style="display:flex;flex-direction:column;align-items:center;"><img src="%EB%B0%B1%EC%A4%80/Gold/31631.%E2%80%85%3Arightplant%3A/515e1ae3.png" data-original-src="https://upload.acmicpc.net/6343c80f-c3c1-4174-8c7c-99b2618658b8/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="max-height:12em;max-width:100%" /><span style="text-align:center;">높이 $h$인 빌딩에서 오른쪽으로 날아가는 가지가 높이 $h$인 빌딩의 위를 통과하여 날아가는 모습</span></p>
 
-<p style="display:flex;flex-direction:column;align-items:center;"><img src="https://upload.acmicpc.net/ae109104-0c1f-4d59-9996-14795c62a58d/-/preview/" style="max-height:12em;max-width:100%" /><span style="text-align:center;">높이 $h$인 빌딩에서 오른쪽으로 날아가는 가지가 높이 $h$ 초과인 빌딩에 부딪혀서 방향을 바꾸는 모습</span></p>
+<p style="display:flex;flex-direction:column;align-items:center;"><img src="%EB%B0%B1%EC%A4%80/Gold/31631.%E2%80%85%3Arightplant%3A/a085e24b.png" data-original-src="https://upload.acmicpc.net/ae109104-0c1f-4d59-9996-14795c62a58d/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="max-height:12em;max-width:100%" /><span style="text-align:center;">높이 $h$인 빌딩에서 오른쪽으로 날아가는 가지가 높이 $h$ 초과인 빌딩에 부딪혀서 방향을 바꾸는 모습</span></p>
 
 <p>왼쪽에서 $i$번째 빌딩에서 가지를 오른쪽으로 발사한 이후, 발사한 가지가 맨 왼쪽 혹은 오른쪽 빌딩을 통과하여 날아갈 때까지 가지가 진행 방향을 바꾼 횟수를 $B_i$라 합시다. $B_1 + B_2 + \dots + B_N$의 값이 최대가 되도록 하는 수열 $H$를 구해 봅시다.</p>
 

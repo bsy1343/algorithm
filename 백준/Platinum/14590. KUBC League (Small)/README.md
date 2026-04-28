@@ -18,7 +18,7 @@
 
 <p>고려대학교 중앙 배드민턴 동아리 KUBC에서 정회원들을 대상으로 리그를 했다. 태양이를 포함해서 N명의 정회원들이 리그에 참여했고, 총 N(N-1)/2번의 경기를 진행하였다. 그 결과 모든 경기가 승부가 나서 N명의 선수들의 순위표가 만들어졌다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14590/result.png" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/14590.%E2%80%85KUBC%E2%80%85League%E2%80%85(Small)/03ab91a3.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14590/result.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>순위표를 본 현수는 절규하였다. &lsquo;내가 공동 꼴지라고? 꼴지라니... 아니, 내가 꼴지라니! 이게 무슨 소리야! 아핡핡핡&rsquo; 이윽고 현수는 자기합리화를 하기 시작했다. &lsquo;내가 한용이를 이겼고, 한용이는 세찬이를 이겼고, 세찬이는 찬우를 이겼고, 찬우는 태양이를 이겼고... 그러니 내가 나머지 전부를 이겼네!&rsquo;</p>
 

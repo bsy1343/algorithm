@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p><img alt="" src="https://upload.acmicpc.net/097b6f04-065d-422a-9eec-7b42c74e3dba/-/preview/" style="width: 200px; height: 210px; float: right;" />Your little sister misplaced the code for her toy safe - can you help her?</p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/24778.%E2%80%85Cracking%E2%80%85The%E2%80%85Safe/294f2c53.png" data-original-src="https://upload.acmicpc.net/097b6f04-065d-422a-9eec-7b42c74e3dba/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 200px; height: 210px; float: right;" />Your little sister misplaced the code for her toy safe - can you help her?</p>
 
 <p>This particular safe has 9 buttons with digital displays. Each button shows a single digit in the range <code>0..3</code>. When you push one of the buttons, the number it displays is incremented by 1, circling around from 3 to 0. &nbsp;However, pushing a button will also increment the other digits in the same row and the same column as the button pushed.</p>
 

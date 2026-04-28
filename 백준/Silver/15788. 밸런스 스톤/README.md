@@ -32,7 +32,7 @@
 
 <p>캡틴 학규를 도와 퍼즐을 완성하고 우주의 평화를 지키자</p>
 
-<p style="text-align: center;"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15788/1.png" style="width: 281px; height: 279px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/15788.%E2%80%85%EB%B0%B8%EB%9F%B0%EC%8A%A4%E2%80%85%EC%8A%A4%ED%86%A4/ef31333b.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15788/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 281px; height: 279px;" /></p>
 
 ### 입력
 

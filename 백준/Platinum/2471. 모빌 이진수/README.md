@@ -18,7 +18,7 @@
 
 <p>여러 개의 0과 1의 숫자들이 달려있는 모빌이 하나 있다. 모빌은 가로 막대와 그 가로 막대에 0과 1, 혹은 다른 가로 막대가 아래에 차례대로 달려있는 모양으로 구성되어 있다. 예를 들어 하나의 모양을 보면 다음과 같다.</p>
 
-<p style="text-align: center;"><img alt="" src="/upload/images/w7.png" style="width: 346px; height: 267px; " /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/2471.%E2%80%85%EB%AA%A8%EB%B9%8C%E2%80%85%EC%9D%B4%EC%A7%84%EC%88%98/2d02a020.png" data-original-src="https://www.acmicpc.net/upload/images/w7.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 346px; height: 267px; " /></p>
 
 <p>모빌의 균형은 언제나 잘 잡혀있다고 가정하자. 모빌에 바람이 불면 각 가로 막대는 회전을 하게 되는데 그렇게 되면 여러 가지 다른 모양의 모빌을 형성하게 된다. 우리는 모빌의 한 상태에서 하나의 이진수를 만들어 낼 수 있는데, 그 수는 모빌의 현재 상태를 아래와 같은 방법으로 괄호와 0, 1을 사용해서 표현한 것에서, 왼쪽부터 0과 1들을 읽어내면서 만들어지는 수이다.</p>
 

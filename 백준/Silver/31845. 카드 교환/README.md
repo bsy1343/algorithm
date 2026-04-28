@@ -56,22 +56,22 @@
 
 <p>$N = 4$인 경우 플레이어가 첫 턴에서 더미 카드가 아닌, 정수가 적힌 카드를 선택한 턴의 예시는 아래와 같다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/0cfade87-3954-4a6a-b9f4-3e6fab43800b/-/preview/" width="600" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/31845.%E2%80%85%EC%B9%B4%EB%93%9C%E2%80%85%EA%B5%90%ED%99%98/bfc284b8.png" data-original-src="https://upload.acmicpc.net/0cfade87-3954-4a6a-b9f4-3e6fab43800b/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" width="600" /></p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/210b7e00-8c70-49b4-a015-077a7e7efce6/-/preview/" width="600" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/31845.%E2%80%85%EC%B9%B4%EB%93%9C%E2%80%85%EA%B5%90%ED%99%98/1668990f.png" data-original-src="https://upload.acmicpc.net/210b7e00-8c70-49b4-a015-077a7e7efce6/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" width="600" /></p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/8d4c5bd6-e3cb-4f19-8e4c-542ec2ccd4c5/-/preview/" width="600" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/31845.%E2%80%85%EC%B9%B4%EB%93%9C%E2%80%85%EA%B5%90%ED%99%98/f4655f17.png" data-original-src="https://upload.acmicpc.net/8d4c5bd6-e3cb-4f19-8e4c-542ec2ccd4c5/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" width="600" /></p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/38c36f0d-e7cd-4547-93a0-80152cda47b5/-/preview/" width="600" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/31845.%E2%80%85%EC%B9%B4%EB%93%9C%E2%80%85%EA%B5%90%ED%99%98/32d9c906.png" data-original-src="https://upload.acmicpc.net/38c36f0d-e7cd-4547-93a0-80152cda47b5/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" width="600" /></p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/7e017eaa-9655-4fe3-be9e-01ea6430f3a7/-/preview/" width="600" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/31845.%E2%80%85%EC%B9%B4%EB%93%9C%E2%80%85%EA%B5%90%ED%99%98/70dc301a.png" data-original-src="https://upload.acmicpc.net/7e017eaa-9655-4fe3-be9e-01ea6430f3a7/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" width="600" /></p>
 
 <p>만약 딜러의 패에서 더미 카드를 가져오거나 플레이어가 더미 카드를 딜러에게 준 경우, 아래 예시와 같이 더미 카드를 받은 쪽에서는 카드 쌍이 만들어지지 않으므로 아무 일도 일어나지 않는다.</p>
 
 <p>아래 예시는 $N = 4$일 때 플레이어가 첫 턴에 더미 카드를 딜러에게 받고 받은 더미 카드를 다시 딜러에게 돌려주는 예시이다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/3cb954f0-ca4d-4520-a2f1-6bf88ab148dc/-/preview/" width="600" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/31845.%E2%80%85%EC%B9%B4%EB%93%9C%E2%80%85%EA%B5%90%ED%99%98/7f4cdab0.png" data-original-src="https://upload.acmicpc.net/3cb954f0-ca4d-4520-a2f1-6bf88ab148dc/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" width="600" /></p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/692ae434-5ac8-4608-bd15-bd03e2b03b7f/-/preview/" width="600" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/31845.%E2%80%85%EC%B9%B4%EB%93%9C%E2%80%85%EA%B5%90%ED%99%98/725717b8.png" data-original-src="https://upload.acmicpc.net/692ae434-5ac8-4608-bd15-bd03e2b03b7f/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" width="600" /></p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/623e3d71-3cd1-4ce0-922a-4917b028639b/-/preview/" width="600" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/31845.%E2%80%85%EC%B9%B4%EB%93%9C%E2%80%85%EA%B5%90%ED%99%98/16fe55bc.png" data-original-src="https://upload.acmicpc.net/623e3d71-3cd1-4ce0-922a-4917b028639b/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" width="600" /></p>

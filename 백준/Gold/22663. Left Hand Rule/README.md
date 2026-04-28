@@ -24,7 +24,7 @@
 
 <p>A few examples of mazes are illustrated in the figure below. They correspond to the datasets in the sample input.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/e31e5e88-941b-4dae-b521-d180ebed932e/-/preview/" style="width: 484px; height: 170px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/22663.%E2%80%85Left%E2%80%85Hand%E2%80%85Rule/873ba646.png" data-original-src="https://upload.acmicpc.net/e31e5e88-941b-4dae-b521-d180ebed932e/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 484px; height: 170px;" /></p>
 
 <p style="text-align: center;">Figure 1: Example Mazes (shaded squares indicate the exits)</p>
 

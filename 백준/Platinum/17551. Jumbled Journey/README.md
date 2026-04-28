@@ -18,7 +18,7 @@
 
 <p>Together with some friends you are planning a holiday to the Beautiful Authentic Parks Centre. While there, you want to visit the parks as much as you can. As part of the preparation you, together with your best friend, decided to make an extensive map of the parks, the roads between them, and the lengths of these roads. To ensure that the visitors to the Parks Centre do not circle endlessly through the gorgeous parks, the routes between the parks are one-way only and are made such that it is impossible to visit a park more than once (that is, the corresponding graph is acyclic). Together you spend the entire day to create an incredibly detailed and admittedly rather large map of the Parks Centre.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/14c106f8-6582-49db-ad20-ab3c5e9f8bdb/-/preview/" style="width: 267px; height: 117px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/17551.%E2%80%85Jumbled%E2%80%85Journey/c11a9dca.png" data-original-src="https://upload.acmicpc.net/14c106f8-6582-49db-ad20-ab3c5e9f8bdb/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 267px; height: 117px;" /></p>
 
 <p style="text-align: center;">Figure J.1: The map of the parks corresponding to sample input 1.</p>
 

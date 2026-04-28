@@ -18,7 +18,7 @@
 
 <p>길이가 $L$인 상자가 있다. 이 안에 크기를 무시할 수 있을 만큼 작은 공 $N$개가 존재한다. 길이가 $L$인 상자는 길이가 $1$인 구간 $L$개로 분할할 수 있으며, 모든 공은 구간과 구간 사이의 경계에서 운동을 시작한다. 모든 공들은 $1$초에 한 칸씩 움직인다. 만약 어떤 공이 벽이나 다른 공에 충돌한다면, 즉시 운동 방향이 반대로 바뀐다. 이때 공의 속력은 바뀌지 않는다. 또한 처음에 임의의 두 공 사이 간격은 짝수이고, 한 위치엔 하나의 공만 존재한다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/21048628-aca2-464b-a0fe-5edc24b601ab/-/preview/" style="height: 603px; width: 800px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/24468.%E2%80%85%EC%B6%A9%EB%8F%8C%EC%9D%98%E2%80%85%EC%88%98/93229537.png" data-original-src="https://upload.acmicpc.net/21048628-aca2-464b-a0fe-5edc24b601ab/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 603px; width: 800px;" /></p>
 
 <p>예를 들어, 위 그림은 $L=8$일 때를 나타낸 것이다. 시간 $t=0$일 때 빨간색 공은 처음 위치 $1$에서 오른쪽으로 이동하고 있고, 파란 공은 처음 위치 $5$에서 왼쪽으로 운동하고 있다. $t=2$일 때 두 공은 충돌하여 즉시 운동 방향이 반대로 바뀌게 된다.</p>
 

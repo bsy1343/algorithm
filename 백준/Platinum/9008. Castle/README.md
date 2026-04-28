@@ -20,7 +20,7 @@
 
 <p>A rectilinear polygon is a polygon whose edges are either horizontal or vertical. That is, at each vertex of the polygon, the interior angle formed by its two incident edges is either 90&deg; or 270&deg;, as shown in Figure 1. We say that a rectilinear polygon is simple if (1) each vertex is incident to exactly two edges and (2) there are no edges that intersect each other except at their end vertices.&nbsp;</p>
 
-<p style="text-align: center;"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/9008/1.png" style="height:277px; width:526px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/9008.%E2%80%85Castle/c07c8b3b.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/9008/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:277px; width:526px" /></p>
 
 <p style="text-align: center;">Figure 1. (a) A simple rectilinear polygon. (b)-(c) Non-simple rectilinear polygons because (b) there is a vertex having four incident edges, or (c) there is a pair of edges crossing each other.</p>
 
@@ -28,7 +28,7 @@
 
 <p>Formally, you are given a set of ݊ distinct points in the plane with integer coordinates. You need to decide whether or not we can reconstruct a simple rectilinear polygon by connecting all the points with horizontal and vertical segments alternatingly. You should output &ldquo;YES&rdquo; if it is possible to reconstruct a simple rectilinear polygon of ݊ vertices from the ݊ input points, &ldquo;NO&rdquo; otherwise.&nbsp;</p>
 
-<p style="text-align: center;"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/9008/2.png" style="height:280px; width:550px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/9008.%E2%80%85Castle/efc6cc78.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/9008/2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:280px; width:550px" /></p>
 
 <p style="text-align: center;">Figure 2. (a) Input points. (b) A simple rectilinear polygon reconstructed from the input.</p>
 

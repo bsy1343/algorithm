@@ -27,7 +27,7 @@
 
 <p>How many holes can you make at most?</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/3ce403c9-523d-4de1-b323-f9c0446614d3/-/preview/" style="width: 500px; height: 210px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/25989.%E2%80%85Jabbing%E2%80%85Jets/d3705327.png" data-original-src="https://upload.acmicpc.net/3ce403c9-523d-4de1-b323-f9c0446614d3/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 500px; height: 210px;" /></p>
 
 <p style="text-align: center;">Figure J.1: Possible aesthetically pleasing showerheads for the first two samples.</p>
 

@@ -22,7 +22,7 @@
 
 <p>A figura abaixo mostra (a) uma pizza de circunfer&ecirc;ncia 12 com 3 azeitonas e uma poss&iacute;vel divis&atilde;o em peda&ccedil;os iguais; e (b) uma pizza de circunfer&ecirc;ncia 12 com 4 azeitonas que n&atilde;o pode ser dividida em peda&ccedil;os iguais como descrito acima. Apesar de deliciosas, as azeitonas s&atilde;o muito pequenas, e suas dimens&otilde;es podem ser desconsideradas no c&aacute;lculo da divis&atilde;o.</p>
 
-<p><img alt="" src="https://onlinejudgeimages.s3.amazonaws.com/problem/13620/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202017-01-05%20%EC%98%A4%ED%9B%84%207.06.39.png" style="height:187px; width:359px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/13620.%E2%80%85Pizza%E2%80%85do%E2%80%85V%C3%B4%E2%80%85Pepe/140be6b5.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/13620/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202017-01-05%20%EC%98%A4%ED%9B%84%207.06.39.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:187px; width:359px" /></p>
 
 ### 입력
 

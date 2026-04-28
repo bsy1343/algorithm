@@ -18,7 +18,7 @@
 
 <p>A well known puzzle consists of 7 hexagonal pieces, each with the numbers 1 through 6 printed on the sides. Each piece has a different arrangement of the numbers on its sides, and the object is to place the 7 pieces in the arrangement shown below such that the numbers on each shared edge of the arrangement are identical. Figure (a) is an example of one solution:</p>
 
-<p><img alt="" src="/upload/images2/hex(1).png" style="height:264px; width:489px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/4020.%E2%80%85Hexagon%E2%80%85Perplexagon/004219c2.png" data-original-src="https://www.acmicpc.net/upload/images2/hex(1).png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:264px; width:489px" /></p>
 
 <p>Rotating any solution also gives another trivially identical solution. To avoid this redundancy, we will only deal with solutions which have a 1 on the uppermost edge of the central piece, as in the example.</p>
 

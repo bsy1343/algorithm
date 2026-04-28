@@ -20,7 +20,7 @@
 
 <p>You are given the costs of connecting pairs of vats with pipes. Your goal is to find the least expensive way to connect together two vats v<sub>1</sub>, v<sub>2</sub> with the vat v<sub>d</sub> leading to the bottling machine. Fruit from both vats v<sub>1</sub>, v<sub>2</sub> must be able to reach vat v<sub>d</sub>. They may share part of the piping, though it is not required. In some cases it may not be possible to connect both vats to the vat leading to the bottling machine.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/45741a84-9651-4c0b-9bd4-f6dfb37d0790/-/preview/" style="width: 543px; height: 166px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/10200.%E2%80%85Jam%E2%80%85Factory/4b8b3ef9.png" data-original-src="https://upload.acmicpc.net/45741a84-9651-4c0b-9bd4-f6dfb37d0790/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 543px; height: 166px;" /></p>
 
 <p>The figure above shows two examples, each example contains 5 vats and 5 possible pipes for connecting the vats. Vats 1 and 2 need to be connected to vat 5, which leads to the bottling machine. In the example on the left, the cost of each pipe is 1, so the minimal cost of connecting vats 1 and 2 to vat 5 is 3, achieved by building pipes from 1 to 4, 2 to 4, and from 4 to 5 (as shown by the solid lines).</p>
 

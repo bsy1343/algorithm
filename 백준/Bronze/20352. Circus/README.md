@@ -22,7 +22,7 @@
 
 <p>This can not go on. The ringmaster, inspired by his distant cousins from a small village in Armorica, proposes to build a circular wall around the big top to prevent unauthorised entry.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/392054f5-15e7-4ca1-99ea-9bf639b1d104/-/preview/" style="width: 504px; height: 211px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/20352.%E2%80%85Circus/fce40ca1.png" data-original-src="https://upload.acmicpc.net/392054f5-15e7-4ca1-99ea-9bf639b1d104/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 504px; height: 211px;" /></p>
 
 <p style="text-align: center;">Figure C.1: Diagram of the indomitable circus, fencing, and the surrounding encampments of Flixium, Fundibulum, Maximillian, and Hulum. This image was adapted from an <a href="https://en.wikipedia.org/wiki/File:Goseck_circle,_Germany_4900_-_4700_BC.jpg">illustration</a> of the Goseck circle by Kenny Arne Lang Antonsen.</p>
 

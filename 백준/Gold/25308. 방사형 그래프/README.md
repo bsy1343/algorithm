@@ -18,13 +18,13 @@
 
 <p>게임 캐릭터의 능력치를 한 눈에 보기 좋게 나타내는 방법으로 방사형 그래프가 있다. 캐릭터는 8개의 능력치를 갖고 있고 각 능력치를 $a_1, a_2, \cdots, a_8$이라고 하면, 그래프는 팔각형 형태이고 $k$번째 꼭짓점은 원점을 기준으로 $45\times k$도 방향으로 $a_k$만큼 떨어져 있다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/43d13e2d-6736-49e1-a0ef-d3a079ca7b49/-/preview/" style="height: 400px; width: 600px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/25308.%E2%80%85%EB%B0%A9%EC%82%AC%ED%98%95%E2%80%85%EA%B7%B8%EB%9E%98%ED%94%84/08d4caab.png" data-original-src="https://upload.acmicpc.net/43d13e2d-6736-49e1-a0ef-d3a079ca7b49/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 400px; width: 600px;" /></p>
 
 <p>방사형 그래프를 사용하면 능력치가 얼마나 고르게 분포되어 있는지 쉽게 알 수 있다. 만약 모든 능력치가 동일하다면 정다각형 형태가 되고, 한 능력치가 다른 능력치에 비해 현저히 낮으면 오목 다각형이 된다. 많은 사람들은 방사형 그래프를 볼록 다각형, 즉 모든 내각이 $180&deg;$ 이하인 다각형으로 만들어 자신의 약점을 없애기&nbsp;위해 노력한다.</p>
 
 <p>시루는 자신의 그래프를 볼록 다각형으로 바꾸고 싶지만, 능력치를 올리는 것은 매우 귀찮기 때문에 한 가지 꼼수를 생각해냈다. 바로 능력치를 나열하는 순서를 바꾸는 것이다. 예를 들어, $\lbrace 6,7,7,8,9,10,11,13&nbsp;\rbrace$ 순서대로 나열하면 오목 다각형이 되지만, 순서를&nbsp;바꿔 $\lbrace 7,6,7,8,9,10,11,13&nbsp;\rbrace$ 순서대로 나열하면 볼록 다각형이 된다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/b1b6476b-78bc-426a-a826-b3be44aff8d5/-/preview/" style="height: 358px; width: 1000px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/25308.%E2%80%85%EB%B0%A9%EC%82%AC%ED%98%95%E2%80%85%EA%B7%B8%EB%9E%98%ED%94%84/90737091.png" data-original-src="https://upload.acmicpc.net/b1b6476b-78bc-426a-a826-b3be44aff8d5/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 358px; width: 1000px;" /></p>
 
 <p>능력치를 나열하는 순서에 따라 오목 다각형이 될 수도, 볼록 다각형이 될 수도 있기 때문에, 시루는 능력치를 잘 배열해서 볼록 다각형이 되는 경우의 수가 궁금해졌다. 볼록 다각형을 만드는 경우의 수를 구해보자.</p>
 

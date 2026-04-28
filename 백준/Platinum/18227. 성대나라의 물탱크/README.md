@@ -26,7 +26,7 @@
 
 <p>예를 들어, 아래 그림과 같이 물탱크가 연결되어 있을 때, &quot;4번 도시에 물을 채운다&quot;라고 하면, 1번 도시에 1L, 4번 도시에 2L의 물이&nbsp;추가된다. 만약&nbsp;&quot;5번 도시에 물을 채운다&quot;라고 하면 1번 도시에 1L, 2번 도시에 2L, 5번 도시에 3L의 물이&nbsp;추가된다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/fec2163d-bb74-46cd-b0eb-dad3b005ea12/-/crop/596x510/38,52/-/preview/" style="height: 281px; width: 328px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/18227.%E2%80%85%EC%84%B1%EB%8C%80%EB%82%98%EB%9D%BC%EC%9D%98%E2%80%85%EB%AC%BC%ED%83%B1%ED%81%AC/4da009d9.png" data-original-src="https://upload.acmicpc.net/fec2163d-bb74-46cd-b0eb-dad3b005ea12/-/crop/596x510/38,52/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 281px; width: 328px;" /></p>
 
 <p>성대나라의 물탱크 관리 담당인 균관이는 어느 도시에 몇 리터의 물이 저장되어있는지 자신이 궁금해질 때마다 알기를 원한다. 균관이를 도와주는 프로그램을 만들어보자.</p>
 

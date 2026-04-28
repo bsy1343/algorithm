@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/upload/images2/i5screen4_476.png" style="float:right; height:500px; width:238px" /><a href="http://www.quento.com/">Quento</a>는 <a href="https://www.q42.nl/">Q42</a>에서 만든 게임이다. 이 게임의 게임판은 항상 3&times;3 크기이며, 오른쪽 그림과 같이 검정색 칸에는 숫자, 흰색 칸에는 +또는 -가 적혀져 있다.</p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/10429.%E2%80%85QUENTO/163ddc25.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/upload/images2/i5screen4_476.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="float:right; height:500px; width:238px" /><a href="http://www.quento.com/">Quento</a>는 <a href="https://www.q42.nl/">Q42</a>에서 만든 게임이다. 이 게임의 게임판은 항상 3&times;3 크기이며, 오른쪽 그림과 같이 검정색 칸에는 숫자, 흰색 칸에는 +또는 -가 적혀져 있다.</p>
 
 <p>게임판의 상단에는 만들어야하는 숫자 N과 사용해야 하는 숫자의 개수 M이 주어진다. 이제 숫자에서 스와이프를 시작해 +/-로 이동한 다음, 다시 숫자로 스와이프를 하고, 이런식으로 숫자를 M개 지났을 때, 결과가 N이 되어야 한다. 이미 방문한 칸은 재방문 할 수 없으며, 다시 지나가는 것도 불가능하다.</p>
 

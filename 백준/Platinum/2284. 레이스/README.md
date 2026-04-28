@@ -22,7 +22,7 @@
 
 <p>경기가 끝날 때까지 발생하는 추월들을 알아내는 프로그램을 작성하시오. 경기는 더 이상 추월이 발생하지 않을 때까지 반복된다. 우선 추월의 회수를 알아내야 하고, 연대순으로 처음 10,000개의 추월이 구체적으로 어떤 추월인지(몇 번이 몇 번을 추월하는지)를 알아내야 한다. 편의상 모든 X[i]가 다르다고 가정하자. 또한, 매 순간에 한 x좌표에는 최대 두 개의 우주선만 있을 수 있다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/e164b7d2-dbbf-48ba-b2c2-03f80373f714/-/preview/" style="width: 352px; height: 179px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/2284.%E2%80%85%EB%A0%88%EC%9D%B4%EC%8A%A4/ff1ee677.png" data-original-src="https://upload.acmicpc.net/e164b7d2-dbbf-48ba-b2c2-03f80373f714/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 352px; height: 179px;" /></p>
 
 ### 입력
 

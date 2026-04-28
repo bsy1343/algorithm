@@ -18,7 +18,7 @@
 
 <p>Consider the two networks shown below. Assuming that data moves around these networks only between directly connected nodes on a peer-to-peer basis, a failure of a single node, 3, in the network on the left would prevent some of the still available nodes from communicating with each other. Nodes 1 and 2 could still communicate with each other as could nodes 4 and 5, but communication between any other pairs of nodes would no longer be possible. Node 3 is therefore a Single Point of Failure (SPF) for this network. Strictly, an SPF will be defined as any node that, if unavailable, would prevent at least one pair of available nodes from being able to communicate on what was previously a fully connected network. Note that the network on the right has no such node; there is no SPF in the network. At least two machines must fail before there are any pairs of available nodes which cannot communicate.&nbsp;</p>
 
-<p><img alt="" src="/upload/images/spf.png" style="height:235px; width:552px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/6383.%E2%80%85SPF/c5ea0f0e.png" data-original-src="https://www.acmicpc.net/upload/images/spf.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:235px; width:552px" /></p>
 
 ### 입력
 

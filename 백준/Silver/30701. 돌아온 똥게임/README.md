@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><img alt="" src="https://u.acmicpc.net/406344fd-9cb0-4f9f-9cea-447317ef269a/%EB%98%A5%EA%B2%8C%EC%9E%84.png" style="height: 50%; width: 50%;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/30701.%E2%80%85%EB%8F%8C%EC%95%84%EC%98%A8%E2%80%85%EB%98%A5%EA%B2%8C%EC%9E%84/c64f67c5.png" data-original-src="https://u.acmicpc.net/406344fd-9cb0-4f9f-9cea-447317ef269a/%EB%98%A5%EA%B2%8C%EC%9E%84.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 50%; width: 50%;" /></p>
 
 <p>유튜브에서 똥게임 광고를 지나치게 많이 본 근호는 본인이 직접 똥게임을 설치해서 하기로 했다.</p>
 

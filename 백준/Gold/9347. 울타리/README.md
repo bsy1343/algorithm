@@ -20,7 +20,7 @@
 
 <p>아래 보이는 그림은 11행 12열의 화원을 나타낸다. 0은 울타리가 없거나 꽃이 심어져 있는 부분을 나타내고 1은 울타리가 있는 곳을 나타낸다. 화원에 들어 오려면 노란색 부분부터 들어와야 한다.</p>
 
-<p><img alt="" src="/upload/images/fence%281%29.png" style="height:256px; width:322px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/9347.%E2%80%85%EC%9A%B8%ED%83%80%EB%A6%AC/8d8952c4.png" data-original-src="https://www.acmicpc.net/upload/images/fence%281%29.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:256px; width:322px" /></p>
 
 <p>진욱이가 꽃을 훔치러 화원에 들어왔다. 울타리를 요리조리 피해서 들어가는데 이때 상, 하, 좌, 우로 밖에 이동할 수 없다. 진욱이는 파괴적 성향을 지니고 있기 때문에 울타리로 가로막혀 더이상 안으로 접근할 수 없을 때 울타리를 부순다.&nbsp; 진욱이가 되도록 적은 수의 울타리를 부수면서 안으로 들어갈때, 최대한 많이 울타리를 부순 횟수와 , 그때 얻을 수 있는 꽃의 수를 구하여라.</p>
 
@@ -44,4 +44,4 @@
 
 <p>진욱이는 되도록이면 울타리를 부수지 않고 안으로 들어간다.울타리를 부수지 않고 절대로 안으로 들어 갈 수 없을때만 울타리를 부순다.</p>
 
-<p><img alt="" src="/upload/images/fence2.png" style="height:179px; width:612px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/9347.%E2%80%85%EC%9A%B8%ED%83%80%EB%A6%AC/3d9fa2f0.png" data-original-src="https://www.acmicpc.net/upload/images/fence2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:179px; width:612px" /></p>

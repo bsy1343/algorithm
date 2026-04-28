@@ -42,8 +42,8 @@
 
 <p>下図は a=5, b=4, n=3 で， 工事中の交差点が (2,2), (2,3), (4,2) の場合を表している．</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/f43494b6-714a-4a30-bdfc-c9ffdbd3afd7/-/preview/" style="width: 247px; height: 166px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/5601.%E2%80%85%E9%80%9A%E5%AD%A6%E7%B5%8C%E8%B7%AF/c6870505.png" data-original-src="https://upload.acmicpc.net/f43494b6-714a-4a30-bdfc-c9ffdbd3afd7/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 247px; height: 166px;" /></p>
 
 <p>この場合， 通学経路は m=5 通りある． 5通りの通学経路を全て図示すると， 以下の通り．</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/0ce36717-268d-4da3-be27-450e88fd8378/-/preview/" style="width: 247px; height: 166px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/5601.%E2%80%85%E9%80%9A%E5%AD%A6%E7%B5%8C%E8%B7%AF/b08489a2.png" data-original-src="https://upload.acmicpc.net/0ce36717-268d-4da3-be27-450e88fd8378/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 247px; height: 166px;" /></p>

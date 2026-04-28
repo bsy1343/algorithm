@@ -42,6 +42,6 @@
 
 ### 힌트
 
-<p><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/5487/1.png" style="height:102px; width:401px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/5487.%E2%80%85Birthday/41ae97c1.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/5487/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:102px; width:401px" /></p>
 
 <p>The left figure shows the initial arrangement of the children. The middle figure shows the result of the following reseating: children number 1 and 2 move one place, children number 3 and 5 move two places, and children number 4 and 6 do not change places. The conditions of arrangement are fulfilled, since 3 sits between 6 and 4, 4 sits between 3 and 5, 5 sits between 4 and 1, 1 sits between 5 and 2, 2 sits between 1 and 6, and 6 sits between 2 and 3. There exists another possible final arrangement of children, depicted in the right figure. In both cases no child moves more than two seats.</p>

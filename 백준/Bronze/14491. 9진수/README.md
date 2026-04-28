@@ -18,7 +18,7 @@
 
 <p>10진수를 9진수로 바꾸자.</p>
 
-<p>컴파일러:&nbsp;<img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14491/1.png" style="height:114px; width:102px" /></p>
+<p>컴파일러:&nbsp;<img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/14491.%E2%80%859%EC%A7%84%EC%88%98/f4ea4f43.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14491/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:114px; width:102px" /></p>
 
 ### 입력
 

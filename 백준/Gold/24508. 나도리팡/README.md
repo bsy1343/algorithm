@@ -18,13 +18,13 @@
 
 <p>나도리는 귀여운 노란색 공 모양 캐릭터이다. 나도리는 바구니에 들어가 있는 것을 좋아한다.</p>
 
-<p style="text-align: center;"><img alt="귀여운 나도리" src="https://upload.acmicpc.net/0ea55ac0-4a6c-4809-8477-46921432fb6e/-/preview/" style="max-height:100px; object-fit:contain; display:inline-block;" /></p>
+<p style="text-align: center;"><img alt="귀여운 나도리" src="%EB%B0%B1%EC%A4%80/Gold/24508.%E2%80%85%EB%82%98%EB%8F%84%EB%A6%AC%ED%8C%A1/18c4b464.png" data-original-src="https://upload.acmicpc.net/0ea55ac0-4a6c-4809-8477-46921432fb6e/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="max-height:100px; object-fit:contain; display:inline-block;" /></p>
 
 <p style="text-align: center;"><strong>[그림] 나도리</strong></p>
 
 <p>하지만 나도리에게는 최근 슬픈 일이 생겼다. 왜냐하면 나도리 $K$ 마리가 한 바구니에 모인다면 빡! 하고 터져버리는 무서운 저주에 걸렸기 때문이다.</p>
 
-<p style="text-align: center;"><img alt="귀여운 나도리" src="https://upload.acmicpc.net/630174e3-0e09-4389-b687-c5cf2570334d/-/preview/" style="max-height:100px; object-fit:contain; display:inline-block;" /></p>
+<p style="text-align: center;"><img alt="귀여운 나도리" src="%EB%B0%B1%EC%A4%80/Gold/24508.%E2%80%85%EB%82%98%EB%8F%84%EB%A6%AC%ED%8C%A1/8b9eb87f.png" data-original-src="https://upload.acmicpc.net/630174e3-0e09-4389-b687-c5cf2570334d/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="max-height:100px; object-fit:contain; display:inline-block;" /></p>
 
 <p style="text-align: center;"><strong>[그림] 슬픈 나도리</strong></p>
 

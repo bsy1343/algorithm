@@ -18,7 +18,7 @@
 
 <p>바쿠는 정사각형 모양의 넓은 땅을 균등하게 구획을 나눠 작은 정사각형 밭을 $N \times N$개 만들 었다. 각 밭에 $P$개씩 씨를 뿌린 후 일주일 후에 보니 어떤 씨는 새싹이 났고 어떤 씨는 아직 새싹이 나지 않았다. 예를 들어, 아래 그림은 $6 \times 6$개의 밭에 $3$개씩의 씨를 뿌린 후 새싹이 난 모습을 나타낸다. 가장 왼쪽 위 밭에는 두 개의 새싹이 났고, 가장 오른쪽 아래 밭에는 한 개의 새싹이 났다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/0b928910-b30d-47a5-a846-8d80b603138b/-/preview/" style="width: 150px; height: 150px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/25301.%E2%80%85%EC%83%88%EC%8B%B9/9db2a8ce.png" data-original-src="https://upload.acmicpc.net/0b928910-b30d-47a5-a846-8d80b603138b/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 150px; height: 150px;" /></p>
 
 <p>밭을 둘러보던 바쿠는 최근에 배운 중간값(median)이 생각났다. 중간값은 홀수개의 주어진 값들 중 하나로, 주어진 값들을 정렬했을 때 정확히 가운데에 있는 값이다. 예를 들어, 다섯 개의 주어진 값이 $0, 1, 2, 2, 3$이라면 중간값은 $2$가 된다.</p>
 
@@ -29,8 +29,8 @@
 <table class="table table-bordered td-center td-middle">
 	<tbody>
 		<tr>
-			<td><img alt="" src="https://upload.acmicpc.net/b10ce22c-320c-48ee-b030-e1b57c67fbbf/-/preview/" style="width: 215px; height: 125px;" /></td>
-			<td><img alt="" src="https://upload.acmicpc.net/397192f0-c11d-4c77-8189-0e334aa78001/-/preview/" style="width: 214px; height: 125px;" /></td>
+			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/25301.%E2%80%85%EC%83%88%EC%8B%B9/1964533b.png" data-original-src="https://upload.acmicpc.net/b10ce22c-320c-48ee-b030-e1b57c67fbbf/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 215px; height: 125px;" /></td>
+			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/25301.%E2%80%85%EC%83%88%EC%8B%B9/f3ce9daa.png" data-original-src="https://upload.acmicpc.net/397192f0-c11d-4c77-8189-0e334aa78001/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 214px; height: 125px;" /></td>
 		</tr>
 		<tr>
 			<td>중간값</td>
@@ -44,10 +44,10 @@
 <table class="table table-bordered td-center td-middle">
 	<tbody>
 		<tr>
-			<td><img alt="" src="https://upload.acmicpc.net/0a357801-96d8-4ab4-b3f3-5efb8a3f9f67/-/preview/" style="width: 150px; height: 150px;" /></td>
-			<td><img alt="" src="https://upload.acmicpc.net/d63d480f-1e33-432d-9129-a6c973813f09/-/preview/" style="width: 144px; height: 125px;" /></td>
-			<td><img alt="" src="https://upload.acmicpc.net/828adbce-39ae-429c-af51-85fb6d48f7e3/-/preview/" style="width: 160px; height: 125px;" /></td>
-			<td><img alt="" src="https://upload.acmicpc.net/94a25cb4-7961-4725-bbdc-4441216c6fc9/-/preview/" style="width: 141px; height: 125px;" /></td>
+			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/25301.%E2%80%85%EC%83%88%EC%8B%B9/b608409d.png" data-original-src="https://upload.acmicpc.net/0a357801-96d8-4ab4-b3f3-5efb8a3f9f67/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 150px; height: 150px;" /></td>
+			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/25301.%E2%80%85%EC%83%88%EC%8B%B9/9035d188.png" data-original-src="https://upload.acmicpc.net/d63d480f-1e33-432d-9129-a6c973813f09/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 144px; height: 125px;" /></td>
+			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/25301.%E2%80%85%EC%83%88%EC%8B%B9/7c30b2bb.png" data-original-src="https://upload.acmicpc.net/828adbce-39ae-429c-af51-85fb6d48f7e3/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 160px; height: 125px;" /></td>
+			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/25301.%E2%80%85%EC%83%88%EC%8B%B9/0c49d6fa.png" data-original-src="https://upload.acmicpc.net/94a25cb4-7961-4725-bbdc-4441216c6fc9/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 141px; height: 125px;" /></td>
 		</tr>
 		<tr>
 			<td> </td>

@@ -22,7 +22,7 @@
 
 <p>For example, in the picture below we depict a town with five people. An arrow from $A$ to $B$ indicates that $A$ would ask $B$ for the money.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/d8739eb4-1ae3-4be7-95f1-10eef72e6ff6/-/preview/" style="width: 160px; height: 155px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/28040.%E2%80%85Asking%E2%80%85for%E2%80%85Money/49157499.png" data-original-src="https://upload.acmicpc.net/d8739eb4-1ae3-4be7-95f1-10eef72e6ff6/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 160px; height: 155px;" /></p>
 
 <p>In this example, $B$ can lose money. We can check that with the following scenario.</p>
 

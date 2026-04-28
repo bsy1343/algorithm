@@ -20,7 +20,7 @@
 
 <p>&nbsp;</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/5bdbc7e9-2533-41bd-8d85-89df57773115/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/16188.%E2%80%85Histogram%E2%80%85Sequence/5edd9e18.png" data-original-src="https://upload.acmicpc.net/5bdbc7e9-2533-41bd-8d85-89df57773115/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p style="text-align: center;"><em><strong>Figure</strong>: This picture depicts a case when $N = 9$ and $H = [7,\ 4,\ 3,\ 5,\ 4,\ 2,\ 5,\ 1,\ 2]$</em>.</p>
 
@@ -34,7 +34,7 @@
 
 <p>&nbsp;</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/21407dc0-d31f-4fab-8c3f-aa24d3bcbcd8/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/16188.%E2%80%85Histogram%E2%80%85Sequence/2f390456.png" data-original-src="https://upload.acmicpc.net/21407dc0-d31f-4fab-8c3f-aa24d3bcbcd8/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p style="text-align: center;"><em><strong>Figure</strong>: This picture depicts a case when $i = 3$ and $j = 5$. The area is 9.</em></p>
 

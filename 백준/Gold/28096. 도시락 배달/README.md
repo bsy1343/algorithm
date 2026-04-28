@@ -28,7 +28,7 @@
 	<li>1, 2, 3, 4로 표시된 칸은 순서대로 네 명의 직원의 위치이다.</li>
 </ul>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/5596bc13-b537-41a6-aef7-91d12cb93450/-/crop/1120x193/0,0/-/preview/" style="height: 95px; width: 550px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/28096.%E2%80%85%EB%8F%84%EC%8B%9C%EB%9D%BD%E2%80%85%EB%B0%B0%EB%8B%AC/4109085e.png" data-original-src="https://upload.acmicpc.net/5596bc13-b537-41a6-aef7-91d12cb93450/-/crop/1120x193/0,0/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 95px; width: 550px;" /></p>
 
 <p>Albert는 편의점에서 도시락을 $N$개 받은 이후 최대한 빨리 모든 직원에게 도시락을 하나씩 배달하고 싶다. Albert가 빌딩 내에서 이동하는데 걸리는 시간은 아래와 같다.</p>
 

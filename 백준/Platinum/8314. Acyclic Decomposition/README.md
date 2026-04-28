@@ -32,6 +32,6 @@
 
 ### 힌트
 
-<p style="text-align:center"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/8314/1.gif" style="height:108px; width:251px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/8314.%E2%80%85Acyclic%E2%80%85Decomposition/c6a6f0c6.gif" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/8314/1.gif" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:108px; width:251px" /></p>
 
 <p>Illustration of the example from the task statement. The circles represent the vertices, while the lines and arcs (continuous and dashed) represent the edges of the graph. The numbers next to the circles are the numbers of the vertices, and the numbers next to the lines/arcs are the numbers of edges. This graph can be decomposed into two acyclic graphs: the edges of the first one are denoted by continuous lines/arcs and the edges of the second one - by dashed lines/arcs.</p>

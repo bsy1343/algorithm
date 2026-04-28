@@ -20,13 +20,13 @@
 
 <p>각 손잡이의 번호는 왼쪽에서 오른쪽으로, 위에서부터 아래로 내려가면서 1 번부터 N<sup>2</sup>번까지 아래 왼쪽그림과 같이 지정되어 있다. 그리고 금고의 초기상태는 오른쪽 그림과 같이 모두 손잡이가 수평(-)으로 되어 있다. 그리고 모든 손잡이가 수평으로 되어있을 때만 금고문은 열린다.&nbsp;</p>
 
-<p style="text-align:center"><img alt="" src="https://onlinejudgeimages.s3.amazonaws.com/problem/9066/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202017-01-03%20%EC%98%A4%ED%9B%84%205.26.11.png" style="height:111px; width:425px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/9066.%E2%80%85%EA%B8%88%EA%B3%A0/143edf02.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/9066/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202017-01-03%20%EC%98%A4%ED%9B%84%205.26.11.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:111px; width:425px" /></p>
 
 <p>우리는 이 금고문이 열려있는 초기상태에서 다음과 같이 문을 잠근다. 어떤 손잡이를 잡고 그 방향을 바꾼다. 즉 수평(-)인 경우에 돌리면 수직(|)이 되고, 수직인 경우에는 수평이 된다. 그리고 중요한 한 가지 특징은 선택한 손잡이와 같은 행과 열에 있는 모든 손잡이의 방향은 바뀌게 된다.</p>
 
 <p>예를 들어 초기상태에서 손잡이 6 번을 돌리면 아래 왼쪽 그림과 같은 상태가 되고 그 상태에서 다시 손잡이 11 번을 돌리면 오른쪽 그림과 같은 상태가 된다.&nbsp;</p>
 
-<p style="text-align:center"><img alt="" src="https://onlinejudgeimages.s3.amazonaws.com/problem/9066/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202017-01-03%20%EC%98%A4%ED%9B%84%205.27.14.png" style="height:108px; width:425px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/9066.%E2%80%85%EA%B8%88%EA%B3%A0/25c573fa.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/9066/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202017-01-03%20%EC%98%A4%ED%9B%84%205.27.14.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:108px; width:425px" /></p>
 
 <p>이 문제는 잠긴 금고를 열기 위해서 최소 몇 번 손잡이를 돌려야 하는지를 출력하는 것이다. 즉, 모든 손잡이를 수평으로 만들기 위해 최소 몇 번 손잡이를 돌려야 하는지를 계산하는 것이다.&nbsp;</p>
 

@@ -24,7 +24,7 @@
 
 <p>For example, if the King had three sons, named 0, 1 and 2, the figure below shows what happens in the first battle for a given initial land distribution:</p>
 
-<p><img alt="" src="/upload/images2/bro.png" style="height:162px; width:423px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/5707.%E2%80%85Brothers/fb850179.png" data-original-src="https://www.acmicpc.net/upload/images2/bro.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:162px; width:423px" /></p>
 
 <p>You were hired to help an ACM historian determining, given the number of heirs, the initial land distribution and the number of battles, what was the land distribution after all battles.</p>
 

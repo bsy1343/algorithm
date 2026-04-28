@@ -24,7 +24,7 @@
 
 <p>거액의 상금을 노리고 <em>K</em>명의 사람들이 이 게임에&nbsp;참가하였다. 각 참가자에게는 1번부터 <em>K</em>번까지 순서대로 번호가 매겨져 있고, 받은 번호는 그&nbsp;참가자가 출발하는&nbsp;순서와 같다.&nbsp;게임은 1번 참가자부터 순서대로 진행된다. <em>i</em>(2 &le; <em>i</em> &le; <em>K</em>)번 참가자는 <em>i</em>-1번 참가자가 탈락하거나 <code>Safe Zone</code>에 도달한 뒤부터 이동할 수 있다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/32264123-cbdd-4d66-bfa3-6382a0e3de6e/-/preview/" style="height: 309px; width: 500px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/23846.%E2%80%85%EC%A7%95%EA%B2%80%EB%8B%A4%EB%A6%AC%E2%80%85%EA%B1%B4%EB%84%88%EA%B8%B0/7b9fbeba.png" data-original-src="https://upload.acmicpc.net/32264123-cbdd-4d66-bfa3-6382a0e3de6e/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 309px; width: 500px;" /></p>
 
 <p style="text-align: center;">위 그림은 <em>N</em>=4, <em>K</em>=2일 때의 예시이다.</p>
 

@@ -41,7 +41,7 @@
 
 ### 힌트
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/18b3732d-945f-46e3-a5ce-c2ef6e98799f/-/preview/" style="width: 500px; height: 254px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/20821.%E2%80%85Pariserhjulet/40d5b2fa.png" data-original-src="https://upload.acmicpc.net/18b3732d-945f-46e3-a5ce-c2ef6e98799f/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 500px; height: 254px;" /></p>
 
 <p style="text-align: center;">Figure 1: Exempelfall 1</p>
 

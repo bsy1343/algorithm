@@ -22,7 +22,7 @@
 
 <p>그런데 어느 날, 채완이와 주환이는 블롭들이 슬퍼한다는&nbsp;사실을&nbsp;알아차렸다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/4a772502-bd84-4a45-b00c-7b225a7f03da/-/preview/" style="max-width: 384px;" /><br />
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/24502.%E2%80%85blobsad/7acd2bd8.png" data-original-src="https://upload.acmicpc.net/4a772502-bd84-4a45-b00c-7b225a7f03da/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="max-width: 384px;" /><br />
 &nbsp;</p>
 
 <p>연구 끝에&nbsp;블롭은 같은&nbsp;칸에 있는 블롭의 수가 $K$의 배수가 아니면&nbsp;슬퍼한다는 사실을&nbsp;알 수 있었고,&nbsp;통에 있는 블롭을 적절히 옮겨&nbsp;슬퍼하지 않게 만들려고 한다.</p>

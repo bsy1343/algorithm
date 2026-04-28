@@ -18,7 +18,7 @@
 
 <p><span style="line-height:1.6em">&lt;그림 1&gt;은 어떤 도시의 도로망을 나타내고 있다.</span></p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/6182a2d1-41b6-4eb1-b0b3-bba7a2fd2b08/-/preview/" style="width: 212px; height: 150px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/2634.%E2%80%85%EB%B2%84%EC%8A%A4%EB%85%B8%EC%84%A0/3fe691d1.png" data-original-src="https://upload.acmicpc.net/6182a2d1-41b6-4eb1-b0b3-bba7a2fd2b08/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 212px; height: 150px;" /></p>
 
 <p style="text-align: center;">&lt;그림 1&gt;</p>
 
@@ -53,7 +53,7 @@
 
 <p>다음 &lt;그림 2&gt;와 같은 경우라면 위의 조건들을 만족시키는 버스노선은 존재하지 않는다. 왜냐하면 6-2-7-9가 버스노선이 되면 도로 (7, 8)은 다른 노선에 포함될 수 없고, 6번에서 시작하여 9번이 아닌 다른 곳이 종점이 된다면 9번의 다른 쪽 종점을 정할 수 없기 때문이다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/95f9b661-a0b9-4c18-a46a-8d80e8e58b02/-/preview/" style="width: 197px; height: 150px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/2634.%E2%80%85%EB%B2%84%EC%8A%A4%EB%85%B8%EC%84%A0/d96c4d4c.png" data-original-src="https://upload.acmicpc.net/95f9b661-a0b9-4c18-a46a-8d80e8e58b02/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 197px; height: 150px;" /></p>
 
 <p style="text-align: center;">&lt;그림 2&gt;</p>
 

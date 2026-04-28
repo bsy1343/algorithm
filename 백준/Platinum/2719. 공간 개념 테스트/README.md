@@ -23,9 +23,9 @@
 	다음 정육면체의 전개도를 다시 접었을 때, 다음 중 어는 모양이 되는가?</p>
 
 <p>
-	<img alt="" src="/upload/images/test1.png" style="width: 302px; height: 210px;" /></p>
+	<img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/2719.%E2%80%85%EA%B3%B5%EA%B0%84%E2%80%85%EA%B0%9C%EB%85%90%E2%80%85%ED%85%8C%EC%8A%A4%ED%8A%B8/dfa9b05f.png" data-original-src="https://www.acmicpc.net/upload/images/test1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 302px; height: 210px;" /></p>
 <p>
-	<img alt="" src="/upload/images/test2.png" style="width: 586px; height: 143px;" /></p>
+	<img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/2719.%E2%80%85%EA%B3%B5%EA%B0%84%E2%80%85%EA%B0%9C%EB%85%90%E2%80%85%ED%85%8C%EC%8A%A4%ED%8A%B8/089db0b9.png" data-original-src="https://www.acmicpc.net/upload/images/test2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 586px; height: 143px;" /></p>
 
 <p>
 	안타깝게도, ETC는 최근 이런 문제 중 답이 없거나 답이 두 가지인 경우를 발견하게 되었다.</p>
@@ -37,13 +37,13 @@
 	ETC는 다음과 같은 이미지들을 정육면체의 면에 사용한다. 각 이미지는 세로 축에 대해 대칭이고, 끝 모양이 모두 다르다.</p>
 
 <p>
-	<img alt="" src="/upload/images/test3.png" style="width: 548px; height: 67px;" /></p>
+	<img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/2719.%E2%80%85%EA%B3%B5%EA%B0%84%E2%80%85%EA%B0%9C%EB%85%90%E2%80%85%ED%85%8C%EC%8A%A4%ED%8A%B8/23671b7b.png" data-original-src="https://www.acmicpc.net/upload/images/test3.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 548px; height: 67px;" /></p>
 
 <p>
 	정육면체의 전개도는 이미지와 끝 모양이 향하는 방향을 나타내는 6개의 쌍으로 이루어진다. 1은 위쪽, 2는 오른쪽, 3은 아래쪽, 4는 왼쪽 (오른쪽 그림 참고) 각 면들은 주어지는 순서에 따라, 왼쪽 그림과 같은 자리를 나타낸다.</p>
 
 <p>
-	<img alt="" src="/upload/images/test4.png" style="width: 585px; height: 172px;" /></p>
+	<img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/2719.%E2%80%85%EA%B3%B5%EA%B0%84%E2%80%85%EA%B0%9C%EB%85%90%E2%80%85%ED%85%8C%EC%8A%A4%ED%8A%B8/f50197e4.png" data-original-src="https://www.acmicpc.net/upload/images/test4.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 585px; height: 172px;" /></p>
 
 <p>
 	따라서 예로 주어진 문제의 전개도는 &quot;F3E4E2D3C2F3&quot;으로 나타낼 수 있다. ETC는 이런 문자열을 읽어서 전개도를 만드는 프로그램을 가지고있다.</p>
@@ -52,7 +52,7 @@
 	답지의 보기 이미지는 면의 이미지와 방향을 나타내는 3개의 쌍으로 이루어진다 (아래 그림 참고). 면들은 주어지는 순서에 따라 위, 오른쪽, 왼쪽을 나타내며 (그림의 [] 안 숫자 참고) 방향은 아래 그림의 숫자들을 참고하면 된다.</p>
 
 <p>
-	<img alt="" src="/upload/images/test5.png" style="width: 225px; height: 290px;" /></p>
+	<img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/2719.%E2%80%85%EA%B3%B5%EA%B0%84%E2%80%85%EA%B0%9C%EB%85%90%E2%80%85%ED%85%8C%EC%8A%A4%ED%8A%B8/ff3365f6.png" data-original-src="https://www.acmicpc.net/upload/images/test5.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 225px; height: 290px;" /></p>
 
 <p>
 	예를 들어, 예로 주어진 문제의 보기들은 다음과 같이 나타낼 수 있다. &quot;C2D2F2&quot;, &quot;E3F4C4&quot;, &quot;F2C2D2&quot;, &quot;D1E1F3&quot;, &quot;E1C1E1&quot;</p>

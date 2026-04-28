@@ -20,7 +20,7 @@
 
 <p>A Rubik&#39;s Cube is covered with 54 square areas called facelets, 9 facelets on each of its six sides. Each facelet has a certain color. Usually when the cube is in its starting state, all facelets belonging to one side have the same color. For the original cube these are red, yellow, green, blue, white and orange.&nbsp;</p>
 
-<p style="text-align: center;"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/6063/1.png" style="height:153px; width:181px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/6063.%E2%80%85Rubik's%E2%80%85Cube/844cb8e9.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/6063/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:153px; width:181px" /></p>
 
 <p style="text-align: center;">Figure 1: Turning the front side.</p>
 
@@ -36,7 +36,7 @@
 
 <p>Then follows the second section of the scenario containing the turns which have to be performed. The description of the turns starts with a line containing the number of turns t (t &gt; 0). Each turn is given in a separate line and consists of two integer values s and d which are separated by a single blank. The first value s determines the side of the cube which has to be turned. The sides are serially numbered as follows:left &#39;0&#39;, front &#39;1&#39;, right &#39;2&#39;, back &#39;3&#39;, top &#39;4&#39;, bottom &#39;5&#39;. The second value d determines in which direction&nbsp;</p>
 
-<p style="text-align: center;"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/6063/2.png" style="height:239px; width:329px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/6063.%E2%80%85Rubik's%E2%80%85Cube/076f7f6a.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/6063/2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:239px; width:329px" /></p>
 
 <p style="text-align: center;">Figure 2: Folding pattern for input and output</p>
 

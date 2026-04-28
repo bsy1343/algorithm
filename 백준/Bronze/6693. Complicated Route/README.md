@@ -20,7 +20,7 @@
 
 <p>The directions describing the route usually tell us something like &quot;Start at this corner. Take three steps towards the tall chimney, then seventeen steps towards the small maple tree, ... blah blah ..., finally six steps towards the graffiti painting. Then you will be there.&quot; Most of these directions just boil down to taking the mentioned number of steps in one of the eight principal compass directions (depicted in the figure).</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/6693.%E2%80%85Complicated%E2%80%85Route/57fb6542.gif" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/6693/1.gif" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:188px; width:370px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/6693.%E2%80%85Complicated%E2%80%85Route/57fb6542.gif" data-original-src="%EB%B0%B1%EC%A4%80/Bronze/6693.%E2%80%85Complicated%E2%80%85Route/57fb6542.gif" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/6693/1.gif" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:188px; width:370px" /></p>
 
 <p>Obviously, following the paths given by the police may lead to an interesting tour of the local scenery, but if one is in a hurry, there is usually a much faster way: just march directly from your starting point to the place where you want to go. Instead of taking three steps north, one step east, one step north, three steps east, two steps south and one step west (see figure) following the direct route (dashed line in figure) will result in a path of about 3.6 steps.</p>
 

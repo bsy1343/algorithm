@@ -26,7 +26,7 @@
 
 <p>You may assume that the grid has been initialized like a checker board with an A in the top left corner at x = y = 1, hence in the following way:</p>
 
-<p style="text-align: center;"><img alt="" src="/upload/images2/imagine.png" style="height:112px; width:193px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/5450.%E2%80%85Imagine/4fe0aa7f.png" data-original-src="https://www.acmicpc.net/upload/images2/imagine.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:112px; width:193px" /></p>
 
 ### 입력
 

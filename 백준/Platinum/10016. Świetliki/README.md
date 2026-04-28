@@ -34,6 +34,6 @@
 
 ### 힌트
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/41c04d95-3551-4df1-88f1-d5312421de93/-/preview/" style="width: 318px; height: 315px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/10016.%E2%80%85%C5%9Awietliki/2a742e43.png" data-original-src="https://upload.acmicpc.net/41c04d95-3551-4df1-88f1-d5312421de93/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 318px; height: 315px;" /></p>
 
 <p>Na rysunku zaznaczono początkowe pozycje świetlik&oacute;w oraz przebytą przez nie drogę w ciągu dw&oacute;ch jednostek czasu. Zaznaczono też kwadrat o boku 3, kt&oacute;ry zawiera wszystkie świetliki w chwili <em>t</em> = 2.</p>

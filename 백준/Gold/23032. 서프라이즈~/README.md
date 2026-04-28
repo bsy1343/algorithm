@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/a03d9f54-b00b-48ed-be65-1a094b44f23e/-/preview/" style="height: 420px; width: 600px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/23032.%E2%80%85%EC%84%9C%ED%94%84%EB%9D%BC%EC%9D%B4%EC%A6%88~/b7ae1749.png" data-original-src="https://upload.acmicpc.net/a03d9f54-b00b-48ed-be65-1a094b44f23e/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 420px; width: 600px;" /></p>
 
 <p>쿠기는 가톨릭대학교 컴퓨터정보공학부 학부장이다. 곧 다가오는 시험 기간에 학생들에게 힘을 주고자 간식 행사에 안심 스테이크를 주려고 한다.</p>
 

@@ -36,7 +36,7 @@ Venkman: Right. That&rsquo;s bad. Okay. All right. Important safety tip.</p>
 
 <p>When stationed at their positions, the ghostbusters can communicate to decide who will fire horizontally and who will fire vertically. They will all use the same power value P and would like to use as much power as possible without causing catastrophe. As an example, Figure H.1(a) shows a configuration of ghostbusters in which an arbitrarily large power value can be used, so long as the ghostbusters coordinate their orientations. Figure H.1(b) shows a configuration in which there is an orientation to allow power level 3, but for which no orientation allows power level 4. (Notice that the streams of the bottom-left and bottom-right ghostbusters would touch if using power level 4 with that same orientation of streams.)</p>
 
-<p><img alt="" src="https://onlinejudgeimages.s3.amazonaws.com/problem/13738/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-12-06%20%EC%98%A4%ED%9B%84%208.36.48.png" style="height:211px; width:458px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/13738.%E2%80%85Ghostbusters%E2%80%852/77244c97.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/13738/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-12-06%20%EC%98%A4%ED%9B%84%208.36.48.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:211px; width:458px" /></p>
 
 <p>Figure H.1: Example configurations for the first two sample inputs</p>
 

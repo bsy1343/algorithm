@@ -20,7 +20,7 @@
 
 <p>The following figure shows three examples of possible configurations of a board with R = 3 and C = 4 during a game. On the left it shows the initial configuration. On the center it shows an intermediate state, where cells in gray mark the possible moves for Player 2. And on the right it shows the configuration when the game is won by Player 2, who chose the appropriate move.</p>
 
-<p><img alt="" src="/upload/images2/got.png" style="height:96px; width:446px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/5674.%E2%80%85Game%E2%80%85of%E2%80%85Tiles/5265c645.png" data-original-src="https://www.acmicpc.net/upload/images2/got.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:96px; width:446px" /></p>
 
 <p>Your task is to write a program that given the initial configuration of the board, determines which player will win, if both of them play optimally.</p>
 

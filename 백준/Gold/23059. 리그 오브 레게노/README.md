@@ -25,7 +25,7 @@
 	<li>찾은 아이템을 사전 순으로 모두 구매한다.</li>
 </ul>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/2970e6b0-9d07-4dc0-999f-9a0b19c99d23/-/preview/" style="height: 500px; width: 500px;" /><br />
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/23059.%E2%80%85%EB%A6%AC%EA%B7%B8%E2%80%85%EC%98%A4%EB%B8%8C%E2%80%85%EB%A0%88%EA%B2%8C%EB%85%B8/2b1506ae.png" data-original-src="https://upload.acmicpc.net/2970e6b0-9d07-4dc0-999f-9a0b19c99d23/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 500px; width: 500px;" /><br />
 &nbsp;</p>
 
 ### 입력

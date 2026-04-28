@@ -20,13 +20,13 @@
 	한 변에 N칸이 있는 삼각형 모양의 체스판이 있다. 이 체스판에서 퀸은 변과 평행하면서 퀸을 포함하는 줄의 모든 칸을 공격할 수 있다. 예를 들어, 아래 그림에서 검정색 칸이 퀸일때, 퀸이 공격할 수 있는 칸을 표시해 놓은 것이다.</p>
 
 <p>
-	<img alt="" src="/upload/images/nq1.png" style="width: 280px; height: 244px;" /></p>
+	<img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/2726.%E2%80%85%EC%82%BC%EA%B0%81%E2%80%85N-Queen/ff0681a3.png" data-original-src="https://www.acmicpc.net/upload/images/nq1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 280px; height: 244px;" /></p>
 
 <p>
 	삼각 N-Queen 문제는 한 변에 N칸이 있는 삼각형 체스판에서 퀸을 서로 공격할 수 없게 최대한 배치하는 것이다. 아래 그림은 N=6일때, 퀸을 서로 공격할 수 없게 최대한 배치한 것이다.</p>
 
 <p>
-	<img alt="" src="/upload/images/nq2.png" style="width: 277px; height: 245px;" /></p>
+	<img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/2726.%E2%80%85%EC%82%BC%EA%B0%81%E2%80%85N-Queen/2423d08e.png" data-original-src="https://www.acmicpc.net/upload/images/nq2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 277px; height: 245px;" /></p>
 
 <p>
 	삼각형 한 변의 칸의 수가 N이면, 항상 floor((2*N+1)/3)개의 퀸을 서로 공격할 수 없게 배치할 수 있다.</p>

@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p><img alt="" src="/upload/images/vote.jpg" style="float:right; height:281px; width:375px" />20XX년 도쿄에서 세계적인 스포츠 대회가 열린다. 프로그래밍 대회는 전세계적으로 인기있는 스포츠이고, 정식 종목으로 채택 될 가능성이 점점 높아지고 있다. 정식 종목으로 채택될 경기를 조직위원회에 문의해보니 다음과 같은 답변을 얻게 되었다.</p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/10040.%E2%80%85%ED%88%AC%ED%91%9C/b784d69a.jpg" data-original-src="https://www.acmicpc.net/upload/images/vote.jpg" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="float:right; height:281px; width:375px" />20XX년 도쿄에서 세계적인 스포츠 대회가 열린다. 프로그래밍 대회는 전세계적으로 인기있는 스포츠이고, 정식 종목으로 채택 될 가능성이 점점 높아지고 있다. 정식 종목으로 채택될 경기를 조직위원회에 문의해보니 다음과 같은 답변을 얻게 되었다.</p>
 
 <ul>
 	<li>조직위원회는 정식 종목으로 채택할 후보 종목 N개를 재미있는 순서대로 나열한 리스트를 만들었다. 위에서부터 i번째에 적혀있는 경기는 i번째로 재미있는 경기이다. 이 경기를 i라고 했을 때, 개최하는데 필요한 비용은 A<sub>i</sub>이다.</li>

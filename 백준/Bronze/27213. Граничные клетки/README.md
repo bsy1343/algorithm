@@ -20,7 +20,7 @@
 
 <p>После этого она раскрасила клетки прямоугольника, которые лежат на его границе.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/682c8555-ff47-43ec-806a-4e041dc2bdce/-/preview/" style="width: 150px; height: 122px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/27213.%E2%80%85%D0%93%D1%80%D0%B0%D0%BD%D0%B8%D1%87%D0%BD%D1%8B%D0%B5%E2%80%85%D0%BA%D0%BB%D0%B5%D1%82%D0%BA%D0%B8/7f9577ba.png" data-original-src="https://upload.acmicpc.net/682c8555-ff47-43ec-806a-4e041dc2bdce/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 150px; height: 122px;" /></p>
 
 <p>Сколько клеток раскрасила Аня?</p>
 

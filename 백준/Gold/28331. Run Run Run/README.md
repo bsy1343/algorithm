@@ -22,7 +22,7 @@
 
 <p>A knight wants to visit his friend rook for his birthday. He still has his horse with him, so he can jump around like he used to. See the following diagram for the jumps he can make.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/e9c14a75-e48d-4565-b3fc-cf543b0ab0fb/-/preview/" style="width: 318px; height: 320px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/28331.%E2%80%85Run%E2%80%85Run%E2%80%85Run/fcf97093.png" data-original-src="https://upload.acmicpc.net/e9c14a75-e48d-4565-b3fc-cf543b0ab0fb/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 318px; height: 320px;" /></p>
 
 <p>However, he has a problem: his horse is old and lazy, so it will refuse to make more than a single move each day. Alas! At this rate, he cannot make it before rook&rsquo;s birthday.</p>
 

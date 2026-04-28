@@ -27,7 +27,7 @@
 
 <p>이러한 규칙에 따라 작성한 결과 아래와 같은 그래프를 얻었다.</p>
 
-<p style="text-align: center"><img alt="" src="https://upload.acmicpc.net/10ae9496-5fa1-4cfc-bfac-012c644d0b08/-/preview/" style="max-width: 100%" width="500px" /></p>
+<p style="text-align: center"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/32191.%E2%80%85%EA%B7%B8%EB%9E%98%ED%94%84%EC%9D%98%E2%80%85%EC%A2%85%EC%B0%A9%EC%A7%80/aa932f77.png" data-original-src="https://upload.acmicpc.net/10ae9496-5fa1-4cfc-bfac-012c644d0b08/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="max-width: 100%" width="500px" /></p>
 
 <p>옆에서 이를 지켜보던 ecode의 짝꿍인 oh051525는 이를 한심하게 쳐다보며 말하였다.</p>
 

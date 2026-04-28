@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/7c848952-2e01-4a53-a501-d662b02eb743/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/23681.%E2%80%85Intersect%E2%80%85With%E2%80%85Other%E2%80%85Balls/1c3d93b1.png" data-original-src="https://upload.acmicpc.net/7c848952-2e01-4a53-a501-d662b02eb743/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p><em>And now for something completely different - an English statement.</em></p>
 

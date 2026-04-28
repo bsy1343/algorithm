@@ -27,7 +27,7 @@
 
 <p>예를 들어 $B = [5, 3, 1, 2, 4]$ 일 때, $X_{i,j}$의 값과 $S_{i, j}$ 의 값은 아래 표에 정리 되어있다 ($1 \le i \le j \le N$인 경우만 고려한다).</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/03c3ab9a-5c75-4ba1-a619-402b695b7c9b/-/preview/" style="height: 172px; width: 350px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/28095.%E2%80%85%EB%B6%80%EB%B6%84%E2%80%85%EB%B0%B0%EC%97%B4%E2%80%85%EC%A0%90%EC%88%98%E2%80%85%EA%B5%AC%ED%95%98%EA%B8%B0/dbc481c6.png" data-original-src="https://upload.acmicpc.net/03c3ab9a-5c75-4ba1-a619-402b695b7c9b/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 172px; width: 350px;" /></p>
 
 <p>위 예제에서 몇 가지 경우를 살펴보자.</p>
 

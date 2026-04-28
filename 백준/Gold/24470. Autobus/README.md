@@ -40,6 +40,6 @@
 
 <p>Clarification of the examples:</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/ca69355f-c80c-4760-82ea-991f9a7fd16a/-/preview/" style="width: 544px; height: 133px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/24470.%E2%80%85Autobus/dfa923eb.png" data-original-src="https://upload.acmicpc.net/ca69355f-c80c-4760-82ea-991f9a7fd16a/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 544px; height: 133px;" /></p>
 
 <p>The answer to the first query from each example is marked on the graph.</p>

@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p><img alt="" src="https://upload.acmicpc.net/0f7439fe-ca7f-4f2d-bea6-d9eec365b6c2/-/preview/" style="float: right; width: 196px; height: 239px;" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/29794.%E2%80%85%EC%97%98%EB%82%98%EC%8A%A4%EC%9D%98%E2%80%85%EC%9A%A9%EC%82%AC/a242c539.png" data-original-src="https://upload.acmicpc.net/0f7439fe-ca7f-4f2d-bea6-d9eec365b6c2/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="float: right; width: 196px; height: 239px;" /></p>
 
 <p>엘나스 산맥에는 설원에 세워진 마을 <strong>엘나스</strong>와 하늘섬 <strong>오르비스</strong>를 이어주는 거대한 탑인 <strong>오르비스 탑</strong>이 있다.</p>
 

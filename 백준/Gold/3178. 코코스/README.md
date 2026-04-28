@@ -35,11 +35,11 @@
 
 <p>아래 그림은 예제를 정점의 수가 가장 적은 코코스로 나타낸 것이다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/d469ef5d-c153-443e-ac87-ad603d1cc7a1/-/preview/" style="width: 461px; height: 180px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/3178.%E2%80%85%EC%BD%94%EC%BD%94%EC%8A%A4/6d9a64dc.png" data-original-src="https://upload.acmicpc.net/d469ef5d-c153-443e-ac87-ad603d1cc7a1/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 461px; height: 180px;" /></p>
 
 <p>아래 그래프는 위의 그래프보다 정점의 수가 적지만, 코코스가 아니다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/d03bf143-437e-4317-bb97-a883bdfe5ccb/-/preview/" style="width: 461px; height: 179px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/3178.%E2%80%85%EC%BD%94%EC%BD%94%EC%8A%A4/e72f3758.png" data-original-src="https://upload.acmicpc.net/d03bf143-437e-4317-bb97-a883bdfe5ccb/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 461px; height: 179px;" /></p>
 
 <p>위의 그래프가 코코스가 아닌 이유는 4번째 글자 D에서 경로가 만나고, 6번째 글자 E에서 경로가 갈라져 문제의 조건을 만족하지 않기 때문이다.</p>
 

@@ -18,11 +18,11 @@
 
 <p>In Chess, the knight is the weirdest of all the pieces. To begin with, the piece is actually a horse without any human riding it. The second reason is its movement pattern. It can move 2 cells forward and one to the side. Below you can see all the possible destinations of a knight.</p>
 
-<p style="text-align:center"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15242/1.gif" style="height:126px; width:126px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/15242.%E2%80%85Knight/1b8432a3.gif" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15242/1.gif" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:126px; width:126px" /></p>
 
 <p>With a movement pattern so weird, it is complicated to know what&rsquo;s the shortest path between two board squares. Can you write a program that computes the minimum number of movements needed to move a knight from one square to another? Remember that a chessboard has 8 rows and 8 columns. Also in the standard notation, the columns are represented by letters from a to h.</p>
 
-<p style="text-align:center"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15242/2.gif" style="height:186px; width:186px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/15242.%E2%80%85Knight/7322e52a.gif" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15242/2.gif" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:186px; width:186px" /></p>
 
 ### 입력
 

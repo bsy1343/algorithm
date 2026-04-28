@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p><img alt="" src="https://upload.acmicpc.net/028b105f-cfa5-4e3c-9bb9-3b5b0c103d9e/-/preview/" style="width: 330px; height: 165px; float: right;" />James needs some help figuring out whether he can invite all of his friends to his birthday party. Luckily for James, he doesn&#39;t have to invite all of his friends by himself, because his friends will forward invitations to each other.</p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/24773.%E2%80%85James%E2%80%99s%E2%80%85Birthday%E2%80%85Party/daed91ef.png" data-original-src="https://upload.acmicpc.net/028b105f-cfa5-4e3c-9bb9-3b5b0c103d9e/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 330px; height: 165px; float: right;" />James needs some help figuring out whether he can invite all of his friends to his birthday party. Luckily for James, he doesn&#39;t have to invite all of his friends by himself, because his friends will forward invitations to each other.</p>
 
 <p>Consider this example: James has three friends: Lucy, Sue, and Mark. James is friends with all three of them, but unfortunately he doesn&#39;t have Mark&#39;s phone number so he can&#39;t invite him directly. However, Sue has Mark&#39;s number (and vice versa) so she can invite Mark to James&rsquo;s party.</p>
 

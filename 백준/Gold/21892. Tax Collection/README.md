@@ -43,12 +43,12 @@
 
 <p>Path for the first example:&nbsp;</p>
 
-<p><img alt="" src="https://upload.acmicpc.net/6bf6104e-3069-4be1-8564-f9cfad0dc2e0/-/preview/" style="width: 97px; height: 66px;" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/21892.%E2%80%85Tax%E2%80%85Collection/dced899f.png" data-original-src="https://upload.acmicpc.net/6bf6104e-3069-4be1-8564-f9cfad0dc2e0/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 97px; height: 66px;" /></p>
 
 <p>Sum of bytecoins that collector has after each province: 4, 6, 9, 4, 5, 2.&nbsp;</p>
 
 <p>Path for the second example:</p>
 
-<p><img alt="" src="https://upload.acmicpc.net/81b7e791-a42f-4969-9a59-ab770b51ec09/-/preview/" style="width: 126px; height: 127px;" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/21892.%E2%80%85Tax%E2%80%85Collection/8df7e4a0.png" data-original-src="https://upload.acmicpc.net/81b7e791-a42f-4969-9a59-ab770b51ec09/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 126px; height: 127px;" /></p>
 
 <p>Sum of bytecoins that collector has after each province: 2, 7, 2, 3, 4, 8, 0, 6, 7, 4, 2, 5, 6, 4, 5, 2.</p>

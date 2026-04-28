@@ -29,11 +29,11 @@
 
 <p>예를 들어 n = 3, m = 5, P = [2, 2, 2], B = [1, 2, 3, 2, 1] 이라 하자 (아래 그림 참고).</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/6f04aa92-4c78-409d-8ac4-0d2845dba093/-/preview/" style="height: 136px; width: 500px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/23024.%E2%80%85%EB%B3%B4%ED%8A%B8%E2%80%85%EC%A0%95%EB%B0%95/a9c467ec.png" data-original-src="https://upload.acmicpc.net/6f04aa92-4c78-409d-8ac4-0d2845dba093/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 136px; width: 500px;" /></p>
 
 <p>이 때, 보트들이 순서대로 정박소를 통과하는 과정은 아래와 같다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/fd140e5f-9708-4bd8-803f-9bbebf5e9099/-/preview/" style="height: 149px; width: 500px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/23024.%E2%80%85%EB%B3%B4%ED%8A%B8%E2%80%85%EC%A0%95%EB%B0%95/3749ab70.png" data-original-src="https://upload.acmicpc.net/fd140e5f-9708-4bd8-803f-9bbebf5e9099/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 149px; width: 500px;" /></p>
 
 <ul>
 	<li>길이가 1인 1번 보트는 1번 부두에 정박한다. (좌측 그림 참고)</li>

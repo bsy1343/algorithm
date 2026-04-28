@@ -18,7 +18,7 @@
 
 <p>안즈는 생일선물로 조각 케이크를 잔뜩 받았다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/0613981b-a050-49d6-a64c-642022bc0ccd/-/preview/" style="height: 278px; width: 400px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/25212.%E2%80%85%EC%A1%B0%EA%B0%81%E2%80%85%EC%BC%80%EC%9D%B4%ED%81%AC/c72233f0.png" data-original-src="https://upload.acmicpc.net/0613981b-a050-49d6-a64c-642022bc0ccd/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 278px; width: 400px;" /></p>
 
 <p>케이크를 먹고&nbsp;행복해하던 안즈는, 남은 케이크를 정리해 냉장고에 넣는 귀찮은&nbsp;일을 해야 한다는 사실을 깨닫고 말았다.</p>
 

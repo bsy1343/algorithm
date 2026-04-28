@@ -18,7 +18,7 @@
 
 <p><i>Dance Dance Revolution</i>&nbsp;is one of the most popular arcade games in Japan. The rule of this game is very simple. A series of four arrow symbols,&nbsp;<i>up</i>,&nbsp;<i>down</i>,&nbsp;<i>left</i>&nbsp;and&nbsp;<i>right</i>, flows downwards on the screen in time to music. The machine has four panels under your foot, each of which corresponds to one of the four arrows, and you have to make steps on these panels according to the arrows displayed on the screen. The more accurate in timing, the higher score you will mark.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/c0ec9e08-bf05-4e80-9f69-316e4e1865fd/-/preview/" style="width: 200px; height: 233px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/22686.%E2%80%85Dance%E2%80%85Dance%E2%80%85Revolution/afc579cb.png" data-original-src="https://upload.acmicpc.net/c0ec9e08-bf05-4e80-9f69-316e4e1865fd/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 200px; height: 233px;" /></p>
 
 <p style="text-align: center;">Figure 1: Layout of Arrow Panels and Screen</p>
 

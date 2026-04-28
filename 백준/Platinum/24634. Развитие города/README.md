@@ -26,7 +26,7 @@
 	<li>Пусть поддерево $T$ состоит из $k$ площадей. Тогда новые площади получают номера от $m+1$ до $m+k$, при этом если в поддереве $T$ номер площади $i$ меньше номера площади $j$, то номер площади $i&#39;$, соответствующей площади $i$, меньше номера площади $j&#39;$, соответствующей площади $j$.</li>
 </ul>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/b5e28f1c-9011-4407-9b96-a519ac577de7/-/preview/" style="width: 401px; height: 150px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/24634.%E2%80%85%D0%A0%D0%B0%D0%B7%D0%B2%D0%B8%D1%82%D0%B8%D0%B5%E2%80%85%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%B0/2173c09e.png" data-original-src="https://upload.acmicpc.net/b5e28f1c-9011-4407-9b96-a519ac577de7/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 401px; height: 150px;" /></p>
 
 <p>Вам дана конфигурация исторической части города и данные о его развитии в течение $y$ лет. Ваша задача --- отвечать на запросы вида &lt;&lt;найти кратчайшее расстояние между двумя площадями&gt;&gt;.</p>
 

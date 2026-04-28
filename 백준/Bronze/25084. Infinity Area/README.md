@@ -20,7 +20,7 @@
 
 <p>You are given three integers $R$, $A$, $B$. You are currently at the center of the infinity. You will first start drawing the right circle with radius $R$ and reach again the center of infinity. After that, you start drawing the left circle with the radius equal to the radius of last circle multiplied by $A$. After reaching the center of the infinity you again start drawing the right circle with radius equal to the radius of last circle divided by $B$ (<a href="https://mathworld.wolfram.com/IntegerDivision.html" target="_blank">integer divison</a>). After reaching the center of infinity you again draw the left circle with the radius equal to the radius of last circle multiplied by $A$.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/d63c5c71-2fa2-4e3b-88e3-cf4b5d306282/-/preview/" style="width: 512px; height: 288px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/25084.%E2%80%85Infinity%E2%80%85Area/10eba945.png" data-original-src="https://upload.acmicpc.net/d63c5c71-2fa2-4e3b-88e3-cf4b5d306282/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 512px; height: 288px;" /></p>
 
 <p>You continue to draw the left and right circles as described above until the radius of the circle to be drawn becomes zero. Calculate the sum of areas of all the circles drawn. It is guaranteed that the process will terminate after finite number of steps.</p>
 

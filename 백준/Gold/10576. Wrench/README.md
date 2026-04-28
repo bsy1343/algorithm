@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><img alt="" src="/upload/images2/wrench.png" style="height:92px; width:84px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/10576.%E2%80%85Wrench/82490d7e.png" data-original-src="https://www.acmicpc.net/upload/images2/wrench.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:92px; width:84px" /></p>
 
 <p>Peter works at a factory. He is looking at a list of wrench sizes and needs to find the appropriately sized wrench for various screws and nuts and bolts to do his work. Normally, these sizes are specified using US Customary Unit notation such as 13/16&rdquo;, or 3/8&rdquo;, and so on.</p>
 

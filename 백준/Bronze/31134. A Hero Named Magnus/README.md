@@ -24,7 +24,7 @@
 
 <p>Before the game starts, teams can choose to ban specific heroes from being used by the opponent team. Among these $1000$ years, everyone knows that Team Spirit is very good at using a hero called Magnus, which once helped them defeat Team LGD in $2021$.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/2f054088-ca65-4905-bb20-5bcbf442f49d/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/31134.%E2%80%85A%E2%80%85Hero%E2%80%85Named%E2%80%85Magnus/8f5ae56c.png" data-original-src="https://upload.acmicpc.net/2f054088-ca65-4905-bb20-5bcbf442f49d/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>Although everyone thinks Team LGD will choose to ban Magnus from the beginning, team LGD thinks differently. Somehow they think that they are strong enough to beat the opponent&#39;s Magnus and they will only start to ban Magnus in the $x$-th game if there is one. </p>
 

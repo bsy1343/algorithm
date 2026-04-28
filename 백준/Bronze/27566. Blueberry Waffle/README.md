@@ -22,7 +22,7 @@
 
 <p>The pan rotates at a rate of 180 degrees every $r$ seconds, and stops after $f$ seconds. You don&#39;t want to take out your waffle with its blueberry side down. Therefore you&#39;d like to figure out whether the blueberry side of the waffle is up or down after the cooking pan returns to a horizontal position.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/225f5453-9107-46a4-bb67-9e102d2a5ed2/-/preview/" style="width: 257px; height: 223px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/27566.%E2%80%85Blueberry%E2%80%85Waffle/5fd44640.png" data-original-src="https://upload.acmicpc.net/225f5453-9107-46a4-bb67-9e102d2a5ed2/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 257px; height: 223px;" /></p>
 
 ### 입력
 

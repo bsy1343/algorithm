@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15434/1.png" style="float:right; height:128px; width:177px" />In the game of&nbsp;<em>Rhombinoes</em>, you have a board made up entirely of equilateral trianges (see the image), some of which are&nbsp;<em>&quot;live&quot;</em>&nbsp;and some are&nbsp;<em>&quot;dead&quot;</em>. Your goal is to place down as many rhombinoes (&quot;rhombus&quot;-shaped pieces) as possible on the board. Each rhombino should exactly cover two &quot;adjacent&quot;&nbsp;<em>live</em>&nbsp;triangles that have a common side, and no two rhombinoes can use the same triangle.</p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/15434.%E2%80%85Rhombinoes/ae0418ae.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15434/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="float:right; height:128px; width:177px" />In the game of&nbsp;<em>Rhombinoes</em>, you have a board made up entirely of equilateral trianges (see the image), some of which are&nbsp;<em>&quot;live&quot;</em>&nbsp;and some are&nbsp;<em>&quot;dead&quot;</em>. Your goal is to place down as many rhombinoes (&quot;rhombus&quot;-shaped pieces) as possible on the board. Each rhombino should exactly cover two &quot;adjacent&quot;&nbsp;<em>live</em>&nbsp;triangles that have a common side, and no two rhombinoes can use the same triangle.</p>
 
 <p>Given the description of the&nbsp;<em>live</em>&nbsp;and&nbsp;<em>dead</em>&nbsp;triangles of a Rhombino board, what is the maximum number of rhombinoes you can simultaneously place down on the board?</p>
 

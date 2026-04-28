@@ -18,7 +18,7 @@
 
 <p>N개의 스위치와 N개의 전구를 가진 하나의 스위칭 박스가 있다. 이 박스의 왼편에는 스위치가 있고, 오른편에는 전구가 달려있다. 모든 스위치와 전구들은 1에서부터 N까지의 번호를 가지며 같은 번호의 스위치와 전구는 전선으로 서로 연결되어 있다.</p>
 
-<p style="text-align: center;"><img alt="" src="/upload/images/jqwke.png" style="width: 243px; height: 143px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/2550.%E2%80%85%EC%A0%84%EA%B5%AC/8c6f202e.png" data-original-src="https://www.acmicpc.net/upload/images/jqwke.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 243px; height: 143px;" /></p>
 
 <p>하나의 스위치를 누르면 그 스위치와 연결된 전구에 불이 들어오게 된다. 두 개 이상의 스위치를 같이 누르는 경우, 전선이 서로 만나면 만난 전선에 연결된 전구들의 불은 켜지지 않는다.</p>
 

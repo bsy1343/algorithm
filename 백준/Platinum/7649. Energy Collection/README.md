@@ -18,7 +18,7 @@
 
 <p>You have been given a square grid with a number of non-overlapping energy cells on it. These energy cells are quite peculiar; they are all squares, and despite their differences in sizes, they all produce the exact same amount of energy. From this grid, you wish to collect as much energy as possible, using a special collector. This collector is also square, and must be placed onto the grid on top of the energy cells. The collector can be resized to whatever size you want, as long as it remains grid-aligned (i.e., the size must be integral). The collector will collect all of the energy from any energy cell it overlaps (that is, the intersection of the collector with the energy cell has positive area), but only if the energy cell is at least as large as the collector. Energy cells that are smaller than the collector cannot be collected at all, regardless of location. Find a location and size for the collector so as to maximize the amount of energy collected.</p>
 
-<p style="text-align:center"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/7649/1.png" style="height:201px; width:197px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/7649.%E2%80%85Energy%E2%80%85Collection/12c4d9a2.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/7649/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:201px; width:197px" /></p>
 
 ### 입력
 

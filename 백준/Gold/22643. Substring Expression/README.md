@@ -25,11 +25,11 @@
 
 <p>For example, the tree depicted in the figure below is represented by a string &quot;((()())())&quot;.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/a4456be8-6bdf-418b-9396-e0f3376d6af7/-/preview/" style="width: 152px; height: 192px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/22643.%E2%80%85Substring%E2%80%85Expression/fb3b5141.png" data-original-src="https://upload.acmicpc.net/a4456be8-6bdf-418b-9396-e0f3376d6af7/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 152px; height: 192px;" /></p>
 
 <p>A strange boy Norward is playing with such strings. He has found that a string sometimes remains valid as the representation of a tree even after one successive portion is removed from it. For example, removing the underlined portion from the string &quot;((()())())&quot; results in &quot;((()))&quot;, which represents the tree depicted below.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/ca95a8fa-42ef-4524-a49a-de6898c78a67/-/preview/" style="width: 45px; height: 192px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/22643.%E2%80%85Substring%E2%80%85Expression/084c579f.png" data-original-src="https://upload.acmicpc.net/ca95a8fa-42ef-4524-a49a-de6898c78a67/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 45px; height: 192px;" /></p>
 
 <p>However, he has no way to know how many ways of such removal there are. Your task is to write a program for it, so that his curiosity is fulfilled.</p>
 

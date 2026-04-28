@@ -18,7 +18,7 @@
 
 <p>Angry Birds is a mobile game of a big craze all over the world. You were convinced that it was a waste of time to play the game, so you decided to create an automatic solver.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/e34e87d9-d84a-4a8d-b685-a0ed000b035f/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/22512.%E2%80%85White%E2%80%85Bird/052a1f80.png" data-original-src="https://upload.acmicpc.net/e34e87d9-d84a-4a8d-b685-a0ed000b035f/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>You are describing a routine that optimizes the white bird&#39;s strategy to defeat a pig (enemy) by hitting an egg bomb. The white bird follows a parabolic trajectory from the initial position, and it can vertically drop egg bombs on the way.</p>
 

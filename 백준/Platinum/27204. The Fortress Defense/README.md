@@ -22,7 +22,7 @@
 
 <p>The level of cell defense is the number of defense contours inside which this cell lies. The defense level of a fortress is equal to the sum of the defense levels of all its cells. For example, the fortress defense level in the picture is $16 \cdot 1 + 8\cdot 2 + 3 = 35$.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/5ab2f973-572f-4d94-868b-086587841adb/-/preview/" style="width: 233px; height: 233px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/27204.%E2%80%85The%E2%80%85Fortress%E2%80%85Defense/d388e01d.png" data-original-src="https://upload.acmicpc.net/5ab2f973-572f-4d94-868b-086587841adb/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 233px; height: 233px;" /></p>
 
 <p>The Flatlanders are interested in all possible ways to build a fortress. They calculate the defense level of the fortress for each possible way, then calculate the sum of values of all ways. You should help the Flatlanders to calculate this sum. The answer can be large, output its modulo $10^9 + 7$.</p>
 
@@ -38,8 +38,8 @@
 
 <p>All possible ways to build a fortress from the first sample are in the picture.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/f7da3cb0-605b-4790-a297-96e24e8f2e24/-/preview/" style="width: 342px; height: 119px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/27204.%E2%80%85The%E2%80%85Fortress%E2%80%85Defense/82361fad.png" data-original-src="https://upload.acmicpc.net/f7da3cb0-605b-4790-a297-96e24e8f2e24/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 342px; height: 119px;" /></p>
 
 <p>All possible ways to build a fortress from the second sample are in the picture.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/54909973-3949-4885-9579-1be3af0bc3ce/-/preview/" style="width: 630px; height: 392px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/27204.%E2%80%85The%E2%80%85Fortress%E2%80%85Defense/90263d03.png" data-original-src="https://upload.acmicpc.net/54909973-3949-4885-9579-1be3af0bc3ce/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 630px; height: 392px;" /></p>

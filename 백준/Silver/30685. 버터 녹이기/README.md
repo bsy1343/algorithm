@@ -103,11 +103,11 @@
 
 <p>이때 서로 다른 두 버터가 녹아서 섞이게 될 수 있다. 두 버터가 섞인다는 것은, 두 버터가 각각 $[l_1,r_1]$와 $[l_2,r_2]$에 놓였을 때 겹치는 구간이 생기는 것을 의미한다. 즉, $[l_1,r_1] \cap [l_2,r_2] \neq \emptyset$ 인 경우이다. 다음은 예제 1번의 상황을 그림으로 나타낸 것이다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://u.acmicpc.net/e579e9ed-4850-4c2a-8db0-d4ff90962bee/download%20%2823%29.png" style="width: 375px; height: 168px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/30685.%E2%80%85%EB%B2%84%ED%84%B0%E2%80%85%EB%85%B9%EC%9D%B4%EA%B8%B0/6c5849fa.png" data-original-src="https://u.acmicpc.net/e579e9ed-4850-4c2a-8db0-d4ff90962bee/download%20%2823%29.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 375px; height: 168px;" /></p>
 
 <p style="text-align: center;">2초의 상황으로 두 버터가 섞이지 않는다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://u.acmicpc.net/070c88ee-17f8-41ac-ada2-a51aa1d3c22c/download%20%2813%29.jpeg" style="width: 376px; height: 93px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/30685.%E2%80%85%EB%B2%84%ED%84%B0%E2%80%85%EB%85%B9%EC%9D%B4%EA%B8%B0/5ad567fb.jpeg" data-original-src="https://u.acmicpc.net/070c88ee-17f8-41ac-ada2-a51aa1d3c22c/download%20%2813%29.jpeg" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 376px; height: 93px;" /></p>
 
 <p style="text-align: center;">3초까지 가열하면 $x=2$에서 섞이게 된다.</p>
 

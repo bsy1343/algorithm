@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><img alt="산타 춘배" src="https://upload.acmicpc.net/5684d96a-d6ae-45ed-a967-dca2028a25d6/-/preview/" style="max-height:300px; object-fit:contain; display:inline-block;" /></p>
+<p style="text-align: center;"><img alt="산타 춘배" src="%EB%B0%B1%EC%A4%80/Gold/30406.%E2%80%85%EC%82%B0%ED%83%80%E2%80%85%EC%B6%98%EB%B0%B0%EC%9D%98%E2%80%85%EC%84%A0%EB%AC%BC%E2%80%85%EB%82%98%EB%88%A0%EC%A3%BC%EA%B8%B0/1fef273d.png" data-original-src="https://upload.acmicpc.net/5684d96a-d6ae-45ed-a967-dca2028a25d6/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="max-height:300px; object-fit:contain; display:inline-block;" /></p>
 
 <p>산타 춘배는 아기 고양이들에게 나눠줄 선물을 정리하고 있다. 총 $N$개의 선물을 $\frac{N}{2}$마리의 아기 고양이들에게 2개씩 나누어 주려고 한다. 여기서 $N$은 짝수이다.</p>
 

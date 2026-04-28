@@ -26,7 +26,7 @@
 
 <p>다음과 같은 예를 들어 보자.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/facb65d6-7c49-45f8-ac9e-ac9f41e9cf96/-/preview/" style="width: 200px; height: 244px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/1721.%E2%80%85%EC%83%81%EC%9E%90%ED%8D%BC%EC%A6%90/d9a87e24.png" data-original-src="https://upload.acmicpc.net/facb65d6-7c49-45f8-ac9e-ac9f41e9cf96/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 200px; height: 244px;" /></p>
 
 <p>동그라미 안에 적힌 것은 상자의 윗면에 적힌 숫자이고, 그 둘레에 적힌 것이 상자의 네 옆면에 적힌 숫자이다. 9개의 상자를 위와 같이 배열하면, 조건에 맞게 퍼즐을 푼 것이다.</p>
 

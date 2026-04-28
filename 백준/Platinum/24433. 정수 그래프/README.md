@@ -33,7 +33,7 @@
 
 <p>예를 들어, 아래 그림은 &quot;정수 그래프&quot;의 일부를 보여 준다. 가령 노드 $10$과 $20$사이에는 길이 $2$인 간선이 존재하고, 노드 $25$와 $5$사이에는 길이 $5$인 간선이 존재한다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/b0c47370-c08c-42c2-8aa2-41668b2d3114/-/preview/" style="height: 263px; width: 300px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/24433.%E2%80%85%EC%A0%95%EC%88%98%E2%80%85%EA%B7%B8%EB%9E%98%ED%94%84/0f0e86ca.png" data-original-src="https://upload.acmicpc.net/b0c47370-c08c-42c2-8aa2-41668b2d3114/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 263px; width: 300px;" /></p>
 
 <p>두 아이는 정수 그래프를 이용해서 아래와 같은 놀이를 하기로 했다:</p>
 

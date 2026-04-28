@@ -18,7 +18,7 @@
 
 <p>There is a type of a brain-teaser known as <em>cryptoarithmetics</em>. The classic example, published in the July 1924 issue of Strand Magazine by Henry Dudeney, is:</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/5b835379-e823-4792-9129-bd2683e56bb5/-/preview/" style="width: 153px; height: 62px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/20700.%E2%80%85Brain-teaser/b2dc24b9.png" data-original-src="https://upload.acmicpc.net/5b835379-e823-4792-9129-bd2683e56bb5/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 153px; height: 62px;" /></p>
 
 <p>A solution to such a puzzle is an assignment of letters to decimal digits from 0 to 9 that satisfies the following constraints:</p>
 

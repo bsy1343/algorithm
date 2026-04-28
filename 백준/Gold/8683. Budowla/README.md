@@ -40,4 +40,4 @@
 
 ### 힌트
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/ed7d5149-8cb0-4d2f-b27d-17c55d66feea/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/8683.%E2%80%85Budowla/bc8a6af4.png" data-original-src="https://upload.acmicpc.net/ed7d5149-8cb0-4d2f-b27d-17c55d66feea/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>

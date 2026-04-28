@@ -34,4 +34,4 @@
 
 ### 힌트
 
-<p style="text-align: center;"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/5097/1.png" style="height:145px; width:284px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/5097.%E2%80%85The%E2%80%85God%E2%80%85Delusion/68cb51fd.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/5097/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:145px; width:284px" /></p>

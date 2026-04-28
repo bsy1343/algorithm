@@ -44,4 +44,4 @@
 
 <p>All $18$ tips for $k = 1$ are presented at the picture below:</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/bc2c8481-0630-4f87-8c07-37af468ebf6d/-/preview/" style="width: 204px; height: 263px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/19836.%E2%80%85Puzzle/41a01f25.png" data-original-src="https://upload.acmicpc.net/bc2c8481-0630-4f87-8c07-37af468ebf6d/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 204px; height: 263px;" /></p>

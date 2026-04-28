@@ -25,7 +25,7 @@
 <p>In the picture below there are three tournaments, each represented by a different color, and Sphinny&#39;s total happiness is 20. One tournament starts on the second day of the year, one starts on the fifth day of the year, and one starts on the sixth day of the year.&nbsp;<br />
 <br />
 <br />
-<img src="https://onlinejudgeimages.s3.amazonaws.com/problem/12609/images-26.png" style="border:0px; vertical-align:middle" />&nbsp;<br />
+<img src="%EB%B0%B1%EC%A4%80/Platinum/12609.%E2%80%85Year%E2%80%85of%E2%80%85More%E2%80%85Code%E2%80%85Jam%E2%80%85(Small)/0ba28459.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/12609/images-26.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="border:0px; vertical-align:middle" />&nbsp;<br />
 &nbsp;</p>
 
 <p>There are&nbsp;<strong>N</strong>&nbsp;days in the year. Each tournament will begin on any of the&nbsp;<strong>N</strong>&nbsp;days with equal probability. The big question for this year is what the expected value of Sphinny&#39;s happiness is.</p>

@@ -20,7 +20,7 @@
 
 <p>&nbsp;</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/ca30bf59-2a40-4eff-909f-532bc9df8840/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/17114.%E2%80%85%ED%95%98%EC%9D%B4%ED%8D%BC%E2%80%85%ED%86%A0%EB%A7%88%ED%86%A0/ca1622e4.png" data-original-src="https://upload.acmicpc.net/ca30bf59-2a40-4eff-909f-532bc9df8840/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>&nbsp;</p>
 

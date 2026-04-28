@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><img alt="" src="https://imgur.com/5iilQD0.png" style="width: 320px; height: 180px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/17354.%E2%80%85DVD/ee455613.png" data-original-src="https://imgur.com/5iilQD0.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 320px; height: 180px;" /></p>
 
 <p>DVD 로고는 (생김새는 그렇지 않지만) TV의 가로세로 변과 평행한 직사각형으로 나타낼 수 있다. 이 로고는 가로&nbsp;속도 +1 또는 -1, 세로&nbsp;속도 +1 또는 -1을 갖고 움직인다. 로고가 TV의 가로 변을 치면 세로&nbsp;속도가 반전되고, 세로 변을 치면 가로&nbsp;속도가 반전된다.</p>
 

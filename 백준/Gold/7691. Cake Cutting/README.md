@@ -30,8 +30,8 @@
 
 <p>If w = 4, h = 4, and m = 4, then the following cuts minimize the area of the largest piece:</p>
 
-<p style="text-align: center;"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/7691/1.png" style="height:112px; width:109px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/7691.%E2%80%85Cake%E2%80%85Cutting/4a99208d.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/7691/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:112px; width:109px" /></p>
 
 <p>However, if w = 4, h = 4, and m = 3, then the following cuts are optimal:</p>
 
-<p style="text-align: center;"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/7691/2.png" style="height:117px; width:126px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/7691.%E2%80%85Cake%E2%80%85Cutting/b3a717a0.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/7691/2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:117px; width:126px" /></p>

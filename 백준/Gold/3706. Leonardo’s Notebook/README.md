@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p><img alt="" src="/upload/images3/leonardo.png" style="float:right; height:293px; width:260px" />&mdash; I just bought Leonardo&rsquo;s secret notebook!</p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/3706.%E2%80%85Leonardo%E2%80%99s%E2%80%85Notebook/9fe2777f.png" data-original-src="https://www.acmicpc.net/upload/images3/leonardo.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="float:right; height:293px; width:260px" />&mdash; I just bought Leonardo&rsquo;s secret notebook!</p>
 
 <p>Rare object collector Stan Ucker was really agitated but his friend, special investigator Sarah Keptic was unimpressed.</p>
 

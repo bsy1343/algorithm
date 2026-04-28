@@ -36,4 +36,4 @@
 
 ### 출력
 
-<p>Your program should output exactly q&nbsp;lines. The&nbsp;<img src="https://main.edu.pl/en/images/AMPPZ2014/ben-en-tex.48.png" />-th of these lines should contain one word&nbsp;<code>TAK</code>&nbsp;(i.e.,&nbsp;<i>yes</i>) or&nbsp;<code>NIE</code>&nbsp;(i.e.,&nbsp;<i>no</i>), depending on whether the tanker with a fuel tank with a capacity of b<sub>i</sub>&nbsp;is able to travel from the intersection x<sub>i</sub>&nbsp;to the intersection y<sub>i</sub>.</p>
+<p>Your program should output exactly q&nbsp;lines. The&nbsp;<img src="%EB%B0%B1%EC%A4%80/Platinum/15614.%E2%80%85Petrol/48a5367e.png" data-original-src="https://main.edu.pl/en/images/AMPPZ2014/ben-en-tex.48.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" />-th of these lines should contain one word&nbsp;<code>TAK</code>&nbsp;(i.e.,&nbsp;<i>yes</i>) or&nbsp;<code>NIE</code>&nbsp;(i.e.,&nbsp;<i>no</i>), depending on whether the tanker with a fuel tank with a capacity of b<sub>i</sub>&nbsp;is able to travel from the intersection x<sub>i</sub>&nbsp;to the intersection y<sub>i</sub>.</p>

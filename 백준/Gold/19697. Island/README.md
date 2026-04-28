@@ -24,7 +24,7 @@
 
 <p>Here is an example map of the island, with 37 towns, 20 junctions, and 56 roads:</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/802b7302-7db2-4e4c-b9bb-87e111094130/-/preview/" style="width: 314px; height: 320px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/19697.%E2%80%85Island/9058cb8d.png" data-original-src="https://upload.acmicpc.net/802b7302-7db2-4e4c-b9bb-87e111094130/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 314px; height: 320px;" /></p>
 
 <p style="text-align: center;">Figure 1: Example map of the island</p>
 

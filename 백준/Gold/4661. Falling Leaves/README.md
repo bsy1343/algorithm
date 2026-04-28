@@ -23,7 +23,7 @@ Repeat this procedure until the tree is empty</p>
 
 <p>Starting from the tree below on the left, we produce the sequence of trees shown, and then the empty tree&nbsp;</p>
 
-<p><img alt="" src="https://onlinejudgeimages.s3.amazonaws.com/problem/4661/leaves2.gif" /><br />
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/4661.%E2%80%85Falling%E2%80%85Leaves/d66b3d05.gif" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/4661/leaves2.gif" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /><br />
 &nbsp;<br />
 by removing the leaves with data</p>
 

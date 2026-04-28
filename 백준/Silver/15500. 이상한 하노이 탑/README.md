@@ -38,4 +38,4 @@
 
 <p>아래는 예제를 푸는 과정을 나타낸다.</p>
 
-<p style="text-align:center"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15500/example.png" style="height:564px; width:221px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/15500.%E2%80%85%EC%9D%B4%EC%83%81%ED%95%9C%E2%80%85%ED%95%98%EB%85%B8%EC%9D%B4%E2%80%85%ED%83%91/b2a791a7.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15500/example.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:564px; width:221px" /></p>

@@ -20,7 +20,7 @@
 
 <p>Mängija peab liigutama oma nuppu ühe ruudu kaupa üles, alla, vasakule või paremale (kuid mitte diagonaalis) nii, et tähtedest, millele nupp astub, moodustuks sõna. Näiteks all vasakul oleval joonisel punktiiriga märgitud ruudust alustades ja noolte suunas liikudes moodustub sõna &ldquo;TEST&rdquo; (lähteruut sõna moodustamisel arvesse ei lähe).</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/d2aaa91c-bf9e-4bef-a61b-fdce36485e74/-/preview/" style="width: 350px; height: 123px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/7198.%E2%80%85T%C3%A4hekabe/601e36ed.png" data-original-src="https://upload.acmicpc.net/d2aaa91c-bf9e-4bef-a61b-fdce36485e74/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 350px; height: 123px;" /></p>
 
 <p>Käimisel kehtib kitsendus, et ükski ruut ei tohi sõna moodustamisel osaleda korduvalt. Näiteks ülal paremal oleval joonisel sõna &ldquo;KIRI&rdquo; moodustada ei saa, sest pärast &ldquo;KIR&rdquo; moodustamist on &ldquo;I&rdquo; juba kasutatud ja sellele ruudule tagasi minna enam ei tohi.</p>
 

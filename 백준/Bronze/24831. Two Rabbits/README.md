@@ -20,7 +20,7 @@
 
 <p>He noticed that the two rabbits were hopping <em>towards each other</em>. The positions of the two rabbits can be represented as integer coordinates on a horizontal line. The taller rabbit is currently on position $x$, and the shorter rabbit is currently on position $y$ ($x \lt y$). Every second, each rabbit hops to another position. The taller rabbit hops to the positive direction by $a$, and the shorter rabbit hops to the negative direction by $b$.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/17768c0f-18c1-4efb-bf14-dcb2d6d13070/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/24831.%E2%80%85Two%E2%80%85Rabbits/c4861193.png" data-original-src="https://upload.acmicpc.net/17768c0f-18c1-4efb-bf14-dcb2d6d13070/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>For example, let&#39;s say $x=0$, $y=10$, $a=2$, and $b=3$. At the $1$-st second, each rabbit will be at position $2$ and $7$. At the $2$-nd second, both rabbits will be at position $4$.</p>
 

@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/689d44f8-9017-44c2-804b-426919835309/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/28135.%E2%80%85Since%E2%80%851973/249d7416.png" data-original-src="https://upload.acmicpc.net/689d44f8-9017-44c2-804b-426919835309/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p style="text-align: center;"><strong>아주대학교는 1973년에 개교하여 올해로 개교 50주년을 맞이했다.</strong></p>
 

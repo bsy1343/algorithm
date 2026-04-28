@@ -20,7 +20,7 @@
 
 <p>There are $W$ types of different weights. For example, an exercise may require $3$ weights of type A and $1$ weight of type B, while the next requires $2$ weights each of types A, C, and D.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/8b8d78f3-4743-4472-ac5b-5282428500d2/-/preview/" style="width: 349px; height: 144px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/25095.%E2%80%85Weightlifting/a31d8ef2.png" data-original-src="https://upload.acmicpc.net/8b8d78f3-4743-4472-ac5b-5282428500d2/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 349px; height: 144px;" /></p>
 
 <p>The weights are placed on the machine as a stack. Formally, with a single operation, you can either add a new weight of any type to the top of the stack, or remove the weight that is currently at the top of the stack.</p>
 

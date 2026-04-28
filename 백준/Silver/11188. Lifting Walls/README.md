@@ -22,7 +22,7 @@
 
 <p>Find the minimum number of cranes required to reach the center of all four walls.</p>
 
-<p style="text-align:center"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11188/1.png" style="height:149px; width:179px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/11188.%E2%80%85Lifting%E2%80%85Walls/55fd01ec.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11188/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:149px; width:179px" /></p>
 
 <p style="text-align:center">Figure C.1: This example corresponds to sample input 1.</p>
 

@@ -47,10 +47,10 @@
 
 <p>In the second case, depicted in Figure E.2, it is not possible to connect all three stations.</p>
 
-<p style="text-align: center;"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/13151/1.png" style="height:325px; width:439px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/13151.%E2%80%85Model%E2%80%85Railroad/4e9a699a.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/13151/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:325px; width:439px" /></p>
 
 <p style="text-align: center;">Figure E.1: Illustration of the first sample input.</p>
 
-<p style="text-align: center;"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/13151/2.png" style="height:261px; width:429px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/13151.%E2%80%85Model%E2%80%85Railroad/30cdbf66.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/13151/2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:261px; width:429px" /></p>
 
 <p style="text-align: center;">Figure E.2: Illustration of the second sample input.</p>

@@ -42,7 +42,7 @@
 
 <p>예제 1, 2에 대한 클래스 구성도는 아래와 같다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/d9c02b2c-8369-4cc1-8cc9-c39683fbcfe6/-/preview/" style="width: 300px; height: 230px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/25601.%E2%80%85%EC%9E%90%EB%B0%94%EC%9D%98%E2%80%85%ED%98%95%EB%B3%80%ED%99%98/3761420a.png" data-original-src="https://upload.acmicpc.net/d9c02b2c-8369-4cc1-8cc9-c39683fbcfe6/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 300px; height: 230px;" /></p>
 
 <p>number와 string의 부모 클래스는 object뿐이므로 number와 string은 서로 형변환이 불가능하다. 따라서 예제 1의 답은 0이 된다.</p>
 

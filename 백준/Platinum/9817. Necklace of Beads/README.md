@@ -18,7 +18,7 @@
 
 <p>Beads of red, blue or green colors are connected together into a circular necklace of n beads ( n &lt; 24 ). If the repetitions that are produced by rotation around the center of the circular necklace or reflection to the axis of symmetry are all neglected, how many different forms of the necklace are there?</p>
 
-<p style="text-align: center;"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/9817/1.jpg" style="height:319px; width:565px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/9817.%E2%80%85Necklace%E2%80%85of%E2%80%85Beads/56951bdc.jpg" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/9817/1.jpg" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:319px; width:565px" /></p>
 
 <p>&nbsp;</p>
 

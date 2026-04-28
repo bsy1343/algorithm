@@ -18,13 +18,13 @@
 
 <p>We are all familiar with conventional mazes laid out on a 2-D grid. A 3-D maze can be constructed as follows: Consider a hollowed out cube aligned along the x, y and z axes with one corner at (0,0,0) and the opposite corner at (n &minus; 1,n &minus; 1,n &minus; 1). On each face of the cube is a 2-D maze made by removing a subset of 1 &times; 1 &times; 1 cubes from the face (no edge cubes are removed). The object of the maze is to move a marker located inside the cube from an initial location of (1,1,1) to the final destination of (n &minus; 2,n &minus; 2,n &minus; 2). However, attached to this marker are 6 rods, each protruding through one face of the cube. The movement of these rods is constrained by the 2-D mazes on the faces. The picture below gives an example of a 7 &times; 7 &times; 7 maze. Note that this maze is not physically realizable since some faces (e.g., the front face containing the letter &ldquo;A&rdquo;) have cubes that are disconnected from the edges of the face. Such mazes are allowed in this problem.</p>
 
-<p><img alt="" src="/upload/images2/maze(1).png" style="height:265px; width:326px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/4038.%E2%80%85Maze/c54df323.png" data-original-src="https://www.acmicpc.net/upload/images2/maze(1).png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:265px; width:326px" /></p>
 
 <p>The black regions indicate open spaces where the rods can move. The figure to the right specifies the possible directions that the rods can move (Forward, Back, Left, Right, Up, Down) and also defines the labels for the six sides of the cube. In the maze above, the rods are shown in their initial position centered at (1,1,1). From here they can not move Forward, Backward, Right, Left or Down, but they can move Up (assuming there are open spaces for the two back rods to move to).</p>
 
 <p>To specify a cube, a description of each face must be given. For this problem, the order and orientations of each face are given in the diagram below.</p>
 
-<p><img alt="" src="/upload/images2/maze2.png" style="height:93px; width:510px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/4038.%E2%80%85Maze/7cb57e83.png" data-original-src="https://www.acmicpc.net/upload/images2/maze2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:93px; width:510px" /></p>
 
 <p>The first square represents the Forward face oriented so that the shared edge with the Up face is on top and the shared edge with the Right face is on the right, the second square represents the Right face oriented with the shared edge with the Up face on top and the shared edge with the Back face on the right, and so on. Your job is to solve such mazes in the minimum number of moves.</p>
 

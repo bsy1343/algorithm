@@ -18,13 +18,13 @@
 
 <p>Lim Li the Crab is running a mushroom plantation in her backyard. Her mushroom plantation can be modelled as a grid of R rows and C columns, and each grid square of her mushroom plantation can either be empty, contain a mushroom, or contain a sprinkler. For example, her mushroom plantation could look like this:</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/e1c10968-b990-49fc-a6c3-a71ed719b07d/-/preview/" style="width: 253px; height: 235px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/19689.%E2%80%85Collecting%E2%80%85Mushrooms/347e0436.png" data-original-src="https://upload.acmicpc.net/e1c10968-b990-49fc-a6c3-a71ed719b07d/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 253px; height: 235px;" /></p>
 
 <p style="text-align: center;">Figure 1: A mushroom farm with R = 5 and C = 5.</p>
 
 <p>The distance between a sprinkler and a mushroom is defined as the maximum of their separation in the two axes. In other words, if the mushroom is located at row X<sub>m</sub> and column Y<sub>m</sub> while the sprinkler is located at row X<sub>s</sub> and column Y<sub>s</sub>, their distance will be max(|X<sub>s</sub> &minus; X<sub>m</sub>|, |Y<sub>s</sub> &minus; Y<sub>m</sub>|). Sprinklers only have a limited range, so a sprinkler can only water a mushroom if the distance between them is at most D. For example, if D = 1, the areas reachable by the two sprinklers will be:</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/20794d3f-a507-4f27-aa39-c4bb5d8ca3dc/-/preview/" style="width: 253px; height: 233px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/19689.%E2%80%85Collecting%E2%80%85Mushrooms/0a22bf62.png" data-original-src="https://upload.acmicpc.net/20794d3f-a507-4f27-aa39-c4bb5d8ca3dc/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 253px; height: 233px;" /></p>
 
 <p style="text-align: center;">Figure 2: Diagram showing the range of the sprinklers.</p>
 

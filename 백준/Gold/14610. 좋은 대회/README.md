@@ -28,7 +28,7 @@
 
 <p>서둘러 대회 홈페이지에 접속한 현정이는 대회 결과를 나타내는 스코어보드를 찾아냈다. 하지만 현정이의 노트북은 모니터의 오른쪽 상단이 삼각형 모양으로 깨져있어 전체 스코어보드의 모습을 보지 못했다.</p>
 
-<p style="text-align:center"><img alt="" src="http://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14610/1.png" style="height:167px; width:313px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/14610.%E2%80%85%EC%A2%8B%EC%9D%80%E2%80%85%EB%8C%80%ED%9A%8C/c39ed55f.png" data-original-src="http://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14610/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:167px; width:313px" /></p>
 
 <p>스코어보드는 더 많은 문제를 맞춘 참가자가 더 순위가 높고, 1등이 가장 위에 위치해 순위대로 정렬되어있는 형태다. 현정이의 모니터는 ◥ 모양으로 깨져있기 때문에 볼 수 있는 스코어보드의 형태는 아래 규칙을 모두 만족한다.</p>
 

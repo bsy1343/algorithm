@@ -18,7 +18,7 @@
 
 <p>The Ionian Commission on Procuring Cash has come up with a new gambling game to raise funds for the government. The game is played as follows: Each week, the government will televise a set of $m$ balls (numbered $1 \ldots m$) being selected one at a time without replacement. Anyone who wants to play will have to buy a game card. Each card contains $n$ squares (where $n \leq m/2$) and in each square are two numbers between 1 and $m$. No number appears more than once on a card. A sample card is shown in Figure E.1.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/237ab023-b8e1-4884-81b0-1b89914764c7/-/preview/" style="width: 271px; height: 90px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/24559.%E2%80%85Gambling%E2%80%85Game/70713f18.png" data-original-src="https://upload.acmicpc.net/237ab023-b8e1-4884-81b0-1b89914764c7/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 271px; height: 90px;" /></p>
 
 <p style="text-align: center;">Figure E.1: Sample game card with m = 10, n = 4 and p = 5.</p>
 

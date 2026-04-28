@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><img alt="" src="https://u.acmicpc.net/6a6abcb0-8b58-4642-b89e-014baf5b7713/kartrider.jpg" style="height: 304px; width: 540px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/31067.%E2%80%85%EB%8B%A4%EC%98%A4%EC%9D%98%E2%80%85%EA%B2%BD%EC%A3%BC%E2%80%85%EB%8C%80%ED%9A%8C/2bd9acc9.jpg" data-original-src="https://u.acmicpc.net/6a6abcb0-8b58-4642-b89e-014baf5b7713/kartrider.jpg" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 304px; width: 540px;" /></p>
 
 <p style="text-align: center;">경주 연습을 하는 다오</p>
 

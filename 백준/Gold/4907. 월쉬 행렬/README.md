@@ -26,13 +26,13 @@
 	아래는 처음 셋 월쉬 행렬이다. (회색 선은 보기 편하게 하기 위해 그은 것)</p>
 
 <p>
-	<img alt="" src="/upload/images/wal.png" style="width: 534px; height: 91px;" /></p>
+	<img alt="" src="%EB%B0%B1%EC%A4%80/Gold/4907.%E2%80%85%EC%9B%94%EC%89%AC%E2%80%85%ED%96%89%EB%A0%AC/36db1e1f.png" data-original-src="https://www.acmicpc.net/upload/images/wal.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 534px; height: 91px;" /></p>
 
 <p>
 	크기가 2<sup>N+1</sup>인 월쉬 행렬은 크기가 2<sup>N</sup>인 4개의 월쉬 행렬을 합쳐서 만들 수 있다. 오른쪽 아래 행렬은 다른 세 행렬과 다르게 모든 원소를 반전시켜서 넣어야 한다.</p>
 
 <p>
-	<img alt="" src="/upload/images/wal2.png" style="width: 229px; height: 61px;" /></p>
+	<img alt="" src="%EB%B0%B1%EC%A4%80/Gold/4907.%E2%80%85%EC%9B%94%EC%89%AC%E2%80%85%ED%96%89%EB%A0%AC/e9941251.png" data-original-src="https://www.acmicpc.net/upload/images/wal2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 229px; height: 61px;" /></p>
 
 <p>
 	월쉬 행렬의 행의 번호를 위에서 부터 0번이라고 하고, 열의 번호는 왼쪽에서 부터 0이라고 하자. 이때 N, R, S, E가 주어졌을 때, 크기가 2<sup>N</sup>인 월쉬 행렬에서 R행 S열부터 R행 E열까지 합을 구하는 프로그램을 작성하시오.</p>

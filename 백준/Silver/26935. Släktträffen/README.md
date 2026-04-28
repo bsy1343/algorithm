@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/eb85b7bd-f6e9-4d5a-9382-d0dca3b8d211/-/preview/" style="width: 499px; height: 213px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/26935.%E2%80%85Sl%C3%A4kttr%C3%A4ffen/b06fe987.png" data-original-src="https://upload.acmicpc.net/eb85b7bd-f6e9-4d5a-9382-d0dca3b8d211/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 499px; height: 213px;" /></p>
 
 <p>Det &auml;r sl&auml;kttr&auml;ff f&ouml;r &auml;ttlingar till Ida-Ottilia Isaksson. F&ouml;r enkelhets skull har man uppr&auml;ttat ett sl&auml;kttr&auml;d och numrerat alla &auml;ttlingarna fr&aring;n $1$ till $N$, samt givit Ida-Ottilia sj&auml;lv numret $0$. Bland de M personerna vid ditt bord uppkommer en diskussion om vem som &auml;r er n&auml;rmaste gemensamma sl&auml;kting (upp&aring;t i tr&auml;det). Skriv ett program som r&auml;knar ut detta.</p>
 

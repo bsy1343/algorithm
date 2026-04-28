@@ -32,13 +32,13 @@
 
 <p>The game score starts at zero and whenever two tiles combine the score increases by the value of the new tile. The game is usually played on a 4 &times; 4 grid but other variants are available where the grid is a different size but still square.</p>
 
-<p><img alt="" src="https://onlinejudgeimages.s3.amazonaws.com/problem/13766/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-11-19%20%EC%98%A4%EC%A0%84%202.32.27.png" style="height:160px; width:160px" />(a) Score is 16</p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/13766.%E2%80%85Game%E2%80%85Moves/805b16a0.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/13766/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-11-19%20%EC%98%A4%EC%A0%84%202.32.27.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:160px; width:160px" />(a) Score is 16</p>
 
-<p><img alt="" src="https://onlinejudgeimages.s3.amazonaws.com/problem/13766/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-11-19%20%EC%98%A4%EC%A0%84%202.32.32.png" style="height:160px; width:160px" />(b) Down - Score is 24</p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/13766.%E2%80%85Game%E2%80%85Moves/fbd428f4.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/13766/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-11-19%20%EC%98%A4%EC%A0%84%202.32.32.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:160px; width:160px" />(b) Down - Score is 24</p>
 
-<p><img alt="" src="https://onlinejudgeimages.s3.amazonaws.com/problem/13766/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-11-19%20%EC%98%A4%EC%A0%84%202.32.40.png" style="height:163px; width:160px" />(c) Down - Score is 32</p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/13766.%E2%80%85Game%E2%80%85Moves/583163bf.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/13766/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-11-19%20%EC%98%A4%EC%A0%84%202.32.40.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:163px; width:160px" />(c) Down - Score is 32</p>
 
-<p><img alt="" src="https://onlinejudgeimages.s3.amazonaws.com/problem/13766/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-11-19%20%EC%98%A4%EC%A0%84%202.32.45.png" style="height:160px; width:160px" />(d) Down - Score is 48</p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/13766.%E2%80%85Game%E2%80%85Moves/b7ab6dc9.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/13766/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-11-19%20%EC%98%A4%EC%A0%84%202.32.45.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:160px; width:160px" />(d) Down - Score is 48</p>
 
 <p>Figure 1: Score progression for a series of moves - new values are shown in blue</p>
 
@@ -46,11 +46,11 @@
 
 <p>Figure 2 is demonstrative and shows how values merge and move. This demonstration will not show any new values appearing on the board. Assuming the game board is in the state shown in Figure 2(a) then if the player moves Right, the two horizontal pairs of 2s in the bottom row merge to become 4s as shown in Figure 2(b), however only the rightmost pair of 4s in the top row merge to become an 8. If the player then moves left, the horizontal pair of 4s in the bottom row merge to become a single 8 as shown in Figure 2(c) and the values in the top row move but do not merge.</p>
 
-<p><img alt="" src="https://onlinejudgeimages.s3.amazonaws.com/problem/13766/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-11-19%20%EC%98%A4%EC%A0%84%202.35.08.png" style="height:161px; width:160px" />(a) Current State</p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/13766.%E2%80%85Game%E2%80%85Moves/fb76401b.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/13766/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-11-19%20%EC%98%A4%EC%A0%84%202.35.08.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:161px; width:160px" />(a) Current State</p>
 
-<p><img alt="" src="https://onlinejudgeimages.s3.amazonaws.com/problem/13766/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-11-19%20%EC%98%A4%EC%A0%84%202.35.14.png" style="height:160px; width:160px" />(b) After move Right</p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/13766.%E2%80%85Game%E2%80%85Moves/c9aaab00.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/13766/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-11-19%20%EC%98%A4%EC%A0%84%202.35.14.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:160px; width:160px" />(b) After move Right</p>
 
-<p><img alt="" src="https://onlinejudgeimages.s3.amazonaws.com/problem/13766/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-11-19%20%EC%98%A4%EC%A0%84%202.35.22.png" style="height:158px; width:160px" />(c) After move Left</p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/13766.%E2%80%85Game%E2%80%85Moves/3e7adc2d.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/13766/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-11-19%20%EC%98%A4%EC%A0%84%202.35.22.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:158px; width:160px" />(c) After move Left</p>
 
 <p>Figure 2: How values merge and move</p>
 

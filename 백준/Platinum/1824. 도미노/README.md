@@ -18,7 +18,7 @@
 
 <p>각 칸에 번호가 붙어 있는 N&times;M 크기의 체스판이 있다. 이 판에는 몇 개의 선이 그러져 있는데, 각각의 선은 두 개의 서로 다른 칸의 경계에 그려진다. 예를 들어 아래의 체스판은 N=4, M=5이고, 9개의 선이 그려져 있는 모습이다.</p>
 
-<p style="text-align: center;"><img alt="" src="/upload/images/domino1.png" style="height:244px; width:278px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/1824.%E2%80%85%EB%8F%84%EB%AF%B8%EB%85%B8/fda79ca1.png" data-original-src="https://www.acmicpc.net/upload/images/domino1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:244px; width:278px" /></p>
 
 <p>이 체스판을 1&times;2 또는 2&times;1 크기의 도미노로 모두 덮으려고 한다. 단, 선으로 분리되어 있는 두 칸을 하나의 도미노로 덮을 수는 없다. 예를 들어, 위의 그림에서 1번 칸과 2번 칸은 하나의 도미노로 덮을 수 있지만, 6번 칸과 7번 칸은 하나의 도미노로 덮을 수 없다. 아래는 이와 같은 조건을 만족하면서 체스판을 모두 덮은 예이다.</p>
 
@@ -32,4 +32,4 @@
 
 ### 힌트
 
-<p><img alt="" src="/upload/images/domino2.png" style="height:244px; width:278px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/1824.%E2%80%85%EB%8F%84%EB%AF%B8%EB%85%B8/fb275e2f.png" data-original-src="https://www.acmicpc.net/upload/images/domino2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:244px; width:278px" /></p>

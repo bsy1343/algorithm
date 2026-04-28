@@ -22,19 +22,19 @@
 
 <p>예를 들어 회원이 12명이라면, 뒤에서부터 앞까지 차례대로 5, 3, 3, 1명이 설 수 있다.</p>
 
-<p><img alt="" src="/upload/images/Screen%20Shot%202012-11-06%20at%20%EC%98%A4%EC%A0%84%202_52_48.png" style="height:69px; width:99px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/2764.%E2%80%85%EB%A7%88%EC%A7%80%EB%A7%89%E2%80%85%EC%82%AC%EC%A7%84%E2%80%85%EC%B0%8D%EA%B8%B0/bb3958fd.png" data-original-src="https://www.acmicpc.net/upload/images/Screen%20Shot%202012-11-06%20at%20%EC%98%A4%EC%A0%84%202_52_48.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:69px; width:99px" /></p>
 
 <p>백준이는 모든 사람들이 사진에 나와야 한다고 생각한다. 따라서, 각 줄에 서있는 사람의 키는 왼쪽에서 오른쪽으로 갈 수록 작아져야 하고, 뒤에서 앞으로 올 수록 작아져야 한다.</p>
 
 <p>12명의 학생이 있을 때, 5, 3, 3, 1과 같이 줄을 서는 2가지 경우는 다음과 같다. (1이 제일 키가 큰 사람)</p>
 
-<p><img alt="" src="/upload/images/Screen%20Shot%202012-11-06%20at%20%EC%98%A4%EC%A0%84%202_52_51.png" style="height:75px; width:280px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/2764.%E2%80%85%EB%A7%88%EC%A7%80%EB%A7%89%E2%80%85%EC%82%AC%EC%A7%84%E2%80%85%EC%B0%8D%EA%B8%B0/f00385b8.png" data-original-src="https://www.acmicpc.net/upload/images/Screen%20Shot%202012-11-06%20at%20%EC%98%A4%EC%A0%84%202_52_51.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:75px; width:280px" /></p>
 
 <p>학생의 수와 각 줄에 몇 명이 서야 하는 지가 주어졌을 때, 사진을 찍을 수 있는 서로 다른 대형의 수를 구하려고 한다.</p>
 
 <p>학생이 6명이고, 3, 2, 1과 같이 줄을 서는 방법은 다음과 같이 16가지가 있다.</p>
 
-<p><img alt="" src="/upload/images/Screen%20Shot%202012-11-06%20at%20%EC%98%A4%EC%A0%84%202_52_54.png" style="height:58px; width:535px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/2764.%E2%80%85%EB%A7%88%EC%A7%80%EB%A7%89%E2%80%85%EC%82%AC%EC%A7%84%E2%80%85%EC%B0%8D%EA%B8%B0/f2123ae8.png" data-original-src="https://www.acmicpc.net/upload/images/Screen%20Shot%202012-11-06%20at%20%EC%98%A4%EC%A0%84%202_52_54.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:58px; width:535px" /></p>
 
 ### 입력
 

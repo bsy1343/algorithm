@@ -22,7 +22,7 @@
 
 <p>Tchoukaillon는 여러 개의 빈칸과 하나의 Roumba로 이루어진 보드 위에서 진행된다.</p>
 
-<p><img src="https://www.acmicpc.net/upload/images2/mancala.png" /></p>
+<p><img src="%EB%B0%B1%EC%A4%80/Gold/10435.%E2%80%85%EB%A7%8C%EC%B9%BC%EB%9D%BC/a3aeee2f.png" data-original-src="https://www.acmicpc.net/upload/images2/mancala.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>가장 왼쪽의 빈칸은 Roumba이며, 처음엔 항상 비어있는 상태여야 한다.</p>
 

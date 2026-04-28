@@ -44,4 +44,4 @@ XXXX
 
 ### 힌트
 
-<p style="text-align: center;"><img alt="" src="/upload/images2/pp.png" style="height:164px; width:216px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/7728.%E2%80%85Painting%E2%80%85patter/b467fe5f.png" data-original-src="https://www.acmicpc.net/upload/images2/pp.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:164px; width:216px" /></p>

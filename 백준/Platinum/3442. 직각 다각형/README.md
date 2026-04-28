@@ -18,7 +18,7 @@
 
 <p>직각 다각형의 모든 꼭짓점이 주어졌을 때, 모든 변을 구하는 프로그램을 작성하시오.</p>
 
-<p><img alt="" src="/upload/images/rp.png" style="height:135px; width:506px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/3442.%E2%80%85%EC%A7%81%EA%B0%81%E2%80%85%EB%8B%A4%EA%B0%81%ED%98%95/c65810ba.png" data-original-src="https://www.acmicpc.net/upload/images/rp.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:135px; width:506px" /></p>
 
 <p>직각다각형의 모든 변은 X축 또는 Y축에 평행한다. 따라서, 모든 각의 크기는 90도 또는 270도이다.</p>
 

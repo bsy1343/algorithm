@@ -45,7 +45,7 @@
 
 ### 힌트
 
-<p><img alt="" src="https://onlinejudgeimages.s3.amazonaws.com/problem/8184/1.gif" style="height:201px; width:192px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/8184.%E2%80%85Guilds/3e643158.gif" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/8184/1.gif" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:201px; width:192px" /></p>
 
 <p>The towns in which an office of The Tailors Guild should open are marked with circles, whereas those in which an office of The Sewers Guild should open are marked with rhombi.</p>
 

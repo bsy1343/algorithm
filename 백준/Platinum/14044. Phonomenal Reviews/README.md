@@ -22,7 +22,7 @@
 
 <p>In computer science, a road network with this structure is called a tree. Here are three examples of trees:</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/80320f3c-73f2-465e-bbc4-f3cfca09f486/-/preview/" style="width: 622px; height: 149px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/14044.%E2%80%85Phonomenal%E2%80%85Reviews/4b493748.png" data-original-src="https://upload.acmicpc.net/80320f3c-73f2-465e-bbc4-f3cfca09f486/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 622px; height: 149px;" /></p>
 
 <p>One property that is true for all trees is that there is exactly one path that does not repeat any roads between any two points in the tree.</p>
 

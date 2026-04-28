@@ -18,11 +18,11 @@
 
 <p>Triangle War is a two-player game played on the following triangular grid:</p>
 
-<p><img alt="" src="https://onlinejudgeimages.s3.amazonaws.com/problem/9189/1085_1.jpg" style="height:200px; width:227px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/9189.%E2%80%85Triangle%E2%80%85War/5356b342.jpg" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/9189/1085_1.jpg" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:200px; width:227px" /></p>
 
 <p>Two players, A and B, take turns filling in any dotted line connecting two dots, with A starting first. Once a line is filled, it cannot be filled again. If the line filled by a player completes one or more triangles, she owns the completed triangles and she is awarded another turn (i.e. the opponent skips a turn). For example, if A fills in the line between 2 and 5 in the partial game on the left below:</p>
 
-<p><img alt="" src="https://onlinejudgeimages.s3.amazonaws.com/problem/9189/1085_2.jpg" style="height:200px; width:597px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/9189.%E2%80%85Triangle%E2%80%85War/f7ed7590.jpg" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/9189/1085_2.jpg" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:200px; width:597px" /></p>
 
 <p>Then, she owns the triangle labelled A and takes another turn to fill in the line between 3 and 5. B can now own 3 triangles (if he wishes) by filling in the line between 2 and 3, then the one between 5 and 6, and finally the one between 6 and 9. B would then make one more move before it is A&#39;s turn again.</p>
 

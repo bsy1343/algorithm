@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p><img alt="" src="/upload/images2/road.png" style="float:right; height:210px; width:208px" />Per is repairing roads. The job is concentrated on roads with one lane in each direction. Thus, when Per closes down the lane in one direction, all traffic has to go through the other lane. This is done by allowing only one direction of travel at any time. Per is often assigned the task of directing the traffic through this lane.</p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/10268.%E2%80%85Road%E2%80%85Work/584d3d30.png" data-original-src="https://www.acmicpc.net/upload/images2/road.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="float:right; height:210px; width:208px" />Per is repairing roads. The job is concentrated on roads with one lane in each direction. Thus, when Per closes down the lane in one direction, all traffic has to go through the other lane. This is done by allowing only one direction of travel at any time. Per is often assigned the task of directing the traffic through this lane.</p>
 
 <p>No car drives before being given a &ldquo;go&rdquo; signal from Per, and all the cars drive through the maintained segment at the same speed. Because there is only one lane, cars in one direction must leave the segment before cars in the other direction can enter. For safety reasons, cars driving in the same direction have to keep a distance of at least 3 seconds between each other.</p>
 

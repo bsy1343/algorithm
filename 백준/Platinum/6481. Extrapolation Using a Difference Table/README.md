@@ -18,13 +18,13 @@
 
 <p>A very old technique for extrapolating a sequence of values is based on the use of a difference table. The difference table used in the extrapolation of a sequence of 4 values, say 3, 6, 10, and 15, might be displayed as follows:</p>
 
-<p><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/6481/1.gif" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/6481.%E2%80%85Extrapolation%E2%80%85Using%E2%80%85a%E2%80%85Difference%E2%80%85Table/ca33cab3.gif" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/6481/1.gif" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>The original sequence of values appears in the first column of the table. Each entry in the second column of the table is formed by computing the difference between the adjacent entries in the first column. These values (in the second column) are called first differences. Each entry in the third column is similarly the difference between the adjacent entries in the second column; the third column entries are naturally called second differences. Computation of the last column in this example should now be obvious (but beware that this value is not always zero). Note that the last column will always contain only a single value. If we begin with a sequence of n values, the completed difference table will have n columns, with the single value in column n representing the single n-1st difference.</p>
 
 <p>To extrapolate using a difference table we assume the n-1st differences are constant (since we have no additional information to refute that assumption). Given that assumption, we can compute the next entry in the n-2nd difference column, the n-3rd difference column, and so forth until we compute the next entry in the first column which, of course, is the next value in the sequence. The table below shows the four additional entries (in boxes) added to the table to compute the next entry in the example sequence, which in this case is 21. We could obviously continue this extrapolation process as far as desired by adding additional entries to the columns using the assumption that the n-1st differences are constant.</p>
 
-<p><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/6481/2.gif" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/6481.%E2%80%85Extrapolation%E2%80%85Using%E2%80%85a%E2%80%85Difference%E2%80%85Table/676dfc41.gif" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/6481/2.gif" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 ### 입력
 

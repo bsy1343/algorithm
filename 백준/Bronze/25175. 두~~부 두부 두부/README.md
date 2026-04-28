@@ -50,4 +50,4 @@
 
 <p>아래 그림은 $N=5, M=2$ 일 때, 두부 게임을 하는 각설탕들이 자신의 모 수를 파악하는 모습이다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/7697a08e-ec0d-4d5d-8cd0-7b1e2c0aa5ef/-/crop/872x697/23,0/-/preview/" style="height: 400px; width: 500px; border-width: 1px; border-style: solid;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/25175.%E2%80%85%EB%91%90~~%EB%B6%80%E2%80%85%EB%91%90%EB%B6%80%E2%80%85%EB%91%90%EB%B6%80/0cf95ef7.png" data-original-src="https://upload.acmicpc.net/7697a08e-ec0d-4d5d-8cd0-7b1e2c0aa5ef/-/crop/872x697/23,0/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 400px; width: 500px; border-width: 1px; border-style: solid;" /></p>

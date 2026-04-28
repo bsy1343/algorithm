@@ -31,7 +31,7 @@ Eeny, meeny, miny, moe.</p>
 
 <p>Given such a rhyme, and a group of kids, can you tell which kids will be in which team?</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/00be2ded-b260-4311-99a1-a1d3da66c3cb/-/preview/" style="width: 615px; height: 189px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/18022.%E2%80%85Eeny%E2%80%85Meeny/7be3737a.png" data-original-src="https://upload.acmicpc.net/00be2ded-b260-4311-99a1-a1d3da66c3cb/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 615px; height: 189px;" /></p>
 
 <p>Figure E.1: Illustration of the first three rounds of Sample Input 1. In rounds 1 and 3, Alvar and Rakel get selected for the first team, and in round 2, Lisa is selected for the second team. In round 4 (not shown), only Kalle remains and is selected for the second team.</p>
 

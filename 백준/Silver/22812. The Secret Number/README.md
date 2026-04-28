@@ -18,7 +18,7 @@
 
 <p>Your job is to find out the secret number hidden in a matrix, each of whose element is a digit (&#39;0&#39;-&#39;9&#39;) or a letter (&#39;A&#39;-&#39;Z&#39;). You can see an example matrix in Figure 1.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/22f6177a-c9d6-4bdd-aa93-92b249baf90b/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/22812.%E2%80%85The%E2%80%85Secret%E2%80%85Number/c4c0743e.png" data-original-src="https://upload.acmicpc.net/22f6177a-c9d6-4bdd-aa93-92b249baf90b/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p style="text-align: center;">Figure 1: A Matrix</p>
 
@@ -26,13 +26,13 @@
 
 <p>Four coded numbers in the matrix in Figure 1, i.e., 908820, 23140037, 23900037, and 9930, are depicted in Figure 2. As you may see, in general, two or more coded numbers may share a common subsequence. In this case, the secret number is 23900037, which is the largest among the set of all coded numbers in the matrix.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/707be2a1-e57e-4fcf-98ee-f6464f44ac5b/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/22812.%E2%80%85The%E2%80%85Secret%E2%80%85Number/8d225894.png" data-original-src="https://upload.acmicpc.net/707be2a1-e57e-4fcf-98ee-f6464f44ac5b/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p style="text-align: center;">Figure 2: Coded Numbers</p>
 
 <p>In contrast, the sequences illustrated in Figure 3 should be excluded: 908A2 includes a letter; the fifth digit of 23149930 is above the fourth; the third digit of 90037 is below right of the second.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/9fd5b7fe-dc13-43b4-9d5f-49b4ed6eae8d/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/22812.%E2%80%85The%E2%80%85Secret%E2%80%85Number/665c198a.png" data-original-src="https://upload.acmicpc.net/9fd5b7fe-dc13-43b4-9d5f-49b4ed6eae8d/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p style="text-align: center;">Figure 3: Inappropriate Sequences</p>
 

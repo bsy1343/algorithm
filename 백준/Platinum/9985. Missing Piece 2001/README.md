@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/9985/1.png" style="height:218px; width:225px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/9985.%E2%80%85Missing%E2%80%85Piece%E2%80%852001/6da954ef.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/9985/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:218px; width:225px" /></p>
 
 <p>Remember those wacky number puzzles you used to win at birthday parties as a kid? Well, they&#39;re back, but this time with a digital twist. As with everything else, kids today are spoiled, having access to technology to make things easier for them. And why should games be any different?</p>
 

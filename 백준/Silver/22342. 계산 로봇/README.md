@@ -31,7 +31,7 @@
 	<li>좌표 (i, j)의 로봇의 입력 값은 |i&minus;a| &le; j &minus;b, b &lt; j인 모든 좌표 (a, b)에 있는 로봇들의 출력 값들이다. (아래 그림에서 별로 표시된 칸의 로봇의 입력 값들은 왼쪽 회색 칸들의 로봇들의 출력 값들이다.)</li>
 </ul>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/86260f1f-3bf9-4fb1-9c31-4d9f876c3bb2/-/preview/" style="width: 205px; height: 171px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/22342.%E2%80%85%EA%B3%84%EC%82%B0%E2%80%85%EB%A1%9C%EB%B4%87/8eda3174.png" data-original-src="https://upload.acmicpc.net/86260f1f-3bf9-4fb1-9c31-4d9f876c3bb2/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 205px; height: 171px;" /></p>
 
 <ul>
 	<li>각 로봇은 자신의 입력 값들 중 최댓값을 자신의 저장 값으로 한다.</li>

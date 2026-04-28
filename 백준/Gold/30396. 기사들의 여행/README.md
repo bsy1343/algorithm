@@ -18,7 +18,7 @@
 
 <p>최근 체스에 관심을 가지게 된 창현이와 예환이는 4&times;4개의 칸이 4행 4열로 이루어진 정사각형 모양의 체스판을 사기로 하였다. 하지만 창현이가 구매 옵션을 잘못 선택하는 바람에 나이트만 가득 들어있는 체스판을 구매해 버렸다! 체스의 기물 중 하나인 나이트는 한 번 이동할 때 현재 위치에서 상하좌우 중 한 방향으로 두 칸 간 후, 그것에 수직인 방향으로 꺾어서 한 칸 더 간다. 나이트가 이동한 후에는 체스판을 벗어나거나 같은 칸에 두 개 이상의 나이트가 존재해서는 안 된다.</p>
 
-<p style="text-align: center"><img alt="" src="https://upload.acmicpc.net/2791462c-b31a-4aae-bd2f-7dda5e4f67a4/-/preview/" style="width: 250px; height: 250px;" /></p>
+<p style="text-align: center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/30396.%E2%80%85%EA%B8%B0%EC%82%AC%EB%93%A4%EC%9D%98%E2%80%85%EC%97%AC%ED%96%89/a916d7e5.png" data-original-src="https://upload.acmicpc.net/2791462c-b31a-4aae-bd2f-7dda5e4f67a4/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 250px; height: 250px;" /></p>
 
 <p>잘못 구매한 체스판을 어떻게 처리할까 고민하던 창현이와 예환이는 나이트들이 배치된 두 개의 체스판 A, B를 그린 뒤, A의 나이트들 위치를 B처럼 만드는 데 필요한 최소 이동 횟수를 늦게 구하는 사람이 치우기로 하였다. 창현이는 치우는 게 귀찮기 때문에 꼭 이기고 싶다.</p>
 

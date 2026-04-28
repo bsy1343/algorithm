@@ -32,7 +32,7 @@
 
 <p>아래 그림은 N = 8, K = 2인 경우를 나타낸다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11583/1.png" style="height:246px; width:626px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/11583.%E2%80%85%EC%9D%B8%EA%B2%BD%ED%98%B8%EC%9D%98%E2%80%85%EC%A7%95%EA%B2%80%EB%8B%A4%EB%A6%AC/00a02b41.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11583/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:246px; width:626px" /></p>
 
 <p>송이가 [1]번, [8]번을 밟으면 5 &times; 3 = 15가 되어 Trailing zero는 0이 된다. 하지만 K = 2이므로 이는 불가능한 경우다.</p>
 

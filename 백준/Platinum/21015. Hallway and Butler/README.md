@@ -30,7 +30,7 @@
 	<li>The 3<sup>rd</sup> hallway connects room 3 and room 4 with a dirtiness level of 2.</li>
 </ul>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/f43ead35-9b69-421b-b970-abb31e678a12/-/preview/" style="width: 275px; height: 52px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/21015.%E2%80%85Hallway%E2%80%85and%E2%80%85Butler/1ac035b3.png" data-original-src="https://upload.acmicpc.net/f43ead35-9b69-421b-b970-abb31e678a12/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 275px; height: 52px;" /></p>
 
 <p>There are 6 ways to clean all the hallways in this example, by going through these rooms:</p>
 

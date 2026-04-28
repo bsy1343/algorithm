@@ -18,7 +18,7 @@
 
 <p>푸앙이의 친구 종윤이는 수학, 과학이 굉장히 발전한 곳 중 하나인 인도에 진심이다. 한국에선 구구단을 배우지만 인도에서는 19단까지 배운다고 한다. 어떻게 두 자릿수 곱셈을 빠르게 암산하는 것일까? 푸앙이는 인도 마니아 종윤이한테 인도의 베다수학 곱셈법을 배워보기로 했다.</p>
 
-<p style="text-align: center;"><img alt="인도 베다수학 곱셈법 예시 그림" src="https://upload.acmicpc.net/c72e53a3-a16f-42d2-964f-2f09941a967c/-/preview/" style="width: 813px; height: 500px;" /></p>
+<p style="text-align: center;"><img alt="인도 베다수학 곱셈법 예시 그림" src="%EB%B0%B1%EC%A4%80/Bronze/25591.%E2%80%85%ED%91%B8%EC%95%99%EC%9D%B4%EC%99%80%E2%80%85%EC%A2%85%EC%9C%A4%EC%9D%B4/1de2ac89.png" data-original-src="https://upload.acmicpc.net/c72e53a3-a16f-42d2-964f-2f09941a967c/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 813px; height: 500px;" /></p>
 
 <p style="text-align: center;">&lt;인도 베다수학 곱셈법 예시 그림&gt;</p>
 

@@ -18,7 +18,7 @@
 
 <p>You have drawn a chart of a perfect binary tree, like one shown in Figure G.1. The figure&nbsp;shows a finite tree, but, if needed, you can add more nodes beneath the leaves, making the tree&nbsp;arbitrarily deeper.</p>
 
-<p><img alt="" src="https://onlinejudgeimages.s3.amazonaws.com/problem/13405/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-11-11%20%EC%98%A4%EC%A0%84%205.38.12.png" style="height:108px; width:257px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/13405.%E2%80%85Placing%E2%80%85Medals%E2%80%85on%E2%80%85a%E2%80%85Binary%E2%80%85Tree/ccc58a3f.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/13405/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-11-11%20%EC%98%A4%EC%A0%84%205.38.12.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:108px; width:257px" /></p>
 
 <p>Figure G.1. A Perfect Binary Tree Chart</p>
 
@@ -47,7 +47,7 @@
 	<li>The last medal engraved with 2 cannot be placed on any of the nodes with whatever&nbsp;replacements.</li>
 </ul>
 
-<p><img alt="" src="https://onlinejudgeimages.s3.amazonaws.com/problem/13405/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-11-11%20%EC%98%A4%EC%A0%84%205.42.12.png" style="height:238px; width:531px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/13405.%E2%80%85Placing%E2%80%85Medals%E2%80%85on%E2%80%85a%E2%80%85Binary%E2%80%85Tree/832ae80a.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/13405/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-11-11%20%EC%98%A4%EC%A0%84%205.42.12.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:238px; width:531px" /></p>
 
 <p>Figure G.2. Medal Placements</p>
 

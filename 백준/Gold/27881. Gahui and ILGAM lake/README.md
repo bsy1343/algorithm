@@ -27,7 +27,7 @@
 
 <p>Points <code>n</code>, <code>2n</code>, <code>3n</code>, and <code>4n</code> are connected to 3 subway stations (<code>Konkuk_Univ</code>, <code>Guui</code>, <code>Sejong_Univ</code>) via roads. <code>ILGAM</code> lake is so big, the nearest station is different depending on the point. Gahui wants to know which subway station is the nearest to her current point. Please help Gahui.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/0dc503eb-a928-4071-b690-b0f7fd2606f7/-/preview/" style="width: 299px; height: 300px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/27881.%E2%80%85Gahui%E2%80%85and%E2%80%85ILGAM%E2%80%85lake/d8ea390f.png" data-original-src="https://upload.acmicpc.net/0dc503eb-a928-4071-b690-b0f7fd2606f7/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 299px; height: 300px;" /></p>
 
 <p style="text-align: center;"><strong>[Picture 1] Roads and points when n = 2</strong></p>
 

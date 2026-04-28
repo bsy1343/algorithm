@@ -37,7 +37,7 @@
 
 <p>예를 들면, 다음 그림을 예로 들었을 때, 1번째 기차와 같이 승객이 앉은 상태는 기록되지 않았기 때문에 은하수를 건널 수있다. 2번째 기차와 같은 상태도 기록되지 않았기 때문에 2번째 기차도 은하수를 건널 수 있다. 3번째 기차는 1번째 기차와 승객이 앉은 상태가 같으므로 은하수를 건널 수 없다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15787/1.png" style="width: 392px; height: 213px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/15787.%E2%80%85%EA%B8%B0%EC%B0%A8%EA%B0%80%E2%80%85%EC%96%B4%EB%91%A0%EC%9D%84%E2%80%85%ED%97%A4%EC%B9%98%EA%B3%A0%E2%80%85%EC%9D%80%ED%95%98%EC%88%98%EB%A5%BC/ebacbcbc.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15787/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 392px; height: 213px;" /></p>
 
 <p>처음에 주어지는 기차에는 아무도 사람이 타지 않는다.</p>
 

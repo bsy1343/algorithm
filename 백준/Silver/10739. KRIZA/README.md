@@ -20,7 +20,7 @@
 
 <p>This is why the head locksmith has given Sisyphus N keys on a big round pendant, blindfolded him and led him into a big room. That room contains N locked doors, denoted with numbers from 1 to N. Each of the keys on the pendant unlocks precisely one door.</p>
 
-<p style="text-align: center;"><img alt="" src="/upload/images3/kriza.png" style="height:198px; width:214px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/10739.%E2%80%85KRIZA/63565ac1.png" data-original-src="https://www.acmicpc.net/upload/images3/kriza.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:198px; width:214px" /></p>
 
 <p>Sisyphus&rsquo; job is to unlock and lock each door again. He does this in a way that he moves along the wall, not changing direction, until he reaches a door. When he reaches a door, he tries unlocking it using the first (leftmost) key. In the case when the key doesn&rsquo;t unlock the door, Sisyphus moves it to the other (right) side of pendant and repeats this procedure until he finds the right key. His work is done when he goes through all the doors. The first door Sisyphus unlocked is denoted with 1, the next with 2, the one after with 3 and so on...</p>
 

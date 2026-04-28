@@ -20,7 +20,7 @@
 
 <p>Your task is to find a sequence of button presses which takes you through a maze-like level with platforms and walls, from a given start position to a given final position. In order to receive full points, the sequence needs to be as short as possible.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/a23f33b5-fd9c-4120-9351-7b6cf78166d9/-/preview/" style="width: 512px; height: 469px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/21328.%E2%80%85Vvvvvv/bcd822e3.png" data-original-src="https://upload.acmicpc.net/a23f33b5-fd9c-4120-9351-7b6cf78166d9/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 512px; height: 469px;" /></p>
 
 <p style="text-align: center;">Figure 1:&nbsp;The path given by the button presses given in the second sample.</p>
 

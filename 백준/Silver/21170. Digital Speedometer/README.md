@@ -20,7 +20,7 @@
 
 <p>Your team must implement a smoothing technique for the display using separate rising and falling thresholds ($t_r$ and $t_f$, $t_f &lt; t_r$, respectively). See Figure 1 for a graphical depiction of the Sample Input for use with the following rules.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/073f7ec7-e242-4403-a83e-b489edc6efb7/-/preview/" style="width: 550px; height: 315px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/21170.%E2%80%85Digital%E2%80%85Speedometer/5ef167ae.png" data-original-src="https://upload.acmicpc.net/073f7ec7-e242-4403-a83e-b489edc6efb7/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 550px; height: 315px;" /></p>
 
 <p style="text-align: center;">Figure 1: Sensor reading from the Sample Input, with $t_f=0.25$ and $t_r=0.75$.</p>
 

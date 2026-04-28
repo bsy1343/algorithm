@@ -25,7 +25,7 @@
 
 <p>다음은 두 분포의 확률밀도함수를 나타내는 그림이다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/8e3cd20e-81ef-4dd3-b71a-252031e5a411/-/preview/" style="height: 525px; width: 700px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/26523.%E2%80%85%EA%B7%A0%EB%93%B1%EB%B6%84%ED%8F%AC%EC%99%80%E2%80%85%EC%A0%95%EA%B7%9C%EB%B6%84%ED%8F%AC/6e7b9402.png" data-original-src="https://upload.acmicpc.net/8e3cd20e-81ef-4dd3-b71a-252031e5a411/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 525px; width: 700px;" /></p>
 
 ### 입력
 

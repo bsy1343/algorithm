@@ -20,7 +20,7 @@
 
 <p>게임의 목표는 격자의 모든&nbsp;칸에 사선을 그어 모든 동그라미와 연결된 사선의 수가 동그라미 안에 있는 숫자와 일치하게 만드는 것이다. 또, 사선을 이용해서 닫힌 루프를 만들면 안 된다.</p>
 
-<p><img alt="" src="/upload/images/goki.png" style="height:318px; width:625px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/5037.%E2%80%85Gokigen%E2%80%85Naname/fb1c1d62.png" data-original-src="https://www.acmicpc.net/upload/images/goki.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:318px; width:625px" /></p>
 
 <p>왼쪽 그림은 게임판이고, 오른쪽 그림은 왼쪽 퍼즐을 푼 상태이다. Gokigen Naname 퍼즐이 주어졌을 때, 퍼즐을 푸는 프로그램을 작성하시오. 항상 답이 유일한 경우만 주어진다.</p>
 

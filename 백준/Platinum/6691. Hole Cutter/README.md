@@ -21,10 +21,10 @@
 <table class="table">
 	<tbody>
 		<tr>
-			<td style="text-align:center"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/6691/1.gif" style="height:103px; width:99px" /></td>
-			<td style="text-align:center"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/6691/2.gif" style="height:103px; width:99px" /></td>
-			<td style="text-align:center"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/6691/3.gif" style="height:100px; width:99px" /></td>
-			<td style="text-align:center"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/6691/4.gif" style="height:103px; width:99px" /></td>
+			<td style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/6691.%E2%80%85Hole%E2%80%85Cutter/50c8dea0.gif" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/6691/1.gif" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:103px; width:99px" /></td>
+			<td style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/6691.%E2%80%85Hole%E2%80%85Cutter/2c91c807.gif" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/6691/2.gif" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:103px; width:99px" /></td>
+			<td style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/6691.%E2%80%85Hole%E2%80%85Cutter/812bc4c1.gif" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/6691/3.gif" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:100px; width:99px" /></td>
+			<td style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/6691.%E2%80%85Hole%E2%80%85Cutter/3f9d1dae.gif" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/6691/4.gif" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:103px; width:99px" /></td>
 		</tr>
 	</tbody>
 	<tfoot>

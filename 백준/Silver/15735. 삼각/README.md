@@ -20,7 +20,7 @@
 
 <p>N이 2일 경우 정답은 5이다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15735/1.png" style="width: 634px; height: 129px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/15735.%E2%80%85%EC%82%BC%EA%B0%81/b305a412.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15735/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 634px; height: 129px;" /></p>
 
 ### 입력
 

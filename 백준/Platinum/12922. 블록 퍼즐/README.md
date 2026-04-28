@@ -24,7 +24,7 @@
 
 <p>아래 그림은 이동시킬 수 있는 방법을 모두 나타낸 것이고, 이전 상태가 반투명으로 그려져 있다.</p>
 
-<p><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/12922/1.png" style="height:344px; width:616px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/12922.%E2%80%85%EB%B8%94%EB%A1%9D%E2%80%85%ED%8D%BC%EC%A6%90/a4d53545.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/12922/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:344px; width:616px" /></p>
 
 <p>이 게임이 어려워지는 이유는 일부 칸에 구멍이 뚫려있기 때문이다. 블록의 바닥면이 모두 구멍 위에 있다면, 블록은 구멍으로 떨어지고 게임에서 패배하게 된다. 만약, 블록의 바닥면이 2&times;1이고, 구멍이 두 칸 중 하나에만 있다면 블록은 떨어지지 않는다. 블록은 게임판의 경계에 걸칠 수도 있다. 즉, 바닥면이 2x1인 경우에 한 칸이 게임판 위에 있고, 한 칸이 게임판 밖에 있는 경우는 가능하다.</p>
 

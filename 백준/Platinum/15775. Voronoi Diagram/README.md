@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15775/voronoi.png" style="width: 500px; height: 500px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/15775.%E2%80%85Voronoi%E2%80%85Diagram/268281a6.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15775/voronoi.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 500px; height: 500px;" /></p>
 
 <p style="text-align: center;">사진: 유클리드 좌표계에서 20개의 점으로 만든 Voronoi Diagram. 출처: Wikipedia</p>
 
@@ -61,8 +61,8 @@
 
 <p>예제에 대한 그림은 다음과 같다.:</p>
 
-<p style="text-align: center;"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15775/img1.png" style="width: 391px; height: 351px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/15775.%E2%80%85Voronoi%E2%80%85Diagram/f96a6920.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15775/img1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 391px; height: 351px;" /></p>
 
-<p style="text-align: center;"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15775/img2.png" style="width: 600px; height: 379px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/15775.%E2%80%85Voronoi%E2%80%85Diagram/b25d1071.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15775/img2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 600px; height: 379px;" /></p>
 
-<p style="text-align: center;"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15775/img3.png" style="width: 429px; height: 459px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/15775.%E2%80%85Voronoi%E2%80%85Diagram/68569b5f.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15775/img3.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 429px; height: 459px;" /></p>

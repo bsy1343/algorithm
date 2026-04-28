@@ -37,11 +37,11 @@
 	<li>하루의 폭은 1이다.&nbsp;</li>
 </ul>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/1a820e79-e5fc-4e4a-b7ad-efe42cfd7cdd/" style="width: 720px; height: 225px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/20207.%E2%80%85%EB%8B%AC%EB%A0%A5/c20a9989.png" data-original-src="https://upload.acmicpc.net/1a820e79-e5fc-4e4a-b7ad-efe42cfd7cdd/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 720px; height: 225px;" /></p>
 
 <p>위의 그림에서와 같이 일정이 주어졌다고 하자. 여기서 코팅지의 면적은 아래의 파란색 영역과 같다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/680c1b8a-7ae1-4b00-ba41-e1c61cd64846/" style="width: 720px; height: 224px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/20207.%E2%80%85%EB%8B%AC%EB%A0%A5/80d428fb.png" data-original-src="https://upload.acmicpc.net/680c1b8a-7ae1-4b00-ba41-e1c61cd64846/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 720px; height: 224px;" /></p>
 
 <p>이때 코팅지의 크기의 합은 3 x 8&nbsp;+ 2&nbsp;x 2 = 28이다.&nbsp;</p>
 

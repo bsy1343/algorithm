@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/2037.%E2%80%85%EB%AC%B8%EC%9E%90%EB%A9%94%EC%8B%9C%EC%A7%80/06194d3d.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/upload/201007/sms.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 174px; width: 137px; float: right;" />오른쪽 그림과 같은 핸드폰 자판이 있다. 이 자판을 이용하여 어떤 영어 메시지를 치려고 할 때, 걸리는 최소 시간을 구하는 프로그램을 작성하시오.</p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/2037.%E2%80%85%EB%AC%B8%EC%9E%90%EB%A9%94%EC%8B%9C%EC%A7%80/06194d3d.png" data-original-src="%EB%B0%B1%EC%A4%80/Bronze/2037.%E2%80%85%EB%AC%B8%EC%9E%90%EB%A9%94%EC%8B%9C%EC%A7%80/06194d3d.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/upload/201007/sms.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 174px; width: 137px; float: right;" />오른쪽 그림과 같은 핸드폰 자판이 있다. 이 자판을 이용하여 어떤 영어 메시지를 치려고 할 때, 걸리는 최소 시간을 구하는 프로그램을 작성하시오.</p>
 
 <p>단, 1번은 누를 경우에는 공백이 찍힌다고 하자. 그리고 만약에 AC라는 문자를 치려 한다면 A를 치고 난 후 일정 시간을 기다린 후 C를 치면 된다.</p>
 

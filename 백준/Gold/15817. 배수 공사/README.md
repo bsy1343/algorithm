@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15817/1.png" style="width: 343px; height: 248px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/15817.%E2%80%85%EB%B0%B0%EC%88%98%E2%80%85%EA%B3%B5%EC%82%AC/15b6f3c1.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15817/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 343px; height: 248px;" /></p>
 
 <p>영만이네 집은 너무 오래되어서 변기에 물이 줄줄 샌다. 보다 못한 영만이는 마침 집에 파이프가 남아 있어서 직접 배수 공사를 하려고 한다.</p>
 

@@ -18,13 +18,13 @@
 
 <p>Desde a sua inven&ccedil;&atilde;o, em 1958, os raios laser t&ecirc;m sido utilizados em uma imensa variedade de aplica&ccedil;&otilde;es, como equipamentos eletr&ocirc;nicos, instrumentos cir&uacute;rgicos, armamentos, e muito mais.</p>
 
-<p><img alt="" src="https://onlinejudgeimages.s3.amazonaws.com/problem/13676/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202017-01-12%20%EC%98%A4%EC%A0%84%206.51.55.png" style="height:200px; width:310px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/13676.%E2%80%85Escultura%E2%80%85a%E2%80%85Laser/d43c2cb9.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/13676/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202017-01-12%20%EC%98%A4%EC%A0%84%206.51.55.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:200px; width:310px" /></p>
 
 <p>A figura acima mostra um diagrama esquem&aacute;tico de um equipamento para esculpir, com laser, um bloco de material maci&ccedil;o. Na figura vemos um emissor laser que se desloca horizontalmente para a direita e para a esquerda com velocidade constante. Quando o emissor &eacute; ligado durante o deslocamento, uma camada de espessura constante &eacute; removida do bloco, sendo vaporizada pelo laser.</p>
 
 <p>A figura abaixo ilustra o processo de escultura a laser, mostrando um exemplo de (a) um bloco, com 5 mm de altura por 8 mm de comprimento, no in&iacute;cio do processo, (b) o formato que se deseja que o bloco esculpido tenha, e (c) a sequ&ecirc;ncia de remo&ccedil;&atilde;o das camadas do bloco durante o processo, considerando que a cada varredura uma camada de espessura de 1 mm &eacute; removida. Na primeira varredura, o peda&ccedil;o numerado como 1 &eacute; removido; na segunda varredura, o peda&ccedil;o numerado como 2 &eacute; removido, e assim por diante. Durante o processo de remo&ccedil;&atilde;o, o laser foi ligado um total de 7 vezes, uma vez para cada peda&ccedil;o de bloco removido.</p>
 
-<p><img alt="" src="https://onlinejudgeimages.s3.amazonaws.com/problem/13676/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202017-01-12%20%EC%98%A4%EC%A0%84%206.52.54.png" style="height:163px; width:617px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/13676.%E2%80%85Escultura%E2%80%85a%E2%80%85Laser/ac2b9727.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/13676/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202017-01-12%20%EC%98%A4%EC%A0%84%206.52.54.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:163px; width:617px" /></p>
 
 <p>Escreva um programa que, dados a altura do bloco, o comprimento do bloco, e a forma final que o bloco deve ter, determine o n&uacute;mero total vezes de que o laser deve ser ligado para esculpir o bloco.</p>
 

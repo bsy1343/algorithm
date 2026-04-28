@@ -20,7 +20,7 @@
 
 <p>세일러복을 만들기 위해서는 두 가지 재료가 필요하다. 바로 하얀 티셔츠와 세일러 카라이다. 둘을 사용해서 세일러복을 만드는 방법은 다음과 같다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://i.imgur.com/p3KlnTY.png" style="width: 582px; height: 816px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/18138.%E2%80%85%EB%A6%AC%EC%9C%A0%EB%82%98%EB%8A%94%E2%80%85%EC%84%B8%EC%9D%BC%EB%9F%AC%EB%B3%B5%EC%9D%84%E2%80%85%EC%A2%8B%EC%95%84%ED%95%B4/7401314c.png" data-original-src="https://i.imgur.com/p3KlnTY.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 582px; height: 816px;" /></p>
 
 <p style="text-align: center;">그림 1: 세일러복의 제작 과정</p>
 

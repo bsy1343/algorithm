@@ -24,11 +24,11 @@
 
 <p>현우가 원기둥을 모두 배치하고 나면 틀에 석고를 부어 굳힌 뒤 모든 원기둥을 제거할 것이다. 그러면 여러 개의 분리된 석고 조각이 만들어진다. 예를 들어, 세로 길이가 1이고 가로 길이가 2인 직육면체 틀에 두 원기둥을 회전축이 바닥에 수직이도록 배치한다면 총 6개의 석고 조각이 만들어진다.</p>
 
-<p style="text-align:center;"><img alt="원기둥을 제거하고 난 뒤 분리된 여섯 개의 석고 조각" src="https://upload.acmicpc.net/c7f37e38-b8a4-4cb5-a820-d1dc03f1c392/-/preview/" style="max-width: 100%; width: 400px;" /></p>
+<p style="text-align:center;"><img alt="원기둥을 제거하고 난 뒤 분리된 여섯 개의 석고 조각" src="%EB%B0%B1%EC%A4%80/Gold/32031.%E2%80%85%EC%84%9D%EA%B3%A0%E2%80%85%EB%AA%A8%ED%98%95%E2%80%85%EB%A7%8C%EB%93%A4%EA%B8%B0/4e0946f3.png" data-original-src="https://upload.acmicpc.net/c7f37e38-b8a4-4cb5-a820-d1dc03f1c392/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="max-width: 100%; width: 400px;" /></p>
 
 <p>한편, 위 예시에서 원기둥 하나의 회전축이 세로를 향하도록 배치를 바꾼다면 총 5개의 석고 조각이 만들어진다.</p>
 
-<p style="text-align:center;"><img alt="윈기둥 하나의 회전축이 세로를 향하도록 한 뒤 만들어진 다섯 개의 석고 조각" src="https://upload.acmicpc.net/34c8406e-9bc9-4cdc-b894-3b915db3650f/-/preview/" style="max-width: 100%; width: 400px;" /></p>
+<p style="text-align:center;"><img alt="윈기둥 하나의 회전축이 세로를 향하도록 한 뒤 만들어진 다섯 개의 석고 조각" src="%EB%B0%B1%EC%A4%80/Gold/32031.%E2%80%85%EC%84%9D%EA%B3%A0%E2%80%85%EB%AA%A8%ED%98%95%E2%80%85%EB%A7%8C%EB%93%A4%EA%B8%B0/16b78078.png" data-original-src="https://upload.acmicpc.net/34c8406e-9bc9-4cdc-b894-3b915db3650f/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="max-width: 100%; width: 400px;" /></p>
 
 <p>현우가 틀에 원기둥을 배치하는 방법이 주어졌을 때, 총 몇 개의 석고 조각이 만들어질지 구해 보자.</p>
 

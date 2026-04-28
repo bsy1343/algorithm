@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/f80bcb1c-b0df-4f36-9a97-06debf3c87e2/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/7118.%E2%80%85Ones/395b6974.png" data-original-src="https://upload.acmicpc.net/f80bcb1c-b0df-4f36-9a97-06debf3c87e2/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>The form of a natural number a in a number system with base p contains of n ones (digts &quot;1&quot;) in a row.</p>
 

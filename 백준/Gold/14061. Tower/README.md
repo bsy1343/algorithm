@@ -22,7 +22,7 @@
 
 <p>In other words, a building numbered i will receive messages from the tower only when: the building i is to the west of the tower; i is not higher than the tower; and there is no other building j between them (j &gt; i), which is higher than building i.</p>
 
-<p style="text-align: center;"><img alt="" src="https://onlinejudgeimages.s3.amazonaws.com/problem/14061/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-12-22%20%EC%98%A4%ED%9B%84%208.34.52.png" style="height:189px; width:580px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/14061.%E2%80%85Tower/a5c37b95.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/14061/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-12-22%20%EC%98%A4%ED%9B%84%208.34.52.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:189px; width:580px" /></p>
 
 <p>Look at the example in the figure above: the buildings, which are able to receive messages, are with numbers 2, 5, 6, and 9.</p>
 
@@ -49,4 +49,4 @@
 
 <p>Explanation: On the picture below, the optimal location of the tower is given. Messages are received by buildings with numbers 2, 5, 6, 7 and 8.</p>
 
-<p style="text-align: center;"><img alt="" src="https://onlinejudgeimages.s3.amazonaws.com/problem/14061/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-12-22%20%EC%98%A4%ED%9B%84%208.36.18.png" style="height:196px; width:580px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/14061.%E2%80%85Tower/8c8b168f.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/14061/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-12-22%20%EC%98%A4%ED%9B%84%208.36.18.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:196px; width:580px" /></p>

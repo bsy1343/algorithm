@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/6dbb3666-1f65-492b-9757-7f77a05f5d5c/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/30417.%E2%80%85%EC%BF%A0%ED%82%A4%EB%A5%BC%E2%80%85%EC%A2%8B%EC%95%84%ED%95%98%EB%8A%94%E2%80%85%EC%B6%98%EB%B0%B0/b1280280.png" data-original-src="https://upload.acmicpc.net/6dbb3666-1f65-492b-9757-7f77a05f5d5c/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>오늘도 하루 만에 집에 있는 모든 쿠키를 다 먹은 춘배는 시원에게 쿠키 가게에서 이벤트를 한다는 이야기를 듣고 쿠키 가게에 가기로 했다.</p>
 

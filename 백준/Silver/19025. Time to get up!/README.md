@@ -18,7 +18,7 @@
 
 <p>Little Q&#39;s alarm is ringing! It&#39;s time to get up now! However, after reading the time on the clock, Little Q lies down and starts sleeping again. Well, he has five alarms, and it&#39;s just the first one, he can continue sleeping for a while.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/d9b66f26-5dc6-44dc-8fc0-f50d34972c0c/-/preview/" style="width: 320px; height: 48px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/19025.%E2%80%85Time%E2%80%85to%E2%80%85get%E2%80%85up!/6b8fad42.png" data-original-src="https://upload.acmicpc.net/d9b66f26-5dc6-44dc-8fc0-f50d34972c0c/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 320px; height: 48px;" /></p>
 
 <p>Little Q&#39;s clock uses a standard 7-segment LCD display for all digits, plus two small segments for the &quot;<code>:</code>&quot;, and shows all times in 24-hour format. The &quot;<code>:</code>&quot; segments are on at all times.</p>
 

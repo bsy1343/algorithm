@@ -20,7 +20,7 @@
 
 <p>Your goal is to divide the cards into two groups in such a way that the sum of the numbers in the first group is equal to the product of the numbers in the second group. Each card must belong to exactly one of the two groups, and each group must contain at least one card. The sum or product of a group that consists of a single card is simply the number on that card.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/e1647cb9-527d-43ac-b01c-1c0aea1024ca/-/preview/" style="width: 329px; height: 100px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/22891.%E2%80%85Prime%E2%80%85Time/7e9cc21f.png" data-original-src="https://upload.acmicpc.net/e1647cb9-527d-43ac-b01c-1c0aea1024ca/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 329px; height: 100px;" /></p>
 
 <p>For example, in the image above, the left group has cards whose sum is 25 and the right group has cards whose product is 25. Therefore, this is a valid split into groups.</p>
 

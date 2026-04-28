@@ -20,8 +20,8 @@
 
 <p>Mr. K는 심심하지 않게&nbsp;케익 조각을 다음과&nbsp;같은 방법으로 잘라 먹으려고 한다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/a4bcf151-ad27-44a0-bd3c-2d6085dd21e7/-/preview/" style="width: 365px; height: 300px;" /><br />
-<img alt="" src="https://upload.acmicpc.net/4502381c-0fc9-4591-9215-311117229387/-/preview/" style="height: 400px; width: 855px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/20308.%E2%80%85SPC%E2%80%85%EC%BC%80%EC%9D%B4%ED%81%AC/1219af79.png" data-original-src="https://upload.acmicpc.net/a4bcf151-ad27-44a0-bd3c-2d6085dd21e7/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 365px; height: 300px;" /><br />
+<img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/20308.%E2%80%85SPC%E2%80%85%EC%BC%80%EC%9D%B4%ED%81%AC/182177ec.png" data-original-src="https://upload.acmicpc.net/4502381c-0fc9-4591-9215-311117229387/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 400px; width: 855px;" /></p>
 
 <p style="text-align: center;">- 예제 입력 1에 대해 케이크를 자를 수 있는 방법들 -</p>
 

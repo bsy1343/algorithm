@@ -17,7 +17,7 @@
 ### 문제 설명
 
 <div style="background:#eeeeee;border:1px solid #cccccc;padding:5px 10px;">
-<h2 style="text-align: center;"><img src="https://www.hyundai-autoever.com/common/images/img-our-field-navigation-03.jpg" style="width: 480px; height: 225px;" /></h2>
+<h2 style="text-align: center;"><img src="%EB%B0%B1%EC%A4%80/Bronze/25558.%E2%80%85%EB%82%B4%EB%B9%84%EA%B2%8C%EC%9D%B4%EC%85%98/1fc8842c.jpg" data-original-src="https://www.hyundai-autoever.com/common/images/img-our-field-navigation-03.jpg" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 480px; height: 225px;" /></h2>
 
 <h2 style="text-align: center;">위치 기반 서비스 분야의 독보적인 기술력</h2>
 

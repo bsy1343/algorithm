@@ -59,7 +59,7 @@ XXXXXXXX
 
 <p>Example barricade configuration:</p>
 
-<p><img alt="" src="/upload/images2/dropzone.png" style="height:99px; width:97px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/9427.%E2%80%85Drop%E2%80%85Zone/cba7988b.png" data-original-src="https://www.acmicpc.net/upload/images2/dropzone.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:99px; width:97px" /></p>
 
 <p>Solution: 3</p>
 

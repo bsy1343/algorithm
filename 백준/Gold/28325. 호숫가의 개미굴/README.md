@@ -22,7 +22,7 @@
 
 <p>예를 들어 $N = 7$이고, $C = [3,0,0,1,0,2,0]$인 개미굴은 아래 그림과 같은 형태이다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/bf045d97-0759-4480-9d77-6f369b75d711/-/preview/" style="width: 595px; height: 334px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/28325.%E2%80%85%ED%98%B8%EC%88%AB%EA%B0%80%EC%9D%98%E2%80%85%EA%B0%9C%EB%AF%B8%EA%B5%B4/60bbcc5d.png" data-original-src="https://upload.acmicpc.net/bf045d97-0759-4480-9d77-6f369b75d711/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 595px; height: 334px;" /></p>
 
 <p>개미굴의 각 방과 쪽방에는 최대 한 마리의 개미가 살 수 있다. 만약 통로로 직접 연결되어 있는 두 곳(방 또는 쪽방) 모두에 개미가 살고 있다면, 두 개미는 서로 불편해한다. 이러한 불편함을 방지하기 위해, 현재 개미굴의 각 통로가 직접 연결하는 두 곳 중 최대 한 곳에만 개미가 살고 있다.</p>
 

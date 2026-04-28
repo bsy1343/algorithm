@@ -26,7 +26,7 @@
 	<li>Moreover, d<sub>T1</sub>(u,v)=d<sub>T2</sub>(f(u),f(v))for every(u,v) &isin; E<sub>1</sub>.</li>
 </ol>
 
-<p><img alt="" src="https://onlinejudgeimages.s3.amazonaws.com/problem/13386/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-10-11%20%EC%98%A4%ED%9B%84%205.19.13.png" style="height:294px; width:540px" /><br />
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/13386.%E2%80%85Tree%E2%80%85Count/0ccb3683.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/13386/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-10-11%20%EC%98%A4%ED%9B%84%205.19.13.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:294px; width:540px" /><br />
 Figure 1: Trees T<sub>1</sub> and T<sub>2</sub> are similar.</p>
 
 <p>In Figure 1, trees T<sub>1 </sub>and T<sub>2</sub> are similar according to the definition. The bijection is as drawn in the figure. Furthermore, it can be verified, for instance, that (v<sub>1</sub>,v<sub>2</sub>)= 1 - 9 = -8 = 9 - 17 = (v<sub>4</sub>, v<sub>5</sub>) and (v<sub>2</sub>, v<sub>4</sub>) = 9 - 6 = 3 = 17 - 14 = (v<sub>5</sub>, v<sub>1</sub>). Also, (v<sub>2</sub>, v<sub>3</sub>) = 9 - 7 = 2 = 17 - 15 = (v<sub>5</sub>, v<sub>3</sub>).</p>

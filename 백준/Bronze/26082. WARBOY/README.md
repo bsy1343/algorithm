@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/6a1d64e7-3819-40b4-8ae3-f26f04a02e7b/-/preview/" style="height: 272px; width: 500px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/26082.%E2%80%85WARBOY/58d7012a.png" data-original-src="https://upload.acmicpc.net/6a1d64e7-3819-40b4-8ae3-f26f04a02e7b/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 272px; width: 500px;" /></p>
 
 <blockquote>
 <p>Furiosa AI에서는 AI 연산에 최적화된 반도체인 WARBOY란 이름의 NPU(Neural Processing Unit)를 만들고 있다. NPU는 인공지능 모델의 학습 및 추론을 기존의 처리 유닛보다 훨씬 빠르게 할 수 있다.</p>

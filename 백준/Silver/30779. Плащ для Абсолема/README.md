@@ -25,13 +25,13 @@
 	<li>Рассматриваются все прямые с угловым коэффициентом 1 (лежащие под углом 45<sup>◦</sup> к оси абсцисс и направленные вверх и вправо), которые проходят хотя бы через один узел плаща. Эти прямые упорядочиваются слева направо (по тому, какая из них раньше (левее) пересекает ось абсцисс); самая левая прямая имеет номер ноль, а самая правая &mdash; N + M.</li>
 </ul>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/3b82041d-7835-424c-b2ed-5d021a6e593b/-/preview/" style="width: 212px; height: 143px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/30779.%E2%80%85%D0%9F%D0%BB%D0%B0%D1%89%E2%80%85%D0%B4%D0%BB%D1%8F%E2%80%85%D0%90%D0%B1%D1%81%D0%BE%D0%BB%D0%B5%D0%BC%D0%B0/e618d849.png" data-original-src="https://upload.acmicpc.net/3b82041d-7835-424c-b2ed-5d021a6e593b/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 212px; height: 143px;" /></p>
 
 <p style="text-align: center;">Плащ размером 7 &times; 4.</p>
 
 <p>Точки, лежащие на i-й прямой, красятся в цвет номер (i mod K)+1, то есть один плюс остаток от целочисленного деления i на K.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/f0e5af3c-212a-4fdf-8960-a948e2b48a6f/-/preview/" style="width: 212px; height: 145px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/30779.%E2%80%85%D0%9F%D0%BB%D0%B0%D1%89%E2%80%85%D0%B4%D0%BB%D1%8F%E2%80%85%D0%90%D0%B1%D1%81%D0%BE%D0%BB%D0%B5%D0%BC%D0%B0/df4ad184.png" data-original-src="https://upload.acmicpc.net/f0e5af3c-212a-4fdf-8960-a948e2b48a6f/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 212px; height: 145px;" /></p>
 
 <p>Плащ размером 7 &times; 4, покрашенный в три цвета (цвет 1 &mdash; красный, цвет 2 &mdash; зелёный, цвет 3 &mdash; синий).</p>
 
@@ -59,6 +59,6 @@
 
 <p>Во втором примере в каждый из двух цветов покрашено одинаковое число узлов плаща.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/4ca3a84f-0e8d-4b6e-89a0-6782ca6f8fb5/-/preview/" style="width: 99px; height: 122px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/30779.%E2%80%85%D0%9F%D0%BB%D0%B0%D1%89%E2%80%85%D0%B4%D0%BB%D1%8F%E2%80%85%D0%90%D0%B1%D1%81%D0%BE%D0%BB%D0%B5%D0%BC%D0%B0/d753d931.png" data-original-src="https://upload.acmicpc.net/4ca3a84f-0e8d-4b6e-89a0-6782ca6f8fb5/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 99px; height: 122px;" /></p>
 
 <p style="text-align: center;">Плащ размером 2 &times; 3, покрашенный в два цвета.</p>

@@ -18,7 +18,7 @@
 
 <p>아래 그림과 같이 박스 위쪽에 N개의 스위치, 아래쪽에는 그와 연결된 N개의 전구가 달린 스위칭 박스가 있다. 스위치는 왼쪽부터 1부터 N까지의 정수로 표시되고, 전구는 오른쪽부터 B<sub>1</sub>, B<sub>2</sub>, &hellip;, B<sub>N</sub>으로 표시된다.</p>
 
-<p style="text-align: center;"><img alt="" src="/upload/images/oowoe.png" style="width: 175px; height: 223px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/2552.%E2%80%85%EC%A0%84%EA%B5%AC%EC%88%AB%EC%9E%90/d3242a73.png" data-original-src="https://www.acmicpc.net/upload/images/oowoe.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 175px; height: 223px;" /></p>
 
 <p>각 스위치에는 하나의 전구만 연결되어 있고, 스위치를 누르면 연결된 전구에 불이 들어오게 된다. 예를 들어 4번 스위치를 누르면 B<sub>1</sub>에, 2번 스위치를 누르면 B<sub>6</sub>에 불이 들어온다.</p>
 

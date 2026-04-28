@@ -20,7 +20,7 @@
 
 <p>In this task, there is only one kind of lego block (with 2 &times; 2 &ldquo;knobs&rdquo;, see picture below), but it can have three diﬀerent colors: white (W), gray (G) or black (B). All blocks exist in unlimited amounts. You use a quadratic base with 6 &times; 6 knobs. Every block must have its edges parallel to this base and no block may extend outside of it. Every block must rest upon at least one underlying block.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/68af2cef-5e68-4339-afce-7a54fa2c7473/-/preview/" style="width: 321px; height: 82px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/2425.%E2%80%85Lego/e9467cc9.png" data-original-src="https://upload.acmicpc.net/68af2cef-5e68-4339-afce-7a54fa2c7473/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 321px; height: 82px;" /></p>
 
 <p>Left: An allowed way to place a block on top of another one. Center: An illegal way (the upper block hangs in the air). Right: Another illegal way (the upper block extends outside the base).</p>
 
@@ -36,6 +36,6 @@
 
 ### 힌트
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/b24407d6-4d76-4b32-82cf-34ebdaf005e2/-/preview/" style="width: 189px; height: 120px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/2425.%E2%80%85Lego/c13e02ab.png" data-original-src="https://upload.acmicpc.net/b24407d6-4d76-4b32-82cf-34ebdaf005e2/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 189px; height: 120px;" /></p>
 
 <p>One of the possible constructions in the example.</p>

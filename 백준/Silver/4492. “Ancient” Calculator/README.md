@@ -18,7 +18,7 @@
 
 <p>While travelling through the wilderness on Earth (and discussing the concept of a &lsquo;Zeroeth&rsquo; Robotic Law), R. Daneel Olivaw and R. Giskard Reventlov happened upon a small device protruding from the ground. After some initial analysis, the two robots determine it is an ancient calculating device. More specifically, it appears to be a four function calculator. Unfortunately the display is covered with centuries of debris which appears difficult to remove. Amazingly, the calculator still functions, but of course you can&rsquo;t see the results. This calculator has a display constructed from seven-segment LEDs, as shown here:</p>
 
-<p><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/4492/1.png" style="height:262px; width:648px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/4492.%E2%80%85%E2%80%9CAncient%E2%80%9D%E2%80%85Calculator/0b261151.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/4492/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:262px; width:648px" /></p>
 
 <p>This particular calculator only displays three digits of accuracy. There are three seven segment digits, and there are no decimal points since all math is performed using integers (with truncation where appropriate).</p>
 

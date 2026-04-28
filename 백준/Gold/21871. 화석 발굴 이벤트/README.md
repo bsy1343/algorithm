@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/b018cbaa-dba0-4175-9747-1e2cebd044fb/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/21871.%E2%80%85%ED%99%94%EC%84%9D%E2%80%85%EB%B0%9C%EA%B5%B4%E2%80%85%EC%9D%B4%EB%B2%A4%ED%8A%B8/3609602f.png" data-original-src="https://upload.acmicpc.net/b018cbaa-dba0-4175-9747-1e2cebd044fb/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p style="text-align: center;">[그림] $n=1$,&nbsp;$k=2$인&nbsp;운동장 상태</p>
 

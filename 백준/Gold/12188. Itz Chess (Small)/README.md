@@ -18,7 +18,7 @@
 
 <p>Given an arranged chess board with pieces, figure out the total number of different ways in which any piece can be killed&nbsp;<strong>in one move</strong>. Note: in this problem, the pieces can be killed despite of the color.</p>
 
-<p><img alt="" src="https://onlinejudgeimages.s3.amazonaws.com/problem/12188/images-2.jpeg" style="height:301px; opacity:0.9; width:301px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/12188.%E2%80%85Itz%E2%80%85Chess%E2%80%85(Small)/739152f7.jpeg" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/12188/images-2.jpeg" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:301px; opacity:0.9; width:301px" /></p>
 
 <p>For example, if there are 3 pieces King is at B2, Pawn at A1 and Queen at H8 then the total number of pieces that an be killed is 3. H8-Q can kill B2-K, A1-P can kill B2-K, B2-K can kill A1-P</p>
 

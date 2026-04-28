@@ -18,7 +18,7 @@
 
 <p>Gerard develops a Halloween computer game. The game is played on a rectangular graveyard with a rectangular chapel in it. During the game, the player places new rectangular graves on the graveyard. The grave should completely fit inside graveyard territory and should not overlap with the chapel. The grave may touch borders of the graveyard or the chapel.</p>
 
-<p style="text-align:center"><img alt="" src="/upload/images2/grave.png" style="height:225px; width:282px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/10378.%E2%80%85Grave/fe0591fe.png" data-original-src="https://www.acmicpc.net/upload/images2/grave.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:225px; width:282px" /></p>
 
 <p>Gerard asked you to write a program that determines whether it is possible to place a new grave of given size or there is no enough space for it.</p>
 

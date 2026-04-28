@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p><img alt="" src="/upload/images2/rp.jpg" style="float:right; height:178px; width:308px" />Given is n points with integer coordinates in the plane. Is it is possible to construct a simple, that is non-intersecting, rectilinear polygon with the given points as vertices? In a rectilinear polygon there are at least 4 vertices and every edge is either horizontal or vertical; each vertex is an endpoint of exactly one horizontal edge and one vertical edge. There are no holes in a polygon.</p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/4263.%E2%80%85Rectilinear%E2%80%85polygon/6e4c542a.jpg" data-original-src="https://www.acmicpc.net/upload/images2/rp.jpg" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="float:right; height:178px; width:308px" />Given is n points with integer coordinates in the plane. Is it is possible to construct a simple, that is non-intersecting, rectilinear polygon with the given points as vertices? In a rectilinear polygon there are at least 4 vertices and every edge is either horizontal or vertical; each vertex is an endpoint of exactly one horizontal edge and one vertical edge. There are no holes in a polygon.</p>
 
 <p>&nbsp;</p>
 

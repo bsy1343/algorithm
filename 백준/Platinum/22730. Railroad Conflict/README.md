@@ -28,9 +28,9 @@
 
 <p>以下の図は，サンプルとして与えた入力および出力の内容を示したものである．</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/13cd7556-f78e-4d1b-bd94-16b991dbc13e/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/22730.%E2%80%85Railroad%E2%80%85Conflict/bb5844a4.png" data-original-src="https://upload.acmicpc.net/13cd7556-f78e-4d1b-bd94-16b991dbc13e/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/aed842c1-303b-4d66-b725-bfa133c8927d/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/22730.%E2%80%85Railroad%E2%80%85Conflict/46aa1b14.png" data-original-src="https://upload.acmicpc.net/aed842c1-303b-4d66-b725-bfa133c8927d/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 ### 입력
 

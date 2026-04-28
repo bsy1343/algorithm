@@ -22,7 +22,7 @@
 
 <p>결투장에 들어간 미코토들은 방어력을 의미하는 <strong>오라</strong>와 생명력을 의미하는 <strong>라이프</strong>를 갖습니다. 라이프가 $0$ 이하가 되면 즉시 패배하게 됩니다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/73b19e53-29d3-479e-8c9a-8b42920c4368/-/preview/" /> <img alt="" src="https://upload.acmicpc.net/46d03482-1b78-4a77-9bae-c1b0690e523c/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/27163.%E2%80%85%EB%B2%9A%EA%BD%83%E2%80%85%EB%82%B4%EB%A6%AC%EB%8A%94%E2%80%85%EC%8B%9C%EB%8C%80%EC%97%90%E2%80%85%EA%B2%B0%ED%88%AC%EB%A5%BC/930c9530.png" data-original-src="https://upload.acmicpc.net/73b19e53-29d3-479e-8c9a-8b42920c4368/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /> <img alt="" src="%EB%B0%B1%EC%A4%80/Gold/27163.%E2%80%85%EB%B2%9A%EA%BD%83%E2%80%85%EB%82%B4%EB%A6%AC%EB%8A%94%E2%80%85%EC%8B%9C%EB%8C%80%EC%97%90%E2%80%85%EA%B2%B0%ED%88%AC%EB%A5%BC/c4c46d35.png" data-original-src="https://upload.acmicpc.net/46d03482-1b78-4a77-9bae-c1b0690e523c/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p style="text-align: center;">그림 E.1: 여신 하츠미의 공격 &#39;강산&#39;(「$3$/$1$」)과 &#39;오요기비 포화&#39;(「$2$/$2$」).</p>
 

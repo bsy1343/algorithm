@@ -20,13 +20,13 @@
 
 <p>이 토끼들은 소리로 소통을 하는데, 다른 굴까지 전해질 정도로 큰 소리를 내지는 못한다. 토끼들은 넘치는 공대 감성과 문제 해결 의식으로 새로운 통신 수단을 만들기로 했고, 마침내 주변의 잡동사니를 모아서 <strong>실 전화기</strong>를 만들어 냈다. 실 전화기는 실이 팽팽해야 진동을 온전히 전달할 수 있기 때문에, 하나의 실 전화기는 두 개의 굴 사이를 일직선으로 연결한다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/cd3e2830-ed23-4e0b-b257-e71388b0fc25/-/preview/" style="width: 351px; height: 340px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/23039.%E2%80%85%EC%8B%A4%E2%80%85%EC%A0%84%ED%99%94%EA%B8%B0/90536952.png" data-original-src="https://upload.acmicpc.net/cd3e2830-ed23-4e0b-b257-e71388b0fc25/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 351px; height: 340px;" /></p>
 
 <p style="text-align: center;">토끼굴들 사이에 5개의 실 전화기가 설치되어 있는 모습</p>
 
 <p>실 전화기의 문제는 두 전화기의 실이 겹치면 진동이 제대로 전달되지 않아 통신이 이뤄지지 않는다는 것이다. 전화기들의 높이가 서로 다르면 문제가 없겠지만, 토끼들은 키가 작아서 전화기의 높이를 자유롭게 조절할 수 없다. 따라서 이를 해결하려면 몇몇 토끼가 다른 적절한 위치로 굴을 옮겨야만 한다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/d40ecd53-51fb-4b71-853d-2da6328b6646/-/preview/" style="width: 420px; height: 340px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/23039.%E2%80%85%EC%8B%A4%E2%80%85%EC%A0%84%ED%99%94%EA%B8%B0/b4427653.png" data-original-src="https://upload.acmicpc.net/d40ecd53-51fb-4b71-853d-2da6328b6646/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 420px; height: 340px;" /></p>
 
 <p style="text-align: center;">2번 토끼굴이 왼쪽 아래로 옮겨가서 문제가 해결된 모습</p>
 

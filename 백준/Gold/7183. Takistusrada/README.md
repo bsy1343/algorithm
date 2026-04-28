@@ -38,6 +38,6 @@
 
 ### 힌트
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/d0986ae8-f61b-4400-8c2b-0592e547771a/-/preview/" style="width: 190px; height: 282px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/7183.%E2%80%85Takistusrada/c750648a.png" data-original-src="https://upload.acmicpc.net/d0986ae8-f61b-4400-8c2b-0592e547771a/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 190px; height: 282px;" /></p>
 
 <p>Lahendus: l&auml;&auml;nest, idast, l&otilde;unast, l&otilde;unast, idast.</p>

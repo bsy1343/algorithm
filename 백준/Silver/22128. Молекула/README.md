@@ -22,7 +22,7 @@
 
 <p>Для перестроения молекулы ученые могут осуществлять следующую операцию: непрерывная последовательность атомов вырезается из цикла и вставляется в другое место. Пример перестроения молекулы приведен на рисунке.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/d06d936b-1314-4e73-8e2f-bf110577ec4b/-/preview/" style="width: 324px; height: 263px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/22128.%E2%80%85%D0%9C%D0%BE%D0%BB%D0%B5%D0%BA%D1%83%D0%BB%D0%B0/c06fb361.png" data-original-src="https://upload.acmicpc.net/d06d936b-1314-4e73-8e2f-bf110577ec4b/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 324px; height: 263px;" /></p>
 
 <p>Теперь ученые пытаются выяснить, за какое минимальное число описанных операций можно привести молекулу в нестабильное состояние. Помогите им это выяснить.</p>
 

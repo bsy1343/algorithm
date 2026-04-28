@@ -33,7 +33,7 @@
 
 <p>See figure 1 which has 10 figures of which $a$, $b$, $e$, and $f$ are polygons. The dots are the end points of the line segments.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/96647987-ecdf-467b-be84-4e4cab9ea1ac/-/preview/" style="width: 512px; height: 500px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/32019.%E2%80%85Find%E2%80%85Poly/3506ea92.png" data-original-src="https://upload.acmicpc.net/96647987-ecdf-467b-be84-4e4cab9ea1ac/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 512px; height: 500px;" /></p>
 
 <p style="text-align: center;">Figure 1: 10 figures, 4 polygons</p>
 

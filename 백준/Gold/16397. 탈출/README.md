@@ -20,7 +20,7 @@
 
 <p>홍익이는 좁은 방에서 눈을 떴다. 주변을 살펴보니 벽면에는 LED로 된 다섯 자리 십진수&nbsp;N이,&nbsp;그 옆에 T, G라는 알파벳과 함께 또 다른 정수 두 개가 쓰여 있었고, 벽 앞에는 버튼 A, B 두 개가 있었다.</p>
 
-<p><img alt="" src="https://upload.acmicpc.net/ffbd9cb1-ce04-4950-8bfc-0dd27712164c/" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/16397.%E2%80%85%ED%83%88%EC%B6%9C/c3003bc0.png" data-original-src="https://upload.acmicpc.net/ffbd9cb1-ce04-4950-8bfc-0dd27712164c/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>버튼을 이리저리 눌러보던 똑똑한 홍익이는 어떻게 해야 방을 탈출할 수 있을지 금방 눈치챘다.</p>
 

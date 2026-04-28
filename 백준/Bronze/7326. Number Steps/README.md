@@ -18,7 +18,7 @@
 
 <p>Starting from point (0,0) on a plane, we have written all non-negative integers 0,1,2,... as shown in the figure. For example, 1, 2, and 3 has been written at points (1,1), (2,0), and (3,1) respectively and this pattern has continued.</p>
 
-<p><img alt="" src="https://onlinejudgeimages.s3.amazonaws.com/problem/7326/p2052.gif" style="height:197px; width:218px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/7326.%E2%80%85Number%E2%80%85Steps/3606f605.gif" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/7326/p2052.gif" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:197px; width:218px" /></p>
 
 <p>You are to write a program that reads the coordinates of a point (x, y), and writes the number (if any) that has been written at that point. (x, y) coordinates in the input are in the range 0...5000.</p>
 

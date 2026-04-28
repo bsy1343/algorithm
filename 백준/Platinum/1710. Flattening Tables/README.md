@@ -20,23 +20,23 @@
 
 <p>For the purposes of this task, you will be working with a subset of HTML even smaller than the subset that Mensa generally uses. Your subset includes only very simple text and well-formed tables, and can be described by the following grammar:</p>
 
-<p><img alt="" src="https://onlinejudgeimages.s3.amazonaws.com/problem/1710/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202017-01-12%20%EC%98%A4%EC%A0%84%208.45.22.png" style="height:152px; width:460px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/1710.%E2%80%85Flattening%E2%80%85Tables/2cf531ab.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/1710/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202017-01-12%20%EC%98%A4%EC%A0%84%208.45.22.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:152px; width:460px" /></p>
 
-<p>(&lsquo;. . . &rsquo; indicates that the preceding grammar element may appear in the expansion zero or more times. Whitespace in the grammar is for clarity only; the only whitespace that actually appears in this HTML subset language is the spaces shown explicitly as &lsquo;<img alt="" src="https://onlinejudgeimages.s3.amazonaws.com/problem/1710/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202017-01-12%20%EC%98%A4%EC%A0%84%208.48.06.png" style="height:11px; width:10px" />&rsquo; in the ROWSPAN and COLSPAN elements.)</p>
+<p>(&lsquo;. . . &rsquo; indicates that the preceding grammar element may appear in the expansion zero or more times. Whitespace in the grammar is for clarity only; the only whitespace that actually appears in this HTML subset language is the spaces shown explicitly as &lsquo;<img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/1710.%E2%80%85Flattening%E2%80%85Tables/24bfe107.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/1710/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202017-01-12%20%EC%98%A4%EC%A0%84%208.48.06.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:11px; width:10px" />&rsquo; in the ROWSPAN and COLSPAN elements.)</p>
 
 <p>All ROWs in a TABLE will each contain the same number of CELLs, except for when cells are omitted due to preceding spanned cells above them or to their left. For example, the following snippets of HTML source code specify the tables shown alongside them. Notice how in the second example the first cell in the second row is omitted and &lsquo;&lt;td&gt;C&lt;/td&gt;&rsquo; actually defines the row&rsquo;s second cell.</p>
 
-<p><img alt="" src="https://onlinejudgeimages.s3.amazonaws.com/problem/1710/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202017-01-12%20%EC%98%A4%EC%A0%84%208.48.48.png" style="height:161px; width:530px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/1710.%E2%80%85Flattening%E2%80%85Tables/cd85e748.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/1710/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202017-01-12%20%EC%98%A4%EC%A0%84%208.48.48.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:161px; width:530px" /></p>
 
 <p>Tables can be nested, which occurs when the CONTENTS for one or more cells is another TABLE rather than simply being TEXT. Mensa&rsquo;s graphic design department produces layouts which never use row or column spans (so their cell start tags are always simply &lsquo;&lt;td&gt;&rsquo;) but often use nested tables. They will even nest tables within several cells in different areas of a table, but never more than one on the same row or column of the enclosing table.</p>
 
 <p>For example, this HTML source code produces the nested layout shown on the left:</p>
 
-<p><img alt="" src="https://onlinejudgeimages.s3.amazonaws.com/problem/1710/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202017-01-12%20%EC%98%A4%EC%A0%84%208.49.45.png" style="height:269px; width:527px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/1710.%E2%80%85Flattening%E2%80%85Tables/f370ebd5.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/1710/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202017-01-12%20%EC%98%A4%EC%A0%84%208.49.45.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:269px; width:527px" /></p>
 
 <p>The layout on the right is a single 4 by 4 table containing cells that are laid-out equivalently to the nested layout on the left. (The cells are not the same size or shape, but that is something that will be taken care of by the graphic designer in the final tidying up.) This layout is produced by the following HTML source code:</p>
 
-<p><img alt="" src="https://onlinejudgeimages.s3.amazonaws.com/problem/1710/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202017-01-12%20%EC%98%A4%EC%A0%84%208.50.40.png" style="height:100px; width:500px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/1710.%E2%80%85Flattening%E2%80%85Tables/bb20f05f.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/1710/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202017-01-12%20%EC%98%A4%EC%A0%84%208.50.40.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:100px; width:500px" /></p>
 
 <p>Your task is to take nested table layouts as produced by the graphic design department and transform them into equivalent layouts using a single table, introducing row and column spans as necessary.</p>
 

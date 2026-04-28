@@ -36,6 +36,6 @@
 
 ### 힌트
 
-<p style="text-align: center;"><img alt="첫 번째 예제에 대한 그림" height="240" src="https://upload.acmicpc.net/485e04a2-aaba-4e2b-aa95-ae655e2e00ba/-/preview/" width="395" /></p>
+<p style="text-align: center;"><img alt="첫 번째 예제에 대한 그림" height="240" src="%EB%B0%B1%EC%A4%80/Gold/16118.%E2%80%85%EB%8B%AC%EB%B9%9B%E2%80%85%EC%97%AC%EC%9A%B0/4490ff48.png" data-original-src="https://upload.acmicpc.net/485e04a2-aaba-4e2b-aa95-ae655e2e00ba/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" width="395" /></p>
 
 <p>5번 그루터기에 달빛을 비추면 달빛 여우가 달빛 늑대보다 먼저 도착할 수 있다. 4번 그루터기에 달빛을 비추면 달빛 여우와 달빛 늑대가 동시에 도착한다.</p>

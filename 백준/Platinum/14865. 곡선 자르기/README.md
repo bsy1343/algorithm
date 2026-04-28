@@ -20,11 +20,11 @@
 
 <p>창수는 마우스를 이용하여 캔버스에 그림을 그리고 있다. 지금은 캔버스에 곡선을 그리는데, 시작점과 끝점이 붙어있는 것 외에는 중간에 선이 교차하거나 붙는 경우가 없다. 곡선을 다 그린 다음, 캔버스에서 x축의 아래쪽 영역을 깨끗이 지우면 아래 그림처럼 경계선이 서로 만나지 않는 봉우리들의 패턴이 나타난다. 여기서 봉우리는 시작점과 끝점이 x축 상에 있는 곡선 부분과 x축으로 둘러싸인 영역을 말한다. 아래 그림의 예에서는 5개의 봉우리가 나타난다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14865/1.png" style="height:292px; width:187px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/14865.%E2%80%85%EA%B3%A1%EC%84%A0%E2%80%85%EC%9E%90%EB%A5%B4%EA%B8%B0/722d8d56.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14865/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:292px; width:187px" /></p>
 
 <p>마우스로 그린 곡선은 컴퓨터에 의해 수직 선분과 수평 선분들로 구성된 경로의 형태로 메모리에 저장된다. 따라서 창수가 그린 곡선의 경우는 수평 선분과 수직 선분이 한 번씩 번갈아가며 이어진 경계선을 가진 직교다각형의 형태로 저장된다. 이 직교다각형의 모든 꼭짓점은 서로 다르며, 연속한 두 변 이외에는 어떤 두 변도 만나지 않는다. 직교 다각형의 형태로 변환된 예를 아래 그림에서 볼 수 있다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14865/2.png" style="height:145px; width:188px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/14865.%E2%80%85%EA%B3%A1%EC%84%A0%E2%80%85%EC%9E%90%EB%A5%B4%EA%B8%B0/9a084065.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14865/2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:145px; width:188px" /></p>
 
 <p>창수는 이 직교다각형을 입력으로 받아 x축의 위쪽 영역에 나타나는 봉우리들 중에서, 다른 봉우리에 의해 포함되지 않는 봉우리 개수와 다른 봉우리를 포함하지 않는 봉우리 개수를 구하는 프로그램을 작성하려고 한다. 위 그림에서는 다른 봉우리에 의해 포함되지 않는 봉우리 개수는 3이고 다른 봉우리를 포함하지 않는 봉우리 개수는 4이다.</p>
 
@@ -40,4 +40,4 @@
 
 <p>※ 입력(1)의 직교다각형을 그림으로 나타내면 아래와 같다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14865/3.png" style="height:118px; width:158px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/14865.%E2%80%85%EA%B3%A1%EC%84%A0%E2%80%85%EC%9E%90%EB%A5%B4%EA%B8%B0/d61eb05f.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14865/3.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:118px; width:158px" /></p>

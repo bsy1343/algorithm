@@ -38,7 +38,7 @@
 
 ### 힌트
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/a4a9975b-7d1f-4456-a2fc-aa8cb940d862/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/8621.%E2%80%85Magazyny/0ced66af.png" data-original-src="https://upload.acmicpc.net/a4a9975b-7d1f-4456-a2fc-aa8cb940d862/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>Na powyższym rysunku liczby w kwadratach oznaczają masy towaru znajdującego się w poszczeg&oacute;lnych magazynach, a pozostałe liczby odpowiadają numerom miast, w kt&oacute;rych te magazyny się znajdują. W tym przypadku dążeniem Bajtazara jest, aby w każdym magazynie znalazły się $12/6=2$&nbsp;tony towaru. Jednym ze sposob&oacute;w zrealizowania tego zadania o optymalnym koszcie $10$&nbsp;jest:</p>
 

@@ -24,7 +24,7 @@
 
 <p>Например, если у Димы есть фигура и препятствие, показанные на рисунке ниже, выгоднее всего уронить фигуру следующим образом:</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/928c7f8e-cdb9-4e53-bd5d-f9a6c9b19f5c/-/preview/" style="width: 628px; height: 195px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/19758.%E2%80%85%D0%93%D0%BE%D0%BB%D0%BE%D0%B2%D0%BE%D0%BB%D0%BE%D0%BC%D0%BA%D0%B0/e7d08a9b.png" data-original-src="https://upload.acmicpc.net/928c7f8e-cdb9-4e53-bd5d-f9a6c9b19f5c/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 628px; height: 195px;" /></p>
 
 <p>В этом случае количество очков, набранных Димой, будет равно 4.</p>
 

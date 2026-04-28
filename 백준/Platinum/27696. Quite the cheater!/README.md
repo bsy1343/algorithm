@@ -32,7 +32,7 @@
 	<li>10 &le; n &le; 1000</li>
 	<li>Each a<sub>i</sub> is an integer between &minus;10<sup>9</sup> and 10<sup>9</sup>, inclusive.</li>
 	<li>The value &mu; is exactly the mean: &mu; = (a<sub>1</sub> + ⋯ + a<sub>n</sub>)∕n.</li>
-	<li>The variance of your values is computed as follows: (1∕n) &sdot;<img align="middle" alt="(" src="https://ipsc.ksp.sk/2013/practice/problems/q0x.png" />(a<sub>1</sub> &minus; &mu;)<sup>2</sup> + ⋯ + (a<sub>n</sub> &minus; &mu;)<sup>2</sup><img align="middle" alt=")" src="https://ipsc.ksp.sk/2013/practice/problems/q1x.png" />.
+	<li>The variance of your values is computed as follows: (1∕n) &sdot;<img align="middle" alt="(" src="%EB%B0%B1%EC%A4%80/Platinum/27696.%E2%80%85Quite%E2%80%85the%E2%80%85cheater!/7272ee4b.png" data-original-src="https://ipsc.ksp.sk/2013/practice/problems/q0x.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" />(a<sub>1</sub> &minus; &mu;)<sup>2</sup> + ⋯ + (a<sub>n</sub> &minus; &mu;)<sup>2</sup><img align="middle" alt=")" src="%EB%B0%B1%EC%A4%80/Platinum/27696.%E2%80%85Quite%E2%80%85the%E2%80%85cheater!/c3d918ec.png" data-original-src="https://ipsc.ksp.sk/2013/practice/problems/q1x.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" />.
 	<p>(If you are a statistics buﬀ, note that we are not using the unbiased sample variance formula (the one with 1∕(n&minus;1) instead of 1∕n), as in our case the mean is known a priori. If the previous sentence makes no sense, just ignore it and use the formula in the problem statement.)</p>
 	</li>
 </ul>

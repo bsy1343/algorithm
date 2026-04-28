@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p><img alt="" src="https://upload.acmicpc.net/4b89857a-42dc-442d-a7e3-78a410174e1f/-/preview/" style="width: 357px; height: 160px; float: left;" />Elena susirado dėžę pilną kubo formos kaladėlių ir nutarė pastatyti kuo didesnę piramidę, o jei liks &ndash; dar kelias.</p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/7238.%E2%80%85Piramid%C4%97s/d1a3b2d1.png" data-original-src="https://upload.acmicpc.net/4b89857a-42dc-442d-a7e3-78a410174e1f/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 357px; height: 160px; float: left;" />Elena susirado dėžę pilną kubo formos kaladėlių ir nutarė pastatyti kuo didesnę piramidę, o jei liks &ndash; dar kelias.</p>
 
 <p>Statomos piramidės turi būti stabilios ir gražios, todėl jei piramidės pagrindą sudaro k kaladėlių, tai antroje eilėje būtinai turi būti k &minus; 1 kaladėlė ir t. t. Užbaigta piramidė privalo turėti k auk&scaron;tų, t. y., piramidės vir&scaron;utiniame auk&scaron;te visada bus 1 kaladėlė.</p>
 

@@ -28,7 +28,7 @@
 
 <p>Agora ela gostaria de saber, dada uma configura&ccedil;&atilde;o de uma matriz e uma cole&ccedil;&atilde;o de palavras, quantas c&eacute;lulas especiais existem?</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/37f0062b-1d69-412e-b14d-d908bdb8a894/-/preview/" style="width: 322px; height: 248px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/20287.%E2%80%85Lavaspar/b04776f2.png" data-original-src="https://upload.acmicpc.net/37f0062b-1d69-412e-b14d-d908bdb8a894/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 322px; height: 248px;" /></p>
 
 <p>A imagem acima ilustra o primeiro exemplo, onde a cole&ccedil;&atilde;o de palavras consiste de tr&ecirc;s palavras: BOLA, CASA&nbsp;e BOI. Os ret&acirc;ngulos de cada cor representam anagramas de palavras diferentes da entrada. As 3 c&eacute;lulas especiais est&atilde;o pintadas de amarelo.</p>
 

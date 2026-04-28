@@ -25,7 +25,7 @@
 	<li>H&uuml;ppeks nimetame nupu liigutamist &uuml;le naaberruudul oleva nupu vahetult selle taga olevale t&uuml;hjale ruudule samas reas v&otilde;i samas veerus. H&uuml;pata v&otilde;ib ainult &uuml;le &uuml;he nupu, nagu n&auml;idatud alloleval joonisel keskel (rohelise noole suunas saab h&uuml;pata, punase suunas ei saa). Erinevalt kabest &uuml;le teise nupu h&uuml;ppamine teist nuppu kuidagi ei m&otilde;juta. H&uuml;ppek&auml;ik v&otilde;ib koosneda &uuml;hest v&otilde;i mitmest j&auml;rjestikusest h&uuml;ppest sama nupuga, nagu n&auml;idatud alloleval joonisel paremal. H&uuml;pete jada ei pea olema maksimaalse pikkusega: m&auml;ngija v&otilde;ib k&auml;igu oma soovi kohaselt igal hetkel l&otilde;petada, isegi kui tal oleks v&otilde;imalik veel edasi h&uuml;pata.</li>
 </ul>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/296898da-7b8d-47fb-b284-26cc600a49fb/-/preview/" style="width: 600px; height: 200px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/29897.%E2%80%85Halma/4c70f073.png" data-original-src="https://upload.acmicpc.net/296898da-7b8d-47fb-b284-26cc600a49fb/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 600px; height: 200px;" /></p>
 
 <p>Kirjutada programm, mis saab m&auml;nguseisu ja leiab sellel k&otilde;ik ruudud, millele antud nupp &uuml;he k&auml;iguga j&otilde;uda v&otilde;ib.</p>
 

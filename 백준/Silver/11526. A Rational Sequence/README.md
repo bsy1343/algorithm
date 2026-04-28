@@ -28,7 +28,7 @@
 
 <p>The top of the tree is shown in the following figure:</p>
 
-<p style="text-align: center;"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11526/1.png" style="height:291px; width:564px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/11526.%E2%80%85A%E2%80%85Rational%E2%80%85Sequence/f7ce5e1b.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11526/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:291px; width:564px" /></p>
 
 <p>The sequence is defined by doing a level order (breadth first) traversal of the tree (indicated by the light dashed line). So that:</p>
 

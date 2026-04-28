@@ -32,7 +32,7 @@
 
 <p>The figure below shows two possible solutions for a proglute with five pegs:</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/335fff12-e23d-4b06-b05b-6cba430af174/-/preview/" style="width: 238px; height: 111px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/30581.%E2%80%85Proglute/eda3ebe6.png" data-original-src="https://upload.acmicpc.net/335fff12-e23d-4b06-b05b-6cba430af174/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 238px; height: 111px;" /></p>
 
 ### 입력
 

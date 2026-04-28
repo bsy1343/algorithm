@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/7e8ca323-cce1-4d9c-ae65-79f312de6481/-/preview/" style="height: 330px; width: 300px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/31923.%E2%80%85%EB%A7%88%EB%9D%BC%ED%83%95%ED%9B%84%EB%A3%A8/89243ba2.png" data-original-src="https://upload.acmicpc.net/7e8ca323-cce1-4d9c-ae65-79f312de6481/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 330px; width: 300px;" /></p>
 
 <blockquote>
 <p>그럼 제가 선배 맘에</p>

@@ -26,7 +26,7 @@
 
 <p>Teo and the EJOI team are in a labyrinth consisting of n &times; m rooms, all of the same size. The rooms form a grid. The top-left room is labeled with (1, 1), and the bottom-right with (n, m). Between each pair of adjacent rooms, there is a door colored in one of four colors: blue (marked with &#39;<code>P</code>&#39;), red (marked with &#39;<code>C</code>&#39;), green (marked with &#39;<code>Z</code>&#39;) and orange (marked with &#39;<code>N</code>&#39;).</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/07d2af78-ec5e-495c-8c72-923f009c99c1/-/preview/" style="width: 242px; height: 243px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/30650.%E2%80%85Labirint/87c530c9.png" data-original-src="https://upload.acmicpc.net/07d2af78-ec5e-495c-8c72-923f009c99c1/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 242px; height: 243px;" /></p>
 
 <p style="text-align: center;">Illustration of the third example. The black circle marks the room in which Teo and Gabriel are located at in the fourth question, and the white circle marks the room in which Vito, Ivo and Dino are located at. The gray path is one of the possible paths that passes through three different door colors.</p>
 

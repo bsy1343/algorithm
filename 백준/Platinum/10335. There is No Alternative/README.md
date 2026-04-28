@@ -24,13 +24,13 @@
 
 <p>However, it is difficult for him to select the most cost-efficient set of bridges among those connecting all the islands. For example, three sets of bridges connect all the islands for the Sample Input 1. The bridges in each set are expressed by bold edges in Figure F.1.</p>
 
-<p style="text-align: center;"><img alt="" src="/upload/images2/no-alter.png" style="height:199px; width:755px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/10335.%E2%80%85There%E2%80%85is%E2%80%85No%E2%80%85Alternative/6d0e0887.png" data-original-src="https://www.acmicpc.net/upload/images2/no-alter.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:199px; width:755px" /></p>
 
 <p style="text-align: center;">Figure F.1. Three sets of bridges connecting all the islands for Sample Input 1</p>
 
 <p>As the first step, he decided to build only those bridges which are contained in all the sets of bridges to connect all the islands and minimize the cost. We refer to such bridges as no alternative bridges. In Figure F.2, no alternative bridges are drawn as thick edges for the Sample Input 1, 2 and 3.</p>
 
-<p style="text-align: center;"><img alt="" src="/upload/images2/no-alter-2.png" style="height:206px; width:740px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/10335.%E2%80%85There%E2%80%85is%E2%80%85No%E2%80%85Alternative/28597cba.png" data-original-src="https://www.acmicpc.net/upload/images2/no-alter-2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:206px; width:740px" /></p>
 
 <p style="text-align: center;">Figure F.2. No alternative bridges for Sample Input 1, 2 and 3</p>
 

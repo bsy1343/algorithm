@@ -18,7 +18,7 @@
 
 <p>Katya has a younger brother Denis, who loves puzzles. It seemed to him that he had already solved all the puzzles in the world. But, one day, returning from school with Katya, he noticed a vending machine with a puzzle that he has never seen before. He asked Katya to play with this machine and win a new puzzle.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/df15c5a8-ac20-42fa-99d2-1284727c79f0/-/preview/" style="width: 200px; height: 196px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/21885.%E2%80%85New%E2%80%85Puzzle/bab6a6a5.png" data-original-src="https://upload.acmicpc.net/df15c5a8-ac20-42fa-99d2-1284727c79f0/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 200px; height: 196px;" /></p>
 
 <p style="text-align: center;">Vending machine from the first example, before the start of the game.</p>
 

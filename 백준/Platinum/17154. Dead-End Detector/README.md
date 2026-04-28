@@ -25,8 +25,8 @@
 <table class="table table-bordered" style="width: 100%;">
 	<tbody>
 		<tr>
-			<td style="width: 50%; text-align: center;"><img alt="" src="https://upload.acmicpc.net/3a83ae42-86e6-4de9-bf9e-a8ae722c7933/-/preview/" style="width: 194px; height: 152px;" /></td>
-			<td style="width: 50%; text-align: center;"><img alt="" src="https://upload.acmicpc.net/08c618b5-d4c5-4762-b831-c6c3a0aa0f75/-/preview/" style="width: 188px; height: 170px;" /></td>
+			<td style="width: 50%; text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/17154.%E2%80%85Dead-End%E2%80%85Detector/70235774.png" data-original-src="https://upload.acmicpc.net/3a83ae42-86e6-4de9-bf9e-a8ae722c7933/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 194px; height: 152px;" /></td>
+			<td style="width: 50%; text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/17154.%E2%80%85Dead-End%E2%80%85Detector/2006aba4.png" data-original-src="https://upload.acmicpc.net/08c618b5-d4c5-4762-b831-c6c3a0aa0f75/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 188px; height: 170px;" /></td>
 		</tr>
 		<tr>
 			<td style="text-align: center;">(a) Sample Input 1</td>

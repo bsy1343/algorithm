@@ -28,7 +28,7 @@
 
 <p>For example, consider the following town with N = 7 junctions and M = 8 roads. Andi&rsquo;s home is at junction 1 and his office at junction 7. In this town, Andi needs at least 11 unit to go from his home to his office, e.g., via junction 1 &rarr; 2 &rarr; 5 &rarr; 7 or 1 &rarr; 4 &rarr; 6 &rarr; 7 with a total traveling time of 11 unit.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/0e39dea5-a0fe-4f21-83ec-58bc32ddea1f/-/preview/" style="width: 258px; height: 153px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/21010.%E2%80%85Slow%E2%80%85Down/3684b1a4.png" data-original-src="https://upload.acmicpc.net/0e39dea5-a0fe-4f21-83ec-58bc32ddea1f/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 258px; height: 153px;" /></p>
 
 <p>If Budi wishes Andi to arrive at least 1 unit of time later than his usual, then any route from Andi&rsquo;s home to his office needs to have a traveling time of at least 11 + 1 = 12 unit. There are several ways to achieve this, e.g., alter the traversing time of road (1, 2) from 2 to 3 and road (1, 4) from 3 to 4 with a total cost of 1 + 1 = 2. Alternatively, we can also alter the traversing time of road (2, 5) from 4 to 5 and road (6, 7) from 2 to 3 with a total cost of 1 + 1 = 2. There are also many other possible solutions. Overall, the minimum total cost to alter the roads to satisfy Budi&rsquo;s wish in this example is 2.</p>
 

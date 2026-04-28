@@ -18,11 +18,11 @@
 
 <p>영정이는 숭실대 학교 앞, 원룸에서 자취를 한다. 원룸 자취방 방바닥에는 곰팡이가 서식하고 있는데, 곰팡이는 시간이 지날 때 마다 증식을 한다. 영정이의 자취방에서 서식하는 곰팡이는 특이한 방식으로 증식하는데, 어떤 한 지점에 곰팡이가 있었다면 그 위치에서 대각선 위 아래로 곰팡이가 증식되고 원래 곰팡이가 있던 자리는 곰팡이가 사라지게 된다. 아래 2번 그림과 같이 곰팡이가 사라지는 지점이자 다시 증식되는 지점이면 곰팡이는 증식된다.</p>
 
-<p style="text-align:center"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14671/1.png" style="height:65px; width:252px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/14671.%E2%80%85%EC%98%81%EC%A0%95%EC%9D%B4%EC%9D%98%E2%80%85%EC%B2%AD%EC%86%8C/b39e18a5.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14671/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:65px; width:252px" /></p>
 
 <p style="text-align:center">1번 예</p>
 
-<p style="text-align:center"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14671/2.png" style="height:67px; width:254px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/14671.%E2%80%85%EC%98%81%EC%A0%95%EC%9D%B4%EC%9D%98%E2%80%85%EC%B2%AD%EC%86%8C/deafbcce.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14671/2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:67px; width:254px" /></p>
 
 <p style="text-align:center">2번 예</p>
 
@@ -32,7 +32,7 @@
 
 <p>프로그램의 입력은 표준 입력으로 받는다. 입력의 첫 줄에는 영정이의 자취방 바닥의 크기 N과 M, 그리고 바닥에 있는 곰팡이의 개수 K가 주어진다. (2 &le; N, M &le; 1,000) (1 &le; K &le; 100,000) 둘째 줄부터 K줄에 걸쳐 현재 곰팡이의 위치 x, y가 주어진다. 좌표계는 행렬 좌표계와 일치한다. (1 &le; x &le; N) (1 &le; y &le; M) 곰팡이는 중복되지 않는 위치에 주어진다.</p>
 
-<p style="text-align:center"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14671/3.png" style="height:175px; width:189px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/14671.%E2%80%85%EC%98%81%EC%A0%95%EC%9D%B4%EC%9D%98%E2%80%85%EC%B2%AD%EC%86%8C/37a4e165.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14671/3.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:175px; width:189px" /></p>
 
 ### 출력
 

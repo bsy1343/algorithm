@@ -48,4 +48,4 @@
 
 <p>Opis trećeg probnog primjera: Ispod je skica na kojoj su pravci koji odgovaraju svim zidovima i sve točke koje smo promatrali.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/8f022a28-d121-482b-a643-40e1c40ab124/-/preview/" style="width: 365px; height: 350px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/32006.%E2%80%85ZEMLJA/cc195568.png" data-original-src="https://upload.acmicpc.net/8f022a28-d121-482b-a643-40e1c40ab124/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 365px; height: 350px;" /></p>

@@ -26,7 +26,7 @@
 
 <p>가장 바깥에 있는 등고선은 레벨 1이다. 등고선 c를 둘러싼 등고선의 레벨이 k인 경우에 c의 레벨은 k+1이다. 그림 2에의 지도에서 가장 높은 등고선의 레벨은 5이다.</p>
 
-<p><img alt="" src="/upload/images/cantour2.png" style="height:273px; width:643px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/8889.%E2%80%85%EB%93%B1%EA%B3%A0%EC%84%A0%E2%80%85%EC%A7%80%EB%8F%84/35d8ed9e.png" data-original-src="https://www.acmicpc.net/upload/images/cantour2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:273px; width:643px" /></p>
 
 <p>등고선 n개로 이루어진 디지털 등고선 지도가 주어진다. 이때, 가장 높은 등고선의 레벨을 구하는 프로그램을 작성하시오.</p>
 
@@ -40,4 +40,4 @@
 
 ### 힌트
 
-<p><img alt="" src="/upload/images/cantour3.png" style="height:227px; width:593px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/8889.%E2%80%85%EB%93%B1%EA%B3%A0%EC%84%A0%E2%80%85%EC%A7%80%EB%8F%84/b1333ed8.png" data-original-src="https://www.acmicpc.net/upload/images/cantour3.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:227px; width:593px" /></p>

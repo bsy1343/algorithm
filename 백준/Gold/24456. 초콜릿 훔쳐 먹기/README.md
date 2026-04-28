@@ -22,7 +22,7 @@
 
 <p>아래 그림을 예로 들어 보자.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/b7e0126e-c900-41f3-a5e8-e5822efd18f1/-/preview/" style="width: 650px; height: 366px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/24456.%E2%80%85%EC%B4%88%EC%BD%9C%EB%A6%BF%E2%80%85%ED%9B%94%EC%B3%90%E2%80%85%EB%A8%B9%EA%B8%B0/6068e4e9.png" data-original-src="https://upload.acmicpc.net/b7e0126e-c900-41f3-a5e8-e5822efd18f1/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 650px; height: 366px;" /></p>
 
 <p>$K=5$일 때 $4 \times 4=16$개의 초콜릿이 있다. 처음 초콜릿의 가로와 세로 길이가 동일하므로 $\texttt{D}_\texttt{old}$를 계산하면 $0$이 된다.</p>
 
@@ -34,7 +34,7 @@
 
 <p>한 가지 예를 더 보자.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/4d39f259-c17a-43e3-953c-e34d625b2ef4/-/preview/" style="width: 650px; height: 366px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/24456.%E2%80%85%EC%B4%88%EC%BD%9C%EB%A6%BF%E2%80%85%ED%9B%94%EC%B3%90%E2%80%85%EB%A8%B9%EA%B8%B0/062a224c.png" data-original-src="https://upload.acmicpc.net/4d39f259-c17a-43e3-953c-e34d625b2ef4/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 650px; height: 366px;" /></p>
 
 <p>$K=4$일 때 $4 \times 5 = 20$개의 초콜릿이 있다. 처음 초콜릿에서 $\texttt{D}_\texttt{old}$를 계산하면 $1$이 된다.</p>
 

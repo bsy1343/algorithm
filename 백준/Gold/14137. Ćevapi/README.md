@@ -30,13 +30,13 @@
 
 <p>Slijedi ilustracija prvog primjera:&nbsp;</p>
 
-<p><img alt="" src="https://onlinejudgeimages.s3.amazonaws.com/problem/14137/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202017-01-03%20%EC%98%A4%ED%9B%84%202.34.36.png" style="height:90px; width:581px" /><br />
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/14137.%E2%80%85%C4%86evapi/8d2a153d.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/14137/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202017-01-03%20%EC%98%A4%ED%9B%84%202.34.36.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:90px; width:581px" /><br />
 Prvi dan Goran će na obali A pretrčati 500 metara, na obali B 100 metara, te pojesti 1 porciju ćevapa.</p>
 
-<p><img alt="" src="https://onlinejudgeimages.s3.amazonaws.com/problem/14137/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202017-01-03%20%EC%98%A4%ED%9B%84%202.34.45.png" style="height:89px; width:581px" /><br />
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/14137.%E2%80%85%C4%86evapi/e0605e69.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/14137/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202017-01-03%20%EC%98%A4%ED%9B%84%202.34.45.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:89px; width:581px" /><br />
 Drugi dan Goran će na obali A pretrčati 150 metara, na obali B 450 metara, te pojesti 1 porciju ćevapa.</p>
 
-<p><img alt="" src="https://onlinejudgeimages.s3.amazonaws.com/problem/14137/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202017-01-03%20%EC%98%A4%ED%9B%84%202.34.55.png" style="height:90px; width:581px" /><br />
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/14137.%E2%80%85%C4%86evapi/babe20b2.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/14137/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202017-01-03%20%EC%98%A4%ED%9B%84%202.34.55.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:90px; width:581px" /><br />
 Treći dan Goran će na obali A pretrčati 350 metara, na obali B 250 metara, te pojesti 3 porcije ćevapa.</p>
 
 ### 입력

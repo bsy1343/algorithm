@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/d3bd96c0-dc9e-48aa-b6f5-c997b0d5ba1d/-/preview/" style="height: 600px; width: 588px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/20130.%E2%80%85Metroidvania%E2%80%85Extreme/25418671.png" data-original-src="https://upload.acmicpc.net/d3bd96c0-dc9e-48aa-b6f5-c997b0d5ba1d/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 600px; width: 588px;" /></p>
 
 <p style="text-align: center;">[그림] 슈퍼 메트로이드(1994) 지도</p>
 

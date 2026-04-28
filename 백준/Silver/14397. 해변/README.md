@@ -20,7 +20,7 @@
 
 <p>해변은 정육각형의 변 중에서 한 쪽은 물인데, 한 쪽은 땅인 곳을 의미한다.</p>
 
-<p style="text-align:center"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14397/1.jpg" style="height:324px; width:621px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/14397.%E2%80%85%ED%95%B4%EB%B3%80/e519be83.jpg" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14397/1.jpg" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:324px; width:621px" /></p>
 
 ### 입력
 

@@ -26,7 +26,7 @@
 
 <p>그리고 슬라임 합성 기술이 아직 완벽하지 않아서 슬라임을 합성할 때마다 크나큰 전기 에너지가 필요해. 구체적으로, A만큼의 슬라임 에너지를 가진 슬라임과 B만큼의 슬라임 에너지를 가진 슬라임을 합성하려면 A &times; B 만큼의 전기 에너지가 필요해.</p>
 
-<p style="text-align: center;"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14698/1.png" style="height:314px; width:470px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/14698.%E2%80%85%EC%A0%84%EC%83%9D%ED%96%88%EB%8D%94%EB%8B%88%E2%80%85%EC%8A%AC%EB%9D%BC%EC%9E%84%E2%80%85%EC%97%B0%EA%B5%AC%EC%9E%90%EC%98%80%EB%8D%98%E2%80%85%EA%B1%B4%EC%97%90%E2%80%85%EB%8C%80%ED%95%98%EC%97%AC%E2%80%85(Hard)/adb087bb.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14698/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:314px; width:470px" /></p>
 
 <p style="text-align: center;">에너지가 4인 슬라임과 에너지가 6인 슬라임을 합성한 모습. 4 &times; 6의 전기 에너지를 사용해 슬라임 에너지가 24인 슬라임이 합성되었다.</p>
 

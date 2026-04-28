@@ -20,7 +20,7 @@
 
 <p>Because Sodor and England are far away, there exist multiple routes (exactly $n$ routes) that connect the two lands via one or more bridges. Specifically, route $i$ connects Sodor and England through $k_{i}$ ($k_{i} \ge 1$) bridges. Let us denote the $j$-th bridge (counting from Sodor to England) of route $i$ as $B[i, j]$. Below, we have two routes ($n = 2$) and five bridges with $k_{1} = 2$ and $k_{2} = 3$.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/82049bd5-c819-4de1-9618-1bbe87c11205/-/preview/" style="width: 464px; height: 404px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/19293.%E2%80%85Earthquake/e1ba242f.png" data-original-src="https://upload.acmicpc.net/82049bd5-c819-4de1-9618-1bbe87c11205/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 464px; height: 404px;" /></p>
 
 <p style="text-align: center;">Figure 1: Two routes and five bridges</p>
 

@@ -22,7 +22,7 @@
 
 <p>Напишете програма sym, която по дадени три цифри A, B и C извежда най-малкото симетрично число, на което първите три цифри съвпадат с дадените три цифри.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/ffabcd92-00c2-403e-95da-adfad91a420d/-/preview/" style="width: 241px; height: 202px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/31244.%E2%80%85%D0%A1%D0%98%D0%9C%D0%95%D0%A2%D0%A0%D0%98%D0%A7%D0%9D%D0%98%E2%80%85%D0%A7%D0%98%D0%A1%D0%9B%D0%90/2c27c956.png" data-original-src="https://upload.acmicpc.net/ffabcd92-00c2-403e-95da-adfad91a420d/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 241px; height: 202px;" /></p>
 
 <p style="text-align: center;">Фиг. 1</p>
 

@@ -18,7 +18,7 @@
 
 <p>Given the dimensions of three rectangles, determine if all three can be glued together, touching just on the edges, to form a square. You may rotate the rectangles. For example, Figure C.1 shows successful constructions for the first two sample inputs.</p>
 
-<p><img alt="" src="https://onlinejudgeimages.s3.amazonaws.com/problem/13733/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-12-06%20%EC%98%A4%ED%9B%84%208.18.28.png" style="height:148px; width:250px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/13733.%E2%80%85Square%E2%80%85Deal/0fc0ed0c.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/13733/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-12-06%20%EC%98%A4%ED%9B%84%208.18.28.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:148px; width:250px" /></p>
 
 <p>Figure C.1: Constructions for the first two examples</p>
 

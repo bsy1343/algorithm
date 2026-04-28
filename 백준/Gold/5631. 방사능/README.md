@@ -18,7 +18,7 @@
 
 <p>원자력 발전소는 현대 문명의 축복이자 저주이다. 원자력 발전소는 많은 위험성이 있지만, 전기를 만드는 가장 싼 방법이다. 이 문제에서는 거리가 멀지 않은 두 원자력 발전소에 어떤 상황에 대해서 생각해 본다.</p>
 
-<p><img alt="" src="/upload/images/nppk.png" style="height:376px; width:594px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/5631.%E2%80%85%EB%B0%A9%EC%82%AC%EB%8A%A5/6ffad5ad.png" data-original-src="https://www.acmicpc.net/upload/images/nppk.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:376px; width:594px" /></p>
 
 <p>그림 1. 두 원자력 발전소. (81, 49)와 (77, 33)에 있는 집은 매우 위험한 지역이다.</p>
 

@@ -22,15 +22,15 @@
 
 <p>기류는 세로축 좌표가 짝수일 때는 가로축 좌표가 증가하는 방향으로 흐르고, 홀수일 때는 감소하는 방향으로 흐른다. 더 이상 가로축으로 이동할 수 없으면 세로축이 증가하는 방향으로 한 칸 이동한다. $(N-1, 0)$에 도달하면 $(0,0)$으로 이동하여 같은 방식으로 순환한다. 예를 들어 $N=4$, $M=4$일 때 다음과 같은 방식으로 순환한다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/ce54d878-f551-477c-87ef-c93bc75b76ef/-/preview/" style="height: 272px; width: 300px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/30055.%E2%80%85%EC%9A%B0%EC%A3%BC%EB%B9%84%ED%96%89%EC%82%AC%E2%80%85%EC%A0%95%EB%AF%BC/1477fcc9.png" data-original-src="https://upload.acmicpc.net/ce54d878-f551-477c-87ef-c93bc75b76ef/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 272px; width: 300px;" /></p>
 
 <p>$4 \times 4$ 크기의 차원이 있고 블랙홀이 $(2,2)$에 하나 존재한다고 하자. 1초 후 기류가 흐르는 방향에 따라 $(2,3)$에 새로운 블랙홀이 생성된다. 6초 후에는 $(0,0)$에 새로운 블랙홀이 생성되며, 15초 후에는 모든 칸에 블랙홀이 존재하게 된다. 이미 블랙홀이 있는 자리에는 새로운 블랙홀이 생성되지 않는다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/145c9501-9d4d-48cb-b677-067987c7be43/-/preview/" style="height: 315px; width: 600px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/30055.%E2%80%85%EC%9A%B0%EC%A3%BC%EB%B9%84%ED%96%89%EC%82%AC%E2%80%85%EC%A0%95%EB%AF%BC/d8384ab7.png" data-original-src="https://upload.acmicpc.net/145c9501-9d4d-48cb-b677-067987c7be43/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 315px; width: 600px;" /></p>
 
 <p>정민이는 차원 이동 게이트를 통해 두 차원을 넘나들 수 있다. 차원 이동 게이트는 두 차원에 각각 존재하며, $A \times B$ 만큼의 칸을 차지한다. 두 게이트의 크기는 서로 같지만, 존재하는 위치는 다를 수 있다. 차원 이동 게이트 내부에서 게이트를 가동하면 3초에 걸쳐 차원 이동을 하게 되고, 차원을 넘기 전과 같은 게이트 내부 좌표로 이동하게 된다. 게이트 가동 전에는 게이트 내부를 자유롭게 이동할 수 있지만, 가동 후에는 도착할 때까지 움직일 수 없다. 게이트를 가동한 순간부터 차원 이동이 완료될 때까지는 차원 간 통로에 있기 때문에 블랙홀에 휩쓸리지 않는다. 즉, 블랙홀이 게이트를 덮어도 차원 이동 중에는 영향을 받지 않는다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/5918e3aa-a27e-4ee1-b6ca-914879133607/-/preview/" style="height: 184px; width: 480px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/30055.%E2%80%85%EC%9A%B0%EC%A3%BC%EB%B9%84%ED%96%89%EC%82%AC%E2%80%85%EC%A0%95%EB%AF%BC/ad9bb833.png" data-original-src="https://upload.acmicpc.net/5918e3aa-a27e-4ee1-b6ca-914879133607/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 184px; width: 480px;" /></p>
 
 <p>정민이를 위해 블랙홀에 휩쓸리지 않고 우주선에 도착할 수 있는 최단 시간을 구해주자. 정민이가 우주선에 도착한 시간에 블랙홀이 우주선 위치에 도달하면 정민이는 우주선과 함께 블랙홀에 휩쓸린다.</p>
 

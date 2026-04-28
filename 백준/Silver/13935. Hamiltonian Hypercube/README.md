@@ -24,7 +24,7 @@
 
 <p>Now, the n-bit Gray Code forms a Hamiltonian path in the n-dimensional hypercube, i.e., a path that visits every vertex exactly once (see Figure H.1).</p>
 
-<p><img alt="" src="https://onlinejudgeimages.s3.amazonaws.com/problem/13935/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-11-28%20%EC%98%A4%ED%9B%84%204.26.49.png" style="height:208px; width:218px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/13935.%E2%80%85Hamiltonian%E2%80%85Hypercube/552ea2b6.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/13935/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-11-28%20%EC%98%A4%ED%9B%84%204.26.49.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:208px; width:218px" /></p>
 
 <p>Figure H.1: The 3-dimensional hypercube and the Hamiltonian path corresponding to the 3-bit Gray Code.</p>
 

@@ -22,7 +22,7 @@
 
 <p>After the update, some monster types seem to appear less often than before, and some more often (for instance now there seem to be Gnolls all over the place). You believe that the new spawning logic may be responsible for this by having changed the effective spawn chances of the monsters. In order to test this hypothesis, you decide to compute these effective spawn chances after the update.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/8c9e2af7-1ced-4b8f-8471-03257d4db21f/-/preview/" style="width: 254px; height: 126px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/18086.%E2%80%85Gnoll%E2%80%85Hypothesis/cc29e416.png" data-original-src="https://upload.acmicpc.net/8c9e2af7-1ced-4b8f-8471-03257d4db21f/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 254px; height: 126px;" /></p>
 
 <p style="text-align: center;">Figure G.1: Sample Input 1 and one possible spawn pool with adjusted spawn chances.</p>
 

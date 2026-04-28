@@ -47,34 +47,34 @@
 
 ### 힌트
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/7b7be1a5-a1a9-4330-85a7-91164bf0570d/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/19640.%E2%80%85%ED%99%94%EC%9E%A5%EC%8B%A4%EC%9D%98%E2%80%85%EA%B7%9C%EC%B9%99/2e1fce61.png" data-original-src="https://upload.acmicpc.net/7b7be1a5-a1a9-4330-85a7-91164bf0570d/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>위와&nbsp;같이 줄을 선 경우를 생각해보자.&nbsp;(<em>x</em>, <em>y</em>) 는 사원의 근무 일수가 <em>x</em>, 화장실이 급한 정도가 <em>y</em>임을 나타낸다.&nbsp;[<em>x</em>, <em>y</em>]는 해당 사원이 데카임을 의미한다. 즉, 위의 그림에서 데카는 3번 사원이다.</p>
 
 <p>이 경우 대기 중인 사원의 수&nbsp;<em>N</em>은 6이다. 데카의 앞에는 두 명이 있으므로&nbsp;<em>K</em>는 2다. 이때 사장이 3개의 줄로 나눠 설 것을 지시한다면,</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/d1028b32-1684-4fe8-882c-8677b788f4e8/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/19640.%E2%80%85%ED%99%94%EC%9E%A5%EC%8B%A4%EC%9D%98%E2%80%85%EA%B7%9C%EC%B9%99/ccf3cd75.png" data-original-src="https://upload.acmicpc.net/d1028b32-1684-4fe8-882c-8677b788f4e8/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>와 같이 나눠 설 수 있다. 이때 데카는 줄 번호 3의 선두다.</p>
 
 <p>이제 화장실을 어떤 선두들이 이용하는지 알아보자.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/2931a1f5-cbe8-41cd-b112-f956a5fc6a13/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/19640.%E2%80%85%ED%99%94%EC%9E%A5%EC%8B%A4%EC%9D%98%E2%80%85%EA%B7%9C%EC%B9%99/4504d6af.png" data-original-src="https://upload.acmicpc.net/2931a1f5-cbe8-41cd-b112-f956a5fc6a13/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>이 경우 근무 일수가 가장 높은 줄 번호 1의 선두가 화장실을 이용한다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/60bac6e5-5722-4190-98f6-e7ab0d6c818e/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/19640.%E2%80%85%ED%99%94%EC%9E%A5%EC%8B%A4%EC%9D%98%E2%80%85%EA%B7%9C%EC%B9%99/4ac7b934.png" data-original-src="https://upload.acmicpc.net/60bac6e5-5722-4190-98f6-e7ab0d6c818e/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>줄 번호 1, 2의 선두가 근무 일수는 1,500으로 같지만, 화장실이 급한 정도는 줄 번호 2의 선두가 더 높기 때문에 줄 번호 2의 선두가 화장실을 이용한다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/cf759fc8-a704-4d23-b333-c9563b0e1efa/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/19640.%E2%80%85%ED%99%94%EC%9E%A5%EC%8B%A4%EC%9D%98%E2%80%85%EA%B7%9C%EC%B9%99/63e3b3dd.png" data-original-src="https://upload.acmicpc.net/cf759fc8-a704-4d23-b333-c9563b0e1efa/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>줄 번호 1, 2의 선두가 근무 일수도 1,500으로 같고, 화장실이 급한 정도도 100으로 같지만, 줄 번호는 1이 더 낮기 때문에 줄 번호 1의 선두가 화장실을 이용한다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/988f1a9a-8ecf-4fc4-8b10-ebac3ce25582/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/19640.%E2%80%85%ED%99%94%EC%9E%A5%EC%8B%A4%EC%9D%98%E2%80%85%EA%B7%9C%EC%B9%99/80ff79c0.png" data-original-src="https://upload.acmicpc.net/988f1a9a-8ecf-4fc4-8b10-ebac3ce25582/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>줄 번호 2의 선두가 근무 일수가 제일 높기 때문에 화장실을 이용한다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/56c00d17-dca3-4ec8-82f4-6ee76d17ab01/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/19640.%E2%80%85%ED%99%94%EC%9E%A5%EC%8B%A4%EC%9D%98%E2%80%85%EA%B7%9C%EC%B9%99/e9c581cf.png" data-original-src="https://upload.acmicpc.net/56c00d17-dca3-4ec8-82f4-6ee76d17ab01/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>줄 번호 3의 선두가 근무 일수가 제일 높으며, 이 사원이 데카이므로 줄에 서 있던 인원 중 데카보다 먼저 화장실을 이용한 사원의 수 4를 출력하면 정답이다.</p>

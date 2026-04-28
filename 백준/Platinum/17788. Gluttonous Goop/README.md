@@ -22,7 +22,7 @@
 
 <p>You model the situation as follows: you divide the plane into 1 &times; 1-squares, and draw where the fungus currently is. You know that every time step, if the fungus occupies a square, it will expand to all eight neighbouring squares (and still occupy the initial square). You know how many time steps you will be gone for over the weekend, and now you want to know how many squares the fungus will occupy when you get back.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/f2888288-07de-437a-900e-d43887a8f488/-/preview/" style="width: 486px; height: 148px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/17788.%E2%80%85Gluttonous%E2%80%85Goop/a49b3998.png" data-original-src="https://upload.acmicpc.net/f2888288-07de-437a-900e-d43887a8f488/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 486px; height: 148px;" /></p>
 
 <p>Figure G.1: Example of fungus growth: the fungus from sample 2 after 0, 1, 2 time steps. The middle image corresponds to the correct output for sample 2.</p>
 

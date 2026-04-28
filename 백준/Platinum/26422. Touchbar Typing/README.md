@@ -18,7 +18,7 @@
 
 <p>Glide Typing task in <a href="https://goo.gle/cs-kick-start-2022" target="_blank">Crowdsource app </a>uses a new Google keyboard to type a word by sliding a finger across keys without lifting the finger, as shown in the animation below.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/72b07edf-f3e6-44e4-bdec-dad9d681b516/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/26422.%E2%80%85Touchbar%E2%80%85Typing/ad0b105d.png" data-original-src="https://upload.acmicpc.net/72b07edf-f3e6-44e4-bdec-dad9d681b516/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>To make the Glide Typing task more challenging, instead of a normal keyboard, we have a special linear keyboard $\mathbf{K}$ that has all the keys in one row.</p>
 

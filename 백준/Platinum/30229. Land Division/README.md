@@ -18,7 +18,7 @@
 
 <p>Uncle Trapezoid has a piece of land in the shape of a trapezoid that he would like to split into four pieces to bequeath to his four nieces. He is fairly lazy, so all he will do is pick a particular point inside of the trapezoid, and then the four pieces will be the four triangles formed by this point and each of the four sides of the trapezoid as illustrated below:</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/4a3b25d4-437b-4866-aead-1e746e7c51d3/-/preview/" style="width: 275px; height: 160px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/30229.%E2%80%85Land%E2%80%85Division/b2da2604.png" data-original-src="https://upload.acmicpc.net/4a3b25d4-437b-4866-aead-1e746e7c51d3/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 275px; height: 160px;" /></p>
 
 <p>Naturally, Uncle Trapezoid wants to be as fair as possible and minimize the difference in area between the smallest triangle and the largest triangle.</p>
 

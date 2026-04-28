@@ -18,7 +18,7 @@
 
 <p>$N$명의 사원으로 구성되는 어느 회사의 조직도는 루트 트리(rooted tree)로 표현된다. 트리의 각 노드는 한 명의 사원을 의미하고, 간선은 직속 상사-부하의 관계를 나타낸다. 각 사원은 $1$부터 $N$까지 번호가 부여되어 있다. 사원 $1$은 회사의 사장이며, 트리의 루트이다. 각 사원의 실력 또한 정수로 표현되는데, 실력은 음수일수도 있다. 아래 그림은 조직도의 한 예를 보여준다. 노드 안의 수는 사원 번호를 의미한다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/1ff64e35-0ebe-43ff-9588-dbc823273c82/-/preview/" style="width: 395px; height: 340px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/21759.%E2%80%85%EB%91%90%E2%80%85%EA%B0%9C%EC%9D%98%E2%80%85%ED%8C%80/a1531ade.png" data-original-src="https://upload.acmicpc.net/1ff64e35-0ebe-43ff-9588-dbc823273c82/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 395px; height: 340px;" /></p>
 
 <p>사원 중 일부를 팀장으로 선택하려 한다. 팀장으로 선발되면, 팀장은 자신을 포함하여 팀을 구성해야 하는데, 각 팀은 다음 조건을 만족해야 한다.</p>
 

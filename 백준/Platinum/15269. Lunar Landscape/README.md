@@ -37,6 +37,6 @@
 
 ### 힌트
 
-<p>Sample 1:&nbsp;<img alt="" src="http://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15269/1.png" style="height:71px; width:79px" /></p>
+<p>Sample 1:&nbsp;<img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/15269.%E2%80%85Lunar%E2%80%85Landscape/1ed00b12.png" data-original-src="http://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15269/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:71px; width:79px" /></p>
 
-<p>Sample 2:&nbsp;<img alt="" src="http://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15269/2.png" style="height:276px; width:273px" /></p>
+<p>Sample 2:&nbsp;<img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/15269.%E2%80%85Lunar%E2%80%85Landscape/b28f4b06.png" data-original-src="http://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15269/2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:276px; width:273px" /></p>

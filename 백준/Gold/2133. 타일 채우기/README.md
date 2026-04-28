@@ -30,4 +30,4 @@
 
 <p>아래 그림은 3&times;12 벽을 타일로 채운 예시이다.</p>
 
-<p><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/upload/images/2663_1.jpg" style="height:80px; width:273px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/2133.%E2%80%85%ED%83%80%EC%9D%BC%E2%80%85%EC%B1%84%EC%9A%B0%EA%B8%B0/f534a596.jpg" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/upload/images/2663_1.jpg" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:80px; width:273px" /></p>

@@ -24,7 +24,7 @@
 
 <p>A figura abaixo ilustra duas poss&iacute;veis maneiras de forrar o piso de um sal&atilde;o com dimens&otilde;es 4 &times; 5 metros para um conjunto de dez t&aacute;buas doadas, com 100 cm de largura, e comprimentos 1, 2, 2, 2, 2, 3, 3, 4, 4 e 5 metros.</p>
 
-<p><img alt="" src="https://onlinejudgeimages.s3.amazonaws.com/problem/13679/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202017-01-12%20%EC%98%A4%EC%A0%84%207.47.42.png" style="height:157px; width:330px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/13679.%E2%80%85O%E2%80%85Sal%C3%A3o%E2%80%85do%E2%80%85Clube/d6ea87ff.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/13679/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202017-01-12%20%EC%98%A4%EC%A0%84%207.47.42.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:157px; width:330px" /></p>
 
 ### 입력
 

@@ -20,7 +20,7 @@
 
 <p>Trampler is not sure where to begin, but he&#39;s already figured out the sequence of moves. He&#39;s scribbled it down on a piece of paper, marking each elemental move with a letter.</p>
 
-<p><img alt="" src="https://upload.acmicpc.net/758ef36e-72ce-4643-9dbc-7292e9060d6e/-/preview/" style="width: 200px; height: 150px; float: right;" />There are different kinds of moves:</p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/23591.%E2%80%85Trampler/372719c8.png" data-original-src="https://upload.acmicpc.net/758ef36e-72ce-4643-9dbc-7292e9060d6e/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 200px; height: 150px; float: right;" />There are different kinds of moves:</p>
 
 <ul>
 	<li>letter <code>&#39;U&#39;</code>: move from the current field cell to the cell directly adjacent above;</li>

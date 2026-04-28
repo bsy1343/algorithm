@@ -25,8 +25,8 @@
 <table class="table" style="width:100%">
 	<tbody>
 		<tr>
-			<td style="text-align:center; width:50%"><img alt="" src="/upload/images2/track1.png" style="height:236px; width:207px" /></td>
-			<td style="text-align:center; width:50%"><img alt="" src="/upload/images2/track2.png" style="height:234px; width:209px" /></td>
+			<td style="text-align:center; width:50%"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/3962.%E2%80%85Track%E2%80%85Smoothing/77c15c43.png" data-original-src="https://www.acmicpc.net/upload/images2/track1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:236px; width:207px" /></td>
+			<td style="text-align:center; width:50%"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/3962.%E2%80%85Track%E2%80%85Smoothing/82494ee8.png" data-original-src="https://www.acmicpc.net/upload/images2/track2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:234px; width:209px" /></td>
 		</tr>
 		<tr>
 			<td style="text-align: center;">Figure 1 &ndash; Original track and scaled down track</td>

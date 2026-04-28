@@ -36,4 +36,4 @@
 
 ### 힌트
 
-<p><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/6356/1.png" style="height:358px; width:394px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/6356.%E2%80%85Robot/bbb5b7d2.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/6356/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:358px; width:394px" /></p>

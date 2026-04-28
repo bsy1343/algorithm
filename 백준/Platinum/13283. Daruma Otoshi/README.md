@@ -24,7 +24,7 @@
 
 <p>The goal of the game is to remove as many blocks as you can. Your task is to decide the number of blocks that can be removed by repeating the blows in an optimal order.</p>
 
-<p style="text-align: center;"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/13283/1.png" style="height:368px; width:1105px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/13283.%E2%80%85Daruma%E2%80%85Otoshi/585687a4.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/13283/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:368px; width:1105px" /></p>
 
 <p style="text-align: center;">Figure D1. Striking out two blocks at a time</p>
 

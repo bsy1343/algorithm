@@ -30,7 +30,7 @@
 	<li>오리들이 서있는 순서대로 원하는 땅을 가지도록 한다.</li>
 </ol>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/1916169a-8540-4a0d-a7c9-889d6afe2842/-/preview/" style="height: 392px; width: 400px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/20364.%E2%80%85%EB%B6%80%EB%8F%99%EC%82%B0%E2%80%85%EB%8B%A4%ED%88%BC/f867fb3e.png" data-original-src="https://upload.acmicpc.net/1916169a-8540-4a0d-a7c9-889d6afe2842/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 392px; width: 400px;" /></p>
 
 <p>만약, 한 오리가 원하는 땅까지 가는 길에 이미 다른 오리가 점유한&nbsp;땅이 있다면 막대한 세금을 내야 하는 이유로 해당 땅을 지나가지 못해 그 오리는 땅을 가지지 못한다. 오리가 원하는 땅까지 가는 길에는 오리가 원하는 땅도 포함된다.</p>
 

@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><img alt="자는 곰곰이" src="https://upload.acmicpc.net/0b3858f5-48e1-4769-897d-2d672c6e8a47/-/preview/" style="max-height:120px; object-fit:contain; display:inline-block;" /></p>
+<p style="text-align: center;"><img alt="자는 곰곰이" src="%EB%B0%B1%EC%A4%80/Gold/25194.%E2%80%85%EA%B2%B0%EC%A0%84%EC%9D%98%E2%80%85%EA%B8%88%EC%9A%94%EC%9D%BC/643a8c4c.png" data-original-src="https://upload.acmicpc.net/0b3858f5-48e1-4769-897d-2d672c6e8a47/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="max-height:120px; object-fit:contain; display:inline-block;" /></p>
 
 <p>곰곰이는 올해도 운동하기를 신년 목표로 삼았지만, 지금까지 헬스장을 한 번도 가지 않았다. 운동하라고&nbsp;잔소리하는 당신에게, 곰곰이는 금요일에 정확히 일을 끝마치는 시점이 있다면 헬스장을 가겠다고 한다!</p>
 

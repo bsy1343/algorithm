@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p><img alt="" src="/upload/images/divorce.jpg" style="float:right; height:269px; width:269px" />잭과 질은 이혼을 하게 되었고, 두 사람은 재산을 공평하게 나누려고 한다. 두 사람은 집을 N채 가지고 있고, 각 집의 가치는 1,000,000달러 보다 크거나 같고, 40,000,000보다 작거나 같다. 잭은 일부 집을 가져가고, 질도 일부 집을 가져간다. 남은 집은 판다.</p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/4160.%E2%80%85%EC%9D%B4%ED%98%BC/172d027f.jpg" data-original-src="https://www.acmicpc.net/upload/images/divorce.jpg" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="float:right; height:269px; width:269px" />잭과 질은 이혼을 하게 되었고, 두 사람은 재산을 공평하게 나누려고 한다. 두 사람은 집을 N채 가지고 있고, 각 집의 가치는 1,000,000달러 보다 크거나 같고, 40,000,000보다 작거나 같다. 잭은 일부 집을 가져가고, 질도 일부 집을 가져간다. 남은 집은 판다.</p>
 
 <p>잭이 가져가는 집의 가치의 합은 질의 합과 같아야 한다. 공평하게 나누는 경우가 여러 가지라면, 각 사람이 가진 집의 가치의 합을 가장 크게 하려고 한다.</p>
 

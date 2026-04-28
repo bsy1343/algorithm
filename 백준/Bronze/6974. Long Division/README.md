@@ -18,7 +18,7 @@
 
 <p>In days of yore (circa 1965), mechanical calculators performed division by shifting and repeated subtraction. For example, to divide 987654321 by 3456789, the numbers would first be aligned by their leftmost digit (see (1) below), and the divisor subtracted from the dividend as many times as possible without yielding a negative number. The number of successful subtractions (in this example, 2) is the first digit of the quotient. The divisor, shifted to the right (see (2) below), is subtracted from the remainder several times to yield the next digit, and so on until the remainder is smaller than the divisor.</p>
 
-<p><img alt="" src="https://onlinejudgeimages.s3.amazonaws.com/problem/6974/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202017-01-13%20%EC%98%A4%ED%9B%84%204.01.00.png" style="height:310px; width:375px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/6974.%E2%80%85Long%E2%80%85Division/d0bb9dec.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/6974/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202017-01-13%20%EC%98%A4%ED%9B%84%204.01.00.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:310px; width:375px" /></p>
 
 <p>Write a program to implement this method of division.</p>
 

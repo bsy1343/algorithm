@@ -54,7 +54,7 @@
 
 <p>만약 아래 그림에서 현재 가격이 $10\ 000$원이고, $10\ 020$원에 $250$주 구매 주문을 넣는다면 현재 가격은 $10\ 020$원이 되고, $10\ 020$원에서의 판매 물량 $200$주는 구매 물량 $50$주로 변경된다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/63f73e98-e533-4c61-ab3d-12e8e053f914/-/preview/" style="width: 100%; height: 10%;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/31826.%E2%80%85%EC%A3%BC%EC%8B%9D%E2%80%85%EC%8B%9C%EC%9E%A5/f9597e64.png" data-original-src="https://upload.acmicpc.net/63f73e98-e533-4c61-ab3d-12e8e053f914/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 100%; height: 10%;" /></p>
 
 <p>가상 주식 시장에서 하루가 만든 HRX 회사의 주식을 거래할 수 있게 되었다.</p>
 

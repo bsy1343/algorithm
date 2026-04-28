@@ -30,7 +30,7 @@
 <p>It was a rather simple trick. Using his regular class horse race against the super class from the king, they will certainly lose that round. But then his plus beat the king&#39;s regular, and his super beat the king&#39;s plus. What a simple trick. And how do you think of Tian Ji, the high ranked official in China?&nbsp;</p>
 </blockquote>
 
-<p style="text-align: center;"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/5071/1.png" style="height:202px; width:752px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/5071.%E2%80%85Tian%E2%80%85Ji%E2%80%85--%E2%80%85The%E2%80%85Horse%E2%80%85Racing/108e01fe.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/5071/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:202px; width:752px" /></p>
 
 <p>Were Tian Ji lives in nowadays, he will certainly laugh at himself. Even more, were he sitting in the ACM contest right now, he may discover that the horse racing problem can be simply viewed as finding the maximum matching in a bipartite graph. Draw Tian&#39;s horses on one side, and the king&#39;s horses on the other. Whenever one of Tian&#39;s horses can beat one from the king, we draw an edge between them, meaning we wish to establish this pair. Then, the problem of winning as many rounds as possible is just to find the maximum matching in this graph. If there are ties, the problem becomes more complicated, he needs to assign weights 0, 1, or -1 to all the possible edges, and find a maximum weighted perfect matching...&nbsp;</p>
 

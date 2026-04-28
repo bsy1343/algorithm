@@ -48,4 +48,4 @@
 
 <p>예를 들어 $12 \oplus 6$의 값은 $10$이다. $12$는 2진수로 표현하면 $1100_{(2)}$이고 $6$은 2진수로 표현하면 $0110_{(2)}$이다. xor 연산은 아래의 그림과 같이 진행되고 결과는 $1010_{(2)}$, 즉 $10$이다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/fd88b829-6b3d-4335-b38d-cc3881b6447a/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/26604.%E2%80%85%EC%88%9C%EC%97%B4%E2%80%85%EA%B5%AC%ED%95%98%EA%B8%B0/b85187ce.png" data-original-src="https://upload.acmicpc.net/fd88b829-6b3d-4335-b38d-cc3881b6447a/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>

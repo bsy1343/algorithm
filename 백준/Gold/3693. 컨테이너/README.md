@@ -26,7 +26,7 @@
 
 <p>예를 들어, 아래와 같이 총 컨테이너 박스가 쌓인 것이 8개 있는 형태를 보관하는 가장 좋은 주차장의 크기는 92 &times; 42 = 3864이다.</p>
 
-<p><img alt="" src="/upload/images/container.png" style="height:229px; opacity:0.9; width:468px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/3693.%E2%80%85%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88/b0368fd1.png" data-original-src="https://www.acmicpc.net/upload/images/container.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:229px; opacity:0.9; width:468px" /></p>
 
 ### 입력
 

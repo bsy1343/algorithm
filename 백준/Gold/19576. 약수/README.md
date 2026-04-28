@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/df42c885-c32c-4461-bb06-83af823de8c2/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/19576.%E2%80%85%EC%95%BD%EC%88%98/c4442890.png" data-original-src="https://upload.acmicpc.net/df42c885-c32c-4461-bb06-83af823de8c2/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p style="text-align: center;">♪ 한가람 구비구비 유구하네 / 와우의 푸른 기슭에 높이 솟은 진리의 전당 ♪<br />
 (홍익대학교 교가 / 이은상 작사, 김동진 작곡)</p>

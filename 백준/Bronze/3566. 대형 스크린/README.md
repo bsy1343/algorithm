@@ -24,7 +24,7 @@
 
 <p>상근이의 창고에는 모니터가 여러 종류가 있고, 각각의 해상도와 크기, 가격은 모두 알고 있다. 모니터를 회전 시켜서 대형 모니터를 만들 수 있다. 하지만, 대형 모니터에 포함된 모니터는 모두 같은 방향이어야 한다. 상근이는 모니터를 매우 많이 가지고 있어, 필요한 만큼 사용할 수 있다.</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/3566.%E2%80%85%EB%8C%80%ED%98%95%E2%80%85%EC%8A%A4%ED%81%AC%EB%A6%B0/808bef3c.png" data-original-src="https://www.acmicpc.net/upload/images/monitor.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:150px; width:281px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/3566.%E2%80%85%EB%8C%80%ED%98%95%E2%80%85%EC%8A%A4%ED%81%AC%EB%A6%B0/808bef3c.png" data-original-src="%EB%B0%B1%EC%A4%80/Bronze/3566.%E2%80%85%EB%8C%80%ED%98%95%E2%80%85%EC%8A%A4%ED%81%AC%EB%A6%B0/808bef3c.png" data-original-src="https://www.acmicpc.net/upload/images/monitor.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:150px; width:281px" /></p>
 
 ### 입력
 

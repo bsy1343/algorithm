@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/b6495243-656a-41d7-9e50-ff180cbb4a3b/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/30394.%E2%80%85%ED%9A%8C%EC%A0%84%ED%95%98%EC%A7%80%E2%80%85%EC%95%8A%EB%8A%94%E2%80%85%EC%BA%98%EB%A6%AC%ED%8D%BC%EC%8A%A4/ac8be3e4.png" data-original-src="https://upload.acmicpc.net/b6495243-656a-41d7-9e50-ff180cbb4a3b/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>버니어 캘리퍼스(Vernier Calipers)는 길이나 높이, 너비 등 기계류 또는 사람의 신체 부위 치수를 정밀하게 측정하는 자의 일종이다. 자 부분과 날 부분으로 구성되어 있으며, 두 날 부분 사이에 물건을 끼워 너비를 잰다. 재휘는 알고리즘 수업 시간에 기하학 알고리즘 중 볼록 껍질에서 사용되는 &#39;회전하는 캘리퍼스&#39; 알고리즘을 배웠다. 그런데 알고리즘을 있는 그대로 받아들인 재휘는 문득 캘리퍼스를 껍질 주위로 돌리는 것이 매우 어려운 일이라는 사실을 깨달았다. 그래서 재휘는 좀 더 쉬운 회전하지 않는 캘리퍼스 알고리즘을 고안해냈다.</p>
 

@@ -26,7 +26,7 @@
 
 <p>왼쪽 예제의 경우 색칠하지 않은&nbsp;변이 오른쪽, 오른쪽 예제의 경우&nbsp;아래쪽에 있는 것을 알 수 있다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/9f13d3ca-ed40-4f17-bca3-7e674c55796d/-/crop/666x652/1,0/-/preview/" style="height: 196px; width: 200px;" />&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<img alt="" src="https://upload.acmicpc.net/db3a661e-3a7b-4e3a-84d8-09a04099dff4/-/crop/670x652/1,0/-/preview/" style="height: 195px; width: 200px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/18242.%E2%80%85%EB%84%A4%EB%AA%A8%EB%84%A4%EB%AA%A8%E2%80%85%EC%8B%9C%EB%A0%A5%EA%B2%80%EC%82%AC/df57051f.png" data-original-src="https://upload.acmicpc.net/9f13d3ca-ed40-4f17-bca3-7e674c55796d/-/crop/666x652/1,0/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 196px; width: 200px;" />&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<img alt="" src="%EB%B0%B1%EC%A4%80/Silver/18242.%E2%80%85%EB%84%A4%EB%AA%A8%EB%84%A4%EB%AA%A8%E2%80%85%EC%8B%9C%EB%A0%A5%EA%B2%80%EC%82%AC/93dd3f26.png" data-original-src="https://upload.acmicpc.net/db3a661e-3a7b-4e3a-84d8-09a04099dff4/-/crop/670x652/1,0/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 195px; width: 200px;" /></p>
 
 <p>조건에 맞는 입력만 주어질 때, 모든 시력 검사 데이터를 통과하는 프로그램을 작성해보자.</p>
 

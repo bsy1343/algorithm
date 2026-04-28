@@ -20,7 +20,7 @@
 
 <p>The dwarves knew what the ideal building shape should be based on the height they wanted and the size of the square base at the top and bottom. They typically had three different sizes of cubic bricks with which to work. Their goal was to maximize the volume of such a building based on the following rules:</p>
 
-<p><img alt="" src="/upload/images2/temple.png" style="float:right; height:178px; width:285px" />The building is constructed of layers; each layer is a single square of bricks of a single size. No part of any brick may extend out from the ideal shape, either to the sides or at the top. The resulting structure will have jagged sides and may be shorter than the ideal shape, but it must fit completely within the ideal design. The picture at the right is a vertical cross section of one such tower.</p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/4444.%E2%80%85Temple%E2%80%85Build/c3a2d433.png" data-original-src="https://www.acmicpc.net/upload/images2/temple.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="float:right; height:178px; width:285px" />The building is constructed of layers; each layer is a single square of bricks of a single size. No part of any brick may extend out from the ideal shape, either to the sides or at the top. The resulting structure will have jagged sides and may be shorter than the ideal shape, but it must fit completely within the ideal design. The picture at the right is a vertical cross section of one such tower.</p>
 
 <p>There is no limit on how many bricks of each type can be used.</p>
 

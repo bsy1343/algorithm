@@ -47,7 +47,7 @@
 
 <p style="text-align: center;">&lt;표 1&gt; </p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/1b3dec77-9294-42ff-be35-13ff507a849d/-/preview/" style="height: 158px; width: 500px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/25590.%E2%80%85%EB%A7%88%ED%8A%B8%EB%A3%8C%EC%8B%9C%EC%B9%B4%E2%80%85%EB%B0%95%EC%8A%A4%E2%80%85III/5174f7e0.png" data-original-src="https://upload.acmicpc.net/1b3dec77-9294-42ff-be35-13ff507a849d/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 158px; width: 500px;" /></p>
 
 <p style="text-align: center;">&lt;그림 1&gt;</p>
 
@@ -92,7 +92,7 @@
 
 <p style="text-align: center;">&lt;표 2&gt;</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/08e72ee8-d84d-4d9d-9635-24d07e043237/-/preview/" style="height: 119px; width: 500px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/25590.%E2%80%85%EB%A7%88%ED%8A%B8%EB%A3%8C%EC%8B%9C%EC%B9%B4%E2%80%85%EB%B0%95%EC%8A%A4%E2%80%85III/8d5998d4.png" data-original-src="https://upload.acmicpc.net/08e72ee8-d84d-4d9d-9635-24d07e043237/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 119px; width: 500px;" /></p>
 
 <p style="text-align: center;">&lt;그림 2&gt;</p>
 
@@ -139,7 +139,7 @@
 
 <p style="text-align: center;">&lt;표 3&gt;</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/c97d596f-4183-4009-ad8e-ea0699eeca5e/-/preview/" style="height: 157px; width: 500px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/25590.%E2%80%85%EB%A7%88%ED%8A%B8%EB%A3%8C%EC%8B%9C%EC%B9%B4%E2%80%85%EB%B0%95%EC%8A%A4%E2%80%85III/09137b7a.png" data-original-src="https://upload.acmicpc.net/c97d596f-4183-4009-ad8e-ea0699eeca5e/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 157px; width: 500px;" /></p>
 
 <p style="text-align: center;">&lt;그림 3&gt;</p>
 

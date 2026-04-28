@@ -22,7 +22,7 @@
 
 <p>Platforms have a rail dead ends and you may assume that trains disappear from the platform immediately after arriving to it.</p>
 
-<p><img alt="" src="/upload/images2/ingrid.png" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/10380.%E2%80%85Instruction/4bf034e3.png" data-original-src="https://www.acmicpc.net/upload/images2/ingrid.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>Each morning Ingrid looks at the timetable and writes switch toggling instruction: when and which switch to toggle. She would like to automate this process to save a lot of time.</p>
 
@@ -48,4 +48,4 @@
 
 <p>Below is the time trace for the first example.</p>
 
-<p><img alt="" src="/upload/images2/instruchint.png" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/10380.%E2%80%85Instruction/c4148375.png" data-original-src="https://www.acmicpc.net/upload/images2/instruchint.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>

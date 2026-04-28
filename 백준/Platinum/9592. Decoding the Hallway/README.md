@@ -18,7 +18,7 @@
 
 <p>Edward is now 21 years old. He has to appear in an exam to renew his State Alchemist title. This year the exam is arranged in a bit different way. There will be a long hallway. Each alchemist will enter the hallway from the left side and come out from the right side and he has to do this n times. During this tour they have to bend the hallway segments right-left alternatively. Let&rsquo;s describe the process in some pictures:</p>
 
-<p><img alt="" src="/upload/images2/hall.png" style="height:101px; width:592px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/9592.%E2%80%85Decoding%E2%80%85the%E2%80%85Hallway/2a50db9b.png" data-original-src="https://www.acmicpc.net/upload/images2/hall.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:101px; width:592px" /></p>
 
 <ul>
 	<li>First time (First picture): Initially, the hallway is a straight line (soft line in the first picture). So alchemist will bend this segment to right side (he is going from left to right) like the hard line in the first picture above.</li>

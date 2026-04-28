@@ -32,7 +32,7 @@
 
 <p>&nbsp;</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/61d21898-e5b6-464d-a7a8-dc4bf32fd097/-/preview/" style="height: 558px; width: 1000px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/22969.%E2%80%85%EB%8C%80%EB%82%98%EB%AC%B4%EC%88%B2/67cea5dd.png" data-original-src="https://upload.acmicpc.net/61d21898-e5b6-464d-a7a8-dc4bf32fd097/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 558px; width: 1000px;" /></p>
 
 <p>예제 2는 2번 정점에서 1개의 정점만 뻗어나갔기 때문에 대나무숲이 아니다.</p>
 

@@ -24,7 +24,7 @@
 
 <p>You like the idea of the figure in the booklet, so you decided to improve upon this idea. Instead of specifying shapes of figure projections from different perspectives, you would specify their areas. In this problem, a voxel is defined by a triple of integers (x, y, z), which corresponds to a unit cube [x, x + 1] &times; [y, y + 1] &times; [z, z + 1].</p>
 
-<p style="text-align:center"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15286/1.png" style="height:353px; width:347px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/15286.%E2%80%85Designing%E2%80%85the%E2%80%85Toy/41aa6d45.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15286/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:353px; width:347px" /></p>
 
 <p>You are given three positive integers a, b and c. Your task is to find a description of a figure F consisting of one or more voxels, for which the area of its orthogonal projection onto the plane Oxy is a, the area of its orthogonal projection onto the plane Oxz is b, and the area of its orthogonal projection onto the plane Oyz is c, or to determine that it is impossible.</p>
 

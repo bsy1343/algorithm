@@ -23,9 +23,9 @@
 <table class="table table-bordered td-center th-center" style="width: 100%;">
 	<tbody>
 		<tr>
-			<td style="width:33%;"><img alt="" src="https://upload.acmicpc.net/f24cff71-7497-4787-b7f3-a9d078b34838/-/preview/" style="width: 200px; height: 201px;" /></td>
-			<td style="width:34%;"><img alt="" src="https://upload.acmicpc.net/b1a58aab-4244-40a9-bc79-2c94e2b2d123/-/preview/" style="width: 200px; height: 201px;" /></td>
-			<td style="width:33%;"><img alt="" src="https://upload.acmicpc.net/4cf863ff-01e5-4556-a915-1cd0e9d1cebb/-/preview/" style="width: 200px; height: 201px;" /></td>
+			<td style="width:33%;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/20328.%E2%80%85%EB%B0%B0%EC%97%B4%E2%80%85%EB%8F%8C%EB%A6%AC%EA%B8%B0%E2%80%857/575bcdfb.png" data-original-src="https://upload.acmicpc.net/f24cff71-7497-4787-b7f3-a9d078b34838/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 200px; height: 201px;" /></td>
+			<td style="width:34%;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/20328.%E2%80%85%EB%B0%B0%EC%97%B4%E2%80%85%EB%8F%8C%EB%A6%AC%EA%B8%B0%E2%80%857/ae194345.png" data-original-src="https://upload.acmicpc.net/b1a58aab-4244-40a9-bc79-2c94e2b2d123/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 200px; height: 201px;" /></td>
+			<td style="width:33%;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/20328.%E2%80%85%EB%B0%B0%EC%97%B4%E2%80%85%EB%8F%8C%EB%A6%AC%EA%B8%B0%E2%80%857/008ba078.png" data-original-src="https://upload.acmicpc.net/4cf863ff-01e5-4556-a915-1cd0e9d1cebb/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 200px; height: 201px;" /></td>
 		</tr>
 		<tr>
 			<th>ℓ = 0</th>
@@ -40,8 +40,8 @@
 <table class="table table-bordered td-center th-center" style="width: 100%;">
 	<tbody>
 		<tr>
-			<td style="width:50%;"><img alt="" src="https://upload.acmicpc.net/80ecb0fd-aaf3-479a-9d56-8d2eb171faa3/-/preview/" style="width: 250px; height: 251px;" /></td>
-			<td style="width:50%;"><img alt="" src="https://upload.acmicpc.net/ad7ac698-343b-4c83-b13e-b6b2f5ec0e44/-/preview/" style="width: 250px; height: 251px;" /></td>
+			<td style="width:50%;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/20328.%E2%80%85%EB%B0%B0%EC%97%B4%E2%80%85%EB%8F%8C%EB%A6%AC%EA%B8%B0%E2%80%857/a1c21106.png" data-original-src="https://upload.acmicpc.net/80ecb0fd-aaf3-479a-9d56-8d2eb171faa3/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 250px; height: 251px;" /></td>
+			<td style="width:50%;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/20328.%E2%80%85%EB%B0%B0%EC%97%B4%E2%80%85%EB%8F%8C%EB%A6%AC%EA%B8%B0%E2%80%857/0a85a5ae.png" data-original-src="https://upload.acmicpc.net/ad7ac698-343b-4c83-b13e-b6b2f5ec0e44/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 250px; height: 251px;" /></td>
 		</tr>
 		<tr>
 			<th>배열</th>
@@ -55,8 +55,8 @@
 <table class="table table-bordered td-center th-center" style="width: 100%;">
 	<tbody>
 		<tr>
-			<td style="width:50%;"><img alt="" src="https://upload.acmicpc.net/da983352-287c-4b02-a980-bfb6274ffed4/-/preview/" style="width: 250px; height: 251px;" /></td>
-			<td style="width:50%;"><img alt="" src="https://upload.acmicpc.net/a2b0c85a-9628-4f02-8702-0b79b354b80d/-/preview/" style="width: 250px; height: 251px;" /></td>
+			<td style="width:50%;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/20328.%E2%80%85%EB%B0%B0%EC%97%B4%E2%80%85%EB%8F%8C%EB%A6%AC%EA%B8%B0%E2%80%857/23453acf.png" data-original-src="https://upload.acmicpc.net/da983352-287c-4b02-a980-bfb6274ffed4/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 250px; height: 251px;" /></td>
+			<td style="width:50%;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/20328.%E2%80%85%EB%B0%B0%EC%97%B4%E2%80%85%EB%8F%8C%EB%A6%AC%EA%B8%B0%E2%80%857/273a4aff.png" data-original-src="https://upload.acmicpc.net/a2b0c85a-9628-4f02-8702-0b79b354b80d/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 250px; height: 251px;" /></td>
 		</tr>
 		<tr>
 			<th>배열</th>
@@ -70,8 +70,8 @@
 <table class="table table-bordered td-center th-center" style="width: 100%;">
 	<tbody>
 		<tr>
-			<td style="width:50%;"><img alt="" src="https://upload.acmicpc.net/42372266-c8c2-4a69-8ea4-5ef2998edb22/-/preview/" style="width: 250px; height: 251px;" /></td>
-			<td style="width:50%;"><img alt="" src="https://upload.acmicpc.net/344b458d-42b3-40d6-a47b-f458c2a3d9b2/-/preview/" style="width: 250px; height: 251px;" /></td>
+			<td style="width:50%;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/20328.%E2%80%85%EB%B0%B0%EC%97%B4%E2%80%85%EB%8F%8C%EB%A6%AC%EA%B8%B0%E2%80%857/8ac86084.png" data-original-src="https://upload.acmicpc.net/42372266-c8c2-4a69-8ea4-5ef2998edb22/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 250px; height: 251px;" /></td>
+			<td style="width:50%;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/20328.%E2%80%85%EB%B0%B0%EC%97%B4%E2%80%85%EB%8F%8C%EB%A6%AC%EA%B8%B0%E2%80%857/1383385e.png" data-original-src="https://upload.acmicpc.net/344b458d-42b3-40d6-a47b-f458c2a3d9b2/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 250px; height: 251px;" /></td>
 		</tr>
 		<tr>
 			<th>배열</th>
@@ -85,8 +85,8 @@
 <table class="table table-bordered td-center th-center" style="width: 100%;">
 	<tbody>
 		<tr>
-			<td style="width:50%;"><img alt="" src="https://upload.acmicpc.net/7e3bdcc1-b486-47d9-89b1-5ebbc53cb5a2/-/preview/" style="width: 250px; height: 251px;" /></td>
-			<td style="width:50%;"><img alt="" src="https://upload.acmicpc.net/6ed7d1ec-c8cf-415e-b9b1-7d862e530578/-/preview/" style="width: 250px; height: 251px;" /></td>
+			<td style="width:50%;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/20328.%E2%80%85%EB%B0%B0%EC%97%B4%E2%80%85%EB%8F%8C%EB%A6%AC%EA%B8%B0%E2%80%857/c447d0e9.png" data-original-src="https://upload.acmicpc.net/7e3bdcc1-b486-47d9-89b1-5ebbc53cb5a2/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 250px; height: 251px;" /></td>
+			<td style="width:50%;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/20328.%E2%80%85%EB%B0%B0%EC%97%B4%E2%80%85%EB%8F%8C%EB%A6%AC%EA%B8%B0%E2%80%857/2062cdcb.png" data-original-src="https://upload.acmicpc.net/6ed7d1ec-c8cf-415e-b9b1-7d862e530578/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 250px; height: 251px;" /></td>
 		</tr>
 		<tr>
 			<th>배열</th>
@@ -102,8 +102,8 @@
 <table class="table table-bordered td-center th-center" style="width: 100%;">
 	<tbody>
 		<tr>
-			<td style="width:50%;"><img alt="" src="https://upload.acmicpc.net/fc167739-a773-4999-b539-e415dca2460d/-/preview/" style="width: 250px; height: 251px;" /></td>
-			<td style="width:50%;"><img alt="" src="https://upload.acmicpc.net/4c185ecd-0e68-4cd2-88d9-5b79253970f8/-/preview/" style="width: 250px; height: 251px;" /></td>
+			<td style="width:50%;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/20328.%E2%80%85%EB%B0%B0%EC%97%B4%E2%80%85%EB%8F%8C%EB%A6%AC%EA%B8%B0%E2%80%857/9acf9c81.png" data-original-src="https://upload.acmicpc.net/fc167739-a773-4999-b539-e415dca2460d/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 250px; height: 251px;" /></td>
+			<td style="width:50%;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/20328.%E2%80%85%EB%B0%B0%EC%97%B4%E2%80%85%EB%8F%8C%EB%A6%AC%EA%B8%B0%E2%80%857/6a21c927.png" data-original-src="https://upload.acmicpc.net/4c185ecd-0e68-4cd2-88d9-5b79253970f8/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 250px; height: 251px;" /></td>
 		</tr>
 		<tr>
 			<th>배열</th>
@@ -117,8 +117,8 @@
 <table class="table table-bordered td-center th-center" style="width: 100%;">
 	<tbody>
 		<tr>
-			<td style="width:50%;"><img alt="" src="https://upload.acmicpc.net/97f4a416-def3-4f54-b9c8-e8f065c3cdb8/-/preview/" style="width: 250px; height: 251px;" /></td>
-			<td style="width:50%;"><img alt="" src="https://upload.acmicpc.net/e626a283-8e42-4cfd-bb88-162eddff248f/-/preview/" style="width: 250px; height: 251px;" /></td>
+			<td style="width:50%;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/20328.%E2%80%85%EB%B0%B0%EC%97%B4%E2%80%85%EB%8F%8C%EB%A6%AC%EA%B8%B0%E2%80%857/497b90cc.png" data-original-src="https://upload.acmicpc.net/97f4a416-def3-4f54-b9c8-e8f065c3cdb8/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 250px; height: 251px;" /></td>
+			<td style="width:50%;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/20328.%E2%80%85%EB%B0%B0%EC%97%B4%E2%80%85%EB%8F%8C%EB%A6%AC%EA%B8%B0%E2%80%857/6eaaaff2.png" data-original-src="https://upload.acmicpc.net/e626a283-8e42-4cfd-bb88-162eddff248f/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 250px; height: 251px;" /></td>
 		</tr>
 		<tr>
 			<th>배열</th>
@@ -132,8 +132,8 @@
 <table class="table table-bordered td-center th-center" style="width: 100%;">
 	<tbody>
 		<tr>
-			<td style="width:50%;"><img alt="" src="https://upload.acmicpc.net/10084e04-eb44-4973-96ae-9b8e6f677f4b/-/preview/" style="width: 250px; height: 251px;" /></td>
-			<td style="width:50%;"><img alt="" src="https://upload.acmicpc.net/73d646d9-8368-4f87-834f-85b420e18960/-/preview/" style="width: 250px; height: 251px;" /></td>
+			<td style="width:50%;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/20328.%E2%80%85%EB%B0%B0%EC%97%B4%E2%80%85%EB%8F%8C%EB%A6%AC%EA%B8%B0%E2%80%857/3fd4a8e6.png" data-original-src="https://upload.acmicpc.net/10084e04-eb44-4973-96ae-9b8e6f677f4b/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 250px; height: 251px;" /></td>
+			<td style="width:50%;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/20328.%E2%80%85%EB%B0%B0%EC%97%B4%E2%80%85%EB%8F%8C%EB%A6%AC%EA%B8%B0%E2%80%857/09949205.png" data-original-src="https://upload.acmicpc.net/73d646d9-8368-4f87-834f-85b420e18960/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 250px; height: 251px;" /></td>
 		</tr>
 		<tr>
 			<th>배열</th>
@@ -147,8 +147,8 @@
 <table class="table table-bordered td-center th-center" style="width: 100%;">
 	<tbody>
 		<tr>
-			<td style="width:50%;"><img alt="" src="https://upload.acmicpc.net/fd814d8a-0009-411d-9a41-b2a5a1ad7545/-/preview/" style="width: 250px; height: 251px;" /></td>
-			<td style="width:50%;"><img alt="" src="https://upload.acmicpc.net/51d21c8f-46e7-491f-ad5c-9669226023e5/-/preview/" style="width: 250px; height: 251px;" /></td>
+			<td style="width:50%;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/20328.%E2%80%85%EB%B0%B0%EC%97%B4%E2%80%85%EB%8F%8C%EB%A6%AC%EA%B8%B0%E2%80%857/2a311d95.png" data-original-src="https://upload.acmicpc.net/fd814d8a-0009-411d-9a41-b2a5a1ad7545/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 250px; height: 251px;" /></td>
+			<td style="width:50%;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/20328.%E2%80%85%EB%B0%B0%EC%97%B4%E2%80%85%EB%8F%8C%EB%A6%AC%EA%B8%B0%E2%80%857/7cce2f3f.png" data-original-src="https://upload.acmicpc.net/51d21c8f-46e7-491f-ad5c-9669226023e5/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 250px; height: 251px;" /></td>
 		</tr>
 		<tr>
 			<th>배열</th>

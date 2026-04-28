@@ -22,7 +22,7 @@
 
 <p>Alice challenged you to play the game and win by asking as few questions as possible.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/f35f0eab-b2d2-4904-b43c-77842e8728a9/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/19249.%E2%80%85Guessing%E2%80%85Game/e71d9490.png" data-original-src="https://upload.acmicpc.net/f35f0eab-b2d2-4904-b43c-77842e8728a9/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>Given all the sequences that appear on the cards, find the minimal number of questions needed to uniquely determine the sequence, no matter what card is picked by Alice.</p>
 

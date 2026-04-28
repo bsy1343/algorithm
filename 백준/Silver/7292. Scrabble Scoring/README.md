@@ -30,7 +30,7 @@
 
 <p>Bonus squares are shown below for the top left quadrant of the board and are symmetrically placed on the rest of the board, i.e. the board is reflected about column H and row 8.</p>
 
-<p><img alt="" src="https://onlinejudgeimages.s3.amazonaws.com/problem/7292/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202017-01-12%20%EC%98%A4%EC%A0%84%209.18.29.png" style="height:323px; width:650px" />A play is denoted by specifying a starting position and orientation (row, column for horizontal words and column, row for vertical words) and the word. In actual play one would also need to worry about tiles already on the board, blank tiles, tiles in adjacent squares, bonus points for playing all the letters on your rack and so on, but we will ignore those details for this problem.</p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/7292.%E2%80%85Scrabble%E2%80%85Scoring/e75c9818.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/7292/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202017-01-12%20%EC%98%A4%EC%A0%84%209.18.29.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:323px; width:650px" />A play is denoted by specifying a starting position and orientation (row, column for horizontal words and column, row for vertical words) and the word. In actual play one would also need to worry about tiles already on the board, blank tiles, tiles in adjacent squares, bonus points for playing all the letters on your rack and so on, but we will ignore those details for this problem.</p>
 
 ### 입력
 

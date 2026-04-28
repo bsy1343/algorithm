@@ -30,4 +30,4 @@
 
 ### 힌트
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/937961a9-33a1-46da-905d-219cee9469fd/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/8337.%E2%80%85Rectangles%E2%80%852/23762191.png" data-original-src="https://upload.acmicpc.net/937961a9-33a1-46da-905d-219cee9469fd/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>

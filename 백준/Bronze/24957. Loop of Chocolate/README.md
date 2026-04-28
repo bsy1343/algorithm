@@ -18,7 +18,7 @@
 
 <p>Let&rsquo;s make sweets of a fancy shape that is a loop of chocolate.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/6cbc5fd3-f9fd-4a44-afb3-14fc9b69b931/-/preview/" style="width: 149px; height: 110px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/24957.%E2%80%85Loop%E2%80%85of%E2%80%85Chocolate/b6c46e6d.png" data-original-src="https://upload.acmicpc.net/6cbc5fd3-f9fd-4a44-afb3-14fc9b69b931/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 149px; height: 110px;" /></p>
 
 <p style="text-align: center;">Figure A.1. A loop of chocolate formed by a union of six spheres</p>
 
@@ -27,8 +27,8 @@
 <table class="table table-bordered td-center">
 	<tbody>
 		<tr>
-			<td style="width: 50%;"><img alt="" src="https://upload.acmicpc.net/195847e2-27fd-4606-be9d-3ee7cfbf90a7/-/preview/" style="width: 149px; height: 110px;" /></td>
-			<td style="width: 50%;"><img alt="" src="https://upload.acmicpc.net/94bcbe45-0044-4a92-b29a-57ca768bc4d8/-/preview/" style="width: 148px; height: 110px;" /></td>
+			<td style="width: 50%;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/24957.%E2%80%85Loop%E2%80%85of%E2%80%85Chocolate/9361ae4d.png" data-original-src="https://upload.acmicpc.net/195847e2-27fd-4606-be9d-3ee7cfbf90a7/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 149px; height: 110px;" /></td>
+			<td style="width: 50%;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/24957.%E2%80%85Loop%E2%80%85of%E2%80%85Chocolate/c51a70e7.png" data-original-src="https://upload.acmicpc.net/94bcbe45-0044-4a92-b29a-57ca768bc4d8/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 148px; height: 110px;" /></td>
 		</tr>
 		<tr>
 			<td style="width: 50%;">(a) Union of four spheres</td>

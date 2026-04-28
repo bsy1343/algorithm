@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="display: flex; flex-direction: row; justify-content: center;"><img alt="눈덩이 굴리기" src="https://upload.acmicpc.net/1da78133-e653-4037-8507-c87f62cfb820/-/preview/" style="max-height: 150px; max-width: 100%;" /></p>
+<p style="display: flex; flex-direction: row; justify-content: center;"><img alt="눈덩이 굴리기" src="%EB%B0%B1%EC%A4%80/Platinum/31447.%E2%80%85%EB%88%88%EB%8D%A9%EC%9D%B4%E2%80%85%EA%B5%B4%EB%A6%AC%EA%B8%B0/cdb775d8.png" data-original-src="https://upload.acmicpc.net/1da78133-e653-4037-8507-c87f62cfb820/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="max-height: 150px; max-width: 100%;" /></p>
 
 <p>$N$개의 지점이 $N-1$개의 길로 연결되어 있는 트리 형태의 코스가 있다. 지점들은 $1$부터 $N$까지 각각 하나씩 번호가 붙어있다. $N$명의 선수들은 각 지점에 한 명씩 배치되고, $i$번 지점에 있는 선수는 무게가 $W_i$인 눈덩이를 굴리며 모두 같은 도착 지점을 향해 최단 경로로 나아간다. 어떤 선수가 무게 $w$의 눈덩이를 굴리며 길 하나를 지나려면 $w$만큼의 노력이 필요하다.</p>
 

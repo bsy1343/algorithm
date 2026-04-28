@@ -21,13 +21,13 @@
 <table align="center" border="1" cellpadding="1" cellspacing="1" class="table table-bordered" style="width: 450px;">
 	<tbody>
 		<tr>
-			<td style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/ab1c0f0a-af36-4dab-a862-62d4f006c518/-/preview/" /></td>
+			<td style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/25712.%E2%80%85%EC%9D%B8%EA%B2%BD%EA%B0%95/f7f5c472.png" data-original-src="https://upload.acmicpc.net/ab1c0f0a-af36-4dab-a862-62d4f006c518/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></td>
 		</tr>
 		<tr>
 			<td style="text-align: center;">인경강을 만들 수 있는 예</td>
 		</tr>
 		<tr>
-			<td style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/60218dd1-9fe3-43b7-8d50-b6c49b158c8d/-/preview/" /></td>
+			<td style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/25712.%E2%80%85%EC%9D%B8%EA%B2%BD%EA%B0%95/4687208d.png" data-original-src="https://upload.acmicpc.net/60218dd1-9fe3-43b7-8d50-b6c49b158c8d/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></td>
 		</tr>
 		<tr>
 			<td style="text-align: center;">인경강을 만들 수 없는 예</td>
@@ -43,7 +43,7 @@
 	<li>어떤(적어도 하나)&nbsp;1번 열의 물에서 출발하면&nbsp;위 &middot; 아래 &middot; 오른쪽으로 인접한 물로 0번 이상 이동해&nbsp;<em>M</em>번 열의 물에 도달할 수 있다.</li>
 </ul>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/65d132b8-7233-4f7d-bc15-878639fed296/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/25712.%E2%80%85%EC%9D%B8%EA%B2%BD%EA%B0%95/588dc73c.png" data-original-src="https://upload.acmicpc.net/65d132b8-7233-4f7d-bc15-878639fed296/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>입력으로 1열부터 <em>M</em>열까지 <em>M</em>개의 <strong>열 정보</strong>가 주어진다. 열 정보는 각 열에 물이 어떻게 분포하는지 나타내는 길이가 짝수인 수열이다. 수열은 빈 수열에서 시작해 다음 과정을 순서대로 시행해&nbsp;만들어지며, 열에 물이 하나도 없는 경우는 주어지지 않는다.</p>
 

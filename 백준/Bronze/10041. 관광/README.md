@@ -24,7 +24,7 @@
 
 <p>제주시에는 북동방향 도로도 존재한다. 가장 북쪽의 도로와 동쪽 도로에 있는 교차로를 제외한 모든 교차로에는 북동방향 도로가 존재한다. 즉, 교차로 (i,j)에서 (i-1,j-1)이나 (i+1,j+1)이 존재하는 경우에는 그 교차로로 한 번에 이동할 수 있다.</p>
 
-<p><img alt="" src="/upload/images/2014-yo-t3-fig01-ko.png" style="height:250px; width:320px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/10041.%E2%80%85%EA%B4%80%EA%B4%91/7ba88dce.png" data-original-src="https://www.acmicpc.net/upload/images/2014-yo-t3-fig01-ko.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:250px; width:320px" /></p>
 
 <p>재환이는 자신이 방문하고 싶은 관광지 N개를 미리 정해왔다. i번째로 방문할 관광지는 (X<sub>i</sub>, Y<sub>i</sub>)에 있다. 상근이는 여행에 걸리는 시간을 최소로 하기 위해서 통과해야 하는 길의 개수를 적게 하려고 한다. 관광지를 재환이가 정한 순서대로 방문하면서 지나야 하는 길의 최소 개수를 구하는 프로그램을 작성하시오.</p>
 

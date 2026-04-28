@@ -28,27 +28,27 @@
 
 <p>아래 예시를 참고하자.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/4ac072f3-4143-4ea0-b6b8-bcf5eee3d847/-/preview/" style="height: 394px; width: 700px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/24460.%E2%80%85%ED%8A%B9%EB%B3%84%EC%83%81%EC%9D%B4%EB%9D%BC%EB%8F%84%E2%80%85%EB%B0%9B%EA%B3%A0%E2%80%85%EC%8B%B6%EC%96%B4/1588fbc7.png" data-original-src="https://upload.acmicpc.net/4ac072f3-4143-4ea0-b6b8-bcf5eee3d847/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 394px; width: 700px;" /></p>
 
 <p>위와 같은 의자 배열이 있다고 가정하자. 이를 네 개의 구역으로 나누면 아래와 같다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/a97397ab-f9de-49d9-b528-097bfee40e9b/-/preview/" style="height: 394px; width: 700px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/24460.%E2%80%85%ED%8A%B9%EB%B3%84%EC%83%81%EC%9D%B4%EB%9D%BC%EB%8F%84%E2%80%85%EB%B0%9B%EA%B3%A0%E2%80%85%EC%8B%B6%EC%96%B4/c4481f32.png" data-original-src="https://upload.acmicpc.net/a97397ab-f9de-49d9-b528-097bfee40e9b/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 394px; width: 700px;" /></p>
 
 <p>나누어진 구역의 왼쪽 위 구역을 다시 네 개의 구역으로 나누면 아래와 같다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/9bc698f1-b0fe-4fd4-a97b-5d6def59dac0/-/preview/" style="height: 394px; width: 700px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/24460.%E2%80%85%ED%8A%B9%EB%B3%84%EC%83%81%EC%9D%B4%EB%9D%BC%EB%8F%84%E2%80%85%EB%B0%9B%EA%B3%A0%E2%80%85%EC%8B%B6%EC%96%B4/3ddb420d.png" data-original-src="https://upload.acmicpc.net/9bc698f1-b0fe-4fd4-a97b-5d6def59dac0/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 394px; width: 700px;" /></p>
 
 <p>여기에서 추첨번호가 두 번째로 낮은 사람을 고르면 아래와 같다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/9e87ed70-e9f0-4265-a7ab-bc683bb09bfb/-/preview/" style="height: 394px; width: 700px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/24460.%E2%80%85%ED%8A%B9%EB%B3%84%EC%83%81%EC%9D%B4%EB%9D%BC%EB%8F%84%E2%80%85%EB%B0%9B%EA%B3%A0%E2%80%85%EC%8B%B6%EC%96%B4/ca63b389.png" data-original-src="https://upload.acmicpc.net/9e87ed70-e9f0-4265-a7ab-bc683bb09bfb/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 394px; width: 700px;" /></p>
 
 <p>이와 같은 작업을 모든 영역에 대해 실행하면 아래와 같다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/48969422-120b-4f08-a569-5ba3a2986bd5/-/preview/" style="height: 394px; width: 700px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/24460.%E2%80%85%ED%8A%B9%EB%B3%84%EC%83%81%EC%9D%B4%EB%9D%BC%EB%8F%84%E2%80%85%EB%B0%9B%EA%B3%A0%E2%80%85%EC%8B%B6%EC%96%B4/b68cc6cc.png" data-original-src="https://upload.acmicpc.net/48969422-120b-4f08-a569-5ba3a2986bd5/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 394px; width: 700px;" /></p>
 
 <p>따라서 특별상을 받는 추첨번호는 아래와 같다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/15ca0a46-e06a-496b-8a02-5c79e58a2b18/-/preview/" style="height: 394px; width: 700px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/24460.%E2%80%85%ED%8A%B9%EB%B3%84%EC%83%81%EC%9D%B4%EB%9D%BC%EB%8F%84%E2%80%85%EB%B0%9B%EA%B3%A0%E2%80%85%EC%8B%B6%EC%96%B4/1d35bdbe.png" data-original-src="https://upload.acmicpc.net/15ca0a46-e06a-496b-8a02-5c79e58a2b18/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 394px; width: 700px;" /></p>
 
 <p>따라서, 추첨번호 $3$이 적힌 의자에 앉은 참가자가 특별상을 받는다.</p>
 

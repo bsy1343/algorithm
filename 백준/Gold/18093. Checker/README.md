@@ -44,4 +44,4 @@
 
 <p>Clarifications of examples:</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/84bcd7d0-a57d-4a61-96a3-11659002b836/-/preview/" style="width: 608px; height: 182px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/18093.%E2%80%85Checker/62bcaa01.png" data-original-src="https://upload.acmicpc.net/84bcd7d0-a57d-4a61-96a3-11659002b836/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 608px; height: 182px;" /></p>

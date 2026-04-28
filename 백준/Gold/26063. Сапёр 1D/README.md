@@ -22,7 +22,7 @@
 
 <p>Вот пример поля одномерного Сапёра ширины $6$:</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/3990c92f-25a1-4433-b201-e0dd4c8cb11c/-/preview/" style="width: 256px; height: 96px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/26063.%E2%80%85%D0%A1%D0%B0%D0%BF%D1%91%D1%80%E2%80%851D/efa73bb1.png" data-original-src="https://upload.acmicpc.net/3990c92f-25a1-4433-b201-e0dd4c8cb11c/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 256px; height: 96px;" /></p>
 
 <p>Проблема в том, что даже в одномерном Сапёре решение не всегда можно гарантированно найти. Мы предлагаем вам для каждого $N$ посчитать количество возможный полей ширины $N$, которые можно гарантированно решить, не полагаясь на удачу.</p>
 
@@ -38,8 +38,8 @@
 
 <p>Во втором примере есть два поля, которые можно гарантированно решить: </p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/dab3e676-d112-4192-8c43-fd7a12fe8f8c/-/preview/" style="width: 256px; height: 106px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/26063.%E2%80%85%D0%A1%D0%B0%D0%BF%D1%91%D1%80%E2%80%851D/dad978e7.png" data-original-src="https://upload.acmicpc.net/dab3e676-d112-4192-8c43-fd7a12fe8f8c/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 256px; height: 106px;" /></p>
 
 <p>Есть два других поля ширины $2$, но их невозможно отличить друг от друга просто посмотрев на нижний ряд:</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/5365c6d7-e7ba-46fb-a75c-75be6099ae30/-/preview/" style="width: 256px; height: 106px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/26063.%E2%80%85%D0%A1%D0%B0%D0%BF%D1%91%D1%80%E2%80%851D/b272175b.png" data-original-src="https://upload.acmicpc.net/5365c6d7-e7ba-46fb-a75c-75be6099ae30/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 256px; height: 106px;" /></p>

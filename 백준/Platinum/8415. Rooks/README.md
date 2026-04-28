@@ -48,6 +48,6 @@
 
 ### 힌트
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/b45f0527-0d6d-44a0-90c4-a59a1bb3c1de/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/8415.%E2%80%85Rooks/b3539206.png" data-original-src="https://upload.acmicpc.net/b45f0527-0d6d-44a0-90c4-a59a1bb3c1de/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p style="text-align: center;">The illustration of all possible configurations of rooks for the first board from the example input.</p>

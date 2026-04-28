@@ -34,7 +34,7 @@
 
 <p>For each chain code in the input, the output will be the area of the region (i.e. the number of pixels belonging to it), each printed on its own line.</p>
 
-<p style="text-align: center;"><img alt="" src="/upload/images2/dir(1).png" style="height:400px; width:414px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/4819.%E2%80%85Chain%E2%80%85Code/04af891f.png" data-original-src="https://www.acmicpc.net/upload/images2/dir(1).png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:400px; width:414px" /></p>
 
 <p style="text-align: center;">Figure 1: Directions.</p>
 
@@ -42,6 +42,6 @@
 
 ### 힌트
 
-<p style="text-align: center;"><img alt="" src="/upload/images2/dir2.png" style="height:396px; width:423px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/4819.%E2%80%85Chain%E2%80%85Code/7f6f0891.png" data-original-src="https://www.acmicpc.net/upload/images2/dir2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:396px; width:423px" /></p>
 
 <p style="text-align: center;">Figure 2: Example area.</p>

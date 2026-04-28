@@ -24,7 +24,7 @@
 
 <p>예를 들어, 그래프가</p>
 
-<p><img alt="" src="https://upload.acmicpc.net/ab89f897-3087-404c-b208-439896ab36ad/-/preview/" style="width: 190px; height: 181px;" /><br />
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/16502.%E2%80%85%EA%B7%B8%EB%85%80%EB%A5%BC%E2%80%85%EC%B0%BE%EC%95%84%EC%84%9C/04a1ab22.png" data-original-src="https://upload.acmicpc.net/ab89f897-3087-404c-b208-439896ab36ad/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 190px; height: 181px;" /><br />
 이면, A매장에서 B매장으로 항상 가고, B매장에서는 30% 확률로 C매장으로 움직이고, 등등.</p>
 
 <p>이 경우, 임의의 매장에서 쇼핑을 시작해서 그녀가 10분후에 각 매장에 있을 확률은 A 15%, B 25%, C. 7.5%, D 52.5% 이다. 20분후는 각각 4.5%, 15%, 7.5%, 73% 이다.</p>

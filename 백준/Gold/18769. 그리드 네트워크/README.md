@@ -23,16 +23,16 @@
 <table class="table table-bordered" style="width: 100%;">
 	<tbody>
 		<tr>
-			<td style="width: 50%; vertical-align: middle; text-align: center"><img alt="" src="https://upload.acmicpc.net/60cb8704-1ffe-4767-b9bc-91d3dcb379d6/-/preview/" style="width: 385px; height: 223px;" /></td>
-			<td style="width: 50%; vertical-align: middle; text-align: center"><img alt="" src="https://upload.acmicpc.net/c9272c2b-4fad-431a-a2e2-9e7f3eb41a61/-/preview/" style="width: 386px; height: 223px;" /></td>
+			<td style="width: 50%; vertical-align: middle; text-align: center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/18769.%E2%80%85%EA%B7%B8%EB%A6%AC%EB%93%9C%E2%80%85%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/99e653e8.png" data-original-src="https://upload.acmicpc.net/60cb8704-1ffe-4767-b9bc-91d3dcb379d6/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 385px; height: 223px;" /></td>
+			<td style="width: 50%; vertical-align: middle; text-align: center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/18769.%E2%80%85%EA%B7%B8%EB%A6%AC%EB%93%9C%E2%80%85%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/2c619ca9.png" data-original-src="https://upload.acmicpc.net/c9272c2b-4fad-431a-a2e2-9e7f3eb41a61/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 386px; height: 223px;" /></td>
 		</tr>
 		<tr>
 			<td style="width: 50%; vertical-align: middle; text-align: center">(a)</td>
 			<td style="width: 50%; vertical-align: middle; text-align: center">(b)</td>
 		</tr>
 		<tr>
-			<td style="width: 50%; vertical-align: middle; text-align: center"><img alt="" src="https://upload.acmicpc.net/93b2a9ec-b17c-4f30-aa4d-25f748219d38/-/preview/" style="width: 386px; height: 223px;" /></td>
-			<td style="width: 50%; vertical-align: middle; text-align: center"><img alt="" src="https://upload.acmicpc.net/bf20c4c4-c71d-4df6-bed8-bbb270b65dd0/-/preview/" style="width: 383px; height: 223px;" /></td>
+			<td style="width: 50%; vertical-align: middle; text-align: center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/18769.%E2%80%85%EA%B7%B8%EB%A6%AC%EB%93%9C%E2%80%85%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/7e18843e.png" data-original-src="https://upload.acmicpc.net/93b2a9ec-b17c-4f30-aa4d-25f748219d38/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 386px; height: 223px;" /></td>
+			<td style="width: 50%; vertical-align: middle; text-align: center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/18769.%E2%80%85%EA%B7%B8%EB%A6%AC%EB%93%9C%E2%80%85%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/605480a3.png" data-original-src="https://upload.acmicpc.net/bf20c4c4-c71d-4df6-bed8-bbb270b65dd0/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 383px; height: 223px;" /></td>
 		</tr>
 		<tr>
 			<td style="width: 50%; vertical-align: middle; text-align: center">(c)</td>

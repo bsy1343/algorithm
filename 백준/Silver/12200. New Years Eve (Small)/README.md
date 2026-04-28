@@ -18,7 +18,7 @@
 
 <p>At new years party there is a pyramidal arrangement of glasses for wine. For example, at the top level, there would just be one glass, at the second level there would be three, then 6 and then 10 and so on and so forth like the following image.&nbsp;</p>
 
-<p><img alt="" src="https://onlinejudgeimages.s3.amazonaws.com/problem/12200/images.jpeg" style="height:228px; width:212px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/12200.%E2%80%85New%E2%80%85Years%E2%80%85Eve%E2%80%85(Small)/39185c7a.jpeg" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/12200/images.jpeg" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:228px; width:212px" /></p>
 
 <p>The glasses are numbered using 2 numbers, L and N. L represents the level of the glass and N represents the number in that level. Numbers in a given level are as follows:</p>
 

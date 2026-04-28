@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p><img alt="pokemon_go_logo.png" src="https://upload.acmicpc.net/c2245e53-4103-4412-8d1b-859bbb9776fa/-/preview/" /></p>
+<p><img alt="pokemon_go_logo.png" src="%EB%B0%B1%EC%A4%80/Silver/13717.%E2%80%85%ED%8F%AC%EC%BC%93%EB%AA%AC%E2%80%85GO/353dd8b5.png" data-original-src="https://upload.acmicpc.net/c2245e53-4103-4412-8d1b-859bbb9776fa/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>모바일 게임을 즐겨 하는 지우는&nbsp;<a href="https://halfbrick.com/our-games/jetpack-joyride/">Jetpack Joyride</a>&nbsp;에 금새 질렸고 <a href="https://www.pokemongo.com/">포켓몬 GO</a>를 시작했다! 이 게임의 재미있는 점은 포켓몬을 진화시킬 수 있다는 것이다.</p>
 

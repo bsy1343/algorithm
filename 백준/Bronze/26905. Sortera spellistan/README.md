@@ -20,7 +20,7 @@
 
 <p>Vad &auml;r det minsta antalet platsbyten du beh&ouml;ver g&ouml;ra f&ouml;r att f&aring; listan sorterad? Vid ett platsbyte v&auml;ljer du tv&aring; intilliggande l&aring;tar och byter plats p&aring; dem.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/e979e29c-b871-4768-bbf4-98bd7050f147/-/preview/" style="width: 256px; height: 154px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/26905.%E2%80%85Sortera%E2%80%85spellistan/32342791.png" data-original-src="https://upload.acmicpc.net/e979e29c-b871-4768-bbf4-98bd7050f147/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 256px; height: 154px;" /></p>
 
 <p style="text-align: center;">&Ouml;versta raden visar l&aring;tarnas startordning i f&ouml;rsta exemplet. Pilarna visar platsbytena som beh&ouml;ver g&ouml;ras f&ouml;r att g&ouml;ra spellistan sorterad (understa raden)</p>
 

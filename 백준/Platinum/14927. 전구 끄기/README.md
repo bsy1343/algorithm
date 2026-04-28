@@ -20,25 +20,25 @@
 
 <p>예를 들어, &lt;그림1&gt; 같은 전구 판이 있다고 하자. 0은 전구가 꺼져 있는 것을 의미하고, 1은 전구가 켜져 있는 것을 의미한다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14927/1.png" style="height:207px; width:230px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/14927.%E2%80%85%EC%A0%84%EA%B5%AC%E2%80%85%EB%81%84%EA%B8%B0/c5293ed6.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14927/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:207px; width:230px" /></p>
 
 <p style="text-align: center;">&lt;그림 1&gt;</p>
 
 <p>&lt;그림 1&gt;에서 (2, 2) 전구(회색 부분)를 눌러보면, &lt;그림 2&gt;와 같이 전구 판이 변화한다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14927/2.png" style="height:206px; width:228px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/14927.%E2%80%85%EC%A0%84%EA%B5%AC%E2%80%85%EB%81%84%EA%B8%B0/13c87317.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14927/2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:206px; width:228px" /></p>
 
 <p style="text-align: center;">&lt;그림 2&gt;</p>
 
 <p>또 다른 예로 &lt;그림 3&gt;에서 (1,1)의 전구를 눌러보면,</p>
 
-<p style="text-align: center;"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14927/3.png" style="height:206px; width:229px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/14927.%E2%80%85%EC%A0%84%EA%B5%AC%E2%80%85%EB%81%84%EA%B8%B0/7d1d890f.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14927/3.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:206px; width:229px" /></p>
 
 <p style="text-align: center;">&lt;그림3&gt;</p>
 
 <p>&lt;그림4&gt;와 같이 전구판의 모습이 변화한다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14927/4.png" style="height:206px; width:228px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/14927.%E2%80%85%EC%A0%84%EA%B5%AC%E2%80%85%EB%81%84%EA%B8%B0/949c7f98.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14927/4.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:206px; width:228px" /></p>
 
 <p style="text-align: center;">&lt;그림4&gt;</p>
 

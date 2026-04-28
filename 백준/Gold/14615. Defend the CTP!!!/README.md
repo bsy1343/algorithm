@@ -38,6 +38,6 @@
 
 <p><strong>아래 그림은 N이 6인 CTP의 서로 다른 두 시나리오를 보여준다.</strong></p>
 
-<p style="text-align: center;"><strong><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14615/1.png" style="height:205px; width:365px" /></strong></p>
+<p style="text-align: center;"><strong><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/14615.%E2%80%85Defend%E2%80%85the%E2%80%85CTP!!!/b02ee32e.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14615/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:205px; width:365px" /></strong></p>
 
 <p dir="ltr">그림 (a)는 5번 도시에 반물질 폭탄이 설치된 시나리오다. 슈퍼히어로 미노는 1번 도시에서 빨간색으로 표시된 튜브를 따라 5번 도시로 이동한 뒤 폭탄을 가지고 6번 도시로 이동하면 CTP를 구할 수 있다. 그림 (b)는 2번 도시에 반물질 폭탄이 설치된 경우다. 이 경우는 빨간색으로 표시된 튜브를 따라 2번 도시로 이동할 수 있지만 2번 도시에서 6번 도시로 이동할 수 없기 때문에 CTP는 빌런 재유니스에 의해 파괴된다.</p>

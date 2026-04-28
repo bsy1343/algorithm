@@ -38,4 +38,4 @@
 
 <p>One way of constructing the smallest word is illustrated in the following image:&nbsp;</p>
 
-<p><img alt="" src="https://onlinejudgeimages.s3.amazonaws.com/problem/13940/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-11-28%20%EC%98%A4%ED%9B%84%204.48.09.png" style="height:242px; width:300px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/13940.%E2%80%85Pohlepko/55b40b94.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/13940/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-11-28%20%EC%98%A4%ED%9B%84%204.48.09.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:242px; width:300px" /></p>

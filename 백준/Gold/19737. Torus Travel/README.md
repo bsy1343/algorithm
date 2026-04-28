@@ -22,7 +22,7 @@
 
 <p>Each lesser road is a property of one of $n$ countries. Each country has only $4$ cities on the intersections of it&#39;s lesser road with all $4$ bigger roads.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/0fa6e4c5-4074-45a4-be0e-cfb6b5f6d82e/-/preview/" style="width: 227px; height: 170px;" /><img alt="" src="https://upload.acmicpc.net/1a2113c3-7e1a-4cbe-b5ae-2f90923ce820/-/preview/" style="width: 261px; height: 170px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/19737.%E2%80%85Torus%E2%80%85Travel/3921910e.png" data-original-src="https://upload.acmicpc.net/0fa6e4c5-4074-45a4-be0e-cfb6b5f6d82e/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 227px; height: 170px;" /><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/19737.%E2%80%85Torus%E2%80%85Travel/c067984a.png" data-original-src="https://upload.acmicpc.net/1a2113c3-7e1a-4cbe-b5ae-2f90923ce820/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 261px; height: 170px;" /></p>
 
 <p style="text-align: center;">Left picture illustrates the definition and shows minor and major radiuses. The right one shows $4$ greater roads and $n = 3$ lesser roads with cities on their intersections.</p>
 

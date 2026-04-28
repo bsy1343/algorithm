@@ -18,7 +18,7 @@
 
 <p>숭실 대학교 정보 과학관은 유배를 당해서 &nbsp;캠퍼스의 길 건너편에 있다. 그래서 컴퓨터 학부 학생들은 캠퍼스를 &lsquo;본대&rsquo; 라고 부르고 정보 과학관을 &lsquo;정보대&rsquo; 라고 부른다. 준영이 또한 컴퓨터 학부 소속 학생이라서 정보 과학관에 박혀있으며 항상 꽃 이 활짝 핀 본 대를 선망한다. 어느 날 준영이는 본 대를 산책하기로 결심하였다. 숭실 대학교 캠퍼스 지도는 아래와 같다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/12850/1.png" style="height:644px; width:940px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/12850.%E2%80%85%EB%B3%B8%EB%8C%80%E2%80%85%EC%82%B0%EC%B1%852/69d4bcca.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/12850/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:644px; width:940px" /></p>
 
 <p style="text-align: center;">(편의 상 문제에서는 위 건물만 등장한다고 가정하자)</p>
 

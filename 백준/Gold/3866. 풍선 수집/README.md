@@ -20,7 +20,7 @@
 	상근이는 TGN에서 풍선을 잡는 게임을 만들고 있다. 이 게임은 사람들의 동심을 사로잡을 이차원 게임이다. 게임에서 풍선은 하나씩 땅으로 떨어진다. 플레이어는 로봇 자동차를 조종해서 땅으로 떨어지는 풍선을 잡는다. 플레이어는 로봇을 왼쪽이나 오른쪽으로 움직일 수 있고, 그 자리에 멈추어 있게 할 수도 있다. 한 풍선이 땅에 닿을 때 반드시 그 위치에 차량이 있어야 한다. 만약, 차량이 없다면, 풍선은 폭발하게 되고 게임은 끝난다.</p>
 
 <p>
-	<img alt="" src="/upload/images/balloon.png" style="width: 477px; height: 291px;" /></p>
+	<img alt="" src="%EB%B0%B1%EC%A4%80/Gold/3866.%E2%80%85%ED%92%8D%EC%84%A0%E2%80%85%EC%88%98%EC%A7%91/98f20a92.png" data-original-src="https://www.acmicpc.net/upload/images/balloon.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 477px; height: 291px;" /></p>
 
 <p>
 	게임의 목표는 모든 풍선을 왼족에 있는 집에 보관하는 것이다. 로봇은 풍선을 한 번에 3개까지 운반할 수 있다. 로봇의 이동속도는 운반하는 풍선의 개수에 따라서 달라진다. 로봇이 운반하고 있는 풍선이 k개(k=0, 1, 2, 3)라면, 한 칸 움직이는데 (k+1)초가 걸린다. 플레이어는 로봇이 움직이는 거리가 적을수록 더 높은 점수를 얻게 된다.</p>

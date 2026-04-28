@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><img alt="" height="50%;" src="https://upload.acmicpc.net/b76ef3af-f786-4704-b16a-b35ed4c008f6/-/preview/" width="50%;" /></p>
+<p style="text-align: center;"><img alt="" height="50%;" src="%EB%B0%B1%EC%A4%80/Silver/20914.%E2%80%85QWERTY%E2%80%85%EC%9E%90%ED%8C%90/df399830.png" data-original-src="https://upload.acmicpc.net/b76ef3af-f786-4704-b16a-b35ed4c008f6/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" width="50%;" /></p>
 
 <p>Albert는 QWERTY 키보드를 이용해 (위 그림 참고) 영문 대문자로 (&#39;A&#39;-&#39;Z&#39;) 구성된&nbsp;문자열을 입력하고 싶다. 아직 키보드 만지는 것이 서툰 Albert는&nbsp;왼쪽 검지만을 이용해 버튼을 누르는 버릇이 있다.</p>
 

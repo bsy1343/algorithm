@@ -22,7 +22,7 @@
 
 <p>상근이는 이 원반을 이용해 가능한 많은 미니 JOIOI 탑을 만들려고 한다. 미니 JOIOI 탑은 3개의 원반으로 구성되며, 반지름이 작은 것부터 읽었을 때 <code>JOI</code>나 <code>IOI</code>이어야 한다. 한 미니 JOIOI 탑에 속한 원반은 다른 탑에 속할 수 없다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/58cba022-9053-4e69-964f-425f944d359b/-/preview/" style="width: 332px; height: 199px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/5530.%E2%80%85JOIOI%E2%80%85%ED%83%91/3a18a8e9.png" data-original-src="https://upload.acmicpc.net/58cba022-9053-4e69-964f-425f944d359b/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 332px; height: 199px;" /></p>
 
 <p>반지름이 작은 원반부터 순서대로 원반에 적혀져 있는 문자가 순서대로 주어진다. 이때, 만들 수 있는 미니 JOIOI 탑의 최대 개수를 구하는 프로그램을 작성하시오.</p>
 

@@ -26,7 +26,7 @@
 
 <p>백남이가 1등을 하여 축제를 즐길 수 있도록 도와주자.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/adc3d27c-9bf5-4cb8-bd56-29ef6f790996/-/preview/" style="height: 500px; width: 500px;" /><br />
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/23057.%E2%80%85%EB%8F%84%EC%A0%84%E2%80%85%EC%88%AB%EC%9E%90%EC%99%95/15f742a1.png" data-original-src="https://upload.acmicpc.net/adc3d27c-9bf5-4cb8-bd56-29ef6f790996/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 500px; width: 500px;" /><br />
 &nbsp;</p>
 
 ### 입력

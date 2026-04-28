@@ -20,7 +20,7 @@
 
 <p>Slike su na instagramu raspoređene u vi&scaron;e redaka, a svaki se redak sastoji od najvi&scaron;e tri slike. Također, slike su poredane po trenutku objave i to tako da se najnovija objava nalazi u gornjem lijevom kutu, a svaka sljedeća prati tzv. <em>redoslijed čitanja</em> &mdash; najprije slijeva nadesno, a zatim odozgo nadolje. Gospodin Malnar je odmah primijetio da su slike <strong>krivo preklopljene</strong>, odnosno, postoje retci u kojima se nalaze slike s različitih putovanja.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/d3d37384-09aa-427f-87ab-0816d49d8493/-/preview/" style="width: 380px; height: 153px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/18284.%E2%80%85Idili%C4%8Dni%E2%80%85Instagram/859bad9e.png" data-original-src="https://upload.acmicpc.net/d3d37384-09aa-427f-87ab-0816d49d8493/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 380px; height: 153px;" /></p>
 
 <p style="text-align: center;">Slike s putovannja A i B su na lijevoj figuri dobro preklopljene, dok na desnoj nisu.</p>
 
@@ -46,4 +46,4 @@
 
 <p>Poja&scaron;njenje drugog probnog primjera:</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/ccaccf7f-cf4a-4362-a4dd-9c5afc83365d/-/preview/" style="width: 396px; height: 278px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/18284.%E2%80%85Idili%C4%8Dni%E2%80%85Instagram/af36292a.png" data-original-src="https://upload.acmicpc.net/ccaccf7f-cf4a-4362-a4dd-9c5afc83365d/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 396px; height: 278px;" /></p>

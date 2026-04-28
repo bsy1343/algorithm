@@ -38,7 +38,7 @@
 
 <p>마지막 줄에는 길이가 100을 넘지않는 문자열이 주어지며, 종수가 움직이려고 하는 방향이다. 5는 그 자리에 그대로 있는 것을 나타내고, 나머지는 아래와 같은 방향을 나타낸다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/a5693c73-112b-416c-8398-42fddd09c6e7/-/preview/" style="width: 112px; height: 112px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/8972.%E2%80%85%EB%AF%B8%EC%B9%9C%E2%80%85%EC%95%84%EB%91%90%EC%9D%B4%EB%85%B8/8c05d237.png" data-original-src="https://upload.acmicpc.net/a5693c73-112b-416c-8398-42fddd09c6e7/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 112px; height: 112px;" /></p>
 
 <p>보드를 벗어나는 입력은 주어지지 않는다.</p>
 

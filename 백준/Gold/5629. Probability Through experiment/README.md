@@ -21,9 +21,9 @@
 <table class="table table-bordered td-center td-middle">
 	<tbody>
 		<tr>
-			<td><img alt="" src="https://upload.acmicpc.net/b990c42b-9123-472e-9da8-64b3b516d1f6/-/preview/" style="width: 258px; height: 261px;" /></td>
-			<td><img alt="" src="https://upload.acmicpc.net/3c2bfb93-cbcc-4839-b114-e5a3f93420d6/-/preview/" style="width: 204px; height: 183px;" /></td>
-			<td><img alt="" src="https://upload.acmicpc.net/28d3c459-c815-472e-89ad-d56c9c7daace/-/preview/" style="width: 193px; height: 170px;" /></td>
+			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/5629.%E2%80%85Probability%E2%80%85Through%E2%80%85experiment/33f31c73.png" data-original-src="https://upload.acmicpc.net/b990c42b-9123-472e-9da8-64b3b516d1f6/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 258px; height: 261px;" /></td>
+			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/5629.%E2%80%85Probability%E2%80%85Through%E2%80%85experiment/60c45ab6.png" data-original-src="https://upload.acmicpc.net/3c2bfb93-cbcc-4839-b114-e5a3f93420d6/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 204px; height: 183px;" /></td>
+			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/5629.%E2%80%85Probability%E2%80%85Through%E2%80%85experiment/60b98141.png" data-original-src="https://upload.acmicpc.net/28d3c459-c815-472e-89ad-d56c9c7daace/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 193px; height: 170px;" /></td>
 		</tr>
 		<tr>
 			<td>Figure 1: Pi approximation by counting the number of points inside the circle</td>

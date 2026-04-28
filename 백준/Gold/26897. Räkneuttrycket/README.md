@@ -20,7 +20,7 @@
 
 <p>Skriv ett program som ber&auml;knar det st&ouml;rsta m&ouml;jliga resultatet Hedvig kan f&aring;.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/95491def-c7fb-477e-b8f7-07cd3496d321/-/preview/" style="width: 277px; height: 300px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/26897.%E2%80%85R%C3%A4kneuttrycket/d72081c9.png" data-original-src="https://upload.acmicpc.net/95491def-c7fb-477e-b8f7-07cd3496d321/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 277px; height: 300px;" /></p>
 
 <p style="text-align: center;">En optimal evalueringsordning i andra exemplet.</p>
 

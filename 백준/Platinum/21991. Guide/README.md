@@ -30,4 +30,4 @@
 
 <p>The following pictures illustrate all the three tests from the example.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/d09966a7-f429-4d4e-ba76-0813dcd22352/-/preview/" style="width: 518px; height: 175px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/21991.%E2%80%85Guide/93755118.png" data-original-src="https://upload.acmicpc.net/d09966a7-f429-4d4e-ba76-0813dcd22352/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 518px; height: 175px;" /></p>

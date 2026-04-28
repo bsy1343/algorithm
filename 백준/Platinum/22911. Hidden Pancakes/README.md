@@ -20,7 +20,7 @@
 
 <p>For example, say we cook 4 pancakes. We first cook the pancake with radius 3 cm, and it is visible. Then, we cook the pancake with radius 1 cm, lay it on top of the first one and both are visible. Third, we cook the pancake with radius 2 cm, and now that covers the previous pancake, but not the first one, so 2 pancakes remain visible in total. Finally, we cook the pancake with radius 4 cm which covers the other pancakes leaving only 1 visible pancake. The picture below illustrates the state of the stack after each pancake is cooked. Within each stack, the fully colored pancakes are visible and the semi-transparent pancakes are not visible.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/baf3db07-084b-4750-b46f-bd0ade5f81a8/-/preview/" style="width: 400px; height: 139px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/22911.%E2%80%85Hidden%E2%80%85Pancakes/6fb06f99.png" data-original-src="https://upload.acmicpc.net/baf3db07-084b-4750-b46f-bd0ade5f81a8/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 400px; height: 139px;" /></p>
 
 <p>Let V<sub>i</sub> be the number of visible pancakes when the stack contains exactly i pancakes. In the example above, V<sub>1</sub> = 1, V<sub>2</sub> = 2, V<sub>3</sub> = 2, and V<sub>4</sub> = 1.</p>
 

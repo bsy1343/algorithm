@@ -18,7 +18,7 @@
 
 <p>Dr. Horrible desperately wants to get into the Evil League of Evil but is having a difficult time proving his competence as the mastermind that he is. Bad Horse rules over the league with an iron hoof and is evaluating his application with extreme skepticism. Meanwhile, arch-nemesis Captain Hammer, hero of the people and corporate tool, is making life exceedingly complicated for our poor villain. But, everything is about to change. Dr. Horrible is all set to pull off a major heist; the wondeflonium needed to complete work on his freeze ray is being transported by courier van&mdash;candy from a baby. Sadly, it&rsquo;s not as easy as Dr. Horrible suspected. The device he created to control the van became a jumble of wires that needs to be untangled. He&rsquo;d have Moist, his roommate, do it, but it&rsquo;s probably a bad idea to have Moist anywhere near circuitry (for obvious reasons). You better do it and do it fast, or else it&rsquo;s curtains for you&mdash;lacy, gently wafting curtains.</p>
 
-<p style="text-align: center;"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/4455/1.png" style="height:230px; width:228px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/4455.%E2%80%85The%E2%80%85Status%E2%80%85is%E2%80%85Not%E2%80%85Quo/d606d746.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/4455/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:230px; width:228px" /></p>
 
 <p style="text-align: center;">Figure 5: Connection point labels</p>
 
@@ -44,6 +44,6 @@
 
 ### 힌트
 
-<p style="text-align: center;"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/4455/2.png" style="height:223px; width:321px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/4455.%E2%80%85The%E2%80%85Status%E2%80%85is%E2%80%85Not%E2%80%85Quo/862ccebf.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/4455/2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:223px; width:321px" /></p>
 
 <p style="text-align: center;">Figure 6: First sample case</p>

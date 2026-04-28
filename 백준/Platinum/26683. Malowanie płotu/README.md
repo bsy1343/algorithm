@@ -22,7 +22,7 @@
 
 <p>Przykładowo, pomalowany płot może wyglądać następująco:</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/2d387bf2-b4cd-4fb1-b93a-6ee615d8da86/-/preview/" style="width: 188px; height: 101px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/26683.%E2%80%85Malowanie%E2%80%85p%C5%82otu/a40bffa9.png" data-original-src="https://upload.acmicpc.net/2d387bf2-b4cd-4fb1-b93a-6ee615d8da86/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 188px; height: 101px;" /></p>
 
 <p>Natomiast poniższa sytuacja jest niemożliwa z trzech r&oacute;żnych powod&oacute;w:</p>
 
@@ -32,7 +32,7 @@
 	<li>Przedziały segment&oacute;w pomalowane na sztachetach o numerach 5 i 6 są rozłączne.</li>
 </ul>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/0643dd29-a0d6-4003-ab53-f73112821ede/-/preview/" style="width: 188px; height: 101px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/26683.%E2%80%85Malowanie%E2%80%85p%C5%82otu/692280bb.png" data-original-src="https://upload.acmicpc.net/0643dd29-a0d6-4003-ab53-f73112821ede/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 188px; height: 101px;" /></p>
 
 <p>Napisz program, kt&oacute;ry obliczy, na ile r&oacute;żnych sposob&oacute;w Bajtek m&oacute;gł pomalować płot zgodnie z powyższymi zasadami. Dwa sposoby uznajemy za r&oacute;żne, jeśli istnieje segment sztachety pomalowany w jednym z nich i niepomalowany w drugim. Liczba sposob&oacute;w może być dość duża, więc wystarczy że podasz jej resztę z dzielenia przez liczbę pierwszą p.</p>
 

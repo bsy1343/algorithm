@@ -22,7 +22,7 @@
 
 <p>예를 들어 다음과 같은 경우를 보자.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/d08784a4-3ad9-4376-9659-14bbe399e7df/-/preview/" style="width: 436px; height: 172px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/2187.%E2%80%85%EC%A0%90%E2%80%85%EA%B3%A0%EB%A5%B4%EA%B8%B0/2c9911bf.png" data-original-src="https://upload.acmicpc.net/d08784a4-3ad9-4376-9659-14bbe399e7df/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 436px; height: 172px;" /></p>
 
 <p>이는 예제 데이터와 같은 경우고, 회색 부분처럼 선택했을 때, 가중치 최대-가중치 최소가 7이 되고 이 경우가 이 값이 최대가 되는 경우이다.</p>
 

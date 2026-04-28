@@ -38,7 +38,7 @@
 
 ### 힌트
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/b8496bc6-a01e-44ac-81ee-79252c6a580b/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/8399.%E2%80%85Farmer's%E2%80%85Field/58a27a74.png" data-original-src="https://upload.acmicpc.net/b8496bc6-a01e-44ac-81ee-79252c6a580b/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p align="center">This figure depicts the field from the sample input (dark color represents area belonging to the field).</p>
 

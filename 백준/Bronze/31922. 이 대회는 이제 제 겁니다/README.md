@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><img data-image="ddb33a12-6c5a-4052-851c-ee6aade7eccd" src="https://upload.acmicpc.net/ddb33a12-6c5a-4052-851c-ee6aade7eccd/-/preview/" style="width: 500px; height: 512px;" /></p>
+<p style="text-align: center;"><img data-image="ddb33a12-6c5a-4052-851c-ee6aade7eccd" src="%EB%B0%B1%EC%A4%80/Bronze/31922.%E2%80%85%EC%9D%B4%E2%80%85%EB%8C%80%ED%9A%8C%EB%8A%94%E2%80%85%EC%9D%B4%EC%A0%9C%E2%80%85%EC%A0%9C%E2%80%85%EA%B2%81%EB%8B%88%EB%8B%A4/640e978a.png" data-original-src="https://upload.acmicpc.net/ddb33a12-6c5a-4052-851c-ee6aade7eccd/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 500px; height: 512px;" /></p>
 
 <p style="text-align: center;"><cite>제 마음대로 우승할 수 있는 겁니다.</cite></p>
 

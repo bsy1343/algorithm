@@ -22,7 +22,7 @@
 
 <p>For example, the distance of <em>a</em> and <em>d</em>&nbsp;in the triangulation shown in Figure J.1 is three since the triangles, <em>a</em>, <em>b</em>, <em>c</em>, and <em>d</em>,&nbsp;should be visited to travel from <em>a</em> to <em>d</em>,&nbsp;and you have to hop three times crossing borders between triangles.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/a5a9e43c-c513-4e8f-abd1-31b61346355f/-/preview/" style="width: 175px; height: 199px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/17977.%E2%80%85Triangulation/f4eca618.png" data-original-src="https://upload.acmicpc.net/a5a9e43c-c513-4e8f-abd1-31b61346355f/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 175px; height: 199px;" /></p>
 
 <p style="text-align: center;">Figure J.1 A triangulation of a regular hexagon</p>
 

@@ -30,10 +30,10 @@
 <table class="table table-bordered td-center">
 	<tbody>
 		<tr>
-			<td><img alt="" src="https://upload.acmicpc.net/830e691c-1989-4613-8dc9-0257d20214fc/-/crop/216x156/0,0/-/preview/" style="width: 108px; height: 78px;" /></td>
-			<td><img alt="" src="https://upload.acmicpc.net/830e691c-1989-4613-8dc9-0257d20214fc/-/crop/188x156/246,0/-/preview/" style="width: 94px; height: 78px;" /></td>
-			<td><img alt="" src="https://upload.acmicpc.net/aded1664-9f0a-4026-bd52-37b978453881/-/preview/" style="width: 90px; height: 68px;" /></td>
-			<td><img alt="" src="https://upload.acmicpc.net/f18e7a59-08a6-4156-9690-e9ff061a9d1f/-/preview/" style="width: 94px; height: 68px;" /></td>
+			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/2643.%E2%80%85%EC%83%89%EC%A2%85%EC%9D%B4%E2%80%85%EC%98%AC%EB%A0%A4%E2%80%85%EB%86%93%EA%B8%B0/542c29b8.png" data-original-src="https://upload.acmicpc.net/830e691c-1989-4613-8dc9-0257d20214fc/-/crop/216x156/0,0/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 108px; height: 78px;" /></td>
+			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/2643.%E2%80%85%EC%83%89%EC%A2%85%EC%9D%B4%E2%80%85%EC%98%AC%EB%A0%A4%E2%80%85%EB%86%93%EA%B8%B0/e2e92fe6.png" data-original-src="https://upload.acmicpc.net/830e691c-1989-4613-8dc9-0257d20214fc/-/crop/188x156/246,0/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 94px; height: 78px;" /></td>
+			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/2643.%E2%80%85%EC%83%89%EC%A2%85%EC%9D%B4%E2%80%85%EC%98%AC%EB%A0%A4%E2%80%85%EB%86%93%EA%B8%B0/69a252ef.png" data-original-src="https://upload.acmicpc.net/aded1664-9f0a-4026-bd52-37b978453881/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 90px; height: 68px;" /></td>
+			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/2643.%E2%80%85%EC%83%89%EC%A2%85%EC%9D%B4%E2%80%85%EC%98%AC%EB%A0%A4%E2%80%85%EB%86%93%EA%B8%B0/6a1e50d0.png" data-original-src="https://upload.acmicpc.net/f18e7a59-08a6-4156-9690-e9ff061a9d1f/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 94px; height: 68px;" /></td>
 		</tr>
 		<tr>
 			<td>(가)</td>

@@ -22,7 +22,7 @@
 
 <p>Due to safety reasons, they chose m pairs of spaceships that have to touch externally when they land. They have already determined the landing coordinates of the center point for each of the spaceships, and Be&rsquo;s task is to determine the radius of each of the spaceships, so the conditions are satisfied.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/7d8b711a-4770-4cc8-8c20-caba4fd1b962/-/preview/" style="width: 368px; height: 184px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/26394.%E2%80%85Berilij/8d75615d.png" data-original-src="https://upload.acmicpc.net/7d8b711a-4770-4cc8-8c20-caba4fd1b962/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 368px; height: 184px;" /></p>
 
 <p style="text-align: center;">In the image, the left and the right pairs of spaceships do not satisfy the condition of touching externally. The pair of spaceships in the middle fulfills the condition of touching externally.</p>
 

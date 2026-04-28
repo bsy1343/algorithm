@@ -27,8 +27,8 @@
 	</thead>
 	<tbody>
 		<tr>
-			<td><img alt="" src="https://upload.acmicpc.net/84cb7e4d-3576-4962-aa3f-2c9933248434/-/preview/" style="width: 214px; height: 54px;" /></td>
-			<td><img alt="" src="https://upload.acmicpc.net/19094148-6f8b-4758-a8f0-ec860241551b/-/preview/" style="width: 250px; height: 54px;" /></td>
+			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/22245.%E2%80%85Boats/9761ba52.png" data-original-src="https://upload.acmicpc.net/84cb7e4d-3576-4962-aa3f-2c9933248434/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 214px; height: 54px;" /></td>
+			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/22245.%E2%80%85Boats/787de4f1.png" data-original-src="https://upload.acmicpc.net/19094148-6f8b-4758-a8f0-ec860241551b/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 250px; height: 54px;" /></td>
 		</tr>
 	</tbody>
 </table>

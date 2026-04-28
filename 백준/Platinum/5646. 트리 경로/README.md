@@ -29,7 +29,7 @@
 
 <p>아래 트리를 살펴보자. 검정 간선은 원래 트리의 간선을 나타내고, 동그라미는 노드를 나타낸다. 그 다음, 두 개의 특별 경로 2-1-0(초록색)과 3-1(파란색)를 추가한다. 3-1대신에 3-1-0을 추가해도 된다. 하지만, 1-3이나 0-1-2는 규칙 2 때문에 추가할 수 없고, 0-2와 2-3-0은 규칙 1 때문에 추가할 수 없다.</p>
 
-<p><img alt="" src="/upload/images/specialpath.png" style="height:118px; width:110px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/5646.%E2%80%85%ED%8A%B8%EB%A6%AC%E2%80%85%EA%B2%BD%EB%A1%9C/89c6e1e4.png" data-original-src="https://www.acmicpc.net/upload/images/specialpath.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:118px; width:110px" /></p>
 
 ### 입력
 

@@ -18,13 +18,13 @@
 
 <p>자동차 경주로는 &lt;그림 1&gt;의 예와 같이 표현된다. 화살표는 각 지점을 잇는 도로를 의미하며 모든 도로는 일방통행 도로로 화살표 방향으로만 움직일 수 있다.</p>
 
-<p style="text-align: center;"><img alt="" src="/upload/images/szO5Yfmfx1gD.jpg" style="height:222px; width:258px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/2611.%E2%80%85%EC%9E%90%EB%8F%99%EC%B0%A8%EA%B2%BD%EC%A3%BC/d6a55bde.jpg" data-original-src="https://www.acmicpc.net/upload/images/szO5Yfmfx1gD.jpg" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:222px; width:258px" /></p>
 
 <p>자동차 경주의 코스는 1번 지점에서 출발하여 다시 1번 지점으로 되돌아오는 것이다. 단, 중간에는 1번 지점을 지나서는 안 된다. 경주로는 1번 지점을 제외한 어느 지점에서 출발하여도 1번 지점을 지나가지 않고서는 같은 지점으로 돌아올 수 없도록 되어 있다. 또한 1번 지점에서 다른 모든 지점으로 갈 수 있고, 다른 모든 지점에서 1번 지점으로 갈 수 있다.</p>
 
 <p>각 도로에는 &lt;그림 2&gt;의 예와 같이 그 도로를 지날 때 얻는 점수가 있다.</p>
 
-<p style="text-align: center;"><img alt="" src="/upload/images/HR8SAQiB7ZapoXXo75XfRcrv.jpg" style="height:221px; width:259px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/2611.%E2%80%85%EC%9E%90%EB%8F%99%EC%B0%A8%EA%B2%BD%EC%A3%BC/1c27c0c5.jpg" data-original-src="https://www.acmicpc.net/upload/images/HR8SAQiB7ZapoXXo75XfRcrv.jpg" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:221px; width:259px" /></p>
 
 <p>1번 지점에서 출발하여 가장 많은 점수를 얻어 다시 1번 지점으로 돌아오는 팀이 우승을 하게 된다. 가장 많은 점수를 얻어 1번 지점으로 돌아오는 경로를 찾아 그 얻는 점수와 경로를 출력하는 프로그램을 작성하시오.</p>
 

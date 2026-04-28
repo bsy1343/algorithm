@@ -36,7 +36,7 @@
 
 ### 힌트
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/b3d5b52f-fc79-43c7-8fc6-598a659c14f8/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/23638.%E2%80%85%EB%8F%84%EB%A1%9C%E2%80%85%EC%A0%90%EA%B2%80/596c2c35.png" data-original-src="https://upload.acmicpc.net/b3d5b52f-fc79-43c7-8fc6-598a659c14f8/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>도시가 위와 같다면 도시의 불편함은 4이다. <code>(5 - 4 - 3 - 6 - 7)</code></p>
 

@@ -20,7 +20,7 @@
 
 <p>아래 그림은 $N=5$이고 코코네 가게는 $(1, 1)$, 한별이네 가게는 $(5, 2)$에 있는 경우의 예시이다.</p>
 
-<p style="display: flex; flex-direction: row; justify-content: center;"><img alt="" src="https://upload.acmicpc.net/4c72ebd0-0e11-4eeb-8c0b-d85b13b80737/-/preview/" style="max-height: 266px; max-width: 100%" /></p>
+<p style="display: flex; flex-direction: row; justify-content: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/31461.%E2%80%85%EC%B5%9C%EA%B3%A0%EC%9D%98%E2%80%85%EC%B4%88%EC%BD%9C%EB%A6%BF%E2%80%85%EC%84%B1%EC%A7%80%EC%88%9C%EB%A1%80/81990132.png" data-original-src="https://upload.acmicpc.net/4c72ebd0-0e11-4eeb-8c0b-d85b13b80737/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="max-height: 266px; max-width: 100%" /></p>
 
 <p>코코는 한별이와 함께할 초콜릿 성지순례 코스를 계획하고 있다. 올바른 성지순례 코스는 다음과 같이 정의한다.</p>
 

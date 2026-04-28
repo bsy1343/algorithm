@@ -32,4 +32,4 @@
 
 <p>Пояснение к примеру: для поля $1 \times 7$ ответ равен 2. Расставить один корабль размера $1 \times 2$ и два корабля размера $1 \times 1$ можно следующим образом:</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/4dc276ab-c38a-40dc-92e8-6dd93fba8b88/-/preview/" style="width: 345px; height: 59px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/28857.%E2%80%85%D0%9C%D0%BE%D1%80%D1%81%D0%BA%D0%BE%D0%B9%E2%80%85%D0%B1%D0%BE%D0%B9/9095e11f.png" data-original-src="https://upload.acmicpc.net/4dc276ab-c38a-40dc-92e8-6dd93fba8b88/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 345px; height: 59px;" /></p>

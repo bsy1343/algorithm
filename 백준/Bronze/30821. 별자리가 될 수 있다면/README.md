@@ -32,6 +32,6 @@
 
 ### 힌트
 
-<p><img alt="" src="https://u.acmicpc.net/6bd5bac5-e0d7-4824-a4bc-fe6cffaa0360/%EC%A0%9C%EB%AA%A9%20%EC%97%86%EC%9D%8C-1.png" style="width: 567px; height: 400px;" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/30821.%E2%80%85%EB%B3%84%EC%9E%90%EB%A6%AC%EA%B0%80%E2%80%85%EB%90%A0%E2%80%85%EC%88%98%E2%80%85%EC%9E%88%EB%8B%A4%EB%A9%B4/6cd0c4cd.png" data-original-src="https://u.acmicpc.net/6bd5bac5-e0d7-4824-a4bc-fe6cffaa0360/%EC%A0%9C%EB%AA%A9%20%EC%97%86%EC%9D%8C-1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 567px; height: 400px;" /></p>
 
 <p>정$6$각형의 꼭짓점을 이어 만들 수 있는 별은 총 $6$가지이다.</p>

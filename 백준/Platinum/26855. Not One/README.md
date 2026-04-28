@@ -22,7 +22,7 @@
 
 <p>For example, consider the following tree of N = 7 nodes where A<sub>1..7</sub> = {10, 5, 8, 6, 10, 6, 4}.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/d4b1f28b-b6db-4012-a97f-94f46ab6230e/-/preview/" style="width: 300px; height: 213px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/26855.%E2%80%85Not%E2%80%85One/5135f54a.png" data-original-src="https://upload.acmicpc.net/d4b1f28b-b6db-4012-a97f-94f46ab6230e/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 300px; height: 213px;" /></p>
 
 <p>In this example, there are 15 subtrees where the GCD of all its nodes&rsquo; weight is not 1, i.e. seven subtrees of size 1, four subtrees of size 2, three subtrees of size 3, and one subtree of size 4 (the largest). The largest subtree contains nodes 4, 5, 6, and 7, and the GCD of their weights is GCD(A<sub>4</sub>, A<sub>5</sub>, A<sub>6</sub>, A<sub>7</sub>) = GCD(6, 10, 6, 4) = 2.</p>
 

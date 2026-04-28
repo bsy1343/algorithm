@@ -18,11 +18,11 @@
 
 <p>홍수의 발생으로 인해 도시의 도로들이 유실되어 많은 ICP(International Computational Plan) 시민들이 불편을 겪고 있다. 도시는 아래와 같은 격자 형태로 표현이 된다고 가정하자. 검정색 단위 격자가 &lsquo;단위도로&rsquo;를 의미하며 흰색 단위 격자는 도로가 없었거나 유실된 상태를 의미한다. X로 표시된 단위 격자는 도로를 건설할 수 없는 곳을 의미한다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/df7d65d1-1d60-4456-9c6e-a6803e331039/-/preview/" style="width: 277px; height: 181px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/20046.%E2%80%85Road%E2%80%85Reconstruction/fcf4632d.png" data-original-src="https://upload.acmicpc.net/df7d65d1-1d60-4456-9c6e-a6803e331039/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 277px; height: 181px;" /></p>
 
 <p>도시의 차들은 단위 도로 상에서 가로나 세로 방향으로만 움직인다고 가정했을 때 도시의 기능을 회복시키기 위해 맨 왼쪽 위 단위 격자에서 맨 오른쪽 아래 단위 격자로 도시의 차들이 가는 경로를 만들기 위해 필요한 최소한의 도로 건설 비용을 계산하고자 한다. 단위 도로 하나를 건설하기 위해 1 또는 2 의 비용이 소요된다고 가정하자. 위 그림에서는 흰색 단위 격자에 단위 도로 하나를 건설하기 위해서는 1 의 비용이 든다고 가정한다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/d9529215-aabf-4b65-875a-94bd6752386c/-/preview/" style="width: 273px; height: 179px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/20046.%E2%80%85Road%E2%80%85Reconstruction/6c6d7eac.png" data-original-src="https://upload.acmicpc.net/d9529215-aabf-4b65-875a-94bd6752386c/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 273px; height: 179px;" /></p>
 
 <p>위와 같이 회색으로 표시된 단위 도로들을 4 의 비용으로 건설하면 목적을 달성할 수 있다.</p>
 

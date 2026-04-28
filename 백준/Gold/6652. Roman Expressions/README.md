@@ -20,11 +20,11 @@
 
 <p>Roman numbers are able to express any non-negative integer using uppercase letters:</p>
 
-<p style="text-align: center;"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/6652/1.png" style="height:176px; width:206px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/6652.%E2%80%85Roman%E2%80%85Expressions/58c24df7.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/6652/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:176px; width:206px" /></p>
 
 <p>Numbers are created by appending several letters together, the letter representing a higher value must always precede letters with lower values. The only exception are the letters &ldquo;I&rdquo;, &ldquo;X&rdquo;, and &ldquo;C&rdquo;, they may be used before higher letters to form values expressed by digits 4 and 9. The only possible combinations are:</p>
 
-<p style="text-align: center;"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/6652/2.png" style="height:144px; width:274px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/6652.%E2%80%85Roman%E2%80%85Expressions/cd2f0ad4.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/6652/2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:144px; width:274px" /></p>
 
 <p>Any roman number must first express thousands, then hundreds, tens, and ones. Therefore, 499 must always be written as &ldquo;CDXCIX&rdquo;, not &ldquo;ID&rdquo;.</p>
 

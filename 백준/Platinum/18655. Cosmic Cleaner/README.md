@@ -51,4 +51,4 @@
 
 <p>The following figure illustrates the sample test case, where the affected area is inside the red sphere, and asteroids are colored by orange, blue and green in the order they appear in the sample.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/5f72e061-90b8-4b98-a915-d10f0cdf9d70/-/preview/" style="width: 493px; height: 299px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/18655.%E2%80%85Cosmic%E2%80%85Cleaner/4707b85b.png" data-original-src="https://upload.acmicpc.net/5f72e061-90b8-4b98-a915-d10f0cdf9d70/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 493px; height: 299px;" /></p>

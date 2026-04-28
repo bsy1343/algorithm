@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/f043f111-2e0b-4a48-be5b-c9b38c896076/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/25195.%E2%80%85Yes%E2%80%85or%E2%80%85yes/f0a55be8.png" data-original-src="https://upload.acmicpc.net/f043f111-2e0b-4a48-be5b-c9b38c896076/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>$N$개의 정점과 $M$개의 간선으로 이루어진, 사이클이 없는 방향그래프(DAG)가 주어진다.</p>
 

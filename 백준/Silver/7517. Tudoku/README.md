@@ -22,7 +22,7 @@
 
 <p>In the following example, three cells are still missing. The upper left one cannot be determined directly because neither in its row, column, or block, there are eight numbers present. The missing number for the right cell can be determined using the above rule, however, because its column contains exactly eight numbers. Similarly, the number for the lower-most free cell can be determined by examining its row. Finally, the last free cell can be filled by either looking at its row, column or block.</p>
 
-<p style="text-align: center;"><img alt="" src="/upload/images2/tudoku.png" style="height:241px; width:324px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/7517.%E2%80%85Tudoku/7244e812.png" data-original-src="https://www.acmicpc.net/upload/images2/tudoku.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:241px; width:324px" /></p>
 
 ### 입력
 

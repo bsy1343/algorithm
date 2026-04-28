@@ -33,7 +33,7 @@
 
 <p>For example, consider a melody A = {1, 3, 5, 6, 7, 8, 9, 10, 3, 7, 8, 9, 10, 11, 12, 12} as shown in the following figure. The diagonal arrow up in the figure implies that A<sub>i</sub> &lt; A<sub>i+1</sub>, the straight right arrow implies that A<sub>i</sub> = A<sub>i+1</sub>, and the diagonal arrow down implies that A<sub>i</sub> &gt; A<sub>i+1</sub>.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/d6a452eb-7124-46c2-8eae-099d9c40ca20/-/preview/" style="width: 462px; height: 253px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/19159.%E2%80%85Songwriter/4cd0a5ee.png" data-original-src="https://upload.acmicpc.net/d6a452eb-7124-46c2-8eae-099d9c40ca20/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 462px; height: 253px;" /></p>
 
 <p>Supposed we want to make a new melody with L = 1, R = 8, and K = 6. The new melody B = {1, 2, 3, 4, 5, 6, 7, 8, 2, 3, 4, 5, 6, 7, 8, 8} as shown in the figure satisfies all the requirements, and it is the lexicographically smallest possible.</p>
 

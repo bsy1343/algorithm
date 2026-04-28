@@ -22,7 +22,7 @@
 
 <p>For example, let&rsquo;s consider 5 rectangles shown in Figure A.1. Figure A.1(c) shows two horizontal lines (red dashed lines) that intersect all 5 rectangles while the two horizontal lines (red dashed lines) in Figure A.1(b) intersect 4 rectangles.&nbsp;</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/cbca568c-783f-40c7-8f44-c72415245b24/-/crop/1224x426/0,0/-/preview/" style="width: 612px; height: 213px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/16357.%E2%80%85Circuits/beab576b.png" data-original-src="https://upload.acmicpc.net/cbca568c-783f-40c7-8f44-c72415245b24/-/crop/1224x426/0,0/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 612px; height: 213px;" /></p>
 
 <p style="text-align: center;">Figure A.1: (a) 5 axis-aligned rectangles. (b) Two horizontal lines that intersect 4 rectangles. (c) Two horizontal lines that intersect 5 rectangles.</p>
 

@@ -48,6 +48,6 @@
 
 ### 힌트
 
-<p><img alt="" src="/upload/images2/island.png" style="height:218px; width:225px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/5379.%E2%80%85Islands/3a0dd054.png" data-original-src="https://www.acmicpc.net/upload/images2/island.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:218px; width:225px" /></p>
 
 <p>The island group as described by the second test case in the sample input. Indicated is the optimal path from the bottom left island to the top right one, which is the path that minimizes the total distance covered over water (indicated by the dashed lines).</p>

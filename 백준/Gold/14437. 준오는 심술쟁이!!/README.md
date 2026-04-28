@@ -18,7 +18,7 @@
 
 <p>대회가 문제 업로드 실수로 인해 지연되어버렸다. 하지만 이는 업로드 실수가 아닌 심술쟁이 해커 임준오(동탄 주민)의 소행이었다! 욱제가 재밌는 사진을 보여주지 않자 심술이 난 준오는 욱제의 대회를 엉망으로 만들려고 한 것이다.</p>
 
-<p><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14437/1.png" style="height:70px; width:68px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/14437.%E2%80%85%EC%A4%80%EC%98%A4%EB%8A%94%E2%80%85%EC%8B%AC%EC%88%A0%EC%9F%81%EC%9D%B4!!/43c40470.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14437/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:70px; width:68px" /></p>
 
 <p>준오는 BOJ 서버가 문제를 찾을 수 없도록 문제의 이름을 암호화해버렸다. 문제 이름은 알파벳 소문자로만 이루어져 있다. 암호화 과정은 다음과 같다.</p>
 

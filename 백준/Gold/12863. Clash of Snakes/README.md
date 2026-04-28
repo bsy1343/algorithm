@@ -27,7 +27,7 @@
 
 <p>아래의 그림은 올바른 배치와 잘못된 배치를 보여준다. 위의 두 가지가 올바른 배치, 아래의 두 가지가 잘못된 배치에 해당한다. (격자판은 5*5이며, 두 뱀의 길이는 각각 3, 3이다.)</p>
 
-<p style="text-align: center;"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/12863/1.png" style="height:255px; width:315px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/12863.%E2%80%85Clash%E2%80%85of%E2%80%85Snakes/0b22a636.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/12863/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:255px; width:315px" /></p>
 
 <p>Kiki와 Susu는 게임을 시작할 수 있는 경우의 수가 몇 가지나 되는지 알고 싶어한다. 격자판의 크기가 n*m이고, Kiki의 길이와 Susu의 길이가 각각 k, s일 때, 두 뱀이 배치될 수 있는 경우의 수를 구하는 것을 도와주자.</p>
 

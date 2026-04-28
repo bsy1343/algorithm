@@ -18,7 +18,7 @@
 
 <p>정후는 펜타곤에서 영감을 얻어 지었다는 유명 건축가의 육각형 형태의 건축물에 방문한 뒤 이색적인 아름다움에 매료되었다. 건축물은 $3N^2-3N+1$ 개의 정육각형 방으로 이루어져 있고, 이 방들은 다시 한 변이 $N$ 개의 방으로 이루어져 있는 정육각형 형태로 배치되어 있다. 다시 말해, 방들이 $2N-1$ 행으로 이루어져 있으며, $i$ 번째 행에는 $2N-1-|i-N|$ 개의 방이 배치되어 있다. 맞닿은 두 방 사이에는 문이 있어 서로 오갈 수 있다. 즉, 하나의 방에서 맞닿은 최대 여섯 개의 방으로 이동할 수 있으며, 각각의 이동은 아래 그림과 같이 <code>Q</code>, <code>E</code>, <code>D</code>, <code>C</code>, <code>Z</code>, <code>A</code>의 로마자 대문자로 나타낼 수 있다. 아래 그림에서 $(i, j)$는 $i$ 번째 행의 $j$ 번째 방을 의미하며, 현재 세 번째 행의 네 번째 방에 위치해 있는 상황이다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/a701e20f-5185-40dd-9d1d-e40de06b5a84/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/28285.%E2%80%85%EC%9C%A1%EA%B0%81%ED%98%95%E2%80%85%EC%88%9C%ED%9A%8C/5c0b4203.png" data-original-src="https://upload.acmicpc.net/a701e20f-5185-40dd-9d1d-e40de06b5a84/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>정후는 건축물의 아름다움에 매료되어, 초기 위치인 $x$ 번째 행의 $y$ 번째 방에서 시작하여 모든 방을 정확히 한 번씩 돌아본 후 다시 원래의 위치로 돌아오려고 한다. 정후를 위해 그러한 경로를 아무거나 하나 찾아 주자.</p>
 

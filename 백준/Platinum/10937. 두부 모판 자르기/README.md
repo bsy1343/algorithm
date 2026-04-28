@@ -66,13 +66,13 @@
 
 <p>N&times;N 두부 모판의 품질이 주어질 때, 가장 높은 가격을 받도록 두부 모판을 1&times;2 혹은 2&times;1 크기의 포장단위들로 자르고자 한다. 예를 들어 그림 2와 같은 3&times;3 두부 모판이 주어져 있다고 하자.</p>
 
-<p style="text-align: center;"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/10937/1.png" style="height:91px; width:96px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/10937.%E2%80%85%EB%91%90%EB%B6%80%E2%80%85%EB%AA%A8%ED%8C%90%E2%80%85%EC%9E%90%EB%A5%B4%EA%B8%B0/03ece219.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/10937/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:91px; width:96px" /></p>
 
 <p style="text-align: center;">그림 2. 두부 모판의 예</p>
 
 <p>이 경우, 그림 3과 같이 자르면 4개의 포장단위가 만들어진다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/10937/2.png" style="height:85px; width:91px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/10937.%E2%80%85%EB%91%90%EB%B6%80%E2%80%85%EB%AA%A8%ED%8C%90%E2%80%85%EC%9E%90%EB%A5%B4%EA%B8%B0/827c82f1.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/10937/2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:85px; width:91px" /></p>
 
 <p style="text-align: center;">그림 3. 잘려진 두부모판</p>
 

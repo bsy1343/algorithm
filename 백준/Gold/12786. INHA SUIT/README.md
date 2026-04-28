@@ -24,7 +24,7 @@
 
 <p>예를 들면, T 기능 사용 횟수가 최대 2번이고, 나무의 개수가 5개라고 하자. 그리고 1~5번째 나무의 구멍은 각각 1개씩이며, 그 위치가 1, 2, 4, 6, 5라면 그림과 같이 이동했을 때 규환이가 인하대학교에 안전하게 도착한다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/12786/1.png" style="height:163px; line-height:1.6em; text-align:center; width:272px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/12786.%E2%80%85INHA%E2%80%85SUIT/42675e83.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/12786/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:163px; line-height:1.6em; text-align:center; width:272px" /></p>
 
 <p style="text-align:center">[ 그림 1 ] 문제 예시</p>
 

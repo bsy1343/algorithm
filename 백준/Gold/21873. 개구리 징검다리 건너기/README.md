@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/18c7647b-3eca-4267-893a-18ef765751af/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/21873.%E2%80%85%EA%B0%9C%EA%B5%AC%EB%A6%AC%E2%80%85%EC%A7%95%EA%B2%80%EB%8B%A4%EB%A6%AC%E2%80%85%EA%B1%B4%EB%84%88%EA%B8%B0/f6ef80bf.png" data-original-src="https://upload.acmicpc.net/18c7647b-3eca-4267-893a-18ef765751af/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>서대문구에 있는 한 연못에 $N$마리의 하얀 개구리와 $N$마리의 검은 개구리가 $2N+1$개의 연꽃으로 이루어진 징검다리를 건너려고 하고 있다. 그림에서 보이는 것과 같이&nbsp;각&nbsp;무리의 개구리들에는&nbsp;앞에서부터 $1$부터 $N$까지 번호가 붙어있다. 각&nbsp;무리의 개구리들은&nbsp;징검다리를 건너서 서로 반대쪽으로&nbsp;지나가려고 하고 있다. 그러나&nbsp;바쁜 일이 있는 개구리들은 서로 먼저 지나가라고 양보하기 어려운 상황이었기 때문에&nbsp;모두 동시에 징검다리를 건너려고 한다.</p>
 
@@ -31,7 +31,7 @@
 	<li>두 마리 이상의 개구리를 뛰어넘거나,&nbsp;자신의 색과&nbsp;같은 색의 개구리를&nbsp;뛰어넘을 수 없다.</li>
 </ul>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/5735d70c-b7f3-46bc-a5a1-1f95718d82a6/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/21873.%E2%80%85%EA%B0%9C%EA%B5%AC%EB%A6%AC%E2%80%85%EC%A7%95%EA%B2%80%EB%8B%A4%EB%A6%AC%E2%80%85%EA%B1%B4%EB%84%88%EA%B8%B0/81cb0221.png" data-original-src="https://upload.acmicpc.net/5735d70c-b7f3-46bc-a5a1-1f95718d82a6/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>위의 규칙에 따라&nbsp;각 개구리를&nbsp;움직여서&nbsp;그림과 같이 개구리들이 반대편에 도달할 수 있도록&nbsp;하여라.</p>
 

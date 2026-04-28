@@ -18,11 +18,11 @@
 
 <p>서울의 명소 서울과학고등학교에는 1부터 <em>N</em>까지의 번호가 매겨진 건물이 <em>N</em> - 1 개의 길로 연결되어 있다. 단, 서울과학고등학교는 어떤 두 건물 사이도 연결된 길만을 이용하여 오갈 수 있다. 다음은 유효한 서울과학고등학교이다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/3563c16e-8118-4798-b94e-0712ac0de799/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/24914.%E2%80%85Split%E2%80%85the%E2%80%85SSHS/e5ac443c.png" data-original-src="https://upload.acmicpc.net/3563c16e-8118-4798-b94e-0712ac0de799/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>정후는 서울과학고등학교를 여러 조각으로 분열시킨 후 서울과학고등학교를 지배할 계획을 세우고 있다.&nbsp;서울과학고등학교의 각 길은 <em>M</em> 개의 색 중 정확히 하나의 색으로 칠해져 있으며, 정확히 하나의 조각에 속한다. 어떤&nbsp;두 길이 하나의 건물을 공유하며 같은 색으로 칠해져 있다면 두 길은&nbsp;<strong>연결되어 있다</strong>.&nbsp;서로 연결된 길은 같은 조각에 속하고, 연결되지 않은 길은 다른 조각에 속하도록 조각을 나눈다.&nbsp;다음&nbsp;서울과학고등학교는 정확히 세 개의 조각으로 쪼개진다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/6b6268ea-a6ea-4a90-948b-c0a2414a095f/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/24914.%E2%80%85Split%E2%80%85the%E2%80%85SSHS/6b9e0ae9.png" data-original-src="https://upload.acmicpc.net/6b6268ea-a6ea-4a90-948b-c0a2414a095f/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>정후는 서울과학고등학교에 심어놓은 스파이에게 명령하여&nbsp;길에 색을 <em>Q</em> 번 새로 칠한다. 길을 새로 칠할 때마다&nbsp;서울과학고등학교가 정확히 몇 개의 조각으로 분열하는지&nbsp;정후에게 알려주자.</p>
 

@@ -23,7 +23,7 @@
 	<li>배열 B를 배열 A에 복사한다.</li>
 </ol>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/f991c11b-4a4f-4cf5-b0a3-63b3380e6e6c/-/preview/" style="width: 359px; height: 186px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/20192.%E2%80%85%EC%88%9C%EC%84%9C%E2%80%85%EC%84%9E%EA%B8%B0/daddc7b0.png" data-original-src="https://upload.acmicpc.net/f991c11b-4a4f-4cf5-b0a3-63b3380e6e6c/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 359px; height: 186px;" /></p>
 
 <p>위에서 보인 그림처럼 순서 섞기 연산을 하면 배열 A의 값은 다음과 같이 변경된다.</p>
 

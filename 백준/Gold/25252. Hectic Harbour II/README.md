@@ -20,7 +20,7 @@
 
 <p>Your crate is now sitting in the shipyard in one of two stacks ready for loading onto the ship. Each crate except yours has its own tracking number.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/81c6cfbb-dd65-44b6-a629-7cee61d6448b/-/preview/" style="width: 406px; height: 150px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/25252.%E2%80%85Hectic%E2%80%85Harbour%E2%80%85II/76f860a8.png" data-original-src="https://upload.acmicpc.net/81c6cfbb-dd65-44b6-a629-7cee61d6448b/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 406px; height: 150px;" /></p>
 
 <p style="text-align: center;">Figure H.1: Illustration of Sample Input 2. Your business is in the unmarked crate.</p>
 

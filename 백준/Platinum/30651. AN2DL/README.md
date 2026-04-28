@@ -48,4 +48,4 @@
 
 <p>All possible frame positions are shown in the picture below. The largest number for each of the positions is written in red.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/73688e87-2c08-44db-a86c-933d32fc9cd0/-/preview/" style="width: 486px; height: 265px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/30651.%E2%80%85AN2DL/8745e8c2.png" data-original-src="https://upload.acmicpc.net/73688e87-2c08-44db-a86c-933d32fc9cd0/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 486px; height: 265px;" /></p>

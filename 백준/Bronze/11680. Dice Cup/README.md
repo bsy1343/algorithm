@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11680/1.png" style="height:106px; width:439px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/11680.%E2%80%85Dice%E2%80%85Cup/14c5fe96.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11680/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:106px; width:439px" /></p>
 
 <p>In many table-top games it is common to use different dice to simulate random events. A &ldquo;d&rdquo; or &ldquo;D&rdquo; is used to indicate a die with a specific number of faces, d4 indicating a foursided die, for example. If several dice of the same type are to be rolled, this is indicated by a leading number specifying the number of dice. Hence, 2d6 means the player should roll two six-sided dice and sum the result face values.</p>
 

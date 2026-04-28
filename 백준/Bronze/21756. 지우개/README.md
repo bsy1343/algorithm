@@ -20,7 +20,7 @@
 
 <p>아래 그림은 $N = 7$일 때의 예이다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/1587dd00-130c-42a0-af6e-68b3b484a1b8/-/preview/" style="width: 361px; height: 90px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/21756.%E2%80%85%EC%A7%80%EC%9A%B0%EA%B0%9C/13c66327.png" data-original-src="https://upload.acmicpc.net/1587dd00-130c-42a0-af6e-68b3b484a1b8/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 361px; height: 90px;" /></p>
 
 <p>다음 작업을 수가 정확히 하나가 남을 때 까지 반복한다.</p>
 
@@ -28,17 +28,17 @@
 
 <p>제일 첫 작업의 (A) 단계가 끝나면 칸들의 상태는 다음과 같을 것이다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/1bedbcf7-ee56-4bb0-a83b-d6abbb34ae46/-/preview/" style="width: 361px; height: 90px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/21756.%E2%80%85%EC%A7%80%EC%9A%B0%EA%B0%9C/ee0499ca.png" data-original-src="https://upload.acmicpc.net/1bedbcf7-ee56-4bb0-a83b-d6abbb34ae46/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 361px; height: 90px;" /></p>
 
 <p>(B) 단계가 끝나면 다음과 같을 것이다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/7f311585-5dd0-4033-ada3-5fb9aa0df18b/-/preview/" style="width: 361px; height: 90px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/21756.%E2%80%85%EC%A7%80%EC%9A%B0%EA%B0%9C/befae7f1.png" data-original-src="https://upload.acmicpc.net/7f311585-5dd0-4033-ada3-5fb9aa0df18b/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 361px; height: 90px;" /></p>
 
 <p>두번째 작업이 진행되면 칸들은 아래 두 그림과 같이 바뀔 것이다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/e070dc76-59fc-4fa6-a0b3-bf310f78dccd/-/preview/" style="width: 361px; height: 90px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/21756.%E2%80%85%EC%A7%80%EC%9A%B0%EA%B0%9C/34198a17.png" data-original-src="https://upload.acmicpc.net/e070dc76-59fc-4fa6-a0b3-bf310f78dccd/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 361px; height: 90px;" /></p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/e7c0cbf8-ab7d-4b7c-bdac-28b433c83c95/-/preview/" style="width: 361px; height: 90px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/21756.%E2%80%85%EC%A7%80%EC%9A%B0%EA%B0%9C/9fe401c1.png" data-original-src="https://upload.acmicpc.net/e7c0cbf8-ab7d-4b7c-bdac-28b433c83c95/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 361px; height: 90px;" /></p>
 
 <p>이제 수가 하나 남았으므로 작업은 더 이상 진행되지 않는다.</p>
 

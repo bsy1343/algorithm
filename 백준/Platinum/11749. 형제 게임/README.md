@@ -51,6 +51,6 @@
 	<li>만약 현민이가 1을 부른다면 4번 원으로 가는 것이 최적이다. 현성이가 4번 원으로 간다면 현민이가 다음 턴에 무슨 수를 부르던지 한 번에 N번 원으로 갈 수 있다. 만약 현성이가 5번 원으로 간다면 현민이가 2나 3을 부르면 현민이가 이긴다. 현성이가 2번 원으로 간다면 현성이가 이길 수는 있지만 더 많은 턴을 요구한다.</li>
 </ul>
 
-<p style="text-align: center;"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11749/1.png" style="height:203px; line-height:20.8px; opacity:0.9; text-align:center; width:219px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/11749.%E2%80%85%ED%98%95%EC%A0%9C%E2%80%85%EA%B2%8C%EC%9E%84/071a2ccd.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11749/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:203px; line-height:20.8px; opacity:0.9; text-align:center; width:219px" /></p>
 
 <p style="text-align: center;">두 번째 예제의 맵</p>

@@ -20,7 +20,7 @@
 
 <p>The maze is made up of H &times; W grid cells as depicted below. The upper side of the maze faces north. Consequently, the right, lower and left sides face east, south and west respectively. Each cell is either empty or wall and has the coordinates of (i, j) where the north-west corner has (1, 1). The row i goes up toward the south and the column j toward the east.&nbsp;</p>
 
-<p><img alt="" src="https://onlinejudgeimages.s3.amazonaws.com/problem/13787/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-12-26%20%EC%98%A4%ED%9B%84%204.02.58.png" style="height:226px; width:313px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/13787.%E2%80%85Infinity%E2%80%85Maze/c8e252fe.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/13787/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-12-26%20%EC%98%A4%ED%9B%84%204.02.58.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:226px; width:313px" /></p>
 
 <p>The robot moves on empty cells and faces north, east, south or west. It goes forward when there is an empty cell in front, and rotates 90 degrees to the right when it comes in front of a wall cell or on the edge of the maze. It cannot enter the wall cells. It stops right after moving forward by L cells.</p>
 

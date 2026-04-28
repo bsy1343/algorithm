@@ -18,7 +18,7 @@
 
 <p>W sieci LinkNet komputery są przyłączone do linii komunikacyjnej w spos&oacute;b przedstawiony na rysunku. Dostępne punkty przyłączeń są ponumerowane kolejno 0, 1, ..., <em>R</em>. Do jednego punktu może być przyłączony tylko jeden komputer. Każdy z komputer&oacute;w może być przyłączony do sieci tylko w jednym punkcie. Komunikacja w sieci jest synchroniczna.</p>
 
-<center style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/01e6c4a7-eda1-44e3-a40d-a58b9ca66236/-/preview/" /></center>
+<center style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/8539.%E2%80%85LinkNet/901de43d.png" data-original-src="https://upload.acmicpc.net/01e6c4a7-eda1-44e3-a40d-a58b9ca66236/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></center>
 
 <p>W danym takcie komputery przyłączone do punkt&oacute;w 0 &le; <em>a</em> &lt; <em>b</em> &le; <em>R</em>&nbsp;mogą dokonać transmisji danych tylko wtedy, gdy żaden komputer przyłączony do łącza o numerze <em>c</em>, <em>a</em> &lt; <em>c</em> &lt; <em>b</em>&nbsp;nie bierze udziału w transmisji danych z jakimkolwiek innym komputerem. W jednym takcie komputer może brać udział tylko w jednej tranmisji.</p>
 

@@ -32,7 +32,7 @@
 
 <p>이 때, 탑의 높이가 정확히 5가 되도록 블록을 쌓는 경우로는 다음의 6가지가 존재한다. (블록을 사용하지 않는 경우는 X로 표시하였다.)</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/82b228be-4bf3-4a38-95e3-a2238e9bb4ff/-/preview/" style="height: 314px; width: 340px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/18427.%E2%80%85%ED%95%A8%EA%BB%98%E2%80%85%EB%B8%94%EB%A1%9D%E2%80%85%EC%8C%93%EA%B8%B0/c8d09d14.png" data-original-src="https://upload.acmicpc.net/82b228be-4bf3-4a38-95e3-a2238e9bb4ff/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 314px; width: 340px;" /></p>
 
 ### 입력
 

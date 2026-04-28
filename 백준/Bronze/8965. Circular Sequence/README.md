@@ -18,7 +18,7 @@
 
 <p>Some DNA sequences exist in circular forms as in the following figure, which shows a circular sequence <code>CGAGTCAGCT</code>, that is, the last symbol <code>T</code> in <code>CGAGTCAGCT</code> is connected to the first symbol <code>C</code>. We always read a circular sequence in the clockwise direction.</p>
 
-<p style="text-align: center;"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/8965/1.png" style="height:145px; width:173px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/8965.%E2%80%85Circular%E2%80%85Sequence/1fb94d85.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/8965/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:145px; width:173px" /></p>
 
 <p>Since it is not easy to store a circular sequence in a computer as it is, we decided to store it as a linear sequence. However, there can be many linear sequences that are obtained from a circular sequence by cutting any place of the circular sequence. Hence, we also decided to store the linear sequence that is lexicographically smallest among all linear sequences that can be obtained from a circular sequence.</p>
 

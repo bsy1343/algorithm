@@ -29,7 +29,7 @@
 
 <p>As examples, six side views of poles are drawn in Figure A.1. These are the only possible side views she can make when l = 5 and k = 3.</p>
 
-<p style="text-align:center"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15329/1.png" style="height:159px; width:273px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/15329.%E2%80%85Secret%E2%80%85of%E2%80%85Chocolate%E2%80%85Poles/24597c41.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15329/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:159px; width:273px" /></p>
 
 <p style="text-align:center">Figure A.1. Six chocolate poles corresponding to Sample Input 1</p>
 

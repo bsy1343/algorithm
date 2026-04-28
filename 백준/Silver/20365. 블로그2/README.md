@@ -23,7 +23,7 @@
 	<li>선택된 문제들을&nbsp;전부 원하는 같은 색으로 칠한다.</li>
 </ol>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/72fda166-5e2c-42b4-a9c1-e52993a5c45e/-/preview/" style="height: 227px; width: 200px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/20365.%E2%80%85%EB%B8%94%EB%A1%9C%EA%B7%B82/02303813.png" data-original-src="https://upload.acmicpc.net/72fda166-5e2c-42b4-a9c1-e52993a5c45e/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 227px; width: 200px;" /></p>
 
 <section id="description">
 <p>예를 들어, 각 문제를 위와&nbsp;같은 색으로&nbsp;칠하려고 할&nbsp;때, 1~2번 문제를 파란색, 3번을&nbsp;빨간색, 4번을&nbsp;파란색, 5번을&nbsp;빨간색, 6~7번을&nbsp;파란색, 8번을&nbsp;빨간색으로 칠하는 작업을 순서대로 수행하면 6번의 작업을 거쳐야 한다. 하지만,&nbsp;1~7번 문제를 파란색, 3번을 빨간색, 5번을 빨간색, 8번을 빨간색으로 순서대로&nbsp;칠한다면 작업 횟수는 4번으로 가장 적다.</p>

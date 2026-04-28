@@ -25,7 +25,7 @@
 
 <p>예를 들어 $[2, 7, 6, 10, 4]$ 에서 4번째 볼링공을 이동한다면, $[10, 2, 7, 6, 4]$ 가 된다. 이 볼링공들을 정리한다면, $[2, 4, 6, 7, 10]$ 이 되어야 한다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/40442e08-1c76-4b12-a8b0-3d1dd2339dfc/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/27979.%E2%80%85%EB%B3%BC%EB%A7%81%EC%9E%A5%E2%80%85%EC%95%84%EB%A5%B4%EB%B0%94%EC%9D%B4%ED%8A%B8/50fec709.png" data-original-src="https://upload.acmicpc.net/40442e08-1c76-4b12-a8b0-3d1dd2339dfc/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>건구스는 최대한 일찍 퇴근하기 위해 가장 적은 이동 횟수로 볼링공을 정리하고 싶다. 높은 위치부터 낮은 위치까지 레일에 놓인 순서대로 $i$번째 볼링공 무게 $w_i\ ( 1 \le i \le N )$가 주어졌을 때, 건구스를 도와 최소 이동 횟수를 구하는 프로그램을 작성하자.</p>
 

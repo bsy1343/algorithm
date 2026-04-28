@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p><img alt="" src="https://upload.acmicpc.net/e18d5882-2311-4f4a-999b-d63848cf4ae4/-/preview/" style="width: 374px; height: 250px; float: right;" />First Orchard is a cooperative game for children 2 years and up. In this simple game, the players pick colored fruits from trees in an orchard and place them into a basket. &nbsp;To make the game more interesting, a raven tries to reach the orchard to steal the fruits. If the players are successful in moving all fruits into the basket before the raven can get to the orchard, they&#39;ll win. &nbsp;If the raven gets there first, the players lose!</p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/24781.%E2%80%85First%E2%80%85Orchard/05f38c0b.png" data-original-src="https://upload.acmicpc.net/e18d5882-2311-4f4a-999b-d63848cf4ae4/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 374px; height: 250px; float: right;" />First Orchard is a cooperative game for children 2 years and up. In this simple game, the players pick colored fruits from trees in an orchard and place them into a basket. &nbsp;To make the game more interesting, a raven tries to reach the orchard to steal the fruits. If the players are successful in moving all fruits into the basket before the raven can get to the orchard, they&#39;ll win. &nbsp;If the raven gets there first, the players lose!</p>
 
 <p>Your task is to determine the probability with which the players will win!</p>
 

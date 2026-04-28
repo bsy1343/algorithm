@@ -22,7 +22,7 @@
 
 <p>아래 그림은 4&times;4 크기의 종이를 자른 한 가지 방법이다.</p>
 
-<p style="text-align:center"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14391/1.png" style="height:253px; width:250px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/14391.%E2%80%85%EC%A2%85%EC%9D%B4%E2%80%85%EC%A1%B0%EA%B0%81/f5e3b646.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14391/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:253px; width:250px" /></p>
 
 <p>각 조각의 합은 493 + 7160 + 23 + 58 + 9 + 45 + 91 = 7879 이다.</p>
 

@@ -32,6 +32,6 @@
 
 ### 힌트
 
-<p><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/8198/1.gif" style="height:46px; line-height:1.6em; width:192px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/8198.%E2%80%85Frog/250465de.gif" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/8198/1.gif" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:46px; line-height:1.6em; width:192px" /></p>
 
 <p>The figure presents where the frog leaps to (in a single leap) from each and every rock.</p>

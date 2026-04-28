@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p><img alt="" src="https://upload.acmicpc.net/150d504a-ef29-41d6-8b57-8ffb3e8473c3/-/preview/" style="height: 375px; width: 500px; display: block; margin: auto;" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/31836.%E2%80%85%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98%E2%80%85%EA%B8%B0%EB%85%90%ED%92%88/a78d94c2.png" data-original-src="https://upload.acmicpc.net/150d504a-ef29-41d6-8b57-8ffb3e8473c3/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 375px; width: 500px; display: block; margin: auto;" /></p>
 
 <p>피보나치 수열은 다음과 같이 정의되는 수열이다.</p>
 

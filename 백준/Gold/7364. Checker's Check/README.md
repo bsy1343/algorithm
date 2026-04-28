@@ -18,7 +18,7 @@
 
 <p>The game of checkers is played on an 8 by 8 red-black board using alternate squares. Two players (Red and White) each start with 12 pieces which are set up in the starting position shown below:</p>
 
-<p><img alt="" src="https://onlinejudgeimages.s3.amazonaws.com/problem/7364/2103a.gif" style="height:260px; width:436px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/7364.%E2%80%85Checker's%E2%80%85Check/cab4f63a.gif" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/7364/2103a.gif" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:260px; width:436px" /></p>
 
 <p>Rules for movement and capture are as follows (Note: a forward move is one in which a piece moves towards the opponent&#39;s side of the board):</p>
 

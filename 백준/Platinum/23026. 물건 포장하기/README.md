@@ -23,13 +23,13 @@ i번째 물건의 길이를 v[i]라 하자.</p>
 
 <p>아래 그림은 R = 4, n = 3&nbsp;이고 v = [2, 2, 3]인 경우를 보여준다. 즉 각각의 트럭에 길이가 2, 2, 3인 물건이 실려있고, 이 순서로 (좌에서 우로) 물건을 꺼낸다고 생각하면 된다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/ba309e77-c866-4fb3-969e-76334f492349/-/preview/" style="height: 39px; width: 600px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/23026.%E2%80%85%EB%AC%BC%EA%B1%B4%E2%80%85%ED%8F%AC%EC%9E%A5%ED%95%98%EA%B8%B0/0c179653.png" data-original-src="https://upload.acmicpc.net/ba309e77-c866-4fb3-969e-76334f492349/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 39px; width: 600px;" /></p>
 
 <p>Albert는 이 물건들을 길이가 B인 상자에 순서대로 넣어서 잘 포장하여 목적지에 부치는 일을 도와주기로 했다. 단, 앞서 언급한대로 1번 트럭부터 R번 트럭까지, 그리고 각 트럭에서 물건을 번호 순서대로 꺼내서 넣어야만 한다.</p>
 
 <p>예를 들어 B = 5 인 경우, 위 예제의 경우 상자가 총 여섯 개 필요하다. 아래 그림은&nbsp;좌측부터 순서대로 여섯 개의 상자를 이용하여&nbsp;Albert가 물건을 채운 모습을 나타낸다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/f225b9ff-4cdb-4656-b233-01f419ea71ea/-/preview/" style="height: 35px; width: 600px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/23026.%E2%80%85%EB%AC%BC%EA%B1%B4%E2%80%85%ED%8F%AC%EC%9E%A5%ED%95%98%EA%B8%B0/6fd98ba2.png" data-original-src="https://upload.acmicpc.net/f225b9ff-4cdb-4656-b233-01f419ea71ea/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 35px; width: 600px;" /></p>
 
 <ul>
 	<li>먼저, 1번 트럭에서 1번과 2번 물건을 꺼내 첫 번째 상자에 담는다. 3번 물건을 넣기에는 상자의 길이가 모자라므로 두 번째 상자가 필요하다.</li>

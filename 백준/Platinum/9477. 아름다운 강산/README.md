@@ -20,11 +20,11 @@
 
 <p>도영이는 항상 이 과정을 거쳐서 블록을 재배열한다. 이제 도영이는 지금까지 만들지 않았던 가장 <strong>아름다운 강산</strong>을 만들려고 한다. 도영이는 가능한 모든 두 산의 쌍을 골랐을 때, 두 산 사이의 거리가 소수일 경우(꼭 인접하지 않은 경우라도)에 그 강산이 아름답다는 것을 알았다. 만약 강산이 하나의 산으로 이루어져 있다면, 그것도 아름다운 강산이다. 산은 하나 이상의 블록을 가지고 있는 스택이다.</p>
 
-<p><img alt="" src="/upload/images2/bm.png" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/9477.%E2%80%85%EC%95%84%EB%A6%84%EB%8B%A4%EC%9A%B4%E2%80%85%EA%B0%95%EC%82%B0/cca73b68.png" data-original-src="https://www.acmicpc.net/upload/images2/bm.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>위 그림은 블록들의 처음 상태를 나타낸다. 산을 &quot;0&quot; 값들이 쌓여 있는 스택 2개로 결정했다면, 이제 아름다운 강산을 만들기 위해 모든 블록을 가까운 산으로 하나씩 옮겨 가려면 최소 13번의 행동이 필요하다. 그러나 산을 아래 그림과 같이 3개로 정한다면, 6번의 행동만으로 아름다운 강산을 만들 수 있다.</p>
 
-<p><img alt="" src="/upload/images2/bm2.png" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/9477.%E2%80%85%EC%95%84%EB%A6%84%EB%8B%A4%EC%9A%B4%E2%80%85%EA%B0%95%EC%82%B0/cf1f5507.png" data-original-src="https://www.acmicpc.net/upload/images2/bm2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>현재 블록들의 상태가 주어질 때, 도영이가 아름다운 강산을 만드는 데 필요한 최소 횟수의 움직임을 구하시오.</p>
 

@@ -20,7 +20,7 @@
 
 <p>Your job here is to calculate the number of revolutions required in such a situation as Turing&rsquo;s: You&rsquo;ll be given the number of prongs on the front sprocket, the number of links on the chain, the location of the broken prong and the location of the bent link in the chain. The top prong is at location 0, then the next one forward on the sprocket is location 1 and so on until prong numbered s &minus; 1. (See the diagram. Notice that prong s &minus; 1 is the next prong that moves to the top of the sprocket as Turing pedals.) Location of the links is similar: The link at the top of the sprocket is location 0 and so on forward until c &minus; 1. The chain falls off when broken prong and bent link are both at location 0.</p>
 
-<p style="text-align: center;"><img alt="" src="/upload/images2/chain.png" style="height:213px; width:507px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/4028.%E2%80%85Chain%E2%80%85of%E2%80%85Fools/02639ca9.png" data-original-src="https://www.acmicpc.net/upload/images2/chain.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:213px; width:507px" /></p>
 
 ### 입력
 

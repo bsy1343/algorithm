@@ -20,7 +20,7 @@
 
 <p>처음에 정점이 $N$개이고 간선이 $M$개인 그래프 $G$을 만드는데, 정점은 $1, 2, \dots, N$ 으로 번호가 붙어있다. $i$번째 간선은 $(X_i, Y_i, C_i)$로 표현하는데 정점 $X_i, Y_i$를 잇고 가중치가 $C_i$임을 나타낸다. 예를 들어 아래 그림은 $N = 6$, $M = 5$, $X = [1, 2, 1, 4, 5]$, $Y = [2, 3, 4, 3, 6]$, $C = [8, 7, 10, 2, 4]$ 인 그래프를 보여준다. 간선에 방향성이 없음에 유의하자. 두 정점을 연결하는 간선이 여럿 있을 수 있지만 (예제 참고) 모든 간선은 $X_i \ne Y_i$를 만족한다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/2617e14c-838f-4e45-9bfe-6ce9bfee0953/-/preview/" style="height: 270px; width: 250px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/27373.%E2%80%85%EC%B5%9C%EB%8B%A8%E2%80%85%EA%B2%BD%EB%A1%9C%E2%80%85%EA%B2%8C%EC%9E%84/45789b93.png" data-original-src="https://upload.acmicpc.net/2617e14c-838f-4e45-9bfe-6ce9bfee0953/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 270px; width: 250px;" /></p>
 
 <p>이렇게 처음에 사용할 그래프 $G$을 만든 후, 총 $Q$개의 연산을 수행하는데, 연산에는 3가지 종류가 있다. $k$번째 연산의 종류는 $R_k \in \{1, 2, 3\}$ 으로 표현하자.</p>
 
@@ -47,7 +47,7 @@
 	<li>연산을 모두 마친 후 Albert의 종이에는 그래프들의 점수인 &quot;<code>52 118 99 118 52</code>&quot;가 순서대로 적혀있다.</li>
 </ul>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/3e647a79-8a9e-4959-b637-35726902a6ca/-/preview/" style="height: 270px; width: 600px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/27373.%E2%80%85%EC%B5%9C%EB%8B%A8%E2%80%85%EA%B2%BD%EB%A1%9C%E2%80%85%EA%B2%8C%EC%9E%84/a1b70c61.png" data-original-src="https://upload.acmicpc.net/3e647a79-8a9e-4959-b637-35726902a6ca/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 270px; width: 600px;" /></p>
 
 <p>입력으로 $N, M, Q$, $X, Y, C$ 그리고 $R, A, B$가 주어졌을 때 1번 연산에서 구한 점수들을 순서대로 구해보자 -- Albert는 당신의 도움을 받아 자신의 답이 맞는지 확인해보고싶다.</p>
 

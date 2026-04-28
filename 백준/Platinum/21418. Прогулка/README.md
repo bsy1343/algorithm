@@ -20,7 +20,7 @@
 
 <p>К сожалению, тот, кто изобрел этот ошейник, совершенно не думал о собаках. Как любому псу, Кальпасу хочется за время своей прогулки пробежать по строго определенному пути. Как же ему это сделать? Кальпас решил договориться со своими охранниками. Поскольку Вася --- робот, который движется каждый день по заданному в его программе маршруту с постоянной скоростью, договориться с ним нет никакой возможности. Единственное, что остается Кальпасу --- договориться с К-20071027.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/4af589b5-7784-424e-a6ca-5b15086efb9f/-/preview/" style="width: 122px; height: 126px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/21418.%E2%80%85%D0%9F%D1%80%D0%BE%D0%B3%D1%83%D0%BB%D0%BA%D0%B0/665a15b6.png" data-original-src="https://upload.acmicpc.net/4af589b5-7784-424e-a6ca-5b15086efb9f/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 122px; height: 126px;" /></p>
 
 <p style="text-align: center;">1 --- К-20071027, 2 --- Кальпас, 3 --- Вася.</p>
 

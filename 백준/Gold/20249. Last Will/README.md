@@ -44,7 +44,7 @@
 
 <p>David is still adjusting the numbers p, q, r, and his lawyer, Reed, has to read David&rsquo;s last will carefully. Reed finds that it is impossible to find such point X if David gives an improper set of the numbers such as p = 1, q = 2, r = 1. However, there are proper sets of the numbers p, q, r that allow us to find the point X satisfying David&rsquo;s last will. For instance, let p : q : r = 2 : 3 : 2, the following figure shows a possible position of X.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/48721a6a-adda-41b1-a362-1c9abdf31d4e/-/preview/" style="width: 190px; height: 187px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/20249.%E2%80%85Last%E2%80%85Will/383004db.png" data-original-src="https://upload.acmicpc.net/48721a6a-adda-41b1-a362-1c9abdf31d4e/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 190px; height: 187px;" /></p>
 
 <p style="text-align: center;">Figure 2: area(AEXH) : area(BF XE) : area(CGXF) = 2 : 3 : 2</p>
 

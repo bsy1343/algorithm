@@ -18,7 +18,7 @@
 
 <p>점프킹은 엄청난 점프력을 가진 초인이다. 어느 날, 점프로 세계를 여행하던 점프킹은 착지를 잘못해 점프 감옥에 갇히게 되었다. 점프 감옥은 $N$행 $M$열의 격자이며, 각 칸에서는 주어진 방향과 거리로만 점프할 수 있다. 만약 점프 감옥의 특정 칸에서 점프를 시작한다면 점프 감옥을 탈출할 수 있다. 이러한 칸을 탈출 가능 칸이라 하자. 감옥을 탈출한다는 것은 점프의 결과가 격자 밖인 경우를 말한다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/525f3b97-f98e-4b77-80f3-2f55bfaef34d/-/preview/" style="height: 299px; width: 300px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/26656.%E2%80%85%EC%A0%90%ED%94%84%ED%82%B9/88043290.png" data-original-src="https://upload.acmicpc.net/525f3b97-f98e-4b77-80f3-2f55bfaef34d/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 299px; width: 300px;" /></p>
 
 <p>예를 들어, 위와 같은 점프 감옥에서 R2가 적힌 (2, 2)칸은 탈출 가능 칸이며 다른 칸들은 탈출 가능 칸이 아니다.</p>
 

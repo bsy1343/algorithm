@@ -20,7 +20,7 @@
 
 <p>Any room has a rectangle shape, so we describe it as an [0, N] &times; [0, M] rectangle in the plane. The objects we need to guard are represented as points inside that rectangle. Each sender is mounted on a wall and the corresponding receiver on the opposite wall in such a way that the generated strip is a rectangle of unit width and length either N or M. Since the new laser beam system is still not perfect, each sender-receiver pair can only be mounted to generate strips the corners of which have integer coordinates. An additional drawback is that the sender-receiver pairs can protect only items inside the strips, but not those lying on their borders. Thus, the security agency arranged the exhibits in such a way that both coordinates of any point representing an exhibit are non-integers. The figure below (left) illustrates eight items arranged in [0, 4] &times; [0, 4] (the second sample input). In the room, up to eight sender-receiver pairs can be mounted. The figure to the right shows an area protected by three sender-receiver pairs.</p>
 
-<p style="text-align: center;"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/upload/images2/jewel.png" style="height:197px; width:467px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/10276.%E2%80%85Jewelry%E2%80%85Exhibition/f64cd318.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/upload/images2/jewel.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:197px; width:467px" /></p>
 
 ### 입력
 

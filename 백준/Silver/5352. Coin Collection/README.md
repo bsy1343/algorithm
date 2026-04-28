@@ -20,7 +20,7 @@
 
 <p>For example, given the 5x7 board below the robot can collect at most 6 coins.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/ba0d92f4-f6e2-4865-a876-cb0ffdbc0a4d/-/preview/" style="width: 203px; height: 105px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/5352.%E2%80%85Coin%E2%80%85Collection/3c3d502a.png" data-original-src="https://upload.acmicpc.net/ba0d92f4-f6e2-4865-a876-cb0ffdbc0a4d/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 203px; height: 105px;" /></p>
 
 ### 입력
 

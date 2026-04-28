@@ -24,7 +24,7 @@
 
 <p>For example, consider the following game with a rooted tree of N = 7 nodes and let the initial colors be C<sub>1..7</sub> = {0, 1, 1, 0, 0, 0, 1}.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/ea6d49ec-ba08-4c91-b1dc-e4bdd5adabcc/-/preview/" style="width: 197px; height: 200px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/26860.%E2%80%85White-Black%E2%80%85Tree/8c2ab000.png" data-original-src="https://upload.acmicpc.net/ea6d49ec-ba08-4c91-b1dc-e4bdd5adabcc/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 197px; height: 200px;" /></p>
 
 <p>There are three white nodes (node 2, 3, and 7) in which the first player can choose for their first move. In this example, there is a strategy for the first player to win the game. One of the optimal plays for the first player is to choose node 3, change C<sub>3</sub> into 0 (black), and then change the color of node 6 and node 7 (both are node 3&rsquo;s descendant), i.e. C<sub>6</sub> becomes 1 (white) and C<sub>7</sub> becomes 0 (black). When it&rsquo;s the second player&rsquo;s turn, there are only two white nodes to choose from (node 2 and 6) and both of them do not have any descendants. No matter what the second player chooses for their turn, the first player will simply choose the remaining one white node so that the second player will not be able to make any move. Therefore, the second player loses and the first player wins this example game.</p>
 

@@ -22,7 +22,7 @@
 
 <p>동빈이가 가지고 있는 트리는 <em>N</em>개의 노드들이 <em>N</em>-1개의 간선으로 연결되어 있다. 각 노드들은 1~<em>N</em>까지의 번호가 정해져 있고, 루트 노드의 번호는 1이다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/ac51d9c3-4168-4138-b911-15bfff692ca9/-/preview/" style="height: 400px; width: 378px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/23844.%E2%80%85%ED%8A%B8%EB%A6%AC%E2%80%85%EC%A0%95%EB%A6%AC%ED%95%98%EA%B8%B0/fd21774f.png" data-original-src="https://upload.acmicpc.net/ac51d9c3-4168-4138-b911-15bfff692ca9/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 400px; width: 378px;" /></p>
 
 <p>트리에서 루트 노드의 레벨은 0이고 아래로 갈수록 1씩 증가한다. 동빈이는 모든 노드에 장식을 달고 싶었지만, 트리의 두께가 <em>K</em>를 넘으면 집에 들어가지 않는다.</p>
 

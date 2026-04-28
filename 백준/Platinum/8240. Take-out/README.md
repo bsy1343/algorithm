@@ -38,4 +38,4 @@
 
 <p>Let &nbsp;denote the empty space after a block that was taken out (the gap). By executing the sequence of moves given above, we obtain the following configurations of blocks, in this order: Wykonując podane powyżej ruchy, uzyskujemy kolejno następujące układy klock&oacute;w:</p>
 
-<p style="text-align:center"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/8240/1.gif" style="height:177px; width:500px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/8240.%E2%80%85Take-out/31826fbd.gif" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/8240/1.gif" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:177px; width:500px" /></p>

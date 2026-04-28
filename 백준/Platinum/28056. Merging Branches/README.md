@@ -32,7 +32,7 @@
 
 <p>Since too many branches cause difficulty in company management, Moloco is trying to merge all branches into one. Two branch can be merged if they intersect. The sales territory of the new branch will be the union of sales territories of two branches.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/5a749e19-614d-4c8f-9f71-76d7db4446b2/-/preview/" style="height: 383px; width: 1000px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/28056.%E2%80%85Merging%E2%80%85Branches/348019de.png" data-original-src="https://upload.acmicpc.net/5a749e19-614d-4c8f-9f71-76d7db4446b2/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 383px; width: 1000px;" /></p>
 
 <p style="text-align: center;">Fig 1. Illustration of sample 1 when $K=4$</p>
 

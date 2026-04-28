@@ -20,7 +20,7 @@
 
 <p>For example, the prices of segments of the land having $5 \times 7$ segments are given as follows:</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/51bd1cc5-373e-4aa0-a8f8-ed208e043047/-/preview/" style="width: 355px; height: 124px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/23247.%E2%80%85Ten/671ae5c4.png" data-original-src="https://upload.acmicpc.net/51bd1cc5-373e-4aa0-a8f8-ed208e043047/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 355px; height: 124px;" /></p>
 
 <p>We can find four candidate subsections to sell marked by rectangles: the first one consists of four segments in the first and the second rows spanning over from the second to the third columns, the second, six segments in the second and the third rows spanning over from the third to the fifth columns, the third, two segments in the first row spanning over from the fifth to the sixth columns, and the fourth, three segments in the seventh column spanning over from the third to the fifth rows. Therefore, your program should report four for the above input.</p>
 

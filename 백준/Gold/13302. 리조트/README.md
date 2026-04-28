@@ -55,7 +55,7 @@
 
 <p>세 번째 행은 더 저렴한 비용으로 리조트를 이용하는 구입 방법이다. 여름방학의 첫 번째 날에 연속 5일권을 구입하여 5번째 날까지 리조트를 이용하고(4번째 날 제외), 구매시 2장의 쿠폰을 받는다. 그리고 8번째 날에 연속 3일권을 구입하여 10번째 날까지 리조트를 이용하고, 역시 구매시 쿠폰 1장을 받는다. 13번째 날에는 그때까지 받은 3장의 쿠폰을 하루 이용권 한 장으로 교환하여 리조트를 이용한다. 이렇게 하여 수영이가 리조트 이용을 위해 지불한 전체 비용은 62,000원이다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/13302/1.png" style="height:105px; width:277px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/13302.%E2%80%85%EB%A6%AC%EC%A1%B0%ED%8A%B8/dd76c890.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/13302/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:105px; width:277px" /></p>
 
 <p>여름방학 기간과 리조트에 갈 수 없는 날의 정보가 주어질 때, 리조트를 이용하기 위해서 수영이가 지불해야 하는 최소비용을 계산하는 프로그램을 작성하시오.</p>
 

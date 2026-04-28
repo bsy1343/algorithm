@@ -18,7 +18,7 @@
 
 <p>꽉꽉나라의 농부&nbsp;오리는 당근을 키우려고 한다. 꽉꽉나라에서는&nbsp;씨앗이&nbsp;<em>X</em>만큼의 온기와&nbsp;<em>Y</em>만큼의 수분을 가지면&nbsp;당근으로 자란다고 한다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/631c490a-f8a2-4c00-968f-b01772f280b6/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/20363.%E2%80%85%EB%8B%B9%EA%B7%BC%E2%80%85%ED%82%A4%EC%9A%B0%EA%B8%B0/20d0d612.png" data-original-src="https://upload.acmicpc.net/631c490a-f8a2-4c00-968f-b01772f280b6/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>씨앗은 햇빛을 1번 받을 때마다&nbsp;1만큼의 온기가 증가하고, 햇빛을 10번 받을 때마다 1만큼의 수분이 감소한다.</p>
 

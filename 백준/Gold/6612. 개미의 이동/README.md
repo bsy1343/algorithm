@@ -18,7 +18,7 @@
 
 <p>개미 N마리가 나무 판자 위에서 행진을 하고 있다. 개미는 1초에 1cm씩 앞으로 전진한다. 두 개미가 같은 곳에서 만나게 되면, 즉시 방향을 바꾸고 반대 방향으로 전진하게 된다. 개미가 나무의 끝에 도착하게 되면, 개미는 땅으로 떨어지고, 다른 개미에게 영향을 끼칠 수 없게 된다. (개미의 크기는 무시할 수 있다)</p>
 
-<p><img alt="" src="/upload/images/ants.png" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/6612.%E2%80%85%EA%B0%9C%EB%AF%B8%EC%9D%98%E2%80%85%EC%9D%B4%EB%8F%99/8d17a939.png" data-original-src="https://www.acmicpc.net/upload/images/ants.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>위의 그림은 시간이 0인 순간이다. 1초가 지난 후에 E와 A는 2에서 만나고, 두 개미는 방향을 바꾸게 된다. 1.5초가 지난 후에는 A와 B가 만나게 되고 동시에 C와 D도 만나게 된다. 네 개미는 모두 방향을 바꾼다. 0.5초가 지난 후 (3초)에는 E가 땅으로 떨어지게 된다.</p>
 

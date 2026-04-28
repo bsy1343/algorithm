@@ -18,7 +18,7 @@
 
 <p>Professor Random, known for his research on randomized algorithms, is now conducting an experiment on biased dice. His experiment consists of dropping a number of dice onto a plane, one after another from a fixed position above the plane. The dice fall onto the plane or dice already there, without rotating, and may roll and fall according to their property. Then he observes and records the status of the stack formed on the plane, specifically, how many times each number appears on the faces visible from above. All the dice have the same size and their face numbering is identical, which we show in Figure C-1.</p>
 
-<p style="text-align: center;"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/7017/1.png" style="height:155px; width:194px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/7017.%E2%80%85Biased%E2%80%85Dice/44390b93.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/7017/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:155px; width:194px" /></p>
 
 <p style="text-align: center;">Figure C-1: Numbering of a die</p>
 
@@ -26,13 +26,13 @@
 
 <p>(1) Ordinary dice can roll in four directions, but the dice used in this experiment never roll in the directions of faces 1, 2 and 3; they can only roll in the directions of faces 4, 5 and 6. In the situation shown in Figure C-2, our die can only roll to one of two directions.</p>
 
-<p style="text-align: center;"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/7017/2.png" style="height:224px; width:426px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/7017.%E2%80%85Biased%E2%80%85Dice/36d38b0d.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/7017/2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:224px; width:426px" /></p>
 
 <p style="text-align: center;">Figure C-2: An ordinary die and a biased die</p>
 
 <p>(2) The die can only roll when it will fall down after rolling, as shown in Figure C-3. When multiple possibilities exist, the die rolls towards the face with the largest number among those directions it can roll to.</p>
 
-<p style="text-align: center;"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/7017/3.png" style="height:212px; width:429px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/7017.%E2%80%85Biased%E2%80%85Dice/c89ac3e2.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/7017/3.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:212px; width:429px" /></p>
 
 <p style="text-align: center;">Figure C-3: A die can roll only when it can fall</p>
 
@@ -40,13 +40,13 @@
 
 <p>(4) After rolling and falling, the die repeatedly does so according to the rules (1) to (3) above.</p>
 
-<p style="text-align: center;"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/7017/4.png" style="height:345px; width:702px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/7017.%E2%80%85Biased%E2%80%85Dice/a5ac983b.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/7017/4.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:345px; width:702px" /></p>
 
 <p style="text-align: center;">Figure C-4: Example stacking of biased dice</p>
 
 <p>For example, when we drop four dice all in the same orientation, 6 at the top and 4 at the front, then a stack will be formed as shown in Figure C-4.</p>
 
-<p style="text-align: center;"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/7017/5.png" style="height:233px; width:428px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/7017.%E2%80%85Biased%E2%80%85Dice/ee362505.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/7017/5.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:233px; width:428px" /></p>
 
 <p style="text-align: center;">Figure C-5: Example records</p>
 

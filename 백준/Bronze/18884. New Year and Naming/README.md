@@ -26,7 +26,7 @@
 
 <p>For example, if $n = 3, m = 4, s = $ {&quot;<code>a</code>&quot;, &quot;<code>b</code>&quot;, &quot;<code>c</code>&quot;}, $t =$ {&quot;<code>d</code>&quot;, &quot;<code>e</code>&quot;, &quot;<code>f</code>&quot;, &quot;<code>g</code>&quot;}, the following table denotes the resulting year names. Note that the names of the years may repeat.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/e8f0bd53-840b-4b1c-8511-f5c6e8702ef1/-/preview/" style="width: 415px; height: 200px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/18884.%E2%80%85New%E2%80%85Year%E2%80%85and%E2%80%85Naming/0b21b17f.png" data-original-src="https://upload.acmicpc.net/e8f0bd53-840b-4b1c-8511-f5c6e8702ef1/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 415px; height: 200px;" /></p>
 
 <p>You are given two sequences of strings of size $n$ and $m$ and also $q$ queries. For each query, you will be given the current year. Could you find the name corresponding to the given year, according to the <em>Gapja</em>&nbsp;system?</p>
 

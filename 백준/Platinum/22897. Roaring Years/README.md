@@ -18,7 +18,7 @@
 
 <p>Something is happening in 2021 that has not happened in over a century. 2021, like 1920 before it, is a roaring year. A year represented by a positive integer y is roaring if the decimal writing (without leading zeroes) of y is the concatenation of the decimal writing (without leading zeroes) of two or more distinct consecutive positive integers, in increasing order. In this case, 2021 is a roaring year because it is the concatenation of 20 and 21.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/38b32175-c778-4048-aaba-ef0d790667c6/-/preview/" style="width: 425px; height: 221px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/22897.%E2%80%85Roaring%E2%80%85Years/f3dab478.png" data-original-src="https://upload.acmicpc.net/38b32175-c778-4048-aaba-ef0d790667c6/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 425px; height: 221px;" /></p>
 
 <p style="text-align: center;"><i>Three calendars from roaring years, marked to show how roaring their years are.</i></p>
 

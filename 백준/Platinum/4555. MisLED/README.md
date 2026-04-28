@@ -30,7 +30,7 @@
 
 <p>Using a bit to represent each segment, we can describe a display with seven bits. For example, if the segments are numbered as such:</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/68c5f2ec-88f0-4f42-a215-5015bc1d6ce5/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/4555.%E2%80%85MisLED/e120807e.png" data-original-src="https://upload.acmicpc.net/68c5f2ec-88f0-4f42-a215-5015bc1d6ce5/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>Then the display:</p>
 

@@ -20,7 +20,7 @@
 
 <p>A shape formed by the points of any finite number of triangles is called an isle if any two triangles of the grid contained in this shape are connected by some path formed by the triangles contained in the shape.</p>
 
-<p><img alt="" src="https://onlinejudgeimages.s3.amazonaws.com/problem/8174/1.gif" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/8174.%E2%80%85Isles%E2%80%85in%E2%80%85a%E2%80%85Triangular%E2%80%85Grid/7e728060.gif" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/8174/1.gif" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>The shapes in the figures 1.1, 1.2 and 1.3 are isles. The shape in the figure 1.4 is not an isle. The shapes in the figures 2.2, 2.3 and 2.5 are congruent.</p>
 

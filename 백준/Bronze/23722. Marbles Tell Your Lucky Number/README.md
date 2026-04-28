@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/3b8a32ec-d4a5-4ba5-bd87-d0881205ddc4/-/preview/" style="width: 748px; height: 220px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/23722.%E2%80%85Marbles%E2%80%85Tell%E2%80%85Your%E2%80%85Lucky%E2%80%85Number/633997dc.png" data-original-src="https://upload.acmicpc.net/3b8a32ec-d4a5-4ba5-bd87-d0881205ddc4/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 748px; height: 220px;" /></p>
 
 <p>You can find your lucky number of the day in the following way.</p>
 
@@ -26,7 +26,7 @@
 
 <p>This procedure should be repeated until only one non-empty bowl remains. The number of marbles in the non-empty bowl is your lucky number today.</p>
 
-<p><img alt="" src="https://upload.acmicpc.net/d733432a-9a7a-4f57-b014-c648bfdb273c/-/preview/" style="width: 400px; height: 308px; float: right;" />The figure to the right shows an example corresponding to the first dataset of the Sample Input.</p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/23722.%E2%80%85Marbles%E2%80%85Tell%E2%80%85Your%E2%80%85Lucky%E2%80%85Number/04eb9791.png" data-original-src="https://upload.acmicpc.net/d733432a-9a7a-4f57-b014-c648bfdb273c/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 400px; height: 308px; float: right;" />The figure to the right shows an example corresponding to the first dataset of the Sample Input.</p>
 
 <ol>
 	<li>The bowl second from the right contains the least number of marbles, four.</li>

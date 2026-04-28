@@ -48,6 +48,6 @@
 
 ### 힌트
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/ba02429d-7e17-4ca3-b7d7-1f8987ac51ec/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/8629.%E2%80%85Centrala%E2%80%85telefoniczna/234801cc.png" data-original-src="https://upload.acmicpc.net/ba02429d-7e17-4ca3-b7d7-1f8987ac51ec/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>Bajtel osiągnie największy zysk, jeżeli wybuduje wieżę o wysokości $3$&nbsp;bajtometr&oacute;w. Wtedy zasięg wieży wyniesie $3 \cdot 2 = 6$&nbsp;bajtometr&oacute;w. Zysk z mieszkań abonenckich będzie r&oacute;wny $4+5=9$, natomiast koszt utrzymania wieży wyniesie $0+1+2=3$, co daje łączny zysk firmy - $6$&nbsp;bajtalar&oacute;w.</p>

@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/e56e993f-2a01-421f-924f-af5d6fc78ad2/-/preview/" style="width: 762px; " /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/25628.%E2%80%85%ED%96%84%EB%B2%84%EA%B1%B0%E2%80%85%EB%A7%8C%EB%93%A4%EA%B8%B0/06424d81.png" data-original-src="https://upload.acmicpc.net/e56e993f-2a01-421f-924f-af5d6fc78ad2/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 762px; " /></p>
 
 <p>햄버거 가게에서 일하는 종현이는 햄버거를 만드는 일을 하고 있다. 가게에는 햄버거 빵이 $A$개, 햄버거 패티가 $B$개 있는데, 이 빵과 패티를 가지고 최대한 햄버거를 많이 만드려고 한다. 햄버거를 만드는 과정은 아주 간단한 세 단계로 이루어져 있다.</p>
 

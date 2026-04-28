@@ -21,8 +21,8 @@
 <table class="table table-bordered td-center td-middle">
 	<tbody>
 		<tr>
-			<td><img alt="" src="https://upload.acmicpc.net/730b5edd-6913-472b-bec5-d92069cc8db5/-/preview/" style="width: 148px; height: 125px;" /></td>
-			<td><img alt="" src="https://upload.acmicpc.net/6d2492a4-a468-4f04-9e11-2a39c3366a6c/-/preview/" style="width: 179px; height: 147px;" /></td>
+			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/23318.%E2%80%85%ED%96%89%EB%A0%AC%EB%B6%84%ED%95%A0/09895a98.png" data-original-src="https://upload.acmicpc.net/730b5edd-6913-472b-bec5-d92069cc8db5/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 148px; height: 125px;" /></td>
+			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/23318.%E2%80%85%ED%96%89%EB%A0%AC%EB%B6%84%ED%95%A0/78d5542a.png" data-original-src="https://upload.acmicpc.net/6d2492a4-a468-4f04-9e11-2a39c3366a6c/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 179px; height: 147px;" /></td>
 		</tr>
 		<tr>
 			<td>그림 1</td>

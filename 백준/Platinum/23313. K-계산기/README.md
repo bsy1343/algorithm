@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/650e84cd-1a4f-45af-bd68-f4c4b2585815/" style="height: 234px; width: 350px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/23313.%E2%80%85K-%EA%B3%84%EC%82%B0%EA%B8%B0/1a114404.png" data-original-src="https://upload.acmicpc.net/650e84cd-1a4f-45af-bd68-f4c4b2585815/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 234px; width: 350px;" /></p>
 
 <blockquote>
 <p><em>두유노 김치?</em></p>

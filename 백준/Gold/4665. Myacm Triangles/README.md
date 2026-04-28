@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p><img alt="" src="https://onlinejudgeimages.s3.amazonaws.com/problem/4665/fig1trans.gif" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/4665.%E2%80%85Myacm%E2%80%85Triangles/972dda2a.gif" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/4665/fig1trans.gif" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>There has been considerable archeological work on the ancient Myacm culture. Many artifacts have been found in what have been called power fields: a fairly small area, less than 100 meters square where there are from four to fifteen tall monuments with crystals on top. Such an area is mapped out above. Most of the artifacts discovered have come from inside a triangular area between just three of the monuments, now called the power triangle. After considerable analysis archeologists agree how this triangle is selected from all the triangles with three monuments as vertices: it is the triangle with the largest possible area that does not contain any other monuments inside the triangle or on an edge of the triangle. Each field contains only one such triangle.</p>
 

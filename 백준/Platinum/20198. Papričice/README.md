@@ -24,7 +24,7 @@
 
 <p>Mr. Malnar will partake in three lunches today. For that purpose, he will <strong>cut two strings</strong> to get three smaller components, one for each lunch.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/4dbc5e0d-9f68-4d67-ada7-3cac4a0d74ba/-/preview/" style="width: 287px; height: 206px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/20198.%E2%80%85Papri%C4%8Dice/a5727e20.png" data-original-src="https://upload.acmicpc.net/4dbc5e0d-9f68-4d67-ada7-3cac4a0d74ba/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 287px; height: 206px;" /></p>
 
 <p style="text-align: center;">The tree from the third example along with the optimal cuts.</p>
 

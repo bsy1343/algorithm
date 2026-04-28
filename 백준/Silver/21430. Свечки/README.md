@@ -18,7 +18,7 @@
 
 <p>Мише исполнилось $n$ лет. Праздничный торт, испеченный по этому случаю, имеет форму круга радиуса $r$ с центром в начале координат. На торте стоят $n$ свечек. Мишина мама разделила торт на части, сделав $m$ прямолинейных разрезов. Каждый гость взял один из получившихся кусков.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/a40ab344-c63c-4e89-ae71-829ce17ce955/-/preview/" style="width: 145px; height: 159px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/21430.%E2%80%85%D0%A1%D0%B2%D0%B5%D1%87%D0%BA%D0%B8/9c640e5f.png" data-original-src="https://upload.acmicpc.net/a40ab344-c63c-4e89-ae71-829ce17ce955/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 145px; height: 159px;" /></p>
 
 <p>Миша хочет узнать, не досталось ли кому-нибудь из его гостей более одной свечки. Помогите ему это выяснить.</p>
 

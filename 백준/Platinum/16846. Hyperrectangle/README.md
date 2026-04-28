@@ -30,4 +30,4 @@
 
 <p>Illustration to Sample 1:</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/05ede7f7-e2be-41a4-a9b7-902222afde11/-/preview/" style="width: 221px; height: 129px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/16846.%E2%80%85Hyperrectangle/5e496f53.png" data-original-src="https://upload.acmicpc.net/05ede7f7-e2be-41a4-a9b7-902222afde11/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 221px; height: 129px;" /></p>

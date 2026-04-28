@@ -22,7 +22,7 @@
 
 <p>For convenience, both the stars Dy &amp; Son wants to enclose and the Dyson Units used for this are modeled as squares of exactly $1$ by $1$ <em>Intergalactic Unit</em>, aligned to the <em>Intergalactic Coordinate System</em>. Your Dyson units connect if they have at least a corner in common. See Figure 1 for an example.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/ae8dbb97-0d11-435e-b946-c0827548c76f/-/preview/" style="width: 212px; height: 212px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/23770.%E2%80%85Dyson%E2%80%85Circle/2afe88f6.png" data-original-src="https://upload.acmicpc.net/ae8dbb97-0d11-435e-b946-c0827548c76f/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 212px; height: 212px;" /></p>
 
 <p style="text-align: center;">Figure 1:&nbsp;Illustration of Sample Input 1: four stars (yellow squares) and an optimal Dyson Circle (dashed blue squares) surrounding them, and the remaining blackness of space shown in white.</p>
 

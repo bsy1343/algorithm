@@ -26,7 +26,7 @@
 
 <p>Each syrup is characterized by its fluidity. If the syrup with fluidity &alpha; is located at the crack of size d in the feeder, each second &alpha;d cm<sup>3</sup> of syrup drains out of the crack. Similarly, if the syrup of fluidity &alpha; is at the bottom of the feeder, each second &alpha;q cm<sup>3</sup> of syrup flows through the hole at the bottom of the feeder into the mixing unit. Given the positions of the cracks on the feeder, their sizes and the size of the hole at the bottom of the feeder, as well as the initial amount of each syrup, find the amount of each syrup that eventually gets to the mixing unit.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/d8867a3a-7b8f-493c-8d21-5e03fbe63872/-/preview/" style="width: 508px; height: 253px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/3617.%E2%80%85Confectionery/0f2f8640.png" data-original-src="https://upload.acmicpc.net/d8867a3a-7b8f-493c-8d21-5e03fbe63872/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 508px; height: 253px;" /></p>
 
 ### 입력
 

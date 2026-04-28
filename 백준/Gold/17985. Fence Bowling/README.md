@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p><img alt="" src="https://upload.acmicpc.net/97a23032-07d9-4ac2-b1c9-34de22a6f272/-/preview/" style="width: 154px; height: 381px; float: right;" />Olav is spending an evening on his own, practicing in the bowling hall. Annoyingly, the side-rails in his lane are stuck in the active position, so if the ball goes out of bounds, then it simply bounces back in. This seems unfair to Olav, so he decide that any throw that does not bounce exactly k times in the fences before it hits the pins will be disqualified.</p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/17985.%E2%80%85Fence%E2%80%85Bowling/a5a79dfa.png" data-original-src="https://upload.acmicpc.net/97a23032-07d9-4ac2-b1c9-34de22a6f272/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 154px; height: 381px; float: right;" />Olav is spending an evening on his own, practicing in the bowling hall. Annoyingly, the side-rails in his lane are stuck in the active position, so if the ball goes out of bounds, then it simply bounces back in. This seems unfair to Olav, so he decide that any throw that does not bounce exactly k times in the fences before it hits the pins will be disqualified.</p>
 
 <p>For this purpose, Olav has studied in detail how the ball bounces. His finding is that a ball hitting the fence with angle &alpha; relative to the normal, will bounce back with degree</p>
 

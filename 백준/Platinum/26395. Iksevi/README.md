@@ -24,7 +24,7 @@
 
 <p>Besides being a good programmer and ceramist, Vinko is also an excellent musician. Because of that, he knows that there are n points on the floor that are crucial for good acoustics in the hall. The hall&rsquo;s acoustics would improve significantly if a tile&rsquo;s corner is at one of the n points.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/52607d33-cd75-4f4c-8967-dc65b572c28f/-/preview/" style="width: 491px; height: 212px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/26395.%E2%80%85Iksevi/6393d0ce.png" data-original-src="https://upload.acmicpc.net/52607d33-cd75-4f4c-8967-dc65b572c28f/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 491px; height: 212px;" /></p>
 
 <p style="text-align: center;">The left image shows the paving whose tiles have a diagonal of length 4. The point (2, 4) at on the corner of a tile, and for it the acoustics are good, but for the points (4, 3) and (5, 1) are not.</p>
 

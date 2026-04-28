@@ -22,7 +22,7 @@
 
 <p>Input consists of multiple problem instances. Each instance consists of a specification of a space station. We assume that each space station can fit into an n&times;m&times;k grid ( 1 &le; n, m, k &le; 60), where each grid cube may or may not contain an ACM. We number the grid cubes 0, 1, 2,..., kmn - 1 as shown in the diagram below. Each space station specification then consists of the following: the first line contains four positive integers n m k l, where n, m and k are as described above and l is the number of ACM&#39;s in the station. This is followed by a set of lines which specify the l grid locations of the ACM&#39;s. Each of these lines contain 10 integers (except possibly the last). Each space station is fully connected (i.e., an astronaut can move from one ACM to any other ACM in the station without leaving the station). Values of n = m = k = l = 0 terminate input.</p>
 
-<p><img alt="" src="https://onlinejudgeimages.s3.amazonaws.com/problem/7355/p2358.gif" style="height:636px; width:624px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/7355.%E2%80%85Space%E2%80%85Station%E2%80%85Shielding/22f3144d.gif" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/7355/p2358.gif" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:636px; width:624px" /></p>
 
 ### 출력
 

@@ -36,8 +36,8 @@
 
 ### 힌트
 
-<p style="text-align: center;">This is the picture for the first example. $1$, $5$, $7$ also can be a valid answer. <img alt="" src="https://upload.acmicpc.net/7e3e01b1-a196-407e-9cc5-1b42b8c26d85/-/preview/" style="width: 304px; height: 272px;" /></p>
+<p style="text-align: center;">This is the picture for the first example. $1$, $5$, $7$ also can be a valid answer. <img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/30164.%E2%80%85Complete%E2%80%85Mirror/3d936cc2.png" data-original-src="https://upload.acmicpc.net/7e3e01b1-a196-407e-9cc5-1b42b8c26d85/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 304px; height: 272px;" /></p>
 
 <p>This is the picture for the second example. You can see that it&#39;s impossible to find such root vertex.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/dfd00530-69e7-444d-ba27-98aa5dcf4180/-/preview/" style="width: 400px; height: 197px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/30164.%E2%80%85Complete%E2%80%85Mirror/f417e379.png" data-original-src="https://upload.acmicpc.net/dfd00530-69e7-444d-ba27-98aa5dcf4180/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 400px; height: 197px;" /></p>

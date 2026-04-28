@@ -20,7 +20,7 @@
 
 <p>예를 들어 &lt;그림 1&gt;에서 1번 통나무에서 2번 통나무로 점선을 따라 개구리가 점프하는 것이 가능하다. 1번 통나무에서 2번 통나무로 점프한 후 다시 3번 통나무로 점프하면 1번 통나무에서 3번 통나무로 이동하는 것이 가능하다. (통나무 위에서 걸어서 움직이는 것은 언제든 가능하다.)</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/98a76e73-0187-43bb-90f9-435f8055e74f/-/preview/" style="width: 521px; height: 186px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/17619.%E2%80%85%EA%B0%9C%EA%B5%AC%EB%A6%AC%E2%80%85%EC%A0%90%ED%94%84/6ade21e0.png" data-original-src="https://upload.acmicpc.net/98a76e73-0187-43bb-90f9-435f8055e74f/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 521px; height: 186px;" /></p>
 
 <p style="text-align: center;">&lt;그림 1&gt;</p>
 

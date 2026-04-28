@@ -51,7 +51,7 @@
 
 ### 힌트
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/35971dde-8a4c-4f8a-81d4-0fffa5ed02cc/-/preview/" style="width: 298px; height: 300px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/16202.%E2%80%85MST%E2%80%85%EA%B2%8C%EC%9E%84/eff3e526.png" data-original-src="https://upload.acmicpc.net/35971dde-8a4c-4f8a-81d4-0fffa5ed02cc/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 298px; height: 300px;" /></p>
 
 <p>첫 턴에 찾을 수 있는 MST는 총 5개의 간선 {(1, 3), (1, 2), (2, 4), (4, 6), (4, 5)}로 이루어져 있고, 비용은 16이다.</p>
 

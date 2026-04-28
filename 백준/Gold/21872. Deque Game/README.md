@@ -31,9 +31,9 @@
 
 <p>예를 들어&nbsp;연돌이는 $2$층짜리 $00$스택을 무수히 많이&nbsp;받고, 세순이는 $2$층짜리 $22$스택을 무수히 많이&nbsp;받았다. 총 $3$종류의 블록을 이용해서 $3$층 스택을 쌓는 방법의 수는 $7$가지로 같다. 이 Deque Game은 승부가 나지 않는다.&nbsp;&nbsp;</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/d1f28ae8-b7b2-40f2-8010-c2f950f2e504/" style="width: 400px; height: 226px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/21872.%E2%80%85Deque%E2%80%85Game/a6c8648c.png" data-original-src="https://upload.acmicpc.net/d1f28ae8-b7b2-40f2-8010-c2f950f2e504/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 400px; height: 226px;" /></p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/c1a846ea-0684-4879-b6ef-bd22256acf80/" style="width: 400px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/21872.%E2%80%85Deque%E2%80%85Game/cfe32ae8.png" data-original-src="https://upload.acmicpc.net/c1a846ea-0684-4879-b6ef-bd22256acf80/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 400px;" /></p>
 
 <p>곧 밤 10시가 되기 때문에&nbsp;마호가니 아르바이트생 선렬이는&nbsp;문을 닫을 준비를 해야 한다. 하지만 이 순간에도&nbsp;연돌이들과&nbsp;세순이들이 Deque Game을 열심히 하고 있다. 선렬이는 매 게임판을 돌아다니며 Deque Game의 승자를 알려주기로 했다. 재빨리 Deque Game의 승자를 알려주고 게임판을 접지 않으면, 10시에 문을 닫지 못하고 벌금을 내야 할 것이다!</p>
 

@@ -20,7 +20,7 @@
 
 <p>주환이는 오늘이 자신과 가장 친한 아기 블롭의&nbsp;생일이라는 사실을 알고,&nbsp;선물로 $K$장의 카드를 주었다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/bc81653f-f48e-4354-b293-76cc7c9c8ee3/-/preview/" style="width: 768px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/24500.%E2%80%85blobblush/1440c98b.png" data-original-src="https://upload.acmicpc.net/bc81653f-f48e-4354-b293-76cc7c9c8ee3/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 768px;" /></p>
 
 <p>주환이는&nbsp;카드를 다음 조건에 맞게 뽑았다.</p>
 

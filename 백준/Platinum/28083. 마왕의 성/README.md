@@ -20,7 +20,7 @@
 
 <p>영토가 될 수 있는 부지는 \(N \times M\)크기의 직사각형 모양이며, 부지는 \(1 \times 1\)단위 크기의 땅으로 나뉘어져 있다. 마왕은 하나 이상의 땅을 골라 자신의 영토로 선포하고, 그 중 하나의 땅에 마왕의 성을 세울 것이다. 각 땅에는 &quot;땅의 높이&quot;와 &quot;얻을 수 있는 세금&quot; 두 가지 수치가 정해져 있다. 다음 그림은 예제 2의 각 땅에서 얻을 수 있는 세금과 높이를 각각 나타낸 것이다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/5cbd5f25-fa03-414f-a00a-1299da548fe4/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/28083.%E2%80%85%EB%A7%88%EC%99%95%EC%9D%98%E2%80%85%EC%84%B1/d0f9fcb5.png" data-original-src="https://upload.acmicpc.net/5cbd5f25-fa03-414f-a00a-1299da548fe4/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>마왕은 국민과의 소통을 중시하므로, 영토에 속하는 모든 땅은 상하좌우로 인접한 영토를 따라 이동해 마왕의 성에 도달할 수 있어야 한다. 또한 자신이 세상에서 가장 높은 사람이 되어야 한다는 확고한 철학이 있으므로, 마왕의 성을 세울 땅은 나머지 모든 영토의 높이보다 높거나 같아야 한다.</p>
 

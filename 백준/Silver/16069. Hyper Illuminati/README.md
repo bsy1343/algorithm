@@ -33,7 +33,7 @@
 	<li>The number of blocks used to build the pyramid must be a meaningful number.</li>
 </ul>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/979cebbd-3373-4509-a764-883772ca7190/-/preview/" style="width: 323px; height: 199px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/16069.%E2%80%85Hyper%E2%80%85Illuminati/ec821f52.png" data-original-src="https://upload.acmicpc.net/979cebbd-3373-4509-a764-883772ca7190/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 323px; height: 199px;" /></p>
 
 <p style="text-align: center;">Figure H.1: A 3-dimensional hyper pyramid with 3 steps consisting of 14 blocks in total.</p>
 

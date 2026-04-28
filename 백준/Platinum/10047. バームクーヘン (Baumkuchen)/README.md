@@ -20,7 +20,7 @@
 
 <p>バームクーヘンは下図のような円筒形のお菓子である．3 人に分けるために，JOI 君は半径方向に刃を 3回入れて，これを 3 つのピースに切り分けなければならない．ただしこのバームクーヘンは本物の木材のように固いので，刃を入れるのは簡単ではない．そのためこのバームクーヘンにはあらかじめ N 個の切れ込みが入っており，JOI 君は切れ込みのある位置でのみ切ることができる．切れ込みに 1 から N まで時計回りに番号をふったとき，1 &le; i &le; N &minus; 1 に対し， i 番目の切れ込みと i + 1 番目の切れ込みの間の部分の大きさは A<sub>i</sub> である．また N 番目の切れ込みと 1 番目の切れ込みの間の部分の大きさは AN である．</p>
 
-<p style="text-align: center;"><img alt="" src="/upload/images3/baum.png" style="height:278px; width:294px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/10047.%E2%80%85%E3%83%90%E3%83%BC%E3%83%A0%E3%82%AF%E3%83%BC%E3%83%98%E3%83%B3%E2%80%85(Baumkuchen)/e767f559.png" data-original-src="https://www.acmicpc.net/upload/images3/baum.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:278px; width:294px" /></p>
 
 <p style="text-align: center;">図 1: バームクーヘンの例 N = 6, A<sub>1</sub> = 1, A<sub>2</sub> = 5, A<sub>3</sub> = 4, A<sub>4</sub> = 5, A<sub>5</sub> = 2, A<sub>6</sub> = 4</p>
 

@@ -28,7 +28,7 @@
 
 <p>Example (possible solution for third test example)</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/95154642-dca4-418b-bbbf-e357dba6f82a/-/preview/" style="width: 231px; height: 230px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/1902.%E2%80%85%C5%A1pilja/ae4e8f07.png" data-original-src="https://upload.acmicpc.net/95154642-dca4-418b-bbbf-e357dba6f82a/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 231px; height: 230px;" /></p>
 
 <p>The lamp should be placed somewhere in a spot &quot;above&quot; cave&#39;s floor so that it illuminates the entire floor. To put it more precisely, x coordinate of the lamp must be placed between x coordinate of the first and last point of the floor (inclusive), and y coordinate of the lamp must be bigger than or equal to y coordinate of the floor point with the same x coordinate.&nbsp;</p>
 

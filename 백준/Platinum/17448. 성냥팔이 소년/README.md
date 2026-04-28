@@ -26,7 +26,7 @@
 	<li>성냥개비를 2개 사용하고, +<span style="font-style: italic;">X</span>를 <span style="font-style: italic;">T</span>에 곱한다. (단, <span style="font-style: italic;">X</span>는 그 정수의 원래 값)</li>
 </ul>
 
-<p style="margin-top: 15px;"><img alt="alt text" src="https://upload.acmicpc.net/206c154a-606f-4cd9-9bf5-5c75349061fa/-/preview/" style="display: block; margin-left: auto; margin-right: auto; width: 100%; max-width: 500px;" /></p>
+<p style="margin-top: 15px;"><img alt="alt text" src="%EB%B0%B1%EC%A4%80/Platinum/17448.%E2%80%85%EC%84%B1%EB%83%A5%ED%8C%94%EC%9D%B4%E2%80%85%EC%86%8C%EB%85%84/c9ca5f21.png" data-original-src="https://upload.acmicpc.net/206c154a-606f-4cd9-9bf5-5c75349061fa/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="display: block; margin-left: auto; margin-right: auto; width: 100%; max-width: 500px;" /></p>
 
 <p style="margin-bottom: 15px; text-align: center;">각 정수에 대해 할 수 있는 3가지 행동.</p>
 

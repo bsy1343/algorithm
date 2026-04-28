@@ -26,7 +26,7 @@
 
 <p>Tiles may be rotated $0$, $90$, $180$, or $270$ degrees to fit amongst each other, however, they cannot overlap or go outside the vertical boundary of the grid.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/4ee70ed0-3d25-4d44-8baf-be617bfab4cd/-/preview/" style="width: 335px; height: 100px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/30570.%E2%80%85Mini-Tetris%E2%80%853023/8e43ed7a.png" data-original-src="https://upload.acmicpc.net/4ee70ed0-3d25-4d44-8baf-be617bfab4cd/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 335px; height: 100px;" /></p>
 
 <p>This game provides $a$ squares, $b$ S-tiles, and $c$ corners. Gry would like to beat the high score by creating the largest-possible contiguous $2 \times n$ rectangle out of some or all of the provided tiles, without any tiles overlapping or sticking out of the rectangle.</p>
 

@@ -39,7 +39,7 @@ W R Y O Y B R Y R G O O
 
 <p>Which follows this layout:</p>
 
-<p><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/9972/1.png" style="height:161px; width:212px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/9972.%E2%80%85Rubik%E2%80%99s%E2%80%85Cube%E2%80%85Solver/9c82da31.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/9972/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:161px; width:212px" /></p>
 
 <p>Each character in this grid represents the color of the piece of the cube. There is one space between each character in the grid and possibly many spaces before the first character on a line. The grid represents the cube as is if it were unfolded and flattened out. Each group of 9 characters (3 x 3 array) represents one side of the grid. The top of the cube is represented by the first 3 lines of input. The next 3 lines of input represent the left, front, right, and back sides in that order. The last 3 lines represent the bottom of the cube.</p>
 

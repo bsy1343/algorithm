@@ -22,7 +22,7 @@
 
 <p>Being a nerd he obviously knows about Murphy&rsquo;s Law saying &ldquo;Anything that can go wrong, will go wrong!&rdquo;. So all people who could possibly bump into each other, i.e., all people whose paths cross, will actually bump into each other! He now asks himself, &ldquo;After all the n people have crossed, what is the size of the largest group of people where everyone has bumped into each other?&rdquo;. Now that is a geeky and tough question, can you help him?</p>
 
-<p style="text-align: center;"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11216/1.png" style="height:281px; width:324px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/11216.%E2%80%85Shibuya%E2%80%85Crossing/eab447f5.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11216/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:281px; width:324px" /></p>
 
 <p style="text-align: center;">Figure E.1: A beautiful illustration of a possible interpretation of the first sample test case.</p>
 

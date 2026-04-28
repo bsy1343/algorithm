@@ -36,7 +36,7 @@
 
 <p>예를 들어, $a=[4,5,1,2]$일 때를 살펴보자. 만약 모든 자연수를 고르면 $B=[4,5,1,2]$가 되고, 이는 불안정한 수열이 아니므로, $4$개의 자연수를 골라서 불안정한 수열을 만들 수는 없다. 하지만, 왼쪽에서 첫 번째, 세 번째, 네 번째에 놓여 있는 자연수를 고르면 $B = [4,1,2]$가 되고, $B$의 첫 번째 자연수($4$)와 두 번째 자연수($1$)의 합은 $5$로 홀수이고, 두 번째 자연수($1$)와 세 번째 자연수($2$)의 합은 $3$으로 홀수이므로, 이웃한 두 자연수의 합이 항상 홀수라서, $B$는 불안정한 수열이다. 따라서, $3$개의 자연수를 골라서 불안정한 수열을 만들 수 있으며, 이것이 최대이다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/38b6e59d-b876-4d47-ae66-3a9f58f06588/-/preview/" style="width: 513px; height: 153px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/28323.%E2%80%85%EB%B6%88%EC%95%88%EC%A0%95%ED%95%9C%E2%80%85%EC%88%98%EC%97%B4/fad21388.png" data-original-src="https://upload.acmicpc.net/38b6e59d-b876-4d47-ae66-3a9f58f06588/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 513px; height: 153px;" /></p>
 
 ### 입력
 

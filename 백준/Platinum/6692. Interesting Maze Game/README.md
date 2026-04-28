@@ -20,7 +20,7 @@
 
 <p>The game is played on the field of 7 x 7 squares with equal-sized cards lying on each square. Various path patterns are drawn on the cards, these paths join arbitrary subset of the four edges of a single square. The patterns can form longer paths leading through the whole game field. When following these paths, it is possible to move from a square to its neighbouring square, if both squares contain the path pattern leading to their common edge. It is impossible to travel between squares diagonally. See the picture for a better idea about the game appearance.</p>
 
-<p style="text-align: center;"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/6692/1.gif" style="height:370px; width:374px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/6692.%E2%80%85Interesting%E2%80%85Maze%E2%80%85Game/f6894c2f.gif" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/6692/1.gif" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:370px; width:374px" /></p>
 
 <p>In the beginning of the move, the player has one game piece on some of the square cards and his/her goal is to move the piece to some other square card (target) following the valid paths. Before the walk, the player alters the maze state by inserting one extra square card into it.</p>
 

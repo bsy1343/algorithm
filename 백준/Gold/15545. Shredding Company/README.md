@@ -26,7 +26,7 @@
 
 <p>For example, suppose that the target number is&nbsp;<em>50</em>, and the sheet of paper has the number&nbsp;<em>12346</em>. The shredder would cut the sheet into four pieces, where one piece has&nbsp;<em>1</em>, another has&nbsp;<em>2</em>, the third has&nbsp;<em>34</em>, and the fourth has&nbsp;<em>6</em>. This is because their sum 43 (= 1 + 2 + 34 + 6) is closest to the target number&nbsp;<em>50</em>&nbsp;of all possible combinations without going over 50. For example, a combination where the pieces are&nbsp;<em>1</em>,&nbsp;<em>23</em>,&nbsp;<em>4</em>, and&nbsp;<em>6</em>&nbsp;is not valid, because the sum of this combination 34 (= 1 + 23 + 4 + 6) is less than the above combination&#39;s 43. The combination of&nbsp;<em>12</em>,&nbsp;<em>34</em>, and&nbsp;<em>6</em>&nbsp;is not valid either, because the sum 52 (= 12+34+6) is greater than the target number of 50.</p>
 
-<p style="text-align:center"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15545/1.png" style="height:242px; width:305px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/15545.%E2%80%85Shredding%E2%80%85Company/e5e2d442.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15545/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:242px; width:305px" /></p>
 
 <p style="text-align:center">Figure 1. Shredding a sheet of paper having the number&nbsp;<em>12346</em>&nbsp;when the target number is&nbsp;<em>50</em></p>
 

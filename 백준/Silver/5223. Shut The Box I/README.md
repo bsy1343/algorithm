@@ -22,7 +22,7 @@
 
 <p>The final score for the player is the sum of the numbers of the cards still face-up, and the aim is to get as low score as possible (and ideally to shut the box, i.e., have no cards left facing up). In the above case where the game ends with face up cards 1, 2, and 6, the final score is: 1 + 2 + 6 = 9.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/60a05c2d-7e0c-4e32-9d69-c24a4b6e68b4/-/preview/" style="width: 512px; height: 261px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/5223.%E2%80%85Shut%E2%80%85The%E2%80%85Box%E2%80%85I/66349c8a.png" data-original-src="https://upload.acmicpc.net/60a05c2d-7e0c-4e32-9d69-c24a4b6e68b4/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 512px; height: 261px;" /></p>
 
 <p style="text-align: center;">Figure 1: Illustration of Shut the Box game in two cases (in the right example, only the last few moves are shown). Note that, we only use 1 die when the total of open cards is less than or equal to 6 (in the right example)</p>
 

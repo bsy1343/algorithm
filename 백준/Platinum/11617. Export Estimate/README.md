@@ -36,7 +36,7 @@
 	</li>
 </ol>
 
-<p style="text-align: center;"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11617/1.png" style="height:196px; width:545px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/11617.%E2%80%85Export%E2%80%85Estimate/0a9d75a9.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11617/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:196px; width:545px" /></p>
 
 <p style="text-align: center;">Illustration of the second example with the threshold priority 95</p>
 

@@ -97,7 +97,7 @@
 
 <p>1번과 3번 알람을 켜게 된다면, 다음과 같이 알람이 스무 번 울린다. <strong>시각 (6, 12, 18, 24, 30)에 울리는 알람은 한 번만 울린 것으로 계산한다.</strong></p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/26fe4ee8-cd5d-453c-88e3-71daaa5463cc/-/crop/664x62/16,0/-/preview/" style="width: 664px; height: 62px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/24462.%E2%80%85%EC%9D%BC%EC%96%B4%EB%82%98...%E2%80%85%EC%BD%94%EB%94%A9%ED%95%B4%EC%95%BC%EC%A7%80.../1a04e082.png" data-original-src="https://upload.acmicpc.net/26fe4ee8-cd5d-453c-88e3-71daaa5463cc/-/crop/664x62/16,0/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 664px; height: 62px;" /></p>
 
 <p style="text-align: center;"><strong>빨간 점이 있는 위치는 알람이 울리는 시각이다.</strong></p>
 

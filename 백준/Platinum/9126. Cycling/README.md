@@ -29,7 +29,7 @@
 
 <p>For example:&nbsp;</p>
 
-<p><img alt="" src="https://onlinejudgeimages.s3.amazonaws.com/problem/9126/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-06-13%20%EC%98%A4%ED%9B%84%206.11.24.png" style="height:134px; width:261px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/9126.%E2%80%85Cycling/79e8acfd.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/9126/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-06-13%20%EC%98%A4%ED%9B%84%206.11.24.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:134px; width:261px" /></p>
 
 <p>In this case the shortest path from 1 to 7 would be through 2, 3 and 4, but the altitude difference of that path is 8. So, you prefer to go through 5, 6 and 4 for an altitude difference of 2. (Note that going from 6 directly to 7 directly would have the same difference in altitude, but the path would be longer!)</p>
 

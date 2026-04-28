@@ -20,7 +20,7 @@
 
 <p>Since you are already late for the contest start, you need to find a shortest path from your hotel to the contest site. Fortunately, you have a map of the city. See Figure D.1 for an example.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/58448207-8f65-4266-98b7-2c064efb926f/-/preview/" style="width: 300px; height: 183px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/26177.%E2%80%85Delft%E2%80%85Distance/b8d8590a.png" data-original-src="https://upload.acmicpc.net/58448207-8f65-4266-98b7-2c064efb926f/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 300px; height: 183px;" /></p>
 
 <p style="text-align: center;">Figure D.1: Illustration of Sample Input 1, with a shortest path shown in red.</p>
 

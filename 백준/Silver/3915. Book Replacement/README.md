@@ -24,7 +24,7 @@
 
 <p>In the storeroom, there are m desks D<sub>1</sub>, &middot; &middot; &middot; , D<sub>m</sub>, and a shelf. They are placed in a line in this order, from the door to the back of the room. Up to c books can be put on each of the desks. If a student requests a book, the librarian enters the storeroom and looks for it on D<sub>1</sub>, . . . , D<sub>m</sub> in this order, and then on the shelf. After finding the book, the librarian takes it and gives a copy of a page to the student.</p>
 
-<p style="text-align:center"><img alt="" src="/upload/imagesa/figure1%20lib.png" style="height:234px; width:724px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/3915.%E2%80%85Book%E2%80%85Replacement/fa0677ed.png" data-original-src="https://www.acmicpc.net/upload/imagesa/figure1%20lib.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:234px; width:724px" /></p>
 
 <p style="text-align:center">Figure 1: The Library</p>
 

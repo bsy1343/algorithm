@@ -20,7 +20,7 @@
 
 <p>Cilj igre je posložiti igračku krenuv&scaron;i iz nekog početnog stanja pri čemu za igračku kažemo da je posložena ako je u stanju kao na slici:</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/805e1ed4-1f27-4ac6-af0e-efb419f22eb4/-/preview/" style="width: 99px; height: 98px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/25140.%E2%80%85KLIZA/0de9b0b8.png" data-original-src="https://upload.acmicpc.net/805e1ed4-1f27-4ac6-af0e-efb419f22eb4/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 99px; height: 98px;" /></p>
 
 <p>Igru slažemo tako da u svakom koraku pomaknemo neki <strong>kvadratić susjedan praznom polju</strong> sa svoje pozicije na <strong>prazno polje</strong>. Na primjer, ako označimo slobodni kvadratić s X, tada vrijedi:</p>
 
@@ -34,9 +34,9 @@
 	</thead>
 	<tbody>
 		<tr>
-			<td><img alt="" src="https://upload.acmicpc.net/b8b4878b-e141-4fa1-933e-5a336f9a9de1/-/crop/195x196/0,0/-/preview/" style="width: 98px; height: 98px;" /></td>
-			<td><img alt="" src="https://upload.acmicpc.net/b8b4878b-e141-4fa1-933e-5a336f9a9de1/-/crop/195x196/422,0/-/preview/" style="width: 98px; height: 98px;" /></td>
-			<td><img alt="" src="https://upload.acmicpc.net/b8b4878b-e141-4fa1-933e-5a336f9a9de1/-/crop/195x196/889,0/-/preview/" style="width: 98px; height: 98px;" /></td>
+			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/25140.%E2%80%85KLIZA/ad9a26ec.png" data-original-src="https://upload.acmicpc.net/b8b4878b-e141-4fa1-933e-5a336f9a9de1/-/crop/195x196/0,0/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 98px; height: 98px;" /></td>
+			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/25140.%E2%80%85KLIZA/0e639e5c.png" data-original-src="https://upload.acmicpc.net/b8b4878b-e141-4fa1-933e-5a336f9a9de1/-/crop/195x196/422,0/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 98px; height: 98px;" /></td>
+			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/25140.%E2%80%85KLIZA/f4a06c0a.png" data-original-src="https://upload.acmicpc.net/b8b4878b-e141-4fa1-933e-5a336f9a9de1/-/crop/195x196/889,0/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 98px; height: 98px;" /></td>
 		</tr>
 	</tbody>
 </table>
@@ -66,10 +66,10 @@
 	</thead>
 	<tbody>
 		<tr>
-			<td><img alt="" src="https://upload.acmicpc.net/ea572e38-1d59-40e8-8975-8402bbfec7e3/-/crop/196x196/0,0/-/preview/" style="width: 98px; height: 98px;" /></td>
-			<td><img alt="" src="https://upload.acmicpc.net/ea572e38-1d59-40e8-8975-8402bbfec7e3/-/crop/196x196/291,0/-/preview/" style="width: 98px; height: 98px;" /></td>
-			<td><img alt="" src="https://upload.acmicpc.net/ea572e38-1d59-40e8-8975-8402bbfec7e3/-/crop/196x196/639,0/-/preview/" style="width: 98px; height: 98px;" /></td>
-			<td><img alt="" src="https://upload.acmicpc.net/ea572e38-1d59-40e8-8975-8402bbfec7e3/-/crop/196x196/1006,0/-/preview/" style="width: 98px; height: 98px;" /></td>
+			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/25140.%E2%80%85KLIZA/41893949.png" data-original-src="https://upload.acmicpc.net/ea572e38-1d59-40e8-8975-8402bbfec7e3/-/crop/196x196/0,0/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 98px; height: 98px;" /></td>
+			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/25140.%E2%80%85KLIZA/d170cb27.png" data-original-src="https://upload.acmicpc.net/ea572e38-1d59-40e8-8975-8402bbfec7e3/-/crop/196x196/291,0/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 98px; height: 98px;" /></td>
+			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/25140.%E2%80%85KLIZA/8b3411ad.png" data-original-src="https://upload.acmicpc.net/ea572e38-1d59-40e8-8975-8402bbfec7e3/-/crop/196x196/639,0/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 98px; height: 98px;" /></td>
+			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/25140.%E2%80%85KLIZA/caa1d39c.png" data-original-src="https://upload.acmicpc.net/ea572e38-1d59-40e8-8975-8402bbfec7e3/-/crop/196x196/1006,0/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 98px; height: 98px;" /></td>
 		</tr>
 	</tbody>
 </table>

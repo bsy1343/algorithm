@@ -47,6 +47,6 @@
 
 ### 힌트
 
-<p style="text-align:center"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/13973/1.png" style="height:296px; width:645px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/13973.%E2%80%85Acrobat/17966169.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/13973/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:296px; width:645px" /></p>
 
 <p>In this example, the initial configuration of the ropes is shown in the left figure. After the first change, the blue rope has changed position (middle figure). After the second change, the red &ldquo;walk path&rdquo; has been introduced (right figure). It is now possible for the acrobat to perform her act by walking as follows: A1, B3, B1, A3, B2, A1. She has returned where she has started and all the ropes have been destroyed.</p>

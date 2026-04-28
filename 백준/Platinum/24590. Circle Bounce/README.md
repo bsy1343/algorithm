@@ -20,7 +20,7 @@
 
 <p>Map the arena as a unit circle centered at the origin, with you standing at the point $(-1, 0)$. &nbsp;You throw the ball with a direction given by a slope in the coordinate plane of a rational fraction $a/b$. &nbsp;Each bounce is perfect, losing no energy and bouncing from the wall with the same angle of reflection as the angle of incidence to a tangent to the wall at the point of impact.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/02c5eb61-4046-4780-9b5b-e9e45e1ffb6f/-/preview/" style="width: 356px; height: 200px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/24590.%E2%80%85Circle%E2%80%85Bounce/f09d36bb.png" data-original-src="https://upload.acmicpc.net/02c5eb61-4046-4780-9b5b-e9e45e1ffb6f/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 356px; height: 200px;" /></p>
 
 <p>After $n$ bounces, the ball strikes the circle again at some point $p$ which has rational coordinates that can be expressed as $(r/s, t/u)$. &nbsp;Output the fraction $r/s$ modulo the prime $M = 1{,}000{,}000{,}007$.</p>
 

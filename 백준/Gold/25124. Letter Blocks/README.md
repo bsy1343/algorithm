@@ -24,7 +24,7 @@
 
 <p>For example, consider the following three possible megatowers. (These are separate examples, not built from the same original towers. Also note that the different block sizes are just for fun and are not part of the problem.)</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/662b4473-d274-45df-8c7e-66443ae9b9e8/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/25124.%E2%80%85Letter%E2%80%85Blocks/92f87c30.png" data-original-src="https://upload.acmicpc.net/662b4473-d274-45df-8c7e-66443ae9b9e8/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>The leftmost two megatowers are valid, since each letter appears in a contiguous group. However, the rightmost megatower is not valid, because there is a <code>B</code> in between two <code>C</code>s.</p>
 

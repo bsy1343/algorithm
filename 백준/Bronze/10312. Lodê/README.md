@@ -26,9 +26,9 @@
 <table class="table" style="width:100%">
 	<tbody>
 		<tr>
-			<td style="width: 33%; text-align: center;"><img alt="" src="/upload/images2/lode1.png" style="height:112px; width:120px" /></td>
-			<td style="width: 33%; text-align: center;"><img alt="" src="/upload/images2/lode2.png" style="height:112px; width:151px" /></td>
-			<td style="width: 34%; text-align: center;"><img alt="" src="/upload/images2/lode3.png" style="height:112px; width:125px" /></td>
+			<td style="width: 33%; text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/10312.%E2%80%85Lod%C3%AA/f4cf6403.png" data-original-src="https://www.acmicpc.net/upload/images2/lode1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:112px; width:120px" /></td>
+			<td style="width: 33%; text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/10312.%E2%80%85Lod%C3%AA/99d9d0ff.png" data-original-src="https://www.acmicpc.net/upload/images2/lode2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:112px; width:151px" /></td>
+			<td style="width: 34%; text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/10312.%E2%80%85Lod%C3%AA/6c52fa09.png" data-original-src="https://www.acmicpc.net/upload/images2/lode3.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:112px; width:125px" /></td>
 		</tr>
 		<tr>
 			<td style="text-align: center;">zero dimension</td>

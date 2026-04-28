@@ -38,10 +38,10 @@
 
 ### 힌트
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/70eff87e-4c95-4459-9ab9-09a223c7bef0/-/preview/" style="width: 169px; height: 106px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/28639.%E2%80%85%D0%A1%D0%BE%D0%B1%D0%B0%D0%BA%D0%B0%2C%E2%80%85%D0%BF%D1%80%D0%B5%D0%B4%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%E2%80%85%D0%B8%E2%80%85%D0%BA%D0%B0%D0%B1%D0%B5%D0%BB%D1%8F/2a8bd7ee.png" data-original-src="https://upload.acmicpc.net/70eff87e-4c95-4459-9ab9-09a223c7bef0/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 169px; height: 106px;" /></p>
 
 <p style="text-align: center;">(a) В первом примере провода располагаются следующим образом</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/5c92c3a1-1172-4e7f-a2c5-a2aa665430c6/-/preview/" style="width: 167px; height: 166px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/28639.%E2%80%85%D0%A1%D0%BE%D0%B1%D0%B0%D0%BA%D0%B0%2C%E2%80%85%D0%BF%D1%80%D0%B5%D0%B4%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%E2%80%85%D0%B8%E2%80%85%D0%BA%D0%B0%D0%B1%D0%B5%D0%BB%D1%8F/95c0691f.png" data-original-src="https://upload.acmicpc.net/5c92c3a1-1172-4e7f-a2c5-a2aa665430c6/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 167px; height: 166px;" /></p>
 
 <p style="text-align: center;">(b) Во втором примере провода располагаются следующим образом</p>

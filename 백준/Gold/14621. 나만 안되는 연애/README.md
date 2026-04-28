@@ -28,7 +28,7 @@
 
 <p>만약 도로 데이터가 만약 왼쪽의 그림과 같다면, 오른쪽 그림의 보라색 선과 같이 경로를 구성하면 위의 3가지 조건을 만족하는 경로를 만들 수 있다.</p>
 
-<p style="text-align:center"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14621/1.png" style="height:128px; width:345px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/14621.%E2%80%85%EB%82%98%EB%A7%8C%E2%80%85%EC%95%88%EB%90%98%EB%8A%94%E2%80%85%EC%97%B0%EC%95%A0/ea600bf6.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14621/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:128px; width:345px" /></p>
 
 <p>이때, 주어지는 거리 데이터를 이용하여 사심 경로의 길이를 구해보자.</p>
 

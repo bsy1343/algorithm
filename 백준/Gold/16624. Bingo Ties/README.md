@@ -24,7 +24,7 @@
 
 <p>For example, consider the following two bingo cards:</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/0037718c-25e4-406c-a822-e15f46d47b29/-/preview/" style="width: 341px; height: 104px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/16624.%E2%80%85Bingo%E2%80%85Ties/52decf8b.png" data-original-src="https://upload.acmicpc.net/0037718c-25e4-406c-a822-e15f46d47b29/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 341px; height: 104px;" /></p>
 
 <p>Then this set of two cards could result in a tie if the sequence of numbers called was</p>
 

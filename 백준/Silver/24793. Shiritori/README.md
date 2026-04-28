@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<figure style="width: 300px; float: right;"><img alt="" src="https://upload.acmicpc.net/4bb02293-8500-44da-b67f-44f0bf4a7cde/-/preview/" style="width: 300px; height: 302px;" />
+<figure style="width: 300px; float: right;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/24793.%E2%80%85Shiritori/fd6e969a.png" data-original-src="https://upload.acmicpc.net/4bb02293-8500-44da-b67f-44f0bf4a7cde/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 300px; height: 302px;" />
 <figcaption>The original version of Shiritori is played using Japanese hiragana, katakana, or kanji characters. Source <a href="https://commons.wikimedia.org/wiki/File:Shiritori.png">WikiMedia</a></figcaption>
 </figure>
 

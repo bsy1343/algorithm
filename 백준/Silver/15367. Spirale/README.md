@@ -29,8 +29,8 @@
 <table class="table" style="width:100%">
 	<tbody>
 		<tr>
-			<td style="text-align:center; width:50%"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15367/1.png" style="height:108px; width:138px" /></td>
-			<td style="text-align:center; width:50%"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15367/2.png" style="height:108px; width:138px" /></td>
+			<td style="text-align:center; width:50%"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/15367.%E2%80%85Spirale/eeda596d.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15367/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:108px; width:138px" /></td>
+			<td style="text-align:center; width:50%"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/15367.%E2%80%85Spirale/1a4f6aac.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15367/2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:108px; width:138px" /></td>
 		</tr>
 		<tr>
 			<td style="text-align:center; width:50%">Image 1: a spiral moving counter-clockwise</td>
@@ -51,6 +51,6 @@
 
 <p>Clarification of the third test case:</p>
 
-<p style="text-align:center"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15367/3.png" style="height:162px; width:366px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/15367.%E2%80%85Spirale/df4d9110.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15367/3.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:162px; width:366px" /></p>
 
 <p>For simplicity&rsquo;s sake, the letter A was added to the numbers from the first spiral, and the letter B to the numbers from the second spiral. Only the first 20 steps of the first spiral are shown, and 21 steps of the second spiral. The fields in gray are the fields from the table we&rsquo;re interested in, all other fields are out of the table&rsquo;s bounds, but are shown to illustrate the way the spirals move outside of the table.</p>

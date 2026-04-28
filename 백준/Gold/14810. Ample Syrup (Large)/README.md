@@ -20,7 +20,7 @@
 
 <p>As the sous-chef, you must choose&nbsp;<strong>K</strong>&nbsp;out of the&nbsp;<strong>N</strong>&nbsp;available pancakes, discard the others, and arrange those&nbsp;<strong>K</strong>&nbsp;pancakes in a stack on a plate as follows. First, take the pancake that has the largest radius, and lay it on the plate on one of its circular faces. (If multiple pancakes have the same radius, you can use any of them.) Then, take the remaining pancake with the next largest radius and lay it on top of that pancake, and so on, until all&nbsp;<strong>K</strong>&nbsp;pancakes are in the stack and the centers of the circular faces are aligned in a line perpendicular to the plate, as illustrated by this example:</p>
 
-<p style="text-align:center"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14809/1.png" style="height:136px; width:320px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/14810.%E2%80%85Ample%E2%80%85Syrup%E2%80%85(Large)/35b34840.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14809/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:136px; width:320px" /></p>
 
 <p>You know that there is only one thing your diners love as much as they love pancakes: syrup! It is best to maximize the total amount of exposed pancake surface area in the stack, since more exposed pancake surface area means more places to pour on delicious syrup. Any part of a pancake that is not touching part of another pancake or the plate is considered to be exposed.</p>
 

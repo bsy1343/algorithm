@@ -18,7 +18,7 @@
 
 <p>곰곰이는 $2^K$마리가 참가하여 최고의 곰곰댄서를 뽑는 곰곰댄스 토너먼트에 출전하려 한다!</p>
 
-<p style="text-align: center;"><img alt="곰곰 짜잔" src="https://upload.acmicpc.net/76a9dc04-5936-47be-acea-247811fc6e4e/-/preview/" style="max-height:250px; object-fit:contain; display:inline-block;" /></p>
+<p style="text-align: center;"><img alt="곰곰 짜잔" src="%EB%B0%B1%EC%A4%80/Platinum/26078.%E2%80%85%EA%B3%B0%EA%B3%B0%EC%9D%B4%EC%99%80%E2%80%85%ED%86%A0%EB%84%88%EB%A8%BC%ED%8A%B8/c433a763.png" data-original-src="https://upload.acmicpc.net/76a9dc04-5936-47be-acea-247811fc6e4e/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="max-height:250px; object-fit:contain; display:inline-block;" /></p>
 
 <p>토너먼트는 $K$개의 라운드에 걸쳐 진행되고, 참가자들은 각 라운드마다 2마리씩 짝을 이뤄 춤 대결을 펼친다.</p>
 
@@ -26,7 +26,7 @@
 
 <p>$i(1 \leq i \leq 2^K)$번 참가자는 춤 실력을 나타내는 실력 지표 $a_i$가 있으며, 만약 두 참가자가 맞붙었을 경우 춤 실력 지표가 더 큰 참가자가 무조건 이기게 된다.</p>
 
-<p style="text-align: center;"><img alt="4-1-3-2 순으로 돼있는 대진표" src="https://upload.acmicpc.net/c081bcab-47c6-45f9-9108-ff10d96c08b8/-/preview/" style="max-height:250px; object-fit:contain; display:inline-block;" /></p>
+<p style="text-align: center;"><img alt="4-1-3-2 순으로 돼있는 대진표" src="%EB%B0%B1%EC%A4%80/Platinum/26078.%E2%80%85%EA%B3%B0%EA%B3%B0%EC%9D%B4%EC%99%80%E2%80%85%ED%86%A0%EB%84%88%EB%A8%BC%ED%8A%B8/d89582b5.png" data-original-src="https://upload.acmicpc.net/c081bcab-47c6-45f9-9108-ff10d96c08b8/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="max-height:250px; object-fit:contain; display:inline-block;" /></p>
 
 <p style="text-align: center;"><strong>[그림 1] 참가자가 4명일 때 나올 수 있는 24가지 대진표 중 하나. 원 안의 숫자는 참가자 번호를 의미한다.</strong></p>
 

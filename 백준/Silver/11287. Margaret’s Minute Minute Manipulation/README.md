@@ -20,7 +20,7 @@
 
 <p>Time&rsquo;s usual representation is the well known 24h format - e.g. 03:14:15. Although there is several possible ways to represent time in a binary form, the convention used throughout this exercise is as follows.</p>
 
-<p style="text-align:center"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11287/1.png" style="height:115px; width:337px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/11287.%E2%80%85Margaret%E2%80%99s%E2%80%85Minute%E2%80%85Minute%E2%80%85Manipulation/fc1b6c2a.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11287/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:115px; width:337px" /></p>
 
 <p style="text-align:center">Figure 1: Binary Clock Format of time 03:14:15.</p>
 

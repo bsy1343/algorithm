@@ -20,15 +20,15 @@
 
 <p>그런데, 동기들 중에는 배신자가 한 명 있다. 배신자는 본인이 속한 파 내에서 정치질을 하여 두루두루 친하게 지내지 못하게 하고, 본인을 중심으로 파를 갈기갈기 찢어 놓는다. 예를 들어, $1$과 $2$, $2$와 $3$, $3$과 $4$, $4$와 $5$가 서로 친구이고, 배신자가 $2$라고 하자. 겉으로 보기에는 $(1, 2, 3, 4, 5)$가 한 파 같아 보이지만, 이들은 $(1, 2)$의 조합과 $(2, 3, 4, 5)$의 조합으로밖에 어울려 다니지 못한다. 파가 둘로 쪼개지는 것이다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/29720cc3-7bb4-450e-8b4f-578f2e63b329/-/preview/" style="height: 70px; width: 432px; margin-top: 10px; margin-bottom: 10px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/29810.%E2%80%85%EB%B0%B0%EC%8B%A0%EC%9E%90/51e76c7c.png" data-original-src="https://upload.acmicpc.net/29720cc3-7bb4-450e-8b4f-578f2e63b329/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 70px; width: 432px; margin-top: 10px; margin-bottom: 10px;" /></p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/98f757e0-9b25-4289-b09c-252963b69dee/-/preview/" style="height: 70px; width: 556px; margin-top: 10px; margin-bottom: 10px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/29810.%E2%80%85%EB%B0%B0%EC%8B%A0%EC%9E%90/de26d2a9.png" data-original-src="https://upload.acmicpc.net/98f757e0-9b25-4289-b09c-252963b69dee/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 70px; width: 556px; margin-top: 10px; margin-bottom: 10px;" /></p>
 
 <p>만약, 친구 관계가 계속 연결되다가 <strong>배신자가 포함된</strong> 사이클을 형성하게 된다면, 사이클에 속한 친구들끼리 배신자의 배신 행태를 공유하여 배신자를 파에서 쫓아낸다. 예를 들어, $(1, 2), (2, 3), (3, 1), (3, 4)$의 친구 관계가 있다고 하자. $3$이 배신자일 때, $1, 2$는 서로 정보를 공유하여 그들의 그룹에서 배신자인 $3$을 축출한다. 결국 이들은 $(1, 2)$의 조합과 $(3, 4)$의 조합인 파 $2$개로 나뉜다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/a8244d11-2bb5-4c3b-b415-766fc27e1722/-/preview/" style="width: 279px; height: 175px; margin-top: 10px; margin-bottom: 10px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/29810.%E2%80%85%EB%B0%B0%EC%8B%A0%EC%9E%90/9d0a74b3.png" data-original-src="https://upload.acmicpc.net/a8244d11-2bb5-4c3b-b415-766fc27e1722/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 279px; height: 175px; margin-top: 10px; margin-bottom: 10px;" /></p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/c1dde2ae-b976-4c36-9a12-367e2a7f2215/-/preview/" style="width: 279px; height: 175px; margin-top: 10px; margin-bottom: 10px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/29810.%E2%80%85%EB%B0%B0%EC%8B%A0%EC%9E%90/09c780bc.png" data-original-src="https://upload.acmicpc.net/c1dde2ae-b976-4c36-9a12-367e2a7f2215/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 279px; height: 175px; margin-top: 10px; margin-bottom: 10px;" /></p>
 
 <p>배신자가 모든 파에서 축출되면, 배신자는 친구가 없이 홀로 다녀야 하기 때문에 크기가 $1$인 파가 된다.</p>
 

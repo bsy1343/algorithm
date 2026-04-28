@@ -18,7 +18,7 @@
 
 <p>TingTing is a girl that loves matrices. One day, she wants to use a computer to generate a giant&nbsp;<var>n</var>&nbsp;row by&nbsp;<var>m</var>&nbsp;column matrix (you don&#39;t have to worry about how she&#39;ll store it). Her generated matrix will satisfy a mystical property: if we use&nbsp;<var>F</var>[<var>i</var>][<var>j</var>] to represent the cell in the&nbsp;<var>i</var>-th row and&nbsp;<var>j</var>-th column, then&nbsp;<var>F</var>[<var>i</var>][<var>j</var>] will satisfy the following system of equations:</p>
 
-<p><img alt="" src="https://upload.acmicpc.net/4479a323-532d-44f5-9c9d-508f074a33a4/-/preview/" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/17315.%E2%80%85Matrix%E2%80%85Game/16bd782d.png" data-original-src="https://upload.acmicpc.net/4479a323-532d-44f5-9c9d-508f074a33a4/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>where&nbsp;<var>a</var>,&nbsp;<var>b</var>,&nbsp;<var>c</var>, and&nbsp;<var>d</var>&nbsp;are given constants.</p>
 

@@ -50,12 +50,12 @@
 
 <p>1번 예제는 다음과 같은 방법으로 두 입력 예제에서 러시아 국기를 만들 수 있다.</p>
 
-<p><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11950/1.png" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/11950.%E2%80%852016%E2%80%85IOI/d4d49e47.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11950/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
-<p><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11950/2.png" style="height:201px; width:251px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/11950.%E2%80%852016%E2%80%85IOI/dae7bd26.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11950/2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:201px; width:251px" /></p>
 
-<p><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11950/3.png" style="height:201px; width:251px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/11950.%E2%80%852016%E2%80%85IOI/b44de3ab.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11950/3.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:201px; width:251px" /></p>
 
 <p>2번 예제는 이렇게 생겼다.</p>
 
-<p><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11950/4.png" style="height:301px; width:701px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/11950.%E2%80%852016%E2%80%85IOI/6bd1f280.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11950/4.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:301px; width:701px" /></p>

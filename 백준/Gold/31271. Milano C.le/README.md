@@ -22,7 +22,7 @@
 
 <p>The platforms at the station are long enough so that all $n$ trains can be lined up one after another on the same platform. However, if train $x$ enters the platform first, and then train $y$, then train $x$ cannot leave the platform before train $y$.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/c6c4415b-3f02-48ff-bcde-98601a54ed73/-/preview/" style="width: 400px; height: 165px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/31271.%E2%80%85Milano%E2%80%85C.le/ad346430.png" data-original-src="https://upload.acmicpc.net/c6c4415b-3f02-48ff-bcde-98601a54ed73/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 400px; height: 165px;" /></p>
 
 <p style="text-align: center;">The illustration shows a possible train schedule on the platforms in the second sample test.</p>
 

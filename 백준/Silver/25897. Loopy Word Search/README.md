@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/151b4108-cb4b-4d87-ad53-2f90976571ad/-/preview/" style="width: 350px; height: 189px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/25897.%E2%80%85Loopy%E2%80%85Word%E2%80%85Search/5f7b43bb.png" data-original-src="https://upload.acmicpc.net/151b4108-cb4b-4d87-ad53-2f90976571ad/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 350px; height: 189px;" /></p>
 
 <p>A word search puzzle is a grid of letters where your challenge is to find selected words as formed by consecutive letters in a line along the rows, columns, or diagonals of the grid. Tougher word searches also allow words in the grid to be forwards or backwards in any of those directions. In the &ldquo;loopy word search&rdquo;, we will also allow words to go off the edge of the grid and continue (along the same line) on the other side, and potentially even reuse letters from that same word. However, in this problem, we won&rsquo;t search for words along diagonal lines, i.e., we only search along the rows and columns. (The UCF programming coaches are sure nice!)</p>
 

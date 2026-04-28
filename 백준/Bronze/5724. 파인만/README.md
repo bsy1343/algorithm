@@ -22,7 +22,7 @@
 
 <p>N = 2인 경우에 정답은 5이다.</p>
 
-<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/5724.%E2%80%85%ED%8C%8C%EC%9D%B8%EB%A7%8C/5e4636ab.png" data-original-src="https://www.acmicpc.net/upload/images/howmanysq.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:93px; width:432px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/5724.%E2%80%85%ED%8C%8C%EC%9D%B8%EB%A7%8C/5e4636ab.png" data-original-src="%EB%B0%B1%EC%A4%80/Bronze/5724.%E2%80%85%ED%8C%8C%EC%9D%B8%EB%A7%8C/5e4636ab.png" data-original-src="https://www.acmicpc.net/upload/images/howmanysq.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:93px; width:432px" /></p>
 
 ### 입력
 

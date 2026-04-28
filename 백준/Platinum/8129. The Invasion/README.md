@@ -47,4 +47,4 @@
 
 ### 힌트
 
-<p><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/8129/1.gif" style="height:244px; width:304px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/8129.%E2%80%85The%E2%80%85Invasion/e5c0996a.gif" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/8129/1.gif" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:244px; width:304px" /></p>

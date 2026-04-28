@@ -53,4 +53,4 @@
 
 <p>In the second test case we have three white stars, so we can draw only one polygon (a triangle), as shown in the picture below. It turns out that we are able to catch the blue star in this polygon. The length of the perimeter of this polygon is $5+5+52 \approx 17.071068$.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/0ef35498-6c30-4056-914b-dfcf98ad259a/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/23078.%E2%80%85Star%E2%80%85Trappers/16d70cbb.png" data-original-src="https://upload.acmicpc.net/0ef35498-6c30-4056-914b-dfcf98ad259a/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>

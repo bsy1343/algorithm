@@ -21,11 +21,11 @@
 <table class="table" style="width:100%">
 	<tbody>
 		<tr>
-			<td style="text-align:center; vertical-align:bottom; width:20%"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14964/1.png" style="height:57px; width:55px" /></td>
-			<td style="text-align:center; vertical-align:bottom; width:20%"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14964/2.png" style="height:36px; width:93px" /></td>
-			<td style="text-align:center; vertical-align:bottom; width:20%"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14964/3.png" style="height:64px; width:76px" /></td>
-			<td style="text-align:center; vertical-align:bottom; width:20%"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14964/4.png" style="height:56px; width:72px" /></td>
-			<td style="text-align:center; vertical-align:bottom; width:20%"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14964/5.png" style="height:61px; width:79px" /></td>
+			<td style="text-align:center; vertical-align:bottom; width:20%"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/14964.%E2%80%85Tetris/65a6c51b.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14964/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:57px; width:55px" /></td>
+			<td style="text-align:center; vertical-align:bottom; width:20%"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/14964.%E2%80%85Tetris/7a2a1cea.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14964/2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:36px; width:93px" /></td>
+			<td style="text-align:center; vertical-align:bottom; width:20%"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/14964.%E2%80%85Tetris/7bf62bfe.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14964/3.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:64px; width:76px" /></td>
+			<td style="text-align:center; vertical-align:bottom; width:20%"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/14964.%E2%80%85Tetris/3ec1c1e3.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14964/4.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:56px; width:72px" /></td>
+			<td style="text-align:center; vertical-align:bottom; width:20%"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/14964.%E2%80%85Tetris/4aadd9bd.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14964/5.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:61px; width:79px" /></td>
 		</tr>
 		<tr>
 			<td style="text-align:center; width:20%">Figure 1</td>
@@ -57,4 +57,4 @@
 
 <p>The following image depicts the Tetris matrix when Ivica came back to his computer.</p>
 
-<p><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14964/6.png" style="height:186px; width:256px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/14964.%E2%80%85Tetris/39df7900.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14964/6.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:186px; width:256px" /></p>

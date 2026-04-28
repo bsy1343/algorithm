@@ -18,7 +18,7 @@
 
 <p>Balanced closed bracket or parenthesis statements are ones where each opening bracket is matched with a closed bracket later in the string.</p>
 
-<p style="text-align:center"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/13052/1.png" style="height:86px; width:191px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/13052.%E2%80%85Alternative%E2%80%85Bracket%E2%80%85Notation/ca87a4e4.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/13052/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:86px; width:191px" /></p>
 
 <p>Notice how each closed parenthesis matches to the most recent unmatched open parenthesis.</p>
 
@@ -32,7 +32,7 @@
 
 <p>In this example, there are two sets of matching parenthesis, the outer one and the inner one. The outer one appears before the inner one, since the start bracket appears first. So, the header for the outer brackets will appear before the header for the inner bracket. The header <code>4,8:</code> represents the outer bracket, while the header <code>8,8:</code> represents the inner bracket. The substring from the 4th character to 7th character is <code>8,8:</code>, which represents what is contained inside the outer bracket. Note that <code>5,11:11,11:</code> could also be a legitimate alternate notation, but we want the shortest one, which is why <code>4,8:8,8:</code> is the correct answer.</p>
 
-<p style="text-align:center"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/13052/2.png" style="height:64px; width:321px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/13052.%E2%80%85Alternative%E2%80%85Bracket%E2%80%85Notation/f10abdf9.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/13052/2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:64px; width:321px" /></p>
 
 ### 입력
 

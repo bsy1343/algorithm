@@ -20,11 +20,11 @@
 
 <p>The sportsman $i$ starts running at a point $(s_i, i)$ and runs to the right with the speed of $v_i$. The race is long, so let us consider that it never ends, and the sportsmen never stop.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/f941bf3d-f0ec-46a4-9236-ac534f8c7cb5/-/preview/" style="width: 386px; height: 160px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/24848.%E2%80%85Race/2e9e3bf1.png" data-original-src="https://upload.acmicpc.net/f941bf3d-f0ec-46a4-9236-ac534f8c7cb5/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 386px; height: 160px;" /></p>
 
 <p>Young photographer Daniel is watching the race. He wonders what is the maximum number of sportsmen that would at some moment be on the same straight line. Help him find that out!</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/4399e811-69ec-4e3e-9e8d-3971db645644/-/preview/" style="width: 386px; height: 167px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/24848.%E2%80%85Race/f82e8264.png" data-original-src="https://upload.acmicpc.net/4399e811-69ec-4e3e-9e8d-3971db645644/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 386px; height: 167px;" /></p>
 
 ### 입력
 

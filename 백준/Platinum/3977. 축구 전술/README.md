@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p><img alt="" src="/upload/images2/field(1).png" style="float:right; height:124px; line-height:20.8px; opacity:0.9; width:188px" />World Soccer Championship이 다가오고 있다! 천재적인 전술을 창조하는 플랜 아티스트 감독&nbsp;도현이는 자신의 팀이 승리하도록 만반의 준비를 가하고 있다. 도현이의 전략은 경기장을 여러 개의 구역으로 나누고, 어떤 선수가 A구역에서 B구역으로 이동하게 하는 움직임을 (A, B)로 표현한다. 모든 도현이의 팀 선수들이 이 움직임만을 따라서 이동한다면 승리하리라고 도현이는 확신한다.</p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/3977.%E2%80%85%EC%B6%95%EA%B5%AC%E2%80%85%EC%A0%84%EC%88%A0/f4553bea.png" data-original-src="https://www.acmicpc.net/upload/images2/field(1).png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="float:right; height:124px; line-height:20.8px; opacity:0.9; width:188px" />World Soccer Championship이 다가오고 있다! 천재적인 전술을 창조하는 플랜 아티스트 감독&nbsp;도현이는 자신의 팀이 승리하도록 만반의 준비를 가하고 있다. 도현이의 전략은 경기장을 여러 개의 구역으로 나누고, 어떤 선수가 A구역에서 B구역으로 이동하게 하는 움직임을 (A, B)로 표현한다. 모든 도현이의 팀 선수들이 이 움직임만을 따라서 이동한다면 승리하리라고 도현이는 확신한다.</p>
 
 <p>도현이는 선수들에게 자신의 전술을 말해주며, 다른 모든 구역에 도달할 수 있는 시작 구역을 찾은 뒤&nbsp;지시한 움직임만을 따라가라고 했다. 그러나 도현이는 한 가지 간과한 것이 있었는데 그건 선수들이 자신만큼 똑똑하지 않다는 것이다.&nbsp;선수들은 그러한&nbsp;시작 구역을 찾는 것이 어려웠다.&nbsp;이제 당신이 적절한 시작 구역을 찾아줘야 한다.</p>
 

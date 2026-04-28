@@ -20,7 +20,7 @@
 
 <p>승연이가 사는 벌집은 조금 특이한 구조로 되어있다. 벌집은 \(N\)행 \(M\)열의 격자로 이루어져 있고, 각 칸은 정육각형 모양이다. 같은 행에 위치한&nbsp;두 칸을 비교했을 때, 짝수 번째 열의 칸은 홀수 번째 열의 칸보다 반 칸 아래에 위치해 있다. 아래 그림은 3행 4열의 격자로 이루어진&nbsp;벌집의 예시이다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/967ccd5c-9050-49bd-9eaa-72f713859381/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/23083.%E2%80%85%EA%BF%80%EB%B2%8C%E2%80%85%EC%8A%B9%EC%97%B0%EC%9D%B4/32b3d6e0.png" data-original-src="https://upload.acmicpc.net/967ccd5c-9050-49bd-9eaa-72f713859381/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>두 육각형 칸이 하나의 변을 공유하고 있다면 서로 인접하다고 한다. 육각형 칸의 각 변에는 인접한 칸으로 이동할 수 있는 문이 있는데, 벌집 내 교통 정리를 위해 각 칸에서는 아래쪽, 오른쪽 위, 오른쪽 아래&nbsp;칸으로만 이동할 수 있다. 또, 벌집에는 구멍 칸이 있을 수도 있는데,&nbsp;구멍 칸으로는 이동할 수 없다.</p>
 

@@ -18,7 +18,7 @@
 
 <p>While surfing online, Slavko came across an ad displaying a system of containers and pipes (an example of such system is illustrated in the image below) with the message: &ldquo;If container <strong>1</strong>&nbsp;starts filling up with water, determine the order in which the containers get filled up.&rdquo;</p>
 
-<p style="text-align:center"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15580/1.png" style="height:110px; width:227px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/15580.%E2%80%85Clickbait/b491f80f.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15580/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:110px; width:227px" /></p>
 
 <p>The system consists of K containers denoted with numbers from 1 to K, and we can describe it using a matrix of characters with N rows and M columns. The containers are <strong>in the shape of a rectangle</strong>​, and the outlines of the containers and pipes are shown with the following characters:</p>
 

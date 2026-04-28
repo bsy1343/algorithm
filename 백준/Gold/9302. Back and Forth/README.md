@@ -31,7 +31,7 @@
 
 <p>Below is the representation of the first test case. Note that (0,0) is the bottom-left corner.</p>
 
-<p style="text-align: center;"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/9302/1.png" style="height:307px; width:308px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/9302.%E2%80%85Back%E2%80%85and%E2%80%85Forth/1053c40b.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/9302/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:307px; width:308px" /></p>
 
 ### 입력
 

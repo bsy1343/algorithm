@@ -20,7 +20,7 @@
 
 <p>&nbsp;</p>
 
-<p style="text-align: center;"><img alt="IMG_9330.JPG" src="https://upload.acmicpc.net/0c37c6e6-2d0b-4599-b54d-cafab7524805/-/crop/1841x1693/0,0/-/preview/" style="height:846px; width:920px" /></p>
+<p style="text-align: center;"><img alt="IMG_9330.JPG" src="%EB%B0%B1%EC%A4%80/Gold/12731.%E2%80%85%EC%97%B4%EC%B0%A8%E2%80%85%EC%8B%9C%EA%B0%84%ED%91%9C(Small)/767b2367.png" data-original-src="https://upload.acmicpc.net/0c37c6e6-2d0b-4599-b54d-cafab7524805/-/crop/1841x1693/0,0/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:846px; width:920px" /></p>
 
 <p>열차들은 하루에 A역에서 B역으로, 혹은 B역에서 A역으로 여러 번 운행할 수 있다. 만약 열차가 A역에서 B역(혹은 B역에서 A역) 으로 도착하면, 다시 원래 역으로 돌아가기 위한 시간, 즉 회차시간을 필요로 한다. 예를 들어, 열차가 12:00에 도착했으며, 회차시간이 0분이라면, 열차는 12:00에 바로 역을 떠날 수 있다.</p>
 

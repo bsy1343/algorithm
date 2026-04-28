@@ -54,12 +54,12 @@
 
 <p>In the first case, there are $4$&nbsp;different ways. They are:</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/502abadb-c4cd-4b95-b004-dd35f8524319/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/23079.%E2%80%85Graph%E2%80%85Travel/0e64bb95.png" data-original-src="https://upload.acmicpc.net/502abadb-c4cd-4b95-b004-dd35f8524319/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>In the second case, there are&nbsp;$8$ different ways. They are:</p>
 
-<p style="text-align: center;"><img alt="" class="img-responsive" src="https://upload.acmicpc.net/3575d9b6-3df6-4e84-911d-b3f060de8fd7/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" class="img-responsive" src="%EB%B0%B1%EC%A4%80/Platinum/23079.%E2%80%85Graph%E2%80%85Travel/01450b76.png" data-original-src="https://upload.acmicpc.net/3575d9b6-3df6-4e84-911d-b3f060de8fd7/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>In the third case, there are $4$&nbsp;different ways. They are:</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/93fa1f78-a060-48f7-859f-d60df2dcbc42/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/23079.%E2%80%85Graph%E2%80%85Travel/57452a6b.png" data-original-src="https://upload.acmicpc.net/93fa1f78-a060-48f7-859f-d60df2dcbc42/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>

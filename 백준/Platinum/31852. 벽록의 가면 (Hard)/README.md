@@ -20,7 +20,7 @@
 
 <p>굴의 위치는 좌표평면 위 점으로 나타낼 수 있다. 기하학을 좋아하는 도깨비는 가면을 숨긴 $4$개의 굴을 적절한 순서로 이으면 볼록한 사각형이 만들어지게 할 것이다. 이 문제에서 볼록한 사각형이란 $4$개의 변이 꼭짓점에서만 만나며 내각의 크기가 모두 180&deg; 미만인 사각형을 말한다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/ff697b77-adff-40b2-b94c-5f8eb7b43961/-/preview/" style="height: 424px; width: 720px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/31852.%E2%80%85%EB%B2%BD%EB%A1%9D%EC%9D%98%E2%80%85%EA%B0%80%EB%A9%B4%E2%80%85(Hard)/35b2b717.png" data-original-src="https://upload.acmicpc.net/ff697b77-adff-40b2-b94c-5f8eb7b43961/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 424px; width: 720px;" /></p>
 
 <p>호기심이 많은 도깨비는 문득 서로 다른 $4$개의 굴을 꼭짓점 삼아 만들 수 있는 볼록한 사각형이 몇 개나 되는지 궁금해졌다. 굴 $N$개의 좌표가 주어지면 이 궁금증을 해결하는 프로그램을 만들어보자.</p>
 

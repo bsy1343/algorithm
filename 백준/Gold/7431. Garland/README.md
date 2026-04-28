@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p><img alt="" src="https://upload.acmicpc.net/95723130-e8ad-4689-8926-99b16937040d/-/preview/" style="width: 391px; height: 397px; float: right;" />The New Year garland consists of N lamps attached to a common wire that hangs down on the ends to which outermost lamps are affixed. The wire sags under the weight of lamp in a particular way: each lamp is hanging at the height that is 1 millimeter lower than the average height of the two adjacent lamps.</p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/7431.%E2%80%85Garland/5cd4f135.png" data-original-src="https://upload.acmicpc.net/95723130-e8ad-4689-8926-99b16937040d/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 391px; height: 397px; float: right;" />The New Year garland consists of N lamps attached to a common wire that hangs down on the ends to which outermost lamps are affixed. The wire sags under the weight of lamp in a particular way: each lamp is hanging at the height that is 1 millimeter lower than the average height of the two adjacent lamps.</p>
 
 <p>The leftmost lamp in hanging at the height of A millimeters above the ground. You have to determine the lowest height B of the rightmost lamp so that no lamp in the garland lies on the ground though some of them may touch the ground.</p>
 

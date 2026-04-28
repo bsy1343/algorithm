@@ -22,7 +22,7 @@
 
 <p>The Queen&#39;s herald, however, announces the next move the Queen makes in advance. That means that before anyone makes a move, he announces the Queen&#39;s first move. Then, Alice moves first. Then, each time the Queen moves, she must respect the previous announcement, and then decide her next move so the herald can announce it. Alice hears the announcements, so she always knows the Queen&#39;s next move before making her own.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/9cee39d7-df40-422f-b909-ee40ef64c48c/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/27824.%E2%80%85Wonderland%E2%80%85Chase/c738d617.png" data-original-src="https://upload.acmicpc.net/9cee39d7-df40-422f-b909-ee40ef64c48c/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>If Alice and the Queen are at the same junction after either of them moves, then Alice is caught. Otherwise, the pursuit continues. After $10^9$ total moves (half of them for Alice and half for the Queen), if Alice and the Queen are not in the same junction, then the Queen will give up and Alice will be safe.</p>
 
@@ -55,12 +55,12 @@
 
 <p>Sample Case #2 is the same as Sample Case #1 but the Queen starts at junction $2$. The Queen can catch Alice by first announcing a move to junction $4$. If Alice were to move to junction $4$⁠, she would be caught in $2$ moves. Alice can evade capture for an extra $2$ moves by staying put and waiting until the Queen then moves to junction $5$ where she is located.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/cd71634e-4376-4337-90d0-d7713622e532/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/27824.%E2%80%85Wonderland%E2%80%85Chase/1c552c7a.png" data-original-src="https://upload.acmicpc.net/cd71634e-4376-4337-90d0-d7713622e532/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>In Sample Case #3, the Queen cannot reach Alice no matter what she does.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/f9c515cc-da31-46e9-b505-0a6246dd20e8/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/27824.%E2%80%85Wonderland%E2%80%85Chase/c3636d57.png" data-original-src="https://upload.acmicpc.net/f9c515cc-da31-46e9-b505-0a6246dd20e8/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>In Sample Case #4, the Queen can begin by announcing that she will move to Alice&#39;s current junction. Alice has to move before then. If Alice moves to where the Queen already is, she gets caught immediately; if Alice remains in place, then she gets caught when the Queen moves. The second option is better, since it requires $2$ total moves (Alice&#39;s and the Queen&#39;s) instead of $1$.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/6805e1eb-a392-4ac6-97be-addb1d168a6e/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/27824.%E2%80%85Wonderland%E2%80%85Chase/04fc9fce.png" data-original-src="https://upload.acmicpc.net/6805e1eb-a392-4ac6-97be-addb1d168a6e/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>

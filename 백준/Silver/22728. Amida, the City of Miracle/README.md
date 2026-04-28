@@ -26,7 +26,7 @@
 
 <p>以下の図は，サンプルとして与えた入力および出力の内容を示したものである．</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/1dc9688c-b5c6-40bf-9ab1-ed121f5684da/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/22728.%E2%80%85Amida%2C%E2%80%85the%E2%80%85City%E2%80%85of%E2%80%85Miracle/79cc3fb4.png" data-original-src="https://upload.acmicpc.net/1dc9688c-b5c6-40bf-9ab1-ed121f5684da/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 ### 입력
 

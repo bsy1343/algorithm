@@ -38,6 +38,6 @@
 
 ### 힌트
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/973af0fe-5e28-459a-b889-685af458c4d4/-/preview/" style="width: 282px; height: 100px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/24286.%E2%80%85Rain/fd86c7c0.png" data-original-src="https://upload.acmicpc.net/973af0fe-5e28-459a-b889-685af458c4d4/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 282px; height: 100px;" /></p>
 
 <p>We do not increase the height of the barrier at position 2 because this will not change the amount of water. We increase by 1 centimeter the barrier height at position 4. This increases the total amount of water by 1 cubic centimeter.</p>

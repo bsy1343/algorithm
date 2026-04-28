@@ -46,10 +46,10 @@ r<sub>N</sub> sx<sub>N</sub> sy<sub>N</sub> tx<sub>N</sub> ty<sub>N</sub></pre>
 
 <p>In the first example, the third coin cannot move because it is disturbed by the other two coins.</p>
 
-<p style="text-align:center"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15524/1.png" style="height:260px; width:275px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/15524.%E2%80%85Coin%E2%80%85Slider/2438e557.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15524/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:260px; width:275px" /></p>
 
 <p style="text-align:center">Example 1. Initial Positions</p>
 
-<p style="text-align:center"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15524/2.png" style="height:258px; width:278px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/15524.%E2%80%85Coin%E2%80%85Slider/45ed53a3.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15524/2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:258px; width:278px" /></p>
 
 <p style="text-align:center">Example 1. After Movements</p>

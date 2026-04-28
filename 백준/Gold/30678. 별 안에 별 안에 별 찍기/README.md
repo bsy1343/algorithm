@@ -25,7 +25,7 @@
 
 <p>그리고 양의 정수 $i$에 대하여 $Star_i$의 패턴은 다음과 같다. 빈칸은 공백으로 채워져야 한다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://u.acmicpc.net/bc825e4e-830a-4e40-8110-9b269a695fc2/pattern-of-star_i.jpg" style="height: 50%; width: 50%;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/30678.%E2%80%85%EB%B3%84%E2%80%85%EC%95%88%EC%97%90%E2%80%85%EB%B3%84%E2%80%85%EC%95%88%EC%97%90%E2%80%85%EB%B3%84%E2%80%85%EC%B0%8D%EA%B8%B0/6cb6e59f.jpg" data-original-src="https://u.acmicpc.net/bc825e4e-830a-4e40-8110-9b269a695fc2/pattern-of-star_i.jpg" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 50%; width: 50%;" /></p>
 
 <p>정수 $N$이 주어질 때 $Star_N$을 출력해 보도록 하자.</p>
 

@@ -20,11 +20,11 @@
 
 <p>Also Deidra has a homemade printing press. She decided to print her addition without a plus or a&nbsp;horizontal line, using the following standard font:</p>
 
-<p><img alt="" src="https://onlinejudgeimages.s3.amazonaws.com/problem/13476/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-11-01%20%EC%98%A4%ED%9B%84%202.41.11.png" style="height:55px; width:375px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/13476.%E2%80%85Digital%E2%80%85Addition/0ac96e53.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/13476/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-11-01%20%EC%98%A4%ED%9B%84%202.41.11.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:55px; width:375px" /></p>
 
 <p>Unfortunately, she messed up with spacing, and all the digits were printed over each other in the following&nbsp;way. Digits that were supposed to be horizontally adjacent were printed so that the right two segments&nbsp;of the left digit coincide with the left two segments of the right digit. Digits that were supposed to be&nbsp;vertically adjacent were printed so that the bottom half (a square with 4 segments) of the upper digit&nbsp;coincides with the top half of the lower digit.</p>
 
-<p><img alt="" src="https://onlinejudgeimages.s3.amazonaws.com/problem/13476/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-11-01%20%EC%98%A4%ED%9B%84%202.41.17.png" style="height:151px; width:170px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/13476.%E2%80%85Digital%E2%80%85Addition/da84140c.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/13476/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-11-01%20%EC%98%A4%ED%9B%84%202.41.17.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:151px; width:170px" /></p>
 
 <p>When one or more black segments are printed at the same position, the result looks black. When only&nbsp;empty segments are printed at the position, the result looks white.</p>
 

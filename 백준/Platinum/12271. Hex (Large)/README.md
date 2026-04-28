@@ -37,7 +37,7 @@
 
 <p>Here&#39;s a an example game on a 6x6 gameboard where blue won. Blue was the first player to move, and placed a blue stone at cell marked as 1. Then Red placed at cell 2, then blue at cell 3, etc. After the 11th stone is placed, blue wins.</p>
 
-<p><img alt="" src="https://onlinejudgeimages.s3.amazonaws.com/problem/12270/images-58.png" style="height:185px; width:320px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/12271.%E2%80%85Hex%E2%80%85(Large)/ead28445.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/12270/images-58.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:185px; width:320px" /></p>
 
 ### 입력
 

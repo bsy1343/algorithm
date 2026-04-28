@@ -20,7 +20,7 @@
 
 <p>You are a server at the restaurant, and your job is to serve every pancake in the deque. Customers will arrive one at a time, and each one gets a single pancake. You must serve each customer either the leftmost or rightmost pancake in the deque; the choice is yours. When a pancake is served, it disappears from the deque, exposing the pancake that was next to it. Or, once there is only one pancake left, your only choice is to serve that one, and then your job is complete!</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/0831487b-cdd0-446b-8092-26a1fac2657d/-/preview/" style="width: 471px; height: 115px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/25096.%E2%80%85Pancake%E2%80%85Deque/38e10e51.png" data-original-src="https://upload.acmicpc.net/0831487b-cdd0-446b-8092-26a1fac2657d/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 471px; height: 115px;" /></p>
 
 <p>Each pancake has a deliciousness level. Because customers do not get to choose which pancakes they get, each customer only has to pay for their pancake if it is at least as delicious as <i>each</i> of the pancakes that <i>all</i> of the previous customers got. (The first customer always pays for their pancake, since in that case there are no previous customers.)</p>
 

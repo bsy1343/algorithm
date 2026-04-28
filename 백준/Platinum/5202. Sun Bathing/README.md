@@ -30,7 +30,7 @@
 
 <p>Here is a figure illustrating these quantities. Notice that the sun travels &ldquo;from your feet to your head&rdquo;, and not &ldquo;from your left arm to your right arm&rdquo;.</p>
 
-<p style="text-align: center;"><img alt="" src="/upload/images2/sunbath.png" style="height:201px; width:386px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/5202.%E2%80%85Sun%E2%80%85Bathing/f2e4fdbc.png" data-original-src="https://www.acmicpc.net/upload/images2/sunbath.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:201px; width:386px" /></p>
 
 ### 출력
 

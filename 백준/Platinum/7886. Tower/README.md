@@ -18,7 +18,7 @@
 
 <p>Alan loves to construct the towers of building bricks. His towers consist of many cuboids with square base. All cuboids have the same height h = 1. Alan puts the consecutive cuboids one over another:</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/16f689a3-e7d2-44b3-9d12-c6c6b9922d23/-/crop/734x462/8,9/-/preview/" style="width: 367px; height: 231px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/7886.%E2%80%85Tower/8b43536b.png" data-original-src="https://upload.acmicpc.net/16f689a3-e7d2-44b3-9d12-c6c6b9922d23/-/crop/734x462/8,9/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 367px; height: 231px;" /></p>
 
 <p style="text-align: center;">Figure 1: Tower of three bricks when Alan fixes a<sub>2</sub> = 2.</p>
 
@@ -32,7 +32,7 @@
 
 <p>For example, if Alan fixes a<sub>2</sub> = 2, then a<sub>3</sub> = 8 &minus; a<sub>1</sub> = 7; see Figure 1. If Alan fixes a<sub>2</sub> = 1, then a<sub>n</sub> = 1 holds for all n &isin; N; see Figure 2.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/95ed7082-8483-4087-8032-936dcfd24995/-/crop/300x729/13,19/-/preview/" style="width: 150px; height: 365px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/7886.%E2%80%85Tower/7962ebaf.png" data-original-src="https://upload.acmicpc.net/95ed7082-8483-4087-8032-936dcfd24995/-/crop/300x729/13,19/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 150px; height: 365px;" /></p>
 
 <p style="text-align: center;">Figure 2: Tower of four bricks when Alan fixes a<sub>2</sub> = 1.</p>
 

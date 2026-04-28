@@ -26,7 +26,7 @@
 
 <p>If two drivers have regularly passed the same number of checkpoints, the driver who passed the last point earlier is ranked higher.&nbsp;</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/4a53e988-3d85-41e0-b91f-696b27ec2861/-/preview/" style="width: 329px; height: 329px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/3196.%E2%80%85utrka/614186ed.png" data-original-src="https://upload.acmicpc.net/4a53e988-3d85-41e0-b91f-696b27ec2861/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 329px; height: 329px;" /></p>
 
 <p>The figure above depicts a racetrack with five checkpoints. Drivers must pass the points in the right order. If a driver passes other points between two consecutive checkpoints, we ignore those extra passes.&nbsp;</p>
 

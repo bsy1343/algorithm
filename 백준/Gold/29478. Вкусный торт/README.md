@@ -36,8 +36,8 @@
 
 <p>Так выглядит разрезание торта в первом примере:</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/161f068a-aaa5-451e-9291-9c89d51a4e52/-/preview/" style="width: 160px; height: 88px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/29478.%E2%80%85%D0%92%D0%BA%D1%83%D1%81%D0%BD%D1%8B%D0%B9%E2%80%85%D1%82%D0%BE%D1%80%D1%82/a19836a8.png" data-original-src="https://upload.acmicpc.net/161f068a-aaa5-451e-9291-9c89d51a4e52/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 160px; height: 88px;" /></p>
 
 <p>А так во втором примере:</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/e70d9f6d-0472-4d10-b3f7-0c3fb8864a1d/-/preview/" style="width: 160px; height: 161px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/29478.%E2%80%85%D0%92%D0%BA%D1%83%D1%81%D0%BD%D1%8B%D0%B9%E2%80%85%D1%82%D0%BE%D1%80%D1%82/3e667121.png" data-original-src="https://upload.acmicpc.net/e70d9f6d-0472-4d10-b3f7-0c3fb8864a1d/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 160px; height: 161px;" /></p>

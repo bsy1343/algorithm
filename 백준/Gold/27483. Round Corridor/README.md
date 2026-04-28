@@ -18,7 +18,7 @@
 
 <p>Amugae is in a very large round corridor. The corridor consists of two areas. The inner area is equally divided by $n$ sectors, and the outer area is equally divided by $m$ sectors. A wall exists between each pair of sectors of same area (inner or outer), but there is no wall between the inner area and the outer area. A wall always exists at the 12 o&rsquo;clock position.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/7d7319f0-d94a-4313-bf38-73914823dca3/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/27483.%E2%80%85Round%E2%80%85Corridor/8544b62b.png" data-original-src="https://upload.acmicpc.net/7d7319f0-d94a-4313-bf38-73914823dca3/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>The inner area&rsquo;s sectors are denoted as $(1,1) ,(1,2) ,\dots ,(1,n)$ in clockwise direction. The outer area&rsquo;s sectors are denoted as $(2,1) ,(2,2) ,\dots ,(2,m)$ in the same manner. For a clear understanding, see the example image above.</p>
 

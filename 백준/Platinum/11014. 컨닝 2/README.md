@@ -22,7 +22,7 @@
 
 <p>최백준은 컨닝을 방지하기 위해서 다음과 같은 전략을 세웠다. 모든 학생은 자신의 왼쪽, 오른쪽, 왼쪽 대각선 위, 오른쪽 대각선 위, 이렇게 총 네 자리에 앉아있는 친구의 답지를 항상 베낀다고 가정한다. 따라서, 자리 배치는 모든 학생이 컨닝을 할 수 없도록 배치되어야 한다.</p>
 
-<p style="text-align:center"><img alt="" src="/upload/201003/cunning.JPG" style="height:124px; width:183px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/11014.%E2%80%85%EC%BB%A8%EB%8B%9D%E2%80%852/a7bc088a.jpg" data-original-src="https://www.acmicpc.net/upload/201003/cunning.JPG" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:124px; width:183px" /></p>
 
 <p>위의 그림을 보자. A, C, D 혹은 E에 다른 학생을 앉히는 것은 좋은 생각이 아니다. 그 이유는 이미 앉아있는 학생이 그들의 답안지를 베낄 우려가 있기 때문이다. 하지만, B에 다른 학생을 앉힌다면, 두 학생은 서로의 답지를 베낄 수 없어 컨닝의 우려가 없다.</p>
 

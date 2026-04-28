@@ -38,4 +38,4 @@
 
 ### 힌트
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/f1780a29-d9a1-4568-a458-c2ec51fb2181/-/preview/" style="width: 217px; height: 218px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/2881.%E2%80%85%EC%82%B0%EC%B1%85%EA%B8%B8/42aaf4c0.png" data-original-src="https://upload.acmicpc.net/f1780a29-d9a1-4568-a458-c2ec51fb2181/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 217px; height: 218px;" /></p>

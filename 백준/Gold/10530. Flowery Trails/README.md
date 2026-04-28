@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p><img alt="" src="/upload/images2/flower.png" style="float:right; height:321px; width:278px" />In order to attract more visitors, the manager of a national park had the idea of planting flowers along both sides of the popular trails, which are the trails used by common people. Common people only go from the park entrance to its highest peak, where views are breathtaking, by a shortest path. So, he wants to know how many metres of flowers are needed to materialize his idea.</p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/10530.%E2%80%85Flowery%E2%80%85Trails/392e6ec5.png" data-original-src="https://www.acmicpc.net/upload/images2/flower.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="float:right; height:321px; width:278px" />In order to attract more visitors, the manager of a national park had the idea of planting flowers along both sides of the popular trails, which are the trails used by common people. Common people only go from the park entrance to its highest peak, where views are breathtaking, by a shortest path. So, he wants to know how many metres of flowers are needed to materialize his idea.</p>
 
 <p>For instance, in the park whose map is depicted in the figure, common people make only one of the three following paths (which are the shortest paths from the entrance to the highest peak).</p>
 

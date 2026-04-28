@@ -22,7 +22,7 @@
 
 <p>In other words, a building numbered i will receive messages from the tower only when: the building i is to the west of the tower; i is not higher than the tower; and there is no other building j between them (j&gt;i), which is higher than building i.&nbsp;</p>
 
-<p style="text-align: center;"><img alt="" src="https://onlinejudgeimages.s3.amazonaws.com/problem/14057/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-12-22%20%EC%98%A4%ED%9B%84%208.20.45.png" style="height:180px; width:480px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/14057.%E2%80%85Towers/04e8ca88.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/14057/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-12-22%20%EC%98%A4%ED%9B%84%208.20.45.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:180px; width:480px" /></p>
 
 <p>Take a look at the example in the figure above: the buildings, which are able to receive messages are with numbers 2, 5, 6, and 9.</p>
 
@@ -54,14 +54,14 @@
 
 <p>Optimal locations of each tower are shown in the pictures below.&nbsp;</p>
 
-<p style="text-align: center;"><img alt="" src="https://onlinejudgeimages.s3.amazonaws.com/problem/14057/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-12-22%20%EC%98%A4%ED%9B%84%208.22.47.png" style="height:193px; width:580px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/14057.%E2%80%85Towers/3ef3c72b.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/14057/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-12-22%20%EC%98%A4%ED%9B%84%208.22.47.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:193px; width:580px" /></p>
 
 <p style="text-align: center;">Location of tower 1. Buildings that are able to receive messages are 10, 12, 13, 15, and 16</p>
 
-<p style="text-align: center;"><img alt="" src="https://onlinejudgeimages.s3.amazonaws.com/problem/14057/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-12-22%20%EC%98%A4%ED%9B%84%208.24.19.png" style="height:179px; width:580px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/14057.%E2%80%85Towers/ed18d6c9.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/14057/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-12-22%20%EC%98%A4%ED%9B%84%208.24.19.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:179px; width:580px" /></p>
 
 <p style="text-align: center;">Location of tower 2. Buildings that are able to receive messages are 2, 3, 5, 6, 7, and 8</p>
 
-<p style="text-align: center;"><img alt="" src="https://onlinejudgeimages.s3.amazonaws.com/problem/14057/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-12-22%20%EC%98%A4%ED%9B%84%208.23.05.png" style="height:186px; width:580px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/14057.%E2%80%85Towers/6ffb0b9a.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/14057/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-12-22%20%EC%98%A4%ED%9B%84%208.23.05.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:186px; width:580px" /></p>
 
 <p style="text-align: center;">Location of tower 3. Buildings that are able to receive messages are 12, 13, 15 and, 16</p>

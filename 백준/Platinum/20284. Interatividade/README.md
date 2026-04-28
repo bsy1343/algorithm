@@ -25,7 +25,7 @@
 
 <p>A figura abaixo mostra um exemplo. As folhas estão marcadas como cinza, enquanto os outros nós são brancos. Cada nó mostra o valor contido nele.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/d22943f4-c007-4b90-9371-e0b7dba28541/-/preview/" style="width: 402px; height: 321px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/20284.%E2%80%85Interatividade/484d5578.png" data-original-src="https://upload.acmicpc.net/d22943f4-c007-4b90-9371-e0b7dba28541/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 402px; height: 321px;" /></p>
 
 <p>Inicialmente, você não sabe o valor de nenhum nó da árvore, mas pode consultá-los um por um. Sua tarefa é determinar o valor de cada nó da árvore, usando o mínimo de consultas possível.</p>
 

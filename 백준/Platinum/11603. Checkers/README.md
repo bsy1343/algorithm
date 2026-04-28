@@ -18,7 +18,7 @@
 
 <p>Checkers is played on a n &times; n checkerboard (typically n equals 8, 10, or 12, but for this problem, n will range from 2 to 26). The board has squares colored red and black, and all pieces move only on the black squares. The two sides are called &ldquo;Black&rdquo; and &ldquo;White,&rdquo; and their pieces are so colored. The columns of the checkerboard are lettered starting with a on the left and increasing alphabetically. The rows are numbered 1, . . . , n, starting from the bottom. We refer to each square on the board by its label: the column letter followed by the row number, e.g., <code>c6</code>, <code>z10</code>, or <code>b26</code>. Two sample boards are given below (with additional labels to illustrate the column numbering).</p>
 
-<p style="text-align: center;"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11603/1.png" style="height:230px; width:518px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/11603.%E2%80%85Checkers/126715b9.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11603/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:230px; width:518px" /></p>
 
 <p>A piece may jump diagonally over a piece of the other color to capture the piece (removing it from the board). In order to perform a jump, the piece that is jumped over must be diagonally adjacent to the piece performing a jump, and the square on the other side of the piece jumped over must be vacant. If such a capture is possible, the jumping piece may continue jumping and capturing pieces of the other color until no more jumps are possible.</p>
 

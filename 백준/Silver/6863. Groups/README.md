@@ -28,7 +28,7 @@
 
 <p>One simple example of a finite group is the integers modulo 10 under the operation addition. That is, the group consists of the integers 0, 1, ..., 9 and the operation is to add two keeping only the least significant digit. Here the identity is 0. This particular group has the property that x times; y = y times; x, but this is not always the case. Consider the group that consists of the elements a, b, c, d, e and i. The &ldquo;multiplication table&rdquo; below defines the operations. Note that each of the required properties is satisfied (associativity, identity and inverse) but, for example, c &times; d = a while d &times; c = b.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/a7df45c7-df5a-42eb-a5fe-4df7328687ae/-/preview/" style="width: 161px; height: 149px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/6863.%E2%80%85Groups/c879ed0c.png" data-original-src="https://upload.acmicpc.net/a7df45c7-df5a-42eb-a5fe-4df7328687ae/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 161px; height: 149px;" /></p>
 
 <p>Your task is to write a program which will read a sequence of multiplication tables and determine whether each structure defined is a group.</p>
 

@@ -22,11 +22,11 @@
 
 <p>When a moving pool ball B hits a stationary ball A, A begins moving in the direction given by the vector from the center of B to the center of A at the time of the collision. Ball B&rsquo;s new velocity vector is B&rsquo;s original vector reflected across A&rsquo;s new vector (Figure H.1). Note that A&rsquo;s resulting vector is what real physics predicts, but B&rsquo;s is not (unless A is glued to the table or has infinite mass). For the purposes of this problem, the speed at which the balls move is irrelevant.</p>
 
-<p style="text-align: center;"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11770/1.png" style="height:251px; width:274px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/11770.%E2%80%85Trick%E2%80%85Shot/700e1fea.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11770/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:251px; width:274px" /></p>
 
 <p style="text-align: center;">Figure H.1</p>
 
-<p style="text-align: center;"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11770/2.png" style="height:308px; width:260px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/11770.%E2%80%85Trick%E2%80%85Shot/4b5705c4.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11770/2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:308px; width:260px" /></p>
 
 <p style="text-align: center;">Figure H.2</p>
 

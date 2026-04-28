@@ -18,7 +18,7 @@
 
 <p>장기에는 마(馬)와 상(象)이라는 두 가지의 <strong>뛰는 기물</strong>이 있습니다. 다른 기물들과 다른 이 기물들의 공통점은 가로와 세로로 동시에 움직인다는 것입니다. 따라서 이동 경로를 직선으로 그리게 되면 항상 장기판의 가로 선과 세로 선을 빗겨가게 됩니다. 마(馬)는 가로 혹은 세로 방향으로 한 칸, 다른 방향으로 두 칸 이동하고, 상(象)은 가로 혹은 세로 방향으로 두 칸, 다른 방향으로 세 칸 이동합니다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/00a6c357-ae79-4bf2-9d02-4f2d5b4920cc/-/preview/" style="width: 720px; height: 350px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/23041.%E2%80%85%EB%9B%B0%EB%8A%94%E2%80%85%EA%B8%B0%EB%AC%BC/be2b3340.png" data-original-src="https://upload.acmicpc.net/00a6c357-ae79-4bf2-9d02-4f2d5b4920cc/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 720px; height: 350px;" /></p>
 
 <p style="text-align: center;">마(馬)와 상(象)의 이동 경로 예시, 왼쪽이 마(馬), 오른쪽이 상(象)입니다.</p>
 

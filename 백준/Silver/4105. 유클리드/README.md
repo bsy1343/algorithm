@@ -32,7 +32,7 @@
 	3. 평행사변형 ABGH의 넓이는 삼각형 DEF의 넓이와 같다.</p>
 
 <p>
-	<img alt="" src="/upload/images/euclid.png" style="width: 646px; height: 334px;" /></p>
+	<img alt="" src="%EB%B0%B1%EC%A4%80/Silver/4105.%E2%80%85%EC%9C%A0%ED%81%B4%EB%A6%AC%EB%93%9C/4cd831f4.png" data-original-src="https://www.acmicpc.net/upload/images/euclid.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 646px; height: 334px;" /></p>
 
 ### 입력
 

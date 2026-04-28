@@ -22,19 +22,19 @@
 
 <p>[그림 1]처럼 좌표평면에 9개 점이 존재한다고 가정해보자.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/5724fbdf-9ef9-4726-8f99-c786b3867874/-/preview/" style="width: 596px; height: 500px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/24235.%E2%80%85%EC%9C%A0%EC%82%B0/99b6fa79.png" data-original-src="https://upload.acmicpc.net/5724fbdf-9ef9-4726-8f99-c786b3867874/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 596px; height: 500px;" /></p>
 
 <p style="text-align: center;">[그림 1] 9개의 점을&nbsp;좌표평면에 표시</p>
 
 <p>땅을 표시하는&nbsp;좌표평면 정보에서&nbsp;땅은 9개의 점을 모두 포함하는 가장 작은 볼록다각형이기 때문에 [그림 2]와&nbsp;같다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/6ccc2e35-3399-4d2a-a70d-799734cfccaf/-/preview/" style="width: 596px; height: 500px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/24235.%E2%80%85%EC%9C%A0%EC%82%B0/babbcffd.png" data-original-src="https://upload.acmicpc.net/6ccc2e35-3399-4d2a-a70d-799734cfccaf/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 596px; height: 500px;" /></p>
 
 <p style="text-align: center;">[그림 2] 좌표평면에 땅에 해당하는 부분 표시</p>
 
 <p>두 명이 이 땅을 넓이가 같도록 나눠야 하기 때문에 [그림 3]처럼 직선을 그어 두 땅의 넓이가 같도록 구분하면 된다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/61b33929-d1e9-4bfd-af3d-59b483041904/-/preview/" style="width: 596px; height: 500px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/24235.%E2%80%85%EC%9C%A0%EC%82%B0/42d45e8d.png" data-original-src="https://upload.acmicpc.net/61b33929-d1e9-4bfd-af3d-59b483041904/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 596px; height: 500px;" /></p>
 
 <p style="text-align: center;">[그림 3] 두 땅의 넓이가 같도록 $x = a$ 직선으로 구분</p>
 

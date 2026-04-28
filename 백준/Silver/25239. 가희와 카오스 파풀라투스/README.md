@@ -20,7 +20,7 @@
 
 <p>파풀라투스가 사용하는 패턴 중, 차원의 균열 봉인 패턴이 있습니다. 이 패턴이 시전되면, 6개의 영역으로 나뉘어진 파풀라투스 시계가 나타나게 됩니다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/8f165a2d-d01e-4fd9-8089-c67f53b925c2/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/25239.%E2%80%85%EA%B0%80%ED%9D%AC%EC%99%80%E2%80%85%EC%B9%B4%EC%98%A4%EC%8A%A4%E2%80%85%ED%8C%8C%ED%92%80%EB%9D%BC%ED%88%AC%EC%8A%A4/95fabf51.png" data-original-src="https://upload.acmicpc.net/8f165a2d-d01e-4fd9-8089-c67f53b925c2/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p style="text-align: center;"><strong>[그림 1] 파풀라투스의 시계</strong></p>
 
@@ -28,13 +28,13 @@
 
 <p>그림 1에서 시침은 6번 영역에 있습니다. 파풀라투스의 시계는 약 11시 55분이고, 이때 시침은 10시 방향과 12시 방향 사이를 가리키고 있기 때문입니다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/4073c89a-c9b8-4e1f-b14d-02377b7a9447/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/25239.%E2%80%85%EA%B0%80%ED%9D%AC%EC%99%80%E2%80%85%EC%B9%B4%EC%98%A4%EC%8A%A4%E2%80%85%ED%8C%8C%ED%92%80%EB%9D%BC%ED%88%AC%EC%8A%A4/9ae0199f.png" data-original-src="https://upload.acmicpc.net/4073c89a-c9b8-4e1f-b14d-02377b7a9447/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p style="text-align: center;"><strong>[그림 2] 파풀라투스의 시계가 가리키는 시각을 바꾸는&nbsp;아이템들</strong></p>
 
 <p>아이템을 먹어서 파풀라투스의 시계가 가리키는 시각을 특정 시간만큼 증가시킬 수 있습니다.&nbsp;예를 들어, 파풀라투스의 시계가 가리키는 시각이 11시 55분일 때, 10MIN 아이템을 먹는다면, 파풀라투스의 시계가 가리키는 시각은 11시 55분에서 10분 증가한&nbsp;12시 05분이 됩니다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/d88d8e61-ee16-4ffb-bf98-2a5d5676ef9d/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/25239.%E2%80%85%EA%B0%80%ED%9D%AC%EC%99%80%E2%80%85%EC%B9%B4%EC%98%A4%EC%8A%A4%E2%80%85%ED%8C%8C%ED%92%80%EB%9D%BC%ED%88%AC%EC%8A%A4/fe5d8cf0.png" data-original-src="https://upload.acmicpc.net/d88d8e61-ee16-4ffb-bf98-2a5d5676ef9d/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p style="text-align: center;"><strong>[그림 3] 1번, 2번, 5번, 6번 영역이 봉인된 시계</strong></p>
 

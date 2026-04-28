@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p><img alt="" src="/upload/images2/spider.png" style="float:right; height:163px; width:163px" />Some types of spiders are able to walk on wa- ter. But spiders can have problems when walking near a waterfall.</p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/3811.%E2%80%85How%E2%80%85do%E2%80%85spiders%E2%80%85walk%E2%80%85on%E2%80%85water%3F/2729d099.png" data-original-src="https://www.acmicpc.net/upload/images2/spider.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="float:right; height:163px; width:163px" />Some types of spiders are able to walk on wa- ter. But spiders can have problems when walking near a waterfall.</p>
 
 <p>Water in ponds or calm parts of rivers are suitable for spiders walking on water. When spiders realize water moves they jump in the opposite direction. However, the danger for spiders resides in the increasing speed of water as they move away from the area of calm waters. A spider is powerful enough to walk against the current if the water speeds is less than or equal to its jumping power P.</p>
 

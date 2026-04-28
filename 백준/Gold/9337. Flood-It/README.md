@@ -27,15 +27,15 @@ if there is a tie, break ties by choosing the lowest numbered colour.</p>
 
 <p>To illustrate this, we look at the ﬁrst test case in the sample input, the original board is:</p>
 
-<p><img alt="" src="/upload/images/floodit1.png" style="height:133px; width:164px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/9337.%E2%80%85Flood-It/66f29f77.png" data-original-src="https://www.acmicpc.net/upload/images/floodit1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:133px; width:164px" /></p>
 
 <p>If we choose colour 3 for the ﬁrst move, the result will be:</p>
 
-<p><img alt="" src="/upload/images/floodit2.png" style="height:131px; width:168px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/9337.%E2%80%85Flood-It/fe9cd356.png" data-original-src="https://www.acmicpc.net/upload/images/floodit2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:131px; width:168px" /></p>
 
 <p>where the tiles connected to the origin are shaded. In the next move, we choose colour 4 because we can increase the number of tiles connected to the origin by 5 tiles:</p>
 
-<p><img alt="" src="/upload/images/floodit3.png" style="height:133px; width:166px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/9337.%E2%80%85Flood-It/e2fa540c.png" data-original-src="https://www.acmicpc.net/upload/images/floodit3.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:133px; width:166px" /></p>
 
 ### 입력
 

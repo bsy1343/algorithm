@@ -20,7 +20,7 @@
 
 <p>Wynikowy kolor farby zależy od zbioru barwnik&oacute;w, kt&oacute;re były do niej dodane co najmniej raz. Barwniki mieszają się zgodnie z poniższą tabelką i diagramem:</p>
 
-<p><img alt="" src="https://upload.acmicpc.net/aa07b5ee-9a53-4dd2-b9e5-cd862784ee4d/-/preview/" style="width: 155px; height: 149px; float: right;" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/26674.%E2%80%85Mieszanie%E2%80%85kolor%C3%B3w/0f7d81f0.png" data-original-src="https://upload.acmicpc.net/aa07b5ee-9a53-4dd2-b9e5-cd862784ee4d/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 155px; height: 149px; float: right;" /></p>
 
 <table class="table table-bordered table-center-30">
 	<thead>

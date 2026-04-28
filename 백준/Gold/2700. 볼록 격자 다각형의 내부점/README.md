@@ -18,7 +18,7 @@
 
 <p>격자점은 좌표가 정수인 점을 뜻한다.격자 다각형은 모든 꼭짓점이 격자점인 다각형이다.</p>
 
-<p><img alt="" src="/upload/images/p1p1.png" style="width: 502px; height: 225px;" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/2700.%E2%80%85%EB%B3%BC%EB%A1%9D%E2%80%85%EA%B2%A9%EC%9E%90%E2%80%85%EB%8B%A4%EA%B0%81%ED%98%95%EC%9D%98%E2%80%85%EB%82%B4%EB%B6%80%EC%A0%90/8072ba7d.png" data-original-src="https://www.acmicpc.net/upload/images/p1p1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 502px; height: 225px;" /></p>
 
 <p>다각형의 경계에 있는 격자점을 경계점이라 한다. (위 그림에서 열린 점) 또한 다각형 위에 있지 않은 내부의 격자점을 내부점이라 한다. (위 그림에서 닫힌 점)</p>
 
@@ -26,7 +26,7 @@
 
 <p>볼록 격자 다각형의 내부점 중 수평선 상의 점에는 가장 왼쪽 점과 가장 오른쪽 점이 존재한다. (가장 왼쪽 점과 가장 오른쪽 점이 같을 수 있다) 아래 그림 A처럼 내부점이 없거나, B처럼 하나뿐인 경우가 있을 수도 있다. 그림 C의 경우 아래 그림과 같다.</p>
 
-<p><img alt="" src="/upload/images/p2p2.png" style="width: 460px; height: 158px;" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/2700.%E2%80%85%EB%B3%BC%EB%A1%9D%E2%80%85%EA%B2%A9%EC%9E%90%E2%80%85%EB%8B%A4%EA%B0%81%ED%98%95%EC%9D%98%E2%80%85%EB%82%B4%EB%B6%80%EC%A0%90/ad519d1d.png" data-original-src="https://www.acmicpc.net/upload/images/p2p2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 460px; height: 158px;" /></p>
 
 <p>볼록 격자 다각형을 아래와 같은 순서로 입력 받아, 수평선을 이루는 내부점을 모두 출력하는 프로그램을 작성하시오.</p>
 

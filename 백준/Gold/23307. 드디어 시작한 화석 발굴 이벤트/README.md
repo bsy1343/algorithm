@@ -16,11 +16,11 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/de35eeb0-8636-4e46-9a08-1a9fbf36a1e7/-/preview/" style="width: 608px; height: 350px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/23307.%E2%80%85%EB%93%9C%EB%94%94%EC%96%B4%E2%80%85%EC%8B%9C%EC%9E%91%ED%95%9C%E2%80%85%ED%99%94%EC%84%9D%E2%80%85%EB%B0%9C%EA%B5%B4%E2%80%85%EC%9D%B4%EB%B2%A4%ED%8A%B8/97d649e0.png" data-original-src="https://upload.acmicpc.net/de35eeb0-8636-4e46-9a08-1a9fbf36a1e7/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 608px; height: 350px;" /></p>
 
 <p>국렬이는 연세대학교 신입생 프로그래밍 경진대회를 개최한 기념으로 공학관 근처 $N \times N$ 크기의 운동장에서 화석 발굴&nbsp;이벤트를 진행하려고 했다.&nbsp;그러나 공학관 내의 무수히 많은 실험으로 인해&nbsp;운동장의 일부가 인체에 매우 위험한 물질로&nbsp;오염되었기에 이 이벤트는 취소되었다. 다행히 우수한 연세대학교 신입생들의 도움을 받아서 오염되지 않은 흙을 공학관 근처 언덕으로 옮기는 작업을&nbsp;마무리했다. 덕분에&nbsp;국렬이는 드디어 화석 발굴 이벤트를 진행할 수 있게 되었다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/5db6fc3f-a2a3-443f-8502-aed69096b8f3/-/preview/" style="height: 250px; width: 259px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/23307.%E2%80%85%EB%93%9C%EB%94%94%EC%96%B4%E2%80%85%EC%8B%9C%EC%9E%91%ED%95%9C%E2%80%85%ED%99%94%EC%84%9D%E2%80%85%EB%B0%9C%EA%B5%B4%E2%80%85%EC%9D%B4%EB%B2%A4%ED%8A%B8/eee0723b.png" data-original-src="https://upload.acmicpc.net/5db6fc3f-a2a3-443f-8502-aed69096b8f3/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 250px; width: 259px;" /></p>
 
 <p style="text-align: center;">[그림] 화석의 사진</p>
 
@@ -49,27 +49,27 @@
 <table class="table table-bordered table-center-50 td-center td-middle">
 	<tbody>
 		<tr>
-			<td style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/efdc2093-8cb3-4d21-b50d-41c1507f0561/-/preview/" /></td>
+			<td style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/23307.%E2%80%85%EB%93%9C%EB%94%94%EC%96%B4%E2%80%85%EC%8B%9C%EC%9E%91%ED%95%9C%E2%80%85%ED%99%94%EC%84%9D%E2%80%85%EB%B0%9C%EA%B5%B4%E2%80%85%EC%9D%B4%EB%B2%A4%ED%8A%B8/71b56a02.png" data-original-src="https://upload.acmicpc.net/efdc2093-8cb3-4d21-b50d-41c1507f0561/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></td>
 			<td style="text-align: center;">UL</td>
-			<td style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/d7d53365-0308-46ba-a92e-d00387516f35/-/preview/" /></td>
+			<td style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/23307.%E2%80%85%EB%93%9C%EB%94%94%EC%96%B4%E2%80%85%EC%8B%9C%EC%9E%91%ED%95%9C%E2%80%85%ED%99%94%EC%84%9D%E2%80%85%EB%B0%9C%EA%B5%B4%E2%80%85%EC%9D%B4%EB%B2%A4%ED%8A%B8/f8ce9f72.png" data-original-src="https://upload.acmicpc.net/d7d53365-0308-46ba-a92e-d00387516f35/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></td>
 			<td style="text-align: center;">UR</td>
 		</tr>
 		<tr>
-			<td style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/90462bb6-6d6a-4830-b0d6-5fe3be2df9ae/-/preview/" /></td>
+			<td style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/23307.%E2%80%85%EB%93%9C%EB%94%94%EC%96%B4%E2%80%85%EC%8B%9C%EC%9E%91%ED%95%9C%E2%80%85%ED%99%94%EC%84%9D%E2%80%85%EB%B0%9C%EA%B5%B4%E2%80%85%EC%9D%B4%EB%B2%A4%ED%8A%B8/1f5b452b.png" data-original-src="https://upload.acmicpc.net/90462bb6-6d6a-4830-b0d6-5fe3be2df9ae/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></td>
 			<td style="text-align: center;">LU</td>
-			<td style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/e6474e35-45b3-4063-b81e-b6cb6844aaa7/-/preview/" /></td>
+			<td style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/23307.%E2%80%85%EB%93%9C%EB%94%94%EC%96%B4%E2%80%85%EC%8B%9C%EC%9E%91%ED%95%9C%E2%80%85%ED%99%94%EC%84%9D%E2%80%85%EB%B0%9C%EA%B5%B4%E2%80%85%EC%9D%B4%EB%B2%A4%ED%8A%B8/aa45fb56.png" data-original-src="https://upload.acmicpc.net/e6474e35-45b3-4063-b81e-b6cb6844aaa7/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></td>
 			<td style="text-align: center;">RU</td>
 		</tr>
 		<tr>
-			<td style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/727c806c-af44-4948-b6aa-2b4281f7a418/-/preview/" /></td>
+			<td style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/23307.%E2%80%85%EB%93%9C%EB%94%94%EC%96%B4%E2%80%85%EC%8B%9C%EC%9E%91%ED%95%9C%E2%80%85%ED%99%94%EC%84%9D%E2%80%85%EB%B0%9C%EA%B5%B4%E2%80%85%EC%9D%B4%EB%B2%A4%ED%8A%B8/9ef82088.png" data-original-src="https://upload.acmicpc.net/727c806c-af44-4948-b6aa-2b4281f7a418/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></td>
 			<td style="text-align: center;">LD</td>
-			<td style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/6d4a1339-099d-4719-8fbd-9bbcd72733d9/-/preview/" /></td>
+			<td style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/23307.%E2%80%85%EB%93%9C%EB%94%94%EC%96%B4%E2%80%85%EC%8B%9C%EC%9E%91%ED%95%9C%E2%80%85%ED%99%94%EC%84%9D%E2%80%85%EB%B0%9C%EA%B5%B4%E2%80%85%EC%9D%B4%EB%B2%A4%ED%8A%B8/f85014f4.png" data-original-src="https://upload.acmicpc.net/6d4a1339-099d-4719-8fbd-9bbcd72733d9/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></td>
 			<td style="text-align: center;">RD</td>
 		</tr>
 		<tr>
-			<td style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/f8a5c611-1723-45d8-8ce4-81c1bb2b6149/-/preview/" /></td>
+			<td style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/23307.%E2%80%85%EB%93%9C%EB%94%94%EC%96%B4%E2%80%85%EC%8B%9C%EC%9E%91%ED%95%9C%E2%80%85%ED%99%94%EC%84%9D%E2%80%85%EB%B0%9C%EA%B5%B4%E2%80%85%EC%9D%B4%EB%B2%A4%ED%8A%B8/2f03411d.png" data-original-src="https://upload.acmicpc.net/f8a5c611-1723-45d8-8ce4-81c1bb2b6149/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></td>
 			<td style="text-align: center;">DL</td>
-			<td style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/a40a0f4a-5a21-4a8b-950b-98cb647509bd/-/preview/" /></td>
+			<td style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/23307.%E2%80%85%EB%93%9C%EB%94%94%EC%96%B4%E2%80%85%EC%8B%9C%EC%9E%91%ED%95%9C%E2%80%85%ED%99%94%EC%84%9D%E2%80%85%EB%B0%9C%EA%B5%B4%E2%80%85%EC%9D%B4%EB%B2%A4%ED%8A%B8/ad186050.png" data-original-src="https://upload.acmicpc.net/a40a0f4a-5a21-4a8b-950b-98cb647509bd/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></td>
 			<td style="text-align: center;">DR</td>
 		</tr>
 	</tbody>

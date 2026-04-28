@@ -32,6 +32,6 @@
 
 ### 힌트
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/a9b25566-658e-4485-a712-c1f74d89128b/-/preview/" style="width: 462px; height: 141px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/31296.%E2%80%85Pentagon/932786d5.png" data-original-src="https://upload.acmicpc.net/a9b25566-658e-4485-a712-c1f74d89128b/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 462px; height: 141px;" /></p>
 
 <p>This image shows all possible triangulations of the first pentagon in the example.</p>

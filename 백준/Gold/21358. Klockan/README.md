@@ -20,7 +20,7 @@
 
 <p>I huset har Timla en digital klocka som visar tiden i 24-timmarsformat med timmar, minuter och sekunder. Timla gillar att spara el, s&aring; hennes klocka st&auml;nger av sig automatiskt n&auml;r ingen &auml;r i huset. F&ouml;r att kunna m&auml;ta exakt hur mycket el hon sparar har hon ocks&aring; en mycket exakt elm&auml;tare. Enligt denna m&auml;tare f&ouml;rbrukade klockan $n$ energienheter under dygnet d&aring; hon var bortrest. Varje siffersegment i klockan drar en energienhet f&ouml;r varje sekund som det siffersegmentet lyser. Siffrorna ser ut som p&aring; bilden.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/8ed70e38-e194-4d44-97ff-30d93ae87609/-/preview/" style="width: 335px; height: 57px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/21358.%E2%80%85Klockan/d8b07d08.png" data-original-src="https://upload.acmicpc.net/8ed70e38-e194-4d44-97ff-30d93ae87609/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 335px; height: 57px;" /></p>
 
 <p style="text-align: center;">Figure 1:&nbsp;Siffrorna i en digital klocka. Exempelvis lyser 27 siffersegment d&aring; klockan &auml;r 20:41:35.</p>
 

@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14535/1.png" style="float:right; height:124px; width:248px" />Everyone loves to be celebrated on their birthdays. Birthday celebration can encourage positive social interaction among co-workers, foster friendship among classmates or even strengthen bond between families.</p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/14535.%E2%80%85Birthday%E2%80%85Graph/4b054ef5.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14535/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="float:right; height:124px; width:248px" />Everyone loves to be celebrated on their birthdays. Birthday celebration can encourage positive social interaction among co-workers, foster friendship among classmates or even strengthen bond between families.</p>
 
 <p>Birthday graph can be display in many forms. It can a creative drawing consists of cupcakes, balloons, candles with names, or it can be in the form of simple bar chart to indicate the birthday frequency for the month.</p>
 

@@ -22,7 +22,7 @@
 
 <p>Given a description of the tree and which nodes have leaves that Lilith wishes to munch, can you help Lilith route her munching by minimizing the time she must travel?</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/59b4ce20-9b9c-409e-ba61-e3f1784fa448/-/preview/" style="width: 512px; height: 171px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/24935.%E2%80%85Travelling%E2%80%85Caterpillar/826637f6.png" data-original-src="https://upload.acmicpc.net/59b4ce20-9b9c-409e-ba61-e3f1784fa448/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 512px; height: 171px;" /></p>
 
 <center>
 <p><b>Figure 1</b>: Illustration of Sample Input $1$. Lilith can munch the nodes at leaves&nbsp;$2,3,6$&nbsp;and return to the root&nbsp;$0$&nbsp;by following the following sequence of nodes:&nbsp;$0&rarr;4&rarr;6&rarr;4&rarr;0&rarr;1&rarr;2&rarr;1&rarr;3&rarr;1&rarr;0$. The total distance Lilith travels is the length of each branch she crossed in this sequence:&nbsp;$2+3+3+2+5+1+1+4+4+5=30$.</p>

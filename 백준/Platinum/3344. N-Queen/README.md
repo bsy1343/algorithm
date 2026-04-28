@@ -20,7 +20,7 @@
 	8*8 체스보드에 8개의 퀸을 서로 공격하지 못하게 놓는 문제는 잘 알려져 있는 문제이다. 퀸은 같은 행, 열, 또는 대각선 위에 있는 말을 공격할 수 있다. 이 문제의 한가지 정답은 아래 그림과 같다.</p>
 
 <p>
-	<img alt="" src="/upload/images/nqueen.png" style="width: 148px; height: 151px;" /></p>
+	<img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/3344.%E2%80%85N-Queen/4aacbae2.png" data-original-src="https://www.acmicpc.net/upload/images/nqueen.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 148px; height: 151px;" /></p>
 
 <p>
 	이 문제의 조금 더 일반화된 문제는 Franz Nauck이 1850년에 제기했다.</p>

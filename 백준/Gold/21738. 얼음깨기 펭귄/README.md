@@ -20,7 +20,7 @@
 
 <p>특수 얼음 깨기 펭귄 게임에 있는 얼음의 종류로는 지지대의 역할을 하는 얼음과 일반 얼음 총 2가지의 얼음이 존재한다. 지지대의 역할을 하는 얼음의 경우,&nbsp;빨간색으로 구분하여 볼 수 있으며 일반 얼음을 지탱해 주어 일반 얼음들이 깨지지 않도록 도와준다.&nbsp;일반 얼음의 경우에는 1개의 지지대만이&nbsp;연결되어 있어도 얼음이 깨지지 않지만 펭귄이 올라가 있는 얼음은 2개 이상의 지지대의 역할을 하는 얼음이 연결되어 있어야만 얼음이 깨지지 않는다. 이때, 지지대가 연결되어 있다는 것은 지지대로부터&nbsp;서로 다른 일반 얼음들을 통해&nbsp;연결 관계가&nbsp;이어져 있는 것을&nbsp;이야기한다.&nbsp;특수 얼음 깨기 펭귄 게임에서 도도가 펭귄을 떨어뜨리지 않고 최대 몇 개의 얼음을 깰 수 있을까?</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/e83176f5-a229-45b0-b7bf-7be5e1dd26dd/-/preview/" style="height: 429px; width: 500px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/21738.%E2%80%85%EC%96%BC%EC%9D%8C%EA%B9%A8%EA%B8%B0%E2%80%85%ED%8E%AD%EA%B7%84/c17954f2.png" data-original-src="https://upload.acmicpc.net/e83176f5-a229-45b0-b7bf-7be5e1dd26dd/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 429px; width: 500px;" /></p>
 
 ### 입력
 

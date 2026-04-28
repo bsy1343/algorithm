@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/20fb950c-95bc-4c74-a9bc-1031496566a8/-/preview/" style="height: 304px; width: 450px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/31933.%E2%80%85%EB%82%98%EB%8A%94%E2%80%85%EC%97%B0%EC%96%B4%EC%9E%85%EB%8B%88%EB%8B%A4/ecae0a88.png" data-original-src="https://upload.acmicpc.net/20fb950c-95bc-4c74-a9bc-1031496566a8/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 304px; width: 450px;" /></p>
 
 <p>태초에 연어들은 $N$번 마을에서 태어났다. 오늘날 $K$마리의 연어들은 모두 $1$번 마을에 모여 살고 있고, 이들은 산란기를 맞아 다시 $N$번 마을로의 모험을 떠나고자 한다. 연어들이 사는 마을은 총 $N$개이고, 마을들을 잇는 강은 총 $M$개가 있다. 산란기의 연어들은 강을 거슬러 올라갈 힘도 충분하기에 강은 어느 방향으로든 자유롭게 다닐 수 있으며, 서로 다른 두 마을을 잇는 강은 최대 $1$개 존재한다.</p>
 

@@ -21,7 +21,7 @@
 <p>The ocean is modelled as R &times; C grid of cells, where &ldquo;#&rdquo; represents islands and &ldquo;.&rdquo; represents water. For example:</p>
 
 <pre>
-<img alt="" src="https://upload.acmicpc.net/b6caaee8-242c-4d1e-af1d-58956f59cd5c/-/preview/" style="width: 109px; height: 118px; float: right;" />...##....
+<img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/17184.%E2%80%85Nautilus/f68458f4.png" data-original-src="https://upload.acmicpc.net/b6caaee8-242c-4d1e-af1d-58956f59cd5c/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 109px; height: 118px; float: right;" />...##....
 ..#.##..#
 ..#....##
 .##...#..

@@ -18,7 +18,7 @@
 
 <p>V의 집합과 간선 E의 집합으로 이루어진 양방향 그래프 G = ( V, E )가 주어진다. 이 그래프는 연결 그래프이다. 즉, 모든 정점쌍 간에 적어도 하나 이상의 경로가 존재한다. 각각의 정점들은 검정색 또는 흰색이다. 동전은 정점들 위에 하나씩 놓여 있는데 이 동전도 검정색 또는 흰색이다. 이 그래프에서 &#39;동전 교환&#39; 연산을 통해 인접한 정점 위에 있는 동전 2개의 위치를 서로 맞바꿀 수 있다. 아래 그림을 보면 이해 할 수 있을 것이다. (그림 1에서 네모의 색은 동전의 색깔이다.)</p>
 
-<p><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11493/1.png" style="display:block; height:133.973px; margin:auto; width:499px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/11493.%E2%80%85%EB%8F%99%EC%A0%84%E2%80%85%EA%B5%90%ED%99%98/061a78fd.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11493/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="display:block; height:133.973px; margin:auto; width:499px" /></p>
 
 <p style="text-align: center;">그림 1. &#39;동전 교환&#39; 연산의 예 (2 &lt;&gt; 5, 5 &lt;&gt; 6, 1 &lt;&gt; 5)</p>
 

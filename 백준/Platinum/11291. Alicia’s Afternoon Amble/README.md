@@ -32,6 +32,6 @@
 
 ### 힌트
 
-<p style="text-align: center;"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11291/1.png" style="height:187px; width:213px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/11291.%E2%80%85Alicia%E2%80%99s%E2%80%85Afternoon%E2%80%85Amble/3c3647e3.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11291/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:187px; width:213px" /></p>
 
 <p style="text-align: center;">The locations and optimal solution for sample input 1.</p>

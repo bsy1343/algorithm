@@ -70,8 +70,8 @@
 <table border="1" cellpadding="1" cellspacing="1" class="table table-bordered" style="margin-left: auto; margin-right: auto">
 	<tbody>
 		<tr>
-			<td style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/95271426-c75e-4bfa-9630-0f608a5878ec/-/preview/" style="height: 299px; width: 350px;" /></td>
-			<td style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/8fda88db-5f3f-48af-b10d-8a2d79bce669/-/preview/" style="height: 296px; width: 350px;" /></td>
+			<td style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/28409.%E2%80%85%EC%82%B0%E2%80%85%EC%83%89%EC%B9%A0/9d0ee701.png" data-original-src="https://upload.acmicpc.net/95271426-c75e-4bfa-9630-0f608a5878ec/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 299px; width: 350px;" /></td>
+			<td style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/28409.%E2%80%85%EC%82%B0%E2%80%85%EC%83%89%EC%B9%A0/d75dcbc6.png" data-original-src="https://upload.acmicpc.net/8fda88db-5f3f-48af-b10d-8a2d79bce669/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 296px; width: 350px;" /></td>
 		</tr>
 		<tr>
 			<td style="text-align: center;">(a) 예제 1의 도화지와 그림</td>

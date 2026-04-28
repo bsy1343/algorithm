@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/b5d0aab6-1e50-4606-a8da-5ef2b1ef8f74/-/preview/" style="width: 197px; height: 299px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/26359.%E2%80%85A%E2%80%85Prickly%E2%80%85Problem%E2%80%85%E2%80%93%E2%80%85Black%E2%80%85Edition/c8b76434.png" data-original-src="https://upload.acmicpc.net/b5d0aab6-1e50-4606-a8da-5ef2b1ef8f74/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 197px; height: 299px;" /></p>
 
 <p>A tree is a connected graph in which any two vertices have exactly one path between them.</p>
 

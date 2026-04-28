@@ -18,7 +18,7 @@
 
 <p>틱택토(Tic-Tac-Toe)는 오목과 아주 유사한 형태의 보드게임이다.</p>
 
-<p><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/12759/1.png" style="height:203px; width:204px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/12759.%E2%80%85%ED%8B%B1!%E2%80%85%ED%83%9D!%E2%80%85%ED%86%A0!/c0dab805.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/12759/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:203px; width:204px" /></p>
 
 <p>게임 방법은 아래와 같다.</p>
 
@@ -49,4 +49,4 @@
 
 <p>예제는 아래와 같다. 플레이어 2부터 시작한다.</p>
 
-<p><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/12759/2.png" style="height:88px; width:749px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/12759.%E2%80%85%ED%8B%B1!%E2%80%85%ED%83%9D!%E2%80%85%ED%86%A0!/425541b1.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/12759/2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:88px; width:749px" /></p>

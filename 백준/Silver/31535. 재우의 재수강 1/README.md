@@ -28,7 +28,7 @@
 
 <p>이 수영장은 최첨단 시스템이 적용되어, 레인별로 물의 밀도가 다르다. 따라서 재우가 이동하는 속도는 어떤 레인에서 수영하느냐에 따라 달라진다. 구체적으로 $i$번째 레인의 물의 밀도가 $p_i$일때, 재우는 $1$만큼을 이동하는 데 $p_i$초가 소요된다. 이때, $x$축에서 먼 레인일수록 물의 밀도는 감소한다. 즉, $p_1&gt;p_2&gt;\cdots &gt;p_n$을 만족한다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/7f31d06e-be9e-4d40-920a-b8f8c42f07b1/-/preview/" style="height: 265px; width: 400px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/31535.%E2%80%85%EC%9E%AC%EC%9A%B0%EC%9D%98%E2%80%85%EC%9E%AC%EC%88%98%EA%B0%95%E2%80%851/ff791070.png" data-original-src="https://upload.acmicpc.net/7f31d06e-be9e-4d40-920a-b8f8c42f07b1/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 265px; width: 400px;" /></p>
 
 <p>재우는 최종 평가를 진행할 때 $(0,0)$에서 출발해 수영 가능 영역에서 수영을 통해서만 이동하여 도착점에 도착해야 한다. 도착점은 $(w,d)$로 수영장의 오른쪽 세로 변 위에 있다. 재우는 출발점에서 출발해서 도착점에 도착할 때까지 걸리는 최단 시간을 알고 싶다.</p>
 

@@ -46,4 +46,4 @@
 
 <p>В третьем примере есть ровно $119\,493\,408\,836\,453\,856=\left(10^9+7\right)\cdot 119\,493\,408$ способов, так что ответ 0.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/0de8346e-c0ac-4fbe-a1d1-e1d1be824be1/-/preview/" style="width: 586px; height: 618px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/28632.%E2%80%85%D0%9A%D0%BE%D0%BD%D1%84%D0%BB%D0%B8%D0%BA%D1%82%E2%80%85%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%B5%D1%81%D0%BE%D0%B2/880254d6.png" data-original-src="https://upload.acmicpc.net/0de8346e-c0ac-4fbe-a1d1-e1d1be824be1/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 586px; height: 618px;" /></p>

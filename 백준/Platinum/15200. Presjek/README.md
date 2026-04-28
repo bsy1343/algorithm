@@ -32,6 +32,6 @@
 
 ### 힌트
 
-<p>Sample 1:&nbsp;<img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15200/1.png" style="height:199px; width:172px" /></p>
+<p>Sample 1:&nbsp;<img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/15200.%E2%80%85Presjek/72f8786d.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15200/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:199px; width:172px" /></p>
 
-<p>Sample 2:&nbsp;<img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15200/2.png" style="height:161px; width:184px" /></p>
+<p>Sample 2:&nbsp;<img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/15200.%E2%80%85Presjek/33893679.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15200/2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:161px; width:184px" /></p>

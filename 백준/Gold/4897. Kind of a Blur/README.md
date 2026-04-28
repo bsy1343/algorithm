@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p><img alt="" src="/upload/images2/blur.png" style="float:right; height:563px; width:163px" />Image blurring occurs when the object being captured is out of the camera&rsquo;s focus. The top two figures on the right are an example of an image and its blurred version. Restoring the original image given only the blurred version is one of the most interesting topics in image processing. This process is called deblurring, which will be your task for this problem.</p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/4897.%E2%80%85Kind%E2%80%85of%E2%80%85a%E2%80%85Blur/1ce3d23e.png" data-original-src="https://www.acmicpc.net/upload/images2/blur.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="float:right; height:563px; width:163px" />Image blurring occurs when the object being captured is out of the camera&rsquo;s focus. The top two figures on the right are an example of an image and its blurred version. Restoring the original image given only the blurred version is one of the most interesting topics in image processing. This process is called deblurring, which will be your task for this problem.</p>
 
 <p>In this problem, all images are in grey-scale (no colours). Images are represented as a 2 dimensional matrix of real numbers, where each cell corresponds to the brightness of the corresponding pixel. Although not mathematically accurate, one way to describe a blurred image is through averaging all the pixels that are within (less than or equal to) a certain Manhattan distance<sup>&dagger;</sup> from each pixel (including the pixel itself ). Here&rsquo;s an example of how to calculate the blurring of a 3x3 image with a blurring distance of 1:</p>
 

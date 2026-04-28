@@ -24,7 +24,7 @@
 
 <p>가방과 물건의 정보가 주어졌을 때, 가장 효율적으로 짐을 싸기 위해 필요한 가방이 무엇인지 알아내자. 가방은 한 개만 선택할 수 있으며, 최적의 가방이 여러 가지라면 그중 가장 작은 번호를 출력한다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/ad78b8de-65bf-4d40-bb6c-d8688d563144/-/preview/" style="height: 316px; width: 500px;" /><br />
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/23061.%E2%80%85%EB%B0%B1%EB%82%A8%EC%9D%B4%EC%9D%98%E2%80%85%EC%97%AC%ED%96%89%E2%80%85%EC%A4%80%EB%B9%84/cc9af93e.png" data-original-src="https://upload.acmicpc.net/ad78b8de-65bf-4d40-bb6c-d8688d563144/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 316px; width: 500px;" /><br />
 &nbsp;</p>
 
 ### 입력

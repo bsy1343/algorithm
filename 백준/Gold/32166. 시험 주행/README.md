@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/2411eaf9-f5d7-434d-a7af-9cb255a113f5/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/32166.%E2%80%85%EC%8B%9C%ED%97%98%E2%80%85%EC%A3%BC%ED%96%89/d38dd16f.png" data-original-src="https://upload.acmicpc.net/2411eaf9-f5d7-434d-a7af-9cb255a113f5/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>처음 가는 길을 운전할 때 내비게이션이 있어도 갈림길을 잘못 들거나 차선을 잘못 타서 곤란했던 경험이 누구나 한 번쯤은 있을 것이다. SoleMap은 이런 불편을 해소하기 위해 현대오토에버가 개발 중인 차세대 통합 지도이다. &#39;단 하나의 지도&#39;라는 이름에 걸맞게 SoleMap은 일반적인 내비게이션 지도인 SD 맵, 위치 정확도가 높고 주행 보조 기능 구현에 필요한 정보가 구성되어 있는 ADAS 맵, 자율주행을 위한 정밀 지도인 HD 맵을 개선한 SD+ 맵을 통합해 운전자에게 더 정밀하고 직관적인 정보를 제공한다.</p>
 
@@ -49,7 +49,7 @@
 
 ### 힌트
 
-<p style="text-align: center;"><img alt="입출력 예제를 설명하는 움직이는 그림" src="https://upload.acmicpc.net/ba1fc4da-fa35-4f3d-b475-e64e4c8f8f0f/result.gif" /></p>
+<p style="text-align: center;"><img alt="입출력 예제를 설명하는 움직이는 그림" src="%EB%B0%B1%EC%A4%80/Gold/32166.%E2%80%85%EC%8B%9C%ED%97%98%E2%80%85%EC%A3%BC%ED%96%89/494f27b9.gif" data-original-src="https://upload.acmicpc.net/ba1fc4da-fa35-4f3d-b475-e64e4c8f8f0f/result.gif" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>예제의 $P_{1}$ 지점에 있는 차량을 빨간색, $P_{3}$ 지점에 있는 차량을 파란색으로 표시하였다.</p>
 

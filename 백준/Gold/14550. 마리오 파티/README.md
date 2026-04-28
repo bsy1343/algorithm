@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14550/1.png" style="height:77px; width:493px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/14550.%E2%80%85%EB%A7%88%EB%A6%AC%EC%98%A4%E2%80%85%ED%8C%8C%ED%8B%B0/ab999940.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14550/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:77px; width:493px" /></p>
 
 <p>&nbsp;</p>
 
@@ -30,7 +30,7 @@
 
 <p>&nbsp;</p>
 
-<p><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14550/2.png" style="height:68px; width:460px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/14550.%E2%80%85%EB%A7%88%EB%A6%AC%EC%98%A4%E2%80%85%ED%8C%8C%ED%8B%B0/3d107659.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14550/2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:68px; width:460px" /></p>
 
 <p><br />
 T턴 이내에 별을 얻고자 할 때, 최대 수익은 얼마일까?</p>

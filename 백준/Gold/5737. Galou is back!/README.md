@@ -20,13 +20,13 @@
 
 <p>His tractor&rsquo;s engine works based on a mechanism of gears. The engine can be represented by a bidimensional grid. At most one gear can be attached to each position of the grid. All the gears are identical and can mesh with adjacent gears. In this grid, a gear can have up to six other adjacent gears, see figure below:</p>
 
-<p style="text-align:center"><img alt="" src="/upload/images2/gear1.png" style="height:202px; width:366px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/5737.%E2%80%85Galou%E2%80%85is%E2%80%85back!/de1a2b03.png" data-original-src="https://www.acmicpc.net/upload/images2/gear1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:202px; width:366px" /></p>
 
 <p>Under normal utilization, when the tractor is started, some of the gears are initially activated and try to turn clockwise. When a gear tries to turn in one direction, all the adjacent gears try to turn in the opposite direction.</p>
 
 <p>When Zak Galou opened his engine he noticed that it had been sabotaged (probably by a jealous treasure hunter who was not able to find the treasure). Some of the gears were removed from the engine and others have been added to it. As a consequence, some of the gears were immobile. A gear can be immobile either if it is free or if it is blocked. A gear is free when it is not an initially activated gear and no adjacent gear is trying to turn. A gear is blocked when it is trying to turn in both directions at the same time. For example, consider that there are three gears in the engine as shown in the figure below. If any of the gears is initially activated when the tractor is started, all of them will be blocked. If none of the gears are initially activated, all of them will be free.</p>
 
-<p style="text-align:center"><img alt="" src="/upload/images2/gear2.png" style="height:93px; width:103px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/5737.%E2%80%85Galou%E2%80%85is%E2%80%85back!/e377621d.png" data-original-src="https://www.acmicpc.net/upload/images2/gear2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:93px; width:103px" /></p>
 
 <p>As a part of the work of fixing his tractor, Zak Galou asks for your help to solve the following problem. Given the description of the engine and the gears that are initially activated in the clockwise direction, he wants to know for each gear, what is its state when the tractor is started: turn clockwise, turn counter-clockwise, free or blocked.</p>
 

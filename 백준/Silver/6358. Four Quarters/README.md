@@ -18,11 +18,11 @@
 
 <p>Four Quarters is a game of chance played with, well, four quarters. Two people, called A and B, each flip two quarters each round. They each gain or lose points each round based on the following tables:</p>
 
-<p><img alt="" src="/upload/images2/4quater1.png" style="height:85px; width:267px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/6358.%E2%80%85Four%E2%80%85Quarters/f4ab435b.png" data-original-src="https://www.acmicpc.net/upload/images2/4quater1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:85px; width:267px" /></p>
 
 <p>Player A&rsquo;s payoff</p>
 
-<p><img alt="" src="/upload/images2/4quater2.png" style="height:84px; width:266px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/6358.%E2%80%85Four%E2%80%85Quarters/f3f22bb4.png" data-original-src="https://www.acmicpc.net/upload/images2/4quater2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:84px; width:266px" /></p>
 
 <p>Player B&rsquo;s payoff</p>
 

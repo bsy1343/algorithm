@@ -26,7 +26,7 @@
 
 <p>This sequence is called &ldquo;fire on field&rdquo; or &ldquo;forest fire&rdquo; since the scatter plot of the sequence looks like spreading fire on a field. See the figure below.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/54909aee-bd6b-4c80-899e-2b11fbc75251/-/preview/" style="width: 464px; height: 324px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/17968.%E2%80%85Fire%E2%80%85on%E2%80%85Field/e9f1012e.png" data-original-src="https://upload.acmicpc.net/54909aee-bd6b-4c80-899e-2b11fbc75251/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 464px; height: 324px;" /></p>
 
 <p>Given a non-negative integer <em>n</em>, write a program to output <em>A</em>[<em>n</em>].</p>
 

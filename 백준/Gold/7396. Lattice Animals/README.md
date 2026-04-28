@@ -22,7 +22,7 @@
 
 <p>For example, there are 5 different pentominoes (5-polyominoes) that fit into $2 \times 4$ rectangle and 3 different octominoes (8-polyominoes) that fit into $3 \times 3$ rectangle.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/974a0a36-6cd2-487e-94ba-4b53b21912a1/-/preview/" style="width: 326px; height: 181px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/7396.%E2%80%85Lattice%E2%80%85Animals/48adc1cd.png" data-original-src="https://upload.acmicpc.net/974a0a36-6cd2-487e-94ba-4b53b21912a1/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 326px; height: 181px;" /></p>
 
 ### 입력
 

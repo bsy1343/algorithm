@@ -40,7 +40,7 @@
 
 ### 힌트
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/46bc26ea-7d0d-49ed-95b0-b59f21f18dfc/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/8411.%E2%80%85Motorways/c394c5fe.png" data-original-src="https://upload.acmicpc.net/46bc26ea-7d0d-49ed-95b0-b59f21f18dfc/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>In order to distinguish the costs of travelling in particular directions, each motorway is represented by a pair of edges on the figure above. A pair of numbers next to every edge represents the toll for the first day and the change of the toll which happens on every day.</p>
 

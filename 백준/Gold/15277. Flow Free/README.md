@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15277/1.png" style="float:right; height:198px; margin-left:10px; width:196px" />Flow Free is a puzzle that is played on a 2D grid of cells, with some cells marked as endpoints of certain colors and the rest of cells being blank.</p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/15277.%E2%80%85Flow%E2%80%85Free/d95f7827.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15277/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="float:right; height:198px; margin-left:10px; width:196px" />Flow Free is a puzzle that is played on a 2D grid of cells, with some cells marked as endpoints of certain colors and the rest of cells being blank.</p>
 
 <p>To solve the puzzle, you have to connect each pair of colored endpoints with a path, following these rules:</p>
 

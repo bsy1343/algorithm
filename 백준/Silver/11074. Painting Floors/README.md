@@ -26,7 +26,7 @@
 
 <p>For example, in the left room, the paint is poured in the third row and second column and it fills in coloured squares. In the right room, the paint is poured in the same square, but it only goes until it hits the black obstacle (piece of furniture).</p>
 
-<p style="text-align:center"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11074/1.png" style="height:202px; width:466px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/11074.%E2%80%85Painting%E2%80%85Floors/5843ebd7.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11074/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:202px; width:466px" /></p>
 
 <p>You may not pour paint onto any of the furniture (obviously!). The goal is to paint every square in the room that is not furniture. Painted squares do not become obstacles for future pours of paint and it is okay to paint squares multiple times.</p>
 

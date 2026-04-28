@@ -20,7 +20,7 @@
 
 <p>Ворота выглядят следующим образом:</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/55887721-6a52-4f39-8896-07b8c974cc41/-/preview/" style="width: 254px; height: 276px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/29680.%E2%80%85%D0%A5%D0%BE%D0%BA%D0%BA%D0%B5%D0%B9%D0%BD%D1%8B%D0%B5%E2%80%85%D0%B2%D0%BE%D1%80%D0%BE%D1%82%D0%B0/bb6e9940.png" data-original-src="https://upload.acmicpc.net/55887721-6a52-4f39-8896-07b8c974cc41/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 254px; height: 276px;" /></p>
 
 <p>Высота ворот --- $H$ метров, ширина --- $W$ метров, малая глубина --- $w_1$ метров, большая глубина --- $w_2$ метров. Сетку натягивают на заднюю часть ворот, бока и верхнюю часть ворот. Заметим, что для большей экономии сетку натягивают так, чтобы ее площадь была минимальной.</p>
 

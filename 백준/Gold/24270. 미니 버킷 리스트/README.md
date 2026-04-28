@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/409936bb-a8e8-4fa6-8fee-3bbab405b0e6/-/preview/" style="width: 720px; max-width: 100%;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/24270.%E2%80%85%EB%AF%B8%EB%8B%88%E2%80%85%EB%B2%84%ED%82%B7%E2%80%85%EB%A6%AC%EC%8A%A4%ED%8A%B8/75a99069.png" data-original-src="https://upload.acmicpc.net/409936bb-a8e8-4fa6-8fee-3bbab405b0e6/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 720px; max-width: 100%;" /></p>
 
 <p>버킷 리스트는 사람이 평생 해 보고 싶은 경험이나&nbsp;이뤄보고 싶은 성과를 의미하는 말로, 영어 속어인 <em>Kick the bucket</em>에서 유래했다. 한국에서는 잭 니컬슨과 모건 프리먼이 출연한 「버킷 리스트: 죽기 전에 꼭 하고 싶은 것들」이라는 영화가 방영된 이후로 유명해진 말이다. 한별이도 자신이 하고 싶은 계획을 담은 버킷 리스트를 만들어 보기로 했지만, 무엇을 하고 싶은지 막상 쓰려니까 잘 떠오르지 않았다. 하지만 천릿길도 한 걸음부터라는 말이 있지 않은가. 한별이는 공책에 &lsquo;2022년에 꼭 하고 싶은 것들&rsquo;이라는 제목을 쓰고 미니 버킷 리스트라는 별명을 붙여줬다. 그리고 차례차례 자신이 하고 싶은 일을 적어나갔다. 한별이는 2021년을 추억하고 2022년을 맞이하기 위한 티파티에 미니 버킷 리스트를 가져가서, 자신의 결심을 친구들에게 보여주기로 했다.</p>
 

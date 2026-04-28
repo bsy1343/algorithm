@@ -34,4 +34,4 @@
 
 ### 힌트
 
-<p><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15623/1.png" style="float: right; width: 288px; height: 277px;" />The Captain may designate a route that is indicated in the figure. During the voyage from island 1&nbsp;(coordinates: (2, 2)) to the island 4&nbsp;(coordinates: (7, 1)) the Captain controls the ship only for an hour, while the ship is sailing south. During the second leg of the trip the Captain controls the vessel only when it is moving east.</p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/15623.%E2%80%85The%E2%80%85Captain/b685fbfe.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15623/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="float: right; width: 288px; height: 277px;" />The Captain may designate a route that is indicated in the figure. During the voyage from island 1&nbsp;(coordinates: (2, 2)) to the island 4&nbsp;(coordinates: (7, 1)) the Captain controls the ship only for an hour, while the ship is sailing south. During the second leg of the trip the Captain controls the vessel only when it is moving east.</p>

@@ -40,4 +40,4 @@
 
 <p>Illustration for the first test from the sample:</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/4663b75c-c88b-4a14-99e7-84cc52d74ccc/-/preview/" style="width: 399px; height: 200px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/20751.%E2%80%85Barsik/396f3e51.png" data-original-src="https://upload.acmicpc.net/4663b75c-c88b-4a14-99e7-84cc52d74ccc/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 399px; height: 200px;" /></p>

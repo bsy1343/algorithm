@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/767c568a-5e3b-4dcf-9dc4-93cc1a0b11fc/" style="width: 350px; height: 83px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/23303.%E2%80%85%EC%9D%B4%E2%80%85%EB%AC%B8%EC%A0%9C%EB%8A%94%E2%80%85D2%E2%80%85%EC%9E%85%EB%8B%88%EB%8B%A4./220d1a08.png" data-original-src="https://upload.acmicpc.net/767c568a-5e3b-4dcf-9dc4-93cc1a0b11fc/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 350px; height: 83px;" /></p>
 
 <p>올해도 연세대학교 프로그래밍 경진대회가 열렸다!</p>
 

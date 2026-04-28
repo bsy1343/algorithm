@@ -29,7 +29,7 @@
 
 <p>수빈이는 팀을 배정할 때 가장 앞의 슬롯부터 차례대로 한 팀씩 배정하려고 했으나, 이러면 공평하지 않은 대진표가 만들어진다는 것을 발견했다. 예를 들어 5개의 팀이 대회에 참가했을 때, 첫 번째 슬롯에 배정된 팀은 우승하기 위해 세 번의 경기를 치러야 하지만 5번째 슬롯에 배정된 팀은 한 경기만 이기면 우승을 차지할 수 있다.</p>
 
-<p style="margin-top: 30px;"><img alt="bracket" src="https://upload.acmicpc.net/d3c1e02b-bbe5-445e-b77f-43e934ab2576/-/preview/" style="display: block; margin-left: auto; margin-right: auto; width: 100%; max-width: 800px;" /></p>
+<p style="margin-top: 30px;"><img alt="bracket" src="%EB%B0%B1%EC%A4%80/Platinum/17384.%E2%80%85%EB%8C%80%EC%A7%84%ED%91%9C/d43c7e97.png" data-original-src="https://upload.acmicpc.net/d3c1e02b-bbe5-445e-b77f-43e934ab2576/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="display: block; margin-left: auto; margin-right: auto; width: 100%; max-width: 800px;" /></p>
 
 <p style="margin-bottom: 30px; text-align: center;">공평하지 않은 대진표와 공평한 대진표</p>
 

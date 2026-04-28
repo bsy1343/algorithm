@@ -27,15 +27,15 @@
 
 <p>마지막 돌을 제거하는 사람이 이긴다. 다음은 한 게임 플레이의 예시다. 아직 효원이랑 승재가 규칙을 잘 모르는 상태로 플레이를 해서 최적으로 플레이하지 않았을&nbsp;수도 있다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/fc800ca8-bbca-4bf3-aa6d-0acee6d0d7eb/-/preview/" />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<img alt="" src="https://upload.acmicpc.net/9e698ac3-38a3-4d80-a3e5-01841d95d769/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/16142.%E2%80%85%EA%B2%8C%EC%9E%84%EC%9D%B4%EB%A1%A0/00c395e6.png" data-original-src="https://upload.acmicpc.net/fc800ca8-bbca-4bf3-aa6d-0acee6d0d7eb/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/16142.%E2%80%85%EA%B2%8C%EC%9E%84%EC%9D%B4%EB%A1%A0/149941cd.png" data-original-src="https://upload.acmicpc.net/9e698ac3-38a3-4d80-a3e5-01841d95d769/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p style="text-align: center;">&nbsp;</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/811ba934-a241-478c-b516-8365a293b87d/-/preview/" />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<img alt="" src="https://upload.acmicpc.net/42919eb1-475e-4269-8cb9-6b7f2a02f1fb/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/16142.%E2%80%85%EA%B2%8C%EC%9E%84%EC%9D%B4%EB%A1%A0/2ce07546.png" data-original-src="https://upload.acmicpc.net/811ba934-a241-478c-b516-8365a293b87d/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/16142.%E2%80%85%EA%B2%8C%EC%9E%84%EC%9D%B4%EB%A1%A0/fdae8a17.png" data-original-src="https://upload.acmicpc.net/42919eb1-475e-4269-8cb9-6b7f2a02f1fb/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p style="text-align: center;">&nbsp;</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/d17b236d-bd64-4fc6-9a22-8ab6c56c7fa5/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/16142.%E2%80%85%EA%B2%8C%EC%9E%84%EC%9D%B4%EB%A1%A0/295ea40b.png" data-original-src="https://upload.acmicpc.net/d17b236d-bd64-4fc6-9a22-8ab6c56c7fa5/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>이제 효원이랑 승재는 이 게임의 규칙을 잘 이해한다. 두 명 모두&nbsp;최적으로 게임을&nbsp;할 경우, 누가 이기는지 판정하는 프로그램을 작성하시오.</p>
 

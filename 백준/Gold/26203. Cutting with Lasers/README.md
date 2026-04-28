@@ -20,15 +20,15 @@
 
 <p>One of the tests consists of programming the machine to perform a non-empty sequence of consecutive cuts that starts and ends at the same point. Each cut in the sequence, except the first, starts at the point at which the previous cut ended. No cuts touch the edge of the sheet to be cut. Figures (a) and (b) below show two examples of cutting sequences, with respectively $8$ and $14$ cuts.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/aff9affd-c9ce-4bf6-8ba8-1834e2e78199/-/preview/" style="width: 271px; height: 119px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/26203.%E2%80%85Cutting%E2%80%85with%E2%80%85Lasers/1cfc09d5.png" data-original-src="https://upload.acmicpc.net/aff9affd-c9ce-4bf6-8ba8-1834e2e78199/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 271px; height: 119px;" /></p>
 
 <p>Your boss asked you to determine the area of the largest piece produced by the sequence of cuts, disregarding the piece attached to the edges of the cut sheet. That is, only the pieces contained in the polygon formed by the cut lines should be considered. Figures (c) and (d) below show respectively the largest pieces produced by the cuts of figures (a) and (b).</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/f823a285-b0ea-4895-ae98-00f44a2f3a8c/-/preview/" style="width: 298px; height: 119px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/26203.%E2%80%85Cutting%E2%80%85with%E2%80%85Lasers/296333c9.png" data-original-src="https://upload.acmicpc.net/f823a285-b0ea-4895-ae98-00f44a2f3a8c/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 298px; height: 119px;" /></p>
 
 <p>To illustrate, figures (e) and (f) below show the discarded piece (which contains the edges of the wood sheet) of the cut sequences of figures (a) and (b), respectively.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/6ada4c75-ad2d-4a7d-991a-0beff90bd0d3/-/preview/" style="width: 298px; height: 119px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/26203.%E2%80%85Cutting%E2%80%85with%E2%80%85Lasers/8f5ca347.png" data-original-src="https://upload.acmicpc.net/6ada4c75-ad2d-4a7d-991a-0beff90bd0d3/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 298px; height: 119px;" /></p>
 
 ### 입력
 

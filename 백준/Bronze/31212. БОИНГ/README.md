@@ -18,7 +18,7 @@
 
 <p>Авиокомпания А5 извърши още една актуализация на софтуера. Сега при продажба на билети се предлага първото незаето място в самолета (местата в самолета се заемат последователно, следвайки реда за номерирането им). Фигурата по-долу показва схема на салона на Boeing.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/fe0809f9-6e5b-461b-8b3a-271ef079aea0/-/preview/" style="width: 621px; height: 199px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/31212.%E2%80%85%D0%91%D0%9E%D0%98%D0%9D%D0%93/28891800.png" data-original-src="https://upload.acmicpc.net/fe0809f9-6e5b-461b-8b3a-271ef079aea0/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 621px; height: 199px;" /></p>
 
 <p>Номерът на седалката в салона е комбинация от номера на реда (число от 1 до 21) и номера на седалката в реда (една от буквите &quot;A&quot;, &quot;B&quot;, &quot;C&quot;, &quot;D&quot;, &quot;E&quot;, &quot;F&quot;). В същото време на първия ред има само три места: 1D, 1E и 1F, а на последния ред - две места: 21D и 21E.</p>
 

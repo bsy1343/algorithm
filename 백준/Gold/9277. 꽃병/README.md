@@ -22,7 +22,7 @@
 
 <p>펜토미노라는 것은 5개의 정사각형을&nbsp;서로 붙이되,&nbsp;인접한 모서리는 항상 전체가 모두 인접하도록&nbsp;붙여 만든 모양으로, 아래에 가능한 12개의 모양이 모두&nbsp;나와 있다.</p>
 
-<p><img src="/upload/images/fpot.png" /></p>
+<p><img src="%EB%B0%B1%EC%A4%80/Gold/9277.%E2%80%85%EA%BD%83%EB%B3%91/f5cb81d6.png" data-original-src="https://www.acmicpc.net/upload/images/fpot.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>위 펜토미노의 면적은 모두 펜토미노를 이루는&nbsp;단위 정사각형의 5배로&nbsp;같으며, 각 모양과 가장 비슷한 알파벳으로 이름붙여져 있다.</p>
 
@@ -30,7 +30,7 @@
 
 <p>다만, W+F 와 I+I 의 조합처럼, 어떤 경우에도 외곽선의 모양이 같도록 배치할 수 없는 조합이 존재한다. 이와 같은 조합을 택할 생각은 없지만, P+U와 V+Z의 조합처럼(아래의 그림)&nbsp;대충 봤을 땐 안 맞을 것 같이 보이지만&nbsp;잘 배치할 경우 외곽선이 같아질 수 있는 조합을 놓치기 싫은 준규는 당신에게 프로그램을 제작해달라고 요청했다.</p>
 
-<p><img src="/upload/images/fpot2.png" /></p>
+<p><img src="%EB%B0%B1%EC%A4%80/Gold/9277.%E2%80%85%EA%BD%83%EB%B3%91/3e05f8ab.png" data-original-src="https://www.acmicpc.net/upload/images/fpot2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>이제&nbsp;두 개의 노란 꽃병의 모양과 두 개의 빨간 꽃병의 모양이 주어지면, 외곽선이 같도록 배치할 수 있는지를 판정하는 프로그램을 작성하면 된다.</p>
 

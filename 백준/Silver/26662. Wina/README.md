@@ -38,4 +38,4 @@
 
 <p>Rysunek po prawej przedstawia przykładową kolejność, w jakiej podczaszy m&oacute;gł wybierać butelki: wybrane butelki oznaczone są przerywanymi k&oacute;łkami, a liczba oznacza jako kt&oacute;ra z kolei dana butelka została wybrana (zauważ, że po każdym wyborze piramida jest stabilna). Kolejno wybrane butelki mają roczniki 1999, 2010, 2019, 1500, 1600, 710 i 850; kr&oacute;lowi przypadnie w udziale rocznik 710.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/4bdbb82f-7fd6-460f-9d37-186d74d40db6/-/preview/" style="width: 382px; height: 154px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/26662.%E2%80%85Wina/3028a1d0.png" data-original-src="https://upload.acmicpc.net/4bdbb82f-7fd6-460f-9d37-186d74d40db6/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 382px; height: 154px;" /></p>

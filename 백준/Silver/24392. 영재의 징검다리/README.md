@@ -22,7 +22,7 @@
 
 <p>다음은 <em>N</em> = 3, <em>M</em> = 5인 어느 순간에 영재가 가능한 이동을 나타낸 그림이다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/31b77266-faac-4ac6-a4c5-8a43cb1637e3/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/24392.%E2%80%85%EC%98%81%EC%9E%AC%EC%9D%98%E2%80%85%EC%A7%95%EA%B2%80%EB%8B%A4%EB%A6%AC/cd17c761.png" data-original-src="https://upload.acmicpc.net/31b77266-faac-4ac6-a4c5-8a43cb1637e3/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>다리의 정보가 주어지면, 영재가 다리를 무사히 건널 수 있는 경우의 수를 알아내보자.</p>
 

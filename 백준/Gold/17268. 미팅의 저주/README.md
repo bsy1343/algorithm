@@ -20,11 +20,11 @@
 
 <p>미팅에 참가한 사람이 4명일 경우 미팅에 성공할 경우는 다음 그림과 같이 2가지이다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/64896646-17dc-45ec-a2e9-6e26611f9825/-/preview/" style="height: 190px; width: 700px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/17268.%E2%80%85%EB%AF%B8%ED%8C%85%EC%9D%98%E2%80%85%EC%A0%80%EC%A3%BC/9cbff27d.png" data-original-src="https://upload.acmicpc.net/64896646-17dc-45ec-a2e9-6e26611f9825/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 190px; width: 700px;" /></p>
 
 <p>미팅에 참가한 사람이 6명일 경우 미팅에 성공할 경우는 다음 그림과 같이 5가지이다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/8ae1f9a1-df3b-4a2f-b2e3-502b1651e805/-/preview/" style="width: 700px; height: 149px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/17268.%E2%80%85%EB%AF%B8%ED%8C%85%EC%9D%98%E2%80%85%EC%A0%80%EC%A3%BC/df671a51.png" data-original-src="https://upload.acmicpc.net/8ae1f9a1-df3b-4a2f-b2e3-502b1651e805/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 700px; height: 149px;" /></p>
 
 ### 입력
 

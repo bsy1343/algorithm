@@ -22,7 +22,7 @@
 
 <p>George has kidnapped . . . uh, I mean . . . &ldquo;invited&rdquo; you and will only let you go if you help him with the math. The piece of the revolver that contains the bullets looks like this (examples for 6 and 17 bullets):</p>
 
-<p style="text-align: center;"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/7549/1.png" style="height:165px; width:347px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/7549.%E2%80%85Yeehaa!/ae240e36.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/7549/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:165px; width:347px" /></p>
 
 <p style="text-align: center;">Figure 1: Examples</p>
 

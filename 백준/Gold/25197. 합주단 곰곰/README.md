@@ -20,7 +20,7 @@
 
 <p>곰곰의 실로폰 채가 건반에 닿는 순간, 주변의 온 관심은&nbsp;실로폰이 내는 청아한 소리에 모인다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/23ff7203-d2ba-40b5-bfa0-4f2459c889c5/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/25197.%E2%80%85%ED%95%A9%EC%A3%BC%EB%8B%A8%E2%80%85%EA%B3%B0%EA%B3%B0/4d006259.png" data-original-src="https://upload.acmicpc.net/23ff7203-d2ba-40b5-bfa0-4f2459c889c5/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>곰곰은 이 재능으로 사람들을 행복하게 만들기 위해&nbsp;합주단을 만들었다.</p>
 
@@ -40,7 +40,7 @@
 
 <p>단원들이 밥을 먹지 못하는 일이 일어나지 않도록 곰곰 단장을 도와주자!</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/d7cd07e3-80e5-4f7c-9aa3-63f23a58801b/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/25197.%E2%80%85%ED%95%A9%EC%A3%BC%EB%8B%A8%E2%80%85%EA%B3%B0%EA%B3%B0/591f8b0f.png" data-original-src="https://upload.acmicpc.net/d7cd07e3-80e5-4f7c-9aa3-63f23a58801b/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 ### 입력
 

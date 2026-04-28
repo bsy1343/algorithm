@@ -20,7 +20,7 @@
 
 <p>우선 도넛 모양의 게임 보드의 칸 중 하나를 &quot;기준 칸&quot;으로 삼아 12시 방향에 놓이도록 한 후, 각 칸에는 시계 방향 순으로 $V_1, V_2, \dots, V_N$ 의 정수 값을 적어넣는다. 예를 들어 아래 그림은 $N = 7, V = [2, 0, 2, 4, 9, 9, 9]$ 인 경우를 나타내며 &quot;기준 칸&quot;은 화살표로 강조되어있다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/5799c133-8276-4fde-90fb-cc54e6964b04/-/preview/" style="height: 250px; width: 250px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/31810.%E2%80%85%EB%A7%88%EB%B2%95%EC%9D%98%E2%80%85%EB%8F%84%EB%84%9B%E2%80%85%EA%B2%8C%EC%9E%84/34fd4d1f.png" data-original-src="https://upload.acmicpc.net/5799c133-8276-4fde-90fb-cc54e6964b04/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 250px; width: 250px;" /></p>
 
 <p>이후, 지시 사항이 적힌 카드 $M$ 장을 순서대로 뽑아 카드에 적힌 지시 사항을 수행한다 - 각 카드에는 3개의 정수가 적혀있는데, 편의상 $i$ 번째 카드에 적힌 3개의 정수를 순서대로 $S_i, X_i, Y_i$ 라 하자. 총 다섯 종류의 지시 사항이 있으며, 각 카드에 적힌 첫 번째 정수 ($S_i$)의 값이 지시 사항의 내용을 결정한다 (즉, $S_i \in \{1, 2, 3,4, 5\}$).</p>
 
@@ -41,7 +41,7 @@
 			<td>설명</td>
 		</tr>
 		<tr>
-			<td><img alt="" src="https://upload.acmicpc.net/5799c133-8276-4fde-90fb-cc54e6964b04/-/preview/" style="height: 250px; width: 250px;" /></td>
+			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/31810.%E2%80%85%EB%A7%88%EB%B2%95%EC%9D%98%E2%80%85%EB%8F%84%EB%84%9B%E2%80%85%EA%B2%8C%EC%9E%84/34fd4d1f.png" data-original-src="https://upload.acmicpc.net/5799c133-8276-4fde-90fb-cc54e6964b04/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 250px; width: 250px;" /></td>
 			<td>
 			<p>게임을 시작할 때의 게임 보드 상태이다.</p>
 
@@ -49,11 +49,11 @@
 			</td>
 		</tr>
 		<tr>
-			<td><img alt="" src="https://upload.acmicpc.net/9249052e-cc51-4606-97d2-9e07eb6eef6e/-/preview/" style="height: 249px; width: 250px;" /></td>
+			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/31810.%E2%80%85%EB%A7%88%EB%B2%95%EC%9D%98%E2%80%85%EB%8F%84%EB%84%9B%E2%80%85%EA%B2%8C%EC%9E%84/92150dbd.png" data-original-src="https://upload.acmicpc.net/9249052e-cc51-4606-97d2-9e07eb6eef6e/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 249px; width: 250px;" /></td>
 			<td>1번 카드를 뽑은 후 게임 보드를 반시계 방향으로 2칸 돌린 이후의 게임 보드 상태이다.</td>
 		</tr>
 		<tr>
-			<td><img alt="" src="https://upload.acmicpc.net/17068189-195c-4dcd-b851-b79a6054f4e4/-/preview/" style="height: 252px; width: 250px;" /></td>
+			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/31810.%E2%80%85%EB%A7%88%EB%B2%95%EC%9D%98%E2%80%85%EB%8F%84%EB%84%9B%E2%80%85%EA%B2%8C%EC%9E%84/dda82ca4.png" data-original-src="https://upload.acmicpc.net/17068189-195c-4dcd-b851-b79a6054f4e4/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 252px; width: 250px;" /></td>
 			<td>2번 카드를 뽑은 후 4개의 칸에 각각 3씩 더한 이후의 게임 보드 상태이다.</td>
 		</tr>
 		<tr>
@@ -73,7 +73,7 @@
 			</td>
 		</tr>
 		<tr>
-			<td><img alt="" src="https://upload.acmicpc.net/bfd5c26c-e03a-4356-9122-43ba23efc618/-/preview/" style="height: 248px; width: 250px;" /></td>
+			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/31810.%E2%80%85%EB%A7%88%EB%B2%95%EC%9D%98%E2%80%85%EB%8F%84%EB%84%9B%E2%80%85%EA%B2%8C%EC%9E%84/0dce32d2.png" data-original-src="https://upload.acmicpc.net/bfd5c26c-e03a-4356-9122-43ba23efc618/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 248px; width: 250px;" /></td>
 			<td>5번 카드를 뽑아 게임 보드를 뒤집은 이후의 게임 보드 상태이다. 12시 방향을 가리키는 기준칸은 위치가 변하지 않음에 유의하자.</td>
 		</tr>
 		<tr>
@@ -85,11 +85,11 @@
 			</td>
 		</tr>
 		<tr>
-			<td><img alt="" src="https://upload.acmicpc.net/32d9e40b-0b82-4c47-bc2a-9920d05c49f1/-/preview/" style="height: 250px; width: 250px;" /></td>
+			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/31810.%E2%80%85%EB%A7%88%EB%B2%95%EC%9D%98%E2%80%85%EB%8F%84%EB%84%9B%E2%80%85%EA%B2%8C%EC%9E%84/8b271e6d.png" data-original-src="https://upload.acmicpc.net/32d9e40b-0b82-4c47-bc2a-9920d05c49f1/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 250px; width: 250px;" /></td>
 			<td>7번 카드를 뽑은 후 게임 보드를 시계 방향으로 2칸 돌린 이후의 게임 보드 상태이다.</td>
 		</tr>
 		<tr>
-			<td><img alt="" src="https://upload.acmicpc.net/5c96cd2e-1855-4e03-9261-63b3e9beadcd/-/preview/" style="height: 252px; width: 250px;" /></td>
+			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/31810.%E2%80%85%EB%A7%88%EB%B2%95%EC%9D%98%E2%80%85%EB%8F%84%EB%84%9B%E2%80%85%EA%B2%8C%EC%9E%84/ad28bf88.png" data-original-src="https://upload.acmicpc.net/5c96cd2e-1855-4e03-9261-63b3e9beadcd/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 252px; width: 250px;" /></td>
 			<td>8번 카드를 뽑은 후 4개의 칸에 각각 2씩 더한 이후의 게임 보드 상태이다.</td>
 		</tr>
 		<tr>

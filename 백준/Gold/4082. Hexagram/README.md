@@ -23,7 +23,7 @@
 
 <p>There are four unique ways of assigning the numbers to vertices of the hexagram such that all of the sets of four numbers along the lines have the same sum (57 in this case). All other ways may be obtained from these by rotation and/or reflection.</p>
 
-<p><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/4082/1.png" style="height:157px; width:587px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/4082.%E2%80%85Hexagram/e6cedb00.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/4082/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:157px; width:587px" /></p>
 
 <p>Given 12 distinct numbers, in how many ways, disregarding rotations and reflections, can you assign the numbers to the vertices such that the sum of the numbers along each of 6 straight lines passing through 4 vertices is the same?</p>
 

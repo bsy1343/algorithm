@@ -29,7 +29,7 @@
 
 <p>현대모비스에서 첨단 운전자 보조 시스템을 연구하는 예영이는 차량 주행 데이터 분석을 위해 <strong>데이터 수합 영역</strong>, <strong>위험 영역</strong>, <strong>안전 영역</strong>으로 영역을 구분하여 각 영역을 다음과 같이 정의했다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/6f689be8-5459-4571-bc10-1b1b64c340fe/-/preview/" style="width: 1000px; max-width: 100%;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/32230.%E2%80%85%ED%98%84%EB%8C%80%EB%AA%A8%EB%B9%84%EC%8A%A4%E2%80%85%EC%B2%A8%EB%8B%A8%E2%80%85%EC%9A%B4%EC%A0%84%EC%9E%90%E2%80%85%EB%B3%B4%EC%A1%B0%E2%80%85%EC%8B%9C%EC%8A%A4%ED%85%9C/dde31784.png" data-original-src="https://upload.acmicpc.net/6f689be8-5459-4571-bc10-1b1b64c340fe/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 1000px; max-width: 100%;" /></p>
 
 <ol>
 	<li><strong>데이터 수합 영역</strong>은 $N \geq 3$인 경우 $N$대의 <strong>주변 차량</strong>으로 이루어진 볼록 다각형 모양이다. 주변 차량은 모두 볼록 다각형의 꼭짓점을 이룬다. 단, $N=2$인 경우 데이터 수합 영역은 두 주변 차량을 잇는 선분의 모양을 가지며, $N=1$인 경우 데이터 수합 영역은 점 하나의 모양을 가진다.</li>

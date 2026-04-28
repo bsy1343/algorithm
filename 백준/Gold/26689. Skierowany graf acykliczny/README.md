@@ -38,4 +38,4 @@
 
 <p>Wyjaśnienie przykładu: Poniższy rysunek przedstawia 6-wierzchołkowy graf opisany na wyjściu. Z wierzchołka 1 do wierzchołka 6 prowadzą ścieżki 1 &rarr; 3 &rarr; 2 &rarr; 6, 1 &rarr; 3 &rarr; 6 oraz 1 &rarr; 5 &rarr; 6.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/72adc385-ac54-41a0-aeda-cf7b302619c4/-/preview/" style="width: 150px; height: 93px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/26689.%E2%80%85Skierowany%E2%80%85graf%E2%80%85acykliczny/37789e00.png" data-original-src="https://upload.acmicpc.net/72adc385-ac54-41a0-aeda-cf7b302619c4/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 150px; height: 93px;" /></p>

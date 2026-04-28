@@ -44,6 +44,6 @@
 
 ### 힌트
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/ee89d34e-efd2-4eb3-bb0b-34808ad576a5/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/16475.%E2%80%85%EC%88%98%ED%95%99%E2%80%85%EB%AF%B8%EB%A1%9C/7f6c5080.png" data-original-src="https://upload.acmicpc.net/ee89d34e-efd2-4eb3-bb0b-34808ad576a5/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>그림 같은 경우, 1-2-5-4-3 으로 가는 경우, 7이 걸리지만, 1-2-1-2-1-6-3 으로 가는 경우 6이 걸린다.&nbsp;</p>

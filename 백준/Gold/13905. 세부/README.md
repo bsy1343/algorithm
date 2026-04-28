@@ -30,7 +30,7 @@
 
 ### 힌트
 
-<p style="text-align:center"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/13905/1.png" style="height:332px; width:511px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/13905.%E2%80%85%EC%84%B8%EB%B6%80/0a74398d.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/13905/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:332px; width:511px" /></p>
 
 <p style="text-align:center">1-(4)-&gt;7-(4)-&gt;6-(3)-&gt;3</p>
 

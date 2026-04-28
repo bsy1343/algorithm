@@ -22,11 +22,11 @@
 
 <p>사이클 그래프 C<sub>n</sub>, n &ge; 3 은 단순 무방향 그래프이고, 정점의 집합은 {1,...,n}, 간선의 집합 E(C<sub>n</sub>) = {{a,b} | |a-b| &equiv; 1 mod n}이다. 또, 2-정규 그래프이며, 간선의 수는 n개 이다. C<sub>3</sub>, C<sub>4</sub>, C<sub>5</sub>, C<sub>6</sub>은 아래 그림에 나와있다.</p>
 
-<p><img alt="" src="/upload/images/c1.png" style="height:167px; width:627px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/3644.%E2%80%85%EA%B7%B8%EB%9E%98%ED%94%84%E2%80%85%EB%A7%A4%EC%B9%AD/29cb2118.png" data-original-src="https://www.acmicpc.net/upload/images/c1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:167px; width:627px" /></p>
 
 <p>사이클 그래프 C<sub>n</sub>에서 매칭의 수를 구하는 프로그램을 작성하시오.</p>
 
-<p><img alt="" src="/upload/images/c2.png" style="height:117px; width:613px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/3644.%E2%80%85%EA%B7%B8%EB%9E%98%ED%94%84%E2%80%85%EB%A7%A4%EC%B9%AD/98937dea.png" data-original-src="https://www.acmicpc.net/upload/images/c2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:117px; width:613px" /></p>
 
 <p>위의 그림은 C<sub>4</sub>의 모든 매칭을 나타낸 그림이다. 매칭에 해당하는 간선은 초록색으로 표시되어 있다.</p>
 

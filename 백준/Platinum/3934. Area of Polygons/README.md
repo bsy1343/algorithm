@@ -20,7 +20,7 @@
 
 <p>Your job is to help Yoko, not good either at math or at computer programming, get her homework done. A polygon is given by listing the coordinates of its vertices. Your program should approximate its area by counting the number of unit squares (whose vertices are also grid points) intersecting the polygon. Precisely, a unit square &ldquo;intersects the polygon&rdquo; if and only if the intersection of the two has non-zero area. In the figure below, dashed horizontal and vertical lines are grid lines, and solid lines are edges of the polygon. Shaded unit squares are considered intersecting the polygon. Your program should output 55 for this polygon (as you see, the number of shaded unit squares is 55).</p>
 
-<p><img alt="" src="/upload/images2/area.png" style="height:291px; width:332px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/3934.%E2%80%85Area%E2%80%85of%E2%80%85Polygons/770fafff.png" data-original-src="https://www.acmicpc.net/upload/images2/area.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:291px; width:332px" /></p>
 
 <p>Figure 1: A polygon and unit squares intersecting it</p>
 

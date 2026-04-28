@@ -24,7 +24,7 @@
 
 <p>현재 데이터 센터에는 총 n개의 RAID-1 세트가 있다. 각각의 세트 i는 크기가 S<sub>i</sub>인 디스크로 이루어져 있다. 이 세트는 데이터 S<sub>i</sub> GB를 보관할 수 있다. RAID-5 세트로 변환하면 보관할 수 있는 용량이 총 세 배가 된다. (3 &middot; S<sub>i</sub> GB) 되도록 적은 용량을 RAID-5로 변환해 필요한 용량을 얻는 프로그램을 작성하시오.</p>
 
-<p><img alt="" src="/upload/images/raid.png" style="height:111px; line-height:1.6em; width:463px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/9327.%E2%80%85%EC%9A%A9%EB%9F%89%E2%80%85%ED%99%95%EB%B3%B4/44ade036.png" data-original-src="https://www.acmicpc.net/upload/images/raid.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:111px; line-height:1.6em; width:463px" /></p>
 
 <p>디스크의 용량 S = 4이고, 저장 가능 용량은 4 GB (D0 ... D3)과 3 &middot; 4 = 12 GB (D0 ... D11) 이다.</p>
 

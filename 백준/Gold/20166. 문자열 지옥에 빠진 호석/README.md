@@ -38,7 +38,7 @@
 	<li>예를 들어서, 너가 (1, 1)에서 위로 가면 (<em>N</em>, 1)이고, 왼쪽으로 가면 (1, <em>M</em>)이며 왼쪽 위 대각선 방향으로 가면 (<em>N</em>, <em>M</em>)인 것이다.</li>
 </ul>
 
-<p><img alt="" src="https://upload.acmicpc.net/3701860f-0ca1-45a8-8f99-ad149d1f5771/-/preview/" style="height: 327px; width: 400px;" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/20166.%E2%80%85%EB%AC%B8%EC%9E%90%EC%97%B4%E2%80%85%EC%A7%80%EC%98%A5%EC%97%90%E2%80%85%EB%B9%A0%EC%A7%84%E2%80%85%ED%98%B8%EC%84%9D/258fd020.png" data-original-src="https://upload.acmicpc.net/3701860f-0ca1-45a8-8f99-ad149d1f5771/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 327px; width: 400px;" /></p>
 
 <p>세상을 이루는 격자의 정보와,&nbsp;<em>K</em>&nbsp;개의 문자열이 주어졌을 때, 호석이가 대답해야 하는 정답을 구해주도록 하자.</p>
 

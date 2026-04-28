@@ -24,7 +24,7 @@
 
 <p>예를 들면 다음 그림과 같다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/5e43f5c7-2b66-4e72-9887-9f70e8cee266/-/preview/" style="width: 650px; height: 348px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/17273.%E2%80%85%EC%B9%B4%EB%93%9C%E2%80%85%EA%B3%B5%EC%9E%A5%E2%80%85(Small)/e5adaaee.png" data-original-src="https://upload.acmicpc.net/5e43f5c7-2b66-4e72-9887-9f70e8cee266/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 650px; height: 348px;" /></p>
 
 <p><strong>카드들은 처음에 모두 앞면이 보여지도록 세팅되어 있고, 카드에 적힌 수는 10,000 이하의 자연수이다.</strong></p>
 

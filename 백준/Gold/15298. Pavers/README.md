@@ -18,19 +18,19 @@
 
 <p>In the land of Quendor, walkways, sidewalks and hallways are always 2 mb (mini-bloit, roughly 1 2000 of a bloit) in width. J. Pierpont Flathead (pictured below) has hired the Frobozz Magic Paver Company to install new walkways in and around all his banks using pavers. Given the huge number of walkways found at each bank, and the eccentricity of Flathead, Frobozz decided to write a program to determine how many different ways there are to completely cover a walkway using pavers that are 1mb-by-1mb squares, 2mb-by-1mb rectangles in either orientation and right (or L-shaped) tromino pavers in any of the four possible orientations shown below. This list would then be presented to Flathead so he could choose the patterns he wanted.</p>
 
-<p style="text-align:center"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15298/1.png" style="height:44px; width:341px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/15298.%E2%80%85Pavers/882db07f.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15298/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:44px; width:341px" /></p>
 
 <p>You will help write this program for Frobozz. Your program must find the total number of tilings and the total number of each paver type used in those tilings. For instance, there are two tilings of a 2-by1 walkway using a total of two 1-by-1 square pavers and one 2-by-1 rectangular paver.</p>
 
-<p style="text-align:center"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15298/2.png" style="height:41px; width:80px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/15298.%E2%80%85Pavers/41a6aa6b.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15298/2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:41px; width:80px" /></p>
 
 <p>For a 2-by-2 rectangle, there are 11 tilings using a total of 16 1-by-1 square pavers, 8 2-by-1 rectangular pavers and 4 tromino pavers.</p>
 
-<p style="text-align:center"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15298/3.png" style="height:42px; width:586px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/15298.%E2%80%85Pavers/61157feb.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15298/3.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:42px; width:586px" /></p>
 
 <p>Write a program which takes as input the length n (in mb) of a 2-by-n walkway and outputs the number of tilings by combinations of the three paver types as well as the total number of each type of paver used.</p>
 
-<p style="text-align:center"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15298/4.png" style="height:209px; width:164px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/15298.%E2%80%85Pavers/1b8d4dbc.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15298/4.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:209px; width:164px" /></p>
 
 ### 입력
 

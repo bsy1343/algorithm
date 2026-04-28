@@ -30,7 +30,7 @@
 
 <p>구조물은 다음과 같은 피라미드 격자의 $(x,y)$에 유리구슬을 놓아 만들어진다. ($x, y$는 $0$ 이상의 정수)</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/8dced8e9-7337-4514-be6f-422e5844b539/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/32281.%E2%80%85%EC%9C%A0%EB%A6%AC%EA%B5%AC%EC%8A%AC%E2%80%85(Glass%E2%80%85Bead)/91e62820.png" data-original-src="https://upload.acmicpc.net/8dced8e9-7337-4514-be6f-422e5844b539/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>$y&gt;0$인 좌표의 구조물이 깨지지 않도록 하기 위해서, 구조물은 다음 조건을 충족해야 한다.</p>
 

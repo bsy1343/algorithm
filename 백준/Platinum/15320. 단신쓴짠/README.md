@@ -22,7 +22,7 @@
 
 <p>놀랍게도 준표의 미뢰들은 서로간의 연결관계를 통해 1번 미뢰를 루트로 하는 하나의 이진 트리의 형태로 이루어져 있다. 하나의 트리는 하나의 미뢰집단이다. 일반적인 사람들은 X 개 이상의 미뢰집단을 가지고 있다. 또한 맛이란 복합적인 것이기 때문에 각 미뢰집단은 적어도 K 개 이상의 미뢰로 구성되어 있어야 제대로 된 역할을 할 수 있다. 서현이는 준표의 미뢰들 사이에 존재하는 연결관계를 끊어 준표가 일반사람들과 같이 K 개 이상의 미뢰로 구성된 미뢰집단을 X 개 이상 가지게 하고싶다.</p>
 
-<p style="text-align:center"><img alt="" src="http://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15320/1.png" style="height:179px; width:425px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/15320.%E2%80%85%EB%8B%A8%EC%8B%A0%EC%93%B4%EC%A7%A0/a1d32ba5.png" data-original-src="http://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15320/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:179px; width:425px" /></p>
 
 <p>하지만 연결관계를 끊을때마다 그 연결관계의 세기만큼 준표의 다른 신경계가 손상을 입을 수 있다. A와 B 미뢰 사이의 연결이 서로에게 10만큼의 영향을 주고 있다면, 이 연결관계를 끊었을때 준표도 10만큼의 고통을 받게 되는 것이다. 미각이 돌아와도 다른 감각이 상처를 입으면 준표가 더더욱 힘든 삶을 살게 될 것이므로, 서현이는 끊어야하는 연결의 영향의 합, 즉 준표가 받을 고통의 합을 최소로 하고 싶다. 이때 준표가 다시 맛을 느끼기 위해서 받게될 최소 고통의 합은 얼마일지 알아보자.</p>
 

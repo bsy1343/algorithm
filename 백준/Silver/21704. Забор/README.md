@@ -32,4 +32,4 @@
 
 ### 힌트
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/ad4e6e68-04c0-47e3-b708-fb5cacc3ceb1/-/preview/" style="width: 459px; height: 156px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/21704.%E2%80%85%D0%97%D0%B0%D0%B1%D0%BE%D1%80/04504c8f.png" data-original-src="https://upload.acmicpc.net/ad4e6e68-04c0-47e3-b708-fb5cacc3ceb1/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 459px; height: 156px;" /></p>

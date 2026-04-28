@@ -22,7 +22,7 @@
 
 <p>덩굴은 두개의 덩굴로 나눠질 수 있는데 덩굴이 끊어지지 않기 위해서는 나눠진 두 덩굴은 같은 수의 원숭이들이 매달려 있어야한다. 덩굴의 나눠지는 지점을 &quot;[]&quot;로 정의 내리면 덩굴의 구조를 꺾쇠괄호로 표시할 수 있다. 또한 덩굴의 깊이는 25를 넘지 않는다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/upload/images/monkey.png" style="width: 520px; height: 294px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/2716.%E2%80%85%EC%9B%90%EC%88%AD%EC%9D%B4%E2%80%85%EB%A7%A4%EB%8B%AC%EA%B8%B0/c6ee71c1.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/upload/images/monkey.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 520px; height: 294px;" /></p>
 
 <p>원숭이들은 덩굴의 균형을 유지하면서 나무꼭대기에 도달할 수 있는 최소 원숭이 수를 알고 싶다. 나무 꼭대기에 도달하기 위해서 최소 한 마리 원숭이가 필요하다.</p>
 

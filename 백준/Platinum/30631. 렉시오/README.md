@@ -31,15 +31,15 @@
 
 <p>예를 들어 $A$, $B$, $C$의 $3$명이 렉시오를 해서 턴이 종료했다고 하자. 턴이 끝나고 남은 카드가 각각 $10$, $5$, $0$개라면 $A$는 $B$에게 $5$점, $C$에게 $10$점을 줘야 하고, $B$는 $C$에게 $5$점을 줘야 한다. $1$번 항목에 따라 어떤 과정을 통해서 전달하든 $A$는 $15$점을 잃고 $B$는 점수를 잃지 않고 $C$는 $15$점을 얻기만 하면 된다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/ca87f752-6ef2-4ac9-ac15-a26b4099e5ba/-/preview/" style="height: 297px; width: 600px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/30631.%E2%80%85%EB%A0%89%EC%8B%9C%EC%98%A4/d194be6f.png" data-original-src="https://upload.acmicpc.net/ca87f752-6ef2-4ac9-ac15-a26b4099e5ba/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 297px; width: 600px;" /></p>
 
 <p>$A$, $B$, $C$가 순서대로 앉아 있다고 했을 때, $A$가 $B$에게 $15$점을 주고, $B$가 $C$에게 $15$점을 주면 점수를 $2$번 전달해서 정산을 마칠 수 있다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/3f673a55-7564-4221-9ec4-b657f6cc982b/-/preview/" style="height: 103px; width: 600px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/30631.%E2%80%85%EB%A0%89%EC%8B%9C%EC%98%A4/d8c3fb4c.png" data-original-src="https://upload.acmicpc.net/3f673a55-7564-4221-9ec4-b657f6cc982b/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 103px; width: 600px;" /></p>
 
 <p>그런데 $3$번 항목에 쓰여있는 대로 참가자 쌍 $(A, C)$를 선택해 $A$가 $C$에게 $15$점을 전달하면 한 번에 점수를 정산할 수 있다. 더 적은 횟수로 정산할 수는 없으니 $3$번 항목에 따라 좋은 정산 방식은 한 번에 점수를 정산하는 방식이 된다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/8866ac60-874e-494d-be0f-2b055390880d/-/preview/" style="height: 192px; width: 600px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/30631.%E2%80%85%EB%A0%89%EC%8B%9C%EC%98%A4/0d53d510.png" data-original-src="https://upload.acmicpc.net/8866ac60-874e-494d-be0f-2b055390880d/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 192px; width: 600px;" /></p>
 
 <p>턴이 끝나고 남아있는 카드의 개수가 참가자들이 앉아있는 순서대로 주어진다고 할 때, 좋은 정산 방식의 점수 전달 횟수를 구해보자.</p>
 

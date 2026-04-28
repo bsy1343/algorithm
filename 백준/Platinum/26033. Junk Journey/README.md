@@ -20,7 +20,7 @@
 
 <p>The mall will soon open. You need to find a way to get all the scooters to the depot in at most $10^5$ seconds.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/d493510b-f5bd-4cbb-be28-3dee35417e7e/-/preview/" style="width: 224px; height: 228px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/26033.%E2%80%85Junk%E2%80%85Journey/75113bc0.png" data-original-src="https://upload.acmicpc.net/d493510b-f5bd-4cbb-be28-3dee35417e7e/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 224px; height: 228px;" /></p>
 
 <p style="text-align: center;">A picture of Sample Input 2. The two leftmost scooters can be pushed in the depot by moving up three times and moving right twice.</p>
 

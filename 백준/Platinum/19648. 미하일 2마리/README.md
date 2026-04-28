@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/b905d9c8-e386-470b-a776-3bb2bcf0dbbb/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/19648.%E2%80%85%EB%AF%B8%ED%95%98%EC%9D%BC%E2%80%852%EB%A7%88%EB%A6%AC/4bf17a30.png" data-original-src="https://upload.acmicpc.net/b905d9c8-e386-470b-a776-3bb2bcf0dbbb/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>메이플스토리에는 235레벨 이후에 갈 수 있는 에스페라란 지역이 있다. &quot;거울에 비친 빛의 신전&quot;이&nbsp;사냥 효율이 상당히 좋아서 인기가 많다. 여기서 사냥하는 것을 <strong>신전 사냥</strong>이라고 한다. 위의&nbsp;그림은 해당 지역을&nbsp;그래프로 나타낸 것이다.</p>
 

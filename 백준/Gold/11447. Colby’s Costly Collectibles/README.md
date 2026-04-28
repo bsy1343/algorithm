@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11447/1.png" style="float:right; height:261px; width:230px" />At the Colby&rsquo;s Costly Collectibles workshop, special jewels are manufactured. In his production process Colby first creates a large grid of stones, each of which has the shape of an equilateral triangle. From this grid he cuts out all kinds of shapes which he sells as pieces of jewellery. Customers can choose their preferred shape according to the following basic rules:</p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/11447.%E2%80%85Colby%E2%80%99s%E2%80%85Costly%E2%80%85Collectibles/dfb7d48c.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11447/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="float:right; height:261px; width:230px" />At the Colby&rsquo;s Costly Collectibles workshop, special jewels are manufactured. In his production process Colby first creates a large grid of stones, each of which has the shape of an equilateral triangle. From this grid he cuts out all kinds of shapes which he sells as pieces of jewellery. Customers can choose their preferred shape according to the following basic rules:</p>
 
 <ol>
 	<li>Cuts can only be made along the edges of the triangles.</li>
@@ -35,9 +35,9 @@
 <ul>
 	<li>One line with a single integer C, the number of cuts made. This number satisfies 3 &le; C &le; 100.</li>
 	<li>Then C lines follow, describing the boundary of the jewel in counterclockwise orientation. Each line starts with a single letter x, y or z, denoting the direction in which to move, followed by an integer denoting the number of steps. The directions correspond with the axes depicted below:<br />
-	<img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11447/2.png" style="height:65px; width:92px" /><br />
+	<img alt="" src="%EB%B0%B1%EC%A4%80/Gold/11447.%E2%80%85Colby%E2%80%99s%E2%80%85Costly%E2%80%85Collectibles/70b6b203.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11447/2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:65px; width:92px" /><br />
 	To further illustrate this, the first test case below describes a single triangle, starting from the lower left corner:<br />
-	<img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11447/3.png" style="height:48px; width:55px" /><br />
+	<img alt="" src="%EB%B0%B1%EC%A4%80/Gold/11447.%E2%80%85Colby%E2%80%99s%E2%80%85Costly%E2%80%85Collectibles/fb40e533.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11447/3.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:48px; width:55px" /><br />
 	(First take one step in the x direction, then one step in the z direction and finally one step in the negative y direction.)</li>
 </ul>
 

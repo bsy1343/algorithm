@@ -18,7 +18,7 @@
 
 <p>The Impressively Calculable Pyrotechnics Company has been contracted to provide certain stage effects for a rock festival. In particular, fire is requested (because fire makes the crowd go wild). In order to pull this off, the main stage is outfitted with a series of tubes, each specially calibrated to deliver a flame burst of a particular luminosity. In all, there are 18 numbered tubes arranged on the stage as follows:</p>
 
-<p style="text-align: center;"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11538/1.png" style="height:262px; width:423px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/11538.%E2%80%85Pyro%E2%80%85Tubes/f10fa1fd.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11538/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:262px; width:423px" /></p>
 
 <p style="text-align: center;">Figure H.1: Pyro tube numbering</p>
 
@@ -26,7 +26,7 @@
 
 <p>To achieve a specific luminosity, multiple tubes can be activated to fire simultaneously. The luminosity achieved is the sum of the individual luminosities of the activated tubes when fired. The total luminosity is represented by a single integer L. The software used to control the system accepts the value of L as an input argument, and determines which tubes need to be activated to achieve that luminosity (and which remain deactivated).</p>
 
-<p style="text-align: center;"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11538/2.png" style="height:149px; width:193px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/11538.%E2%80%85Pyro%E2%80%85Tubes/7f83dbe0.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11538/2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:149px; width:193px" /></p>
 
 <p style="text-align: center;">Figure H.2: Pyro tube states</p>
 
@@ -34,13 +34,13 @@
 
 <p>Figure H.3 shows two groups of tubes that have two differences: Tube 7 is activated on the left and deactivated on the right, while Tube 8 is deactivated on the left and activated on the right.</p>
 
-<p style="text-align: center;"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11538/3.png" style="height:209px; width:591px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/11538.%E2%80%85Pyro%E2%80%85Tubes/7af1c386.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11538/3.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:209px; width:591px" /></p>
 
 <p style="text-align: center;">Figure H.3: Pyro tube states for requested luminosity (left) and 2 state changes (right)</p>
 
 <p>Figure H.4 illustrates tube states for a requested L-value of 45 393 on the left, while Tube 10 is activated in the group on the right to produce an L-value of 45 905:</p>
 
-<p style="text-align: center;"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11538/4.png" style="height:218px; width:592px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/11538.%E2%80%85Pyro%E2%80%85Tubes/8351af20.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11538/4.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:218px; width:592px" /></p>
 
 <p style="text-align: center;">Figure H.4: Pyro tube states for requested luminosity (left) and 1 state change (right)</p>
 

@@ -20,7 +20,7 @@
 
 <p>중앙 정점은 모든 정점으로 이르는 비용의 합이 가장 작은 정점이다. 트리의 정점 개수가 작은 경우에는 모든 경우의 수를 다 계산해보는 프로그램을 이용해 쉽게 구할 수 있다.</p>
 
-<p><img alt="" src="/upload/images/treemedian.gif" style="height:156px; opacity:0.9; width:250px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/7812.%E2%80%85%EC%A4%91%EC%95%99%E2%80%85%ED%8A%B8%EB%A6%AC/0fbdc97d.gif" data-original-src="https://www.acmicpc.net/upload/images/treemedian.gif" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:156px; opacity:0.9; width:250px" /></p>
 
 <p>위의 그림은 가중치가 있는 트리로, 정점의 개수는 5개이다. 이 트리의 중앙 정점은 B이다.</p>
 

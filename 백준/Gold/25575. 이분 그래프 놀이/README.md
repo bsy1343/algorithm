@@ -34,7 +34,7 @@
 
 <p>예를 들어 X = {x<sub>1</sub>, x<sub>2</sub>}, Y = {y<sub>1</sub>, y<sub>2</sub>}, E = {(x<sub>1</sub>, y<sub>1</sub>), (x<sub>2</sub>, y<sub>1</sub>), (x<sub>2</sub>, y<sub>2</sub>)}라 하자 (아래 그림 참고).</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/48591093-e5a3-4c92-ae62-90cd5a139c79/-/preview/" style="height: 250px; width: 290px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/25575.%E2%80%85%EC%9D%B4%EB%B6%84%E2%80%85%EA%B7%B8%EB%9E%98%ED%94%84%E2%80%85%EB%86%80%EC%9D%B4/650f403e.png" data-original-src="https://upload.acmicpc.net/48591093-e5a3-4c92-ae62-90cd5a139c79/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 250px; width: 290px;" /></p>
 
 <p>이 때 위 규칙에 따라 노드들에 가중치를 부여하는 방법은 총 2! &times; 2! = 4가지 존재한다.</p>
 
@@ -49,7 +49,7 @@
 
 <p>마침 이를 지켜보던 Alice는 새로운 놀이를 제안했다. 그래프 H의 간선 중 임의로 i번째 간선을 지워 새로운 이분 그래프를 얻을 수 있는데, 이를 H<sub>i</sub>라 하자 (아래 그림 참고).</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/85152b30-80e3-4984-ae32-5ee6a4287afd/-/preview/" style="height: 264px; width: 290px;" /><img alt="" src="https://upload.acmicpc.net/3ef6d24a-139f-4d5e-89db-1a5f962bed5b/-/preview/" style="height: 265px; width: 290px;" /><img alt="" src="https://upload.acmicpc.net/999d09b9-61b2-4afa-a6b0-f045eabba248/-/preview/" style="height: 266px; width: 290px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/25575.%E2%80%85%EC%9D%B4%EB%B6%84%E2%80%85%EA%B7%B8%EB%9E%98%ED%94%84%E2%80%85%EB%86%80%EC%9D%B4/ea1f05eb.png" data-original-src="https://upload.acmicpc.net/85152b30-80e3-4984-ae32-5ee6a4287afd/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 264px; width: 290px;" /><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/25575.%E2%80%85%EC%9D%B4%EB%B6%84%E2%80%85%EA%B7%B8%EB%9E%98%ED%94%84%E2%80%85%EB%86%80%EC%9D%B4/2dea830f.png" data-original-src="https://upload.acmicpc.net/3ef6d24a-139f-4d5e-89db-1a5f962bed5b/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 265px; width: 290px;" /><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/25575.%E2%80%85%EC%9D%B4%EB%B6%84%E2%80%85%EA%B7%B8%EB%9E%98%ED%94%84%E2%80%85%EB%86%80%EC%9D%B4/2276a2ce.png" data-original-src="https://upload.acmicpc.net/999d09b9-61b2-4afa-a6b0-f045eabba248/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 266px; width: 290px;" /></p>
 
 <p>S(H<sub>i</sub>)는 그래프 H<sub>i</sub>의 &quot;최대 점수&quot;이며 상기한 정의에 따라 구할 수 있다. 예를 들어 위의 예제에서 H<sub>1</sub>은 원래 그래프 H에서 (x<sub>1</sub>, y<sub>1</sub>)을 삭제한 그래프이며, 이 때 S(H<sub>1</sub>)은 7이다 (이를 달성하려면 v<sub>1</sub> = 1, v<sub>2</sub> = 2 이어야 한다). 같은 예제에서 H<sub>2</sub>은 (x<sub>2</sub>, y<sub>1</sub>)을 삭제한 그래프이며, 이 때 (v<sub>1</sub>, v<sub>2</sub>, w<sub>1</sub>, w<sub>2</sub>) 값에 관계없이 S(H<sub>2</sub>)는 6이다. S(H<sub>3</sub>)은 7이며, 따라서 이 경우 S(H<sub>1</sub>), S(H<sub>2</sub>), S(H<sub>3</sub>) 의 최댓값은 7이다.</p>
 

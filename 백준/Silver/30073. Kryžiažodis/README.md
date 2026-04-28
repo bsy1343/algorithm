@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p><img alt="" src="https://upload.acmicpc.net/99a5a811-b38c-45ca-9b59-ef1273ca96af/-/preview/" style="width: 163px; height: 236px; float: right;" />Brigita nusprendė sudaryti kryžiažodį savo jaunesniajam broliui, o kad užduotis nepasirodytų jam per sunki, kryžiažodis bus tik i&scaron; trijų žodžių. Tinkamas kryžiažodis tenkina &scaron;ias taisykles:</p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/30073.%E2%80%85Kry%C5%BEia%C5%BEodis/4d3b265d.png" data-original-src="https://upload.acmicpc.net/99a5a811-b38c-45ca-9b59-ef1273ca96af/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 163px; height: 236px; float: right;" />Brigita nusprendė sudaryti kryžiažodį savo jaunesniajam broliui, o kad užduotis nepasirodytų jam per sunki, kryžiažodis bus tik i&scaron; trijų žodžių. Tinkamas kryžiažodis tenkina &scaron;ias taisykles:</p>
 
 <ul>
 	<li>Kryžiažodyje žodžiai ra&scaron;omi eilute (horizontaliai) arba stulpeliu (vertikaliai)</li>

@@ -38,6 +38,6 @@
 
 <p>Se Figure 1 f&ouml;r en f&ouml;rklaring av indataexemplet. De svarta pilarna illustrerar det n&ouml;dv&auml;ndiga avst&aring;ndet $1$ mellan deltagarna och v&auml;ggarna.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/15e81f6b-ea8a-43f2-8c6e-40fa225a23bd/-/preview/" style="width: 200px; height: 101px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/26891.%E2%80%85T%C3%A4vlingssal/1f634995.png" data-original-src="https://upload.acmicpc.net/15e81f6b-ea8a-43f2-8c6e-40fa225a23bd/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 200px; height: 101px;" /></p>
 
 <p style="text-align: center;">En illustration av en optimal l&ouml;sning f&ouml;r Sample Input 1.</p>

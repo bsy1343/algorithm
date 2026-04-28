@@ -24,7 +24,7 @@
 
 <p>단어의 개수가 유한개인 언어가 주어진다면, 항상 이 언어의 DFA를 만들 수 있다. 왼쪽 그림은 fix, foo, ox로 이루어진 언어를 DFA로 나타낸 것이다. 하지만, 이 DFA의 상태는 총 7개가 있고 상태의 개수가 가장 적은 경우가 아니다. 오른쪽 그림은 상태의 수가 5개이고 이 언어를 5개보다 적은 상태로 나타낼 수 없다.</p>
 
-<p><img alt="" src="/upload/images/dfa.png" style="height:130px; width:420px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/3593.%E2%80%85DFA/414787eb.png" data-original-src="https://www.acmicpc.net/upload/images/dfa.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:130px; width:420px" /></p>
 
 <p>어떤 언어가 주어졌을 때, 이 언어의 DFA를 만드늗네 필요한 상태의 최소 개수를 구하는 프로그램을 작성하시오.</p>
 

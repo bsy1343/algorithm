@@ -22,7 +22,7 @@
 
 <p>You are to write a program that computes the location of and distance to a buried treasure, given a &lsquo;traditional&rsquo; map.</p>
 
-<p style="text-align: center;"><img alt="" src="/upload/images2/treasure(1).png" style="height:219px; width:516px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/6314.%E2%80%85There%E2%80%99s%E2%80%85treasure%E2%80%85everywhere!/ab07b907.png" data-original-src="https://www.acmicpc.net/upload/images2/treasure(1).png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:219px; width:516px" /></p>
 
 ### 입력
 

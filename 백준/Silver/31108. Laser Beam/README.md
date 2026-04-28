@@ -18,7 +18,7 @@
 
 <p>There are two infinite flat mirrors located at an angle $\alpha$ relative to each other so that they can be considered as rays on the plane when viewed from the side. Through a tiny hole in one of the mirrors, a laser beam is launched at an angle $\beta$ as shown in the figure below:</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/567f4721-c70d-4626-862c-95eb3f248572/-/preview/" style="width: 250px; height: 142px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/31108.%E2%80%85Laser%E2%80%85Beam/fe1f353a.png" data-original-src="https://upload.acmicpc.net/567f4721-c70d-4626-862c-95eb3f248572/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 250px; height: 142px;" /></p>
 
 <p>Your task is to count the number of reflections of the laser beam from the mirrors before it goes to infinity. The angle of incidence of the beam on the mirror always coincides with the angle of reflection. The hole through which the beam is launched is extremely small, so we can assume that if the beam suddenly hits the hole, it will still be completely reflected according to the usual rules.</p>
 
@@ -34,4 +34,4 @@
 
 <p>In the first example, the beam is reflected as follows:</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/791ee154-01fa-499d-963b-932338d4833b/-/preview/" style="width: 250px; height: 113px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/31108.%E2%80%85Laser%E2%80%85Beam/4a5acafd.png" data-original-src="https://upload.acmicpc.net/791ee154-01fa-499d-963b-932338d4833b/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 250px; height: 113px;" /></p>

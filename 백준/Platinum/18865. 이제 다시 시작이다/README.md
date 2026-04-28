@@ -35,7 +35,7 @@
 	<li>2 V<sub>i</sub>&nbsp;: 현재까지 설치된 스피커의 개수가 k개이고, 이들&nbsp;스피커의 볼륨이 모두 V<sub>i</sub>일 때, (훈련소 내부에서&nbsp;1번 스피커의 음악이&nbsp;들리는 영역의 넓이) +&nbsp;(훈련소 내부에서 2번 스피커의 음악이&nbsp;들리는 영역의 넓이) + ... + (훈련소 내부에서 k번 스피커의 음악이&nbsp;들리는 영역의 넓이) 를 계산하라. 이 값이 정수가 아닐 수도 있으므로, <strong>계산한&nbsp;값의 2배를 출력하라</strong>. 합집합이 아니기 때문에, 한 영역에서 여러 스피커의 소리를 들을 수 있으면 여러 번 센다는 것에 유의하라.</li>
 </ul>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/3a8e1038-286b-44d5-9608-ec8c6800ad24/" style="width: 650px; height: 447px; margin-left: 0px; margin-right: 0px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/18865.%E2%80%85%EC%9D%B4%EC%A0%9C%E2%80%85%EB%8B%A4%EC%8B%9C%E2%80%85%EC%8B%9C%EC%9E%91%EC%9D%B4%EB%8B%A4/2d25793e.png" data-original-src="https://upload.acmicpc.net/3a8e1038-286b-44d5-9608-ec8c6800ad24/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 650px; height: 447px; margin-left: 0px; margin-right: 0px;" /></p>
 
 <p>실험들을 해결하고 욱제의 예술(볼륨)을 온 몸으로 느껴보자!</p>
 

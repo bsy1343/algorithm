@@ -20,7 +20,7 @@
 
 <p>오각형을 삼각분할하는 방법은 총 다섯가지가 있으며, 아래 그림과 같다.</p>
 
-<p><img alt="" src="/upload/images/tri.png" style="height:124px; width:841px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/7737.%E2%80%85%EC%82%BC%EA%B0%81%EB%B6%84%ED%95%A0/1c64430f.png" data-original-src="https://www.acmicpc.net/upload/images/tri.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:124px; width:841px" /></p>
 
 <p>T<sub>n</sub>을 n각형을 삼각분할하는 방법의 수라고 했을 때, T<sub>3</sub> + T<sub>4</sub> + ... + T<sub>n</sub>을 구하는 프로그램을 작성하시오.</p>
 

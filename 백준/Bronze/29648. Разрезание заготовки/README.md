@@ -20,7 +20,7 @@
 
 <p>Теперь полотно показалось ей слишком высоким, и она сделала горизонтальный разрез, убрав с заготовки сверху полосу высотой $b$. Для того, чтобы убедиться, что полученное полотно подойдет для ее работы, она вычислила его площадь $S$ и записала ее на листок бумаги.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/587fc53d-a4cf-45e1-b7a0-bca79268282a/-/preview/" style="width: 178px; height: 194px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/29648.%E2%80%85%D0%A0%D0%B0%D0%B7%D1%80%D0%B5%D0%B7%D0%B0%D0%BD%D0%B8%D0%B5%E2%80%85%D0%B7%D0%B0%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B8/d9aef557.png" data-original-src="https://upload.acmicpc.net/587fc53d-a4cf-45e1-b7a0-bca79268282a/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 178px; height: 194px;" /></p>
 
 <p>Через несколько часов работы Оля сочла свое творение законченным и достойным внимания публики, поэтому ушла с ним на фестиваль в центр города.</p>
 

@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/c0aa94ec-359c-429c-813f-a3b46f131b2e/-/preview/" style="width: 237px; height: 225px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/7909.%E2%80%85Ants/aa84217d.png" data-original-src="https://upload.acmicpc.net/c0aa94ec-359c-429c-813f-a3b46f131b2e/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 237px; height: 225px;" /></p>
 
 <p>Computer geeks like trees. Ants also like trees. Therefore we are given a tree with two ants walking on it &mdash; the Left Ant and the Right Ant &mdash; in a way shown in the above figure (the ants walk along the path depicted with a dotted line). They start their journey at the lower end of the trunk, on its opposite sides. The Left Ant needs 2 seconds to walk along a single edge of the tree if walking from the root (upwards), and 1 second if walking towards the root (downwards). The Right Ant is two times faster. When the two ants meet, they both turn around and start walking in the opposite directions. If any of the ants steps from the tree to the ground, it immediately starts to climb on the opposite side of the trunk. Apart from that, the ants are so tiny that they would not be visible even under a microscope (they are depicted larger in the figure on purpose). Your task is to write a program that computes the moment at which the ants turn around for the second time.</p>
 

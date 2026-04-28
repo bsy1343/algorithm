@@ -22,7 +22,7 @@
 
 <p>Help Luke by writing a program to count how many unique simple loops there are in each transit system. The following figures illustrate the transit stations (numbered ovals) and one-way connections (arrows) of the sample input.</p>
 
-<p style="text-align:center"><img alt="" src="/upload/images2/loopy.png" style="height:236px; width:645px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/10496.%E2%80%85Loopy%E2%80%85transit/64d7a2ca.png" data-original-src="https://www.acmicpc.net/upload/images2/loopy.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:236px; width:645px" /></p>
 
 ### 입력
 

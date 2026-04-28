@@ -18,7 +18,7 @@
 
 <p><strong>이 문제는 &quot;<a href="/problem/24049">정원&nbsp;(Easy)</a>&quot; 문제와&nbsp;$N$,&nbsp;$M$의 제한을 제외하고 같은 문제이다.</strong></p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/956f649f-5bb4-4bd8-9f9a-df6a535d3cc4/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/24050.%E2%80%85%EC%A0%95%EC%9B%90%E2%80%85(Hard)/e4880d50.png" data-original-src="https://upload.acmicpc.net/956f649f-5bb4-4bd8-9f9a-df6a535d3cc4/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>정원사 지은이에게는 세로 $N$, 가로 $M$ 크기의 직사각형 모양 정원이 있다. 정원의 가장자리에 꽃들이 피어 있는 것을 본 지은이는 정원에도 꽃을 심기로 결정하였다. 지은이는&nbsp;정원에 어떻게&nbsp;꽃을 심을지에 대한 규칙을 정했는데,&nbsp;그 규칙은 아래와 같다.</p>
 

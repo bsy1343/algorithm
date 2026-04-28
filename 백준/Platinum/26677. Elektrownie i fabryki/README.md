@@ -40,4 +40,4 @@
 
 <p>Wyjaśnienie przykładu: Poniżej zilustrowano test przykładowy zawierający n = 17 miast, w kt&oacute;rych zostaną wybudowane trzy fabryki (białe k&oacute;łka) i cztery elektrownie (czarne k&oacute;łka). Zaznaczono także poprawną sieć energetyczną o długości 12 kilobajtometr&oacute;w (szare odcinki).</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/fa69de70-0bc3-4b8f-9408-b98c86918d60/-/preview/" style="width: 349px; height: 46px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/26677.%E2%80%85Elektrownie%E2%80%85i%E2%80%85fabryki/732b6cd9.png" data-original-src="https://upload.acmicpc.net/fa69de70-0bc3-4b8f-9408-b98c86918d60/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 349px; height: 46px;" /></p>

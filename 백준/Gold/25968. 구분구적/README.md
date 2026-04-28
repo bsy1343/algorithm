@@ -20,7 +20,7 @@
 
 <p>구분구적법은 주어진 함수의 적분값의 근사값을 구하기 위한 방법이다. 어떤 함수 $f(x)$의 구간 $[a, b]$ $(a &lt; b)$에서의 적분값의 근사값을 구간 $[a, b]$를 $k$ 개의 하위 구간 $[c, d]$ $(a \le c &lt; d \le b)$으로 나눈 후 하위 구간 $[c, d]$ 안의 어떤 값 $e$의 함수값 $f(e)$를 높이로 두어 직사각형의 넓이 $(d-c) \times f(e)$의 합으로 계산한다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/7d2c8617-8828-4ca6-9a31-57e3ca583433/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/25968.%E2%80%85%EA%B5%AC%EB%B6%84%EA%B5%AC%EC%A0%81/b78ad949.png" data-original-src="https://upload.acmicpc.net/7d2c8617-8828-4ca6-9a31-57e3ca583433/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>구간의 크기는 임의로 설정할 수 있으나, 일반적으로는 모든 구간의 크기를 동일하게 두는 것이 일반적이며, 이 문제에서도 그렇게 계산할 것이다. 또한 구간의 넓이를 계산할 때 높이를 구간의 중간값 $f \left(e=\frac{c+d}{2}\right)$으로 계산한다.</p>
 

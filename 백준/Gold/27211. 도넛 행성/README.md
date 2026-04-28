@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/c4db35f4-525e-4354-9063-b88870d09f6e/-/preview/" style="height: 252px; width: 300px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/27211.%E2%80%85%EB%8F%84%EB%84%9B%E2%80%85%ED%96%89%EC%84%B1/46a79fc2.png" data-original-src="https://upload.acmicpc.net/c4db35f4-525e-4354-9063-b88870d09f6e/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 252px; width: 300px;" /></p>
 
 <p>준겸이는 $N \times M$칸으로 이루어진 도넛 모양의 행성에 살고 있다. 준겸이가 살고 있는 행성에는 위 그림처럼 격자 모양으로 줄이 그어져 있다. 행성의 각 칸은 숲으로 막혀 있거나, 지나갈 수 있도록 비어 있다. </p>
 

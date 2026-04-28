@@ -22,7 +22,7 @@
 
 <p>Azber과 Biou는 Azber를 시작으로 턴을 번갈아 가면서 로봇을 조종하는 게임을 한다. 게임을 시작할 때 로봇을 놓을 방은 Azber와 Biou가 합의하여 결정한다. 아래의 그림은 $N=3$이고 로봇이 $5$번 방에서 시작하는 게임을 묘사한다. </p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/d48ad3dc-7287-4d97-a5f3-4b67ab3607f4/-/preview/" style="height: 286px; width: 500px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/27528.%E2%80%85Azber%E2%80%85is%E2%80%85playing%E2%80%85at%E2%80%85Biou's%E2%80%85house/eeb90f9d.png" data-original-src="https://upload.acmicpc.net/d48ad3dc-7287-4d97-a5f3-4b67ab3607f4/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 286px; width: 500px;" /></p>
 
 <p>각 플레이어는 자신의 차례에 다음의 행동 중 하나를 선택할 수 있다.</p>
 

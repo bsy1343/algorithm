@@ -18,7 +18,7 @@
 
 <p>&quot;I love Croatia&quot;는 네델란드의 인기 티비 프로그램 &quot;I love my country&quot;의 포맷 라이센스를 수입해 만든 크로아티아의 티비쇼이다. 이 티비쇼에서 가장 인기있는 게임은 &quot;Happy Birthday&quot;이며, 이 게임에 대한 문제를 풀게 된다.</p>
 
-<p><img alt="" src="/upload/images/croatia.png" style="float:right; height:96px; width:100px" />플레이어 8명이 오른쪽 그림과 같이 원을 이루어서 앉아있다. 한 사람은 게임이 시작한지 3분 30초가 지나면 터지는 폭탄을 들고 있다. 폭탄을 들고있는 사람에게 질문을 하면서 게임은 시작된다. 어떤 문제의 정답을 맞추지 못한 경우나, 문제를 스킵한 경우에는 그 즉시 다음 문제를 받게 된다. 문제의 정답을 맞춘 경우에는 폭탄을 바로 왼쪽에 있는 플레이어에게 넘겨주고, 넘겨받은 플레이어에게 다음 질문이 나가게 된다.</p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/9517.%E2%80%85%EC%95%84%EC%9D%B4%E2%80%85%EB%9F%AC%EB%B8%8C%E2%80%85%ED%81%AC%EB%A1%9C%EC%95%84%ED%8B%B0%EC%95%84/5699ff1e.png" data-original-src="https://www.acmicpc.net/upload/images/croatia.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="float:right; height:96px; width:100px" />플레이어 8명이 오른쪽 그림과 같이 원을 이루어서 앉아있다. 한 사람은 게임이 시작한지 3분 30초가 지나면 터지는 폭탄을 들고 있다. 폭탄을 들고있는 사람에게 질문을 하면서 게임은 시작된다. 어떤 문제의 정답을 맞추지 못한 경우나, 문제를 스킵한 경우에는 그 즉시 다음 문제를 받게 된다. 문제의 정답을 맞춘 경우에는 폭탄을 바로 왼쪽에 있는 플레이어에게 넘겨주고, 넘겨받은 플레이어에게 다음 질문이 나가게 된다.</p>
 
 <p>게임이 시작했을 때 폭탄을 들고 있는 사람의 번호와 처음 N개의 질문을 대답할때까지 걸린 시간이 주어진다. 이때, 폭탄을 터뜨린 사람의 번호를 구하는 프로그램을 작성하시오.</p>
 

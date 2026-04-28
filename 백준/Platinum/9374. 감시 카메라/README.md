@@ -22,7 +22,7 @@
 
 <p>카메라가 촬영할 수 있는 영역의 영역은 벽과 45도로 교차하는 직선이다. 카메라가 촬영할 수 있는 영역을 구하는 프로그램을 작성하시오.</p>
 
-<p><img alt="" src="/upload/images/hpolygon.png" style="height:388px; opacity:0.9; width:454px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/9374.%E2%80%85%EA%B0%90%EC%8B%9C%E2%80%85%EC%B9%B4%EB%A9%94%EB%9D%BC/96cf31b5.png" data-original-src="https://www.acmicpc.net/upload/images/hpolygon.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:388px; opacity:0.9; width:454px" /></p>
 
 <p>위의 그림은 문제의 첫 번째 예제를 그림으로 나타낸 것이다. 카메라는 점으로 나타나 있고, 촬영할 수 있는 영역은 회색으로 칠해져 있다. 카메라가 촬영할 수 있는 영역은 방 전체 면적의 71.25% 이다.</p>
 

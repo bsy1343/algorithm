@@ -22,7 +22,7 @@
 
 <p>예환이는 한별이 배경을 얻기 위해 solved.ac에서 열심히 스트릭을 이어 나가고 있었다. 그러던 어느 날, 깜빡하고 잠이 들어 문제를 풀지 못했다! 117일 동안 유지했던 스트릭이 끊어진 예환이는, &#39;스트릭 프리즈&#39;라는 아이템을 계속 구입한 뒤 장착해서 스트릭을 더 이상 끊기지 않도록 할 것이다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/1396a02e-b2a3-40b3-a7dc-a224fee2b9b6/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/30395.%E2%80%85%EB%82%B4%E2%80%85%EC%8A%A4%ED%8A%B8%EB%A6%AD%EC%9D%84%E2%80%85%EB%8F%8C%EB%A0%A4%EB%82%B4!/8f2c53c1.png" data-original-src="https://upload.acmicpc.net/1396a02e-b2a3-40b3-a7dc-a224fee2b9b6/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p style="text-align: center;">[스트릭 프리즈]</p>
 

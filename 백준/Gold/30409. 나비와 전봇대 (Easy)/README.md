@@ -30,7 +30,7 @@
 	<li>나비는 연결한 전선의 길이 합이 최대가 되도록 전선을 연결하려고 한다. 만약 그런 경우가 여러 가지 있다면, 연결 비용의 합이 최소인 방법으로 연결한다.</li>
 </ul>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/177acd03-4994-4d9b-8dc0-52f4696b6d25/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/30409.%E2%80%85%EB%82%98%EB%B9%84%EC%99%80%E2%80%85%EC%A0%84%EB%B4%87%EB%8C%80%E2%80%85(Easy)/eb9c5ffc.png" data-original-src="https://upload.acmicpc.net/177acd03-4994-4d9b-8dc0-52f4696b6d25/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>준혁이는 나비에게 $Q$개의 작업을 준다. 작업마다 시작 전봇대가 $p$일 때 조건을 만족하게 연결 비용의 합의 최솟값을 구해보자.</p>
 

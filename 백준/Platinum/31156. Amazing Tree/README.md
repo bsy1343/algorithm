@@ -49,18 +49,18 @@ fun dfs(v):
 
 <p>The first test looks as follows:</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/ea099afa-e54b-48ad-976f-c36500cc6e52/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/31156.%E2%80%85Amazing%E2%80%85Tree/5e2220fe.png" data-original-src="https://upload.acmicpc.net/ea099afa-e54b-48ad-976f-c36500cc6e52/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>By starting in vertex $1$ we can only get order $2\ 3\ 1$. By starting in vertex $2$ we can only get order $1\ 3\ 2$. By starting in vertex $3$ we can get two orders: $1\ 2\ 3$ and $2\ 1\ 3$. The lexicographically minimal of the four orders is $1\ 2\ 3$.</p>
 
 <p>The second test looks as follows:</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/e26941f6-2b83-4ab9-b436-63bb9f02c89f/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/31156.%E2%80%85Amazing%E2%80%85Tree/ac2adb85.png" data-original-src="https://upload.acmicpc.net/e26941f6-2b83-4ab9-b436-63bb9f02c89f/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>By starting in vertex $1$ we can get two orders: $2\ 3\ 1$ and $3\ 2\ 1$. By starting in vertex $2$ we can only get order $3\ 1\ 2$. By starting in vertex $3$ we can only get order $2\ 1\ 3$. The lexicographically minimal of the four orders is $2\ 1\ 3$.</p>
 
 <p>The third test looks as follows:</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/c093eb05-d894-4a70-a8f2-345af30f41c4/-/preview/" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/31156.%E2%80%85Amazing%E2%80%85Tree/d898fa8a.png" data-original-src="https://upload.acmicpc.net/c093eb05-d894-4a70-a8f2-345af30f41c4/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>The lexicographically minimal order is $4\ 5\ 2\ 1\ 6\ 3\ 7$ it can be obtained by starting in node $7$.</p>

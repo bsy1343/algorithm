@@ -22,7 +22,7 @@
 
 <p>Например, вот так произойдет сдвиг для такого расположения людей:</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/ac375615-c202-4bed-92d2-d5dcba0d69e2/-/preview/" style="width: 451px; height: 204px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/28946.%E2%80%85%D0%9E%D1%87%D0%B5%D1%80%D0%B5%D0%B4%D1%8C%E2%80%85%D0%BA%E2%80%85%D0%B0%D1%82%D1%82%D1%80%D0%B0%D0%BA%D1%86%D0%B8%D0%BE%D0%BD%D1%83/af13dcd3.png" data-original-src="https://upload.acmicpc.net/ac375615-c202-4bed-92d2-d5dcba0d69e2/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 451px; height: 204px;" /></p>
 
 <p>В результате люди с номерами $5$ и $6$ уходят в очередь на аттракцион, а остальные продолжают играть.</p>
 

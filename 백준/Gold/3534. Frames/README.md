@@ -27,9 +27,9 @@
 <table class="table table-bordered td-center">
 	<tbody>
 		<tr>
-			<td><img alt="" src="https://upload.acmicpc.net/0ea4fa0f-b6ef-442b-b5fa-b72474a43105/-/preview/" style="width: 182px; height: 121px;" /> &nbsp;</td>
-			<td><img alt="" src="https://upload.acmicpc.net/85484c82-d350-49b7-a689-bc33b02412b6/-/preview/" style="width: 184px; height: 121px;" /> &nbsp;</td>
-			<td><img alt="" src="https://upload.acmicpc.net/61823dc4-56d4-44a6-b5e5-e99c1a161e95/-/preview/" style="width: 123px; height: 121px;" /> &nbsp;</td>
+			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/3534.%E2%80%85Frames/a9304563.png" data-original-src="https://upload.acmicpc.net/0ea4fa0f-b6ef-442b-b5fa-b72474a43105/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 182px; height: 121px;" /> &nbsp;</td>
+			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/3534.%E2%80%85Frames/c21b12f4.png" data-original-src="https://upload.acmicpc.net/85484c82-d350-49b7-a689-bc33b02412b6/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 184px; height: 121px;" /> &nbsp;</td>
+			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/3534.%E2%80%85Frames/168d7889.png" data-original-src="https://upload.acmicpc.net/61823dc4-56d4-44a6-b5e5-e99c1a161e95/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 123px; height: 121px;" /> &nbsp;</td>
 		</tr>
 		<tr>
 			<td>Incorrect frames</td>

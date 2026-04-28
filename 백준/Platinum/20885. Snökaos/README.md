@@ -26,7 +26,7 @@
 
 <p>Notera att t&aring;g kan endast k&ouml;ra p&aring; sn&ouml;fria str&auml;ckor. Alla stationer har t&aring;g parkerade, s&aring; samtliga sn&ouml;fria str&auml;ckor kommer att kunna trafikeras, &auml;ven om stationerna inte kan n&aring;s fr&aring;n sp&aring;rets slutstationer. T&aring;gtrafiken &auml;r helt stoppad fram tills Fredrika &auml;r klar, s&aring; &auml;ven resen&auml;rer som fr&aring;n b&ouml;rjan har en sn&ouml;fri resv&auml;g r&auml;knas in i svaret.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/b0c05a66-716f-4216-99b4-e32277a3791b/-/preview/" style="width: 277px; height: 269px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/20885.%E2%80%85Sn%C3%B6kaos/d8b151bb.png" data-original-src="https://upload.acmicpc.net/b0c05a66-716f-4216-99b4-e32277a3791b/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 277px; height: 269px;" /></p>
 
 <p style="text-align: center;">Figure 1: Sample 1</p>
 

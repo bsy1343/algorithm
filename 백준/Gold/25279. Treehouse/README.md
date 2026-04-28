@@ -28,6 +28,6 @@
 
 ### 힌트
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/6c507007-df5f-4405-bb6d-f380971adb34/-/preview/" style="width: 250px; height: 250px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/25279.%E2%80%85Treehouse/9a32f892.png" data-original-src="https://upload.acmicpc.net/6c507007-df5f-4405-bb6d-f380971adb34/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 250px; height: 250px;" /></p>
 
 <p style="text-align: center;">Illustration of the two possible treehouse locations in sample 1.</p>

@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><img data-image="2bac06c4-3e43-4a4e-a817-0115df85cc78" src="https://upload.acmicpc.net/2bac06c4-3e43-4a4e-a817-0115df85cc78/-/preview/" style="width: 300px; height: 105px;" /></p>
+<p style="text-align: center;"><img data-image="2bac06c4-3e43-4a4e-a817-0115df85cc78" src="%EB%B0%B1%EC%A4%80/Silver/31924.%E2%80%85%ED%98%84%EB%8C%80%EB%AA%A8%EB%B9%84%EC%8A%A4%E2%80%85%ED%8A%B9%EB%B3%84%EC%83%81%EC%9D%98%E2%80%85%EC%A3%BC%EC%9D%B8%EA%B3%B5%EC%9D%80%3F%E2%80%852/38ac74db.png" data-original-src="https://upload.acmicpc.net/2bac06c4-3e43-4a4e-a817-0115df85cc78/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 300px; height: 105px;" /></p>
 
 <p>올해도 어김없이 현대모비스는 실력 있는 소프트웨어 인재를 양성하고 독려하기 위해 APC의 주최 동아리인 A.N.S.I.를 후원하고 있다. 올해 현대모비스는 2024 APC에 참가한 여러분들을 위해 특별상을 준비하였다.</p>
 

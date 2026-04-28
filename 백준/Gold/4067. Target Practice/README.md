@@ -20,7 +20,7 @@
 
 <p>For example, the following field of 10 targets can be covered in only four shots, as shown. (The first two numbers at each position indicate the position of the balloon, and the third number the height.)</p>
 
-<p><img alt="" src="/upload/images2/target.png" style="height:218px; width:337px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/4067.%E2%80%85Target%E2%80%85Practice/abce733e.png" data-original-src="https://www.acmicpc.net/upload/images2/target.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:218px; width:337px" /></p>
 
 <p>Your job is to determine the fewest number of shots necessary to hit all the targets in a given field.</p>
 

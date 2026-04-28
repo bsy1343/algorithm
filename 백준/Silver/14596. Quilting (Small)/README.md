@@ -18,13 +18,13 @@
 
 <p>이미지 퀼팅(Image Quilting)이란, 하나의 패턴 이미지를 여러 개 이어붙여서 큰 이미지를 만들어내는 것을 말한다. 하지만 단순히 이미지를 나란히 이어붙이는 것만으로는 자연스러운 이미지를 얻을 수 없다. 이어 붙여질 이미지의 경계가 서로 많이 다를 수 있기 때문이다.</p>
 
-<p style="text-align:center"><img alt="" src="http://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14596/1.png" style="height:135px; width:327px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/14596.%E2%80%85Quilting%E2%80%85(Small)/d83e1d0d.png" data-original-src="http://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14596/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:135px; width:327px" /></p>
 
 <p style="text-align:center">&lt;왼쪽부터 원본 이미지, 단순히 이어붙인 이미지, 최적화하여 이어붙인 이미지&gt;</p>
 
 <p>위와 같은 문제를 해결하고 위의 3번째 이미지같이 더욱 자연스러운 이미지를 얻기 위하여 아래와 같은 방법을 사용한다. <strong>이 문제에서는 편의상 높이가 같은 두 흑백 이미지를 좌우로 합치는 것만 고려한다.</strong></p>
 
-<p style="text-align:center"><strong><img alt="" src="http://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14596/2.png" style="height:48px; width:316px" /></strong></p>
+<p style="text-align:center"><strong><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/14596.%E2%80%85Quilting%E2%80%85(Small)/c6fec411.png" data-original-src="http://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14596/2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:48px; width:316px" /></strong></p>
 
 <p style="text-align:center">&lt;두 이미지를 포개어 자연스러운 경계를 선택하는 과정&gt;</p>
 
@@ -40,13 +40,13 @@
 	</li>
 </ul>
 
-<p style="text-align:center"><img alt="" src="http://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14596/3.png" style="height:151px; width:342px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/14596.%E2%80%85Quilting%E2%80%85(Small)/9f04588b.png" data-original-src="http://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14596/3.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:151px; width:342px" /></p>
 
 <p style="text-align:center">&lt;포개어진 5X10 영역에서 선택된 경계선 예시&gt;</p>
 
 <p>실제로 포개어진 영역에 존재할 수 있는 경계선은 경우의 수가 많기 때문에 이 중에 가장 자연스럽게 두 이미지를 이어붙일 수 있는 경계를 선택하여야 한다. &nbsp;경계선의 부자연스러움 정도는 경계선상의 존재하는 각 픽셀 위치에서의 B1 이미지의 픽셀과 B2 이미지의 픽셀의 색상 값의 차를 제곱하여 모두 더한 값으로 정의할 수 있다. 물론 가장 자연스러운 경계선은 이 중 부자연스러운 정도가 가장 낮은 경계선을 의미한다.</p>
 
-<p style="text-align:center"><img alt="" src="http://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14596/4.png" style="height:151px; width:422px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/14596.%E2%80%85Quilting%E2%80%85(Small)/b75f5c7f.png" data-original-src="http://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14596/4.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:151px; width:422px" /></p>
 
 <p style="text-align:center">&lt;포개어진 영역의 B1 이미지와 B2 이미지, 그리고 최적의 경계선&gt;</p>
 

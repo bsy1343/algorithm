@@ -20,7 +20,7 @@
 
 <p>Mr. Frog lives in a dry cell and can jump only from a dry cell to another dry cell on his wanderings around the marsh. Mr. Frog wants to visit his girlfriend, Ms. Toad, who also lives in a dry cell in the same marsh. But Mr. Frog is lazy, and wants to spend the minimum amount of energy in his jumping way to Ms. Toad&rsquo;s home. Mr. Frog knows how much energy he spends in any of his jumps. For any single jump, Mr. Frog always uses the following figure to determine which are the possible target cells from his current position (the cell marked F), and the corresponding energy spent in the jump, in calories. Any other cell is unreachable from Mr. Frog&rsquo;s current position with a single jump.</p>
 
-<p style="text-align: center;"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/5743/1.png" style="height:112px; width:129px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/5743.%E2%80%85Lazy%E2%80%85Jumping%E2%80%85Frog/7f68c97c.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/5743/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:112px; width:129px" /></p>
 
 <p>Your task is to determine the minimum amount of energy that Mr. Frog needs to spend to get from his home to Ms. Toad&rsquo;s home.</p>
 

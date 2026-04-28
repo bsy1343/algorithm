@@ -29,9 +29,9 @@
 <table align="center" border="0" cellpadding="0" cellspacing="1" class="table table-bordered" style="width: 500px;">
 	<tbody>
 		<tr>
-			<td style="text-align: center;"><img alt="네모네모 멈뭄미믜 저주" src="https://upload.acmicpc.net/61b1d902-703d-4d71-a609-899d78163bd4/-/preview/" style="width: 362px; height: 400px;" /></td>
-			<td style="text-align: center;"><img alt="동글동글 엉엉이의 저주" src="https://upload.acmicpc.net/cb35626c-6c70-4067-89a1-790e3f55d6b2/-/preview/" style="width: 244px; height: 400px;" /></td>
-			<td><img alt="섯섯시싀 저주" src="https://upload.acmicpc.net/7f24973e-3a4b-4eb6-a4f5-9cf64cacc9f6/-/preview/" style="width: 337px; height: 400px;" /></td>
+			<td style="text-align: center;"><img alt="네모네모 멈뭄미믜 저주" src="%EB%B0%B1%EC%A4%80/Platinum/27300.%E2%80%85%EC%84%AF%EC%84%AF%EC%8B%9C%EC%8B%80%E2%80%85%EC%A0%80%EC%A3%BC/910088f5.png" data-original-src="https://upload.acmicpc.net/61b1d902-703d-4d71-a609-899d78163bd4/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 362px; height: 400px;" /></td>
+			<td style="text-align: center;"><img alt="동글동글 엉엉이의 저주" src="%EB%B0%B1%EC%A4%80/Platinum/27300.%E2%80%85%EC%84%AF%EC%84%AF%EC%8B%9C%EC%8B%80%E2%80%85%EC%A0%80%EC%A3%BC/f8cc9ff7.png" data-original-src="https://upload.acmicpc.net/cb35626c-6c70-4067-89a1-790e3f55d6b2/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 244px; height: 400px;" /></td>
+			<td><img alt="섯섯시싀 저주" src="%EB%B0%B1%EC%A4%80/Platinum/27300.%E2%80%85%EC%84%AF%EC%84%AF%EC%8B%9C%EC%8B%80%E2%80%85%EC%A0%80%EC%A3%BC/49099bdc.png" data-original-src="https://upload.acmicpc.net/7f24973e-3a4b-4eb6-a4f5-9cf64cacc9f6/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 337px; height: 400px;" /></td>
 		</tr>
 	</tbody>
 </table>

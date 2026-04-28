@@ -48,4 +48,4 @@
 
 <p>The picture shows the polygons of the asteroids in sample tests.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/39393d5f-c0af-4cf1-8d7d-7e2fd5fddf5d/-/preview/" style="width: 562px; height: 211px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/19831.%E2%80%85Open%E2%80%85cup/c6c13df5.png" data-original-src="https://upload.acmicpc.net/39393d5f-c0af-4cf1-8d7d-7e2fd5fddf5d/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 562px; height: 211px;" /></p>

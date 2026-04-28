@@ -103,8 +103,8 @@
       "fetcher": "playwright",
       "params": {
         "url": "https://careers.lg.com/channel/detail/lgu/job_openings",
-        "selector": "a[href*=\"/apply/detail\"]",
-        "scrollPasses": 6,
+        "parseFromBodyText": true,
+        "scrollPasses": 14,
         "reloadOnFirstLoad": true
       },
       "enabled": true

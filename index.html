@@ -1661,9 +1661,13 @@
 
       // === Standing (상시 / undated) card ===
       if (standingCard) {
-        const standing = allJobs.filter(j => !this.parseDeadline(j.deadline));
+        // Sort by company so all postings from the same company appear together;
+        // also helps users locate a specific company quickly.
+        const standing = allJobs
+          .filter(j => !this.parseDeadline(j.deadline))
+          .sort((a, b) => (a.company || '').localeCompare(b.company || ''));
         standingCard.innerHTML = `<div class="jobs-list-title">♾️ 상시 채용 (${standing.length}건)</div>` +
-          (standing.length ? standing.slice(0, 40).map(j => this.jobItemHtml(j)).join('') : empty);
+          (standing.length ? standing.map(j => this.jobItemHtml(j)).join('') : empty);
       }
     },
 

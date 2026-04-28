@@ -158,6 +158,26 @@
       "url": "https://careers.lg.com/apply?c=CNS"
     },
     {
+      "company": "LG U+",
+      "companyId": "lguplus",
+      "title": "[정보보안센터] 보안솔루션 구축/운영 엔지니어 경력채용",
+      "department": "개인정보처리방침",
+      "location": "경력",
+      "deadline": "2026-05-06",
+      "deadlineTime": "23:00",
+      "url": "https://careers.lg.com/channel/detail/lgu/job_openings"
+    },
+    {
+      "company": "LG U+",
+      "companyId": "lguplus",
+      "title": "[CTO] GPU Software Engineer 채용 (경력/석·박사)",
+      "department": "",
+      "location": "",
+      "deadline": "2026-05-10",
+      "deadlineTime": "23:00",
+      "url": "https://careers.lg.com/channel/detail/lgu/job_openings"
+    },
+    {
       "company": "LG CNS",
       "companyId": "lgcns",
       "title": "[LG CNS] MES개발자 분야 모집(경력)",
@@ -987,28 +1007,6 @@
       "deadlineTime": "",
       "url": "https://careers.kakao.com/jobs/P-14276?skillSet=&part=TECHNOLOGY&company=KAKAO&keyword=&employeeType=&page=1",
       "_raw": "Data Analytics Engineer (경력) 영입마감일 영입종료시 근무지 직군 태그 #기타 회사정보 카카오 직원유형 정규직"
-    },
-    {
-      "company": "LG U+",
-      "companyId": "lguplus",
-      "title": "[CTO] GPU Software Engineer 채용 (경력/석·박사)",
-      "department": "",
-      "location": "",
-      "deadline": "",
-      "deadlineTime": "",
-      "url": "https://careers.lg.com/apply/detail?id=1001327",
-      "_raw": "[CTO] GPU Software Engineer 채용 (경력/석·박사)"
-    },
-    {
-      "company": "LG U+",
-      "companyId": "lguplus",
-      "title": "[정보보안센터] 보안솔루션 구축/운영 엔지니어 경력채용",
-      "department": "",
-      "location": "",
-      "deadline": "",
-      "deadlineTime": "",
-      "url": "https://careers.lg.com/apply/detail?id=1001257",
-      "_raw": "[정보보안센터] 보안솔루션 구축/운영 엔지니어 경력채용"
     },
     {
       "company": "현대자동차",

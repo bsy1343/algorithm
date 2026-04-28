@@ -97,21 +97,21 @@ async function fetchPlaywright(params) {
   try {
     await page.goto(url, { waitUntil: 'domcontentloaded', timeout: 30000 });
     await page.waitForTimeout(3500);
-    // Some SPAs (e.g. LG U+ careers channel) only show data after a reload.
+    // Some SPAs (e.g. LG U+ careers channel) only show data after a reload,
+    // and the metadata (D-N, dates) hydrates several seconds after the anchors appear.
     if (reloadOnFirstLoad) {
       await page.reload({ waitUntil: 'domcontentloaded' });
-      await page.waitForTimeout(3500);
+      await page.waitForTimeout(8000);
     }
     // For anchor-based extraction, wait until the selector actually appears (SPA hydration).
     if (selector) {
       try { await page.waitForSelector(selector, { timeout: 10000 }); } catch {}
-      // Wait until the anchor texts include date/D-N markers (LG careers loads
-      // metadata after the anchor element appears).
+      // Wait until anchor texts include date/D-N markers.
       try {
         await page.waitForFunction((sel) => {
           const list = [...document.querySelectorAll(sel)];
           return list.some(a => /D-\d+|\d{4}[.-]\d{1,2}[.-]\d{1,2}/.test(a.innerText || ''));
-        }, selector, { timeout: 8000 });
+        }, selector, { timeout: 16000 });
       } catch {}
     }
 
@@ -217,6 +217,12 @@ async function fetchPlaywright(params) {
       // Pattern C (LG CNS — 7 lines): co \n [co] title \n D-N \n date \n career \n co \n category
       const reC = /([^\n]+)\n\[[^\]]+\]\s*([^\n]{3,150})\n(D-\d+|상시|마감|채용시까지)\n(\d{4}\.\d{2}\.\d{2}[^\n]*)\n([^\n]+)\n([^\n]+)\n([^\n]+)/g;
       while ((m = reC.exec(text)) !== null) push(m[2], m[3], m[7], '', m[4]);
+      // Pattern D (LG U+ var1 — 4 lines): title \n career-type \n D-N \n date
+      const reD = /([^\n]{5,150})\n(경력|신입\/경력|신입|인턴|계약직)\n(D-\d+|상시|마감|채용시까지)\n(\d{4}\.\d{2}\.\d{2}[^\n]*)/g;
+      while ((m = reD.exec(text)) !== null) push(m[1], m[3], '', '', m[4]);
+      // Pattern E (LG U+ var2 — 5 lines): title \n D-N \n date \n co \n career
+      const reE = /([^\n]{5,150})\n(D-\d+|상시|마감|채용시까지)\n(\d{4}\.\d{2}\.\d{2}[^\n]*)\n([^\n]+)\n(경력|신입\/경력|신입|인턴|계약직)/g;
+      while ((m = reE.exec(text)) !== null) push(m[1], m[2], '', '', m[3]);
       return jobs;
     }
 

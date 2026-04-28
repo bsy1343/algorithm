@@ -1,0 +1,7 @@
+6 3
+RGB
+RBG
+GRB
+GBR
+BRG
+BGR

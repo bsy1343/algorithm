@@ -1,0 +1,5 @@
+[2026-04-28T00:56:24.204Z] begin: 23755 problems in tier range [1..20], delay 500ms
+[2026-04-28T00:56:53.825Z] progress 50/23755 | imported 43 refreshed 0 skipped 7 notFound 0 failed 0 (current id 1051)
+[2026-04-28T00:57:24.117Z] progress 100/23755 | imported 92 refreshed 0 skipped 8 notFound 0 failed 0 (current id 1103)
+[2026-04-28T00:57:54.345Z] progress 150/23755 | imported 140 refreshed 0 skipped 10 notFound 0 failed 0 (current id 1160)
+[2026-04-28T00:58:24.499Z] progress 200/23755 | imported 187 refreshed 0 skipped 13 notFound 0 failed 0 (current id 1224)

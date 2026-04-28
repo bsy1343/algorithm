@@ -30,3 +30,18 @@
 
  <p>첫째 줄에 가능한 블루레이 크기중 최소를 출력한다.</p>
 
+### 문제 제한
+
+시간 제한: 2 초, 메모리 제한: 128 MB
+
+### 통계
+
+제출: 50536, 정답: 18546, 맞힌 사람: 12933, 정답 비율: 34.873%
+
+### 힌트
+
+<p>강의는 총 9개이고, 블루레이는 총 3개 가지고 있다.</p>
+
+<p>1번 블루레이에 1, 2, 3, 4, 5, 2번 블루레이에 6, 7, 3번 블루레이에 8, 9 를 넣으면 각 블루레이의 크기는 15, 13, 17이 된다. 블루레이의 크기는 모두 같아야 하기 때문에, 블루레이의 크기는 17이 된다. 17보다 더 작은 크기를 가지는 블루레이를 만들 수 없다. </p>
+
+<p><iframe allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/w0w2Lixl5A8" width="560"></iframe></p>

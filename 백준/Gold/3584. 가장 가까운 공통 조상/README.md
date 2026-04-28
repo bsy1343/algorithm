@@ -22,7 +22,7 @@
 	<li>두 노드의 가장 가까운 공통 조상은, 두 노드를 모두 자손으로 가지면서 깊이가 가장 깊은(즉 두 노드에 가장 가까운) 노드를 말합니다.</li>
 </ul>
 
-<p style="text-align:center"><img alt="nca.png" src="https://upload.acmicpc.net/4f2eae58-31bf-445f-a7a3-625505e7102c/-/preview/" style="height:278px; width:304px"></p>
+<p style="text-align:center"><img alt="nca.png" src="%EB%B0%B1%EC%A4%80/Gold/3584.%E2%80%85%EA%B0%80%EC%9E%A5%E2%80%85%EA%B0%80%EA%B9%8C%EC%9A%B4%E2%80%85%EA%B3%B5%ED%86%B5%E2%80%85%EC%A1%B0%EC%83%81/257ab3de.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/3584.%E2%80%85%EA%B0%80%EC%9E%A5%E2%80%85%EA%B0%80%EA%B9%8C%EC%9A%B4%E2%80%85%EA%B3%B5%ED%86%B5%E2%80%85%EC%A1%B0%EC%83%81/257ab3de.png" data-original-src="https://upload.acmicpc.net/4f2eae58-31bf-445f-a7a3-625505e7102c/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:278px; width:304px"></p>
 
 <p>예를 들어  15와 11를 모두 자손으로 갖는 노드는 4와 8이 있지만, 그 중 깊이가 가장 깊은(15와 11에 가장 가까운) 노드는 4 이므로 가장 가까운 공통 조상은 4가 됩니다.</p>
 
@@ -42,3 +42,10 @@
 
  <p>각 테스트 케이스 별로, 첫 줄에 입력에서 주어진 두 노드의 가장 가까운 공통 조상을 출력합니다.</p>
 
+### 문제 제한
+
+시간 제한: 1 초, 메모리 제한: 128 MB
+
+### 통계
+
+제출: 16247, 정답: 8683, 맞힌 사람: 6529, 정답 비율: 53.189%

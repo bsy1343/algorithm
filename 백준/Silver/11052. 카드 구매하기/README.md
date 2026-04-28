@@ -53,3 +53,14 @@
 
  <p>첫째 줄에 민규가 카드 N개를 갖기 위해 지불해야 하는 금액의 최댓값을 출력한다.</p>
 
+### 문제 제한
+
+시간 제한: 1 초, 메모리 제한: 256 MB
+
+### 통계
+
+제출: 60582, 정답: 37695, 맞힌 사람: 28624, 정답 비율: 62.142%
+
+### 힌트
+
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/11052.%E2%80%85%EC%B9%B4%EB%93%9C%E2%80%85%EA%B5%AC%EB%A7%A4%ED%95%98%EA%B8%B0/313fc3ab.png" data-original-src="https://upload.acmicpc.net/ffb63d22-5554-46ca-8e8b-7f3482d518b7/-/resize/600x/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 300px; height: 409px;" /><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/11052.%E2%80%85%EC%B9%B4%EB%93%9C%E2%80%85%EA%B5%AC%EB%A7%A4%ED%95%98%EA%B8%B0/429296a2.png" data-original-src="https://upload.acmicpc.net/d7c63a92-8f10-4546-bbdd-208242610cd5/-/resize/600x/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 300px; height: 409px;" /><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/11052.%E2%80%85%EC%B9%B4%EB%93%9C%E2%80%85%EA%B5%AC%EB%A7%A4%ED%95%98%EA%B8%B0/9dd679fc.png" data-original-src="https://upload.acmicpc.net/564c40e9-47d1-48fa-bf74-d494f4e0a2da/-/resize/600x/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 300px; height: 409px;" /><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/11052.%E2%80%85%EC%B9%B4%EB%93%9C%E2%80%85%EA%B5%AC%EB%A7%A4%ED%95%98%EA%B8%B0/0c7de92f.png" data-original-src="https://upload.acmicpc.net/6558125f-de39-4f5a-821b-a28367ead81d/-/resize/600x/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 300px; height: 409px;" /><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/11052.%E2%80%85%EC%B9%B4%EB%93%9C%E2%80%85%EA%B5%AC%EB%A7%A4%ED%95%98%EA%B8%B0/2ae46b10.png" data-original-src="https://upload.acmicpc.net/0e1ddc25-a3b4-441c-9461-4bb97a1d5b4b/-/resize/600x/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 300px; height: 409px;" /><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/11052.%E2%80%85%EC%B9%B4%EB%93%9C%E2%80%85%EA%B5%AC%EB%A7%A4%ED%95%98%EA%B8%B0/22b613fc.png" data-original-src="https://upload.acmicpc.net/9a88e5aa-c6de-4b53-bd64-ef7de69dd1ec/-/resize/600x/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 300px; height: 409px;" /><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/11052.%E2%80%85%EC%B9%B4%EB%93%9C%E2%80%85%EA%B5%AC%EB%A7%A4%ED%95%98%EA%B8%B0/b52746be.png" data-original-src="https://upload.acmicpc.net/b626cbbd-81ac-43d5-8ebc-ddb990f1e333/-/resize/600x/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 300px; height: 409px;" /></p>

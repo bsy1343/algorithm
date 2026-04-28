@@ -18,7 +18,7 @@
 
 <p>이진 트리를 입력받아 전위 순회(preorder traversal), 중위 순회(inorder traversal), 후위 순회(postorder traversal)한 결과를 출력하는 프로그램을 작성하시오.</p>
 
-<p style="text-align: center;"><img alt="" src="https://www.acmicpc.net/JudgeOnline/upload/201007/trtr.png" style="height:220px; width:265px"></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/1991.%E2%80%85%ED%8A%B8%EB%A6%AC%E2%80%85%EC%88%9C%ED%9A%8C/654c9da9.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/1991.%E2%80%85%ED%8A%B8%EB%A6%AC%E2%80%85%EC%88%9C%ED%9A%8C/654c9da9.png" data-original-src="https://www.acmicpc.net/JudgeOnline/upload/201007/trtr.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:220px; width:265px"></p>
 
 <p>예를 들어 위와 같은 이진 트리가 입력되면,</p>
 
@@ -38,3 +38,10 @@
 
  <p>첫째 줄에 전위 순회, 둘째 줄에 중위 순회, 셋째 줄에 후위 순회한 결과를 출력한다. 각 줄에 N개의 알파벳을 공백 없이 출력하면 된다.</p>
 
+### 문제 제한
+
+시간 제한: 2 초, 메모리 제한: 128 MB
+
+### 통계
+
+제출: 79721, 정답: 52545, 맞힌 사람: 40495, 정답 비율: 67.604%

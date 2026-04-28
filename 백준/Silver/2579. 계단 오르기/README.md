@@ -18,13 +18,13 @@
 
 <p>계단 오르기 게임은 계단 아래 시작점부터 계단 꼭대기에 위치한 도착점까지 가는 게임이다. <그림 1>과 같이 각각의 계단에는 일정한 점수가 쓰여 있는데 계단을 밟으면 그 계단에 쓰여 있는 점수를 얻게 된다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://u.acmicpc.net/7177ea45-aa8d-4724-b256-7b84832c9b97/Screen%20Shot%202021-06-23%20at%203.00.46%20PM.png" style="width: 300px; height: 160px;"></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/2579.%E2%80%85%EA%B3%84%EB%8B%A8%E2%80%85%EC%98%A4%EB%A5%B4%EA%B8%B0/bf8be3aa.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/2579.%E2%80%85%EA%B3%84%EB%8B%A8%E2%80%85%EC%98%A4%EB%A5%B4%EA%B8%B0/bf8be3aa.png" data-original-src="https://u.acmicpc.net/7177ea45-aa8d-4724-b256-7b84832c9b97/Screen%20Shot%202021-06-23%20at%203.00.46%20PM.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 300px; height: 160px;"></p>
 
 <p style="text-align: center;"><그림 1></p>
 
 <p>예를 들어 <그림 2>와 같이 시작점에서부터 첫 번째, 두 번째, 네 번째, 여섯 번째 계단을 밟아 도착점에 도달하면 총 점수는 10 + 20 + 25 + 20 = 75점이 된다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://u.acmicpc.net/f00b6121-1c25-492e-9bc0-d96377c586b0/Screen%20Shot%202021-06-23%20at%203.01.39%20PM.png" style="width: 300px; height: 190px;"></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/2579.%E2%80%85%EA%B3%84%EB%8B%A8%E2%80%85%EC%98%A4%EB%A5%B4%EA%B8%B0/d0f23256.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/2579.%E2%80%85%EA%B3%84%EB%8B%A8%E2%80%85%EC%98%A4%EB%A5%B4%EA%B8%B0/d0f23256.png" data-original-src="https://u.acmicpc.net/f00b6121-1c25-492e-9bc0-d96377c586b0/Screen%20Shot%202021-06-23%20at%203.01.39%20PM.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 300px; height: 190px;"></p>
 
 <p style="text-align: center;"><그림 2></p>
 
@@ -50,3 +50,10 @@
 
  <p>첫째 줄에 계단 오르기 게임에서 얻을 수 있는 총 점수의 최댓값을 출력한다.</p>
 
+### 문제 제한
+
+시간 제한: 1 초, 메모리 제한: 128 MB
+
+### 통계
+
+제출: 251002, 정답: 90559, 맞힌 사람: 65206, 정답 비율: 35.286%

@@ -26,7 +26,7 @@
 
 <p>정사각형 4개를 이어 붙인 폴리오미노는 테트로미노라고 하며, 다음과 같은 5가지가 있다.</p>
 
-<p style="text-align:center"><a href="https://commons.wikimedia.org/wiki/File:All_5_free_tetrominoes.svg"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14500/1.png" style="height:167px; width:250px"></a></p>
+<p style="text-align:center"><a href="https://commons.wikimedia.org/wiki/File:All_5_free_tetrominoes.svg"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/14500.%E2%80%85%ED%85%8C%ED%8A%B8%EB%A1%9C%EB%AF%B8%EB%85%B8/9b95aff1.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/14500.%E2%80%85%ED%85%8C%ED%8A%B8%EB%A1%9C%EB%AF%B8%EB%85%B8/9b95aff1.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14500/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:167px; width:250px"></a></p>
 
 <p>아름이는 크기가 N×M인 종이 위에 테트로미노 하나를 놓으려고 한다. 종이는 1×1 크기의 칸으로 나누어져 있으며, 각각의 칸에는 정수가 하나 쓰여 있다.</p>
 
@@ -44,3 +44,10 @@
 
  <p>첫째 줄에 테트로미노가 놓인 칸에 쓰인 수들의 합의 최댓값을 출력한다.</p>
 
+### 문제 제한
+
+시간 제한: 2 초, 메모리 제한: 512 MB
+
+### 통계
+
+제출: 117420, 정답: 46991, 맞힌 사람: 30808, 정답 비율: 37.600%

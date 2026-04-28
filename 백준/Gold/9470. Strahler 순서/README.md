@@ -18,7 +18,7 @@
 
 <p>지질학에서 하천계는 유향그래프로 나타낼 수 있다. 강은 간선으로 나타내며, 물이 흐르는 방향이 간선의 방향이 된다. 노드는 호수나 샘처럼 강이 시작하는 곳, 강이 합쳐지거나 나누어지는 곳, 바다와 만나는 곳이다.</p>
 
-<p><img alt="" src="https://www.acmicpc.net/upload/images/strahler.png" style="height:299px; width:354px"></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/9470.%E2%80%85Strahler%E2%80%85%EC%88%9C%EC%84%9C/18b25987.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/9470.%E2%80%85Strahler%E2%80%85%EC%88%9C%EC%84%9C/18b25987.png" data-original-src="https://www.acmicpc.net/upload/images/strahler.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:299px; width:354px"></p>
 
 <p>네모 안의 숫자는 순서를 나타내고, 동그라미 안의 숫자는 노드 번호를 나타낸다.</p>
 
@@ -47,3 +47,10 @@
 
  <p>각 테스트 케이스마다 테스트 케이스 번호와 입력으로 주어진 하천계의 Strahler 순서를 한 줄에 하나씩 출력한다.</p>
 
+### 문제 제한
+
+시간 제한: 1 초, 메모리 제한: 128 MB
+
+### 통계
+
+제출: 5368, 정답: 2242, 맞힌 사람: 1784, 정답 비율: 41.315%

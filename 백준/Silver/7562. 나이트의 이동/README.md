@@ -18,7 +18,7 @@
 
 <p>체스판 위에 한 나이트가 놓여져 있다. 나이트가 한 번에 이동할 수 있는 칸은 아래 그림에 나와있다. 나이트가 이동하려고 하는 칸이 주어진다. 나이트는 몇 번 움직이면 이 칸으로 이동할 수 있을까?</p>
 
-<p><img alt="" src="https://www.acmicpc.net/upload/images/knight.png" style="height:172px; width:175px"></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/7562.%E2%80%85%EB%82%98%EC%9D%B4%ED%8A%B8%EC%9D%98%E2%80%85%EC%9D%B4%EB%8F%99/dc9ec486.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/7562.%E2%80%85%EB%82%98%EC%9D%B4%ED%8A%B8%EC%9D%98%E2%80%85%EC%9D%B4%EB%8F%99/dc9ec486.png" data-original-src="https://www.acmicpc.net/upload/images/knight.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:172px; width:175px"></p>
 
 ### 입력 
 
@@ -30,3 +30,10 @@
 
  <p>각 테스트 케이스마다 나이트가 최소 몇 번만에 이동할 수 있는지 출력한다.</p>
 
+### 문제 제한
+
+시간 제한: 1 초, 메모리 제한: 256 MB
+
+### 통계
+
+제출: 79158, 정답: 43891, 맞힌 사람: 32636, 정답 비율: 54.192%

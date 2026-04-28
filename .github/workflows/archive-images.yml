@@ -4,7 +4,8 @@ on:
   push:
     paths:
       - '백준/**/README.md'
-      - 'scripts/archive-images.mjs'
+      - 'scripts/archive-per-problem.mjs'
+      - 'scripts/import-missing.mjs'
   workflow_dispatch:
 
 jobs:
@@ -23,22 +24,19 @@ jobs:
         with:
           node-version: '20'
 
-      - name: Run archive script
-        run: node scripts/archive-images.mjs
+      - name: Run per-problem archive script
+        run: node scripts/archive-per-problem.mjs
 
       - name: Commit changes (if any)
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          # Stage anything we may have created or modified
-          git add -A "백준/.assets/" || true
-          # Re-stage modified READMEs (repaired ones)
           git add -A "백준/" || true
           if git diff --cached --quiet; then
             echo "No changes to commit"
             exit 0
           fi
-          git commit -m "chore(archive): auto-archive BOJ images + repair empty src
+          git commit -m "chore(archive): per-problem image archival + README augment
 
-          Triggered by push to README.md or archive script update."
+          Triggered by push to README.md."
           git push

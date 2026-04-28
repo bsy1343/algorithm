@@ -20,7 +20,7 @@
 
 <p>아래 그림은 2×5 크기의 직사각형을 채운 한 가지 방법의 예이다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11726/1.png" style="height:50px; width:125px"></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/11726.%E2%80%852%C3%97n%E2%80%85%ED%83%80%EC%9D%BC%EB%A7%81/50e116a5.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/11726.%E2%80%852%C3%97n%E2%80%85%ED%83%80%EC%9D%BC%EB%A7%81/50e116a5.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11726/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:50px; width:125px"></p>
 
 ### 입력 
 
@@ -30,3 +30,10 @@
 
  <p>첫째 줄에 2×n 크기의 직사각형을 채우는 방법의 수를 10,007로 나눈 나머지를 출력한다.</p>
 
+### 문제 제한
+
+시간 제한: 1 초, 메모리 제한: 256 MB
+
+### 통계
+
+제출: 225593, 정답: 88560, 맞힌 사람: 65875, 정답 비율: 37.210%

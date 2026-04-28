@@ -416,10 +416,13 @@
       const lines = md.split('\n');
       for (let i = 0; i < lines.length; i++) {
         const l = lines[i];
-        const mem = l.match(/메모리[:\s]+([\d,]+ KB)/);
-        if (mem) meta.memory = mem[1];
-        const tim = l.match(/시간[:\s]+([\d,]+ ms)/);
-        if (tim) meta.time = tim[1];
+        // Memory: matches both "메모리: 17852 KB" (BaekjoonHub user stats)
+        // and "메모리 제한: 128 MB" (our auto-import format)
+        const mem = l.match(/메모리[^:]*:\s*([\d,]+\s*(?:KB|MB))/);
+        if (mem) meta.memory = mem[1].trim();
+        // Time: matches both "시간: 180 ms" and "시간 제한: 2 초"
+        const tim = l.match(/시간[^:]*:\s*([\d,]+\s*(?:ms|초))/);
+        if (tim) meta.time = tim[1].trim();
         if (/^#+\s*분류/.test(l)) {
           const next = lines.slice(i + 1).find(x => x.trim());
           if (next) meta.category = next.trim();
@@ -434,7 +437,7 @@
 
     parseReadmeSections(md) {
       const sections = {};
-      const keys = ['문제 설명', '문제', '입력', '출력', '힌트', '노트', '제한'];
+      const keys = ['문제 설명', '문제', '입력', '출력', '힌트', '노트', '제한', '통계'];
       let cur = null;
       for (const l of md.split('\n')) {
         const hm = l.match(/^#+\s+(.+)/);
@@ -454,13 +457,19 @@
     },
 
     sanitizeHtml(html) {
+      // Strip script/style and inline event handlers EXCEPT onerror —
+      // we use onerror= for the BOJ-archived image fallback.
       let clean = html
         .replace(/<script[\s\S]*?<\/script>/gi, '')
         .replace(/<style[\s\S]*?<\/style>/gi, '')
-        .replace(/on\w+="[^"]*"/gi, '')
-        .replace(/on\w+='[^']*'/gi, '');
+        .replace(/on(?!error\b)\w+="[^"]*"/gi, '')
+        .replace(/on(?!error\b)\w+='[^']*'/gi, '');
+      // Promote BOJ-relative /upload/ to absolute URL (legacy fallback).
       clean = clean.replace(/src="\/upload\//g, 'src="https://www.acmicpc.net/upload/');
       clean = clean.replace(/src='\/upload\//g, "src='https://www.acmicpc.net/upload/");
+      // Per-problem image localization (new layout): images live in the
+      // problem's own folder; README's img src is already a relative URL.
+      // The legacy ImageArchive map is now empty/unused — rewrite is a no-op.
       clean = ImageArchive.rewrite(clean);
       return clean;
     },
@@ -695,6 +704,7 @@
           ['제한'],
           ['힌트'],
           ['노트'],
+          ['통계'],
         ];
         for (const keys of display) {
           const key = keys.find(k => sections[k]?.trim());

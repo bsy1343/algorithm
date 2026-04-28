@@ -20,19 +20,19 @@
 
 <p>다음 그림을 보자.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/d21c182b-3a7d-48ba-b198-65a1bd3ddd98/-/preview/"></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/17266.%E2%80%85%EC%96%B4%EB%91%90%EC%9A%B4%E2%80%85%EA%B5%B4%EB%8B%A4%EB%A6%AC/1f18fa78.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/17266.%E2%80%85%EC%96%B4%EB%91%90%EC%9A%B4%E2%80%85%EA%B5%B4%EB%8B%A4%EB%A6%AC/1f18fa78.png" data-original-src="https://upload.acmicpc.net/d21c182b-3a7d-48ba-b198-65a1bd3ddd98/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc"></p>
 
 <p style="text-align: center;"><strong>가로등의 높이가 H라면 왼쪽으로 H, 오른쪽으로 H만큼 주위를 비춘다.</strong></p>
 
 <p>다음 그림은 예제1에 대한 설명이다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/a1f0fc3c-7c16-4108-bb18-31fe9ff3bbe4/-/preview/" style="height: 175px; width: 500px;"></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/17266.%E2%80%85%EC%96%B4%EB%91%90%EC%9A%B4%E2%80%85%EA%B5%B4%EB%8B%A4%EB%A6%AC/0bf79095.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/17266.%E2%80%85%EC%96%B4%EB%91%90%EC%9A%B4%E2%80%85%EA%B5%B4%EB%8B%A4%EB%A6%AC/0bf79095.png" data-original-src="https://upload.acmicpc.net/a1f0fc3c-7c16-4108-bb18-31fe9ff3bbe4/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 175px; width: 500px;"></p>
 
 <p>가로등의 높이가 1일 경우 0~1사이의 길이 어둡기 때문에 상빈이는 지나가지 못한다.</p>
 
 <p>아래 그림처럼 높이가 2일 경우 0~5의 모든 길이 밝기 때문에 상빈이는 지나갈 수 있다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/0c74958f-4437-405d-9242-f204282c0b45/-/preview/" style="height: 220px; width: 500px;"></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/17266.%E2%80%85%EC%96%B4%EB%91%90%EC%9A%B4%E2%80%85%EA%B5%B4%EB%8B%A4%EB%A6%AC/35c65698.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/17266.%E2%80%85%EC%96%B4%EB%91%90%EC%9A%B4%E2%80%85%EA%B5%B4%EB%8B%A4%EB%A6%AC/35c65698.png" data-original-src="https://upload.acmicpc.net/0c74958f-4437-405d-9242-f204282c0b45/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 220px; width: 500px;"></p>
 
 ### 입력 
 
@@ -48,3 +48,10 @@
 
  <p>굴다리의 길이 N을 모두 비추기 위한 가로등의 최소 높이를 출력한다.</p>
 
+### 문제 제한
+
+시간 제한: 1 초, 메모리 제한: 256 MB
+
+### 통계
+
+제출: 14618, 정답: 5901, 맞힌 사람: 4707, 정답 비율: 39.502%

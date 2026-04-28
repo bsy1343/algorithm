@@ -18,7 +18,7 @@
 
 <p>직선 위에 위치를 나타내는 0, 1, 2, ...와 같은 음수가 아닌 정수들이 일정한 간격으로 오른쪽 방향으로 놓여 있다. 이러한 위치들 중 N개의 위치에 하나씩 점들이 주어진다(<그림 1>). 주어진 점들의 위치는 모두 다르다. 두 점 사이의 거리는 두 점의 위치를 나타내는 수들의 차이이다. <그림 1>에서는 4개의 점이 주어지고 점 <em>a</em>와 <em>b</em>의 거리는 3이다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/e0b8e883-031b-4550-9afb-90dff9126cd7/-/preview/" style="width: 271px; height: 46px;"></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/15970.%E2%80%85%ED%99%94%EC%82%B4%ED%91%9C%E2%80%85%EA%B7%B8%EB%A6%AC%EA%B8%B0/932eb7b5.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/15970.%E2%80%85%ED%99%94%EC%82%B4%ED%91%9C%E2%80%85%EA%B7%B8%EB%A6%AC%EA%B8%B0/932eb7b5.png" data-original-src="https://upload.acmicpc.net/e0b8e883-031b-4550-9afb-90dff9126cd7/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 271px; height: 46px;"></p>
 
 <p style="text-align: center;"><그림 1></p>
 
@@ -32,13 +32,13 @@
 
 <p>아래 <그림 2>에서 이 점들을 표시한다. 여기서 흰색은 1, 검은색은 2에 해당된다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/42d4e7c4-f4c8-4234-ad4b-4bcc86f3502e/-/preview/" style="width: 276px; height: 67px;"></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/15970.%E2%80%85%ED%99%94%EC%82%B4%ED%91%9C%E2%80%85%EA%B7%B8%EB%A6%AC%EA%B8%B0/22375ed6.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/15970.%E2%80%85%ED%99%94%EC%82%B4%ED%91%9C%E2%80%85%EA%B7%B8%EB%A6%AC%EA%B8%B0/22375ed6.png" data-original-src="https://upload.acmicpc.net/42d4e7c4-f4c8-4234-ad4b-4bcc86f3502e/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 276px; height: 67px;"></p>
 
 <p style="text-align: center;"><그림 2></p>
 
 <p>위의 조건으로 화살표를 그리면, 아래 <그림 3>과 같이 점 <em>a</em>의 화살표는 <em>c</em>로 연결된다. 점 <em>b</em>와 <em>d</em>의 화살표는 각각 <em>d</em>와 <em>b</em>로 연결된다. 또한 점 <em>c</em>와 <em>e</em>의 화살표는 각각 <em>e</em>와 <em>c</em>로 연결된다. 따라서 모든 화살표들의 길이 합은 3 + 3 + 2 + 3 + 2 = 13이다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/157c0a3e-059f-4b1b-a714-39a0081a72b9/-/preview/" style="width: 244px; height: 76px;"></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/15970.%E2%80%85%ED%99%94%EC%82%B4%ED%91%9C%E2%80%85%EA%B7%B8%EB%A6%AC%EA%B8%B0/673781ba.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/15970.%E2%80%85%ED%99%94%EC%82%B4%ED%91%9C%E2%80%85%EA%B7%B8%EB%A6%AC%EA%B8%B0/673781ba.png" data-original-src="https://upload.acmicpc.net/157c0a3e-059f-4b1b-a714-39a0081a72b9/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 244px; height: 76px;"></p>
 
 <p style="text-align: center;"><그림 3></p>
 
@@ -52,3 +52,14 @@
 
  <p>표준 출력으로 모든 점에서 시작하는 화살표들의 길이 합을 출력한다.</p>
 
+### 문제 제한
+
+시간 제한: 2 초, 메모리 제한: 512 MB
+
+### 통계
+
+제출: 9344, 정답: 4675, 맞힌 사람: 3523, 정답 비율: 52.046%
+
+### 제한
+
+<p>모든 서브태스크에서 점들의 위치 <em>x</em>와 색깔 <em>y</em>는 각각 0 &le; <em>x</em> &le; 10<sup>5</sup>, 1 &le; <em>y</em> &le; <em>N</em>를 만족한다.</p>

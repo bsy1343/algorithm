@@ -24,13 +24,13 @@
 
 <p>모든 연속적인 이틀간의 온도의 합은 아래와 같다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/563b6bfd-12ff-4275-a869-90fdd43b6deb/-/preview/" style="width: 259px; height: 73px;"></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/2559.%E2%80%85%EC%88%98%EC%97%B4/981015f7.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/2559.%E2%80%85%EC%88%98%EC%97%B4/981015f7.png" data-original-src="https://upload.acmicpc.net/563b6bfd-12ff-4275-a869-90fdd43b6deb/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 259px; height: 73px;"></p>
 
 <p>이때, 온도의 합이 가장 큰 값은 21이다. </p>
 
 <p>또 다른 예로 위와 같은 온도가 주어졌을 때, 모든 연속적인 5일 간의 온도의 합은 아래와 같으며, </p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/cb8d846c-2f90-475a-8901-1fb69de87397/-/preview/" style="height: 80px; width: 259px;"></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/2559.%E2%80%85%EC%88%98%EC%97%B4/b2e4e458.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/2559.%E2%80%85%EC%88%98%EC%97%B4/b2e4e458.png" data-original-src="https://upload.acmicpc.net/cb8d846c-2f90-475a-8901-1fb69de87397/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 80px; width: 259px;"></p>
 
 <p>이때, 온도의 합이 가장 큰 값은 31이다.</p>
 
@@ -44,3 +44,10 @@
 
  <p>첫째 줄에는 입력되는 온도의 수열에서 연속적인 K일의 온도의 합이 최대가 되는 값을 출력한다.</p>
 
+### 문제 제한
+
+시간 제한: 1 초, 메모리 제한: 128 MB
+
+### 통계
+
+제출: 88317, 정답: 35061, 맞힌 사람: 26256, 정답 비율: 38.171%

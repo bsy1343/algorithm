@@ -30,3 +30,15 @@
 
  <p>첫째 줄에 가능한 마지막 곡의 볼륨 중 최댓값을 출력한다. 만약 마지막 곡을 연주할 수 없다면 (중간에 볼륨 조절을 할 수 없다면) -1을 출력한다.</p>
 
+### 문제 제한
+
+시간 제한: 2 초, 메모리 제한: 128 MB
+
+### 통계
+
+제출: 24760, 정답: 10064, 맞힌 사람: 7927, 정답 비율: 40.421%
+
+### 힌트
+
+<!--<p><iframe seamless="" src="https://bandcamp.com/EmbeddedPlayer/album=3179954399/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=3254304860/transparent=true/" style="border: 0; width: 100%; height: 120px;">This Too Will Pass by Day Of Mourning</iframe></p>-->
+<p><iframe allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/1pRt82WLKUQ" width="560"></iframe></p>

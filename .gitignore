@@ -5,12 +5,16 @@
 task-*.png
 boj-*-reference.png
 testcase-ac-*.png
+tests/
+scripts/
+Tip/
 
 # IDE / editor settings
 .idea/
 .serena/
 *.iml
 .vscode/
+.claude/
 
 # OS artifacts
 .DS_Store

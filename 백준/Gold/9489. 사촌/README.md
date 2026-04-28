@@ -27,7 +27,7 @@
 
 <p>예를 들어, 수열 1 3 4 5 8 9 15 30 31 32를 위의 규칙을 이용해 트리를 만들면 아래 그림과 같이 된다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://www.acmicpc.net/upload/images/cc.png" style="height:245px; width:320px"></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/9489.%E2%80%85%EC%82%AC%EC%B4%8C/9f9b2bb4.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/9489.%E2%80%85%EC%82%AC%EC%B4%8C/9f9b2bb4.png" data-original-src="https://www.acmicpc.net/upload/images/cc.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:245px; width:320px"></p>
 
 <p>두 노드의 부모는 다르지만, 두 부모가 형제(sibling)일 때 두 노드를 사촌이라고 한다.</p>
 
@@ -43,3 +43,10 @@
 
  <p>각 테스트 케이스 마다, k의 사촌의 수를 출력한다.</p>
 
+### 문제 제한
+
+시간 제한: 3 초, 메모리 제한: 128 MB
+
+### 통계
+
+제출: 4448, 정답: 1376, 맞힌 사람: 994, 정답 비율: 30.167%

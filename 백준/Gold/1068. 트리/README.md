@@ -22,11 +22,11 @@
 
 <p>예를 들어, 다음과 같은 트리가 있다고 하자.</p>
 
-<p style="text-align: center"><img alt="" src="https://upload.acmicpc.net/560de878-d961-475e-ada4-e1f0774e5a84/-/preview/" style="width: 200px; height: 185px;"></p>
+<p style="text-align: center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/1068.%E2%80%85%ED%8A%B8%EB%A6%AC/25adb6b2.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/1068.%E2%80%85%ED%8A%B8%EB%A6%AC/25adb6b2.png" data-original-src="https://upload.acmicpc.net/560de878-d961-475e-ada4-e1f0774e5a84/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 200px; height: 185px;"></p>
 
 <p>현재 리프 노드의 개수는 3개이다. (초록색 색칠된 노드) 이때, 1번을 지우면, 다음과 같이 변한다. 검정색으로 색칠된 노드가 트리에서 제거된 노드이다.</p>
 
-<p style="text-align: center"><img alt="" src="https://upload.acmicpc.net/d46ddf4e-1b82-44cc-8c90-12f76e5bf88f/-/preview/" style="width: 200px; height: 185px;"></p>
+<p style="text-align: center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/1068.%E2%80%85%ED%8A%B8%EB%A6%AC/934f2174.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/1068.%E2%80%85%ED%8A%B8%EB%A6%AC/934f2174.png" data-original-src="https://upload.acmicpc.net/d46ddf4e-1b82-44cc-8c90-12f76e5bf88f/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 200px; height: 185px;"></p>
 
 <p>이제 리프 노드의 개수는 1개이다.</p>
 
@@ -38,3 +38,10 @@
 
  <p>첫째 줄에 입력으로 주어진 트리에서 입력으로 주어진 노드를 지웠을 때, 리프 노드의 개수를 출력한다.</p>
 
+### 문제 제한
+
+시간 제한: 2 초, 메모리 제한: 128 MB
+
+### 통계
+
+제출: 81199, 정답: 25791, 맞힌 사람: 19138, 정답 비율: 30.930%

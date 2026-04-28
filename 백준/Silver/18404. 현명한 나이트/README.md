@@ -23,11 +23,11 @@
 
 <p><em>N</em>=5일 때, 나이트가 (3,3)의 위치에 존재한다면 이동 가능한 위치는 다음과 같다. 나이트가 존재하는 위치는 K, 이동 가능한 위치는 노란색으로 표현하였다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/c7151652-6239-4a9c-94e9-281500d10b50/-/preview/" style="height: 246px; width: 400px;"></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/18404.%E2%80%85%ED%98%84%EB%AA%85%ED%95%9C%E2%80%85%EB%82%98%EC%9D%B4%ED%8A%B8/b3a8795a.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/18404.%E2%80%85%ED%98%84%EB%AA%85%ED%95%9C%E2%80%85%EB%82%98%EC%9D%B4%ED%8A%B8/b3a8795a.png" data-original-src="https://upload.acmicpc.net/c7151652-6239-4a9c-94e9-281500d10b50/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 246px; width: 400px;"></p>
 
 <p style="text-align: justify;">예를 들어 <em>N</em>=5, <em>M</em>=3이고, 나이트가 (2,4)의 위치에 존재한다고 가정하자. 또한 상대편 말의 위치가 차례대로 (3,2), (3,5), (4,5)라고 하자. 이때 각 상대편 말을 잡기 위한 최소 이동 수를 계산해보자. 아래 그림에서는 상대편 말의 위치를 E로 표현하였다. 단, 본 문제에서 위치 값을 나타낼 때는 (행,열)의 형태로 표현한다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/59cccc8b-ba1a-4409-930c-2d50e63c1faf/-/preview/" style="height: 245px; width: 400px;"></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/18404.%E2%80%85%ED%98%84%EB%AA%85%ED%95%9C%E2%80%85%EB%82%98%EC%9D%B4%ED%8A%B8/1694fe2e.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/18404.%E2%80%85%ED%98%84%EB%AA%85%ED%95%9C%E2%80%85%EB%82%98%EC%9D%B4%ED%8A%B8/1694fe2e.png" data-original-src="https://upload.acmicpc.net/59cccc8b-ba1a-4409-930c-2d50e63c1faf/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 245px; width: 400px;"></p>
 
 <p style="text-align: justify;">각 상대편 말을 잡기 위한 최소 이동 수는 차례대로 1, 2, 1이 된다.</p>
 
@@ -43,3 +43,10 @@
 
 <p>단, 출력할 때는 입력 시에 상대편 말 정보가 주어졌던 순서에 맞게 차례대로 출력한다.</p>
 
+### 문제 제한
+
+시간 제한: 1 초, 메모리 제한: 256 MB
+
+### 통계
+
+제출: 2835, 정답: 1471, 맞힌 사람: 1195, 정답 비율: 49.647%

@@ -18,7 +18,7 @@
 
 <p>어떤 동물원에 가로로 두칸 세로로 N칸인 아래와 같은 우리가 있다.</p>
 
-<p><img alt="" src="https://www.acmicpc.net/upload/201004/dnfl.JPG" style="height:223px; width:224px"></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/1309.%E2%80%85%EB%8F%99%EB%AC%BC%EC%9B%90/75701e58.jpg" data-original-src="%EB%B0%B1%EC%A4%80/Silver/1309.%E2%80%85%EB%8F%99%EB%AC%BC%EC%9B%90/75701e58.jpg" data-original-src="https://www.acmicpc.net/upload/201004/dnfl.JPG" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:223px; width:224px"></p>
 
 <p>이 동물원에는 사자들이 살고 있는데 사자들을 우리에 가둘 때, 가로로도 세로로도 붙어 있게 배치할 수는 없다. 이 동물원 조련사는 사자들의 배치 문제 때문에 골머리를 앓고 있다.</p>
 
@@ -32,3 +32,10 @@
 
  <p>첫째 줄에 사자를 배치하는 경우의 수를 9901로 나눈 나머지를 출력하여라.</p>
 
+### 문제 제한
+
+시간 제한: 2 초, 메모리 제한: 128 MB
+
+### 통계
+
+제출: 46621, 정답: 22789, 맞힌 사람: 18121, 정답 비율: 47.096%

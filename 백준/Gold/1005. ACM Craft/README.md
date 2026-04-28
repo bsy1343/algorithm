@@ -22,7 +22,7 @@
 
 <p> </p>
 
-<p style="text-align: center;"><img alt="" src="https://www.acmicpc.net/upload/201003/star.JPG" style="height:335px; width:635px"></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/1005.%E2%80%85ACM%E2%80%85Craft/c7e09215.jpg" data-original-src="%EB%B0%B1%EC%A4%80/Gold/1005.%E2%80%85ACM%E2%80%85Craft/c7e09215.jpg" data-original-src="https://www.acmicpc.net/upload/201003/star.JPG" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:335px; width:635px"></p>
 
 <p>위의 예시를 보자.</p>
 
@@ -46,3 +46,19 @@
 
 <p>건설순서는 모든 건물이 건설 가능하도록 주어진다.</p>
 
+### 문제 제한
+
+시간 제한: 1 초, 메모리 제한: 512 MB
+
+### 통계
+
+제출: 93891, 정답: 28905, 맞힌 사람: 20270, 정답 비율: 31.620%
+
+### 제한
+
+<ul>
+	<li>2&nbsp;&le; N &le; 1000</li>
+	<li>1 &le; K &le; 100,000</li>
+	<li>1 &le; X, Y, W &le; N</li>
+	<li>0 &le; D<sub>i</sub> &le; 100,000, D<sub>i</sub>는 정수</li>
+</ul>

@@ -28,3 +28,14 @@
 
  <p>첫째 줄에 퀸 N개를 서로 공격할 수 없게 놓는 경우의 수를 출력한다.</p>
 
+### 문제 제한
+
+시간 제한: 10 초, 메모리 제한: 128 MB
+
+### 통계
+
+제출: 152541, 정답: 75417, 맞힌 사람: 48371, 정답 비율: 47.715%
+
+### 힌트
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/t99KH0TR-J4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

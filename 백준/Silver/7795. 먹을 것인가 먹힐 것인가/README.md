@@ -18,7 +18,7 @@
 
 <p>심해에는 두 종류의 생명체 A와 B가 존재한다. A는 B를 먹는다. A는 자기보다 크기가 작은 먹이만 먹을 수 있다. 예를 들어, A의 크기가 {8, 1, 7, 3, 1}이고, B의 크기가 {3, 6, 1}인 경우에 A가 B를 먹을 수 있는 쌍의 개수는 7가지가 있다. 8-3, 8-6, 8-1, 7-3, 7-6, 7-1, 3-1.</p>
 
-<p><img alt="" src="https://www.acmicpc.net/upload/images/ee(1).png" style="height:164px; width:209px"></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/7795.%E2%80%85%EB%A8%B9%EC%9D%84%E2%80%85%EA%B2%83%EC%9D%B8%EA%B0%80%E2%80%85%EB%A8%B9%ED%9E%90%E2%80%85%EA%B2%83%EC%9D%B8%EA%B0%80/df0914b4.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/7795.%E2%80%85%EB%A8%B9%EC%9D%84%E2%80%85%EA%B2%83%EC%9D%B8%EA%B0%80%E2%80%85%EB%A8%B9%ED%9E%90%E2%80%85%EA%B2%83%EC%9D%B8%EA%B0%80/df0914b4.png" data-original-src="https://www.acmicpc.net/upload/images/ee(1).png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:164px; width:209px"></p>
 
 <p>두 생명체 A와 B의 크기가 주어졌을 때, A의 크기가 B보다 큰 쌍이 몇 개나 있는지 구하는 프로그램을 작성하시오.</p>
 
@@ -30,3 +30,10 @@
 
  <p>각 테스트 케이스마다, A가 B보다 큰 쌍의 개수를 출력한다.</p>
 
+### 문제 제한
+
+시간 제한: 1 초, 메모리 제한: 256 MB
+
+### 통계
+
+제출: 23812, 정답: 12420, 맞힌 사람: 9134, 정답 비율: 51.792%

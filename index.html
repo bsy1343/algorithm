@@ -39,7 +39,8 @@
 
   html, body { height: 100%; background: var(--bg); color: var(--text); font-family: var(--font); font-size: 14px; line-height: 1.6; }
 
-  .app { display: grid; grid-template-columns: 280px 1fr; grid-template-rows: 52px 1fr; height: 100vh; }
+  .app { display: grid; grid-template-columns: 340px 1fr; grid-template-rows: 52px 1fr; height: 100vh; }
+  @media (max-width: 900px) { .app { grid-template-columns: 260px 1fr; } }
 
   /* Topbar */
   .topbar {
@@ -49,8 +50,9 @@
     border-bottom: 1px solid var(--border);
     background: var(--bg2);
   }
-  .topbar-logo { font-family: var(--mono); font-size: 13px; font-weight: 500; color: var(--text2); white-space: nowrap; }
+  .topbar-logo { font-family: var(--mono); font-size: 13px; font-weight: 500; color: var(--text2); white-space: nowrap; cursor: pointer; user-select: none; transition: color 0.15s; }
   .topbar-logo span { color: var(--accent); }
+  .topbar-logo:hover { color: var(--text); }
   .topbar-spacer { flex: 1; }
   .stat-chip { font-size: 11px; font-family: var(--mono); color: var(--text2); white-space: nowrap; }
   .stat-chip.warn { color: var(--gold); }
@@ -67,7 +69,7 @@
   .tier-tabs { display: flex; overflow-x: auto; border-bottom: 1px solid var(--border); scrollbar-width: none; }
   .tier-tabs::-webkit-scrollbar { display: none; }
   .tier-tab {
-    padding: 8px 12px; font-size: 11px; font-family: var(--mono);
+    padding: 8px 9px; font-size: 11px; font-family: var(--mono);
     cursor: pointer; white-space: nowrap; color: var(--text3);
     border-bottom: 2px solid transparent; transition: color 0.15s;
   }
@@ -101,10 +103,17 @@
     width: 6px; height: 6px; border-radius: 50%; background: var(--accent);
   }
   .pi-top { display: flex; align-items: center; gap: 6px; }
-  .pi-num { font-size: 10px; font-family: var(--mono); color: var(--text3); }
+  .pi-num { font-size: 10px; font-family: var(--mono); color: var(--text3); flex-shrink: 0; }
   .pi-tier-dot { width: 6px; height: 6px; border-radius: 50%; flex-shrink: 0; }
-  .pi-title { font-size: 13px; color: var(--text); overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+  .pi-title { font-size: 13px; color: var(--text); overflow: hidden; text-overflow: ellipsis; white-space: nowrap; flex: 1; min-width: 0; }
   .pi-meta { font-size: 10px; color: var(--text3); margin-top: 2px; font-family: var(--mono); padding-left: 12px; }
+  .pi-fav {
+    flex-shrink: 0; cursor: pointer; padding: 0 2px; line-height: 1;
+    color: var(--text3); font-size: 14px; user-select: none;
+    transition: color 0.1s, transform 0.1s;
+  }
+  .pi-fav:hover { color: var(--text); transform: scale(1.15); }
+  .pi-fav.on { color: var(--gold); }
   .empty-sidebar { padding: 24px 12px; text-align: center; font-size: 12px; color: var(--text3); line-height: 1.8; }
 
   /* Main */
@@ -290,7 +299,7 @@
 <body>
 <div class="app">
   <header class="topbar">
-    <div class="topbar-logo">boj<span>.</span>study</div>
+    <div class="topbar-logo" id="topbar-logo" title="홈 + 새로고침">boj<span>.</span>study</div>
     <div class="topbar-spacer"></div>
     <span class="stat-chip" id="stat-chip"></span>
     <button class="topbar-btn" id="refresh-btn" title="GitHub 트리 강제 갱신">새로고침</button>
@@ -590,10 +599,28 @@
   const State = {
     PREF_KEY: 'preferences',
     DRAFT_KEY: 'drafts',
+    FAV_KEY: 'favorites',
+    FAV_SEED_KEY: 'favorites-seeded-v1',
+
+    // Curated study course (백트래킹 → 정렬/그리디 → 투포인터 → 이분탐색 → DFS/BFS
+    // → 트리/위상정렬 → 다익스트라 → DP). Seeded once on first run; if the user
+    // removes any of these, they stay removed (we never re-add).
+    DEFAULT_FAVS: [
+      'Silver/15649', 'Silver/15650', 'Silver/15651', 'Silver/15652',
+      'Silver/14888', 'Gold/9663', 'Silver/10825', 'Silver/1015',
+      'Silver/11652', 'Silver/15970', 'Silver/7795', 'Gold/2470',
+      'Silver/2805', 'Gold/2110', 'Gold/1806', 'Gold/13144',
+      'Gold/1253', 'Gold/16472', 'Silver/1260', 'Silver/2667',
+      'Gold/2251', 'Gold/14502', 'Silver/2178', 'Silver/1697',
+      'Gold/3055', 'Silver/1012', 'Silver/11725', 'Gold/1068',
+      'Gold/2252', 'Gold/1005', 'Gold/1916', 'Gold/1753',
+      'Silver/9095', 'Silver/11726', 'Silver/2579',
+    ],
 
     problems: [],
     currentProblem: null,
     currentTab: 'problem',
+    favs: new Set(),
 
     pref: { tierFilter: 'ALL', searchQuery: '', currentTab: 'problem', compareMode: false },
 
@@ -601,6 +628,25 @@
       const raw = localStorage.getItem(this.PREF_KEY);
       if (raw) Object.assign(this.pref, JSON.parse(raw));
       this.currentTab = this.pref.currentTab || 'problem';
+      try {
+        const favs = JSON.parse(localStorage.getItem(this.FAV_KEY) || '[]');
+        this.favs = new Set(favs);
+      } catch { this.favs = new Set(); }
+      // Seed default favorites once. Skipped on later loads — user removals stick.
+      if (!localStorage.getItem(this.FAV_SEED_KEY)) {
+        for (const k of this.DEFAULT_FAVS) this.favs.add(k);
+        localStorage.setItem(this.FAV_KEY, JSON.stringify([...this.favs]));
+        localStorage.setItem(this.FAV_SEED_KEY, '1');
+      }
+    },
+
+    favKey(problem) { return `${problem.tier}/${problem.num}`; },
+    isFav(problem) { return this.favs.has(this.favKey(problem)); },
+    toggleFav(problem) {
+      const k = this.favKey(problem);
+      if (this.favs.has(k)) this.favs.delete(k);
+      else this.favs.add(k);
+      localStorage.setItem(this.FAV_KEY, JSON.stringify([...this.favs]));
     },
 
     savePref() {
@@ -656,9 +702,15 @@
     buildTabs() {
       const tiers = [...new Set(State.problems.map(p => p.tier))];
       const sorted = Parser.sortTiers(tiers);
-      const all = ['ALL', ...sorted];
+      const favCount = State.favs.size;
+      const favLabel = favCount ? `★ ${favCount}` : '★';
+      const all = [
+        { key: 'ALL', label: 'ALL' },
+        { key: '★', label: favLabel },
+        ...sorted.map(t => ({ key: t, label: t })),
+      ];
       const html = all.map(t =>
-        `<div class="tier-tab${t === State.pref.tierFilter ? ' active' : ''}" data-tier="${esc(t)}">${esc(t)}</div>`
+        `<div class="tier-tab${t.key === State.pref.tierFilter ? ' active' : ''}" data-tier="${esc(t.key)}">${esc(t.label)}</div>`
       ).join('');
       const el = document.getElementById('tier-tabs');
       el.innerHTML = html;
@@ -674,9 +726,10 @@
 
     renderList() {
       const q = State.pref.searchQuery.toLowerCase();
-      let list = State.pref.tierFilter === 'ALL'
-        ? State.problems
-        : State.problems.filter(p => p.tier === State.pref.tierFilter);
+      let list;
+      if (State.pref.tierFilter === 'ALL') list = State.problems;
+      else if (State.pref.tierFilter === '★') list = State.problems.filter(p => State.isFav(p));
+      else list = State.problems.filter(p => p.tier === State.pref.tierFilter);
       if (q) list = list.filter(p => p.num.includes(q) || p.title.toLowerCase().includes(q));
 
       const el = document.getElementById('problem-list');
@@ -690,11 +743,13 @@
           State.currentProblem.num === p.num && State.currentProblem.tier === p.tier;
         const ioCount = p.files.inputs.length;
         const draftMark = State.hasDraft(p) ? ' has-draft' : '';
+        const fav = State.isFav(p);
         return `<div class="problem-item${isActive ? ' active' : ''}${draftMark}" data-tier="${esc(p.tier)}" data-num="${esc(p.num)}">
           <div class="pi-top">
             <div class="pi-tier-dot" style="background:${dot}"></div>
             <div class="pi-num">#${esc(p.num)}</div>
             <div class="pi-title">${esc(p.title)}</div>
+            <div class="pi-fav${fav ? ' on' : ''}" data-fav-tier="${esc(p.tier)}" data-fav-num="${esc(p.num)}" title="즐겨찾기">${fav ? '★' : '☆'}</div>
           </div>
           <div class="pi-meta">${esc(p.tier)}${ioCount ? ' · 예제 ' + ioCount + '개' : ''}</div>
         </div>`;
@@ -702,6 +757,16 @@
       el.querySelectorAll('.problem-item').forEach(node => {
         node.addEventListener('click', () => {
           App.selectProblem(node.dataset.tier, node.dataset.num);
+        });
+      });
+      el.querySelectorAll('.pi-fav').forEach(node => {
+        node.addEventListener('click', (e) => {
+          e.stopPropagation();
+          const p = State.problems.find(x => x.tier === node.dataset.favTier && x.num === node.dataset.favNum);
+          if (!p) return;
+          State.toggleFav(p);
+          this.buildTabs();
+          this.renderList();
         });
       });
     },
@@ -1203,6 +1268,10 @@
       document.getElementById('refresh-btn').addEventListener('click', async () => {
         await App.reloadTree({ force: true });
       });
+      document.getElementById('topbar-logo').addEventListener('click', async () => {
+        App.goHome();
+        await App.reloadTree({ force: true });
+      });
     },
 
     setChip(text, tone = '') {
@@ -1289,6 +1358,19 @@
       State.currentProblem = p;
       Sidebar.renderList();
       ProblemView.renderShell(p);
+    },
+
+    goHome() {
+      State.currentProblem = null;
+      State.pref.tierFilter = 'ALL';
+      State.pref.searchQuery = '';
+      State.savePref();
+      const sb = document.querySelector('.sidebar #search-inp');
+      if (sb) sb.value = '';
+      Sidebar.buildTabs();
+      Sidebar.renderList();
+      const main = document.querySelector('.main');
+      if (main) main.innerHTML = '<div class="loading">문제를 선택하세요</div>';
     },
   };
 

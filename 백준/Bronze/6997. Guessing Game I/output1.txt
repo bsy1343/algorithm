@@ -1,0 +1,5 @@
+For secret = 1234 and guess = 1111, 1 circles and 0 squares will light up.
+For secret = 5678 and guess = 5678, 4 circles and 0 squares will light up.
+For secret = 4444 and guess = 4444, 4 circles and 0 squares will light up.
+For secret = 1234 and guess = 1211, 2 circles and 0 squares will light up.
+For secret = 1122 and guess = 2211, 0 circles and 4 squares will light up.

@@ -1,0 +1,42 @@
+# [Bronze III] 일우는 야바위꾼 - 20361
+
+[문제 링크](https://www.acmicpc.net/problem/20361)
+
+### 성능 요약
+
+시간 제한: 2 초, 메모리 제한: 1024 MB
+
+### 통계
+
+제출: 4645, 정답: 3094, 맞힌 사람: 2694, 정답 비율: 67.283%
+
+### 분류
+
+구현, 시뮬레이션
+
+### 문제 설명
+
+<p>전설의 야바위꾼 일우는 Shell Game으로 야바위를 한다. Shell Game은 다음과&nbsp;같은 절차로 진행된다.</p>
+
+<ol>
+	<li>진행자가 <em>N</em>개의 컵을 일렬로 놓고,&nbsp;그 중 <em>X</em>번째&nbsp;컵에 공을 숨겨둔다.</li>
+	<li>임의의 서로 다른 두 컵의 위치를 맞바꾼다. 이 항목을 <em>K</em>번 수행한다. 만약, 공을 숨겨둔 컵을&nbsp;움직인다면 공도 그 컵을 따라서 움직인다.</li>
+	<li>참가자는&nbsp;몇 번째 컵에 공이 숨겨져 있는지&nbsp;추측한다.</li>
+	<li>그 컵에 공이 숨겨져 있다면&nbsp;참가자가, 그렇지 않다면 진행자가 이긴다.</li>
+</ol>
+
+<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/3a3fbee0-2322-4556-a978-1732f9da439f/-/preview/" style="height: 225px; width: 300px;" /></p>
+
+<p>수혁이는 Shell Game을 잘하고 싶다. 하지만, 일우가 진행자라면 무슨 수를 써도 이길 수 없어 수혁이는 일우의 사기도박을 의심하고 있다. 현재 우리는 수혁과 일우가 진행한 Shell Game의 모든 기록을 입수했다. 이를 바탕으로, 일우가 사기도박을 하지 않았다면 공이 몇 번째 컵에 있는지 알려주는 프로그램을 작성하자.</p>
+
+### 입력
+
+<p>첫째 줄에 <em>N&nbsp;</em>(3 &le; <em>N</em> &le; 200,000), <em>X&nbsp;</em>(1 &le; <em>X</em> &le; <em>N</em>), <em>K&nbsp;</em>(1 &le; <em>K</em> &le; 100,000)가 공백으로 구분되어&nbsp;주어진다.</p>
+
+<p>둘째 줄부터 <em>K</em>개의 줄에는 순서대로 바꾼&nbsp;두&nbsp;컵의 위치&nbsp;<em>A</em><sub><em>i</em>,&nbsp;</sub><em>B<sub>i&nbsp;</sub></em>(1 &le; <em>A<sub>i</sub></em>, <em>B<sub>i</sub></em> &le; <em>N</em>, <em>A<sub><sup>i</sup></sub></em> &ne; <em>B<sub>i</sub></em>)가&nbsp;공백으로 구분되어&nbsp;주어진다.</p>
+
+<p>주어지는 모든 입력은 정수다.</p>
+
+### 출력
+
+<p>일우가 사기도박을 하지 않았다면, 공이 몇 번째 위치의 컵에 있어야 하는지 정수로&nbsp;출력하시오.</p>

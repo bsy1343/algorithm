@@ -1,0 +1,26 @@
+Case #1:
+Jan:***
+Feb:**
+Mar:
+Apr:***
+May:**
+Jun:*
+Jul:
+Aug:**
+Sep:*
+Oct:*
+Nov:
+Dec:
+Case #2:
+Jan:*
+Feb:*
+Mar:
+Apr:*
+May:*
+Jun:**
+Jul:
+Aug:
+Sep:
+Oct:*
+Nov:**
+Dec:*

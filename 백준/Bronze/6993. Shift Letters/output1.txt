@@ -1,0 +1,3 @@
+Shifting hobbit by 2 positions gives us: ithobb
+Shifting unexpected by 3 positions gives us: tedunexpec
+Shifting journey by 4 positions gives us: rneyjou

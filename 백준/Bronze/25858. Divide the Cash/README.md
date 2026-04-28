@@ -1,0 +1,29 @@
+# [Bronze IV] Divide the Cash - 25858
+
+[문제 링크](https://www.acmicpc.net/problem/25858)
+
+### 성능 요약
+
+시간 제한: 1 초 (추가 시간 없음), 메모리 제한: 1024 MB
+
+### 통계
+
+제출: 1648, 정답: 1374, 맞힌 사람: 1312, 정답 비율: 83.727%
+
+### 분류
+
+수학, 사칙연산
+
+### 문제 설명
+
+<p>The UCF Programming Team coaches schedule practices regularly in fall and spring (by the way, all UCF students are welcome to the practices). During summer, the majority of the team members are gone but the coaches know how to make sure the students don&rsquo;t get &ldquo;rusty&rdquo;. The coaches usually give prize money and reward the team members based on how many problems they solve during summer. For example, let&rsquo;s assume the coaches have \$1,000 in prize money and there are three students. Let&rsquo;s also assume the three students solve, respectively, 5, 8 and 7 problems, i.e., a total of 20 problems. So, the reward for one problem will be \$50 (\$1000/20) and the three team members will receive, respectively, \$250, $400 and \$350.</p>
+
+<p>Given the total prize money and the number of problems each team member has solved, compute the reward for each student.</p>
+
+### 입력
+
+<p>The first input line contains two integers: n (1 &le; n &le; 30), indicating the number of team members and d (1 &le; d &le; 30,000), indicating the dollar amount to be divided among the students. Each of the next n input lines contains an integer (between 1 and 300, inclusive) indicating the number of problems a team member has solved. Assume that the input values are such that the reward for one problem will be an integer number of dollars.</p>
+
+### 출력
+
+<p>Print the pay, in dollars, for each team member (in the same order as they appear in the input).</p>

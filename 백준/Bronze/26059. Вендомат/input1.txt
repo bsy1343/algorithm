@@ -1,0 +1,4 @@
+3 89,54
+ChipsIT 69,69
+YaChips 99,09
+noChips 0,00

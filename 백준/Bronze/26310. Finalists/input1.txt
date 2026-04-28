@@ -1,0 +1,7 @@
+17
+Japan 500 95 40 30 5
+Vietnam 400 50 150 40 20
+Indonesia 700 25 80 35 20
+Taiwan 200 30 100 35 1
+Korea 600 100 100 70 0
+Philippines 50 10 40 15 15

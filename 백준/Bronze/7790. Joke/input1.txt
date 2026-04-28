@@ -1,0 +1,15 @@
+In this joke problem all you have
+to do is to find how many times
+word "joke" can be found in the
+input file as substring
+Input file can contain any number
+of lines.
+And you have to find word "joke"
+in all text.
+But if one line contains beginning
+of word and the
+other line contains ending of word
+-- you don’t have to count it
+For example, jo
+ke is not counted.
+But joke is counted

@@ -1,0 +1,9 @@
+Scenario 1
+Day 1 OK
+Day 2 ALERT
+Day 3 ALERT
+Day 4 OK
+Scenario 2
+Day 1 ALERT
+Day 2 ALERT
+Day 3 OK

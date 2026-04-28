@@ -1,0 +1,7 @@
+Case #1:
+20 MyHotel
+no-hotel
+200 HisHotel
+Case #2:
+30 PurpleHotel
+30 GreenHotel

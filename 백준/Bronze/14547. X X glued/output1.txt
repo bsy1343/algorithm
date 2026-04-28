@@ -1,0 +1,4 @@
+0 0 glued
+2 2 glued and 3 3 glued
+0 0 glued
+4 4 glued

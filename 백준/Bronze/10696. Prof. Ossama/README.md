@@ -1,0 +1,27 @@
+# [Bronze III] Prof. Ossama - 10696
+
+[문제 링크](https://www.acmicpc.net/problem/10696)
+
+### 성능 요약
+
+시간 제한: 1 초, 메모리 제한: 256 MB
+
+### 통계
+
+제출: 584, 정답: 274, 맞힌 사람: 231, 정답 비율: 45.833%
+
+### 분류
+
+수학, 사칙연산, 임의 정밀도 / 큰 수 연산
+
+### 문제 설명
+
+<p>Prof. Ossama Ismail, the ACPC regional contest director, has decided one year that when making the financial plan for the ACPC he would first give each team the same maximum amount of money (each team will get the amount A, where A is as maximum as possible), and then he would spend any remaining money on other needs of the contest. Note that our fund raising team is quite good and so we had risen a substantially large amount of money. Given the fund and the number of teams, can you help him to find out how much money would be spent on other needs of the contest?</p>
+
+### 입력
+
+<p>Your program will be tested on one or more test cases. The first line of the input will be a single integer T, the number of test cases (1 &le; T &le; 100). Followed by T lines, each test case is a single line containing two integer N and X where N is the available fund (N is a positive integer without leading zeros and can consist of up to one million digits) and X is the number of teams. (1 &le; X &le; 10<sup>7</sup>)</p>
+
+### 출력
+
+<p>For each test case print a single line containing &ldquo;Case n:&rdquo; (without the quotes) where n is the test case number (starting from 1) followed by a space then R which is the money left to spend on other needs of the contest.</p>

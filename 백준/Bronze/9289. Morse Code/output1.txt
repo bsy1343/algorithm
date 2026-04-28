@@ -1,0 +1,5 @@
+Case 1: SUPER
+Case 2: SALAD
+Case 3: QUESO
+Case 4: DISCO
+Case 5: NYLON

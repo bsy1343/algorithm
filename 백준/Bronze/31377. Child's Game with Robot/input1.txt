@@ -1,0 +1,10 @@
+move north
+move east
+move south
+move west
+move east
+move east
+move south
+echo Ready!
+echo Steady...
+move north

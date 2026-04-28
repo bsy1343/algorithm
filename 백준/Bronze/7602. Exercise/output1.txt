@@ -1,0 +1,6 @@
+Machine 1
+Bill 500
+Jason 1000
+Machine 2
+Susan 1375
+Li 3500

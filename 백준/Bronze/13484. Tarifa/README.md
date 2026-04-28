@@ -1,0 +1,31 @@
+# [Bronze III] Tarifa - 13484
+
+[문제 링크](https://www.acmicpc.net/problem/13484)
+
+### 성능 요약
+
+시간 제한: 1 초, 메모리 제한: 64 MB
+
+### 통계
+
+제출: 928, 정답: 810, 맞힌 사람: 776, 정답 비율: 88.182%
+
+### 분류
+
+수학, 구현, 사칙연산
+
+### 문제 설명
+
+<p>Pero has negotiated a Very Good data plan with his internet provider. The provider will let&nbsp;Pero use up X megabytes to surf the internet per month. Each megabyte that he doesn&rsquo;t&nbsp;spend in that month gets transferred to the next month and can still be spent. Of course,&nbsp;Pero can only spend the megabytes he actually has.</p>
+
+<p>If we know how much megabytes Pero has spent in each of the first N months of using the&nbsp;plan, determine how many megabytes Pero will have available in the N + 1 month of using&nbsp;the plan.&nbsp;</p>
+
+### 입력
+
+<p>The first line of input contains the integer X (1 &le; X &le; 100).<br />
+The second line of input contains the integer N ​(1 &le; N &le; 100).<br />
+Each of the following N lines contains an integer P<sub>i&nbsp;</sub>(0 &le; P<sub>i&nbsp;</sub>​&le; 10 000), the number of&nbsp;megabytes spent in each of the first N months of using the plan. Numbers P<sub>i</sub> will be such that&nbsp;Pero will never use more megabytes than he actually has.&nbsp;</p>
+
+### 출력
+
+<p>The first and only line of output must contain the required value from the task.&nbsp;</p>

@@ -1,0 +1,10 @@
+Auckland Library
+Book 1 horizontal
+Book 2 horizontal
+Book 3 horizontal
+Book 4 horizontal
+Book 5 vertical
+Book 6 vertical
+Wellington Library
+Book 1 horizontal
+Book 2 vertical

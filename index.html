@@ -72,9 +72,13 @@
     padding: 8px 9px; font-size: 11px; font-family: var(--mono);
     cursor: pointer; white-space: nowrap; color: var(--text3);
     border-bottom: 2px solid transparent; transition: color 0.15s;
+    display: inline-flex; align-items: center; gap: 4px;
   }
   .tier-tab:hover { color: var(--text2); }
   .tier-tab.active { color: var(--text); border-bottom-color: var(--accent); }
+  .tier-tab .icon { font-size: 16px; line-height: 1; }
+  .tier-tab .icon.fav { color: var(--gold); }
+  .tier-tab .icon.solved { color: var(--accent); }
 
   .search-box { padding: 8px 10px; border-bottom: 1px solid var(--border); }
   .search-box input {
@@ -108,8 +112,8 @@
   .pi-title { font-size: 13px; color: var(--text); overflow: hidden; text-overflow: ellipsis; white-space: nowrap; flex: 1; min-width: 0; }
   .pi-meta { font-size: 10px; color: var(--text3); margin-top: 2px; font-family: var(--mono); padding-left: 12px; }
   .pi-fav {
-    flex-shrink: 0; cursor: pointer; padding: 4px 6px; line-height: 1;
-    color: var(--text3); font-size: 18px; user-select: none;
+    flex-shrink: 0; cursor: pointer; padding: 2px 4px; line-height: 1;
+    color: var(--text3); font-size: 14px; user-select: none;
     transition: color 0.1s, transform 0.1s;
   }
   .pi-fav:hover { color: var(--text); transform: scale(1.2); }
@@ -135,6 +139,7 @@
     color: var(--text); line-height: 1.2;
   }
   .home-stat-num.gold { color: var(--gold); }
+  .home-stat-num.green { color: var(--accent); }
   .home-stat-label { font-size: 11px; color: var(--text3); margin-top: 6px; font-family: var(--mono); letter-spacing: 0.04em; text-transform: uppercase; }
   .home-actions { display: flex; gap: 12px; margin-bottom: 32px; flex-wrap: wrap; justify-content: center; }
   .home-btn {
@@ -145,6 +150,8 @@
   .home-btn:hover { color: var(--text); border-color: var(--border2); background: var(--bg3); }
   .home-btn.primary { color: var(--gold); border-color: var(--gold); }
   .home-btn.primary:hover { background: var(--bg3); }
+  .home-btn.solved { color: var(--accent); border-color: var(--accent); }
+  .home-btn.solved:hover { background: var(--bg3); }
   .home-hint { font-size: 12px; color: var(--text3); font-family: var(--mono); }
   .home-hint code {
     background: var(--bg2); border: 1px solid var(--border); border-radius: 3px;
@@ -364,24 +371,27 @@
    * file fetch with proper Korean/space encoding.
    * ======================================================== */
   const Api = {
-    TREE_KEY: 'tree-cache-v3',  // v2 cached truncated-tree (missing Silver/Platinum); bump invalidates.
+    TREE_KEY: 'tree-cache-v5',  // v4 dropped per-tier sizes; bump to refetch with .java size.
     TREE_TTL_MS: 60 * 60 * 1000,
 
     init() {
       // Clean up legacy cache keys.
-      for (const k of ['tree-cache', 'tree-cache-v2']) {
+      for (const k of ['tree-cache', 'tree-cache-v2', 'tree-cache-v3', 'tree-cache-v4']) {
         try { localStorage.removeItem(k); } catch {}
       }
     },
 
     // Slim the GitHub tree to just what Parser needs: blob paths under 백준/.
     // Cuts cache size ~10x (25MB → ~3MB for 21k problems).
+    // Keep size for .java files — used to detect skeleton vs. real solution.
     slimTree(tree) {
       const out = [];
       for (const item of tree) {
         if (item.type !== 'blob') continue;
         if (!item.path.startsWith('백준/')) continue;
-        out.push({ type: 'blob', path: item.path });
+        const e = { type: 'blob', path: item.path };
+        if (item.path.toLowerCase().endsWith('.java') && item.size != null) e.size = item.size;
+        out.push(e);
       }
       return out;
     },
@@ -424,9 +434,14 @@
         if (!r.ok) throw new Error(`tier ${tn.path} HTTP ${r.status}`);
         const d = await r.json();
         // Re-prefix paths with 백준/Tier/ since per-tier tree paths are relative to that subtree.
+        // Keep size for .java files so Parser can compute hasSolution.
         return d.tree
           .filter(it => it.type === 'blob')
-          .map(it => ({ type: 'blob', path: `백준/${tn.path}/${it.path}` }));
+          .map(it => {
+            const e = { type: 'blob', path: `백준/${tn.path}/${it.path}` };
+            if (it.path.toLowerCase().endsWith('.java') && it.size != null) e.size = it.size;
+            return e;
+          });
       }));
       const combined = tierTrees.flat();
       return { tree: combined, etag: rootEtag, source: 'fresh' };
@@ -477,6 +492,9 @@
    * ======================================================== */
   const Parser = {
     PATH_RE: /^백준\/([^/]+)\/(\d+)\.\s*([^/]+?)\/(.+)$/,
+    // import-tier skeletons cap around 295 bytes (149 fixed + ≤150 title bytes).
+    // 250 lets us count even minimal hand-written A+B-style solutions as real.
+    SKELETON_MAX: 250,
 
     parseTree(tree) {
       const map = {};
@@ -487,7 +505,7 @@
         const [, tier, num, title, fname] = m;
         const key = `${tier}||${num}`;
         if (!map[key]) {
-          map[key] = { tier, num, title: title.trim(), files: { inputs: [], outputs: [] } };
+          map[key] = { tier, num, title: title.trim(), files: { inputs: [], outputs: [] }, hasSolution: false };
         }
         const fl = fname.toLowerCase();
         if (fl === 'readme.md') {
@@ -496,6 +514,7 @@
           const expected = `${map[key].title}.java`.toLowerCase();
           if (fl === expected) map[key].files.java = item.path;
           else if (!map[key].files.java) map[key].files.java = item.path;
+          if (item.size != null && item.size > this.SKELETON_MAX) map[key].hasSolution = true;
         } else if (/^input\d*\.txt$/.test(fl)) {
           map[key].files.inputs.push(item.path);
         } else if (/^output\d*\.txt$/.test(fl)) {
@@ -738,14 +757,15 @@
       const tiers = [...new Set(State.problems.map(p => p.tier))];
       const sorted = Parser.sortTiers(tiers);
       const favCount = State.favs.size;
-      const favLabel = favCount ? `★ ${favCount}` : '★';
+      const solvedCount = State.problems.filter(p => p.hasSolution).length;
       const all = [
-        { key: 'ALL', label: 'ALL' },
-        { key: '★', label: favLabel },
-        ...sorted.map(t => ({ key: t, label: t })),
+        { key: 'ALL', html: 'ALL' },
+        { key: '★', html: `<span class="icon fav">★</span>${favCount ? esc(String(favCount)) : ''}` },
+        { key: '✓', html: `<span class="icon solved">✓</span>${solvedCount ? esc(String(solvedCount)) : ''}` },
+        ...sorted.map(t => ({ key: t, html: esc(t) })),
       ];
       const html = all.map(t =>
-        `<div class="tier-tab${t.key === State.pref.tierFilter ? ' active' : ''}" data-tier="${esc(t.key)}">${esc(t.label)}</div>`
+        `<div class="tier-tab${t.key === State.pref.tierFilter ? ' active' : ''}" data-tier="${esc(t.key)}">${t.html}</div>`
       ).join('');
       const el = document.getElementById('tier-tabs');
       el.innerHTML = html;
@@ -764,6 +784,7 @@
       let list;
       if (State.pref.tierFilter === 'ALL') list = State.problems;
       else if (State.pref.tierFilter === '★') list = State.problems.filter(p => State.isFav(p));
+      else if (State.pref.tierFilter === '✓') list = State.problems.filter(p => p.hasSolution);
       else list = State.problems.filter(p => p.tier === State.pref.tierFilter);
       if (q) list = list.filter(p => p.num.includes(q) || p.title.toLowerCase().includes(q));
 
@@ -1415,8 +1436,7 @@
       if (!main) return;
       const totalProblems = State.problems.length;
       const favCount = State.favs.size;
-      let draftCount = 0;
-      try { draftCount = Object.keys(JSON.parse(localStorage.getItem(State.DRAFT_KEY) || '{}')).length; } catch {}
+      const solvedCount = State.problems.filter(p => p.hasSolution).length;
       const loaded = totalProblems > 0;
 
       main.innerHTML = `
@@ -1433,26 +1453,31 @@
               <div class="home-stat-label">즐겨찾기</div>
             </div>
             <div class="home-stat">
-              <div class="home-stat-num">${draftCount}</div>
-              <div class="home-stat-label">작성한 풀이</div>
+              <div class="home-stat-num green">${solvedCount}</div>
+              <div class="home-stat-label">풀이 있음</div>
             </div>
           </div>
           <div class="home-actions">
             <button class="home-btn primary" id="home-fav-btn">★ 학습 코스 보기</button>
+            <button class="home-btn solved" id="home-solved-btn">✓ 내 풀이</button>
             <button class="home-btn" id="home-all-btn">전체 둘러보기</button>
           </div>
           <div class="home-hint">왼쪽 사이드바에서 문제 클릭, 또는 <code>문제 번호 / 제목</code>으로 검색하세요.</div>
         </div>
       `;
-      const favBtn = document.getElementById('home-fav-btn');
-      if (favBtn) favBtn.addEventListener('click', () => {
+      document.getElementById('home-fav-btn')?.addEventListener('click', () => {
         State.pref.tierFilter = '★';
         State.savePref();
         Sidebar.buildTabs();
         Sidebar.renderList();
       });
-      const allBtn = document.getElementById('home-all-btn');
-      if (allBtn) allBtn.addEventListener('click', () => {
+      document.getElementById('home-solved-btn')?.addEventListener('click', () => {
+        State.pref.tierFilter = '✓';
+        State.savePref();
+        Sidebar.buildTabs();
+        Sidebar.renderList();
+      });
+      document.getElementById('home-all-btn')?.addEventListener('click', () => {
         State.pref.tierFilter = 'ALL';
         State.savePref();
         Sidebar.buildTabs();

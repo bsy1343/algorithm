@@ -18,7 +18,7 @@
 
 <p>어떤 신문엔 이러한 퍼즐이 있다. 3x3의 표에 영문자가 하나씩 있으며, 이 영문자들을 사용해서 최대한 많은 영단어를 만드는 것이 목표이다. 예를 들면, 아래의 퍼즐판에서는 &#39;LINT&#39;, &#39;TILL&#39;, &#39;BRILLIANT&#39; 등을 만들 수 있다.</p>
 
-<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/1148.%E2%80%85%EB%8B%A8%EC%96%B4%E2%80%85%EB%A7%8C%EB%93%A4%EA%B8%B0/ca141122.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/1148/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:111px; width:111px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/1148.%E2%80%85%EB%8B%A8%EC%96%B4%E2%80%85%EB%A7%8C%EB%93%A4%EA%B8%B0/ca141122.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/1148.%E2%80%85%EB%8B%A8%EC%96%B4%E2%80%85%EB%A7%8C%EB%93%A4%EA%B8%B0/ca141122.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/1148/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:111px; width:111px" /></p>
 
 <p><br />
 단어는 최소 4글자 이상이어야 하며, 한 글자당 최대 1번만 사용할 수 있다. 따라서 10글자 이상의 단어는 만들 수 없다. 또한, 표의 정중앙에 있는 글자는 반드시 사용해야 한다. 위 퍼즐판의 경우 &#39;I&#39;는 반드시 사용해야 한다.</p>

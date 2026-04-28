@@ -22,11 +22,11 @@
 
 <p>아래 그림은 피자의 한 예이다. 검정 점은 토핑이고, 아래 조각의 아름다운 컷의 개수는 1개이다.</p>
 
-<p style="text-align: center;"><img alt="" height="291" src="%EB%B0%B1%EC%A4%80/Platinum/1142.%E2%80%85%ED%94%BC%EC%9E%90/4877b1cb.jpg" data-original-src="https://www.acmicpc.net/upload/201003/p1.JPG" onerror="this.onerror=null;this.src=this.dataset.originalSrc" width="291" /></p>
+<p style="text-align: center;"><img alt="" height="291" src="%EB%B0%B1%EC%A4%80/Platinum/1142.%E2%80%85%ED%94%BC%EC%9E%90/4877b1cb.jpg" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/1142.%E2%80%85%ED%94%BC%EC%9E%90/4877b1cb.jpg" data-original-src="https://www.acmicpc.net/upload/201003/p1.JPG" onerror="this.onerror=null;this.src=this.dataset.originalSrc" width="291" /></p>
 
 <p>아래 피자는 아름다운 컷이 총 4개 있다.</p>
 
-<p style="text-align: center;"><img alt="" height="291" src="%EB%B0%B1%EC%A4%80/Platinum/1142.%E2%80%85%ED%94%BC%EC%9E%90/ff25ca9f.jpg" data-original-src="https://www.acmicpc.net/upload/201003/p2.JPG" onerror="this.onerror=null;this.src=this.dataset.originalSrc" width="291" /></p>
+<p style="text-align: center;"><img alt="" height="291" src="%EB%B0%B1%EC%A4%80/Platinum/1142.%E2%80%85%ED%94%BC%EC%9E%90/ff25ca9f.jpg" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/1142.%E2%80%85%ED%94%BC%EC%9E%90/ff25ca9f.jpg" data-original-src="https://www.acmicpc.net/upload/201003/p2.JPG" onerror="this.onerror=null;this.src=this.dataset.originalSrc" width="291" /></p>
 
 <p>피자가 주어지고, 토핑의 위치가 주어졌을 때, 아름다운 컷의 개수를 출력하는 프로그램을 작성하시오. 피자의 크기는 무한히 크기 때문에, 모든 토핑을 포함할 수 있다. 그리고, 피자의 중심이 좌표가 (0, 0)이다.</p>
 

@@ -18,7 +18,7 @@
 
 <p>어떤 지역에서는 N 종류의 생물이 모여서 살고 있다. 이 중 두 종류의 생물 사이에 잡아먹고 먹히는 관계가 성립할 수 있는데, 잡아먹는 쪽을 포식자라고 하며 먹히는 쪽을 피식자라 한다. 이러한 관계가 여러 생물들 사이에서 이어지면 사슬과 같은 천적 관계를 형성하게 된다. 이것이 바로 먹이연쇄이다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/1293.%E2%80%85%EC%83%9D%EB%AC%BC%EB%86%8D%EC%B6%95/81120939.bmp" data-original-src="https://www.acmicpc.net/upload/201004/sang.bmp" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/1293.%E2%80%85%EC%83%9D%EB%AC%BC%EB%86%8D%EC%B6%95/81120939.bmp" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/1293.%E2%80%85%EC%83%9D%EB%AC%BC%EB%86%8D%EC%B6%95/81120939.bmp" data-original-src="https://www.acmicpc.net/upload/201004/sang.bmp" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>먹이연쇄는 &quot;먹이&quot;의 형태로 태양에너지가 생물의 몸속으로 차례차례 전송되어 가는 과정이다. 다른 생물이 아닌 태양에너지를 에너지원으로 삼아 무기물에서 유기물을 합성하는 생물을 생산자라고 하고, 다른 생물을 먹어 에너지원으로 삼는 생물을 소비자라고 한다.</p>
 

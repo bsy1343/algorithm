@@ -20,11 +20,11 @@
 
 <p>이 게임에서 정사각형을 색칠할 때에는 조건이 한 가지 있는데, 모눈종이의 가장 위부터 차례대로 1번째 줄, 2번째 줄, 이렇게 번호를 매겼을 때, 2&times;2 크기의 정사각형의 위의 절반은 반드시 홀수번째 줄에 색칠해야 한다는 것이다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/1603.%E2%80%85%EC%9E%91%EC%9D%80%E2%80%85%EC%A0%95%EC%82%AC%EA%B0%81%ED%98%95/49f7582e.png" data-original-src="https://upload.acmicpc.net/e1c88c54-1579-4b39-94c5-c10612ce9443/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 628px; height: 200px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/1603.%E2%80%85%EC%9E%91%EC%9D%80%E2%80%85%EC%A0%95%EC%82%AC%EA%B0%81%ED%98%95/49f7582e.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/1603.%E2%80%85%EC%9E%91%EC%9D%80%E2%80%85%EC%A0%95%EC%82%AC%EA%B0%81%ED%98%95/49f7582e.png" data-original-src="https://upload.acmicpc.net/e1c88c54-1579-4b39-94c5-c10612ce9443/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 628px; height: 200px;" /></p>
 
 <p>초록색과 같이 칠하는 것은 가능한 방법이다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/1603.%E2%80%85%EC%9E%91%EC%9D%80%E2%80%85%EC%A0%95%EC%82%AC%EA%B0%81%ED%98%95/45dbc4ca.png" data-original-src="https://upload.acmicpc.net/71df7a54-8045-4d93-88d8-67ed07c7d0c4/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 627px; height: 200px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/1603.%E2%80%85%EC%9E%91%EC%9D%80%E2%80%85%EC%A0%95%EC%82%AC%EA%B0%81%ED%98%95/45dbc4ca.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/1603.%E2%80%85%EC%9E%91%EC%9D%80%E2%80%85%EC%A0%95%EC%82%AC%EA%B0%81%ED%98%95/45dbc4ca.png" data-original-src="https://upload.acmicpc.net/71df7a54-8045-4d93-88d8-67ed07c7d0c4/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 627px; height: 200px;" /></p>
 
 <p>빨간색과 같이 칠하는 것은 불가능한 방법이다.</p>
 

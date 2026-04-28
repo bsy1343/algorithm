@@ -24,7 +24,7 @@
 
 <p>The duration of a note is indicated by its shape. In this problem, we will use uppercase letters to indicate a note&rsquo;s duration. The following table lists all the available notes:</p>
 
-<p style="text-align: center;"><img alt="" src="/upload/images2/jingle(1).png" style="height:86px; width:389px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/5715.%E2%80%85Jingle%E2%80%85Composing/7ea9ff67.png" data-original-src="https://www.acmicpc.net/upload/images2/jingle(1).png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:86px; width:389px" /></p>
 
 <p>The duration of a measure is the sum of the durations of its notes. In Marcos&rsquo; jingles, each measure has the same duration. As Marcos is just a beginner, his famous teacher Johann Sebastian III taught him that the duration of a measure must always be 1.</p>
 

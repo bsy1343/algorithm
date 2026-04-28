@@ -20,7 +20,7 @@
 
 <p>예를 들면, 다음은 3*3 마방진 중 하나이다. 가로줄, 세로줄, 대각선의 합이 모두 15로 같다는 것을 알 수 있다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/1307.%E2%80%85%EB%A7%88%EB%B0%A9%EC%A7%84/2726a388.jpg" data-original-src="https://www.acmicpc.net/upload/201004/mmm.JPG" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 135px; width: 137px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/1307.%E2%80%85%EB%A7%88%EB%B0%A9%EC%A7%84/2726a388.jpg" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/1307.%E2%80%85%EB%A7%88%EB%B0%A9%EC%A7%84/2726a388.jpg" data-original-src="https://www.acmicpc.net/upload/201004/mmm.JPG" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 135px; width: 137px;" /></p>
 
 <p>N이 주어졌을 때 N*N 마방진을 하나 구해 보자.</p>
 

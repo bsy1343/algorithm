@@ -26,7 +26,7 @@
 
 <p>다음 그림은 정점 선인장이다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/1170.%E2%80%85%EC%84%A0%EC%9D%B8%EC%9E%A5%EC%9D%98%E2%80%85%EA%B0%9C%EC%88%98/56c988b2.png" data-original-src="https://upload.acmicpc.net/1fcae9ac-a8aa-4a0f-b695-8b03db9ac660/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/1170.%E2%80%85%EC%84%A0%EC%9D%B8%EC%9E%A5%EC%9D%98%E2%80%85%EA%B0%9C%EC%88%98/56c988b2.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/1170.%E2%80%85%EC%84%A0%EC%9D%B8%EC%9E%A5%EC%9D%98%E2%80%85%EA%B0%9C%EC%88%98/56c988b2.png" data-original-src="https://upload.acmicpc.net/1fcae9ac-a8aa-4a0f-b695-8b03db9ac660/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>그래프 G의 정점의 개수 N이 주어진다. 정점은 1번부터 N번까지 번호가 매겨져 있다. 그래프의 간선이 어떻게 연결되어 있는지가 주어질 때, 그래프 G의 연결 요소 중 정점 선인장인 것의 개수를 출력하는 프로그램을 작성하시오.</p>
 

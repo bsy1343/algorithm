@@ -18,7 +18,7 @@
 
 <p>민식이는 애들과 토론 중이다. 안타깝게 민식이의 남의 말을 제대로 알아듣지 못한다. 민식이 귀가 다른 사람이 한 말을 인식하는 방법은 다음과 같다. 일단 민식이는 다른 사람이 말한 말을 2진수로 바꾸어 듣는다. 그리고 다른 사람이 한 말의 i번째 비트는 민식이가 인식하는 이진수의 j번째 비트에 위치하게 되는데 항상 |j - i| &le; D가 성립한다. 이렇게 만들어진 이진수로 민식이는 알아듣게 된다.</p>
 <p>만약 다른 사람이 한 말이 0110이라면 민식이가 알아듣는 이진수의 후보는 0101, 0110, 1001, 1010으로 총 4가지이다.</p>
-<p><img width="222" height="76" alt="" src="%EB%B0%B1%EC%A4%80/Platinum/1171.%E2%80%85%EC%82%AC%EC%98%A4%EC%A0%95/4a84ec73.jpg" data-original-src="https://www.acmicpc.net/upload/201003/picpicp.JPG" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p><img width="222" height="76" alt="" src="%EB%B0%B1%EC%A4%80/Platinum/1171.%E2%80%85%EC%82%AC%EC%98%A4%EC%A0%95/4a84ec73.jpg" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/1171.%E2%80%85%EC%82%AC%EC%98%A4%EC%A0%95/4a84ec73.jpg" data-original-src="https://www.acmicpc.net/upload/201003/picpicp.JPG" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 <p>문제는 다른 사람이 말하는 이진수와 정수 D, K가 주어지면 민식이가 알아듣는 이진수 후보의 개수와 이 후보들 중 K번째로 작은 이진수를 출력하는 문제이다.</p>
 
 ### 입력

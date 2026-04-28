@@ -23,9 +23,9 @@
 <table class="table table-bordered td-center">
 	<tbody>
 		<tr>
-			<td><img alt="" src="https://upload.acmicpc.net/64a2724d-4502-42c9-a046-cdcfb2bc9ea2/-/crop/309x314/0,0/-/preview/" style="width: 154px; height: 156px;" /></td>
-			<td><img alt="" src="https://upload.acmicpc.net/64a2724d-4502-42c9-a046-cdcfb2bc9ea2/-/crop/315x314/343,0/-/preview/" style="width: 158px; height: 157px;" /></td>
-			<td><img alt="" src="https://upload.acmicpc.net/64a2724d-4502-42c9-a046-cdcfb2bc9ea2/-/crop/311x314/691,0/-/preview/" style="width: 156px; height: 157px;" /></td>
+			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/5497.%E2%80%85XOR%E2%80%851/e6292e32.png" data-original-src="https://upload.acmicpc.net/64a2724d-4502-42c9-a046-cdcfb2bc9ea2/-/crop/309x314/0,0/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 154px; height: 156px;" /></td>
+			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/5497.%E2%80%85XOR%E2%80%851/0762a118.png" data-original-src="https://upload.acmicpc.net/64a2724d-4502-42c9-a046-cdcfb2bc9ea2/-/crop/315x314/343,0/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 158px; height: 157px;" /></td>
+			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/5497.%E2%80%85XOR%E2%80%851/f6a5e925.png" data-original-src="https://upload.acmicpc.net/64a2724d-4502-42c9-a046-cdcfb2bc9ea2/-/crop/311x314/691,0/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 156px; height: 157px;" /></td>
 		</tr>
 		<tr>
 			<td>Figure-1</td>

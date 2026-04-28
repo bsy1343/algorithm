@@ -18,7 +18,7 @@
 
 <p>Given the tire descriptor typically found on the sidewall of a passenger or light truck tire, you will calculate the tire&#39;s overall circumference. Each line of the sample input contains an example of a tire descriptor. The following diagram illustrates some of the terminology:</p>
 
-<p><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/4855/definitions.gif" style="height:358px; width:367px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/4855.%E2%80%85Tire%E2%80%85Dimensions/ba2b7822.gif" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/4855/definitions.gif" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:358px; width:367px" /></p>
 
 <p>The tire descriptor contains the following items of information:</p>
 

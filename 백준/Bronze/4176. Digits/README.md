@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p><img alt="" src="/upload/images2/D.png" style="float:right; height:164px; width:270px" />A googol written out in decimal has 101 digits. A googolplex has one plus a googol digits. That&#39;s a lot of digits!</p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/4176.%E2%80%85Digits/9c113c85.png" data-original-src="https://www.acmicpc.net/upload/images2/D.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="float:right; height:164px; width:270px" />A googol written out in decimal has 101 digits. A googolplex has one plus a googol digits. That&#39;s a lot of digits!</p>
 
 <p>Given any number x<sub>0</sub>, define a sequence using the following recurrence:</p>
 

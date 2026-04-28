@@ -22,7 +22,7 @@
 
 <p>세준이는 자기가 그린 직사각형으로 몇 개의 정사각형을 만들 수 있는지 궁금해졌다. 만약 세준이가 아래와 같이 직사각형을 3개 그렸다면, 정사각형은 총 14개가 나온다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/1478.%E2%80%85%EC%A0%95%EC%82%AC%EA%B0%81%ED%98%95/3bd0aa46.png" data-original-src="https://upload.acmicpc.net/ddb40615-3c0d-4108-a7d3-d806852e85ca/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/1478.%E2%80%85%EC%A0%95%EC%82%AC%EA%B0%81%ED%98%95/3bd0aa46.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/1478.%E2%80%85%EC%A0%95%EC%82%AC%EA%B0%81%ED%98%95/3bd0aa46.png" data-original-src="https://upload.acmicpc.net/ddb40615-3c0d-4108-a7d3-d806852e85ca/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>세준이가 그린 직사각형의 정보가 주어졌을 때, 정사각형의 개수를 세는 프로그램을 작성하시오.</p>
 

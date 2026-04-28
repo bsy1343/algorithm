@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/4727/1.png" style="float:right; height:436px; width:222px" />The nutritional food label has become ubiquitous. A sample label is shown to the right. On the label the number of calories and the number of grams of fat, carbohydrate, and protein are given as integers.</p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/4727.%E2%80%85Close%E2%80%85Enough%E2%80%85Computations/bd28b9d1.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/4727/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="float:right; height:436px; width:222px" />The nutritional food label has become ubiquitous. A sample label is shown to the right. On the label the number of calories and the number of grams of fat, carbohydrate, and protein are given as integers.</p>
 
 <p>But carefully reading the label may cause the consumer to notice some inconsistencies. A gram of fat has 9 calories, a gram of carbohydrate has 4 calories, and a gram of protein has 4 calories. Consider the label to the right. A simple computation of the number of calories would indicate that the food should contain 12*9 + 31*4 + 5*4 or 252 calories, but the label indicates it has 250 calories.</p>
 

@@ -18,7 +18,7 @@
 
 <p>나이트 투어는 체스판에서 나이트가 모든 칸을 정확히 한 번씩 방문하며, 마지막으로 방문하는 칸에서 시작점으로 돌아올 수 있는 경로이다. 다음 그림은 나이트 투어의 한 예이다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/1331.%E2%80%85%EB%82%98%EC%9D%B4%ED%8A%B8%E2%80%85%ED%88%AC%EC%96%B4/ef2ed6db.jpg" data-original-src="https://www.acmicpc.net/upload/201004/chee.JPG" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:170px; width:170px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/1331.%E2%80%85%EB%82%98%EC%9D%B4%ED%8A%B8%E2%80%85%ED%88%AC%EC%96%B4/ef2ed6db.jpg" data-original-src="%EB%B0%B1%EC%A4%80/Silver/1331.%E2%80%85%EB%82%98%EC%9D%B4%ED%8A%B8%E2%80%85%ED%88%AC%EC%96%B4/ef2ed6db.jpg" data-original-src="https://www.acmicpc.net/upload/201004/chee.JPG" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:170px; width:170px" /></p>
 
 <p>영식이는 6&times;6 체스판 위에서 또 다른 나이트 투어의 경로를 찾으려고 한다. 체스판의 한 칸은 A, B, C, D, E, F 중에서&nbsp;하나와 1, 2, 3, 4, 5, 6&nbsp;중에서&nbsp;하나를 이어 붙인 것으로 나타낼 수 있다. 영식이의 나이트 투어 경로가 주어질 때, 이것이 올바른 것이면 Valid, 올바르지 않으면 Invalid를 출력하는 프로그램을 작성하시오.</p>
 

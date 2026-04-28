@@ -20,7 +20,7 @@
 
 <p>You can assume that the village is a collection of two-dimensional buildings over the x-axis. The buildings are attached to each other and all have horizontal roofs with the same width of 1 meter, but the roof heights may be different. The dike, located at the beginning of the village, is at least 1 meter taller than all other buildings and is leaking from its top with the rate of 1m<sup>2</sup> per minute. There is a wall as high as the dike at the end of the village attached to the last building. You are asked to write a program to help one specific villager to compute the time left for his/her building to go 1 meter under the water.</p>
 
-<p><img alt="" src="https://onlinejudgeimages.s3.amazonaws.com/problem/6251/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-09-13%20%EC%98%A4%ED%9B%84%205.25.24.png" style="height:201px; width:270px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/6251.%E2%80%85Leaking%E2%80%85Dike/42da9a38.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/6251/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-09-13%20%EC%98%A4%ED%9B%84%205.25.24.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:201px; width:270px" /></p>
 
 ### 입력
 

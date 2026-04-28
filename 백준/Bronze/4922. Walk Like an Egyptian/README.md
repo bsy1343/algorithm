@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p><img alt="" src="https://onlinejudgeimages.s3.amazonaws.com/problem/4922/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-06-10%20%EC%98%A4%ED%9B%84%206.11.17.png" style="float:right; height:276px; width:111px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/4922.%E2%80%85Walk%E2%80%85Like%E2%80%85an%E2%80%85Egyptian/e07b02df.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/4922/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-06-10%20%EC%98%A4%ED%9B%84%206.11.17.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="float:right; height:276px; width:111px" /></p>
 
 <p>Walk Like an Egyptian is an old multi-player board game played by children of the Sahara nomad tribes. Back in the old days, children would collect stones, and number each one of them. A game with N players requires N2 stones. Each player chooses N stones. The stones are then laid out on an N &times; N grid in a peculiar order as in Figure (a) (for N = 4.) The player whose stone is placed in the top-right corner loses the round. Another round is then played but with N &minus; 1 players. In total, N &minus; 1 rounds are played to determine the winner.</p>
 

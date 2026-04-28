@@ -26,7 +26,7 @@
 
 <p>만약 모든 백성들이 가장 빠른 경로로만 이동해서 국경을 넘는다면, 과연 얼마 후에야 모든 사람들이 국경을 넘을 수 있는지 계산하라.</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/1255.%E2%80%85%EC%A0%84%EC%9F%81%E2%80%85-%E2%80%85%EC%84%A0%EC%A0%84%ED%8F%AC%EA%B3%A0/8216a06f.png" data-original-src="https://upload.acmicpc.net/8e92393f-4404-44ef-9c63-a1c50d497d47/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/1255.%E2%80%85%EC%A0%84%EC%9F%81%E2%80%85-%E2%80%85%EC%84%A0%EC%A0%84%ED%8F%AC%EA%B3%A0/8216a06f.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/1255.%E2%80%85%EC%A0%84%EC%9F%81%E2%80%85-%E2%80%85%EC%84%A0%EC%A0%84%ED%8F%AC%EA%B3%A0/8216a06f.png" data-original-src="https://upload.acmicpc.net/8e92393f-4404-44ef-9c63-a1c50d497d47/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 ### 입력
 

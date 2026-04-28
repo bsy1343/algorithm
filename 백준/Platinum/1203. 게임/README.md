@@ -18,7 +18,7 @@
 
 <p>N명의 학생이 원탁에 둘러앉아 게임을 하려한다. N명의 학생 중 한 사람이 동전을 받으면서 이 게임은 시작된다. 어떤 사람이 동전을 받았을 때 지정된 특정한 확률로 바로 왼쪽 옆 사람에게 주거나 아니면 오른쪽 옆 사람에게 줄 수 있다. 마찬가지로 동전을 받은 사람 역시 옆사람에게 전달을 하는 식으로 게임은 진행된다. 여기서 왼쪽 혹은 오른쪽 사람에게 줄 확률은 개개인마다 서로 다르다. 이런 식으로 모든 사람이 동전을 적어도 한 번 이상 받은 적이 있으면 게임은 끝나게 되고 마지막으로 동전을 받은 사람이 이 게임의 승자가 된다.&nbsp;</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/1203.%E2%80%85%EA%B2%8C%EC%9E%84/1ef57c26.png" data-original-src="https://www.acmicpc.net/upload/201003/Untitled.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:145px; width:149px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/1203.%E2%80%85%EA%B2%8C%EC%9E%84/1ef57c26.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/1203.%E2%80%85%EA%B2%8C%EC%9E%84/1ef57c26.png" data-original-src="https://www.acmicpc.net/upload/201003/Untitled.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:145px; width:149px" /></p>
 
 <p>문제는 N명의 학생이 위 그림과 같은 순서로 둘러앉았을 때, (i번 학생의 오른쪽에 i+1번 학생이 앉고 단, N번 학생 오른쪽은 1번 학생이 앉는 방식) N번 학생이 이 게임의 승자가 될 확률을 구하는 것이다.</p>
 

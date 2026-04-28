@@ -1,0 +1,2 @@
+scenario #1: anna owns the amiga.
+scenario #2: cannot identify the amiga owner.

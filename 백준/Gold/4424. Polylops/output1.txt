@@ -1,0 +1,3 @@
+Polygon #1 has 1 symmetry line(s).
+Polygon #2 has 0 symmetry line(s).
+Polygon #3 has 1 symmetry line(s).

@@ -1,0 +1,7 @@
+Player 2 can be ranked as high as 2 or as low as 8.
+Player 5 can be ranked as high as 3 or as low as 7.
+
+Player 1 can be ranked as high as 4 or as low as 16.
+Player 15 can be ranked as high as 3 or as low as 13.
+Player 7 can be ranked as high as 2 or as low as 15.
+Player 6 can be ranked as high as 1 or as low as 1.

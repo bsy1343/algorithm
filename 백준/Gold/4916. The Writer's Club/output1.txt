@@ -1,0 +1,6 @@
+--- CASE 1
+alice ringo
+bob john paul ringo
+--- CASE 2
+taha ehsan
+tantawi aqqad ehsan

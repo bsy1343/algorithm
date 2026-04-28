@@ -1,0 +1,6 @@
+Equation 1 is unbalanced.
+You have destroyed 2 atoms of Br.
+You have created 1 atom of He.
+
+Equation 2 is balanced.
+Equation 3 is balanced.

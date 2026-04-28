@@ -1,0 +1,17 @@
+2
+4 3 2 3
+coin butterknife suit
+sword chainmail
+1 suit
+1 chainmail
+3 butterknife butterknife butterknife
+1 sword
+1 coin
+2 butterknife butterknife
+1 1 1 2
+pvcpipe
+lance
+1 pvcpipe
+1 shield
+1 shield
+1 lance

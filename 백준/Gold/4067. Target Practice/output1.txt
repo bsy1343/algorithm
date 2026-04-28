@@ -1,0 +1,2 @@
+Target set 1 can be cleared using only 4 shots.
+Target set 2 can be cleared using only 3 shots.

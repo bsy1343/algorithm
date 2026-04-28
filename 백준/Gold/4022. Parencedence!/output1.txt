@@ -1,0 +1,8 @@
+Case 1:
+Player 1 (7+12) leads to -2
+Player 2 (3-6) leads to -27
+Player 2 wins
+Case 2:
+Player 1 (-67-3) leads to 115
+Player 2 (45--67) leads to 109
+Player 1 wins

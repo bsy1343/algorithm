@@ -1,0 +1,12 @@
+GRAPH BEGIN
+a b c
+b c d e
+c d e
+e d f
+GRAPH END
+a
+b
+c
+d
+e
+f

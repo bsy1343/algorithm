@@ -1,0 +1,31 @@
+# [Gold III] Hall of Fountains - 6557
+
+[문제 링크](https://www.acmicpc.net/problem/6557)
+
+### 성능 요약
+
+시간 제한: 1 초, 메모리 제한: 128 MB
+
+### 통계
+
+제출: 12, 정답: 4, 맞힌 사람: 3, 정답 비율: 33.333%
+
+### 분류
+
+다이나믹 프로그래밍, 수학
+
+### 문제 설명
+
+<p>The Museum of Modern Art has a really exciting exhibition: a kind of a longish hall composed of a sequence of quadratic-shaped rooms. Each room is equipped with a water fountain. Each fountain is characterized by a number <em>p</em> and acts independent of the others. It will be turned on for exactly <em>p</em> seconds, then it will be turned off for exactly <em>p</em> seconds, then on again, then off again, and so on for good. However, different fountains may have different values of <em>p</em>. And even if they share the same value, they still may perform not identically, for they might have been started at different times.</p>
+
+<p>You stand in front of the first room, and want to cross the hall to the other end. Each of your steps takes exactly 1 second. You are able to move one room forward (unless you already reached the other end), one room backward (unless you are at the beginning), or just stay at your current position. Calculate the shortest time to reach the other end, if it is possible at all.</p>
+
+<p>Since you do not want to get wet, you can only move into a room where the water fountain will be off during the second after your step. For example, suppose that the fountain in the next room behaves so, that it is on at times 0, 1, 2, then off at times 3, 4, 5, 6, then on at times 7, 8, 9, 10, then off again (which indicates <em>p=4</em> with an offset of 7). Then, you can move at time 2 into the room, arriving there at time 3, when the fountain is off. But you cannot move at time 6 into the room, because at time 7 it will be on.</p>
+
+### 입력
+
+<p>The input contains several test cases. Each test case starts with the number of fountains <em>n</em>. Input is terminated by <em>n=0</em>. Otherwise, <em>1&lt;=n&lt;=100</em>. Then follow <em>n</em> numbers <em>p<sub>i</sub></em> denoting the time each fountain is on and off, where <em>0&lt;=p<sub>i</sub>&lt;=10</em>. A value of <em>0</em> for <em>p<sub>i</sub></em> indicates that fountain <em>i</em> is out of order (i.e. constantly off). Then follow <em>n</em> numbers <em>q<sub>i</sub></em> denoting the offset of each fountain, where <em>0&lt;=q<sub>i</sub>&lt;2*p<sub>i</sub></em>, unless the fountain is out of order, in which case <em>q<sub>i</sub></em> is meaningless. Otherwise it means that fountain <em>i</em> will be on at time <em>q<sub>i</sub></em>, but off just one second before.</p>
+
+### 출력
+
+<p>For each test case output on a line a single number <em>t</em> denoting the shortest time needed to reach the end of the hall (i.e. to enter the place after the last room). Assume, that you are in front of the first room at time <em>0</em> (i.e. you can enter the first room at time <em>1</em>, if the fountain is off at time <em>1</em>). If it is impossible to go through the hall of fountains, print <em>0</em> instead.</p>

@@ -1,0 +1,11 @@
+[][]X
+nn[]X
+uu[]n
+[][]u
+3
+
+impossible
+
+nnn
+uuu
+0

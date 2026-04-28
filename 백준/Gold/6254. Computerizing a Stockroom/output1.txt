@@ -1,0 +1,16 @@
+No computer is currently given out to the employees.
+There are 2 items of "1GB RAM" left in the stockroom, 1 working and 1 not working.
+There are 3 items of "CPU Pentium IV 2GHz" left in the stockroom, all working.
+There is one "optical mouse" left in the stockroom which is working.
+###
+There are 2 employees who currently have a computer:
+Abbaas
+Dehghaan Fadaakaar
+There are 2 items of "2GB DDR3 RAM" left in the stockroom, all not working.
+There are 3 items of "500GB Hard" left in the stockroom, 2 working and 1 not working.
+There are 2 items of "dual core CPU" left in the stockroom, all working.
+There is no "DVD Drive" left in the stockroom.
+There is one "Green case" left in the stockroom which is working.
+There are 2 items of "keyboard" left in the stockroom, all working.
+There is one "motherboard" left in the stockroom which is not working.
+There is one "optical mouse" left in the stockroom which is working.

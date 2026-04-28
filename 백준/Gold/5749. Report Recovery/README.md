@@ -1,0 +1,33 @@
+# [Gold II] Report Recovery - 5749
+
+[문제 링크](https://www.acmicpc.net/problem/5749)
+
+### 성능 요약
+
+시간 제한: 3 초, 메모리 제한: 128 MB
+
+### 통계
+
+제출: 37, 정답: 3, 맞힌 사람: 3, 정답 비율: 12.000%
+
+### 분류
+
+그리디 알고리즘, 문자열, 누적 합, 백트래킹, 재귀
+
+### 문제 설명
+
+<p>At the end of the week, John asked Mary to send him an urgent sales report. Mary was in a hurry because she was leaving for her holiday. She then copy-pasted the sales sheet on an email, sent it to John and went out. She did not want to be annoyed with work issues, so she left without telling anyone where she would be. She announced that she would be simply not available for the next two weeks, turned off her cell phone, and left.</p>
+
+<p>When John received the message he realized that the report had no spaces at all! He knew that the report should have a header line with product codes of the form P1, P2, . . ., PN and the word Totals at the end. Then there would be several lines reporting product sales for the different sellers of Mary&rsquo;s office. Each seller was identified with a name composed by one word (only alphabetical characters). The line corresponding to a seller should begin with his/her name, followed by the number of sold products, according to the columns&rsquo; report. The last line of the report should begin with the two letters TP followed by the totals of each column in the report (of course, no seller&rsquo;s name began with the letters TP). John knew that there were no negative numbers in the report, a zero quantity was reported with a single 0, and there were no leading zeros when reporting a positive quantity.</p>
+
+<p>At this point, John decided to reconstruct Mary&rsquo;s report. He knew that there could be more than one possible result, but he wanted to do it anyway with the first consistent solution that he could find (maybe he could fix any mistakes when Mary comes back).</p>
+
+<p>Could you help John with the recovering of Mary&rsquo;s sales report?</p>
+
+### 입력
+
+<p>The input consists of several test cases. The first line in the input contains an integer C specifying the number of test cases. The first line of a report is a header line, containing the product codes P1, P2, . . . PN and the word Totals, as described above. The numbering of products in this header line is consecutive, from 1 to N, with 1 &le; N &le; 5. Then there are a number of lines, each representing a row of the report, as described above. The last line of the report starts with the letters TP and have the format described above. Consider that each seller sold less than 1000 units of each product. There are no more than 4 sellers on each test case. Each seller name will not exceed 10 characters (only uppercase and lowercase letters).</p>
+
+### 출력
+
+<p>For each test case in the input your program must produce one possible Mary&rsquo;s report. Each line of the answer must be left aligned, with its items separated by a single space, and with no space at its end.</p>

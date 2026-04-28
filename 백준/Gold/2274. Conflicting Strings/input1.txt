@@ -1,0 +1,15 @@
+4 1
+ap***
+ab*le
+app*e
+*pple
+3 1
+a
+b
+c
+4 2
+fred
+ferd
+derf
+frd*
+0 0

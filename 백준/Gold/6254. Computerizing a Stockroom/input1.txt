@@ -1,0 +1,29 @@
+6
+2011-3-18 12 - Bought 3 items of "CPU Pentium IV 2GHz".
+2011-11-1 10 - Found that a "1GB RAM" is not working.
+2012-1-20 11 - Bought an "optical mouse".
+2011-11-21 15 - A "CPU Pentium IV 2GHz" is repaired and now can be used again.
+2011-03-18 9 - Bought 2 items of "1GB RAM".
+2011-10-18 14 - Found that a "CPU Pentium IV 2GHz" is not working.
+16
+2012-2-1 08 - Bought 3 items of "motherboard".
+2012-2-1 09 - Bought 3 items of "Green case".
+2012-2-1 10 - Bought 3 items of "dual core CPU".
+2012-2-1 11 - Bought 3 items of "keyboard".
+2012-2-1 12 - Bought 2 items of "optical mouse".
+2012-2-1 13 - Bought 4 items of "2GB DDR3 RAM".
+2012-2-1 14 - Bought 4 items of "500GB Hard".
+2012-2-1 15 - Bought a "DVD Drive".
+2012-2-2 09 - Assembled a computer for "Abbaas" using a "motherboard", and a "Green case".
+2012-2-2 10 - Assembled a computer for "Dehghaan Fadaakaar" using a "motherboard", a "Green 
+case", a "dual core CPU", a "keyboard", an "optical mouse", 2 items of "2GB DDR3 RAM", a 
+"DVD Drive", and a "500GB Hard".
+2012-2-2 11 - Assembled a computer for "Kokab Khaanum" using a "motherboard", a "Green 
+case", a "dual core CPU", a "keyboard", an "optical mouse", 2 items of "2GB DDR3 RAM", 
+and a "500GB Hard".
+2012-2-3 10 - Got the computer of "Kokab Khaanum" back and disassembled it.
+2012-2-4 10 - Found that a "motherboard" is not working.
+2012-2-4 11 - Found that a "2GB DDR3 RAM" is not working.
+2012-2-4 12 - Found that a "2GB DDR3 RAM" is not working.
+2012-2-4 13 - Found that a "500GB Hard" is not working.
+0

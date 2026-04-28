@@ -1,0 +1,6 @@
+2
+1
+LOCK X
+2
+LOCK Y
+LOCK X

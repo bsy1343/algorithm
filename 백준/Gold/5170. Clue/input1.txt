@@ -1,0 +1,23 @@
+1
+4 5 3
+Ballroom
+Dining Room
+Candlestick
+Gun
+Knife
+Lounge
+Knife
+Miss Scarlet
+Nothing
+Nothing
+Lounge
+Dining Room
+Knife
+Professor Plum
+Nothing
+Nothing
+Nothing
+Study
+Rope
+Mrs. White
+Rope

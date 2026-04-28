@@ -1,0 +1,33 @@
+# [Gold V] Persistent Numbers - 4332
+
+[문제 링크](https://www.acmicpc.net/problem/4332)
+
+### 성능 요약
+
+시간 제한: 1 초, 메모리 제한: 128 MB
+
+### 통계
+
+제출: 50, 정답: 34, 맞힌 사람: 32, 정답 비율: 69.565%
+
+### 분류
+
+수학, 그리디 알고리즘, 정수론
+
+### 문제 설명
+
+<p><img alt="" src="/upload/images3/mul.png" style="float:right; height:175px; width:313px" />The multiplicative persistence of a number is defined by Neil Sloane (Neil J.A. Sloane in The Persistence of a Number published in Journal of Recreational Mathematics 6, 1973, pp. 97-98., 1973) as the number of steps to reach a one-digit number when repeatedly multiplying the digits. Example:</p>
+
+<p style="text-align: center;">679 -&gt; 378 -&gt; 168 -&gt; 48 -&gt; 32 -&gt; 6.</p>
+
+<p>That is, the persistence of 679 is 5. The persistence of a single digit number is 0. At the time of this writing it is known that there are numbers with the persistence of 11. It is not known whether there are numbers with the persistence of 12 but it is known that if they exists then the smallest of them would have more than 3000 digits.</p>
+
+<p>The problem that you are to solve here is: what is the smallest number such that the first step of computing its persistence results in the given number?</p>
+
+### 입력
+
+<p>For each test case there is a single line of input containing a decimal number with up to 1000 digits. A line containing -1 follows the last test case.</p>
+
+### 출력
+
+<p>For each test case you are to output one line containing one integer number satisfying the condition stated above or a statement saying that there is no such number in the format shown below.</p>

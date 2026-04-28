@@ -1,0 +1,9 @@
+import java.io.*;
+import java.util.*;
+
+public class Main {
+
+    public static void main(String[] args) throws IOException {
+        // TODO: 피아의 아틀리에 ~신비한 대회의 연금술사~
+    }
+}

@@ -428,7 +428,6 @@
     <div class="topbar-spacer"></div>
     <span class="stat-chip" id="stat-chip"></span>
     <button class="topbar-btn" id="jobs-btn" title="IT 채용 공고 (3일마다 갱신)">채용</button>
-    <button class="topbar-btn" id="refresh-btn" title="GitHub 트리 강제 갱신">새로고침</button>
   </header>
   <aside class="sidebar"><div class="loading">트리 로딩 대기...</div></aside>
   <main class="main"></main>
@@ -1405,9 +1404,6 @@
    * ======================================================== */
   const Topbar = {
     init() {
-      document.getElementById('refresh-btn').addEventListener('click', async () => {
-        await App.reloadTree({ force: true });
-      });
       document.getElementById('topbar-logo').addEventListener('click', async () => {
         App.goHome();
         await App.reloadTree({ force: true });

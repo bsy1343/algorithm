@@ -1001,10 +1001,12 @@
   const ProblemView = {
     renderShell(p) {
       const main = document.querySelector('.main');
+      const lvl = State.levelMap[p.num];
+      const tierLabel = lvl ? Parser.levelToLabel(lvl) : p.tier;
       main.innerHTML = `
         <div class="main-header" id="main-header">
           <div class="main-title">${esc(p.num + '. ' + p.title)}</div>
-          <span class="tier-badge ${Parser.tierBadgeClass(p.tier)}">${esc(p.tier)}</span>
+          <span class="tier-badge ${Parser.tierBadgeClass(p.tier)}">${esc(tierLabel)}</span>
           <div class="action-bar" id="action-bar"></div>
         </div>
         <div class="view-tabs" id="view-tabs">

@@ -50,7 +50,7 @@
 
 ### 힌트
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/15681.%E2%80%85%ED%8A%B8%EB%A6%AC%EC%99%80%E2%80%85%EC%BF%BC%EB%A6%AC/e734736c.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15681/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 471px; height: 321px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/15681.%E2%80%85%ED%8A%B8%EB%A6%AC%EC%99%80%E2%80%85%EC%BF%BC%EB%A6%AC/e734736c.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/15681.%E2%80%85%ED%8A%B8%EB%A6%AC%EC%99%80%E2%80%85%EC%BF%BC%EB%A6%AC/e734736c.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15681/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 471px; height: 321px;" /></p>
 
 <p>그래프란, 정점들과 정점 둘을 잇는 간선들로 이루어진 집합을 의미한다.</p>
 
@@ -68,11 +68,11 @@
 
 <p>만일 그래프에 단 하나의 사이클도 없다면, 해당 그래프는 &lsquo;트리&rsquo; 라고 부른다. 이는 그래프가 마치 하나의 정점에서 출발해 피어난 나무 모양과도 같음에 붙여진 이름으로, 예를 들어 위의 그림에서 빨간 간선 두 개를 제거한다면 위의 그래프는 트리가 된다. 예를 들어, 상단에 주어진 그래프에서 빨간 간선 두 개를 제거한 뒤 만들어진 트리의 모습은 아래와 같다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/15681.%E2%80%85%ED%8A%B8%EB%A6%AC%EC%99%80%E2%80%85%EC%BF%BC%EB%A6%AC/b6373738.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15681/2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 470px; height: 317px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/15681.%E2%80%85%ED%8A%B8%EB%A6%AC%EC%99%80%E2%80%85%EC%BF%BC%EB%A6%AC/b6373738.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/15681.%E2%80%85%ED%8A%B8%EB%A6%AC%EC%99%80%E2%80%85%EC%BF%BC%EB%A6%AC/b6373738.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15681/2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 470px; height: 317px;" /></p>
 
 <p>일반적으로 그래프에서는 정점의 위치나 간선의 모양 등에 대한 조건은 전혀 고려하지 않으며, 오직 연결성만을 고려하므로, 간선의 집합이 변하지 않는다는 가정 하에 그래프를 얼마든지 다시 그릴 수가 있다. 위의 트리에서 5번 정점을 잡고 위로 들어올리는 예시를 생각해 보자. 아래쪽에 중력이 작용한다고 생각하고 5번 정점을 위쪽으로 들어올리게 되면 트리의 모양은 아래와 같이 변할 것이다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/15681.%E2%80%85%ED%8A%B8%EB%A6%AC%EC%99%80%E2%80%85%EC%BF%BC%EB%A6%AC/a993c701.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15681/3.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 363px; height: 338px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/15681.%E2%80%85%ED%8A%B8%EB%A6%AC%EC%99%80%E2%80%85%EC%BF%BC%EB%A6%AC/a993c701.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/15681.%E2%80%85%ED%8A%B8%EB%A6%AC%EC%99%80%E2%80%85%EC%BF%BC%EB%A6%AC/a993c701.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15681/3.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 363px; height: 338px;" /></p>
 
 <p>간선의 집합에 변함이 없는 한, 그래프는 얼마든지 원하는 대로 다시 그릴 수가 있다. 예를 들어, 위의 트리를 거울에 비추어 좌우를 바꿀 경우에도 동일한 트리가 된다.</p>
 

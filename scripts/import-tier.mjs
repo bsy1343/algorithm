@@ -32,7 +32,7 @@ import {
   tierFolder, tierFullName,
   extractSection, extractSamples, extractProblemInfo,
   buildReadme, buildJavaSkeleton,
-} from './import-missing.mjs';
+} from './boj-lib.mjs';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 

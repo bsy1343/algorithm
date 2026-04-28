@@ -1534,7 +1534,7 @@
           <div class="jobs-header">
             <div class="jobs-title">📅 채용</div>
             <div class="jobs-meta">
-              총 <span class="ok">${snap.totalCount}</span>건
+              총 <span class="ok">${snap.totalCount.toLocaleString()}</span>건
               · 마지막 갱신 ${ago === 0 ? '오늘' : ago + '일 전'} (${fetched.toLocaleString('ko-KR')})
               ${snap.errors?.length ? `· <span style="color:var(--danger)">에러 ${snap.errors.length}</span>` : ''}
             </div>
@@ -1741,7 +1741,7 @@
           'error-cache': '캐시(오류)',
         }[source] || source;
         const tone = ['rate-limited-cache', 'offline-cache', 'error-cache'].includes(source) ? 'warn' : '';
-        Topbar.setChip(`${State.problems.length}문제 · ${sourceLabel}`, tone);
+        Topbar.setChip(`${State.problems.length.toLocaleString()}문제 · ${sourceLabel}`, tone);
         if (error) console.warn('[App] tree fetch warning:', error);
       } catch (e) {
         Topbar.setChip(`오류: ${e.message}`, 'err');

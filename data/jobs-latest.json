@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-04-28T16:04:09.331Z",
-  "totalCount": 110,
+  "fetchedAt": "2026-04-28T16:34:43.708Z",
+  "totalCount": 102,
   "companies": [
     "당근",
     "현대오토에버",
@@ -17,94 +17,6 @@
   ],
   "errors": [],
   "jobs": [
-    {
-      "company": "네이버",
-      "companyId": "naver",
-      "title": "[SNOW] 클라우드 보안 담당 모집 부서 Tech 모집 분야 Security 모집 경력 경력 근로 조건 정규 모집 기간 2026.04.13 ~ 2026.05.06",
-      "department": "",
-      "location": "",
-      "deadline": "2026-04-13",
-      "deadlineTime": "",
-      "url": "https://recruit.navercorp.com/rcrt/list.do?annoId=&sw=&subJobCdData=1010001%2C1010002%2C1010003%2C1010005%2C1010008%2C1010020&sysCompanyCdData=&jobCdData=1010#n",
-      "_raw": "[SNOW] 클라우드 보안 담당 모집 부서 Tech 모집 분야 Security 모집 경력 경력 근로 조건 정규 모집 기간 2026.04.13 ~ 2026.05.06"
-    },
-    {
-      "company": "네이버",
-      "companyId": "naver",
-      "title": "[네이버랩스] Reliability/Certification Engineer 모집 부서 Tech 모집 분야 Hardware 모집 경력 경력 근로 조건 정규 모집 기간 2026.04.16 ~ 2026.04.29",
-      "department": "",
-      "location": "",
-      "deadline": "2026-04-16",
-      "deadlineTime": "",
-      "url": "https://recruit.navercorp.com/rcrt/list.do?annoId=&sw=&subJobCdData=1010001%2C1010002%2C1010003%2C1010005%2C1010008%2C1010020&sysCompanyCdData=&jobCdData=1010#n",
-      "_raw": "[네이버랩스] Reliability/Certification Engineer 모집 부서 Tech 모집 분야 Hardware 모집 경력 경력 근로 조건 정규 모집 기간 2026.04.16 ~ 2026.04.29"
-    },
-    {
-      "company": "네이버",
-      "companyId": "naver",
-      "title": "[네이버랩스] AI Data Platform Developer (인턴십) 모집 부서 Tech 모집 분야 AI/ML 모집 경력 신입 근로 조건 인턴 모집 기간 2026.04.17 ~ 2026.04.30",
-      "department": "",
-      "location": "",
-      "deadline": "2026-04-17",
-      "deadlineTime": "",
-      "url": "https://recruit.navercorp.com/rcrt/list.do?annoId=&sw=&subJobCdData=1010001%2C1010002%2C1010003%2C1010005%2C1010008%2C1010020&sysCompanyCdData=&jobCdData=1010#n",
-      "_raw": "[네이버랩스] AI Data Platform Developer (인턴십) 모집 부서 Tech 모집 분야 AI/ML 모집 경력 신입 근로 조건 인턴 모집 기간 2026.04.17 ~ 2026.04.30"
-    },
-    {
-      "company": "네이버",
-      "companyId": "naver",
-      "title": "[NAVER] 데이터 부문 경력 채용 모집 부서 Tech 외 모집 분야 Data Engineering 외 모집 경력 경력 근로 조건 정규 모집 기간 2026.04.20 ~ 2026.05.06",
-      "department": "",
-      "location": "",
-      "deadline": "2026-04-20",
-      "deadlineTime": "",
-      "url": "https://recruit.navercorp.com/rcrt/list.do?annoId=&sw=&subJobCdData=1010001%2C1010002%2C1010003%2C1010005%2C1010008%2C1010020&sysCompanyCdData=&jobCdData=1010#n",
-      "_raw": "[NAVER] 데이터 부문 경력 채용 모집 부서 Tech 외 모집 분야 Data Engineering 외 모집 경력 경력 근로 조건 정규 모집 기간 2026.04.20 ~ 2026.05.06"
-    },
-    {
-      "company": "네이버",
-      "companyId": "naver",
-      "title": "[네이버랩스] Panoptic Segmentation Research Engineer 모집 부서 Tech 모집 분야 AI/ML 모집 경력 경력 근로 조건 정규 모집 기간 2026.04.20 ~ 2026.05.04",
-      "department": "",
-      "location": "",
-      "deadline": "2026-04-20",
-      "deadlineTime": "",
-      "url": "https://recruit.navercorp.com/rcrt/list.do?annoId=&sw=&subJobCdData=1010001%2C1010002%2C1010003%2C1010005%2C1010008%2C1010020&sysCompanyCdData=&jobCdData=1010#n",
-      "_raw": "[네이버랩스] Panoptic Segmentation Research Engineer 모집 부서 Tech 모집 분야 AI/ML 모집 경력 경력 근로 조건 정규 모집 기간 2026.04.20 ~ 2026.05.04"
-    },
-    {
-      "company": "네이버",
-      "companyId": "naver",
-      "title": "[네이버랩스] Large-scale Full 3D Mesh Research Engineer 모집 부서 Tech 모집 분야 AI/ML 모집 경력 경력 근로 조건 정규 모집 기간 2026.04.20 ~ 2026.05.04",
-      "department": "",
-      "location": "",
-      "deadline": "2026-04-20",
-      "deadlineTime": "",
-      "url": "https://recruit.navercorp.com/rcrt/list.do?annoId=&sw=&subJobCdData=1010001%2C1010002%2C1010003%2C1010005%2C1010008%2C1010020&sysCompanyCdData=&jobCdData=1010#n",
-      "_raw": "[네이버랩스] Large-scale Full 3D Mesh Research Engineer 모집 부서 Tech 모집 분야 AI/ML 모집 경력 경력 근로 조건 정규 모집 기간 2026.04.20 ~ 2026.05.04"
-    },
-    {
-      "company": "네이버",
-      "companyId": "naver",
-      "title": "[네이버랩스] 3D Vision Research Engineer 모집 부서 Tech 모집 분야 AI/ML 모집 경력 경력 근로 조건 정규 모집 기간 2026.04.24 ~ 2026.05.11",
-      "department": "",
-      "location": "",
-      "deadline": "2026-04-24",
-      "deadlineTime": "",
-      "url": "https://recruit.navercorp.com/rcrt/list.do?annoId=&sw=&subJobCdData=1010001%2C1010002%2C1010003%2C1010005%2C1010008%2C1010020&sysCompanyCdData=&jobCdData=1010#n",
-      "_raw": "[네이버랩스] 3D Vision Research Engineer 모집 부서 Tech 모집 분야 AI/ML 모집 경력 경력 근로 조건 정규 모집 기간 2026.04.24 ~ 2026.05.11"
-    },
-    {
-      "company": "네이버",
-      "companyId": "naver",
-      "title": "[네이버랩스] Robot Foundation Model Research Engineer 모집 부서 Tech 모집 분야 공통 모집 경력 경력 근로 조건 정규 모집 기간 2026.04.27 ~ 2026.05.11",
-      "department": "",
-      "location": "",
-      "deadline": "2026-04-27",
-      "deadlineTime": "",
-      "url": "https://recruit.navercorp.com/rcrt/list.do?annoId=&sw=&subJobCdData=1010001%2C1010002%2C1010003%2C1010005%2C1010008%2C1010020&sysCompanyCdData=&jobCdData=1010#n",
-      "_raw": "[네이버랩스] Robot Foundation Model Research Engineer 모집 부서 Tech 모집 분야 공통 모집 경력 경력 근로 조건 정규 모집 기간 2026.04.27 ~ 2026.05.11"
-    },
     {
       "company": "CJ (올리브영/올네/대한통운)",
       "companyId": "cj",

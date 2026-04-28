@@ -105,6 +105,14 @@ async function fetchPlaywright(params) {
     // For anchor-based extraction, wait until the selector actually appears (SPA hydration).
     if (selector) {
       try { await page.waitForSelector(selector, { timeout: 10000 }); } catch {}
+      // Wait until the anchor texts include date/D-N markers (LG careers loads
+      // metadata after the anchor element appears).
+      try {
+        await page.waitForFunction((sel) => {
+          const list = [...document.querySelectorAll(sel)];
+          return list.some(a => /D-\d+|\d{4}[.-]\d{1,2}[.-]\d{1,2}/.test(a.innerText || ''));
+        }, selector, { timeout: 8000 });
+      } catch {}
     }
 
     // Click filter labels (e.g. CJ filter UI: IT, 경력)
@@ -215,16 +223,20 @@ async function fetchPlaywright(params) {
     const items = await page.evaluate((args) => {
       const anchors = [...document.querySelectorAll(args.selector)];
       const out = [];
-      const seen = new Set();
+      const byHref = new Map();
       for (const a of anchors) {
         if (args.filterByText && !a.innerText?.includes(args.filterByText)) continue;
         const text = a.innerText?.replace(/\s+/g, ' ').trim() || '';
         if (text.length < 5 || text.length > 400) continue;
         const href = a.href || '';
-        if (seen.has(href + '|' + text)) continue;
-        seen.add(href + '|' + text);
-        out.push({ text, href });
+        // Some sites (LG careers) emit two anchors per job: a long one with
+        // deadline metadata and a short one with just the title. Dedup by href
+        // and keep the entry with more text so deadline info is preserved.
+        const key = href || ('text:' + text);
+        const prev = byHref.get(key);
+        if (!prev || text.length > prev.text.length) byHref.set(key, { text, href });
       }
+      for (const v of byHref.values()) out.push(v);
       return out;
     }, { selector, filterByText });
 

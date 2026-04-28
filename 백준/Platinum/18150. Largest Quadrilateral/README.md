@@ -18,7 +18,7 @@
 
 <p>Given some points on a 2D Euclidean plane, please calculate the maximum area of quadrilaterals with vertices in given points. For example, points A(0, 0), B(1, 0), C(3, 1), D(1, 2), E(0, 1) are given. These points form 5 simple quadrilaterals ABCD, ABCE, ABDE, ACDE, BCDE with areas 3, 2, 1.5, 3, 3 respectively and 10 complex quadrilaterals ABDC, ABEC, ABED, ACED, BCED, ACBD, ACBE, ADBE, ADCE, BDCE with smaller areas. So the maximum area is 3.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/18150.%E2%80%85Largest%E2%80%85Quadrilateral/b3bd1cbe.png" data-original-src="https://upload.acmicpc.net/058bc1c9-1694-4b12-bef8-28686ee4fa21/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 219px; height: 173px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/18150.%E2%80%85Largest%E2%80%85Quadrilateral/b3bd1cbe.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/18150.%E2%80%85Largest%E2%80%85Quadrilateral/b3bd1cbe.png" data-original-src="https://upload.acmicpc.net/058bc1c9-1694-4b12-bef8-28686ee4fa21/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 219px; height: 173px;" /></p>
 
 <p style="text-align: center;">Figure 4: BCDE has the maximum area 3 among all quadrilaterals.</p>
 

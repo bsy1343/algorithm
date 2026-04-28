@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/23688.%E2%80%85Kutije/9d16edde.png" data-original-src="https://upload.acmicpc.net/6aab80a7-7a1b-49b1-8c79-9c6bed40f836/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 124px; height: 119px; float: right;" />Martin has n boxes labeled with positive integers from 1 to n. Each box contains a toy. The toys are also labeled with positive integers from 1 to n and in such a way that initially the toy with label i is contained in the box with label i.</p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/23688.%E2%80%85Kutije/9d16edde.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/23688.%E2%80%85Kutije/9d16edde.png" data-original-src="https://upload.acmicpc.net/6aab80a7-7a1b-49b1-8c79-9c6bed40f836/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 124px; height: 119px; float: right;" />Martin has n boxes labeled with positive integers from 1 to n. Each box contains a toy. The toys are also labeled with positive integers from 1 to n and in such a way that initially the toy with label i is contained in the box with label i.</p>
 
 <p>From time to time, Martin calls one of his m friends to come over and hang out. Once they meet up, his friend takes the toys out of the boxes and starts having fun with them. In the meantime, Martin is more interested in the boxes. Once they become bored, his friend puts the toys back into the boxes. However, he doesn&rsquo;t necessarily put every toy in the box it was taken from.</p>
 

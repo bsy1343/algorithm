@@ -24,7 +24,7 @@
 
 <p>Letters&nbsp;<code>a</code>,&nbsp;<code>b</code>,&nbsp;<code>c</code>&nbsp;and&nbsp;<code>d</code>&nbsp;represent Boolean variables that have values of either&nbsp;<code>0</code>&nbsp;or&nbsp;<code>1</code>. Operators are evaluated as shown in the Table below. In other words,&nbsp;<code>-</code>&nbsp;means negation (NOT),&nbsp;<code>^</code>&nbsp;means exclusive disjunction (XOR), and&nbsp;<code>*</code>&nbsp;means logical conjunction (AND).</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/14973.%E2%80%85Boolean%E2%80%85Expression%E2%80%85Compressor/de942efb.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14973/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:81px; width:233px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/14973.%E2%80%85Boolean%E2%80%85Expression%E2%80%85Compressor/de942efb.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/14973.%E2%80%85Boolean%E2%80%85Expression%E2%80%85Compressor/de942efb.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14973/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:81px; width:233px" /></p>
 
 <p style="text-align: center;">Table: Evaluations of operators</p>
 

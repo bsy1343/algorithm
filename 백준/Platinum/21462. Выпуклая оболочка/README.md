@@ -24,7 +24,7 @@
 
 <p>На рисунке слева приведены два угла, на рисунке справа изображена их выпуклая оболочка.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/21462.%E2%80%85%D0%92%D1%8B%D0%BF%D1%83%D0%BA%D0%BB%D0%B0%D1%8F%E2%80%85%D0%BE%D0%B1%D0%BE%D0%BB%D0%BE%D1%87%D0%BA%D0%B0/77a6e80b.png" data-original-src="https://upload.acmicpc.net/9b5cdc85-f2fd-4773-a59d-5fc4f41edb77/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 477px; height: 182px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/21462.%E2%80%85%D0%92%D1%8B%D0%BF%D1%83%D0%BA%D0%BB%D0%B0%D1%8F%E2%80%85%D0%BE%D0%B1%D0%BE%D0%BB%D0%BE%D1%87%D0%BA%D0%B0/77a6e80b.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/21462.%E2%80%85%D0%92%D1%8B%D0%BF%D1%83%D0%BA%D0%BB%D0%B0%D1%8F%E2%80%85%D0%BE%D0%B1%D0%BE%D0%BB%D0%BE%D1%87%D0%BA%D0%B0/77a6e80b.png" data-original-src="https://upload.acmicpc.net/9b5cdc85-f2fd-4773-a59d-5fc4f41edb77/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 477px; height: 182px;" /></p>
 
 ### 입력
 

@@ -22,7 +22,7 @@
 
 <p>Por exemplo, para as naves da figura abaixo, se o usu&aacute;rio est&aacute; na cabine de teletransporte da nave 3 e pressiona o bot&atilde;o B ele &eacute; transportado para a nave 2. Se ele tem um bilhete m&uacute;ltiplo e pressiona novamente o bot&atilde;o B ele &eacute; ent&atilde;o transportado para a nave 1.</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/13615.%E2%80%85Teletransporte/dc4b837e.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/13615/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202017-01-05%20%EC%98%A4%ED%9B%84%206.59.13.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:84px; width:389px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/13615.%E2%80%85Teletransporte/dc4b837e.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/13615.%E2%80%85Teletransporte/dc4b837e.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/13615/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202017-01-05%20%EC%98%A4%ED%9B%84%206.59.13.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:84px; width:389px" /></p>
 
 <p>Sua tarefa neste problema &eacute;, dados a nave de partida S, a nave de chegada T e o n&uacute;mero de viagens L do bilhete, determinar quantas sequ&ecirc;ncias distintas de L bot&ocirc;es levam o usu&aacute;rio da nave S para a nave T . Por exemplo, para as naves da figura acima, existem quatro sequ&ecirc;ncias distintas de L = 2 bot&ocirc;es que levam um usu&aacute;rio da nave S = 3 para a nave T = 1: CD, DA, AB, e BB.</p>
 

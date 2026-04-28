@@ -18,7 +18,7 @@
 
 <p>재휘는 문제를 내기 위해 수학 문제를 둘러보다 간단한 퀴즈를 발견했다.</p>
 
-<p style="display:flex;flex-direction:row;justify-content:center;"><img src="%EB%B0%B1%EC%A4%80/Bronze/31798.%E2%80%85%EB%8B%A8%EC%9B%90%ED%8F%89%EA%B0%80/ab78357d.png" data-original-src="https://upload.acmicpc.net/040edd9f-5820-4e59-9628-d1f4bdf16cb0/-/crop/973x321/160,126/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="max-height:200px;max-width:100%" /></p>
+<p style="display:flex;flex-direction:row;justify-content:center;"><img src="%EB%B0%B1%EC%A4%80/Bronze/31798.%E2%80%85%EB%8B%A8%EC%9B%90%ED%8F%89%EA%B0%80/ab78357d.png" data-original-src="%EB%B0%B1%EC%A4%80/Bronze/31798.%E2%80%85%EB%8B%A8%EC%9B%90%ED%8F%89%EA%B0%80/ab78357d.png" data-original-src="https://upload.acmicpc.net/040edd9f-5820-4e59-9628-d1f4bdf16cb0/-/crop/973x321/160,126/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="max-height:200px;max-width:100%" /></p>
 
 <p>이 문제는 중학교 1학년 단원평가로 나온 문제로, 빈칸에 들어갈 답을 구하는 문제이다. 재휘는 답을 알고 싶어 하루 종일 고민했지만 결국 답을 구해내지 못하였다. 답을 고민하느라 너무 오랜 시간을 쓴 재휘는 DSPC에 출제하러 오지 못했다. 문제의 의도한 해답은 원 위의 두 수를 합하면 원 아래 수의 제곱이 된다는 것이다. 재휘가 출제를 할 수 있도록 문제를 풀어주는 프로그램을 작성해 보자.</p>
 

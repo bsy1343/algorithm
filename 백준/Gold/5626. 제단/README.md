@@ -22,7 +22,7 @@
 
 <p>아래 그림은 제단을 쌓는 과정의 예시이다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/5626.%E2%80%85%EC%A0%9C%EB%8B%A8/1c5e2033.png" data-original-src="https://upload.acmicpc.net/2405b71d-f691-4c8b-8e4c-ce9dedabd85a/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 574px; height: 93px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/5626.%E2%80%85%EC%A0%9C%EB%8B%A8/1c5e2033.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/5626.%E2%80%85%EC%A0%9C%EB%8B%A8/1c5e2033.png" data-original-src="https://upload.acmicpc.net/2405b71d-f691-4c8b-8e4c-ce9dedabd85a/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 574px; height: 93px;" /></p>
 
 <p>수백년이 흐르는 동안 많은 도둑들이 제단의 일부 열을 훔쳐갔다. 상근이의 손자의 손녀의 손자의.... 손녀는 남은 제단의 높이를 가지고, 가능한 제단의 경우의 수를 세려고 한다.</p>
 

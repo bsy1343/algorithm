@@ -52,8 +52,8 @@
 
 ### 힌트
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/8142.%E2%80%85Ridges%E2%80%85and%E2%80%85Valleys/86488419.gif" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/8142/1.gif" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:177px; width:177px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/8142.%E2%80%85Ridges%E2%80%85and%E2%80%85Valleys/86488419.gif" data-original-src="%EB%B0%B1%EC%A4%80/Gold/8142.%E2%80%85Ridges%E2%80%85and%E2%80%85Valleys/86488419.gif" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/8142/1.gif" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:177px; width:177px" /></p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/8142.%E2%80%85Ridges%E2%80%85and%E2%80%85Valleys/d3a8aca9.gif" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/8142/2.gif" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:177px; width:177px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/8142.%E2%80%85Ridges%E2%80%85and%E2%80%85Valleys/d3a8aca9.gif" data-original-src="%EB%B0%B1%EC%A4%80/Gold/8142.%E2%80%85Ridges%E2%80%85and%E2%80%85Valleys/d3a8aca9.gif" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/8142/2.gif" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:177px; width:177px" /></p>
 
 <p>The above figures show the ridges (continuous line) and the valleys (dashed line).</p>

@@ -20,7 +20,7 @@
 
 <p>무토가 원하는 커다란 피자는 $N\times N$ 크기의 격자 모양이며, 피자의 가장 왼쪽 위 칸은 $1$행 $1$열이고, 가장 오른쪽 아래 칸은 $N$행 $N$열이다. 시미아가 준 레시피에는 피자에 올려야 하는 미트볼의 배치가 그려져 있으며, 키네시스는 레시피에 그려진 대로 미트볼을 토핑해야 한다. 처음에는 피자의 $R$행 $C$열에 시미아가 먼저 토핑한 미트볼이 하나 놓여 있다. 미트볼의 모양은 격자의 칸과 정확히 일치하며 격자 한 칸에 두 개 이상의 미트볼이 들어갈 수 없다.</p>
 
-<p style="text-align: center;"><img alt="N = 5, R = 3, C = 2일 때 피자의 상태와 피자 밖에서 염동력을 사용할 수 있는 위치" src="%EB%B0%B1%EC%A4%80/Gold/32113.%E2%80%85%EB%B0%B0%EA%B3%A0%ED%94%88%E2%80%85%EB%AC%B4%ED%86%A0%EB%A5%BC%E2%80%85%EC%9C%84%ED%95%9C%E2%80%85%ED%94%BC%EC%9E%90%E2%80%85%EB%A7%8C%EB%93%A4%EA%B8%B0/cf4cc79f.png" data-original-src="https://upload.acmicpc.net/fe71ab2f-441b-4e77-80e1-b61a5207b4e5/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 640px; max-width: 100%;" /></p>
+<p style="text-align: center;"><img alt="N = 5, R = 3, C = 2일 때 피자의 상태와 피자 밖에서 염동력을 사용할 수 있는 위치" src="%EB%B0%B1%EC%A4%80/Gold/32113.%E2%80%85%EB%B0%B0%EA%B3%A0%ED%94%88%E2%80%85%EB%AC%B4%ED%86%A0%EB%A5%BC%E2%80%85%EC%9C%84%ED%95%9C%E2%80%85%ED%94%BC%EC%9E%90%E2%80%85%EB%A7%8C%EB%93%A4%EA%B8%B0/cf4cc79f.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/32113.%E2%80%85%EB%B0%B0%EA%B3%A0%ED%94%88%E2%80%85%EB%AC%B4%ED%86%A0%EB%A5%BC%E2%80%85%EC%9C%84%ED%95%9C%E2%80%85%ED%94%BC%EC%9E%90%E2%80%85%EB%A7%8C%EB%93%A4%EA%B8%B0/cf4cc79f.png" data-original-src="https://upload.acmicpc.net/fe71ab2f-441b-4e77-80e1-b61a5207b4e5/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 640px; max-width: 100%;" /></p>
 
 <p style="text-align: center;"><small>$N = 5$, $R = 3$, $C = 2$일 때 피자의 상태와 피자 밖에서 염동력을 사용할 수 있는 위치</small></p>
 
@@ -37,7 +37,7 @@
 	</li>
 </ol>
 
-<p style="text-align:center;"><img alt="밀어넣기(push), 당기기(pull) 염동력을 사용하는 모습" src="%EB%B0%B1%EC%A4%80/Gold/32113.%E2%80%85%EB%B0%B0%EA%B3%A0%ED%94%88%E2%80%85%EB%AC%B4%ED%86%A0%EB%A5%BC%E2%80%85%EC%9C%84%ED%95%9C%E2%80%85%ED%94%BC%EC%9E%90%E2%80%85%EB%A7%8C%EB%93%A4%EA%B8%B0/f6a3ccf4.png" data-original-src="https://upload.acmicpc.net/60fb671e-6ad5-43f5-8656-c7a9efa19b99/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 640px; max-width: 100%;" /></p>
+<p style="text-align:center;"><img alt="밀어넣기(push), 당기기(pull) 염동력을 사용하는 모습" src="%EB%B0%B1%EC%A4%80/Gold/32113.%E2%80%85%EB%B0%B0%EA%B3%A0%ED%94%88%E2%80%85%EB%AC%B4%ED%86%A0%EB%A5%BC%E2%80%85%EC%9C%84%ED%95%9C%E2%80%85%ED%94%BC%EC%9E%90%E2%80%85%EB%A7%8C%EB%93%A4%EA%B8%B0/f6a3ccf4.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/32113.%E2%80%85%EB%B0%B0%EA%B3%A0%ED%94%88%E2%80%85%EB%AC%B4%ED%86%A0%EB%A5%BC%E2%80%85%EC%9C%84%ED%95%9C%E2%80%85%ED%94%BC%EC%9E%90%E2%80%85%EB%A7%8C%EB%93%A4%EA%B8%B0/f6a3ccf4.png" data-original-src="https://upload.acmicpc.net/60fb671e-6ad5-43f5-8656-c7a9efa19b99/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 640px; max-width: 100%;" /></p>
 
 <p style="text-align:center;"><small>밀어넣기(push), 당기기(pull) 염동력을 사용하는 모습</small></p>
 

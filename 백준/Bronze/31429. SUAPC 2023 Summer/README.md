@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/31429.%E2%80%85SUAPC%E2%80%852023%E2%80%85Summer/78401a0e.png" data-original-src="https://u.acmicpc.net/ef1e1da0-2b5a-440e-bb47-c6089f26a449/image1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 1000px; height: 423px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/31429.%E2%80%85SUAPC%E2%80%852023%E2%80%85Summer/78401a0e.png" data-original-src="%EB%B0%B1%EC%A4%80/Bronze/31429.%E2%80%85SUAPC%E2%80%852023%E2%80%85Summer/78401a0e.png" data-original-src="https://u.acmicpc.net/ef1e1da0-2b5a-440e-bb47-c6089f26a449/image1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 1000px; height: 423px;" /></p>
 
 <p style="text-align: center;">[그림] SUAPC 2023 Summer 스코어보드 (<a href="https://www.acmicpc.net/contest/spotboard/1104">링크</a>)</p>
 

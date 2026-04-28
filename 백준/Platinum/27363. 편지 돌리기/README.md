@@ -27,7 +27,7 @@
 	<li>$k = 3$: 1, 2, 3, 10번 아이는 각자 자신의 편지를 갖고 있고 나머지 아이들은 다른 아이의 편지를 갖고 있다.</li>
 </ul>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/27363.%E2%80%85%ED%8E%B8%EC%A7%80%E2%80%85%EB%8F%8C%EB%A6%AC%EA%B8%B0/e5ec44b5.png" data-original-src="https://upload.acmicpc.net/a3fcdcde-e024-46a2-9967-79d599320359/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 147px; width: 500px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/27363.%E2%80%85%ED%8E%B8%EC%A7%80%E2%80%85%EB%8F%8C%EB%A6%AC%EA%B8%B0/e5ec44b5.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/27363.%E2%80%85%ED%8E%B8%EC%A7%80%E2%80%85%EB%8F%8C%EB%A6%AC%EA%B8%B0/e5ec44b5.png" data-original-src="https://upload.acmicpc.net/a3fcdcde-e024-46a2-9967-79d599320359/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 147px; width: 500px;" /></p>
 
 <p>Albert와 아이들은 최소 몇 번의 편지 돌리기를 마치면 각자 자신의 편지를 손에 쥐게 되는지 쉽게 풀 수 있었고, 편의상 이를 $R(F)$라 표현하기로 했다. 이는 수학적으로 모든 $1 \le i \le N$인 $i$에 대해 $L_F(k, i) = i$를 만족하는 $k &gt; 0$중 가장 작은 값을 나타낸다. 이를 $F$의 &quot;편지 돌리기 점수&quot;라 하자. 위 예제에서 $F$의 편지 돌리기 점수는 12이다.</p>
 
@@ -35,7 +35,7 @@
 
 <p>위의 예제에서 만약 $x = 1, y = 10$을 고른다면 $G_{F, x, y} = [10, 3, 1, 5, 6, 7, 4, 9, 8, 2]$가 된다. 이때 처음 네 번의 편지 돌리기를 마친 후 각자 아이가 들고 있는 편지의 번호는 아래와 같고, 이 배열의 편지 돌리기 점수는 4점이 됨을 알 수 있다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/27363.%E2%80%85%ED%8E%B8%EC%A7%80%E2%80%85%EB%8F%8C%EB%A6%AC%EA%B8%B0/1636ade7.png" data-original-src="https://upload.acmicpc.net/600439b2-3fb8-49e0-9923-daf5b5fd6db4/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 173px; width: 500px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/27363.%E2%80%85%ED%8E%B8%EC%A7%80%E2%80%85%EB%8F%8C%EB%A6%AC%EA%B8%B0/1636ade7.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/27363.%E2%80%85%ED%8E%B8%EC%A7%80%E2%80%85%EB%8F%8C%EB%A6%AC%EA%B8%B0/1636ade7.png" data-original-src="https://upload.acmicpc.net/600439b2-3fb8-49e0-9923-daf5b5fd6db4/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 173px; width: 500px;" /></p>
 
 <p>이 예제에서 위와 같이 $F$ 배열의 두 원소 값을 교환하여 달성할 수 있는 편지 돌리기 점수의 최솟값은 4점이다.</p>
 

@@ -22,7 +22,7 @@
 
 <p>Your task is to compute the minimum possible distance between the two walls when cylinders are squeezed as much as possible. Cylinders and walls may touch one another. They cannot be lifted up from the ground, and thus their order cannot be altered.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/11748.%E2%80%85Squeeze%E2%80%85the%E2%80%85Cylinders/2134aaaf.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11748/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:199px; width:248px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/11748.%E2%80%85Squeeze%E2%80%85the%E2%80%85Cylinders/2134aaaf.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/11748.%E2%80%85Squeeze%E2%80%85the%E2%80%85Cylinders/2134aaaf.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11748/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:199px; width:248px" /></p>
 
 <p style="text-align: center;">Figure B.1. Cylinders between two walls</p>
 
@@ -41,9 +41,9 @@
 <table class="table">
 	<tbody>
 		<tr>
-			<td style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/11748.%E2%80%85Squeeze%E2%80%85the%E2%80%85Cylinders/addd7f83.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11748/2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:137px; width:255px" /></td>
-			<td style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/11748.%E2%80%85Squeeze%E2%80%85the%E2%80%85Cylinders/5ad918bb.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11748/3.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:151px; width:203px" /></td>
-			<td style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/11748.%E2%80%85Squeeze%E2%80%85the%E2%80%85Cylinders/604d9511.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11748/4.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:138px; width:255px" /></td>
+			<td style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/11748.%E2%80%85Squeeze%E2%80%85the%E2%80%85Cylinders/addd7f83.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/11748.%E2%80%85Squeeze%E2%80%85the%E2%80%85Cylinders/addd7f83.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11748/2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:137px; width:255px" /></td>
+			<td style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/11748.%E2%80%85Squeeze%E2%80%85the%E2%80%85Cylinders/5ad918bb.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/11748.%E2%80%85Squeeze%E2%80%85the%E2%80%85Cylinders/5ad918bb.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11748/3.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:151px; width:203px" /></td>
+			<td style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/11748.%E2%80%85Squeeze%E2%80%85the%E2%80%85Cylinders/604d9511.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/11748.%E2%80%85Squeeze%E2%80%85the%E2%80%85Cylinders/604d9511.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11748/4.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:138px; width:255px" /></td>
 		</tr>
 		<tr>
 			<td style="text-align: center;">Figure B.2. Sample 1</td>

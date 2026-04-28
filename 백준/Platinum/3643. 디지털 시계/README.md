@@ -20,7 +20,7 @@
 
 <p>동시에 숫자 여러 개를 보여주려면, 7세그먼트를 여러 개 놓으면 된다. 예를 들어, 시계는 7세그먼트 4개를 이용해서 시 (00~23)와 분 (00~59)를 보여준다.</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/3643.%E2%80%85%EB%94%94%EC%A7%80%ED%84%B8%E2%80%85%EC%8B%9C%EA%B3%84/5bb31eee.png" data-original-src="https://www.acmicpc.net/upload/images/seg1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:85px; width:559px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/3643.%E2%80%85%EB%94%94%EC%A7%80%ED%84%B8%E2%80%85%EC%8B%9C%EA%B3%84/5bb31eee.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/3643.%E2%80%85%EB%94%94%EC%A7%80%ED%84%B8%E2%80%85%EC%8B%9C%EA%B3%84/5bb31eee.png" data-original-src="https://www.acmicpc.net/upload/images/seg1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:85px; width:559px" /></p>
 
 <p>현수는 지나가다가 고장난 알람 시계를 하나 주었다. 알람 시계는 올바른 시간을 항상 보여주지 않는데, 현수는 7세그먼트의 전산이 망가진 것이 원인이라 생각한다.</p>
 

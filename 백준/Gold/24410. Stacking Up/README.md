@@ -33,7 +33,7 @@
 
 <p>For example, executing the program <code>1d+11+</code> produces the sequence of stack states illustrated in Figure J.1, ultimately resulting in a stack containing two entries, $1$ on the bottom and $2$ on the top.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/24410.%E2%80%85Stacking%E2%80%85Up/21516b1f.png" data-original-src="https://upload.acmicpc.net/fcf2a302-2a4e-4d53-98b8-47deaeca8c03/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 545px; height: 53px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/24410.%E2%80%85Stacking%E2%80%85Up/21516b1f.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/24410.%E2%80%85Stacking%E2%80%85Up/21516b1f.png" data-original-src="https://upload.acmicpc.net/fcf2a302-2a4e-4d53-98b8-47deaeca8c03/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 545px; height: 53px;" /></p>
 
 <p style="text-align: center;">Figure J.1: Execution of <code>1d+11+</code></p>
 

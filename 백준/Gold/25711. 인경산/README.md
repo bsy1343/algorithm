@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/25711.%E2%80%85%EC%9D%B8%EA%B2%BD%EC%82%B0/0fce578e.png" data-original-src="https://upload.acmicpc.net/a9beb484-9105-48b0-86b1-bc176c91871a/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 386px; width: 600px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/25711.%E2%80%85%EC%9D%B8%EA%B2%BD%EC%82%B0/0fce578e.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/25711.%E2%80%85%EC%9D%B8%EA%B2%BD%EC%82%B0/0fce578e.png" data-original-src="https://upload.acmicpc.net/a9beb484-9105-48b0-86b1-bc176c91871a/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 386px; width: 600px;" /></p>
 
 <p>인하대학교 뒤쪽에는 2차원 산인&nbsp;인경산이 있다. 인경산에는 여러 개의 산장이 있고,&nbsp;인접한 두 산장 사이에는 <strong>직선</strong>&nbsp;등산 코스가 있다. 민겸이는 등산을 좋아하기 때문에 인경산에서&nbsp;산장과 산장 사이를 오가며 물건을 배달하는 아르바이트를 하고 있다.</p>
 

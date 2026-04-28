@@ -20,7 +20,7 @@
 
 <p>The plane may have airspeed up to \(v_{max}\) units per second in any direction. The wind blows away plane in the following way: if airspeed speed of the plane is (\(v_x\), \(v_y\)) and the wind speed is (\(w_x\), \(w_y\)), the plane moves by (\(v_x + w_x\), \(v_y + w_y\)) each second.</p>
 
-<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/10381.%E2%80%85Joy%E2%80%85of%E2%80%85Flight/9381eb71.png" data-original-src="https://www.acmicpc.net/upload/images2/jof.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:135px; width:486px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/10381.%E2%80%85Joy%E2%80%85of%E2%80%85Flight/9381eb71.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/10381.%E2%80%85Joy%E2%80%85of%E2%80%85Flight/9381eb71.png" data-original-src="https://www.acmicpc.net/upload/images2/jof.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:135px; width:486px" /></p>
 
 <p>Jacob has a fuel for exactly \(k\) seconds, and he wants to learn, whether the plane is able to fly from start to finish in this time. If it is possible he needs to know the flight plan: the position of the plane after every second of flight.</p>
 

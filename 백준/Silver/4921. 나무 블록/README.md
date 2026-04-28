@@ -18,7 +18,7 @@
 
 <p>블록은 아래와 같은 나무 조각 8개를 이용해서 하는 게임이다.</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/4921.%E2%80%85%EB%82%98%EB%AC%B4%E2%80%85%EB%B8%94%EB%A1%9D/d4ea5443.png" data-original-src="https://www.acmicpc.net/upload/images/block1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:105px; width:472px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/4921.%E2%80%85%EB%82%98%EB%AC%B4%E2%80%85%EB%B8%94%EB%A1%9D/d4ea5443.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/4921.%E2%80%85%EB%82%98%EB%AC%B4%E2%80%85%EB%B8%94%EB%A1%9D/d4ea5443.png" data-original-src="https://www.acmicpc.net/upload/images/block1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:105px; width:472px" /></p>
 
 <p>이 게임의 목표는 아래와 같은 조건을 지키면서 주어진 나무 조각을 이용해 가장 넓은 직사각형을 만드는 것이다.</p>
 
@@ -31,11 +31,11 @@
 
 <p>예를 들어, 아래 2가지는 올바른 배치이다.</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/4921.%E2%80%85%EB%82%98%EB%AC%B4%E2%80%85%EB%B8%94%EB%A1%9D/41017b27.png" data-original-src="https://www.acmicpc.net/upload/images/block2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:98px; width:545px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/4921.%E2%80%85%EB%82%98%EB%AC%B4%E2%80%85%EB%B8%94%EB%A1%9D/41017b27.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/4921.%E2%80%85%EB%82%98%EB%AC%B4%E2%80%85%EB%B8%94%EB%A1%9D/41017b27.png" data-original-src="https://www.acmicpc.net/upload/images/block2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:98px; width:545px" /></p>
 
 <p>하지만, 아래 세 가지는 올바르지 않다.</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/4921.%E2%80%85%EB%82%98%EB%AC%B4%E2%80%85%EB%B8%94%EB%A1%9D/aa5a0919.png" data-original-src="https://www.acmicpc.net/upload/images/block3.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:84px; width:636px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/4921.%E2%80%85%EB%82%98%EB%AC%B4%E2%80%85%EB%B8%94%EB%A1%9D/aa5a0919.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/4921.%E2%80%85%EB%82%98%EB%AC%B4%E2%80%85%EB%B8%94%EB%A1%9D/aa5a0919.png" data-original-src="https://www.acmicpc.net/upload/images/block3.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:84px; width:636px" /></p>
 
 <p>세희는 이 게임을 앱으로 만들고 있다. 지금 구현할 부분은 사용자가 맞춘 블록이 문제의 조건에 올바른지 아닌지 판별하는 것이다.</p>
 

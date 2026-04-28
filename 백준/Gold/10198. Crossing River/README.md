@@ -24,7 +24,7 @@
 
 <p>Given the width of the river L, the cost of each jump C, and the location of N rocks, your goal is to find the minimum cost M for Doctor Nefario to cross the river, the number of jumps J needed, and the range R selected for the rocket booster.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/10198.%E2%80%85Crossing%E2%80%85River/ae7ee469.png" data-original-src="https://upload.acmicpc.net/f4c24aa1-4299-425d-be0d-a8793b2d4863/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 527px; height: 268px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/10198.%E2%80%85Crossing%E2%80%85River/ae7ee469.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/10198.%E2%80%85Crossing%E2%80%85River/ae7ee469.png" data-original-src="https://upload.acmicpc.net/f4c24aa1-4299-425d-be0d-a8793b2d4863/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 527px; height: 268px;" /></p>
 
 <p>For instance, in the figure above Doctor Nefario needs to cross a river of width 6. There are 4 rocks at distances 1, 2, 3, and 5. One possible solution is to build a rocket booster with range 3, which would allow the scooter to cross the river with two jumps.</p>
 

@@ -18,11 +18,11 @@
 
 <p>Freddy the frog is trying to go get a bite to eat. The problem is Freddy lives far away from all the restaurants he likes. Freddy is a capable frog, able to jump over a large number of cells. Unfortunately, on a given day, Freddy may be too hungry to jump very far. On a given day, he can only jump over at most d cells (note that he can also jump over fewer cells).</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/26316.%E2%80%85Jumping%E2%80%85Frog/884dabeb.png" data-original-src="https://upload.acmicpc.net/0b41642a-d0ea-425c-8fbc-1cc3c888a993/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 321px; height: 123px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/26316.%E2%80%85Jumping%E2%80%85Frog/884dabeb.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/26316.%E2%80%85Jumping%E2%80%85Frog/884dabeb.png" data-original-src="https://upload.acmicpc.net/0b41642a-d0ea-425c-8fbc-1cc3c888a993/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 321px; height: 123px;" /></p>
 
 <p>Another complication for Freddy is the path he jumps across is always under construction. Some of the cells are blocked off! Freddy doesn&rsquo;t want to land in a cell under construction but is allowed to jump over them.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/26316.%E2%80%85Jumping%E2%80%85Frog/b6d7c54f.png" data-original-src="https://upload.acmicpc.net/e5196092-ae70-4b43-bc97-191d8a928ce7/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 632px; height: 132px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/26316.%E2%80%85Jumping%E2%80%85Frog/b6d7c54f.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/26316.%E2%80%85Jumping%E2%80%85Frog/b6d7c54f.png" data-original-src="https://upload.acmicpc.net/e5196092-ae70-4b43-bc97-191d8a928ce7/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 632px; height: 132px;" /></p>
 
 <p>Freddy starts off in the first cell and must travel to the last cell where his destination restaurant resides. He would like to know if he can reach the last cell and how quickly he can reach it. Freddy always jumps towards his destination.</p>
 

@@ -20,7 +20,7 @@
 
 <p>예를 들어, 점이 $(0, 0)$,$(1,5)$,$(2,4)$,$(3,3)$,$(6,10)$으로 주어지면 그려지는 함수는 다음과 같다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/26258.%E2%80%85%EB%8B%A4%EC%A4%91%E2%80%85%EC%9D%BC%EC%B0%A8%E2%80%85%ED%95%A8%EC%88%98/fb2fac14.png" data-original-src="https://upload.acmicpc.net/a6923a72-78be-4e81-b2de-561c59735982/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 360px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/26258.%E2%80%85%EB%8B%A4%EC%A4%91%E2%80%85%EC%9D%BC%EC%B0%A8%E2%80%85%ED%95%A8%EC%88%98/fb2fac14.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/26258.%E2%80%85%EB%8B%A4%EC%A4%91%E2%80%85%EC%9D%BC%EC%B0%A8%E2%80%85%ED%95%A8%EC%88%98/fb2fac14.png" data-original-src="https://upload.acmicpc.net/a6923a72-78be-4e81-b2de-561c59735982/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 360px;" /></p>
 
 <p>질의마다 실수 $k$가 주어지면 $x=k$에서 함수 $F(x)$의 증가/감소 여부를 구하자.</p>
 

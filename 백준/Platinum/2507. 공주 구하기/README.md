@@ -18,7 +18,7 @@
 
 <p>유시 섬에서 한가롭게 소풍을 즐기던 다리오와 오렌지 공주. 다리오가 잠시 자리를 비운 사이에 못된 악당 후퍼가 공주를 데리고 도망가 버렸다. 다리오는 후퍼가 오렌지 공주를 숨겨놓은 후퍼 섬으로 여행을 떠난다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/2507.%E2%80%85%EA%B3%B5%EC%A3%BC%E2%80%85%EA%B5%AC%ED%95%98%EA%B8%B0/bcb7eefb.png" data-original-src="https://upload.acmicpc.net/748caedf-1e6b-4126-80a3-68d79678b1d2/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 363px; height: 50px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/2507.%E2%80%85%EA%B3%B5%EC%A3%BC%E2%80%85%EA%B5%AC%ED%95%98%EA%B8%B0/bcb7eefb.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/2507.%E2%80%85%EA%B3%B5%EC%A3%BC%E2%80%85%EA%B5%AC%ED%95%98%EA%B8%B0/bcb7eefb.png" data-original-src="https://upload.acmicpc.net/748caedf-1e6b-4126-80a3-68d79678b1d2/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 363px; height: 50px;" /></p>
 
 <p>유시 섬에서 후퍼 섬까지 가기 위해서는 중간에 있는 여러 개의 섬을 거쳐 가야 한다. 유시 섬과 후퍼 섬을 포함한 모든 섬들은 유시 섬과 후퍼 섬을 지나는 직선상에 있다. 위 그림에서, 섬들을 나타내는 동그라미 아래에 있는 눈금자가 각각의 섬이 유시 섬과 몇 km나 떨어져 있는지를 나타낸다. 가장 왼쪽에 있는 섬이 유시 섬이고, 가장 멀리 있는 후퍼 섬은 15km 떨어져 있다.</p>
 

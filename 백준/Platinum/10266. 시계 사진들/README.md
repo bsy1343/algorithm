@@ -34,6 +34,6 @@
 
 ### 힌트
 
-<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/10266.%E2%80%85%EC%8B%9C%EA%B3%84%E2%80%85%EC%82%AC%EC%A7%84%EB%93%A4/eec6385d.png" data-original-src="https://www.acmicpc.net/upload/images2/clock.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:167px; width:351px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/10266.%E2%80%85%EC%8B%9C%EA%B3%84%E2%80%85%EC%82%AC%EC%A7%84%EB%93%A4/eec6385d.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/10266.%E2%80%85%EC%8B%9C%EA%B3%84%E2%80%85%EC%82%AC%EC%A7%84%EB%93%A4/eec6385d.png" data-original-src="https://www.acmicpc.net/upload/images2/clock.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:167px; width:351px" /></p>
 
 <p style="text-align:center">그림 H.1: 예제 입력 2</p>

@@ -20,7 +20,7 @@
 
 <p>Since he wants to investigate the strength with respect to the color and the size of a united panel compared to unit panels, he tries to unite panels into a polygonal panel with a specified color.</p>
 
-<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/4950.%E2%80%85Identically%E2%80%85Colored%E2%80%85Panels%E2%80%85Connection/ed940907.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/4950/C-1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:111px; width:175px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/4950.%E2%80%85Identically%E2%80%85Colored%E2%80%85Panels%E2%80%85Connection/ed940907.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/4950.%E2%80%85Identically%E2%80%85Colored%E2%80%85Panels%E2%80%85Connection/ed940907.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/4950/C-1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:111px; width:175px" /></p>
 
 <p style="text-align:center">Figure C-1: panels and their initial colors</p>
 
@@ -30,27 +30,27 @@
 
 <p>Let us consider a case where the panel at the upper left corner of the panel configuration (Figure C-1) is attached with the electrodes. First, changing the color of the panel from yellow to blue, the two adjacent panels are fused into a united panel (Figure C-2).</p>
 
-<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/4950.%E2%80%85Identically%E2%80%85Colored%E2%80%85Panels%E2%80%85Connection/cdc84958.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/4950/C-2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:111px; width:175px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/4950.%E2%80%85Identically%E2%80%85Colored%E2%80%85Panels%E2%80%85Connection/cdc84958.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/4950.%E2%80%85Identically%E2%80%85Colored%E2%80%85Panels%E2%80%85Connection/cdc84958.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/4950/C-2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:111px; width:175px" /></p>
 
 <p style="text-align:center">Figure C-2: Change of the color of the panel at the upper left corner, from yellow (color 1) to blue (color 6).</p>
 
 <p>Second, changing the color of the upper left united panel from blue to red, a united red panel that consists of three unit panels is newly formed (Figure C-3). Then, changing the color of the united panel from red to purple, panels are united again to form a united panel of five unit panels (Figure C-4).</p>
 
-<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/4950.%E2%80%85Identically%E2%80%85Colored%E2%80%85Panels%E2%80%85Connection/f8f86885.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/4950/C-3.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:111px; width:175px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/4950.%E2%80%85Identically%E2%80%85Colored%E2%80%85Panels%E2%80%85Connection/f8f86885.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/4950.%E2%80%85Identically%E2%80%85Colored%E2%80%85Panels%E2%80%85Connection/f8f86885.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/4950/C-3.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:111px; width:175px" /></p>
 
 <p style="text-align:center">Figure C-3: Change of the color of the panel at the upper left corner, from blue (color 6) to red (color 3).&nbsp;</p>
 
-<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/4950.%E2%80%85Identically%E2%80%85Colored%E2%80%85Panels%E2%80%85Connection/f76655c5.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/4950/C-4.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:111px; width:175px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/4950.%E2%80%85Identically%E2%80%85Colored%E2%80%85Panels%E2%80%85Connection/f76655c5.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/4950.%E2%80%85Identically%E2%80%85Colored%E2%80%85Panels%E2%80%85Connection/f76655c5.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/4950/C-4.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:111px; width:175px" /></p>
 
 <p style="text-align:center">Figure C-4: Change of the color of the panel at the upper left corner, from red (color 3) to purple (color 4).&nbsp;</p>
 
 <p>Furthermore, through making a pink united panel in Figure C-5 by changing the color from purple to pink, then, the green united panel in Figure C-6 is obtained by changing the color from pink to green. The green united panel consists of ten unit panels.</p>
 
-<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/4950.%E2%80%85Identically%E2%80%85Colored%E2%80%85Panels%E2%80%85Connection/7424671c.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/4950/C-5.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:111px; width:175px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/4950.%E2%80%85Identically%E2%80%85Colored%E2%80%85Panels%E2%80%85Connection/7424671c.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/4950.%E2%80%85Identically%E2%80%85Colored%E2%80%85Panels%E2%80%85Connection/7424671c.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/4950/C-5.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:111px; width:175px" /></p>
 
 <p style="text-align:center">Figure C-5: Change of the color of the panel at the upper left corner, from purple (color 4) to pink (color 2).</p>
 
-<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/4950.%E2%80%85Identically%E2%80%85Colored%E2%80%85Panels%E2%80%85Connection/b70309d7.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/4950/C-6.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:111px; width:175px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/4950.%E2%80%85Identically%E2%80%85Colored%E2%80%85Panels%E2%80%85Connection/b70309d7.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/4950.%E2%80%85Identically%E2%80%85Colored%E2%80%85Panels%E2%80%85Connection/b70309d7.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/4950/C-6.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:111px; width:175px" /></p>
 
 <p style="text-align:center">Figure C-6: Change of the color of the panel at the upper left corner, from pink (color 2) to green (color 5).</p>
 

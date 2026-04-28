@@ -30,25 +30,25 @@
 	<li>퀸: 가로, 세로, 대각선 $8$방향으로 거리 제한 없이 움직일 수 있다.</li>
 </ul>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/25960.%E2%80%85%ED%8F%B0%EC%9D%98%E2%80%85%EA%B0%81%EC%84%B1/68b9c9e5.png" data-original-src="https://upload.acmicpc.net/b8ba226c-7975-48dd-9b6d-440c6c5f0ecf/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 200px; height: 200px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/25960.%E2%80%85%ED%8F%B0%EC%9D%98%E2%80%85%EA%B0%81%EC%84%B1/68b9c9e5.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/25960.%E2%80%85%ED%8F%B0%EC%9D%98%E2%80%85%EA%B0%81%EC%84%B1/68b9c9e5.png" data-original-src="https://upload.acmicpc.net/b8ba226c-7975-48dd-9b6d-440c6c5f0ecf/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 200px; height: 200px;" /></p>
 
 <ul>
 	<li>룩: 가로, 세로 $4$방향으로 거리 제한 없이 움직일 수 있다.</li>
 </ul>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/25960.%E2%80%85%ED%8F%B0%EC%9D%98%E2%80%85%EA%B0%81%EC%84%B1/816ba999.png" data-original-src="https://upload.acmicpc.net/68cd8c2f-3a4b-46b0-8c67-97a28bd73b72/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 201px; width: 200px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/25960.%E2%80%85%ED%8F%B0%EC%9D%98%E2%80%85%EA%B0%81%EC%84%B1/816ba999.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/25960.%E2%80%85%ED%8F%B0%EC%9D%98%E2%80%85%EA%B0%81%EC%84%B1/816ba999.png" data-original-src="https://upload.acmicpc.net/68cd8c2f-3a4b-46b0-8c67-97a28bd73b72/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 201px; width: 200px;" /></p>
 
 <ul>
 	<li>비숍: 대각선 $4$방향으로 거리 제한 없이 움직일 수 있다.</li>
 </ul>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/25960.%E2%80%85%ED%8F%B0%EC%9D%98%E2%80%85%EA%B0%81%EC%84%B1/64b14d1d.png" data-original-src="https://upload.acmicpc.net/61ef49d9-7dd2-480c-ae2a-2a91ae1ef5f7/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 201px; width: 200px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/25960.%E2%80%85%ED%8F%B0%EC%9D%98%E2%80%85%EA%B0%81%EC%84%B1/64b14d1d.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/25960.%E2%80%85%ED%8F%B0%EC%9D%98%E2%80%85%EA%B0%81%EC%84%B1/64b14d1d.png" data-original-src="https://upload.acmicpc.net/61ef49d9-7dd2-480c-ae2a-2a91ae1ef5f7/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 201px; width: 200px;" /></p>
 
 <ul>
 	<li>나이트: 가로, 세로 $4$방향 중 한 방향으로 한 칸, 그리고 그 방향의 양 대각선 방향 중 한 방향으로 한 칸 움직인다. 또한 다른 말을 뛰어넘을 수 있다. 즉, 진행 경로 중간에 장애물이 있어도 체스판을 벗어나지 않는 한 무조건 초록색 칸으로 이동할 수 있다.</li>
 </ul>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/25960.%E2%80%85%ED%8F%B0%EC%9D%98%E2%80%85%EA%B0%81%EC%84%B1/6ecd3c7d.png" data-original-src="https://upload.acmicpc.net/760c0550-a5ab-4b01-b0e0-39043feb9719/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 200px; width: 200px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/25960.%E2%80%85%ED%8F%B0%EC%9D%98%E2%80%85%EA%B0%81%EC%84%B1/6ecd3c7d.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/25960.%E2%80%85%ED%8F%B0%EC%9D%98%E2%80%85%EA%B0%81%EC%84%B1/6ecd3c7d.png" data-original-src="https://upload.acmicpc.net/760c0550-a5ab-4b01-b0e0-39043feb9719/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 200px; width: 200px;" /></p>
 
 <p>대각 이동도 한 칸이라고 친다. 예를 들어 나이트는 상하좌우 중 $1$칸, 대각 $1$칸을 이동하기 때문에 무조건 한 번에 $2$칸씩 이동한다.</p>
 

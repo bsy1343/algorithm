@@ -26,11 +26,11 @@
 
 <p>다음은 더블 초콜릿 문제와 정답의 예시이다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/25797.%E2%80%85%EB%8D%94%EB%B8%94%E2%80%85%EC%B4%88%EC%BD%9C%EB%A6%BF/8a81a38b.png" data-original-src="https://upload.acmicpc.net/7aacc574-2782-4a08-92e4-09f07bad89c2/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/25797.%E2%80%85%EB%8D%94%EB%B8%94%E2%80%85%EC%B4%88%EC%BD%9C%EB%A6%BF/8a81a38b.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/25797.%E2%80%85%EB%8D%94%EB%B8%94%E2%80%85%EC%B4%88%EC%BD%9C%EB%A6%BF/8a81a38b.png" data-original-src="https://upload.acmicpc.net/7aacc574-2782-4a08-92e4-09f07bad89c2/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>다음은 오답의 예시이다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/25797.%E2%80%85%EB%8D%94%EB%B8%94%E2%80%85%EC%B4%88%EC%BD%9C%EB%A6%BF/2acec556.png" data-original-src="https://upload.acmicpc.net/57a980fd-32c3-4d08-b3da-9591048e42e3/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/25797.%E2%80%85%EB%8D%94%EB%B8%94%E2%80%85%EC%B4%88%EC%BD%9C%EB%A6%BF/2acec556.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/25797.%E2%80%85%EB%8D%94%EB%B8%94%E2%80%85%EC%B4%88%EC%BD%9C%EB%A6%BF/2acec556.png" data-original-src="https://upload.acmicpc.net/57a980fd-32c3-4d08-b3da-9591048e42e3/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <ul>
 	<li>영역의 흰색과 회색의 넓이가 영역 내의 수와 일치하지 않음, 한 영역 내에 수가 2개 이상 있음</li>

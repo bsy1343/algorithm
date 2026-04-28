@@ -65,9 +65,9 @@
 			<th>Step 2</th>
 		</tr>
 		<tr>
-			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/28006.%E2%80%85LaLa%E2%80%85and%E2%80%85Lamp/1688ed12.png" data-original-src="https://upload.acmicpc.net/599af414-58b4-4172-9e5c-6803de239ec6/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 306px; height: 253px;" /></td>
-			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/28006.%E2%80%85LaLa%E2%80%85and%E2%80%85Lamp/d8572009.png" data-original-src="https://upload.acmicpc.net/e98f9be3-d589-46b7-bb70-2060d2d573e1/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 277px; height: 233px;" /></td>
-			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/28006.%E2%80%85LaLa%E2%80%85and%E2%80%85Lamp/654d6f5c.png" data-original-src="https://upload.acmicpc.net/4bf2abbd-f37e-4e2b-a60e-8d8521a52662/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 257px; height: 244px;" /></td>
+			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/28006.%E2%80%85LaLa%E2%80%85and%E2%80%85Lamp/1688ed12.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/28006.%E2%80%85LaLa%E2%80%85and%E2%80%85Lamp/1688ed12.png" data-original-src="https://upload.acmicpc.net/599af414-58b4-4172-9e5c-6803de239ec6/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 306px; height: 253px;" /></td>
+			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/28006.%E2%80%85LaLa%E2%80%85and%E2%80%85Lamp/d8572009.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/28006.%E2%80%85LaLa%E2%80%85and%E2%80%85Lamp/d8572009.png" data-original-src="https://upload.acmicpc.net/e98f9be3-d589-46b7-bb70-2060d2d573e1/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 277px; height: 233px;" /></td>
+			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/28006.%E2%80%85LaLa%E2%80%85and%E2%80%85Lamp/654d6f5c.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/28006.%E2%80%85LaLa%E2%80%85and%E2%80%85Lamp/654d6f5c.png" data-original-src="https://upload.acmicpc.net/4bf2abbd-f37e-4e2b-a60e-8d8521a52662/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 257px; height: 244px;" /></td>
 		</tr>
 		<tr>
 			<th>Step 3</th>
@@ -75,15 +75,15 @@
 			<th>Step 5</th>
 		</tr>
 		<tr>
-			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/28006.%E2%80%85LaLa%E2%80%85and%E2%80%85Lamp/67a067d6.png" data-original-src="https://upload.acmicpc.net/6b8b77bc-b0f7-4e96-aa28-3db81d058b40/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 261px; height: 243px;" /></td>
-			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/28006.%E2%80%85LaLa%E2%80%85and%E2%80%85Lamp/736b299f.png" data-original-src="https://upload.acmicpc.net/8ab5f9ba-dfb1-4725-96f9-4902ec92f920/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 248px; height: 223px;" /></td>
-			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/28006.%E2%80%85LaLa%E2%80%85and%E2%80%85Lamp/9d179fe1.png" data-original-src="https://upload.acmicpc.net/e6775132-9ad0-42a5-86e6-9c556a08931a/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 254px; height: 239px;" /></td>
+			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/28006.%E2%80%85LaLa%E2%80%85and%E2%80%85Lamp/67a067d6.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/28006.%E2%80%85LaLa%E2%80%85and%E2%80%85Lamp/67a067d6.png" data-original-src="https://upload.acmicpc.net/6b8b77bc-b0f7-4e96-aa28-3db81d058b40/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 261px; height: 243px;" /></td>
+			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/28006.%E2%80%85LaLa%E2%80%85and%E2%80%85Lamp/736b299f.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/28006.%E2%80%85LaLa%E2%80%85and%E2%80%85Lamp/736b299f.png" data-original-src="https://upload.acmicpc.net/8ab5f9ba-dfb1-4725-96f9-4902ec92f920/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 248px; height: 223px;" /></td>
+			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/28006.%E2%80%85LaLa%E2%80%85and%E2%80%85Lamp/9d179fe1.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/28006.%E2%80%85LaLa%E2%80%85and%E2%80%85Lamp/9d179fe1.png" data-original-src="https://upload.acmicpc.net/e6775132-9ad0-42a5-86e6-9c556a08931a/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 254px; height: 239px;" /></td>
 		</tr>
 		<tr>
 			<th colspan="3">Step 6</th>
 		</tr>
 		<tr>
-			<td colspan="3"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/28006.%E2%80%85LaLa%E2%80%85and%E2%80%85Lamp/2a577eaf.png" data-original-src="https://upload.acmicpc.net/0c160b1f-2618-4262-a6be-37129affe289/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 250px; height: 242px;" /></td>
+			<td colspan="3"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/28006.%E2%80%85LaLa%E2%80%85and%E2%80%85Lamp/2a577eaf.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/28006.%E2%80%85LaLa%E2%80%85and%E2%80%85Lamp/2a577eaf.png" data-original-src="https://upload.acmicpc.net/0c160b1f-2618-4262-a6be-37129affe289/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 250px; height: 242px;" /></td>
 		</tr>
 	</tbody>
 </table>

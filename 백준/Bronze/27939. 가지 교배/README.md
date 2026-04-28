@@ -23,7 +23,7 @@
 	<li>W-우선 교배: 보라색과 보라색을 교배하면 보라색이 되고, 그 외의 경우는 흰색이다.</li>
 </ul>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/27939.%E2%80%85%EA%B0%80%EC%A7%80%E2%80%85%EA%B5%90%EB%B0%B0/1a59a3f0.png" data-original-src="https://upload.acmicpc.net/2d7002b3-65bc-4188-8a6b-8bee7d52e4cd/-/crop/1140x644/0,0/-" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="max-width: min(100%, 570px); height: auto;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/27939.%E2%80%85%EA%B0%80%EC%A7%80%E2%80%85%EA%B5%90%EB%B0%B0/1a59a3f0.png" data-original-src="%EB%B0%B1%EC%A4%80/Bronze/27939.%E2%80%85%EA%B0%80%EC%A7%80%E2%80%85%EA%B5%90%EB%B0%B0/1a59a3f0.png" data-original-src="https://upload.acmicpc.net/2d7002b3-65bc-4188-8a6b-8bee7d52e4cd/-/crop/1140x644/0,0/-" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="max-width: min(100%, 570px); height: auto;" /></p>
 
 <p style="text-align: center;"><small>노란색 부분이 두 가지를 교배한 결과를 나타낸다.</small></p>
 

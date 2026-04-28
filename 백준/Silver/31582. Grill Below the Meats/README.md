@@ -18,7 +18,7 @@
 
 <p>어젯밤 동민이와 빈이와 산하는 오랜만에 바비큐 파티를 열어 고기를 구워먹었다. 야외에서 하는 바비큐 파티인 만큼 이들은 그릴 위에서 고기를 구워먹었다. 그릴은 $40 \times 40$ 크기의 격자 모양이다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/31582.%E2%80%85Grill%E2%80%85Below%E2%80%85the%E2%80%85Meats/d7aa8d13.png" data-original-src="https://upload.acmicpc.net/f4d7aa79-379a-49c8-be81-8bd18771bb05/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 275px; width: 800px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/31582.%E2%80%85Grill%E2%80%85Below%E2%80%85the%E2%80%85Meats/d7aa8d13.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/31582.%E2%80%85Grill%E2%80%85Below%E2%80%85the%E2%80%85Meats/d7aa8d13.png" data-original-src="https://upload.acmicpc.net/f4d7aa79-379a-49c8-be81-8bd18771bb05/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 275px; width: 800px;" /></p>
 
 <p>셋 중에서 맏형인 동민이는 정육점에서 완전히 같은 모양의 고기 세 조각을 사서 고기를 회전하거나 뒤집지 않고 서로 겹치지 않게 고기를 놓았다. 동민이는 그릴의 철사에 가려 구워지지 않는 부위가 없기를 바랐기 때문에 고기를 격자에 딱 맞게 놓았다. 위 그림은 동민이의 조건에 맞게 고기를 올려놓은 모습이다. (그림에서 &lsquo;ㅇ&rsquo;의 정반대편에 &lsquo;ㅅ&rsquo;가 있다)</p>
 

@@ -26,7 +26,7 @@
 
 <p>\[1234\rightarrow 24(=1\times 2\times 3\times 4)\rightarrow 8(=2\times 4)\]</p>
 
-<p style="text-align: center;"><img alt="바닥수를 잊어버린 쿠" src="%EB%B0%B1%EC%A4%80/Bronze/30456.%E2%80%85%EB%B0%94%EB%8B%A5%EC%88%98/d0bdbd29.png" data-original-src="https://upload.acmicpc.net/deca86a8-5e4e-4e73-942e-495a80d332b4/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 250px; width: 194px;" /></p>
+<p style="text-align: center;"><img alt="바닥수를 잊어버린 쿠" src="%EB%B0%B1%EC%A4%80/Bronze/30456.%E2%80%85%EB%B0%94%EB%8B%A5%EC%88%98/d0bdbd29.png" data-original-src="%EB%B0%B1%EC%A4%80/Bronze/30456.%E2%80%85%EB%B0%94%EB%8B%A5%EC%88%98/d0bdbd29.png" data-original-src="https://upload.acmicpc.net/deca86a8-5e4e-4e73-942e-495a80d332b4/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 250px; width: 194px;" /></p>
 
 <p>쿠는 바닥수를 계산하는 데 몰두한 나머지 $P$를 잊고 말았다. 그에게 주어진 단서는 $P$의 자릿수와 $P$의 바닥수이다. 쿠를 대신해 원래 수 $P$를 구해 주자.</p>
 

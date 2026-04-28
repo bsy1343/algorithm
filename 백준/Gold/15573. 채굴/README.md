@@ -19,7 +19,7 @@
 <p>땅 위에 놓여있는 세로&nbsp;<em>N</em>, 가로&nbsp;<em>M</em>&nbsp;길이의 광산에&nbsp;1&thinsp;&times;&thinsp;1&nbsp;광물&nbsp;<em>N</em>&thinsp;&times;&thinsp;<em>M</em>개가 있으며, 각 광물은 고유의 강도<em>S</em><sub><em>i</em>,&thinsp;<em>j</em></sub>를 가진다.</p>
 
 <p style="text-align:center"><br />
-<img alt="" src="%EB%B0%B1%EC%A4%80/Gold/15573.%E2%80%85%EC%B1%84%EA%B5%B4/1f1b0202.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15573/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:139px; width:200px" /></p>
+<img alt="" src="%EB%B0%B1%EC%A4%80/Gold/15573.%E2%80%85%EC%B1%84%EA%B5%B4/1f1b0202.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/15573.%E2%80%85%EC%B1%84%EA%B5%B4/1f1b0202.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15573/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:139px; width:200px" /></p>
 
 <p>채굴기를 이용하여 이 광물들을 채굴하려고 한다. 채굴기는 공기와 맞닿아 있는 광물 하나를 골라 채굴할 수 있다. 바닥과 광물과만 맞닿아 있으면 채굴할 수 없다. 채굴기의 성능&nbsp;<em>D</em>에 대해, 채굴기는 강도가&nbsp;<em>D</em>&nbsp;이하인 광물들만 채굴할 수 있다. 원하는 광물의 수&nbsp;<em>K</em>&nbsp;이상을 채굴할 수 있는 최소의&nbsp;<em>D</em>를 구하여라.</p>
 

@@ -24,7 +24,7 @@
 
 <p>Mladi Andro saznao je za Arhimedov problem te je odlučio rije&scaron;iti taj problem star preko 2000 godina. Andro je zbunjen kao i obično pa mu je potrebna va&scaron;a pomoć. Pomognite mu i pronađite najveći broj bijelih točaka koje se nalaze unutar neke kružnice koja je opisana trokutu čiji su vrhovi tri crne točke.</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/14101.%E2%80%85Arhimed/8ab31b00.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/14101/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202017-01-02%20%EC%98%A4%ED%9B%84%204.48.09.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:282px; width:317px" /><br />
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/14101.%E2%80%85Arhimed/8ab31b00.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/14101.%E2%80%85Arhimed/8ab31b00.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/14101/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202017-01-02%20%EC%98%A4%ED%9B%84%204.48.09.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:282px; width:317px" /><br />
 Slika predstavlja primjer gdje je rje&scaron;enje 3, konkretnije kružnica definirana točkama A, B i C sadrži tri bijele točke. Kružnica A, B, D također sadrži 3 bijele točke. Kružnica B, C, D sadrži jednu točku. Primjetite da ne postoji kružnica koja prolazi točkama A, C, D.</p>
 
 ### 입력

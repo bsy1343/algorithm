@@ -20,7 +20,7 @@
 
 <p>탑은 아래 그림과 같이 방과 통로가 각각 노드와 간선인 트리 그래프로 도식화할 수 있다. 각 노드에는 1 이상 $N$ 이하의 고유한 노드 번호가 있고, 번호가 $i$인&nbsp;노드에는 중복될 수 있는 정수 $a_i$가 적혀있다. 루트 노드의 번호는 항상 1번이다. 한 부모 노드에게 자식 노드가 여럿이라면 노드 번호가 더 작은 자식이 왼쪽에 있다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/25207.%E2%80%85%EB%B0%94%EB%B2%A8%ED%83%91%EC%9D%98%E2%80%85%EC%A0%80%EC%A3%BC/8db42da3.png" data-original-src="https://upload.acmicpc.net/6cb47ce0-8bc5-4769-abbc-efa8e02cde97/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/25207.%E2%80%85%EB%B0%94%EB%B2%A8%ED%83%91%EC%9D%98%E2%80%85%EC%A0%80%EC%A3%BC/8db42da3.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/25207.%E2%80%85%EB%B0%94%EB%B2%A8%ED%83%91%EC%9D%98%E2%80%85%EC%A0%80%EC%A3%BC/8db42da3.png" data-original-src="https://upload.acmicpc.net/6cb47ce0-8bc5-4769-abbc-efa8e02cde97/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>번호가 $i$인 노드를&nbsp;루트 노드로 하며 그 노드의 부모 노드를 포함하지 않는 가장 큰 서브트리를 $T_i$라고 하자. $i$번 노드를 좌우로 뒤집으면 $T_i$에&nbsp;속하는 모든 노드에 대해, 반대로 노드 번호가 더 큰 자식이 왼쪽에 있게 된다.</p>
 

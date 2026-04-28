@@ -26,7 +26,7 @@
 
 <p>동쪽 산과 서쪽 산의 입구는 길이가 x인 별도의 &quot;동서&nbsp;다리&quot;를 통해 연결되어있다. 아래 그림에서 동쪽 산의 출입구는 정사각형으로, 서쪽 산의 출입구는 원으로 표시되어있고 두 출입구를 잇는 동서 다리의 길이는 x = 10 이다. 동쪽 산의&nbsp;두 등산로의 길이는 각각 40과 45이고 서쪽 산의 두 등산로의 길이는 42로 동일하다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/23021.%E2%80%85%EB%93%B1%EC%82%B0%EB%A1%9C/597ac54f.png" data-original-src="https://upload.acmicpc.net/042ca582-1c9f-4cb7-a42d-7c4fc550e670/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/23021.%E2%80%85%EB%93%B1%EC%82%B0%EB%A1%9C/597ac54f.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/23021.%E2%80%85%EB%93%B1%EC%82%B0%EB%A1%9C/597ac54f.png" data-original-src="https://upload.acmicpc.net/042ca582-1c9f-4cb7-a42d-7c4fc550e670/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>Albert는 아래와 같은 규칙에 따라 총 길이가 C이상 D이하가 되도록 등산 계획을 세우고 싶다: (등산 계획은 어떤 등산로를 어떤 순서로 이용하는지 나타낸다)</p>
 

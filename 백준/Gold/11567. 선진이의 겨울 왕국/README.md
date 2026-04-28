@@ -31,8 +31,8 @@
 <table class="table table table-bordered">
 	<tbody>
 		<tr>
-			<td style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/11567.%E2%80%85%EC%84%A0%EC%A7%84%EC%9D%B4%EC%9D%98%E2%80%85%EA%B2%A8%EC%9A%B8%E2%80%85%EC%99%95%EA%B5%AD/5af694cb.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11567/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:203px; width:216px" /></td>
-			<td style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/11567.%E2%80%85%EC%84%A0%EC%A7%84%EC%9D%B4%EC%9D%98%E2%80%85%EA%B2%A8%EC%9A%B8%E2%80%85%EC%99%95%EA%B5%AD/5e11e589.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11567/2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:200px; width:223px" /></td>
+			<td style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/11567.%E2%80%85%EC%84%A0%EC%A7%84%EC%9D%B4%EC%9D%98%E2%80%85%EA%B2%A8%EC%9A%B8%E2%80%85%EC%99%95%EA%B5%AD/5af694cb.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/11567.%E2%80%85%EC%84%A0%EC%A7%84%EC%9D%B4%EC%9D%98%E2%80%85%EA%B2%A8%EC%9A%B8%E2%80%85%EC%99%95%EA%B5%AD/5af694cb.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11567/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:203px; width:216px" /></td>
+			<td style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/11567.%E2%80%85%EC%84%A0%EC%A7%84%EC%9D%B4%EC%9D%98%E2%80%85%EA%B2%A8%EC%9A%B8%E2%80%85%EC%99%95%EA%B5%AD/5e11e589.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/11567.%E2%80%85%EC%84%A0%EC%A7%84%EC%9D%B4%EC%9D%98%E2%80%85%EA%B2%A8%EC%9A%B8%E2%80%85%EC%99%95%EA%B5%AD/5e11e589.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11567/2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:200px; width:223px" /></td>
 		</tr>
 		<tr>
 			<td style="text-align:center">(a)</td>

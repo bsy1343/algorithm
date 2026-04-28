@@ -20,7 +20,7 @@
 
 <p>풍선에는 아직 바람을 넣지 않아서, 각 풍선의 반지름은 0에서 시작한다. 덧붙여, i번째 풍선은&nbsp;x<sub>i</sub>좌표에&nbsp;착 붙어 있어&nbsp;움직이지도 공중에 떠오르지도 않는다. 각 풍선은&nbsp;왼쪽에서 오른쪽 순서대로 바람을 넣는다. 그 풍선은 반지름의&nbsp;한계까지 (r<sub>i</sub>에 다다를 때까지) 점점 늘어나거나, 혹은 이전에 부풀린 다른 풍선과 맞닿을 때까지 늘어난다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/3307.%E2%80%85%EB%8C%80%ED%9A%8C%EA%B0%80%E2%80%85%EB%81%9D%EB%82%98%EA%B3%A0%E2%80%85%EB%82%9C%E2%80%85%EB%92%A4%E2%80%85%EB%B9%B0%EB%B9%A0%EB%B9%B0/5d4f659c.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/3307/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:231px; opacity:0.9; text-align:center; width:384px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/3307.%E2%80%85%EB%8C%80%ED%9A%8C%EA%B0%80%E2%80%85%EB%81%9D%EB%82%98%EA%B3%A0%E2%80%85%EB%82%9C%E2%80%85%EB%92%A4%E2%80%85%EB%B9%B0%EB%B9%A0%EB%B9%B0/5d4f659c.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/3307.%E2%80%85%EB%8C%80%ED%9A%8C%EA%B0%80%E2%80%85%EB%81%9D%EB%82%98%EA%B3%A0%E2%80%85%EB%82%9C%E2%80%85%EB%92%A4%E2%80%85%EB%B9%B0%EB%B9%A0%EB%B9%B0/5d4f659c.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/3307/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:231px; opacity:0.9; text-align:center; width:384px" /></p>
 
 <p style="text-align: center;">그림 1 : 예제의 풍선을 모두 부풀린 모습이다.</p>
 

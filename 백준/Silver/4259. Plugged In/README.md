@@ -20,7 +20,7 @@
 
 <p>The connections between the sensors in the cocoon and the simulated actions in the computer are to be made using a special square plug with n<sup>2</sup> pins (the value of n has not yet been determined). Each pin can carry the output from one sensor, although for some applications not all pins will be active. The plug fits into a square socket containing n<sup>2</sup> holes that is attached to the various game inputs; again, for some games, not all input holes will be used. The socket can be flipped over and rotated to achieve different matchings between sensor pins and game inputs. Pins and socket holes are numbered consecutively in row major order (as shown below for the value n = 4).</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/4259.%E2%80%85Plugged%E2%80%85In/563b391e.png" data-original-src="https://www.acmicpc.net/upload/images2/plugedin.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:167px; width:443px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/4259.%E2%80%85Plugged%E2%80%85In/563b391e.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/4259.%E2%80%85Plugged%E2%80%85In/563b391e.png" data-original-src="https://www.acmicpc.net/upload/images2/plugedin.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:167px; width:443px" /></p>
 
 <p>Clearly pin 1 can be connected only to holes 1&rsquo;, 4&rsquo;, 13&rsquo;, or 16&rsquo; (depending on how the plug is rotated with respect to the socket). Pin 2 can be connected only to holes 2&rsquo;, 3&rsquo;, 5&rsquo;, 8&rsquo;, 9&rsquo;, 12&rsquo;, 14&rsquo;, or 15&rsquo; (if we consider all rotations and connections in both the back and front of the plug).</p>
 

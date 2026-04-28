@@ -23,7 +23,7 @@
 	<li>만들어진 볼록다각형에 포함되지 않는 부분을 잘라 버린다.</li>
 </ul>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/27948.%E2%80%85%EA%B0%80%EC%A7%80%E2%80%85%EC%9E%90%EB%A5%B4%EA%B8%B0/bb0d98f1.png" data-original-src="https://upload.acmicpc.net/503f6e47-6180-4e9d-b7ed-111f2cc97f87/-" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="max-width: min(100%,545px); height: auto;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/27948.%E2%80%85%EA%B0%80%EC%A7%80%E2%80%85%EC%9E%90%EB%A5%B4%EA%B8%B0/bb0d98f1.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/27948.%E2%80%85%EA%B0%80%EC%A7%80%E2%80%85%EC%9E%90%EB%A5%B4%EA%B8%B0/bb0d98f1.png" data-original-src="https://upload.acmicpc.net/503f6e47-6180-4e9d-b7ed-111f2cc97f87/-" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="max-width: min(100%,545px); height: auto;" /></p>
 
 <p style="text-align: center;"><small>왼쪽은 가지를 자르기 전, 오른쪽은 자른 후</small></p>
 

@@ -24,11 +24,11 @@
 
 <p>In sample input $1$, the mines look like this:</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/31977.%E2%80%85Minequake/51cc6d65.png" data-original-src="https://upload.acmicpc.net/609dd33c-d7b1-487a-b045-c8171b76abfd/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 176px; height: 50px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/31977.%E2%80%85Minequake/51cc6d65.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/31977.%E2%80%85Minequake/51cc6d65.png" data-original-src="https://upload.acmicpc.net/609dd33c-d7b1-487a-b045-c8171b76abfd/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 176px; height: 50px;" /></p>
 
 <p>If you start in hall $2$ and visit the rest of the halls in the order $2$, $1$, $2$, $3$, then you can switch off their machines at time $0$ (in hall $2$), time $1$ (in hall $1$), and time $3$ (in hall $3$). This wastes $0+1+3=4$ liters of liquid in total. If instead you start in hall $1$ and visit the halls in the order $1$, $2$, $3$, the total amount of liquid wasted is $0+1+2=3$ liters, which is better.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/31977.%E2%80%85Minequake/3fe7faa3.png" data-original-src="https://upload.acmicpc.net/fef6d2b1-95ef-4360-8845-a73811e5842e/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 240px; height: 150px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/31977.%E2%80%85Minequake/3fe7faa3.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/31977.%E2%80%85Minequake/3fe7faa3.png" data-original-src="https://upload.acmicpc.net/fef6d2b1-95ef-4360-8845-a73811e5842e/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 240px; height: 150px;" /></p>
 
 ### 입력
 

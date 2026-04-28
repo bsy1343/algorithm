@@ -30,10 +30,10 @@
 
 ### 힌트
 
-<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/11466.%E2%80%85Alex%E2%80%85Origami%E2%80%85Squares/3059584e.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11466/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:94px; width:124px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/11466.%E2%80%85Alex%E2%80%85Origami%E2%80%85Squares/3059584e.png" data-original-src="%EB%B0%B1%EC%A4%80/Bronze/11466.%E2%80%85Alex%E2%80%85Origami%E2%80%85Squares/3059584e.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11466/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:94px; width:124px" /></p>
 
 <p style="text-align:center">Example 1</p>
 
-<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/11466.%E2%80%85Alex%E2%80%85Origami%E2%80%85Squares/40f75dca.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11466/2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:107px; width:51px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/11466.%E2%80%85Alex%E2%80%85Origami%E2%80%85Squares/40f75dca.png" data-original-src="%EB%B0%B1%EC%A4%80/Bronze/11466.%E2%80%85Alex%E2%80%85Origami%E2%80%85Squares/40f75dca.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11466/2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:107px; width:51px" /></p>
 
 <p style="text-align:center">Example 2</p>

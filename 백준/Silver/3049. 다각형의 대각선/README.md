@@ -20,7 +20,7 @@
 
 <p>아래 그림은 위의 조건을 만족하는 한 육각형의 교차점 그림이다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/3049.%E2%80%85%EB%8B%A4%EA%B0%81%ED%98%95%EC%9D%98%E2%80%85%EB%8C%80%EA%B0%81%EC%84%A0/5e47fbc2.png" data-original-src="https://upload.acmicpc.net/2afc17c7-9814-4678-b876-b082ea89b995/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 244px; height: 234px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/3049.%E2%80%85%EB%8B%A4%EA%B0%81%ED%98%95%EC%9D%98%E2%80%85%EB%8C%80%EA%B0%81%EC%84%A0/5e47fbc2.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/3049.%E2%80%85%EB%8B%A4%EA%B0%81%ED%98%95%EC%9D%98%E2%80%85%EB%8C%80%EA%B0%81%EC%84%A0/5e47fbc2.png" data-original-src="https://upload.acmicpc.net/2afc17c7-9814-4678-b876-b082ea89b995/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 244px; height: 234px;" /></p>
 
 <p>모든 내부각이 180도보다 작은 다각형을 볼록 다각형이라고 한다.</p>
 

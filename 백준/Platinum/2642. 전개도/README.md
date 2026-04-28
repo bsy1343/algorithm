@@ -21,8 +21,8 @@
 <table class="table table-bordered td-center">
 	<tbody>
 		<tr>
-			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/2642.%E2%80%85%EC%A0%84%EA%B0%9C%EB%8F%84/563782af.png" data-original-src="https://upload.acmicpc.net/e6097748-dd73-41c0-8967-c956a53579f7/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 182px; height: 144px;" /></td>
-			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/2642.%E2%80%85%EC%A0%84%EA%B0%9C%EB%8F%84/4cd85ed9.png" data-original-src="https://upload.acmicpc.net/f14a1a2f-7872-4454-a6cd-44c717891a28/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 139px; height: 144px;" /></td>
+			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/2642.%E2%80%85%EC%A0%84%EA%B0%9C%EB%8F%84/563782af.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/2642.%E2%80%85%EC%A0%84%EA%B0%9C%EB%8F%84/563782af.png" data-original-src="https://upload.acmicpc.net/e6097748-dd73-41c0-8967-c956a53579f7/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 182px; height: 144px;" /></td>
+			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/2642.%E2%80%85%EC%A0%84%EA%B0%9C%EB%8F%84/4cd85ed9.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/2642.%E2%80%85%EC%A0%84%EA%B0%9C%EB%8F%84/4cd85ed9.png" data-original-src="https://upload.acmicpc.net/f14a1a2f-7872-4454-a6cd-44c717891a28/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 139px; height: 144px;" /></td>
 		</tr>
 		<tr>
 			<td>전개도 (1)</td>

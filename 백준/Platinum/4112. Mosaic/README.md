@@ -18,11 +18,11 @@
 
 <p>An architect wants to decorate one of his buildings with a long, thin mosaic. He has two kinds of tiles available to him, each 2 inches by 2 inches:</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/4112.%E2%80%85Mosaic/80f1df75.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/4112/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:100px; width:271px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/4112.%E2%80%85Mosaic/80f1df75.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/4112.%E2%80%85Mosaic/80f1df75.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/4112/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:100px; width:271px" /></p>
 
 <p>He can rotate the second kind of tile in any of four ways. He wants to fill the entire space with tiles, leaving no untiled gaps. Now, he wonders how many different patterns he can form. He considers two mosaics to be the same only if they have exactly the same kinds of tiles in exactly the same positions. So, if a rotation or a reflection of a pattern has tiles in different places than the original, he considers it a different pattern. The following are examples of 4&rdquo; x 16&rdquo; mosaics, and even though they are all rotations or reflections of each other, the architect considers them to be four different mosaics:</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/4112.%E2%80%85Mosaic/7fc08827.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/4112/2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:162px; width:544px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/4112.%E2%80%85Mosaic/7fc08827.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/4112.%E2%80%85Mosaic/7fc08827.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/4112/2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:162px; width:544px" /></p>
 
 ### 입력
 

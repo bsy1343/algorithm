@@ -27,7 +27,7 @@
 
 <p>See the image with an example of a river with one possible correct solution using three pontoons.</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/10310.%E2%80%85Most/c517600c.png" data-original-src="https://www.acmicpc.net/upload/images2/most.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:164px; width:168px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/10310.%E2%80%85Most/c517600c.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/10310.%E2%80%85Most/c517600c.png" data-original-src="https://www.acmicpc.net/upload/images2/most.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:164px; width:168px" /></p>
 
 ### 입력
 

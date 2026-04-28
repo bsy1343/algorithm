@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/10464.%E2%80%85XOR/5a2f6010.png" data-original-src="https://www.acmicpc.net/upload/images2/XOR.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="float:right; height:50px; width:100px" /> <em>S</em>에서 <em>F</em>까지의 모든 정수를 XOR한 값은 무엇일까?</p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/10464.%E2%80%85XOR/5a2f6010.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/10464.%E2%80%85XOR/5a2f6010.png" data-original-src="https://www.acmicpc.net/upload/images2/XOR.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="float:right; height:50px; width:100px" /> <em>S</em>에서 <em>F</em>까지의 모든 정수를 XOR한 값은 무엇일까?</p>
 
 ### 입력
 

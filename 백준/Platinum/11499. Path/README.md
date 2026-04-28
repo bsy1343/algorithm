@@ -18,7 +18,7 @@
 
 <p>A histogram is a simple rectilinear polygon whose boundary consists of two chains such that the upper chain is monotone with respect to the horizontal axis and the lower chain is a horizontal line segment, called the base segment (See Figure 1).</p>
 
-<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/11499.%E2%80%85Path/555c1b25.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11499/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:188px; width:384px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/11499.%E2%80%85Path/555c1b25.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/11499.%E2%80%85Path/555c1b25.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11499/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:188px; width:384px" /></p>
 
 <p style="text-align:center">Figure 1. A histogram and its base segment (v<sub>0</sub>, v<sub>1</sub>)</p>
 

@@ -30,7 +30,7 @@
 
 <p>Pavyzdžiui, Vytis papusryčiavęs įgauna energijos $E_0 = 6$, užlipdamas sueikvoja $E_u = 3$, nulipdamas sueikvoja $E_n = 1$, ilsėdamasis įgauna $E_g = 1$ ir susiplanavo eiti tokiu kalnu:</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/30072.%E2%80%85%C5%BDygis/fef5c8b9.png" data-original-src="https://upload.acmicpc.net/c59469d9-a446-4401-a2a8-2354634d52c4/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 243px; height: 151px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/30072.%E2%80%85%C5%BDygis/fef5c8b9.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/30072.%E2%80%85%C5%BDygis/fef5c8b9.png" data-original-src="https://upload.acmicpc.net/c59469d9-a446-4401-a2a8-2354634d52c4/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 243px; height: 151px;" /></p>
 
 <p style="text-align: center;">1 pav. De&scaron;inėje pavaizduotas auk&scaron;tis, po paveikslėliu &ndash; mar&scaron;ruto ta&scaron;kai.</p>
 

@@ -24,7 +24,7 @@
 
 <p>Of course, the game is only fun if at least a few kids make it to the other side of the bridge. But it shouldn&#39;t be too many either, since everybody has a great laugh when somebody is falling into the water. Given the number of kids and the planned layout of fake and real plates, output how many kids make it to the other side of the bridge.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/26021.%E2%80%85K.O.%E2%80%85Kids/a14986a7.png" data-original-src="https://upload.acmicpc.net/96f04fdc-102e-4fcb-b7fa-2b1391f23223/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 750px; height: 97px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/26021.%E2%80%85K.O.%E2%80%85Kids/a14986a7.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/26021.%E2%80%85K.O.%E2%80%85Kids/a14986a7.png" data-original-src="https://upload.acmicpc.net/96f04fdc-102e-4fcb-b7fa-2b1391f23223/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 750px; height: 97px;" /></p>
 
 <p style="text-align: center;">Figure K.1: The bridge layout for Sample Input 4 (cracked squares indicate the fake plates). The first player will guess the first step correctly, but fall on the second step. The second player thus knows the correct choices for the first two steps and guesses the third and fourth one correctly by switching. In the end, three of the seven kids make it to the other side.</p>
 

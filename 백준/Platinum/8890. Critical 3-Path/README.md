@@ -37,7 +37,7 @@
 
 <p>The length of the critical 3-path is 128.</p>
 
-<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/8890.%E2%80%85Critical%E2%80%853-Path/ab863faf.png" data-original-src="https://www.acmicpc.net/upload/images2/3path.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:268px; width:564px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/8890.%E2%80%85Critical%E2%80%853-Path/ab863faf.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/8890.%E2%80%85Critical%E2%80%853-Path/ab863faf.png" data-original-src="https://www.acmicpc.net/upload/images2/3path.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:268px; width:564px" /></p>
 
 <p style="text-align:center">Figure 1. A sample PERT chart</p>
 

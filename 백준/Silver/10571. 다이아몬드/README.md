@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/10571.%E2%80%85%EB%8B%A4%EC%9D%B4%EC%95%84%EB%AA%AC%EB%93%9C/ba08368b.png" data-original-src="https://www.acmicpc.net/upload/images2/diamond.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:72px; width:210px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/10571.%E2%80%85%EB%8B%A4%EC%9D%B4%EC%95%84%EB%AA%AC%EB%93%9C/ba08368b.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/10571.%E2%80%85%EB%8B%A4%EC%9D%B4%EC%95%84%EB%AA%AC%EB%93%9C/ba08368b.png" data-original-src="https://www.acmicpc.net/upload/images2/diamond.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:72px; width:210px" /></p>
 
 <p>어떠한 다이아몬드의 가치는 그 다이아몬드의 중량인 캐럿과 선명도에 의해서 결정됩니다. 즉, 작지만 선명한 다이아몬드가 크고 선명하지 않은 다이아몬드보다는 가치가 높습니다. 다이아몬드의 선명도는 0.0-10.0의 스캐일로 표현할 수 있는데, 0.0의 선명도는 완벽하게 선명한 다이아몬드를 나타내고 10.0은 가장 결함이 많은 다이아몬드를 나타냅니다.</p>
 

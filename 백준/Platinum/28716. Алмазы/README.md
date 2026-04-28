@@ -22,7 +22,7 @@
 
 <p><strong>Алмазом</strong> в неориентированном графе без петель и кратных ребер называются два треугольника, имеющие общее ребро.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/28716.%E2%80%85%D0%90%D0%BB%D0%BC%D0%B0%D0%B7%D1%8B/3388948b.png" data-original-src="https://upload.acmicpc.net/6c9f939e-851c-4655-a1ef-f2431878db8d/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 250px; height: 250px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/28716.%E2%80%85%D0%90%D0%BB%D0%BC%D0%B0%D0%B7%D1%8B/3388948b.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/28716.%E2%80%85%D0%90%D0%BB%D0%BC%D0%B0%D0%B7%D1%8B/3388948b.png" data-original-src="https://upload.acmicpc.net/6c9f939e-851c-4655-a1ef-f2431878db8d/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 250px; height: 250px;" /></p>
 
 <p>Два алмаза считаются различными, если существует ребро, которое принадлежит одному алмазу, но не принадлежит другому.</p>
 

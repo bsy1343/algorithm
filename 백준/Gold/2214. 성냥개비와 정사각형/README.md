@@ -18,7 +18,7 @@
 
 <p>테이블 위에 놓인 성냥개비를 생각해 보시오. 예시:</p>
 
-<p><img src="%EB%B0%B1%EC%A4%80/Gold/2214.%E2%80%85%EC%84%B1%EB%83%A5%EA%B0%9C%EB%B9%84%EC%99%80%E2%80%85%EC%A0%95%EC%82%AC%EA%B0%81%ED%98%95/2e819cff.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/2214/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202017-01-12%20%EC%98%A4%EC%A0%84%209.04.13.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:214px; width:308px" /></p>
+<p><img src="%EB%B0%B1%EC%A4%80/Gold/2214.%E2%80%85%EC%84%B1%EB%83%A5%EA%B0%9C%EB%B9%84%EC%99%80%E2%80%85%EC%A0%95%EC%82%AC%EA%B0%81%ED%98%95/2e819cff.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/2214.%E2%80%85%EC%84%B1%EB%83%A5%EA%B0%9C%EB%B9%84%EC%99%80%E2%80%85%EC%A0%95%EC%82%AC%EA%B0%81%ED%98%95/2e819cff.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/2214/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202017-01-12%20%EC%98%A4%EC%A0%84%209.04.13.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:214px; width:308px" /></p>
 
 <p>문제는 성냥개비들로 이루어지는 정사각형의 개수를 구하는 것이다. 예를 들어 위의 예시는 2개의 정사각형이 성냥개비로 이루어진다.</p>
 

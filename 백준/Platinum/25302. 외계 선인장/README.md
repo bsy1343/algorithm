@@ -20,7 +20,7 @@
 
 <p>행성의 한 지역은 상하 방향과 좌우 방향만 존재하는 $2$차원 평면이다. 그 지역에 $N$개의 선인장이 일렬로 붙어 서 있다. 선인장의 폭은 모두 $1$미터이다. 선인장들의 높이는 서로 다를 수 있다. 환경미화를 위해서 $S$번째 선인장에서 $E$번째 선인장까지만 남긴 상태에서 비가 충분히 많이 내렸다. 그래서 선인장 위쪽에 물을 담을 수 있는 면적에 모두 물이 고였다고 한다. 즉, 아래 그림처럼 물이 고인다. 아래 그림에서 화살표로 표시된 범위 밖의 선인장은 없어진 것으로 생각해야 한다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/25302.%E2%80%85%EC%99%B8%EA%B3%84%E2%80%85%EC%84%A0%EC%9D%B8%EC%9E%A5/6de4795e.png" data-original-src="https://upload.acmicpc.net/f7f19758-7f66-4e5e-93a5-8b3feadf83e0/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 248px; height: 200px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/25302.%E2%80%85%EC%99%B8%EA%B3%84%E2%80%85%EC%84%A0%EC%9D%B8%EC%9E%A5/6de4795e.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/25302.%E2%80%85%EC%99%B8%EA%B3%84%E2%80%85%EC%84%A0%EC%9D%B8%EC%9E%A5/6de4795e.png" data-original-src="https://upload.acmicpc.net/f7f19758-7f66-4e5e-93a5-8b3feadf83e0/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 248px; height: 200px;" /></p>
 
 <p>선인장들의 높이와 남아 있는 선인장들의 범위를 입력으로 받아 고인 물의 양을 면적으로 계산하는 프로그램을 작성하라. 남아 있는 선인장들의 범위는 최대 $Q$번 주어진다. 주어지는 범위는 항상 모든 선인장이 존재하는 초기 상태에 적용한다.</p>
 

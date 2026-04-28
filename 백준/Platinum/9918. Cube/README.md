@@ -21,8 +21,8 @@
 <table class="table table-bordered td-center">
 	<tbody>
 		<tr>
-			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/9918.%E2%80%85Cube/5f230086.png" data-original-src="https://upload.acmicpc.net/9e9e3d45-478f-4232-a62b-6ae8c540922a/-/crop/389x292/0,0/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 133px; height: 100px;" /></td>
-			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/9918.%E2%80%85Cube/cf255aa7.png" data-original-src="https://upload.acmicpc.net/9e9e3d45-478f-4232-a62b-6ae8c540922a/-/crop/389x292/721,0/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 133px; height: 100px;" /></td>
+			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/9918.%E2%80%85Cube/5f230086.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/9918.%E2%80%85Cube/5f230086.png" data-original-src="https://upload.acmicpc.net/9e9e3d45-478f-4232-a62b-6ae8c540922a/-/crop/389x292/0,0/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 133px; height: 100px;" /></td>
+			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/9918.%E2%80%85Cube/cf255aa7.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/9918.%E2%80%85Cube/cf255aa7.png" data-original-src="https://upload.acmicpc.net/9e9e3d45-478f-4232-a62b-6ae8c540922a/-/crop/389x292/721,0/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 133px; height: 100px;" /></td>
 		</tr>
 	</tbody>
 </table>

@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/4378.%E2%80%85%ED%8A%B8%E3%85%8F%E3%85%8A%3B/d1177e69.jpg" data-original-src="https://www.acmicpc.net/upload/images2/qwerty.jpg" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:109px; width:331px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/4378.%E2%80%85%ED%8A%B8%E3%85%8F%E3%85%8A%3B/d1177e69.jpg" data-original-src="%EB%B0%B1%EC%A4%80/Silver/4378.%E2%80%85%ED%8A%B8%E3%85%8F%E3%85%8A%3B/d1177e69.jpg" data-original-src="https://www.acmicpc.net/upload/images2/qwerty.jpg" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:109px; width:331px" /></p>
 
 <p>가끔, 그러나 때때로, 우리들은 키보드에서 양손을 오른쪽으로 한 칸씩 이동한 상태로 두고&nbsp;타자를 치는 경우가 있다. 즉, &quot;<em>ACMICPC.NET</em>&quot;을 위와 같은 방법으로 치게 되면 &quot;SV,OV[V/MRY&quot;이라는 이상한 문장을 보게 된다.</p>
 

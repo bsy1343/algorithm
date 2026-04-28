@@ -18,7 +18,7 @@
 
 <p>은동이는 체스를 두는 것보다 체스 기물을 가지고 노는 것을 좋아한다. 오늘은 변형 체스 기물 중 하나인 다바바(Dabbaba)를 가지고 크기가 $N \times N$인 체스판 위에서 놀아보려고 한다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/29721.%E2%80%85%EB%B3%80%ED%98%95%E2%80%85%EC%B2%B4%EC%8A%A4%E2%80%85%EB%86%80%EC%9D%B4%E2%80%85%3A%E2%80%85%EB%8B%A4%EB%B0%94%EB%B0%94(Dabbaba)/4133a184.png" data-original-src="https://upload.acmicpc.net/39bfeffc-3105-448d-977b-72425934b32d/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="max-width: 100%; width: 250px; height: 250px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/29721.%E2%80%85%EB%B3%80%ED%98%95%E2%80%85%EC%B2%B4%EC%8A%A4%E2%80%85%EB%86%80%EC%9D%B4%E2%80%85%3A%E2%80%85%EB%8B%A4%EB%B0%94%EB%B0%94(Dabbaba)/4133a184.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/29721.%E2%80%85%EB%B3%80%ED%98%95%E2%80%85%EC%B2%B4%EC%8A%A4%E2%80%85%EB%86%80%EC%9D%B4%E2%80%85%3A%E2%80%85%EB%8B%A4%EB%B0%94%EB%B0%94(Dabbaba)/4133a184.png" data-original-src="https://upload.acmicpc.net/39bfeffc-3105-448d-977b-72425934b32d/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="max-width: 100%; width: 250px; height: 250px;" /></p>
 
 <p style="text-align: center;"><small>다바바의 행마</small></p>
 

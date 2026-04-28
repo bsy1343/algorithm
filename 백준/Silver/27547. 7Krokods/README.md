@@ -27,7 +27,7 @@
 
 <p style="text-align: center;">Illustration of the first example.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/27547.%E2%80%857Krokods/5917d3c4.png" data-original-src="https://upload.acmicpc.net/ad51d1db-7d71-4494-9bf6-afbc5387a6df/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 412px; height: 194px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/27547.%E2%80%857Krokods/5917d3c4.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/27547.%E2%80%857Krokods/5917d3c4.png" data-original-src="https://upload.acmicpc.net/ad51d1db-7d71-4494-9bf6-afbc5387a6df/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 412px; height: 194px;" /></p>
 
 <p style="text-align: center;">Paula has $2$ letters <code>d</code> ($2 &middot; 2 = 4$ points), $6$ letters <code>k</code> ($6 &middot; 6 = 36$ points), $4$ letters <code>o</code> ($4 &middot; 4 = 16$ points) and $3$ letters <code>r</code> ($3 &middot; 3 = 9$ points). The word krokod can be spelled $2$ times ($7 &middot; 2 = 14$ points). Her total score is $79$. ($4 + 36 + 16 + 9 + 14 = 79$)</p>
 

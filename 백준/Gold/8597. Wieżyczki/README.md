@@ -25,7 +25,7 @@
 
 <p>W ten spos&oacute;b powstaną dwie wieżyczki o tych samych wysokościach co poprzednio, ale być może o innych liczbach na poszczeg&oacute;lnych klockach (patrz rysunek).</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/8597.%E2%80%85Wie%C5%BCyczki/09267ec8.png" data-original-src="https://upload.acmicpc.net/48703d11-6692-478e-a494-21549d4e323d/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/8597.%E2%80%85Wie%C5%BCyczki/09267ec8.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/8597.%E2%80%85Wie%C5%BCyczki/09267ec8.png" data-original-src="https://upload.acmicpc.net/48703d11-6692-478e-a494-21549d4e323d/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p align="center">Rysunek: Przebieg ruchu Jasia dla wieżyczek (4, 5, 7, 1) i (3, 6).</p>
 
@@ -41,6 +41,6 @@
 
 ### 힌트
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/8597.%E2%80%85Wie%C5%BCyczki/946d6150.png" data-original-src="https://upload.acmicpc.net/4182691e-2233-4248-8594-98de7ecc7451/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/8597.%E2%80%85Wie%C5%BCyczki/946d6150.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/8597.%E2%80%85Wie%C5%BCyczki/946d6150.png" data-original-src="https://upload.acmicpc.net/4182691e-2233-4248-8594-98de7ecc7451/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p><b>Wyjaśnienie:</b>&nbsp;Jaś może zbudować z wieżyczek nr 2 i nr 3 wieżyczkę (4, 6), a następnie z tej wieżyczki i wieżyczki nr 1 zbudować wieżyczkę (4, 6, 7, 1) o wartości 18.</p>

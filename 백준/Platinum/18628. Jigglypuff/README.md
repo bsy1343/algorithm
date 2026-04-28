@@ -36,4 +36,4 @@
 
 <p>The following picture shows the first example test and three paths generating the same sequence of notes &mdash; <code>petrozavodsk</code>:</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/18628.%E2%80%85Jigglypuff/34af741a.png" data-original-src="https://upload.acmicpc.net/1dc563a2-c450-4975-b85f-8e6d284e11c9/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 500px; height: 314px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/18628.%E2%80%85Jigglypuff/34af741a.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/18628.%E2%80%85Jigglypuff/34af741a.png" data-original-src="https://upload.acmicpc.net/1dc563a2-c450-4975-b85f-8e6d284e11c9/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 500px; height: 314px;" /></p>

@@ -22,7 +22,7 @@
 
 <p>예를 들어, 보드에 &quot;KONKUK&quot; 이라는 문자가 적혀있고, &quot;KONDUCK&quot; 이라는 단어로 게임을 시작한다면, 2번째 문자부터 RRRRLL 순으로 이동한다면 마지막 1개의 문자만이 일치해 점수를 1점 얻는다. 최대 점수를 얻으려면, 1번째 문자부터 RRRRLR 순으로 이동하면 된다. 이 경우 &quot;KONU&quot;가 일치하여 점수를 4점 얻는다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/27980.%E2%80%85%EB%AC%B8%EC%9E%90%EC%97%B4%E2%80%85%EA%B2%8C%EC%9E%84/276c3095.png" data-original-src="https://upload.acmicpc.net/30145f35-994c-4f87-b19a-677060970ba8/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/27980.%E2%80%85%EB%AC%B8%EC%9E%90%EC%97%B4%E2%80%85%EA%B2%8C%EC%9E%84/276c3095.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/27980.%E2%80%85%EB%AC%B8%EC%9E%90%EC%97%B4%E2%80%85%EA%B2%8C%EC%9E%84/276c3095.png" data-original-src="https://upload.acmicpc.net/30145f35-994c-4f87-b19a-677060970ba8/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>보드와 가지고 있는 단어가 주어졌을 때, 건덕이가 얻을 수 있는 최대 점수를 구하는 프로그램을 작성해보자.</p>
 

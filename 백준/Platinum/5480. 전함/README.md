@@ -26,7 +26,7 @@
 
 <p>아래 그림에는 5 &times; 5 크기의 그리드에 전함이 다섯 개 있다. 각 전함의 무게는 선분 옆에 쓰여 있다. 첫 번째 레이저를 (4,1)과 (4,5)를 연결하는 선분으로 수직&nbsp;발사하면, 전함 두 개를 파괴할 수 있다. 파괴한&nbsp;전함의 무게는 4와 5인데, 가장 무거운 전함은 5이므로 5를 보고한다. 그 다음, 레이저를 (1,4)와 (5,4)를 연결하는 선분으로 수평&nbsp;발사하면, 두 전함을 파괴할 수 있다. 파괴한&nbsp;전함의 무게는 1과 2이고, 무거운 전함은 2이므로 2를 보고한다. 두 번째 레이저를 발사했을 때, 무게가 4인 전함은 첫 번째 레이저에 의해서 파괴되었기 때문에 파괴되지 않는다.</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/5480.%E2%80%85%EC%A0%84%ED%95%A8/1c49f3e5.png" data-original-src="https://www.acmicpc.net/upload/images/battlefield.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:199px; width:234px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/5480.%E2%80%85%EC%A0%84%ED%95%A8/1c49f3e5.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/5480.%E2%80%85%EC%A0%84%ED%95%A8/1c49f3e5.png" data-original-src="https://www.acmicpc.net/upload/images/battlefield.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:199px; width:234px" /></p>
 
 <p>모든 전함의 위치와 홍준이가 발사한 레이저의 정보가 주어진다. 레이저를 발사할 때마다, 파괴한&nbsp;전함중 가장 무거운 전함의 무게를 구하는 프로그램을 작성하시오.</p>
 

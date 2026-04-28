@@ -18,7 +18,7 @@
 
 <p>In Chess, a knight can move two squares in one direction and then one in a perpendicular direction. It can &lsquo;jump&rsquo;, meaning that it only requires that the destination square be open - the path between can be occupied. In this diagram, the knight could move to any of the Xs.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/9781.%E2%80%85Knight%E2%80%85Moves/3f791226.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/10562/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 145px; height: 150px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/9781.%E2%80%85Knight%E2%80%85Moves/3f791226.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/9781.%E2%80%85Knight%E2%80%85Moves/3f791226.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/10562/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 145px; height: 150px;" /></p>
 
 <p>Given a grid, a starting point and destination point, determine the least number of moves the knight must make to get from the start to the destination. Some squares of the grid may be occupied, so that the knight cannot move there.</p>
 

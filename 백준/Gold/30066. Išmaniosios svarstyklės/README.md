@@ -39,7 +39,7 @@
 
 <p>Su parametru $D = 1500$, Martyno algoritmas sugebėtų teisingai atskirti, jog svartyklėmis i&scaron; viso naudojosi trys klientai:</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/30066.%E2%80%85I%C5%A1maniosios%E2%80%85svarstykl%C4%97s/45dcafa8.png" data-original-src="https://upload.acmicpc.net/dcb86b10-a542-4f12-9e84-f6633ad91f5d/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 326px; height: 273px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/30066.%E2%80%85I%C5%A1maniosios%E2%80%85svarstykl%C4%97s/45dcafa8.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/30066.%E2%80%85I%C5%A1maniosios%E2%80%85svarstykl%C4%97s/45dcafa8.png" data-original-src="https://upload.acmicpc.net/dcb86b10-a542-4f12-9e84-f6633ad91f5d/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 326px; height: 273px;" /></p>
 
 <p>Jums duota $N$ svorio matavimų, kuriuos užregistravo i&scaron;maniosios svarstyklės, ir parametras $D$. Pagal Martyno sugalvotą algoritmą suskaičiuokite, kiek skirtingų klientų (žmonių, katinų, pelių...) i&scaron; viso pasinaudojo svarstyklėmis.</p>
 

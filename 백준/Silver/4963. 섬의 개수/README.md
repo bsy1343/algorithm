@@ -18,7 +18,7 @@
 
 <p>정사각형으로 이루어져 있는 섬과 바다 지도가 주어진다. 섬의 개수를 세는 프로그램을 작성하시오.</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/4963.%E2%80%85%EC%84%AC%EC%9D%98%E2%80%85%EA%B0%9C%EC%88%98/190d9b58.png" data-original-src="https://www.acmicpc.net/upload/images/island.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 283px; height: 141px;" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/4963.%E2%80%85%EC%84%AC%EC%9D%98%E2%80%85%EA%B0%9C%EC%88%98/190d9b58.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/4963.%E2%80%85%EC%84%AC%EC%9D%98%E2%80%85%EA%B0%9C%EC%88%98/190d9b58.png" data-original-src="https://www.acmicpc.net/upload/images/island.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 283px; height: 141px;" /></p>
 
 <p>한 정사각형과 가로, 세로 또는 대각선으로 연결되어 있는 사각형은 걸어갈 수 있는 사각형이다.&nbsp;</p>
 

@@ -18,7 +18,7 @@
 
 <p>Unlike a straight line, a straight segment between two points P<sub>1</sub>, P<sub>2</sub> (normally written as P<sub>1</sub>P<sub>2</sub>) is a line that links the two points but doesn&rsquo;t extend beyond them. A third point P<sub>3</sub> is said to be incident to P<sub>1</sub>P<sub>2</sub> if P<sub>3</sub> lies on the straight line and between the points P<sub>1</sub> and P<sub>2</sub>. P<sub>1</sub>P<sub>2</sub> is said to include P<sub>3</sub>. By definition, P<sub>1</sub> and P<sub>2</sub> are included in P<sub>1</sub>P<sub>2</sub>. Write a program to find the segment that includes the most number of given points.</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/4914.%E2%80%85Incidental%E2%80%85Points/990ef0c1.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/4914/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-06-10%20%EC%98%A4%ED%9B%84%204.25.36.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:199px; width:202px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/4914.%E2%80%85Incidental%E2%80%85Points/990ef0c1.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/4914.%E2%80%85Incidental%E2%80%85Points/990ef0c1.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/4914/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-06-10%20%EC%98%A4%ED%9B%84%204.25.36.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:199px; width:202px" /></p>
 
 ### 입력
 

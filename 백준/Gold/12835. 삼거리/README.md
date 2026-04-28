@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/12835.%E2%80%85%EC%82%BC%EA%B1%B0%EB%A6%AC/4e2a7087.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/12835/pic1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:189px; width:189px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/12835.%E2%80%85%EC%82%BC%EA%B1%B0%EB%A6%AC/4e2a7087.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/12835.%E2%80%85%EC%82%BC%EA%B1%B0%EB%A6%AC/4e2a7087.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/12835/pic1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:189px; width:189px" /></p>
 
 <p>개미 나라에 N마리의 개미가 위와 같은 삼거리 위에 있다. 각각의 길의 끝점을 A, B, C이고, 삼거리의 중심은 O이다. 각 삼거리의 길이는 L(길이)로 동일하다.</p>
 

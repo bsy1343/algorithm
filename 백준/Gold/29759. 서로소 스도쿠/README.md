@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align:center;max-width:1000px; margin: 0 auto"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/29759.%E2%80%85%EC%84%9C%EB%A1%9C%EC%86%8C%E2%80%85%EC%8A%A4%EB%8F%84%EC%BF%A0/24475e74.png" data-original-src="https://upload.acmicpc.net/1be8e396-7b55-4c91-8bdf-ae3244ce2351/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: auto; width: 1000px;" /></p>
+<p style="text-align:center;max-width:1000px; margin: 0 auto"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/29759.%E2%80%85%EC%84%9C%EB%A1%9C%EC%86%8C%E2%80%85%EC%8A%A4%EB%8F%84%EC%BF%A0/24475e74.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/29759.%E2%80%85%EC%84%9C%EB%A1%9C%EC%86%8C%E2%80%85%EC%8A%A4%EB%8F%84%EC%BF%A0/24475e74.png" data-original-src="https://upload.acmicpc.net/1be8e396-7b55-4c91-8bdf-ae3244ce2351/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: auto; width: 1000px;" /></p>
 
 <p style="text-align: center;">위 그림은 $3^2 \times 3^2$ 서로소 스도쿠의 예시이다.</p>
 

@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/10907.%E2%80%85On%E2%80%85grid/a819e2d0.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/10907/img.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="float:right; height:238px; width:238px" />명우는 각 칸 위에 정수가 하나씩 적혀 있는 R 행 C 열의 격자를 하나 가지고 있다. 또한, 명우는 매우 다양한 크기의 직사각형 판들을 가지고 있어서 주어진 격자를 여러 개의 직사각형 판으로 덮는 놀이를 하려고 한다. 명우는 다음과 같이 규칙을 정했다.</p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/10907.%E2%80%85On%E2%80%85grid/a819e2d0.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/10907.%E2%80%85On%E2%80%85grid/a819e2d0.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/10907/img.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="float:right; height:238px; width:238px" />명우는 각 칸 위에 정수가 하나씩 적혀 있는 R 행 C 열의 격자를 하나 가지고 있다. 또한, 명우는 매우 다양한 크기의 직사각형 판들을 가지고 있어서 주어진 격자를 여러 개의 직사각형 판으로 덮는 놀이를 하려고 한다. 명우는 다음과 같이 규칙을 정했다.</p>
 
 <p>격자를 직사각형 판으로 덮을 때는 격자와 평행하게 덮어야 하며, 어떤 격자 칸의 일부만 덮는 것은 허용되지 않는다. 처음에 직사각형 판을 덮을 때에는 첫 번째 행의 첫 번째 열을 무조건 포함하도록 판을 덮어야 한다. 다음에 덮는 직사각형부터는 바로 직전에 덮은 직사각형의 오른쪽 아래 꼭짓점에 닿도록 직사각형 판을 덮어야 한다. 이때 서로의 모서리는 닿으면 안 된다. 그리고 마지막으로 덮는 직사각형은 R 번째 행의 C 번째 열을 무조건 포함하게 덮어야 한다. 오른쪽의 그림은 8행 8열의 격자 위에 직사각형 판을 잘 덮은 예이다.</p>
 

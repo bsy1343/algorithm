@@ -18,7 +18,7 @@
 
 <p>Byteasar runs a confectionery in Byteburg. Strawberry-vanilla flavoured lollipops are the favourite of local children. These lollipops are composed of multiple segments of the same length, each segment of either strawberry or vanilla flavour. The price of the lollipop is the sum of the values of its segments, where a vanilla segment costs one bythaler, while a strawberry segments costs two.</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/8203.%E2%80%85Lollipop/c0285a69.jpg" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/8203/1.jpg" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:118px; width:56px" /><br />
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/8203.%E2%80%85Lollipop/c0285a69.jpg" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/8203.%E2%80%85Lollipop/c0285a69.jpg" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/8203/1.jpg" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:118px; width:56px" /><br />
 Fig. 1: An exemplary lollipop of five segments, three strawberry flavoured and two vanilla, alternately. The price of this lollipop is 8 bythalers.</p>
 
 <p>Currently Byteasar is left with only one lollipop, though possibly very long. As a salesman, he knows only too well that probably no one will want to buy the whole lollipop. For this reason he thinks of breaking the lollipop at the joints of the segments in order to get a shorter lollipop. Each fragment for sale, of course, must stay in one piece.</p>

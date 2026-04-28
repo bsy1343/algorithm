@@ -42,6 +42,6 @@
 
 ### 힌트
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/18174.%E2%80%85Crimson%E2%80%85Sexy%E2%80%85Jalape%C3%B1os/178d7984.png" data-original-src="https://upload.acmicpc.net/1d899022-1ead-4e8f-86dc-f9188bf05a09/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 571px; height: 307px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/18174.%E2%80%85Crimson%E2%80%85Sexy%E2%80%85Jalape%C3%B1os/178d7984.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/18174.%E2%80%85Crimson%E2%80%85Sexy%E2%80%85Jalape%C3%B1os/178d7984.png" data-original-src="https://upload.acmicpc.net/1d899022-1ead-4e8f-86dc-f9188bf05a09/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 571px; height: 307px;" /></p>
 
 <p style="text-align: center;">Figure 1: Illustration of the game from Sample Input 1</p>

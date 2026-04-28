@@ -20,7 +20,7 @@
 
 <p>Космический корабль &lt;&lt;Столетний дятел&gt;&gt; выходит из червоточины в квадрате $(0, 0)$ и изначально движется вправо (то есть в направлении возрастания первой координаты). После тяжёлого сражения у корабля повреждён двигатель, так что корабль может поворачивать только направо на прямой угол. Корабль управляется автопилотом, который в случае, если следующий по текущему курсу квадрат безопасен, перемещает корабль в него, не тратя энергию. В противном случае автопилот остаётся в текущем квадрате и поворачивает, тратя на это одну единицу энергии.&nbsp;</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/24632.%E2%80%85%D0%A1%D1%82%D0%BE%D0%BB%D0%B5%D1%82%D0%BD%D0%B8%D0%B9%E2%80%85%D0%B4%D1%8F%D1%82%D0%B5%D0%BB/161c5bb7.png" data-original-src="https://upload.acmicpc.net/111afb24-86e0-4ab9-aac3-ab7537e5cf82/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 217px; height: 200px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/24632.%E2%80%85%D0%A1%D1%82%D0%BE%D0%BB%D0%B5%D1%82%D0%BD%D0%B8%D0%B9%E2%80%85%D0%B4%D1%8F%D1%82%D0%B5%D0%BB/161c5bb7.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/24632.%E2%80%85%D0%A1%D1%82%D0%BE%D0%BB%D0%B5%D1%82%D0%BD%D0%B8%D0%B9%E2%80%85%D0%B4%D1%8F%D1%82%D0%B5%D0%BB/161c5bb7.png" data-original-src="https://upload.acmicpc.net/111afb24-86e0-4ab9-aac3-ab7537e5cf82/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 217px; height: 200px;" /></p>
 
 <p>Требуется определить, сколько единиц энергии потратит корабль, пока одна из его координат не превысит по модулю $10^{10}$, или определить, что этого никогда не произойдёт.</p>
 

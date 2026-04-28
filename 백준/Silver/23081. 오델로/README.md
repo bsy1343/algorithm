@@ -22,11 +22,11 @@
 
 <p>오델로는 두 플레이어가 번갈아 가며 한 번씩 돌을 놓는 게임이다. 자신이 돌을 놓은 곳과 판에 이미 놓여있는&nbsp;자신의 돌 사이에 상대편의 돌만이 적어도 한 개 이상 존재한다면, 사이에 있는 상대편의 돌이 모두 뒤집혀 자신의 돌이 된다. 이와 같이 상대편의 돌을 뒤집을 수 있는 곳에만 돌을 놓을 수 있다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/23081.%E2%80%85%EC%98%A4%EB%8D%B8%EB%A1%9C/df0dc0ea.png" data-original-src="https://upload.acmicpc.net/813be192-9f45-484b-aa66-cc8b197e4c76/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 292px; width: 650px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/23081.%E2%80%85%EC%98%A4%EB%8D%B8%EB%A1%9C/df0dc0ea.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/23081.%E2%80%85%EC%98%A4%EB%8D%B8%EB%A1%9C/df0dc0ea.png" data-original-src="https://upload.acmicpc.net/813be192-9f45-484b-aa66-cc8b197e4c76/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 292px; width: 650px;" /></p>
 
 <p>돌은 가로, 세로, 대각선의 총 8방향으로 뒤집을 수 있으며, 동시에 여러 방향에 있는 돌을 뒤집을 수도 있다. 예를 들어, 아래의 그림에서 X 위치에 흑돌을 놓으면 3개의 백돌이&nbsp;뒤집혀 흑돌이 된다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/23081.%E2%80%85%EC%98%A4%EB%8D%B8%EB%A1%9C/8718d59e.png" data-original-src="https://upload.acmicpc.net/0fe22f96-b26d-4337-8c83-08386ceffc9c/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 292px; width: 650px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/23081.%E2%80%85%EC%98%A4%EB%8D%B8%EB%A1%9C/8718d59e.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/23081.%E2%80%85%EC%98%A4%EB%8D%B8%EB%A1%9C/8718d59e.png" data-original-src="https://upload.acmicpc.net/0fe22f96-b26d-4337-8c83-08386ceffc9c/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 292px; width: 650px;" /></p>
 
 <p>만약 어느 곳에 두어도 상대의 돌을 뒤집을 수 없어서 돌을 놓을 수 없다면,&nbsp;자신의 차례를 건너뛰고 상대의 차례로 넘어가게 된다.</p>
 

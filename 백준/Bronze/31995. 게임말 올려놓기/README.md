@@ -20,7 +20,7 @@
 
 <p>아래 그림은 $N = 3$, $M = 2$인 경우의 예시이다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/31995.%E2%80%85%EA%B2%8C%EC%9E%84%EB%A7%90%E2%80%85%EC%98%AC%EB%A0%A4%EB%86%93%EA%B8%B0/ed68baf9.png" data-original-src="https://upload.acmicpc.net/58045734-0d48-4fd6-96bf-88de9c8fe9ef/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 577px; height: 100px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/31995.%E2%80%85%EA%B2%8C%EC%9E%84%EB%A7%90%E2%80%85%EC%98%AC%EB%A0%A4%EB%86%93%EA%B8%B0/ed68baf9.png" data-original-src="%EB%B0%B1%EC%A4%80/Bronze/31995.%E2%80%85%EA%B2%8C%EC%9E%84%EB%A7%90%E2%80%85%EC%98%AC%EB%A0%A4%EB%86%93%EA%B8%B0/ed68baf9.png" data-original-src="https://upload.acmicpc.net/58045734-0d48-4fd6-96bf-88de9c8fe9ef/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 577px; height: 100px;" /></p>
 
 ### 입력
 

@@ -26,7 +26,7 @@
 
 <p>첫줄에는 주사위의 개수가 입력된다. 그 다음 줄부터는 한 줄에 하나씩 주사위의 종류가 1번 주사위부터 주사위 번호 순서대로 입력된다. 주사위의 종류는 각 면에 적혀진 숫자가 그림1에 있는 주사위의 전개도에서 A, B, C, D, E, F 의 순서로 입력된다. 입력되는 숫자 사이에는 빈 칸이 하나씩 있다. 주사위의 개수는 10,000개 이하이며 종류가 같은 주사위도 있을 수 있다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/2116.%E2%80%85%EC%A3%BC%EC%82%AC%EC%9C%84%E2%80%85%EC%8C%93%EA%B8%B0/2ea63181.png" data-original-src="https://upload.acmicpc.net/64d6b360-8f57-4764-a5a7-28a39cd86a8a/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 239px; height: 95px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/2116.%E2%80%85%EC%A3%BC%EC%82%AC%EC%9C%84%E2%80%85%EC%8C%93%EA%B8%B0/2ea63181.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/2116.%E2%80%85%EC%A3%BC%EC%82%AC%EC%9C%84%E2%80%85%EC%8C%93%EA%B8%B0/2ea63181.png" data-original-src="https://upload.acmicpc.net/64d6b360-8f57-4764-a5a7-28a39cd86a8a/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 239px; height: 95px;" /></p>
 
 <p style="text-align: center;">그림 1</p>
 
@@ -36,4 +36,4 @@
 
 ### 힌트
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/2116.%E2%80%85%EC%A3%BC%EC%82%AC%EC%9C%84%E2%80%85%EC%8C%93%EA%B8%B0/ade30bd3.png" data-original-src="https://upload.acmicpc.net/daad4a03-0410-4d30-81af-446c974df162/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 75px; height: 236px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/2116.%E2%80%85%EC%A3%BC%EC%82%AC%EC%9C%84%E2%80%85%EC%8C%93%EA%B8%B0/ade30bd3.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/2116.%E2%80%85%EC%A3%BC%EC%82%AC%EC%9C%84%E2%80%85%EC%8C%93%EA%B8%B0/ade30bd3.png" data-original-src="https://upload.acmicpc.net/daad4a03-0410-4d30-81af-446c974df162/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 75px; height: 236px;" /></p>

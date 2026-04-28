@@ -18,7 +18,7 @@
 
 <p>최근 최고의 인기를 누리고 있는 인디 게임 &quot;리그&nbsp;파이트 매니저&quot;는, 가상의 게임 &quot;리그전 오브 레전드&quot;의&nbsp;E-sports&nbsp;대회인 &quot;리그전 오브 레전드&nbsp;챔피언스 코리아&quot;의 관리자가 되는 경영 게임이다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/23327.%E2%80%85%EB%A6%AC%EA%B7%B8%EC%A0%84%E2%80%85%EC%98%A4%EB%B8%8C%E2%80%85%EB%A0%88%EC%A0%84%EB%93%9C/497efce1.png" data-original-src="https://upload.acmicpc.net/12290745-93fb-4c24-9961-b483139227f7/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/23327.%E2%80%85%EB%A6%AC%EA%B7%B8%EC%A0%84%E2%80%85%EC%98%A4%EB%B8%8C%E2%80%85%EB%A0%88%EC%A0%84%EB%93%9C/497efce1.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/23327.%E2%80%85%EB%A6%AC%EA%B7%B8%EC%A0%84%E2%80%85%EC%98%A4%EB%B8%8C%E2%80%85%EB%A0%88%EC%A0%84%EB%93%9C/497efce1.png" data-original-src="https://upload.acmicpc.net/12290745-93fb-4c24-9961-b483139227f7/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>이 대회는 그 이름답게, 각 팀이 리그전 내의 다른 모든 팀과 정확히 한번씩 경기를 치르는 방식으로 진행된다. 어떤 두 팀이 경기를 진행할 때, 그<strong>&nbsp;경기의 재미는 두 팀의 인기의 곱</strong>과 동일하다. 또한&nbsp;<strong>리그전의 재미는 그 리그전에서 치르는 모든 경기의 재미의 합</strong>이다. 예를 들어 어떤 리그전에 인기가&nbsp;$1, 2, 3$인 세 팀이 참가했다면, 이 리그전의 재미는 $(1\times2) + (1\times3) + (2\times3) = 11$이 된다.</p>
 

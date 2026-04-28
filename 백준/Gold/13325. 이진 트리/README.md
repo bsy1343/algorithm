@@ -20,7 +20,7 @@
 
 <p>예를 들어, 그림 1(a)에 있는 높이 2 인 포화이진트리를 살펴보자. 에지 옆에 있는 수는 그 에지의 가중치를 나타낸다. 이 경우에 대한 답이 그림 1(b)에 나타나 있다. 즉, 루트에서 모든 리프까지의 거리가 5 이고, 에지 가중치들의 총합은 이 경우에 가능한 최솟값인 15 이다.&nbsp;</p>
 
-<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/13325.%E2%80%85%EC%9D%B4%EC%A7%84%E2%80%85%ED%8A%B8%EB%A6%AC/3b468e76.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/13325/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:183px; width:453px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/13325.%E2%80%85%EC%9D%B4%EC%A7%84%E2%80%85%ED%8A%B8%EB%A6%AC/3b468e76.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/13325.%E2%80%85%EC%9D%B4%EC%A7%84%E2%80%85%ED%8A%B8%EB%A6%AC/3b468e76.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/13325/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:183px; width:453px" /></p>
 
 <p style="text-align:center">그림 1. 에지 가중치를 증가시키는 예.</p>
 

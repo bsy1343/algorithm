@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/4561.%E2%80%85As%E2%80%85the%E2%80%85Crow%E2%80%85Flies/4b5cbb42.png" data-original-src="https://upload.acmicpc.net/aed79a83-aefe-450a-bdef-01d9a44aacd7/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/4561.%E2%80%85As%E2%80%85the%E2%80%85Crow%E2%80%85Flies/4b5cbb42.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/4561.%E2%80%85As%E2%80%85the%E2%80%85Crow%E2%80%85Flies/4b5cbb42.png" data-original-src="https://upload.acmicpc.net/aed79a83-aefe-450a-bdef-01d9a44aacd7/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>As president of a startup airline company, you have started a frequent flier program that rewards customers for every mile they travel. As a for-profit company, you have a vested interest in minimizing the number of frequent flier miles that a person can earn on any one trip. To get an idea of how many miles a customer could earn flying the existing network, you&#39;ve decided to write a program.</p>
 

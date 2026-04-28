@@ -44,4 +44,4 @@
 
 <p>포닉스의 모험기는 후대에도 포스테키안들에게 전설로 전해지고 있다. 포스텍은 이를 기억하기 위해 학생회관 한편에 포닉스의 모험 당시의 격자를 재현해두었다고 한다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/28104.%E2%80%85%EC%82%BC%EA%B0%81%ED%98%95%E2%80%85%EB%AA%A8%ED%97%98/2b3f8857.png" data-original-src="https://upload.acmicpc.net/451abbe5-bd84-4463-927e-8b54e90115f7/-/crop/510x502/99,227/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 197px; width: 200px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/28104.%E2%80%85%EC%82%BC%EA%B0%81%ED%98%95%E2%80%85%EB%AA%A8%ED%97%98/2b3f8857.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/28104.%E2%80%85%EC%82%BC%EA%B0%81%ED%98%95%E2%80%85%EB%AA%A8%ED%97%98/2b3f8857.png" data-original-src="https://upload.acmicpc.net/451abbe5-bd84-4463-927e-8b54e90115f7/-/crop/510x502/99,227/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 197px; width: 200px;" /></p>

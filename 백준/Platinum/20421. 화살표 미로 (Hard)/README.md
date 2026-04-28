@@ -22,7 +22,7 @@
 
 <p>화살표 미로는 평범한 미로와 다른 점이 많다. 이 미로는 R&times;C 개의 방으로 이루어져 있다. 모든 방이 서로 이동할 수 없도록 사방이 벽으로 막혀있고, 각 방마다 완전히 다른 테마의 화려한 볼거리로 꾸며져 있다.</p>
 
-<p><img alt="화살표 미로 지도" src="%EB%B0%B1%EC%A4%80/Platinum/20421.%E2%80%85%ED%99%94%EC%82%B4%ED%91%9C%E2%80%85%EB%AF%B8%EB%A1%9C%E2%80%85(Hard)/db359b7b.png" data-original-src="https://upload.acmicpc.net/72b9fd07-3d6e-48b6-8d83-fc3b1e3133ea/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 50%" /></p>
+<p><img alt="화살표 미로 지도" src="%EB%B0%B1%EC%A4%80/Platinum/20421.%E2%80%85%ED%99%94%EC%82%B4%ED%91%9C%E2%80%85%EB%AF%B8%EB%A1%9C%E2%80%85(Hard)/db359b7b.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/20421.%E2%80%85%ED%99%94%EC%82%B4%ED%91%9C%E2%80%85%EB%AF%B8%EB%A1%9C%E2%80%85(Hard)/db359b7b.png" data-original-src="https://upload.acmicpc.net/72b9fd07-3d6e-48b6-8d83-fc3b1e3133ea/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 50%" /></p>
 
 <p>&lt;그림 1&gt; 화살표 미로의 지도 (예제1)</p>
 

@@ -20,7 +20,7 @@
 
 <p>The organisation consists of $N$ people numbered from $1$ to $N$. Each person, except for the CEO, has exactly one boss. Given each person&#39;s boss and a list of people present at the table, determine how many people are able to pay for the dinner.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/21325.%E2%80%85Free%E2%80%85food/aab800e1.png" data-original-src="https://upload.acmicpc.net/522f8b91-f56a-4ab0-a225-7aea3b7c9fde/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 83px; height: 143px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/21325.%E2%80%85Free%E2%80%85food/aab800e1.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/21325.%E2%80%85Free%E2%80%85food/aab800e1.png" data-original-src="https://upload.acmicpc.net/522f8b91-f56a-4ab0-a225-7aea3b7c9fde/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 83px; height: 143px;" /></p>
 
 <p style="text-align: center;">Figure 1:&nbsp;Illustration of the organisation in the first sample.</p>
 

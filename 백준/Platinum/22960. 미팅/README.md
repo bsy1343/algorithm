@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/22960.%E2%80%85%EB%AF%B8%ED%8C%85/b9736e4f.png" data-original-src="https://upload.acmicpc.net/b4b1346f-525e-4007-8be2-aed50e093a43/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/22960.%E2%80%85%EB%AF%B8%ED%8C%85/b9736e4f.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/22960.%E2%80%85%EB%AF%B8%ED%8C%85/b9736e4f.png" data-original-src="https://upload.acmicpc.net/b4b1346f-525e-4007-8be2-aed50e093a43/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>이성 친구를 사귀고 싶어서&nbsp;국렬이가 주선한 미팅에 신청한 남성 $N$명, 여성 $N$명이 있다.</p>
 

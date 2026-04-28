@@ -46,7 +46,7 @@
 
 <p>아래 그림은 Gravity Hackenbush에서 선을 하나 자른 뒤의 상태를 보여준다.</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/25335.%E2%80%85Gravity%E2%80%85Hackenbush/a54afddc.png" data-original-src="https://upload.acmicpc.net/f1a36c2e-df2b-4830-ae6d-5ba19e0fba34/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 298px; width: 800px;" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/25335.%E2%80%85Gravity%E2%80%85Hackenbush/a54afddc.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/25335.%E2%80%85Gravity%E2%80%85Hackenbush/a54afddc.png" data-original-src="https://upload.acmicpc.net/f1a36c2e-df2b-4830-ae6d-5ba19e0fba34/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 298px; width: 800px;" /></p>
 
 <p>게임을 선물받은 나정휘는 난정휘와 함께 게임을 여러 번 플레이하면서 필승법을 찾아냈다. 마침 천하제일 코딩대회에 낼 문제가 부족했던 나정휘는 필승법을 찾는 문제를 대회에 출제하기로 했다.</p>
 

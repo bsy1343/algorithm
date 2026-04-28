@@ -20,15 +20,15 @@
 
 <p>현재까지 쌓아 올린 건물의 골조는 수직 방향으로 세운 $N$개의 기둥, 그리고 서로 다른 두 기둥을 수평으로 연결하는 $M$개의 빔으로 구성되어 있다. 즉, 현재까지 쌓아 올린 건물 골조의 평면도는 아래 그림처럼 기둥을 점의 형태로, 빔을 점과 점을 연결하는 선분 형태로 나타낼 수 있다. 각 기둥은 $1$번부터 $N$번까지 번호가 붙어 있고 각 빔도 $1$번부터 $M$번까지 번호가 붙어 있다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/28118.%E2%80%85%EC%95%88%EC%A0%84%ED%95%9C%E2%80%85%EA%B1%B4%EC%84%A4%E2%80%85%EA%B3%84%ED%9A%8D/cddae35b.png" data-original-src="https://upload.acmicpc.net/81aee4a8-b184-4ead-be94-f9cfd01545c9/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 200px; width: 200px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/28118.%E2%80%85%EC%95%88%EC%A0%84%ED%95%9C%E2%80%85%EA%B1%B4%EC%84%A4%E2%80%85%EA%B3%84%ED%9A%8D/cddae35b.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/28118.%E2%80%85%EC%95%88%EC%A0%84%ED%95%9C%E2%80%85%EA%B1%B4%EC%84%A4%E2%80%85%EA%B3%84%ED%9A%8D/cddae35b.png" data-original-src="https://upload.acmicpc.net/81aee4a8-b184-4ead-be94-f9cfd01545c9/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 200px; width: 200px;" /></p>
 
 <p>숭실대학교는 건물의 안정성을 강화하기 위해 몇 차례의 보강 작업을 진행해서 모든 서로 다른 두 기둥을 연결하는 빔이 존재하도록, 건물에 총 $N(N-1) /2$개의 빔을 설치하려고 한다. 즉, 기둥의 개수가 5개라고 하면 평면도가 아래 그림처럼 되도록 만들려고 한다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/28118.%E2%80%85%EC%95%88%EC%A0%84%ED%95%9C%E2%80%85%EA%B1%B4%EC%84%A4%E2%80%85%EA%B3%84%ED%9A%8D/588dc5b7.png" data-original-src="https://upload.acmicpc.net/1506f3c0-159b-4943-bf52-8e3254c0f022/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 200px; height: 200px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/28118.%E2%80%85%EC%95%88%EC%A0%84%ED%95%9C%E2%80%85%EA%B1%B4%EC%84%A4%E2%80%85%EA%B3%84%ED%9A%8D/588dc5b7.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/28118.%E2%80%85%EC%95%88%EC%A0%84%ED%95%9C%E2%80%85%EA%B1%B4%EC%84%A4%E2%80%85%EA%B3%84%ED%9A%8D/588dc5b7.png" data-original-src="https://upload.acmicpc.net/1506f3c0-159b-4943-bf52-8e3254c0f022/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 200px; height: 200px;" /></p>
 
 <p>구조물의 하중을 지탱하기 위해, 보강 작업은 삼각형을 쌓아 나가는 방식으로 진행해야 한다. 구체적으로, 보강 작업은 서로 다른 세 기둥 $a,b,c$를 선택해서 $(a,b) ,(b,c) ,(c,a)$ 세 쌍을 모두 빔으로 연결하는 삼각형을 한 번에 쌓는 작업이다. 이때, 기존에 세 기둥 사이에 빔이 몇 개 있었는지에 따라 보강 작업에 필요한 비용이 달라진다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/28118.%E2%80%85%EC%95%88%EC%A0%84%ED%95%9C%E2%80%85%EA%B1%B4%EC%84%A4%E2%80%85%EA%B3%84%ED%9A%8D/5dad8ecc.png" data-original-src="https://upload.acmicpc.net/ffa76d06-2b1d-4cae-a134-532d72a2a0cc/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 819px; height: 200px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/28118.%E2%80%85%EC%95%88%EC%A0%84%ED%95%9C%E2%80%85%EA%B1%B4%EC%84%A4%E2%80%85%EA%B3%84%ED%9A%8D/5dad8ecc.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/28118.%E2%80%85%EC%95%88%EC%A0%84%ED%95%9C%E2%80%85%EA%B1%B4%EC%84%A4%E2%80%85%EA%B3%84%ED%9A%8D/5dad8ecc.png" data-original-src="https://upload.acmicpc.net/ffa76d06-2b1d-4cae-a134-532d72a2a0cc/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 819px; height: 200px;" /></p>
 
 <ul>
 	<li>세 기둥 사이에 빔이 하나도 없는 경우: 작업의 위험도가 높으므로 진행할 수 없다.</li>
@@ -39,7 +39,7 @@
 
 <p>보강 작업을 0회 이상 원하는 만큼 진행해서, 모든 기둥 사이에 빔이 존재하도록 하는 최소 비용을 구하라. 모든 입력에 대해 서로 다른 두 기둥을 연결하는 빔이 항상 존재하도록 보강 작업을 진행할 수 있음이 보장된다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/28118.%E2%80%85%EC%95%88%EC%A0%84%ED%95%9C%E2%80%85%EA%B1%B4%EC%84%A4%E2%80%85%EA%B3%84%ED%9A%8D/e6e58faa.png" data-original-src="https://upload.acmicpc.net/cf41a94b-6a63-434b-a172-19917cfaf03b/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 200px; width: 200px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/28118.%E2%80%85%EC%95%88%EC%A0%84%ED%95%9C%E2%80%85%EA%B1%B4%EC%84%A4%E2%80%85%EA%B3%84%ED%9A%8D/e6e58faa.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/28118.%E2%80%85%EC%95%88%EC%A0%84%ED%95%9C%E2%80%85%EA%B1%B4%EC%84%A4%E2%80%85%EA%B3%84%ED%9A%8D/e6e58faa.png" data-original-src="https://upload.acmicpc.net/cf41a94b-6a63-434b-a172-19917cfaf03b/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 200px; width: 200px;" /></p>
 
 <p>예를 들어 골조의 평면도가 위 그림처럼 생겼고, 왼쪽 위에 있는 점부터 시계방향 순서대로 $1,2,3,4$번 기둥이라고 해보자.</p>
 
@@ -47,7 +47,7 @@
 
 <p>반면, 첫 번째 보강 작업에서 $1,2,3$번 기둥, 두 번째 보강 작업에서 $2,3,4$번 기둥, 세 번째 보강 작업에서 $1,2,4$번 기둥을 선택하면 총합 $1+0+0=1$의 비용으로 완성할 수 있다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/28118.%E2%80%85%EC%95%88%EC%A0%84%ED%95%9C%E2%80%85%EA%B1%B4%EC%84%A4%E2%80%85%EA%B3%84%ED%9A%8D/970c5790.png" data-original-src="https://upload.acmicpc.net/709338cb-b8e7-4227-ba81-58b2b576692d/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 764px; height: 200px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/28118.%E2%80%85%EC%95%88%EC%A0%84%ED%95%9C%E2%80%85%EA%B1%B4%EC%84%A4%E2%80%85%EA%B3%84%ED%9A%8D/970c5790.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/28118.%E2%80%85%EC%95%88%EC%A0%84%ED%95%9C%E2%80%85%EA%B1%B4%EC%84%A4%E2%80%85%EA%B3%84%ED%9A%8D/970c5790.png" data-original-src="https://upload.acmicpc.net/709338cb-b8e7-4227-ba81-58b2b576692d/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 764px; height: 200px;" /></p>
 
 <p>이 밖에도 여러 방법이 있지만, 비용을 $1$보다 적게 사용하는 방법은 없으므로 $1$이 최소 비용이다.</p>
 

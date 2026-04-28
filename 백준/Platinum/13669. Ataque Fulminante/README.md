@@ -22,7 +22,7 @@
 
 <p>A nova arma &eacute; um canh&atilde;o que emite um feixe de pr&oacute;tons que se espalha com &acirc;ngulo<em>&nbsp;&oslash;</em>&nbsp;a partir da boca do canh&atilde;o. A dire&ccedil;&atilde;o do tiro &eacute; indicada por um &acirc;ngulo&nbsp;<em>alpha</em>, medido a partir do eixo x, no sentido anti-hor&aacute;rio. A figura abaixo ilustra (a) um exemplo de ataque, (b) o que restaria da Nlog&ocirc;nia e (c) a &aacute;rea que seria destru&iacute;da.</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/13669.%E2%80%85Ataque%E2%80%85Fulminante/2af127ab.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/13669/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202017-01-12%20%EC%98%A4%EC%A0%84%206.40.40.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:216px; width:585px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/13669.%E2%80%85Ataque%E2%80%85Fulminante/2af127ab.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/13669.%E2%80%85Ataque%E2%80%85Fulminante/2af127ab.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/13669/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202017-01-12%20%EC%98%A4%EC%A0%84%206.40.40.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:216px; width:585px" /></p>
 
 <p>Dados a coordenada do canh&atilde;o, a dire&ccedil;&atilde;o do tiro e o &acirc;ngulo de espalhamento do feixe de pr&oacute;tons, bem como a coordenada do centro e o valor do raio do muro de prote&ccedil;&atilde;o, voc&ecirc; deve escrever um programa para calcular a &aacute;rea da Nlog&ocirc;nia que ser&aacute; destru&iacute;da.</p>
 

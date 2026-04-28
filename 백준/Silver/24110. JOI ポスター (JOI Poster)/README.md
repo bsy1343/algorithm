@@ -18,7 +18,7 @@
 
 <p>情報オリンピック日本委員会では，今年の日本情報オリンピック (JOI) の合宿を宣伝するために，ポス ターを作ることになった．JOI のロゴをモチーフにしたポスターが作られた．</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/24110.%E2%80%85JOI%E2%80%85%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC%E2%80%85(JOI%E2%80%85Poster)/3fc131b2.png" data-original-src="https://upload.acmicpc.net/3f327de4-9c32-42c1-85c2-2545985b0770/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 164px; height: 162px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/24110.%E2%80%85JOI%E2%80%85%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC%E2%80%85(JOI%E2%80%85Poster)/3fc131b2.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/24110.%E2%80%85JOI%E2%80%85%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC%E2%80%85(JOI%E2%80%85Poster)/3fc131b2.png" data-original-src="https://upload.acmicpc.net/3f327de4-9c32-42c1-85c2-2545985b0770/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 164px; height: 162px;" /></p>
 
 <p style="text-align: center;">JOI のロゴ</p>
 

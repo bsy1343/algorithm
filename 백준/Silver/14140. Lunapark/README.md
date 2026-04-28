@@ -20,7 +20,7 @@
 
 <p>Sljedeća slika prikazuje primjer tlocrta reda u kojem se čeka 12 minuta. Početak reda je u polju 1.&nbsp;</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/14140.%E2%80%85Lunapark/94e46b3f.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/14140/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202017-01-03%20%EC%98%A4%ED%9B%84%202.42.22.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:133px; width:160px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/14140.%E2%80%85Lunapark/94e46b3f.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/14140.%E2%80%85Lunapark/94e46b3f.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/14140/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202017-01-03%20%EC%98%A4%ED%9B%84%202.42.22.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:133px; width:160px" /></p>
 
 <p>Mirko je u&scaron;ao u red; sva mjesta ispred njega su puna. Nakon jedne minute, osoba na kraju reda ulazi na tobogan, svi u redu se pomiču unaprijed jedno mjesto i nova osoba ulazi u red.</p>
 

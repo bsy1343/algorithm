@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/29737.%E2%80%85%EB%B8%8C%EC%8B%A4%EC%9D%B4%EB%8A%94%E2%80%85%EC%9E%94%EB%94%94%EA%B0%80%E2%80%85%EC%A2%8B%EC%95%84%E2%80%85%F0%9F%8C%B1/3f67413e.png" data-original-src="https://upload.acmicpc.net/ebd5c73e-5491-47bf-9d0d-02f0bdc50662/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="max-width: 100%; height: 229px; width: 400px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/29737.%E2%80%85%EB%B8%8C%EC%8B%A4%EC%9D%B4%EB%8A%94%E2%80%85%EC%9E%94%EB%94%94%EA%B0%80%E2%80%85%EC%A2%8B%EC%95%84%E2%80%85%F0%9F%8C%B1/3f67413e.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/29737.%E2%80%85%EB%B8%8C%EC%8B%A4%EC%9D%B4%EB%8A%94%E2%80%85%EC%9E%94%EB%94%94%EA%B0%80%E2%80%85%EC%A2%8B%EC%95%84%E2%80%85%F0%9F%8C%B1/3f67413e.png" data-original-src="https://upload.acmicpc.net/ebd5c73e-5491-47bf-9d0d-02f0bdc50662/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="max-width: 100%; height: 229px; width: 400px;" /></p>
 
 <p>문제를 풀기 전 스트릭과 스트릭 프리즈에 대해서 알아보자!</p>
 
@@ -24,7 +24,7 @@
 <p><strong>스트릭(Streak)</strong>이란?</p>
 </blockquote>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/29737.%E2%80%85%EB%B8%8C%EC%8B%A4%EC%9D%B4%EB%8A%94%E2%80%85%EC%9E%94%EB%94%94%EA%B0%80%E2%80%85%EC%A2%8B%EC%95%84%E2%80%85%F0%9F%8C%B1/183915c3.png" data-original-src="https://upload.acmicpc.net/55571ac9-ee39-4a35-ad31-6571e89e67a2/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 100px; height: 100px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/29737.%E2%80%85%EB%B8%8C%EC%8B%A4%EC%9D%B4%EB%8A%94%E2%80%85%EC%9E%94%EB%94%94%EA%B0%80%E2%80%85%EC%A2%8B%EC%95%84%E2%80%85%F0%9F%8C%B1/183915c3.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/29737.%E2%80%85%EB%B8%8C%EC%8B%A4%EC%9D%B4%EB%8A%94%E2%80%85%EC%9E%94%EB%94%94%EA%B0%80%E2%80%85%EC%A2%8B%EC%95%84%E2%80%85%F0%9F%8C%B1/183915c3.png" data-original-src="https://upload.acmicpc.net/55571ac9-ee39-4a35-ad31-6571e89e67a2/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 100px; height: 100px;" /></p>
 
 <p>스트릭은 연속해서 문제를 푼 날의 수를 의미한다. 한 문제를 풀어서 <span class="result-ac">맞았습니다!!</span> 결과를 얻게 되면 당일 스트릭을 달성한다. 스트릭은 매일 연속으로 한 문제 이상을 <span class="result-ac">맞았습니다!!</span> 결과를 받아야 증가하며, 문제를 풀지 못한 시점부터 스트릭은 다시 0(일)으로 초기화된다. 연속해서 문제를 푼 날의 수가 많을 수록 스트릭의 길이가 길며, 길이가 가장 긴 스트릭을 최장 스트릭이라고 한다.</p>
 
@@ -32,7 +32,7 @@
 <p><strong>스트릭 프리즈(Streak Freeze)</strong>란?</p>
 </blockquote>
 
-<p style="text-align: center;"><img alt="스트릭 프리즈" src="%EB%B0%B1%EC%A4%80/Gold/29737.%E2%80%85%EB%B8%8C%EC%8B%A4%EC%9D%B4%EB%8A%94%E2%80%85%EC%9E%94%EB%94%94%EA%B0%80%E2%80%85%EC%A2%8B%EC%95%84%E2%80%85%F0%9F%8C%B1/a8b27fc3.svg" data-original-src="https://static.solved.ac/item/freeze-small-simple.svg" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 100px; width: 100px;" /></p>
+<p style="text-align: center;"><img alt="스트릭 프리즈" src="%EB%B0%B1%EC%A4%80/Gold/29737.%E2%80%85%EB%B8%8C%EC%8B%A4%EC%9D%B4%EB%8A%94%E2%80%85%EC%9E%94%EB%94%94%EA%B0%80%E2%80%85%EC%A2%8B%EC%95%84%E2%80%85%F0%9F%8C%B1/a8b27fc3.svg" data-original-src="%EB%B0%B1%EC%A4%80/Gold/29737.%E2%80%85%EB%B8%8C%EC%8B%A4%EC%9D%B4%EB%8A%94%E2%80%85%EC%9E%94%EB%94%94%EA%B0%80%E2%80%85%EC%A2%8B%EC%95%84%E2%80%85%F0%9F%8C%B1/a8b27fc3.svg" data-original-src="https://static.solved.ac/item/freeze-small-simple.svg" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 100px; width: 100px;" /></p>
 
 <p><a href="https://solved.ac/coin/shop">solved.ac 코인샵</a>에서 문제를 풀어 별조각을 모아 구매할 수 있는 아이템이다. 미리 이 아이템을 사둔다면 당일에 한 문제도 못 풀어도 스트릭을 0(일)으로 초기화되는 것을 막아준다. 하지만 초기화가 되는 것을 막아줄 뿐, 당일 스트릭 길이는 증가하지 않는다.</p>
 

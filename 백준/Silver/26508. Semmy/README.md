@@ -18,7 +18,7 @@
 
 <p>In the semaphore signaling system, two flags are held, one in each hand, with arms extended, in various positions representing the letters of the alphabet. The pattern resembles a compass rose divided into eight positions: up (U), down (D), out (O), high (H) and low (L), for each hand. The left hand signal is always read first. Additionally, six letters require a hand to be brought across the body so that both flags are on the same side. As an example the letter H has the left hand across the body and held low (AL).</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/26508.%E2%80%85Semmy/40977419.png" data-original-src="https://upload.acmicpc.net/53297d99-3eec-4e38-b373-e650844e8fdb/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 461px; height: 168px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/26508.%E2%80%85Semmy/40977419.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/26508.%E2%80%85Semmy/40977419.png" data-original-src="https://upload.acmicpc.net/53297d99-3eec-4e38-b373-e650844e8fdb/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 461px; height: 168px;" /></p>
 
 <table class="table table-bordered th-center td-center table-center-40">
 	<thead>

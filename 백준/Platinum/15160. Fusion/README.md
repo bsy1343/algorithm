@@ -26,7 +26,7 @@
 
 <p>In order to fix the problem in the reactor, you will need to fuse the &alpha;-stuck atoms with each other. What is the fewest number of instructions you need to give to the reactor in order to fuse the &alpha;-stuck atoms?</p>
 
-<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/15160.%E2%80%85Fusion/a72c0e2f.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15160/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:107px; width:611px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/15160.%E2%80%85Fusion/a72c0e2f.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/15160.%E2%80%85Fusion/a72c0e2f.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15160/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:107px; width:611px" /></p>
 
 <p style="text-align:center">Figure F.1: This is the reactor for Sample Input 1. Black squares denote blocked off cells, blue circles denote deuterium atoms and the yellow circles denote the two &alpha;-stuck atoms. One optimal sequence of fusions is shown.</p>
 

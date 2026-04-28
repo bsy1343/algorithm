@@ -24,7 +24,7 @@
 
 <p>우연하게도 짝폴짝폴 뛰는 동물과 총깡총깡 뛰는 동물, A형 집, B형 집의 수는 모두 같다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/14618.%E2%80%85%EC%B4%9D%EA%B9%A1%E2%80%85%EC%B4%9D%EA%B9%A1/11cf854e.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14618/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:554px; width:460px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/14618.%E2%80%85%EC%B4%9D%EA%B9%A1%E2%80%85%EC%B4%9D%EA%B9%A1/11cf854e.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/14618.%E2%80%85%EC%B4%9D%EA%B9%A1%E2%80%85%EC%B4%9D%EA%B9%A1/11cf854e.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14618/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:554px; width:460px" /></p>
 
 <p dir="ltr">진서는 총깡총깡 뛰는 동물들과 짝폴짝폴 뛰는 동물들을 같은 종류의 집에 통일 시켜 맡기고 싶다.</p>
 

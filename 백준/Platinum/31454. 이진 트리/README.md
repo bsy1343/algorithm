@@ -20,7 +20,7 @@
 
 <p>예를 들어 아래 그림은 $N$ = 4 이고 $L = [2, 3, 0, 0]$, $R = [4, 0, 0, 0]$인 경우를 나타낸다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/31454.%E2%80%85%EC%9D%B4%EC%A7%84%E2%80%85%ED%8A%B8%EB%A6%AC/61ab0022.png" data-original-src="https://upload.acmicpc.net/929dd2c3-de08-4495-9151-ebee710728f1/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 184px; width: 200px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/31454.%E2%80%85%EC%9D%B4%EC%A7%84%E2%80%85%ED%8A%B8%EB%A6%AC/61ab0022.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/31454.%E2%80%85%EC%9D%B4%EC%A7%84%E2%80%85%ED%8A%B8%EB%A6%AC/61ab0022.png" data-original-src="https://upload.acmicpc.net/929dd2c3-de08-4495-9151-ebee710728f1/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 184px; width: 200px;" /></p>
 
 <p>이 방법을 이용하면 임의의 이진 트리를 두 개의 배열로 표현할 수 있지만, 반대로 임의의 두 정수 배열이 언제나 올바른 이진 트리를 표현하지는 않는다. 이 문제에서 &quot;올바른&quot; 이진 트리란 $T$가 아래 조건을 모두 만족하는 경우를 말한다:</p>
 
@@ -32,7 +32,7 @@
 
 <p>예를 들어 $L = [2, 0, 0, 0]$ 이고 $R = [0, 0, 0, 3]$인 경우 아래 처럼 두 개의 루트 노드가 있으므로 올바른 이진 트리가 아니다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/31454.%E2%80%85%EC%9D%B4%EC%A7%84%E2%80%85%ED%8A%B8%EB%A6%AC/a90a9abb.png" data-original-src="https://upload.acmicpc.net/b25a9489-5c36-41cf-b092-23cd7f998597/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 119px; width: 250px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/31454.%E2%80%85%EC%9D%B4%EC%A7%84%E2%80%85%ED%8A%B8%EB%A6%AC/a90a9abb.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/31454.%E2%80%85%EC%9D%B4%EC%A7%84%E2%80%85%ED%8A%B8%EB%A6%AC/a90a9abb.png" data-original-src="https://upload.acmicpc.net/b25a9489-5c36-41cf-b092-23cd7f998597/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 119px; width: 250px;" /></p>
 
 <p>다른 예로, $L = [2, 1, 0, 0]$ 인 경우 $R$값에 관계 없이 노드1의 왼쪽 자식이 노드2이며 동시에 노드2의 왼쪽 자식이 1인 경우는 올바른 이진 트리가 아니다 - 이 경우 어떻게 하더라도 상기한 모든 조건을 만족할 수 없다.</p>
 
@@ -54,9 +54,9 @@
 	<li>R[2] 와 R[3] 를 교환: $L = [2, 0, 0]$, $R = [3, 0, 0]$ (아래 그림의 Tree 6)</li>
 </ul>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/31454.%E2%80%85%EC%9D%B4%EC%A7%84%E2%80%85%ED%8A%B8%EB%A6%AC/9b6146e0.png" data-original-src="https://upload.acmicpc.net/54398e0d-40a2-47a5-b575-4c818867b924/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 276px; width: 600px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/31454.%E2%80%85%EC%9D%B4%EC%A7%84%E2%80%85%ED%8A%B8%EB%A6%AC/9b6146e0.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/31454.%E2%80%85%EC%9D%B4%EC%A7%84%E2%80%85%ED%8A%B8%EB%A6%AC/9b6146e0.png" data-original-src="https://upload.acmicpc.net/54398e0d-40a2-47a5-b575-4c818867b924/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 276px; width: 600px;" /></p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/31454.%E2%80%85%EC%9D%B4%EC%A7%84%E2%80%85%ED%8A%B8%EB%A6%AC/eec4f6b4.png" data-original-src="https://upload.acmicpc.net/1e1ef81b-f79d-4cdd-8110-93caced99b86/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 284px; width: 600px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/31454.%E2%80%85%EC%9D%B4%EC%A7%84%E2%80%85%ED%8A%B8%EB%A6%AC/eec4f6b4.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/31454.%E2%80%85%EC%9D%B4%EC%A7%84%E2%80%85%ED%8A%B8%EB%A6%AC/eec4f6b4.png" data-original-src="https://upload.acmicpc.net/1e1ef81b-f79d-4cdd-8110-93caced99b86/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 284px; width: 600px;" /></p>
 
 <p>입력으로 길이가 $N$인 두개의 정수 배열 $L$과 $R$이 주어졌을 때, 임의의 한 쌍의 원소 값을 교환하여 얻은 새로운 배열이 올바른 이진트리가 되는 경우의 수를 구해보자.</p>
 

@@ -18,7 +18,7 @@
 
 <p>서울대학교 내부를 운행하는 셔틀버스에는 한쪽 벽면에 N개의 좌석이 일렬로 놓여 있다. 각 좌석은 가장 왼쪽 좌석부터 시작하여 1번부터 N번까지의 번호가 붙어 있다. 이 버스는 학교 입구에서 N명의 학생들을 태운 뒤 출발하고, 학생들은 각자 하나의 좌석을 골라 앉는다. 편의상 출발할 때 i번 좌석에 앉은 학생을 i번 학생으로 부르기로 한다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/14701.%E2%80%85%EC%85%94%ED%8B%80%EB%B2%84%EC%8A%A4/461f2ee3.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14701/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:115px; width:352px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/14701.%E2%80%85%EC%85%94%ED%8B%80%EB%B2%84%EC%8A%A4/461f2ee3.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/14701.%E2%80%85%EC%85%94%ED%8B%80%EB%B2%84%EC%8A%A4/461f2ee3.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14701/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:115px; width:352px" /></p>
 
 <p>학생들은 칸막이에 기대서 조는 것을 좋아하기 때문에 되도록 양쪽 끝자리에 앉고 싶어 한다. 그래서 바로 옆에 앉아 있던 학생이 내리거나 다른 자리로 옮겨 가서 좌석이 비었을 때 그 좌석으로 옮겨 앉는 게 양쪽 끝 자리에 더 가까워질 경우, 즉 1번 좌석과 N번 좌석 중 더 가까운 좌석까지의 거리가 줄어들 경우 그 좌석으로 옮겨 앉는다. 한 학생이 버스에서 내리는 즉시 모든 학생이 이 규칙에 따라 이동한다.</p>
 
@@ -43,14 +43,14 @@
 
 ### 힌트
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/14701.%E2%80%85%EC%85%94%ED%8B%80%EB%B2%84%EC%8A%A4/4e9c51bb.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14701/2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:110px; width:347px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/14701.%E2%80%85%EC%85%94%ED%8B%80%EB%B2%84%EC%8A%A4/4e9c51bb.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/14701.%E2%80%85%EC%85%94%ED%8B%80%EB%B2%84%EC%8A%A4/4e9c51bb.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14701/2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:110px; width:347px" /></p>
 
 <p>1번 학생이 내리면 2번 학생과 3번 학생이 순서대로 이동한다. 4번 학생은 3번 좌석으로 옮겨 앉더라도 양 끝 좌석까지의 거리가 변하지 않기 때문에 이동하지 않는다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/14701.%E2%80%85%EC%85%94%ED%8B%80%EB%B2%84%EC%8A%A4/bbbfa818.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14701/3.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:107px; width:347px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/14701.%E2%80%85%EC%85%94%ED%8B%80%EB%B2%84%EC%8A%A4/bbbfa818.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/14701.%E2%80%85%EC%85%94%ED%8B%80%EB%B2%84%EC%8A%A4/bbbfa818.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14701/3.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:107px; width:347px" /></p>
 
 <p>3번 학생이 내리면 4번 학생은 2번 좌석으로 이동하는 것이 이득이지만, 바로 옆자리가 아니므로 이동하지 않는다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/14701.%E2%80%85%EC%85%94%ED%8B%80%EB%B2%84%EC%8A%A4/f8708d7b.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14701/4.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:111px; width:345px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/14701.%E2%80%85%EC%85%94%ED%8B%80%EB%B2%84%EC%8A%A4/f8708d7b.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/14701.%E2%80%85%EC%85%94%ED%8B%80%EB%B2%84%EC%8A%A4/f8708d7b.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14701/4.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:111px; width:345px" /></p>
 
 <p>5번 학생이 내리면 4번 학생이 이동한다.</p>

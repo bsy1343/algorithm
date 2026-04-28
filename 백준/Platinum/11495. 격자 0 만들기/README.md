@@ -25,7 +25,7 @@
 
 <p>다음 그림은 총 4개의 연속한 연산을 2*2 격자에 가해서 모든 정수를 0으로 만든 과정을 보여준다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/11495.%E2%80%85%EA%B2%A9%EC%9E%90%E2%80%850%E2%80%85%EB%A7%8C%EB%93%A4%EA%B8%B0/2e82f691.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11495/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:68px; width:412px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/11495.%E2%80%85%EA%B2%A9%EC%9E%90%E2%80%850%E2%80%85%EB%A7%8C%EB%93%A4%EA%B8%B0/2e82f691.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/11495.%E2%80%85%EA%B2%A9%EC%9E%90%E2%80%850%E2%80%85%EB%A7%8C%EB%93%A4%EA%B8%B0/2e82f691.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11495/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:68px; width:412px" /></p>
 
 <p>위 예제에서는 모든 정수를 0으로 만들기 위해 4번의 연산을 행했다. 이보다 적은 횟수의 연산으로는 모든 정수를 0으로 만들 수 없다는 것을 쉽게 알 수 있다.</p>
 

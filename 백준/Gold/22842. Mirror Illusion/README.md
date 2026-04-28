@@ -22,7 +22,7 @@
 
 <p>Poles to x mirrors are located at the corners of the room, on the walls and inside the room. Their locations are the 81 lattice points at intervals of one meter. A mirror can be fixed between two poles which are one meter distant from each other. If we use the sign &quot;<code>+</code>&quot; to represent a pole, the overview of the room can be illustrated as follows.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/22842.%E2%80%85Mirror%E2%80%85Illusion/6d3e0e4d.png" data-original-src="https://upload.acmicpc.net/41bd6c79-b789-445f-b2f1-c3afa8dff2f1/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 169px; height: 171px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/22842.%E2%80%85Mirror%E2%80%85Illusion/6d3e0e4d.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/22842.%E2%80%85Mirror%E2%80%85Illusion/6d3e0e4d.png" data-original-src="https://upload.acmicpc.net/41bd6c79-b789-445f-b2f1-c3afa8dff2f1/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 169px; height: 171px;" /></p>
 
 <p>Let us denote a location on the floor by (x, y) in a rectangular coordinate system. For example, the rectangular coordinates of the four corners of the room are (0,0), (8,0), (0,8) and (8,8), respectively. The location (x, y) is in the room if and only if the conditions 0 &le; x &le; 8 and 0 &le; y &le; 8 are satisfied. If i and j are integers satisfying the conditions 0 &le; i &le; 8 and 0 &le; j &le; 8, we can denote by (i, j) the locations of poles.</p>
 

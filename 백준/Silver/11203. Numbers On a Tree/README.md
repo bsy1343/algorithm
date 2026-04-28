@@ -22,7 +22,7 @@
 
 <p>When we want to describe a node in the tree, we can do it by describing a path starting at the root and going down toward the leaves. At each non-leaf node we can either go left (&lsquo;<code>L</code>&rsquo;) or right (&lsquo;<code>R</code>&rsquo;).</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/11203.%E2%80%85Numbers%E2%80%85On%E2%80%85a%E2%80%85Tree/c372fbb8.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11203/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:215px; width:398px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/11203.%E2%80%85Numbers%E2%80%85On%E2%80%85a%E2%80%85Tree/c372fbb8.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/11203.%E2%80%85Numbers%E2%80%85On%E2%80%85a%E2%80%85Tree/c372fbb8.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11203/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:215px; width:398px" /></p>
 
 <p style="text-align: center;">Figure A.1: Labeled binary tree of height 3 with two marked paths from the root. Path <code>LR</code> leads to label 11 while path RRL leads to 2. The root has number 15.</p>
 

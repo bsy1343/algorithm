@@ -43,6 +43,6 @@
 
 <p>Consider the following two-player game in which A and B each have two possible actions, and the payoff matrices are:</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/7693.%E2%80%85Nash%E2%80%85Equilibrium/ba092c9a.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/7693/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:65px; width:238px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/7693.%E2%80%85Nash%E2%80%85Equilibrium/ba092c9a.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/7693.%E2%80%85Nash%E2%80%85Equilibrium/ba092c9a.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/7693/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:65px; width:238px" /></p>
 
 <p>Here, if player A chooses a<sub>1</sub>, then choosing b<sub>1</sub> allows player B to maximize his payoff (PB[1, 1] = 1 &gt; 0 = PB[1, 2]). Similarly, if player B choose b<sub>1</sub>, then choosing a<sub>1</sub> allows player A to maximize his payoff (PA[1, 1] = 1 &gt; 0 = PA[2, 1]). Thus, a<sub>1</sub> is the best response for b<sub>1</sub> and vice versa, so (a<sub>1</sub>, b<sub>1</sub>) is a pure strategy Nash equilibrium of this game. However, note that (a<sub>2</sub>, b<sub>2</sub>) is not a Nash equilibrium; if player A chooses action a<sub>2</sub>, b<sub>1</sub> is the best response since PB[2, 1] = 5 &gt; 3 = PB[2, 2].</p>

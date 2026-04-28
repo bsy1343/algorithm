@@ -20,7 +20,7 @@
 
 <p>민겸이는 정보 수집과 감시 2가지 임무를 수행한다. 각 임무는 수족관, 시청, 학교에서 수행할 수 있다. 두 임무는 성격이 크게 다르기 때문에 하루에 한 가지 임무만 수행할 수 있으며, 수족관, 시청, 학교는 멀리 떨어져 있기 때문에 하루에 한 가지 장소에서만 임무를 수행할 수 있다. 또한, 민겸이는 반드시 하루에 최소 하나의 임무를 수행해야 한다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/28084.%E2%80%85%EC%8A%A4%ED%8C%8C%EC%9D%B4%E2%80%85(Hard)/0ced425e.png" data-original-src="https://upload.acmicpc.net/846d2ac1-42ed-4477-974b-65e557a85abf/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/28084.%E2%80%85%EC%8A%A4%ED%8C%8C%EC%9D%B4%E2%80%85(Hard)/0ced425e.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/28084.%E2%80%85%EC%8A%A4%ED%8C%8C%EC%9D%B4%E2%80%85(Hard)/0ced425e.png" data-original-src="https://upload.acmicpc.net/846d2ac1-42ed-4477-974b-65e557a85abf/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>다시 말해, 민겸이는 하루에 위 표의 6가지 행동 중 하나를 선택하여 할 수 있다.</p>
 

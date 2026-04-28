@@ -18,7 +18,7 @@
 
 <p>Given a circle, and a list of lines, how many parts has the circle been cut into? In the following example, four lines cut the circle into five parts.</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/9487.%E2%80%85Cut%E2%80%85the%E2%80%85Cake/b79cd84c.png" data-original-src="https://www.acmicpc.net/upload/images2/ctk.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:451px; width:649px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/9487.%E2%80%85Cut%E2%80%85the%E2%80%85Cake/b79cd84c.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/9487.%E2%80%85Cut%E2%80%85the%E2%80%85Cake/b79cd84c.png" data-original-src="https://www.acmicpc.net/upload/images2/ctk.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:451px; width:649px" /></p>
 
 ### 입력
 

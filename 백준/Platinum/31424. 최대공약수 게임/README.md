@@ -18,7 +18,7 @@
 
 <p>철수와 영희는 $N$개의 카드로 구성된 카드 뭉치와 칠판을 가지고 최대공약수 카드 게임을 진행한다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/31424.%E2%80%85%EC%B5%9C%EB%8C%80%EA%B3%B5%EC%95%BD%EC%88%98%E2%80%85%EA%B2%8C%EC%9E%84/9ffc6df4.webp" data-original-src="https://u.acmicpc.net/92493f8d-8aaa-471d-9156-1f186fba035a/download.webp" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 550px; height: 353px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/31424.%E2%80%85%EC%B5%9C%EB%8C%80%EA%B3%B5%EC%95%BD%EC%88%98%E2%80%85%EA%B2%8C%EC%9E%84/9ffc6df4.webp" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/31424.%E2%80%85%EC%B5%9C%EB%8C%80%EA%B3%B5%EC%95%BD%EC%88%98%E2%80%85%EA%B2%8C%EC%9E%84/9ffc6df4.webp" data-original-src="https://u.acmicpc.net/92493f8d-8aaa-471d-9156-1f186fba035a/download.webp" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 550px; height: 353px;" /></p>
 
 <p>각 카드는 $1$번부터 $N$번까지 번호가 매겨져 있고 $i$번 카드에는 양의 정수 $A_i$가 적혀 있으며 칠판에는 $2$ 이상의 정수 $X$가 적혀 있다. 게임은 철수부터 시작해서 아래의 과정을 수행하며 턴을 진행한다.</p>
 

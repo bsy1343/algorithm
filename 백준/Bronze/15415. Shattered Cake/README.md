@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/15415.%E2%80%85Shattered%E2%80%85Cake/5b1afb52.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15415/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:208px; width:264px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/15415.%E2%80%85Shattered%E2%80%85Cake/5b1afb52.png" data-original-src="%EB%B0%B1%EC%A4%80/Bronze/15415.%E2%80%85Shattered%E2%80%85Cake/5b1afb52.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15415/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:208px; width:264px" /></p>
 
 <p>A rectangular cake is transported via a truck to a restaurant. On the way to the destination, the truck hits a pothole, which shatters the cake in N perfectly rectangular pieces of width w<sub>i</sub> and length l<sub>i</sub>, for 1 &le; i &le; N.</p>
 

@@ -18,7 +18,7 @@
 
 <p>A seven segment LCD display provides a mechanism to display a hexadecimal digit by turning on some combination of segments to form the digits as shown below by the <span style="color:#da3832;">RED</span> segments.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/24748.%E2%80%857%E2%80%85Segments%E2%80%85You%E2%80%85Say%3F/02b68eda.png" data-original-src="https://upload.acmicpc.net/82ec3a24-00c3-4e53-a335-46dbbbc7ddab/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 722px; height: 324px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/24748.%E2%80%857%E2%80%85Segments%E2%80%85You%E2%80%85Say%3F/02b68eda.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/24748.%E2%80%857%E2%80%85Segments%E2%80%85You%E2%80%85Say%3F/02b68eda.png" data-original-src="https://upload.acmicpc.net/82ec3a24-00c3-4e53-a335-46dbbbc7ddab/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 722px; height: 324px;" /></p>
 
 <p>The image above represents the entire hexadecimal character set [0-9, AbCdEF] for this particular seven segment display. Note that the digits &lsquo;b&rsquo; and &lsquo;d&rsquo; appear as lower-case letters to avoid the ambiguity with the digit 8 and 0 respectively. A special character where no segments are on can be used as a space.</p>
 

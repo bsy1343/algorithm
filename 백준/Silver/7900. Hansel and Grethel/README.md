@@ -20,7 +20,7 @@
 
 <p>Hansel picks two clearly outstanding features in the landscape, and uses the compass to measure the direction towards both objects. Grethel locates the objects on the map, and writes down the corresponding map coordinates. Based on this information, they will be able to accurately determine their own position on the map.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/7900.%E2%80%85Hansel%E2%80%85and%E2%80%85Grethel/fd992f18.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/7900/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:391px; width:401px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/7900.%E2%80%85Hansel%E2%80%85and%E2%80%85Grethel/fd992f18.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/7900.%E2%80%85Hansel%E2%80%85and%E2%80%85Grethel/fd992f18.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/7900/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:391px; width:401px" /></p>
 
 <p>The coordinates of two marker objects, and the direction (angle from the North) towards these objects are known. Write a program which uses this data to calculate the coordinates of Hansel and Grethel&rsquo;s current location.</p>
 

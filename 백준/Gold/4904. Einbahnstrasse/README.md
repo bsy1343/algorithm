@@ -40,4 +40,4 @@
 
 ### 힌트
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/4904.%E2%80%85Einbahnstrasse/1ae6e7fd.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/4904/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:259px; width:444px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/4904.%E2%80%85Einbahnstrasse/1ae6e7fd.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/4904.%E2%80%85Einbahnstrasse/1ae6e7fd.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/4904/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:259px; width:444px" /></p>

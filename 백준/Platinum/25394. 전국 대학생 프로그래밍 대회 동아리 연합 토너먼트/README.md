@@ -28,7 +28,7 @@
 
 <p>싱글 엘리미네이션 토너먼트는 흔히 아래와 같은 이진 트리 모양의 대진표로 나타내어진다.</p>
 
-<p style="margin-top: 15px; margin-bottom: 0;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/25394.%E2%80%85%EC%A0%84%EA%B5%AD%E2%80%85%EB%8C%80%ED%95%99%EC%83%9D%E2%80%85%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%E2%80%85%EB%8C%80%ED%9A%8C%E2%80%85%EB%8F%99%EC%95%84%EB%A6%AC%E2%80%85%EC%97%B0%ED%95%A9%E2%80%85%ED%86%A0%EB%84%88%EB%A8%BC%ED%8A%B8/ac45073b.png" data-original-src="https://upload.acmicpc.net/fd8ce634-f2b9-4670-8264-ee25fb5335ea/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="display: block; margin-left: auto; margin-right: auto; width: 100%; max-width: 500px;" /></p>
+<p style="margin-top: 15px; margin-bottom: 0;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/25394.%E2%80%85%EC%A0%84%EA%B5%AD%E2%80%85%EB%8C%80%ED%95%99%EC%83%9D%E2%80%85%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%E2%80%85%EB%8C%80%ED%9A%8C%E2%80%85%EB%8F%99%EC%95%84%EB%A6%AC%E2%80%85%EC%97%B0%ED%95%A9%E2%80%85%ED%86%A0%EB%84%88%EB%A8%BC%ED%8A%B8/ac45073b.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/25394.%E2%80%85%EC%A0%84%EA%B5%AD%E2%80%85%EB%8C%80%ED%95%99%EC%83%9D%E2%80%85%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%E2%80%85%EB%8C%80%ED%9A%8C%E2%80%85%EB%8F%99%EC%95%84%EB%A6%AC%E2%80%85%EC%97%B0%ED%95%A9%E2%80%85%ED%86%A0%EB%84%88%EB%A8%BC%ED%8A%B8/ac45073b.png" data-original-src="https://upload.acmicpc.net/fd8ce634-f2b9-4670-8264-ee25fb5335ea/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="display: block; margin-left: auto; margin-right: auto; width: 100%; max-width: 500px;" /></p>
 
 <p style="text-align: center; margin-bottom: 15px;">그림 K.1: $2^3=8$명의 참가자가 참가한 대회의 대진표의 예시</p>
 

@@ -22,7 +22,7 @@
 
 <p>Some people have criticised Rob&#39;s revolutionary discovery, saying that removing elements from the tree makes the algorithm incorrect. Rob does not agree that this is a big problem; if you plan to store $2 \cdot 10^5$ numbers, you probably do not need all of them. But Rob accepts the criticism and decides to find a way to minimise the number of robberies.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/26181.%E2%80%85High-quality%E2%80%85Tree/dbd4477a.png" data-original-src="https://upload.acmicpc.net/d68ff38a-4134-4e10-b5b4-d5a6e7cd091c/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 400px; height: 284px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/26181.%E2%80%85High-quality%E2%80%85Tree/dbd4477a.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/26181.%E2%80%85High-quality%E2%80%85Tree/dbd4477a.png" data-original-src="https://upload.acmicpc.net/d68ff38a-4134-4e10-b5b4-d5a6e7cd091c/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 400px; height: 284px;" /></p>
 
 <p style="text-align: center;">Figure H.1: Illustration of Sample Input 2. The tree becomes strongly balanced after removing the three vertices marked in red ($4$, $5$, and $10$); the minimum number of vertices that need to be removed to make the tree strongly balanced.</p>
 

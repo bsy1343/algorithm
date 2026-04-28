@@ -18,7 +18,7 @@
 
 <p>Ako poredamo sve prirodne brojeve tako da u prvom redu zapi&scaron;emo jedan broj, u sljedećem dva te u svakom sljedećem po jedan vi&scaron;e, dobit ćemo geometrijsku strukturu kakva je prikazana na slici.&nbsp;</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/14135.%E2%80%85Trokut/11c03c0e.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/14135/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202017-01-03%20%EC%98%A4%ED%9B%84%202.31.29.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:185px; width:212px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/14135.%E2%80%85Trokut/11c03c0e.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/14135.%E2%80%85Trokut/11c03c0e.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/14135/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202017-01-03%20%EC%98%A4%ED%9B%84%202.31.29.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:185px; width:212px" /></p>
 
 <p>Unutar ove strukture možemo prepoznati pravilne trokute. Pravilan trokut je definiran sa tri broja koji u ovoj strukturi čine vrhove trokuta uz sljedeće uvijete:</p>
 

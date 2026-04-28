@@ -19,9 +19,9 @@
 <table class="table">
 	<tbody>
 		<tr>
-			<td style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/4634.%E2%80%85Ink%E2%80%85Blots/1ce0e156.gif" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/4634/1.gif" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:110px; width:104px" /></td>
-			<td style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/4634.%E2%80%85Ink%E2%80%85Blots/b1dff395.gif" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/4634/2.gif" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:200px; width:258px" /></td>
-			<td style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/4634.%E2%80%85Ink%E2%80%85Blots/00e8d1b5.gif" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/4634/3.gif" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:237px; width:237px" /></td>
+			<td style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/4634.%E2%80%85Ink%E2%80%85Blots/1ce0e156.gif" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/4634.%E2%80%85Ink%E2%80%85Blots/1ce0e156.gif" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/4634/1.gif" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:110px; width:104px" /></td>
+			<td style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/4634.%E2%80%85Ink%E2%80%85Blots/b1dff395.gif" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/4634.%E2%80%85Ink%E2%80%85Blots/b1dff395.gif" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/4634/2.gif" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:200px; width:258px" /></td>
+			<td style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/4634.%E2%80%85Ink%E2%80%85Blots/00e8d1b5.gif" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/4634.%E2%80%85Ink%E2%80%85Blots/00e8d1b5.gif" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/4634/3.gif" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:237px; width:237px" /></td>
 		</tr>
 		<tr>
 			<td style="text-align:center">Figure 1: 1 White Region</td>

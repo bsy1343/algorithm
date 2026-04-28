@@ -27,7 +27,7 @@
 	<li>각 키를 누르는 데에는 1의 시간이 걸린다.</li>
 	<li>성우는 두 손을 동시에 움직일 수 없다.</li>
 	<li>성우가 사용하는 키보드는 쿼티식 키보드이며, 아래 그림처럼 생겼다.
-	<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/20436.%E2%80%85ZOAC%E2%80%853/b6c65034.png" data-original-src="https://upload.acmicpc.net/408ea292-3a7e-4b25-b5ec-d6a85f82a6ce/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 252px; width: 800px;" /></p>
+	<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/20436.%E2%80%85ZOAC%E2%80%853/b6c65034.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/20436.%E2%80%85ZOAC%E2%80%853/b6c65034.png" data-original-src="https://upload.acmicpc.net/408ea292-3a7e-4b25-b5ec-d6a85f82a6ce/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 252px; width: 800px;" /></p>
 	</li>
 </ul>
 

@@ -18,7 +18,7 @@
 
 <p>세상엔 색칠하는 문제도, 타일을 채우는 문제도 많다. 이 문제도 그중 하나로, 변의 길이가 1인 정사각형 모양의 타일 3개를 L 모양으로 이어붙인 도형인 L-트로미노를 다룬다. L-트로미노는 회전을 포함하여 다음과 같이 4개의 모양이 있다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/22359.%E2%80%85%ED%9D%94%ED%95%9C%E2%80%85%ED%83%80%EC%9D%BC%E2%80%85%EC%83%89%EC%B9%A0%E2%80%85%EB%AC%B8%EC%A0%9C/73b02a45.png" data-original-src="https://upload.acmicpc.net/97738e24-7289-4475-afb7-0db60fce3acf/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 512px; height: 110px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/22359.%E2%80%85%ED%9D%94%ED%95%9C%E2%80%85%ED%83%80%EC%9D%BC%E2%80%85%EC%83%89%EC%B9%A0%E2%80%85%EB%AC%B8%EC%A0%9C/73b02a45.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/22359.%E2%80%85%ED%9D%94%ED%95%9C%E2%80%85%ED%83%80%EC%9D%BC%E2%80%85%EC%83%89%EC%B9%A0%E2%80%85%EB%AC%B8%EC%A0%9C/73b02a45.png" data-original-src="https://upload.acmicpc.net/97738e24-7289-4475-afb7-0db60fce3acf/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 512px; height: 110px;" /></p>
 
 <p style="text-align: center;">그림 I.1: L-트로미노</p>
 
@@ -44,10 +44,10 @@
 
 ### 힌트
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/22359.%E2%80%85%ED%9D%94%ED%95%9C%E2%80%85%ED%83%80%EC%9D%BC%E2%80%85%EC%83%89%EC%B9%A0%E2%80%85%EB%AC%B8%EC%A0%9C/0e0fcc0b.png" data-original-src="https://upload.acmicpc.net/c9eb2715-0ac7-493a-b68f-abdbc1b34d08/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 120px; height: 120px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/22359.%E2%80%85%ED%9D%94%ED%95%9C%E2%80%85%ED%83%80%EC%9D%BC%E2%80%85%EC%83%89%EC%B9%A0%E2%80%85%EB%AC%B8%EC%A0%9C/0e0fcc0b.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/22359.%E2%80%85%ED%9D%94%ED%95%9C%E2%80%85%ED%83%80%EC%9D%BC%E2%80%85%EC%83%89%EC%B9%A0%E2%80%85%EB%AC%B8%EC%A0%9C/0e0fcc0b.png" data-original-src="https://upload.acmicpc.net/c9eb2715-0ac7-493a-b68f-abdbc1b34d08/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 120px; height: 120px;" /></p>
 
 <p style="text-align: center;">붉은 실선으로 표시된 변에서 인접한 두 L-트로미노의 색이 같으므로 오답</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/22359.%E2%80%85%ED%9D%94%ED%95%9C%E2%80%85%ED%83%80%EC%9D%BC%E2%80%85%EC%83%89%EC%B9%A0%E2%80%85%EB%AC%B8%EC%A0%9C/267806a5.png" data-original-src="https://upload.acmicpc.net/f881e1aa-bcca-4e00-8ae5-8fcd34126e58/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 240px; height: 240px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/22359.%E2%80%85%ED%9D%94%ED%95%9C%E2%80%85%ED%83%80%EC%9D%BC%E2%80%85%EC%83%89%EC%B9%A0%E2%80%85%EB%AC%B8%EC%A0%9C/267806a5.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/22359.%E2%80%85%ED%9D%94%ED%95%9C%E2%80%85%ED%83%80%EC%9D%BC%E2%80%85%EC%83%89%EC%B9%A0%E2%80%85%EB%AC%B8%EC%A0%9C/267806a5.png" data-original-src="https://upload.acmicpc.net/f881e1aa-bcca-4e00-8ae5-8fcd34126e58/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 240px; height: 240px;" /></p>
 
 <p style="text-align: center;">$2^3 \times 2^3$ 판에서 $a = 7, b = 6$ 일 때 가능한 정답 중 하나</p>

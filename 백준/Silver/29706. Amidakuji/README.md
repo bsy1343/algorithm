@@ -18,7 +18,7 @@
 
 <p>Amidakuji is a method of lottery popular in East Asia. It is often used when a number of gifts are distributed to people or when a number of tasks are assigned.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/29706.%E2%80%85Amidakuji/e45b6b09.png" data-original-src="https://upload.acmicpc.net/7e181bc7-f1ed-45fd-b5f9-2d26e1a058f2/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 325px; height: 350px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/29706.%E2%80%85Amidakuji/e45b6b09.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/29706.%E2%80%85Amidakuji/e45b6b09.png" data-original-src="https://upload.acmicpc.net/7e181bc7-f1ed-45fd-b5f9-2d26e1a058f2/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 325px; height: 350px;" /></p>
 
 <p style="text-align: center;">Figure B-1: An example of amidakuji</p>
 
@@ -26,13 +26,13 @@
 
 <p>To use an amidakuji, first, the names of an item, a gift or a task, are written down at the bottom end of vertical lines. Then, each participant chooses the top end of a vertical line, different from one another. Participants trace down the chosen line from the top. When reaching a T-junction with a horizontal bar, that bar is followed, switching to the adjacent vertical line it is connected, and the trace continues downward. When the bottom end of a vertical line is reached, the item written there is the awarded gift or the assigned task. Figure B-2 shows the case when the top end P is chosen. In this case, the item at R is obtained.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/29706.%E2%80%85Amidakuji/8a2cdc96.png" data-original-src="https://upload.acmicpc.net/4e15d2e0-38af-4ba0-ab44-079ebb510303/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 325px; height: 363px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/29706.%E2%80%85Amidakuji/8a2cdc96.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/29706.%E2%80%85Amidakuji/8a2cdc96.png" data-original-src="https://upload.acmicpc.net/4e15d2e0-38af-4ba0-ab44-079ebb510303/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 325px; height: 363px;" /></p>
 
 <p style="text-align: center;">Figure B-2: The trace from P</p>
 
 <p>Assume that the participant choosing P of Figure B-2 wants the item at Q, which is not fulfilled. But wait, a special rule just introduced may grant that wish. The new rule allows adding a single horizontal bar at an arbitrary position. Actually, adding a bar marked X in Figure B-3 will make the trace reach Q.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/29706.%E2%80%85Amidakuji/be2847b3.png" data-original-src="https://upload.acmicpc.net/43474c55-c65f-4c6c-a488-7a22c1d45997/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 325px; height: 363px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/29706.%E2%80%85Amidakuji/be2847b3.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/29706.%E2%80%85Amidakuji/be2847b3.png" data-original-src="https://upload.acmicpc.net/43474c55-c65f-4c6c-a488-7a22c1d45997/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 325px; height: 363px;" /></p>
 
 <p style="text-align: center;">Figure B-3: The new trace after adding a horizontal bar</p>
 

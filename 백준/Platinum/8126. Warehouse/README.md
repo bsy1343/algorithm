@@ -18,7 +18,7 @@
 
 <p>The streets of the New Byte City form a rectangular grid - those running east-west are simply called streets, while those running north-south are called avenues. To avoid mistakes, we shall call them h-streets and v-streets, respectively. The v-streets are numbered from 1 to 500,000,000 eastwards. Similarly, the h-streets are numbered from 1 to 500,000,000 northwards. Every v-street crosses every h-street and, conversely, every h-street crosses every v-street. The distance between two consecutive v-streets, as well as between two consecutive h-streets, is exactly one kilometre.</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/8126.%E2%80%85Warehouse/f19e2fa2.gif" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/8126/1.gif" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:274px; width:263px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/8126.%E2%80%85Warehouse/f19e2fa2.gif" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/8126.%E2%80%85Warehouse/f19e2fa2.gif" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/8126/1.gif" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:274px; width:263px" /></p>
 
 <p>There are k shops in the city, each one of them is situated at a crossroads. Byteasar, the merchant, supplies every single one of the k shops, and furthermore he returns to some of them several times a day with fresh supplies. Recently he has decided to have a warehouse built, from which the goods would be delivered. For obvious reasons, it should stand at a crossroads. The lorry loaded with goods can supply only one shop per course - it leaves the warehouse, delivers to the shop and returns to the warehouse. The lorry always picks the shortest path from the warehouse to the shop, and the shortest one back (possibly the same one). The distance between points (x<sub>i</sub>,y<sub>i</sub>) and (x<sub>j</sub>,y<sub>j</sub>) equals max{|x<sub>i</sub>-x<sub>j</sub>|,|y<sub>i</sub>-y<sub>j</sub>|}.</p>
 
@@ -46,4 +46,4 @@ Write a programme that:</p>
 ### 힌트
 
 <p>The picture below illustrates the example. The numbered points are the shops. The point &nbsp;is the optimal position of the warehouse.<br />
-<img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/8126.%E2%80%85Warehouse/00ed92f4.gif" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/8126/2.gif" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/8126.%E2%80%85Warehouse/00ed92f4.gif" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/8126.%E2%80%85Warehouse/00ed92f4.gif" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/8126/2.gif" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>

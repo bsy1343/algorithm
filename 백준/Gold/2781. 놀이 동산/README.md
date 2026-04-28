@@ -26,15 +26,15 @@
 
 <p>다음의 예제를 생각해보자. N=1, M=5이고 C = {22334}, Sx = 1, Sy = 1, Dx = 1, Dy = 5라면 놀이동산은 다음과 같은 그림이라고 할 수 있다.</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/2781.%E2%80%85%EB%86%80%EC%9D%B4%E2%80%85%EB%8F%99%EC%82%B0/da3b0ebc.png" data-original-src="https://www.acmicpc.net/upload/images/f1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:45px; width:200px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/2781.%E2%80%85%EB%86%80%EC%9D%B4%E2%80%85%EB%8F%99%EC%82%B0/da3b0ebc.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/2781.%E2%80%85%EB%86%80%EC%9D%B4%E2%80%85%EB%8F%99%EC%82%B0/da3b0ebc.png" data-original-src="https://www.acmicpc.net/upload/images/f1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:45px; width:200px" /></p>
 
 <p>이때 첫 번째 시간 구간 (0분~1분)&nbsp;에서 위치를 (1,2)까지 갈 수 있다. 왜냐하면 이 구간에 있었던 격자의 총 비용이 &frac12; + &frac12; &lt;= 1이기 때문이다. 하지만, (1,3)까지는 &frac12; + &frac12; + ⅓ &gt; 1이기 때문에 가지 못한다.</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/2781.%E2%80%85%EB%86%80%EC%9D%B4%E2%80%85%EB%8F%99%EC%82%B0/4f7f3ed3.png" data-original-src="https://www.acmicpc.net/upload/images/f2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:44px; width:200px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/2781.%E2%80%85%EB%86%80%EC%9D%B4%E2%80%85%EB%8F%99%EC%82%B0/4f7f3ed3.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/2781.%E2%80%85%EB%86%80%EC%9D%B4%E2%80%85%EB%8F%99%EC%82%B0/4f7f3ed3.png" data-original-src="https://www.acmicpc.net/upload/images/f2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:44px; width:200px" /></p>
 
 <p>(1분~2분)에서는 (1,3)까지 갈 수 있다. 하지만, (1,4)까지는 갈 수 없다. &frac12; + ⅓ + ⅓ &gt;&nbsp;1.</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/2781.%E2%80%85%EB%86%80%EC%9D%B4%E2%80%85%EB%8F%99%EC%82%B0/9a17672b.png" data-original-src="https://www.acmicpc.net/upload/images/f3.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:47px; width:200px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/2781.%E2%80%85%EB%86%80%EC%9D%B4%E2%80%85%EB%8F%99%EC%82%B0/9a17672b.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/2781.%E2%80%85%EB%86%80%EC%9D%B4%E2%80%85%EB%8F%99%EC%82%B0/9a17672b.png" data-original-src="https://www.acmicpc.net/upload/images/f3.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:47px; width:200px" /></p>
 
 <p>(2분~3분)에서는 (1,5)까지 갈 수 있다. ⅓ +&nbsp;⅓ + &frac14; &lt;= 1</p>
 

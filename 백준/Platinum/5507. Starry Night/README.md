@@ -20,7 +20,7 @@
 
 <p>Clusters may be similar. Two clusters are similar if they have the same shape and number of stars, irrespective of their orientation. In general, the number of possible orientations for a cluster is eight, as Figure 1 exemplifies.</p>
 
-<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/5507.%E2%80%85Starry%E2%80%85Night/ca4839b5.gif" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/5507/1.gif" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:166px; width:295px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/5507.%E2%80%85Starry%E2%80%85Night/ca4839b5.gif" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/5507.%E2%80%85Starry%E2%80%85Night/ca4839b5.gif" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/5507/1.gif" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:166px; width:295px" /></p>
 
 <p style="text-align:center">Figure 1. Eight similar clusters</p>
 
@@ -52,12 +52,12 @@
 
 <p>In this case, the sky map has width 23 and height 15. Just to make it clearer, notice that this input file corresponds to the following picture of the sky.</p>
 
-<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/5507.%E2%80%85Starry%E2%80%85Night/2d1bdc57.gif" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/5507/2.gif" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:226px; width:323px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/5507.%E2%80%85Starry%E2%80%85Night/2d1bdc57.gif" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/5507.%E2%80%85Starry%E2%80%85Night/2d1bdc57.gif" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/5507/2.gif" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:226px; width:323px" /></p>
 
 <p style="text-align:center">Figure 2. Picture of the sky</p>
 
 <p>This is one possible result for the sample input above. Notice that this output file corresponds to the following picture.</p>
 
-<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/5507.%E2%80%85Starry%E2%80%85Night/7961db1c.gif" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/5507/3.gif" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:226px; width:323px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/5507.%E2%80%85Starry%E2%80%85Night/7961db1c.gif" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/5507.%E2%80%85Starry%E2%80%85Night/7961db1c.gif" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/5507/3.gif" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:226px; width:323px" /></p>
 
 <p style="text-align:center">Figure 3. Picture with the clusters marked</p>

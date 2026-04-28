@@ -20,7 +20,7 @@
 
 <p>An object can be moved by repeatedly sliding it either north, south, east, or west one unit. The goal of the puzzle is to move the objects so that they are separated -- where their bounding boxes no longer share any positive overlap with each-other. Given the shapes and locations of the three objects, your task is to help Bessie decide what is the minimum number of individual slides required to separate the objects.</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/5880.%E2%80%85Unlocking%E2%80%85Blocks/a24158a3.png" data-original-src="https://www.acmicpc.net/upload/images2/fig_unlock.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:92px; width:92px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/5880.%E2%80%85Unlocking%E2%80%85Blocks/a24158a3.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/5880.%E2%80%85Unlocking%E2%80%85Blocks/a24158a3.png" data-original-src="https://www.acmicpc.net/upload/images2/fig_unlock.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:92px; width:92px" /></p>
 
 ### 입력
 

@@ -20,11 +20,11 @@
 
 <p>효성이가 기르는 트리는 특별하기 때문에,&nbsp;각 정점에 $0$ 이상 $9$ 이하의 정수가 적혀 있다. 어느 날 문득 크리스마스 트리를 만들고 싶어진 효성이는 1개 이상의 정점을 골라서 전구를 달고 싶어졌다. 이 때,&nbsp;정점을 고르는 방법은 뿌리에서 특정 이파리까지 가는 경로 위에서 고르는 것이다. 이 때 고른 전구들이 꼭 연속적으로 존재할 필요는 없다. 전구가 달린 정점들은 불빛이 들어오면서 정점에 적혀 있던 숫자가 밝게 빛나게 된다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/22253.%E2%80%85%ED%8A%B8%EB%A6%AC%E2%80%85%EB%94%94%EC%9E%90%EC%9D%B4%EB%84%88%E2%80%85%ED%98%B8%EC%84%9D/4a46560a.png" data-original-src="https://upload.acmicpc.net/cbac2bf9-b43b-44dd-9842-e769c922b8ef/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 1102px; height: 280px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/22253.%E2%80%85%ED%8A%B8%EB%A6%AC%E2%80%85%EB%94%94%EC%9E%90%EC%9D%B4%EB%84%88%E2%80%85%ED%98%B8%EC%84%9D/4a46560a.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/22253.%E2%80%85%ED%8A%B8%EB%A6%AC%E2%80%85%EB%94%94%EC%9E%90%EC%9D%B4%EB%84%88%E2%80%85%ED%98%B8%EC%84%9D/4a46560a.png" data-original-src="https://upload.acmicpc.net/cbac2bf9-b43b-44dd-9842-e769c922b8ef/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 1102px; height: 280px;" /></p>
 
 <p>제일 왼쪽 그림이 효성이가 가지고 있는 나무라고 하자. 가운데와 오른쪽 그림은&nbsp;올바르게 전구를 고른 예시이다. 각 그림에서 밝혀진 전구에 적힌 숫자를 아래부터 순서대로 읽으면 $\{0, 0, 8\}$ 과 $\{3, 6, 3\}$ 이 된다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/22253.%E2%80%85%ED%8A%B8%EB%A6%AC%E2%80%85%EB%94%94%EC%9E%90%EC%9D%B4%EB%84%88%E2%80%85%ED%98%B8%EC%84%9D/8cae09b5.png" data-original-src="https://upload.acmicpc.net/a6c90ed3-9d5b-442d-b126-23a4fcf39c41/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 704px; height: 280px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/22253.%E2%80%85%ED%8A%B8%EB%A6%AC%E2%80%85%EB%94%94%EC%9E%90%EC%9D%B4%EB%84%88%E2%80%85%ED%98%B8%EC%84%9D/8cae09b5.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/22253.%E2%80%85%ED%8A%B8%EB%A6%AC%E2%80%85%EB%94%94%EC%9E%90%EC%9D%B4%EB%84%88%E2%80%85%ED%98%B8%EC%84%9D/8cae09b5.png" data-original-src="https://upload.acmicpc.net/a6c90ed3-9d5b-442d-b126-23a4fcf39c41/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 704px; height: 280px;" /></p>
 
 <p>만약 고른 전구가 1번, 7번, 10번이라면 왼쪽과 같은데, 이런 경우에는 뿌리부터 특정 이파리까지의 경로 위에서 고른 것이 아니기 때문에 올바르지 못한 방법이다. 같은 이유로 4번, 5번, 8번, 9번 전구들을 골라도 안 된다.</p>
 

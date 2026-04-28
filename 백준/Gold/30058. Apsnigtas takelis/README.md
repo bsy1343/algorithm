@@ -22,13 +22,13 @@
 
 <p>Mārtiņ&scaron; takelį pradeda valyti nuo pirmojo metro. Jis semtuvu pasemia visą ten esantį sniegą bei &scaron;vysteli jį auk&scaron;tyn ir tolyn nuo savęs. Sniegas nusileidžia vėl ant tako ir padengia kelis artimiausius metrus vieno centimetro gylio sluoksniu. Nagrinėkime pavyzdį.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/30058.%E2%80%85Apsnigtas%E2%80%85takelis/87a3f2fc.png" data-original-src="https://upload.acmicpc.net/ee4d58d2-5f32-4b6c-b70d-b823f68484c0/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 198px; height: 123px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/30058.%E2%80%85Apsnigtas%E2%80%85takelis/87a3f2fc.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/30058.%E2%80%85Apsnigtas%E2%80%85takelis/87a3f2fc.png" data-original-src="https://upload.acmicpc.net/ee4d58d2-5f32-4b6c-b70d-b823f68484c0/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 198px; height: 123px;" /></p>
 
 <p style="text-align: center;">1 pav. Trijų centrimetrų sniego sluoksnis pasklinda trijų metrų intervale.</p>
 
 <p>Nuvalęs pirmąjį metrą, Mārtiņ&scaron; pereina prie antrojo: meta ten tuo metu esantį sniegą auk&scaron;tyn, o jis vėl vieno centimetro sluoksniu padengia kelis artimiausius metrus. Tada Mārtiņ&scaron; valo trečiąjį metrą, ketvirtąjį ir taip toliau, kol galiausiai sniego ant tako nelieka. Taigi, pavyzdys tęsiasi taip:</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/30058.%E2%80%85Apsnigtas%E2%80%85takelis/bea4a146.png" data-original-src="https://upload.acmicpc.net/0bc33058-d17a-4257-b926-65f11949acfe/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 561px; height: 67px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/30058.%E2%80%85Apsnigtas%E2%80%85takelis/bea4a146.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/30058.%E2%80%85Apsnigtas%E2%80%85takelis/bea4a146.png" data-original-src="https://upload.acmicpc.net/0bc33058-d17a-4257-b926-65f11949acfe/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 561px; height: 67px;" /></p>
 
 <p style="text-align: center;">2 pav. Tako valymas. Atkreipkite dėmesį, kad už ribų nukritęs sniegas ten ir lieka.</p>
 

@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/23738.%E2%80%85%D0%A0%D0%B5%D1%81%D1%82%D0%BE%D1%80%D0%B0%D0%BD/db5c52fa.png" data-original-src="https://upload.acmicpc.net/501a7239-fd42-4c48-bb70-2993062b6b0a/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 630px; max-width: 100%;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/23738.%E2%80%85%D0%A0%D0%B5%D1%81%D1%82%D0%BE%D1%80%D0%B0%D0%BD/db5c52fa.png" data-original-src="%EB%B0%B1%EC%A4%80/Bronze/23738.%E2%80%85%D0%A0%D0%B5%D1%81%D1%82%D0%BE%D1%80%D0%B0%D0%BD/db5c52fa.png" data-original-src="https://upload.acmicpc.net/501a7239-fd42-4c48-bb70-2993062b6b0a/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 630px; max-width: 100%;" /></p>
 
 <p style="text-align: center;">그림 A.1:&nbsp;Ресторан &laquo;Матрешка&raquo;</p>
 

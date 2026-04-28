@@ -32,7 +32,7 @@
 
 <p>Example: &ldquo;ACM is short for Association for Computing Machinery&rdquo; can be displayed as follows. The former is suitable for ACM Touch, but the latter is not.</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/9038.%E2%80%85Display/ddf13698.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/9038/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202017-01-05%20%EC%98%A4%ED%9B%84%202.33.38.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:113px; width:535px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/9038.%E2%80%85Display/ddf13698.png" data-original-src="%EB%B0%B1%EC%A4%80/Bronze/9038.%E2%80%85Display/ddf13698.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/9038/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202017-01-05%20%EC%98%A4%ED%9B%84%202.33.38.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:113px; width:535px" /></p>
 
 ### 입력
 

@@ -44,4 +44,4 @@
 
 <p>임의의 문자열이 특정 패턴과 매치되는지 확인하는 방법 중 하나로 Automata가 있다. 아래는 유사 바나나 문자열의 Transition Diagram을 나타낸 것으로, 유사 바나나 문자열이 될 수 있는 모든 문자열을 나타내는 Deterministic Finite Automata이다. 문제에 대한 접근이 어렵다면 입력으로 주어진 문자열을 아래 DFA에 매칭하기 위해 각 상태에서 어떤 문자를 바꿔야하는지 생각해보자.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/15910.%E2%80%85%EB%B0%94%EB%82%98%EB%82%98%EB%82%98%EB%B9%A0%EB%82%98%EB%82%98/cc677bc7.png" data-original-src="https://upload.acmicpc.net/f747d291-fd55-4f5c-8c0c-02e708922b51/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 470px; height: 130px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/15910.%E2%80%85%EB%B0%94%EB%82%98%EB%82%98%EB%82%98%EB%B9%A0%EB%82%98%EB%82%98/cc677bc7.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/15910.%E2%80%85%EB%B0%94%EB%82%98%EB%82%98%EB%82%98%EB%B9%A0%EB%82%98%EB%82%98/cc677bc7.png" data-original-src="https://upload.acmicpc.net/f747d291-fd55-4f5c-8c0c-02e708922b51/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 470px; height: 130px;" /></p>

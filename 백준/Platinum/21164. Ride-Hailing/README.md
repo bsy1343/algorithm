@@ -22,7 +22,7 @@
 
 <p>Unfortunately, Jamal is more of a business-type and needs help with coding for his company. In particular, he is lacking the algorithm to determine given a set of ordered trips in an eight-hour window, the minimum number of drivers that should be hired for the given shift. Can you help Jamal with this crucial task?</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/21164.%E2%80%85Ride-Hailing/0009d1d1.png" data-original-src="https://upload.acmicpc.net/d2714f07-d06a-4cad-817e-efede75e83e5/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 394px; height: 280px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/21164.%E2%80%85Ride-Hailing/0009d1d1.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/21164.%E2%80%85Ride-Hailing/0009d1d1.png" data-original-src="https://upload.acmicpc.net/d2714f07-d06a-4cad-817e-efede75e83e5/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 394px; height: 280px;" /></p>
 
 <p style="text-align: center;">Figure 1:&nbsp;Illustration of sample input. Scheduled trips are depicted by dashed red lines with their respective start times. The optimal solution is to have one driver complete the trip from $2$ to $3$ at time $0$, then travel to location $1$ arriving at time $8$, and then complete the trip from $1$ to $2$. The second driver can complete the trip from $3$ to $4$.</p>
 

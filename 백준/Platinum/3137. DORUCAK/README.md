@@ -18,7 +18,7 @@
 
 <p>Mirko and Slavko like to eat burek for breakfast. This one time they bought one with cheese and another with meat. Watching the hot bureks on the table, teasing their nostrils with enticing aromas, they could not decide on who would get which burek so they decided to split both of them in halves. Mirko boasted that he could cut both bureks in two halves of equal areas with just one swift stroke of his knife. Help Mirko accomplish this before the bureks get cold.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/3137.%E2%80%85DORUCAK/9cf60ab9.png" data-original-src="https://upload.acmicpc.net/aee4e89d-e5d6-49eb-b3c7-73ecaea1ca88/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 274px; height: 221px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/3137.%E2%80%85DORUCAK/9cf60ab9.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/3137.%E2%80%85DORUCAK/9cf60ab9.png" data-original-src="https://upload.acmicpc.net/aee4e89d-e5d6-49eb-b3c7-73ecaea1ca88/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 274px; height: 221px;" /></p>
 
 <p style="text-align: center;">Image corresponds to first example.</p>
 

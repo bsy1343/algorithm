@@ -32,7 +32,7 @@
 
 <p>As an example, consider the first sample input, visualized in Figure H.1. In the infinitely repeated pattern, it is possible to find several beautiful artworks.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/30496.%E2%80%85Hidden%E2%80%85Art/bc703674.png" data-original-src="https://upload.acmicpc.net/15a540a5-e5c3-4ffb-a365-0dffeb3a420e/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 378px; height: 235px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/30496.%E2%80%85Hidden%E2%80%85Art/bc703674.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/30496.%E2%80%85Hidden%E2%80%85Art/bc703674.png" data-original-src="https://upload.acmicpc.net/15a540a5-e5c3-4ffb-a365-0dffeb3a420e/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 378px; height: 235px;" /></p>
 
 <p style="text-align: center;">Figure H.1: Visualization of the first sample input. The pattern is shown repeated five times in the horizontal direction and two times in the vertical direction, but remember that it repeats indefinitely in all directions. The three bold outlined squares indicate some possible beautiful artworks.</p>
 

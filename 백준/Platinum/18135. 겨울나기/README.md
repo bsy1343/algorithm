@@ -18,7 +18,7 @@
 
 <p>가톨릭대학교 텔레토비 동산에는 겨울을 준비하는 다람쥐 다다가 살고 있다. 다다는 교내에서 자신만의 원형의 산책로를 가지고 있다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/18135.%E2%80%85%EA%B2%A8%EC%9A%B8%EB%82%98%EA%B8%B0/f13e1d7e.png" data-original-src="https://upload.acmicpc.net/945f62f4-b2eb-4690-bf87-811a2e97ee77/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 600px; height: 480px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/18135.%E2%80%85%EA%B2%A8%EC%9A%B8%EB%82%98%EA%B8%B0/f13e1d7e.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/18135.%E2%80%85%EA%B2%A8%EC%9A%B8%EB%82%98%EA%B8%B0/f13e1d7e.png" data-original-src="https://upload.acmicpc.net/945f62f4-b2eb-4690-bf87-811a2e97ee77/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 600px; height: 480px;" /></p>
 
 <p>다다는 원형의 산책로를<em> N</em> (1 &le; <em>N</em> &le; 2,000,000)개의 칸으로 구분하고 1번부터 <em>N</em>번 까지 번호를 매겼고, 한 개의 칸 혹은 연속된 여러 칸을<em> M</em> (1 &le; <em>M</em> &le; 1,000,000)개의 영역으로 지정했으며, 1번부터 <em>M</em>번까지 번호를 매겼다. 한 영역은 꽃밭, 건물 등 학교에서의 한 장소나 시설을 의미한다. 1번 칸은 무조건 1번 영역에 속하고 어떤 영역에도 속하지 않는 칸은 없다. 칸과 영역의 번호는 시계방향으로 순서대로 매겨지며, 다다의 이동 방향도 시계방향으로만 움직인다.</p>
 

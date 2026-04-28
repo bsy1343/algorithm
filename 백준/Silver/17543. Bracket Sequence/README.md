@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/17543.%E2%80%85Bracket%E2%80%85Sequence/457c0cf3.png" data-original-src="https://upload.acmicpc.net/1512ee25-a2eb-4fbe-b914-965e1b2536e8/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 171px; height: 209px; float: right;" />Two great friends, Eddie John and Kris Cross, are attending the Brackets Are Perfection Conference. They wholeheartedly agree with the main message of the conference and they are delighted with all the new things they learn about brackets.</p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/17543.%E2%80%85Bracket%E2%80%85Sequence/457c0cf3.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/17543.%E2%80%85Bracket%E2%80%85Sequence/457c0cf3.png" data-original-src="https://upload.acmicpc.net/1512ee25-a2eb-4fbe-b914-965e1b2536e8/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 171px; height: 209px; float: right;" />Two great friends, Eddie John and Kris Cross, are attending the Brackets Are Perfection Conference. They wholeheartedly agree with the main message of the conference and they are delighted with all the new things they learn about brackets.</p>
 
 <p>One of these things is a bracket sequence. If you want to do a computation with + and &times;, you usually write it like so:</p>
 

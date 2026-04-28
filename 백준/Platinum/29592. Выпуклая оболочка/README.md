@@ -18,7 +18,7 @@
 
 <p>Пусть задано некоторое множество точек на плоскости. <em>Выпуклая оболочка</em> --- наименьший выпуклый многоугольник, содержащий данные точки.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/29592.%E2%80%85%D0%92%D1%8B%D0%BF%D1%83%D0%BA%D0%BB%D0%B0%D1%8F%E2%80%85%D0%BE%D0%B1%D0%BE%D0%BB%D0%BE%D1%87%D0%BA%D0%B0/ef19f8e1.png" data-original-src="https://upload.acmicpc.net/57f2d379-a32c-43d3-a05c-7edc0300dc15/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 274px; height: 272px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/29592.%E2%80%85%D0%92%D1%8B%D0%BF%D1%83%D0%BA%D0%BB%D0%B0%D1%8F%E2%80%85%D0%BE%D0%B1%D0%BE%D0%BB%D0%BE%D1%87%D0%BA%D0%B0/ef19f8e1.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/29592.%E2%80%85%D0%92%D1%8B%D0%BF%D1%83%D0%BA%D0%BB%D0%B0%D1%8F%E2%80%85%D0%BE%D0%B1%D0%BE%D0%BB%D0%BE%D1%87%D0%BA%D0%B0/ef19f8e1.png" data-original-src="https://upload.acmicpc.net/57f2d379-a32c-43d3-a05c-7edc0300dc15/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 274px; height: 272px;" /></p>
 
 <p>Необходимо найти число точек с целыми координатами, которые находятся строго внутри выпуклой оболочки заданного множества точек.</p>
 

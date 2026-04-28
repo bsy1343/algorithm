@@ -26,7 +26,7 @@
 
 <p>다른 예를 들어 그림으로 표현하면 <code>A+B*C-D/E</code>를 완전하게 괄호로 묶고 연산자를 이동시킬 장소를 표시하면 다음과 같이 된다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/1918.%E2%80%85%ED%9B%84%EC%9C%84%E2%80%85%ED%91%9C%EA%B8%B0%EC%8B%9D/2b8a438d.png" data-original-src="https://upload.acmicpc.net/5aad2feb-d9fc-430a-954d-73a06ba0215f/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 166px; height: 50px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/1918.%E2%80%85%ED%9B%84%EC%9C%84%E2%80%85%ED%91%9C%EA%B8%B0%EC%8B%9D/2b8a438d.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/1918.%E2%80%85%ED%9B%84%EC%9C%84%E2%80%85%ED%91%9C%EA%B8%B0%EC%8B%9D/2b8a438d.png" data-original-src="https://upload.acmicpc.net/5aad2feb-d9fc-430a-954d-73a06ba0215f/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 166px; height: 50px;" /></p>
 
 <p style="text-align: center;">결과: <code>ABC*+DE/-</code></p>
 

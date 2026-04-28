@@ -18,7 +18,7 @@
 
 <p>There is a frog living in a big pond. He loves jumping between lotus leaves floating on the pond. Interestingly, these leaves have strange habits. First, a leaf will sink into the water after the frog jumps from it. Second, they are aligned regularly as if they are placed on the grid points as in the example below.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/22569.%E2%80%85Kaeru%E2%80%85Jump/e3053862.png" data-original-src="https://upload.acmicpc.net/a8b93a97-be3b-4ede-8375-99f9384c2726/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/22569.%E2%80%85Kaeru%E2%80%85Jump/e3053862.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/22569.%E2%80%85Kaeru%E2%80%85Jump/e3053862.png" data-original-src="https://upload.acmicpc.net/a8b93a97-be3b-4ede-8375-99f9384c2726/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <center><b>Figure 1: Example of floating leaves</b></center>
 
@@ -27,7 +27,7 @@
 
 <p>See the example shown in the figure below.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/22569.%E2%80%85Kaeru%E2%80%85Jump/c504cdbf.png" data-original-src="https://upload.acmicpc.net/7c245f9a-97ad-4961-9cd1-276b05d016a8/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/22569.%E2%80%85Kaeru%E2%80%85Jump/c504cdbf.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/22569.%E2%80%85Kaeru%E2%80%85Jump/c504cdbf.png" data-original-src="https://upload.acmicpc.net/7c245f9a-97ad-4961-9cd1-276b05d016a8/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>In this situation, he has three choices, namely, the leaves A, B and C. Note that he cannot jump to the leaf D since he cannot jump backward. Suppose that he choose the leaf B. After jumping there, the situation will change as shown in the following figure.</p>
 
@@ -35,7 +35,7 @@
 
 <p>After some struggles, he found this puzzle difficult, since there are a lot of leaves on the pond. Can you help him to find out a solution?</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/22569.%E2%80%85Kaeru%E2%80%85Jump/40f42fb7.png" data-original-src="https://upload.acmicpc.net/bbd3e6b8-9d51-475a-81a9-53b39800c344/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/22569.%E2%80%85Kaeru%E2%80%85Jump/40f42fb7.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/22569.%E2%80%85Kaeru%E2%80%85Jump/40f42fb7.png" data-original-src="https://upload.acmicpc.net/bbd3e6b8-9d51-475a-81a9-53b39800c344/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 </center>
 
 ### 입력

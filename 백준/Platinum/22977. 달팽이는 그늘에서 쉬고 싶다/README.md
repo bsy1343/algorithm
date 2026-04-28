@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/22977.%E2%80%85%EB%8B%AC%ED%8C%BD%EC%9D%B4%EB%8A%94%E2%80%85%EA%B7%B8%EB%8A%98%EC%97%90%EC%84%9C%E2%80%85%EC%89%AC%EA%B3%A0%E2%80%85%EC%8B%B6%EB%8B%A4/eb54cd9b.png" data-original-src="https://upload.acmicpc.net/07886467-cf36-4c02-8667-91d58edd0e3c/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/22977.%E2%80%85%EB%8B%AC%ED%8C%BD%EC%9D%B4%EB%8A%94%E2%80%85%EA%B7%B8%EB%8A%98%EC%97%90%EC%84%9C%E2%80%85%EC%89%AC%EA%B3%A0%E2%80%85%EC%8B%B6%EB%8B%A4/eb54cd9b.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/22977.%E2%80%85%EB%8B%AC%ED%8C%BD%EC%9D%B4%EB%8A%94%E2%80%85%EA%B7%B8%EB%8A%98%EC%97%90%EC%84%9C%E2%80%85%EC%89%AC%EA%B3%A0%E2%80%85%EC%8B%B6%EB%8B%A4/eb54cd9b.png" data-original-src="https://upload.acmicpc.net/07886467-cf36-4c02-8667-91d58edd0e3c/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>2차원 세계에 직각다각형 형태의 조형물이 하나있다. 즉, 조형물의 표면은 $x$-좌표축 또는 $y$-좌표축에 평행하다.</p>
 

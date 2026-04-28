@@ -20,7 +20,7 @@
 
 <p>The following image shows five pictures of the same board. The first picture is the empty board, the second and third pictures show legal configurations, and the fourth and fifth pictures show illegal configurations. For this board, the maximum number of rooks in a legal configuration is 5; the second picture shows one way to do it, but there are several other ways.</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/4672.%E2%80%85Don't%E2%80%85Get%E2%80%85Rooked/55321dc2.gif" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/4672/rook.gif" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:152px; width:800px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/4672.%E2%80%85Don't%E2%80%85Get%E2%80%85Rooked/55321dc2.gif" data-original-src="%EB%B0%B1%EC%A4%80/Gold/4672.%E2%80%85Don't%E2%80%85Get%E2%80%85Rooked/55321dc2.gif" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/4672/rook.gif" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:152px; width:800px" /></p>
 
 <p>Your task is to write a program that, given a description of a board, calculates the maximum number of rooks that can be placed on the board in a legal configuration.</p>
 

@@ -22,7 +22,7 @@
 
 <p>예를 들어 아래의 그림에서 k가 4로 주어진다면, 점선을 따라 격자 A와 B를 잇는 회로의 비용은 19이지만, 비용이 16인 최소비용 회로가 존재한다. (이 비용에는 A, B의 비용도 포함된다.)</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/2645.%E2%80%85%ED%9A%8C%EB%A1%9C%EB%B0%B0%EC%B9%98/3c9433c2.gif" data-original-src="https://www.acmicpc.net/upload/images/haWdW9HSdociyElykQh3ChwRIMANuVhH.gif" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 289px; height: 299px; " /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/2645.%E2%80%85%ED%9A%8C%EB%A1%9C%EB%B0%B0%EC%B9%98/3c9433c2.gif" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/2645.%E2%80%85%ED%9A%8C%EB%A1%9C%EB%B0%B0%EC%B9%98/3c9433c2.gif" data-original-src="https://www.acmicpc.net/upload/images/haWdW9HSdociyElykQh3ChwRIMANuVhH.gif" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 289px; height: 299px; " /></p>
 
 ### 입력
 

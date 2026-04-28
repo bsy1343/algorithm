@@ -43,6 +43,6 @@
 
 ### 힌트
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/18173.%E2%80%85Bob%E2%80%85in%E2%80%85Wonderland/b5eb1421.png" data-original-src="https://upload.acmicpc.net/de6ecaff-8519-491b-b05a-9ca7595deb04/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 551px; height: 305px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/18173.%E2%80%85Bob%E2%80%85in%E2%80%85Wonderland/b5eb1421.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/18173.%E2%80%85Bob%E2%80%85in%E2%80%85Wonderland/b5eb1421.png" data-original-src="https://upload.acmicpc.net/de6ecaff-8519-491b-b05a-9ca7595deb04/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 551px; height: 305px;" /></p>
 
 <p style="text-align: center;">Figure 1: Illustration of Sample Input 1, Sample Input 2 and Sample Input 3</p>

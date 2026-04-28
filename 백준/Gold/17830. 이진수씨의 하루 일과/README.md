@@ -18,7 +18,7 @@
 
 <p>이진수 씨는 이진수를 사랑한다. 그의 하루 일과는 하루 종일 이진수 두 개를 생각해놓고, 그 두 수의 곱을 &quot;오늘의 이진수&quot;로 선정한다. 그리고 예쁜 종이를 한 장 사와 &quot;오늘의 이진수&quot;를 적은 후 액자에 전시한다. 그러나 그런 진수씨에게도 시련이 찾아왔으니, 종이를 사기 위해 나온 도중에 &quot;오늘의 이진수&quot;를 잊어버리고 만 것이다. 하지만, 진수 씨가 오늘 하루 생각해 놓은 두 이진수에 대해서는 어렴풋이 기억하고 있다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/17830.%E2%80%85%EC%9D%B4%EC%A7%84%EC%88%98%EC%94%A8%EC%9D%98%E2%80%85%ED%95%98%EB%A3%A8%E2%80%85%EC%9D%BC%EA%B3%BC/21b469ff.png" data-original-src="https://upload.acmicpc.net/5da7fe6a-e723-4223-9a21-2215d16a9469/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 459px; width: 600px;" /> &nbsp;</p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/17830.%E2%80%85%EC%9D%B4%EC%A7%84%EC%88%98%EC%94%A8%EC%9D%98%E2%80%85%ED%95%98%EB%A3%A8%E2%80%85%EC%9D%BC%EA%B3%BC/21b469ff.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/17830.%E2%80%85%EC%9D%B4%EC%A7%84%EC%88%98%EC%94%A8%EC%9D%98%E2%80%85%ED%95%98%EB%A3%A8%E2%80%85%EC%9D%BC%EA%B3%BC/21b469ff.png" data-original-src="https://upload.acmicpc.net/5da7fe6a-e723-4223-9a21-2215d16a9469/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 459px; width: 600px;" /> &nbsp;</p>
 
 <p>그 두 이진수를 A와 B라고 하자. 진수 씨가 기억하는 사실은 다음과 같다. A와 B는 <em>N</em>개의 비트로 이루어져 있다. A의 모든 비트는 1이다. 하지만 B의 일부 비트는 기억하지 못한다. 여기서 &quot;오늘의 이진수&quot;를 어느 정도 추측해 볼 수 있다.</p>
 
@@ -38,6 +38,6 @@
 
 ### 힌트
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/17830.%E2%80%85%EC%9D%B4%EC%A7%84%EC%88%98%EC%94%A8%EC%9D%98%E2%80%85%ED%95%98%EB%A3%A8%E2%80%85%EC%9D%BC%EA%B3%BC/fba31695.png" data-original-src="https://upload.acmicpc.net/da815b55-fffe-42b2-874d-af385dcfef5e/-/crop/409x478/377,165/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 292px; width: 250px;" /> &nbsp;</p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/17830.%E2%80%85%EC%9D%B4%EC%A7%84%EC%88%98%EC%94%A8%EC%9D%98%E2%80%85%ED%95%98%EB%A3%A8%E2%80%85%EC%9D%BC%EA%B3%BC/fba31695.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/17830.%E2%80%85%EC%9D%B4%EC%A7%84%EC%88%98%EC%94%A8%EC%9D%98%E2%80%85%ED%95%98%EB%A3%A8%E2%80%85%EC%9D%BC%EA%B3%BC/fba31695.png" data-original-src="https://upload.acmicpc.net/da815b55-fffe-42b2-874d-af385dcfef5e/-/crop/409x478/377,165/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 292px; width: 250px;" /> &nbsp;</p>
 
 <p>이진수의 곱셈 역시 십진수를 곱하는 것과 유사한 방식으로&nbsp;계산할 수 있다.</p>

@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/31793.%E2%80%85%EA%B3%B5%E2%80%85%EA%B5%B4%EB%A6%AC%EA%B8%B0/a66a817a.png" data-original-src="https://upload.acmicpc.net/1161786a-4089-4efd-9f55-8f3124746d1f/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 281px; width: 500px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/31793.%E2%80%85%EA%B3%B5%E2%80%85%EA%B5%B4%EB%A6%AC%EA%B8%B0/a66a817a.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/31793.%E2%80%85%EA%B3%B5%E2%80%85%EA%B5%B4%EB%A6%AC%EA%B8%B0/a66a817a.png" data-original-src="https://upload.acmicpc.net/1161786a-4089-4efd-9f55-8f3124746d1f/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 281px; width: 500px;" /></p>
 
 <p>트리 $T$는 깊이가 $N$, 정점이 $2^{N}-1$개이고 루트의 번호가 $1$인 포화 이진트리이다. 트리의 $i(1 \leq i \leq 2^{N - 1} - 1)$번 정점의 왼쪽 자식은 $2i$번 정점이고 오른쪽 자식은 $2i + 1$번 정점이다. 대학원에 다니는 산지니는 $T$에 공을 굴려 정점마다 공을 한 개씩 배치하려고 한다. 처음에 $T$는 비어있으며 공은 $1$번 정점에서 굴리기 시작한다. 산지니는 아래 규칙에 따라 공을 굴린다. </p>
 

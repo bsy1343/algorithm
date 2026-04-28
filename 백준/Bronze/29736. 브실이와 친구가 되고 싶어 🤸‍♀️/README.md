@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/29736.%E2%80%85%EB%B8%8C%EC%8B%A4%EC%9D%B4%EC%99%80%E2%80%85%EC%B9%9C%EA%B5%AC%EA%B0%80%E2%80%85%EB%90%98%EA%B3%A0%E2%80%85%EC%8B%B6%EC%96%B4%E2%80%85%F0%9F%A4%B8%E2%80%8D%E2%99%80%EF%B8%8F/2003fd02.png" data-original-src="https://upload.acmicpc.net/a16efaf0-0a63-4d9a-98f2-368c045f888d/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="max-width: 100%; height: 229px; width: 400px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/29736.%E2%80%85%EB%B8%8C%EC%8B%A4%EC%9D%B4%EC%99%80%E2%80%85%EC%B9%9C%EA%B5%AC%EA%B0%80%E2%80%85%EB%90%98%EA%B3%A0%E2%80%85%EC%8B%B6%EC%96%B4%E2%80%85%F0%9F%A4%B8%E2%80%8D%E2%99%80%EF%B8%8F/2003fd02.png" data-original-src="%EB%B0%B1%EC%A4%80/Bronze/29736.%E2%80%85%EB%B8%8C%EC%8B%A4%EC%9D%B4%EC%99%80%E2%80%85%EC%B9%9C%EA%B5%AC%EA%B0%80%E2%80%85%EB%90%98%EA%B3%A0%E2%80%85%EC%8B%B6%EC%96%B4%E2%80%85%F0%9F%A4%B8%E2%80%8D%E2%99%80%EF%B8%8F/2003fd02.png" data-original-src="https://upload.acmicpc.net/a16efaf0-0a63-4d9a-98f2-368c045f888d/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="max-width: 100%; height: 229px; width: 400px;" /></p>
 
 <p>브실이의 친구들이 다 GOSU가 되자 자신과 실력이 비슷한 새로운 친구들을 사귀려고 한다. 주변을 아무리 둘러봐도 전부 GOSU뿐인 이곳에서 브실이는 겨우겨우 자신과 실력이 비슷한 사람들을 모았다. 놀랍게도 이 사람들이 푼 문제 수는 전부 다르며, 푼 문제 수가 적은 순서대로 배열했을 시 각각 $A, A+1, \cdots, B$ 문제를 풀었다고 한다.</p>
 

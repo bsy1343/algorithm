@@ -18,7 +18,7 @@
 
 <p>Chansu and Junsu are friends in International College of Programming Convergence. One day, Chansu met Junsu and said that &ldquo;I&rsquo;ll do a magic trick for you. Pick any number between $1$ and $12$, and don&rsquo;t tell me your number. Just keep it in your mind.&rdquo; Junsu chose $11$ in mind. Chansu then showed Junsu the following four cards one by one, asking &ldquo;Is there your number in this card?&rdquo; at each time.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/30858.%E2%80%85Magic%E2%80%85Cards/6777fd33.png" data-original-src="https://upload.acmicpc.net/a4636ca4-cece-46ec-8bb5-ce18f52966e8/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 467px; height: 72px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/30858.%E2%80%85Magic%E2%80%85Cards/6777fd33.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/30858.%E2%80%85Magic%E2%80%85Cards/6777fd33.png" data-original-src="https://upload.acmicpc.net/a4636ca4-cece-46ec-8bb5-ce18f52966e8/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 467px; height: 72px;" /></p>
 
 <p>So, Junsu answered &ldquo;Yes, yes, no, yes&rdquo; in this order. After Chansu did some magically looking gestures with his arms and legs for a while, he finally shouted, &ldquo;I&rsquo;ve got your number. It is $11$.&rdquo; And Junsu was quite surprised because it was exactly the number he kept in mind.</p>
 

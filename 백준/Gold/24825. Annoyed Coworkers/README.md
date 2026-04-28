@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<figure style="float: right;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/24825.%E2%80%85Annoyed%E2%80%85Coworkers/3ba43d66.png" data-original-src="https://upload.acmicpc.net/558659d3-81f2-4f91-902d-dd2f6a8e47b1/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 300px; height: 262px;" />
+<figure style="float: right;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/24825.%E2%80%85Annoyed%E2%80%85Coworkers/3ba43d66.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/24825.%E2%80%85Annoyed%E2%80%85Coworkers/3ba43d66.png" data-original-src="https://upload.acmicpc.net/558659d3-81f2-4f91-902d-dd2f6a8e47b1/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 300px; height: 262px;" />
 <figcaption>A picture of you, not working. Source: <a href="https://xkcd.com/303/">XKCD 303</a></figcaption>
 </figure>
 

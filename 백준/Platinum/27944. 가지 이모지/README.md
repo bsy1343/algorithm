@@ -20,9 +20,9 @@
 
 <p>민규는 각 이모지에 반응을 최대 한 번만 할 수 있다. 민규가 $i$번째 이모지에 반응을 한다면 $i$번째 이모지의 반응 개수가 $A_i$에서 $A_i + 1$로 변한다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/27944.%E2%80%85%EA%B0%80%EC%A7%80%E2%80%85%EC%9D%B4%EB%AA%A8%EC%A7%80/38a7006c.png" data-original-src="https://upload.acmicpc.net/d3ab8f3b-d959-4a7b-8841-3d311c99b53a/-" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="max-width: min(100%,431px); height: auto;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/27944.%E2%80%85%EA%B0%80%EC%A7%80%E2%80%85%EC%9D%B4%EB%AA%A8%EC%A7%80/38a7006c.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/27944.%E2%80%85%EA%B0%80%EC%A7%80%E2%80%85%EC%9D%B4%EB%AA%A8%EC%A7%80/38a7006c.png" data-original-src="https://upload.acmicpc.net/d3ab8f3b-d959-4a7b-8841-3d311c99b53a/-" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="max-width: min(100%,431px); height: auto;" /></p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/27944.%E2%80%85%EA%B0%80%EC%A7%80%E2%80%85%EC%9D%B4%EB%AA%A8%EC%A7%80/a812a4c9.png" data-original-src="https://upload.acmicpc.net/df8d80c5-6d00-4006-9331-2adca3889b66/-" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="max-width: min(100%,431px); height: auto;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/27944.%E2%80%85%EA%B0%80%EC%A7%80%E2%80%85%EC%9D%B4%EB%AA%A8%EC%A7%80/a812a4c9.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/27944.%E2%80%85%EA%B0%80%EC%A7%80%E2%80%85%EC%9D%B4%EB%AA%A8%EC%A7%80/a812a4c9.png" data-original-src="https://upload.acmicpc.net/df8d80c5-6d00-4006-9331-2adca3889b66/-" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="max-width: min(100%,431px); height: auto;" /></p>
 
 <p style="text-align: center;"><small>메시지 아래에 각 이모지와 반응 개수가 적혀 있다. $A=[2,6,8,9,5]$에서 반응 후 $B=[3,6,9,9,6]$이 되었다.</small></p>
 

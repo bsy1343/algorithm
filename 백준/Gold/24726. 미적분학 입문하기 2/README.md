@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/24726.%E2%80%85%EB%AF%B8%EC%A0%81%EB%B6%84%ED%95%99%E2%80%85%EC%9E%85%EB%AC%B8%ED%95%98%EA%B8%B0%E2%80%852/1ebf11fb.png" data-original-src="https://upload.acmicpc.net/c34591e3-29b9-4432-a2e8-42d66117cf59/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 274px; width: 500px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/24726.%E2%80%85%EB%AF%B8%EC%A0%81%EB%B6%84%ED%95%99%E2%80%85%EC%9E%85%EB%AC%B8%ED%95%98%EA%B8%B0%E2%80%852/1ebf11fb.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/24726.%E2%80%85%EB%AF%B8%EC%A0%81%EB%B6%84%ED%95%99%E2%80%85%EC%9E%85%EB%AC%B8%ED%95%98%EA%B8%B0%E2%80%852/1ebf11fb.png" data-original-src="https://upload.acmicpc.net/c34591e3-29b9-4432-a2e8-42d66117cf59/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 274px; width: 500px;" /></p>
 
 <p>연세대학교 1학년 이공계생들은 &quot;미분적분학과벡터해석&quot;, 또는 &quot;공학수학&quot;을 배우게 된다. 해당 과목에서 회전체의 부피에 대한 내용을 배운다. 닫힌&nbsp;구간 $[a,b]$에서의 함수 $r(x)$를 $x$축을 기준으로 회전시켰을 때 나오는 회전체의 부피는 $\displaystyle \pi \int_{a}^{b} \{r(x)\}^2 dx$로 구할 수 있다.</p>
 

@@ -18,13 +18,13 @@
 
 <blockquote><strong>짐은 불멸의 존재이니라!</strong></blockquote>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/29796.%E2%80%85%ED%97%A4%EC%B9%B4%ED%86%A4/70dfc28c.png" data-original-src="https://upload.acmicpc.net/7fbe3f76-d9ba-4516-850c-66684b389338/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 683px; max-width: 100%" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/29796.%E2%80%85%ED%97%A4%EC%B9%B4%ED%86%A4/70dfc28c.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/29796.%E2%80%85%ED%97%A4%EC%B9%B4%ED%86%A4/70dfc28c.png" data-original-src="https://upload.acmicpc.net/7fbe3f76-d9ba-4516-850c-66684b389338/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 683px; max-width: 100%" /></p>
 
 <p>거대한 성의 모습을 가진 매우 강력한 괴물, <strong>헤카톤</strong>과의 전투는 기나긴 전쟁으로 바뀌고 있는 참이다. 막대한 위력 앞에 서 있는 용사들은 이 거대한 적에 맞서기 위해 모든 힘을 쏟아붓고 있다.</p>
 
 <p>월드 레이드 파티의 조사 끝에 헤카톤은 총 $N$곳의 약점을 가지고 있음이 밝혀졌다. 이 약점들은 각자 독립된 체력을 갖고 있으며, 각각에 충분히 많은 데미지를 주고 모든 약점의 체력을 $0$으로 만들어야만 헤카톤을 쓰러뜨릴 수 있다. 지금 $i$번째 약점에서는 $A_i$명의 용사들이 헤카톤을 공격하고 있다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/29796.%E2%80%85%ED%97%A4%EC%B9%B4%ED%86%A4/6403f3e4.png" data-original-src="https://upload.acmicpc.net/36233bad-a3e5-42a1-b4d2-064b38ee2101/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="image-rendering: pixelated;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/29796.%E2%80%85%ED%97%A4%EC%B9%B4%ED%86%A4/6403f3e4.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/29796.%E2%80%85%ED%97%A4%EC%B9%B4%ED%86%A4/6403f3e4.png" data-original-src="https://upload.acmicpc.net/36233bad-a3e5-42a1-b4d2-064b38ee2101/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="image-rendering: pixelated;" /></p>
 
 <p>그러나 헤카톤을 공격하고 있던 <strong>싶프트</strong>는 이상한 상황을 발견했다. 많은 용사들이 체력이 이미 많이 소진된 약점에 집중되어 있었고, 오히려 체력이 아직 꽤 남아 있는 약점에는 공격하는 용사가 거의 없는 상황이었던 것이다.</p>
 

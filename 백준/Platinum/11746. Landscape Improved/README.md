@@ -25,8 +25,8 @@
 <table class="table">
 	<tbody>
 		<tr>
-			<td style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/11746.%E2%80%85Landscape%E2%80%85Improved/0c0d768c.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11746/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:94px; width:163px" /></td>
-			<td style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/11746.%E2%80%85Landscape%E2%80%85Improved/0e8df47e.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11746/2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:107px; width:161px" /></td>
+			<td style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/11746.%E2%80%85Landscape%E2%80%85Improved/0c0d768c.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/11746.%E2%80%85Landscape%E2%80%85Improved/0c0d768c.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11746/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:94px; width:163px" /></td>
+			<td style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/11746.%E2%80%85Landscape%E2%80%85Improved/0e8df47e.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/11746.%E2%80%85Landscape%E2%80%85Improved/0e8df47e.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11746/2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:107px; width:161px" /></td>
 		</tr>
 		<tr>
 			<td style="text-align:center">Existing landscape</td>

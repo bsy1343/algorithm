@@ -38,7 +38,7 @@
 
 ### 힌트
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/10127.%E2%80%85criminals/5d686d08.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/10127/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:146px; width:720px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/10127.%E2%80%85criminals/5d686d08.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/10127.%E2%80%85criminals/5d686d08.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/10127/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:146px; width:720px" /></p>
 
 <p>In above example, the bandits may live in houses of color 2(Bitie in the house no. 1 or 4, Bytie in the house no. 15) or 6(Bitie in the house no. 3, Bytie in the house no. 14). Whether he lived in the house no. 1 or 4, Bitie could rob the following houses: 5 (of color 4), 6 (of color 7), and then either 7, 8 or 10 (of color 3). Bitie could rob the following houses: 12 (of color 5), meeting Bitie afterwards in either of 7, 8 or 10 (of color 3). The figure above depicts a scenario in which Bitie lives in the house no. 1 and the robbers meet in the house no. 8.</p>
 

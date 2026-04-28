@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/14625.%E2%80%85%EB%83%89%EB%8F%99%EC%8B%9D%ED%92%88/7b772371.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14625/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:300px; width:300px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/14625.%E2%80%85%EB%83%89%EB%8F%99%EC%8B%9D%ED%92%88/7b772371.png" data-original-src="%EB%B0%B1%EC%A4%80/Bronze/14625.%E2%80%85%EB%83%89%EB%8F%99%EC%8B%9D%ED%92%88/7b772371.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14625/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:300px; width:300px" /></p>
 
 <p>자취 1년 차인 지민이는 냉동식품을 사랑한다.</p>
 

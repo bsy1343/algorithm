@@ -18,11 +18,11 @@
 
 <p>유치원생 파댕이는 아직 어리기 때문에 단것을 매우 좋아한다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/30979.%E2%80%85%EC%9C%A0%EC%B9%98%EC%9B%90%EC%83%9D%E2%80%85%ED%8C%8C%EB%8C%95%EC%9D%B4%E2%80%85%EB%8F%8C%EB%B3%B4%EA%B8%B0/885b2b54.png" data-original-src="https://upload.acmicpc.net/3e15c0ec-3db2-4bf7-ad17-d8f419520591/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 221px; width: 256px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/30979.%E2%80%85%EC%9C%A0%EC%B9%98%EC%9B%90%EC%83%9D%E2%80%85%ED%8C%8C%EB%8C%95%EC%9D%B4%E2%80%85%EB%8F%8C%EB%B3%B4%EA%B8%B0/885b2b54.png" data-original-src="%EB%B0%B1%EC%A4%80/Bronze/30979.%E2%80%85%EC%9C%A0%EC%B9%98%EC%9B%90%EC%83%9D%E2%80%85%ED%8C%8C%EB%8C%95%EC%9D%B4%E2%80%85%EB%8F%8C%EB%B3%B4%EA%B8%B0/885b2b54.png" data-original-src="https://upload.acmicpc.net/3e15c0ec-3db2-4bf7-ad17-d8f419520591/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 221px; width: 256px;" /></p>
 
 <p>또한, 파댕이는 사탕을 주지 않으면 시도 때도 없이 울곤 한다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/30979.%E2%80%85%EC%9C%A0%EC%B9%98%EC%9B%90%EC%83%9D%E2%80%85%ED%8C%8C%EB%8C%95%EC%9D%B4%E2%80%85%EB%8F%8C%EB%B3%B4%EA%B8%B0/535c7680.png" data-original-src="https://upload.acmicpc.net/10984a1d-ee07-4d12-be63-dfc2bf93557a/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 221px; width: 256px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/30979.%E2%80%85%EC%9C%A0%EC%B9%98%EC%9B%90%EC%83%9D%E2%80%85%ED%8C%8C%EB%8C%95%EC%9D%B4%E2%80%85%EB%8F%8C%EB%B3%B4%EA%B8%B0/535c7680.png" data-original-src="%EB%B0%B1%EC%A4%80/Bronze/30979.%E2%80%85%EC%9C%A0%EC%B9%98%EC%9B%90%EC%83%9D%E2%80%85%ED%8C%8C%EB%8C%95%EC%9D%B4%E2%80%85%EB%8F%8C%EB%B3%B4%EA%B8%B0/535c7680.png" data-original-src="https://upload.acmicpc.net/10984a1d-ee07-4d12-be63-dfc2bf93557a/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 221px; width: 256px;" /></p>
 
 <p>파댕이를 사랑하는 여러분은 일정 시간 동안 파댕이를 돌봐주기로 했다. 여러분은 파댕이를 돌보는 동안 파댕이가 우는 것을 보고 싶지 않기에, 파댕이가 울지 않도록 사탕을 챙겨왔다. 하지만 파댕이를 빨리 보고 싶은 마음에 급하게 사탕을 챙기느라, 돌보는 동안 파댕이가 울지 않게 만들 수 있는 충분한 사탕의 개수인지 확인하지 못했다. 여러분이 가지고 있는 사탕으로 파댕이를 돌보는 동안 파댕이를 울지 않게 만들 수 있는지 알아보자!</p>
 

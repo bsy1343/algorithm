@@ -26,7 +26,7 @@
 
 <p>한 멀티 컴퓨터 시스템의 상호 접속 네트워크가 주어졌을 때, 이 시스템을 링 과/또는 선형 배열로 분해해서 가치를 최대로 하는 프로그램을 작성하시오. 노드를 1개만 가지는 선형 배열도 존재할 수 있다. 이때, 가치는 0 달러이다.</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/3295.%E2%80%85%EB%8B%A8%EB%B0%A9%ED%96%A5%E2%80%85%EB%A7%81%ED%81%AC%E2%80%85%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/68e76798.png" data-original-src="https://www.acmicpc.net/upload/images/interconn.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:305px; width:365px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/3295.%E2%80%85%EB%8B%A8%EB%B0%A9%ED%96%A5%E2%80%85%EB%A7%81%ED%81%AC%E2%80%85%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/68e76798.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/3295.%E2%80%85%EB%8B%A8%EB%B0%A9%ED%96%A5%E2%80%85%EB%A7%81%ED%81%AC%E2%80%85%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/68e76798.png" data-original-src="https://www.acmicpc.net/upload/images/interconn.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:305px; width:365px" /></p>
 
 <p><strong>그림 1</strong>. 상호 연결 네트워크를 노드 6개로 이루어진 링 (빨간색)과 노드 8개로 이루어진 선형 배열 (초록색) 으로 분해한 그림이다. 이 분해의 총 가치는 13달러이고, 이 값은 가능한 방법중 최댓값이다.</p>
 

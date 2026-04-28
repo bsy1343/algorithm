@@ -18,7 +18,7 @@
 
 <p>A fundamental operation in computational geometry is determining whether two objects touch. For example, in a game that involves shooting, we want to determine if a player&rsquo;s shot hits a target. A shot is a two dimensional point, and a target is a two dimensional enclosed area. A shot hits a target if it is inside the target. The boundary of a target is inside the target. Since it is possible for targets to overlap, we want to identify how many targets a shot hits.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/10497.%E2%80%85Hitting%E2%80%85the%E2%80%85Targets/d0565ced.png" data-original-src="https://www.acmicpc.net/upload/images2/hitting.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:217px; width:264px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/10497.%E2%80%85Hitting%E2%80%85the%E2%80%85Targets/d0565ced.png" data-original-src="%EB%B0%B1%EC%A4%80/Bronze/10497.%E2%80%85Hitting%E2%80%85the%E2%80%85Targets/d0565ced.png" data-original-src="https://www.acmicpc.net/upload/images2/hitting.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:217px; width:264px" /></p>
 
 <p>The figure above illustrates the targets (large unfilled rectangles and circles) and shots (filled circles) of the sample input. The origin (0, 0) is indicated by a small unfilled circle near the center.</p>
 

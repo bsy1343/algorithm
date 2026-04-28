@@ -20,7 +20,7 @@
 
 <p>Dependendo do valor de k, Fernando pode ou n&atilde;o atingir todos os pontos marcados sobre a circunfer&ecirc;ncia; quando isto acontece, a estrela &eacute; chamada de completa. Por exemplo, quando N = 8, as poss&iacute;veis estrelas s&atilde;o as mostradas no desenho abaixo; as estrelas (a) e (c) s&atilde;o completas, enquanto as estrelas (b) e (d) n&atilde;o o s&atilde;o.</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/13646.%E2%80%85Estrela/e8d78ab5.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/13646/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202017-01-05%20%EC%98%A4%ED%9B%84%209.40.59.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:148px; width:609px" />Dependendo do valor de N, pode ser poss&iacute;vel desenhar muitas estrelas diferentes; Fernando pediu que voc&ecirc; escrevesse um programa que, dado N, determina o n&uacute;mero de estrelas completas que ele pode desenhar.</p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/13646.%E2%80%85Estrela/e8d78ab5.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/13646.%E2%80%85Estrela/e8d78ab5.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/13646/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202017-01-05%20%EC%98%A4%ED%9B%84%209.40.59.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:148px; width:609px" />Dependendo do valor de N, pode ser poss&iacute;vel desenhar muitas estrelas diferentes; Fernando pediu que voc&ecirc; escrevesse um programa que, dado N, determina o n&uacute;mero de estrelas completas que ele pode desenhar.</p>
 
 ### 입력
 

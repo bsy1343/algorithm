@@ -18,7 +18,7 @@
 
 <p>Slot machines are popular game machines in casinos. The slot machine we are considering has six places where a figure appears. By combination of figures, one may earn or lose money. There are ten kinds of figures, so we will represent a figure with a number between 0 and 9. Then we can use a six-digit number <em>w</em> = <em>w</em><sub>1</sub><em>w</em><sub>2</sub><em>w</em><sub>3</sub><em>w</em><sub>4</sub><em>w</em><sub>5</sub><em>w</em><sub>6</sub> where 0 &le; <em>w</em><sub>1</sub>, <em>w</em><sub>2</sub>, <em>w</em><sub>3</sub>, <em>w</em><sub>4</sub>, <em>w</em><sub>5</sub>, <em>w</em><sub>6</sub> &le; 9 to represent one possible outcome of the slot machine.</p>
 
-<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/14959.%E2%80%85Slot%E2%80%85Machines/34f409c8.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14959/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:140px; width:175px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/14959.%E2%80%85Slot%E2%80%85Machines/34f409c8.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/14959.%E2%80%85Slot%E2%80%85Machines/34f409c8.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14959/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:140px; width:175px" /></p>
 
 <p style="text-align:center">Figure I.1. The layout of a slot machine.</p>
 

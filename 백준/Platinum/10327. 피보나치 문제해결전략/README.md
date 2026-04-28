@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/10327.%E2%80%85%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98%E2%80%85%EB%AC%B8%EC%A0%9C%ED%95%B4%EA%B2%B0%EC%A0%84%EB%9E%B5/de68e6df.png" data-original-src="https://www.acmicpc.net/upload/images2/crime_scene.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="float:right; height:425px; width:286px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/10327.%E2%80%85%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98%E2%80%85%EB%AC%B8%EC%A0%9C%ED%95%B4%EA%B2%B0%EC%A0%84%EB%9E%B5/de68e6df.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/10327.%E2%80%85%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98%E2%80%85%EB%AC%B8%EC%A0%9C%ED%95%B4%EA%B2%B0%EC%A0%84%EB%9E%B5/de68e6df.png" data-original-src="https://www.acmicpc.net/upload/images2/crime_scene.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="float:right; height:425px; width:286px" /></p>
 
 <p>피보나치 수열의 매력에 빠진 현욱이는 피보나치 수열을 너무나도 사랑한 나머지 &#39;피보나치 문제해결전략&#39; 책을 사서 읽다가 Gabonacci 수열의 존재에 대해 알게 된다.</p>
 

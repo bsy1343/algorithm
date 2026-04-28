@@ -16,13 +16,13 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/28130.%E2%80%85%EC%8A%88%EB%84%AC%EC%B9%98%ED%82%A8%E2%80%85%EB%9E%91%EB%8D%B0%EB%B6%80/375e5869.png" data-original-src="https://upload.acmicpc.net/33a94f0e-bc13-4f6e-9541-5d1bc8a8ac1b/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 400px; height: 400px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/28130.%E2%80%85%EC%8A%88%EB%84%AC%EC%B9%98%ED%82%A8%E2%80%85%EB%9E%91%EB%8D%B0%EB%B6%80/375e5869.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/28130.%E2%80%85%EC%8A%88%EB%84%AC%EC%B9%98%ED%82%A8%E2%80%85%EB%9E%91%EB%8D%B0%EB%B6%80/375e5869.png" data-original-src="https://upload.acmicpc.net/33a94f0e-bc13-4f6e-9541-5d1bc8a8ac1b/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 400px; height: 400px;" /></p>
 
 <p style="text-align: center;"><em>슈넬치킨을 먹는 것이 군생활의 낙인 말년 병장 선우는 나쁜 짓을 저질렀다. 이에 선우는 군장을 메고 연병장을 도는 벌을 받게 되는데...</em></p>
 
 <p>한 칸의 크기가 $1$이고 가장 왼쪽 위 좌표가 $(1,1)$, 가장 오른쪽 아래의 좌표가 $(N,M)$인 $N&times;M$ 크기의 연병장이 있다. 선우는 이 연병장의 가장자리를 돌아야 한다. 가장자리의 좌표는 $(i,1), (i,M)$ $(1\leq i\leq N)$ 과 $(1,j), (N,j)$ $(1\leq j\leq M)$로 표현할 수 있다. 가장자리를 제외한 연병장의 나머지 부분은 연병장의 안쪽으로 분류한다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/28130.%E2%80%85%EC%8A%88%EB%84%AC%EC%B9%98%ED%82%A8%E2%80%85%EB%9E%91%EB%8D%B0%EB%B6%80/d08e92cf.png" data-original-src="https://upload.acmicpc.net/46384e23-8e92-459b-b1ee-2e8ab3285380/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/28130.%E2%80%85%EC%8A%88%EB%84%AC%EC%B9%98%ED%82%A8%E2%80%85%EB%9E%91%EB%8D%B0%EB%B6%80/d08e92cf.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/28130.%E2%80%85%EC%8A%88%EB%84%AC%EC%B9%98%ED%82%A8%E2%80%85%EB%9E%91%EB%8D%B0%EB%B6%80/d08e92cf.png" data-original-src="https://upload.acmicpc.net/46384e23-8e92-459b-b1ee-2e8ab3285380/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p style="text-align: center;">[그림 1] $N=M=8$인 상황에서 선우와 상혁이의 상황이다. 빨간색 구역은 연병장의 가장자리, 초록색 구역은 연병장의 안쪽을 나타낸다.</p>
 

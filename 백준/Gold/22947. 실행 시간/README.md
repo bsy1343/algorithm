@@ -20,7 +20,7 @@
 
 <p>하나의 작업의&nbsp;실행이 끝나면 다음 작업들에&nbsp;신호를 준다. 신호를 받은 작업의 실행 조건은 이전 작업들로 부터 신호를 다 받았을 때만 실행할 수 있다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/22947.%E2%80%85%EC%8B%A4%ED%96%89%E2%80%85%EC%8B%9C%EA%B0%84/ff5ef32b.png" data-original-src="https://upload.acmicpc.net/d1d87a7e-1a53-4079-87cb-1c2d13e81240/-/crop/1235x898/344,92/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 364px; width: 500px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/22947.%E2%80%85%EC%8B%A4%ED%96%89%E2%80%85%EC%8B%9C%EA%B0%84/ff5ef32b.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/22947.%E2%80%85%EC%8B%A4%ED%96%89%E2%80%85%EC%8B%9C%EA%B0%84/ff5ef32b.png" data-original-src="https://upload.acmicpc.net/d1d87a7e-1a53-4079-87cb-1c2d13e81240/-/crop/1235x898/344,92/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 364px; width: 500px;" /></p>
 
 <p>위 그림과&nbsp;같이 작업 $A$, $B$, $C$, $D$, $E$가 있고 작업의&nbsp;순서가 정해져있다. 맨 처음에 작업 $A$을 실행하여 작업 $E$까지&nbsp;실행한다. 이때, 작업 $A$와 같이 맨 처음에 시작해야하는 작업과 작업 $E$와 같이 맨 마지막으로 실행되는 작업은 반드시 하나가 존재한다.</p>
 

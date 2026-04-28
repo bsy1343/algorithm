@@ -18,11 +18,11 @@
 
 <p>You are to input a string with an OSK (on-screen keyboard). A remote control with five buttons, four arrows and an OK (Fig. B-1), is used for the OSK. Find the minimum number of button presses required to input a given string with the given OSK.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/17578.%E2%80%85On-Screen%E2%80%85Keyboard/46035938.png" data-original-src="https://upload.acmicpc.net/d2188645-f726-4f5f-820b-5b8d1a3ef878/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/17578.%E2%80%85On-Screen%E2%80%85Keyboard/46035938.png" data-original-src="%EB%B0%B1%EC%A4%80/Bronze/17578.%E2%80%85On-Screen%E2%80%85Keyboard/46035938.png" data-original-src="https://upload.acmicpc.net/d2188645-f726-4f5f-820b-5b8d1a3ef878/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p style="text-align: center;">Fig. B-1 Remote control</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/17578.%E2%80%85On-Screen%E2%80%85Keyboard/9c4a21e1.png" data-original-src="https://upload.acmicpc.net/ecc7fd82-c13f-423a-a227-c892b2111df2/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/17578.%E2%80%85On-Screen%E2%80%85Keyboard/9c4a21e1.png" data-original-src="%EB%B0%B1%EC%A4%80/Bronze/17578.%E2%80%85On-Screen%E2%80%85Keyboard/9c4a21e1.png" data-original-src="https://upload.acmicpc.net/ecc7fd82-c13f-423a-a227-c892b2111df2/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p style="text-align: center;">Fig. B-2 An on-screen keyboard</p>
 
@@ -37,22 +37,22 @@
 	<tbody>
 		<tr>
 			<td align="center"><code>I</code></td>
-			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/17578.%E2%80%85On-Screen%E2%80%85Keyboard/fb09eabd.png" data-original-src="https://upload.acmicpc.net/0cffd2f5-ab24-4dcc-9728-f92ff7706bfe/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></td>
+			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/17578.%E2%80%85On-Screen%E2%80%85Keyboard/fb09eabd.png" data-original-src="%EB%B0%B1%EC%A4%80/Bronze/17578.%E2%80%85On-Screen%E2%80%85Keyboard/fb09eabd.png" data-original-src="https://upload.acmicpc.net/0cffd2f5-ab24-4dcc-9728-f92ff7706bfe/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></td>
 			<td>&rarr;,&rarr;,&rarr;,&rarr;,&rarr;,&rarr;,&rarr;,&rarr;,OK (9 presses)</td>
 		</tr>
 		<tr>
 			<td align="center"><code>C</code></td>
-			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/17578.%E2%80%85On-Screen%E2%80%85Keyboard/7a955ab2.png" data-original-src="https://upload.acmicpc.net/d0a2edb6-6950-4bf1-94bb-17f790989cfb/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></td>
+			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/17578.%E2%80%85On-Screen%E2%80%85Keyboard/7a955ab2.png" data-original-src="%EB%B0%B1%EC%A4%80/Bronze/17578.%E2%80%85On-Screen%E2%80%85Keyboard/7a955ab2.png" data-original-src="https://upload.acmicpc.net/d0a2edb6-6950-4bf1-94bb-17f790989cfb/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></td>
 			<td>&larr;,&larr;,&larr;,&larr;,&larr;,&larr;,OK (7 presses)</td>
 		</tr>
 		<tr>
 			<td align="center"><code>P</code></td>
-			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/17578.%E2%80%85On-Screen%E2%80%85Keyboard/f50c2378.png" data-original-src="https://upload.acmicpc.net/11087df6-033e-4122-ab7e-efc82800fe97/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></td>
+			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/17578.%E2%80%85On-Screen%E2%80%85Keyboard/f50c2378.png" data-original-src="%EB%B0%B1%EC%A4%80/Bronze/17578.%E2%80%85On-Screen%E2%80%85Keyboard/f50c2378.png" data-original-src="https://upload.acmicpc.net/11087df6-033e-4122-ab7e-efc82800fe97/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></td>
 			<td>&darr;,&rarr;,&rarr;,&rarr;,&rarr;,OK (6 presses)</td>
 		</tr>
 		<tr>
 			<td align="center"><code>C</code></td>
-			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/17578.%E2%80%85On-Screen%E2%80%85Keyboard/fade9784.png" data-original-src="https://upload.acmicpc.net/0c1257c6-e5dd-42c4-b0f7-20654c6ba366/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></td>
+			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/17578.%E2%80%85On-Screen%E2%80%85Keyboard/fade9784.png" data-original-src="%EB%B0%B1%EC%A4%80/Bronze/17578.%E2%80%85On-Screen%E2%80%85Keyboard/fade9784.png" data-original-src="https://upload.acmicpc.net/0c1257c6-e5dd-42c4-b0f7-20654c6ba366/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></td>
 			<td>&uarr;,&larr;,&larr;,&larr;,&larr;,OK (6 presses)</td>
 		</tr>
 	</tbody>

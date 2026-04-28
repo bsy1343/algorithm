@@ -26,13 +26,13 @@
 
 <p>たとえば，砂漠の大きさが W = 7, H = 6 であり，区画 (2, 1) を中心とする高さ 3 のピラミッ ドを作った場合，各区画に積まれている石の数は以下のようになる．</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/24129.%E2%80%85%E8%B2%AB%E3%81%8D%E3%83%94%E3%83%A9%E3%83%9F%E3%83%83%E3%83%89%E2%80%85(Pyramid)/5a779dd8.png" data-original-src="https://upload.acmicpc.net/2c9bb675-14d6-4f3a-90c0-c95f7a241b55/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 173px; height: 142px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/24129.%E2%80%85%E8%B2%AB%E3%81%8D%E3%83%94%E3%83%A9%E3%83%9F%E3%83%83%E3%83%89%E2%80%85(Pyramid)/5a779dd8.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/24129.%E2%80%85%E8%B2%AB%E3%81%8D%E3%83%94%E3%83%A9%E3%83%9F%E3%83%83%E3%83%89%E2%80%85(Pyramid)/5a779dd8.png" data-original-src="https://upload.acmicpc.net/2c9bb675-14d6-4f3a-90c0-c95f7a241b55/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 173px; height: 142px;" /></p>
 
 <p>しかし，JOI 王国はそれほど広くはないため，ピラミッドは過去のピラミッドと「重なって」 作られることもある．すなわち，新たにピラミッドを作ろうとしてある区画に n 個の石を積む ことになった場合に，その区画に既に n 個以上の石が積まれていた場合は，その区画には何も しない．一方，その区画にまだ n 個未満しか石が積まれていなかった場合は，その区画に積ま れている石の数を n 個まで増やす．</p>
 
 <p>そのため，多数のピラミッドが作られた末の見た目は複雑となる．たとえば上図の状態で，さ らに区画 (4, 3) を中心とする高さ 4 のピラミッドを作ると，各区画に積まれている石の数は以下 のようになる．</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/24129.%E2%80%85%E8%B2%AB%E3%81%8D%E3%83%94%E3%83%A9%E3%83%9F%E3%83%83%E3%83%89%E2%80%85(Pyramid)/1bb49f86.png" data-original-src="https://upload.acmicpc.net/6862630d-98f7-40ab-adf2-38976a7be949/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 173px; height: 142px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/24129.%E2%80%85%E8%B2%AB%E3%81%8D%E3%83%94%E3%83%A9%E3%83%9F%E3%83%83%E3%83%89%E2%80%85(Pyramid)/1bb49f86.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/24129.%E2%80%85%E8%B2%AB%E3%81%8D%E3%83%94%E3%83%A9%E3%83%9F%E3%83%83%E3%83%89%E2%80%85(Pyramid)/1bb49f86.png" data-original-src="https://upload.acmicpc.net/6862630d-98f7-40ab-adf2-38976a7be949/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 173px; height: 142px;" /></p>
 
 <p>さて，考古学者であるあなたは，一体どれほどの数の石がピラミッドの建設に用いられてい るかを知りたくなった．</p>
 

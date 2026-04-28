@@ -22,7 +22,7 @@
 
 <p>For example, consider the mountain in the picture below, which has N = 6 landmarks. If your friends are in landmarks 5 and 2, you can visit both if you follow the sequence of landmarks 1 &darr; 2 &uarr; 1 &darr; 3 &darr; 5, where a &darr; b means that you go down a track from landmark a to landmark b, and a &uarr; b means that you climb a track from landmark a to landmark b. Another possible sequence is 1 &darr; 3 &darr; 5 &uarr; 3 &uarr; 1 &darr; 2.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/10403.%E2%80%85Intrepid%E2%80%85climber/33b40253.png" data-original-src="https://www.acmicpc.net/upload/images2/intrepid.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:158px; width:166px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/10403.%E2%80%85Intrepid%E2%80%85climber/33b40253.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/10403.%E2%80%85Intrepid%E2%80%85climber/33b40253.png" data-original-src="https://www.acmicpc.net/upload/images2/intrepid.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:158px; width:166px" /></p>
 
 <p>Given the tracks between the landmarks, the energy required to climb them, and the landmarks where your friends are, compute the minimum total amount of energy required to visit all your friends from the top of the mountain.</p>
 

@@ -34,4 +34,4 @@
 
 ### 힌트
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/7915.%E2%80%85Cave/92d6d44b.png" data-original-src="https://upload.acmicpc.net/c16bb56b-ad7a-4169-bd20-6d84533bb510/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 227px; height: 299px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/7915.%E2%80%85Cave/92d6d44b.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/7915.%E2%80%85Cave/92d6d44b.png" data-original-src="https://upload.acmicpc.net/c16bb56b-ad7a-4169-bd20-6d84533bb510/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 227px; height: 299px;" /></p>

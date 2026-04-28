@@ -32,7 +32,7 @@
 
 <p>Input is a set of (x, y) coordinates of plants. Suppose A with the coordinates (x<sub>A</sub>, y<sub>A</sub>) is the plant with the least ycoordinate. M11 starts from point (0,y<sub>A</sub>) heading towards plant A. Notice that the solution path should not cross itself and all of the turns should be counter-clockwise. Also note that the solution may visit more than two plants located on a same straight line.</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/7341.%E2%80%85Space%E2%80%85Ant/b939dc70.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/7341/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-09-22%20%EC%98%A4%EC%A0%84%208.09.52.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:233px; width:380px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/7341.%E2%80%85Space%E2%80%85Ant/b939dc70.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/7341.%E2%80%85Space%E2%80%85Ant/b939dc70.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/7341/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-09-22%20%EC%98%A4%EC%A0%84%208.09.52.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:233px; width:380px" /></p>
 
 ### 입력
 

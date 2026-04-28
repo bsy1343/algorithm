@@ -18,7 +18,7 @@
 
 <p>$N$마리의 정령들이 원형으로 둘러앉아서 색칠놀이를 하려고 한다. 각 정령들은 $1, 2, \cdot\cdot\cdot, N$번의 번호가 붙어있고, $i$번 정령의 색은 $i$이다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/31585.%E2%80%851-Color%E2%80%85Coloring/7230453f.png" data-original-src="https://upload.acmicpc.net/3660e080-bdcd-46fe-9cde-28017b8dd79a/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 260px; width: 300px;" /><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/31585.%E2%80%851-Color%E2%80%85Coloring/862892f8.png" data-original-src="https://upload.acmicpc.net/061bbbce-8206-460c-a7b5-492fdf1b299a/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 260px; width: 300px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/31585.%E2%80%851-Color%E2%80%85Coloring/7230453f.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/31585.%E2%80%851-Color%E2%80%85Coloring/7230453f.png" data-original-src="https://upload.acmicpc.net/3660e080-bdcd-46fe-9cde-28017b8dd79a/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 260px; width: 300px;" /><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/31585.%E2%80%851-Color%E2%80%85Coloring/862892f8.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/31585.%E2%80%851-Color%E2%80%85Coloring/862892f8.png" data-original-src="https://upload.acmicpc.net/061bbbce-8206-460c-a7b5-492fdf1b299a/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 260px; width: 300px;" /></p>
 
 <p>각 정령들은 시계방향을 기준으로 다음 위치에 있는 정령을 바라보고 있으며 항상 자신이 바라보는 정령을 색칠한다. $A$번 색을 가진 정령이 다른 정령을 색칠한다면, 그 정령의 색은 현재 $A$번 정령의 색과 똑같아진다. 위 그림에서 1번 정령이 4번 정령을 색칠하면 4번 정령의 색이 노란색(1번 색)이 된다.</p>
 
@@ -26,7 +26,7 @@
 
 <p>재율이는 유현이를 통해 정령들에게 앞에 있는 정령을 색칠하라는 지시를 내릴 수 있다. 그러면 각 정령들은 자신의 앞에 있는 정령을 자신의 색으로 칠한다. 허나 유현이는 한 번에 최대 한 마리의 정령에게만 지시를 내릴 수 있다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/31585.%E2%80%851-Color%E2%80%85Coloring/136b427d.png" data-original-src="https://upload.acmicpc.net/f102ebca-0d6c-43ba-b72b-3bec230f5496/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 260px; width: 300px;" /><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/31585.%E2%80%851-Color%E2%80%85Coloring/692af152.png" data-original-src="https://upload.acmicpc.net/63247909-f459-4523-905d-fcdbe0a958f7/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 260px; width: 300px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/31585.%E2%80%851-Color%E2%80%85Coloring/136b427d.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/31585.%E2%80%851-Color%E2%80%85Coloring/136b427d.png" data-original-src="https://upload.acmicpc.net/f102ebca-0d6c-43ba-b72b-3bec230f5496/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 260px; width: 300px;" /><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/31585.%E2%80%851-Color%E2%80%85Coloring/692af152.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/31585.%E2%80%851-Color%E2%80%85Coloring/692af152.png" data-original-src="https://upload.acmicpc.net/63247909-f459-4523-905d-fcdbe0a958f7/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 260px; width: 300px;" /></p>
 
 <p>앞선 상황에서 3번 정령에게 지시를 내리면 왼쪽 그림과 같은 상황이 되며, 그 후 4, 5번 정령에게 지시를 내리면 오른쪽 그림과 같은 상황이 된다.</p>
 

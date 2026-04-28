@@ -23,8 +23,8 @@
 <table class="table table-bordered td-center">
 	<tbody>
 		<tr>
-			<td style="width: 50%;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/24565.%E2%80%85Stable%E2%80%85Table/c60ff99e.png" data-original-src="https://upload.acmicpc.net/7bf26d3d-1cc5-488e-bc68-062096ea7d82/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 295px; height: 200px;" /></td>
-			<td style="width: 50%;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/24565.%E2%80%85Stable%E2%80%85Table/972be54d.png" data-original-src="https://upload.acmicpc.net/3ca76993-e27c-4b35-b58e-ff642461f5cc/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 296px; height: 200px;" /></td>
+			<td style="width: 50%;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/24565.%E2%80%85Stable%E2%80%85Table/c60ff99e.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/24565.%E2%80%85Stable%E2%80%85Table/c60ff99e.png" data-original-src="https://upload.acmicpc.net/7bf26d3d-1cc5-488e-bc68-062096ea7d82/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 295px; height: 200px;" /></td>
+			<td style="width: 50%;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/24565.%E2%80%85Stable%E2%80%85Table/972be54d.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/24565.%E2%80%85Stable%E2%80%85Table/972be54d.png" data-original-src="https://upload.acmicpc.net/3ca76993-e27c-4b35-b58e-ff642461f5cc/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 296px; height: 200px;" /></td>
 		</tr>
 		<tr>
 			<td style="width: 50%;">(a) Original rectangular block</td>

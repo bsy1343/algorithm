@@ -28,7 +28,7 @@
 	<li>리프 노드가 아니면서 MIN player인 노드의 값은 자식 노드의 값들 중 최솟값으로 계산한다.</li>
 </ul>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/28472.%E2%80%85Minimax%E2%80%85Tree/456c83aa.png" data-original-src="https://upload.acmicpc.net/417730d0-a05f-48f8-8627-c7259d73a109/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 300px; height: 185px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/28472.%E2%80%85Minimax%E2%80%85Tree/456c83aa.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/28472.%E2%80%85Minimax%E2%80%85Tree/456c83aa.png" data-original-src="https://upload.acmicpc.net/417730d0-a05f-48f8-8627-c7259d73a109/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 300px; height: 185px;" /></p>
 
 <p>수민이는 친구와 게임을 하기로 하였다. 게임에서 이기면 받은 점수만큼 상품을 주기로 한다. 수민이는 최대한의 상품을 얻기 위해 인공지능 수업에서 배운 Minimax 트리를 그려 최적의 전략을 찾아 놓았다. 하지만 친구가 이를 눈치채고 트리에 있는 숫자들에 색칠을 하여 수민이를 방해하기 시작하였다. 그래도 일말의 양심은 남아있어 리프 노드는 건들지 않아서 값을 알 수 있다고 한다. Minimax 트리를 완성시켜 주기로 하자. 값을 구해야 할 노드들이 주어지면 그 노드의 값을 출력해 보자.</p>
 

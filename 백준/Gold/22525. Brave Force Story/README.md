@@ -36,7 +36,7 @@
 
 <p>マスに割り当てられた座標は下の図のようになっている．</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/22525.%E2%80%85Brave%E2%80%85Force%E2%80%85Story/6c9ebb9c.png" data-original-src="https://upload.acmicpc.net/96f5f719-d1b9-424b-9f53-a5ef41f744fd/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 378px; height: 340px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/22525.%E2%80%85Brave%E2%80%85Force%E2%80%85Story/6c9ebb9c.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/22525.%E2%80%85Brave%E2%80%85Force%E2%80%85Story/6c9ebb9c.png" data-original-src="https://upload.acmicpc.net/96f5f719-d1b9-424b-9f53-a5ef41f744fd/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 378px; height: 340px;" /></p>
 
 <p style="text-align: center;">図B-1 マスに割り当てられた座標</p>
 
@@ -44,7 +44,7 @@
 
 <p>いずれの座標も絶対値が30以下である． ターン数は1以上30以下である． 障害物の数は0以上300以下である．</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/22525.%E2%80%85Brave%E2%80%85Force%E2%80%85Story/19078ec5.png" data-original-src="https://upload.acmicpc.net/a3677f4d-0be3-4324-95d6-7eef302d3a9d/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 492px; height: 340px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/22525.%E2%80%85Brave%E2%80%85Force%E2%80%85Story/19078ec5.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/22525.%E2%80%85Brave%E2%80%85Force%E2%80%85Story/19078ec5.png" data-original-src="https://upload.acmicpc.net/a3677f4d-0be3-4324-95d6-7eef302d3a9d/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 492px; height: 340px;" /></p>
 
 <p style="text-align: center;">図B-2 Sample Input の1つ目のデータセット</p>
 

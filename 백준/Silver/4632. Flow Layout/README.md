@@ -23,9 +23,9 @@
 <table class="table">
 	<tbody>
 		<tr>
-			<td><img alt="insert 10x5 rectangle" src="%EB%B0%B1%EC%A4%80/Silver/4632.%E2%80%85Flow%E2%80%85Layout/1a3cb46b.gif" data-original-src="https://www.acmicpc.net/upload/images2/fig1a.gif" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></td>
-			<td><img alt="insert 20x12 rectangle" src="%EB%B0%B1%EC%A4%80/Silver/4632.%E2%80%85Flow%E2%80%85Layout/eacc9041.gif" data-original-src="https://www.acmicpc.net/upload/images2/fig1b.gif" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></td>
-			<td><img alt="insert 8x13 rectangle" src="%EB%B0%B1%EC%A4%80/Silver/4632.%E2%80%85Flow%E2%80%85Layout/9d0bb5a9.gif" data-original-src="https://www.acmicpc.net/upload/images2/fig1c.gif" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></td>
+			<td><img alt="insert 10x5 rectangle" src="%EB%B0%B1%EC%A4%80/Silver/4632.%E2%80%85Flow%E2%80%85Layout/1a3cb46b.gif" data-original-src="%EB%B0%B1%EC%A4%80/Silver/4632.%E2%80%85Flow%E2%80%85Layout/1a3cb46b.gif" data-original-src="https://www.acmicpc.net/upload/images2/fig1a.gif" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></td>
+			<td><img alt="insert 20x12 rectangle" src="%EB%B0%B1%EC%A4%80/Silver/4632.%E2%80%85Flow%E2%80%85Layout/eacc9041.gif" data-original-src="%EB%B0%B1%EC%A4%80/Silver/4632.%E2%80%85Flow%E2%80%85Layout/eacc9041.gif" data-original-src="https://www.acmicpc.net/upload/images2/fig1b.gif" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></td>
+			<td><img alt="insert 8x13 rectangle" src="%EB%B0%B1%EC%A4%80/Silver/4632.%E2%80%85Flow%E2%80%85Layout/9d0bb5a9.gif" data-original-src="%EB%B0%B1%EC%A4%80/Silver/4632.%E2%80%85Flow%E2%80%85Layout/9d0bb5a9.gif" data-original-src="https://www.acmicpc.net/upload/images2/fig1c.gif" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></td>
 		</tr>
 	</tbody>
 </table>

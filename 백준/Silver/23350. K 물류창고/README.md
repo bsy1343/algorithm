@@ -48,32 +48,32 @@
 
 <p>우선순위는 같지만, 무게순으로 배치해야 하는 경우는 예시 1을 기준으로 설명한다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/23350.%E2%80%85K%E2%80%85%EB%AC%BC%EB%A5%98%EC%B0%BD%EA%B3%A0/b79977f8.png" data-original-src="https://upload.acmicpc.net/2a11268b-762f-48da-ba7c-73dbf15bab61/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 677px; height: 200px;" /><br />
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/23350.%E2%80%85K%E2%80%85%EB%AC%BC%EB%A5%98%EC%B0%BD%EA%B3%A0/b79977f8.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/23350.%E2%80%85K%E2%80%85%EB%AC%BC%EB%A5%98%EC%B0%BD%EA%B3%A0/b79977f8.png" data-original-src="https://upload.acmicpc.net/2a11268b-762f-48da-ba7c-73dbf15bab61/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 677px; height: 200px;" /><br />
 &nbsp;</p>
 
 <p>처음 2개의 컨테이너는 무게순대로 넣는 것이 가능하다. 이 과정에서 로봇은 3(1+2)의 무게를 들어올린다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/23350.%E2%80%85K%E2%80%85%EB%AC%BC%EB%A5%98%EC%B0%BD%EA%B3%A0/fc656c77.png" data-original-src="https://upload.acmicpc.net/a1c5c189-27ae-431a-b4ea-d36930b1f420/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 675px; height: 200px;" /><br />
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/23350.%E2%80%85K%E2%80%85%EB%AC%BC%EB%A5%98%EC%B0%BD%EA%B3%A0/fc656c77.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/23350.%E2%80%85K%E2%80%85%EB%AC%BC%EB%A5%98%EC%B0%BD%EA%B3%A0/fc656c77.png" data-original-src="https://upload.acmicpc.net/a1c5c189-27ae-431a-b4ea-d36930b1f420/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 675px; height: 200px;" /><br />
 &nbsp;</p>
 
 <p>하지만 다음 컨테이너는 적재된 컨테이너 상단부보다 무겁기 때문에 재배치 해야하고 결과는 아래 그림과 같다.&nbsp;이 과정에서 로봇은 6(1+2+3)의 무게를 들어올린다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/23350.%E2%80%85K%E2%80%85%EB%AC%BC%EB%A5%98%EC%B0%BD%EA%B3%A0/b0f28714.png" data-original-src="https://upload.acmicpc.net/648e72af-fdf2-475e-ac05-c2d37717eaa0/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 670px; height: 200px;" /><br />
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/23350.%E2%80%85K%E2%80%85%EB%AC%BC%EB%A5%98%EC%B0%BD%EA%B3%A0/b0f28714.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/23350.%E2%80%85K%E2%80%85%EB%AC%BC%EB%A5%98%EC%B0%BD%EA%B3%A0/b0f28714.png" data-original-src="https://upload.acmicpc.net/648e72af-fdf2-475e-ac05-c2d37717eaa0/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 670px; height: 200px;" /><br />
 &nbsp;</p>
 
 <p>재배치 하느라 꺼낸 컨테이너를 다시 넣을 땐, 무게순으로 넣어준다.&nbsp;이 과정에서 로봇은 3(1+2)의 무게를 들어올리고&nbsp;총 12의 무게를 들어올리게 된다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/23350.%E2%80%85K%E2%80%85%EB%AC%BC%EB%A5%98%EC%B0%BD%EA%B3%A0/5e214177.png" data-original-src="https://upload.acmicpc.net/ec97748a-ca02-4726-a5ed-70f42200fbe2/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 250px; width: 729px;" /><br />
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/23350.%E2%80%85K%E2%80%85%EB%AC%BC%EB%A5%98%EC%B0%BD%EA%B3%A0/5e214177.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/23350.%E2%80%85K%E2%80%85%EB%AC%BC%EB%A5%98%EC%B0%BD%EA%B3%A0/5e214177.png" data-original-src="https://upload.acmicpc.net/ec97748a-ca02-4726-a5ed-70f42200fbe2/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 250px; width: 729px;" /><br />
 &nbsp;</p>
 
 <p>우선순위가 맞지 않는 경우에 대해선 예시 2를 기준으로 설명한다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/23350.%E2%80%85K%E2%80%85%EB%AC%BC%EB%A5%98%EC%B0%BD%EA%B3%A0/17a721c2.png" data-original-src="https://upload.acmicpc.net/76430d83-a794-40fe-9acd-3b8cdeeaea9e/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 672px; height: 200px;" /><br />
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/23350.%E2%80%85K%E2%80%85%EB%AC%BC%EB%A5%98%EC%B0%BD%EA%B3%A0/17a721c2.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/23350.%E2%80%85K%E2%80%85%EB%AC%BC%EB%A5%98%EC%B0%BD%EA%B3%A0/17a721c2.png" data-original-src="https://upload.acmicpc.net/76430d83-a794-40fe-9acd-3b8cdeeaea9e/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 672px; height: 200px;" /><br />
 &nbsp;</p>
 
 <p>처음 2개의 컨테이너는 현재 우선순위인 1과 맞지 않기 때문에 레일의 처음으로 이동시킨다. 이 과정에서 로봇은 3(1+2)의 무게를 들어올린다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/23350.%E2%80%85K%E2%80%85%EB%AC%BC%EB%A5%98%EC%B0%BD%EA%B3%A0/e677635f.png" data-original-src="https://upload.acmicpc.net/11a77be7-9318-488d-a7ed-e44696a9bdd5/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 670px; height: 200px;" /><br />
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/23350.%E2%80%85K%E2%80%85%EB%AC%BC%EB%A5%98%EC%B0%BD%EA%B3%A0/e677635f.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/23350.%E2%80%85K%E2%80%85%EB%AC%BC%EB%A5%98%EC%B0%BD%EA%B3%A0/e677635f.png" data-original-src="https://upload.acmicpc.net/11a77be7-9318-488d-a7ed-e44696a9bdd5/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 670px; height: 200px;" /><br />
 &nbsp;</p>
 
 <p>이후 컨테이너 적재는 예시 1과 동일하다.</p>

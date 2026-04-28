@@ -20,7 +20,7 @@
 
 <p>The figure below illustrates an example: (a) shows a set of points, determined by the lengths of the circular arcs that have adjacent points as extremes; and (b) shows the two triangles which can be built with these points.</p>
 
-<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/13628.%E2%80%85Triangles/c921d8c2.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/13628/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202017-01-05%20%EC%98%A4%ED%9B%84%208.46.12.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:173px; width:455px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/13628.%E2%80%85Triangles/c921d8c2.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/13628.%E2%80%85Triangles/c921d8c2.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/13628/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202017-01-05%20%EC%98%A4%ED%9B%84%208.46.12.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:173px; width:455px" /></p>
 
 <p>&nbsp;</p>
 

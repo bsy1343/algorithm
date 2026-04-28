@@ -48,7 +48,7 @@
 
 <p><strong>S</strong> 또는 <strong>C</strong> 모양은 각각 다음과 같이 $5 \times 3$ 또는 $3 \times 5$ 격자에 색칠된 모양이다. 주어진 모양을 $90^{\circ}$ 간격으로 회전시킬 수는 있지만 뒤집는 것은 불가능하다. 모양의 중심은 아래 그림의 <strong>O</strong> 표시가 있는 지점이다. 격자의 가장 왼쪽에서 가장 위에 있는 지점을 $(0, 0)$이라 할 때 해당 모양이 $5 \times 3$ 크기에 들어오는 경우 $(2, 1)$에 위치한 지점, $3 \times 5$에 들어오는 경우 $(1, 2)$에 위치한 지점을 의미한다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/31944.%E2%80%85%EC%8A%A4%EC%8B%9C%EC%8A%A4%EC%8B%9C%E2%80%85%EC%95%84%EC%9D%BC%EB%9E%9C%EB%93%9C/0ad4b07e.png" data-original-src="https://upload.acmicpc.net/f9078a6b-ea02-4a3d-b469-0ba342f0fab0/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/31944.%E2%80%85%EC%8A%A4%EC%8B%9C%EC%8A%A4%EC%8B%9C%E2%80%85%EC%95%84%EC%9D%BC%EB%9E%9C%EB%93%9C/0ad4b07e.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/31944.%E2%80%85%EC%8A%A4%EC%8B%9C%EC%8A%A4%EC%8B%9C%E2%80%85%EC%95%84%EC%9D%BC%EB%9E%9C%EB%93%9C/0ad4b07e.png" data-original-src="https://upload.acmicpc.net/f9078a6b-ea02-4a3d-b469-0ba342f0fab0/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>모양 전체가 석판 안에 있어야 함에 유의하자. <strong>S</strong> 또는 <strong>C</strong> 모양에 위치한 모든 돌을 뒤집어야 한다.</p>
 

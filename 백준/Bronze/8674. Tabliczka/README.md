@@ -28,4 +28,4 @@
 
 ### 힌트
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/8674.%E2%80%85Tabliczka/37e090b9.png" data-original-src="https://upload.acmicpc.net/a606de1d-540c-4ff5-983b-ca56e9ab59d0/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/8674.%E2%80%85Tabliczka/37e090b9.png" data-original-src="%EB%B0%B1%EC%A4%80/Bronze/8674.%E2%80%85Tabliczka/37e090b9.png" data-original-src="https://upload.acmicpc.net/a606de1d-540c-4ff5-983b-ca56e9ab59d0/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>

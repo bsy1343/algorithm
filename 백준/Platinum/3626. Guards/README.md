@@ -24,29 +24,29 @@
 
 <p>1. Day of work (daylight and nighttime shifts) and two days (daylight and nighttime) of rest &ndash; work every third day.</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/3626.%E2%80%85Guards/c81d0a44.png" data-original-src="https://www.acmicpc.net/upload/images2/guard1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:45px; width:249px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/3626.%E2%80%85Guards/c81d0a44.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/3626.%E2%80%85Guards/c81d0a44.png" data-original-src="https://www.acmicpc.net/upload/images2/guard1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:45px; width:249px" /></p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/3626.%E2%80%85Guards/36c6a2db.png" data-original-src="https://www.acmicpc.net/upload/images2/guardb.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:17px; width:45px" /> Work on any day of week Monday through Sunday</p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/3626.%E2%80%85Guards/36c6a2db.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/3626.%E2%80%85Guards/36c6a2db.png" data-original-src="https://www.acmicpc.net/upload/images2/guardb.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:17px; width:45px" /> Work on any day of week Monday through Sunday</p>
 
 <p>2. Only daylight shifts on 5 workdays of a week (no work in nighttime and weekends).</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/3626.%E2%80%85Guards/d1cdc3db.png" data-original-src="https://www.acmicpc.net/upload/images2/guard2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:48px; width:548px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/3626.%E2%80%85Guards/d1cdc3db.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/3626.%E2%80%85Guards/d1cdc3db.png" data-original-src="https://www.acmicpc.net/upload/images2/guard2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:48px; width:548px" /></p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/3626.%E2%80%85Guards/36c6a2db.png" data-original-src="https://www.acmicpc.net/upload/images2/guardb.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:17px; line-height:20.7999992370605px; width:45px" /> Work on the corresponding day of week</p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/3626.%E2%80%85Guards/36c6a2db.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/3626.%E2%80%85Guards/36c6a2db.png" data-original-src="https://www.acmicpc.net/upload/images2/guardb.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:17px; line-height:20.7999992370605px; width:45px" /> Work on the corresponding day of week</p>
 
 <p>3. Day of work (daylight and nighttime), day of rest (daylight and nighttime), daylight shift of work, nighttime of rest, and one more day (daylight and nighttime) of rest &mdash; 3 shifts of work every 4 days.</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/3626.%E2%80%85Guards/b9e6c998.png" data-original-src="https://www.acmicpc.net/upload/images2/guard3.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:47px; width:318px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/3626.%E2%80%85Guards/b9e6c998.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/3626.%E2%80%85Guards/b9e6c998.png" data-original-src="https://www.acmicpc.net/upload/images2/guard3.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:47px; width:318px" /></p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/3626.%E2%80%85Guards/36c6a2db.png" data-original-src="https://www.acmicpc.net/upload/images2/guardb.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:17px; line-height:20.7999992370605px; width:45px" /> Work on any day of week Monday through Sunday</p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/3626.%E2%80%85Guards/36c6a2db.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/3626.%E2%80%85Guards/36c6a2db.png" data-original-src="https://www.acmicpc.net/upload/images2/guardb.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:17px; line-height:20.7999992370605px; width:45px" /> Work on any day of week Monday through Sunday</p>
 
 <p>4. Day of work (daylight and nighttime), day of rest (daylight and nighttime), day of work only during daylight (rest during nighttime), day of work (daylight and nighttime), day of rest (daylight and nighttime); but if any daylight shift falls on the weekend then it is cancelled &mdash; 3 daylight shifts and 2 nighttime shifts every 5 days with the exception of weekends (where only nighttime shifts are possible).</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/3626.%E2%80%85Guards/277314a3.png" data-original-src="https://www.acmicpc.net/upload/images2/guard4.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:48px; width:393px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/3626.%E2%80%85Guards/277314a3.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/3626.%E2%80%85Guards/277314a3.png" data-original-src="https://www.acmicpc.net/upload/images2/guard4.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:48px; width:393px" /></p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/3626.%E2%80%85Guards/36c6a2db.png" data-original-src="https://www.acmicpc.net/upload/images2/guardb.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:17px; line-height:20.7999992370605px; width:45px" /> Work on any day of week Monday through Sunday</p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/3626.%E2%80%85Guards/36c6a2db.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/3626.%E2%80%85Guards/36c6a2db.png" data-original-src="https://www.acmicpc.net/upload/images2/guardb.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:17px; line-height:20.7999992370605px; width:45px" /> Work on any day of week Monday through Sunday</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/3626.%E2%80%85Guards/544407bc.png" data-original-src="https://www.acmicpc.net/upload/images2/guardw.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:18px; width:44px" /> Work only on workdays &mdash; Monday through Friday</p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/3626.%E2%80%85Guards/544407bc.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/3626.%E2%80%85Guards/544407bc.png" data-original-src="https://www.acmicpc.net/upload/images2/guardw.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:18px; width:44px" /> Work only on workdays &mdash; Monday through Friday</p>
 
 <p>ACM has to provide protection for a location based on the following requirements. There has to be at<br />
 least a certain number of guards during daylight shifts on workdays, at least a certain number of guards during daylight shifts on weekends, and at least a certain number of guards during nighttime shifts (it does not matter whether it is a workday or a weekend).</p>

@@ -26,7 +26,7 @@
 
 <p>레드를 도와 레드와 조이 엔지니어 모두의 행복도를 높여보도록 하자!</p>
 
-<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/11781.%E2%80%85%ED%87%B4%EA%B7%BC%E2%80%85%EC%8B%9C%EA%B0%84/24929486.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11781/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:288px; width:470px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/11781.%E2%80%85%ED%87%B4%EA%B7%BC%E2%80%85%EC%8B%9C%EA%B0%84/24929486.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/11781.%E2%80%85%ED%87%B4%EA%B7%BC%E2%80%85%EC%8B%9C%EA%B0%84/24929486.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11781/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:288px; width:470px" /></p>
 
 <p>회사가 있는 서울은 N개의 지점으로 되어있다.</p>
 

@@ -22,7 +22,7 @@
 
 <p>Unlike the polygon, which is flat (2-dimensional), the liquid exists in three dimensions. Therefore, the liquid seeps into cavities in the polygon. For example, if the polygon is &quot;cup-shaped&quot;, the liquid can get &quot;inside&quot; the cup, as in the diagram below.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/4171.%E2%80%85Meltdown/9bdaaddb.png" data-original-src="https://www.acmicpc.net/upload/images2/Ddiag.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:125px; width:150px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/4171.%E2%80%85Meltdown/9bdaaddb.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/4171.%E2%80%85Meltdown/9bdaaddb.png" data-original-src="https://www.acmicpc.net/upload/images2/Ddiag.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:125px; width:150px" /></p>
 
 ### 입력
 

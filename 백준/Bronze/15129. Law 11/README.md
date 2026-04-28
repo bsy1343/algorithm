@@ -25,7 +25,7 @@
 
 <p>For the purposes of OET, consider each player to be a single point, and determine if the offense is in an offside position. The field will be 100m &times; 80m, with the point (0,0) being the center of the halfway line, and the opponent&rsquo;s goal line running from (50,-40) to (50,40).</p>
 
-<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/15129.%E2%80%85Law%E2%80%8511/142117fc.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15129/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:209px; width:333px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/15129.%E2%80%85Law%E2%80%8511/142117fc.png" data-original-src="%EB%B0%B1%EC%A4%80/Bronze/15129.%E2%80%85Law%E2%80%8511/142117fc.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15129/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:209px; width:333px" /></p>
 
 ### 입력
 

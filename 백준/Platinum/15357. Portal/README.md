@@ -71,4 +71,4 @@
 
 <p>The portal creation in moves 1, 2, 4 and 6 lasts zero amounts of time, whereas the rest of the move last one unit of time, so the total time needed to solve the puzzle is 4 units of time.</p>
 
-<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/15357.%E2%80%85Portal/956db501.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15357/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:272px; width:597px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/15357.%E2%80%85Portal/956db501.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/15357.%E2%80%85Portal/956db501.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15357/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:272px; width:597px" /></p>

@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/24958.%E2%80%85Lottery%E2%80%85Fun%E2%80%85Time/7f866eed.png" data-original-src="https://upload.acmicpc.net/4d6c5722-da6f-4090-8ba1-d1813401431e/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 227px; height: 119px; float: right;" />The biggest fun of lottery is not in receiving the (usually a tiny amount of) prize money, but in dreaming of the big fortune you may possibly (that is, virtually never) receive.</p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/24958.%E2%80%85Lottery%E2%80%85Fun%E2%80%85Time/7f866eed.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/24958.%E2%80%85Lottery%E2%80%85Fun%E2%80%85Time/7f866eed.png" data-original-src="https://upload.acmicpc.net/4d6c5722-da6f-4090-8ba1-d1813401431e/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 227px; height: 119px; float: right;" />The biggest fun of lottery is not in receiving the (usually a tiny amount of) prize money, but in dreaming of the big fortune you may possibly (that is, virtually never) receive.</p>
 
 <p>You have a number of lottery tickets at hand, each with a six-digit number. All the numbers are different, of course. Tomorrow is the drawing day and the prizes are the following.</p>
 

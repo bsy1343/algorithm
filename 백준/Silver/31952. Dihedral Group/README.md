@@ -18,7 +18,7 @@
 
 <p>In mathematics, the dihedral group $D_n$ is the group of symmetries of a regular $n$-gon. Rotations and reflections are elements of $D_n$, and in fact all elements of the dihedral group can be expressed as a series of rotations and reflections. Elements of $D_n$ <em>act</em> on the $n$-gon by permuting its vertices. For example, consider a regular pentagon with vertices initially labeled $1$, $3$, $5$, $4$, $2$ (clockwise, starting from the top):</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/31952.%E2%80%85Dihedral%E2%80%85Group/dc12682d.png" data-original-src="https://upload.acmicpc.net/2821423d-5e70-49b8-a884-eca07f7a074e/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 592px; height: 100px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/31952.%E2%80%85Dihedral%E2%80%85Group/dc12682d.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/31952.%E2%80%85Dihedral%E2%80%85Group/dc12682d.png" data-original-src="https://upload.acmicpc.net/2821423d-5e70-49b8-a884-eca07f7a074e/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 592px; height: 100px;" /></p>
 
 <p>Applying the above three dihedral actions to the pentagon (a rotation, reflection, and then another rotation) produces the following relabelings of the pentagon&#39;s vertices:</p>
 

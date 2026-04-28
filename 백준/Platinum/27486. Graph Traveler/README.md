@@ -50,7 +50,7 @@
 
 <p>The first example can be shown like the following image:</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/27486.%E2%80%85Graph%E2%80%85Traveler/690caf45.png" data-original-src="https://upload.acmicpc.net/f98fbbf3-39b9-430d-b9e2-ed0b9a51f739/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 455px; width: 542px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/27486.%E2%80%85Graph%E2%80%85Traveler/690caf45.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/27486.%E2%80%85Graph%E2%80%85Traveler/690caf45.png" data-original-src="https://upload.acmicpc.net/f98fbbf3-39b9-430d-b9e2-ed0b9a51f739/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 455px; width: 542px;" /></p>
 
 <p>Three integers are marked on $i$-th vertex: $i$, $k_i$, and $m_i$ respectively. The outgoing edges are labeled with an integer representing the edge number of $i$-th vertex.</p>
 
@@ -67,7 +67,7 @@
 
 <p>The second example is same as the first example, except that the vertices have non-zero values. Therefore the answers to the queries also differ from the first example.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/27486.%E2%80%85Graph%E2%80%85Traveler/b0ba93a1.png" data-original-src="https://upload.acmicpc.net/cf8d6f53-cb28-4fab-9ca3-c98d2f329cc1/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 455px; width: 542px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/27486.%E2%80%85Graph%E2%80%85Traveler/b0ba93a1.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/27486.%E2%80%85Graph%E2%80%85Traveler/b0ba93a1.png" data-original-src="https://upload.acmicpc.net/cf8d6f53-cb28-4fab-9ca3-c98d2f329cc1/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 455px; width: 542px;" /></p>
 
 <p>The queries for the second example works as follows:</p>
 

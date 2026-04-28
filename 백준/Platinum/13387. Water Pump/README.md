@@ -22,16 +22,16 @@
 
 <p>Suppose a line of walls in the city is shown as figure below.</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/13387.%E2%80%85Water%E2%80%85Pump/960d4363.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/13387/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-10-11%20%EC%98%A4%ED%9B%84%205.30.12.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:138px; width:425px" /><br />
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/13387.%E2%80%85Water%E2%80%85Pump/960d4363.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/13387.%E2%80%85Water%E2%80%85Pump/960d4363.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/13387/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-10-11%20%EC%98%A4%ED%9B%84%205.30.12.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:138px; width:425px" /><br />
 After flooding by the heavy rain, water will be remained inside each pair of walls.</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/13387.%E2%80%85Water%E2%80%85Pump/bdc4349f.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/13387/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-10-11%20%EC%98%A4%ED%9B%84%205.30.24.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:132px; width:425px" /><br />
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/13387.%E2%80%85Water%E2%80%85Pump/bdc4349f.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/13387.%E2%80%85Water%E2%80%85Pump/bdc4349f.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/13387/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-10-11%20%EC%98%A4%ED%9B%84%205.30.24.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:132px; width:425px" /><br />
 If the water pump is placed at the arrow marker, it can drain 7 units of water from the city.</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/13387.%E2%80%85Water%E2%80%85Pump/3196d8de.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/13387/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-10-11%20%EC%98%A4%ED%9B%84%205.30.38.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:141px; width:425px" /><br />
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/13387.%E2%80%85Water%E2%80%85Pump/3196d8de.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/13387.%E2%80%85Water%E2%80%85Pump/3196d8de.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/13387/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-10-11%20%EC%98%A4%ED%9B%84%205.30.38.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:141px; width:425px" /><br />
 However, one of the best positions to place the water pump is shown below at the arrow marker. 9 units of water would be drained.</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/13387.%E2%80%85Water%E2%80%85Pump/800efdf2.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/13387/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-10-11%20%EC%98%A4%ED%9B%84%205.30.52.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:144px; width:425px" /><br />
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/13387.%E2%80%85Water%E2%80%85Pump/800efdf2.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/13387.%E2%80%85Water%E2%80%85Pump/800efdf2.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/13387/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-10-11%20%EC%98%A4%ED%9B%84%205.30.52.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:144px; width:425px" /><br />
 Given heights of all walls, you task is to calculate maximum number of units of water could be drained by a water pump.</p>
 
 ### 입력

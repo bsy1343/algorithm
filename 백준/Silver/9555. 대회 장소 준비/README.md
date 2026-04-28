@@ -32,7 +32,7 @@
 
 <p>각 팀은 최대 8개의 인접한 팀을 가질 수 있다. 만일 자리가 모서리 쪽이라거나, 주변에 빈 자리가 있는 경우엔 8개 미만의 인접한 팀을 갖게 된다.</p>
 
-<p><img src="%EB%B0%B1%EC%A4%80/Silver/9555.%E2%80%85%EB%8C%80%ED%9A%8C%E2%80%85%EC%9E%A5%EC%86%8C%E2%80%85%EC%A4%80%EB%B9%84/37eef547.png" data-original-src="https://www.acmicpc.net/upload/images2/contesthall.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p><img src="%EB%B0%B1%EC%A4%80/Silver/9555.%E2%80%85%EB%8C%80%ED%9A%8C%E2%80%85%EC%9E%A5%EC%86%8C%E2%80%85%EC%A4%80%EB%B9%84/37eef547.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/9555.%E2%80%85%EB%8C%80%ED%9A%8C%E2%80%85%EC%9E%A5%EC%86%8C%E2%80%85%EC%A4%80%EB%B9%84/37eef547.png" data-original-src="https://www.acmicpc.net/upload/images2/contesthall.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>예를 들어 위와 같은 상황에서, 팀 E는 7개의 인접한 팀 A, B, C, D, F, G, H를 갖는다.</p>
 

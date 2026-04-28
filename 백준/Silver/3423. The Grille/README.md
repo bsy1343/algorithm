@@ -20,7 +20,7 @@
 
 <p>For both enciphering and deciphering, you need a tool (basically, it is the cipher key) called the &ldquo;grille&rdquo;. It is necessary that both parties (Alice and Bob) have the same grille. The grille looks like a rectangular grid of N &times; N unit squares with some of the squares being solid and some cut out to form &ldquo;holes&rdquo;.</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/3423.%E2%80%85The%E2%80%85Grille/935193ba.png" data-original-src="https://www.acmicpc.net/upload/images2/grille.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:211px; width:208px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/3423.%E2%80%85The%E2%80%85Grille/935193ba.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/3423.%E2%80%85The%E2%80%85Grille/935193ba.png" data-original-src="https://www.acmicpc.net/upload/images2/grille.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:211px; width:208px" /></p>
 
 <p>Let&rsquo;s have a grille with m holes. For enciphering, we write the first m letters of a message into the holes (starting in the first row from left to right, then continuing with other rows). Then we rotate the grille 90 degrees clockwise and write another m letters into the holes (again, from left to right and top to bottom). After that, we rotate the grille another 90 degrees and write another m letters. Then we repeat the same for the last time. At the end, we fill remaining places (if there are any) with random letters to make the ciphertext more secure. Please note that it is the grille that gets rotated, not the message!</p>
 

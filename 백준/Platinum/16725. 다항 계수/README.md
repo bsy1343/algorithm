@@ -38,7 +38,7 @@
 
 <p>문제에 주어진 다항식을 푸는 방식 중 하나는 다음과 같다.</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/16725.%E2%80%85%EB%8B%A4%ED%95%AD%E2%80%85%EA%B3%84%EC%88%98/07b1af61.png" data-original-src="https://upload.acmicpc.net/13decd85-0341-4980-b2c4-dc793fcd084f/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/16725.%E2%80%85%EB%8B%A4%ED%95%AD%E2%80%85%EA%B3%84%EC%88%98/07b1af61.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/16725.%E2%80%85%EB%8B%A4%ED%95%AD%E2%80%85%EA%B3%84%EC%88%98/07b1af61.png" data-original-src="https://upload.acmicpc.net/13decd85-0341-4980-b2c4-dc793fcd084f/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <ol>
 	<li>1+ x + x<sup>2</sup>의 계수를 표현</li>

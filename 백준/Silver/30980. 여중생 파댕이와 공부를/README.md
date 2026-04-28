@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/30980.%E2%80%85%EC%97%AC%EC%A4%91%EC%83%9D%E2%80%85%ED%8C%8C%EB%8C%95%EC%9D%B4%EC%99%80%E2%80%85%EA%B3%B5%EB%B6%80%EB%A5%BC/f6eda4bc.png" data-original-src="https://upload.acmicpc.net/c25e0319-e4c7-40e2-aae5-10d649d238be/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 221px; width: 256px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/30980.%E2%80%85%EC%97%AC%EC%A4%91%EC%83%9D%E2%80%85%ED%8C%8C%EB%8C%95%EC%9D%B4%EC%99%80%E2%80%85%EA%B3%B5%EB%B6%80%EB%A5%BC/f6eda4bc.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/30980.%E2%80%85%EC%97%AC%EC%A4%91%EC%83%9D%E2%80%85%ED%8C%8C%EB%8C%95%EC%9D%B4%EC%99%80%E2%80%85%EA%B3%B5%EB%B6%80%EB%A5%BC/f6eda4bc.png" data-original-src="https://upload.acmicpc.net/c25e0319-e4c7-40e2-aae5-10d649d238be/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 221px; width: 256px;" /></p>
 
 <p>여중생 파댕이는 할 것이 너무 많고 공부가 어려워 정신이 없다. 오늘도 여중생 파댕이는 선생님으로부터 덧셈 문제 풀기라는 끔찍한 과제를 받았다.</p>
 

@@ -24,7 +24,7 @@
 
 <p>Now let&rsquo;s see how these requirements are checked. . . The plan is accepted if it is impossible to add a new garage without moving the other garages (the new garage must also have edges parallel to corresponding sandlot edges).</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/9449.%E2%80%85Garage/ced3df00.png" data-original-src="https://www.acmicpc.net/upload/images2/garage.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:111px; width:676px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/9449.%E2%80%85Garage/ced3df00.png" data-original-src="%EB%B0%B1%EC%A4%80/Bronze/9449.%E2%80%85Garage/ced3df00.png" data-original-src="https://www.acmicpc.net/upload/images2/garage.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:111px; width:676px" /></p>
 
 <p>Time is money, find the minimal number of garages that must be ordered, so that you can place them on the sandlot and there is no place for an extra garage.</p>
 

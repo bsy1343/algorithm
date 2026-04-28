@@ -18,7 +18,7 @@
 
 <p>상근이는 제1사분면에 아래와 같은 패턴을 그리고 있다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/3164.%E2%80%85%ED%8C%A8%ED%84%B4/fb358e5b.png" data-original-src="https://upload.acmicpc.net/3946d285-aeb7-4188-8701-7f2532fcc37b/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 273px; height: 272px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/3164.%E2%80%85%ED%8C%A8%ED%84%B4/fb358e5b.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/3164.%E2%80%85%ED%8C%A8%ED%84%B4/fb358e5b.png" data-original-src="https://upload.acmicpc.net/3946d285-aeb7-4188-8701-7f2532fcc37b/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 273px; height: 272px;" /></p>
 
 <p>직사각형이 주어졌을 때, 직사각형에 포함되는 어두운&nbsp;정사각형의 수를 구하는 프로그램을 작성하시오.</p>
 

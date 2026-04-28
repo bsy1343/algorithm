@@ -43,6 +43,6 @@
 
 ### 힌트
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/28377.%E2%80%85Investigating%E2%80%85Frog%E2%80%85Behaviour%E2%80%85on%E2%80%85Lily%E2%80%85Pad%E2%80%85Patterns/5b7d933b.png" data-original-src="https://upload.acmicpc.net/9e5c64bd-22c4-4d3a-bfba-19057637c89d/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 800px; height: 392px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/28377.%E2%80%85Investigating%E2%80%85Frog%E2%80%85Behaviour%E2%80%85on%E2%80%85Lily%E2%80%85Pad%E2%80%85Patterns/5b7d933b.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/28377.%E2%80%85Investigating%E2%80%85Frog%E2%80%85Behaviour%E2%80%85on%E2%80%85Lily%E2%80%85Pad%E2%80%85Patterns/5b7d933b.png" data-original-src="https://upload.acmicpc.net/9e5c64bd-22c4-4d3a-bfba-19057637c89d/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 800px; height: 392px;" /></p>
 
 <p style="text-align: center;">Figure I.1: Illustration of the first sample case. The lily pads are numbered from left to right, starting at $1$.</p>

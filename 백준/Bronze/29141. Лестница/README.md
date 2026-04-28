@@ -24,7 +24,7 @@
 
 <p>Доктор уверен, что Вы сможете помочь ему с этой задачей. Напишите программу, которая по расположению двух точек определит параметры ступенек.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/29141.%E2%80%85%D0%9B%D0%B5%D1%81%D1%82%D0%BD%D0%B8%D1%86%D0%B0/f468e07a.png" data-original-src="https://upload.acmicpc.net/96b6c008-761e-4985-933e-7890112b8927/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 402px; height: 214px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/29141.%E2%80%85%D0%9B%D0%B5%D1%81%D1%82%D0%BD%D0%B8%D1%86%D0%B0/f468e07a.png" data-original-src="%EB%B0%B1%EC%A4%80/Bronze/29141.%E2%80%85%D0%9B%D0%B5%D1%81%D1%82%D0%BD%D0%B8%D1%86%D0%B0/f468e07a.png" data-original-src="https://upload.acmicpc.net/96b6c008-761e-4985-933e-7890112b8927/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 402px; height: 214px;" /></p>
 
 ### 입력
 

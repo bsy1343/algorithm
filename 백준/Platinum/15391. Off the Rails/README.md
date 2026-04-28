@@ -18,7 +18,7 @@
 
 <p>The Country of Everlasting is planning to build a rail line that will connect its cities. During their planning stage, they have decided that the route where the rail line will pass should minimize the distance between the cities and the rail line. During the canvassing of materials, the engineers involved found out that it will be best if they buy pre-fabricated guideways from the country of Forever. However, the only available prefabricated guideways are the straight guideways. If the selected route is not a straight line (for example, the figure below), then they will need to buy several pre-fabricated guideways. They can buy guideways of different lengths.</p>
 
-<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/15391.%E2%80%85Off%E2%80%85the%E2%80%85Rails/5c1293ce.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15391/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:161px; width:550px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/15391.%E2%80%85Off%E2%80%85the%E2%80%85Rails/5c1293ce.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/15391.%E2%80%85Off%E2%80%85the%E2%80%85Rails/5c1293ce.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15391/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:161px; width:550px" /></p>
 
 <p>The problem now is that there is an overhead cost C for each pre-fabricated guideway imported from Forever. So they have to design the route such that the value a + bC is minimized, where:</p>
 

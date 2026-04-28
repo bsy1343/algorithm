@@ -24,7 +24,7 @@
 
 <p>아래 그림에서 집합에 포함된 점은 굵은 점으로, 컨벡스 헐의 꼭짓점은 X로, 변은 선분으로 나타낸 그림이다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/2699.%E2%80%85%EA%B2%A9%EC%9E%90%EC%A0%90%E2%80%85%EC%BB%A8%EB%B2%A1%EC%8A%A4%ED%97%90/84d34328.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/upload/images/latice.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:249px; width:584px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/2699.%E2%80%85%EA%B2%A9%EC%9E%90%EC%A0%90%E2%80%85%EC%BB%A8%EB%B2%A1%EC%8A%A4%ED%97%90/84d34328.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/2699.%E2%80%85%EA%B2%A9%EC%9E%90%EC%A0%90%E2%80%85%EC%BB%A8%EB%B2%A1%EC%8A%A4%ED%97%90/84d34328.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/upload/images/latice.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:249px; width:584px" /></p>
 
 <p>격자 다각형의 꼭짓점의 일반적인 순서는 다음과 같다.</p>
 

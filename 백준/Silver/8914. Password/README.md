@@ -22,7 +22,7 @@
 
 <p>You are given a 6 &times;&nbsp;5 grid. Each column can be considered the visible part of a wheel. So you can easily rotate each column wheel independently to make password characters visible. In this problem, we assume that each wheel contains the 26 upper letters of English alphabet. See the following Figure 1.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/8914.%E2%80%85Password/951efa18.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/8914/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202017-01-05%20%EC%98%A4%ED%9B%84%204.21.32.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:237px; width:444px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/8914.%E2%80%85Password/951efa18.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/8914.%E2%80%85Password/951efa18.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/8914/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202017-01-05%20%EC%98%A4%ED%9B%84%204.21.32.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:237px; width:444px" /></p>
 
 <p style="text-align: center;">Figure 1. 6 &times;&nbsp;5 window clips a valid grid representation for a password.</p>
 
@@ -30,7 +30,7 @@
 
 <p>Let me start with one example. Suppose that our password was set &#39;COMPU&#39;. If we construct the grid as shown in Figure 2 on next page, then the authentication is successfully processed.&nbsp;</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/8914.%E2%80%85Password/618bfe07.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/8914/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202017-01-05%20%EC%98%A4%ED%9B%84%204.23.19.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:152px; width:145px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/8914.%E2%80%85Password/618bfe07.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/8914.%E2%80%85Password/618bfe07.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/8914/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202017-01-05%20%EC%98%A4%ED%9B%84%204.23.19.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:152px; width:145px" /></p>
 
 <p style="text-align: center;">Figure 2. A valid grid representation for password &#39;COMPU&#39;.</p>
 
@@ -40,7 +40,7 @@
 
 <p>Let me show one example with two observed configurations for a grid password. The user password is &#39;COMPU&#39;, but &#39;DPMAG&#39; is also one candidate password derived from the following configuration.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/8914.%E2%80%85Password/c4ceb239.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/8914/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202017-01-05%20%EC%98%A4%ED%9B%84%204.24.52.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:181px; width:371px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/8914.%E2%80%85Password/c4ceb239.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/8914.%E2%80%85Password/c4ceb239.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/8914/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202017-01-05%20%EC%98%A4%ED%9B%84%204.24.52.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:181px; width:371px" /></p>
 
 <p style="text-align: center;">Figure 3. Both of &#39;COMPU&#39; and &#39;DPMAG&#39; are feasible password .</p>
 

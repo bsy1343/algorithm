@@ -41,7 +41,7 @@
 	</li>
 </ol>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/20923.%E2%80%85%EC%88%AB%EC%9E%90%E2%80%85%ED%95%A0%EB%A6%AC%EA%B0%88%EB%A6%AC%E2%80%85%EA%B2%8C%EC%9E%84/45f33a08.png" data-original-src="https://upload.acmicpc.net/22dc1ff3-6e90-4441-b84f-6544eb329eeb/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 238px; width: 500px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/20923.%E2%80%85%EC%88%AB%EC%9E%90%E2%80%85%ED%95%A0%EB%A6%AC%EA%B0%88%EB%A6%AC%E2%80%85%EA%B2%8C%EC%9E%84/45f33a08.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/20923.%E2%80%85%EC%88%AB%EC%9E%90%E2%80%85%ED%95%A0%EB%A6%AC%EA%B0%88%EB%A6%AC%E2%80%85%EA%B2%8C%EC%9E%84/45f33a08.png" data-original-src="https://upload.acmicpc.net/22dc1ff3-6e90-4441-b84f-6544eb329eeb/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 238px; width: 500px;" /></p>
 
 <ol start="5">
 	<li>한 명이 2-4번까지의 과정을 진행하는 것을 1번 진행한 것으로 보며 다음과 같은 방법으로 게임의 승패가 결정된다.
@@ -53,7 +53,7 @@
 	</li>
 </ol>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/20923.%E2%80%85%EC%88%AB%EC%9E%90%E2%80%85%ED%95%A0%EB%A6%AC%EA%B0%88%EB%A6%AC%E2%80%85%EA%B2%8C%EC%9E%84/76b3fa88.png" data-original-src="https://upload.acmicpc.net/3e2fe162-2931-457c-808f-1f84551e7061/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 172px; width: 500px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/20923.%E2%80%85%EC%88%AB%EC%9E%90%E2%80%85%ED%95%A0%EB%A6%AC%EA%B0%88%EB%A6%AC%E2%80%85%EA%B2%8C%EC%9E%84/76b3fa88.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/20923.%E2%80%85%EC%88%AB%EC%9E%90%E2%80%85%ED%95%A0%EB%A6%AC%EA%B0%88%EB%A6%AC%E2%80%85%EA%B2%8C%EC%9E%84/76b3fa88.png" data-original-src="https://upload.acmicpc.net/3e2fe162-2931-457c-808f-1f84551e7061/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 172px; width: 500px;" /></p>
 
 <p>게임을 $M$번 진행한 후 승리한 사람은 누구일까?</p>
 

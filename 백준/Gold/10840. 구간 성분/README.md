@@ -25,7 +25,7 @@
 
 <p>신호 서열의 어떤 구간에 포함된 문자의 종류와 개수가 순서에 상관없이 동일하면 이 두 &lsquo;구간의 성분&rsquo;은 같다고 한다. 아래에서 박스로 표시된 부분은 두 신호 S<sub>A</sub>, S<sub>B</sub>에서 성분이 같은 구간을 나타내고 있다.</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/10840.%E2%80%85%EA%B5%AC%EA%B0%84%E2%80%85%EC%84%B1%EB%B6%84/3d4dc476.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/10840/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:68px; width:289px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/10840.%E2%80%85%EA%B5%AC%EA%B0%84%E2%80%85%EC%84%B1%EB%B6%84/3d4dc476.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/10840.%E2%80%85%EA%B5%AC%EA%B0%84%E2%80%85%EC%84%B1%EB%B6%84/3d4dc476.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/10840/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:68px; width:289px" /></p>
 
 <p>즉 위의 예와 같이 성분이 같은 구간의 길이는 두 서열에서 반드시 같아야 한다. 그리고 같은 성분 의 구간은 하나 이상 존재할 수 있다. 우리는 두 신호 서열에 각각 존재하는 같은 성분 구간 중에 서 가장 긴 것을 찾으려고 한다.</p>
 

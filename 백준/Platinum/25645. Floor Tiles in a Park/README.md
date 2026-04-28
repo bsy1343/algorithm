@@ -20,7 +20,7 @@
 
 <p>For instance, the following illustration shows a floor tile with $W = 9$, $H = 5$, $k = 4$.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/25645.%E2%80%85Floor%E2%80%85Tiles%E2%80%85in%E2%80%85a%E2%80%85Park/6162d0d4.png" data-original-src="https://upload.acmicpc.net/53dd18b6-c4f8-409e-a6ed-95b1c2ee4fbb/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/25645.%E2%80%85Floor%E2%80%85Tiles%E2%80%85in%E2%80%85a%E2%80%85Park/6162d0d4.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/25645.%E2%80%85Floor%E2%80%85Tiles%E2%80%85in%E2%80%85a%E2%80%85Park/6162d0d4.png" data-original-src="https://upload.acmicpc.net/53dd18b6-c4f8-409e-a6ed-95b1c2ee4fbb/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>Grammy wants to know the number of different floor tiles satisfying the condition. Please tell her the answer. Since the answer may be very large, you should output the number modulo $998\,244\,353$.</p>
 

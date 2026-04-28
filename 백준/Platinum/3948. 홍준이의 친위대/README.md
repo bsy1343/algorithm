@@ -18,9 +18,9 @@
 
 <p>홍준 왕국의 국왕 홍준이는 자신을 호위하는 N명의 친위대 병사가 있다. 병사들의 키는 모두 다르다. 홍준이는 그들을 일렬로 세울 때, 키 순서대로 세우는 것보다 맨 끝 두 병사를 제외한 나머지 병사들의 양 옆 두&nbsp;병사의&nbsp;키가 자신 보다 크거나 모두 자신보다 작을 때 보기 좋다고 생각한다. 예를 들어, 홍준이에게 7명의 친위대 병사가 있고, 그 들의 키가 160, 162, 164, 166, 168, 170, 그리고 172cm 라고 하자. 아래와 같이 병사가 일렬로 서있으면 홍준이는 보기 좋다고 생각한다.</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/3948.%E2%80%85%ED%99%8D%EC%A4%80%EC%9D%B4%EC%9D%98%E2%80%85%EC%B9%9C%EC%9C%84%EB%8C%80/95614950.png" data-original-src="https://www.acmicpc.net/upload/images/kud1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:123px; width:358px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/3948.%E2%80%85%ED%99%8D%EC%A4%80%EC%9D%B4%EC%9D%98%E2%80%85%EC%B9%9C%EC%9C%84%EB%8C%80/95614950.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/3948.%E2%80%85%ED%99%8D%EC%A4%80%EC%9D%B4%EC%9D%98%E2%80%85%EC%B9%9C%EC%9C%84%EB%8C%80/95614950.png" data-original-src="https://www.acmicpc.net/upload/images/kud1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:123px; width:358px" /></p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/3948.%E2%80%85%ED%99%8D%EC%A4%80%EC%9D%B4%EC%9D%98%E2%80%85%EC%B9%9C%EC%9C%84%EB%8C%80/3258c471.png" data-original-src="https://www.acmicpc.net/upload/images/kud2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:139px; width:366px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/3948.%E2%80%85%ED%99%8D%EC%A4%80%EC%9D%B4%EC%9D%98%E2%80%85%EC%B9%9C%EC%9C%84%EB%8C%80/3258c471.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/3948.%E2%80%85%ED%99%8D%EC%A4%80%EC%9D%B4%EC%9D%98%E2%80%85%EC%B9%9C%EC%9C%84%EB%8C%80/3258c471.png" data-original-src="https://www.acmicpc.net/upload/images/kud2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:139px; width:366px" /></p>
 
 <p>만약 홍준이가 매일 같은 병사&nbsp;배치를 본다면 매우 지루해할 것이다. 때문에 매일 병사들의 배치를 새롭게 하고 싶다. 즉,&nbsp;병사 N명이 있을 때 서로 다른 배치가 몇 가지 있는지 알고 싶어한다.</p>
 

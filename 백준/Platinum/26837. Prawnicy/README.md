@@ -36,4 +36,4 @@
 
 <p>Wyjaśnienie do przykładu: Najdłuższe możliwe zebranie trzech prawnik&oacute;w ma długość 4. Mogą w nim uczestniczyć prawnicy o numerach 1, 2 i 4. Trwa ono od chwili 4 do chwili 8. Inną, r&oacute;wnie dobrą możliwością jest zebranie prawnik&oacute;w o numerach 2, 4 i 5; trwałoby ono od chwili 5 do chwili 9.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/26837.%E2%80%85Prawnicy/dbc1cb18.png" data-original-src="https://upload.acmicpc.net/d2a2c951-9eb3-434b-ab53-efdc4a556195/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 300px; height: 108px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/26837.%E2%80%85Prawnicy/dbc1cb18.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/26837.%E2%80%85Prawnicy/dbc1cb18.png" data-original-src="https://upload.acmicpc.net/d2a2c951-9eb3-434b-ab53-efdc4a556195/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 300px; height: 108px;" /></p>

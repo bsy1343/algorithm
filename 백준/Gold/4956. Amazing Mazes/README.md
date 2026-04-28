@@ -42,4 +42,4 @@
 
 ### 힌트
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/4956.%E2%80%85Amazing%E2%80%85Mazes/a8caacdc.png" data-original-src="https://www.acmicpc.net/upload/images2/B-1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:1191px; width:1016px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/4956.%E2%80%85Amazing%E2%80%85Mazes/a8caacdc.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/4956.%E2%80%85Amazing%E2%80%85Mazes/a8caacdc.png" data-original-src="https://www.acmicpc.net/upload/images2/B-1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:1191px; width:1016px" /></p>

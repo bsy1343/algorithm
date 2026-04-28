@@ -18,7 +18,7 @@
 
 <p>We consider a set \(S\) of \(n\) points in the plane. The <em>width</em>&nbsp;\(w\) of \(S\) is the minimum distance between two parallel lines that enclose \(S\). For instance, in Figure 1, the set</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/9892.%E2%80%85Width/740f7ec5.png" data-original-src="https://upload.acmicpc.net/82909264-8ed8-44b2-b9eb-11c65d39537d/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 313px; height: 228px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/9892.%E2%80%85Width/740f7ec5.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/9892.%E2%80%85Width/740f7ec5.png" data-original-src="https://upload.acmicpc.net/82909264-8ed8-44b2-b9eb-11c65d39537d/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 313px; height: 228px;" /></p>
 
 <p style="text-align: center;">Figure 1: The width \(w\) of a set of three points.</p>
 
@@ -30,7 +30,7 @@
 
 <p>where \(\sigma = 1\) if \(ABC\) is counterclockwise (as in Figure 2) and \(\sigma = &minus;1\) if \(ABC\) is clockwise.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/9892.%E2%80%85Width/b858e1f1.png" data-original-src="https://upload.acmicpc.net/0aaf9da5-9a8c-44fe-95cc-06f868d1bc68/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 186px; height: 84px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/9892.%E2%80%85Width/b858e1f1.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/9892.%E2%80%85Width/b858e1f1.png" data-original-src="https://upload.acmicpc.net/0aaf9da5-9a8c-44fe-95cc-06f868d1bc68/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 186px; height: 84px;" /></p>
 
 <p style="text-align: center;">Figure 2: Triangle \(ABC\).</p>
 

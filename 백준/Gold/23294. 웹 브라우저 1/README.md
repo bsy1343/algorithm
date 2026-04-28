@@ -98,4 +98,4 @@
 
 <p>파란색 도형 안에 괄호 밖 숫자는 페이지의 번호를, 괄호 안 숫자는 해당 페이지가 사용하는 캐시 공간의 크기이다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/23294.%E2%80%85%EC%9B%B9%E2%80%85%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%E2%80%851/189511c3.png" data-original-src="https://upload.acmicpc.net/5cc043b7-d7bd-45a4-a53b-ddd65d0e5d00/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/23294.%E2%80%85%EC%9B%B9%E2%80%85%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%E2%80%851/189511c3.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/23294.%E2%80%85%EC%9B%B9%E2%80%85%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%E2%80%851/189511c3.png" data-original-src="https://upload.acmicpc.net/5cc043b7-d7bd-45a4-a53b-ddd65d0e5d00/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>

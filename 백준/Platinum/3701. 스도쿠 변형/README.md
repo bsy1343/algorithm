@@ -18,7 +18,7 @@
 
 <p>상근이는 매일 아침 신문에 나와있는 스도쿠 퍼즐을 풀면서 희망찬 아침을 시작한다. 어느 날, 퍼즐을 풀다보니 무엇인가 이상한 점을 눈치챘다. 풀고있는 퍼즐이 어제 풀었던 퍼즐을 90도 회전시킨 퍼즐이었기 때문이다. 상근이는 엄청난 배신감을 느꼈다. 물론 퍼즐을 풀기 시작할 때는 이 퍼즐이 어제 풀었던 퍼즐인지 알 수가 없다. 하지만, 점점 숫자를 채우다 보니 알게된 것이었다.</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/3701.%E2%80%85%EC%8A%A4%EB%8F%84%EC%BF%A0%E2%80%85%EB%B3%80%ED%98%95/1e382311.png" data-original-src="https://www.acmicpc.net/upload/images/sdk(1).png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="float:right; height:199px; width:264px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/3701.%E2%80%85%EC%8A%A4%EB%8F%84%EC%BF%A0%E2%80%85%EB%B3%80%ED%98%95/1e382311.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/3701.%E2%80%85%EC%8A%A4%EB%8F%84%EC%BF%A0%E2%80%85%EB%B3%80%ED%98%95/1e382311.png" data-original-src="https://www.acmicpc.net/upload/images/sdk(1).png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="float:right; height:199px; width:264px" /></p>
 
 <p>스도쿠 보드는 9&times;9개의 칸으로 이루어져 있다. 또, 3&times;3개의 칸은 3&times;3개의 구역(region)으로 묶여있다. 칸의 일부는 1과 9사이의 숫자로 채워져 있으며, 나머지 칸은 모두 비어있다. 퍼즐의 목표는 비어있는 칸을 1부터 9까지의 숫자로 채워서, 모든 행, 열, 구역에 1부터 9까지 숫자가 딱 한 번씩만 등장하게 하는 것이다. 올바른 스도쿠 퍼즐은 비어있는 칸을 채우는 방법이 항상 한 가지이다.</p>
 

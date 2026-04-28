@@ -20,7 +20,7 @@
 
 <p>이 발전 장치는 아래의 [그림]과 같이 가로와 세로의 길이가 각각 $1$인 모듈들이 피라미드 모양으로 연결된 구조이다. 발전 장치는 총 $N$층 높이로, 지면에 가장 가까운 $1$층부터 가장 먼 $N$층까지 있다. $1$층에는 $N$개, $2$층에는 $N - 1$개, $\dots$, $N$층에 $1$개의 모듈이 일렬로 나열되어 있다. 발전 장치의 $R$층의 $C$번째 칸에 있는 모듈을 $(R, C)$로 표현한다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/29815.%E2%80%85%EB%B0%9C%EC%A0%84%E2%80%85%EC%9E%A5%EC%B9%98/30089669.png" data-original-src="https://upload.acmicpc.net/61b12f65-6dd5-45ee-bda5-13ae69105754/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 600px; height: 302px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/29815.%E2%80%85%EB%B0%9C%EC%A0%84%E2%80%85%EC%9E%A5%EC%B9%98/30089669.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/29815.%E2%80%85%EB%B0%9C%EC%A0%84%E2%80%85%EC%9E%A5%EC%B9%98/30089669.png" data-original-src="https://upload.acmicpc.net/61b12f65-6dd5-45ee-bda5-13ae69105754/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 600px; height: 302px;" /></p>
 
 <p style="text-align: center;">[그림]</p>
 

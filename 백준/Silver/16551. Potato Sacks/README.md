@@ -18,7 +18,7 @@
 
 <p>Potato sacks come in different weight capacities (specified in pounds). Potatoes come in different weights. If you are given some number of potatoes of possibly different weights (specified in pounds), determine if it is possible to exactly fill a potato sack of a given capacity using some or all of the potatoes.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/16551.%E2%80%85Potato%E2%80%85Sacks/67c796c8.png" data-original-src="https://upload.acmicpc.net/0f34d0c5-f769-490f-9a36-8792417e5ce2/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 440px; height: 196px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/16551.%E2%80%85Potato%E2%80%85Sacks/67c796c8.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/16551.%E2%80%85Potato%E2%80%85Sacks/67c796c8.png" data-original-src="https://upload.acmicpc.net/0f34d0c5-f769-490f-9a36-8792417e5ce2/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 440px; height: 196px;" /></p>
 
 ### 입력
 

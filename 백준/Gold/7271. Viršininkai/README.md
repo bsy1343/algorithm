@@ -20,7 +20,7 @@
 
 <p>Bendrovė vykdo M projektų. Už kiekvieną i&scaron; jų atsakingi du programuotojai ir tas, kurio kodas mažesnis, yra kito vir&scaron;ininkas. Žinoma, kad jokia darbuotojų pora nedirba prie daugiau nei vieno bendro projekto.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/7271.%E2%80%85Vir%C5%A1ininkai/44edd6a4.png" data-original-src="https://upload.acmicpc.net/c1c710fd-3a8c-4887-a189-2aee0ed65371/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 283px; height: 146px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/7271.%E2%80%85Vir%C5%A1ininkai/44edd6a4.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/7271.%E2%80%85Vir%C5%A1ininkai/44edd6a4.png" data-original-src="https://upload.acmicpc.net/c1c710fd-3a8c-4887-a189-2aee0ed65371/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 283px; height: 146px;" /></p>
 
 <p>1 pav. &Scaron;iame pavyzdyje N = 6 ir yra vykdomi penki projektai. Antras, trečias ir &scaron;e&scaron;tas programuotojai turi po vieną vir&scaron;ininką, o ketvirtas programuotojas &ndash; du vir&scaron;ininkus.</p>
 

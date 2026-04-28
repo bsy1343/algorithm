@@ -20,7 +20,7 @@
 
 <p>Требуется найти такие четыре различные ячейки таблицы, чтобы их центры были вершинами прямоугольника со сторонами, параллельными сторонам таблицы, а сумма чисел, записанных в этих ячейках, была максимальна.&nbsp;</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/21434.%E2%80%85%D0%9D%D0%B5%D0%BF%D1%80%D0%BE%D1%81%D1%82%D0%B0%D1%8F%E2%80%85%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B0/a1c39dc9.png" data-original-src="https://upload.acmicpc.net/45cdad39-7af9-4019-b823-fba8d775e7ad/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 142px; height: 143px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/21434.%E2%80%85%D0%9D%D0%B5%D0%BF%D1%80%D0%BE%D1%81%D1%82%D0%B0%D1%8F%E2%80%85%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B0/a1c39dc9.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/21434.%E2%80%85%D0%9D%D0%B5%D0%BF%D1%80%D0%BE%D1%81%D1%82%D0%B0%D1%8F%E2%80%85%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B0/a1c39dc9.png" data-original-src="https://upload.acmicpc.net/45cdad39-7af9-4019-b823-fba8d775e7ad/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 142px; height: 143px;" /></p>
 
 ### 입력
 

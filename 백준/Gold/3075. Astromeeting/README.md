@@ -24,7 +24,7 @@
 
 <p>위와 같이 은하가 너무나 많이 존재하여 어디에서 만나는 것이 최저의 지출을 하게 되는지 모르는 사람들을 위하여 n명의 사람이 각각 자신의 은하에서 미팅 장소까지 가는 교통비의 합을 최소로 하는 은하를 찾고, 그 비용을 구하여라. (모든 사람은 미팅 장소에 도달할 수 있어야 하며, 답은 유일하게 존재한다고 가정한다.)</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/3075.%E2%80%85Astromeeting/90facbd0.png" data-original-src="https://www.acmicpc.net/upload/images/astro.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:344px; width:644px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/3075.%E2%80%85Astromeeting/90facbd0.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/3075.%E2%80%85Astromeeting/90facbd0.png" data-original-src="https://www.acmicpc.net/upload/images/astro.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:344px; width:644px" /></p>
 
 <p>&nbsp;</p>
 

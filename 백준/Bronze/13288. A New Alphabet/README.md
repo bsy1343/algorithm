@@ -22,7 +22,7 @@
 
 <p>The new alphabet is a one-to-many translation (one character of the English alphabet translates to anywhere between 1 and 6 other characters), with each character translation as follows:</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/13288.%E2%80%85A%E2%80%85New%E2%80%85Alphabet/e3b82021.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/13288/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-09-30%20%EC%98%A4%ED%9B%84%206.40.21.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:258px; width:630px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/13288.%E2%80%85A%E2%80%85New%E2%80%85Alphabet/e3b82021.png" data-original-src="%EB%B0%B1%EC%A4%80/Bronze/13288.%E2%80%85A%E2%80%85New%E2%80%85Alphabet/e3b82021.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/13288/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-09-30%20%EC%98%A4%ED%9B%84%206.40.21.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:258px; width:630px" /></p>
 
 <p>For instance, translating the string &ldquo;Hello World!&rdquo; would result in:</p>
 

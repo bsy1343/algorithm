@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/10451.%E2%80%85%EC%88%9C%EC%97%B4%E2%80%85%EC%82%AC%EC%9D%B4%ED%81%B4/9ed14c4d.png" data-original-src="https://www.acmicpc.net/upload/images2/permut.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="float:right; height:134px; width:264px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/10451.%E2%80%85%EC%88%9C%EC%97%B4%E2%80%85%EC%82%AC%EC%9D%B4%ED%81%B4/9ed14c4d.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/10451.%E2%80%85%EC%88%9C%EC%97%B4%E2%80%85%EC%82%AC%EC%9D%B4%ED%81%B4/9ed14c4d.png" data-original-src="https://www.acmicpc.net/upload/images2/permut.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="float:right; height:134px; width:264px" /></p>
 
 <p>1부터 N까지 정수 N개로 이루어진 순열을 나타내는 방법은 여러 가지가 있다. 예를 들어, 8개의 수로 이루어진 순열 (3, 2, 7, 8, 1, 4, 5, 6)을 배열을 이용해 표현하면 \(\begin{pmatrix} 1 &amp; 2 &amp;3&amp;4&amp;5&amp;6&amp;7&amp;8 \\ &nbsp;3&amp; 2&amp;7&amp;8&amp;1&amp;4&amp;5&amp;6 \end{pmatrix}\) 와 같다. 또는, Figure 1과 같이 방향 그래프로 나타낼 수도 있다.</p>
 

@@ -18,7 +18,7 @@
 
 <p>가로 줄과 세로 줄의 개수가 각각 N인 바둑판 모양이 있다. 여기에서 인접한 두 가로줄 또는 두 세로줄 사이의 거리는 1이다. 또한, 가로줄과 세로줄이 만나서 생기는 교차점은 왼쪽에서 x번째 세로줄과 아래쪽에서 y번째 가로줄의 교차점일 때, (x,y)로 나타낸다. 그러면, 제일 왼쪽, 제일 아래쪽 교차점을 S라 하고, (1,1)로 나타낸다.&nbsp;</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/2459.%E2%80%85%EC%B2%A0%EC%82%AC%E2%80%85%EC%9E%90%EB%A5%B4%EA%B8%B0/8ee1de2c.png" data-original-src="https://upload.acmicpc.net/e7816ad7-5ef4-4994-87e0-6042058fb94f/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 293px; height: 288px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/2459.%E2%80%85%EC%B2%A0%EC%82%AC%E2%80%85%EC%9E%90%EB%A5%B4%EA%B8%B0/8ee1de2c.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/2459.%E2%80%85%EC%B2%A0%EC%82%AC%E2%80%85%EC%9E%90%EB%A5%B4%EA%B8%B0/8ee1de2c.png" data-original-src="https://upload.acmicpc.net/e7816ad7-5ef4-4994-87e0-6042058fb94f/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 293px; height: 288px;" /></p>
 
 <p>예를 들어, N=5인 경우에 바둑판 모양은 위와 같고, 교차점 A와 B는 각각 (2,3)와 (4,2)로 나타낸다. &nbsp;</p>
 
@@ -39,7 +39,7 @@
 
 <p>예를 들어, 아래 그림과 같이 위의 예에서 놓여진 철사에 대해서 2번째 세로줄과 3번째 세로줄 사이를 지나는 직선으로 나누어진 철사 조각들 중에서 가장 긴 부분의 길이는 7이다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/2459.%E2%80%85%EC%B2%A0%EC%82%AC%E2%80%85%EC%9E%90%EB%A5%B4%EA%B8%B0/7ea75798.png" data-original-src="https://upload.acmicpc.net/c5f32124-ae13-4645-ba21-ad334ce1369e/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 194px; height: 187px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/2459.%E2%80%85%EC%B2%A0%EC%82%AC%E2%80%85%EC%9E%90%EB%A5%B4%EA%B8%B0/7ea75798.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/2459.%E2%80%85%EC%B2%A0%EC%82%AC%E2%80%85%EC%9E%90%EB%A5%B4%EA%B8%B0/7ea75798.png" data-original-src="https://upload.acmicpc.net/c5f32124-ae13-4645-ba21-ad334ce1369e/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 194px; height: 187px;" /></p>
 
 ### 입력
 

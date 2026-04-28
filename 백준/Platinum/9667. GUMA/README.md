@@ -20,7 +20,7 @@
 
 <p>An example of a tire cutting strategy, corresponding to the third sample test.&nbsp;</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/9667.%E2%80%85GUMA/61fdcd66.png" data-original-src="https://upload.acmicpc.net/c099ca0a-1e7e-404c-b231-a250be27fee2/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 388px; height: 275px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/9667.%E2%80%85GUMA/61fdcd66.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/9667.%E2%80%85GUMA/61fdcd66.png" data-original-src="https://upload.acmicpc.net/c099ca0a-1e7e-404c-b231-a250be27fee2/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 388px; height: 275px;" /></p>
 
 <p>The topmost and the lowest lines represent a full horizontal cut, whereas the first and the last vertical lines are the ends of the tire.&nbsp;</p>
 

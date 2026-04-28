@@ -20,13 +20,13 @@
 
 <p>Figure A.1 depicts an ICPC as given in the Sample Input 1. Here, the green wires correspond to the edges of the crystal cube. The blue small cubes correspond to the cubic opaque regions inside the crystal.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/21926.%E2%80%85Three-Axis%E2%80%85Views/570e9ae4.png" data-original-src="https://upload.acmicpc.net/48a02d41-65dc-4419-b888-e0a41051c833/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 101px; height: 114px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/21926.%E2%80%85Three-Axis%E2%80%85Views/570e9ae4.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/21926.%E2%80%85Three-Axis%E2%80%85Views/570e9ae4.png" data-original-src="https://upload.acmicpc.net/48a02d41-65dc-4419-b888-e0a41051c833/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 101px; height: 114px;" /></p>
 
 <p style="text-align: center;">Figure A.1. ICPC of Sample Input 1</p>
 
 <p>ICPCs are meant to enjoy the silhouettes of its opaque regions projected by three parallel lights perpendicular to its faces. Figure A.2 depicts the ICPC and its three silhouettes.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/21926.%E2%80%85Three-Axis%E2%80%85Views/e20cbaea.png" data-original-src="https://upload.acmicpc.net/c1ae0c35-f7f3-4ac7-8c3a-bbb1caf51914/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 225px; height: 247px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/21926.%E2%80%85Three-Axis%E2%80%85Views/e20cbaea.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/21926.%E2%80%85Three-Axis%E2%80%85Views/e20cbaea.png" data-original-src="https://upload.acmicpc.net/c1ae0c35-f7f3-4ac7-8c3a-bbb1caf51914/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 225px; height: 247px;" /></p>
 
 <p style="text-align: center;">Figure A.2. ICPC of Sample Input 1 and its silhouettes (dashed-dotted lines are the edges of the parallel light perpendicular to the left face)</p>
 
@@ -69,9 +69,9 @@ u<sub>n</sub></pre>
 <table class="table table-bordered td-center">
 	<tbody>
 		<tr>
-			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/21926.%E2%80%85Three-Axis%E2%80%85Views/1a8cecfa.png" data-original-src="https://upload.acmicpc.net/e11c82dd-b090-4bad-a1f0-67fb2ae89c27/-/crop/216x220/0,0/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 108px; height: 110px;" /></td>
-			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/21926.%E2%80%85Three-Axis%E2%80%85Views/76bf13d5.png" data-original-src="https://upload.acmicpc.net/e11c82dd-b090-4bad-a1f0-67fb2ae89c27/-/crop/214x220/248,0/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 107px; height: 110px;" /></td>
-			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/21926.%E2%80%85Three-Axis%E2%80%85Views/459ae633.png" data-original-src="https://upload.acmicpc.net/e11c82dd-b090-4bad-a1f0-67fb2ae89c27/-/crop/212x220/492,0/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 106px; height: 110px;" /></td>
+			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/21926.%E2%80%85Three-Axis%E2%80%85Views/1a8cecfa.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/21926.%E2%80%85Three-Axis%E2%80%85Views/1a8cecfa.png" data-original-src="https://upload.acmicpc.net/e11c82dd-b090-4bad-a1f0-67fb2ae89c27/-/crop/216x220/0,0/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 108px; height: 110px;" /></td>
+			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/21926.%E2%80%85Three-Axis%E2%80%85Views/76bf13d5.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/21926.%E2%80%85Three-Axis%E2%80%85Views/76bf13d5.png" data-original-src="https://upload.acmicpc.net/e11c82dd-b090-4bad-a1f0-67fb2ae89c27/-/crop/214x220/248,0/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 107px; height: 110px;" /></td>
+			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/21926.%E2%80%85Three-Axis%E2%80%85Views/459ae633.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/21926.%E2%80%85Three-Axis%E2%80%85Views/459ae633.png" data-original-src="https://upload.acmicpc.net/e11c82dd-b090-4bad-a1f0-67fb2ae89c27/-/crop/212x220/492,0/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 106px; height: 110px;" /></td>
 		</tr>
 		<tr>
 			<td>&dArr;</td>

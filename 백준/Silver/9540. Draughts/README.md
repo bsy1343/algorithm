@@ -20,7 +20,7 @@
 
 <p>The most interesting type of move is capturing: if a diagonally adjacent square contains an opponent&rsquo;s piece, it may be captured (and removed from the game) by jumping over it to the unoccupied square immediately beyond it. It is allowed to make several consecutive captures in one move, if they are all made with a single piece. It is also legal to capture by either forward or backward jumps.</p>
 
-<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/9540.%E2%80%85Draughts/82eeda07.png" data-original-src="https://www.acmicpc.net/upload/images2/dr.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:161px; width:321px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/9540.%E2%80%85Draughts/82eeda07.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/9540.%E2%80%85Draughts/82eeda07.png" data-original-src="https://www.acmicpc.net/upload/images2/dr.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:161px; width:321px" /></p>
 
 <p style="text-align:center">The board before and after a single move with two captures.</p>
 

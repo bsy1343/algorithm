@@ -34,6 +34,6 @@
 
 ### 힌트
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/24188.%E2%80%85Bergskedja/0ec4b1aa.png" data-original-src="https://upload.acmicpc.net/656aba3d-b4a6-4823-a5c8-0fa1500da082/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 163px; height: 204px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/24188.%E2%80%85Bergskedja/0ec4b1aa.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/24188.%E2%80%85Bergskedja/0ec4b1aa.png" data-original-src="https://upload.acmicpc.net/656aba3d-b4a6-4823-a5c8-0fa1500da082/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 163px; height: 204px;" /></p>
 
 <p style="text-align: center;">Tv&aring; m&ouml;jliga f&ouml;rdelningar av h&ouml;jder som st&auml;mmer &ouml;verens med exempel $1$.</p>

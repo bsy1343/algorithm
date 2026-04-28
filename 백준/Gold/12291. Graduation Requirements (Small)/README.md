@@ -20,7 +20,7 @@
 
 <p>The traffic circle consists of <strong>N</strong> intersections, spaced evenly around the circle. A car would normally enter the traffic circle at one intersection, and then every second, it will move to the next counter-clockwise intersection, until eventually it reaches its destination and leaves.</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/12291.%E2%80%85Graduation%E2%80%85Requirements%E2%80%85(Small)/78da2471.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/12291/images-56.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:252px; width:252px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/12291.%E2%80%85Graduation%E2%80%85Requirements%E2%80%85(Small)/78da2471.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/12291.%E2%80%85Graduation%E2%80%85Requirements%E2%80%85(Small)/78da2471.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/12291/images-56.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:252px; width:252px" /></p>
 
 <p>You have been watching cars enter and leave the traffic circle for <strong>X</strong> seconds. For each car, you record the time it enters the circle, as well as the intersections it enters and leaves at. All cars are moving counter-clockwise at the rate of 1 intersection per second. Each car you watched exited the circle before coming back to the intersection it entered at. There are multiple lanes on the traffic circle, so multiple cars can occupy the same position at the same time.</p>
 
@@ -53,7 +53,7 @@
 
 <p>In the first sample case, we have one car, going as in the picture in the statement. There are a number of ways allowing us to travel backwards for one second &mdash; for instance, we can enter at intersection 1 at time 1 (we can&#39;t enter at time zero, because the other car is there), and travel to intersection 4 (we can&#39;t go on to intersection 3, as we would pass the other car which will be going from 3 to 4). Another option is to enter at intersection 4 at time 0, and travel to intersection 3 (and then exit).</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/12291.%E2%80%85Graduation%E2%80%85Requirements%E2%80%85(Small)/9ec896ce.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/12291/images-57.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:252px; width:251px" />​</p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/12291.%E2%80%85Graduation%E2%80%85Requirements%E2%80%85(Small)/9ec896ce.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/12291.%E2%80%85Graduation%E2%80%85Requirements%E2%80%85(Small)/9ec896ce.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/12291/images-57.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:252px; width:251px" />​</p>
 
 <p>In the second sample case, we can travel for two seconds by entering at intersection 5 at time 1, and traveling backwards to intersection 3. In the third sample case, we can&#39;t even enter the circle - there are cars at all intersections at every full second. In the fourth case there are no cars, so we can just enter the circle at any point at time 0 and travel round and round till time 6. In the fifth case we can enter the circle, but since there are only three intersections, we will always collide with the other car if we try to move to the next one.</p>
 

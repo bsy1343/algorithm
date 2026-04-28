@@ -38,7 +38,7 @@ x<sub>m</sub> y<sub>m</sub></pre>
 
 <p>You can assume that positions of no two robot arms have the same x-coordinate, that is, x<sub>i</sub> &ne; x<sub>j</sub>&nbsp;for any i &ne; j.</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/13401.%E2%80%85Distribution%E2%80%85Center/e8fd6c44.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/13401/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-11-11%20%EC%98%A4%EC%A0%84%205.19.13.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:270px; width:560px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/13401.%E2%80%85Distribution%E2%80%85Center/e8fd6c44.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/13401.%E2%80%85Distribution%E2%80%85Center/e8fd6c44.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/13401/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-11-11%20%EC%98%A4%EC%A0%84%205.19.13.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:270px; width:560px" /></p>
 
 <p>Figure C.1. Illustration of Sample Input 1</p>
 

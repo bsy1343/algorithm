@@ -20,7 +20,7 @@
 
 <p>W turniejowych pojedynkach bierze udział po dw&oacute;ch zawodnik&oacute;w i każdy pojedynek ma jednego zwycięzce, kt&oacute;ry pozostaje w turnieju, podczas gdy przegrany odpada. Układ pojedynk&oacute;w ilustruje &quot;drzewo turniejowe&quot; ustalane przed zawodami. Poniżej prezentujemy przykładowe drzewo turniejowe dla turnieju z czterema zawodnikami. W ż&oacute;łtych polach &quot;zaczynają&quot; zawodnicy, zielone pola oznaczają pojedynki.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/8822.%E2%80%85Turniej/5b7910e5.png" data-original-src="https://upload.acmicpc.net/f5037e07-b926-4b81-b470-260f0f06a0be/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/8822.%E2%80%85Turniej/5b7910e5.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/8822.%E2%80%85Turniej/5b7910e5.png" data-original-src="https://upload.acmicpc.net/f5037e07-b926-4b81-b470-260f0f06a0be/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>Na początku turnieju zawodnicy rozlosowywani są po pozycjach startowych, i każde przyporządkowanie zawodnik&oacute;w do ż&oacute;łtych p&oacute;l jest tak samo prawdopodobne.</p>
 

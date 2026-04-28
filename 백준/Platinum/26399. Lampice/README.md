@@ -24,7 +24,7 @@
 
 <p>Proud of how he decorated the terrace, he decided to take the rest of his day off. But soon he got bored, so he returned to the terrace. He started counting nice rectangles on the terrace. A rectangle is nice if for each colour both lamps are either inside or outside of the rectangle. If a lamp is located on the rectangle edge, it is considered to be inside of it.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/26399.%E2%80%85Lampice/bc4ab28f.png" data-original-src="https://upload.acmicpc.net/b8dc5cd6-0db1-4326-afe4-c629b67057a3/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 547px; height: 191px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/26399.%E2%80%85Lampice/bc4ab28f.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/26399.%E2%80%85Lampice/bc4ab28f.png" data-original-src="https://upload.acmicpc.net/b8dc5cd6-0db1-4326-afe4-c629b67057a3/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 547px; height: 191px;" /></p>
 
 <p style="text-align: center;">The left rectangle is not nice. One blue lamp is inside the rectangle, and one is outside. The right rectangle is nice. Red and blue lamps are inside. Yellow lamps are outside.</p>
 
@@ -44,4 +44,4 @@
 
 <p>Clarification of the first example: The image shows all nice rectangles from the first example.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/26399.%E2%80%85Lampice/d7a694bd.png" data-original-src="https://upload.acmicpc.net/f05a7995-ab3e-4756-ba4f-c3d8f7e52064/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 243px; height: 85px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/26399.%E2%80%85Lampice/d7a694bd.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/26399.%E2%80%85Lampice/d7a694bd.png" data-original-src="https://upload.acmicpc.net/f05a7995-ab3e-4756-ba4f-c3d8f7e52064/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 243px; height: 85px;" /></p>

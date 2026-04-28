@@ -20,7 +20,7 @@
 
 <p>We would like to make a mosaic with exactly the same number of tiles of each colour. We will do this by taking an existing design and removing some of the rows from it.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/17806.%E2%80%85Mosaic%E2%80%85Mansion/a5b14060.png" data-original-src="https://upload.acmicpc.net/57d5adee-be99-4b94-91c0-443540da4465/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 617px; height: 239px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/17806.%E2%80%85Mosaic%E2%80%85Mansion/a5b14060.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/17806.%E2%80%85Mosaic%E2%80%85Mansion/a5b14060.png" data-original-src="https://upload.acmicpc.net/57d5adee-be99-4b94-91c0-443540da4465/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 617px; height: 239px;" /></p>
 
 <p style="text-align: center;">Figure M.1: Illustration of a solution to Sample Input 1. The three rows annotated with white can be kept, giving 6 of each colour of tile.</p>
 

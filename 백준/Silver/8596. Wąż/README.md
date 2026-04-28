@@ -34,7 +34,7 @@
 
 <p>W ostatnim wierszu znajduje się $r$&nbsp;liter pooddzielanych pojedynczymi odstępami, reprezentujących kolejne ruchy węża. Litera&nbsp;<code>N</code>&nbsp;oznacza ruch naprz&oacute;d, litera&nbsp;<code>L</code>&nbsp;oznacza skręt w lewo i przejście jednego pola naprz&oacute;d, natomiast litera&nbsp;<code>P</code>&nbsp;oznacza skręt w prawo i przejście jednego pola naprz&oacute;d.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/8596.%E2%80%85W%C4%85%C5%BC/339d38d9.png" data-original-src="https://upload.acmicpc.net/6b684483-fc84-4bc4-9e0b-c05b65a0db64/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/8596.%E2%80%85W%C4%85%C5%BC/339d38d9.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/8596.%E2%80%85W%C4%85%C5%BC/339d38d9.png" data-original-src="https://upload.acmicpc.net/6b684483-fc84-4bc4-9e0b-c05b65a0db64/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p style="text-align: center;">Możliwe początkowe kierunki ruchu węża.</p>
 

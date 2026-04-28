@@ -22,7 +22,7 @@
 
 <p>또한, 각 교차로마다 신호등이 있는데, 신호등은 $K$초를 주기로 일정한 패턴이 반복된다. 임의의 시간에서 신호등의 상태는 다음 그림과 같이 1, 2, 3, 4의 4가지 상태로 표현할 수 있고, 신호에 따라 통행할 수 있는 차량의 방향이 달라진다. 예를 들어, $K=3$이고 한 교차로의 신호 패턴이 &quot;132&quot;라면 0초에서 1초 사이의 1초 동안은 1번 상태, 1초에서 2초 사이의 1초 동안은 3번 상태, 2초에서 3초 사이의 1초 동안은 2번 상태, 3초에서 4초 사이의 1초 동안은 1번 상태, ... 등으로 무한히 반복된다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/24031.%E2%80%85%EC%B9%B4%EC%B9%B4%EC%98%A4%E2%80%85%ED%83%9D%EC%8B%9C/8519ab40.png" data-original-src="https://upload.acmicpc.net/6a332478-9517-4a90-bb4a-694720e6cb6f/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 500px; height: 493px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/24031.%E2%80%85%EC%B9%B4%EC%B9%B4%EC%98%A4%E2%80%85%ED%83%9D%EC%8B%9C/8519ab40.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/24031.%E2%80%85%EC%B9%B4%EC%B9%B4%EC%98%A4%E2%80%85%ED%83%9D%EC%8B%9C/8519ab40.png" data-original-src="https://upload.acmicpc.net/6a332478-9517-4a90-bb4a-694720e6cb6f/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 500px; height: 493px;" /></p>
 
 <p style="text-align: center;">신호의 상태에 따른 차량의 이동 방향은 위 그림과 같다.</p>
 

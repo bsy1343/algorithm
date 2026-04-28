@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p><img alt="sook-001(1).jpg" src="%EB%B0%B1%EC%A4%80/Gold/6198.%E2%80%85%EC%98%A5%EC%83%81%E2%80%85%EC%A0%95%EC%9B%90%E2%80%85%EA%BE%B8%EB%AF%B8%EA%B8%B0/32166b48.png" data-original-src="https://upload.acmicpc.net/ca458f07-d3b3-436f-a996-49080935149a/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p><img alt="sook-001(1).jpg" src="%EB%B0%B1%EC%A4%80/Gold/6198.%E2%80%85%EC%98%A5%EC%83%81%E2%80%85%EC%A0%95%EC%9B%90%E2%80%85%EA%BE%B8%EB%AF%B8%EA%B8%B0/32166b48.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/6198.%E2%80%85%EC%98%A5%EC%83%81%E2%80%85%EC%A0%95%EC%9B%90%E2%80%85%EA%BE%B8%EB%AF%B8%EA%B8%B0/32166b48.png" data-original-src="https://upload.acmicpc.net/ca458f07-d3b3-436f-a996-49080935149a/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>도시에는 N개의 빌딩이 있다.</p>
 

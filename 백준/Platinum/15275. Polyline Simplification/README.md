@@ -22,7 +22,7 @@
 
 <p>Consider the example below.</p>
 
-<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/15275.%E2%80%85Polyline%E2%80%85Simplification/652c095a.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15275/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:283px; width:412px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/15275.%E2%80%85Polyline%E2%80%85Simplification/652c095a.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/15275.%E2%80%85Polyline%E2%80%85Simplification/652c095a.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15275/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:283px; width:412px" /></p>
 
 <p>The original polyline is shown at the top. The area of the triangle formed by p<sub>2</sub>, p<sub>3</sub>, and p<sub>4</sub> is considered (middle), and p<sub>3</sub> is removed if the area is the smallest among all such triangles. The resulting polyline after p<sub>3</sub> is removed is shown at the bottom.</p>
 

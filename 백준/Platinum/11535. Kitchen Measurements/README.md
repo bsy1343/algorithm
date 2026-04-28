@@ -18,7 +18,7 @@
 
 <p>You are making a recipe and need to measure a precise volume of liquid. There are an assortment of cups of varying volumes in your kitchen, however no cup has any markings on it other than to indicate its total volume, and none of them match the volume that you want. You start with the biggest cup full of liquid and, to make sure you know precisely how much volume you are working with at any point in time, you consider steps in which you pour from any nonempty cup into another cup, always pouring until either the cup you are pouring into becomes full, or the cup you are pouring from becomes empty (whichever occurs first). As a simple example, assume you start with a full cup having capacity 5, and you have another cup with capacity 2, but your goal is to have 3 units of the liquid in the largest cup. In this case, you can start pouring from the larger cup to the smaller, stopping when the smaller one reaches its capacity of 2. This will leave precisely 3 units in the larger cup. See Figure E.1(a).</p>
 
-<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/11535.%E2%80%85Kitchen%E2%80%85Measurements/7500fb04.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11535/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:268px; width:383px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/11535.%E2%80%85Kitchen%E2%80%85Measurements/7500fb04.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/11535.%E2%80%85Kitchen%E2%80%85Measurements/7500fb04.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11535/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:268px; width:383px" /></p>
 
 <p style="text-align:center">Figure E.1: Pouring between cups</p>
 
@@ -26,7 +26,7 @@
 
 <p>As a final example, you start with cups of capacities 11, 10, 7, 4, and 2, with the 11-cup full, and a goal of ending up with 10 units in the 11-cup. Obviously, you could fill the 10-cup, dump the remaining 1 unit into another cup, and then pour from the full 10-cup back into the 11-cup, as illustrated in Figure E.2(a). These three pours would mean transferring a total volume of 10 + 1 + 10 = 21. Figure E.2(b) shows a sequence with more steps, but less liquid poured.</p>
 
-<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/11535.%E2%80%85Kitchen%E2%80%85Measurements/d161f56b.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11535/2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:329px; width:351px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/11535.%E2%80%85Kitchen%E2%80%85Measurements/d161f56b.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/11535.%E2%80%85Kitchen%E2%80%85Measurements/d161f56b.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11535/2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:329px; width:351px" /></p>
 
 <p style="text-align:center">Figure E.2: More pouring</p>
 

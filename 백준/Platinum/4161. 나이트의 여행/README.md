@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/4161.%E2%80%85%EB%82%98%EC%9D%B4%ED%8A%B8%EC%9D%98%E2%80%85%EC%97%AC%ED%96%89/57fee400.png" data-original-src="https://www.acmicpc.net/upload/images/chess(1).png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="float:right; height:281px; width:283px" />체스에서 나이트는 가로로 두 칸, 세로로 한 칸 이동하고, 가로로 한 칸, 세로로 두 칸 이동할 수 있다.</p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/4161.%E2%80%85%EB%82%98%EC%9D%B4%ED%8A%B8%EC%9D%98%E2%80%85%EC%97%AC%ED%96%89/57fee400.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/4161.%E2%80%85%EB%82%98%EC%9D%B4%ED%8A%B8%EC%9D%98%E2%80%85%EC%97%AC%ED%96%89/57fee400.png" data-original-src="https://www.acmicpc.net/upload/images/chess(1).png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="float:right; height:281px; width:283px" />체스에서 나이트는 가로로 두 칸, 세로로 한 칸 이동하고, 가로로 한 칸, 세로로 두 칸 이동할 수 있다.</p>
 
 <p>크기가 무한대인 체스판 (0, 0) 위에 나이트가 하나 놓여져 있다면, 나이트는 (1,2), (-1,2), (1,-2), (-1,-2), (2,1), (-2,1), (2,-1), (-2,-1)로 이동할 수 있다.</p>
 

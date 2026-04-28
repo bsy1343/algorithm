@@ -21,9 +21,9 @@
 <table style="height:204px; text-align:center; width:406px">
 	<tbody>
 		<tr>
-			<td><img alt="optimal paths" src="%EB%B0%B1%EC%A4%80/Platinum/10348.%E2%80%85Shrine%E2%80%85Maintenance/c06495be.png" data-original-src="https://www.acmicpc.net/upload/images2/fig1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width:200px" /></td>
-			<td><img alt="optimal paths" src="%EB%B0%B1%EC%A4%80/Platinum/10348.%E2%80%85Shrine%E2%80%85Maintenance/c6ac9618.png" data-original-src="https://www.acmicpc.net/upload/images2/fig3.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width:225px" /></td>
-			<td><img alt="optimal paths" src="%EB%B0%B1%EC%A4%80/Platinum/10348.%E2%80%85Shrine%E2%80%85Maintenance/3a16ebe8.png" data-original-src="https://www.acmicpc.net/upload/images2/fig4.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width:215px" /></td>
+			<td><img alt="optimal paths" src="%EB%B0%B1%EC%A4%80/Platinum/10348.%E2%80%85Shrine%E2%80%85Maintenance/c06495be.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/10348.%E2%80%85Shrine%E2%80%85Maintenance/c06495be.png" data-original-src="https://www.acmicpc.net/upload/images2/fig1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width:200px" /></td>
+			<td><img alt="optimal paths" src="%EB%B0%B1%EC%A4%80/Platinum/10348.%E2%80%85Shrine%E2%80%85Maintenance/c6ac9618.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/10348.%E2%80%85Shrine%E2%80%85Maintenance/c6ac9618.png" data-original-src="https://www.acmicpc.net/upload/images2/fig3.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width:225px" /></td>
+			<td><img alt="optimal paths" src="%EB%B0%B1%EC%A4%80/Platinum/10348.%E2%80%85Shrine%E2%80%85Maintenance/3a16ebe8.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/10348.%E2%80%85Shrine%E2%80%85Maintenance/3a16ebe8.png" data-original-src="https://www.acmicpc.net/upload/images2/fig4.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width:215px" /></td>
 			<!--
       <td><img style="width: 205px;" alt="optimal paths" src="fig2.png"><br>
 	  -->

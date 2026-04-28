@@ -46,5 +46,5 @@
 
 <p>다음 그림을 참조하자.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/15878.%E2%80%85Pineapple%E2%80%85Pizza/4c72ac90.png" data-original-src="https://upload.acmicpc.net/54f7bc1e-1492-41c5-a813-270b37d2dc16/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 389px; height: 288px;" /><br />
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/15878.%E2%80%85Pineapple%E2%80%85Pizza/4c72ac90.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/15878.%E2%80%85Pineapple%E2%80%85Pizza/4c72ac90.png" data-original-src="https://upload.acmicpc.net/54f7bc1e-1492-41c5-a813-270b37d2dc16/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 389px; height: 288px;" /><br />
 &nbsp;</p>

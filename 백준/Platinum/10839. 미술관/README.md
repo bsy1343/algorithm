@@ -24,7 +24,7 @@
 
 <p>미술관 내부의 어떤 장소 q가 전등 v의 조명을 받는다는 것은, 두 점 q와 v를 연결하는 선분이 P의 외부와 만나지 않는다는 것을 말한다. P의 모든 점은 v<sub>0</sub> 또는 v<sub>1</sub>로부터 조명을 받는다는 사실에 유의하라.&nbsp;</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/10839.%E2%80%85%EB%AF%B8%EC%88%A0%EA%B4%80/f201d025.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/10839/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:175px; width:280px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/10839.%E2%80%85%EB%AF%B8%EC%88%A0%EA%B4%80/f201d025.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/10839.%E2%80%85%EB%AF%B8%EC%88%A0%EA%B4%80/f201d025.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/10839/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:175px; width:280px" /></p>
 
 <p style="text-align: center;">그림 1. 다각형의 모든 점이 v<sub>0</sub> 또는 v<sub>1</sub>로부터 조명을 받는다.&nbsp;</p>
 

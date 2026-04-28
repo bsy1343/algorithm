@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align:center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/30032.%E2%80%85%EC%95%8C%ED%8C%8C%EB%B2%B3%E2%80%85%EB%92%A4%EC%A7%91%EA%B8%B0/5a15e82b.png" data-original-src="https://upload.acmicpc.net/0b073c71-f310-4b13-976f-06586e535546/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" width="400px" /></p>
+<p style="text-align:center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/30032.%E2%80%85%EC%95%8C%ED%8C%8C%EB%B2%B3%E2%80%85%EB%92%A4%EC%A7%91%EA%B8%B0/5a15e82b.png" data-original-src="%EB%B0%B1%EC%A4%80/Bronze/30032.%E2%80%85%EC%95%8C%ED%8C%8C%EB%B2%B3%E2%80%85%EB%92%A4%EC%A7%91%EA%B8%B0/5a15e82b.png" data-original-src="https://upload.acmicpc.net/0b073c71-f310-4b13-976f-06586e535546/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" width="400px" /></p>
 
 <p>알파벳 소문자 <code>d</code>, <code>b</code>, <code>q</code>, <code>p</code>는 상하좌우로 뒤집으면 <code>d</code>, <code>b</code>, <code>q</code>, <code>p</code> 중 하나로 변하는 특별한 성질이 있다. 그 성질을 정리하면 다음과 같다.</p>
 

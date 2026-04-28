@@ -18,7 +18,7 @@
 
 <p>가을 축제를 맞아 영화 동아리의 상원은 과 게시판에 동아리 상영회 포스터를 붙였다. 잠시 후에 와 보니 다른 동아리 사람이 그 위에 다른 행사 포스터를 붙여 일부분이 가려서 보이지 않는 것이다. 동아리 간에는 다른 포스터를 절반 이상은 가릴 수 없도록 되어 있기에 보이는 부분의 넓이를 계산해보고 따지러 가기로 하였다. 포스터는 둘 다 직사각형이며, 게시판 벽에 평행하게 붙어있다고 하자. 각 포스터의 위치는 왼쪽 아래와 오른쪽 위 두 꼭짓점의 좌표로 주어진다.</p>
 
-<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/3063.%E2%80%85%EA%B2%8C%EC%8B%9C%ED%8C%90/e42f04e2.png" data-original-src="https://www.acmicpc.net/upload/images/board(1).png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:165px; width:290px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/3063.%E2%80%85%EA%B2%8C%EC%8B%9C%ED%8C%90/e42f04e2.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/3063.%E2%80%85%EA%B2%8C%EC%8B%9C%ED%8C%90/e42f04e2.png" data-original-src="https://www.acmicpc.net/upload/images/board(1).png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:165px; width:290px" /></p>
 
 ### 입력
 

@@ -24,7 +24,7 @@
 
 <p>Sample Input 1 is illustrated below. The triangle that includes the point $(-1,10)$ encloses exactly two other treasure points which have total value $4+8=12$.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/27592.%E2%80%85Triangle%E2%80%85Containment/d01a2145.png" data-original-src="https://upload.acmicpc.net/05721e9e-9c7a-4805-b22f-9275bb97d99e/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 500px; height: 331px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/27592.%E2%80%85Triangle%E2%80%85Containment/d01a2145.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/27592.%E2%80%85Triangle%E2%80%85Containment/d01a2145.png" data-original-src="https://upload.acmicpc.net/05721e9e-9c7a-4805-b22f-9275bb97d99e/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 500px; height: 331px;" /></p>
 
 ### 입력
 

@@ -18,7 +18,7 @@
 
 <p>삼각수 T<sub>n</sub>(n &ge; 1)는 [그림]에서와 같이 기하학적으로 일정한 모양의 규칙을 갖는 점들의 모음으로 표현될 수 있다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/10448.%E2%80%85%EC%9C%A0%EB%A0%88%EC%B9%B4%E2%80%85%EC%9D%B4%EB%A1%A0/211dcccc.png" data-original-src="https://www.acmicpc.net/upload/images2/eureka.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/10448.%E2%80%85%EC%9C%A0%EB%A0%88%EC%B9%B4%E2%80%85%EC%9D%B4%EB%A1%A0/211dcccc.png" data-original-src="%EB%B0%B1%EC%A4%80/Bronze/10448.%E2%80%85%EC%9C%A0%EB%A0%88%EC%B9%B4%E2%80%85%EC%9D%B4%EB%A1%A0/211dcccc.png" data-original-src="https://www.acmicpc.net/upload/images2/eureka.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p style="text-align: center;">[그림]</p>
 

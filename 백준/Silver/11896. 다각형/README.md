@@ -18,11 +18,11 @@
 
 <p>승현이는 웹툰을 보는 것보다 더 생산적인 활동을 하고자 합니다. 그래서 종이에다가 아래와 같은 그림을 하나 그렸습니다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/11896.%E2%80%85%EB%8B%A4%EA%B0%81%ED%98%95/7b0fd588.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11896/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:215px; width:164px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/11896.%E2%80%85%EB%8B%A4%EA%B0%81%ED%98%95/7b0fd588.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/11896.%E2%80%85%EB%8B%A4%EA%B0%81%ED%98%95/7b0fd588.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11896/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:215px; width:164px" /></p>
 
 <p>남들과 보는 눈이 다른 승현이는 밑의 사각형 부분은 직선을 하나 그어서 모든 변을 자를 수 있다는 것을 알게 되었습니다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/11896.%E2%80%85%EB%8B%A4%EA%B0%81%ED%98%95/504268ee.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11896/2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:215px; width:204px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/11896.%E2%80%85%EB%8B%A4%EA%B0%81%ED%98%95/504268ee.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/11896.%E2%80%85%EB%8B%A4%EA%B0%81%ED%98%95/504268ee.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11896/2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:215px; width:204px" /></p>
 
 <p>이제 무슨 이야기가 나올 지 다 아시겠지만.. 승현이는 갑자기(?) 이러한 조건을 만족하는 다각형들의 종류가 몇 가지나 될지 궁금해졌습니다.</p>
 

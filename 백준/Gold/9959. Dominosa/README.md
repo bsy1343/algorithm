@@ -18,7 +18,7 @@
 
 <p>A set of dominoes, that is, one instance of every unordered pair of the numbers from 0 to n, has been arranged irregularly into a rectangle and the pattern has been recorded by writing the number in each square. For instance, in the figure below the original layout, using a &#39;standard&#39; set (n = 6) of dominoes, is on the left and the puzzle configuration is on the right. Write a program to recreate the original configuration, guaranteed to exist and to be unique.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/9959.%E2%80%85Dominosa/7521625a.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/9959/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:269px; width:616px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/9959.%E2%80%85Dominosa/7521625a.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/9959.%E2%80%85Dominosa/7521625a.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/9959/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:269px; width:616px" /></p>
 
 ### 입력
 

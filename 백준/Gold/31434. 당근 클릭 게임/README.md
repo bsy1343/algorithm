@@ -27,7 +27,7 @@
 	<li>정수 $i$$(1 \le i \le N)$를 고르고, 당근 $A_i$개를 지불하여 $i$번째 스피드 효과를 구매한다. 구매 직후, $s$가 $B_i$만큼 증가한다. (이전에 구매한 스피드 효과를 다시 구매하는 것도 가능하다.)</li>
 </ol>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/31434.%E2%80%85%EB%8B%B9%EA%B7%BC%E2%80%85%ED%81%B4%EB%A6%AD%E2%80%85%EA%B2%8C%EC%9E%84/44c7a628.png" data-original-src="https://u.acmicpc.net/c0c9bc5d-2628-43f7-a564-943b28096200/%EB%8B%B9%EA%B7%BC%EB%8B%B9%EA%B7%BC.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 234px; width: 350px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/31434.%E2%80%85%EB%8B%B9%EA%B7%BC%E2%80%85%ED%81%B4%EB%A6%AD%E2%80%85%EA%B2%8C%EC%9E%84/44c7a628.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/31434.%E2%80%85%EB%8B%B9%EA%B7%BC%E2%80%85%ED%81%B4%EB%A6%AD%E2%80%85%EA%B2%8C%EC%9E%84/44c7a628.png" data-original-src="https://u.acmicpc.net/c0c9bc5d-2628-43f7-a564-943b28096200/%EB%8B%B9%EA%B7%BC%EB%8B%B9%EA%B7%BC.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 234px; width: 350px;" /></p>
 
 <p>게임을 개발하느라 에너지를 모두 소모해 버린 에릭을 위해 게임을 $K$초 플레이한 후 당근을 최대 몇 개까지 가지고 있을 수 있는지 알려주자!</p>
 

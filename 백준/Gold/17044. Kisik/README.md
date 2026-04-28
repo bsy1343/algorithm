@@ -22,7 +22,7 @@
 
 <p>Since maintaining air on Mars is expensive, your job is to choose a single assignment between all possible ones in a way that will require the least amount of air (one unit of air is required to supply unit sized square)</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/17044.%E2%80%85Kisik/ed702889.png" data-original-src="https://upload.acmicpc.net/bf9a2b47-3bb0-4e6b-9b6c-e411eff81dfb/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 279px; height: 123px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/17044.%E2%80%85Kisik/ed702889.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/17044.%E2%80%85Kisik/ed702889.png" data-original-src="https://upload.acmicpc.net/bf9a2b47-3bb0-4e6b-9b6c-e411eff81dfb/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 279px; height: 123px;" /></p>
 
 <p style="text-align: center;">A possible city from the first sample test, which only needs 20 air units. We chose not to build the building which is 3 units wide.</p>
 

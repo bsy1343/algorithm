@@ -18,7 +18,7 @@
 
 <p>춘배는 $N$g 하트 하나를 가지고 있다. 마음씨 좋은 춘배는 자신이 가진 하트 무게를 나눠 $M$g 하트 하나를 나비에게 선물해 주려 한다!</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/30408.%E2%80%85%EC%B6%98%EB%B0%B0%EA%B0%80%E2%80%85%EC%84%A0%EB%AC%BC%ED%95%98%EB%8A%94%E2%80%85%ED%8A%B9%EB%B3%84%ED%95%9C%E2%80%85%ED%95%98%ED%8A%B8/d883d796.png" data-original-src="https://upload.acmicpc.net/2c9a364b-b502-4150-88b5-a902dfd14445/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/30408.%E2%80%85%EC%B6%98%EB%B0%B0%EA%B0%80%E2%80%85%EC%84%A0%EB%AC%BC%ED%95%98%EB%8A%94%E2%80%85%ED%8A%B9%EB%B3%84%ED%95%9C%E2%80%85%ED%95%98%ED%8A%B8/d883d796.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/30408.%E2%80%85%EC%B6%98%EB%B0%B0%EA%B0%80%E2%80%85%EC%84%A0%EB%AC%BC%ED%95%98%EB%8A%94%E2%80%85%ED%8A%B9%EB%B3%84%ED%95%9C%E2%80%85%ED%95%98%ED%8A%B8/d883d796.png" data-original-src="https://upload.acmicpc.net/2c9a364b-b502-4150-88b5-a902dfd14445/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>춘배는 자신이 가진 $A$g 하트를 하트 $2$개로 나눌 수 있다. 이때 $A$가 짝수라면 $ \frac{A}{2}$g인 하트 $2$개로 나눌 수 있고, $A$가 홀수라면 $ \frac{A-1}{2}$g 하트 $1$개와 $(\frac{A-1}{2}+1)$g 하트 $1$개로 나눌 수 있다. 그 후 나눠진 $2$개의 하트 중 무조건 하나를 선택해서 버려야 한다. 이와 같은 방법으로 남은 $1$개의 하트가 $M$g이 될 때까지 계속 나눈다. 하지만 하트가 $1$g이 되면 춘배는 더 이상 하트를 나눌 수 없게 된다.</p>
 

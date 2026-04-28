@@ -24,7 +24,7 @@
 
 <p>조각은 아래와 같이 네 종류가 있으며, 과제 마왕은 항상 조각의 중심에만 위치한다. aespa는 지도 상에 그려진 선을 통해서만 이동할 수 있다. 단, aespa는 절대 과거를 돌아보지 않기에 한 번 지난 지점은 다시 지나지 않는다. 파란 화살표로 표시된 길이 만큼 이동하는 데 하루가 걸리며, aespa를 방해하려고 따라오는 Black Mamba를 피하기 위해 18일 이내에 KOSMO에 도착해야 한다. 정확히 18일 후에 KOSMO에 도착해도 된다.</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/25580.%E2%80%85Next%E2%80%85Level/f66e8aa5.png" data-original-src="https://upload.acmicpc.net/8e84b84a-1919-46a8-9f06-5513e8b1a647/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" width="1000px/" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/25580.%E2%80%85Next%E2%80%85Level/f66e8aa5.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/25580.%E2%80%85Next%E2%80%85Level/f66e8aa5.png" data-original-src="https://upload.acmicpc.net/8e84b84a-1919-46a8-9f06-5513e8b1a647/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" width="1000px/" /></p>
 
 ### 입력
 

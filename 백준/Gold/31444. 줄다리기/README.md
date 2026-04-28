@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="display: flex; flex-direction: row; justify-content: center;"><img alt="줄다리기" src="%EB%B0%B1%EC%A4%80/Gold/31444.%E2%80%85%EC%A4%84%EB%8B%A4%EB%A6%AC%EA%B8%B0/03e35d7e.png" data-original-src="https://upload.acmicpc.net/6f469d16-96e0-47e6-aaa9-b401ef26cc2d/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="max-height: 150px; max-width: 100%;" /></p>
+<p style="display: flex; flex-direction: row; justify-content: center;"><img alt="줄다리기" src="%EB%B0%B1%EC%A4%80/Gold/31444.%E2%80%85%EC%A4%84%EB%8B%A4%EB%A6%AC%EA%B8%B0/03e35d7e.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/31444.%E2%80%85%EC%A4%84%EB%8B%A4%EB%A6%AC%EA%B8%B0/03e35d7e.png" data-original-src="https://upload.acmicpc.net/6f469d16-96e0-47e6-aaa9-b401ef26cc2d/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="max-height: 150px; max-width: 100%;" /></p>
 
 <p>월간 향유회의 특별 행사로 참가자 $N$명이 두 팀으로 나뉘어 줄다리기하기로 했다! $A_{ij}$는 $i$번 참가자와 $j$번 참가자 간의 팀워크 수치를 의미한다.</p>
 

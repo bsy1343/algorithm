@@ -20,7 +20,7 @@
 
 <p>Both moves are similar to knight moves in chess: in the first type of move, you go from your current square to a square that is $a$ tiles away along one axis of the grid and $b$ tiles away along the other axis. Similarly, in the second type of move, you need to move $c$ and $d$ tiles along the respective axes. As you can freely swap the two axes and choose the movement direction along each axis, there can be up to $8$ ways of performing a given type of move. Figure K.1 shows an example dance routine with $(a,b) = (1,2)$ and $(c,d) = (2,3)$.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/30908.%E2%80%85Klompendans/d9ba75bb.png" data-original-src="https://upload.acmicpc.net/2f9c3091-5dd4-41ba-a4b5-f32cd5008709/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 250px; height: 250px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/30908.%E2%80%85Klompendans/d9ba75bb.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/30908.%E2%80%85Klompendans/d9ba75bb.png" data-original-src="https://upload.acmicpc.net/2f9c3091-5dd4-41ba-a4b5-f32cd5008709/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 250px; height: 250px;" /></p>
 
 <p style="text-align: center;">Figure K.1: Illustration of Sample Input 3, showing a dance that begins in the top left corner of a $4\times 4$ grid and ends in the bottom left corner, visiting the blue squares along the way. There are $13$ reachable squares in total. The three squares highlighted in red cannot be part of any dance performance.</p>
 

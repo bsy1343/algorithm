@@ -20,7 +20,7 @@
 
 <p>In this network, we use a step function: if A &gt;= 0, Output is 1 otherwise 0, where A is the summation of the weighted input and the bias. In this case, A = X1W1 + X2W2 + B.&nbsp;</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/11264.%E2%80%85Logical%E2%80%85Functions%3A%E2%80%85AND-OR/bd21e515.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11264/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:146px; width:436px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/11264.%E2%80%85Logical%E2%80%85Functions%3A%E2%80%85AND-OR/bd21e515.png" data-original-src="%EB%B0%B1%EC%A4%80/Bronze/11264.%E2%80%85Logical%E2%80%85Functions%3A%E2%80%85AND-OR/bd21e515.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11264/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:146px; width:436px" /></p>
 
 <p style="text-align: center;">Figure 1. Neuron Node</p>
 

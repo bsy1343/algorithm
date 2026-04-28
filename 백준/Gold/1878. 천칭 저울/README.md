@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/1878.%E2%80%85%EC%B2%9C%EC%B9%AD%E2%80%85%EC%A0%80%EC%9A%B8/e06868c7.png" data-original-src="https://upload.acmicpc.net/53969aa7-dbe9-4fa8-8a8e-4ae69bbac348/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 100px; height: 101px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/1878.%E2%80%85%EC%B2%9C%EC%B9%AD%E2%80%85%EC%A0%80%EC%9A%B8/e06868c7.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/1878.%E2%80%85%EC%B2%9C%EC%B9%AD%E2%80%85%EC%A0%80%EC%9A%B8/e06868c7.png" data-original-src="https://upload.acmicpc.net/53969aa7-dbe9-4fa8-8a8e-4ae69bbac348/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 100px; height: 101px;" /></p>
 
 <p>그림과 같이 생긴 추가 있다. 각 추는 그에 붙여진 번호와 같은 무게를 갖고 있으며, 1번부터 n번까지 번호가 붙은 추가 각각 한 개씩의 있다고 하자. 다음과 같은 규칙을 만족시키면서, 천칭저울에 추를 매달려고 한다.</p>
 
@@ -38,4 +38,4 @@
 
 ### 힌트
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/1878.%E2%80%85%EC%B2%9C%EC%B9%AD%E2%80%85%EC%A0%80%EC%9A%B8/d1017345.png" data-original-src="https://upload.acmicpc.net/4fbbfa1c-0440-44e7-9784-635d91ed1d1c/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 500px; height: 271px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/1878.%E2%80%85%EC%B2%9C%EC%B9%AD%E2%80%85%EC%A0%80%EC%9A%B8/d1017345.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/1878.%E2%80%85%EC%B2%9C%EC%B9%AD%E2%80%85%EC%A0%80%EC%9A%B8/d1017345.png" data-original-src="https://upload.acmicpc.net/4fbbfa1c-0440-44e7-9784-635d91ed1d1c/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 500px; height: 271px;" /></p>

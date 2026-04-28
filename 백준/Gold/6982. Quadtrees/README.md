@@ -41,13 +41,13 @@
 
 <p>In the figure, the first example is shown (from top to bottom) as image, quadtree, pre-order string and number of pixels. The quadrant numbering is shown at the top of the figure.</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/6982.%E2%80%85Quadtrees/b40644fa.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/6982/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202017-01-13%20%EC%98%A4%ED%9B%84%203.44.25.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:299px; width:500px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/6982.%E2%80%85Quadtrees/b40644fa.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/6982.%E2%80%85Quadtrees/b40644fa.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/6982/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202017-01-13%20%EC%98%A4%ED%9B%84%203.44.25.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:299px; width:500px" /></p>
 
 <p>Questions</p>
 
 <ol>
 	<li>Give a preorder representation of the quadtree encoding the image below.<br />
-	<img alt="" src="%EB%B0%B1%EC%A4%80/Gold/6982.%E2%80%85Quadtrees/35b57dc9.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/6982/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202017-01-13%20%EC%98%A4%ED%9B%84%203.45.35.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:186px; width:180px" /></li>
+	<img alt="" src="%EB%B0%B1%EC%A4%80/Gold/6982.%E2%80%85Quadtrees/35b57dc9.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/6982.%E2%80%85Quadtrees/35b57dc9.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/6982/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202017-01-13%20%EC%98%A4%ED%9B%84%203.45.35.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:186px; width:180px" /></li>
 	<li>What is the length of a shortest and a longest string representing the preorder traversal of a quadtree encoding an image of 32 x 32 pixels? Explain your answer.</li>
 	<li>Write a program satisfying the specification below.</li>
 </ol>

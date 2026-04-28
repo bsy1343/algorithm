@@ -18,7 +18,7 @@
 
 <p>고등학생이 되어 떡볶이와 튀김이 먹고 싶어진 파댕이는 점심시간에 학교에서 탈출해 분식점에 간다는 사악한 계획을 세웠다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/30981.%E2%80%85%ED%8C%8C%EB%8C%95%EC%9D%B4%EC%9D%98%E2%80%85%ED%95%99%EA%B5%90%E2%80%85%ED%83%88%EC%B6%9C%E2%80%85%EB%8C%80%EC%9E%91%EC%A0%84!/24cad9ca.png" data-original-src="https://upload.acmicpc.net/d8f38c22-7d52-4db4-84a1-747e5c97706c/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 221px; width: 256px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/30981.%E2%80%85%ED%8C%8C%EB%8C%95%EC%9D%B4%EC%9D%98%E2%80%85%ED%95%99%EA%B5%90%E2%80%85%ED%83%88%EC%B6%9C%E2%80%85%EB%8C%80%EC%9E%91%EC%A0%84!/24cad9ca.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/30981.%E2%80%85%ED%8C%8C%EB%8C%95%EC%9D%B4%EC%9D%98%E2%80%85%ED%95%99%EA%B5%90%E2%80%85%ED%83%88%EC%B6%9C%E2%80%85%EB%8C%80%EC%9E%91%EC%A0%84!/24cad9ca.png" data-original-src="https://upload.acmicpc.net/d8f38c22-7d52-4db4-84a1-747e5c97706c/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 221px; width: 256px;" /></p>
 
 <p>학교를 나가려고 주변을 살펴본 파댕이는 선생님들이 주변을 감시하고 있어 학교를 쉽게 출입할 수 없다는 사실을 깨달았다. 파댕이가 선생님의 감시에 걸리지 않고 점심시간 내에 떡볶이를 먹고 교실로 돌아올 수 있는지 확인해 주자!</p>
 
@@ -39,7 +39,7 @@
 
 <p>두 칸 $(a , b)$와 $(x , y)$가 서로 인접한다는 것은 $\max (\left\vert a - x \right\vert, \left\vert b - y \right\vert) = 1$임을 의미한다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/30981.%E2%80%85%ED%8C%8C%EB%8C%95%EC%9D%B4%EC%9D%98%E2%80%85%ED%95%99%EA%B5%90%E2%80%85%ED%83%88%EC%B6%9C%E2%80%85%EB%8C%80%EC%9E%91%EC%A0%84!/74707d94.png" data-original-src="https://upload.acmicpc.net/2a679974-e14a-4616-9ae2-c655600dff81/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 221px; width: 256px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/30981.%E2%80%85%ED%8C%8C%EB%8C%95%EC%9D%B4%EC%9D%98%E2%80%85%ED%95%99%EA%B5%90%E2%80%85%ED%83%88%EC%B6%9C%E2%80%85%EB%8C%80%EC%9E%91%EC%A0%84!/74707d94.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/30981.%E2%80%85%ED%8C%8C%EB%8C%95%EC%9D%B4%EC%9D%98%E2%80%85%ED%95%99%EA%B5%90%E2%80%85%ED%83%88%EC%B6%9C%E2%80%85%EB%8C%80%EC%9E%91%EC%A0%84!/74707d94.png" data-original-src="https://upload.acmicpc.net/2a679974-e14a-4616-9ae2-c655600dff81/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 221px; width: 256px;" /></p>
 
 ### 입력
 

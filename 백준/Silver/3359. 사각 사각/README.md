@@ -30,7 +30,7 @@
 
 ### 힌트
 
-<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/3359.%E2%80%85%EC%82%AC%EA%B0%81%E2%80%85%EC%82%AC%EA%B0%81/a8d99e48.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/3359/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:255px; width:465px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/3359.%E2%80%85%EC%82%AC%EA%B0%81%E2%80%85%EC%82%AC%EA%B0%81/a8d99e48.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/3359.%E2%80%85%EC%82%AC%EA%B0%81%E2%80%85%EC%82%AC%EA%B0%81/a8d99e48.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/3359/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:255px; width:465px" /></p>
 
 <p>위의 그림은 주어진 예제의&nbsp;사각형을&nbsp;위쪽 둘레가 최댓값이 되도록 배치한 모습이다.</p>
 

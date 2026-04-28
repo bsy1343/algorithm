@@ -34,11 +34,11 @@
 	<li><strong>동기화의 법칙</strong>: 플레이어가 외친 시각과 펼쳐진 카드에 적힌 시각이 일치하면, 모든 플레이어들은 즉시 손바닥으로 게임판 중앙을 내리쳐야 합니다.</li>
 </ol>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/27161.%E2%80%85%ED%81%AC%EB%A0%88%EC%9D%B4%EC%A7%80%E2%80%85%ED%83%80%EC%9E%84/f172bf85.png" data-original-src="https://upload.acmicpc.net/d0e873b5-81e6-4221-bad9-96b0c050a625/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 620px; max-width: 100%;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/27161.%E2%80%85%ED%81%AC%EB%A0%88%EC%9D%B4%EC%A7%80%E2%80%85%ED%83%80%EC%9E%84/f172bf85.png" data-original-src="%EB%B0%B1%EC%A4%80/Bronze/27161.%E2%80%85%ED%81%AC%EB%A0%88%EC%9D%B4%EC%A7%80%E2%80%85%ED%83%80%EC%9E%84/f172bf85.png" data-original-src="https://upload.acmicpc.net/d0e873b5-81e6-4221-bad9-96b0c050a625/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 620px; max-width: 100%;" /></p>
 
 <p style="text-align: center;">그림 C.1: 시간 역행의 법칙 - 모래시계 카드를 펼치면 시간이 거꾸로 흐르기 시작합니다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/27161.%E2%80%85%ED%81%AC%EB%A0%88%EC%9D%B4%EC%A7%80%E2%80%85%ED%83%80%EC%9E%84/97a84d0e.png" data-original-src="https://upload.acmicpc.net/6b23f1fb-d978-470a-bb82-241f484300cf/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 620px; max-width: 100%;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/27161.%E2%80%85%ED%81%AC%EB%A0%88%EC%9D%B4%EC%A7%80%E2%80%85%ED%83%80%EC%9E%84/97a84d0e.png" data-original-src="%EB%B0%B1%EC%A4%80/Bronze/27161.%E2%80%85%ED%81%AC%EB%A0%88%EC%9D%B4%EC%A7%80%E2%80%85%ED%83%80%EC%9E%84/97a84d0e.png" data-original-src="https://upload.acmicpc.net/6b23f1fb-d978-470a-bb82-241f484300cf/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 620px; max-width: 100%;" /></p>
 
 <p style="text-align: center;">그림 C.2: 동기화의 법칙 - 외친 시각과 펼쳐진 카드에 적힌 시각이 일치하면 게임판 중앙을 내리칩니다.</p>
 

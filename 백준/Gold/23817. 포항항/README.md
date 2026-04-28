@@ -18,7 +18,7 @@
 
 <p>당신은 에브리타임을 둘러보다가 한 글을 보았다!</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/23817.%E2%80%85%ED%8F%AC%ED%95%AD%ED%95%AD/d7de4108.png" data-original-src="https://upload.acmicpc.net/71afe1ee-28bb-49d0-a459-93c06aec5ea0/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 400px; height: 269px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/23817.%E2%80%85%ED%8F%AC%ED%95%AD%ED%95%AD/d7de4108.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/23817.%E2%80%85%ED%8F%AC%ED%95%AD%ED%95%AD/d7de4108.png" data-original-src="https://upload.acmicpc.net/71afe1ee-28bb-49d0-a459-93c06aec5ea0/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 400px; height: 269px;" /></p>
 
 <p>이 글을 보고 공포에 사로잡힌 당신은 주변에 과메기를 파는 식당에 달려가기로 하였다.&nbsp;하지만 요즘 과메기가 인기가 많아 식당에서는 1인분씩만 팔고 있다. 따라서 당신은 총 다섯 식당을 찾아가 과메기를 먹어야 한다.&nbsp;슬슬 포항항항 하며 웃음이 나오려고 한다. 최대한 빨리 과메기를 먹고 저주를 풀자!</p>
 

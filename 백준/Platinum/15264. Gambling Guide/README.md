@@ -39,4 +39,4 @@
 
 ### 힌트
 
-<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/15264.%E2%80%85Gambling%E2%80%85Guide/9f988257.png" data-original-src="http://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15264/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:150px; width:158px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/15264.%E2%80%85Gambling%E2%80%85Guide/9f988257.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/15264.%E2%80%85Gambling%E2%80%85Guide/9f988257.png" data-original-src="http://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15264/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:150px; width:158px" /></p>

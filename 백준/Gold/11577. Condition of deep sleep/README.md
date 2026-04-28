@@ -34,7 +34,7 @@
 
 <p>아래는 N = 6이고 K = 3일 때 세 번의 버튼 조작으로 모든 전구를 끄는 과정을 보여준다. 세 번의 버튼 조작은 최소한의 조작 횟수이며 이보다 더 적게 조작을 해서 전구를 모두 끄는 방법은 존재하지 않는다.</p>
 
-<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/11577.%E2%80%85Condition%E2%80%85of%E2%80%85deep%E2%80%85sleep/0944ee9f.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11577/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:29px; width:445px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/11577.%E2%80%85Condition%E2%80%85of%E2%80%85deep%E2%80%85sleep/0944ee9f.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/11577.%E2%80%85Condition%E2%80%85of%E2%80%85deep%E2%80%85sleep/0944ee9f.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11577/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:29px; width:445px" /></p>
 
 <p style="text-align:center">[그림 1] 세 번의 버튼조작으로 전구를 끄는 과정</p>
 

@@ -36,4 +36,4 @@
 
 <p>Illustrations for the examples:</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/29635.%E2%80%85Great%E2%80%85Wall%E2%80%85of%E2%80%85Flatland/f7a8ef2a.png" data-original-src="https://upload.acmicpc.net/2103b8fc-8c24-408e-85a0-ace1f912eafa/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 312px; height: 145px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/29635.%E2%80%85Great%E2%80%85Wall%E2%80%85of%E2%80%85Flatland/f7a8ef2a.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/29635.%E2%80%85Great%E2%80%85Wall%E2%80%85of%E2%80%85Flatland/f7a8ef2a.png" data-original-src="https://upload.acmicpc.net/2103b8fc-8c24-408e-85a0-ace1f912eafa/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 312px; height: 145px;" /></p>

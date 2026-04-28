@@ -42,4 +42,4 @@
 
 ### 힌트
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/8785.%E2%80%85Dlaczego%E2%80%85oni%E2%80%85%C5%9Bpiewaj%C4%85%3F/8bc0769c.png" data-original-src="https://upload.acmicpc.net/2936094f-d6bb-446e-84a3-4c45236c75a7/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/8785.%E2%80%85Dlaczego%E2%80%85oni%E2%80%85%C5%9Bpiewaj%C4%85%3F/8bc0769c.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/8785.%E2%80%85Dlaczego%E2%80%85oni%E2%80%85%C5%9Bpiewaj%C4%85%3F/8bc0769c.png" data-original-src="https://upload.acmicpc.net/2936094f-d6bb-446e-84a3-4c45236c75a7/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>

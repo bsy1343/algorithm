@@ -47,4 +47,4 @@
 
 <p>On the 1<sup>st</sup> day Gigel will leave city 1 to visit city 3, on the 2<sup>nd</sup> day he will leave city 3 to visit city 5, on the 3<sup>rd</sup> day he will leave city 5 to visit city 2 and on the 4<sup>th</sup> and last day he will leave city 2 to visit city 5 again.</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/14875.%E2%80%85City%E2%80%85Attractions/0f5cf415.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14875/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:232px; width:279px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/14875.%E2%80%85City%E2%80%85Attractions/0f5cf415.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/14875.%E2%80%85City%E2%80%85Attractions/0f5cf415.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14875/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:232px; width:279px" /></p>

@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/15558.%E2%80%85%EC%A0%90%ED%94%84%E2%80%85%EA%B2%8C%EC%9E%84/d6605278.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15558/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="float:right; height:413px; margin-left:15px; width:300px" />상근이는 오른쪽 그림과 같은 지도에서 진행하는 게임을 만들었다.</p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/15558.%E2%80%85%EC%A0%90%ED%94%84%E2%80%85%EA%B2%8C%EC%9E%84/d6605278.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/15558.%E2%80%85%EC%A0%90%ED%94%84%E2%80%85%EA%B2%8C%EC%9E%84/d6605278.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15558/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="float:right; height:413px; margin-left:15px; width:300px" />상근이는 오른쪽 그림과 같은 지도에서 진행하는 게임을 만들었다.</p>
 
 <p>지도는 총 2개의 줄로 나누어져 있으며, 각 줄은 N개의 칸으로 나누어져 있다. 칸은 위험한 칸과 안전한 칸으로 나누어져 있고, 안전한 칸은 유저가 이동할 수 있는 칸, 위험한 칸은 이동할 수 없는 칸이다.</p>
 

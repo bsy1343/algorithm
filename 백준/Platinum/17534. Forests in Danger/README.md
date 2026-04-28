@@ -30,7 +30,7 @@
 
 <p>The figure below illustrates the first example of the input. The territory of Nlogonia is represented by the dashed region, and the preserved area is represented by the gray region:</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/17534.%E2%80%85Forests%E2%80%85in%E2%80%85Danger/222737ab.png" data-original-src="https://upload.acmicpc.net/9a0b30a9-9f72-433f-9af2-7b1754b250bc/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 268px; height: 277px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/17534.%E2%80%85Forests%E2%80%85in%E2%80%85Danger/222737ab.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/17534.%E2%80%85Forests%E2%80%85in%E2%80%85Danger/222737ab.png" data-original-src="https://upload.acmicpc.net/9a0b30a9-9f72-433f-9af2-7b1754b250bc/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 268px; height: 277px;" /></p>
 
 ### 입력
 

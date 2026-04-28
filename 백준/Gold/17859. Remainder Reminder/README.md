@@ -24,7 +24,7 @@
 
 <p>&ldquo;Funny thing&rdquo; replied Bill, &ldquo;I can&rsquo;t remember that either. I do remember that the boxes were made from a 16 by 21 inch sheet of cardboard, with squares cut out at each of the four corners. We then folded the sides up to make an open top box, filled each box with books, then used packaging tape to attach a lid. The dimensions of each box were all integer multiples of inches.&rdquo;</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/17859.%E2%80%85Remainder%E2%80%85Reminder/4fa1b6a7.png" data-original-src="https://upload.acmicpc.net/b05a87e7-dc91-42a2-b667-e7b422cde1ee/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 319px; height: 133px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/17859.%E2%80%85Remainder%E2%80%85Reminder/4fa1b6a7.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/17859.%E2%80%85Remainder%E2%80%85Reminder/4fa1b6a7.png" data-original-src="https://upload.acmicpc.net/b05a87e7-dc91-42a2-b667-e7b422cde1ee/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 319px; height: 133px;" /></p>
 
 <p style="text-align: center;">Figure H.1: Example of folding a box.</p>
 

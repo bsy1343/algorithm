@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/9006.%E2%80%85%EB%8B%A4%EB%A6%AC/a9c5cfac.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/9006/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="float:right; height:237px; width:178px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/9006.%E2%80%85%EB%8B%A4%EB%A6%AC/a9c5cfac.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/9006.%E2%80%85%EB%8B%A4%EB%A6%AC/a9c5cfac.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/9006/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="float:right; height:237px; width:178px" /></p>
 
 <p>도시의 북쪽에서 남쪽으로 흐르는 두 개의 강에 집이 그림처럼 각 강에 늘어서 있다. 여기에 양쪽의 각 집에 사는 사람들이 다른 곳으로 더 빨리 움직일 수 있게 하기 위해 다리를 놓을 생각이다.</p>
 

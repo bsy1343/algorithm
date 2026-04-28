@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/10575.%E2%80%85Top%E2%80%8525/d79a25ba.png" data-original-src="https://www.acmicpc.net/upload/images2/top25.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:148px; width:185px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/10575.%E2%80%85Top%E2%80%8525/d79a25ba.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/10575.%E2%80%85Top%E2%80%8525/d79a25ba.png" data-original-src="https://www.acmicpc.net/upload/images2/top25.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:148px; width:185px" /></p>
 
 <p>In college football, many different sources create a list of the Top 25 teams in the country. Since it&rsquo;s subjective, these lists often differ, but they&rsquo;re usually very similar. Your job is to compare two of these lists, and determine where they are similar. In particular, you are to partition them into sets, where each set represents the same consecutive range of positions in both lists, and has the same teams, and is as small as possible. If the lists agree completely, you&rsquo;ll have 25 lists (or n, where n is an input). For these lists:</p>
 

@@ -40,4 +40,4 @@
 
 <p>Poja&scaron;njenje prvog probnog primjera: Slika odgovara stanju vrtuljka nakon svih vrtnji.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/26295.%E2%80%85Cirkularni%E2%80%85Cirkus/801a27ef.png" data-original-src="https://upload.acmicpc.net/8e1cb9c3-3079-4ebe-b6f0-6b9b933d7bf3/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 411px; height: 305px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/26295.%E2%80%85Cirkularni%E2%80%85Cirkus/801a27ef.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/26295.%E2%80%85Cirkularni%E2%80%85Cirkus/801a27ef.png" data-original-src="https://upload.acmicpc.net/8e1cb9c3-3079-4ebe-b6f0-6b9b933d7bf3/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 411px; height: 305px;" /></p>

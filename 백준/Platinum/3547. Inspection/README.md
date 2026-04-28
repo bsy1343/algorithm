@@ -18,7 +18,7 @@
 
 <p>You are in charge of a team that inspects a new ski resort. A ski resort is situated on several mountains and consists of a number of slopes. Slopes are connected with each other, forking and joining. A map of the ski resort is represented as an acyclic directed graph. Nodes of the graph represent different points in ski resort and edges of the graph represent slopes between the points, with the direction of edges going downwards.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/3547.%E2%80%85Inspection/d28356a9.png" data-original-src="https://www.acmicpc.net/upload/images3/inspec.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:215px; width:293px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/3547.%E2%80%85Inspection/d28356a9.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/3547.%E2%80%85Inspection/d28356a9.png" data-original-src="https://www.acmicpc.net/upload/images3/inspec.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:215px; width:293px" /></p>
 
 <p>Your team has to inspect each slope of the ski resort. Ski lifts on this resort are not open yet, but you have a helicopter. In one flight the helicopter can drop one person into any point of the resort. From the drop off point the person can ski down the slopes, inspecting each slope as they ski. It is fine to inspect the same slope multiple times, but you have to minimize the usage of the helicopter. So, you have to figure out how to inspect all the slopes with the fewest number of helicopter flights.</p>
 

@@ -42,6 +42,6 @@
 
 ### 힌트
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/21808.%E2%80%85Cigle/ba66cf4c.png" data-original-src="https://upload.acmicpc.net/6b3a5736-4d30-4817-9693-639eea2fea17/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 601px; height: 94px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/21808.%E2%80%85Cigle/ba66cf4c.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/21808.%E2%80%85Cigle/ba66cf4c.png" data-original-src="https://upload.acmicpc.net/6b3a5736-4d30-4817-9693-639eea2fea17/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 601px; height: 94px;" /></p>
 
 <p style="text-align: center;">Wall with beauty 4 for the third example.</p>

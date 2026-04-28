@@ -20,7 +20,7 @@
 
 <p>Найдите величину угла между изгородями у конца короткой канавы.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/24623.%E2%80%85%D0%98%D0%B7%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%B8/6480cdde.png" data-original-src="https://upload.acmicpc.net/e9ce24df-ed7a-45ff-8d11-c6a6236fa7d4/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 292px; height: 150px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/24623.%E2%80%85%D0%98%D0%B7%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%B8/6480cdde.png" data-original-src="%EB%B0%B1%EC%A4%80/Bronze/24623.%E2%80%85%D0%98%D0%B7%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%B8/6480cdde.png" data-original-src="https://upload.acmicpc.net/e9ce24df-ed7a-45ff-8d11-c6a6236fa7d4/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 292px; height: 150px;" /></p>
 
 ### 입력
 

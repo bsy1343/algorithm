@@ -43,4 +43,4 @@
 
 <p>Here are the 4 different ways for $n = 2, m = 2$.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/23450.%E2%80%85Spiral%E2%80%85Matrix/0a5f910c.png" data-original-src="https://upload.acmicpc.net/2539a365-f549-437a-b826-dfc49d4bf48f/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 381px; height: 81px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/23450.%E2%80%85Spiral%E2%80%85Matrix/0a5f910c.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/23450.%E2%80%85Spiral%E2%80%85Matrix/0a5f910c.png" data-original-src="https://upload.acmicpc.net/2539a365-f549-437a-b826-dfc49d4bf48f/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 381px; height: 81px;" /></p>

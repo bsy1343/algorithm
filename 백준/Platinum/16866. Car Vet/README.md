@@ -22,7 +22,7 @@
 
 <p>Figure A.1 shows an example. An ambihelical hexnut has rolled under car number 3 in row 3, column 3 of the grid (shaded dark gray). The space in row 1, column 3 is empty and the space in row 3, column 4 is blocked. The only way to retrieve the part is to move car 8, then car 4, then car 3. Note that if the locations of the empty grid cell and the blocked grid cell were reversed, it would not be possible to retrieve the part.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/16866.%E2%80%85Car%E2%80%85Vet/546ebb27.png" data-original-src="https://upload.acmicpc.net/d81d3985-1714-4e54-9b44-5b6d35b46f54/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 165px; height: 165px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/16866.%E2%80%85Car%E2%80%85Vet/546ebb27.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/16866.%E2%80%85Car%E2%80%85Vet/546ebb27.png" data-original-src="https://upload.acmicpc.net/d81d3985-1714-4e54-9b44-5b6d35b46f54/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 165px; height: 165px;" /></p>
 
 <p>Figure A.1: Sample lot. Cars 8, 4, and 3 must be moved, in that order, to uncover the grid location in row 3, column 3. This corresponds to Sample Input 1.</p>
 

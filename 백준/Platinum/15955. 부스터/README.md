@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/15955.%E2%80%85%EB%B6%80%EC%8A%A4%ED%84%B0/3605508d.png" data-original-src="https://upload.acmicpc.net/c2bada33-0a9b-4fe1-b28b-c6bb2ca7f25f/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/15955.%E2%80%85%EB%B6%80%EC%8A%A4%ED%84%B0/3605508d.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/15955.%E2%80%85%EB%B6%80%EC%8A%A4%ED%84%B0/3605508d.png" data-original-src="https://upload.acmicpc.net/c2bada33-0a9b-4fe1-b28b-c6bb2ca7f25f/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>최근 새로 출시되어 인기를 끌고 있는 카카오게임이 있다. 이 게임에서는 2차원 좌표 평면상에 <em>N</em>개의 체크포인트가 존재하며, 플레이어는 체크포인트를 오가면서 원하는 곳에 도달해야 하는 목표를 가진다.</p>
 

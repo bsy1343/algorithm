@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/30886.%E2%80%85Artistic%E2%80%85Souvenir/c6ae1914.jpg" data-original-src="https://u.acmicpc.net/c3a2639a-5d4b-4134-8aeb-82f13cacd422/tile_nwerc.jpg" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 300px; height: 300px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/30886.%E2%80%85Artistic%E2%80%85Souvenir/c6ae1914.jpg" data-original-src="%EB%B0%B1%EC%A4%80/Bronze/30886.%E2%80%85Artistic%E2%80%85Souvenir/c6ae1914.jpg" data-original-src="https://u.acmicpc.net/c3a2639a-5d4b-4134-8aeb-82f13cacd422/tile_nwerc.jpg" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 300px; height: 300px;" /></p>
 
 <p style="text-align: center;">A typical circular design on a square Delft tile.</p>
 

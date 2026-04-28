@@ -22,19 +22,19 @@
 
 <p>개미들은 자신이 바라보는 방향으로 1초에 1만큼 가는 속도로 움직이고 있다. 개미가 막대의 끝으로 가면 방향을 바꿔서 다시 걸으며, 두 개미가 서로 만난 경우(두 개미가 같은 좌표에 있는 경우)에는 두 개미 모두 방향을 바꾼다. 만약 비트코인을 가진 개미가 다른 개미와 만난다면, 개미는 비트코인을 건네주고 방향을 바꾼다. 개미가 방향을 바꾸거나 비트코인을 양도하는 데에는 시간이 걸리지 않는다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/31574.%E2%80%85%EA%B0%9C%EB%AF%B8%EC%99%80%E2%80%85%EB%B9%84%ED%8A%B8%EC%BD%94%EC%9D%B8/9f80a5e1.png" data-original-src="https://upload.acmicpc.net/98789fb5-f6f0-46d8-beef-11d782ddc51e/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 146px; width: 600px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/31574.%E2%80%85%EA%B0%9C%EB%AF%B8%EC%99%80%E2%80%85%EB%B9%84%ED%8A%B8%EC%BD%94%EC%9D%B8/9f80a5e1.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/31574.%E2%80%85%EA%B0%9C%EB%AF%B8%EC%99%80%E2%80%85%EB%B9%84%ED%8A%B8%EC%BD%94%EC%9D%B8/9f80a5e1.png" data-original-src="https://upload.acmicpc.net/98789fb5-f6f0-46d8-beef-11d782ddc51e/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 146px; width: 600px;" /></p>
 
 <p>위 그림과 같이 네 마리의 개미가 비트코인을 가지고 있는 경우를 생각해보자. 잠깐의 시간이 지나면 아래 그림과 같은 상황이 벌어진다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/31574.%E2%80%85%EA%B0%9C%EB%AF%B8%EC%99%80%E2%80%85%EB%B9%84%ED%8A%B8%EC%BD%94%EC%9D%B8/01401747.png" data-original-src="https://upload.acmicpc.net/5b36438b-e0b0-4f69-889f-52c10882c62d/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 146px; width: 600px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/31574.%E2%80%85%EA%B0%9C%EB%AF%B8%EC%99%80%E2%80%85%EB%B9%84%ED%8A%B8%EC%BD%94%EC%9D%B8/01401747.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/31574.%E2%80%85%EA%B0%9C%EB%AF%B8%EC%99%80%E2%80%85%EB%B9%84%ED%8A%B8%EC%BD%94%EC%9D%B8/01401747.png" data-original-src="https://upload.acmicpc.net/5b36438b-e0b0-4f69-889f-52c10882c62d/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 146px; width: 600px;" /></p>
 
 <p>보다시피, 첫 번째 개미와 두 번째 개미는 서로 만난 상태이며 네 번째 개미는 막대의 끝까지 갔다. 따라서 세 번째 개미를 제외한 모든 개미가 방향을 바꾼다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/31574.%E2%80%85%EA%B0%9C%EB%AF%B8%EC%99%80%E2%80%85%EB%B9%84%ED%8A%B8%EC%BD%94%EC%9D%B8/a3775937.png" data-original-src="https://upload.acmicpc.net/bb5a2fbb-226a-4544-a23f-79bafe11530b/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 146px; width: 600px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/31574.%E2%80%85%EA%B0%9C%EB%AF%B8%EC%99%80%E2%80%85%EB%B9%84%ED%8A%B8%EC%BD%94%EC%9D%B8/a3775937.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/31574.%E2%80%85%EA%B0%9C%EB%AF%B8%EC%99%80%E2%80%85%EB%B9%84%ED%8A%B8%EC%BD%94%EC%9D%B8/a3775937.png" data-original-src="https://upload.acmicpc.net/bb5a2fbb-226a-4544-a23f-79bafe11530b/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 146px; width: 600px;" /></p>
 
 <p>이 상황에서 약간의 시간이 지나면, 세 번째 개미와 네 번째 개미가 서로 만난다. 세 번째 개미가 비트코인을 가지고 있으므로, 세 번째 개미가 네 번째 개미에게 비트코인을 준 후 방향을 바꾼다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/31574.%E2%80%85%EA%B0%9C%EB%AF%B8%EC%99%80%E2%80%85%EB%B9%84%ED%8A%B8%EC%BD%94%EC%9D%B8/6e22cfaf.png" data-original-src="https://upload.acmicpc.net/fe369313-3ac3-4249-a727-d89872f42034/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 146px; width: 600px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/31574.%E2%80%85%EA%B0%9C%EB%AF%B8%EC%99%80%E2%80%85%EB%B9%84%ED%8A%B8%EC%BD%94%EC%9D%B8/6e22cfaf.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/31574.%E2%80%85%EA%B0%9C%EB%AF%B8%EC%99%80%E2%80%85%EB%B9%84%ED%8A%B8%EC%BD%94%EC%9D%B8/6e22cfaf.png" data-original-src="https://upload.acmicpc.net/fe369313-3ac3-4249-a727-d89872f42034/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 146px; width: 600px;" /></p>
 
 <p>개미들은 $T$초 후에 어떤 개미가 비트코인을 갖고 있을지 알아보려고 한다. 개미들의 정보가 주어졌을 때 $T$초 후에 비트코인을 갖고 있는 개미의 번호를 구하는 프로그램을 작성하여라. 단 개미들은 매우 작아서 점으로 간주해도 무방하다.</p>
 

@@ -22,7 +22,7 @@
 
 <p>이때, 가장 큰 자리수의 유효숫자보다 앞에 등장하는 0들은 무시하는 것에 주의합니다. 따라서 9의 반전은 0이고, 91의 반전은 8, 124의 반전은 875, 990의 반전은 9가 됩니다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/11947.%E2%80%85%EC%9D%B4%EB%9F%B0%E2%80%85%EB%B0%98%EC%A0%84%EC%9D%B4/55084895.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11947/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:153px; width:305px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/11947.%E2%80%85%EC%9D%B4%EB%9F%B0%E2%80%85%EB%B0%98%EC%A0%84%EC%9D%B4/55084895.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/11947.%E2%80%85%EC%9D%B4%EB%9F%B0%E2%80%85%EB%B0%98%EC%A0%84%EC%9D%B4/55084895.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11947/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:153px; width:305px" /></p>
 
 <p>여기서 어떤 수 n의 &lsquo;사랑스러움&rsquo;는 n과 n의 반전을 곱한 것으로 정의합니다. 입력으로 자연수 N이 주어지면, 1 이상 N 이하인 수들의 &lsquo;사랑스러움&rsquo; 중 최댓값을 출력하세요.</p>
 

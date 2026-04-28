@@ -28,8 +28,8 @@
 <table class="table table-bordered td-center">
 	<tbody>
 		<tr>
-			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/21422.%E2%80%85%D0%98%D0%B3%D1%80%D0%B0%E2%80%85%D1%81%E2%80%85%D0%B3%D1%80%D0%B0%D1%84%D0%BE%D0%BC/1c684010.png" data-original-src="https://upload.acmicpc.net/bd39e9a1-4582-426a-8983-27db29fddbb3/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 107px; height: 108px;" /></td>
-			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/21422.%E2%80%85%D0%98%D0%B3%D1%80%D0%B0%E2%80%85%D1%81%E2%80%85%D0%B3%D1%80%D0%B0%D1%84%D0%BE%D0%BC/a857e5ef.png" data-original-src="https://upload.acmicpc.net/d3e90f1a-225a-4664-9d20-b871b1261a7e/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 105px; height: 108px;" /></td>
+			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/21422.%E2%80%85%D0%98%D0%B3%D1%80%D0%B0%E2%80%85%D1%81%E2%80%85%D0%B3%D1%80%D0%B0%D1%84%D0%BE%D0%BC/1c684010.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/21422.%E2%80%85%D0%98%D0%B3%D1%80%D0%B0%E2%80%85%D1%81%E2%80%85%D0%B3%D1%80%D0%B0%D1%84%D0%BE%D0%BC/1c684010.png" data-original-src="https://upload.acmicpc.net/bd39e9a1-4582-426a-8983-27db29fddbb3/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 107px; height: 108px;" /></td>
+			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/21422.%E2%80%85%D0%98%D0%B3%D1%80%D0%B0%E2%80%85%D1%81%E2%80%85%D0%B3%D1%80%D0%B0%D1%84%D0%BE%D0%BC/a857e5ef.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/21422.%E2%80%85%D0%98%D0%B3%D1%80%D0%B0%E2%80%85%D1%81%E2%80%85%D0%B3%D1%80%D0%B0%D1%84%D0%BE%D0%BC/a857e5ef.png" data-original-src="https://upload.acmicpc.net/d3e90f1a-225a-4664-9d20-b871b1261a7e/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 105px; height: 108px;" /></td>
 		</tr>
 		<tr>
 			<td>Рис. 1</td>
@@ -54,4 +54,4 @@
 
 <p>Приведем все 25 возможных позиций для примера из условия:</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/21422.%E2%80%85%D0%98%D0%B3%D1%80%D0%B0%E2%80%85%D1%81%E2%80%85%D0%B3%D1%80%D0%B0%D1%84%D0%BE%D0%BC/332b3862.png" data-original-src="https://upload.acmicpc.net/d12a6dbf-6942-4fdc-ae96-48ee3028bb09/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 662px; height: 203px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/21422.%E2%80%85%D0%98%D0%B3%D1%80%D0%B0%E2%80%85%D1%81%E2%80%85%D0%B3%D1%80%D0%B0%D1%84%D0%BE%D0%BC/332b3862.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/21422.%E2%80%85%D0%98%D0%B3%D1%80%D0%B0%E2%80%85%D1%81%E2%80%85%D0%B3%D1%80%D0%B0%D1%84%D0%BE%D0%BC/332b3862.png" data-original-src="https://upload.acmicpc.net/d12a6dbf-6942-4fdc-ae96-48ee3028bb09/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 662px; height: 203px;" /></p>

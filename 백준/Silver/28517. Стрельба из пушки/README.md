@@ -34,4 +34,4 @@
 
 <p>Ниже приведены иллюстрации к тестовым примерам.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/28517.%E2%80%85%D0%A1%D1%82%D1%80%D0%B5%D0%BB%D1%8C%D0%B1%D0%B0%E2%80%85%D0%B8%D0%B7%E2%80%85%D0%BF%D1%83%D1%88%D0%BA%D0%B8/a2a25131.png" data-original-src="https://upload.acmicpc.net/9da13be2-3029-4c4e-9988-cbe4532e9d91/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 768px; height: 209px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/28517.%E2%80%85%D0%A1%D1%82%D1%80%D0%B5%D0%BB%D1%8C%D0%B1%D0%B0%E2%80%85%D0%B8%D0%B7%E2%80%85%D0%BF%D1%83%D1%88%D0%BA%D0%B8/a2a25131.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/28517.%E2%80%85%D0%A1%D1%82%D1%80%D0%B5%D0%BB%D1%8C%D0%B1%D0%B0%E2%80%85%D0%B8%D0%B7%E2%80%85%D0%BF%D1%83%D1%88%D0%BA%D0%B8/a2a25131.png" data-original-src="https://upload.acmicpc.net/9da13be2-3029-4c4e-9988-cbe4532e9d91/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 768px; height: 209px;" /></p>

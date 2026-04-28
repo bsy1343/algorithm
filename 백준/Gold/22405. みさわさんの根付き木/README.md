@@ -24,7 +24,7 @@
 	<li>各頂点は，右の子と呼ばれる頂点をちょうど1つ持つか，あるいは持たない．右の子を持つ場合，右の子とは辺で結ばれており，右の子の親はその頂点である．</li>
 </ul>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/22405.%E2%80%85%E3%81%BF%E3%81%95%E3%82%8F%E3%81%95%E3%82%93%E3%81%AE%E6%A0%B9%E4%BB%98%E3%81%8D%E6%9C%A8/5641ef8a.png" data-original-src="https://upload.acmicpc.net/4645131b-b1e3-42bb-8140-4bd1cd06bf58/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 400px; height: 300px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/22405.%E2%80%85%E3%81%BF%E3%81%95%E3%82%8F%E3%81%95%E3%82%93%E3%81%AE%E6%A0%B9%E4%BB%98%E3%81%8D%E6%9C%A8/5641ef8a.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/22405.%E2%80%85%E3%81%BF%E3%81%95%E3%82%8F%E3%81%95%E3%82%93%E3%81%AE%E6%A0%B9%E4%BB%98%E3%81%8D%E6%9C%A8/5641ef8a.png" data-original-src="https://upload.acmicpc.net/4645131b-b1e3-42bb-8140-4bd1cd06bf58/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 400px; height: 300px;" /></p>
 
 <p>図 1. 2 つの根付きの二分木とその合成の例</p>
 

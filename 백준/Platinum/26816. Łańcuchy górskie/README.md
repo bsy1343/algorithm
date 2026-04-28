@@ -18,7 +18,7 @@
 
 <p>Kr&oacute;lestwo Bajtocji jest przepięknym krajem z bardzo osobliwą geografią. Przez kr&oacute;lestwo to biegnie M łańcuch&oacute;w g&oacute;rskich, kt&oacute;re możemy sobie wyobrazić jako proste w układzie wsp&oacute;łrzędnych, kt&oacute;re dzielą kr&oacute;lestwo na regiony.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/26816.%E2%80%85%C5%81a%C5%84cuchy%E2%80%85g%C3%B3rskie/1e92ebb5.png" data-original-src="https://upload.acmicpc.net/76eee6ed-79cf-4c97-9bfc-85b9f5926dbc/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 330px; height: 329px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/26816.%E2%80%85%C5%81a%C5%84cuchy%E2%80%85g%C3%B3rskie/1e92ebb5.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/26816.%E2%80%85%C5%81a%C5%84cuchy%E2%80%85g%C3%B3rskie/1e92ebb5.png" data-original-src="https://upload.acmicpc.net/76eee6ed-79cf-4c97-9bfc-85b9f5926dbc/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 330px; height: 329px;" /></p>
 
 <p>Zauważ, że w jednym punkcie może krzyżować się wiele łańcuch&oacute;w g&oacute;rskich. Na szczęście w Bajtocji żadne trzy łańcuchy g&oacute;rskie nie krzyżują się (formalnie: nie przecinają się w jednym punkcie). Może jednak zdarzyć się tak, że jedna g&oacute;ra należy do dw&oacute;ch łańcuch&oacute;w g&oacute;rskich.</p>
 
@@ -26,7 +26,7 @@
 
 <p>Rozważmy poniższy przykład z trzema miastami (czarne kropki). Możemy zbudować dwie drogi (czerwone linie): jedną pomiędzy miastami 1 i 2, kt&oacute;ra będzie wymagała dw&oacute;ch ekip budowlanych, a drugą pomiędzy miastami 2 i 3, kt&oacute;ra będzie wymagała jednej ekipy. Zauważ, że pomiędzy miastami 1 i 3 nie ma bezpośredniej drogi, ale jest droga pośrednia przez miasto 2.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/26816.%E2%80%85%C5%81a%C5%84cuchy%E2%80%85g%C3%B3rskie/f612e22a.png" data-original-src="https://upload.acmicpc.net/5f36a1bc-cb75-4124-a7d3-5ed5112836cc/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 330px; height: 333px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/26816.%E2%80%85%C5%81a%C5%84cuchy%E2%80%85g%C3%B3rskie/f612e22a.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/26816.%E2%80%85%C5%81a%C5%84cuchy%E2%80%85g%C3%B3rskie/f612e22a.png" data-original-src="https://upload.acmicpc.net/5f36a1bc-cb75-4124-a7d3-5ed5112836cc/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 330px; height: 333px;" /></p>
 
 <p>Twoim zadaniem jest policzenie ile minimalnie ekip budowlanych jest potrzebnych do wybudowania całej potrzebnej infrastruktury.</p>
 

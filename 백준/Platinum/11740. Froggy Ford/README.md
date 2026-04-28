@@ -21,8 +21,8 @@
 <table class="table">
 	<tbody>
 		<tr>
-			<td style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/11740.%E2%80%85Froggy%E2%80%85Ford/3c5ec721.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11740/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:200px; width:280px" /></td>
-			<td style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/11740.%E2%80%85Froggy%E2%80%85Ford/51f730fb.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11740/2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:199px; width:282px" /></td>
+			<td style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/11740.%E2%80%85Froggy%E2%80%85Ford/3c5ec721.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/11740.%E2%80%85Froggy%E2%80%85Ford/3c5ec721.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11740/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:200px; width:280px" /></td>
+			<td style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/11740.%E2%80%85Froggy%E2%80%85Ford/51f730fb.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/11740.%E2%80%85Froggy%E2%80%85Ford/51f730fb.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11740/2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:199px; width:282px" /></td>
 		</tr>
 		<tr>
 			<td style="text-align:center">Optimal route</td>

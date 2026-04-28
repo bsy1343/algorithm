@@ -18,7 +18,7 @@
 
 <p>상근이는 지름이 20cm인 볼링공을 폭이 105cm인 볼링 레인에 각도 X도로 레인의 중심에서 던졌다. (아래 그림을 참고)</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/1876.%E2%80%85%ED%8A%95%EA%B8%B0%EB%8A%94%E2%80%85%EB%B3%BC%EB%A7%81%EA%B3%B5/da7bf6f6.png" data-original-src="https://www.acmicpc.net/upload/images/bowling.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:300px; width:800px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/1876.%E2%80%85%ED%8A%95%EA%B8%B0%EB%8A%94%E2%80%85%EB%B3%BC%EB%A7%81%EA%B3%B5/da7bf6f6.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/1876.%E2%80%85%ED%8A%95%EA%B8%B0%EB%8A%94%E2%80%85%EB%B3%BC%EB%A7%81%EA%B3%B5/da7bf6f6.png" data-original-src="https://www.acmicpc.net/upload/images/bowling.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:300px; width:800px" /></p>
 
 <p>레인은 범퍼가 장착되어 있어, 공이 범퍼에 닿으면, 입사각과 같은 각도로 튕기게 된다. 지름이 12cm 핀이 T 미터&nbsp;떨어진 곳에 놓여져 있다. 상근이가 던진 볼링공이 이 핀을 맞출 수 있는지 없는지를 구하는 프로그램을 작성하시오.</p>
 

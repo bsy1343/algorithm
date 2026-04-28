@@ -16,11 +16,11 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/24527.%E2%80%85%EC%9D%B4%EC%83%81%ED%95%9C%E2%80%85%EB%82%98%EB%9D%BC%EC%9D%98%E2%80%85%EA%B0%88%ED%86%A4%EB%B3%B4%EB%93%9C/2a8a833c.png" data-original-src="https://upload.acmicpc.net/05812de3-2bf2-47af-8239-3eba968a6671/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 400px; height: 512px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/24527.%E2%80%85%EC%9D%B4%EC%83%81%ED%95%9C%E2%80%85%EB%82%98%EB%9D%BC%EC%9D%98%E2%80%85%EA%B0%88%ED%86%A4%EB%B3%B4%EB%93%9C/2a8a833c.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/24527.%E2%80%85%EC%9D%B4%EC%83%81%ED%95%9C%E2%80%85%EB%82%98%EB%9D%BC%EC%9D%98%E2%80%85%EA%B0%88%ED%86%A4%EB%B3%B4%EB%93%9C/2a8a833c.png" data-original-src="https://upload.acmicpc.net/05812de3-2bf2-47af-8239-3eba968a6671/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 400px; height: 512px;" /></p>
 
 <p>Francis Galton은&nbsp;중심 극한 정리 중&nbsp;충분한 표본 크기에서 이항분포가 정규분포에 근접한다는 것을&nbsp;증명하기 위해 갈톤보드를 발명하였다. 갈톤보드는 보드와 보드에 수직으로 세워진 못으로 구성되어 있다.&nbsp;위에서 구슬을 떨어뜨리면 여러 줄의&nbsp;못과 부딪혀 왼쪽 또는 오른쪽으로 튕겨 나가는 과정을 반복한다. 바닥에 도착한 구슬은 칸막이에 의해 나눠지며 일반적인 갈톤보드는 위와 같이 정규분포를 보인다. 하지만 이상한 나라의 이상한 갈톤보드는 시작지점에서 도착가능한 모든 지점에 동일한 확률로 떨어진다.&nbsp;모든 도착지점에 비슷한 개수의 구슬이 떨어지면 재미없기 때문에 구슬을 떨어뜨리는 시작지점을 선택할 수 있게 만들었다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/24527.%E2%80%85%EC%9D%B4%EC%83%81%ED%95%9C%E2%80%85%EB%82%98%EB%9D%BC%EC%9D%98%E2%80%85%EA%B0%88%ED%86%A4%EB%B3%B4%EB%93%9C/9cc24bfb.png" data-original-src="https://upload.acmicpc.net/64f2fa92-17e0-43a4-bdc2-fd676888ae35/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 491px; width: 400px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/24527.%E2%80%85%EC%9D%B4%EC%83%81%ED%95%9C%E2%80%85%EB%82%98%EB%9D%BC%EC%9D%98%E2%80%85%EA%B0%88%ED%86%A4%EB%B3%B4%EB%93%9C/9cc24bfb.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/24527.%E2%80%85%EC%9D%B4%EC%83%81%ED%95%9C%E2%80%85%EB%82%98%EB%9D%BC%EC%9D%98%E2%80%85%EA%B0%88%ED%86%A4%EB%B3%B4%EB%93%9C/9cc24bfb.png" data-original-src="https://upload.acmicpc.net/64f2fa92-17e0-43a4-bdc2-fd676888ae35/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 491px; width: 400px;" /></p>
 
 <p>높이가 5인 이상한 갈톤보드의 시작지점과 도착지점 번호는&nbsp;위와 같은 규칙을 가진다.</p>
 

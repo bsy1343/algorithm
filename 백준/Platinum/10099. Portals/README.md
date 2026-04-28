@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/10099.%E2%80%85Portals/0e00d5b8.png" data-original-src="https://upload.acmicpc.net/ae242098-b3e2-4830-88a4-3cd338cf7476/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 157px; height: 129px; float: right;" />There is a cake placed in a labyrinth and you desperately want to eat it. You have a map of the labyrinth, which is a grid of R rows and C columns. Each grid cell contains one of the following characters:</p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/10099.%E2%80%85Portals/0e00d5b8.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/10099.%E2%80%85Portals/0e00d5b8.png" data-original-src="https://upload.acmicpc.net/ae242098-b3e2-4830-88a4-3cd338cf7476/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 157px; height: 129px; float: right;" />There is a cake placed in a labyrinth and you desperately want to eat it. You have a map of the labyrinth, which is a grid of R rows and C columns. Each grid cell contains one of the following characters:</p>
 
 <ul>
 	<li><code>#</code> (number sign) which denotes a wall block,</li>
@@ -53,4 +53,4 @@
 
 <p>One quickest sequence of moves is as follows: 1) move right, 2) move right, shoot one portal up, and one portal down, 3) move through the bottom portal, 4) move one square right and reach the cake.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/10099.%E2%80%85Portals/315117e9.png" data-original-src="https://upload.acmicpc.net/635a3333-53b8-4804-a2c6-af619063029d/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 160px; height: 161px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/10099.%E2%80%85Portals/315117e9.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/10099.%E2%80%85Portals/315117e9.png" data-original-src="https://upload.acmicpc.net/635a3333-53b8-4804-a2c6-af619063029d/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 160px; height: 161px;" /></p>

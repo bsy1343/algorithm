@@ -28,7 +28,7 @@
 
 <p>The following picture shows 1-step of the 5,3-automaton.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/3606.%E2%80%85Cellular%E2%80%85Automaton/4f96cac0.png" data-original-src="https://www.acmicpc.net/upload/images2/auto.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:127px; width:266px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/3606.%E2%80%85Cellular%E2%80%85Automaton/4f96cac0.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/3606.%E2%80%85Cellular%E2%80%85Automaton/4f96cac0.png" data-original-src="https://www.acmicpc.net/upload/images2/auto.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:127px; width:266px" /></p>
 
 <p>The problem is to calculate the state of the n,m-automaton after k d-steps.</p>
 

@@ -38,4 +38,4 @@
 
 <p>All different symmetric stairs with n = 17 cubes are shown below:</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/16650.%E2%80%85Counting%E2%80%85Stairs/d339d904.png" data-original-src="https://upload.acmicpc.net/9a61cd59-2c3c-44a6-91e9-ffb4e4be1c65/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 620px; height: 152px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/16650.%E2%80%85Counting%E2%80%85Stairs/d339d904.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/16650.%E2%80%85Counting%E2%80%85Stairs/d339d904.png" data-original-src="https://upload.acmicpc.net/9a61cd59-2c3c-44a6-91e9-ffb4e4be1c65/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 620px; height: 152px;" /></p>

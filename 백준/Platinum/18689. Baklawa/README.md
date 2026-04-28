@@ -60,4 +60,4 @@
 
 <p>The figure below is an example of the first test case:</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/18689.%E2%80%85Baklawa/1e9b9ff0.png" data-original-src="https://upload.acmicpc.net/e8b9b784-c796-4a2c-8fea-9d65f393dd0e/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 490px; height: 504px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/18689.%E2%80%85Baklawa/1e9b9ff0.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/18689.%E2%80%85Baklawa/1e9b9ff0.png" data-original-src="https://upload.acmicpc.net/e8b9b784-c796-4a2c-8fea-9d65f393dd0e/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 490px; height: 504px;" /></p>

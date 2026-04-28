@@ -18,7 +18,7 @@
 
 <p>I forgot the password to my safe. There is a lot of money in it! Please help me unlock the safe. The keypad looks like this.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/9774.%E2%80%85Unlock%E2%80%85My%E2%80%85Safe/fe1331bc.png" data-original-src="https://upload.acmicpc.net/8591603f-05d2-42c5-ad85-920b6c42f90c/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 307px; height: 241px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/9774.%E2%80%85Unlock%E2%80%85My%E2%80%85Safe/fe1331bc.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/9774.%E2%80%85Unlock%E2%80%85My%E2%80%85Safe/fe1331bc.png" data-original-src="https://upload.acmicpc.net/8591603f-05d2-42c5-ad85-920b6c42f90c/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 307px; height: 241px;" /></p>
 
 <p>I do not remember how long my password is. Hence, you need to try a different length of the password. However, there are some hints that I can recall.</p>
 

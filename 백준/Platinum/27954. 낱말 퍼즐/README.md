@@ -18,7 +18,7 @@
 
 <p>여러분은 낱말 찾기 퍼즐을 해 보았는가? 낱말 찾기 퍼즐은 각 칸에 글자가 하나씩 쓰여 있는 일정 크기의 격자에서 연속하는 몇 개의 칸이 이루고 있는 단어를 찾는 퍼즐이다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/27954.%E2%80%85%EB%82%B1%EB%A7%90%E2%80%85%ED%8D%BC%EC%A6%90/514ffe46.png" data-original-src="https://upload.acmicpc.net/bbf8635b-398e-4976-9287-32bc0297ad7c/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/27954.%E2%80%85%EB%82%B1%EB%A7%90%E2%80%85%ED%8D%BC%EC%A6%90/514ffe46.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/27954.%E2%80%85%EB%82%B1%EB%A7%90%E2%80%85%ED%8D%BC%EC%A6%90/514ffe46.png" data-original-src="https://upload.acmicpc.net/bbf8635b-398e-4976-9287-32bc0297ad7c/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p style="text-align: center;">영어로 된 낱말 퍼즐의 예시.</p>
 

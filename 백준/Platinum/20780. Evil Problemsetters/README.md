@@ -39,8 +39,8 @@
 <table class="table table-bordered td-center" style="width:100%;">
 	<tbody>
 		<tr>
-			<td style="width:50%;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/20780.%E2%80%85Evil%E2%80%85Problemsetters/35179ecf.png" data-original-src="https://upload.acmicpc.net/ae61486a-2536-4d1f-923d-c6cc9a2a14f7/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 259px; height: 260px;" /></td>
-			<td style="width:50%;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/20780.%E2%80%85Evil%E2%80%85Problemsetters/2342d09e.png" data-original-src="https://upload.acmicpc.net/3712f563-6350-4f0a-999e-eb44376ff784/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 259px; height: 260px;" /></td>
+			<td style="width:50%;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/20780.%E2%80%85Evil%E2%80%85Problemsetters/35179ecf.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/20780.%E2%80%85Evil%E2%80%85Problemsetters/35179ecf.png" data-original-src="https://upload.acmicpc.net/ae61486a-2536-4d1f-923d-c6cc9a2a14f7/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 259px; height: 260px;" /></td>
+			<td style="width:50%;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/20780.%E2%80%85Evil%E2%80%85Problemsetters/2342d09e.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/20780.%E2%80%85Evil%E2%80%85Problemsetters/2342d09e.png" data-original-src="https://upload.acmicpc.net/3712f563-6350-4f0a-999e-eb44376ff784/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 259px; height: 260px;" /></td>
 		</tr>
 		<tr>
 			<td style="width:50%;">(a) The labyrinth</td>
@@ -49,6 +49,6 @@
 	</tbody>
 </table>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/20780.%E2%80%85Evil%E2%80%85Problemsetters/e85565f2.png" data-original-src="https://upload.acmicpc.net/dcb958e9-d8e0-47c5-b2c6-f88e3cf70660/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 486px; height: 44px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/20780.%E2%80%85Evil%E2%80%85Problemsetters/e85565f2.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/20780.%E2%80%85Evil%E2%80%85Problemsetters/e85565f2.png" data-original-src="https://upload.acmicpc.net/dcb958e9-d8e0-47c5-b2c6-f88e3cf70660/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 486px; height: 44px;" /></p>
 
 <p style="text-align: center;">Plots for sample test data</p>

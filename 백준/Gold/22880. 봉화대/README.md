@@ -21,8 +21,8 @@
 <table class="table table-bordered td-center">
 	<tbody>
 		<tr>
-			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/22880.%E2%80%85%EB%B4%89%ED%99%94%EB%8C%80/5af47aba.png" data-original-src="https://upload.acmicpc.net/77fb2dc5-5fdb-48b9-b046-deb04e7cf561/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 480px; height: 320px;" /></td>
-			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/22880.%E2%80%85%EB%B4%89%ED%99%94%EB%8C%80/35fc24e0.png" data-original-src="https://upload.acmicpc.net/cc45b730-fea4-496e-8486-3e92f31a5923/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 480px; height: 320px;" /></td>
+			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/22880.%E2%80%85%EB%B4%89%ED%99%94%EB%8C%80/5af47aba.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/22880.%E2%80%85%EB%B4%89%ED%99%94%EB%8C%80/5af47aba.png" data-original-src="https://upload.acmicpc.net/77fb2dc5-5fdb-48b9-b046-deb04e7cf561/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 480px; height: 320px;" /></td>
+			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/22880.%E2%80%85%EB%B4%89%ED%99%94%EB%8C%80/35fc24e0.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/22880.%E2%80%85%EB%B4%89%ED%99%94%EB%8C%80/35fc24e0.png" data-original-src="https://upload.acmicpc.net/cc45b730-fea4-496e-8486-3e92f31a5923/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 480px; height: 320px;" /></td>
 		</tr>
 		<tr>
 			<td>그림 H.1: 조건을 만족한 봉화대 설치 예시</td>

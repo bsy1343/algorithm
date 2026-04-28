@@ -24,7 +24,7 @@
 	<li>Игровое поле состоит из пяти одинаковых по размеру квадратных платформ: центральная без стрелки, а также четыре платформы с различными стрелками, находящиеся по разные стороны от центральной. Будем называть их левой, правой, верхней и нижней стрелками, и обозначим заглавными буквами латинского алфавита &lsquo;L&rsquo;, &lsquo;R&rsquo;, &lsquo;U&rsquo; и &lsquo;D&rsquo; соответственно. Для лучшего понимания рекомендуется посмотреть на картинку.</li>
 </ol>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/30777.%E2%80%85DDR/7ab02e7d.png" data-original-src="https://upload.acmicpc.net/ccc77627-ec14-4493-8606-5021ab2ed9a5/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 207px; height: 211px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/30777.%E2%80%85DDR/7ab02e7d.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/30777.%E2%80%85DDR/7ab02e7d.png" data-original-src="https://upload.acmicpc.net/ccc77627-ec14-4493-8606-5021ab2ed9a5/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 207px; height: 211px;" /></p>
 
 <ol start="2">
 	<li>Песня состоит из N позиций. Для каждой позиции известно, какие стрелки должны быть нажаты. Поскольку Вася всего лишь человек, то это либо одна, либо две одновременно нажатых стрелки.</li>

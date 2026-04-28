@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><img alt="짝짝짝 하는 곰곰" src="%EB%B0%B1%EC%A4%80/Gold/26077.%E2%80%85%EC%84%9C%EC%BB%A4%EC%8A%A4%E2%80%85%EB%82%98%EC%9D%B4%ED%8A%B8/29fda543.png" data-original-src="https://upload.acmicpc.net/e89c5962-11dc-4573-acbf-4b160d7affae/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="max-height:120px; object-fit:contain; display:inline-block;" /></p>
+<p style="text-align: center;"><img alt="짝짝짝 하는 곰곰" src="%EB%B0%B1%EC%A4%80/Gold/26077.%E2%80%85%EC%84%9C%EC%BB%A4%EC%8A%A4%E2%80%85%EB%82%98%EC%9D%B4%ED%8A%B8/29fda543.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/26077.%E2%80%85%EC%84%9C%EC%BB%A4%EC%8A%A4%E2%80%85%EB%82%98%EC%9D%B4%ED%8A%B8/29fda543.png" data-original-src="https://upload.acmicpc.net/e89c5962-11dc-4573-acbf-4b160d7affae/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="max-height:120px; object-fit:contain; display:inline-block;" /></p>
 
 <p>서커스를 보고 온 곰곰이는 돌고래들의 의사소통 체계를 이해하게 되었다고 한다. 곰곰이는 신난 표정으로 자신이 알게 된 내용을 당신에게 설명해 주고 있다.</p>
 

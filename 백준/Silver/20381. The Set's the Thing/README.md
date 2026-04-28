@@ -29,13 +29,13 @@
 
 <p>A set is a collection of three card in which each characteristic is either the same on all three card or different on all three cards. For example, the card shown below form a set.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/20381.%E2%80%85The%E2%80%85Set's%E2%80%85the%E2%80%85Thing/230e133a.png" data-original-src="https://upload.acmicpc.net/f3f9667c-b18e-436a-bb7f-96ed390deea7/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 488px; height: 278px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/20381.%E2%80%85The%E2%80%85Set's%E2%80%85the%E2%80%85Thing/230e133a.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/20381.%E2%80%85The%E2%80%85Set's%E2%80%85the%E2%80%85Thing/230e133a.png" data-original-src="https://upload.acmicpc.net/f3f9667c-b18e-436a-bb7f-96ed390deea7/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 488px; height: 278px;" /></p>
 
 <p>To see how the above cards form a set, take each characteristic in turn. First, each card has a different symbol: the first card has squiggles, the second diamonds, and the third ovals. Second, each card has the same count of symbols; each has 3 symbols. Third, each card has a different color: the first is red, the second green, and the third purple. Finally, each card has different shading: the first card is solid, the second striped, and the third outlined. So, each characteristic is either the same on all three cards or different on all three cards, satisfying the requirements for a set.</p>
 
 <p>As an example of a three cards which do not form a set, consider the three cards shown below.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/20381.%E2%80%85The%E2%80%85Set's%E2%80%85the%E2%80%85Thing/4dfb792f.png" data-original-src="https://upload.acmicpc.net/14ef6f7e-6222-4844-9077-6fe33f09c136/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 490px; height: 280px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/20381.%E2%80%85The%E2%80%85Set's%E2%80%85the%E2%80%85Thing/4dfb792f.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/20381.%E2%80%85The%E2%80%85Set's%E2%80%85the%E2%80%85Thing/4dfb792f.png" data-original-src="https://upload.acmicpc.net/14ef6f7e-6222-4844-9077-6fe33f09c136/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 490px; height: 280px;" /></p>
 
 <p>Again, take each characteristic in turn. Each card has a different symbol, each card has a different count of symbols, and each card is the same color. So far this satisfies the requirements for a set. When the shading characteristic is considered, however, two cards are filled and one card is striped. Thus, the shading on all three cards is neither all the same nor all different, and so these cards do not form a set.</p>
 

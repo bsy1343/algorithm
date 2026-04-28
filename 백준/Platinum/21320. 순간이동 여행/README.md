@@ -20,7 +20,7 @@
 
 <p>아래 그림은 높이가 4인 포화 이진 트리의 예시이다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/21320.%E2%80%85%EC%88%9C%EA%B0%84%EC%9D%B4%EB%8F%99%E2%80%85%EC%97%AC%ED%96%89/cc5f1dd8.png" data-original-src="https://upload.acmicpc.net/673f1e3d-c966-45ed-a512-590510ce16c2/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/21320.%E2%80%85%EC%88%9C%EA%B0%84%EC%9D%B4%EB%8F%99%E2%80%85%EC%97%AC%ED%96%89/cc5f1dd8.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/21320.%E2%80%85%EC%88%9C%EA%B0%84%EC%9D%B4%EB%8F%99%E2%80%85%EC%97%AC%ED%96%89/cc5f1dd8.png" data-original-src="https://upload.acmicpc.net/673f1e3d-c966-45ed-a512-590510ce16c2/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>민겸이는 여행을 위해 어떤 노드에 도착했다. 민겸이는 자신이 위치한 노드와 연결된 인접한 노드로 걸어서 이동할 수 있다. 하지만 민겸이는 한 번 방문했던 노드를 다시는 방문하지 않는다. 이 때문에 모든 노드를 방문할 수 없을 수도 있다는 것을 깨달은 민겸이는 순간이동기를 준비했다. 순간이동기는 민겸이를 방문하지 않은 노드 중 원하는 노드로 순간이동시켜준다. 하지만, 순간이동 할 때마다 엄청난 돈이 들기 때문에, 민겸이는 순간이동 횟수를&nbsp;최소화하고 싶다.</p>
 

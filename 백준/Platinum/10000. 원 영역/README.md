@@ -22,7 +22,7 @@
 
 <p>영역은 점의 집합으로 모든 두 점은 원을 교차하지 않는 연속되는 곡선으로 연결될 수 있어야 한다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/10000.%E2%80%85%EC%9B%90%E2%80%85%EC%98%81%EC%97%AD/63ff1d1c.png" data-original-src="https://upload.acmicpc.net/c360da99-845f-4fdb-b1f6-60b809ef640b/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 201px; height: 201px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/10000.%E2%80%85%EC%9B%90%E2%80%85%EC%98%81%EC%97%AD/63ff1d1c.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/10000.%E2%80%85%EC%9B%90%E2%80%85%EC%98%81%EC%97%AD/63ff1d1c.png" data-original-src="https://upload.acmicpc.net/c360da99-845f-4fdb-b1f6-60b809ef640b/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 201px; height: 201px;" /></p>
 
 ### 입력
 

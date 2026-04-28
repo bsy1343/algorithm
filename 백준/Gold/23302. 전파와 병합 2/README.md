@@ -44,7 +44,7 @@
 
 ### 힌트
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/23302.%E2%80%85%EC%A0%84%ED%8C%8C%EC%99%80%E2%80%85%EB%B3%91%ED%95%A9%E2%80%852/d182231c.png" data-original-src="https://upload.acmicpc.net/dded328d-0a97-41ac-a597-9f115c4fb566/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 391px; width: 750px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/23302.%E2%80%85%EC%A0%84%ED%8C%8C%EC%99%80%E2%80%85%EB%B3%91%ED%95%A9%E2%80%852/d182231c.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/23302.%E2%80%85%EC%A0%84%ED%8C%8C%EC%99%80%E2%80%85%EB%B3%91%ED%95%A9%E2%80%852/d182231c.png" data-original-src="https://upload.acmicpc.net/dded328d-0a97-41ac-a597-9f115c4fb566/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 391px; width: 750px;" /></p>
 
 <p style="text-align: center;">&lt;그림 5&gt;</p>
 

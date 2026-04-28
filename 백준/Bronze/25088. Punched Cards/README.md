@@ -18,7 +18,7 @@
 
 <p>A secret team of programmers is plotting to disrupt the programming language landscape and bring punched cards back by introducing a new language called <i>Punched Card Python</i> that lets people code in Python using punched cards! Like good disrupters, they are going to launch a viral campaign to promote their new language before even having the design for a prototype. For the campaign, they want to draw punched cards of different sizes in ASCII art.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/25088.%E2%80%85Punched%E2%80%85Cards/5fe2aa9b.png" data-original-src="https://upload.acmicpc.net/9b57c7f7-0f40-4e50-8990-d91254383437/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 558px; height: 250px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/25088.%E2%80%85Punched%E2%80%85Cards/5fe2aa9b.png" data-original-src="%EB%B0%B1%EC%A4%80/Bronze/25088.%E2%80%85Punched%E2%80%85Cards/5fe2aa9b.png" data-original-src="https://upload.acmicpc.net/9b57c7f7-0f40-4e50-8990-d91254383437/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 558px; height: 250px;" /></p>
 
 <p>The ASCII art of a punched card they want to draw is similar to an $R&times;C$ matrix without the top-left cell. That means, it has $(R&sdot;C)-1$ cells in total. Each cell is drawn in ASCII art as a period (<code>.</code>) surrounded by dashes (<code>-</code>) above and below, pipes (<code>|</code>) to the left and right, and plus signs (<code>+</code>) for each corner. Adjacent cells share the common characters in the border. Periods (<code>.</code>) are used to align the cells in the top row.</p>
 

@@ -20,7 +20,7 @@
 
 <p>He uses the following algorithm. He divides the plane into squares 1x1 &ndash; these squares are pixels. When the line from (0, 0) to (a, b) intersects a square&nbsp;<b>in more than one point</b>, the square (pixel) will be black. Otherwise it will be white. Look at the example:</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/23362.%E2%80%85Rasterized%E2%80%85Lines/2cde773f.png" data-original-src="https://upload.acmicpc.net/2dc788c7-fe0f-4e0c-97fd-4ce111ef94a9/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/23362.%E2%80%85Rasterized%E2%80%85Lines/2cde773f.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/23362.%E2%80%85Rasterized%E2%80%85Lines/2cde773f.png" data-original-src="https://upload.acmicpc.net/2dc788c7-fe0f-4e0c-97fd-4ce111ef94a9/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>Tomas is a computer graphics student. He has a homework which is very easy for him. He has to make a program that draws a line from point (0, 0) to (a, b), where integers&nbsp;<b>a, b (a&gt;0, b&gt; 0)</b>&nbsp;are the input of the program.</p>
 

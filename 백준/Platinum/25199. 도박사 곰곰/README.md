@@ -22,7 +22,7 @@
 
 <p>하지만 2만원을 넘어가는&nbsp;치킨의 가격으로 인해 현실은 그리 녹록지 않다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/25199.%E2%80%85%EB%8F%84%EB%B0%95%EC%82%AC%E2%80%85%EA%B3%B0%EA%B3%B0/54cbf6f9.png" data-original-src="https://upload.acmicpc.net/44b53cd6-6a2e-4e31-8311-31e074adcaaf/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/25199.%E2%80%85%EB%8F%84%EB%B0%95%EC%82%AC%E2%80%85%EA%B3%B0%EA%B3%B0/54cbf6f9.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/25199.%E2%80%85%EB%8F%84%EB%B0%95%EC%82%AC%E2%80%85%EA%B3%B0%EA%B3%B0/54cbf6f9.png" data-original-src="https://upload.acmicpc.net/44b53cd6-6a2e-4e31-8311-31e074adcaaf/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>자신의 야심을 이루기 위해 어떻게 매일 비싼 치킨을 먹을 수 있을지 곰곰이 생각한 곰곰이는, 자신의 특기인 카드게임을 통해&nbsp;당신의 돈을 뺏으려고&nbsp;결심했다.</p>
 
@@ -41,7 +41,7 @@
 
 <p>그러나 뽑은 카드의 개수가 $4$개일 때, 곰곰이가 $[ 1, 1, 4, 4 ]$를 뽑고, 당신이 $[ 1, 1, 1, 2 ]$를 뽑는다면, 곰곰이는&nbsp;오늘 저녁엔 치킨을 먹을 수 없다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/25199.%E2%80%85%EB%8F%84%EB%B0%95%EC%82%AC%E2%80%85%EA%B3%B0%EA%B3%B0/b438bc02.png" data-original-src="https://upload.acmicpc.net/2e3c1be4-4adf-4e44-8caf-5b0634784bde/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/25199.%E2%80%85%EB%8F%84%EB%B0%95%EC%82%AC%E2%80%85%EA%B3%B0%EA%B3%B0/b438bc02.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/25199.%E2%80%85%EB%8F%84%EB%B0%95%EC%82%AC%E2%80%85%EA%B3%B0%EA%B3%B0/b438bc02.png" data-original-src="https://upload.acmicpc.net/2e3c1be4-4adf-4e44-8caf-5b0634784bde/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>곰곰이는 카드를 이미 뽑은 상태이고, 이제 당신이 카드를 뽑을 차례이다.</p>
 

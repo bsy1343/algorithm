@@ -18,7 +18,7 @@
 
 <p>You are part of the executive committee of the Database Design Day festivities. You are in charge of promotions and want to print three D&#39;s to create a logo of the contest. You can choose any color you want to print them, but all three have to be printed in the same color.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/25089.%E2%80%853D%E2%80%85Printing/105fd5ef.png" data-original-src="https://upload.acmicpc.net/0f521e22-e0c1-4e7e-be61-4b81fb993df3/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 235px; height: 100px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/25089.%E2%80%853D%E2%80%85Printing/105fd5ef.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/25089.%E2%80%853D%E2%80%85Printing/105fd5ef.png" data-original-src="https://upload.acmicpc.net/0f521e22-e0c1-4e7e-be61-4b81fb993df3/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 235px; height: 100px;" /></p>
 
 <p>You were given three printers and will use each one to print one of the D&#39;s. All printers use ink from $4$ individual cartridges of different colors (cyan, magenta, yellow, and black) to form any color. For these printers, a color is uniquely defined by $4$ non-negative integers $c$, $m$, $y$, and $k$, which indicate the number of ink units of cyan, magenta, yellow, and black ink (respectively) needed to make the color.</p>
 

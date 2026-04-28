@@ -18,7 +18,7 @@
 
 <p>다음과 같이 2차원 좌표평면에 직선 $2n+2$개의 그래프가 그려져 있다. 각 직선의 방정식은 $x = 0, x = 1, \cdots, x = n$, $y = 0, y = 1, \cdots, y = n$이다. 브실이는 여기서 만들 수 있는 직사각형의 수를 세고 있었는데...</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/29727.%E2%80%85%EC%84%A0%EC%9D%B4%E2%80%85%ED%95%98%EB%82%98%E2%80%85%EB%8D%94%E3%85%A0%E3%85%A0/33e102c9.png" data-original-src="https://upload.acmicpc.net/9f4f7492-52e7-4949-8d76-72c4ccbb3fa1/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 402px; width: 400px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/29727.%E2%80%85%EC%84%A0%EC%9D%B4%E2%80%85%ED%95%98%EB%82%98%E2%80%85%EB%8D%94%E3%85%A0%E3%85%A0/33e102c9.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/29727.%E2%80%85%EC%84%A0%EC%9D%B4%E2%80%85%ED%95%98%EB%82%98%E2%80%85%EB%8D%94%E3%85%A0%E3%85%A0/33e102c9.png" data-original-src="https://upload.acmicpc.net/9f4f7492-52e7-4949-8d76-72c4ccbb3fa1/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 402px; width: 400px;" /></p>
 
 <p>갑자기 점 $(x_a + 0.5, y_a + 0.5)$와 $(x_b + 0.5, y_b + 0.5)$를 잇는 선분이 추가되었다. 모든 문제를 한 줄의 수식으로 푸는 것을 좋아하는 브실이에게는 심각하게 어려운 일이 되었다. 울상을 지은 브실이를 위해 직선과 직선 혹은 직선과 선분의 교점으로 만들 수 있는 변들이 좌표축에 평행한 직사각형의 개수를 구해보자!</p>
 

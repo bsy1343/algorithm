@@ -26,7 +26,7 @@
 
 <p>When two towers are mounted close to each other, the shadow of the left tower may fall onto the right tower, so the power, produced by the right tower, decreases. Also, the landscape itself may contain high points that drop shadows on some towers.</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/9585.%E2%80%85Green%E2%80%85Energy/1221d9bd.png" data-original-src="https://www.acmicpc.net/upload/images2/ge.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:182px; width:604px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/9585.%E2%80%85Green%E2%80%85Energy/1221d9bd.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/9585.%E2%80%85Green%E2%80%85Energy/1221d9bd.png" data-original-src="https://www.acmicpc.net/upload/images2/ge.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:182px; width:604px" /></p>
 
 <p>Your task is to find the points on the territory of the plant to mount the given towers to maximize the total length of towers surface that is illuminated by the sun.</p>
 

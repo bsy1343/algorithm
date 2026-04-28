@@ -24,11 +24,11 @@
 
 <p>또한 한 칸에 버섯 포자를 여러 개 겹쳐서 심을 수 있으며, 만약 $x$개의 버섯 포자를 겹쳐 심으면 포자가 심어진 칸을 포함해 최대 $x \times K$개의 연결된 (버섯이 자랄 수 있는) 칸에 버섯이 자란다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/27737.%E2%80%85%EB%B2%84%EC%84%AF%E2%80%85%EB%86%8D%EC%9E%A5/d56cff0f.png" data-original-src="https://upload.acmicpc.net/d6cf1de2-1a5a-4185-bb45-bc37eb4e4476/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 454px; width: 700px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/27737.%E2%80%85%EB%B2%84%EC%84%AF%E2%80%85%EB%86%8D%EC%9E%A5/d56cff0f.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/27737.%E2%80%85%EB%B2%84%EC%84%AF%E2%80%85%EB%86%8D%EC%9E%A5/d56cff0f.png" data-original-src="https://upload.acmicpc.net/d6cf1de2-1a5a-4185-bb45-bc37eb4e4476/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 454px; width: 700px;" /></p>
 
 <p style="text-align: center;">&lt;그림 1&gt; $K = 4$일 때 버섯이 자라는 모습이다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/27737.%E2%80%85%EB%B2%84%EC%84%AF%E2%80%85%EB%86%8D%EC%9E%A5/c1987100.png" data-original-src="https://upload.acmicpc.net/239f2d7b-7589-4f72-9088-993428eb234a/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 443px; width: 700px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/27737.%E2%80%85%EB%B2%84%EC%84%AF%E2%80%85%EB%86%8D%EC%9E%A5/c1987100.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/27737.%E2%80%85%EB%B2%84%EC%84%AF%E2%80%85%EB%86%8D%EC%9E%A5/c1987100.png" data-original-src="https://upload.acmicpc.net/239f2d7b-7589-4f72-9088-993428eb234a/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 443px; width: 700px;" /></p>
 
 <p style="text-align: center;">&lt;그림 2&gt; $K = 10$일 때 버섯이 자라는 모습이다.</p>
 

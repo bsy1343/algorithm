@@ -26,7 +26,7 @@
 
 <p>With this handy tool, Javasar came up with the perfect plan! He will travel outside the kingdom, to the West of the parcel that is at the North-West corner, and then he will visit each parcel exactly once following the route that the picture below shows. Notice that Javasar will enter and leave Nlogonia several times. In this way he will avoid activating or deactivating the MDT when he is inside the kingdom, and then nobody will see him manipulating the tool. Although the MDT is magical and divine, it does not activate or deactivate by itself.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/18040.%E2%80%85Leverage%E2%80%85MDT/6114f1d8.png" data-original-src="https://upload.acmicpc.net/58314e4b-3f3b-4dfc-8763-0155f9c74bdc/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 257px; height: 137px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/18040.%E2%80%85Leverage%E2%80%85MDT/6114f1d8.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/18040.%E2%80%85Leverage%E2%80%85MDT/6114f1d8.png" data-original-src="https://upload.acmicpc.net/58314e4b-3f3b-4dfc-8763-0155f9c74bdc/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 257px; height: 137px;" /></p>
 
 <p>As Javasar&rsquo;s main advisor, you must tell him the maximum number of parcels it is possible to obtain, meeting his requirements, if he optimally leverages the MDT.</p>
 

@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align: center"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/25705.%E2%80%85%EB%8F%8C%EB%A6%BC%ED%8C%90%E2%80%85%EB%AC%B8%EC%9E%90%EC%97%B4/7404e320.png" data-original-src="https://upload.acmicpc.net/cb49a1b3-8ff5-4d01-9d76-ec96f6bdc267/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p style="text-align: center"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/25705.%E2%80%85%EB%8F%8C%EB%A6%BC%ED%8C%90%E2%80%85%EB%AC%B8%EC%9E%90%EC%97%B4/7404e320.png" data-original-src="%EB%B0%B1%EC%A4%80/Bronze/25705.%E2%80%85%EB%8F%8C%EB%A6%BC%ED%8C%90%E2%80%85%EB%AC%B8%EC%9E%90%EC%97%B4/7404e320.png" data-original-src="https://upload.acmicpc.net/cb49a1b3-8ff5-4d01-9d76-ec96f6bdc267/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>위 그림과 같이 알파벳 소문자가 한 글자씩 적힌 돌림판이 존재한다. 돌림판은 반시계 방향으로만 회전하며, 한번 회전할 때마다 시계방향으로 다음 문자를 가리킨다.</p>
 

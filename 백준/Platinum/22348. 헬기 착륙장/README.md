@@ -37,22 +37,22 @@
 	<tbody>
 		<tr>
 			<td>크기: 1</td>
-			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/22348.%E2%80%85%ED%97%AC%EA%B8%B0%E2%80%85%EC%B0%A9%EB%A5%99%EC%9E%A5/39c835d3.png" data-original-src="https://upload.acmicpc.net/69db161c-9835-4156-987d-9b1933c14074/-/crop/676x81/0,0/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 334px; height: 40px;" /></td>
+			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/22348.%E2%80%85%ED%97%AC%EA%B8%B0%E2%80%85%EC%B0%A9%EB%A5%99%EC%9E%A5/39c835d3.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/22348.%E2%80%85%ED%97%AC%EA%B8%B0%E2%80%85%EC%B0%A9%EB%A5%99%EC%9E%A5/39c835d3.png" data-original-src="https://upload.acmicpc.net/69db161c-9835-4156-987d-9b1933c14074/-/crop/676x81/0,0/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 334px; height: 40px;" /></td>
 		</tr>
 		<tr>
 			<td>크기: 2</td>
-			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/22348.%E2%80%85%ED%97%AC%EA%B8%B0%E2%80%85%EC%B0%A9%EB%A5%99%EC%9E%A5/eb2a1e92.png" data-original-src="https://upload.acmicpc.net/69db161c-9835-4156-987d-9b1933c14074/-/crop/676x145/0,94/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 336px; height: 72px;" /></td>
+			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/22348.%E2%80%85%ED%97%AC%EA%B8%B0%E2%80%85%EC%B0%A9%EB%A5%99%EC%9E%A5/eb2a1e92.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/22348.%E2%80%85%ED%97%AC%EA%B8%B0%E2%80%85%EC%B0%A9%EB%A5%99%EC%9E%A5/eb2a1e92.png" data-original-src="https://upload.acmicpc.net/69db161c-9835-4156-987d-9b1933c14074/-/crop/676x145/0,94/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 336px; height: 72px;" /></td>
 		</tr>
 		<tr>
 			<td>크기: 3</td>
-			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/22348.%E2%80%85%ED%97%AC%EA%B8%B0%E2%80%85%EC%B0%A9%EB%A5%99%EC%9E%A5/d3514780.png" data-original-src="https://upload.acmicpc.net/69db161c-9835-4156-987d-9b1933c14074/-/crop/676x212/0,248/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 338px; height: 106px;" /></td>
+			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/22348.%E2%80%85%ED%97%AC%EA%B8%B0%E2%80%85%EC%B0%A9%EB%A5%99%EC%9E%A5/d3514780.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/22348.%E2%80%85%ED%97%AC%EA%B8%B0%E2%80%85%EC%B0%A9%EB%A5%99%EC%9E%A5/d3514780.png" data-original-src="https://upload.acmicpc.net/69db161c-9835-4156-987d-9b1933c14074/-/crop/676x212/0,248/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 338px; height: 106px;" /></td>
 		</tr>
 	</tbody>
 </table>
 
 <p>참고로, 크기가 3인 착륙장 중 아래 그림에서 보인 것처럼 그리려면 빨강 페인트 4=1+3통, 파랑 페인트 2통이 필요한데, 주어진 빨강 페인트 3통으로는 부족하므로 이와 같은 착륙장은 만들 수 없다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/22348.%E2%80%85%ED%97%AC%EA%B8%B0%E2%80%85%EC%B0%A9%EB%A5%99%EC%9E%A5/8a614811.png" data-original-src="https://upload.acmicpc.net/254bd42c-4b40-4a36-b0f1-4e257c9d82f7/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 108px; height: 106px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/22348.%E2%80%85%ED%97%AC%EA%B8%B0%E2%80%85%EC%B0%A9%EB%A5%99%EC%9E%A5/8a614811.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/22348.%E2%80%85%ED%97%AC%EA%B8%B0%E2%80%85%EC%B0%A9%EB%A5%99%EC%9E%A5/8a614811.png" data-original-src="https://upload.acmicpc.net/254bd42c-4b40-4a36-b0f1-4e257c9d82f7/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 108px; height: 106px;" /></p>
 
 <p>현재 당신은 빨강 페인트 a통과 파랑 페인트 b통을 갖고 있다. 이들만을 이용해 만들 수 있는 서로 다른 헬기 착륙장의 개수를 10<sup>9</sup> + 7로 나눈 나머지를 구하는 프로그램을 작성하라.</p>
 

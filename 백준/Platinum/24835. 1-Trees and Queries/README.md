@@ -42,7 +42,7 @@
 
 <p>The image below describes the tree (circles and solid lines) and the added edges for each query (dotted lines).</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/24835.%E2%80%851-Trees%E2%80%85and%E2%80%85Queries/df3b57be.png" data-original-src="https://upload.acmicpc.net/00f253c4-6a8e-4464-9266-c27d4f0bd65c/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 336px; width: 782px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/24835.%E2%80%851-Trees%E2%80%85and%E2%80%85Queries/df3b57be.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/24835.%E2%80%851-Trees%E2%80%85and%E2%80%85Queries/df3b57be.png" data-original-src="https://upload.acmicpc.net/00f253c4-6a8e-4464-9266-c27d4f0bd65c/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 336px; width: 782px;" /></p>
 
 <p>Possible paths for the queries with &quot;YES&quot;&nbsp;answers are:</p>
 

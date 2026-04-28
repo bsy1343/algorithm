@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/7230.%E2%80%85Bitlandijos%E2%80%85katinas/30067311.png" data-original-src="https://upload.acmicpc.net/d767db07-0fba-40c4-a155-78bf7e9fe464/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 203px; height: 109px; float: right;" />Bitlandijoje gyvena Katinas, kuris mėgsta pradžiuginti žmones savo apsilankymu.</p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/7230.%E2%80%85Bitlandijos%E2%80%85katinas/30067311.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/7230.%E2%80%85Bitlandijos%E2%80%85katinas/30067311.png" data-original-src="https://upload.acmicpc.net/d767db07-0fba-40c4-a155-78bf7e9fe464/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 203px; height: 109px; float: right;" />Bitlandijoje gyvena Katinas, kuris mėgsta pradžiuginti žmones savo apsilankymu.</p>
 
 <p>Pavasarį Katinas susirūpino Bitlandijos universiteto studentais, intensyviai besiruo&scaron;iančiais egzaminams. &Scaron;iame universitete studijuojantys studentai arba nėra alergi&scaron;ki katėms ir mielai jas paglosto, arba yra joms alergi&scaron;ki. Žinoma, Katinas nelankys alergi&scaron;kų studentų.</p>
 

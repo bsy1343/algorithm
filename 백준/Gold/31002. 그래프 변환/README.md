@@ -22,7 +22,7 @@
 
 <p>다음은 그래프 변환의 예시 중 하나이다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/31002.%E2%80%85%EA%B7%B8%EB%9E%98%ED%94%84%E2%80%85%EB%B3%80%ED%99%98/8015b2ed.png" data-original-src="https://upload.acmicpc.net/e792900a-df31-4fe2-a9b7-53ed1140c62e/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/31002.%E2%80%85%EA%B7%B8%EB%9E%98%ED%94%84%E2%80%85%EB%B3%80%ED%99%98/8015b2ed.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/31002.%E2%80%85%EA%B7%B8%EB%9E%98%ED%94%84%E2%80%85%EB%B3%80%ED%99%98/8015b2ed.png" data-original-src="https://upload.acmicpc.net/e792900a-df31-4fe2-a9b7-53ed1140c62e/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>그리고 변환한 그래프를 다시 변환하는 것도 가능하다.</p>
 

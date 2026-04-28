@@ -24,19 +24,19 @@
 
 <p>각각의 경우에 대한 몇 가지 예제는 아래와 같다.</p>
 
-<p style="text-align: center;"><img src="%EB%B0%B1%EC%A4%80/Platinum/10255.%E2%80%85%EA%B5%90%EC%B0%A8%EC%A0%90/9e265ffd.png" data-original-src="https://www.acmicpc.net/upload/images2/inter1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p style="text-align: center;"><img src="%EB%B0%B1%EC%A4%80/Platinum/10255.%E2%80%85%EA%B5%90%EC%B0%A8%EC%A0%90/9e265ffd.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/10255.%E2%80%85%EA%B5%90%EC%B0%A8%EC%A0%90/9e265ffd.png" data-original-src="https://www.acmicpc.net/upload/images2/inter1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p style="text-align: center;">(a) 교점이 0개인 경우</p>
 
-<p style="text-align: center;"><img src="%EB%B0%B1%EC%A4%80/Platinum/10255.%E2%80%85%EA%B5%90%EC%B0%A8%EC%A0%90/1673ba98.png" data-original-src="https://www.acmicpc.net/upload/images2/inter2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p style="text-align: center;"><img src="%EB%B0%B1%EC%A4%80/Platinum/10255.%E2%80%85%EA%B5%90%EC%B0%A8%EC%A0%90/1673ba98.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/10255.%E2%80%85%EA%B5%90%EC%B0%A8%EC%A0%90/1673ba98.png" data-original-src="https://www.acmicpc.net/upload/images2/inter2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p style="text-align: center;">(b) 교점이 1개인 경우</p>
 
-<p style="text-align: center;"><img src="%EB%B0%B1%EC%A4%80/Platinum/10255.%E2%80%85%EA%B5%90%EC%B0%A8%EC%A0%90/ba6e8e3b.png" data-original-src="https://www.acmicpc.net/upload/images2/inter3.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p style="text-align: center;"><img src="%EB%B0%B1%EC%A4%80/Platinum/10255.%E2%80%85%EA%B5%90%EC%B0%A8%EC%A0%90/ba6e8e3b.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/10255.%E2%80%85%EA%B5%90%EC%B0%A8%EC%A0%90/ba6e8e3b.png" data-original-src="https://www.acmicpc.net/upload/images2/inter3.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p style="text-align: center;">(c) 교점이 2개인 경우</p>
 
-<p style="text-align: center;"><img src="%EB%B0%B1%EC%A4%80/Platinum/10255.%E2%80%85%EA%B5%90%EC%B0%A8%EC%A0%90/f66beed8.png" data-original-src="https://www.acmicpc.net/upload/images2/inter4.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p style="text-align: center;"><img src="%EB%B0%B1%EC%A4%80/Platinum/10255.%E2%80%85%EA%B5%90%EC%B0%A8%EC%A0%90/f66beed8.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/10255.%E2%80%85%EA%B5%90%EC%B0%A8%EC%A0%90/f66beed8.png" data-original-src="https://www.acmicpc.net/upload/images2/inter4.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p style="text-align: center;">(d) 교점이 무한히 많은 경우</p>
 

@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/17557.%E2%80%85Monument%E2%80%85Tour/d0278df0.png" data-original-src="https://upload.acmicpc.net/3c4d1265-5c4d-4528-a23b-e9c192239eb5/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 362px; height: 301px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/17557.%E2%80%85Monument%E2%80%85Tour/d0278df0.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/17557.%E2%80%85Monument%E2%80%85Tour/d0278df0.png" data-original-src="https://upload.acmicpc.net/3c4d1265-5c4d-4528-a23b-e9c192239eb5/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 362px; height: 301px;" /></p>
 
 <p>A tour operator proposes itineraries consisting of visits of N monuments and museums in Paris, modeled as a grid. The way the tour operates is the following: The bus enters the city from the west (on any street) and traverses the city, taking a left or a right turn to visit monuments when needed, returning to the same eastbound road it used to enter the city, and so on until it exits the city via the east.</p>
 

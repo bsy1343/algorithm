@@ -22,7 +22,7 @@
 
 <p>트리 탐색기는 목록에 $1$번 폴더의 하위 폴더들을 표시합니다. ($1$번 폴더는 표시하지 않습니다.) 폴더는 펼치거나 접을 수 있습니다. 처음에는 모든 폴더가 접혀 있는 상태입니다. 폴더를 펼치면 그 하위 폴더들이 펼친 폴더 바로 아래에 들여쓰기되어 표시됩니다. 폴더를 접으면 포함된 모든 폴더가 목록에서 사라집니다. 폴더를 접었다가 다시 펼쳤을 때, 포함된 모든 폴더는 이전의 접힘/펼침 상태를 유지합니다. (그림 1)</p>
 
-<p style="text-align: center;"><img alt="폴더를 펼치고 접는 예제. ▽은 열린 폴더를, ▶은 닫힌 폴더를 나타낸다." src="%EB%B0%B1%EC%A4%80/Gold/31406.%E2%80%85%ED%8A%B8%EB%A6%AC%E2%80%85%ED%83%90%EC%83%89%EA%B8%B0%E2%80%85(Easy)/0d56da8c.png" data-original-src="https://upload.acmicpc.net/0a7bd75e-481b-42d0-8106-bbbd7164d6fc/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="max-width: 100%;" width="500px" /></p>
+<p style="text-align: center;"><img alt="폴더를 펼치고 접는 예제. ▽은 열린 폴더를, ▶은 닫힌 폴더를 나타낸다." src="%EB%B0%B1%EC%A4%80/Gold/31406.%E2%80%85%ED%8A%B8%EB%A6%AC%E2%80%85%ED%83%90%EC%83%89%EA%B8%B0%E2%80%85(Easy)/0d56da8c.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/31406.%E2%80%85%ED%8A%B8%EB%A6%AC%E2%80%85%ED%83%90%EC%83%89%EA%B8%B0%E2%80%85(Easy)/0d56da8c.png" data-original-src="https://upload.acmicpc.net/0a7bd75e-481b-42d0-8106-bbbd7164d6fc/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="max-width: 100%;" width="500px" /></p>
 
 <p style="text-align: center;">(그림 1) 폴더를 펼치고 접는 예제. ▽은 펼쳐진 폴더를, ▶은 접힌 폴더를 나타냅니다.</p>
 
@@ -33,7 +33,7 @@
 	<li><span style="color:#e74c3c;"><code>toggle</code></span> : 커서가 가리키는 폴더를 접거나 펼칩니다. 폴더가 접혀 있었다면 펼치고, 펼쳐져 있었다면 접습니다.</li>
 </ul>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/31406.%E2%80%85%ED%8A%B8%EB%A6%AC%E2%80%85%ED%83%90%EC%83%89%EA%B8%B0%E2%80%85(Easy)/7e0400d6.png" data-original-src="https://upload.acmicpc.net/4001134d-cdc5-4fcd-a25e-19f06dfbc67a/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="max-width: 100%;" width="500px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/31406.%E2%80%85%ED%8A%B8%EB%A6%AC%E2%80%85%ED%83%90%EC%83%89%EA%B8%B0%E2%80%85(Easy)/7e0400d6.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/31406.%E2%80%85%ED%8A%B8%EB%A6%AC%E2%80%85%ED%83%90%EC%83%89%EA%B8%B0%E2%80%85(Easy)/7e0400d6.png" data-original-src="https://upload.acmicpc.net/4001134d-cdc5-4fcd-a25e-19f06dfbc67a/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="max-width: 100%;" width="500px" /></p>
 
 <p style="text-align: center;">(그림 2) <span style="color:#e74c3c;"><code>move</code></span> 명령어를 사용하는 예제</p>
 

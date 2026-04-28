@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/31856.%E2%80%85%EC%9D%B8%EA%B2%BD%ED%98%B8%EC%88%98%EA%B3%B5%EC%9B%90/501a0004.png" data-original-src="https://upload.acmicpc.net/78bcdf2b-089b-44db-b1ac-e7bdfd613d0d/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" width="800px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/31856.%E2%80%85%EC%9D%B8%EA%B2%BD%ED%98%B8%EC%88%98%EA%B3%B5%EC%9B%90/501a0004.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/31856.%E2%80%85%EC%9D%B8%EA%B2%BD%ED%98%B8%EC%88%98%EA%B3%B5%EC%9B%90/501a0004.png" data-original-src="https://upload.acmicpc.net/78bcdf2b-089b-44db-b1ac-e7bdfd613d0d/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" width="800px" /></p>
 
 <p>인경호수공원은 위 그림과 같이 인경호를 둘러싼 $N$개의 갈림길과 $N$개의 출입구가 있는 호수공원이다.</p>
 

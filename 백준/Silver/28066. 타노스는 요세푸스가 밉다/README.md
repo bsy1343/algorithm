@@ -22,7 +22,7 @@
 
 <p>$N, K$가 주어질 때 마지막으로 남는 청설모의 번호를 구하여라.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/28066.%E2%80%85%ED%83%80%EB%85%B8%EC%8A%A4%EB%8A%94%E2%80%85%EC%9A%94%EC%84%B8%ED%91%B8%EC%8A%A4%EA%B0%80%E2%80%85%EB%B0%89%EB%8B%A4/7d4675db.png" data-original-src="https://upload.acmicpc.net/9bf0dfbd-8997-42ed-8fef-7f89d3172917/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="max-height: 300px; object-fit: contain; display: inline-block; width: 550px; height: 550px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/28066.%E2%80%85%ED%83%80%EB%85%B8%EC%8A%A4%EB%8A%94%E2%80%85%EC%9A%94%EC%84%B8%ED%91%B8%EC%8A%A4%EA%B0%80%E2%80%85%EB%B0%89%EB%8B%A4/7d4675db.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/28066.%E2%80%85%ED%83%80%EB%85%B8%EC%8A%A4%EB%8A%94%E2%80%85%EC%9A%94%EC%84%B8%ED%91%B8%EC%8A%A4%EA%B0%80%E2%80%85%EB%B0%89%EB%8B%A4/7d4675db.png" data-original-src="https://upload.acmicpc.net/9bf0dfbd-8997-42ed-8fef-7f89d3172917/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="max-height: 300px; object-fit: contain; display: inline-block; width: 550px; height: 550px;" /></p>
 
 ### 입력
 

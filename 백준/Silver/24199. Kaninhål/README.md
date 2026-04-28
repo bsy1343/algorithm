@@ -22,7 +22,7 @@
 
 <p>H&aring;len &auml;r tillr&auml;ckligt djupa f&ouml;r att ett visst antal b&auml;vrar ska falla i dem. N&auml;r h&aring;let v&auml;l &auml;r fullt med b&auml;vrar kan de bakomvarande b&auml;vrarna passera ovanp&aring; b&auml;vrarna i h&aring;let, tills slutligen den sista b&auml;vern i raden drar upp b&auml;vrarna ur h&aring;let, den &ouml;versta f&ouml;rst och den understa sist. Allts&aring;, om vi har fem b&auml;vrar (5 4 3 2 1) som vandrar &aring;t h&ouml;ger (nummer 1 g&aring;r allts&aring; f&ouml;rst och nummer 5 sist i ledet), och de kommer till ett h&aring;l d&auml;r tre b&auml;vrar f&aring;r plats, s&aring; skulle f&ouml;ljande h&auml;nda:</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/24199.%E2%80%85Kaninh%C3%A5l/c6e3e18e.png" data-original-src="https://upload.acmicpc.net/060274a5-c3ba-4642-a64b-ba7955c0eec1/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 493px; height: 140px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/24199.%E2%80%85Kaninh%C3%A5l/c6e3e18e.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/24199.%E2%80%85Kaninh%C3%A5l/c6e3e18e.png" data-original-src="https://upload.acmicpc.net/060274a5-c3ba-4642-a64b-ba7955c0eec1/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 493px; height: 140px;" /></p>
 
 <p style="text-align: center;">En illustration av ett kanin h&aring;l och hur b&auml;vrarna vandrar &ouml;ver h&aring;let.</p>
 

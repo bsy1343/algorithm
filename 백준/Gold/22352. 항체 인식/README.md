@@ -27,10 +27,10 @@
 <table class="table table-bordered td-center">
 	<tbody>
 		<tr>
-			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/22352.%E2%80%85%ED%95%AD%EC%B2%B4%E2%80%85%EC%9D%B8%EC%8B%9D/ebf32cc1.png" data-original-src="https://upload.acmicpc.net/6d8780d5-1e33-4ce5-8a5f-6e02c43e1010/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></td>
-			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/22352.%E2%80%85%ED%95%AD%EC%B2%B4%E2%80%85%EC%9D%B8%EC%8B%9D/5e7f3b35.png" data-original-src="https://upload.acmicpc.net/899fae0a-ff1c-46aa-93e4-bbb84edd33d0/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></td>
-			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/22352.%E2%80%85%ED%95%AD%EC%B2%B4%E2%80%85%EC%9D%B8%EC%8B%9D/2ddb5736.png" data-original-src="https://upload.acmicpc.net/9106a1a5-d7e5-49f0-82fb-9eaa5eff4482/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></td>
-			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/22352.%E2%80%85%ED%95%AD%EC%B2%B4%E2%80%85%EC%9D%B8%EC%8B%9D/00452df1.png" data-original-src="https://upload.acmicpc.net/50f5e9ef-1cae-4add-a7ea-9ffe965d9823/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></td>
+			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/22352.%E2%80%85%ED%95%AD%EC%B2%B4%E2%80%85%EC%9D%B8%EC%8B%9D/ebf32cc1.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/22352.%E2%80%85%ED%95%AD%EC%B2%B4%E2%80%85%EC%9D%B8%EC%8B%9D/ebf32cc1.png" data-original-src="https://upload.acmicpc.net/6d8780d5-1e33-4ce5-8a5f-6e02c43e1010/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></td>
+			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/22352.%E2%80%85%ED%95%AD%EC%B2%B4%E2%80%85%EC%9D%B8%EC%8B%9D/5e7f3b35.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/22352.%E2%80%85%ED%95%AD%EC%B2%B4%E2%80%85%EC%9D%B8%EC%8B%9D/5e7f3b35.png" data-original-src="https://upload.acmicpc.net/899fae0a-ff1c-46aa-93e4-bbb84edd33d0/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></td>
+			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/22352.%E2%80%85%ED%95%AD%EC%B2%B4%E2%80%85%EC%9D%B8%EC%8B%9D/2ddb5736.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/22352.%E2%80%85%ED%95%AD%EC%B2%B4%E2%80%85%EC%9D%B8%EC%8B%9D/2ddb5736.png" data-original-src="https://upload.acmicpc.net/9106a1a5-d7e5-49f0-82fb-9eaa5eff4482/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></td>
+			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/22352.%E2%80%85%ED%95%AD%EC%B2%B4%E2%80%85%EC%9D%B8%EC%8B%9D/00452df1.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/22352.%E2%80%85%ED%95%AD%EC%B2%B4%E2%80%85%EC%9D%B8%EC%8B%9D/00452df1.png" data-original-src="https://upload.acmicpc.net/50f5e9ef-1cae-4add-a7ea-9ffe965d9823/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></td>
 		</tr>
 		<tr>
 			<td>(a) 백신을 놓기 전</td>

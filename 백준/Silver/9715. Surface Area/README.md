@@ -18,7 +18,7 @@
 
 <p>The solid in the picture below is made up of 1x1x1 cubes in a 3D grid. In this problem, we&#39;ll limit ourselves to solids that are made up of columns rooted on the ground (a column consists of one or several 1x1x1 cubes stacked on top of each other). Such solids can be described as a matrix of digits, where each digit corresponds to the height of a column in the 2D grid that makes up the ground. A zero means there is no column at all in that position.</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/9715.%E2%80%85Surface%E2%80%85Area/9a3014a9.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/9715/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-10-04%20%EC%98%A4%ED%9B%84%204.03.33.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:241px; width:190px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/9715.%E2%80%85Surface%E2%80%85Area/9a3014a9.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/9715.%E2%80%85Surface%E2%80%85Area/9a3014a9.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/9715/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-10-04%20%EC%98%A4%ED%9B%84%204.03.33.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:241px; width:190px" /></p>
 
 <p>The corresponding matrix for the above solid will be  </p>
 

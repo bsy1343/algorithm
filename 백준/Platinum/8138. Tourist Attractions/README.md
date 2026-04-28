@@ -22,7 +22,7 @@
 
 <p>Let k denote the number of sites Byteasar wants to visit. Bitingham has number 1 in the numbering, Byteburg has number n, and the sites Byteasar wants to visit have numbers 2,3,&hellip;,k+1.</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/8138.%E2%80%85Tourist%E2%80%85Attractions/a67cfa83.gif" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/8138/1.gif" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:279px; width:504px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/8138.%E2%80%85Tourist%E2%80%85Attractions/a67cfa83.gif" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/8138.%E2%80%85Tourist%E2%80%85Attractions/a67cfa83.gif" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/8138/1.gif" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:279px; width:504px" /></p>
 
 <p>An exemplary system of roads is shown in the figure. Suppose Byteasar wants to visit the sites 2, 3, 4 and 5, and he would like to visit 2 before 3, and 4 and 5 after 3. Then the shortest route leads through sites 1, 2, 4, 3, 4, 5, 8 and its length is 19.</p>
 

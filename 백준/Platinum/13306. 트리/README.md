@@ -20,7 +20,7 @@
 
 <p>두 정점 v와 w를 연결하는 경로는 정점들의 순서리스트 (v<sub>0</sub>, v<sub>1</sub>, ..., v<sub>m</sub>)로, 정점 v<sub>i</sub>와 v<sub>i+1</sub>은 에지로 연결되고 v<sub>0</sub> = v, v<sub>m</sub> = w이다. 트리에서는 임의의 두 정점 v와 w 사이에 항상 두 정점을 연결하는 경로가 오직 하나만 존재한다. 예를 들어, 그림 1에서 정점 3과 11 사이의 유일한 경로는 (3, 4, 1, 7, 11)이다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/13306.%E2%80%85%ED%8A%B8%EB%A6%AC/5077189c.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/13306/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:228px; width:211px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/13306.%E2%80%85%ED%8A%B8%EB%A6%AC/5077189c.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/13306.%E2%80%85%ED%8A%B8%EB%A6%AC/5077189c.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/13306/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:228px; width:211px" /></p>
 
 <p style="text-align: center;">그림 1</p>
 

@@ -28,7 +28,7 @@
 
 <p>For example, consider the grid in the example input. Some of the possible sub-rectangles of candies they can select are [-2, -1, 2, 3], [-4, -2, -1] or [2, 3, 4, 5]. The last sub-rectangle has the maximum sum of scores, which is 14. They can not select the following lists of candies [1, 2, 3, 4, 5] or [-2, -1, 2] (because these lists do not form a sub-rectangle of the given grid).</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/9639.%E2%80%85Omar%E2%80%85Loves%E2%80%85Candies/e57805b3.png" data-original-src="https://www.acmicpc.net/upload/images2/omar.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:172px; width:170px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/9639.%E2%80%85Omar%E2%80%85Loves%E2%80%85Candies/e57805b3.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/9639.%E2%80%85Omar%E2%80%85Loves%E2%80%85Candies/e57805b3.png" data-original-src="https://www.acmicpc.net/upload/images2/omar.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:172px; width:170px" /></p>
 
 <p>Can you help them by writing a program which finds the non-empty sub-rectangle with the maximum possible sum of scores in the given grid?</p>
 

@@ -20,7 +20,7 @@
 
 <p>Jennifer&#39;s street consists of houses on only one side of the road. She has a plan of which houses will be a <em>neighborhood watch house</em> and wants to know how safe the plan is. A <em>walk</em> from one house to another house (not necessarily distinct) is considered <em>safe</em> if there is at least one house along the walk that is a neighborhood watch house. The <em>safety rating</em> of a plan is the number of walks that are safe on the street. Since a walk is either safe or not safe, when traveling in either direction, it is not counted twice in the safety rating.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/22285.%E2%80%85Neighborhood%E2%80%85Watch/5a26100f.png" data-original-src="https://upload.acmicpc.net/5f957ee7-a431-4304-af5c-ed6b67daada4/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 448px; height: 139px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/22285.%E2%80%85Neighborhood%E2%80%85Watch/5a26100f.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/22285.%E2%80%85Neighborhood%E2%80%85Watch/5a26100f.png" data-original-src="https://upload.acmicpc.net/5f957ee7-a431-4304-af5c-ed6b67daada4/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 448px; height: 139px;" /></p>
 
 <p style="text-align: center;">Figure G.1:&nbsp;Sample input. One example of a safe walk is traveling from house $1$ to house $5$.</p>
 

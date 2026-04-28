@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/15410.%E2%80%85Cakey%E2%80%85McCakeFace/7ff8c869.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15410/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:291px; width:270px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/15410.%E2%80%85Cakey%E2%80%85McCakeFace/7ff8c869.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/15410.%E2%80%85Cakey%E2%80%85McCakeFace/7ff8c869.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15410/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:291px; width:270px" /></p>
 
 <p>Cakey McCakeFace&rsquo;s signature pastry, the Unknowable Cake, is baked daily in their Paris facility. The make-or-break trick for this cake is the cooking time, which is a very well-kept secret. Eve, the well-known spy, wants to steal this secret, and your job is to help her.</p>
 

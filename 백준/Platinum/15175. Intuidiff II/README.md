@@ -20,7 +20,7 @@
 
 <p>We are now onto the next stage of development of Intuidiff. After some preprocessing, the original document has been broken up into several non-overlapping substrings, and each of these has been assigned a different colour (for example, see the &lsquo;Before&rsquo; paragraph in Figure I.1). Then, in the modified document, the substrings are coloured using the same colours as those in the original document (for example, see the &lsquo;After&rsquo; paragraph in Figure I.1). This allows us to see how large substrings have moved in the document. Substrings with the same colour may appear multiple times in the &lsquo;After&rsquo; section, but only once in the &lsquo;Before&rsquo; section. For example, the substring &ldquo;et dolore magna aliqua.&rdquo; appears twice in the modified document of Figure I.1.</p>
 
-<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/15175.%E2%80%85Intuidiff%E2%80%85II/a7fa7c82.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15175/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:109px; width:381px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/15175.%E2%80%85Intuidiff%E2%80%85II/a7fa7c82.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/15175.%E2%80%85Intuidiff%E2%80%85II/a7fa7c82.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15175/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:109px; width:381px" /></p>
 
 <p style="text-align:center">Figure I.1: A full colouring from the Intuidiff program.</p>
 
@@ -30,7 +30,7 @@
 
 <p>The characters that are not highlighted must be in the same order as in the original document. The selection of substrings is done in such a way that the number of non-highlighted characters in the modified document is maximised (for example, see Figure I.2).</p>
 
-<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/15175.%E2%80%85Intuidiff%E2%80%85II/6931e332.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15175/2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:114px; width:381px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/15175.%E2%80%85Intuidiff%E2%80%85II/6931e332.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/15175.%E2%80%85Intuidiff%E2%80%85II/6931e332.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15175/2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:114px; width:381px" /></p>
 
 <p style="text-align:center">Figure I.2: A desired colouring from the Intuidiff program.</p>
 

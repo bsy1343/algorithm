@@ -18,7 +18,7 @@
 
 <p>S&atilde;o dadas duas &acirc;ncoras, dois pontos A = (X<sub>A</sub>, 0) e B = (X<sub>B</sub>, 0), formando um segmento horizontal, tal que 0 &lt; X<sub>A</sub> &lt; X<sub>B</sub>, e um conjunto P de N pontos da forma (X, Y), tal que X &gt; 0 e Y &gt; 0. A figura mais &agrave; esquerda exemplifica uma poss&iacute;vel entrada.</p>
 
-<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/15046.%E2%80%85Hipercampo/be540787.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15046/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:163px; width:592px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/15046.%E2%80%85Hipercampo/be540787.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/15046.%E2%80%85Hipercampo/be540787.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15046/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:163px; width:592px" /></p>
 
 <p>Para &ldquo;ligar&rdquo; um ponto v &isin; P precisamos desenhar os dois segmentos de reta (v, A) e (v, B). Queremos ligar v&aacute;rios pontos, mas de modo que os segmentos se interceptem apenas nas &acirc;ncoras. Por exemplo, a figura do meio mostra dois pontos, 1 e 4, que n&atilde;o podem estar ligados ao mesmo tempo, pois haveria interse&ccedil;&atilde;o dos segmentos fora das &acirc;ncoras. A figura mais &agrave; direita mostra que &eacute; poss&iacute;vel ligar pelo menos 3 pontos, 8, 5 e 3, com interse&ccedil;&atilde;o apenas nas &acirc;ncoras.</p>
 

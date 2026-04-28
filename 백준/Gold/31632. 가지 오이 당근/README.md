@@ -27,7 +27,7 @@
 	<li>그렇지 않으면, 승점을 얻은 키위새는 이기고 승점을 얻지 못한 키위새는 집니다.</li>
 </ul>
 
-<p style="display:flex;flex-direction:column;align-items:center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/31632.%E2%80%85%EA%B0%80%EC%A7%80%E2%80%85%EC%98%A4%EC%9D%B4%E2%80%85%EB%8B%B9%EA%B7%BC/c950999a.png" data-original-src="https://upload.acmicpc.net/711d1649-8650-4f27-adb5-826048049782/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="max-height:12em;max-width:100%" /><span style="text-align:center;">가지는 오이를 상대로, 오이는 당근을 상대로, 당근은 가지를 상대로 승점을 얻습니다.</span></p>
+<p style="display:flex;flex-direction:column;align-items:center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/31632.%E2%80%85%EA%B0%80%EC%A7%80%E2%80%85%EC%98%A4%EC%9D%B4%E2%80%85%EB%8B%B9%EA%B7%BC/c950999a.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/31632.%E2%80%85%EA%B0%80%EC%A7%80%E2%80%85%EC%98%A4%EC%9D%B4%E2%80%85%EB%8B%B9%EA%B7%BC/c950999a.png" data-original-src="https://upload.acmicpc.net/711d1649-8650-4f27-adb5-826048049782/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="max-height:12em;max-width:100%" /><span style="text-align:center;">가지는 오이를 상대로, 오이는 당근을 상대로, 당근은 가지를 상대로 승점을 얻습니다.</span></p>
 
 <p>유치원의 키위새들은 채소를 내었지만, 여러분은 잠시 쉬고 있느라 몇몇 키위새가 낸 채소를 보지 못했습니다! 그 대신 유치원의 키위새들에게 게임의 결과를 물어보아 각 키위새가 이겼는지, 비겼는지, 졌는지 알아내었습니다. 하지만 키위새는 기억력이 좋지 않아 실제 결과와 다른 결과를 말했을 수도 있습니다.</p>
 

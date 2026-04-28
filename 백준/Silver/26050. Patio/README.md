@@ -18,7 +18,7 @@
 
 <p>Cimrman wants to make a square patio floor using tiles of two colours, red and blue. The patio floor should look like this (with the colors slightly faded in time):</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/26050.%E2%80%85Patio/586979f2.png" data-original-src="https://upload.acmicpc.net/f85e3eb7-0a6c-46c8-a5c9-0e47e6235010/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 142px; height: 142px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/26050.%E2%80%85Patio/586979f2.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/26050.%E2%80%85Patio/586979f2.png" data-original-src="https://upload.acmicpc.net/f85e3eb7-0a6c-46c8-a5c9-0e47e6235010/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 142px; height: 142px;" /></p>
 
 <p style="text-align: center;">Figure 1: One of Cimrman&rsquo;s perfect patios</p>
 

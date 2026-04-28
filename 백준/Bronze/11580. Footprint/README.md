@@ -20,7 +20,7 @@
 
 <p>모든 명령을 끝낸 주현이는 재윤이가 명령에 복종했는지 확인하기 위해 좌표평면에 찍힌 발자국의 개수를 알아내려 하지만 너무 많은 명령을 내려버려 눈으로는 도저히 셀 수 없게 되었다. 주현이를 위해 여러분이 발자국의 개수를 구해주는 프로그램을 작성해주자.</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/11580.%E2%80%85Footprint/5ba9623d.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11580/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="float:left; height:271px; width:272px" />만약 주현이가 SENWWSEN 라고 명령을 재윤이에게 내렸다고 가정 해 보자. 재윤이는 (0, 0) -&gt; (0, -1) -&gt; (1, -1) -&gt; (1, 0) -&gt; (0, 0) -&gt; (-1, 0) -&gt; (-1, -1) -&gt; (0, -1) -&gt; (0, 0) 순으로 움직이게 되며 왼쪽 그림은 좌표평면에 찍힌 발자국을 나타낸다. 재윤이가 밟은 좌표는 원점을 포함해 총 9개지만 중복된 좌표가 있으므로 좌표평면에 찍힌 발자국은 총 6개가 된다.</p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/11580.%E2%80%85Footprint/5ba9623d.png" data-original-src="%EB%B0%B1%EC%A4%80/Bronze/11580.%E2%80%85Footprint/5ba9623d.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11580/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="float:left; height:271px; width:272px" />만약 주현이가 SENWWSEN 라고 명령을 재윤이에게 내렸다고 가정 해 보자. 재윤이는 (0, 0) -&gt; (0, -1) -&gt; (1, -1) -&gt; (1, 0) -&gt; (0, 0) -&gt; (-1, 0) -&gt; (-1, -1) -&gt; (0, -1) -&gt; (0, 0) 순으로 움직이게 되며 왼쪽 그림은 좌표평면에 찍힌 발자국을 나타낸다. 재윤이가 밟은 좌표는 원점을 포함해 총 9개지만 중복된 좌표가 있으므로 좌표평면에 찍힌 발자국은 총 6개가 된다.</p>
 
 ### 입력
 

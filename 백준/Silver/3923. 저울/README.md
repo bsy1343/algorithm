@@ -28,7 +28,7 @@
 	원웅이가 가지고 있는 추의 종류와 재려고 하는 아스피린의 양이 주어졌을 때, 각각 추를 몇 개 사용하면 아스피린의 양을 잴 수 있는지 구하는 프로그램을 작성하시오.</p>
 
 <p>
-	<img alt="" src="%EB%B0%B1%EC%A4%80/Silver/3923.%E2%80%85%EC%A0%80%EC%9A%B8/c96655b6.png" data-original-src="https://www.acmicpc.net/upload/images/b1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 427px; height: 119px;" /><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/3923.%E2%80%85%EC%A0%80%EC%9A%B8/0c05b946.png" data-original-src="https://www.acmicpc.net/upload/images/b2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 426px; height: 134px;" /></p>
+	<img alt="" src="%EB%B0%B1%EC%A4%80/Silver/3923.%E2%80%85%EC%A0%80%EC%9A%B8/c96655b6.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/3923.%E2%80%85%EC%A0%80%EC%9A%B8/c96655b6.png" data-original-src="https://www.acmicpc.net/upload/images/b1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 427px; height: 119px;" /><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/3923.%E2%80%85%EC%A0%80%EC%9A%B8/0c05b946.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/3923.%E2%80%85%EC%A0%80%EC%9A%B8/0c05b946.png" data-original-src="https://www.acmicpc.net/upload/images/b2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 426px; height: 134px;" /></p>
 
 ### 입력
 

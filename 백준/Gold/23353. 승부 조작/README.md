@@ -18,7 +18,7 @@
 
 <p>고양이 랑이와 메리는 오목 게임의 변형인 냥목 게임을 하고 있다. 냥목 게임의 규칙은 복잡하니 점수 계산 방법만 보자.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/23353.%E2%80%85%EC%8A%B9%EB%B6%80%E2%80%85%EC%A1%B0%EC%9E%91/ddf88732.png" data-original-src="https://upload.acmicpc.net/8812c64a-b9d4-418b-9e9b-0fa1c6e15c69/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 331px; height: 300px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/23353.%E2%80%85%EC%8A%B9%EB%B6%80%E2%80%85%EC%A1%B0%EC%9E%91/ddf88732.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/23353.%E2%80%85%EC%8A%B9%EB%B6%80%E2%80%85%EC%A1%B0%EC%9E%91/ddf88732.png" data-original-src="https://upload.acmicpc.net/8812c64a-b9d4-418b-9e9b-0fa1c6e15c69/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 331px; height: 300px;" /></p>
 
 <p>냥목 게임은 위 그림과 같은 $N \times N$ 크기의 바둑판에서 흑돌과 백돌을 이용해 진행된다.</p>
 

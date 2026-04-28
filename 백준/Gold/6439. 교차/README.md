@@ -18,7 +18,7 @@
 
 <p>입력으로 주어진 선분과 직사각형이 교차하는지 아닌지를 구하는 프로그램을 작성하시오.</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/6439.%E2%80%85%EA%B5%90%EC%B0%A8/ee34fd00.gif" data-original-src="https://www.acmicpc.net/upload/images2/Intersection.gif" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:190px; width:217px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/6439.%E2%80%85%EA%B5%90%EC%B0%A8/ee34fd00.gif" data-original-src="%EB%B0%B1%EC%A4%80/Gold/6439.%E2%80%85%EA%B5%90%EC%B0%A8/ee34fd00.gif" data-original-src="https://www.acmicpc.net/upload/images2/Intersection.gif" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:190px; width:217px" /></p>
 
 <p>위의 그림에서 선분의 시작점은 (4,9), 끝점은 (11,2) 이며, 직사각형의 왼쪽 위 좌표는 (1,5), 오른쪽 아래 좌표는 (7, 1)이다. 또, 선분과 직사각형은 교차하지 않는다.</p>
 

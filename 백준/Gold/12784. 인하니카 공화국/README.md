@@ -18,7 +18,7 @@
 
 <p>인하니카 공화국은 1번~ <em>N</em>번까지 <em>N</em>개의 섬으로 이루어진 나라이다. 이 나라에서는 섬 간의 왕래가 매우 어려웠지만, 위대한 다리 설계자 &lsquo;진&rsquo;이 두 섬을 연결하는 다리를 최소한의 개수로 만들어 모든 섬 간의 왕래가 가능하도록 만들었다. 1번섬에서 살고 있는 진은 어느 날 위험한 소문을 듣게 되었다. 1번섬을 제외한 다리가 하나밖에 없는 어느 섬에서 유명한 연쇄 살인마 괴도&lsquo;루팡&rsquo;이 자신의 목숨을 노리고 있다는 소문이었다. 너무 불안한 나머지 진은 몇 개의 다리를 폭파하여, 루팡이 있을 가능성이 있는 모든 섬에서 자신의 섬으로의 모든 경로를 차단하려고 한다. 하지만 각 다리를 폭파하려면 다리의 크기에 따라 다이너마이트의 개수가 다르다. 다이너마이트는 매우 비싸기 때문에 진은 사용하는 다이너마이트의 개수를 최소화하고 싶어 한다. 각 섬을 연결하는 다리를 폭파하기 위한 다이너마이트의 개수가 주어졌을 때, 진을 도와 필요한 최소 다이너마이트의 개수를 구하라.</p>
 
-<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/12784.%E2%80%85%EC%9D%B8%ED%95%98%EB%8B%88%EC%B9%B4%E2%80%85%EA%B3%B5%ED%99%94%EA%B5%AD/58fcc5a1.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/12784/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:170px; width:340px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/12784.%E2%80%85%EC%9D%B8%ED%95%98%EB%8B%88%EC%B9%B4%E2%80%85%EA%B3%B5%ED%99%94%EA%B5%AD/58fcc5a1.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/12784.%E2%80%85%EC%9D%B8%ED%95%98%EB%8B%88%EC%B9%B4%E2%80%85%EA%B3%B5%ED%99%94%EA%B5%AD/58fcc5a1.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/12784/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:170px; width:340px" /></p>
 
 <p>예를 들어, 위의 그림과 같이 섬과 다리를 폭파하기 위한 다이너마이트의 수가 주어졌을 때, 빨간색 다리를 폭파하면 다이너마이트의 개수를 최소화하면서 루팡으로부터 안전할 수 있다.</p>
 

@@ -18,7 +18,7 @@
 
 <p>A domino is a 2x1 rectangular tile with a line dividing its face into two squares, each with a certain number of dots from zero spots to six spots. As you might know, there are many different games which can be played using dominoes. In most games, dominoes are played by arranging them into a single chain where adjacent dominoes must have matching numbers (see example illustration below).</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/7807.%E2%80%85Playing%E2%80%85With%E2%80%85Domino/3de42b5f.gif" data-original-src="https://www.acmicpc.net/upload/images2/domino.gif" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:206px; width:500px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/7807.%E2%80%85Playing%E2%80%85With%E2%80%85Domino/3de42b5f.gif" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/7807.%E2%80%85Playing%E2%80%85With%E2%80%85Domino/3de42b5f.gif" data-original-src="https://www.acmicpc.net/upload/images2/domino.gif" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:206px; width:500px" /></p>
 
 <p>There are 28 possible faces in a complete set of domino: 0-0, 0-1, 0-2, 0-3, 0-4, 0-5, 0-6, 1-1, 1-2, 1-3, 1-4, 1-5, 1-6, 2-2, 2-3, 2-4, 2-5, 2-6, 3-3, 3-4, 3-5, 3-6, 4-4, 4-5, 4-6, 5-5, 5-6, 6-6. Of course you can play each domino in either direction. For example, you can play 1-6 as 1/6 or 6/1 depending on your need.</p>
 

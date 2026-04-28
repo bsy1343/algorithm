@@ -24,7 +24,7 @@
 
 <p>Žemiau pateiktame pavyzdyje Jonas (pozicija 5, auk&scaron;tis 5) gali pataikyti į Mantą (pozicija 2, auk&scaron;tis 4), bet negali pataikyti į Astą (pozicija 7, auk&scaron;tis 2).</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/30343.%E2%80%85Sniegas/9776bf94.png" data-original-src="https://upload.acmicpc.net/622e91e4-db79-4569-b8aa-2e8641b87008/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 310px; height: 195px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/30343.%E2%80%85Sniegas/9776bf94.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/30343.%E2%80%85Sniegas/9776bf94.png" data-original-src="https://upload.acmicpc.net/622e91e4-db79-4569-b8aa-2e8641b87008/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 310px; height: 195px;" /></p>
 
 <p>Žinodami, kaip atrodo sniego mū&scaron;io laukas, kur yra Jono bei jo draugų pozicijos, apskaičiuokite, į kelis draugus Jonas gali pataikyti mesdamas sniego gniūžtes.</p>
 

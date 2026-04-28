@@ -18,7 +18,7 @@
 
 <p>You are given a set of n axis-aligned rectangles in a 2D plane. For this problem, two rectangles are considered to intersect if their boundaries contain any common points (in particular, two nesting rectangles don&rsquo;t count as intersecting). Determine if some pair of rectangles intersect.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/17001.%E2%80%85Intersecting%E2%80%85Rectangles/0da06e47.png" data-original-src="https://upload.acmicpc.net/823afaac-4953-4aff-addd-564bbaf984cd/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 639px; height: 172px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/17001.%E2%80%85Intersecting%E2%80%85Rectangles/0da06e47.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/17001.%E2%80%85Intersecting%E2%80%85Rectangles/0da06e47.png" data-original-src="https://upload.acmicpc.net/823afaac-4953-4aff-addd-564bbaf984cd/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 639px; height: 172px;" /></p>
 
 <p>In this example, only rectangles A and B intersect.</p>
 

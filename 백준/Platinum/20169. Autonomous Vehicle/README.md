@@ -24,11 +24,11 @@
 
 <p>Given the roads of the factory, the starting end point of the vehicle <em>V</em>&nbsp;and a nonnegative time <em>t</em>, write a program to compute the coordinate (<em>x</em>, <em>y</em>) of the location of <em>V</em> at time <em>t</em>.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/20169.%E2%80%85Autonomous%E2%80%85Vehicle/8b153812.png" data-original-src="https://upload.acmicpc.net/0cd48ef3-5660-464e-865d-3089a4689132/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 538px; height: 290px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/20169.%E2%80%85Autonomous%E2%80%85Vehicle/8b153812.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/20169.%E2%80%85Autonomous%E2%80%85Vehicle/8b153812.png" data-original-src="https://upload.acmicpc.net/0cd48ef3-5660-464e-865d-3089a4689132/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 538px; height: 290px;" /></p>
 
 <p style="text-align: center;">Figure A.1 (a) The roads in the factory. (b) The vehicle comes back to the starting point.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/20169.%E2%80%85Autonomous%E2%80%85Vehicle/3145203e.png" data-original-src="https://upload.acmicpc.net/5e3b3e28-3377-43dc-bd38-43b940f630fa/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 332px; height: 230px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/20169.%E2%80%85Autonomous%E2%80%85Vehicle/3145203e.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/20169.%E2%80%85Autonomous%E2%80%85Vehicle/3145203e.png" data-original-src="https://upload.acmicpc.net/5e3b3e28-3377-43dc-bd38-43b940f630fa/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 332px; height: 230px;" /></p>
 
 <p style="text-align: center;">Figure A.2 The roads given in the second sample test case below.</p>
 

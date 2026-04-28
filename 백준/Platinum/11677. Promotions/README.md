@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/11677.%E2%80%85Promotions/06c20a9e.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11677/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="float:right; height:362px; width:205px" />The Fair Inc. administration decided to promote the best employees and limited the number of promotions to a fixed interval [A, B]. The directors compared the employees&rsquo; performance and their evaluations resulted in a consistent precedence relation among employees, which has to be respected by promotions. This means that, for every pair of employees x and y, if x outperformed y, then y may be promoted only if x is promoted.</p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/11677.%E2%80%85Promotions/06c20a9e.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/11677.%E2%80%85Promotions/06c20a9e.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11677/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="float:right; height:362px; width:205px" />The Fair Inc. administration decided to promote the best employees and limited the number of promotions to a fixed interval [A, B]. The directors compared the employees&rsquo; performance and their evaluations resulted in a consistent precedence relation among employees, which has to be respected by promotions. This means that, for every pair of employees x and y, if x outperformed y, then y may be promoted only if x is promoted.</p>
 
 <p>In order to understand whether the data collected so far is enough for ensuring fairness, the executive chairman wants to know:</p>
 

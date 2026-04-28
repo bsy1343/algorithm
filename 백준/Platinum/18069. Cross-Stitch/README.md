@@ -20,7 +20,7 @@
 
 <p>Carol is going to mass-produce cross-stitch patterns. Each pattern will be accompanied by the rectangular patch of fabric and the thread that is required to embroider this pattern. Carol wants to minimize the length of the thread that is required for the pattern.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/18069.%E2%80%85Cross-Stitch/92c8e2e6.png" data-original-src="https://upload.acmicpc.net/f0e13987-2649-46b4-90a2-f96e0acfbeb1/-/crop/292x217/0,3/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 146px; height: 109px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/18069.%E2%80%85Cross-Stitch/92c8e2e6.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/18069.%E2%80%85Cross-Stitch/92c8e2e6.png" data-original-src="https://upload.acmicpc.net/f0e13987-2649-46b4-90a2-f96e0acfbeb1/-/crop/292x217/0,3/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 146px; height: 109px;" /></p>
 
 <p>You are given the face of the pattern. You should design the backside, so that the total length of the thread is minimal. The crosses on the pattern&rsquo;s face are 8-connected, i.e. it is possible to reach each cross from any other by a sequence of chess king&rsquo;s moves.</p>
 

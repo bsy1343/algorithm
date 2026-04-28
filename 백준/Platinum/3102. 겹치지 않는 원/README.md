@@ -18,7 +18,7 @@
 
 <p>X축 위에 중심 좌표가 C<sub>i</sub>이고 반지름이 R<sub>i</sub>인 원이 N개 있다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/3102.%E2%80%85%EA%B2%B9%EC%B9%98%EC%A7%80%E2%80%85%EC%95%8A%EB%8A%94%E2%80%85%EC%9B%90/44645407.png" data-original-src="https://upload.acmicpc.net/88bc7f25-27a5-48be-b181-c44b26ee248b/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 365px; height: 235px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/3102.%E2%80%85%EA%B2%B9%EC%B9%98%EC%A7%80%E2%80%85%EC%95%8A%EB%8A%94%E2%80%85%EC%9B%90/44645407.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/3102.%E2%80%85%EA%B2%B9%EC%B9%98%EC%A7%80%E2%80%85%EC%95%8A%EB%8A%94%E2%80%85%EC%9B%90/44645407.png" data-original-src="https://upload.acmicpc.net/88bc7f25-27a5-48be-b181-c44b26ee248b/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 365px; height: 235px;" /></p>
 
 <p>여기서 원을 몇 개를 지우면 모든 원이 서로 교차하지 않을까?</p>
 

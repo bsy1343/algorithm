@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/22774.%E2%80%85Lego%E2%80%85Land/2a67be5c.png" data-original-src="https://upload.acmicpc.net/2170bd51-5692-49f2-bf18-291d93032743/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 249px; height: 220px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/22774.%E2%80%85Lego%E2%80%85Land/2a67be5c.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/22774.%E2%80%85Lego%E2%80%85Land/2a67be5c.png" data-original-src="https://upload.acmicpc.net/2170bd51-5692-49f2-bf18-291d93032743/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 249px; height: 220px;" /></p>
 
 <p style="text-align: center;">Figure 1: VR view of a Lego downtown</p>
 

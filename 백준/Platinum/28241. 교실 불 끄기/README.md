@@ -20,13 +20,13 @@
 
 <p>따라서 진서는 최소한의 계단을 사용하여 불을 끄는 방법 중 시간을 최소화하는 방법으로 불을 끌 것이다.</p>
 
-<p style="text-align: center;"><img alt="" height="248" src="%EB%B0%B1%EC%A4%80/Platinum/28241.%E2%80%85%EA%B5%90%EC%8B%A4%E2%80%85%EB%B6%88%E2%80%85%EB%81%84%EA%B8%B0/2b5cc55c.png" data-original-src="https://upload.acmicpc.net/6be598fd-a8c7-483f-8a84-5113e5ccd823/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" width="269" /></p>
+<p style="text-align: center;"><img alt="" height="248" src="%EB%B0%B1%EC%A4%80/Platinum/28241.%E2%80%85%EA%B5%90%EC%8B%A4%E2%80%85%EB%B6%88%E2%80%85%EB%81%84%EA%B8%B0/2b5cc55c.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/28241.%E2%80%85%EA%B5%90%EC%8B%A4%E2%80%85%EB%B6%88%E2%80%85%EB%81%84%EA%B8%B0/2b5cc55c.png" data-original-src="https://upload.acmicpc.net/6be598fd-a8c7-483f-8a84-5113e5ccd823/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" width="269" /></p>
 
 <p style="text-align: center;">불을 끄러 다니는 경비원 진서의 피곤한 모습이다.</p>
 
 <p>학교는 $n$개의 층으로 이루어져 있으며 모든 층에는 계단, $m$개의 교실, 계단이 순서대로 배치되어 있다. 각 교실과 계단은 하나의 칸으로서 표현된다. 한 칸을 이동하는 데에는 $1$분이 걸리고, 층간 이동은 계단을 통해서만 할 수 있다. 특히 학교 건물의 가장 높은 층인 $n$층에는 면학실이 있기에 <strong>모든 교실에 불이 켜져 있다</strong>.</p>
 
-<p style="text-align: center;"><img alt="" height="316" src="%EB%B0%B1%EC%A4%80/Platinum/28241.%E2%80%85%EA%B5%90%EC%8B%A4%E2%80%85%EB%B6%88%E2%80%85%EB%81%84%EA%B8%B0/b620c5c1.png" data-original-src="https://upload.acmicpc.net/636fedc5-3b83-4b30-a243-58f8d10c5073/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" width="384" /></p>
+<p style="text-align: center;"><img alt="" height="316" src="%EB%B0%B1%EC%A4%80/Platinum/28241.%E2%80%85%EA%B5%90%EC%8B%A4%E2%80%85%EB%B6%88%E2%80%85%EB%81%84%EA%B8%B0/b620c5c1.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/28241.%E2%80%85%EA%B5%90%EC%8B%A4%E2%80%85%EB%B6%88%E2%80%85%EB%81%84%EA%B8%B0/b620c5c1.png" data-original-src="https://upload.acmicpc.net/636fedc5-3b83-4b30-a243-58f8d10c5073/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" width="384" /></p>
 
 <p style="text-align: center;">예제로 주어지는 학교의 모습이다. 편의상 양 끝 계단 열에 $0$과 $4$를 부여했다.</p>
 

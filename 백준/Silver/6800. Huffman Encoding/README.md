@@ -22,7 +22,7 @@
 
 <p>It is worth noting that to construct a prefix-free binary sequence, simply put the characters as the leaves of a binary tree, and label the &ldquo;left&rdquo; edge as 0 and the &rdquo;right&rdquo; edge as 1. The path from the root to a leaf node forms the code for the character at that leaf node. For example, the following binary tree constructs a prefix-free binary sequence for the characters {A, B, C, D, E}:</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/6800.%E2%80%85Huffman%E2%80%85Encoding/0bb09758.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/6800/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202017-03-24%20%EC%98%A4%ED%9B%84%202.22.14.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:158px; width:233px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/6800.%E2%80%85Huffman%E2%80%85Encoding/0bb09758.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/6800.%E2%80%85Huffman%E2%80%85Encoding/0bb09758.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/6800/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202017-03-24%20%EC%98%A4%ED%9B%84%202.22.14.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:158px; width:233px" /></p>
 
 <p>That is, A is encoded as 00, B is encoded as 01, C is encoded as 10, D is encoded as 110 and E is encoded as 111.</p>
 

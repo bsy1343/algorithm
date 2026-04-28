@@ -20,7 +20,7 @@
 
 <p>All circles must touch the bottom of the box. The figure below shows an acceptable packing for a set of circles (although this may not be the optimal packing for these particular circles). Note that in an ideal paking, each circle should touch at least one other circle (but you probably figured that out).</p>
 
-<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/4135.%E2%80%85How%E2%80%85Big%E2%80%85Is%E2%80%85It%3F/dc82916b.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/4135/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:197px; width:347px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/4135.%E2%80%85How%E2%80%85Big%E2%80%85Is%E2%80%85It%3F/dc82916b.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/4135.%E2%80%85How%E2%80%85Big%E2%80%85Is%E2%80%85It%3F/dc82916b.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/4135/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:197px; width:347px" /></p>
 
 ### 입력
 

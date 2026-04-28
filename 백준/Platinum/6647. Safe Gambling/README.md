@@ -26,7 +26,7 @@
 
 <p>To eliminate any risks, it was decided that two bets are not enough. In each game, three bets must be made instead of two, to cover all existing pockets. Your task is to compute the minimal price of such bets.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/6647.%E2%80%85Safe%E2%80%85Gambling/41bbb078.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/6647/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:302px; width:356px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/6647.%E2%80%85Safe%E2%80%85Gambling/41bbb078.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/6647.%E2%80%85Safe%E2%80%85Gambling/41bbb078.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/6647/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:302px; width:356px" /></p>
 
 ### 입력
 

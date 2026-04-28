@@ -18,7 +18,7 @@
 
 <p>대한 마을의 계곡에는 100개의 돌이 일렬로 놓인 징검다리가 있다. 원래 징검다리의 돌들은 평범한 돌이었지만 마을의 무속인 최손실 씨의 저주에 걸려 특별한 성질을 띠게 되었다. 그것은 바로 한 번 밟을 때마다 돌의 색깔이 바뀐다는 것이다. 돌은 파란색, 빨간색, 초록색 중 하나의 색깔을 가지며 파란색일 때 밟으면 빨간색, 빨간색일 때 밟으면 초록색, 초록색일 때 밟으면 다시 파란색으로 바뀐다. 편의상 돌의 번호를 징검다리의 왼쪽부터 1번이라고 하자.</p>
 
-<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/14649.%E2%80%85%EB%AC%B8%ED%99%8D%EC%95%88/24dc7463.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14649/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:285px; width:414px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/14649.%E2%80%85%EB%AC%B8%ED%99%8D%EC%95%88/24dc7463.png" data-original-src="%EB%B0%B1%EC%A4%80/Bronze/14649.%E2%80%85%EB%AC%B8%ED%99%8D%EC%95%88/24dc7463.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14649/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:285px; width:414px" /></p>
 
 <p>대한 마을에 사는 김그네 씨에게는 세 명의 아들이 있다. 첫째 아들 문주인 씨는 파란색을 좋아한다. 둘째 아들 홍지표 씨는 빨간색을 좋아한다. 셋째 아들 안청소 씨는 초록색을 좋아한다.</p>
 
@@ -38,6 +38,6 @@
 
 ### 힌트
 
-<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/14649.%E2%80%85%EB%AC%B8%ED%99%8D%EC%95%88/16c33b50.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14649/2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:254px; width:579px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/14649.%E2%80%85%EB%AC%B8%ED%99%8D%EC%95%88/16c33b50.png" data-original-src="%EB%B0%B1%EC%A4%80/Bronze/14649.%E2%80%85%EB%AC%B8%ED%99%8D%EC%95%88/16c33b50.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14649/2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:254px; width:579px" /></p>
 
 <p>위의 예시에서, 문주인 씨의 돌은 26개, 홍지표 씨의 돌은 34개, 안청소 씨의 돌은 40개가 된다. 100,000원을 비례배분하면 예시 출력과 같은 결과가 나온다.</p>

@@ -24,7 +24,7 @@
 
 <p>As an example, consider the first sample case, visualized in Figure J.1. On the third day, there are four different pictures you can take of the monkey colony.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/30498.%E2%80%85Jungle%E2%80%85Job/f3a674dd.png" data-original-src="https://upload.acmicpc.net/3923eee3-e60d-4594-8337-b9401de50071/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 768px; height: 222px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/30498.%E2%80%85Jungle%E2%80%85Job/f3a674dd.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/30498.%E2%80%85Jungle%E2%80%85Job/f3a674dd.png" data-original-src="https://upload.acmicpc.net/3923eee3-e60d-4594-8337-b9401de50071/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 768px; height: 222px;" /></p>
 
 <p style="text-align: center;">Figure J.1: Visualization of the first sample case on the third day. Branches are connected if they overlap (note the small gap between branches $1$ and $2$, and between branches $3$ and $4$).</p>
 

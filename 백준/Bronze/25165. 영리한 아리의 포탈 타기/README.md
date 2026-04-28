@@ -35,8 +35,8 @@
 			<td style="text-align: center;">아리의 진행 방향이 오른쪽일 때</td>
 		</tr>
 		<tr>
-			<td style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/25165.%E2%80%85%EC%98%81%EB%A6%AC%ED%95%9C%E2%80%85%EC%95%84%EB%A6%AC%EC%9D%98%E2%80%85%ED%8F%AC%ED%83%88%E2%80%85%ED%83%80%EA%B8%B0/966d0943.png" data-original-src="https://upload.acmicpc.net/2439b24d-fbe4-4def-b231-ce2ed5a5e6ac/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 298px; height: 250px;" /></td>
-			<td style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/25165.%E2%80%85%EC%98%81%EB%A6%AC%ED%95%9C%E2%80%85%EC%95%84%EB%A6%AC%EC%9D%98%E2%80%85%ED%8F%AC%ED%83%88%E2%80%85%ED%83%80%EA%B8%B0/86636cf6.png" data-original-src="https://upload.acmicpc.net/1676d0dd-0760-498c-b92f-b6c2c466297e/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 300px; height: 250px;" /></td>
+			<td style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/25165.%E2%80%85%EC%98%81%EB%A6%AC%ED%95%9C%E2%80%85%EC%95%84%EB%A6%AC%EC%9D%98%E2%80%85%ED%8F%AC%ED%83%88%E2%80%85%ED%83%80%EA%B8%B0/966d0943.png" data-original-src="%EB%B0%B1%EC%A4%80/Bronze/25165.%E2%80%85%EC%98%81%EB%A6%AC%ED%95%9C%E2%80%85%EC%95%84%EB%A6%AC%EC%9D%98%E2%80%85%ED%8F%AC%ED%83%88%E2%80%85%ED%83%80%EA%B8%B0/966d0943.png" data-original-src="https://upload.acmicpc.net/2439b24d-fbe4-4def-b231-ce2ed5a5e6ac/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 298px; height: 250px;" /></td>
+			<td style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/25165.%E2%80%85%EC%98%81%EB%A6%AC%ED%95%9C%E2%80%85%EC%95%84%EB%A6%AC%EC%9D%98%E2%80%85%ED%8F%AC%ED%83%88%E2%80%85%ED%83%80%EA%B8%B0/86636cf6.png" data-original-src="%EB%B0%B1%EC%A4%80/Bronze/25165.%E2%80%85%EC%98%81%EB%A6%AC%ED%95%9C%E2%80%85%EC%95%84%EB%A6%AC%EC%9D%98%E2%80%85%ED%8F%AC%ED%83%88%E2%80%85%ED%83%80%EA%B8%B0/86636cf6.png" data-original-src="https://upload.acmicpc.net/1676d0dd-0760-498c-b92f-b6c2c466297e/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 300px; height: 250px;" /></td>
 		</tr>
 	</tbody>
 </table>

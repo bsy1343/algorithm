@@ -41,6 +41,6 @@
 
 ### 힌트
 
-<p><img alt="행렬사진" src="%EB%B0%B1%EC%A4%80/Silver/17207.%E2%80%85%EB%8F%8C%EB%A0%A4%EB%A7%89%EA%B8%B0/984cd92a.png" data-original-src="https://upload.acmicpc.net/c8397d59-2e79-4c5a-a902-6f58ea2cbd8a/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 227px; height: 142px;" /></p>
+<p><img alt="행렬사진" src="%EB%B0%B1%EC%A4%80/Silver/17207.%E2%80%85%EB%8F%8C%EB%A0%A4%EB%A7%89%EA%B8%B0/984cd92a.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/17207.%E2%80%85%EB%8F%8C%EB%A0%A4%EB%A7%89%EA%B8%B0/984cd92a.png" data-original-src="https://upload.acmicpc.net/c8397d59-2e79-4c5a-a902-6f58ea2cbd8a/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 227px; height: 142px;" /></p>
 
 <p>위의 그림과 같이 행렬에서&nbsp;행은 가로줄, 열은 세로줄을 의미한다.</p>

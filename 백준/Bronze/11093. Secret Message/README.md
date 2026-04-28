@@ -20,7 +20,7 @@
 
 <p>For example, given the original message &lsquo;iloveyouJack&rsquo;, the message length is L = 12. Thus the padded message is &lsquo;iloveyouJack****&rsquo;, with length M = 16. Below are the two tables before and after rotation.</p>
 
-<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/11093.%E2%80%85Secret%E2%80%85Message/cda89717.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11093/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:98px; width:256px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/11093.%E2%80%85Secret%E2%80%85Message/cda89717.png" data-original-src="%EB%B0%B1%EC%A4%80/Bronze/11093.%E2%80%85Secret%E2%80%85Message/cda89717.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11093/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:98px; width:256px" /></p>
 
 <p>Then we read the secret message as &lsquo;Jeiaylcookuv&rsquo;.</p>
 

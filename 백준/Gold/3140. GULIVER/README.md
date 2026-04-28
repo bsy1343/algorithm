@@ -24,7 +24,7 @@
 
 <p>For example, if the left image below shows the island before the incident (the black parcels were already underwater), then to separate the island, only two more parcels need to be divided, as in the right image.&nbsp;</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/3140.%E2%80%85GULIVER/f8b4af50.png" data-original-src="https://upload.acmicpc.net/ec7b6f3a-2baa-4dd7-8a65-2d89a239c6f1/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 364px; height: 124px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/3140.%E2%80%85GULIVER/f8b4af50.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/3140.%E2%80%85GULIVER/f8b4af50.png" data-original-src="https://upload.acmicpc.net/ec7b6f3a-2baa-4dd7-8a65-2d89a239c6f1/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 364px; height: 124px;" /></p>
 
 <p>The historic problem that people have been talking about for generations is: what was the least number of parcels that had to be flooded to completely separate the two parts of the island? Your task is to write the program which computes that number.&nbsp;</p>
 

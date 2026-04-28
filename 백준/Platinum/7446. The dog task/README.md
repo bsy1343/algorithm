@@ -26,7 +26,7 @@
 
 <p>An example of Bob&#39;s route (solid line), a set of interesting places (dots) and one of the best Ralph&#39;s routes (dotted line) are presented in the following picture:</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/7446.%E2%80%85The%E2%80%85dog%E2%80%85task/13fc7e59.png" data-original-src="https://upload.acmicpc.net/ec1443c8-b8be-40e0-aaa9-c372633a78c5/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 239px; height: 218px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/7446.%E2%80%85The%E2%80%85dog%E2%80%85task/13fc7e59.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/7446.%E2%80%85The%E2%80%85dog%E2%80%85task/13fc7e59.png" data-original-src="https://upload.acmicpc.net/ec1443c8-b8be-40e0-aaa9-c372633a78c5/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 239px; height: 218px;" /></p>
 
 ### 입력
 

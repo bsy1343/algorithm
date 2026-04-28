@@ -24,7 +24,7 @@
 
 <p>예를 들어, 아래 그림과 같이 정비소가 5개 있고, 한 번 정비를 받고 최대 140㎞를 갈 수 있는 경우를 생각해 보자. 출발지점에서 정비소 ①까지의 거리가 100㎞이고, 정비소 ①을 방문하여 정비할 때 걸리는 시간은 5분이다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/2651.%E2%80%85%EC%9E%90%EB%8F%99%EC%B0%A8%EA%B2%BD%EC%A3%BC%EB%8C%80%ED%9A%8C/f34781de.png" data-original-src="https://www.acmicpc.net/upload/images/qqB1K31YEMhSIXMVXxLe.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 469px; height: 77px; " /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/2651.%E2%80%85%EC%9E%90%EB%8F%99%EC%B0%A8%EA%B2%BD%EC%A3%BC%EB%8C%80%ED%9A%8C/f34781de.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/2651.%E2%80%85%EC%9E%90%EB%8F%99%EC%B0%A8%EA%B2%BD%EC%A3%BC%EB%8C%80%ED%9A%8C/f34781de.png" data-original-src="https://www.acmicpc.net/upload/images/qqB1K31YEMhSIXMVXxLe.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 469px; height: 77px; " /></p>
 
 <p>자동차가 출발지점에서 대회 규칙을 지키면서 정비소 ①, ③, ⑤를 차례대로 방문하여 도착지점까지 갈 수 있고, 정비소 ②, ④를 방문하여 갈 수도 있다. 정비소 ①, ③, ⑤를 방문하는 경우에는 16분(=5+4+7분)이 걸리는데, 이것은 정비소 ②, ④를 방문하여 걸리는 21분(=10+11분)보다 총 정비 시간이 적게 걸린다.</p>
 

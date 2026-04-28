@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/31930.%E2%80%85AK47/03c36ed3.png" data-original-src="https://upload.acmicpc.net/0ec065b6-a9a0-4409-9344-33d7f933e69c/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 50%" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/31930.%E2%80%85AK47/03c36ed3.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/31930.%E2%80%85AK47/03c36ed3.png" data-original-src="https://upload.acmicpc.net/0ec065b6-a9a0-4409-9344-33d7f933e69c/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 50%" /></p>
 
 <p><strong>이 문제는 인터랙티브 문제입니다.</strong></p>
 

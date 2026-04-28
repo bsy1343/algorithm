@@ -20,7 +20,7 @@
 
 <p>For example, in Figure 1, the entire field is a rectangular grid whose width and height are 10 and 8 respectively. Each asterisk (*) represents a place of a persimmon tree. If the specified width and height of the estate are 4 and 3 respectively, the area surrounded by the solid line contains the most persimmon trees. Similarly, if the estate&#39;s width is 6 and its height is 4, the area surrounded by the dashed line has the most, and if the estate&#39;s width and height are 3 and 4 respectively, the area surrounded by the dotted line contains the most persimmon trees. Note that the width and height cannot be swapped; the sizes 4 by 3 and 3 by 4 are different, as shown in Figure 1.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/22811.%E2%80%85Get%E2%80%85Many%E2%80%85Persimmon%E2%80%85Trees/caca7005.png" data-original-src="https://upload.acmicpc.net/e2a3c11b-43a7-4986-b769-44246f9b29d7/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/22811.%E2%80%85Get%E2%80%85Many%E2%80%85Persimmon%E2%80%85Trees/caca7005.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/22811.%E2%80%85Get%E2%80%85Many%E2%80%85Persimmon%E2%80%85Trees/caca7005.png" data-original-src="https://upload.acmicpc.net/e2a3c11b-43a7-4986-b769-44246f9b29d7/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p style="text-align: center;">Figure 1: Examples of Rectangular Estates</p>
 

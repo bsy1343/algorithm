@@ -27,15 +27,15 @@
 <table align="center" border="1" cellpadding="1" cellspacing="1" class="table table-bordered" style="width: 500px;">
 	<tbody>
 		<tr>
-			<td style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/27529.%E2%80%85%EC%96%91%E2%80%85%EA%B0%80%EB%91%90%EA%B8%B0/b924fdd4.png" data-original-src="https://upload.acmicpc.net/da579a08-b6f7-47ba-bb28-fb38a43a0f69/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 400px; height: 257px;" /></td>
-			<td style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/27529.%E2%80%85%EC%96%91%E2%80%85%EA%B0%80%EB%91%90%EA%B8%B0/2213a9ef.png" data-original-src="https://upload.acmicpc.net/5294ffd2-c101-4965-b4b8-0ddaf9cbe111/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 400px; height: 257px;" /></td>
+			<td style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/27529.%E2%80%85%EC%96%91%E2%80%85%EA%B0%80%EB%91%90%EA%B8%B0/b924fdd4.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/27529.%E2%80%85%EC%96%91%E2%80%85%EA%B0%80%EB%91%90%EA%B8%B0/b924fdd4.png" data-original-src="https://upload.acmicpc.net/da579a08-b6f7-47ba-bb28-fb38a43a0f69/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 400px; height: 257px;" /></td>
+			<td style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/27529.%E2%80%85%EC%96%91%E2%80%85%EA%B0%80%EB%91%90%EA%B8%B0/2213a9ef.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/27529.%E2%80%85%EC%96%91%E2%80%85%EA%B0%80%EB%91%90%EA%B8%B0/2213a9ef.png" data-original-src="https://upload.acmicpc.net/5294ffd2-c101-4965-b4b8-0ddaf9cbe111/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 400px; height: 257px;" /></td>
 		</tr>
 		<tr>
 			<td style="text-align: center;">그림 1. 잘못된 우리: 양이 달아날 수 있다.</td>
 			<td style="text-align: center;">그림 2. 잘못된 우리: 양이 서로 만날 수 없다.</td>
 		</tr>
 		<tr>
-			<td colspan="2" style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/27529.%E2%80%85%EC%96%91%E2%80%85%EA%B0%80%EB%91%90%EA%B8%B0/ebe38528.png" data-original-src="https://upload.acmicpc.net/e72bcdec-1004-4540-a099-2a34f6940a0f/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 400px; height: 257px;" /></td>
+			<td colspan="2" style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/27529.%E2%80%85%EC%96%91%E2%80%85%EA%B0%80%EB%91%90%EA%B8%B0/ebe38528.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/27529.%E2%80%85%EC%96%91%E2%80%85%EA%B0%80%EB%91%90%EA%B8%B0/ebe38528.png" data-original-src="https://upload.acmicpc.net/e72bcdec-1004-4540-a099-2a34f6940a0f/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 400px; height: 257px;" /></td>
 		</tr>
 		<tr>
 			<td colspan="2" style="text-align: center;">그림 3. 조건에 맞는 우리</td>

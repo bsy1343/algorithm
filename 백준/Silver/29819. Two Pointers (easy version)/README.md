@@ -42,7 +42,7 @@
 
 <p>In the first test case: There are $7$ cities. Alice starts at coordinate $-6$ and Bob starts at point $10$.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/29819.%E2%80%85Two%E2%80%85Pointers%E2%80%85(easy%E2%80%85version)/a98ec602.png" data-original-src="https://upload.acmicpc.net/6280da61-f9a6-4e56-bad3-c83e27818c57/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 1024px; height: 51px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/29819.%E2%80%85Two%E2%80%85Pointers%E2%80%85(easy%E2%80%85version)/a98ec602.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/29819.%E2%80%85Two%E2%80%85Pointers%E2%80%85(easy%E2%80%85version)/a98ec602.png" data-original-src="https://upload.acmicpc.net/6280da61-f9a6-4e56-bad3-c83e27818c57/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 1024px; height: 51px;" /></p>
 
 <p>One possible optimal way to visit all cities is as follows ($i \xrightarrow{x} j$ means to go from $i$ to $j$, driving $x$ distance):</p>
 

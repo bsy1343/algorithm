@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/7869.%E2%80%85%EB%91%90%E2%80%85%EC%9B%90/ea7cfadf.png" data-original-src="https://www.acmicpc.net/upload/images/one(1).png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="float:right; height:120px; opacity:0.9; width:162px" />두 원이 주어졌을 때, 교차하는 영역의 넓이를 소수점 셋째자리까지 구하는 프로그램을 작성하시오.</p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/7869.%E2%80%85%EB%91%90%E2%80%85%EC%9B%90/ea7cfadf.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/7869.%E2%80%85%EB%91%90%E2%80%85%EC%9B%90/ea7cfadf.png" data-original-src="https://www.acmicpc.net/upload/images/one(1).png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="float:right; height:120px; opacity:0.9; width:162px" />두 원이 주어졌을 때, 교차하는 영역의 넓이를 소수점 셋째자리까지 구하는 프로그램을 작성하시오.</p>
 
 ### 입력
 

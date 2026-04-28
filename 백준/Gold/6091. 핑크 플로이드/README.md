@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/6091.%E2%80%85%ED%95%91%ED%81%AC%E2%80%85%ED%94%8C%EB%A1%9C%EC%9D%B4%EB%93%9C/f65e3ab0.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/6091/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="float:right; height:121px; width:262px" />재현이는 N개의 정점으로 이루어진 트리를 가지고 있었다. 트리는 1~N까지의 번호가 정점에 매겨져 있었으며, 트리를 잇는 N-1개의 간선에는 두 정점을 잇는 거리가 저장되어 있었다. 재현이는 트리를 좋아하는 만큼 트리에게 많은 메모리를 주기 위해서, 모든 간선을 N*N 인접 행렬에 저장했다.</p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/6091.%E2%80%85%ED%95%91%ED%81%AC%E2%80%85%ED%94%8C%EB%A1%9C%EC%9D%B4%EB%93%9C/f65e3ab0.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/6091.%E2%80%85%ED%95%91%ED%81%AC%E2%80%85%ED%94%8C%EB%A1%9C%EC%9D%B4%EB%93%9C/f65e3ab0.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/6091/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="float:right; height:121px; width:262px" />재현이는 N개의 정점으로 이루어진 트리를 가지고 있었다. 트리는 1~N까지의 번호가 정점에 매겨져 있었으며, 트리를 잇는 N-1개의 간선에는 두 정점을 잇는 거리가 저장되어 있었다. 재현이는 트리를 좋아하는 만큼 트리에게 많은 메모리를 주기 위해서, 모든 간선을 N*N 인접 행렬에 저장했다.</p>
 
 <p>애석하게도, 재현이와 인접 행렬을 모두 싫어하는 수찬이가, 플로이드-와셜 알고리즘을 통해 인접 행렬을 채워버리고 말았다. 재현이에게 남은 건, 두 정점간의 최단거리를 저장해놓은 행렬 뿐이다.</p>
 

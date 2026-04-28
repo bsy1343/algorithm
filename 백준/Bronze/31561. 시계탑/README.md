@@ -33,7 +33,7 @@
 	<li>매시간 15분부터 다음 시간 정각까지 분침은 시계 방향으로 정상적인 분침의 회전 속도의 $\frac{2}{3}$배로 움직인다. 즉, $45$분 간 분침은 6시 방향에서 시계 방향으로 12시 방향까지 움직인다.</li>
 </ol>
 
-<p style="display:flex;flex-direction:row;justify-content:center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/31561.%E2%80%85%EC%8B%9C%EA%B3%84%ED%83%91/07431485.png" data-original-src="https://upload.acmicpc.net/c10b5fde-7fdc-43d5-a54a-830de09a329b/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="max-height:200px;max-width:200%" /></p>
+<p style="display:flex;flex-direction:row;justify-content:center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/31561.%E2%80%85%EC%8B%9C%EA%B3%84%ED%83%91/07431485.png" data-original-src="%EB%B0%B1%EC%A4%80/Bronze/31561.%E2%80%85%EC%8B%9C%EA%B3%84%ED%83%91/07431485.png" data-original-src="https://upload.acmicpc.net/c10b5fde-7fdc-43d5-a54a-830de09a329b/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="max-height:200px;max-width:200%" /></p>
 
 <p>정상적인 시계탑의 분침은 매시간 정각에 정확히 12시 방향을 가리키며, $1$시간에 한 바퀴를 시계 방향으로 일정한 회전 속도로 움직인다.</p>
 

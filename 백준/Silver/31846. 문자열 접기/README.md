@@ -18,15 +18,15 @@
 
 <p>기다란 종이에 알파벳 대문자로만 이루어진 문자열이 한 줄로 쓰여 있다. 예를 들어 아래 그림과 같이 종이에 &ldquo;<span style="color:#e74c3c;"><code>ABAACA</code></span>&rdquo;가 쓰여 있다고 가정하자. </p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/31846.%E2%80%85%EB%AC%B8%EC%9E%90%EC%97%B4%E2%80%85%EC%A0%91%EA%B8%B0/d019ae1f.png" data-original-src="https://upload.acmicpc.net/a6890398-1b48-4613-884d-79a16519761a/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 60%;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/31846.%E2%80%85%EB%AC%B8%EC%9E%90%EC%97%B4%E2%80%85%EC%A0%91%EA%B8%B0/d019ae1f.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/31846.%E2%80%85%EB%AC%B8%EC%9E%90%EC%97%B4%E2%80%85%EC%A0%91%EA%B8%B0/d019ae1f.png" data-original-src="https://upload.acmicpc.net/a6890398-1b48-4613-884d-79a16519761a/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 60%;" /></p>
 
 <p>이제 이 종이를 <strong>한 번만</strong> 접을 것이다. 종이는 서로 이웃한 문자 사이에서만 접을 수 있다. 예를 들어 아래 그림과 같이 위 종이를 $4$번째 문자와 $5$번째 문자 사이에서 접을 수 있다. </p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/31846.%E2%80%85%EB%AC%B8%EC%9E%90%EC%97%B4%E2%80%85%EC%A0%91%EA%B8%B0/1907c395.png" data-original-src="https://upload.acmicpc.net/e6d52e30-360e-436b-bec4-89b5f9bf40f8/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 40%;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/31846.%E2%80%85%EB%AC%B8%EC%9E%90%EC%97%B4%E2%80%85%EC%A0%91%EA%B8%B0/1907c395.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/31846.%E2%80%85%EB%AC%B8%EC%9E%90%EC%97%B4%E2%80%85%EC%A0%91%EA%B8%B0/1907c395.png" data-original-src="https://upload.acmicpc.net/e6d52e30-360e-436b-bec4-89b5f9bf40f8/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 40%;" /></p>
 
 <p>이때 서로 맞닿은 문자 쌍 중에서, 서로 같은 문자가 맞닿은 쌍의 개수가 이 접기의 점수가 된다. 예를 들어 앞에서의 접기의 점수는 $ 1 $점이 된다. 하지만 아래 그림과 같이 $3$번째 문자와 $4$번째 문자 사이에서 종이를 접으면 점수는 $ 2 $점이 된다. </p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/31846.%E2%80%85%EB%AC%B8%EC%9E%90%EC%97%B4%E2%80%85%EC%A0%91%EA%B8%B0/0f2e86cd.png" data-original-src="https://upload.acmicpc.net/70cb0e4a-983e-42f8-b311-c5c77dad46aa/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 30%;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/31846.%E2%80%85%EB%AC%B8%EC%9E%90%EC%97%B4%E2%80%85%EC%A0%91%EA%B8%B0/0f2e86cd.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/31846.%E2%80%85%EB%AC%B8%EC%9E%90%EC%97%B4%E2%80%85%EC%A0%91%EA%B8%B0/0f2e86cd.png" data-original-src="https://upload.acmicpc.net/70cb0e4a-983e-42f8-b311-c5c77dad46aa/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 30%;" /></p>
 
 <p>이제 여러분은 알파벳 대문자로만 이루어진 문자열 $ S $가 주어질 때, 다음과 같은 질문 $ Q $개에 답해야 한다. </p>
 

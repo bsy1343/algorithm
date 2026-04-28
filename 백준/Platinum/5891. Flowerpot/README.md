@@ -18,7 +18,7 @@
 
 <p>Farmer John has been having trouble making his plants grow, and needs your help to water them properly. You are given the locations of N raindrops (1 &lt;= N &lt;= 100,000) in the 2D plane, where y represents vertical height of the drop, and x represents its location over a 1D number line:</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/5891.%E2%80%85Flowerpot/3737ed1b.png" data-original-src="https://www.acmicpc.net/upload/images2/fig_flowerpot.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:208px; width:299px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/5891.%E2%80%85Flowerpot/3737ed1b.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/5891.%E2%80%85Flowerpot/3737ed1b.png" data-original-src="https://www.acmicpc.net/upload/images2/fig_flowerpot.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:208px; width:299px" /></p>
 
 <p>Each drop falls downward (towards the x axis) at a rate of 1 unit per second. You would like to place Farmer John&#39;s flowerpot of width W somewhere along the x axis so that the difference in time between the first raindrop to hit the flowerpot and the last raindrop to hit the flowerpot is at least some amount D (so that the flowers in the pot receive plenty of water). A drop of water that lands just on the edge of the flowerpot counts as hitting the flowerpot.</p>
 

@@ -18,7 +18,7 @@
 
 <p>A new fountain consists of N vertically aligned circular water reservoirs numbered from top to bottom with integers starting from 1, as shown below:</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/20342.%E2%80%85Fountain/cbf44aea.png" data-original-src="https://upload.acmicpc.net/0eefa476-a542-4c7f-8711-286557d58a8a/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 512px; height: 357px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/20342.%E2%80%85Fountain/cbf44aea.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/20342.%E2%80%85Fountain/cbf44aea.png" data-original-src="https://upload.acmicpc.net/0eefa476-a542-4c7f-8711-286557d58a8a/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 512px; height: 357px;" /></p>
 
 <p>Each reservoir has its diameter, capacity and a tap which can release any amount of water inside the reservoir. Whenever water volume exceeds reservoir capacity, the excess water pours out of its sides and flows down into the closest one that has a <strong>strictly larger</strong> diameter or down to waterways if no such reservoir exists.</p>
 

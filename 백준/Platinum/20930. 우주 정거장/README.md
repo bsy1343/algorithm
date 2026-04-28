@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/20930.%E2%80%85%EC%9A%B0%EC%A3%BC%E2%80%85%EC%A0%95%EA%B1%B0%EC%9E%A5/fc94057c.png" data-original-src="https://upload.acmicpc.net/cfb1ae7b-df61-4bed-b49c-4f844f722c51/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/20930.%E2%80%85%EC%9A%B0%EC%A3%BC%E2%80%85%EC%A0%95%EA%B1%B0%EC%9E%A5/fc94057c.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/20930.%E2%80%85%EC%9A%B0%EC%A3%BC%E2%80%85%EC%A0%95%EA%B1%B0%EC%9E%A5/fc94057c.png" data-original-src="https://upload.acmicpc.net/cfb1ae7b-df61-4bed-b49c-4f844f722c51/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>우주 정거장은 한 개의 선분으로 구성되어 있으며, 좌표 평면상에 $N$개의 우주 정거장이 있다. 각 우주 정거장은 $1$번부터 $N$번까지 번호가 붙어 있다.</p>
 

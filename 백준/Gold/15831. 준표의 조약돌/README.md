@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/15831.%E2%80%85%EC%A4%80%ED%91%9C%EC%9D%98%E2%80%85%EC%A1%B0%EC%95%BD%EB%8F%8C/8a9709f9.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15830/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 284px; height: 211px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/15831.%E2%80%85%EC%A4%80%ED%91%9C%EC%9D%98%E2%80%85%EC%A1%B0%EC%95%BD%EB%8F%8C/8a9709f9.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/15831.%E2%80%85%EC%A4%80%ED%91%9C%EC%9D%98%E2%80%85%EC%A1%B0%EC%95%BD%EB%8F%8C/8a9709f9.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15830/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 284px; height: 211px;" /></p>
 
 <p style="text-align: center;">그림1. 준표가 좋아하는 하얀색의 미미</p>
 

@@ -32,7 +32,7 @@ Test the remaining points to see which one is the key.</p>
 
 <p>Your task in this problem is to count how many points will be left for testing in Stage 3 so that we have an estimate of the amount of work left to complete the attack.</p>
 
-<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/15433.%E2%80%85Umbral%E2%80%85Decoding/2defc34d.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15433/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:185px; width:368px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/15433.%E2%80%85Umbral%E2%80%85Decoding/2defc34d.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/15433.%E2%80%85Umbral%E2%80%85Decoding/2defc34d.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15433/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:185px; width:368px" /></p>
 
 <p style="text-align:center">Figure M.1: Sample input safe points and umbra (red) and remaining points (blue).</p>
 

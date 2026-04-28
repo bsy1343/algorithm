@@ -34,6 +34,6 @@
 
 ### 힌트
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/20837.%E2%80%85Robott%C3%A4vling/6e306275.png" data-original-src="https://upload.acmicpc.net/8e5f98fa-d9c6-4bf9-8d02-77a4dc5cb38c/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 373px; height: 168px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/20837.%E2%80%85Robott%C3%A4vling/6e306275.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/20837.%E2%80%85Robott%C3%A4vling/6e306275.png" data-original-src="https://upload.acmicpc.net/8e5f98fa-d9c6-4bf9-8d02-77a4dc5cb38c/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 373px; height: 168px;" /></p>
 
 <p>Dessa tre &auml;r de enda m&ouml;jliga konfigurationerna f&ouml;r det f&ouml;rsta exemplet. B&aring;da de tv&aring; f&ouml;rsta har totalt 14 kuber och den tredje har totalt 15 kuber. Svaret blir allts&aring; att det minsta m&ouml;jliga totala antalet kuber &auml;r 14, och det st&ouml;rsta m&ouml;jliga &auml;r 15.</p>

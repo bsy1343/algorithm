@@ -42,14 +42,14 @@
 
 <p>Notera att i testfallsgrupp $1$ skulle enbart exempelfall $1$ kunna f&ouml;rekomma, i testfallsgrupp $2$ enbart exempelfall $2$, och i testfallsgrupp $3$ enbart exempelfall $3$. I testfallsgrupp $4$ och $5$ skulle alla tre exempelfall kunna f&ouml;rekomma.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/20843.%E2%80%85Brevoptimering/0f1b4ab7.png" data-original-src="https://upload.acmicpc.net/a707d4d6-ac0e-48b5-a6f4-f5a9c35570c8/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 632px; height: 268px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/20843.%E2%80%85Brevoptimering/0f1b4ab7.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/20843.%E2%80%85Brevoptimering/0f1b4ab7.png" data-original-src="https://upload.acmicpc.net/a707d4d6-ac0e-48b5-a6f4-f5a9c35570c8/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 632px; height: 268px;" /></p>
 
 <p style="text-align: center;">Figure 1: Sample $1$</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/20843.%E2%80%85Brevoptimering/2e62b6c6.png" data-original-src="https://upload.acmicpc.net/a7132125-5f89-42cb-b9c1-281a8ee19b81/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 625px; height: 353px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/20843.%E2%80%85Brevoptimering/2e62b6c6.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/20843.%E2%80%85Brevoptimering/2e62b6c6.png" data-original-src="https://upload.acmicpc.net/a7132125-5f89-42cb-b9c1-281a8ee19b81/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 625px; height: 353px;" /></p>
 
 <p style="text-align: center;">Figure 2: Sample $2$</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/20843.%E2%80%85Brevoptimering/2d5d027c.png" data-original-src="https://upload.acmicpc.net/6fcc6a5a-417c-4631-bbd9-f7f3271961d1/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 743px; height: 296px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/20843.%E2%80%85Brevoptimering/2d5d027c.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/20843.%E2%80%85Brevoptimering/2d5d027c.png" data-original-src="https://upload.acmicpc.net/6fcc6a5a-417c-4631-bbd9-f7f3271961d1/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 743px; height: 296px;" /></p>
 
 <p style="text-align: center;">Figure 3: Sample $3$</p>

@@ -48,8 +48,8 @@
 
 <p>89, 145, 42, 20, 4, 16, 37, 58 사이클</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/4881.%E2%80%85%EC%9E%90%EB%A6%AC%EC%88%98%EC%9D%98%E2%80%85%EC%A0%9C%EA%B3%B1/78b683ac.png" data-original-src="https://www.acmicpc.net/upload/images/cycle1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:384px; width:389px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/4881.%E2%80%85%EC%9E%90%EB%A6%AC%EC%88%98%EC%9D%98%E2%80%85%EC%A0%9C%EA%B3%B1/78b683ac.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/4881.%E2%80%85%EC%9E%90%EB%A6%AC%EC%88%98%EC%9D%98%E2%80%85%EC%A0%9C%EA%B3%B1/78b683ac.png" data-original-src="https://www.acmicpc.net/upload/images/cycle1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:384px; width:389px" /></p>
 
 <p>1 사이클</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/4881.%E2%80%85%EC%9E%90%EB%A6%AC%EC%88%98%EC%9D%98%E2%80%85%EC%A0%9C%EA%B3%B1/78c3da7d.png" data-original-src="https://www.acmicpc.net/upload/images/cycle2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:305px; width:288px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/4881.%E2%80%85%EC%9E%90%EB%A6%AC%EC%88%98%EC%9D%98%E2%80%85%EC%A0%9C%EA%B3%B1/78c3da7d.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/4881.%E2%80%85%EC%9E%90%EB%A6%AC%EC%88%98%EC%9D%98%E2%80%85%EC%A0%9C%EA%B3%B1/78c3da7d.png" data-original-src="https://www.acmicpc.net/upload/images/cycle2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:305px; width:288px" /></p>

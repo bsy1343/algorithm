@@ -18,7 +18,7 @@
 
 <p>A Split Decisions puzzle is a type of crossword in which each across and down answer is a pair of words instead of a single word (as in standard crossword puzzles).  Each pair of words are identical except in exactly two adjacent positions for which letters have been provided in the puzzle -- these sets of letters serve as the clue for the pair of words. In the left half of Figure K.1, the letter pairs &ldquo;IN&rdquo; and &ldquo;CR&rdquo; are given, and the words &ldquo;SINEW&rdquo; and &ldquo;SCREW&rdquo; can be used to solve that clue. The right half of the figure shows a typical Split Decisions puzzle.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/30534.%E2%80%85Split%E2%80%85Decisions/ce733d97.png" data-original-src="https://upload.acmicpc.net/90321414-09c0-4168-9636-c11052b942a6/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 445px; height: 199px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/30534.%E2%80%85Split%E2%80%85Decisions/ce733d97.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/30534.%E2%80%85Split%E2%80%85Decisions/ce733d97.png" data-original-src="https://upload.acmicpc.net/90321414-09c0-4168-9636-c11052b942a6/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 445px; height: 199px;" /></p>
 
 <p style="text-align: center;">Figure K.1: A small Split Decisions puzzle, with an example solved clue.</p>
 

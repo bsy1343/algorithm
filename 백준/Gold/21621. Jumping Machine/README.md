@@ -36,6 +36,6 @@
 
 <p>All the cells that can get dirty when the machine jumps in the example test are colored orange one the figure below.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/21621.%E2%80%85Jumping%E2%80%85Machine/dae48094.png" data-original-src="https://upload.acmicpc.net/c3175b28-a5da-4803-9e3e-72e99e7fafe2/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 125px; height: 120px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/21621.%E2%80%85Jumping%E2%80%85Machine/dae48094.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/21621.%E2%80%85Jumping%E2%80%85Machine/dae48094.png" data-original-src="https://upload.acmicpc.net/c3175b28-a5da-4803-9e3e-72e99e7fafe2/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 125px; height: 120px;" /></p>
 
 <p style="text-align: center;">Cells that the machine can stain.</p>

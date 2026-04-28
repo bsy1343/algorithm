@@ -24,7 +24,7 @@
 
 <p>For each droplet, Kayla wants to know if and where it will disintegrate. Help them out with this demanding task!</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/21204.%E2%80%85Antimatter%E2%80%85Rain/e130eb4c.png" data-original-src="https://upload.acmicpc.net/8d4d5fb4-8009-4ff6-ae88-1cee6362646d/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 300px; height: 318px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/21204.%E2%80%85Antimatter%E2%80%85Rain/e130eb4c.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/21204.%E2%80%85Antimatter%E2%80%85Rain/e130eb4c.png" data-original-src="https://upload.acmicpc.net/8d4d5fb4-8009-4ff6-ae88-1cee6362646d/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 300px; height: 318px;" /></p>
 
 <p>Illustration of the first sample. The vertical lines connect the drops to the sensor they hit. The drop with no associated vertical line will not hit any sensor.</p>
 

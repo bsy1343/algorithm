@@ -18,7 +18,7 @@
 
 <p>Joe has a pile of random lengths of pressure treated wood he would like to use as border for a flower garden. He would like the garden to be roughly circular, so he has decided the corners should all be on the same circle. For example:</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/17867.%E2%80%85Circle%E2%80%85Garden/51dacc08.png" data-original-src="https://upload.acmicpc.net/a0cfeb7b-a007-4057-973b-9bd43d38572f/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 433px; height: 168px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/17867.%E2%80%85Circle%E2%80%85Garden/51dacc08.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/17867.%E2%80%85Circle%E2%80%85Garden/51dacc08.png" data-original-src="https://upload.acmicpc.net/a0cfeb7b-a007-4057-973b-9bd43d38572f/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 433px; height: 168px;" /></p>
 
 <p>Joe would prefer a layout like the leftmost (A), but definitely does not want one where the center of the circle is outside the garden polygon like the rightmost (C) example.</p>
 

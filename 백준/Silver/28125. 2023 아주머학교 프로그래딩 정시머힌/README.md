@@ -20,7 +20,7 @@
 
 <p style="text-align: center;">[그림 1] 실제 대화 내용이다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/28125.%E2%80%852023%E2%80%85%EC%95%84%EC%A3%BC%EB%A8%B8%ED%95%99%EA%B5%90%E2%80%85%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%94%A9%E2%80%85%EC%A0%95%EC%8B%9C%EB%A8%B8%ED%9E%8C/e48a5c26.png" data-original-src="https://upload.acmicpc.net/8745d46f-b9e7-46a9-bc51-a41ad94eff0e/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 450px; height: 353px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/28125.%E2%80%852023%E2%80%85%EC%95%84%EC%A3%BC%EB%A8%B8%ED%95%99%EA%B5%90%E2%80%85%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%94%A9%E2%80%85%EC%A0%95%EC%8B%9C%EB%A8%B8%ED%9E%8C/e48a5c26.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/28125.%E2%80%852023%E2%80%85%EC%95%84%EC%A3%BC%EB%A8%B8%ED%95%99%EA%B5%90%E2%80%85%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%94%A9%E2%80%85%EC%A0%95%EC%8B%9C%EB%A8%B8%ED%9E%8C/e48a5c26.png" data-original-src="https://upload.acmicpc.net/8745d46f-b9e7-46a9-bc51-a41ad94eff0e/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 450px; height: 353px;" /></p>
 
 <p>가뜩이나 A.N.S.I 부회장으로서 바쁜 현빈이는 철자가 바뀐 단어들을 다시 원래대로 고치기가 매우 귀찮았다. 다행히도 현빈이는 평소 선우가 어떠한 철자를 바꾸는지 알고 있다. 선우는 알파벳 소문자에 대해서만 철자를 바꾸며, 목록은 다음과 같다.</p>
 

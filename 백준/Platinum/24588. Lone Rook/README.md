@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<figure style="float: right;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/24588.%E2%80%85Lone%E2%80%85Rook/347f68f0.png" data-original-src="https://upload.acmicpc.net/9a7e9868-8fca-4162-a661-0373323e931e/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 242px; height: 244px;" />
+<figure style="float: right;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/24588.%E2%80%85Lone%E2%80%85Rook/347f68f0.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/24588.%E2%80%85Lone%E2%80%85Rook/347f68f0.png" data-original-src="https://upload.acmicpc.net/9a7e9868-8fca-4162-a661-0373323e931e/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 242px; height: 244px;" />
 <figcaption style="text-align:right;"><small>Rook and knight icons by <a href="https://en.wikipedia.org/wiki/Chess_piece">Cburnett</a></small></figcaption>
 </figure>
 

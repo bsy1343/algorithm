@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/15420.%E2%80%85Blowing%E2%80%85Candles/25f1a86f.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15420/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:268px; width:268px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/15420.%E2%80%85Blowing%E2%80%85Candles/25f1a86f.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/15420.%E2%80%85Blowing%E2%80%85Candles/25f1a86f.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15420/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:268px; width:268px" /></p>
 
 <p>As Jacques-&Eacute;douard really likes birthday cakes, he celebrates his birthday every hour, instead of every year. His friends ordered him a round cake from a famous pastry shop, and placed candles on its top surface. The number of candles equals the age of Jacques-&Eacute;douard in hours. As a result, there is a huge amount of candles burning on the top of the cake. Jacques-&Eacute;douard wants to blow all the candles out in one single breath.</p>
 

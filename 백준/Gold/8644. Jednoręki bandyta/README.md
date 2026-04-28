@@ -18,7 +18,7 @@
 
 <p>Bajtek przyszedł do kasyna, gdzie od razu zainteresował go automat do gry w jednorękiego bandytę. Najważniejszą częścią automatu są trzy bębny. Każdy z nich podzielony jest na&nbsp;<em>n</em>&nbsp;r&oacute;wnych p&oacute;l, na kt&oacute;rych namalowane są r&oacute;żne symbole. Jest&nbsp;<em>n</em>&nbsp;możliwych symboli i każdy z nich występuje na każdym bębnie dokładnie raz. Dla uproszczenia ponumerujmy symbole liczbami od 1 do&nbsp;<em>n</em>. Poniższy rysunek przedstawia przykładowy automat z trzema bębnami podzielonymi na <em>n</em> = 5&nbsp;p&oacute;l:</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/8644.%E2%80%85Jednor%C4%99ki%E2%80%85bandyta/85a0852a.png" data-original-src="https://upload.acmicpc.net/57259e56-084f-42a8-b15c-a557c2f93fd7/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 84px; height: 100px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/8644.%E2%80%85Jednor%C4%99ki%E2%80%85bandyta/85a0852a.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/8644.%E2%80%85Jednor%C4%99ki%E2%80%85bandyta/85a0852a.png" data-original-src="https://upload.acmicpc.net/57259e56-084f-42a8-b15c-a557c2f93fd7/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 84px; height: 100px;" /></p>
 
 <p>Po pociągnięciu wajchy, każdy z bębn&oacute;w przesuwa się cyklicznie o pewną liczbę pozycji. Wygrana gracza zależy od liczby poziomych rzęd&oacute;w, w kt&oacute;rych znajdą się trzy takie same symbole.</p>
 

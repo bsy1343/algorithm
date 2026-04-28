@@ -18,7 +18,7 @@
 
 <p>지훈이가 즐겨 하는 게임인 &lsquo;메이플스토리&rsquo;에는 레벨과 경험치가 존재한다. 메이플스토리에서 캐릭터의 레벨을 올리기 위해서는 많은 몬스터를 사냥하여 경험치를 얻어야 하지만, 다행히도 레벨업의 난이도를 낮추기 위해 다량의 경험치를 얻을 수 있는 아이템 &lsquo;성장의 비약&rsquo;이 존재한다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/26645.%E2%80%85%EC%84%B1%EC%9E%A5%EC%9D%98%E2%80%85%EB%B9%84%EC%95%BD%E2%80%85%EC%84%A0%ED%83%9D%EA%B6%8C/3673ac92.png" data-original-src="https://upload.acmicpc.net/40b497a7-09e1-47da-b191-99d515242636/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 395px; width: 360px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/26645.%E2%80%85%EC%84%B1%EC%9E%A5%EC%9D%98%E2%80%85%EB%B9%84%EC%95%BD%E2%80%85%EC%84%A0%ED%83%9D%EA%B6%8C/3673ac92.png" data-original-src="%EB%B0%B1%EC%A4%80/Bronze/26645.%E2%80%85%EC%84%B1%EC%9E%A5%EC%9D%98%E2%80%85%EB%B9%84%EC%95%BD%E2%80%85%EC%84%A0%ED%83%9D%EA%B6%8C/3673ac92.png" data-original-src="https://upload.acmicpc.net/40b497a7-09e1-47da-b191-99d515242636/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 395px; width: 360px;" /></p>
 
 <p>이벤트로 가끔 얻을 수 있는 &lsquo;성장의 비약 선택권&rsquo;을 사용하면 위 사진처럼 네 가지의 성장의 비약 중 한 가지를 선택하여 적힌 개수만큼 얻을 수 있다. 캐릭터의 현재 레벨을 포함하는 구간의 성장의 비약을 사용하면 캐릭터의 레벨이 정확히 $1$만큼 오른다. 태풍 성장의 비약은 $200\sim 239$레벨의 캐릭터를 정확히 $1$레벨 올려준다. 모든 성장의 비약은 한번에 한 개씩 사용할 수 있고, <strong>캐릭터의 현재 레벨을 포함하지 않는 구간의 성장의 비약은 사용하지 못한다.</strong></p>
 

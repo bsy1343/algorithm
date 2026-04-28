@@ -38,7 +38,7 @@
 
 <p>1 行目には 2 つの正の整数&nbsp;<i>N</i>,&nbsp;<i>M</i>&nbsp;(1 ≦&nbsp;<i>N</i>,&nbsp;<i>M</i>&nbsp;≦ 1500) が与えられる．続く&nbsp;<i>N</i>&nbsp;行&nbsp;<i>h</i><sub>1</sub>,&nbsp;<i>h</i><sub>2</sub>, ...,&nbsp;<i>h</i><sub><i>N</i></sub>&nbsp;(1 ≦&nbsp;<i>h</i><sub><i>i</i></sub>&nbsp;≦ 1000）は，道路と道路の南北方向の間隔を表す．ここで&nbsp;<i>h</i><sub><i>i</i></sub>&nbsp;は北から&nbsp;<i>i</i>&nbsp;番目の道路と北から&nbsp;<i>i</i>&nbsp;+ 1 番目の道路の間隔である．同様に，続く&nbsp;<i>M</i>&nbsp;行&nbsp;<i>w</i><sub>1</sub>, ...,&nbsp;<i>w</i><sub><i>M</i></sub>&nbsp;(1 ≦&nbsp;<i>w</i><sub><i>i</i></sub>&nbsp;≦ 1000）は，道路と道路の東西方向の間隔を表す．ここで&nbsp;<i>w</i><sub><i>i</i></sub>&nbsp;は西から&nbsp;<i>i</i>&nbsp;番目の道路と西から&nbsp;<i>i</i>&nbsp;+ 1 番目の道路の間隔である．道路自体の幅は十分細いため考慮する必要はない．</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/22683.%E2%80%85Square%E2%80%85Route/15f3a529.png" data-original-src="https://upload.acmicpc.net/92f9f81e-2d6d-44dc-99d4-5e4401894fef/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 230px; height: 219px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/22683.%E2%80%85Square%E2%80%85Route/15f3a529.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/22683.%E2%80%85Square%E2%80%85Route/15f3a529.png" data-original-src="https://upload.acmicpc.net/92f9f81e-2d6d-44dc-99d4-5e4401894fef/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 230px; height: 219px;" /></p>
 
 <p style="text-align: center;">図 D-1: 最初のデータセット</p>
 
@@ -48,6 +48,6 @@
 
 <p>各データセットに対して，正方形の個数を 1 行に出力しなさい．たとえば，Sample Input の最初のデータセットにおいては，以下のとおり 6 個の正方形を含むので，このデータセットに対する出力は 6 となる．</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/22683.%E2%80%85Square%E2%80%85Route/82464963.png" data-original-src="https://upload.acmicpc.net/8f204bd9-d939-4331-93b7-c0bbe5ed3b03/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 336px; height: 232px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/22683.%E2%80%85Square%E2%80%85Route/82464963.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/22683.%E2%80%85Square%E2%80%85Route/82464963.png" data-original-src="https://upload.acmicpc.net/8f204bd9-d939-4331-93b7-c0bbe5ed3b03/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 336px; height: 232px;" /></p>
 
 <p style="text-align: center;">図 D-2: 最初のデータセットに含まれる正方形</p>

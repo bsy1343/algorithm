@@ -36,6 +36,6 @@
 
 ### 힌트
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/24648.%E2%80%85Kaleidoscopic%E2%80%85Route/e6cc2c52.png" data-original-src="https://upload.acmicpc.net/267995d6-ba65-40eb-9c44-8901a70b372a/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 353px; height: 142px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/24648.%E2%80%85Kaleidoscopic%E2%80%85Route/e6cc2c52.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/24648.%E2%80%85Kaleidoscopic%E2%80%85Route/e6cc2c52.png" data-original-src="https://upload.acmicpc.net/267995d6-ba65-40eb-9c44-8901a70b372a/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 353px; height: 142px;" /></p>
 
 <p>In the example test, the required route consists of $3$ roads, and the difference between the maximum and the minimum colorfulnesses of its roads is $8-2=6$.</p>

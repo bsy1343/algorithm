@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p>욱제는 구사과의 열렬한 팬이다. 오늘 욱제는 구사과에게 선물(<img alt="" class="no-responsive" src="%EB%B0%B1%EC%A4%80/Gold/15559.%E2%80%85%EB%82%B4%E2%80%85%EC%84%A0%EB%AC%BC%EC%9D%84%E2%80%85%EB%B0%9B%EC%95%84%EC%A4%98/3bca75e1.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15559/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:20px; width:20px" />)을 전달해주려고 한다. 지난 며칠간의 관찰 끝에 욱제는 구사과의 이동 패턴을 모두 파악했다.</p>
+<p>욱제는 구사과의 열렬한 팬이다. 오늘 욱제는 구사과에게 선물(<img alt="" class="no-responsive" src="%EB%B0%B1%EC%A4%80/Gold/15559.%E2%80%85%EB%82%B4%E2%80%85%EC%84%A0%EB%AC%BC%EC%9D%84%E2%80%85%EB%B0%9B%EC%95%84%EC%A4%98/3bca75e1.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/15559.%E2%80%85%EB%82%B4%E2%80%85%EC%84%A0%EB%AC%BC%EC%9D%84%E2%80%85%EB%B0%9B%EC%95%84%EC%A4%98/3bca75e1.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15559/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:20px; width:20px" />)을 전달해주려고 한다. 지난 며칠간의 관찰 끝에 욱제는 구사과의 이동 패턴을 모두 파악했다.</p>
 
 <p>구사과가 있는 곳은 N&times;M 크기의 직사각형 지도로 나타낼 수 있으며, 1&times;1크기의 정사각형으로 나누어져 있다. 구사과의 위치는 (i, j)로 나타낼 수 있으며, (i, j)는 위에서부터 i번째 칸, 왼쪽에서부터 j번째 칸을 의미한다.</p>
 

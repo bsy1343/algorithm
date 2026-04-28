@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/24776.%E2%80%85Recount/b801e117.png" data-original-src="https://upload.acmicpc.net/f71c5cbd-217b-4c62-9016-18f162ad2e89/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 150px; height: 135px; float: right;" />The recent schoolboard elections were hotly contested: a proposal to swap school start times for elementary and high school students, a controversial new dress code proposal that bans athletic clothes in school, and a proposal to raise real-estate taxes to pay for a new football practice facility, and the list goes on and on. It is now hours after the polls have closed and a winner has yet to emerge!&nbsp;</p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/24776.%E2%80%85Recount/b801e117.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/24776.%E2%80%85Recount/b801e117.png" data-original-src="https://upload.acmicpc.net/f71c5cbd-217b-4c62-9016-18f162ad2e89/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 150px; height: 135px; float: right;" />The recent schoolboard elections were hotly contested: a proposal to swap school start times for elementary and high school students, a controversial new dress code proposal that bans athletic clothes in school, and a proposal to raise real-estate taxes to pay for a new football practice facility, and the list goes on and on. It is now hours after the polls have closed and a winner has yet to emerge!&nbsp;</p>
 
 <p>In their desperation, the election officials turn to you and ask you to write a program to count the vote!</p>
 

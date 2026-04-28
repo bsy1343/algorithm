@@ -24,7 +24,7 @@
 
 <p>Помогите жюри понять, в каком порядке необходимо расположить перфокарты.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/21545.%E2%80%85%D0%9F%D0%B5%D1%80%D1%84%D0%BE%D0%BA%D0%B0%D1%80%D1%82%D1%8B/c5b7783d.png" data-original-src="https://upload.acmicpc.net/2132adab-c473-46a3-8ab2-f58e933a2a3a/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 498px; height: 230px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/21545.%E2%80%85%D0%9F%D0%B5%D1%80%D1%84%D0%BE%D0%BA%D0%B0%D1%80%D1%82%D1%8B/c5b7783d.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/21545.%E2%80%85%D0%9F%D0%B5%D1%80%D1%84%D0%BE%D0%BA%D0%B0%D1%80%D1%82%D1%8B/c5b7783d.png" data-original-src="https://upload.acmicpc.net/2132adab-c473-46a3-8ab2-f58e933a2a3a/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 498px; height: 230px;" /></p>
 
 <p style="text-align: center;">Рис. 1: Порядок карт из второго примера. Выделены те буквы, которые видны сверху</p>
 

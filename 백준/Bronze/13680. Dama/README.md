@@ -18,7 +18,7 @@
 
 <p>O jogo de xadrez possui v&aacute;rias pe&ccedil;as com movimentos curiosos: uma delas &eacute; a&nbsp;<em>dama</em>, que pode se mover qualquer quantidade de casas na mesma linha, na mesma coluna, ou em uma das duas diagonais, conforme exemplifica a figura abaixo:</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/13680.%E2%80%85Dama/932fa22f.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/13680/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202017-01-12%20%EC%98%A4%EC%A0%84%207.49.08.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:175px; width:176px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/13680.%E2%80%85Dama/932fa22f.png" data-original-src="%EB%B0%B1%EC%A4%80/Bronze/13680.%E2%80%85Dama/932fa22f.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/13680/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202017-01-12%20%EC%98%A4%EC%A0%84%207.49.08.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:175px; width:176px" /></p>
 
 <p>O grande mestre de xadrez Kary Gasparov inventou um novo tipo de problema de xadrez: dada a posi&ccedil;&atilde;o de uma dama em um tabuleiro de xadrez vazio (ou seja, um tabuleiro 8 &times; 8, com 64 casas), de quantos movimentos, no m&iacute;nimo, ela precisa para chegar em outra casa do tabuleiro?</p>
 

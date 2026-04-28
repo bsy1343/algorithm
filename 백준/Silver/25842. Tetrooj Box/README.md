@@ -32,8 +32,8 @@
 
 <p>First Sample Input/Output:</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/25842.%E2%80%85Tetrooj%E2%80%85Box/7f695e01.png" data-original-src="https://upload.acmicpc.net/31223340-58cb-477d-8ce7-a85d2913b242/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 300px; height: 248px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/25842.%E2%80%85Tetrooj%E2%80%85Box/7f695e01.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/25842.%E2%80%85Tetrooj%E2%80%85Box/7f695e01.png" data-original-src="https://upload.acmicpc.net/31223340-58cb-477d-8ce7-a85d2913b242/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 300px; height: 248px;" /></p>
 
 <p>Second Sample Input/Output:</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/25842.%E2%80%85Tetrooj%E2%80%85Box/68dc5b2e.png" data-original-src="https://upload.acmicpc.net/031b5242-2536-4b28-8345-f2e02c652063/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 300px; height: 210px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/25842.%E2%80%85Tetrooj%E2%80%85Box/68dc5b2e.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/25842.%E2%80%85Tetrooj%E2%80%85Box/68dc5b2e.png" data-original-src="https://upload.acmicpc.net/031b5242-2536-4b28-8345-f2e02c652063/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 300px; height: 210px;" /></p>

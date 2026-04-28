@@ -20,7 +20,7 @@
 
 <p>Look at the figure below:</p>
 
-<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/8076.%E2%80%85Window/130cb279.gif" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/8076/1.gif" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:300px; width:273px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/8076.%E2%80%85Window/130cb279.gif" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/8076.%E2%80%85Window/130cb279.gif" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/8076/1.gif" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:300px; width:273px" /></p>
 
 <p>There are two separate fragments of the polygon that can be seen through the window.</p>
 

@@ -18,7 +18,7 @@
 
 <p>현대모비스는 글로벌 자동차 부품 기업으로 자율주행, 커넥티비티, 전동화 분야 등 스마트 모빌리티 솔루션 연구에 강점을 갖고 있다. 자율주행 및 주행보조 성능 개선 등 소프트웨어 분야에 대한 활발한 기술 개발을 진행하고 있는 현대모비스는 차량의 카메라로 얻은 이미지를 처리하는 소프트웨어를 개발하고 있다. 특히 야간, 악천후 등의 상황에서 이미지가 선명하지 않을 수 있는데, 소프트웨어 기반의 후처리를 통해 이미지를 보정하는 것은 중요한 일이다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/27068.%E2%80%85%EC%9D%B4%EB%AF%B8%EC%A7%80%E2%80%85%EB%B3%B4%EC%A0%95%E2%80%85%EC%9E%91%EC%97%85/671a3fea.png" data-original-src="https://upload.acmicpc.net/348e4843-99f4-43d1-bea5-bc803bbd119b/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/27068.%E2%80%85%EC%9D%B4%EB%AF%B8%EC%A7%80%E2%80%85%EB%B3%B4%EC%A0%95%E2%80%85%EC%9E%91%EC%97%85/671a3fea.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/27068.%E2%80%85%EC%9D%B4%EB%AF%B8%EC%A7%80%E2%80%85%EB%B3%B4%EC%A0%95%E2%80%85%EC%9E%91%EC%97%85/671a3fea.png" data-original-src="https://upload.acmicpc.net/348e4843-99f4-43d1-bea5-bc803bbd119b/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>차량의 카메라가 얻은 이미지 정보는 세로로 $N$칸, 가로로 $M$칸으로 분할된 총 $NM$개의 구역으로 나누어 표현할 수 있다. 각 구역 내의 이미지 정보가 얼마나 선명한지를 정수로 나타내고 이를 <strong>선명도</strong>라 부르자.</p>
 

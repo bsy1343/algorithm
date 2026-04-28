@@ -45,8 +45,8 @@
 			<td>Second example</td>
 		</tr>
 		<tr>
-			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/21893.%E2%80%85Road%E2%80%85Building/905703e3.png" data-original-src="https://upload.acmicpc.net/7ddc575f-f31d-4225-bff9-d8cc375596a7/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 500px; height: 500px;" /></td>
-			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/21893.%E2%80%85Road%E2%80%85Building/124ea48f.png" data-original-src="https://upload.acmicpc.net/54c0e7a5-198f-48ab-b8dd-e710b9567a27/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 500px; height: 500px;" /></td>
+			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/21893.%E2%80%85Road%E2%80%85Building/905703e3.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/21893.%E2%80%85Road%E2%80%85Building/905703e3.png" data-original-src="https://upload.acmicpc.net/7ddc575f-f31d-4225-bff9-d8cc375596a7/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 500px; height: 500px;" /></td>
+			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/21893.%E2%80%85Road%E2%80%85Building/124ea48f.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/21893.%E2%80%85Road%E2%80%85Building/124ea48f.png" data-original-src="https://upload.acmicpc.net/54c0e7a5-198f-48ab-b8dd-e710b9567a27/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 500px; height: 500px;" /></td>
 		</tr>
 	</tbody>
 </table>

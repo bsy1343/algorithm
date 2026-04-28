@@ -20,11 +20,11 @@
 
 <p>What is the maximum number of pizza boxes we can remove without changing the front and side views? In the following example, Figure I.2 shows the solution of Figure I.1(a) case. In Figure I.1(a) and Figure I.2, each number (height) represents the number of boxes stacked.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/14754.%E2%80%85Pizza%E2%80%85Boxes/05363d0c.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14754/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:220px; width:583px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/14754.%E2%80%85Pizza%E2%80%85Boxes/05363d0c.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/14754.%E2%80%85Pizza%E2%80%85Boxes/05363d0c.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14754/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:220px; width:583px" /></p>
 
 <p style="text-align: center;">Figure I.1. (a) Grid of heights and (b) the corresponding views.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/14754.%E2%80%85Pizza%E2%80%85Boxes/b8dc0c2a.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14754/2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:136px; width:127px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/14754.%E2%80%85Pizza%E2%80%85Boxes/b8dc0c2a.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/14754.%E2%80%85Pizza%E2%80%85Boxes/b8dc0c2a.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14754/2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:136px; width:127px" /></p>
 
 <p style="text-align: center;">Figure I.2. Grid of heights after removing boxes.</p>
 

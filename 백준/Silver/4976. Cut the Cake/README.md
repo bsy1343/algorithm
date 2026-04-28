@@ -20,11 +20,11 @@
 
 <p>The cake looks rectangular, viewing from above (Figure C-1). As exemplified in Figure C-2, the cake will iteratively be cut into pieces, where on each cut exactly a single piece is cut into two smaller pieces. Each cut surface must be orthogonal to the bottom face and must be orthogonal or parallel to a side face. So, every piece shall be rectangular looking from above and every side face vertical.</p>
 
-<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/4976.%E2%80%85Cut%E2%80%85the%E2%80%85Cake/553ba9b9.png" data-original-src="https://www.acmicpc.net/upload/images3/C-1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:122px; width:102px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/4976.%E2%80%85Cut%E2%80%85the%E2%80%85Cake/553ba9b9.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/4976.%E2%80%85Cut%E2%80%85the%E2%80%85Cake/553ba9b9.png" data-original-src="https://www.acmicpc.net/upload/images3/C-1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:122px; width:102px" /></p>
 
 <p style="text-align:center">Figure C-1: The top view of the cake</p>
 
-<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/4976.%E2%80%85Cut%E2%80%85the%E2%80%85Cake/e4dc63e7.png" data-original-src="https://www.acmicpc.net/upload/images3/C-2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:122px; width:597px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/4976.%E2%80%85Cut%E2%80%85the%E2%80%85Cake/e4dc63e7.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/4976.%E2%80%85Cut%E2%80%85the%E2%80%85Cake/e4dc63e7.png" data-original-src="https://www.acmicpc.net/upload/images3/C-2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:122px; width:597px" /></p>
 
 <p style="text-align:center">Figure C-2: Cutting the cake into pieces</p>
 

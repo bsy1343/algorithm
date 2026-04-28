@@ -20,11 +20,11 @@
 
 <p>이 수술을 받기 전에 수술을 받는 얼룩말이 원하는 크기의 흑백 패턴을 준비 해야 하고, 수술은 이 패턴을 무한히 이어 붙인 것을 기준으로 한다. 예를 들어, $2 \times 3$크기의 패턴과 이 패턴을 이어 붙인 그림이다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/25032.%E2%80%85Young%E2%80%85Zebra/a111d212.png" data-original-src="https://upload.acmicpc.net/d3b66f0d-1aa1-424b-90b9-31027629a88f/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 189px; height: 133px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/25032.%E2%80%85Young%E2%80%85Zebra/a111d212.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/25032.%E2%80%85Young%E2%80%85Zebra/a111d212.png" data-original-src="https://upload.acmicpc.net/d3b66f0d-1aa1-424b-90b9-31027629a88f/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 189px; height: 133px;" /></p>
 
 <p style="text-align: center;">그림 1: $2 \times 3$크기의 패턴</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/25032.%E2%80%85Young%E2%80%85Zebra/bcf21c77.png" data-original-src="https://upload.acmicpc.net/342e8b64-e888-4cc0-9374-e203583d03ee/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 307px; height: 190px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/25032.%E2%80%85Young%E2%80%85Zebra/bcf21c77.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/25032.%E2%80%85Young%E2%80%85Zebra/bcf21c77.png" data-original-src="https://upload.acmicpc.net/342e8b64-e888-4cc0-9374-e203583d03ee/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 307px; height: 190px;" /></p>
 
 <p style="text-align: center;">그림 2 : 위의 패턴을 무한히 이어 붙인 것의 일부.&nbsp;빨간 직사각형은 위의 패턴을 나타내며, 뒤틀림 없이 그대로 맞춰서 이어 붙인다.</p>
 

@@ -22,7 +22,7 @@
 
 <p>The scientists want to modify the compound in a way that all the covalent bonds are transformed into directed covalent bonds. Because of the instability of the newly created compound, each molecule will have a large number of impulses coming out of it and travelling to other molecules using the directed bonds. An impulse can travel using the directed covalent bond only in the direction of the bond itself.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/11774.%E2%80%85MOLEKULE/eae765e0.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11774/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:161px; width:458px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/11774.%E2%80%85MOLEKULE/eae765e0.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/11774.%E2%80%85MOLEKULE/eae765e0.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11774/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:161px; width:458px" /></p>
 
 <p>The instability of the compound is defined as the largest possible number of bonds a single impulse can use to travel. The scientists want to direct the compound&rsquo;s covalent bonds in a way that the newly created compound is as stable as possible. In other words, their goal is to create a compound with the minimal longest path an impulse can take during its travel.</p>
 

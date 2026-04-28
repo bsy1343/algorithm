@@ -39,4 +39,4 @@
 
 ### 힌트
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/20516.%E2%80%85%D0%A2%D1%80%D0%B8%E2%80%85%D1%81%D1%8B%D0%BD%D0%B0/0427826a.png" data-original-src="https://upload.acmicpc.net/88f56cd4-76c7-413c-bddd-63237d33008c/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 242px; height: 158px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/20516.%E2%80%85%D0%A2%D1%80%D0%B8%E2%80%85%D1%81%D1%8B%D0%BD%D0%B0/0427826a.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/20516.%E2%80%85%D0%A2%D1%80%D0%B8%E2%80%85%D1%81%D1%8B%D0%BD%D0%B0/0427826a.png" data-original-src="https://upload.acmicpc.net/88f56cd4-76c7-413c-bddd-63237d33008c/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 242px; height: 158px;" /></p>

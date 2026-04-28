@@ -18,7 +18,7 @@
 
 <p>A scientist wants to study how the rising sea level changes the landscape, in particular, how it changes the number of islands. He first investigates one-dimensional worlds. An onedimensional world is represented by a sequence of non-negative integers &lt;h<sub>0</sub>, h<sub>1</sub>, . . . , h<sub>n&minus;1</sub>&gt;, where each integer h<sub>i</sub> is the altitude at the location i. The following figure depicts an example of such world represented by the sequence &lt;5, 6, 1, 3, 2, 9, 8&gt;.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/9822.%E2%80%85Global%E2%80%85Warming/d2705f4d.png" data-original-src="https://upload.acmicpc.net/46e64fd7-3fd0-418e-9896-313617de5a4f/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 345px; height: 293px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/9822.%E2%80%85Global%E2%80%85Warming/d2705f4d.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/9822.%E2%80%85Global%E2%80%85Warming/d2705f4d.png" data-original-src="https://upload.acmicpc.net/46e64fd7-3fd0-418e-9896-313617de5a4f/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 345px; height: 293px;" /></p>
 
 <p>Now, if the sea level is at altitude 2.5, there are 3 islands formed by landmass of the first two columns, the fourth column and the last two columns. Furthermore, if the sea level is at altitude 3.5, there are only 2 islands. When the sea level is at altitude x, landmass with altitude x is considered to be submerged under the sea. Hence, if the sea level is at altitude 3, there are 2 islands. Note that having 3 islands is the maximum among all possible sea levels.</p>
 

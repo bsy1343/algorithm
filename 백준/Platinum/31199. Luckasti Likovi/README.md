@@ -24,7 +24,7 @@
 	<li>Jednakostranični trokut kojem jedna stranica odgovara donjoj stranici jediničnog kvadrata mreže.</li>
 </ul>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/31199.%E2%80%85Luckasti%E2%80%85Likovi/ff275acd.png" data-original-src="https://upload.acmicpc.net/1bf62b71-cb88-4bd1-ac45-bfdd6f3115a8/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 525px; height: 125px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/31199.%E2%80%85Luckasti%E2%80%85Likovi/ff275acd.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/31199.%E2%80%85Luckasti%E2%80%85Likovi/ff275acd.png" data-original-src="https://upload.acmicpc.net/1bf62b71-cb88-4bd1-ac45-bfdd6f3115a8/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 525px; height: 125px;" /></p>
 
 <p style="text-align: center;">Likovi iz prvog probnog primjera i njihov konveksni obris</p>
 

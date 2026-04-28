@@ -18,7 +18,7 @@
 
 <p>Kre&scaron;o went to a local family farm and bought a bunch of hot peppers that are neatly connected with pieces of string into a so-called wreath. In this task, a wreath consists of n peppers and (n &minus; 1) pieces of string. Each piece of string connects two different peppers, and each two peppers in the wreath are connected (directly or indirectly) by the string. Therefore, the peppers and pieces of string form a so-called tree. Making one cut with scissors, Kre&scaron;o can cut the string, and split a pepper wreath into two smaller wreaths, which can again be split into smaller wreaths, and so on. Notice that a single pepper not connected to anything also forms a wreath.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/15625.%E2%80%85Paprike/9169c7bf.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15625/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 517px; height: 217px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/15625.%E2%80%85Paprike/9169c7bf.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/15625.%E2%80%85Paprike/9169c7bf.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15625/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 517px; height: 217px;" /></p>
 
 <p style="text-align: center;">Figure 1: The initial wreaths from the first two test cases together with the optimal cuts.</p>
 

@@ -39,7 +39,7 @@
 의석이는 자신이 던진 다트중에서 최대 $L$&nbsp;개&nbsp;다트의 좌표를 바꿀 수 있다.(좌표가 바뀐 다트는 다트판 위에 존재해야 한다.)<br />
 의석이는 자신이 얻는&nbsp;원래 점수, 조작해서 얻을 수 있는 최대 점수, 조작해서 얻을 수 있는 최소 점수를 알고싶다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/20545.%E2%80%85%EB%8B%A4%ED%8A%B8%EA%B2%8C%EC%9E%84/058c6d2b.png" data-original-src="https://upload.acmicpc.net/a8df7fbe-3a8f-4c31-864a-1ea22d9ec110/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/20545.%E2%80%85%EB%8B%A4%ED%8A%B8%EA%B2%8C%EC%9E%84/058c6d2b.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/20545.%E2%80%85%EB%8B%A4%ED%8A%B8%EA%B2%8C%EC%9E%84/058c6d2b.png" data-original-src="https://upload.acmicpc.net/a8df7fbe-3a8f-4c31-864a-1ea22d9ec110/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>예를 들어, 위와 같은 상황을 보자. 붉은색 다트는 승규가 던진 다트이고, 검은색 다트는 의석이가 던진 다트이다.&nbsp; 다트 위에 써져있는 숫자는 다트가 던져진 라운드를 의미한다. (가중치는 모두 1로 동일하다.) 위 상황에서 1라운드에서 의석이가 얻는 점수는 1점이고, 2라운드에서 의석이가 얻는 점수는 3점이다. 즉 의석이가 원래 얻는 총점은 4점이다. 여기서 의석이가 자신의 2라운드 다트를 (3,3)으로 옮기게 된다면 의석이가 얻을 수 있는 최대 총점인 14점을 얻게 된다. 혹은 여기서 의석이가 자신의 2라운드 다트를 (1,1)로 옮기게 된다면 의석이가 얻을 수 있는 최소 총점인 2점을 얻게 된다.</p>
 

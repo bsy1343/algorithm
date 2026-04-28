@@ -18,7 +18,7 @@
 
 <p>In a galaxy far away, the planet Equator is under attack! The evil gang Galatic Criminal People Cooperation is planning robberies in Equator&rsquo;s cities. Your help is needed! In order to complete your training for becoming a lord of the dark side you should help them deciding which cities to rob. As the name says, the desert planet Equator only can be inhabited on its equator. So the gang lands there at some point and travels into some direction robbing all cities on their way until leaving the planet again.</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/10274.%E2%80%85Equator/5d147a3e.png" data-original-src="https://www.acmicpc.net/upload/images2/escape.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:203px; width:367px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/10274.%E2%80%85Equator/5d147a3e.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/10274.%E2%80%85Equator/5d147a3e.png" data-original-src="https://www.acmicpc.net/upload/images2/escape.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:203px; width:367px" /></p>
 
 <p>But what is still open for them is to decide where to land, which direction to take, and when to leave. Maybe they shouldn&rsquo;t even enter the planet at all? They do not consider costs for traveling or for running their ship, those are peanuts compared to the money made by robbery!</p>
 

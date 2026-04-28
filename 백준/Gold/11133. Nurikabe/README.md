@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/11133.%E2%80%85Nurikabe/1005ce0e.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11133/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="float:right; height:291px; width:313px" />Nurikabe is a binary determination puzzle originating from Japan. Given a grid where some cells contain numbers, the objective of the puzzle is to mark each blank cell as either island (white) or water (black), while obeying the following constraints:</p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/11133.%E2%80%85Nurikabe/1005ce0e.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/11133.%E2%80%85Nurikabe/1005ce0e.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11133/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="float:right; height:291px; width:313px" />Nurikabe is a binary determination puzzle originating from Japan. Given a grid where some cells contain numbers, the objective of the puzzle is to mark each blank cell as either island (white) or water (black), while obeying the following constraints:</p>
 
 <ul>
 	<li>Each island has exactly one numbered cell, containing a number between 1 and 9. The number of white cells (including the numbered cell) in this island is equal to this number. Two cells are connected if they share a side. Two cells belong to the same island if there exists a path going through connected island cells.</li>

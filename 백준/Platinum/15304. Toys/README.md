@@ -22,7 +22,7 @@
 
 <p>Figure 1: (a) and (b) are the same toy (you can obtain (b) from (a) by turning the red (left) disk one and the blue (right) disk 4 steps counterclockwise). (c) is a different toy.</p>
 
-<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/15304.%E2%80%85Toys/92930d63.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15304/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:174px; width:621px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/15304.%E2%80%85Toys/92930d63.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/15304.%E2%80%85Toys/92930d63.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15304/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:174px; width:621px" /></p>
 
 ### 입력
 

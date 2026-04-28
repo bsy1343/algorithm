@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/10537.%E2%80%85The%E2%80%85Safe%E2%80%85Secret/0ab737e2.png" data-original-src="https://www.acmicpc.net/upload/images2/secret.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:138px; width:348px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/10537.%E2%80%85The%E2%80%85Safe%E2%80%85Secret/0ab737e2.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/10537.%E2%80%85The%E2%80%85Safe%E2%80%85Secret/0ab737e2.png" data-original-src="https://www.acmicpc.net/upload/images2/secret.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:138px; width:348px" /></p>
 
 <p>One of the brightest and richest dukes of the nineteenth century built a break-in-proof room for storing his valuables and chose the lock secret code in an ingenious manner. He was so afraid of being robbed that he did not tell anyone the safe secret; he only wrote the way to obtain it on a piece of paper, to be given to his heir on his death.</p>
 

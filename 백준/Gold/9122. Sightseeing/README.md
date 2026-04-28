@@ -22,7 +22,7 @@
 
 <p>There is a restriction on the routes that the tourists may choose from. To leave enough time for the sightseeing at the stops (and to avoid using too much fuel), the bus has to take a short route from S to F. It has to be either a route with minimal distance, or a route which is one distance unit longer than the minimal distance. Indeed, by allowing routes that are one distance unit longer, the tourists may have more choice than by restricting them to exactly the minimal routes. This enhances the impression of a personal holiday.</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/9122.%E2%80%85Sightseeing/17f34eb3.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/9122/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-06-13%20%EC%98%A4%ED%9B%84%206.09.53.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:147px; width:281px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/9122.%E2%80%85Sightseeing/17f34eb3.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/9122.%E2%80%85Sightseeing/17f34eb3.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/9122/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-06-13%20%EC%98%A4%ED%9B%84%206.09.53.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:147px; width:281px" /></p>
 
 <p>For example, for the above road map, there are two minimal routes from S = 1 to F = 5: 1 &rarr; 2 &rarr; 5 and 1 &rarr; 3 &rarr; 5, both of length 6. There is one route that is one distance unit longer: 1 &rarr; 3 &rarr; 4 &rarr; 5, of length 7.</p>
 

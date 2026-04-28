@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/14628.%E2%80%85%EC%9E%85%E2%80%85%EC%B1%8C%EB%A6%B0%EC%A0%80/8a6ed3ab.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14628/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:236px; width:174px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/14628.%E2%80%85%EC%9E%85%E2%80%85%EC%B1%8C%EB%A6%B0%EC%A0%80/8a6ed3ab.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/14628.%E2%80%85%EC%9E%85%E2%80%85%EC%B1%8C%EB%A6%B0%EC%A0%80/8a6ed3ab.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14628/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:236px; width:174px" /></p>
 
 <p>광현이는 자칭 게임 아티스트이다. 게임 아티스트라고 해서 게임 캐릭터를 디자인하는 일이 아니라 게임을 Art하게 플레이하는 것을 의미한다. 광현이는 요즘 &#39;리그오브스톰&#39;이라는 게임에 빠졌다. 리그오브스톰은 스킬을 써서 상대방의 체력을 0 이하로 만들면 이기는 게임이다. 스킬은 총 N개가 있는데, 모든 스킬에는 사용 시 마나 포인트라는 비용이 필요하다. 또한, 스킬마다 상대방의 체력을 깎을 수 있는 수치가 정해져 있다. 스킬 사용 제한 횟수는 없지만 같은 스킬을 한 번 이상 사용할 때엔 필요한 마나 포인트가 원래 마나 포인트에서 K씩 추가로 증가한다. 예를 들어 어떤 스킬의 마나 포인트가 10이고 K값이 5이면 처음 사용할 때는 10, 그다음은 15, 그다음은 20 이런 식으로 증가하게 된다. 광현이는 이 게임을 아주 많이 플레이하여 브론즈 등급에 있었지만 슬슬 질려가고 있었다. 그래서 광현이는 게임 아티스트답게 플레이에 어떤 제약을 걸고 게임에 임하려고 한다. 그 제약이란 상대방의 체력을 정확하게 0으로 만들면서 마나 포인트를 최대한 적게 사용하는 것이다. 과연 광현이는 이 제약을 지킬 수 있을까? 광현이의 플레이가 맞는지 확인하기 위해 적의 체력을 정확하게 0으로 만들 때 필요한 가장 적은 마나 포인트를 구해보자.</p>
 

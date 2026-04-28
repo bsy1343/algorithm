@@ -23,9 +23,9 @@
 <table class="table table-bordered td-center">
 	<tbody>
 		<tr>
-			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/3139.%E2%80%85VANDAL/de3cc664.png" data-original-src="https://upload.acmicpc.net/088d805b-f7f4-4e9c-bdea-7dec12dcb88e/-/crop/307x306/0,0/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 154px; height: 153px;" /></td>
-			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/3139.%E2%80%85VANDAL/59d71a54.png" data-original-src="https://upload.acmicpc.net/088d805b-f7f4-4e9c-bdea-7dec12dcb88e/-/crop/305x306/359,0/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 153px; height: 153px;" /></td>
-			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/3139.%E2%80%85VANDAL/69385b7f.png" data-original-src="https://upload.acmicpc.net/088d805b-f7f4-4e9c-bdea-7dec12dcb88e/-/crop/303x306/715,0/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 152px; height: 153px;" /></td>
+			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/3139.%E2%80%85VANDAL/de3cc664.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/3139.%E2%80%85VANDAL/de3cc664.png" data-original-src="https://upload.acmicpc.net/088d805b-f7f4-4e9c-bdea-7dec12dcb88e/-/crop/307x306/0,0/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 154px; height: 153px;" /></td>
+			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/3139.%E2%80%85VANDAL/59d71a54.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/3139.%E2%80%85VANDAL/59d71a54.png" data-original-src="https://upload.acmicpc.net/088d805b-f7f4-4e9c-bdea-7dec12dcb88e/-/crop/305x306/359,0/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 153px; height: 153px;" /></td>
+			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/3139.%E2%80%85VANDAL/69385b7f.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/3139.%E2%80%85VANDAL/69385b7f.png" data-original-src="https://upload.acmicpc.net/088d805b-f7f4-4e9c-bdea-7dec12dcb88e/-/crop/303x306/715,0/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 152px; height: 153px;" /></td>
 		</tr>
 		<tr>
 			<td>Rows and columns</td>

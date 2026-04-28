@@ -18,7 +18,7 @@
 
 <p>Venn diagrams were invented by the great logician John Venn as a way of categorizing elements belonging to different sets. Given two sets A and B, two overlapping circles are drawn &ndash; a circle representing the elements of A, and another representing the elements of B. The overlapping region of the circles represents element that belong to both A and B, i.e., the intersection of the two sets A &cap; B. A classic Venn diagram might look like this:</p>
 
-<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/15076.%E2%80%85Vin%E2%80%85Diagrams/b0d017dd.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15076/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:100px; width:107px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/15076.%E2%80%85Vin%E2%80%85Diagrams/b0d017dd.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/15076.%E2%80%85Vin%E2%80%85Diagrams/b0d017dd.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15076/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:100px; width:107px" /></p>
 
 <p style="text-align:center">Figure H.1</p>
 
@@ -29,8 +29,8 @@
 <table class="table" style="width:100%">
 	<tbody>
 		<tr>
-			<td style="text-align:center; width:50%"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/15076.%E2%80%85Vin%E2%80%85Diagrams/f8ec0c18.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15076/2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:128px; width:199px" /></td>
-			<td style="text-align:center; width:50%"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/15076.%E2%80%85Vin%E2%80%85Diagrams/0957e0b0.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15076/3.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:126px; width:196px" /></td>
+			<td style="text-align:center; width:50%"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/15076.%E2%80%85Vin%E2%80%85Diagrams/f8ec0c18.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/15076.%E2%80%85Vin%E2%80%85Diagrams/f8ec0c18.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15076/2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:128px; width:199px" /></td>
+			<td style="text-align:center; width:50%"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/15076.%E2%80%85Vin%E2%80%85Diagrams/0957e0b0.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/15076.%E2%80%85Vin%E2%80%85Diagrams/0957e0b0.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15076/3.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:126px; width:196px" /></td>
 		</tr>
 		<tr>
 			<td style="text-align:center; width:50%">Figure H.2: Two legal loops</td>
@@ -44,8 +44,8 @@
 <table class="table" style="width:100%">
 	<tbody>
 		<tr>
-			<td style="text-align:center; width:50%"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/15076.%E2%80%85Vin%E2%80%85Diagrams/831f95a8.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15076/4.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:126px; width:197px" /></td>
-			<td style="text-align:center; width:50%"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/15076.%E2%80%85Vin%E2%80%85Diagrams/2ceb124e.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15076/5.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:126px; width:196px" /></td>
+			<td style="text-align:center; width:50%"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/15076.%E2%80%85Vin%E2%80%85Diagrams/831f95a8.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/15076.%E2%80%85Vin%E2%80%85Diagrams/831f95a8.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15076/4.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:126px; width:197px" /></td>
+			<td style="text-align:center; width:50%"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/15076.%E2%80%85Vin%E2%80%85Diagrams/2ceb124e.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/15076.%E2%80%85Vin%E2%80%85Diagrams/2ceb124e.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15076/5.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:126px; width:196px" /></td>
 		</tr>
 		<tr>
 			<td style="text-align:center; width:50%">Figure H.4: Intersection point and&nbsp;surrounding positions</td>

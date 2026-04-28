@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/29152.%E2%80%85%EB%94%94%EC%A7%80%ED%84%B8%E2%80%85%ED%8A%B8%EC%9C%88/6ab1b0eb.png" data-original-src="https://upload.acmicpc.net/3051e512-937e-4f4d-b0e1-dc6f7d4308ef/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 50%;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/29152.%E2%80%85%EB%94%94%EC%A7%80%ED%84%B8%E2%80%85%ED%8A%B8%EC%9C%88/6ab1b0eb.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/29152.%E2%80%85%EB%94%94%EC%A7%80%ED%84%B8%E2%80%85%ED%8A%B8%EC%9C%88/6ab1b0eb.png" data-original-src="https://upload.acmicpc.net/3051e512-937e-4f4d-b0e1-dc6f7d4308ef/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 50%;" /></p>
 
 <p><b>디지털 트윈</b>은 현실 속 환경을 디지털 가상 공간에 복제하여 물리 환경에서 발생 가능한 상황을 예측하고 최적화하는 기술이다.</p>
 
@@ -53,7 +53,7 @@
 
 <p>예시로 다음 그림을 살펴보자. 3, 4번 그림은 정답이 아닌 컨테이너 벨트의 상태를 나타낸다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/29152.%E2%80%85%EB%94%94%EC%A7%80%ED%84%B8%E2%80%85%ED%8A%B8%EC%9C%88/3f637c5c.png" data-original-src="https://upload.acmicpc.net/103662aa-bfcc-43c4-bbd4-09bea24135b2/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 80%;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/29152.%E2%80%85%EB%94%94%EC%A7%80%ED%84%B8%E2%80%85%ED%8A%B8%EC%9C%88/3f637c5c.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/29152.%E2%80%85%EB%94%94%EC%A7%80%ED%84%B8%E2%80%85%ED%8A%B8%EC%9C%88/3f637c5c.png" data-original-src="https://upload.acmicpc.net/103662aa-bfcc-43c4-bbd4-09bea24135b2/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 80%;" /></p>
 
 <ul>
 	<li>첫 번째 그림은 공장의 상태와 생산 기계들의 상태를 보여준다.</li>

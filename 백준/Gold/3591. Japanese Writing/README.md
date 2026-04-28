@@ -24,11 +24,11 @@
 
 <p>For example, here is a hieroglyph similar to Latin letter A with 5 endpoints connected with 3 strokes and several other correct writings of the same shape:</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/3591.%E2%80%85Japanese%E2%80%85Writing/8dd8317c.png" data-original-src="https://upload.acmicpc.net/5933423b-acd1-42d0-a631-63a5aced55d7/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 443px; height: 117px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/3591.%E2%80%85Japanese%E2%80%85Writing/8dd8317c.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/3591.%E2%80%85Japanese%E2%80%85Writing/8dd8317c.png" data-original-src="https://upload.acmicpc.net/5933423b-acd1-42d0-a631-63a5aced55d7/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 443px; height: 117px;" /></p>
 
 <p>Note, that intersections of strokes are not relevant. Here are several incorrect writings of the same shape:</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/3591.%E2%80%85Japanese%E2%80%85Writing/50b2175c.png" data-original-src="https://upload.acmicpc.net/acf1dec9-c6f2-4105-8c73-4a95931f2c70/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 606px; height: 117px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/3591.%E2%80%85Japanese%E2%80%85Writing/50b2175c.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/3591.%E2%80%85Japanese%E2%80%85Writing/50b2175c.png" data-original-src="https://upload.acmicpc.net/acf1dec9-c6f2-4105-8c73-4a95931f2c70/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 606px; height: 117px;" /></p>
 
 <p>These writings are not correct for the following reasons:</p>
 

@@ -29,7 +29,7 @@
 
 <p>A set is a collection of three cards in which each characteristic is either the same on all three cards or different on all three cards. For example, the cards shown below form a set.</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/6375.%E2%80%85Set%E2%80%85Me/8a82bb15.png" data-original-src="https://www.acmicpc.net/upload/images/set1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:130px; width:225px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/6375.%E2%80%85Set%E2%80%85Me/8a82bb15.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/6375.%E2%80%85Set%E2%80%85Me/8a82bb15.png" data-original-src="https://www.acmicpc.net/upload/images/set1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:130px; width:225px" /></p>
 
 <p>To see how the cards above form a set, take each characteristic in turn. First, each card has different symbol: the first<br />
 card has squiggles, the second diamonds, and the third ovals. Second, each card has the same count of symbols,<br />
@@ -37,7 +37,7 @@ three. Third each card has a different color, and finally, each card has a diffe
 is either the same on all three cards or different on all three cards, satisfying the requirement for a set.<br />
 Consider the following example of three cards which do not form a set.</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/6375.%E2%80%85Set%E2%80%85Me/cc4e60e0.png" data-original-src="https://www.acmicpc.net/upload/images/set2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:132px; width:218px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/6375.%E2%80%85Set%E2%80%85Me/cc4e60e0.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/6375.%E2%80%85Set%E2%80%85Me/cc4e60e0.png" data-original-src="https://www.acmicpc.net/upload/images/set2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:132px; width:218px" /></p>
 
 <p>Again, take each characteristic in turn. Each card has a different symbol, each card has a different count of symbols, and each card is the same color. So far this satisfies the requirements for a set. When the shading characteristic is considered, however, two cards are filled and one card is striped. Thus, the shading on all three cards is neither all the same nor all different, and so these cards do not form a set.</p>
 

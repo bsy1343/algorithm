@@ -22,7 +22,7 @@
 
 <p>Write a program that computes the minimum number of steps required to move from the cell (0, 0) to the cell (<i>x, y</i>) for given integers <i>x</i> and <i>y</i>.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/32048.%E2%80%85Honeycomb%E2%80%85Distance/da8e01c9.png" data-original-src="https://upload.acmicpc.net/30873296-3e71-419b-a83c-8a1651f5bbe9/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 400px; height: 326px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/32048.%E2%80%85Honeycomb%E2%80%85Distance/da8e01c9.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/32048.%E2%80%85Honeycomb%E2%80%85Distance/da8e01c9.png" data-original-src="https://upload.acmicpc.net/30873296-3e71-419b-a83c-8a1651f5bbe9/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 400px; height: 326px;" /></p>
 
 <p style="text-align: center;">Figure C-1: How to specify the cells</p>
 

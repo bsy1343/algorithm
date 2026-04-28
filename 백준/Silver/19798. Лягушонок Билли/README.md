@@ -20,7 +20,7 @@
 
 <p>Однако высовывать язык на большие расстояния не так-то просто, лягушонок на каждый сантиметр высунутого языка тратит одну единицу энергии. Каждый раз, когда Билли съедает мошку из какой-то точки происходит следующее: все мошки, сидящие слева от съеденной мошки, и все мошки, сидящие справа от нее в ужасе отпрыгивают от места событий на один сантиметр вдоль ручья. Мошки, которые сидят в той же точке, что и съеденная, настолько шокированы этим событием, что не двигаются.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/19798.%E2%80%85%D0%9B%D1%8F%D0%B3%D1%83%D1%88%D0%BE%D0%BD%D0%BE%D0%BA%E2%80%85%D0%91%D0%B8%D0%BB%D0%BB%D0%B8/abf41171.png" data-original-src="https://upload.acmicpc.net/671ed13d-7f45-48ab-9d08-e050398a21c2/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 426px; height: 155px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/19798.%E2%80%85%D0%9B%D1%8F%D0%B3%D1%83%D1%88%D0%BE%D0%BD%D0%BE%D0%BA%E2%80%85%D0%91%D0%B8%D0%BB%D0%BB%D0%B8/abf41171.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/19798.%E2%80%85%D0%9B%D1%8F%D0%B3%D1%83%D1%88%D0%BE%D0%BD%D0%BE%D0%BA%E2%80%85%D0%91%D0%B8%D0%BB%D0%BB%D0%B8/abf41171.png" data-original-src="https://upload.acmicpc.net/671ed13d-7f45-48ab-9d08-e050398a21c2/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 426px; height: 155px;" /></p>
 
 <p>Если мошка в какой-то момент времени прыгает на камень, где сидит Билли, то Билли тут же съедает ее не тратя энергии. При этом другие мошки не перемещаются.</p>
 

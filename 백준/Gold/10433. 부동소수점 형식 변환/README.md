@@ -20,7 +20,7 @@
 
 <p>Gould의 부동소수점 방식은 아래와 같다.</p>
 
-<p><img src="%EB%B0%B1%EC%A4%80/Gold/10433.%E2%80%85%EB%B6%80%EB%8F%99%EC%86%8C%EC%88%98%EC%A0%90%E2%80%85%ED%98%95%EC%8B%9D%E2%80%85%EB%B3%80%ED%99%98/c4f5dddf.png" data-original-src="https://www.acmicpc.net/upload/images2/float1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p><img src="%EB%B0%B1%EC%A4%80/Gold/10433.%E2%80%85%EB%B6%80%EB%8F%99%EC%86%8C%EC%88%98%EC%A0%90%E2%80%85%ED%98%95%EC%8B%9D%E2%80%85%EB%B3%80%ED%99%98/c4f5dddf.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/10433.%E2%80%85%EB%B6%80%EB%8F%99%EC%86%8C%EC%88%98%EC%A0%90%E2%80%85%ED%98%95%EC%8B%9D%E2%80%85%EB%B3%80%ED%99%98/c4f5dddf.png" data-original-src="https://www.acmicpc.net/upload/images2/float1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>1개의 Sign 비트와 7개의 지수부 비트, 24개의 가수부 비트로 이루어져 있으며, 이 비트들을 16진수로 나타낸다. 가수의 첫 세 비트까지 0이 될 수 있다.</p>
 
@@ -34,7 +34,7 @@
 
 <p>IEEE 부동소수점 방식은 아래와 같다.</p>
 
-<p><img src="%EB%B0%B1%EC%A4%80/Gold/10433.%E2%80%85%EB%B6%80%EB%8F%99%EC%86%8C%EC%88%98%EC%A0%90%E2%80%85%ED%98%95%EC%8B%9D%E2%80%85%EB%B3%80%ED%99%98/7240db14.png" data-original-src="https://www.acmicpc.net/upload/images2/float2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p><img src="%EB%B0%B1%EC%A4%80/Gold/10433.%E2%80%85%EB%B6%80%EB%8F%99%EC%86%8C%EC%88%98%EC%A0%90%E2%80%85%ED%98%95%EC%8B%9D%E2%80%85%EB%B3%80%ED%99%98/7240db14.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/10433.%E2%80%85%EB%B6%80%EB%8F%99%EC%86%8C%EC%88%98%EC%A0%90%E2%80%85%ED%98%95%EC%8B%9D%E2%80%85%EB%B3%80%ED%99%98/7240db14.png" data-original-src="https://www.acmicpc.net/upload/images2/float2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>1개의 Sign 비트, 8개의 지수부 비트, 24개의 가수부 비트로 이루어지며, 정규화된 수에서 가수부의 첫 비트는 항상 1이다. 이 항상 1인 하나의 비트는 가수부에 포함되지 않는다. 따라서 가수부는 23비트로 표현된다.</p>
 

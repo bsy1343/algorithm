@@ -18,7 +18,7 @@
 
 <p>꿍은 수능에 응시하고 있었는데 어느덧 4교시 탐구영역 시간이 되었다. 그런데 탐구영역은 다른 영역과 다르게 자기가 응시할 과목만 고르고 응시하지 않는 과목은 바닥에 버리도록 되어있다. 꿍이 응시하지 않는 과목을 골라 뽑아내던 중 문득 궁금한게 생겼다. 만약 탐구영역 시험지가 아래와 같이&nbsp;전체 12쪽으로 되어 있었다고 하자.&nbsp;</p>
 
-<p><img src="%EB%B0%B1%EC%A4%80/Bronze/9437.%E2%80%85%EC%82%AC%EB%9D%BC%EC%A7%84%E2%80%85%ED%8E%98%EC%9D%B4%EC%A7%80%E2%80%85%EC%B0%BE%EA%B8%B0/28bd29a6.png" data-original-src="https://www.acmicpc.net/upload/images2/newspaper.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p><img src="%EB%B0%B1%EC%A4%80/Bronze/9437.%E2%80%85%EC%82%AC%EB%9D%BC%EC%A7%84%E2%80%85%ED%8E%98%EC%9D%B4%EC%A7%80%E2%80%85%EC%B0%BE%EA%B8%B0/28bd29a6.png" data-original-src="%EB%B0%B1%EC%A4%80/Bronze/9437.%E2%80%85%EC%82%AC%EB%9D%BC%EC%A7%84%E2%80%85%ED%8E%98%EC%9D%B4%EC%A7%80%E2%80%85%EC%B0%BE%EA%B8%B0/28bd29a6.png" data-original-src="https://www.acmicpc.net/upload/images2/newspaper.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>그렇다면 1쪽과 12쪽은 한 면에, 2쪽과 11쪽이 한면에, ... 6쪽과 7쪽이 한면에 인쇄되어 있고 1,2,11,12쪽이 한 장, 3,4,9,10쪽이 한 장, 5,6,7,8이 한 장 이다. 그래서 만약 꿍이 2쪽이 인쇄된 종이 한 장을 바닥에 버렸을 때, 그 종이에 인쇄된 나머지 쪽, 즉 사라진 페이지들은 1,11,12쪽이다.</p>
 

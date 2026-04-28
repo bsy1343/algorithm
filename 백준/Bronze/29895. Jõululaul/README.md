@@ -26,7 +26,7 @@
 
 <p>J&otilde;ulu <strong>neljandal</strong> p&auml;eval mu kallim saatis mul&#39; neli laulvat lindu, kolm kirjut kana, kaks turteltuvi ja faasani pirnipuu sees.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/29895.%E2%80%85J%C3%B5ululaul/d18b049d.png" data-original-src="https://upload.acmicpc.net/522d3983-b1c9-4104-9a31-faf2da133241/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 850px; height: 222px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/29895.%E2%80%85J%C3%B5ululaul/d18b049d.png" data-original-src="%EB%B0%B1%EC%A4%80/Bronze/29895.%E2%80%85J%C3%B5ululaul/d18b049d.png" data-original-src="https://upload.acmicpc.net/522d3983-b1c9-4104-9a31-faf2da133241/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 850px; height: 222px;" /></p>
 
 <p>Programmiharjutuste v&otilde;lumaal kestavad j&otilde;ulud $N$ p&auml;eva ja on olemas $N$ erinevat kingitust; t&auml;histame nad $A_1$, $A_2$, $\ldots$, $A_N$. J&otilde;ulu $k$-ndal p&auml;eval saadab kallim mulle &uuml;he $A_1$, kaks $A_2$, kolm $A_3$, $\dots$ ja $k$ $A_k$-te.</p>
 

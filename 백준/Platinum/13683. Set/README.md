@@ -22,7 +22,7 @@
 
 <p>Em (b), tanto as figuras quanto os numeros s&atilde;o diferentes para cada carta. Por outro lado, (c) n&atilde;o &eacute; um set, j&aacute; que as duas ultimas cartas t&ecirc;m a mesma figura, mas esta &eacute; diferente da figura da primeira carta.</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/13683.%E2%80%85Set/32365052.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/13683/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202017-01-12%20%EC%98%A4%EC%A0%84%207.55.16.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:149px; width:350px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/13683.%E2%80%85Set/32365052.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/13683.%E2%80%85Set/32365052.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/13683/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202017-01-12%20%EC%98%A4%EC%A0%84%207.55.16.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:149px; width:350px" /></p>
 
 <p>O objetivo do jogo &eacute; formar o maior n&uacute;mero de sets com as cartas que est&atilde;o na mesa; cada vez que um set &eacute; formado, as tr&ecirc;s cartas correspondentes s&atilde;o removidas de jogo.</p>
 

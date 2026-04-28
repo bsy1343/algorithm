@@ -18,7 +18,7 @@
 
 <p><em>카트라이더: 드리프트 </em>는 2023년 1월 12일에 출시한 넥슨의 캐주얼 레이싱 게임으로, 2004년에 출시하여 18년간 서비스한 <em>크레이지레이싱 카트라이더 </em>의 후속작이다. PC-콘솔-모바일의 크로스 플랫폼 플레이를 지원하며, 커스터마이징을 통해 나만의 카트바디와 개성 있는 캐릭터를 사용할 수 있는 것이 특징이다. 특히 기존 <em>카트라이더 </em>의 게임성을 계승하면서 더욱 뛰어난 그래픽을 자랑한다는 점에서 많은 관심을 받고 있다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/27522.%E2%80%85%EC%B9%B4%ED%8A%B8%EB%9D%BC%EC%9D%B4%EB%8D%94%3A%E2%80%85%EB%93%9C%EB%A6%AC%ED%94%84%ED%8A%B8/146e2022.png" data-original-src="https://upload.acmicpc.net/6f58a183-4600-4a46-bacf-0a4bb5a33223/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 281px; width: 500px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/27522.%E2%80%85%EC%B9%B4%ED%8A%B8%EB%9D%BC%EC%9D%B4%EB%8D%94%3A%E2%80%85%EB%93%9C%EB%A6%AC%ED%94%84%ED%8A%B8/146e2022.png" data-original-src="%EB%B0%B1%EC%A4%80/Bronze/27522.%E2%80%85%EC%B9%B4%ED%8A%B8%EB%9D%BC%EC%9D%B4%EB%8D%94%3A%E2%80%85%EB%93%9C%EB%A6%AC%ED%94%84%ED%8A%B8/146e2022.png" data-original-src="https://upload.acmicpc.net/6f58a183-4600-4a46-bacf-0a4bb5a33223/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 281px; width: 500px;" /></p>
 
 <p style="text-align: center;">그림 1. <em>카트라이더: 드리프트</em></p>
 
@@ -27,9 +27,9 @@
 <table align="center" border="1" cellpadding="1" cellspacing="1" class="table table-bordered" style="width: 550px;">
 	<tbody>
 		<tr>
-			<td style="text-align: center; vertical-align: middle; width: 275px;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/27522.%E2%80%85%EC%B9%B4%ED%8A%B8%EB%9D%BC%EC%9D%B4%EB%8D%94%3A%E2%80%85%EB%93%9C%EB%A6%AC%ED%94%84%ED%8A%B8/192ce39d.png" data-original-src="https://upload.acmicpc.net/ba882598-d3dc-49d2-a290-6e50e490fa23/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 208px; width: 300px;" /></td>
+			<td style="text-align: center; vertical-align: middle; width: 275px;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/27522.%E2%80%85%EC%B9%B4%ED%8A%B8%EB%9D%BC%EC%9D%B4%EB%8D%94%3A%E2%80%85%EB%93%9C%EB%A6%AC%ED%94%84%ED%8A%B8/192ce39d.png" data-original-src="%EB%B0%B1%EC%A4%80/Bronze/27522.%E2%80%85%EC%B9%B4%ED%8A%B8%EB%9D%BC%EC%9D%B4%EB%8D%94%3A%E2%80%85%EB%93%9C%EB%A6%AC%ED%94%84%ED%8A%B8/192ce39d.png" data-original-src="https://upload.acmicpc.net/ba882598-d3dc-49d2-a290-6e50e490fa23/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 208px; width: 300px;" /></td>
 			<td style="text-align: center; vertical-align: middle; width: 275px;">
-			<p><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/27522.%E2%80%85%EC%B9%B4%ED%8A%B8%EB%9D%BC%EC%9D%B4%EB%8D%94%3A%E2%80%85%EB%93%9C%EB%A6%AC%ED%94%84%ED%8A%B8/4aac6c82.png" data-original-src="https://upload.acmicpc.net/5e15f25a-371a-4008-9d1c-7fe4d6ea112f/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 182px; width: 330px;" /></p>
+			<p><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/27522.%E2%80%85%EC%B9%B4%ED%8A%B8%EB%9D%BC%EC%9D%B4%EB%8D%94%3A%E2%80%85%EB%93%9C%EB%A6%AC%ED%94%84%ED%8A%B8/4aac6c82.png" data-original-src="%EB%B0%B1%EC%A4%80/Bronze/27522.%E2%80%85%EC%B9%B4%ED%8A%B8%EB%9D%BC%EC%9D%B4%EB%8D%94%3A%E2%80%85%EB%93%9C%EB%A6%AC%ED%94%84%ED%8A%B8/4aac6c82.png" data-original-src="https://upload.acmicpc.net/5e15f25a-371a-4008-9d1c-7fe4d6ea112f/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 182px; width: 330px;" /></p>
 			</td>
 		</tr>
 		<tr>

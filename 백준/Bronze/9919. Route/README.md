@@ -20,7 +20,7 @@
 
 <p>Example 1. &nbsp;A simple 3-metre route is shown below. &nbsp;The heights are shown as &ldquo;poles&rdquo; in the diagram. &nbsp;The poles, from the starting point (Pole 1, which is also the ending point) in the jogging direction, are of heights 10, 20, and 30.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/9919.%E2%80%85Route/60bf763f.png" data-original-src="https://upload.acmicpc.net/434df341-c4e3-4d04-84a1-ced4dbbe6794/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 321px; height: 150px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/9919.%E2%80%85Route/60bf763f.png" data-original-src="%EB%B0%B1%EC%A4%80/Bronze/9919.%E2%80%85Route/60bf763f.png" data-original-src="https://upload.acmicpc.net/434df341-c4e3-4d04-84a1-ced4dbbe6794/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 321px; height: 150px;" /></p>
 
 <p>You may assume that the route between any two neighbouring poles is a straight line.</p>
 
@@ -30,19 +30,19 @@
 
 <p>Example 2. &nbsp;Consider the following jogging route with 6 poles:</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/9919.%E2%80%85Route/397d3a48.png" data-original-src="https://upload.acmicpc.net/e06d23ee-dc92-4e92-a474-241686dd2021/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 180px; height: 150px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/9919.%E2%80%85Route/397d3a48.png" data-original-src="%EB%B0%B1%EC%A4%80/Bronze/9919.%E2%80%85Route/397d3a48.png" data-original-src="https://upload.acmicpc.net/e06d23ee-dc92-4e92-a474-241686dd2021/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 180px; height: 150px;" /></p>
 
 <p>The only plain is Poles 4 to 5. &nbsp;The two up-slopes are Poles 1 to 3 and Poles 6 to 1. &nbsp;The two down-slopes are Poles 3 to 4 and Poles 5 to 6.</p>
 
 <p>Example 3. &nbsp;Now consider a 7-pole jogging route:</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/9919.%E2%80%85Route/cce37662.png" data-original-src="https://upload.acmicpc.net/a5b21a5c-836d-4b18-a353-93f04884a0eb/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 210px; height: 105px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/9919.%E2%80%85Route/cce37662.png" data-original-src="%EB%B0%B1%EC%A4%80/Bronze/9919.%E2%80%85Route/cce37662.png" data-original-src="https://upload.acmicpc.net/a5b21a5c-836d-4b18-a353-93f04884a0eb/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 210px; height: 105px;" /></p>
 
 <p>The three plains are Poles 1 to 2, Poles 3 to 4, and Poles 5 to 1. &nbsp;The only up-slope is Poles 2 to 3. &nbsp;The only down-slope is Poles 4 to 5.</p>
 
 <p>Example 4. &nbsp;The following is a 9-pole jogging route:</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/9919.%E2%80%85Route/2d283eeb.png" data-original-src="https://upload.acmicpc.net/211ddeff-0735-4d7e-a79c-29d39f1298c3/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 276px; height: 105px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/9919.%E2%80%85Route/2d283eeb.png" data-original-src="%EB%B0%B1%EC%A4%80/Bronze/9919.%E2%80%85Route/2d283eeb.png" data-original-src="https://upload.acmicpc.net/211ddeff-0735-4d7e-a79c-29d39f1298c3/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 276px; height: 105px;" /></p>
 
 <p>The only plain is Poles 9 to 1. &nbsp;The two up-slopes are Poles 1 to 3 and Poles 5 to 7. &nbsp;The two down-slopes are Poles 3 to 5 and Poles 7 to 9.</p>
 

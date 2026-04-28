@@ -48,4 +48,4 @@
 
 ### 힌트
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/11686.%E2%80%85Saint%E2%80%85John%E2%80%85Festival/6d5c1c62.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11686/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:290px; width:275px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/11686.%E2%80%85Saint%E2%80%85John%E2%80%85Festival/6d5c1c62.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/11686.%E2%80%85Saint%E2%80%85John%E2%80%85Festival/6d5c1c62.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11686/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:290px; width:275px" /></p>

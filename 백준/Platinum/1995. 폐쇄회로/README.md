@@ -21,9 +21,9 @@
 <table class="table table-bordered td-center">
 	<tbody>
 		<tr>
-			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/1995.%E2%80%85%ED%8F%90%EC%87%84%ED%9A%8C%EB%A1%9C/779668d5.png" data-original-src="https://upload.acmicpc.net/3d268f04-4456-474e-bfc3-303078709cf8/-/crop/638x622/0,0/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 205px; height: 200px;" /></td>
-			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/1995.%E2%80%85%ED%8F%90%EC%87%84%ED%9A%8C%EB%A1%9C/1aa6159b.png" data-original-src="https://upload.acmicpc.net/3d268f04-4456-474e-bfc3-303078709cf8/-/crop/638x622/782,0/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 205px; height: 200px;" /></td>
-			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/1995.%E2%80%85%ED%8F%90%EC%87%84%ED%9A%8C%EB%A1%9C/034676a0.png" data-original-src="https://upload.acmicpc.net/bef554a8-bae2-4627-aca2-f6c86e969e59/-/crop/633x622/446,0/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 204px; height: 200px;" /></td>
+			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/1995.%E2%80%85%ED%8F%90%EC%87%84%ED%9A%8C%EB%A1%9C/779668d5.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/1995.%E2%80%85%ED%8F%90%EC%87%84%ED%9A%8C%EB%A1%9C/779668d5.png" data-original-src="https://upload.acmicpc.net/3d268f04-4456-474e-bfc3-303078709cf8/-/crop/638x622/0,0/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 205px; height: 200px;" /></td>
+			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/1995.%E2%80%85%ED%8F%90%EC%87%84%ED%9A%8C%EB%A1%9C/1aa6159b.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/1995.%E2%80%85%ED%8F%90%EC%87%84%ED%9A%8C%EB%A1%9C/1aa6159b.png" data-original-src="https://upload.acmicpc.net/3d268f04-4456-474e-bfc3-303078709cf8/-/crop/638x622/782,0/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 205px; height: 200px;" /></td>
+			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/1995.%E2%80%85%ED%8F%90%EC%87%84%ED%9A%8C%EB%A1%9C/034676a0.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/1995.%E2%80%85%ED%8F%90%EC%87%84%ED%9A%8C%EB%A1%9C/034676a0.png" data-original-src="https://upload.acmicpc.net/bef554a8-bae2-4627-aca2-f6c86e969e59/-/crop/633x622/446,0/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 204px; height: 200px;" /></td>
 		</tr>
 		<tr>
 			<td>그림 1</td>
@@ -40,8 +40,8 @@
 <table class="table table-bordered td-center">
 	<tbody>
 		<tr>
-			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/1995.%E2%80%85%ED%8F%90%EC%87%84%ED%9A%8C%EB%A1%9C/03119f40.png" data-original-src="https://upload.acmicpc.net/95a1ec4a-313c-4e8e-ae6b-5f3d1029a30c/-/crop/632x622/0,0/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 203px; height: 200px;" /></td>
-			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/1995.%E2%80%85%ED%8F%90%EC%87%84%ED%9A%8C%EB%A1%9C/d2252dc8.png" data-original-src="https://upload.acmicpc.net/95a1ec4a-313c-4e8e-ae6b-5f3d1029a30c/-/crop/632x622/788,0/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 203px; height: 200px;" /></td>
+			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/1995.%E2%80%85%ED%8F%90%EC%87%84%ED%9A%8C%EB%A1%9C/03119f40.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/1995.%E2%80%85%ED%8F%90%EC%87%84%ED%9A%8C%EB%A1%9C/03119f40.png" data-original-src="https://upload.acmicpc.net/95a1ec4a-313c-4e8e-ae6b-5f3d1029a30c/-/crop/632x622/0,0/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 203px; height: 200px;" /></td>
+			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/1995.%E2%80%85%ED%8F%90%EC%87%84%ED%9A%8C%EB%A1%9C/d2252dc8.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/1995.%E2%80%85%ED%8F%90%EC%87%84%ED%9A%8C%EB%A1%9C/d2252dc8.png" data-original-src="https://upload.acmicpc.net/95a1ec4a-313c-4e8e-ae6b-5f3d1029a30c/-/crop/632x622/788,0/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 203px; height: 200px;" /></td>
 		</tr>
 		<tr>
 			<td>그림 4</td>

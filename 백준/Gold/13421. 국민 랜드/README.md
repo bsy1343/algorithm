@@ -18,7 +18,7 @@
 
 <p>국민대학교에서 학생들의 방학을 즐겁게 보낼 수 있는 놀이동산 국민 랜드를 만들기로 하였다. 현우는 국민 랜드의 총 책임자로써, 놀이동산을 재미있게 만들기 위해 국민대학교 지도에서 임의의 네 점을 잡고, 이 네 점으로 이루어지는 사각형을 국민 랜드의 면적으로 사용하고자 결정하였다. 아래는 현우가 고른 네 점의 예시이다.</p>
 
-<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/13421.%E2%80%85%EA%B5%AD%EB%AF%BC%E2%80%85%EB%9E%9C%EB%93%9C/aca92925.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/13421/i1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:177px; width:172px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/13421.%E2%80%85%EA%B5%AD%EB%AF%BC%E2%80%85%EB%9E%9C%EB%93%9C/aca92925.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/13421.%E2%80%85%EA%B5%AD%EB%AF%BC%E2%80%85%EB%9E%9C%EB%93%9C/aca92925.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/13421/i1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:177px; width:172px" /></p>
 
 <p>미적 요소를 중요하게 여긴 국민대학교에서는 현우의 제안을 거절하였다. 그리고 새로운 국민 랜드의 영역을 고르기 위한 조건을 추가하였다.</p>
 
@@ -26,7 +26,7 @@
 
 <p>현우는 이제 기존에 찍었던 4개의 점을 이동시켜 조건을 만족하는 새로운 국민 랜드의 영역을 고르려고 한다. 처음 찍었던 점에서 작업이 진행될 것으로 예상하고 각 점에 인력을 배치한 현우는, 새로 지정되는 좌표로 사람들을 이동시켜야 한다. 이때, 이동시키는 비용은 기존 좌표와 새로 지정되는 좌표를 연결하는 좌표의 맨해튼 거리(|x<sub>old</sub>&nbsp;- x<sub>new</sub>| + |y<sub>old</sub>&nbsp;- y<sub>new</sub>|)와 같다. 현우는 인력을 적절히 이동시켜 이동 비용이 최소화하는 지점을 국민 랜드의 영역으로 결정하기로 하였다. 아래 2개의 그림을 보자.</p>
 
-<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/13421.%E2%80%85%EA%B5%AD%EB%AF%BC%E2%80%85%EB%9E%9C%EB%93%9C/b11ddefb.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/13421/i2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:158px; width:162px" />&nbsp;<img alt="" src="%EB%B0%B1%EC%A4%80/Gold/13421.%E2%80%85%EA%B5%AD%EB%AF%BC%E2%80%85%EB%9E%9C%EB%93%9C/33b74c04.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/13421/i3.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/13421.%E2%80%85%EA%B5%AD%EB%AF%BC%E2%80%85%EB%9E%9C%EB%93%9C/b11ddefb.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/13421.%E2%80%85%EA%B5%AD%EB%AF%BC%E2%80%85%EB%9E%9C%EB%93%9C/b11ddefb.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/13421/i2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:158px; width:162px" />&nbsp;<img alt="" src="%EB%B0%B1%EC%A4%80/Gold/13421.%E2%80%85%EA%B5%AD%EB%AF%BC%E2%80%85%EB%9E%9C%EB%93%9C/33b74c04.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/13421.%E2%80%85%EA%B5%AD%EB%AF%BC%E2%80%85%EB%9E%9C%EB%93%9C/33b74c04.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/13421/i3.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>왼쪽 그림은 한 변의 길이가 8인 정사각형으로 계획을 변경한 모습이다. 이때, 검은 점(기존 좌표)에서 빨잔 점(새로운 좌표)로 인력을 이동시키는데 필요한 비용의 최솟값은 7이 된다. 하지만 만약 오른쪽 그림처럼 한 변의 길이가 10인 정사각형으로 계획을 변경한다면, 인력을 이동시키는데 필요한 비용의 최솟값은 3이 되고, 어떠한 크기의 정사각형으로 계획을 변경하더라도 필요한 비용의 최솟값은 3보다 작아지지 않는다. 위와 같은 방법으로 현우의 계획을 수정하여, 인력의 이동비용이 최소가 되는 국민 랜드의 한 변의 길이를 구하는 프로그램을 작성하시오. 만약 최소 비용이 같은 정사각형이 여러 개 존재한다면, 그 중에서 더 큰 정사각형으로 국민 랜드를 만들기로 한다.</p>
 

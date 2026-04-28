@@ -18,7 +18,7 @@
 
 <p>준겸이는 오락실에 가서 게임을 하는 것을 좋아한다. 그 중에서 준겸이가 특히 좋아하는 게임은, 바로 <strong>노브</strong>를 정확하게 돌리는 게임이다.&nbsp;</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/23756.%E2%80%85%EB%85%B8%EB%B8%8C%E2%80%85%EB%8F%8C%EB%A6%AC%EA%B8%B0/cf2f1d2a.png" data-original-src="https://upload.acmicpc.net/765742b3-157b-4e44-963f-6ab28d40bce3/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/23756.%E2%80%85%EB%85%B8%EB%B8%8C%E2%80%85%EB%8F%8C%EB%A6%AC%EA%B8%B0/cf2f1d2a.png" data-original-src="%EB%B0%B1%EC%A4%80/Bronze/23756.%E2%80%85%EB%85%B8%EB%B8%8C%E2%80%85%EB%8F%8C%EB%A6%AC%EA%B8%B0/cf2f1d2a.png" data-original-src="https://upload.acmicpc.net/765742b3-157b-4e44-963f-6ab28d40bce3/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>노브는 왼쪽 또는 오른쪽으로 돌려 조작할 수 있는 장치를 말한다. 일반적으로 볼륨을 조절할 때 자주 쓰인다. 만약 노브가 돌아가는 모습이 잘 상상이 가지 않는다면, 걸림 없이 계속 돌릴 수 있는 자동차 핸들을 상상해도 괜찮다.</p>
 

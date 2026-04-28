@@ -18,7 +18,7 @@
 
 <p>다각형의 삼각분할이란 다각형을 삼각형으로 나누는 꼭짓점을 연결하는 직선의 집합이다. 직선은 반드시 다각형 내부에 있어야 하며, 꼭짓점을 제외한 다른 곳에서 다른 직선과 교차하면 안 된다.&nbsp;</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/9474.%E2%80%85%EC%82%BC%EA%B0%81%E2%80%85%EB%B6%84%ED%95%A0%EA%B3%BC%E2%80%85%EC%82%BC%EA%B0%81%ED%98%95/253539ad.png" data-original-src="https://www.acmicpc.net/upload/images/triangula.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:233px; width:620px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/9474.%E2%80%85%EC%82%BC%EA%B0%81%E2%80%85%EB%B6%84%ED%95%A0%EA%B3%BC%E2%80%85%EC%82%BC%EA%B0%81%ED%98%95/253539ad.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/9474.%E2%80%85%EC%82%BC%EA%B0%81%E2%80%85%EB%B6%84%ED%95%A0%EA%B3%BC%E2%80%85%EC%82%BC%EA%B0%81%ED%98%95/253539ad.png" data-original-src="https://www.acmicpc.net/upload/images/triangula.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:233px; width:620px" /></p>
 
 <p>위의 그림에서 굵은 선은 다각형의 변을 나타내고, 가는 선은 삼각분할을 나타낸다. 꼭짓점이 n개인 다각형을 삼각분할하면 (n-2)개의 삼각형을 만들 수 있다.</p>
 

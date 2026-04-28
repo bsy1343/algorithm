@@ -42,6 +42,6 @@
 
 ### 힌트
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/31477.%E2%80%85%EC%96%91%EA%B0%88%EB%9E%98%E2%80%85%EA%B5%AC%ED%95%98%EA%B8%B0/4708d389.png" data-original-src="https://upload.acmicpc.net/18524a21-4776-49bf-adaa-71f5ab70697e/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/31477.%E2%80%85%EC%96%91%EA%B0%88%EB%9E%98%E2%80%85%EA%B5%AC%ED%95%98%EA%B8%B0/4708d389.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/31477.%E2%80%85%EC%96%91%EA%B0%88%EB%9E%98%E2%80%85%EA%B5%AC%ED%95%98%EA%B8%B0/4708d389.png" data-original-src="https://upload.acmicpc.net/18524a21-4776-49bf-adaa-71f5ab70697e/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>다음 그림에서 1과 2를 연결하는 덩굴, 3과 6을 연결하는 덩굴, 3과 7을 연결하는 덩굴을 자르면 총 3+1+2로 6의 힘이 최솟값이 된다.</p>

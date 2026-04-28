@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/13116.%E2%80%8530%EB%B2%88/fe1822f7.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/13116/image00.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:514px; width:423px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/13116.%E2%80%8530%EB%B2%88/fe1822f7.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/13116.%E2%80%8530%EB%B2%88/fe1822f7.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/13116/image00.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:514px; width:423px" /></p>
 
 <p>혹시 2007학년도 대학수학능력시험 수리영역 가형 이산수학 30번 문제를 아는가? 여러분은 수능을 치는 수험생의 마음으로 이 문제를 해결해야만 한다.</p>
 

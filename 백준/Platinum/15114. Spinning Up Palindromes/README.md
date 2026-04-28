@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/15114.%E2%80%85Spinning%E2%80%85Up%E2%80%85Palindromes/6ed63c57.png" data-original-src="https://upload.acmicpc.net/d0aa85d1-646b-42f0-908b-c45d459b98ee/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 247px; height: 100px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/15114.%E2%80%85Spinning%E2%80%85Up%E2%80%85Palindromes/6ed63c57.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/15114.%E2%80%85Spinning%E2%80%85Up%E2%80%85Palindromes/6ed63c57.png" data-original-src="https://upload.acmicpc.net/d0aa85d1-646b-42f0-908b-c45d459b98ee/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 247px; height: 100px;" /></p>
 
 <p>&quot;Sabotage!&quot; exclaimed J.R. Diddly, president and founder of Diddly Widgets Inc.</p>
 

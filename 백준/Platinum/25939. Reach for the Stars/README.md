@@ -20,11 +20,11 @@
 
 <p>You are given a star shaped stamp like the one below. The black area is covered in ink and the white area is not. When the stamp hits the paper, it leaves a mark for each cell of ink that hits the paper.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/25939.%E2%80%85Reach%E2%80%85for%E2%80%85the%E2%80%85Stars/adeb0e2d.png" data-original-src="https://upload.acmicpc.net/727f70ff-47ab-4523-9322-4c0b3a12401a/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 129px; height: 131px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/25939.%E2%80%85Reach%E2%80%85for%E2%80%85the%E2%80%85Stars/adeb0e2d.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/25939.%E2%80%85Reach%E2%80%85for%E2%80%85the%E2%80%85Stars/adeb0e2d.png" data-original-src="https://upload.acmicpc.net/727f70ff-47ab-4523-9322-4c0b3a12401a/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 129px; height: 131px;" /></p>
 
 <p>For example, the image below can be made with two stampings. Notice the stamp must always remain axis-aligned when hitting the paper. We also require that the stamp be completely contained within the paper. Note a cell of paper stamped once with black ink is indistinguishable from a cell of paper stamped multiple times with black ink. Note also that cells and stamp line up properly, i.e., a cell is either covered completely by the stamp or not covered at all, i.e., the stamp will not cover part of a cell.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/25939.%E2%80%85Reach%E2%80%85for%E2%80%85the%E2%80%85Stars/a11ae2c9.png" data-original-src="https://upload.acmicpc.net/3b226190-4cc9-4df0-ac87-b8797f02f1ad/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 237px; height: 147px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/25939.%E2%80%85Reach%E2%80%85for%E2%80%85the%E2%80%85Stars/a11ae2c9.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/25939.%E2%80%85Reach%E2%80%85for%E2%80%85the%E2%80%85Stars/a11ae2c9.png" data-original-src="https://upload.acmicpc.net/3b226190-4cc9-4df0-ac87-b8797f02f1ad/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 237px; height: 147px;" /></p>
 
 <p>Given a black and white image, determine the minimum number of times, if possible, you would need to stamp the paper with the star stamp to end up with the design specified.</p>
 

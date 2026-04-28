@@ -18,7 +18,7 @@
 
 <p>The All-Equal company has been tasked with placing towers on triangular plots so that the angles formed between the towers and the sides of the plots are equal. Given a triangle defined by points A, B and C, there are two such points - call them P and Q. There is one where angles PAB = PBC = PCA, and one where angles QBA = QCB = QAC.</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/4094.%E2%80%85Equal%E2%80%85Angles/7abc057e.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/4094/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:184px; width:591px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/4094.%E2%80%85Equal%E2%80%85Angles/7abc057e.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/4094.%E2%80%85Equal%E2%80%85Angles/7abc057e.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/4094/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:184px; width:591px" /></p>
 
 ### 입력
 

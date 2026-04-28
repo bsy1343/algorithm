@@ -18,7 +18,7 @@
 
 <p>We are playing a puzzle. An upright board with <i>H</i> rows by 5 columns of cells, as shown in the figure below, is used in this puzzle. A stone engraved with a digit, one of 1 through 9, is placed in each of the cells. When three or more stones in horizontally adjacent cells are engraved with the same digit, the stones will disappear. If there are stones in the cells above the cell with a disappeared stone, the stones in the above cells will drop down, filling the vacancy.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/10234.%E2%80%85Chain%E2%80%85Disappearance%E2%80%85Puzzle/fc17e9fc.png" data-original-src="https://upload.acmicpc.net/618a4b2a-61ae-4bd7-a867-6459641d734a/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 287px; height: 277px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/10234.%E2%80%85Chain%E2%80%85Disappearance%E2%80%85Puzzle/fc17e9fc.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/10234.%E2%80%85Chain%E2%80%85Disappearance%E2%80%85Puzzle/fc17e9fc.png" data-original-src="https://upload.acmicpc.net/618a4b2a-61ae-4bd7-a867-6459641d734a/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 287px; height: 277px;" /></p>
 
 <p>The puzzle proceeds taking the following steps.</p>
 
@@ -32,7 +32,7 @@
 
 <p>Write a program that calculates the score of given configurations of stones.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/10234.%E2%80%85Chain%E2%80%85Disappearance%E2%80%85Puzzle/afc62512.png" data-original-src="https://upload.acmicpc.net/34124431-67ee-4647-8c3d-d5e5bdccdad6/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 804px; height: 661px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/10234.%E2%80%85Chain%E2%80%85Disappearance%E2%80%85Puzzle/afc62512.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/10234.%E2%80%85Chain%E2%80%85Disappearance%E2%80%85Puzzle/afc62512.png" data-original-src="https://upload.acmicpc.net/34124431-67ee-4647-8c3d-d5e5bdccdad6/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 804px; height: 661px;" /></p>
 
 ### 입력
 

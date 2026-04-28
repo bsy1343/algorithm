@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/24790.%E2%80%85Robot%E2%80%85Turtles/2f41947c.png" data-original-src="https://upload.acmicpc.net/999c8635-19c4-4b11-b39a-63c0770b4ce8/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 300px; height: 303px; float: right;" />Robot Turtles is one of Theta&#39;s favorite games. In this game, kindergarteners learn how to &quot;code&quot; by creating programs that move a turtle from a starting field to a diamond. Robot Turtles is reportedly the most successful game funded by the Kickstarter incubator.</p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/24790.%E2%80%85Robot%E2%80%85Turtles/2f41947c.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/24790.%E2%80%85Robot%E2%80%85Turtles/2f41947c.png" data-original-src="https://upload.acmicpc.net/999c8635-19c4-4b11-b39a-63c0770b4ce8/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 300px; height: 303px; float: right;" />Robot Turtles is one of Theta&#39;s favorite games. In this game, kindergarteners learn how to &quot;code&quot; by creating programs that move a turtle from a starting field to a diamond. Robot Turtles is reportedly the most successful game funded by the Kickstarter incubator.</p>
 
 <p>Players must develop a program consisting of &quot;instructions&quot; that brings a turtle from a starting location to a goal (a diamond). &nbsp;An adult will then &quot;execute&quot; this program by moving the turtle based on the given instructions.</p>
 

@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><a href="https://en.wikipedia.org/wiki/Matryoshka_doll#/media/File:Matryoshka_transparent.png"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/23845.%E2%80%85%EB%A7%88%ED%8A%B8%EB%A3%8C%EC%8B%9C%EC%B9%B4/e16072e1.png" data-original-src="https://upload.acmicpc.net/e6b74707-802e-4062-9849-f3b1b4f55496/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 311px; height: 200px;" /></a></p>
+<p style="text-align: center;"><a href="https://en.wikipedia.org/wiki/Matryoshka_doll#/media/File:Matryoshka_transparent.png"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/23845.%E2%80%85%EB%A7%88%ED%8A%B8%EB%A3%8C%EC%8B%9C%EC%B9%B4/e16072e1.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/23845.%E2%80%85%EB%A7%88%ED%8A%B8%EB%A3%8C%EC%8B%9C%EC%B9%B4/e16072e1.png" data-original-src="https://upload.acmicpc.net/e6b74707-802e-4062-9849-f3b1b4f55496/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 311px; height: 200px;" /></a></p>
 
 <p>인형 수집가 하령이에게는<em> N</em>개의 속이 비어있는 인형이 있다. 각각의 인형은 크기는&nbsp;<em>X<sub>i</sub></em>이다.</p>
 

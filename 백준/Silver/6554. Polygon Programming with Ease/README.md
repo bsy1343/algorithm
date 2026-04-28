@@ -30,4 +30,4 @@
 
 <p>The relationship between the sample input and output polygons is illustrated in the figure below. Solid lines indicate the polygon joining the Foreign Offices, whereas dashed lines indicate the polygon joining the meeting locations. To generate further sample input you may use your solution to Problem 6553.</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/6554.%E2%80%85Polygon%E2%80%85Programming%E2%80%85with%E2%80%85Ease/4643742a.gif" data-original-src="https://www.acmicpc.net/upload/images2/ease.gif" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:254px; width:391px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/6554.%E2%80%85Polygon%E2%80%85Programming%E2%80%85with%E2%80%85Ease/4643742a.gif" data-original-src="%EB%B0%B1%EC%A4%80/Silver/6554.%E2%80%85Polygon%E2%80%85Programming%E2%80%85with%E2%80%85Ease/4643742a.gif" data-original-src="https://www.acmicpc.net/upload/images2/ease.gif" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:254px; width:391px" /></p>

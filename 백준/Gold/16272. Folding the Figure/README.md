@@ -24,7 +24,7 @@
 
 <p>Consider for example the second sample test. It has a folded figure that is similar to an upside-down &quot;U&quot; letter, the original figure contains 12 squares. One way the original figure could look like is shown at the picture, it was folded along a line y&thinsp;=&thinsp;3:</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/16272.%E2%80%85Folding%E2%80%85the%E2%80%85Figure/9982ed8e.png" data-original-src="https://upload.acmicpc.net/0a971c68-7fe2-4f2d-8e15-e746aaeb9654/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 256px; height: 305px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/16272.%E2%80%85Folding%E2%80%85the%E2%80%85Figure/9982ed8e.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/16272.%E2%80%85Folding%E2%80%85the%E2%80%85Figure/9982ed8e.png" data-original-src="https://upload.acmicpc.net/0a971c68-7fe2-4f2d-8e15-e746aaeb9654/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 256px; height: 305px;" /></p>
 
 ### 입력
 

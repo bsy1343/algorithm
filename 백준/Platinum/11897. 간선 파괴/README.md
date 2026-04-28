@@ -20,17 +20,17 @@
 
 <p>참고: 여기서 무향 그래프가 간선으로 서로 연결되지 않은 몇 개의 그룹으로 나뉘어 있을 때, 각 연결된 정점들의 부분집합을 컴포넌트라고 합니다. 예로 들어, 아래 [그림 1]에서는 {1,2,5,8}, {3}, {4,6,7}이 각각 하나의 컴포넌트를 이루고 있습니다. [그림 2]와 같이 그래프 전체가 하나의 컴포넌트로 구성되어 있을 수도 있습니다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/11897.%E2%80%85%EA%B0%84%EC%84%A0%E2%80%85%ED%8C%8C%EA%B4%B4/fcc2b121.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11897/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:169px; width:541px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/11897.%E2%80%85%EA%B0%84%EC%84%A0%E2%80%85%ED%8C%8C%EA%B4%B4/fcc2b121.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/11897.%E2%80%85%EA%B0%84%EC%84%A0%E2%80%85%ED%8C%8C%EA%B4%B4/fcc2b121.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11897/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:169px; width:541px" /></p>
 
 <p>승현이는 당연히 문제를 보자마자 코딩을 시작하여 DFS를 사용한 올바른 코드를 작성했지만 0점을 받았습니다. 승현이의 선생님께서 코드를 보고 &quot;재귀 함수를 사용했다&quot;면서 채점조차 하지 않았기 때문입니다.(?) 화가 난 승현이는 주어진 그래프에서 <code>l</code>,&nbsp;<code>l+1</code>,&nbsp;<code>l+2</code>, ...,&nbsp;<code>r-1</code>,&nbsp;<code>r</code>번 간선들을 <code>destroy(l, r)</code> 함수로 파괴하기 시작합니다. (번호가 연속적인 이유는 파괴하기 편해서라고 합니다.)</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/11897.%E2%80%85%EA%B0%84%EC%84%A0%E2%80%85%ED%8C%8C%EA%B4%B4/300baf26.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11897/2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:188px; width:576px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/11897.%E2%80%85%EA%B0%84%EC%84%A0%E2%80%85%ED%8C%8C%EA%B4%B4/300baf26.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/11897.%E2%80%85%EA%B0%84%EC%84%A0%E2%80%85%ED%8C%8C%EA%B4%B4/300baf26.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11897/2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:188px; width:576px" /></p>
 
 <p style="text-align: center;">[그림 3] 위 그림에서 간선 위에 쓰인 빨간색 번호는 그 간선의 번호를 의미합니다. 승현이가 <code>destroy(3, 5)</code>를 호출하여 3, 4, 5번 간선이 파괴되었습니다.</p>
 
 <p>그러나 승현이보다 유능한 프로그래머인 여러분은 재귀 함수를 이용하지 않고 컴포넌트의 수를 구할 수 있기 때문에, 간선이 파괴된 그래프의 컴포넌트 수를 구한 뒤 <code>recover(l, r)</code> 함수를 호출해 파괴된 <code>l</code>, <code>l+1</code>, <code>l+2</code>, ..., <code>r-1</code>, <code>r</code>번 간선들을 복구하여 승현이를 약올리고자 합니다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/11897.%E2%80%85%EA%B0%84%EC%84%A0%E2%80%85%ED%8C%8C%EA%B4%B4/62f0b666.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11897/3.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:208px; width:589px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/11897.%E2%80%85%EA%B0%84%EC%84%A0%E2%80%85%ED%8C%8C%EA%B4%B4/62f0b666.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/11897.%E2%80%85%EA%B0%84%EC%84%A0%E2%80%85%ED%8C%8C%EA%B4%B4/62f0b666.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11897/3.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:208px; width:589px" /></p>
 
 <p style="text-align: center;">[그림 4] 위 그림에서 여러분은 파괴된 그래프의 컴포넌트 수(2)를 구한 뒤 <code>recover(3, 5)</code> 함수를 호출하여 간선을 복원했습니다.</p>
 

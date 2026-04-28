@@ -44,6 +44,6 @@
 
 ### 힌트
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/20879.%E2%80%85Armst%C3%B6d/44552f98.png" data-original-src="https://upload.acmicpc.net/65ef158d-1f72-4cb0-94bf-fac107f3c4fa/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 220px; height: 226px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/20879.%E2%80%85Armst%C3%B6d/44552f98.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/20879.%E2%80%85Armst%C3%B6d/44552f98.png" data-original-src="https://upload.acmicpc.net/65ef158d-1f72-4cb0-94bf-fac107f3c4fa/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 220px; height: 226px;" /></p>
 
 <p style="text-align: center;">Figuren visar l&ouml;sningen till exempel 1. De tjocka linjerna markerar armar som personer lagt p&aring; armst&ouml;den. Den gr&aring; f&auml;rgen visar vilka som f&aring;tt sina preferenser uppfyllda. Pilen markerar var den givna indatastr&auml;ngen b&ouml;rjar och slutar.</p>

@@ -20,7 +20,7 @@
 
 <p>To grow her business, Ellie wants to start offering parcel pickup too. However, the mayor of Grid City recently decided that all streets will be one-way streets during the day to combat traffic jams. During this time, the streets of Grid City can only be passed from north to south or west to east, respectively.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/25251.%E2%80%85Grid%E2%80%85Delivery/154e6672.png" data-original-src="https://upload.acmicpc.net/5107fc45-6699-4fd6-be25-49722f7d8176/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 290px; height: 137px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/25251.%E2%80%85Grid%E2%80%85Delivery/154e6672.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/25251.%E2%80%85Grid%E2%80%85Delivery/154e6672.png" data-original-src="https://upload.acmicpc.net/5107fc45-6699-4fd6-be25-49722f7d8176/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 290px; height: 137px;" /></p>
 
 <p style="text-align: center;">Figure G.1: Visualization of the grid of one-way streets given in the first sample input.</p>
 

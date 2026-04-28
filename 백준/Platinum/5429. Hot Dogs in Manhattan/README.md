@@ -47,4 +47,4 @@
 
 <p>These sample cases are illustrated below. Only for the first case, the optimal placement of the two new stands is given (indicated by the dashed outlines).</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/5429.%E2%80%85Hot%E2%80%85Dogs%E2%80%85in%E2%80%85Manhattan/09d88096.png" data-original-src="https://www.acmicpc.net/upload/images2/hotdog.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:512px; width:555px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/5429.%E2%80%85Hot%E2%80%85Dogs%E2%80%85in%E2%80%85Manhattan/09d88096.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/5429.%E2%80%85Hot%E2%80%85Dogs%E2%80%85in%E2%80%85Manhattan/09d88096.png" data-original-src="https://www.acmicpc.net/upload/images2/hotdog.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:512px; width:555px" /></p>

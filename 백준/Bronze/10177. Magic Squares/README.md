@@ -18,7 +18,7 @@
 
 <p>A magic square is an arrangement of integers in a square grid, where the numbers in each row, and in each column, and the numbers on each main diagonal, all add up to the same value. A magic square has the same number of rows and columns and we will let m represent the size (number of rows and columns) of the magic square. Thus, a magic square of size m will have a total of m<sup>2</sup> integers. The following is a magic square with m=3.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/10177.%E2%80%85Magic%E2%80%85Squares/56edea3c.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/10177/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:147px; width:207px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/10177.%E2%80%85Magic%E2%80%85Squares/56edea3c.png" data-original-src="%EB%B0%B1%EC%A4%80/Bronze/10177.%E2%80%85Magic%E2%80%85Squares/56edea3c.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/10177/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:147px; width:207px" /></p>
 
 <p>You will write a program that will determine if an mxm square is a magic square.</p>
 

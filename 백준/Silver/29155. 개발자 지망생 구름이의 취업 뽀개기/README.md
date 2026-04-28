@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/29155.%E2%80%85%EA%B0%9C%EB%B0%9C%EC%9E%90%E2%80%85%EC%A7%80%EB%A7%9D%EC%83%9D%E2%80%85%EA%B5%AC%EB%A6%84%EC%9D%B4%EC%9D%98%E2%80%85%EC%B7%A8%EC%97%85%E2%80%85%EB%BD%80%EA%B0%9C%EA%B8%B0/9c0a048a.png" data-original-src="https://upload.acmicpc.net/634620e5-9f24-4d79-a57b-c0928adc6132/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/29155.%E2%80%85%EA%B0%9C%EB%B0%9C%EC%9E%90%E2%80%85%EC%A7%80%EB%A7%9D%EC%83%9D%E2%80%85%EA%B5%AC%EB%A6%84%EC%9D%B4%EC%9D%98%E2%80%85%EC%B7%A8%EC%97%85%E2%80%85%EB%BD%80%EA%B0%9C%EA%B8%B0/9c0a048a.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/29155.%E2%80%85%EA%B0%9C%EB%B0%9C%EC%9E%90%E2%80%85%EC%A7%80%EB%A7%9D%EC%83%9D%E2%80%85%EA%B5%AC%EB%A6%84%EC%9D%B4%EC%9D%98%E2%80%85%EC%B7%A8%EC%97%85%E2%80%85%EB%BD%80%EA%B0%9C%EA%B8%B0/9c0a048a.png" data-original-src="https://upload.acmicpc.net/634620e5-9f24-4d79-a57b-c0928adc6132/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>구름 LEVEL은 코딩 테스트를 처음 준비하는 취업 준비생들을 위한 다양한 서비스와 콘텐츠를 제공하는 구름의 서비스이다. 취업 준비를 하는 개발자 지망생 구름이는 구름 LEVEL에서 제공하는 알고리즘 문제들을 풀어보려고 계획 중이다.</p>
 

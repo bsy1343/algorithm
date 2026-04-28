@@ -18,7 +18,7 @@
 
 <p>당신은 집으로 가는 도중 복잡한 교차로를 만났다! 이 교차로에는 사람이 지나갈 수 있는 $N$ 개의 지역이 있고 그 지역 사이를 잇는 몇 개의 횡단보도가 있다. 모든 지역은 횡단보도를 통해 직, 간접적으로 연결되어 있다. 편의상 $N$ 개의 지역을 $1$부터 $N$까지로 번호를 붙이자.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/24042.%E2%80%85%ED%9A%A1%EB%8B%A8%EB%B3%B4%EB%8F%84/8902a539.png" data-original-src="https://upload.acmicpc.net/c391ed29-127c-4269-9886-aae70100f77d/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 100%; max-width: 720px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/24042.%E2%80%85%ED%9A%A1%EB%8B%A8%EB%B3%B4%EB%8F%84/8902a539.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/24042.%E2%80%85%ED%9A%A1%EB%8B%A8%EB%B3%B4%EB%8F%84/8902a539.png" data-original-src="https://upload.acmicpc.net/c391ed29-127c-4269-9886-aae70100f77d/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 100%; max-width: 720px;" /></p>
 
 <p>당신은 이미 멀리서 교차로의 신호를 분석했기 때문에 횡단보도에 파란불이 들어오는 순서를 알고 있다. 횡단보도의 주기는 총 $M$ 분이며 $1$분마다 신호가 바뀐다. 각 주기의 $1+i (0 \le i &lt; M)$ 번째 신호는 $i, M+i, 2M+i, 3M+i, \cdots$ 분에 시작해서 $1$분 동안 $A_i$번 지역과 $B_i$번 지역을 잇는 횡단보도에 파란불이 들어오고, 다른 모든 횡단보도에는 빨간불이 들어온다. 한 주기 동안 같은 횡단보도에 파란불이 여러 번 들어올 수 있다.</p>
 

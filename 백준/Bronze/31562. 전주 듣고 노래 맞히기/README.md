@@ -18,7 +18,7 @@
 
 <p>윤수와 정환은 「전주 듣고 노래 맞히기」라는 게임을 할 예정이다. 「전주 듣고 노래 맞히기」는 주어진 노래의 전주를 듣고 먼저 제목을 맞히는 사람이 점수를 얻어 최종적으로 점수가 더 많은 사람이 이기는 게임이다. 절대 음감을 가진 윤수는 노래의 첫 네 음만 듣고도 어떤 노래든 바로 맞힐 수 있다. 따라서, 정환은 윤수를 이기기 위해 첫 세 음만으로 노래를 맞히게 해주는 프로그램을 만들려고 한다. 우선 정환이 알고 있는 노래 제목, 음이름 등을 데이터로 만든 뒤 프로그램을 구현하기 시작했다. 예를 들어, 다음은 <span style="color:#e74c3c;"><code>TwinkleStar</code></span>(반짝반짝 작은 별)의 악보 중 일부이다.</p>
 
-<p style="text-align: center;"><code><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/31562.%E2%80%85%EC%A0%84%EC%A3%BC%E2%80%85%EB%93%A3%EA%B3%A0%E2%80%85%EB%85%B8%EB%9E%98%E2%80%85%EB%A7%9E%ED%9E%88%EA%B8%B0/4cd52b54.png" data-original-src="https://upload.acmicpc.net/42349570-4719-4239-968b-f1704537e702/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 137px; width: 594px;" /></code></p>
+<p style="text-align: center;"><code><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/31562.%E2%80%85%EC%A0%84%EC%A3%BC%E2%80%85%EB%93%A3%EA%B3%A0%E2%80%85%EB%85%B8%EB%9E%98%E2%80%85%EB%A7%9E%ED%9E%88%EA%B8%B0/4cd52b54.png" data-original-src="%EB%B0%B1%EC%A4%80/Bronze/31562.%E2%80%85%EC%A0%84%EC%A3%BC%E2%80%85%EB%93%A3%EA%B3%A0%E2%80%85%EB%85%B8%EB%9E%98%E2%80%85%EB%A7%9E%ED%9E%88%EA%B8%B0/4cd52b54.png" data-original-src="https://upload.acmicpc.net/42349570-4719-4239-968b-f1704537e702/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 137px; width: 594px;" /></code></p>
 
 <p>위 악보를 박자와 관계없이 음이름으로 표현하면 <span style="color:#e74c3c;"><code>CCGGAAG</code></span>가 된다.</p>
 

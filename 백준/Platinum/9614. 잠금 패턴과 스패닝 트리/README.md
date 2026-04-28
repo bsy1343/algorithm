@@ -20,7 +20,7 @@
 
 <p>상현이가 만들 앱의 잠금 패턴의 크기는 2&times;2부터 m&times;m까지로 다양하며, 항상 인접한 노드만 연결할 수 있다. 잠금 패턴은 그래프로 나타낼 수 있다. 아래 그림은 2&times;2, 3&times;3, 4&times;4 잠금 패턴을 그래프로 나타낸 것이다. 꼭짓점에 해당하는 정점은 총 3개와 연결되어 있고, 나머지 정점은 최대 8개와 연결될 수도 있다. 항상 아래 그림과 같이 인접한 점과만 연결할 수 있다.</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/9614.%E2%80%85%EC%9E%A0%EA%B8%88%E2%80%85%ED%8C%A8%ED%84%B4%EA%B3%BC%E2%80%85%EC%8A%A4%ED%8C%A8%EB%8B%9D%E2%80%85%ED%8A%B8%EB%A6%AC/dd8a7b8b.png" data-original-src="https://www.acmicpc.net/upload/images/securespanning.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/9614.%E2%80%85%EC%9E%A0%EA%B8%88%E2%80%85%ED%8C%A8%ED%84%B4%EA%B3%BC%E2%80%85%EC%8A%A4%ED%8C%A8%EB%8B%9D%E2%80%85%ED%8A%B8%EB%A6%AC/dd8a7b8b.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/9614.%E2%80%85%EC%9E%A0%EA%B8%88%E2%80%85%ED%8C%A8%ED%84%B4%EA%B3%BC%E2%80%85%EC%8A%A4%ED%8C%A8%EB%8B%9D%E2%80%85%ED%8A%B8%EB%A6%AC/dd8a7b8b.png" data-original-src="https://www.acmicpc.net/upload/images/securespanning.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>잠금 패턴은 항상 스패닝 트리를 이루어야 한다. 스패닝 트리는 그래프 상의 간선의 집합으로, 닫힌 루프를 포함하지 않아야 한다. 또, 임의의 두 점 사이의 경로가 존재해야 하고, 모든 m<sup>2</sup> = n개의 정점과 n-1개의 edge로 이루어져 있어야 한다. 잠금 패턴 상에서 스패닝 트리는 여러 가지 경우가 나올 수 있다.</p>
 
@@ -67,4 +67,4 @@
 
 <p>m = 2인 경우 아래와 같이 16가지 경우가 있다.</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/9614.%E2%80%85%EC%9E%A0%EA%B8%88%E2%80%85%ED%8C%A8%ED%84%B4%EA%B3%BC%E2%80%85%EC%8A%A4%ED%8C%A8%EB%8B%9D%E2%80%85%ED%8A%B8%EB%A6%AC/6eabc0a4.png" data-original-src="https://www.acmicpc.net/upload/images/securexm.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:389px; width:533px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/9614.%E2%80%85%EC%9E%A0%EA%B8%88%E2%80%85%ED%8C%A8%ED%84%B4%EA%B3%BC%E2%80%85%EC%8A%A4%ED%8C%A8%EB%8B%9D%E2%80%85%ED%8A%B8%EB%A6%AC/6eabc0a4.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/9614.%E2%80%85%EC%9E%A0%EA%B8%88%E2%80%85%ED%8C%A8%ED%84%B4%EA%B3%BC%E2%80%85%EC%8A%A4%ED%8C%A8%EB%8B%9D%E2%80%85%ED%8A%B8%EB%A6%AC/6eabc0a4.png" data-original-src="https://www.acmicpc.net/upload/images/securexm.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:389px; width:533px" /></p>

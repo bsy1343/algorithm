@@ -43,4 +43,4 @@
 
 ### 힌트
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/7994.%E2%80%85The%E2%80%85Islands/7eeba739.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/7994/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:191px; width:250px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/7994.%E2%80%85The%E2%80%85Islands/7eeba739.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/7994.%E2%80%85The%E2%80%85Islands/7eeba739.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/7994/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:191px; width:250px" /></p>

@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/29713.%E2%80%85%EB%B8%8C%EC%8B%A4%EC%9D%B4%EC%9D%98%E2%80%85%EB%9D%A0%EB%B6%80%EB%9D%A0%EB%B6%80%EC%94%B0%E2%80%85%EC%BB%AC%EB%A0%89%EC%85%98%E2%80%85%F0%9F%8D%AA/f1681dec.png" data-original-src="https://upload.acmicpc.net/8dd922e4-0fc1-420e-b802-42dd6ed3d1e3/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="max-width: 100%; height: 229px; width: 400px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/29713.%E2%80%85%EB%B8%8C%EC%8B%A4%EC%9D%B4%EC%9D%98%E2%80%85%EB%9D%A0%EB%B6%80%EB%9D%A0%EB%B6%80%EC%94%B0%E2%80%85%EC%BB%AC%EB%A0%89%EC%85%98%E2%80%85%F0%9F%8D%AA/f1681dec.png" data-original-src="%EB%B0%B1%EC%A4%80/Bronze/29713.%E2%80%85%EB%B8%8C%EC%8B%A4%EC%9D%B4%EC%9D%98%E2%80%85%EB%9D%A0%EB%B6%80%EB%9D%A0%EB%B6%80%EC%94%B0%E2%80%85%EC%BB%AC%EB%A0%89%EC%85%98%E2%80%85%F0%9F%8D%AA/f1681dec.png" data-original-src="https://upload.acmicpc.net/8dd922e4-0fc1-420e-b802-42dd6ed3d1e3/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="max-width: 100%; height: 229px; width: 400px;" /></p>
 
 <p>이 세상에서 두 번째로 맛있는 과자 브실칩이 있다.</p>
 

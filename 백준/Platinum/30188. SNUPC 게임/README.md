@@ -37,7 +37,7 @@
 
 <p>기하를 지지하는 부원이 먼저 행동을 시작할 때, 승리하는 부원을 출력하라. 만약 영원히 승부가 끝나지 않는다면, 게임 이론이 최고의 알고리즘이라고 생각하는 한별이가 승리하게 된다!</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/30188.%E2%80%85SNUPC%E2%80%85%EA%B2%8C%EC%9E%84/080d39fc.png" data-original-src="https://upload.acmicpc.net/5184732d-802c-46c1-b542-b15e706cb64d/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/30188.%E2%80%85SNUPC%E2%80%85%EA%B2%8C%EC%9E%84/080d39fc.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/30188.%E2%80%85SNUPC%E2%80%85%EA%B2%8C%EC%9E%84/080d39fc.png" data-original-src="https://upload.acmicpc.net/5184732d-802c-46c1-b542-b15e706cb64d/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 ### 입력
 

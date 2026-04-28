@@ -18,7 +18,7 @@
 
 <p>네모는 뿌&times;&times;&times; 게임에 깊은 감명을 받아, 직사각형 모양의 격자판과 &ldquo;넴모&rdquo;라는 수수께끼의 생물을 이용하는 &ldquo;넴모넴모&rdquo;라는 게임을 만들었다. 이 게임의 규칙은 아주 간단하다. 격자판의 비어 있는 칸을 임의로 골라 &ldquo;넴모&rdquo;를 하나 올려놓거나, &ldquo;넴모&rdquo;가 올라간 칸 네 개가 2 &times; 2 사각형을 이루는 부분을 찾아 그 위에 있는 &ldquo;넴모&rdquo;들을 모두 없애는 것을 질릴 때까지 반복하면 된다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/14712.%E2%80%85%EB%84%B4%EB%AA%A8%EB%84%B4%EB%AA%A8%E2%80%85(Easy)/19a28274.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14700/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:98px; width:476px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/14712.%E2%80%85%EB%84%B4%EB%AA%A8%EB%84%B4%EB%AA%A8%E2%80%85(Easy)/19a28274.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/14712.%E2%80%85%EB%84%B4%EB%AA%A8%EB%84%B4%EB%AA%A8%E2%80%85(Easy)/19a28274.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14700/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:98px; width:476px" /></p>
 
 <p>하지만 안타깝게도 게임은 정말 재미가 없었고, 네모는 아주 빨리 질려 버리고 말았다. 실망한 네모는 게임을 적당히 플레이하다가, &ldquo;넴모&rdquo;를 없애고 싶은데 격자판 위에 없앨 수 있는 &ldquo;넴모&rdquo;가 없으면 게임을 그만두기로 했다. 네모가 게임을 그만두었을 때 나올 수 있는 &ldquo;넴모&rdquo;의 배치의 가짓수를 구하여라.</p>
 

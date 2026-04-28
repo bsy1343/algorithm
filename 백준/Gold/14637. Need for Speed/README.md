@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/14637.%E2%80%85Need%E2%80%85for%E2%80%85Speed/80ba12a3.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14637/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="float:right; height:186px; width:224px" />Sheila is a student and she drives a typical student car: it is old, slow, rusty, and falling apart. Recently, the needle on the speedometer fell off. She glued it back on, but she might have placed it at the wrong angle. Thus, when the speedometer reads s, her true speed is s + c, where c is an unknown constant (possibly negative).</p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/14637.%E2%80%85Need%E2%80%85for%E2%80%85Speed/80ba12a3.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/14637.%E2%80%85Need%E2%80%85for%E2%80%85Speed/80ba12a3.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14637/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="float:right; height:186px; width:224px" />Sheila is a student and she drives a typical student car: it is old, slow, rusty, and falling apart. Recently, the needle on the speedometer fell off. She glued it back on, but she might have placed it at the wrong angle. Thus, when the speedometer reads s, her true speed is s + c, where c is an unknown constant (possibly negative).</p>
 
 <p>Sheila made a careful record of a recent journey and wants to use this to compute c. The journey consisted of n segments. In the i<sup>th</sup> segment she traveled a distance of d<sub>i</sub> and the speedometer read s<sub>i</sub> for the entire segment. This whole journey took time t. Help Sheila by computing c.</p>
 

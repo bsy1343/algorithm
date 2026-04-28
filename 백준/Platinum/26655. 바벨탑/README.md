@@ -18,7 +18,7 @@
 
 <p>바벨은 헬스장에서 흔히 볼 수 있는 운동기구이다. 바벨은 바벨 봉과 바벨 원판으로 이루어져 있으며, 봉의 양쪽에 다양한 무게의 원판을 여러 개 끼워서 무게를 조절할 수 있다. 경기북과학고등학교 헬스장에는 $20$kg의 바벨 봉 하나와 $5$kg, $10$kg, $15$kg, $20$kg 네 종류의 무한히 많은 바벨 원판이 비치되어 있다. </p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/26655.%E2%80%85%EB%B0%94%EB%B2%A8%ED%83%91/0743440a.png" data-original-src="https://upload.acmicpc.net/50b5401f-4693-4147-beb9-63e10214e778/-/crop/958x599/0,0/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 250px; width: 400px; margin: 10px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/26655.%E2%80%85%EB%B0%94%EB%B2%A8%ED%83%91/0743440a.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/26655.%E2%80%85%EB%B0%94%EB%B2%A8%ED%83%91/0743440a.png" data-original-src="https://upload.acmicpc.net/50b5401f-4693-4147-beb9-63e10214e778/-/crop/958x599/0,0/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 250px; width: 400px; margin: 10px;" /></p>
 
 <p>바벨을 이용해서 운동할 때는 아래와 같은 규칙을 지켜야 한다.</p>
 
@@ -28,7 +28,7 @@
 	<li>바벨의 양쪽에는 항상 좌우 대칭으로 원판을 끼워야 한다.</li>
 </ul>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/26655.%E2%80%85%EB%B0%94%EB%B2%A8%ED%83%91/3dd3133f.png" data-original-src="https://upload.acmicpc.net/5ff70609-1012-4658-9af4-bb811631c933/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 400px; height: 97px; margin-top: 30px; margin-bottom: 30px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/26655.%E2%80%85%EB%B0%94%EB%B2%A8%ED%83%91/3dd3133f.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/26655.%E2%80%85%EB%B0%94%EB%B2%A8%ED%83%91/3dd3133f.png" data-original-src="https://upload.acmicpc.net/5ff70609-1012-4658-9af4-bb811631c933/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 400px; height: 97px; margin-top: 30px; margin-bottom: 30px;" /></p>
 
 <p style="text-align: center;">$5$kg, $10$kg, $20$kg 원판을 두 개씩 끼워 만든 올바른 $90$kg 바벨의 예시</p>
 

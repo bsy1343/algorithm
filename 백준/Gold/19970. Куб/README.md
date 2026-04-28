@@ -18,7 +18,7 @@
 
 <p>Одним из самых простых геометрических тел является куб. Обозначим четыре вершины нижней грани куба в порядке обхода как $A$, $B$, $C$ и $D$, а четыре вершины верхней грани куба, находящиеся над ними, как $A_1$, $B_1$, $C_1$ и $D_1$, соответственно.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/19970.%E2%80%85%D0%9A%D1%83%D0%B1/bb55d7a8.png" data-original-src="https://upload.acmicpc.net/b6c60509-3171-4f48-b7cf-060e216bfd23/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 215px; height: 217px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/19970.%E2%80%85%D0%9A%D1%83%D0%B1/bb55d7a8.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/19970.%E2%80%85%D0%9A%D1%83%D0%B1/bb55d7a8.png" data-original-src="https://upload.acmicpc.net/b6c60509-3171-4f48-b7cf-060e216bfd23/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 215px; height: 217px;" /></p>
 
 <p>Машу с Пашей заинтересовал вопрос: при каких условиях отрезки, концы которых находятся в вершинах куба, пересекаются. Помогите им это выяснить.</p>
 

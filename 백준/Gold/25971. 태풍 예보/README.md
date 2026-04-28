@@ -22,7 +22,7 @@
 
 <p>태풍이 이동하고 있을 때 태풍 위치를 중심으로 하는 원의 왼쪽 반원을 안전 반원이라고 하고 오른쪽을 위험 반원이라고 한다. 안전, 위험반원은 원의 둘레를 포함한다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/25971.%E2%80%85%ED%83%9C%ED%92%8D%E2%80%85%EC%98%88%EB%B3%B4/ccc1eebd.png" data-original-src="https://upload.acmicpc.net/e3f359e5-b989-4c4e-bf22-6d0d95b1bd8a/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 394px; height: 167px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/25971.%E2%80%85%ED%83%9C%ED%92%8D%E2%80%85%EC%98%88%EB%B3%B4/ccc1eebd.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/25971.%E2%80%85%ED%83%9C%ED%92%8D%E2%80%85%EC%98%88%EB%B3%B4/ccc1eebd.png" data-original-src="https://upload.acmicpc.net/e3f359e5-b989-4c4e-bf22-6d0d95b1bd8a/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 394px; height: 167px;" /></p>
 
 <p>만약 태풍이 어떤 관측일에 방향을 바꿨을 경우 그 관측일부터 방향이 바뀐 것으로로 취급한다. gori가 $N$일동안 관측한 태풍 좌표 $K$개, 태풍의 반지름 $R$이 주어지고 $Q$개의 날짜와 사람 위치 좌표 $(j, x_j, y_j)$가 주어진다. 이는 $j$번째 일에 사람이 $(x_j,y_j)$에 위치해 있다는 뜻이다. 사람 위치 좌표는 크게 네 가지로 구분할 수 있다.</p>
 

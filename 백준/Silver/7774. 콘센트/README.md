@@ -45,6 +45,6 @@
 
 ### 힌트
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/7774.%E2%80%85%EC%BD%98%EC%84%BC%ED%8A%B8/f810caba.png" data-original-src="https://www.acmicpc.net/upload/images/socket.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:108px; width:252px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/7774.%E2%80%85%EC%BD%98%EC%84%BC%ED%8A%B8/f810caba.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/7774.%E2%80%85%EC%BD%98%EC%84%BC%ED%8A%B8/f810caba.png" data-original-src="https://www.acmicpc.net/upload/images/socket.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:108px; width:252px" /></p>
 
 <p>예제의 경우 위와 같이 꽂으면 컴퓨터 5개를 사용할 수 있다.</p>

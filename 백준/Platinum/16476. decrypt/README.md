@@ -18,7 +18,7 @@
 
 <p>There is a rumor that the Scientific Committee is using a special device for encrypting their communication. If you can crack the encryption you could listen to the problems they have prepared and score many points. Last night you got lucky: one of the members forgot their device in a bar. You opened it and looked at the general design:</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/16476.%E2%80%85decrypt/8b9f6afb.png" data-original-src="https://upload.acmicpc.net/dd440796-2792-4657-9a7e-d2e672599ad3/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 204px; height: 114px; float: right;" />All the operations use 8 bits. XOR is the bitwise exclusive or function (the ^ operator in C, xor operator in Pascal).</p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/16476.%E2%80%85decrypt/8b9f6afb.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/16476.%E2%80%85decrypt/8b9f6afb.png" data-original-src="https://upload.acmicpc.net/dd440796-2792-4657-9a7e-d2e672599ad3/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 204px; height: 114px; float: right;" />All the operations use 8 bits. XOR is the bitwise exclusive or function (the ^ operator in C, xor operator in Pascal).</p>
 
 <p>R is a sequence of pseudorandom numbers defined as follows:</p>
 

@@ -18,17 +18,17 @@
 
 <p>친한 친구 민형이와 선율이가 재미있는 게임을 한다. 게임은 아래와 같이 $N$개의 버튼과 $N-1$개의 전구가 있는 게임판에서 이루어진다. 여기서 $N$은 항상 짝수이다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/31584.%E2%80%85Bulb%E2%80%85Game/21caf21c.png" data-original-src="https://upload.acmicpc.net/6f1ce0e4-af6f-4559-8671-806ad2aa553c/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 132px; width: 800px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/31584.%E2%80%85Bulb%E2%80%85Game/21caf21c.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/31584.%E2%80%85Bulb%E2%80%85Game/21caf21c.png" data-original-src="https://upload.acmicpc.net/6f1ce0e4-af6f-4559-8671-806ad2aa553c/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 132px; width: 800px;" /></p>
 
 <p>게임은 민형이와 선율이가 번갈아 버튼을 누르는 방식으로 진행된다. 매 순간마다, 민형이와 선율이는 이때까지 눌리지 않은 버튼 중에서 하나를 골라 누른다. 선율이가 버튼을 누르면 민형이가 방금 전에 눌렀던 버튼과 선율이가 누른 버튼 사이에 있는 모든 전구의 상태가 바뀐다. (꺼져있는 전구는 켜지고, 켜있는 전구는 꺼진다.)</p>
 
 <p>처음에는 모든 전구가 꺼져있다. 이 상태에서 민형이가 2번째 버튼을 누르고 선율이가 4번째 버튼을 누르면 게임판의 상태가 아래와 같이 바뀐다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/31584.%E2%80%85Bulb%E2%80%85Game/a2dab85b.png" data-original-src="https://upload.acmicpc.net/205050c4-0d5f-4a04-8312-c9ee92974732/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 132px; width: 800px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/31584.%E2%80%85Bulb%E2%80%85Game/a2dab85b.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/31584.%E2%80%85Bulb%E2%80%85Game/a2dab85b.png" data-original-src="https://upload.acmicpc.net/205050c4-0d5f-4a04-8312-c9ee92974732/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 132px; width: 800px;" /></p>
 
 <p>여기에서 민형이가 3번째 버튼을 누르고 선율이가 5번째 버튼을 누르면 게임판의 상태가 아래와 같이 바뀐다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/31584.%E2%80%85Bulb%E2%80%85Game/49bc3e71.png" data-original-src="https://upload.acmicpc.net/11218f95-9161-4929-9220-1633e83f29de/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 132px; width: 800px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/31584.%E2%80%85Bulb%E2%80%85Game/49bc3e71.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/31584.%E2%80%85Bulb%E2%80%85Game/49bc3e71.png" data-original-src="https://upload.acmicpc.net/11218f95-9161-4929-9220-1633e83f29de/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 132px; width: 800px;" /></p>
 
 <p>민형이와 선율이가 $N$개의 버튼을 모두 누르면 게임이 끝난다. 게임이 끝난 후, 켜진 전구가 꺼진 전구보다 더 많으면 선율이가 이기고, 그 이외에는 민형이가 이긴다.</p>
 

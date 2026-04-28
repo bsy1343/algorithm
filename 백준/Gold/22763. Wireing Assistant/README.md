@@ -21,7 +21,7 @@
 <pre style="text-align: center;">
 0 0 1 0  4 0 4 6  0 5 5 5  8 2 8 6  6 4 6 7  7 6 7 8  2 6 5 6  7 8 9 8</pre>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/22763.%E2%80%85Wireing%E2%80%85Assistant/8e7b66fb.png" data-original-src="https://upload.acmicpc.net/17998ece-e354-48f2-8e39-3b3ddc377a60/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 441px; height: 226px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/22763.%E2%80%85Wireing%E2%80%85Assistant/8e7b66fb.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/22763.%E2%80%85Wireing%E2%80%85Assistant/8e7b66fb.png" data-original-src="https://upload.acmicpc.net/17998ece-e354-48f2-8e39-3b3ddc377a60/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 441px; height: 226px;" /></p>
 
 <p style="text-align: center;">Figure 3: An Example Situation</p>
 

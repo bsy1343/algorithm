@@ -16,9 +16,9 @@
 
 ### 문제 설명
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/11112.%E2%80%85Eight%E2%80%85puzzle/0bf45bec.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11112/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="float:right; height:141px; width:106px" />You just got your sweet little brother Erling an entertaining puzzle. It is a 3 x 3 board with eight quadratic pieces, where you can slide a piece into the open slot. After rearranging the pieces randomly, the goal of the game is to get the board into the configuration</p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/11112.%E2%80%85Eight%E2%80%85puzzle/0bf45bec.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/11112.%E2%80%85Eight%E2%80%85puzzle/0bf45bec.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11112/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="float:right; height:141px; width:106px" />You just got your sweet little brother Erling an entertaining puzzle. It is a 3 x 3 board with eight quadratic pieces, where you can slide a piece into the open slot. After rearranging the pieces randomly, the goal of the game is to get the board into the configuration</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/11112.%E2%80%85Eight%E2%80%85puzzle/ac51635e.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11112/2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:72px; width:86px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/11112.%E2%80%85Eight%E2%80%85puzzle/ac51635e.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/11112.%E2%80%85Eight%E2%80%85puzzle/ac51635e.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11112/2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:72px; width:86px" /></p>
 
 <p>by sliding pieces one by one.</p>
 

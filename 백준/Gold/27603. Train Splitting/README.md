@@ -51,12 +51,12 @@
 
 <p>In the <strong>first test case</strong>, the output is illustrated in the following picture, where different colors correspond to different companies (blue for 1, red for 2, green for 3, and yellow for 4):</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/27603.%E2%80%85Train%E2%80%85Splitting/9709c697.png" data-original-src="https://upload.acmicpc.net/747301f9-8671-4185-8f9b-bdedeb0cdfc4/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 194px; height: 129px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/27603.%E2%80%85Train%E2%80%85Splitting/9709c697.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/27603.%E2%80%85Train%E2%80%85Splitting/9709c697.png" data-original-src="https://upload.acmicpc.net/747301f9-8671-4185-8f9b-bdedeb0cdfc4/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 194px; height: 129px;" /></p>
 
 <p>If we consider, for example, only companies $2$ and $3$, we can see that from any city it is possible to reach every other city (picture on the left below). However, if we restrict to company $2$ alone, it becomes impossible to reach city $5$ from city $1$ (picture on the right).</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/27603.%E2%80%85Train%E2%80%85Splitting/c1daab85.png" data-original-src="https://upload.acmicpc.net/4fa61bc7-6d36-4512-9310-d3515ecf0b2b/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 425px; height: 129px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/27603.%E2%80%85Train%E2%80%85Splitting/c1daab85.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/27603.%E2%80%85Train%E2%80%85Splitting/c1daab85.png" data-original-src="https://upload.acmicpc.net/4fa61bc7-6d36-4512-9310-d3515ecf0b2b/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 425px; height: 129px;" /></p>
 
 <p>In the <strong>second test case</strong>, the output is illustrated in the following picture:</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/27603.%E2%80%85Train%E2%80%85Splitting/cf326fe3.png" data-original-src="https://upload.acmicpc.net/8e0de716-6309-4716-9dae-d7f145c17f5d/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 89px; height: 92px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/27603.%E2%80%85Train%E2%80%85Splitting/cf326fe3.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/27603.%E2%80%85Train%E2%80%85Splitting/cf326fe3.png" data-original-src="https://upload.acmicpc.net/8e0de716-6309-4716-9dae-d7f145c17f5d/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 89px; height: 92px;" /></p>

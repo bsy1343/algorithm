@@ -24,7 +24,7 @@
 
 <p>예를 들어 아파트가 총 12층이고, 엘리베이터가 3대 있으며, 각 엘리베이터가 다음과 같이 운행한다고 하자.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/2593.%E2%80%85%EC%97%98%EB%A6%AC%EB%B2%A0%EC%9D%B4%ED%84%B0/c224dac4.png" data-original-src="https://upload.acmicpc.net/a0617d48-a453-4e8c-aea0-df73223a8e09/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 267px; height: 209px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/2593.%E2%80%85%EC%97%98%EB%A6%AC%EB%B2%A0%EC%9D%B4%ED%84%B0/c224dac4.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/2593.%E2%80%85%EC%97%98%EB%A6%AC%EB%B2%A0%EC%9D%B4%ED%84%B0/c224dac4.png" data-original-src="https://upload.acmicpc.net/a0617d48-a453-4e8c-aea0-df73223a8e09/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 267px; height: 209px;" /></p>
 
 <p>10층에서 8층으로 가기 위해서는 1번 - 2번 - 3번 엘리베이터를 차례로 탈 수도 있고, 1번 - 3번 엘리베이터를 탈 수도 있다. 어떤 방법이든 최소 두 번 엘리베이터를 타야한다.</p>
 

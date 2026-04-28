@@ -22,7 +22,7 @@
 
 <p>$A$와 $B$를 표현할 때 각 자리의 수는 ASCII 순서대로 배치하는데, $0$은 $33$번에 해당하는 문자인 <span data-darkreader-inline-color="" style="color: rgb(231, 76, 60); --darkreader-inline-color: #e95849;"><code>!</code></span>로, $1$은 $34$번에 해당하는 문자인 <span data-darkreader-inline-color="" style="color: rgb(231, 76, 60); --darkreader-inline-color: #e95849;"><code>&quot;</code></span>로, ..., $i$는 $33+i$번에 해당하는 문자로 표현한다. 음수를 표현하는 문자는 <span data-darkreader-inline-color="" style="color: rgb(231, 76, 60); --darkreader-inline-color: #e95849;"><code>~</code></span>(ASCII 코드 $126$번)로 $N$이 양수일 때만, 맨 앞 글자에 최대 한 번 나타난다.</p>
 
-<p style="display:flex;flex-direction:row;justify-content:center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/31500.%E2%80%85N%EC%A7%84%EC%88%98%E2%80%85%EA%B3%B1%EC%85%88%E2%80%85(tiny)/6392469f.png" data-original-src="https://upload.acmicpc.net/ee57228d-0139-45f4-bd9a-dcbea16aa710/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 720px; height: 407px;" /></p>
+<p style="display:flex;flex-direction:row;justify-content:center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/31500.%E2%80%85N%EC%A7%84%EC%88%98%E2%80%85%EA%B3%B1%EC%85%88%E2%80%85(tiny)/6392469f.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/31500.%E2%80%85N%EC%A7%84%EC%88%98%E2%80%85%EA%B3%B1%EC%85%88%E2%80%85(tiny)/6392469f.png" data-original-src="https://upload.acmicpc.net/ee57228d-0139-45f4-bd9a-dcbea16aa710/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 720px; height: 407px;" /></p>
 
 <p style="display:flex;flex-direction:row;justify-content:center;">각 자리를 표기하기 위한 ASCII 문자 대응표</p>
 

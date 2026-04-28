@@ -31,7 +31,7 @@ Sphinny, a passionate contestant, is looking at her calendar of the year and dis
 
 <p>The picture below depicts a calendar with 5 months, 8 days in each month, 15 blue days, and 5 question marks.</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/12669.%E2%80%85The%E2%80%85Year%E2%80%85of%E2%80%85Code%E2%80%85Jam%E2%80%85(Small)/1d90c752.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/12669/images-12.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/12669.%E2%80%85The%E2%80%85Year%E2%80%85of%E2%80%85Code%E2%80%85Jam%E2%80%85(Small)/1d90c752.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/12669.%E2%80%85The%E2%80%85Year%E2%80%85of%E2%80%85Code%E2%80%85Jam%E2%80%85(Small)/1d90c752.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/12669/images-12.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>Looking at her beautiful calendar, Sphinny has decided that each day has up to 4&nbsp;<strong>neighbors</strong>&nbsp;in the year: The previous day in the same month, the next day in the same month, the same day in the previous month, and the same day in the next month.</p>
 
@@ -48,7 +48,7 @@ Sphinny, a passionate contestant, is looking at her calendar of the year and dis
 
 <p>The following picture shows a solution for the example above. By changing two question marks to blue days, and the other three to white days, she can achieve a happiness value of 42.</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/12669.%E2%80%85The%E2%80%85Year%E2%80%85of%E2%80%85Code%E2%80%85Jam%E2%80%85(Small)/d22de514.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/12669/images-13.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:204px; width:293px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/12669.%E2%80%85The%E2%80%85Year%E2%80%85of%E2%80%85Code%E2%80%85Jam%E2%80%85(Small)/d22de514.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/12669.%E2%80%85The%E2%80%85Year%E2%80%85of%E2%80%85Code%E2%80%85Jam%E2%80%85(Small)/d22de514.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/12669/images-13.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:204px; width:293px" /></p>
 
 ### 입력
 

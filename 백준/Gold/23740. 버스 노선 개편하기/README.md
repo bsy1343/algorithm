@@ -20,7 +20,7 @@
 
 <p>각 버스 노선은 세 정수 $S$, $E$, $C$로 나타낼 수 있으며, 구간 $[S,E]$를 요금 $C$로 운행한다는 뜻이다. 어떤 두 버스 노선의 구간이 한 점 이상에서 겹친다면, 두 구간을 합친 새 노선으로 대체한다. 이때 요금은 더 낮은 금액의 요금을 따르기로 했다. 버스 노선 개편은 구간이 겹치는 버스 노선이 없을 때까지 진행한다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/23740.%E2%80%85%EB%B2%84%EC%8A%A4%E2%80%85%EB%85%B8%EC%84%A0%E2%80%85%EA%B0%9C%ED%8E%B8%ED%95%98%EA%B8%B0/1d406a7b.png" data-original-src="https://upload.acmicpc.net/e45a1d9d-b939-4c30-9292-a36372119a5b/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 640px; max-width: 100%;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/23740.%E2%80%85%EB%B2%84%EC%8A%A4%E2%80%85%EB%85%B8%EC%84%A0%E2%80%85%EA%B0%9C%ED%8E%B8%ED%95%98%EA%B8%B0/1d406a7b.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/23740.%E2%80%85%EB%B2%84%EC%8A%A4%E2%80%85%EB%85%B8%EC%84%A0%E2%80%85%EA%B0%9C%ED%8E%B8%ED%95%98%EA%B8%B0/1d406a7b.png" data-original-src="https://upload.acmicpc.net/e45a1d9d-b939-4c30-9292-a36372119a5b/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 640px; max-width: 100%;" /></p>
 
 <p style="text-align: center;">그림 D.1: 개편 전과 개편 후의 버스 노선도</p>
 

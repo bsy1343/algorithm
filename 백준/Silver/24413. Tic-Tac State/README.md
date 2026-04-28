@@ -18,7 +18,7 @@
 
 <p>Congratulations! You are starting your internship for the famous digital archaeologist, Endiana Jones. You have been assigned to evaluate the results of saved games of a 1980&rsquo;s version of Tic-Tac-Toe. In those days, programmers had very little storage, so they saved game state as compactly as possible. In this case, the state was in a 32-bit register. Bits $0$ &minus; $8$ stored the positions that had been played and bits $9$ &minus; $17$ indicated an X or O. A set bit (1 bit) indicated a played position for bits $0$ &minus; $8$ or that X played for bits $9$ &minus; $17$. Bit $18$ indicated the next player to play. (Bits are numbered from right to left, starting at the least-significant bit.) If bit $18$ is set (is $1$), it is X&rsquo;s turn to play next. Visually the bits were laid out as shown in Figure M.1:</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/24413.%E2%80%85Tic-Tac%E2%80%85State/144d7fba.png" data-original-src="https://upload.acmicpc.net/c5d96ac7-6aa2-4b4d-a8ef-208064ce79de/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 458px; height: 146px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/24413.%E2%80%85Tic-Tac%E2%80%85State/144d7fba.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/24413.%E2%80%85Tic-Tac%E2%80%85State/144d7fba.png" data-original-src="https://upload.acmicpc.net/c5d96ac7-6aa2-4b4d-a8ef-208064ce79de/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 458px; height: 146px;" /></p>
 
 <p style="text-align: center;">Figure M.1: Bits in a game state</p>
 

@@ -27,8 +27,8 @@
 <table class="table table-bordered td-center th-center">
 	<tbody>
 		<tr>
-			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/7003.%E2%80%85Checker%E2%80%85Board/66733039.png" data-original-src="https://upload.acmicpc.net/29bcfd75-f92c-49b3-879f-73f30cba6764/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 209px; height: 75px;" /></td>
-			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/7003.%E2%80%85Checker%E2%80%85Board/5c1eff0b.png" data-original-src="https://upload.acmicpc.net/66eab842-cdf2-42e0-a97a-4c80e7953269/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 212px; height: 72px;" /></td>
+			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/7003.%E2%80%85Checker%E2%80%85Board/66733039.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/7003.%E2%80%85Checker%E2%80%85Board/66733039.png" data-original-src="https://upload.acmicpc.net/29bcfd75-f92c-49b3-879f-73f30cba6764/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 209px; height: 75px;" /></td>
+			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/7003.%E2%80%85Checker%E2%80%85Board/5c1eff0b.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/7003.%E2%80%85Checker%E2%80%85Board/5c1eff0b.png" data-original-src="https://upload.acmicpc.net/66eab842-cdf2-42e0-a97a-4c80e7953269/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 212px; height: 72px;" /></td>
 		</tr>
 	</tbody>
 	<tfoot>

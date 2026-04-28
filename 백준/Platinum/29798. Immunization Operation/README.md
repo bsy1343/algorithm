@@ -26,7 +26,7 @@
 
 <p>The following picture illustrates one possible scenario (Sample Case #1 below). The smiley face represents the initial position of the robot, and the long black line is the street. The marks above the line are the pickup locations and the marks below are the delivery locations. Finally, the arrows below represent the moves the robot makes, in order from top to bottom, labeled with how many deliveries are completed during the move.</p>
 
-<p style="text-align:center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/29798.%E2%80%85Immunization%E2%80%85Operation/8b668b96.png" data-original-src="https://upload.acmicpc.net/5ba556d5-9b6a-4ca3-9e3c-42c5afeb76e5/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p style="text-align:center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/29798.%E2%80%85Immunization%E2%80%85Operation/8b668b96.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/29798.%E2%80%85Immunization%E2%80%85Operation/8b668b96.png" data-original-src="https://upload.acmicpc.net/5ba556d5-9b6a-4ca3-9e3c-42c5afeb76e5/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>This is what happens during each move, in order:</p>
 

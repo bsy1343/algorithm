@@ -22,7 +22,7 @@
 
 <p>만약 오리가 소리를 낸 $X_i$초부터 $X_i+K$초 사이에 한 번도 박수를 쳐주지 않는다면 실망한 오리는 집으로 가버린다. 예를 들어 $K=2, X_i = 5$라면 $5$초, $6$초, $7$초 중 최소 한번은 박수를 쳐야 한다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/30404.%E2%80%85%EC%98%A4%EB%A6%AC%EC%99%80%E2%80%85%EB%B0%95%EC%88%98%EC%B9%98%EB%8A%94%E2%80%85%EC%B6%98%EB%B0%B0/9931ba50.png" data-original-src="https://upload.acmicpc.net/031290c4-91ee-47fe-91c5-329304c5b191/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/30404.%E2%80%85%EC%98%A4%EB%A6%AC%EC%99%80%E2%80%85%EB%B0%95%EC%88%98%EC%B9%98%EB%8A%94%E2%80%85%EC%B6%98%EB%B0%B0/9931ba50.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/30404.%E2%80%85%EC%98%A4%EB%A6%AC%EC%99%80%E2%80%85%EB%B0%95%EC%88%98%EC%B9%98%EB%8A%94%E2%80%85%EC%B6%98%EB%B0%B0/9931ba50.png" data-original-src="https://upload.acmicpc.net/031290c4-91ee-47fe-91c5-329304c5b191/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p style="text-align: center;">&lt;박수를 치는 춘배의 모습&gt;</p>
 

@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/15407.%E2%80%85How%E2%80%85to%E2%80%85Eat%E2%80%85at%E2%80%85a%E2%80%85Buffet/433d2f38.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15407/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:194px; width:267px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/15407.%E2%80%85How%E2%80%85to%E2%80%85Eat%E2%80%85at%E2%80%85a%E2%80%85Buffet/433d2f38.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/15407.%E2%80%85How%E2%80%85to%E2%80%85Eat%E2%80%85at%E2%80%85a%E2%80%85Buffet/433d2f38.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15407/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:194px; width:267px" /></p>
 
 <p>Instead of a seated meal, some restaurants offer all-you-can-eat buffet lunches and dinners. This is usually a bargain for famished students. Alice likes such buffet meals, but is always worried about how best to fill her plate with food. She values the n different items on the menu differently, and her goal is to have as much value as she can on her plate, constrained by the limited area of the plate and the limited availability of some menu items. Luckily, items on the menu are easily dividable and Alice can take an arbitrary fraction of each dish. Can you help her fill her plate?</p>
 

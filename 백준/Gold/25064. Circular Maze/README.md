@@ -18,7 +18,7 @@
 
 <p>You are given a circular maze such as the ones shown in the figures.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/25064.%E2%80%85Circular%E2%80%85Maze/d75b9a89.png" data-original-src="https://upload.acmicpc.net/7882e477-57ff-4850-926c-d7dc9ae2ea2c/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 352px; height: 166px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/25064.%E2%80%85Circular%E2%80%85Maze/d75b9a89.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/25064.%E2%80%85Circular%E2%80%85Maze/d75b9a89.png" data-original-src="https://upload.acmicpc.net/7882e477-57ff-4850-926c-d7dc9ae2ea2c/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 352px; height: 166px;" /></p>
 
 <p>Determine if it can be solved, i.e., if there is a path which goes from the center to the outside of the maze which does not touch any wall. The maze is described by $n$ walls. Each wall can be either circular or straight.</p>
 

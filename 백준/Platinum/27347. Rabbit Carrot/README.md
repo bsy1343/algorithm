@@ -18,7 +18,7 @@
 
 <p>Rabbit called Carrot is willing to cross the bridge. The bridge consists of $N$ poles of different height. Carrot can jump at most $M$ centimeters up and any distance down.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/27347.%E2%80%85Rabbit%E2%80%85Carrot/51d97b1d.png" data-original-src="https://upload.acmicpc.net/bfe1fd0c-f169-4416-8e59-cda1e423cc8a/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 288px; height: 152px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/27347.%E2%80%85Rabbit%E2%80%85Carrot/51d97b1d.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/27347.%E2%80%85Rabbit%E2%80%85Carrot/51d97b1d.png" data-original-src="https://upload.acmicpc.net/bfe1fd0c-f169-4416-8e59-cda1e423cc8a/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 288px; height: 152px;" /></p>
 
 <p>The rabbit starts crossing the bridge from the left and is standing at height zero immediately before the first pole. The goal of the Carrot is to reach the other side of the bridge by jumping on each pole in order.</p>
 

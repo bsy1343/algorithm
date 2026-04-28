@@ -40,6 +40,6 @@
 
 ### 힌트
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/26885.%E2%80%85Hesthoppning/570b7448.png" data-original-src="https://upload.acmicpc.net/c4ae7f87-840c-43db-b0dd-c0373eb0d175/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 150px; height: 150px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/26885.%E2%80%85Hesthoppning/570b7448.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/26885.%E2%80%85Hesthoppning/570b7448.png" data-original-src="https://upload.acmicpc.net/c4ae7f87-840c-43db-b0dd-c0373eb0d175/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 150px; height: 150px;" /></p>
 
 <p style="text-align: center;">En illustration av Sample Input 2 som visar hur Pascal kan hoppa f&ouml;r att n&aring; Hsara.</p>

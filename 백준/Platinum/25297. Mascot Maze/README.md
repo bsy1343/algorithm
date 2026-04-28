@@ -20,7 +20,7 @@
 
 <p>The park&#39;s only attraction is a maze that has a set of $\mathbf{N}$ rooms numbered from $1$ to $\mathbf{N}$. Each room has a left exit and a right exit. Each exit takes the visitor to another room. Exits cannot be used in reverse; for example, if room $2$ has an exit to room $3$, you cannot go back from room $3$ to room $2$ unless room $3$ also happens to have an exit to room $2$.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/25297.%E2%80%85Mascot%E2%80%85Maze/6de4a3c0.png" data-original-src="https://upload.acmicpc.net/bf737dca-d77d-4259-8626-61a0eddb36f6/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/25297.%E2%80%85Mascot%E2%80%85Maze/6de4a3c0.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/25297.%E2%80%85Mascot%E2%80%85Maze/6de4a3c0.png" data-original-src="https://upload.acmicpc.net/bf737dca-d77d-4259-8626-61a0eddb36f6/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>We want to place exactly one of our $13$ mascots in each room. Each letter may be present in zero, one, or more rooms of the maze. To increase variety, we want to place mascots so that any three (not necessarily distinct) rooms that a visitor can visit consecutively have three different mascots.</p>
 
@@ -47,7 +47,7 @@
 
 <p>Sample Case #2 has the following layout (blue arrows represent the left exits and red arrows represent the right exits):</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/25297.%E2%80%85Mascot%E2%80%85Maze/2b4a14d9.png" data-original-src="https://upload.acmicpc.net/c5f4b04a-4038-466c-9b4e-ebd7e11a3340/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/25297.%E2%80%85Mascot%E2%80%85Maze/2b4a14d9.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/25297.%E2%80%85Mascot%E2%80%85Maze/2b4a14d9.png" data-original-src="https://upload.acmicpc.net/c5f4b04a-4038-466c-9b4e-ebd7e11a3340/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>One of many valid answers is to assign mascots as indicated. Notice that although we do not need to assign two <code>T</code> mascots in this case, we have done so in a way that does not break the rules.</p>
 

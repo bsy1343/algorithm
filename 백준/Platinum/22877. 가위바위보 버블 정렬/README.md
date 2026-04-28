@@ -26,7 +26,7 @@
 	<li>&#39;보&#39;가 그려진 카드는 &#39;바위&#39;가 그려진 카드를 이긴다.</li>
 </ul>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/22877.%E2%80%85%EA%B0%80%EC%9C%84%EB%B0%94%EC%9C%84%EB%B3%B4%E2%80%85%EB%B2%84%EB%B8%94%E2%80%85%EC%A0%95%EB%A0%AC/756be443.png" data-original-src="https://upload.acmicpc.net/2a2c18a7-6768-43a0-8a21-29a3a57efaa8/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 450px; height: 258px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/22877.%E2%80%85%EA%B0%80%EC%9C%84%EB%B0%94%EC%9C%84%EB%B3%B4%E2%80%85%EB%B2%84%EB%B8%94%E2%80%85%EC%A0%95%EB%A0%AC/756be443.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/22877.%E2%80%85%EA%B0%80%EC%9C%84%EB%B0%94%EC%9C%84%EB%B3%B4%E2%80%85%EB%B2%84%EB%B8%94%E2%80%85%EC%A0%95%EB%A0%AC/756be443.png" data-original-src="https://upload.acmicpc.net/2a2c18a7-6768-43a0-8a21-29a3a57efaa8/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 450px; height: 258px;" /></p>
 
 <p>계산이 아주 빠른 이환이는 이 놀이를 무려 $T$번이나 했다! 피곤해진 이환이는 내일 이 놀이를 계속하기로 하고 잠을 자러 가려고 했으나, 카드 위를 지나가다 그만 카드들이 뒤섞여 버렸다. 이환이는 뛰어난 기억력을 가진 천재이기 때문에 맨 처음 카드들의 배열을 기억해 냈지만, 마지막 카드 배열은 기억하지 못했다. 놀이를 $T$번 한 후의 배열을 복원해서 이환이를 도와 주자.</p>
 

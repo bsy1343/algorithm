@@ -28,7 +28,7 @@
 
 <p>논리 연산자는 &#39;진리표&#39;로써 정의할 수 있다. 이 진리표는 단항 연산자의 경우 1차원, 이항 연산자의 경우 2차원이다. 예를 들어, 다음 그림을 보자.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/1901.%E2%80%85%EB%85%BC%EB%A6%AC%EC%8B%9D/39ef504b.png" data-original-src="https://upload.acmicpc.net/0b4a9a58-7f6a-47ca-9568-522930c5b45b/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/1901.%E2%80%85%EB%85%BC%EB%A6%AC%EC%8B%9D/39ef504b.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/1901.%E2%80%85%EB%85%BC%EB%A6%AC%EC%8B%9D/39ef504b.png" data-original-src="https://upload.acmicpc.net/0b4a9a58-7f6a-47ca-9568-522930c5b45b/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>위쪽 여백과 왼쪽 여백 모두&nbsp;첫 번째 피연산자가 false이고, 두 번째 피연산자가 true임에 주목하자.</p>
 

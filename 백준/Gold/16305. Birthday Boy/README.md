@@ -22,7 +22,7 @@
 
 <p>Can you help him make up a fake birthday to make him feel as special as possible? Bobby does not care about leap years: you can assume every year is not a leap year, and that no one has a birthday on the 29th of February. In case of a tie, Bobby decides to fill in the date that is soonest (strictly) after the current date, the 27th of October, because that means he will get to celebrate his birthday as soon as possible.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/16305.%E2%80%85Birthday%E2%80%85Boy/1325fd5a.png" data-original-src="https://upload.acmicpc.net/91307262-d5d8-4353-9685-04b5216754f4/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 510px; height: 355px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/16305.%E2%80%85Birthday%E2%80%85Boy/1325fd5a.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/16305.%E2%80%85Birthday%E2%80%85Boy/1325fd5a.png" data-original-src="https://upload.acmicpc.net/91307262-d5d8-4353-9685-04b5216754f4/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 510px; height: 355px;" /></p>
 
 <p style="text-align: center;">Figure 1: Sample case 2. Calendar is from <a href="http://printablecalendarholidays.com">http://printablecalendarholidays.com</a>.</p>
 

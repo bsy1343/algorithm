@@ -20,7 +20,7 @@
 
 <p>N&aring;got som kr&aring;nglar till den h&auml;r gruppindelningen &auml;r att eleverna har olika ambitionsniv&aring;. Varje elev $i$ kr&auml;ver att f&aring; h&aring;lla tal inf&ouml;r minst $A_i$ personer. S&aring; om elev nummer $i$ exempelvis hamnar i grupp $1$, s&aring; m&aring;ste grupp $2$ ha minst $A_i$ medlemmar f&ouml;r att elev $i$ ska bli n&ouml;jd.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/26880.%E2%80%85Triangeltal/29b4c42a.png" data-original-src="https://upload.acmicpc.net/a16b958d-5834-4e41-9e7b-d82c6f9e9983/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 410px; height: 300px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/26880.%E2%80%85Triangeltal/29b4c42a.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/26880.%E2%80%85Triangeltal/29b4c42a.png" data-original-src="https://upload.acmicpc.net/a16b958d-5834-4e41-9e7b-d82c6f9e9983/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 410px; height: 300px;" /></p>
 
 <p style="text-align: center;">Bilden motsvarar f&ouml;rsta exemplet.</p>
 

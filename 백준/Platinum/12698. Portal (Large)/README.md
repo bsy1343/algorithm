@@ -26,28 +26,28 @@
 
 <p>Consider the following grid:</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/12698.%E2%80%85Portal%E2%80%85(Large)/cf306c52.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/12697/images-3.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/12698.%E2%80%85Portal%E2%80%85(Large)/cf306c52.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/12698.%E2%80%85Portal%E2%80%85(Large)/cf306c52.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/12697/images-3.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>Gray cells represent walls, white cells represent empty cells, and the red circle indicates your position.</p>
 
 <p>Suppose you shoot a blue portal east. The portal is created on the first wall it hits, resulting in:</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/12698.%E2%80%85Portal%E2%80%85(Large)/778c9bfd.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/12697/images-4.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/12698.%E2%80%85Portal%E2%80%85(Large)/778c9bfd.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/12698.%E2%80%85Portal%E2%80%85(Large)/778c9bfd.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/12697/images-4.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>Now suppose you shoot a yellow portal south:<br />
-<img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/12698.%E2%80%85Portal%E2%80%85(Large)/6d9075c9.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/12697/images-5.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/12698.%E2%80%85Portal%E2%80%85(Large)/6d9075c9.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/12698.%E2%80%85Portal%E2%80%85(Large)/6d9075c9.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/12697/images-5.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>Next you move south once:</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/12698.%E2%80%85Portal%E2%80%85(Large)/8d05fdb1.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/12697/images-6.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:78px; width:154px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/12698.%E2%80%85Portal%E2%80%85(Large)/8d05fdb1.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/12698.%E2%80%85Portal%E2%80%85(Large)/8d05fdb1.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/12697/images-6.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:78px; width:154px" /></p>
 
 <p>Now comes the interesting part. If you move south one more time you go through the yellow portal to the blue portal:</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/12698.%E2%80%85Portal%E2%80%85(Large)/4d0abddf.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/12697/images-7.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/12698.%E2%80%85Portal%E2%80%85(Large)/4d0abddf.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/12698.%E2%80%85Portal%E2%80%85(Large)/4d0abddf.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/12697/images-7.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>There can only be one yellow portal and one blue portal at any time. For example if you attempt to create a blue portal to the west the other blue portal will disappear:</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/12698.%E2%80%85Portal%E2%80%85(Large)/65aabd52.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/12697/images-8.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/12698.%E2%80%85Portal%E2%80%85(Large)/65aabd52.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/12698.%E2%80%85Portal%E2%80%85(Large)/65aabd52.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/12697/images-8.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>A portal disappears only when another portal of the same color is fired.</p>
 

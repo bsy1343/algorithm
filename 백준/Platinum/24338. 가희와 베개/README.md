@@ -18,7 +18,7 @@
 
 <p>가희는 언니 방에 있는 가방과 베개 위에서&nbsp;똬리를 틀고 자는 것을 좋아합니다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/24338.%E2%80%85%EA%B0%80%ED%9D%AC%EC%99%80%E2%80%85%EB%B2%A0%EA%B0%9C/04478260.png" data-original-src="https://upload.acmicpc.net/8d6799f0-75d9-47f6-ab55-bcc4f430c777/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/24338.%E2%80%85%EA%B0%80%ED%9D%AC%EC%99%80%E2%80%85%EB%B2%A0%EA%B0%9C/04478260.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/24338.%E2%80%85%EA%B0%80%ED%9D%AC%EC%99%80%E2%80%85%EB%B2%A0%EA%B0%9C/04478260.png" data-original-src="https://upload.acmicpc.net/8d6799f0-75d9-47f6-ab55-bcc4f430c777/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p style="text-align: center;"><strong>[그림 1] 언니 가방 위에 올라와서 똬리를 틀고 있는 가희</strong></p>
 
@@ -28,25 +28,25 @@
 
 <p>경사로가 설치된 방향이란 고도가 낮은 쪽에서 높은 쪽으로 올라가는 방향을 의미합니다. 이 방향은 북쪽을 나타내는 N, 서쪽을 나타내는 W, 동쪽을 나타내는 E, 남쪽을 나타내는 S 이렇게 4가지가 있습니다. 경사로가 설치된 방향에 따라 이동할 수 없는 방향도 있습니다. <strong>아래 그림에서 경사로가 설치되지 않은 곳은 고도가 0 또는 1인 곳입니다.</strong></p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/24338.%E2%80%85%EA%B0%80%ED%9D%AC%EC%99%80%E2%80%85%EB%B2%A0%EA%B0%9C/b40487a0.png" data-original-src="https://upload.acmicpc.net/aa578017-369e-43ef-ae9c-6a316f81c71a/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/24338.%E2%80%85%EA%B0%80%ED%9D%AC%EC%99%80%E2%80%85%EB%B2%A0%EA%B0%9C/b40487a0.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/24338.%E2%80%85%EA%B0%80%ED%9D%AC%EC%99%80%E2%80%85%EB%B2%A0%EA%B0%9C/b40487a0.png" data-original-src="https://upload.acmicpc.net/aa578017-369e-43ef-ae9c-6a316f81c71a/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p style="text-align: center;"><strong>[그림 2-1(왼), 그림 2-2(오)] 경사로가 설치된 방향과 이동할 수 없는 방향</strong></p>
 
 <p>[그림 2-1] 처럼 W 방향이나 E 방향으로 설치된 경사로에서 위쪽, 아래쪽으로 갈 수 없고, 위쪽이나 아래쪽에서 W 방향이나 E 방향으로 설치된 경사로로 올 수 없습니다. [그림 2-2] 처럼 N 방향이나 S 방향으로 설치된 경사로에서 왼쪽, 오른쪽으로 갈 수 없고, 왼쪽이나 오른쪽에서 N 방향이나 S 방향으로 설치된 경사로로 올 수 없습니다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/24338.%E2%80%85%EA%B0%80%ED%9D%AC%EC%99%80%E2%80%85%EB%B2%A0%EA%B0%9C/17595407.png" data-original-src="https://upload.acmicpc.net/cd4985da-882d-4f3c-8c10-d13172768073/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" />&nbsp;</p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/24338.%E2%80%85%EA%B0%80%ED%9D%AC%EC%99%80%E2%80%85%EB%B2%A0%EA%B0%9C/17595407.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/24338.%E2%80%85%EA%B0%80%ED%9D%AC%EC%99%80%E2%80%85%EB%B2%A0%EA%B0%9C/17595407.png" data-original-src="https://upload.acmicpc.net/cd4985da-882d-4f3c-8c10-d13172768073/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" />&nbsp;</p>
 
 <p style="text-align: center;"><strong>[그림 3] 위에서 바라본 경사로의 방향</strong></p>
 
 <p>[그림 3]은&nbsp;경사로의&nbsp;방향에 따라&nbsp;<strong>고도가 0인 곳에서 1인 곳으로 어떻게 연결하는지</strong>&nbsp;보여줍니다. 아래 [그림 4]를&nbsp;보겠습니다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/24338.%E2%80%85%EA%B0%80%ED%9D%AC%EC%99%80%E2%80%85%EB%B2%A0%EA%B0%9C/6e97d3e4.png" data-original-src="https://upload.acmicpc.net/8c3d19e3-0e07-4ff7-a499-be2468ac1bee/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/24338.%E2%80%85%EA%B0%80%ED%9D%AC%EC%99%80%E2%80%85%EB%B2%A0%EA%B0%9C/6e97d3e4.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/24338.%E2%80%85%EA%B0%80%ED%9D%AC%EC%99%80%E2%80%85%EB%B2%A0%EA%B0%9C/6e97d3e4.png" data-original-src="https://upload.acmicpc.net/8c3d19e3-0e07-4ff7-a499-be2468ac1bee/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p style="text-align: center;"><strong>[그림 4] W 방향으로 설치된 경사로를 측면에서 본 모습</strong></p>
 
 <p>좌표 (1, 2)에 W 방향으로 경사로가 설치되었다고 해 보겠습니다. 이 경우, W 방향으로 설치된 경사로는 고도가 1인 (1, 1)과, 고도가 0인 (1, 3)을 이어주게 됩니다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/24338.%E2%80%85%EA%B0%80%ED%9D%AC%EC%99%80%E2%80%85%EB%B2%A0%EA%B0%9C/79a2339e.png" data-original-src="https://upload.acmicpc.net/e0c4da19-b34c-49a0-a309-5733cd89e8c9/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/24338.%E2%80%85%EA%B0%80%ED%9D%AC%EC%99%80%E2%80%85%EB%B2%A0%EA%B0%9C/79a2339e.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/24338.%E2%80%85%EA%B0%80%ED%9D%AC%EC%99%80%E2%80%85%EB%B2%A0%EA%B0%9C/79a2339e.png" data-original-src="https://upload.acmicpc.net/e0c4da19-b34c-49a0-a309-5733cd89e8c9/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p style="text-align: center;"><strong>[그림 5] E 방향으로&nbsp;설치된 모습을 측면에서 본 모습</strong></p>
 

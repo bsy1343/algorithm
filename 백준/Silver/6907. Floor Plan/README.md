@@ -18,7 +18,7 @@
 
 <p>The floor plan of a house shows rooms separated by walls. This floor plan can be transferred to a grid using the character <code>I</code> for walls and <code>.</code> for room space. Doorways are not shown. Each <code>I</code> or <code>.</code> character occupies one square metre.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/6907.%E2%80%85Floor%E2%80%85Plan/0592bea9.png" data-original-src="https://upload.acmicpc.net/a737d03e-09f3-48d1-957c-04c6dc1dc10f/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 300px; height: 262px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/6907.%E2%80%85Floor%E2%80%85Plan/0592bea9.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/6907.%E2%80%85Floor%E2%80%85Plan/0592bea9.png" data-original-src="https://upload.acmicpc.net/a737d03e-09f3-48d1-957c-04c6dc1dc10f/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 300px; height: 262px;" /></p>
 
 <p>In this diagram, there are six rooms.</p>
 

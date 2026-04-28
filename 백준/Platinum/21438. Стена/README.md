@@ -20,7 +20,7 @@
 
 <p>Для начала было принято решение сделать упрощенную модель робота, который будет работать со стенами, состоящими из блоков одинакового размера. Стена представляет собой последовательность столбиков, составленных из блоков, пример такой стены приведен на рисунке 1.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/21438.%E2%80%85%D0%A1%D1%82%D0%B5%D0%BD%D0%B0/79dd6b90.png" data-original-src="https://upload.acmicpc.net/80577d11-4a92-47be-b072-cb606d747919/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 220px; height: 70px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/21438.%E2%80%85%D0%A1%D1%82%D0%B5%D0%BD%D0%B0/79dd6b90.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/21438.%E2%80%85%D0%A1%D1%82%D0%B5%D0%BD%D0%B0/79dd6b90.png" data-original-src="https://upload.acmicpc.net/80577d11-4a92-47be-b072-cb606d747919/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 220px; height: 70px;" /></p>
 
 <p style="text-align: center;">Рисунок 1</p>
 
@@ -30,7 +30,7 @@
 
 <p>Например, стена, приведенная на рисунке 1, может быть превращена в ровную стену, приведенную на рисунке 2, за четыре элементарных действия, и это число действий является минимальным для данной стены.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/21438.%E2%80%85%D0%A1%D1%82%D0%B5%D0%BD%D0%B0/76ff4673.png" data-original-src="https://upload.acmicpc.net/3a1f8c3b-007e-4ea2-846b-b2c93d8403d0/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 220px; height: 59px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/21438.%E2%80%85%D0%A1%D1%82%D0%B5%D0%BD%D0%B0/76ff4673.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/21438.%E2%80%85%D0%A1%D1%82%D0%B5%D0%BD%D0%B0/76ff4673.png" data-original-src="https://upload.acmicpc.net/3a1f8c3b-007e-4ea2-846b-b2c93d8403d0/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 220px; height: 59px;" /></p>
 
 <p style="text-align: center;">Рисунок 2</p>
 

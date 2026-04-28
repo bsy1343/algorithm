@@ -20,7 +20,7 @@
 
 <p>예산이 제한되어 있기 때문에, 수평 터널을 k개만 만들기로 했다. (k는 양의 정수) 따라서, 수평 터널을 연결할 수직 엘리베이터는 최대 k-1개 만들 수 있다. 이제, 수평 터널과 각각의 금속을 연결하는 수직 터널을 만들어야 한다. 한 금속을 채굴하는데 드는 비용은 수평 터널과의 수직 거리이다. 금속 n개를 채굴하는데 필요한 비용은 각 금속의 채굴 비용 중 최댓값이다.</p>
 
-<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/9460.%E2%80%85%EB%A9%94%ED%83%88/61bf083e.png" data-original-src="https://www.acmicpc.net/upload/images/metal.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:361px; width:670px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/9460.%E2%80%85%EB%A9%94%ED%83%88/61bf083e.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/9460.%E2%80%85%EB%A9%94%ED%83%88/61bf083e.png" data-original-src="https://www.acmicpc.net/upload/images/metal.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:361px; width:670px" /></p>
 
 <p>그림 1. 금속이 15개, k=3인 경우의 채굴 계획. 이 계획에서 최대 거리는 오른쪽 빨간색으로 표시된 거리이고, 그 거리가 이 계획의 채굴 비용이다.</p>
 

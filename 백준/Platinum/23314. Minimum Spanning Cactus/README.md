@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/23314.%E2%80%85Minimum%E2%80%85Spanning%E2%80%85Cactus/8afa3619.png" data-original-src="https://upload.acmicpc.net/bb9c98ee-d610-47bb-80e9-d9cf3151ccde/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 410px; height: 350px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/23314.%E2%80%85Minimum%E2%80%85Spanning%E2%80%85Cactus/8afa3619.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/23314.%E2%80%85Minimum%E2%80%85Spanning%E2%80%85Cactus/8afa3619.png" data-original-src="https://upload.acmicpc.net/bb9c98ee-d610-47bb-80e9-d9cf3151ccde/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 410px; height: 350px;" /></p>
 
 <p style="text-align: center;">[그림] Cactus Graph 예시</p>
 

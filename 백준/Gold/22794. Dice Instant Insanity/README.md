@@ -20,7 +20,7 @@
 
 <p>Now let us consider the modified version of Instant Insanity. In the modified version, we play with six different dice instead of four colored cubes. Each die has all numbers from one to six, but the sum of numbers on the opposite faces is not always seven. Our goal is to arrange the six dice in a line so that all six numbers appear on every long side. The figure below illustrates how the dice should be arranged.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/22794.%E2%80%85Dice%E2%80%85Instant%E2%80%85Insanity/27289b2d.png" data-original-src="https://upload.acmicpc.net/cea61557-19a4-463f-add8-b3faad8f52b3/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 294px; height: 184px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/22794.%E2%80%85Dice%E2%80%85Instant%E2%80%85Insanity/27289b2d.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/22794.%E2%80%85Dice%E2%80%85Instant%E2%80%85Insanity/27289b2d.png" data-original-src="https://upload.acmicpc.net/cea61557-19a4-463f-add8-b3faad8f52b3/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 294px; height: 184px;" /></p>
 
 <p>In this problem, you are required to count up the number of different ways to arrange given six dice on the condition described above.</p>
 

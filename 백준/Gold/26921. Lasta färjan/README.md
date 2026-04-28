@@ -22,7 +22,7 @@
 
 <p>Du kommer att f&aring; veta hur l&aring;ng f&auml;rjan &auml;r, och vilka bilar som st&aring;r i k&ouml;n. Din uppgift &auml;r att hj&auml;lpa f&auml;rjepersonalen med att r&auml;kna ut hur m&aring;nga bilar man som mest kan lasta, om man &auml;r smart n&auml;r man v&auml;ljer fil &aring;t bilarna.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/26921.%E2%80%85Lasta%E2%80%85f%C3%A4rjan/e6952d13.png" data-original-src="https://upload.acmicpc.net/f5d42fab-459a-4e38-b87f-001499634bad/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/26921.%E2%80%85Lasta%E2%80%85f%C3%A4rjan/e6952d13.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/26921.%E2%80%85Lasta%E2%80%85f%C3%A4rjan/e6952d13.png" data-original-src="https://upload.acmicpc.net/f5d42fab-459a-4e38-b87f-001499634bad/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p style="text-align: center;">Ett exempel p&aring; hur f&auml;rjan kan se ut efter en optimal packning. F&auml;rjan &auml;r $5$ meter l&aring;ng, och l&auml;ngden p&aring; bilarna som stod i k&ouml;n &auml;r $2, 1, 2, 5, 1, 1, 2, 1, 1, 2$, varav bara de f&ouml;rsta $8$ fick plats p&aring; f&auml;rjan.</p>
 

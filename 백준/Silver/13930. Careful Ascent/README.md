@@ -22,7 +22,7 @@
 
 <p>There are still two problems. First, Mal will not be able to control the vehicle from his space suit, so he must set up the autopilot while on the ground. The vertical velocity must be exactly 1 km/min and the horizontal velocity must be set in such a way that Mal will hit the Firefly on the resulting trajectory. Second, the energy shields of the planet disturb the autopilot: They will decrease or increase the horizontal velocity by a given factor. The original horizontal velocity is restored as soon as there is no interference. For this problem we consider Firefly to be a single point &ndash; the shape shown in Figure C.1 is merely for decorative purposes.</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/13930.%E2%80%85Careful%E2%80%85Ascent/56e67841.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/13930/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-11-28%20%EC%98%A4%ED%9B%84%204.10.43.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:175px; width:350px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/13930.%E2%80%85Careful%E2%80%85Ascent/56e67841.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/13930.%E2%80%85Careful%E2%80%85Ascent/56e67841.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/13930/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-11-28%20%EC%98%A4%ED%9B%84%204.10.43.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:175px; width:350px" /></p>
 
 <p>Figure C.1: Illustration of Sample Input 1.</p>
 

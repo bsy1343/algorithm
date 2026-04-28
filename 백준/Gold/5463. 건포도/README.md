@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/5463.%E2%80%85%EA%B1%B4%ED%8F%AC%EB%8F%84/7eaa4454.png" data-original-src="https://www.acmicpc.net/upload/images2/raisins.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="float:right; height:171px; width:252px" />플로브디브의 유명한 초콜릿 가공업자 Bonny는 가로 M개, 세로 N개의 격자에 건포도들이 들어있는, N*M크기의 건포도 초콜릿을 만들었다. 각 1*1 격자에는 최소 1개 이상의 건포도가 들어있으며, 2개 이상의 격자를 가로질러서 존재하는 건포도는 없다.</p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/5463.%E2%80%85%EA%B1%B4%ED%8F%AC%EB%8F%84/7eaa4454.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/5463.%E2%80%85%EA%B1%B4%ED%8F%AC%EB%8F%84/7eaa4454.png" data-original-src="https://www.acmicpc.net/upload/images2/raisins.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="float:right; height:171px; width:252px" />플로브디브의 유명한 초콜릿 가공업자 Bonny는 가로 M개, 세로 N개의 격자에 건포도들이 들어있는, N*M크기의 건포도 초콜릿을 만들었다. 각 1*1 격자에는 최소 1개 이상의 건포도가 들어있으며, 2개 이상의 격자를 가로질러서 존재하는 건포도는 없다.</p>
 
 <p>초기에, 초콜릿은 하나의 거대한 단일 블록으로 이루어져 있고, Bonny는 이 초콜릿을 N*M개의 단일 블록으로 나눠야 한다. Bonny는 굉장히 바쁘기 때문에 욕심쟁이 Peter에게 이 일을 맡기려고 한다. Peter는 직사각형 전체를 일직선으로 자르는 행동만 할 수 있으며, 한번 자를때마다 그에 따른 보상을 요구한다.</p>
 
@@ -43,4 +43,4 @@
 
 <p>다음과 같이 자르면 77개의 건포도를 주고 초콜릿을 자를 수 있다.</p>
 
-<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/5463.%E2%80%85%EA%B1%B4%ED%8F%AC%EB%8F%84/624f67f9.png" data-original-src="https://www.acmicpc.net/upload/images2/raisins2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:82px; width:711px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/5463.%E2%80%85%EA%B1%B4%ED%8F%AC%EB%8F%84/624f67f9.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/5463.%E2%80%85%EA%B1%B4%ED%8F%AC%EB%8F%84/624f67f9.png" data-original-src="https://www.acmicpc.net/upload/images2/raisins2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:82px; width:711px" /></p>

@@ -26,7 +26,7 @@
 
 <p>The top of the tree is shown in the following figure:</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/13880.%E2%80%85A%E2%80%85Rational%E2%80%85Sequence%E2%80%85(Take%E2%80%853)/c762e5a2.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/13880/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-11-19%20%EC%98%A4%EC%A0%84%204.09.27.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:280px; width:521px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/13880.%E2%80%85A%E2%80%85Rational%E2%80%85Sequence%E2%80%85(Take%E2%80%853)/c762e5a2.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/13880.%E2%80%85A%E2%80%85Rational%E2%80%85Sequence%E2%80%85(Take%E2%80%853)/c762e5a2.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/13880/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-11-19%20%EC%98%A4%EC%A0%84%204.09.27.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:280px; width:521px" /></p>
 
 <p>A rational sequence is defined by doing a level order (breadth first) traversal of the tree (indicated by the light dashed line). So that:</p>
 

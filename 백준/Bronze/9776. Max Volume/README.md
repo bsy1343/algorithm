@@ -18,7 +18,7 @@
 
 <p>Write a program to find the maximum volume of given geometric 3-dimensional figures. Here, there are 3 types of figures: cone, cylinder and sphere.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/9776.%E2%80%85Max%E2%80%85Volume/243fea67.png" data-original-src="https://upload.acmicpc.net/51b9d0e5-fefc-4841-bd7f-9da111450728/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 485px; height: 202px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/9776.%E2%80%85Max%E2%80%85Volume/243fea67.png" data-original-src="%EB%B0%B1%EC%A4%80/Bronze/9776.%E2%80%85Max%E2%80%85Volume/243fea67.png" data-original-src="https://upload.acmicpc.net/51b9d0e5-fefc-4841-bd7f-9da111450728/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 485px; height: 202px;" /></p>
 
 <p>The volume (V) of each figure can be calculated by the following formulas.</p>
 

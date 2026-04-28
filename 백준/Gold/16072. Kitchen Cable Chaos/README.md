@@ -22,7 +22,7 @@
 
 <p>The problem would be really easy, but your perfectionist roommate hates unnecessary use of cables. Therefore, the cable has to form a straight line, without any loops or detours. And cutting the cables is no option, obviously.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/16072.%E2%80%85Kitchen%E2%80%85Cable%E2%80%85Chaos/dcb3f098.png" data-original-src="https://upload.acmicpc.net/bb8d51be-e68b-4cae-9e26-79e4109b2be8/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 493px; height: 52px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/16072.%E2%80%85Kitchen%E2%80%85Cable%E2%80%85Chaos/dcb3f098.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/16072.%E2%80%85Kitchen%E2%80%85Cable%E2%80%85Chaos/dcb3f098.png" data-original-src="https://upload.acmicpc.net/bb8d51be-e68b-4cae-9e26-79e4109b2be8/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 493px; height: 52px;" /></p>
 
 <p>Figure K.1: Four cables of different lengths connect the controller with the sandwich maker, with different overlaps. Connection 1 has the maximal overlap, connection 2 the minimal overlap and all other connections are in between. The quality of this setup is 0.</p>
 

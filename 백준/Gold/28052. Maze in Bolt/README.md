@@ -23,9 +23,9 @@
 <table class="table table-bordered td-center td-middle">
 	<tbody>
 		<tr>
-			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/28052.%E2%80%85Maze%E2%80%85in%E2%80%85Bolt/d5d64b7f.png" data-original-src="https://upload.acmicpc.net/03c4e6e8-c577-4835-aec5-8f7d5d04684c/-/crop/142x359/0,107/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 71px; height: 180px;" /> 			 </td>
-			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/28052.%E2%80%85Maze%E2%80%85in%E2%80%85Bolt/3cf96b51.png" data-original-src="https://upload.acmicpc.net/03c4e6e8-c577-4835-aec5-8f7d5d04684c/-/crop/138x91/325,190/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 69px; height: 46px;" /></td>
-			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/28052.%E2%80%85Maze%E2%80%85in%E2%80%85Bolt/f1ac10a3.png" data-original-src="https://upload.acmicpc.net/03c4e6e8-c577-4835-aec5-8f7d5d04684c/-/crop/271x457/592,9/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 135px; height: 228px;" /></td>
+			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/28052.%E2%80%85Maze%E2%80%85in%E2%80%85Bolt/d5d64b7f.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/28052.%E2%80%85Maze%E2%80%85in%E2%80%85Bolt/d5d64b7f.png" data-original-src="https://upload.acmicpc.net/03c4e6e8-c577-4835-aec5-8f7d5d04684c/-/crop/142x359/0,107/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 71px; height: 180px;" /> 			 </td>
+			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/28052.%E2%80%85Maze%E2%80%85in%E2%80%85Bolt/3cf96b51.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/28052.%E2%80%85Maze%E2%80%85in%E2%80%85Bolt/3cf96b51.png" data-original-src="https://upload.acmicpc.net/03c4e6e8-c577-4835-aec5-8f7d5d04684c/-/crop/138x91/325,190/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 69px; height: 46px;" /></td>
+			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/28052.%E2%80%85Maze%E2%80%85in%E2%80%85Bolt/f1ac10a3.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/28052.%E2%80%85Maze%E2%80%85in%E2%80%85Bolt/f1ac10a3.png" data-original-src="https://upload.acmicpc.net/03c4e6e8-c577-4835-aec5-8f7d5d04684c/-/crop/271x457/592,9/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 135px; height: 228px;" /></td>
 		</tr>
 		<tr>
 			<td>(a) Screw-shaped piece</td>
@@ -51,4 +51,4 @@
 
 <p>It can be seen in the top three images that the nut (having three pins) and the bolt start separated. The second group of three images shows the situation of the game after the nut has been moved four rows down (towards the head of the bolt). Then the nut is rotated one position, moved down two more rows, rotated four positions in the opposite direction, and finally moved down three rows, which solves the puzzle. Note that in this case the nut has not been flipped, nor moved up (away from the head of the bolt).</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/28052.%E2%80%85Maze%E2%80%85in%E2%80%85Bolt/0caa3ae7.png" data-original-src="https://upload.acmicpc.net/2506a3ee-6eea-4daa-9fa5-659f60e896af/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 459px; height: 898px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/28052.%E2%80%85Maze%E2%80%85in%E2%80%85Bolt/0caa3ae7.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/28052.%E2%80%85Maze%E2%80%85in%E2%80%85Bolt/0caa3ae7.png" data-original-src="https://upload.acmicpc.net/2506a3ee-6eea-4daa-9fa5-659f60e896af/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 459px; height: 898px;" /></p>

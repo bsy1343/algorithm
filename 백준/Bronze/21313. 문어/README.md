@@ -32,7 +32,7 @@
 
 <p>문어의 수 <em>N</em>이 주어질 때, 이렇게 만들 수 있는 수열 중 사전순으로 제일 앞서는 수열을 알아보자. 다음은 문어가 4마리일 때 사전순으로 제일 앞서는 수열인&nbsp;<code>1 2 1 2</code>&nbsp;를 만드는 방법이다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/21313.%E2%80%85%EB%AC%B8%EC%96%B4/de1b7122.png" data-original-src="https://upload.acmicpc.net/c76d82ab-62c0-496f-bce3-55ca67416f92/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /><br />
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/21313.%E2%80%85%EB%AC%B8%EC%96%B4/de1b7122.png" data-original-src="%EB%B0%B1%EC%A4%80/Bronze/21313.%E2%80%85%EB%AC%B8%EC%96%B4/de1b7122.png" data-original-src="https://upload.acmicpc.net/c76d82ab-62c0-496f-bce3-55ca67416f92/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /><br />
 &nbsp;</p>
 
 ### 입력

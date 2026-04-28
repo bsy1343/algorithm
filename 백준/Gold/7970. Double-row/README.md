@@ -42,4 +42,4 @@
 
 <p>There is a double-row of 18 soldiers in the figure. Arrows indicate the swaps that rearrange the soldiers in a proper way.</p>
 
-<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/7970.%E2%80%85Double-row/c59e21ab.gif" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/7970/1.gif" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:80px; width:325px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/7970.%E2%80%85Double-row/c59e21ab.gif" data-original-src="%EB%B0%B1%EC%A4%80/Gold/7970.%E2%80%85Double-row/c59e21ab.gif" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/7970/1.gif" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:80px; width:325px" /></p>

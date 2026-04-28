@@ -20,15 +20,15 @@
 
 <p>우리는 PCB의 정보가 주어질 때, 두 가장자리 노드를 연결해 얻을 수 있는 가장 큰 저항값과 가장 작은 저항값을 구할 것이다. 이때 가장자리 노드란 저항 한 개만 연결된 노드이다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/24459.%E2%80%85%ED%9A%8C%EB%A1%9C%EC%9D%98%E2%80%85%EC%A0%80%ED%95%AD/d5c13be6.png" data-original-src="https://upload.acmicpc.net/2365d43b-46f0-4848-bed8-e99387ec932b/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 640px; height: 360px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/24459.%E2%80%85%ED%9A%8C%EB%A1%9C%EC%9D%98%E2%80%85%EC%A0%80%ED%95%AD/d5c13be6.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/24459.%E2%80%85%ED%9A%8C%EB%A1%9C%EC%9D%98%E2%80%85%EC%A0%80%ED%95%AD/d5c13be6.png" data-original-src="https://upload.acmicpc.net/2365d43b-46f0-4848-bed8-e99387ec932b/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 640px; height: 360px;" /></p>
 
 <p>위 그림에서 두 가장자리 노드를 연결하는 가장 큰 저항값과 가장 작은 저항값을 찾으면 아래와 같은 그림이 나온다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/24459.%E2%80%85%ED%9A%8C%EB%A1%9C%EC%9D%98%E2%80%85%EC%A0%80%ED%95%AD/32cb3e6a.png" data-original-src="https://upload.acmicpc.net/1d703528-5b61-45ed-81d3-b730bbb58e91/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 640px; height: 360px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/24459.%E2%80%85%ED%9A%8C%EB%A1%9C%EC%9D%98%E2%80%85%EC%A0%80%ED%95%AD/32cb3e6a.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/24459.%E2%80%85%ED%9A%8C%EB%A1%9C%EC%9D%98%E2%80%85%EC%A0%80%ED%95%AD/32cb3e6a.png" data-original-src="https://upload.acmicpc.net/1d703528-5b61-45ed-81d3-b730bbb58e91/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 640px; height: 360px;" /></p>
 
 <p>위 그림은 두 가장자리 노드를 연결하는 가장 큰 저항값을 만드는 데 사용되는 저항이 있는 부분에 빨간색으로 나타낸 것이다. 이때 회로에서 만든 가장 큰 저항값은 $20 \Omega$이다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/24459.%E2%80%85%ED%9A%8C%EB%A1%9C%EC%9D%98%E2%80%85%EC%A0%80%ED%95%AD/9f6a6152.png" data-original-src="https://upload.acmicpc.net/3a812473-e6c2-4f31-a5b6-7b884c488032/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 640px; height: 360px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/24459.%E2%80%85%ED%9A%8C%EB%A1%9C%EC%9D%98%E2%80%85%EC%A0%80%ED%95%AD/9f6a6152.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/24459.%E2%80%85%ED%9A%8C%EB%A1%9C%EC%9D%98%E2%80%85%EC%A0%80%ED%95%AD/9f6a6152.png" data-original-src="https://upload.acmicpc.net/3a812473-e6c2-4f31-a5b6-7b884c488032/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 640px; height: 360px;" /></p>
 
 <p>위 그림은 두 가장자리 노드를 연결하는 가장 작은 저항값을 만드는 데 사용되는 저항이 있는 부분에 나타낸 것이다. 이때 회로에서 만든 가장 작은 저항값은 $9 \Omega$이다.</p>
 

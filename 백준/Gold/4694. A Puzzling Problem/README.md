@@ -18,11 +18,11 @@
 
 <p>The goal of this problem is to write a program which will take from 1 to 5 puzzle pieces such as those shown below and arrange them, if possible, to form a square. An example set of pieces is shown here.</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/4694.%E2%80%85A%E2%80%85Puzzling%E2%80%85Problem/d15b982c.gif" data-original-src="https://www.acmicpc.net/upload/images2/puzzle1.gif" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:179px; width:491px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/4694.%E2%80%85A%E2%80%85Puzzling%E2%80%85Problem/d15b982c.gif" data-original-src="%EB%B0%B1%EC%A4%80/Gold/4694.%E2%80%85A%E2%80%85Puzzling%E2%80%85Problem/d15b982c.gif" data-original-src="https://www.acmicpc.net/upload/images2/puzzle1.gif" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:179px; width:491px" /></p>
 
 <p>The pieces cannot be rotated or flipped from their original orientation in an attempt to form a square from the set. All of the pieces must be used to form the square. There may be more than one possible solution for a set of pieces, and not every arrangement will work even with a set for which a solution can be found. Examples using the above set of pieces are shown here.</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/4694.%E2%80%85A%E2%80%85Puzzling%E2%80%85Problem/92f2edf1.gif" data-original-src="https://www.acmicpc.net/upload/images2/puzzle2.gif" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:179px; width:557px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/4694.%E2%80%85A%E2%80%85Puzzling%E2%80%85Problem/92f2edf1.gif" data-original-src="%EB%B0%B1%EC%A4%80/Gold/4694.%E2%80%85A%E2%80%85Puzzling%E2%80%85Problem/92f2edf1.gif" data-original-src="https://www.acmicpc.net/upload/images2/puzzle2.gif" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:179px; width:557px" /></p>
 
 ### 입력
 

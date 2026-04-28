@@ -30,13 +30,13 @@
 
 ### 힌트
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/20820.%E2%80%85Rullband/ab6211e7.png" data-original-src="https://upload.acmicpc.net/94efdaa9-0f20-4efb-9663-20c88bc4be4e/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 500px; height: 147px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/20820.%E2%80%85Rullband/ab6211e7.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/20820.%E2%80%85Rullband/ab6211e7.png" data-original-src="https://upload.acmicpc.net/94efdaa9-0f20-4efb-9663-20c88bc4be4e/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 500px; height: 147px;" /></p>
 
 <p style="text-align: center;">Figure 1: Exempelfall 1</p>
 
 <p>I exempelfall 1 tar det 2 sekunder att g&aring; en meter n&auml;r laget inte g&aring;r p&aring; n&aring;got rullband. Det snabbaste s&auml;ttet att ta sig till slutet &auml;r att g&aring; till rullbandet som tar 5 sekunder, &aring;ka p&aring; det, g&aring; till det som tar 2 sekunder och sen &aring;ka p&aring; det. Totala tiden detta tar &auml;r $4+5+2+2=13$ sekunder.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/20820.%E2%80%85Rullband/57c5e572.png" data-original-src="https://upload.acmicpc.net/b9495147-968e-4641-a82c-645e4fc34668/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 486px; height: 133px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/20820.%E2%80%85Rullband/57c5e572.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/20820.%E2%80%85Rullband/57c5e572.png" data-original-src="https://upload.acmicpc.net/b9495147-968e-4641-a82c-645e4fc34668/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 486px; height: 133px;" /></p>
 
 <p style="text-align: center;">Figure 2: Exempelfall 2</p>
 

@@ -20,7 +20,7 @@
 
 <p>예를 들어 아래 트리는 $N = 3$, $L = [2, 0, 0]$, $R = [3, 0, 0]$ 인 경우를 나타내며 이 트리에서 루트는 1번 노드이다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/32272.%E2%80%85%EC%9D%B4%EC%A7%84%E2%80%85%ED%8A%B8%EB%A6%AC%E2%80%85%EA%B7%B8%EB%A6%AC%EA%B8%B0/e409eeec.png" data-original-src="https://upload.acmicpc.net/fd107767-6718-4642-87b1-488e7851e533/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 160px; height: 175px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/32272.%E2%80%85%EC%9D%B4%EC%A7%84%E2%80%85%ED%8A%B8%EB%A6%AC%E2%80%85%EA%B7%B8%EB%A6%AC%EA%B8%B0/e409eeec.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/32272.%E2%80%85%EC%9D%B4%EC%A7%84%E2%80%85%ED%8A%B8%EB%A6%AC%E2%80%85%EA%B7%B8%EB%A6%AC%EA%B8%B0/e409eeec.png" data-original-src="https://upload.acmicpc.net/fd107767-6718-4642-87b1-488e7851e533/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 160px; height: 175px;" /></p>
 
 <p>Bert 는 이진 트리 그리는 것을 좋아하는데, 우선 $V \ge N$ 인 적당히 큰 정수 $V$를 고정한 후, 아래 규칙에 따라 여러 가지 방법으로 그리는 것을 좋아한다. 편의상 노드 $i$ 의 정수 $x,y$ 좌표 값을 $(x_i, y_i)$ 라 하자.</p>
 
@@ -34,7 +34,7 @@
 
 <p>위 조건을 모두 만족하는 $N$개의 좌표값을 정했다면 이진 트리를 그릴 수 있다고 하며, 두 이진 트리 그림이 있을 때, 같은 노드의 $x$ 좌표 값이 다르면 두 그림은 다른 방법으로 그려진 것이라 하자 (위 규칙대로면 각 노드의 $y$ 좌표 값은 항상 같다). 위 예제의 경우 $V = 4$ 라면 아래와 같은 4가지 다른 방법으로 이진 트리를 그릴 수 있다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/32272.%E2%80%85%EC%9D%B4%EC%A7%84%E2%80%85%ED%8A%B8%EB%A6%AC%E2%80%85%EA%B7%B8%EB%A6%AC%EA%B8%B0/46f976f2.png" data-original-src="https://upload.acmicpc.net/32aa28cc-419c-4277-a419-25adf83b613d/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 194px; width: 900px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/32272.%E2%80%85%EC%9D%B4%EC%A7%84%E2%80%85%ED%8A%B8%EB%A6%AC%E2%80%85%EA%B7%B8%EB%A6%AC%EA%B8%B0/46f976f2.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/32272.%E2%80%85%EC%9D%B4%EC%A7%84%E2%80%85%ED%8A%B8%EB%A6%AC%E2%80%85%EA%B7%B8%EB%A6%AC%EA%B8%B0/46f976f2.png" data-original-src="https://upload.acmicpc.net/32aa28cc-419c-4277-a419-25adf83b613d/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 194px; width: 900px;" /></p>
 
 <p>Bert는 임의의 이진 트리가 주어졌을 때 위 방법을 모두 지키면서 몇 가지 다른 방법으로 이진 트리를 그릴 수 있는지 궁금해졌다. 그런데 이를 지켜보던 Alice는 그 문제는 너무 쉽다며, 새로운 문제를 주었다:</p>
 

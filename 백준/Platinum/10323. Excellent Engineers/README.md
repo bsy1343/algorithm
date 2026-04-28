@@ -22,7 +22,7 @@
 
 <p>For potential customers, your tool needs to process the agency&rsquo;s files and produce a shortlist of the potentially most interesting candidates. A software engineer is a potential candidate that is to be put on this shortlist if there is no other software engineer in the files that scores better on all three skills. That is, an engineer is to be put on the shortlist if there is no other software engineer that has better communication skills, better programming skills, and more algorithmic knowledge.</p>
 
-<p style="text-align:center"><a href="https://xkcd.com/125/"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/10323.%E2%80%85Excellent%E2%80%85Engineers/77d110d3.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/upload/images2/marketing_interview.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:297px; width:600px" /></a></p>
+<p style="text-align:center"><a href="https://xkcd.com/125/"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/10323.%E2%80%85Excellent%E2%80%85Engineers/77d110d3.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/10323.%E2%80%85Excellent%E2%80%85Engineers/77d110d3.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/upload/images2/marketing_interview.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:297px; width:600px" /></a></p>
 
 ### 입력
 

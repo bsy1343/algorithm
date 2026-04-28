@@ -20,7 +20,7 @@
 
 <p>두 소는 자유롭게 1,000 &times; 1,000 2차원 격자 목초지를 누비며 놀고 있습니다. 농부 존이 종을 치면 베시와 데이지가 농부 존이 있는 곳으로 달려갑니다.&nbsp;</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/16431.%E2%80%85%EB%B2%A0%EC%8B%9C%EC%99%80%E2%80%85%EB%8D%B0%EC%9D%B4%EC%A7%80/5df3c682.png" data-original-src="https://upload.acmicpc.net/9ede513c-e62e-464d-9ac9-e1d1408cf770/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/16431.%E2%80%85%EB%B2%A0%EC%8B%9C%EC%99%80%E2%80%85%EB%8D%B0%EC%9D%B4%EC%A7%80/5df3c682.png" data-original-src="%EB%B0%B1%EC%A4%80/Bronze/16431.%E2%80%85%EB%B2%A0%EC%8B%9C%EC%99%80%E2%80%85%EB%8D%B0%EC%9D%B4%EC%A7%80/5df3c682.png" data-original-src="https://upload.acmicpc.net/9ede513c-e62e-464d-9ac9-e1d1408cf770/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p style="text-align: center;">베시가 B에 있을 때 1초 후에 움직일 수 있는 칸과 데이지가 D에 있을 때 1초 후에 움직일 수 있는 칸을 나타낸 그림<br />
 &nbsp;</p>

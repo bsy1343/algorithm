@@ -20,7 +20,7 @@
 
 <p>어느 날 그는 꿈에서 너비가 2, 높이가 1인 작은 직사각형을 이용해서 큰 직사각형을 채우는 꿈을 꾸었다.</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/6569.%E2%80%85%EB%AA%AC%EB%93%9C%EB%A6%AC%EC%95%88%EC%9D%98%E2%80%85%EA%BF%88/d4490aca.gif" data-original-src="https://www.acmicpc.net/upload/images/dream1.gif" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:33px; width:599px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/6569.%E2%80%85%EB%AA%AC%EB%93%9C%EB%A6%AC%EC%95%88%EC%9D%98%E2%80%85%EA%BF%88/d4490aca.gif" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/6569.%E2%80%85%EB%AA%AC%EB%93%9C%EB%A6%AC%EC%95%88%EC%9D%98%E2%80%85%EA%BF%88/d4490aca.gif" data-original-src="https://www.acmicpc.net/upload/images/dream1.gif" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:33px; width:599px" /></p>
 
 <p>직사각형의 크기가 주어졌을 때, 이 직사각형을 작은 직사각형으로 채우는 방법의 수를 구하는 프로그램을 작성하시오.</p>
 
@@ -34,4 +34,4 @@
 
 ### 힌트
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/6569.%E2%80%85%EB%AA%AC%EB%93%9C%EB%A6%AC%EC%95%88%EC%9D%98%E2%80%85%EA%BF%88/22983da1.gif" data-original-src="https://www.acmicpc.net/upload/images/dream2.gif" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:316px; width:348px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/6569.%E2%80%85%EB%AA%AC%EB%93%9C%EB%A6%AC%EC%95%88%EC%9D%98%E2%80%85%EA%BF%88/22983da1.gif" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/6569.%E2%80%85%EB%AA%AC%EB%93%9C%EB%A6%AC%EC%95%88%EC%9D%98%E2%80%85%EA%BF%88/22983da1.gif" data-original-src="https://www.acmicpc.net/upload/images/dream2.gif" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:316px; width:348px" /></p>

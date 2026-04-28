@@ -24,7 +24,7 @@
 
 <p>There are two types of ferries. On type-L ferries the crew instructs the cars to fill the <strong>L</strong>eft column first while on type-R ferries cars fill the <strong>R</strong>ight column first. Note that the ferry type does not influence how the cars leave the ferry. The first car to leave is always the first car in the right column.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/27664.%E2%80%85Ferries%E2%80%85(Easy)/f0e5a890.png" data-original-src="https://upload.acmicpc.net/be0462de-2f87-4b79-9ec0-c54d5a9fe847/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/27664.%E2%80%85Ferries%E2%80%85(Easy)/f0e5a890.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/27664.%E2%80%85Ferries%E2%80%85(Easy)/f0e5a890.png" data-original-src="https://upload.acmicpc.net/be0462de-2f87-4b79-9ec0-c54d5a9fe847/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p style="text-align: center;">Above: Cars 1 through 6, in this order, just boarded a type-R ferry (from the bottom of the figure). The cars will leave this ferry in the following order: 1, 4, 2, 5, 3, 6.</p>
 

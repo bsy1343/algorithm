@@ -24,7 +24,7 @@
 
 <p>Given the side lengths and quantities of the stones, determine if it is possible to build a wall using all available stones, and if so, what length and height such a wall might have.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/18064.%E2%80%85Keeping%E2%80%85the%E2%80%85Dogs%E2%80%85Out/4fc810bb.png" data-original-src="https://upload.acmicpc.net/cf5a17a7-1312-490c-bad2-12b3c9484eba/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 238px; height: 241px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/18064.%E2%80%85Keeping%E2%80%85the%E2%80%85Dogs%E2%80%85Out/4fc810bb.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/18064.%E2%80%85Keeping%E2%80%85the%E2%80%85Dogs%E2%80%85Out/4fc810bb.png" data-original-src="https://upload.acmicpc.net/cf5a17a7-1312-490c-bad2-12b3c9484eba/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 238px; height: 241px;" /></p>
 
 <p style="text-align: center;">Figure K.1: Illustration of the first sample.</p>
 

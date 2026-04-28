@@ -17,7 +17,7 @@
 ### 문제 설명
 
 <blockquote overflow="hidden">
-<p class="tutorial_pic" figure=""><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/29793.%E2%80%85%EB%9D%BC%EB%9D%BC%EC%99%80%E2%80%85%EC%9A%A9%EB%A7%A5%E2%80%85%EB%B3%80%ED%99%98/c0a48db1.png" data-original-src="https://upload.acmicpc.net/ed8d5a00-9000-4331-803a-8c0aab64500f/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p class="tutorial_pic" figure=""><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/29793.%E2%80%85%EB%9D%BC%EB%9D%BC%EC%99%80%E2%80%85%EC%9A%A9%EB%A7%A5%E2%80%85%EB%B3%80%ED%99%98/c0a48db1.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/29793.%E2%80%85%EB%9D%BC%EB%9D%BC%EC%99%80%E2%80%85%EC%9A%A9%EB%A7%A5%E2%80%85%EB%B3%80%ED%99%98/c0a48db1.png" data-original-src="https://upload.acmicpc.net/ed8d5a00-9000-4331-803a-8c0aab64500f/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p class="tutorial">여러분, 그거 알아요?</p>
 

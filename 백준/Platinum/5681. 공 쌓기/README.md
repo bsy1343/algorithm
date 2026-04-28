@@ -20,7 +20,7 @@
 
 <p>먼저, 공이 삼각형 모양으로 쌓여져 있고, 각 공에는 정수 값이 하나씩 쓰여 있다. 아래 그림은 한 예이다.</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/5681.%E2%80%85%EA%B3%B5%E2%80%85%EC%8C%93%EA%B8%B0/cd431476.png" data-original-src="https://www.acmicpc.net/upload/images/tstack.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:136px; width:177px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/5681.%E2%80%85%EA%B3%B5%E2%80%85%EC%8C%93%EA%B8%B0/cd431476.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/5681.%E2%80%85%EA%B3%B5%E2%80%85%EC%8C%93%EA%B8%B0/cd431476.png" data-original-src="https://www.acmicpc.net/upload/images/tstack.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:136px; width:177px" /></p>
 
 <p>참가자는 공을 고를 수 있고, 고른 공에 쓰여 있는 숫자의 합이 점수가 된다. 공을 고르면, 그 공은 삼각형에서 제거된다. 점수가 높을수록 좋은 상품을 받게 된다. 하지만, 참가자는 그 공의 위에 있는 공을 고른 경우에만 그&nbsp;공을&nbsp;고를 수 있다. 또, 참가자는 공을 고를 것인지, 게임을 중단할 것인지 선택할 수 있다. 만약, 공을 하나도 고르지 않은 경우에 점수는 0이 된다.</p>
 

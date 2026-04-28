@@ -22,7 +22,7 @@
 
 <p>However, official-looking signposts are not cheap and attract a lot of attention, particularly from police officers. So you wish to minimize the number of signposts you have to place in the city. This may lead the participants to use a very slow detour, but they don&rsquo;t know the city anyway, so they won&rsquo;t find out.</p>
 
-<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/10322.%E2%80%85Dropping%E2%80%85Directions/c59e943d.png" data-original-src="https://www.acmicpc.net/upload/images2/droping.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:305px; width:524px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/10322.%E2%80%85Dropping%E2%80%85Directions/c59e943d.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/10322.%E2%80%85Dropping%E2%80%85Directions/c59e943d.png" data-original-src="https://www.acmicpc.net/upload/images2/droping.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:305px; width:524px" /></p>
 
 <p style="text-align:center">City of 2nd and 3rd sample input. The 2nd input has the goal at intersection 5 and the 3rd at 4.</p>
 

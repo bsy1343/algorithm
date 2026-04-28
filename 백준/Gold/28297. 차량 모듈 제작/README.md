@@ -30,7 +30,7 @@
 	<li>차량 모듈 내부에 있는 $N$개의 기어가 모두 회전한다면, 차량 모듈이 정상적으로 동작한다.</li>
 </ul>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/28297.%E2%80%85%EC%B0%A8%EB%9F%89%E2%80%85%EB%AA%A8%EB%93%88%E2%80%85%EC%A0%9C%EC%9E%91/6def5677.png" data-original-src="https://upload.acmicpc.net/6f02449d-2249-4c13-b528-8c1636298349/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 268px; width: 500px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/28297.%E2%80%85%EC%B0%A8%EB%9F%89%E2%80%85%EB%AA%A8%EB%93%88%E2%80%85%EC%A0%9C%EC%9E%91/6def5677.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/28297.%E2%80%85%EC%B0%A8%EB%9F%89%E2%80%85%EB%AA%A8%EB%93%88%E2%80%85%EC%A0%9C%EC%9E%91/6def5677.png" data-original-src="https://upload.acmicpc.net/6f02449d-2249-4c13-b528-8c1636298349/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 268px; width: 500px;" /></p>
 
 <p style="text-align: center;">위 그림은 두 기어를 벨트로 연결한 모습의 그림이다.</p>
 

@@ -18,7 +18,7 @@
 
 <p>인하대학교의 마스코트인 인덕이가 사는 인경호는 인하대학교 학생이 아니여도 주변에 거주하는 사람들이 산책로로 이용할 수 있다. 인하대학교는 인경호에서 산책하는 사람들이 많은 것을 알고 이들을 위해 인경호 근처에 적당한 녹지를 골라 만남의 광장을 만들기로 하였다.</p>
 
-<p style="text-align: center"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/25708.%E2%80%85%EB%A7%8C%EB%82%A8%EC%9D%98%E2%80%85%EA%B4%91%EC%9E%A5/8fde0848.png" data-original-src="https://upload.acmicpc.net/1cd8250b-1df6-43dd-b5b9-b30ebc2941ca/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" width="500px" /></p>
+<p style="text-align: center"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/25708.%E2%80%85%EB%A7%8C%EB%82%A8%EC%9D%98%E2%80%85%EA%B4%91%EC%9E%A5/8fde0848.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/25708.%E2%80%85%EB%A7%8C%EB%82%A8%EC%9D%98%E2%80%85%EA%B4%91%EC%9E%A5/8fde0848.png" data-original-src="https://upload.acmicpc.net/1cd8250b-1df6-43dd-b5b9-b30ebc2941ca/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" width="500px" /></p>
 
 <p>만남의 광장은 위 그림과 같이 <em>N</em> &times; <em>M</em> 크기의 녹지에 각각 다른 행을 골라 가로 방향으로 2개, 각각 다른 열을 골라 세로 방향으로 2개의 직선으로 뻗은 4개의 길을 놓아 만든다. 녹지의 <em>i</em>행 <em>j</em>열의&nbsp;칸에는 가치 <em>d<sub>ij</sub></em>가 정해져있다.</p>
 

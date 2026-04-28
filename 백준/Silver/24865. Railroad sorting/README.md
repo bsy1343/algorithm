@@ -18,7 +18,7 @@
 
 <p>Arsenii works as an operator at a sorting station, the scheme of which is shown on the image.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/24865.%E2%80%85Railroad%E2%80%85sorting/0246cb07.png" data-original-src="https://upload.acmicpc.net/5adac2fa-22bc-41a0-8c99-d414711faac6/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 352px; height: 91px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/24865.%E2%80%85Railroad%E2%80%85sorting/0246cb07.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/24865.%E2%80%85Railroad%E2%80%85sorting/0246cb07.png" data-original-src="https://upload.acmicpc.net/5adac2fa-22bc-41a0-8c99-d414711faac6/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 352px; height: 91px;" /></p>
 
 <p>The station has an input track, an output track and two dead ends. The operator can move cars between tracks and dead ends.</p>
 

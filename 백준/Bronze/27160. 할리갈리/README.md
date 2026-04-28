@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/27160.%E2%80%85%ED%95%A0%EB%A6%AC%EA%B0%88%EB%A6%AC/19886107.png" data-original-src="https://upload.acmicpc.net/d306bac4-bfc2-4dd3-a4be-9f832cdefd6c/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 320px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/27160.%E2%80%85%ED%95%A0%EB%A6%AC%EA%B0%88%EB%A6%AC/19886107.png" data-original-src="%EB%B0%B1%EC%A4%80/Bronze/27160.%E2%80%85%ED%95%A0%EB%A6%AC%EA%B0%88%EB%A6%AC/19886107.png" data-original-src="https://upload.acmicpc.net/d306bac4-bfc2-4dd3-a4be-9f832cdefd6c/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 320px;" /></p>
 
 <p style="text-align: center;">그림 B.1: 할리갈리</p>
 

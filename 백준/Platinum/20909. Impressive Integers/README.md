@@ -21,8 +21,8 @@
 <table class="table table-bordered td-center th-center" style="width:100%;">
 	<tbody>
 		<tr>
-			<td style="width:50%;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/20909.%E2%80%85Impressive%E2%80%85Integers/b63f9b9e.png" data-original-src="https://upload.acmicpc.net/171b49ec-12cc-467e-a2aa-875f76aaddfa/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 239px; height: 211px;" /></td>
-			<td style="width:50%;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/20909.%E2%80%85Impressive%E2%80%85Integers/13d5f033.png" data-original-src="https://upload.acmicpc.net/b52b268f-8dc5-43f0-831f-fe2a6ccd4aa2/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 239px; height: 211px;" /></td>
+			<td style="width:50%;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/20909.%E2%80%85Impressive%E2%80%85Integers/b63f9b9e.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/20909.%E2%80%85Impressive%E2%80%85Integers/b63f9b9e.png" data-original-src="https://upload.acmicpc.net/171b49ec-12cc-467e-a2aa-875f76aaddfa/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 239px; height: 211px;" /></td>
+			<td style="width:50%;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/20909.%E2%80%85Impressive%E2%80%85Integers/13d5f033.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/20909.%E2%80%85Impressive%E2%80%85Integers/13d5f033.png" data-original-src="https://upload.acmicpc.net/b52b268f-8dc5-43f0-831f-fe2a6ccd4aa2/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 239px; height: 211px;" /></td>
 		</tr>
 	</tbody>
 	<tfoot>

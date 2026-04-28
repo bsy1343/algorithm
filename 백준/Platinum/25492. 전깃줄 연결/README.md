@@ -18,7 +18,7 @@
 
 <p>신촌 왕국은 현재 재개발 공사가 한창이다. 일렬로 된 도로에 $N$개의 전봇대가 설치되어 있는데, 이 중 일부를 제거하고 사이를 전깃줄로 연결하는 작업이다. 전봇대를 순서대로 $1$번부터 $N$번이라고 했을 때, $1$번 전봇대 아래에 있는 발전소로부터 $N$번 전봇대 아래에 있는 마을에 전력을 공급해야 한다. 두 전봇대 사이에 전깃줄이 없으면 전기가 흐르지 않는다.  </p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/25492.%E2%80%85%EC%A0%84%EA%B9%83%EC%A4%84%E2%80%85%EC%97%B0%EA%B2%B0/aaa8f5c3.png" data-original-src="https://upload.acmicpc.net/9b5f832c-4ba1-408c-96df-5e097ff321aa/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 281px; width: 400px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/25492.%E2%80%85%EC%A0%84%EA%B9%83%EC%A4%84%E2%80%85%EC%97%B0%EA%B2%B0/aaa8f5c3.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/25492.%E2%80%85%EC%A0%84%EA%B9%83%EC%A4%84%E2%80%85%EC%97%B0%EA%B2%B0/aaa8f5c3.png" data-original-src="https://upload.acmicpc.net/9b5f832c-4ba1-408c-96df-5e097ff321aa/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 281px; width: 400px;" /></p>
 
 <p>어떤 $i$번 전봇대와 $j$번 전봇대$(1 \le i &lt; j \le N)$ 사이에 전깃줄을 설치하는 비용은 다음과 같다.</p>
 

@@ -18,7 +18,7 @@
 
 <p>同じ大きさの正方形の紙が n 枚ある．これらの紙の下部を水平に揃えて何列 かに並べる．ただし，隣り合う列は左側が右側より低くならないように並べなけれ ばならない．例えば, n = 5 のときは，次のような 7 通りの並べ方が可能である．</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/5604.%E2%80%85%E5%95%8F%E9%A1%8C3/d4a96d2f.png" data-original-src="https://upload.acmicpc.net/ec4ea868-fe5f-4f56-929b-d5e5643f090b/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 405px; height: 87px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/5604.%E2%80%85%E5%95%8F%E9%A1%8C3/d4a96d2f.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/5604.%E2%80%85%E5%95%8F%E9%A1%8C3/d4a96d2f.png" data-original-src="https://upload.acmicpc.net/ec4ea868-fe5f-4f56-929b-d5e5643f090b/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 405px; height: 87px;" /></p>
 
 <p>これらを，各列に並んだ正方形の個数の列で表すことにする．例えば，n = 5 の ときは，それぞれ，</p>
 

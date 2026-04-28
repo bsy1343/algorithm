@@ -26,7 +26,7 @@
 
 <p>Piet Hein ordered his men to tow away all the ships in the chaingroup that contained the largest amount of booty, after severing the links with the remaining ships in the Spanish fleet with a few highly accurate canon shots. The total booty in a chaingroup is the total number of silver coins in the vessels that make up the chaingroup.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/9644.%E2%80%85Battle%E2%80%85for%E2%80%85Silver/f052e8af.png" data-original-src="https://www.acmicpc.net/upload/images2/bfs.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:235px; width:246px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/9644.%E2%80%85Battle%E2%80%85for%E2%80%85Silver/f052e8af.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/9644.%E2%80%85Battle%E2%80%85for%E2%80%85Silver/f052e8af.png" data-original-src="https://www.acmicpc.net/upload/images2/bfs.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:235px; width:246px" /></p>
 
 <p>Figure 1 &ndash; The Silver Fleet represented as a graph: each dot denotes a vessel in the fleet, while each line denotes a chain that connects two vessels. The vessels that are connected in the figure by the dashed lines correspond to the chaingroup that provides the highest total value of silver coins. In this case, Piet Hein loots 4500 silver coins from the fleet.</p>
 

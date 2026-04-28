@@ -28,27 +28,27 @@
 
 <p>Let us explain this compaction procedure in the following example. Figure 1 is the initial layout of the given set of rectangles. After moving blocks downward as much as possible, we get the layout as shown in Figure 2.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/8900.%E2%80%85Block%E2%80%85Compaction/1a873149.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/8900/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202017-01-05%20%EC%98%A4%ED%9B%84%204.46.29.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:176px; width:206px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/8900.%E2%80%85Block%E2%80%85Compaction/1a873149.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/8900.%E2%80%85Block%E2%80%85Compaction/1a873149.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/8900/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202017-01-05%20%EC%98%A4%ED%9B%84%204.46.29.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:176px; width:206px" /></p>
 
 <p style="text-align: center;">Figure 1. Input Rectangles</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/8900.%E2%80%85Block%E2%80%85Compaction/4dd465e9.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/8900/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202017-01-05%20%EC%98%A4%ED%9B%84%204.46.35.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:175px; width:206px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/8900.%E2%80%85Block%E2%80%85Compaction/4dd465e9.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/8900.%E2%80%85Block%E2%80%85Compaction/4dd465e9.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/8900/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202017-01-05%20%EC%98%A4%ED%9B%84%204.46.35.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:175px; width:206px" /></p>
 
 <p style="text-align: center;">Figure 2. After moving blocks downward</p>
 
 <p>Since we cannot move any blocks downward in Figure 2, we try to move blocks leftward by COMPACT in Figure 3. Note that all blocks must remain mutually disjoint in the COMPACT procedure, but they can be put together along boundary edges. For boundary edges sharing, see {E, G, F}, {A, B} and {C, D} rectangles in Figure 2.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/8900.%E2%80%85Block%E2%80%85Compaction/6414979e.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/8900/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202017-01-05%20%EC%98%A4%ED%9B%84%204.46.44.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:179px; width:206px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/8900.%E2%80%85Block%E2%80%85Compaction/6414979e.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/8900.%E2%80%85Block%E2%80%85Compaction/6414979e.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/8900/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202017-01-05%20%EC%98%A4%ED%9B%84%204.46.44.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:179px; width:206px" /></p>
 
 <p style="text-align: center;">Figure 3. After moving blocks leftward</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/8900.%E2%80%85Block%E2%80%85Compaction/734308b4.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/8900/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202017-01-05%20%EC%98%A4%ED%9B%84%204.46.50.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:173px; width:206px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/8900.%E2%80%85Block%E2%80%85Compaction/734308b4.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/8900.%E2%80%85Block%E2%80%85Compaction/734308b4.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/8900/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202017-01-05%20%EC%98%A4%ED%9B%84%204.46.50.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:173px; width:206px" /></p>
 
 <p style="text-align: center;">Figure 4. After moving blocks downward</p>
 
 <p>If we repeat this procedure as in Figure 4 until we cannot move any blocks, then we get the final compacted rectangles as shown in Figure 5. Finally we obtain the dotted rectangle as the smallest enclosing rectangle for them.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/8900.%E2%80%85Block%E2%80%85Compaction/f3b2e479.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/8900/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202017-01-05%20%EC%98%A4%ED%9B%84%204.46.59.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:178px; width:206px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/8900.%E2%80%85Block%E2%80%85Compaction/f3b2e479.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/8900.%E2%80%85Block%E2%80%85Compaction/f3b2e479.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/8900/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202017-01-05%20%EC%98%A4%ED%9B%84%204.46.59.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:178px; width:206px" /></p>
 
 <p style="text-align: center;">Figure 5. We finally get the smallest enclosing rectangle (dotted box) by applying COMPACT till no blocks can be moved.</p>
 

@@ -18,7 +18,7 @@
 
 <p>미어캣 <em>N</em>마리로 구성된 미어캣 가족이 집단생활을 하고 있다. 낮에는 미어캣들이 천적에 대응하기 위해 굴에서 나와 1차원 좌표에서 보초를 선다. 각 미어캣은 보초를 설 때 자신의 위치와 바라보는 방향이 왼쪽 혹은 오른쪽 중 하나로 정해져 있으며, 보초를 서는 동안에는 자신이 바라보는 방향을 바꿀 수 없다.</p>
 
-<p style="text-align:center;"><img alt="보초를 서고 있는 귀여운 미어캣 다섯 마리" src="%EB%B0%B1%EC%A4%80/Platinum/32027.%E2%80%85%EB%AF%B8%EC%96%B4%EC%BA%A3/8993de8d.png" data-original-src="https://upload.acmicpc.net/053be683-c46c-4d9c-b8e6-5ec93e19849e/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="max-width: 100%; width: 650px;" /></p>
+<p style="text-align:center;"><img alt="보초를 서고 있는 귀여운 미어캣 다섯 마리" src="%EB%B0%B1%EC%A4%80/Platinum/32027.%E2%80%85%EB%AF%B8%EC%96%B4%EC%BA%A3/8993de8d.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/32027.%E2%80%85%EB%AF%B8%EC%96%B4%EC%BA%A3/8993de8d.png" data-original-src="https://upload.acmicpc.net/053be683-c46c-4d9c-b8e6-5ec93e19849e/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="max-width: 100%; width: 650px;" /></p>
 
 <p>미어캣 가족 내의 모든 미어캣의 키는 서로 다르며 자신보다 키가 큰 미어캣이 자신이 바라보는 방향에 서 있는 경우 망을 볼 수 없다. 이를 불쌍하게 여긴 당신은 미어캣 가족이 눈치채지 못하게 아래의 행동을 자유롭게 수행할 수 있다.</p>
 

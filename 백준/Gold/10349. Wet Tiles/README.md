@@ -25,7 +25,7 @@
 <table style="height:204px; text-align:center; width:406px">
 	<tbody>
 		<tr>
-			<td><img alt="example 1" src="%EB%B0%B1%EC%A4%80/Gold/10349.%E2%80%85Wet%E2%80%85Tiles/210ba4a9.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/10349/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:272px; width:273px" /><br />
+			<td><img alt="example 1" src="%EB%B0%B1%EC%A4%80/Gold/10349.%E2%80%85Wet%E2%80%85Tiles/210ba4a9.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/10349.%E2%80%85Wet%E2%80%85Tiles/210ba4a9.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/10349/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:272px; width:273px" /><br />
 			75 wet tiles</td>
 		</tr>
 		<tr>
@@ -37,11 +37,11 @@
 <table style="height:204px; text-align:center; width:406px">
 	<tbody>
 		<tr>
-			<td><img alt="example 2" src="%EB%B0%B1%EC%A4%80/Gold/10349.%E2%80%85Wet%E2%80%85Tiles/43e599d1.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/10349/2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:183px; width:223px" /><br />
+			<td><img alt="example 2" src="%EB%B0%B1%EC%A4%80/Gold/10349.%E2%80%85Wet%E2%80%85Tiles/43e599d1.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/10349.%E2%80%85Wet%E2%80%85Tiles/43e599d1.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/10349/2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:183px; width:223px" /><br />
 			17 wet tiles</td>
-			<td><img alt="example 3" src="%EB%B0%B1%EC%A4%80/Gold/10349.%E2%80%85Wet%E2%80%85Tiles/ce37f8d3.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/10349/3.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:179px; width:155px" /><br />
+			<td><img alt="example 3" src="%EB%B0%B1%EC%A4%80/Gold/10349.%E2%80%85Wet%E2%80%85Tiles/ce37f8d3.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/10349.%E2%80%85Wet%E2%80%85Tiles/ce37f8d3.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/10349/3.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:179px; width:155px" /><br />
 			4 wet tiles</td>
-			<td><img alt="example 4" src="%EB%B0%B1%EC%A4%80/Gold/10349.%E2%80%85Wet%E2%80%85Tiles/626c9321.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/10349/4.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:186px; width:182px" /><br />
+			<td><img alt="example 4" src="%EB%B0%B1%EC%A4%80/Gold/10349.%E2%80%85Wet%E2%80%85Tiles/626c9321.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/10349.%E2%80%85Wet%E2%80%85Tiles/626c9321.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/10349/4.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:186px; width:182px" /><br />
 			94 wet tiles</td>
 		</tr>
 		<tr>

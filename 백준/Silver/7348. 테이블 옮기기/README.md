@@ -18,7 +18,7 @@
 
 <p>ACM 회사는 아래 그림과 같은&nbsp;빌딩의 한 층을 빌렸다. 이 층의 방들은 다음과 같이 번호가 매겨져 있다.</p>
 
-<p><img alt="movingtable.png" src="%EB%B0%B1%EC%A4%80/Silver/7348.%E2%80%85%ED%85%8C%EC%9D%B4%EB%B8%94%E2%80%85%EC%98%AE%EA%B8%B0%EA%B8%B0/986dc22a.png" data-original-src="https://upload.acmicpc.net/13c78610-a087-45db-b9b9-d158f9015ea9/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p><img alt="movingtable.png" src="%EB%B0%B1%EC%A4%80/Silver/7348.%E2%80%85%ED%85%8C%EC%9D%B4%EB%B8%94%E2%80%85%EC%98%AE%EA%B8%B0%EA%B8%B0/986dc22a.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/7348.%E2%80%85%ED%85%8C%EC%9D%B4%EB%B8%94%E2%80%85%EC%98%AE%EA%B8%B0%EA%B8%B0/986dc22a.png" data-original-src="https://upload.acmicpc.net/13c78610-a087-45db-b9b9-d158f9015ea9/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>그림처럼 이 층에는&nbsp;복도를 따라 양쪽 사이드로 각각 200개의 방이 있다. ACM 회사는 이 방들을 리모델링하려는 계획을 세웠다. 당연히 어떤 방에서 다른 방으로 많은 테이블을 옮겨야 한다.&nbsp;이때 복도는 좁고 테이블이 커서 단지 하나의 테이블만 이 복도를 지날 수 있다.</p>
 

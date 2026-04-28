@@ -22,7 +22,7 @@
 
 <p>まず貼り絵を作るための台紙として，横 a cm，縦 b cm の長方形の紙を使うことにした．こ の台紙には 1 cm おきに辺に平行になるように縦横に直線が引かれ，全体でa&times;b 個の一辺 1 cm の正方形の格子ができるように区切られている．これより，左から x 列目，下から y 行目の格 子を (x, y) と表す．</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/24145.%E2%80%85%E6%8A%98%E3%82%8A%E7%B4%99%E2%80%85(Origami)/5131dea4.png" data-original-src="https://upload.acmicpc.net/17374233-34a7-4050-bd2c-557a82b8100d/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 161px; height: 123px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/24145.%E2%80%85%E6%8A%98%E3%82%8A%E7%B4%99%E2%80%85(Origami)/5131dea4.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/24145.%E2%80%85%E6%8A%98%E3%82%8A%E7%B4%99%E2%80%85(Origami)/5131dea4.png" data-original-src="https://upload.acmicpc.net/17374233-34a7-4050-bd2c-557a82b8100d/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 161px; height: 123px;" /></p>
 
 <p style="text-align: center;">図 1: 横 8 cm，縦 6 cm の長方形の台紙 (a = 8, b = 6 の場合)</p>
 
@@ -34,7 +34,7 @@
 
 <p>下の図は，横 8 cm，縦 6 cm の長方形の台紙に，4枚の折り紙を(2, 4, 3, 6), (5, 1, 6, 6), (2, 5, 8, 5), (1, 2, 5, 3) の順番に貼った様子を図示したものである．このとき最も多く折り紙を重ねている部 分は 2 枚重ねであり，その部分の合計の面積は 6cm<sup>2</sup> である．</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/24145.%E2%80%85%E6%8A%98%E3%82%8A%E7%B4%99%E2%80%85(Origami)/ba57570e.png" data-original-src="https://upload.acmicpc.net/754eee46-529a-4492-8859-dacfc9ad06b2/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 161px; height: 123px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/24145.%E2%80%85%E6%8A%98%E3%82%8A%E7%B4%99%E2%80%85(Origami)/ba57570e.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/24145.%E2%80%85%E6%8A%98%E3%82%8A%E7%B4%99%E2%80%85(Origami)/ba57570e.png" data-original-src="https://upload.acmicpc.net/754eee46-529a-4492-8859-dacfc9ad06b2/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 161px; height: 123px;" /></p>
 
 <p style="text-align: center;">図 2: 貼付け方の例</p>
 

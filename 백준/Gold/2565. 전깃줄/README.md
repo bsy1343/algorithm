@@ -20,7 +20,7 @@
 
 <p>예를 들어, &lt; 그림 1 &gt;과 같이 전깃줄이 연결되어 있는 경우 A의 1번 위치와 B의 8번 위치를 잇는 전깃줄, A의 3번 위치와 B의 9번 위치를 잇는 전깃줄, A의 4번 위치와 B의 1번 위치를 잇는 전깃줄을 없애면 남아있는 모든 전깃줄이 서로 교차하지 않게 된다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/2565.%E2%80%85%EC%A0%84%EA%B9%83%EC%A4%84/291267f8.png" data-original-src="https://upload.acmicpc.net/d90221dd-eb80-419f-bdfb-5dd4ebac23af/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 183px; height: 288px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/2565.%E2%80%85%EC%A0%84%EA%B9%83%EC%A4%84/291267f8.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/2565.%E2%80%85%EC%A0%84%EA%B9%83%EC%A4%84/291267f8.png" data-original-src="https://upload.acmicpc.net/d90221dd-eb80-419f-bdfb-5dd4ebac23af/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 183px; height: 288px;" /></p>
 
 <p style="text-align: center;">&lt; 그림 1 &gt;</p>
 

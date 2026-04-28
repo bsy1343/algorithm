@@ -22,7 +22,7 @@
 
 <p>Клавиатура <em>Mokia</em> выглядит следующим образом:</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/29666.%E2%80%85%D0%91%D0%BB%D0%BE%D0%BA%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B0%E2%80%85%D1%82%D0%B5%D0%BB%D0%B5%D1%84%D0%BE%D0%BD%D0%B0/4548016e.png" data-original-src="https://upload.acmicpc.net/2854974b-c847-487a-b13b-b54021d1ac2f/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 124px; height: 161px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/29666.%E2%80%85%D0%91%D0%BB%D0%BE%D0%BA%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B0%E2%80%85%D1%82%D0%B5%D0%BB%D0%B5%D1%84%D0%BE%D0%BD%D0%B0/4548016e.png" data-original-src="%EB%B0%B1%EC%A4%80/Bronze/29666.%E2%80%85%D0%91%D0%BB%D0%BE%D0%BA%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B0%E2%80%85%D1%82%D0%B5%D0%BB%D0%B5%D1%84%D0%BE%D0%BD%D0%B0/4548016e.png" data-original-src="https://upload.acmicpc.net/2854974b-c847-487a-b13b-b54021d1ac2f/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 124px; height: 161px;" /></p>
 
 <p>Вас нанял главный начальник <em>SimSung</em> и попросил написать программу, проверяющую, может ли данная комбинация клавиш разблокировать телефон. Не подведите его!</p>
 

@@ -25,8 +25,8 @@
 <table class="table table-bordered td-center">
 	<tbody>
 		<tr>
-			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/22355.%E2%80%85%EB%A7%90%EB%9A%9D/31b26dad.png" data-original-src="https://upload.acmicpc.net/5363afc9-c794-4dd8-906e-4384c49cf329/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 240px; height: 80px;" /></td>
-			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/22355.%E2%80%85%EB%A7%90%EB%9A%9D/0d56fbd3.png" data-original-src="https://upload.acmicpc.net/5e3e8cdb-edc2-46dc-bf01-eeefdad9f89e/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 240px; height: 80px;" /></td>
+			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/22355.%E2%80%85%EB%A7%90%EB%9A%9D/31b26dad.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/22355.%E2%80%85%EB%A7%90%EB%9A%9D/31b26dad.png" data-original-src="https://upload.acmicpc.net/5363afc9-c794-4dd8-906e-4384c49cf329/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 240px; height: 80px;" /></td>
+			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/22355.%E2%80%85%EB%A7%90%EB%9A%9D/0d56fbd3.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/22355.%E2%80%85%EB%A7%90%EB%9A%9D/0d56fbd3.png" data-original-src="https://upload.acmicpc.net/5e3e8cdb-edc2-46dc-bf01-eeefdad9f89e/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 240px; height: 80px;" /></td>
 		</tr>
 		<tr>
 			<td>그림 E.1: 아름다움이 1인 초기 말뚝의 상태</td>

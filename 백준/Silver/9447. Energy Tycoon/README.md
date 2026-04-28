@@ -27,7 +27,7 @@
 	<li>After each turn, the computer counts the amount of energy produced by the power plants on the board and adds it to the total score.</li>
 </ul>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/9447.%E2%80%85Energy%E2%80%85Tycoon/5a0220b2.png" data-original-src="https://www.acmicpc.net/upload/images2/enegrgytycoon.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:54px; width:545px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/9447.%E2%80%85Energy%E2%80%85Tycoon/5a0220b2.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/9447.%E2%80%85Energy%E2%80%85Tycoon/5a0220b2.png" data-original-src="https://www.acmicpc.net/upload/images2/enegrgytycoon.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:54px; width:545px" /></p>
 
 <p>Vasya already knows the types of power plant he will be able to build each turn. Now he wants to know, what the maximum possible score he can get is. Can you help him?</p>
 

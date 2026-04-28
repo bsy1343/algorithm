@@ -36,7 +36,7 @@ input 1   input 2    output
 	<li>There exists a numbering of gates such that for every gate each of its inputs is connected to the input of the net or to the output of a gate with a smaller number.</li>
 </ol>
 
-<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/8087.%E2%80%85XOR%E2%80%85Gates/18d7db86.gif" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/8087/1.gif" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:207px; width:400px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/8087.%E2%80%85XOR%E2%80%85Gates/18d7db86.gif" data-original-src="%EB%B0%B1%EC%A4%80/Gold/8087.%E2%80%85XOR%E2%80%85Gates/18d7db86.gif" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/8087/1.gif" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:207px; width:400px" /></p>
 
 <p>The net of 6&nbsp;gates is shown in the figure. It has 5&nbsp;inputs and 1&nbsp;output and meets conditions 1&ndash;5 so it is a XOR net. Observe that the numbers given in the figure do not agree with the fifth condition but there exists an appropriate numbering.</p>
 

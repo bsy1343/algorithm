@@ -20,7 +20,7 @@
 
 <p>Assume that the angle of incidence is equal to the angle of reflection (see the image below; the location of the laser in the image is for demonstration purposes only).</p>
 
-<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/15377.%E2%80%85Bounce%E2%80%85Bounce%E2%80%85Bounce/ed29ef11.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15377/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:276px; width:277px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/15377.%E2%80%85Bounce%E2%80%85Bounce%E2%80%85Bounce/ed29ef11.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/15377.%E2%80%85Bounce%E2%80%85Bounce%E2%80%85Bounce/ed29ef11.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15377/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:276px; width:277px" /></p>
 
 ### 입력
 
@@ -43,8 +43,8 @@
 
 <p>For the first example, there are exactly four ways to bounce exactly four times and return to the same point. See the figure below.</p>
 
-<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/15377.%E2%80%85Bounce%E2%80%85Bounce%E2%80%85Bounce/570e9a3d.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15377/2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:143px; width:551px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/15377.%E2%80%85Bounce%E2%80%85Bounce%E2%80%85Bounce/570e9a3d.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/15377.%E2%80%85Bounce%E2%80%85Bounce%E2%80%85Bounce/570e9a3d.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15377/2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:143px; width:551px" /></p>
 
 <p>For the second example, there are exactly two ways to bounce exactly three times and return to the same point. See the figure below.</p>
 
-<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/15377.%E2%80%85Bounce%E2%80%85Bounce%E2%80%85Bounce/615111c1.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15377/3.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:166px; width:334px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/15377.%E2%80%85Bounce%E2%80%85Bounce%E2%80%85Bounce/615111c1.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/15377.%E2%80%85Bounce%E2%80%85Bounce%E2%80%85Bounce/615111c1.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15377/3.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:166px; width:334px" /></p>

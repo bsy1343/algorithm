@@ -20,7 +20,7 @@
 
 <p>Below, such a sequence of moves is illustrated, for n = 2. Pawns are depicted by the letter P.</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/9270.%E2%80%85Red%E2%80%85John%E2%80%85Game/337da85f.png" data-original-src="https://www.acmicpc.net/upload/images2/rj.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:83px; width:472px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/9270.%E2%80%85Red%E2%80%85John%E2%80%85Game/337da85f.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/9270.%E2%80%85Red%E2%80%85John%E2%80%85Game/337da85f.png" data-original-src="https://www.acmicpc.net/upload/images2/rj.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:83px; width:472px" /></p>
 
 ### 입력
 

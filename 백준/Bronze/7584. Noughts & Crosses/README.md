@@ -18,7 +18,7 @@
 
 <p>Noughts and crosses is a simple game played by 2 people. The aim is to get a row of 3 of your own symbols (vertically, horizontally or diagonally) before your opponent can do so. For example:&nbsp;</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/7584.%E2%80%85Noughts%E2%80%85%26%E2%80%85Crosses/6d13ccc2.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/7584/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:126px; width:307px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/7584.%E2%80%85Noughts%E2%80%85%26%E2%80%85Crosses/6d13ccc2.png" data-original-src="%EB%B0%B1%EC%A4%80/Bronze/7584.%E2%80%85Noughts%E2%80%85%26%E2%80%85Crosses/6d13ccc2.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/7584/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:126px; width:307px" /></p>
 
 <p>Game 1 shows X winning with a horizontal row. Game 2 shows O winning with a diagonal row. Game 3 is a draw as neither side has completed a row.&nbsp;</p>
 
@@ -28,7 +28,7 @@
 
 <p>A number of turns follow the initial letter, on the same line, all separated from each other by a space. A turn is designated by one of the numbers from 1 to 9, numbers representing board squares as shown below:</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/7584.%E2%80%85Noughts%E2%80%85%26%E2%80%85Crosses/61b859d5.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/7584/2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:101px; line-height:20.8px; width:106px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/7584.%E2%80%85Noughts%E2%80%85%26%E2%80%85Crosses/61b859d5.png" data-original-src="%EB%B0%B1%EC%A4%80/Bronze/7584.%E2%80%85Noughts%E2%80%85%26%E2%80%85Crosses/61b859d5.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/7584/2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:101px; line-height:20.8px; width:106px" /></p>
 
 <p>Game 1 above could have been represented as</p>
 

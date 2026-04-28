@@ -20,7 +20,7 @@
 
 <p>In this puzzle, you are given several line segments placed on a two-dimensional area. You are allowed to add some new line segments each connecting the end points of two existing line segments. The objective is to form a single polyline, by connecting all given line segments, as short as possible. The resulting polyline is allowed to intersect itself.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/22712.%E2%80%85Connect%E2%80%85Line%E2%80%85Segments/8c1cb21f.png" data-original-src="https://upload.acmicpc.net/d493c7bf-6388-4502-9aae-494b45388e12/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 464px; height: 251px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/22712.%E2%80%85Connect%E2%80%85Line%E2%80%85Segments/8c1cb21f.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/22712.%E2%80%85Connect%E2%80%85Line%E2%80%85Segments/8c1cb21f.png" data-original-src="https://upload.acmicpc.net/d493c7bf-6388-4502-9aae-494b45388e12/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 464px; height: 251px;" /></p>
 
 <p>Arnie has solved many instances by his own way, but he is wondering if his solutions are the best one. He knows you are a good programmer, so he asked you to write a computer program with which he can verify his solutions.</p>
 

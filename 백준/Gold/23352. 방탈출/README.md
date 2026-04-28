@@ -35,7 +35,7 @@
 
 <p>&lt;예시&gt; $5 \times 5$ 형태의 지도가 주어질 때, 위의 2가지 조건을 만족하는 경로는 다음과 같다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/23352.%E2%80%85%EB%B0%A9%ED%83%88%EC%B6%9C/5dcb8b7a.png" data-original-src="https://upload.acmicpc.net/9b335e35-1fb0-494d-b517-a0480eb097a9/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 480px; height: 300px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/23352.%E2%80%85%EB%B0%A9%ED%83%88%EC%B6%9C/5dcb8b7a.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/23352.%E2%80%85%EB%B0%A9%ED%83%88%EC%B6%9C/5dcb8b7a.png" data-original-src="https://upload.acmicpc.net/9b335e35-1fb0-494d-b517-a0480eb097a9/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 480px; height: 300px;" /></p>
 
 <p>이 때 비밀번호가 무엇인지를 구해라.</p>
 

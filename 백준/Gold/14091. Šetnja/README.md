@@ -18,15 +18,15 @@
 
 <p>Slavko je upravo popločao svoju kuhinju na matematički zanimljiv način. Na početku je njegova kuhinja jedna pločica oblika pravokutnika dimenzija 1x2 kao na slici:</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/14091.%E2%80%85%C5%A0etnja/9599542e.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/14091/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202017-01-02%20%EC%98%A4%ED%9B%84%204.29.36.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:95px; width:184px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/14091.%E2%80%85%C5%A0etnja/9599542e.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/14091.%E2%80%85%C5%A0etnja/9599542e.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/14091/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202017-01-02%20%EC%98%A4%ED%9B%84%204.29.36.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:95px; width:184px" /></p>
 
 <p>Zatim je N puta podijelio svaku pločicu na 4 manje pločice na sljedeći način. Nakon jedne podjele dobivamo pravokutnik dimenzija 2x4:</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/14091.%E2%80%85%C5%A0etnja/b9003a42.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/14091/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202017-01-02%20%EC%98%A4%ED%9B%84%204.29.46.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:94px; width:184px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/14091.%E2%80%85%C5%A0etnja/b9003a42.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/14091.%E2%80%85%C5%A0etnja/b9003a42.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/14091/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202017-01-02%20%EC%98%A4%ED%9B%84%204.29.46.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:94px; width:184px" /></p>
 
 <p>Nakon druge podjele tako dobivamo pravokutnik dimenzija 4x8:&nbsp;</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/14091.%E2%80%85%C5%A0etnja/7e860a31.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/14091/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202017-01-02%20%EC%98%A4%ED%9B%84%204.30.01.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:94px; width:184px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/14091.%E2%80%85%C5%A0etnja/7e860a31.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/14091.%E2%80%85%C5%A0etnja/7e860a31.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/14091/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202017-01-02%20%EC%98%A4%ED%9B%84%204.30.01.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:94px; width:184px" /></p>
 
 <p>Nakon konačnog popločenja kuhinju možemo promatrati kao koordinatni sustav gdje svaka pločica pokriva točno dva polja. Polje u gornjem lijevom kutu nalazi se u prvom retku i prvom stupcu te ima koordinate (1, 1), dok polje u donjem desnom kutu ima koordinate (2<sup>N</sup>, 2<sup>N+1</sup>).</p>
 
@@ -57,6 +57,6 @@
 
 <p>Slavkov put izgleda ovako:</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/14091.%E2%80%85%C5%A0etnja/588a8a64.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/14091/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202017-01-02%20%EC%98%A4%ED%9B%84%204.32.02.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:121px; width:230px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/14091.%E2%80%85%C5%A0etnja/588a8a64.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/14091.%E2%80%85%C5%A0etnja/588a8a64.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/14091/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202017-01-02%20%EC%98%A4%ED%9B%84%204.32.02.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:121px; width:230px" /></p>
 
 <p>Zacrnjenim pomacima Slavko je pre&scaron;ao između dvije pločice.&nbsp;</p>

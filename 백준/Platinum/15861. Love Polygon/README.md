@@ -34,7 +34,7 @@
 
 ### 힌트
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/15861.%E2%80%85Love%E2%80%85Polygon/99ca3b36.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15861/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 441px; height: 250px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/15861.%E2%80%85Love%E2%80%85Polygon/99ca3b36.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/15861.%E2%80%85Love%E2%80%85Polygon/99ca3b36.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15861/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 441px; height: 250px;" /></p>
 
 <p>The first example is illustrated in the figure above. The upper part shows the initial love situation, where an arrow pointing from s to t indicates that s initially loves t, and the pink color highlights the three characters that needs to be shot with love arrows in the unique optimal solution. The lower part shows the situation afterwards.</p>
 

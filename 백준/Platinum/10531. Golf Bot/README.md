@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/10531.%E2%80%85Golf%E2%80%85Bot/42c3ae79.png" data-original-src="https://www.acmicpc.net/upload/images2/golf.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="float:right; height:392px; width:291px" />Do you like golf? I hate it. I hate golf so much that I decided to build the ultimate golf robot, a robot that will never miss a shot. I simply place it over the ball, choose the right direction and distance and, flawlessly, it will strike the ball across the air and into the hole. Golf will never be played again.</p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/10531.%E2%80%85Golf%E2%80%85Bot/42c3ae79.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/10531.%E2%80%85Golf%E2%80%85Bot/42c3ae79.png" data-original-src="https://www.acmicpc.net/upload/images2/golf.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="float:right; height:392px; width:291px" />Do you like golf? I hate it. I hate golf so much that I decided to build the ultimate golf robot, a robot that will never miss a shot. I simply place it over the ball, choose the right direction and distance and, flawlessly, it will strike the ball across the air and into the hole. Golf will never be played again.</p>
 
 <p>Unfortunately, it doesn&rsquo;t work as planned. So, here I am, standing in the green and preparing my first strike when I realize that the distance-selector knob built-in doesn&rsquo;t have all the distance options! Not everything is lost, as I have 2 shots.</p>
 

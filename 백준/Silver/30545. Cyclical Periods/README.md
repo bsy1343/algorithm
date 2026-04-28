@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/30545.%E2%80%85Cyclical%E2%80%85Periods/cc752d3c.png" data-original-src="https://upload.acmicpc.net/6383a5a7-065c-46d8-a1fe-95bb421d04b5/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 644px; height: 50px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/30545.%E2%80%85Cyclical%E2%80%85Periods/cc752d3c.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/30545.%E2%80%85Cyclical%E2%80%85Periods/cc752d3c.png" data-original-src="https://upload.acmicpc.net/6383a5a7-065c-46d8-a1fe-95bb421d04b5/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 644px; height: 50px;" /></p>
 
 <p>The image illustrates the superposition of four cycles $a$, $b$, $c$, and $d$ of differing offsets and periods. It can be quickly seen that $a$ appears every 3 steps with an offset of 3, $b$ every 4 steps with an offset of 2, $c$ every 7 steps with an offset of 5, and $d$ every 11 steps with an offset of 4. Cycle $d$ can be seen to have the longest period. The first sample input describes the case in the image.</p>
 

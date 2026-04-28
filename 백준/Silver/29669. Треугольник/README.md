@@ -30,4 +30,4 @@
 
 <p>В первом примере ответ может выглядеть так:</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/29669.%E2%80%85%D0%A2%D1%80%D0%B5%D1%83%D0%B3%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA/509e8894.png" data-original-src="https://upload.acmicpc.net/06723bc1-4748-4c99-9fb0-71aea9517500/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 320px; height: 300px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/29669.%E2%80%85%D0%A2%D1%80%D0%B5%D1%83%D0%B3%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA/509e8894.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/29669.%E2%80%85%D0%A2%D1%80%D0%B5%D1%83%D0%B3%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA/509e8894.png" data-original-src="https://upload.acmicpc.net/06723bc1-4748-4c99-9fb0-71aea9517500/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 320px; height: 300px;" /></p>

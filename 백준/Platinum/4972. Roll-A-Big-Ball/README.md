@@ -24,7 +24,7 @@
 
 <p>The positions of the ball and a block can be like in Figure E-1 (a) and (b).</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/4972.%E2%80%85Roll-A-Big-Ball/48656ae6.png" data-original-src="https://www.acmicpc.net/upload/images3/E1(1).png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:188px; width:418px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/4972.%E2%80%85Roll-A-Big-Ball/48656ae6.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/4972.%E2%80%85Roll-A-Big-Ball/48656ae6.png" data-original-src="https://www.acmicpc.net/upload/images3/E1(1).png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:188px; width:418px" /></p>
 
 <p style="text-align: center;">Figure E-1: Possible positions of the ball and a block</p>
 

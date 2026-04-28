@@ -20,7 +20,7 @@
 
 <p>처음에 두 화물 열차는 아래 그림과 같이 첫 칸의 앞부분이 서로 마주보며 같은 선에 위치하고 있다. 화물 열차 A는 가만히 있고, 화물 열차 B를 움직여 컨테이너가 놓인 칸이 가능한 많이 겹쳐지게 하려고 한다. 화물 열차 B를 몇 칸 앞으로 움직여야 하는지 구하는 프로그램을 작성하시오.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/1665.%E2%80%85%ED%99%94%EB%AC%BC%EC%97%B4%EC%B0%A8/6f5d9287.png" data-original-src="https://upload.acmicpc.net/5a0468d3-d509-47ab-868c-6fa364e91f65/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 263px; height: 114px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/1665.%E2%80%85%ED%99%94%EB%AC%BC%EC%97%B4%EC%B0%A8/6f5d9287.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/1665.%E2%80%85%ED%99%94%EB%AC%BC%EC%97%B4%EC%B0%A8/6f5d9287.png" data-original-src="https://upload.acmicpc.net/5a0468d3-d509-47ab-868c-6fa364e91f65/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 263px; height: 114px;" /></p>
 
 ### 입력
 

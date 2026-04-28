@@ -18,7 +18,7 @@
 
 <p>Akara is a great wizard of Sanctuary. She is currently interested in runes, letters from an ancient language, which can enhance magic items and spells. Her recent studies show that some runes are more powerful than others.</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/13376.%E2%80%85Rune/c9339efb.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/13376/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-10-11%20%EC%98%A4%ED%9B%84%204.20.10.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:194px; width:308px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/13376.%E2%80%85Rune/c9339efb.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/13376.%E2%80%85Rune/c9339efb.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/13376/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-10-11%20%EC%98%A4%ED%9B%84%204.20.10.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:194px; width:308px" /></p>
 
 <p>Runes from Anglo-Saxon language.</p>
 

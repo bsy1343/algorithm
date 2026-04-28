@@ -20,7 +20,7 @@
 
 <p>Arturo has commission you to install motion-sensitive cameras to automatically activate the recording along these tunnels when these chinchilla pass through them. There should be at least one motion-sensitive camera along each of the possible running routes as he wants to capture all possible routes and their habits using minimum number of cameras. The underground burrows network can be represented as a series of connected intersections and bidirectional tunnel lanes (see Figure H). A possible running route consists of a start intersection A followed by a path consisting of two or more lanes (B, D, or E) that eventually leads back to the start intersection A. These running routes can start from any intersection.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/10367.%E2%80%85T%C3%BAnel%E2%80%85de%E2%80%85Rata/9a52a74f.png" data-original-src="https://www.acmicpc.net/upload/images2/tunel(1).png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:236px; width:305px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/10367.%E2%80%85T%C3%BAnel%E2%80%85de%E2%80%85Rata/9a52a74f.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/10367.%E2%80%85T%C3%BAnel%E2%80%85de%E2%80%85Rata/9a52a74f.png" data-original-src="https://www.acmicpc.net/upload/images2/tunel(1).png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:236px; width:305px" /></p>
 
 <p style="text-align: center;">Figure H: A sample burrow of intersections and connecting bidirectional tunnel lanes</p>
 

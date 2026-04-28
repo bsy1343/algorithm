@@ -22,7 +22,7 @@
 
 <p>Here is an illustration of a word tree with the words BEAM, BEAR, BEAT, CAMP and CART:</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/25777.%E2%80%85Word%E2%80%85Tree/8bababbd.png" data-original-src="https://upload.acmicpc.net/713271fc-7e87-4098-93b4-140a2bbd2a26/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 355px; height: 229px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/25777.%E2%80%85Word%E2%80%85Tree/8bababbd.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/25777.%E2%80%85Word%E2%80%85Tree/8bababbd.png" data-original-src="https://upload.acmicpc.net/713271fc-7e87-4098-93b4-140a2bbd2a26/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 355px; height: 229px;" /></p>
 
 <p>Finally, because we like only connecting words that are &quot;similar&quot;, our goal is to minimize the value of the maximum edge cost of the tree. In the example above, it is impossible to connect the words in a tree structure where each edge has a cost of less than 19.</p>
 

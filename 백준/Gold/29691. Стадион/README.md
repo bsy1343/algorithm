@@ -34,4 +34,4 @@
 
 <p>Пояснение к примеру:</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/29691.%E2%80%85%D0%A1%D1%82%D0%B0%D0%B4%D0%B8%D0%BE%D0%BD/308e3456.png" data-original-src="https://upload.acmicpc.net/024cc38f-7379-40dd-af72-bf26ca4e169d/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 200px; height: 202px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/29691.%E2%80%85%D0%A1%D1%82%D0%B0%D0%B4%D0%B8%D0%BE%D0%BD/308e3456.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/29691.%E2%80%85%D0%A1%D1%82%D0%B0%D0%B4%D0%B8%D0%BE%D0%BD/308e3456.png" data-original-src="https://upload.acmicpc.net/024cc38f-7379-40dd-af72-bf26ca4e169d/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 200px; height: 202px;" /></p>

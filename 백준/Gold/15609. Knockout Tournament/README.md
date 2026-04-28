@@ -22,7 +22,7 @@
 
 <p>When the number of players is not a power of two, some of the last players in the starting line-up advance from the first round automatically so that in the second round the number of players left is a power of two, as shown in Figure K.1.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/15609.%E2%80%85Knockout%E2%80%85Tournament/ee71be67.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15609/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 308px; height: 203px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/15609.%E2%80%85Knockout%E2%80%85Tournament/ee71be67.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/15609.%E2%80%85Knockout%E2%80%85Tournament/ee71be67.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15609/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 308px; height: 203px;" /></p>
 
 <p style="text-align: center;">Figure K.1: A tournament tree with 5 players. Players C, D, and E advance from the first round automatically.</p>
 

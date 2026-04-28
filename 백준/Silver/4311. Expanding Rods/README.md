@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/4311.%E2%80%85Expanding%E2%80%85Rods/286a8e9e.jpg" data-original-src="https://www.acmicpc.net/upload/images3/rods.jpg" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="float:right; height:209px; width:270px" />When a thin rod of length L is heated n degrees, it expands to a new length L&#39;=(1+n*C)*L, where C is the coefficient of heat expansion.</p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/4311.%E2%80%85Expanding%E2%80%85Rods/286a8e9e.jpg" data-original-src="%EB%B0%B1%EC%A4%80/Silver/4311.%E2%80%85Expanding%E2%80%85Rods/286a8e9e.jpg" data-original-src="https://www.acmicpc.net/upload/images3/rods.jpg" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="float:right; height:209px; width:270px" />When a thin rod of length L is heated n degrees, it expands to a new length L&#39;=(1+n*C)*L, where C is the coefficient of heat expansion.</p>
 
 <p>When a thin rod is mounted on two solid walls and then heated, it expands and takes the shape of a circular segment, the original rod being the chord of the segment.</p>
 

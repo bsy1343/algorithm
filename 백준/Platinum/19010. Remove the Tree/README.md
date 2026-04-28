@@ -41,4 +41,4 @@
 
 <p>The third example corresponds to the following image:</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/19010.%E2%80%85Remove%E2%80%85the%E2%80%85Tree/01325429.png" data-original-src="https://upload.acmicpc.net/8765c20b-dfc2-455a-ae70-6fd6386f06c3/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 300px; height: 470px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/19010.%E2%80%85Remove%E2%80%85the%E2%80%85Tree/01325429.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/19010.%E2%80%85Remove%E2%80%85the%E2%80%85Tree/01325429.png" data-original-src="https://upload.acmicpc.net/8765c20b-dfc2-455a-ae70-6fd6386f06c3/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 300px; height: 470px;" /></p>

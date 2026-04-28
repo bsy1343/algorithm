@@ -18,7 +18,7 @@
 
 <p>로마의 장군 카이사르는 로마군의 작전을 적이 모르게 하기 위하여 암호를 사용했다. 카이사르는 다음과 같이 문장에 있는 모든 알파벳 글자를 몇 칸 뒤의 알파벳으로 바꾸는 방식으로 암호를 만들었다. 아래 표는 모든 글자를 17칸 뒤의 알파벳으로 바꿨을 때 각 글자가 어떤 알파벳으로 바뀌는지 나타낸 표이다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/14584.%E2%80%85%EC%95%94%ED%98%B8%E2%80%85%ED%95%B4%EB%8F%85/89fe2f4e.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14584/table.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:67px; width:969px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/14584.%E2%80%85%EC%95%94%ED%98%B8%E2%80%85%ED%95%B4%EB%8F%85/89fe2f4e.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/14584.%E2%80%85%EC%95%94%ED%98%B8%E2%80%85%ED%95%B4%EB%8F%85/89fe2f4e.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14584/table.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:67px; width:969px" /></p>
 
 <p>이 방법에 따라 &lsquo;Baekjoon Online Judge&rsquo;를 암호화하면 &lsquo;Srvbaffe Feczev Aluxv&rsquo;가 된다.</p>
 

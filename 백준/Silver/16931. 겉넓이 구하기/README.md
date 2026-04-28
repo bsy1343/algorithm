@@ -20,7 +20,7 @@
 
 <p>종이의 각 칸에 놓인 정육면체의 개수가 주어졌을 때, 이 도형의 겉넓이를 구하는 프로그램을 작성하시오.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/16931.%E2%80%85%EA%B2%89%EB%84%93%EC%9D%B4%E2%80%85%EA%B5%AC%ED%95%98%EA%B8%B0/15388623.png" data-original-src="https://upload.acmicpc.net/8d68cff7-fd62-4ae8-8b27-f8a5621e4ddd/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 275px; height: 350px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/16931.%E2%80%85%EA%B2%89%EB%84%93%EC%9D%B4%E2%80%85%EA%B5%AC%ED%95%98%EA%B8%B0/15388623.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/16931.%E2%80%85%EA%B2%89%EB%84%93%EC%9D%B4%E2%80%85%EA%B5%AC%ED%95%98%EA%B8%B0/15388623.png" data-original-src="https://upload.acmicpc.net/8d68cff7-fd62-4ae8-8b27-f8a5621e4ddd/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 275px; height: 350px;" /></p>
 
 <p>위의 그림은 3&times;3 크기의 종이 위에 정육면체를 놓은 것이고, 겉넓이는 60이다.</p>
 

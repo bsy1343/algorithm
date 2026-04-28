@@ -18,7 +18,7 @@
 
 <p>승현이는 방학을 맞아 심심하지만, 공부는 하기 싫습니다. 이렇게 방 안에서 하루하루 시간을 낭비하던 중, 승현이는 자신의 직육면체 모양의 지우개에 개미 한 마리가 붙어 있다는 것을 알게 됩니다. 사실 이 개미는 우리가 문제를 어떻게 낼 지 잘 몰라서 방에 넣은 로봇입니다.</p>
 
-<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/11880.%E2%80%85%EA%B0%9C%EB%AF%B8/09492983.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11880/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:152px; width:168px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/11880.%E2%80%85%EA%B0%9C%EB%AF%B8/09492983.png" data-original-src="%EB%B0%B1%EC%A4%80/Bronze/11880.%E2%80%85%EA%B0%9C%EB%AF%B8/09492983.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11880/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:152px; width:168px" /></p>
 
 <p>이 개미 로봇은 말도 안 되지만 어떠한 시련이 닥쳐도 서로 반대편에 위치한 점 A에서 점 B까지 최단 거리로 이동하며 그 경로를 지우개에 그립니다. 누군가 자신의 지우개에 흔적을 남기는 것을 너무나 싫어하는 승현이는 개미 로봇이 자신의 지우개에 남긴 흔적의 양, 즉 로봇이 이동한 거리를 구하여 우리에게 손해 배상 청구를 하려고 합니다. 개미 로봇은 부피가 존재하지만, 승현이는 정확한 양을 측정하기 귀찮기 때문에 그냥 부피가 없다고 처리하기로 했습니다.</p>
 

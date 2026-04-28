@@ -18,7 +18,7 @@
 
 <p>Cookie Run game is a popular game in which the cookie character runs through a map consisting of N stages to score points.&nbsp;</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/25116.%E2%80%85TOO%E2%80%85EASY%E2%80%85Cookie%E2%80%85Run/43bdbbbd.png" data-original-src="https://upload.acmicpc.net/3723c0f5-232d-4636-bce9-750670a33e98/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 600px; height: 338px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/25116.%E2%80%85TOO%E2%80%85EASY%E2%80%85Cookie%E2%80%85Run/43bdbbbd.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/25116.%E2%80%85TOO%E2%80%85EASY%E2%80%85Cookie%E2%80%85Run/43bdbbbd.png" data-original-src="https://upload.acmicpc.net/3723c0f5-232d-4636-bce9-750670a33e98/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 600px; height: 338px;" /></p>
 
 <p>Soo Young, the map designer for Cookie Run, was preparing a new map patch for Children&#39;s Day. After working hard to create an attractive map and testing it for the last time the day before the patch, she suddenly realized that the map was designed to be <strong>too easy</strong>!</p>
 

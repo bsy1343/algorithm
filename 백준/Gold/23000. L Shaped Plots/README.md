@@ -36,11 +36,11 @@
 
 <p>Below you can find two examples of correct L-shapes,</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/23000.%E2%80%85L%E2%80%85Shaped%E2%80%85Plots/c565841a.png" data-original-src="https://upload.acmicpc.net/4b1c0223-24c6-4d09-8eef-2d1758d31dc1/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/23000.%E2%80%85L%E2%80%85Shaped%E2%80%85Plots/c565841a.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/23000.%E2%80%85L%E2%80%85Shaped%E2%80%85Plots/c565841a.png" data-original-src="https://upload.acmicpc.net/4b1c0223-24c6-4d09-8eef-2d1758d31dc1/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>and three examples of&nbsp;<strong>invalid</strong>&nbsp;L-shapes.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/23000.%E2%80%85L%E2%80%85Shaped%E2%80%85Plots/543391a4.png" data-original-src="https://upload.acmicpc.net/993aeea2-f671-47f8-95f8-729c28476ee6/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/23000.%E2%80%85L%E2%80%85Shaped%E2%80%85Plots/543391a4.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/23000.%E2%80%85L%E2%80%85Shaped%E2%80%85Plots/543391a4.png" data-original-src="https://upload.acmicpc.net/993aeea2-f671-47f8-95f8-729c28476ee6/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>Note that in the shape on the left, two segments do not share a common endpoint. The next two shapes do not meet the last requirement, as in the middle shape both segments have the same length, and in the last shape the longer segment is longer than twice the length of the shorter one.</p>
 
@@ -71,7 +71,7 @@
 	<li>The first one is formed by using cells: (1,1), (2,1), (3,1), (4,1), (4,2)</li>
 </ul>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/23000.%E2%80%85L%E2%80%85Shaped%E2%80%85Plots/07e982d1.png" data-original-src="https://upload.acmicpc.net/c5a83c0b-c0d8-4cdd-a1b2-df6da9e1f8d6/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/23000.%E2%80%85L%E2%80%85Shaped%E2%80%85Plots/07e982d1.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/23000.%E2%80%85L%E2%80%85Shaped%E2%80%85Plots/07e982d1.png" data-original-src="https://upload.acmicpc.net/c5a83c0b-c0d8-4cdd-a1b2-df6da9e1f8d6/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>In Sample Case #2, there are nine L-shapes.</p>
 
@@ -89,4 +89,4 @@
 
 <p>The first three L-shapes are shown on the picture below.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/23000.%E2%80%85L%E2%80%85Shaped%E2%80%85Plots/74cf0cbe.png" data-original-src="https://upload.acmicpc.net/1aa9212a-622f-4267-91c9-3627f3bdda46/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/23000.%E2%80%85L%E2%80%85Shaped%E2%80%85Plots/74cf0cbe.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/23000.%E2%80%85L%E2%80%85Shaped%E2%80%85Plots/74cf0cbe.png" data-original-src="https://upload.acmicpc.net/1aa9212a-622f-4267-91c9-3627f3bdda46/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>

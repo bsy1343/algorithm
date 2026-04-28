@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><img alt="인사하는 곰곰이" src="%EB%B0%B1%EC%A4%80/Silver/25192.%E2%80%85%EC%9D%B8%EC%82%AC%EC%84%B1%E2%80%85%EB%B0%9D%EC%9D%80%E2%80%85%EA%B3%B0%EA%B3%B0%EC%9D%B4/12131348.png" data-original-src="https://upload.acmicpc.net/cd52b787-5b7c-4857-b917-a95c10fe6ee9/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="max-height:120px; object-fit:contain; display:inline-block;" /></p>
+<p style="text-align: center;"><img alt="인사하는 곰곰이" src="%EB%B0%B1%EC%A4%80/Silver/25192.%E2%80%85%EC%9D%B8%EC%82%AC%EC%84%B1%E2%80%85%EB%B0%9D%EC%9D%80%E2%80%85%EA%B3%B0%EA%B3%B0%EC%9D%B4/12131348.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/25192.%E2%80%85%EC%9D%B8%EC%82%AC%EC%84%B1%E2%80%85%EB%B0%9D%EC%9D%80%E2%80%85%EA%B3%B0%EA%B3%B0%EC%9D%B4/12131348.png" data-original-src="https://upload.acmicpc.net/cd52b787-5b7c-4857-b917-a95c10fe6ee9/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="max-height:120px; object-fit:contain; display:inline-block;" /></p>
 
 <p>알고리즘&nbsp;입문방&nbsp;오픈 채팅방에서는&nbsp;새로운 분들이 입장을 할 때마다 곰곰티콘을 사용해 인사를 한다. 이를 본 문자열 킬러 임스는 채팅방의 기록을 수집해 그 중 곰곰티콘이 사용된 횟수를 구해 보기로 했다.</p>
 

@@ -20,7 +20,7 @@
 
 <p>This year, your archrival Rob had the audacity to open up another factory for stroopwafels and they have already announced that their stroopwafels will be even bigger than yours. Although the exact size of the new stroopwafels is a well-kept secret, your industrial spy managed to find out that the grid-like pattern of the stroopwafel consists of at most $s$ whole squares. You know for a fact that the area of each square is $1 \text{cm}^2$ and that the centre point of the stroopwafel always contains the common corner of the four adjacent squares in the centre (i.e., the squares are aligned to a Cartesian grid), as shown in Figure C.1.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/26176.%E2%80%85Circular%E2%80%85Caramel%E2%80%85Cookie/3823b490.png" data-original-src="https://upload.acmicpc.net/c48ec0b9-694e-414a-af4e-fdfbc4b87abc/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 160px; height: 162px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/26176.%E2%80%85Circular%E2%80%85Caramel%E2%80%85Cookie/3823b490.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/26176.%E2%80%85Circular%E2%80%85Caramel%E2%80%85Cookie/3823b490.png" data-original-src="https://upload.acmicpc.net/c48ec0b9-694e-414a-af4e-fdfbc4b87abc/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 160px; height: 162px;" /></p>
 
 <p style="text-align: center;">Figure C.1: Illustration of Sample Input 2, with the blue-enclosed region depicting the $60$ whole squares that the cookie contains.</p>
 

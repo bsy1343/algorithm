@@ -22,7 +22,7 @@
 
 <p>Poniższy rysunek przedstawia kopiec rozmiaru 6 reprezentowany ciągiem: (1, 2, 4, 6, 3, 5):</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/26822.%E2%80%85Kopiec/2edc1b54.png" data-original-src="https://upload.acmicpc.net/55ebe00a-c792-4526-93d9-43ddd547780f/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 128px; height: 182px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/26822.%E2%80%85Kopiec/2edc1b54.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/26822.%E2%80%85Kopiec/2edc1b54.png" data-original-src="https://upload.acmicpc.net/55ebe00a-c792-4526-93d9-43ddd547780f/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 128px; height: 182px;" /></p>
 
 <p>Bajtek zastanawia się czy jego tablica T reprezentuje kopiec. Co więcej, często dokonuje w tablicy zmian: każda taka zmiana polega na wybraniu dw&oacute;ch pozycji x i y w tablicy (x &le; y) oraz wartości z i zwiększeniu każdej z kom&oacute;rek T[x], T[x + 1], . . ., T[y] o z. Wartość z może być ujemna, co efektywnie oznacza zmniejszenie wartości kom&oacute;rek. Bajtek chciałby wiedzieć, po kt&oacute;rych operacjach jego tablica reprezentuje kopiec. Pom&oacute;ż mu.</p>
 

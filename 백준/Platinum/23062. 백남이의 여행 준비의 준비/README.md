@@ -26,7 +26,7 @@
 
 <p>특별한 상자 3개를 준비한다. 각각의 상자에는 수가 각인되어 있는 데, 해당 수는 $A$, $B$, $C$ 이다. 해당 상자에 물건을 넣으면 물건의 개수에서 각인된 수를 나눴을 때의 나머지를 알 수 있게 된다. 금화를 상자에 넣어 나온 수를 각각 $a$, $b$, $c$ 라고 할 때, 백남이가 가지고 있는 금화의 개수를 구해주자.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/23062.%E2%80%85%EB%B0%B1%EB%82%A8%EC%9D%B4%EC%9D%98%E2%80%85%EC%97%AC%ED%96%89%E2%80%85%EC%A4%80%EB%B9%84%EC%9D%98%E2%80%85%EC%A4%80%EB%B9%84/090de72d.png" data-original-src="https://upload.acmicpc.net/7a9cdf10-774d-470f-965f-c1dc9292ebd0/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 358px; width: 500px;" /><br />
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/23062.%E2%80%85%EB%B0%B1%EB%82%A8%EC%9D%B4%EC%9D%98%E2%80%85%EC%97%AC%ED%96%89%E2%80%85%EC%A4%80%EB%B9%84%EC%9D%98%E2%80%85%EC%A4%80%EB%B9%84/090de72d.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/23062.%E2%80%85%EB%B0%B1%EB%82%A8%EC%9D%B4%EC%9D%98%E2%80%85%EC%97%AC%ED%96%89%E2%80%85%EC%A4%80%EB%B9%84%EC%9D%98%E2%80%85%EC%A4%80%EB%B9%84/090de72d.png" data-original-src="https://upload.acmicpc.net/7a9cdf10-774d-470f-965f-c1dc9292ebd0/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 358px; width: 500px;" /><br />
 &nbsp;</p>
 
 ### 입력

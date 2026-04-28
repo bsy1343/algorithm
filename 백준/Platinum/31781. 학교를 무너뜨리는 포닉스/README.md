@@ -28,11 +28,11 @@
 
 <p>아래의 그림에서 건물 A는 위 조건들을 모두 만족하는 적절한 건물이며, 건물 B는 $7$번 벽돌이 공중에 뜬 벽돌이므로 적절한 건물이 아니다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/31781.%E2%80%85%ED%95%99%EA%B5%90%EB%A5%BC%E2%80%85%EB%AC%B4%EB%84%88%EB%9C%A8%EB%A6%AC%EB%8A%94%E2%80%85%ED%8F%AC%EB%8B%89%EC%8A%A4/fee9e52f.png" data-original-src="https://upload.acmicpc.net/70307bc2-7265-4d77-b190-0a5bcdec0112/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 479px; height: 300px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/31781.%E2%80%85%ED%95%99%EA%B5%90%EB%A5%BC%E2%80%85%EB%AC%B4%EB%84%88%EB%9C%A8%EB%A6%AC%EB%8A%94%E2%80%85%ED%8F%AC%EB%8B%89%EC%8A%A4/fee9e52f.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/31781.%E2%80%85%ED%95%99%EA%B5%90%EB%A5%BC%E2%80%85%EB%AC%B4%EB%84%88%EB%9C%A8%EB%A6%AC%EB%8A%94%E2%80%85%ED%8F%AC%EB%8B%89%EC%8A%A4/fee9e52f.png" data-original-src="https://upload.acmicpc.net/70307bc2-7265-4d77-b190-0a5bcdec0112/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 479px; height: 300px;" /></p>
 
 <p style="text-align: center;">건물 A</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/31781.%E2%80%85%ED%95%99%EA%B5%90%EB%A5%BC%E2%80%85%EB%AC%B4%EB%84%88%EB%9C%A8%EB%A6%AC%EB%8A%94%E2%80%85%ED%8F%AC%EB%8B%89%EC%8A%A4/45d2f205.png" data-original-src="https://upload.acmicpc.net/a9ff5aa2-e7ee-4266-945f-e8c4e82a2f5d/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 477px; height: 300px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/31781.%E2%80%85%ED%95%99%EA%B5%90%EB%A5%BC%E2%80%85%EB%AC%B4%EB%84%88%EB%9C%A8%EB%A6%AC%EB%8A%94%E2%80%85%ED%8F%AC%EB%8B%89%EC%8A%A4/45d2f205.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/31781.%E2%80%85%ED%95%99%EA%B5%90%EB%A5%BC%E2%80%85%EB%AC%B4%EB%84%88%EB%9C%A8%EB%A6%AC%EB%8A%94%E2%80%85%ED%8F%AC%EB%8B%89%EC%8A%A4/45d2f205.png" data-original-src="https://upload.acmicpc.net/a9ff5aa2-e7ee-4266-945f-e8c4e82a2f5d/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 477px; height: 300px;" /></p>
 
 <p style="text-align: center;">건물 B</p>
 

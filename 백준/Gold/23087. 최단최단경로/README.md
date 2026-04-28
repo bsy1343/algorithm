@@ -61,4 +61,4 @@
 
 <p>지하철 노선이 다음과 같고&nbsp;선노가 사는 곳이 1번 역,&nbsp;회사는 5번 역에 있다고 하면,&nbsp;<strong>최단최단경로</strong>로 이동할 때 이동 거리는&nbsp;6, 거치는 노선 수는 2, 그런 경로의 개수는 1이다.</p>
 
-<p style="text-align: center;"><img alt="예시 노선도" src="%EB%B0%B1%EC%A4%80/Gold/23087.%E2%80%85%EC%B5%9C%EB%8B%A8%EC%B5%9C%EB%8B%A8%EA%B2%BD%EB%A1%9C/ca54cfd0.png" data-original-src="https://user-images.githubusercontent.com/48829883/127732288-6379f2c5-7923-4634-9a1e-0c0cbf7e69c9.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 450px; height: 259px;" /></p>
+<p style="text-align: center;"><img alt="예시 노선도" src="%EB%B0%B1%EC%A4%80/Gold/23087.%E2%80%85%EC%B5%9C%EB%8B%A8%EC%B5%9C%EB%8B%A8%EA%B2%BD%EB%A1%9C/ca54cfd0.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/23087.%E2%80%85%EC%B5%9C%EB%8B%A8%EC%B5%9C%EB%8B%A8%EA%B2%BD%EB%A1%9C/ca54cfd0.png" data-original-src="https://user-images.githubusercontent.com/48829883/127732288-6379f2c5-7923-4634-9a1e-0c0cbf7e69c9.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 450px; height: 259px;" /></p>

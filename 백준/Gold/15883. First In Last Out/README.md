@@ -20,7 +20,7 @@
 
 <p>단, 서로 다른 영문자에는 서로 다른 숫자가 배정되어야 하며, 각 수의 첫 글자는 0이 될 수 없다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/15883.%E2%80%85First%E2%80%85In%E2%80%85Last%E2%80%85Out/a87237e0.png" data-original-src="http://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15883/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 105px; height: 88px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/15883.%E2%80%85First%E2%80%85In%E2%80%85Last%E2%80%85Out/a87237e0.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/15883.%E2%80%85First%E2%80%85In%E2%80%85Last%E2%80%85Out/a87237e0.png" data-original-src="http://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15883/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 105px; height: 88px;" /></p>
 
 ### 입력
 

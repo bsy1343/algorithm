@@ -28,7 +28,7 @@
 
 <p>아래는 건물이 5개가 있는 경우이다.</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/12763.%E2%80%85%EC%A7%80%EA%B0%81%ED%95%98%EB%A9%B4%E2%80%85%EC%95%88%E2%80%85%EB%8F%BC/69c5265e.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/12763/image.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:780px; width:1000px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/12763.%E2%80%85%EC%A7%80%EA%B0%81%ED%95%98%EB%A9%B4%E2%80%85%EC%95%88%E2%80%85%EB%8F%BC/69c5265e.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/12763.%E2%80%85%EC%A7%80%EA%B0%81%ED%95%98%EB%A9%B4%E2%80%85%EC%95%88%E2%80%85%EB%8F%BC/69c5265e.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/12763/image.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:780px; width:1000px" /></p>
 
 <p>그동안의 메모를 이용해 지금 1호관에서 듣는 수업이 끝나고 3시간 안에 5호관까지 가야 한다. 급하게 노트에 펼쳐봤지만, 어떻게 가야 하는 지 도저히 모르겠다.</p>
 

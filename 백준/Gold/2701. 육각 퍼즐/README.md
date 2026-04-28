@@ -23,7 +23,7 @@
 	처음 동전이 섞인 상태로 주어졌을 때, 동전을 아래 그림과 같이 맞추는 최소 이동 회수를 구하는 프로그램을 작성하시오. 처음 상태에서 가운데 칸은 비어있다.</p>
 
 <p>
-	<img alt="" src="%EB%B0%B1%EC%A4%80/Gold/2701.%E2%80%85%EC%9C%A1%EA%B0%81%E2%80%85%ED%8D%BC%EC%A6%90/7b17490a.png" data-original-src="https://www.acmicpc.net/upload/images/theta1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 291px; height: 229px;" /></p>
+	<img alt="" src="%EB%B0%B1%EC%A4%80/Gold/2701.%E2%80%85%EC%9C%A1%EA%B0%81%E2%80%85%ED%8D%BC%EC%A6%90/7b17490a.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/2701.%E2%80%85%EC%9C%A1%EA%B0%81%E2%80%85%ED%8D%BC%EC%A6%90/7b17490a.png" data-original-src="https://www.acmicpc.net/upload/images/theta1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 291px; height: 229px;" /></p>
 
 <p>
 	처음 중심 정점은 비어있고 바깥쪽 정점 6 개가 A부터 F의 주어진 순열이 주어졌을 때 원래 ABCDEF 순서로 돌아가게 퍼즐을 푸려고 한다.</p>
@@ -35,7 +35,7 @@
 	예를 들어, FACDBE 퍼즐을 풀 때는 BEFAB로 움직이면 풀 수 있다.</p>
 
 <p>
-	<img alt="" src="%EB%B0%B1%EC%A4%80/Gold/2701.%E2%80%85%EC%9C%A1%EA%B0%81%E2%80%85%ED%8D%BC%EC%A6%90/3d164049.png" data-original-src="https://www.acmicpc.net/upload/images/theta2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 593px; height: 105px;" /></p>
+	<img alt="" src="%EB%B0%B1%EC%A4%80/Gold/2701.%E2%80%85%EC%9C%A1%EA%B0%81%E2%80%85%ED%8D%BC%EC%A6%90/3d164049.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/2701.%E2%80%85%EC%9C%A1%EA%B0%81%E2%80%85%ED%8D%BC%EC%A6%90/3d164049.png" data-original-src="https://www.acmicpc.net/upload/images/theta2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 593px; height: 105px;" /></p>
 
 <p>
 	퍼즐의 초기 상태가 주어졌을 때, 이 퍼즐을 푸는 방법을 출력하는 프로그램을 작성하시오. 이때, 움직인 동전의 수를 최소로 해야 한다.</p>

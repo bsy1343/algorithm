@@ -22,7 +22,7 @@
 
 <p>For example, the DNA string TGATGC codes for no methionines, but adding an A in the beginning turns it into ATGATGC which has two ATG blocks and thus codes for two methionines. This is the first sample input and a solution to the second sample input is shown in the figure below.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/11212.%E2%80%85Proteins/66b0874f.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11212/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:227px; width:310px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/11212.%E2%80%85Proteins/66b0874f.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/11212.%E2%80%85Proteins/66b0874f.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11212/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:227px; width:310px" /></p>
 
 ### 입력
 

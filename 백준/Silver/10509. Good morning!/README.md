@@ -22,7 +22,7 @@
 
 <p>To prepare warm cereal, you put some milk into a microwave, trying to heat it for k seconds. You must enter k on the microwave keyboard:</p>
 
-<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/10509.%E2%80%85Good%E2%80%85morning!/6e19cda7.png" data-original-src="https://www.acmicpc.net/upload/images2/goodmorning.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/10509.%E2%80%85Good%E2%80%85morning!/6e19cda7.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/10509.%E2%80%85Good%E2%80%85morning!/6e19cda7.png" data-original-src="https://www.acmicpc.net/upload/images2/goodmorning.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>As you still haven&rsquo;t had your coffee, your hand (along with eyes and brain) keeps falling down. You are only able to enter a number if your hand would only move downwards and/or to the right. You cannot go back left, nor move your hand up, though you can press the same key again. And again... and again...</p>
 

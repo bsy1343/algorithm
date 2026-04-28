@@ -28,7 +28,7 @@
 
 <p>아래 그림은 어떻게 나선 형태로 진행하는지와, 어떤 자원을 선택하는지를 나타낸 그림이다. n번째로 채우는 타일에 어떤 자원을 선택하는지 고르는 프로그램을 작성하시오. (n은 1부터 시작한다)</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/3678.%E2%80%85%EC%B9%B4%ED%83%84%EC%9D%98%E2%80%85%EA%B0%9C%EC%B2%99%EC%9E%90/9794a5dc.png" data-original-src="https://www.acmicpc.net/upload/images/settler.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:280px; width:329px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/3678.%E2%80%85%EC%B9%B4%ED%83%84%EC%9D%98%E2%80%85%EA%B0%9C%EC%B2%99%EC%9E%90/9794a5dc.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/3678.%E2%80%85%EC%B9%B4%ED%83%84%EC%9D%98%E2%80%85%EA%B0%9C%EC%B2%99%EC%9E%90/9794a5dc.png" data-original-src="https://www.acmicpc.net/upload/images/settler.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:280px; width:329px" /></p>
 
 ### 입력
 

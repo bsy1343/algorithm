@@ -18,7 +18,7 @@
 
 <p>근래의 신혼부부들의 가장 큰 걱정은 집을 마련하는 것이다. 그런데 도시에 살기 원하는 사람은 많고, 집은 굉장히 비싸기 때문에 원하는 집을 구하기가 쉽지 않다. 곧 결혼 예정인 A씨는 다행스럽게도 충분한 돈이 있어서 집을 사는데 큰 문제가 없다. 하지만 A씨에게도 고민이 있다. 살고자하는 집에 해가 충분한 시간동안 들기를 원하기 때문이다. 해는 아침 6시에 동쪽에서 떠서 반원형을 그리며 12시간 후에 서쪽으로 진다. 하지만, 도시에는 건물이 많아서 특정 시간에는 다른 건물에 가려 해가 들지 않는 집들이 많기 때문에 A씨가 원하는만큼 해가 드는 집을 찾는게 쉽지 않다. 도시에 A씨가 원하는 집이 얼마나 될 지 알아보자.</p>
 
-<p><img src="%EB%B0%B1%EC%A4%80/Platinum/12417.%E2%80%85%EC%9D%BC%EC%A1%B0%EB%9F%89%E2%80%85(Small)/5536ec4f.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/12417/images-44.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="vertical-align:middle" /></p>
+<p><img src="%EB%B0%B1%EC%A4%80/Platinum/12417.%E2%80%85%EC%9D%BC%EC%A1%B0%EB%9F%89%E2%80%85(Small)/5536ec4f.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/12417.%E2%80%85%EC%9D%BC%EC%A1%B0%EB%9F%89%E2%80%85(Small)/5536ec4f.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/12417/images-44.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="vertical-align:middle" /></p>
 
 <p>해는 위의 그림에 나와있는 반원 형태의 경로를 따라서 동쪽에서 서쪽으로 일정한 속도로 움직인다. 그림에서 빨간색으로 나타난 것이 건물이며, 파란색으로 표시된 영역이 가운데 건물의 가장 아래에 위치한 집에 해가 들어오는 시간 영역을 나타낸다. 각 건물에는 동일한 형태의 무한히 많은 집이 존재하며 각 집은 한 건물내에서 같은 높이에 위치하지 않는다. 건물의 넓이는 0이며, 동일한 위치에 건물이 여러채가 있을 수 없다.</p>
 

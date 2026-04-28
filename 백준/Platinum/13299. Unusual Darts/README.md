@@ -22,7 +22,7 @@
 
 <p>For this problem you are given the locations of Alice&rsquo;s darts (which form a simple polygon) and the probability that Bob wins. Your job is to determine the order in which Alice threw her darts.</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/13299.%E2%80%85Unusual%E2%80%85Darts/166bb728.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/13299/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-09-30%20%EC%98%A4%ED%9B%84%207.05.52.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:177px; width:490px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/13299.%E2%80%85Unusual%E2%80%85Darts/166bb728.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/13299.%E2%80%85Unusual%E2%80%85Darts/166bb728.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/13299/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-09-30%20%EC%98%A4%ED%9B%84%207.05.52.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:177px; width:490px" /></p>
 
 ### 입력
 

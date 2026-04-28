@@ -24,7 +24,7 @@
 
 <p>2 人の得点の最大値を求めたい．</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/5539.%E2%80%85%E3%81%9F%E3%81%AE%E3%81%97%E3%81%84%E3%82%AB%E3%83%BC%E3%83%89%E3%82%B2%E3%83%BC%E3%83%A0%E2%80%85(Card%E2%80%85Game%E2%80%85is%E2%80%85Fun)/fb1fc8d6.png" data-original-src="https://www.acmicpc.net/upload/images3/cardfun.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:419px; width:521px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/5539.%E2%80%85%E3%81%9F%E3%81%AE%E3%81%97%E3%81%84%E3%82%AB%E3%83%BC%E3%83%89%E3%82%B2%E3%83%BC%E3%83%A0%E2%80%85(Card%E2%80%85Game%E2%80%85is%E2%80%85Fun)/fb1fc8d6.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/5539.%E2%80%85%E3%81%9F%E3%81%AE%E3%81%97%E3%81%84%E3%82%AB%E3%83%BC%E3%83%89%E3%82%B2%E3%83%BC%E3%83%A0%E2%80%85(Card%E2%80%85Game%E2%80%85is%E2%80%85Fun)/fb1fc8d6.png" data-original-src="https://www.acmicpc.net/upload/images3/cardfun.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:419px; width:521px" /></p>
 
 <p>アンナとブルーノが持っているカードの山の情報が与えられたときに，2 人の得点の最大値を求めるプログラムを作成せよ．</p>
 

@@ -44,4 +44,4 @@ k. M</pre>
 
 ### 힌트
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/4894.%E2%80%85Air%E2%80%85Strike/edc66a4f.png" data-original-src="https://www.acmicpc.net/upload/images2/air.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:347px; width:416px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/4894.%E2%80%85Air%E2%80%85Strike/edc66a4f.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/4894.%E2%80%85Air%E2%80%85Strike/edc66a4f.png" data-original-src="https://www.acmicpc.net/upload/images2/air.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:347px; width:416px" /></p>

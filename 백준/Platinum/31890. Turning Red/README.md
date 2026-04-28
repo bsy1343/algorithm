@@ -18,7 +18,7 @@
 
 <p>Mei&rsquo;s parents have spent the last year remodeling their house, but their lighting system is quite complex! Each room in the house has an LED light, which can be set to red, green, or blue, as seen in Figure P.1.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/31890.%E2%80%85Turning%E2%80%85Red/6b4a6263.png" data-original-src="https://upload.acmicpc.net/8d9280ee-fe85-446b-8be6-87a2801be7bf/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 517px; height: 100px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/31890.%E2%80%85Turning%E2%80%85Red/6b4a6263.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/31890.%E2%80%85Turning%E2%80%85Red/6b4a6263.png" data-original-src="https://upload.acmicpc.net/8d9280ee-fe85-446b-8be6-87a2801be7bf/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 517px; height: 100px;" /></p>
 
 <p style="text-align: center;">Figure P.1: The initial state of the lights in Sample Input 1. Buttons and wires not shown.</p>
 

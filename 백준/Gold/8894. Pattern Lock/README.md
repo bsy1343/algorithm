@@ -18,7 +18,7 @@
 
 <p>Pattern lock security is generally used in Android handsets instead of a password. The pattern lock can be set by joining points on a 3&times;3 matrix in a chosen order. The points of the matrix are registered in a numbered order starting with 1 in the upper left corner and ending with 9 in the bottom right corner. This pattern must involve at least 4 points to set, cannot be disconnected and each point number can be used at most once. So the pattern of the lock screen in Figure 1(b) would be 2-1-5-3-6-8-4-7-9.</p>
 
-<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/8894.%E2%80%85Pattern%E2%80%85Lock/bf3aa9d9.png" data-original-src="https://www.acmicpc.net/upload/images2/lock1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:136px; width:250px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/8894.%E2%80%85Pattern%E2%80%85Lock/bf3aa9d9.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/8894.%E2%80%85Pattern%E2%80%85Lock/bf3aa9d9.png" data-original-src="https://www.acmicpc.net/upload/images2/lock1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:136px; width:250px" /></p>
 
 <p style="text-align:center">Figure 1. (a) Android pattern lock screen with overlaid identification numbers on contact points. (b) A valid pattern lock.</p>
 
@@ -26,13 +26,13 @@
 
 <p>Though Chulsoo has completely forgotten his pattern, he can get his pattern image as a geometric graph from his smudged smartphone screen such as Figure 2.</p>
 
-<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/8894.%E2%80%85Pattern%E2%80%85Lock/afd367dc.png" data-original-src="https://www.acmicpc.net/upload/images2/lock2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:134px; width:253px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/8894.%E2%80%85Pattern%E2%80%85Lock/afd367dc.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/8894.%E2%80%85Pattern%E2%80%85Lock/afd367dc.png" data-original-src="https://www.acmicpc.net/upload/images2/lock2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:134px; width:253px" /></p>
 
 <p style="text-align:center">Figure 2. (a) A pattern image. (b) A geometric graph of the pattern image.</p>
 
 <p>For example, let&rsquo;s consider four geometric graphs in Figure 3. Since the graph in Figure 3(a) is disconnected, this pattern is not possible to construct. Even though the graph in Figure 3(b) is connected, this pattern cannot be constructed. That is, there is no sequence joining points that makes the given pattern. The pattern given in Figure 3(c) can be constructed by the point-joining sequence 1-8-9-7-4-3 only. The pattern given in Figure 3(d) can be constructed by 4-5-6-3-2-8-9-7-1 or 8-5-2-3-6-4-1-7-9.</p>
 
-<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/8894.%E2%80%85Pattern%E2%80%85Lock/1c739ffd.png" data-original-src="https://www.acmicpc.net/upload/images2/lock3.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:127px; width:539px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/8894.%E2%80%85Pattern%E2%80%85Lock/1c739ffd.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/8894.%E2%80%85Pattern%E2%80%85Lock/1c739ffd.png" data-original-src="https://www.acmicpc.net/upload/images2/lock3.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:127px; width:539px" /></p>
 
 <p style="text-align:center">Figure 3. The geometric graphs obtained from smudged smartphone screen.</p>
 

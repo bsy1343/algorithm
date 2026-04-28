@@ -29,7 +29,7 @@
 	<li>하수인 <em>Y</em>의 공격력만큼 하수인 <em>X</em>가 피해를 받는다.</li>
 </ul>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/17226.%E2%80%85%EB%AC%98%EC%88%98%ED%92%80%EC%9D%B4%3A%E2%80%85%EB%AA%A8%EB%8F%85/53a96686.png" data-original-src="https://upload.acmicpc.net/f087b003-3ae4-457b-9fc4-bd01f9b0fb82/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 800px; height: 369px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/17226.%E2%80%85%EB%AC%98%EC%88%98%ED%92%80%EC%9D%B4%3A%E2%80%85%EB%AA%A8%EB%8F%85/53a96686.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/17226.%E2%80%85%EB%AC%98%EC%88%98%ED%92%80%EC%9D%B4%3A%E2%80%85%EB%AA%A8%EB%8F%85/53a96686.png" data-original-src="https://upload.acmicpc.net/f087b003-3ae4-457b-9fc4-bd01f9b0fb82/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 800px; height: 369px;" /></p>
 
 <p style="text-align: center;">&lt;그림1&gt; 모독각의 한 예(예제1)</p>
 

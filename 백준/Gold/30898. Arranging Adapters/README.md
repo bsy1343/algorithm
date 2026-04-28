@@ -24,7 +24,7 @@
 
 <p>You take your laptop out and try to plug it in when you notice that the only socket is already in use. Your friends smirk and reply: &quot;No socket for you, no <em>train</em>ing for us&quot;. Their smirks quickly fade as you pull out a power strip, unplug the charger from the socket, and plug it back into the power strip. Now, there is enough space for your charger as well.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/30898.%E2%80%85Arranging%E2%80%85Adapters/b4ba92ea.png" data-original-src="https://upload.acmicpc.net/cb744204-3602-4ec5-abc2-23ecab373225/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 512px; height: 140px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/30898.%E2%80%85Arranging%E2%80%85Adapters/b4ba92ea.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/30898.%E2%80%85Arranging%E2%80%85Adapters/b4ba92ea.png" data-original-src="https://upload.acmicpc.net/cb744204-3602-4ec5-abc2-23ecab373225/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 512px; height: 140px;" /></p>
 
 <p style="text-align: center;">Figure A.1: Illustration of Sample Input 2. The first six chargers can be plugged in as shown. Note that this is not the only possible solution. However, it can be shown that it is impossible to plug in all seven chargers.</p>
 

@@ -22,7 +22,7 @@
 
 <p>예를 들어, 이 나라에 다음 그림처럼 4개의 도시가 있다고 하자. 원 안에 있는 숫자는 그 도시에 있는 주유소의 리터당 가격이다. 도로 위에 있는 숫자는 도로의 길이를 표시한 것이다.&nbsp;</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/13305.%E2%80%85%EC%A3%BC%EC%9C%A0%EC%86%8C/0cb712b4.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/13305/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:52px; width:274px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/13305.%E2%80%85%EC%A3%BC%EC%9C%A0%EC%86%8C/0cb712b4.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/13305.%E2%80%85%EC%A3%BC%EC%9C%A0%EC%86%8C/0cb712b4.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/13305/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:52px; width:274px" /></p>
 
 <p>제일 왼쪽 도시에서 6리터의 기름을 넣고, 더 이상의 주유 없이 제일 오른쪽 도시까지 이동하면 총 비용은 30원이다. 만약 제일 왼쪽 도시에서 2리터의 기름을 넣고(2&times;5 = 10원) 다음 번 도시까지 이동한 후 3리터의 기름을 넣고(3&times;2 = 6원) 다음 도시에서 1리터의 기름을 넣어(1&times;4 = 4원) 제일 오른쪽 도시로 이동하면, 총 비용은 20원이다. 또 다른 방법으로 제일 왼쪽 도시에서 2리터의 기름을 넣고(2&times;5 = 10원) 다음 번 도시까지 이동한 후 4리터의 기름을 넣고(4&times;2 = 8원) 제일 오른쪽 도시까지 이동하면, 총 비용은 18원이다.</p>
 

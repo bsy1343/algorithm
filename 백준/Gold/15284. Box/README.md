@@ -21,8 +21,8 @@
 <table class="table" style="width:100%">
 	<tbody>
 		<tr>
-			<td style="text-align:center; width:50%"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/15284.%E2%80%85Box/764088ea.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15284/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:122px; width:141px" /></td>
-			<td style="text-align:center; width:50%"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/15284.%E2%80%85Box/c9c4b82b.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15284/2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:63px; width:272px" /></td>
+			<td style="text-align:center; width:50%"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/15284.%E2%80%85Box/764088ea.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/15284.%E2%80%85Box/764088ea.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15284/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:122px; width:141px" /></td>
+			<td style="text-align:center; width:50%"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/15284.%E2%80%85Box/c9c4b82b.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/15284.%E2%80%85Box/c9c4b82b.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15284/2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:63px; width:272px" /></td>
 		</tr>
 		<tr>
 			<td style="text-align:center; width:50%">The first example</td>
@@ -49,4 +49,4 @@
 
 <p>There are 11 different nets of a cube, ignoring rotations and mirror images.</p>
 
-<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/15284.%E2%80%85Box/5be7c858.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15284/3.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:185px; width:525px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/15284.%E2%80%85Box/5be7c858.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/15284.%E2%80%85Box/5be7c858.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15284/3.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:185px; width:525px" /></p>

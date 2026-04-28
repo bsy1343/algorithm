@@ -18,11 +18,11 @@
 
 <p>Bajtek udał się do cukierni. Jego uwagę przykuł długi lizak składający się z N części r&oacute;wnej długości. Każda część lizaka ma pewien określony smak.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/26738.%E2%80%85Lizak/4af94bfe.png" data-original-src="https://upload.acmicpc.net/1b227eaf-4f88-4478-9221-73af9a89711c/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 379px; height: 26px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/26738.%E2%80%85Lizak/4af94bfe.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/26738.%E2%80%85Lizak/4af94bfe.png" data-original-src="https://upload.acmicpc.net/1b227eaf-4f88-4478-9221-73af9a89711c/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 379px; height: 26px;" /></p>
 
 <p>Bajtek chciałby wybrać pewien sp&oacute;jny fragment tego lizaka. Aby to zrobić, może on odłamać pewną liczbę części (być może zero) z lewej i prawej strony tego lizaka. Poniższy rysunek pokazuje kilka możliwości wybrania fragment&oacute;w z lizaka przedstawionego powyżej. Przykładowe fragmenty oznaczone są czarną ramką.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/26738.%E2%80%85Lizak/a341dc92.png" data-original-src="https://upload.acmicpc.net/3df885a2-b2e4-4fe1-80c5-e93f73888a49/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 386px; height: 143px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/26738.%E2%80%85Lizak/a341dc92.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/26738.%E2%80%85Lizak/a341dc92.png" data-original-src="https://upload.acmicpc.net/3df885a2-b2e4-4fe1-80c5-e93f73888a49/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 386px; height: 143px;" /></p>
 
 <p>Bajtek uważa fragment lizaka za smaczny, jeżeli zawiera co najmniej trzy części o tym samym smaku. Zwr&oacute;ć uwagę, że Bajtka nie interesuje jaki dokładnie smak będzie występował trzy razy, ani ile będzie r&oacute;żnych smak&oacute;w w tym fragmencie. Zauważ, że wszystkie fragmenty z rysunku powyżej są smaczne.</p>
 

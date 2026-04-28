@@ -18,7 +18,7 @@
 
 <p>The bank you work in has purchased an advanced technological solution to the problems it has with counting money deposited by clients. The machine works by running each individual coin along a sloped track. At every integer multiple of centimetres along, starting from 1cm, there is a slot in the track with a bucket underneath.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/17794.%E2%80%85Automatic%E2%80%85Accountant/e74fda2f.png" data-original-src="https://upload.acmicpc.net/33362a9b-8220-4b35-8f9f-c5eb5c8b5b8e/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 258px; height: 202px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/17794.%E2%80%85Automatic%E2%80%85Accountant/e74fda2f.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/17794.%E2%80%85Automatic%E2%80%85Accountant/e74fda2f.png" data-original-src="https://upload.acmicpc.net/33362a9b-8220-4b35-8f9f-c5eb5c8b5b8e/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 258px; height: 202px;" /></p>
 
 <p>The slot will allow a coin to fall in, if the thickness of the coin (in millimetres) is less than or equal to the width of the slot (also in millimetres), and the mass of the coin (in grams) is greater than or equal to the trigger mass of the slot (also in grams).</p>
 

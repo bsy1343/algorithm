@@ -29,7 +29,7 @@
 
 <p>아래 그림은 총 10단계 만에 모든 칸을 방문하는 방법이다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/9944.%E2%80%85NxM%E2%80%85%EB%B3%B4%EB%93%9C%E2%80%85%EC%99%84%EC%A3%BC%ED%95%98%EA%B8%B0/a1c9b99e.png" data-original-src="https://www.acmicpc.net/upload/images2/fboard.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 150px; width: 167px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/9944.%E2%80%85NxM%E2%80%85%EB%B3%B4%EB%93%9C%E2%80%85%EC%99%84%EC%A3%BC%ED%95%98%EA%B8%B0/a1c9b99e.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/9944.%E2%80%85NxM%E2%80%85%EB%B3%B4%EB%93%9C%E2%80%85%EC%99%84%EC%A3%BC%ED%95%98%EA%B8%B0/a1c9b99e.png" data-original-src="https://www.acmicpc.net/upload/images2/fboard.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 150px; width: 167px;" /></p>
 
 <p>보드의 상태가 주어졌을 때, 모든 칸을 방문하기 위한 이동 횟수의 최솟값을 구하는 프로그램을 작성하시오.</p>
 

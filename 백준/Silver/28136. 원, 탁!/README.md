@@ -26,7 +26,7 @@
 <p>인접한 두 접시 사이의 연결을 끊는다.</p>
 </blockquote>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/28136.%E2%80%85%EC%9B%90%2C%E2%80%85%ED%83%81!/ef20cd5f.png" data-original-src="https://upload.acmicpc.net/0aefd109-2217-40f0-92ab-499b07c55125/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 228px; width: 600px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/28136.%E2%80%85%EC%9B%90%2C%E2%80%85%ED%83%81!/ef20cd5f.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/28136.%E2%80%85%EC%9B%90%2C%E2%80%85%ED%83%81!/ef20cd5f.png" data-original-src="https://upload.acmicpc.net/0aefd109-2217-40f0-92ab-499b07c55125/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 228px; width: 600px;" /></p>
 
 <p>위의 그림에서 $1$이 적혀있는 접시를 $1$번 접시라고 한다면, $3$번과 $4$번 접시의 연결을 끊고, $5$번과 $1$번 접시의 연결을 끊어 $[1, 2, 4],\ [3, 5]$의 정렬된 $2$개의 수열을 얻을 수 있다.</p>
 

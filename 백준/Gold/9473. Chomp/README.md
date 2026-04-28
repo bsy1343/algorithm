@@ -18,7 +18,7 @@
 
 <p>Chomp is a two-player strategy game played on a rectangular chocolate bar made up of smaller square blocks (cells). The players take turns choosing one block and &quot;eating it&quot; (removing it from the board), together with those that are above it and to its right. The bottom left block is poisoned and the player who is forced to eat it loses. The following diagram shows a game beginning with a 3-by-3 board. The X indicates the poisoned cell.</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/9473.%E2%80%85Chomp/f286bcfe.png" data-original-src="https://www.acmicpc.net/upload/images/chomp.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:109px; width:648px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/9473.%E2%80%85Chomp/f286bcfe.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/9473.%E2%80%85Chomp/f286bcfe.png" data-original-src="https://www.acmicpc.net/upload/images/chomp.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:109px; width:648px" /></p>
 
 <p>A position in the game is a winning position if there is a move that results in a losing position for the opponent. A position in the game is a losing position, if every move from that position either eats the poisoned square (losing the game) or results in a winning position for the opponent.&nbsp;</p>
 

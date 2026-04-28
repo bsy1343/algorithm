@@ -22,7 +22,7 @@
 
 <p>영선이는 운동장이 너무 커서 트리에 대한 정보를 하나도 모르기 때문에, 게임을 시작 할 정점을 찍어야 한다. 자신이 불리하다고 생각한 영선이가 게임을 하지 않으려고 하자, 영우는 영선이에게 &ldquo;어떤 점 x에서 영선이가 이기는 경우의 수&rdquo;를 알려주며 어그로를 끌어보려고 한다. 최대한 큰 값을 얘기하고 싶은 영우를 위해 트리 정보를 다 알고있는 여러분이 계산해주자.&nbsp;</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/14678.%E2%80%85%EC%96%B4%EA%B7%B8%EB%A1%9C%E2%80%85%EB%81%8C%EB%A6%B0%E2%80%85%EC%98%81%EC%84%A0/ed66e48a.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14678/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:217px; width:194px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/14678.%E2%80%85%EC%96%B4%EA%B7%B8%EB%A1%9C%E2%80%85%EB%81%8C%EB%A6%B0%E2%80%85%EC%98%81%EC%84%A0/ed66e48a.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/14678.%E2%80%85%EC%96%B4%EA%B7%B8%EB%A1%9C%E2%80%85%EB%81%8C%EB%A6%B0%E2%80%85%EC%98%81%EC%84%A0/ed66e48a.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14678/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:217px; width:194px" /></p>
 
 <p>예를 들어 운동장에 다음과 같은 트리 그림이 그려져 있었다고 하자.</p>
 

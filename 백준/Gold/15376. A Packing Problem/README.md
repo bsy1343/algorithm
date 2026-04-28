@@ -46,4 +46,4 @@
 
 <p>For the first test case, the packing can be done as follows:</p>
 
-<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/15376.%E2%80%85A%E2%80%85Packing%E2%80%85Problem/d047e48f.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15376/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:242px; width:314px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/15376.%E2%80%85A%E2%80%85Packing%E2%80%85Problem/d047e48f.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/15376.%E2%80%85A%E2%80%85Packing%E2%80%85Problem/d047e48f.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15376/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:242px; width:314px" /></p>

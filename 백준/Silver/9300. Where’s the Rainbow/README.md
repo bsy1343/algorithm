@@ -18,7 +18,7 @@
 
 <p>After a long day of working on HSPC problems, you see a rainbow in the sky and want to figure out how far you have to walk to get your pot of gold. You are given a 2D plane and a semi-circle (rainbow) of height h placed with the center somewhere along the x-axis. You are also given an angle of inclination to view the top of the rainbow from the origin. Find how far away the closest point on the rainbow is to you by using the picture below to solve for d, the distance between you and the closest point on the rainbow. You can ignore the height/width of the person; treat them as a point.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/9300.%E2%80%85Where%E2%80%99s%E2%80%85the%E2%80%85Rainbow/1d722bf9.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/9300/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:253px; width:641px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/9300.%E2%80%85Where%E2%80%99s%E2%80%85the%E2%80%85Rainbow/1d722bf9.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/9300.%E2%80%85Where%E2%80%99s%E2%80%85the%E2%80%85Rainbow/1d722bf9.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/9300/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:253px; width:641px" /></p>
 
 ### 입력
 

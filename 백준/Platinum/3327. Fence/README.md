@@ -22,7 +22,7 @@
 
 <p>The plantation is square and 1 000&times;1 000 m<sup>2</sup> large. In bird&rsquo;s eye view, the lower left corner has coordinates (0, 0), the upper right (1 000, 1 000).</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/3327.%E2%80%85Fence/a6485704.png" data-original-src="https://upload.acmicpc.net/b3aa7c20-1ffa-48f4-9642-9120a017bd95/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 218px; height: 217px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/3327.%E2%80%85Fence/a6485704.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/3327.%E2%80%85Fence/a6485704.png" data-original-src="https://upload.acmicpc.net/b3aa7c20-1ffa-48f4-9642-9120a017bd95/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 218px; height: 217px;" /></p>
 
 <p>In this example there are four pre-drilled holes (circles) and three trees (squares). It is optimal to buy three fence posts and put them into selected holes (filled circles), to connect them by wire (lines), and to leave the upper left hole empty. The cost of erecting the fence is 3 &middot; 20&euro; + 1 &middot; 111&euro; = 171&euro; since three posts were bought and one tree could not be fenced in (which means a loss of that tree&rsquo;s harvest).</p>
 

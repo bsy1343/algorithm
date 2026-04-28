@@ -18,7 +18,7 @@
 
 <p>The Brocard point of a triangle ABC is a point P in the triangle chosen so that: &ang;PAB = &ang;PBC = &ang;PCA (see figure below).</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/11529.%E2%80%85Brocard%E2%80%85Point%E2%80%85of%E2%80%85a%E2%80%85Triangle/b47c2830.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11529/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:204px; width:582px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/11529.%E2%80%85Brocard%E2%80%85Point%E2%80%85of%E2%80%85a%E2%80%85Triangle/b47c2830.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/11529.%E2%80%85Brocard%E2%80%85Point%E2%80%85of%E2%80%85a%E2%80%85Triangle/b47c2830.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11529/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:204px; width:582px" /></p>
 
 <p>The common angle is called the Brocard angle. The largest Brocard angle is &pi;/6 which is the Brocard angle for an equilateral triangle (the Brocard point is the centroid of the triangle).</p>
 

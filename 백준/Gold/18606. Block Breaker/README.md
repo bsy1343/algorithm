@@ -24,7 +24,7 @@
 
 <p>For example, please look at the following illustration. The frame is of size 2 &times; 2, and the blocks (1, 1) and (1, 2) have dropped already. If we knock down the block (2, 2), it will drop, and then the last remaining block (2, 1) will also drop because it will become unstable.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/18606.%E2%80%85Block%E2%80%85Breaker/0e1063cb.png" data-original-src="https://upload.acmicpc.net/5027fa1c-5cca-415d-8805-69656ea1ee5d/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 543px; height: 123px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/18606.%E2%80%85Block%E2%80%85Breaker/0e1063cb.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/18606.%E2%80%85Block%E2%80%85Breaker/0e1063cb.png" data-original-src="https://upload.acmicpc.net/5027fa1c-5cca-415d-8805-69656ea1ee5d/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 543px; height: 123px;" /></p>
 
 <p>You are given a sequence of moves to make. How many blocks will drop as a result of each move? Specifically, if nothing happens during a move, the answer for that move is 0.</p>
 

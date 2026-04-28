@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/27159.%E2%80%85%EB%85%B8%E2%80%85%EB%95%A1%EC%8A%A4!/9362100a.png" data-original-src="https://upload.acmicpc.net/274695ff-3852-43dc-8e62-79c2cd5e5181/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 550px; max-width: 100%;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/27159.%E2%80%85%EB%85%B8%E2%80%85%EB%95%A1%EC%8A%A4!/9362100a.png" data-original-src="%EB%B0%B1%EC%A4%80/Bronze/27159.%E2%80%85%EB%85%B8%E2%80%85%EB%95%A1%EC%8A%A4!/9362100a.png" data-original-src="https://upload.acmicpc.net/274695ff-3852-43dc-8e62-79c2cd5e5181/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 550px; max-width: 100%;" /></p>
 
 <p><strong>《노 땡스!》</strong>는 $3$부터 $35$까지의 정수가 쓰인 수 카드를 이용하여 플레이할 수 있는 보드게임입니다. 수 카드를 경매를 통해서 낙찰받으며, 최종적으로 가지고 있는 수 카드를 이용하여 다음과 같이 점수를 계산합니다.</p>
 

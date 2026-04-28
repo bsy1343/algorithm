@@ -20,23 +20,23 @@
 
 <p>1. 글에 포함되어 있는 단어의 순서를 뒤섞으면 안 된다. 아래 그림 중 왼쪽 그림은 &quot;This is a pen&quot;을 11열 원고지에 작성할 때 올바른 예이고, 오른쪽 그림은 올바르지 않은 예이다. (단어의 순서를 섞었다)</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/3833.%E2%80%85%EC%95%84%EB%A6%84%EB%8B%A4%EC%9A%B4%E2%80%85%EB%A0%88%EC%9D%B4%EC%95%84%EC%9B%83/ae1bbe42.png" data-original-src="https://www.acmicpc.net/upload/images/bs1(1).png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:70px; width:574px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/3833.%E2%80%85%EC%95%84%EB%A6%84%EB%8B%A4%EC%9A%B4%E2%80%85%EB%A0%88%EC%9D%B4%EC%95%84%EC%9B%83/ae1bbe42.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/3833.%E2%80%85%EC%95%84%EB%A6%84%EB%8B%A4%EC%9A%B4%E2%80%85%EB%A0%88%EC%9D%B4%EC%95%84%EC%9B%83/ae1bbe42.png" data-original-src="https://www.acmicpc.net/upload/images/bs1(1).png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:70px; width:574px" /></p>
 
 <p>2. 같은 줄에 있는 두 단어 사이에는 공백이 적어도 한 칸 있어야 한다. 아래 그림은 단어와 단어 사이에 공백을 넣지 않았기 때문에, 올바르지 않은 예이다.</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/3833.%E2%80%85%EC%95%84%EB%A6%84%EB%8B%A4%EC%9A%B4%E2%80%85%EB%A0%88%EC%9D%B4%EC%95%84%EC%9B%83/6a75e7df.png" data-original-src="https://www.acmicpc.net/upload/images/bs2(1).png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:68px; width:292px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/3833.%E2%80%85%EC%95%84%EB%A6%84%EB%8B%A4%EC%9A%B4%E2%80%85%EB%A0%88%EC%9D%B4%EC%95%84%EC%9B%83/6a75e7df.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/3833.%E2%80%85%EC%95%84%EB%A6%84%EB%8B%A4%EC%9A%B4%E2%80%85%EB%A0%88%EC%9D%B4%EC%95%84%EC%9B%83/6a75e7df.png" data-original-src="https://www.acmicpc.net/upload/images/bs2(1).png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:68px; width:292px" /></p>
 
 <p>3. 단어는 그 글자수만큼 연속된 칸을 차지해야 한다. 한 단어를 두 줄에 나누어서 쓸 수 없고, 단어 내에 공백이 들어 있으면 안 된다. 아래 예는 단어에 포함되어 있는 글자가 연속되지 않아서 현수의 규칙을 지키지 않는 예이다.</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/3833.%E2%80%85%EC%95%84%EB%A6%84%EB%8B%A4%EC%9A%B4%E2%80%85%EB%A0%88%EC%9D%B4%EC%95%84%EC%9B%83/93fffe39.png" data-original-src="https://www.acmicpc.net/upload/images/bs3.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:75px; width:574px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/3833.%E2%80%85%EC%95%84%EB%A6%84%EB%8B%A4%EC%9A%B4%E2%80%85%EB%A0%88%EC%9D%B4%EC%95%84%EC%9B%83/93fffe39.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/3833.%E2%80%85%EC%95%84%EB%A6%84%EB%8B%A4%EC%9A%B4%E2%80%85%EB%A0%88%EC%9D%B4%EC%95%84%EC%9B%83/93fffe39.png" data-original-src="https://www.acmicpc.net/upload/images/bs3.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:75px; width:574px" /></p>
 
 <p>4. 글은 양 변에 대해서 균등 정렬이 되어야 한다. 즉, 각 줄의 첫 번째 단어는 첫 번째 열에서 시작해어야 하고, 마지막 줄을 제외한 모든 줄의 마지막 단어는 마지막 열에서 끝나야 한다. 아래 그림은 양 변에 대해서 균등하지 않은 예이다.</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/3833.%E2%80%85%EC%95%84%EB%A6%84%EB%8B%A4%EC%9A%B4%E2%80%85%EB%A0%88%EC%9D%B4%EC%95%84%EC%9B%83/6891cd45.png" data-original-src="https://www.acmicpc.net/upload/images/bs4.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:79px; width:584px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/3833.%E2%80%85%EC%95%84%EB%A6%84%EB%8B%A4%EC%9A%B4%E2%80%85%EB%A0%88%EC%9D%B4%EC%95%84%EC%9B%83/6891cd45.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/3833.%E2%80%85%EC%95%84%EB%A6%84%EB%8B%A4%EC%9A%B4%E2%80%85%EB%A0%88%EC%9D%B4%EC%95%84%EC%9B%83/6891cd45.png" data-original-src="https://www.acmicpc.net/upload/images/bs4.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:79px; width:584px" /></p>
 
 <p>글은 불필요한 긴 공백이 없을 때 아름다운 레이아웃이라고 한다. 즉, 제일 긴 연속된 공백의 길이가 최소가 되어야 한다. 예를 들어, 아래 그림은 &quot;This is a pen&quot;을 11열 원고지에 쓸 때, 현수의 규칙을 지키면서 가장 아름다운 레이아웃이다. 제일 긴 연속된 공백의 길이가 2이다. 또, 1번 조건의 아래 왼쪽 그림은 3이다.</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/3833.%E2%80%85%EC%95%84%EB%A6%84%EB%8B%A4%EC%9A%B4%E2%80%85%EB%A0%88%EC%9D%B4%EC%95%84%EC%9B%83/b42af19b.png" data-original-src="https://www.acmicpc.net/upload/images/bs5.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:71px; width:288px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/3833.%E2%80%85%EC%95%84%EB%A6%84%EB%8B%A4%EC%9A%B4%E2%80%85%EB%A0%88%EC%9D%B4%EC%95%84%EC%9B%83/b42af19b.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/3833.%E2%80%85%EC%95%84%EB%A6%84%EB%8B%A4%EC%9A%B4%E2%80%85%EB%A0%88%EC%9D%B4%EC%95%84%EC%9B%83/b42af19b.png" data-original-src="https://www.acmicpc.net/upload/images/bs5.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:71px; width:288px" /></p>
 
 <p>글과 원고지의 열의 개수가 주어진다. 이때, 현수의 규칙을 지키면서 이 글을 원고지에 쓸 때, 가장 아름다운 레이아웃의 제일 긴 연속된 공백의 길이를 구하는 프로그램을 작성하시오.</p>
 

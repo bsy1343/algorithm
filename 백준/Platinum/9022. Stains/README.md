@@ -18,7 +18,7 @@
 
 <p>Taeyeon has been using a rectangular carpet for a long time, thus the carpet has lots of indelible stains. Taeyeon decided to repair it by covering the stains with additional carpet patches. The shape of the patches is a diamond, which is a 45&deg;- rotated axis-aligned square, as illustrated in Figure 1 below. The cost of a patch is proportional to its area. Taeyeon wants to minimize the total cost of the patches used to cover the stains, i.e., minimize the sum of area of the patches used. Moreover, Taeyeon is full of artistic sensitivity, so she wants some pattern of the patches. For this, she will align the centers of the patches on a line as illustrated in Figure 1. Patches can overlap each other.</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/9022.%E2%80%85Stains/7f1e755a.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/9022/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202017-01-03%20%EC%98%A4%ED%9B%84%206.02.03.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:157px; width:400px" /><br />
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/9022.%E2%80%85Stains/7f1e755a.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/9022.%E2%80%85Stains/7f1e755a.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/9022/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202017-01-03%20%EC%98%A4%ED%9B%84%206.02.03.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:157px; width:400px" /><br />
 Figure 1. Stains are black dots and the centers of the patches are the crosses. The thick line is the x-axis.</p>
 
 <p>The figure above shows an example in which the nine stains can be covered by three patches with the minimum cost of 32.5(= 18+12.5+2).</p>

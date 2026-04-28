@@ -22,7 +22,7 @@
 
 <p>맵에 존재하는 조끼와 헬멧의 방어력이 주어졌을 때 경수를 도와 경수가 얻을 수 있는 방어력의 최댓값을 구해주자.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/15781.%E2%80%85%ED%97%AC%EB%A9%A7%EA%B3%BC%E2%80%85%EC%A1%B0%EB%81%BC/0bb188d8.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15781/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 66px; height: 111px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/15781.%E2%80%85%ED%97%AC%EB%A9%A7%EA%B3%BC%E2%80%85%EC%A1%B0%EB%81%BC/0bb188d8.png" data-original-src="%EB%B0%B1%EC%A4%80/Bronze/15781.%E2%80%85%ED%97%AC%EB%A9%A7%EA%B3%BC%E2%80%85%EC%A1%B0%EB%81%BC/0bb188d8.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15781/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 66px; height: 111px;" /></p>
 
 ### 입력
 

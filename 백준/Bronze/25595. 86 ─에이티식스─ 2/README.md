@@ -22,7 +22,7 @@
 
 <p>레긴레이브는 대각선 네 방향으로 이동할 수 있다. 현재 좌표가 $(r,\,c)$ 라면 $(r - 1,\,c - 1)$, $(r - 1,\,c + 1)$, $(r + 1,\,c - 1)$, $(r + 1,\,c + 1)$로 움직일 수 있다. 그리고 대각선으로 이동할 때 이동 경로에 인접한 레기온을 최대 2기까지 해치울 수 있다. 각각의 이동 경우마다 해치울 수 있는 레기온 위치는 다음과 같다.</p>
 
-<p style="text-align: center;"><img alt="레긴레이브 이동가능 좌표" src="%EB%B0%B1%EC%A4%80/Bronze/25595.%E2%80%8586%E2%80%85%E2%94%80%EC%97%90%EC%9D%B4%ED%8B%B0%EC%8B%9D%EC%8A%A4%E2%94%80%E2%80%852/d2be436d.png" data-original-src="https://upload.acmicpc.net/69e13a81-9a24-45c6-a73b-f26c537671d8/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 800px; height: 569px;" /></p>
+<p style="text-align: center;"><img alt="레긴레이브 이동가능 좌표" src="%EB%B0%B1%EC%A4%80/Bronze/25595.%E2%80%8586%E2%80%85%E2%94%80%EC%97%90%EC%9D%B4%ED%8B%B0%EC%8B%9D%EC%8A%A4%E2%94%80%E2%80%852/d2be436d.png" data-original-src="%EB%B0%B1%EC%A4%80/Bronze/25595.%E2%80%8586%E2%80%85%E2%94%80%EC%97%90%EC%9D%B4%ED%8B%B0%EC%8B%9D%EC%8A%A4%E2%94%80%E2%80%852/d2be436d.png" data-original-src="https://upload.acmicpc.net/69e13a81-9a24-45c6-a73b-f26c537671d8/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 800px; height: 569px;" /></p>
 
 <p style="text-align: center;">&lt;레긴레이브 이동가능 좌표&gt;</p>
 

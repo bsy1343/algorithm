@@ -20,7 +20,7 @@
 
 <p>수영장은 직각 이등변 삼각형이고, 두 변의 길이가 250이다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/2936.%E2%80%85%EC%B1%84%EC%8B%9D%EC%A3%BC%EC%9D%98%EC%9E%90/b1aa7cc0.png" data-original-src="https://upload.acmicpc.net/6346bc36-3ded-41b6-9a1f-2395fe8db516/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 301px; height: 293px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/2936.%E2%80%85%EC%B1%84%EC%8B%9D%EC%A3%BC%EC%9D%98%EC%9E%90/b1aa7cc0.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/2936.%E2%80%85%EC%B1%84%EC%8B%9D%EC%A3%BC%EC%9D%98%EC%9E%90/b1aa7cc0.png" data-original-src="https://upload.acmicpc.net/6346bc36-3ded-41b6-9a1f-2395fe8db516/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 301px; height: 293px;" /></p>
 
 <p>사실 상범이가 수영장을 만든 이유는 파티였다. 파티에는 많은 여학생들이 왔고, DJ도 왔다. 또, 고기는 매우 맛있게 구워지고 있었다.</p>
 

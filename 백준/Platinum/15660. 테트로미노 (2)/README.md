@@ -26,7 +26,7 @@
 
 <p>정사각형 4개를 이어 붙인 폴리오미노는 테트로미노라고 하며, 다음과 같은 5가지가 있다.</p>
 
-<p style="text-align:center"><a href="https://commons.wikimedia.org/wiki/File:All_5_free_tetrominoes.svg"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/15660.%E2%80%85%ED%85%8C%ED%8A%B8%EB%A1%9C%EB%AF%B8%EB%85%B8%E2%80%85(2)/9b95aff1.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14500/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:167px; width:250px" /></a></p>
+<p style="text-align:center"><a href="https://commons.wikimedia.org/wiki/File:All_5_free_tetrominoes.svg"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/15660.%E2%80%85%ED%85%8C%ED%8A%B8%EB%A1%9C%EB%AF%B8%EB%85%B8%E2%80%85(2)/9b95aff1.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/15660.%E2%80%85%ED%85%8C%ED%8A%B8%EB%A1%9C%EB%AF%B8%EB%85%B8%E2%80%85(2)/9b95aff1.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14500/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:167px; width:250px" /></a></p>
 
 <p>아름이는 크기가 N&times;M인 종이 위에 테트로미노 두 개를 놓으려고 한다. 두 테트로미노는 서로 겹치면 안 된다.&nbsp;종이는 1&times;1 크기의 칸으로 나누어져 있으며, 각각의 칸에는 정수가 하나 쓰여 있다.</p>
 

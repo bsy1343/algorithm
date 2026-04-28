@@ -26,7 +26,7 @@
 	아래 그림 (a)는 영역의 예시이고, (b)는 위의 조건을 만족하게 선을 그린 것이고, 길이는 18이다.</p>
 
 <p>
-	<img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/3909.%E2%80%85%EB%A7%A8%ED%95%98%ED%83%84%E2%80%85%EB%B0%B0%EC%84%A0/5576327e.png" data-original-src="https://www.acmicpc.net/upload/images/man.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 310px; height: 169px;" /></p>
+	<img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/3909.%E2%80%85%EB%A7%A8%ED%95%98%ED%83%84%E2%80%85%EB%B0%B0%EC%84%A0/5576327e.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/3909.%E2%80%85%EB%A7%A8%ED%95%98%ED%83%84%E2%80%85%EB%B0%B0%EC%84%A0/5576327e.png" data-original-src="https://www.acmicpc.net/upload/images/man.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 310px; height: 169px;" /></p>
 
 ### 입력
 

@@ -18,7 +18,7 @@
 
 <p>In the game of chess, knights are underwhelming and unique. No other piece in chess moves like the knight in its &#39;L&#39; shaped pattern. The Knight moves in an L shape in any direction. We can say that it either moves two squares sideways and then one square up or down, or two squares up or down, and then one square sideways.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/31040.%E2%80%85Nine%E2%80%85Knights/a71c5bf3.png" data-original-src="https://upload.acmicpc.net/7e40759e-b018-4c58-a564-5422c81e6326/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 250px; height: 253px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/31040.%E2%80%85Nine%E2%80%85Knights/a71c5bf3.png" data-original-src="%EB%B0%B1%EC%A4%80/Bronze/31040.%E2%80%85Nine%E2%80%85Knights/a71c5bf3.png" data-original-src="https://upload.acmicpc.net/7e40759e-b018-4c58-a564-5422c81e6326/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 250px; height: 253px;" /></p>
 
 <p style="text-align: center;">Figure 1: The highlighted squares show all possible moves for a knight.</p>
 

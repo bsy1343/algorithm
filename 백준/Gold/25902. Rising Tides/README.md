@@ -20,7 +20,7 @@
 
 <p>The Phang Nga Bay in Thailand is home to hundreds of islands, some of which (e.g., James Bond Island) are famous from movie scenes. Others have lagoons inside that can only be reached by canoeing through caves on the water. Some caves have ceilings so low that canoers must lean over to make it through.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/25902.%E2%80%85Rising%E2%80%85Tides/6eb5db4f.png" data-original-src="https://upload.acmicpc.net/533ec3b8-9484-41e3-bb34-c9be3e6ddf49/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 374px; height: 283px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/25902.%E2%80%85Rising%E2%80%85Tides/6eb5db4f.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/25902.%E2%80%85Rising%E2%80%85Tides/6eb5db4f.png" data-original-src="https://upload.acmicpc.net/533ec3b8-9484-41e3-bb34-c9be3e6ddf49/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 374px; height: 283px;" /></p>
 
 <p>Besides navigating the tricky passages of the caves, canoers must be aware of the tides. Some caves can only be traversed in low tide. As the tides change, the sea level rises or falls while the explorers are paddling, and they must be careful to choose the correct path through the cave to avoid getting trapped. Of course, if they can make it through, they also want to minimize the amount of energy they spend leaning over in the canoe, i.e., they prefer higher ceiling heights when going through the caves.</p>
 

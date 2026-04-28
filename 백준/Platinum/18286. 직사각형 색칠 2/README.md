@@ -23,11 +23,11 @@
 	<li>같은 색으로 이루어진 2&times;2 크기의 정사각형이 없어야 한다.</li>
 </ul>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/18286.%E2%80%85%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95%E2%80%85%EC%83%89%EC%B9%A0%E2%80%852/569480a7.png" data-original-src="https://upload.acmicpc.net/fdddd240-0eee-4363-891b-8cea411d42fc/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 471px; height: 150px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/18286.%E2%80%85%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95%E2%80%85%EC%83%89%EC%B9%A0%E2%80%852/569480a7.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/18286.%E2%80%85%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95%E2%80%85%EC%83%89%EC%B9%A0%E2%80%852/569480a7.png" data-original-src="https://upload.acmicpc.net/fdddd240-0eee-4363-891b-8cea411d42fc/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 471px; height: 150px;" /></p>
 
 <p style="text-align: center;">N = 3, M = 3인 경우 올바른 색칠 방법</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/18286.%E2%80%85%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95%E2%80%85%EC%83%89%EC%B9%A0%E2%80%852/e6b42e42.png" data-original-src="https://upload.acmicpc.net/26ba28b2-9239-4c12-9b5c-5d72e7a32eca/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 472px; height: 150px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/18286.%E2%80%85%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95%E2%80%85%EC%83%89%EC%B9%A0%E2%80%852/e6b42e42.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/18286.%E2%80%85%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95%E2%80%85%EC%83%89%EC%B9%A0%E2%80%852/e6b42e42.png" data-original-src="https://upload.acmicpc.net/26ba28b2-9239-4c12-9b5c-5d72e7a32eca/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 472px; height: 150px;" /></p>
 
 <p style="text-align: center;">N = 3, M = 3인 경우 올바르지 않은 색칠 방법</p>
 

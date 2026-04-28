@@ -20,7 +20,7 @@
 
 <p>호석이는 아직 상인계의 새싹이기 때문에, 초기 투자를 통해서 여러 명의 &quot;정보 고릴라&quot;들로부터 정보를 모으려고 한다. 정보 고릴라란 여기저기서 정보를 수집하는 사람들을 의미한다. 일단 정보를 긁어모으기 위해서 호석이는 여러 정보 고릴라들에게 정보를 구매하려고 한다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/22252.%E2%80%85%EC%A0%95%EB%B3%B4%E2%80%85%EC%83%81%EC%9D%B8%E2%80%85%ED%98%B8%EC%84%9D/0616aa36.png" data-original-src="https://upload.acmicpc.net/3de1bd98-cafe-4e28-8ffc-0eeb2edcb0e2/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 600px; width: 600px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/22252.%E2%80%85%EC%A0%95%EB%B3%B4%E2%80%85%EC%83%81%EC%9D%B8%E2%80%85%ED%98%B8%EC%84%9D/0616aa36.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/22252.%E2%80%85%EC%A0%95%EB%B3%B4%E2%80%85%EC%83%81%EC%9D%B8%E2%80%85%ED%98%B8%EC%84%9D/0616aa36.png" data-original-src="https://upload.acmicpc.net/3de1bd98-cafe-4e28-8ffc-0eeb2edcb0e2/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 600px; width: 600px;" /></p>
 
 <p>암흑가의 연락망은 빼곡하기 때문에 누가 어떤 정보를 얻었는지에 대한 찌라시들이 수시로 퍼진다. 찌라시로 알 수 있는 것은, 어떤 이름을 가진 고릴라가 $C_1$, $C_2$, ..., $C_k$ 만큼의 가치가 있는 정보 k 개를 얻었다는 점이다.</p>
 

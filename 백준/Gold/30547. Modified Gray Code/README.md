@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/30547.%E2%80%85Modified%E2%80%85Gray%E2%80%85Code/d4668f08.png" data-original-src="https://upload.acmicpc.net/7e4a0969-259b-4245-811c-87926c6584b5/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 224px; height: 156px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/30547.%E2%80%85Modified%E2%80%85Gray%E2%80%85Code/d4668f08.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/30547.%E2%80%85Modified%E2%80%85Gray%E2%80%85Code/d4668f08.png" data-original-src="https://upload.acmicpc.net/7e4a0969-259b-4245-811c-87926c6584b5/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 224px; height: 156px;" /></p>
 
 <p>The Gray Code is a well-known binary sequence in which successive elements differ by only one bit, and the bit chosen to be switched yields the smallest normal binary value not yet used.  The first element of the sequence is the binary sequence corresponding to 0. For example, the 3-bit Gray Code sequence is 000, 001, 011, 010, 110, 111, 101, 100.  So the element at index 0 is 000, the element at index 4 is 110, and so on.</p>
 

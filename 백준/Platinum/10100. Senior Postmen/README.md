@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/10100.%E2%80%85Senior%E2%80%85Postmen/a84c1b33.png" data-original-src="https://upload.acmicpc.net/dc9513a8-d7b1-45bd-adc0-39f98cb92b4e/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 157px; height: 153px; float: right;" />It is the year 2036 and Europe is crowded by senior citizens. In order to keep them healthy, the European ministry for majority groups (seniors are a majority!) suggests to have them deliver the small amount of paper mail that is still being sent &mdash; typically to seniors. This suggestion is going to be implemented all over Europe.</p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/10100.%E2%80%85Senior%E2%80%85Postmen/a84c1b33.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/10100.%E2%80%85Senior%E2%80%85Postmen/a84c1b33.png" data-original-src="https://upload.acmicpc.net/dc9513a8-d7b1-45bd-adc0-39f98cb92b4e/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 157px; height: 153px; float: right;" />It is the year 2036 and Europe is crowded by senior citizens. In order to keep them healthy, the European ministry for majority groups (seniors are a majority!) suggests to have them deliver the small amount of paper mail that is still being sent &mdash; typically to seniors. This suggestion is going to be implemented all over Europe.</p>
 
 <p>The ministry has devised a &ldquo;senior postmen system&rdquo; in the following way: Europe has been divided into mail districts. A mail district has a street network of streets and junctions. Every street in the network can be walked in both directions. In each district, arbitrarily many senior citizens are available to be hired as mailman. Every morning, each mailman receives a bag with mail to be delivered on a tour that covers a part of the street network. Every tour must be senior&ndash;compatible, i.e. it must satisfy the following conditions:</p>
 
@@ -56,6 +56,6 @@
 
 <p>The following picture illustrates the street network and the three senior&ndash;compatible tours that may be used to cover it.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/10100.%E2%80%85Senior%E2%80%85Postmen/64688108.png" data-original-src="https://www.acmicpc.net/upload/images2/p.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 221px; line-height: 20.8px; width: 270px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/10100.%E2%80%85Senior%E2%80%85Postmen/64688108.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/10100.%E2%80%85Senior%E2%80%85Postmen/64688108.png" data-original-src="https://www.acmicpc.net/upload/images2/p.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 221px; line-height: 20.8px; width: 270px;" /></p>
 
 <p>Note that there are several solutions to this example, among them some with only two tours.</p>

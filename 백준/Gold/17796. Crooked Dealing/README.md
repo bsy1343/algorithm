@@ -22,7 +22,7 @@
 
 <p>You already know the numbers on every card in the pile , and the number of cards any player must have in their hand. Find how many hands you can make at once without introducing a pair.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/17796.%E2%80%85Crooked%E2%80%85Dealing/9092a8ec.png" data-original-src="https://upload.acmicpc.net/f88d9e92-772c-4b42-b9c0-fa225337ea07/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 623px; height: 290px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/17796.%E2%80%85Crooked%E2%80%85Dealing/9092a8ec.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/17796.%E2%80%85Crooked%E2%80%85Dealing/9092a8ec.png" data-original-src="https://upload.acmicpc.net/f88d9e92-772c-4b42-b9c0-fa225337ea07/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 623px; height: 290px;" /></p>
 
 <p style="text-align: center;">Figure C.1: Illustration of a solution to Sample Input 2.</p>
 

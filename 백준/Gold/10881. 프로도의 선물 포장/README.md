@@ -22,11 +22,11 @@
 
 <p>예를 들어, 선물 상자들의 크기 (가로&times;세로)가 각각 3&times;4, 5&times;6, 4&times;1인 선물 상자들을 아래와 같이 포장하면 사용할 포장 상자의 크기는 8 &times; 8 = 64이 된다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/10881.%E2%80%85%ED%94%84%EB%A1%9C%EB%8F%84%EC%9D%98%E2%80%85%EC%84%A0%EB%AC%BC%E2%80%85%ED%8F%AC%EC%9E%A5/af36dce3.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/10881/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:253px; width:247px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/10881.%E2%80%85%ED%94%84%EB%A1%9C%EB%8F%84%EC%9D%98%E2%80%85%EC%84%A0%EB%AC%BC%E2%80%85%ED%8F%AC%EC%9E%A5/af36dce3.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/10881.%E2%80%85%ED%94%84%EB%A1%9C%EB%8F%84%EC%9D%98%E2%80%85%EC%84%A0%EB%AC%BC%E2%80%85%ED%8F%AC%EC%9E%A5/af36dce3.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/10881/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:253px; width:247px" /></p>
 
 <p>하지만 아래와 같이 포장할 경우, 사용할 포장 상자의 크기는 5 &times; 10 = 50이 된다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/10881.%E2%80%85%ED%94%84%EB%A1%9C%EB%8F%84%EC%9D%98%E2%80%85%EC%84%A0%EB%AC%BC%E2%80%85%ED%8F%AC%EC%9E%A5/c23c9db5.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/10881/2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:307px; width:176px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/10881.%E2%80%85%ED%94%84%EB%A1%9C%EB%8F%84%EC%9D%98%E2%80%85%EC%84%A0%EB%AC%BC%E2%80%85%ED%8F%AC%EC%9E%A5/c23c9db5.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/10881.%E2%80%85%ED%94%84%EB%A1%9C%EB%8F%84%EC%9D%98%E2%80%85%EC%84%A0%EB%AC%BC%E2%80%85%ED%8F%AC%EC%9E%A5/c23c9db5.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/10881/2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:307px; width:176px" /></p>
 
 <p>구매한 선물 상자들의 크기가 주어졌을 때, 선물들을 안전하게 포장하는 데 필요한 포장 상자의 최소 크기 (즉, 포장 상자의 넓이가 최소가 되는 경우)를 구하시오.</p>
 

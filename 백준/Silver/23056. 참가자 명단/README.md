@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/23056.%E2%80%85%EC%B0%B8%EA%B0%80%EC%9E%90%E2%80%85%EB%AA%85%EB%8B%A8/fcaba398.png" data-original-src="https://upload.acmicpc.net/a7fed846-80e3-4433-a3eb-c38604373f23/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 500px; width: 500px;" /><br />
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/23056.%E2%80%85%EC%B0%B8%EA%B0%80%EC%9E%90%E2%80%85%EB%AA%85%EB%8B%A8/fcaba398.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/23056.%E2%80%85%EC%B0%B8%EA%B0%80%EC%9E%90%E2%80%85%EB%AA%85%EB%8B%A8/fcaba398.png" data-original-src="https://upload.acmicpc.net/a7fed846-80e3-4433-a3eb-c38604373f23/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 500px; width: 500px;" /><br />
 &nbsp;</p>
 
 <p>백남이의 모교인 백준고등학교에서 체육대회를 개최하려 한다.</p>

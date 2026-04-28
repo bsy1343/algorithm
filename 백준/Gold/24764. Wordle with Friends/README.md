@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/24764.%E2%80%85Wordle%E2%80%85with%E2%80%85Friends/210daa87.png" data-original-src="https://upload.acmicpc.net/81accc5d-c9b5-4945-8351-d1fca9660cbb/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 378px; height: 157px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/24764.%E2%80%85Wordle%E2%80%85with%E2%80%85Friends/210daa87.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/24764.%E2%80%85Wordle%E2%80%85with%E2%80%85Friends/210daa87.png" data-original-src="https://upload.acmicpc.net/81accc5d-c9b5-4945-8351-d1fca9660cbb/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 378px; height: 157px;" /></p>
 
 <p>Zoe and her friends enjoy playing Wordle (<a href="https://www.nytimes.com/games/wordle/">Wordle</a> was created by Josh Wardle, and is now owned by the New York Times.) together and have decided to work cooperatively to solve the daily puzzle.</p>
 

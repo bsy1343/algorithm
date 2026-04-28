@@ -18,7 +18,7 @@
 
 <p>You are given $n$ points on a plane. The i-th of them is <em>activated</em> with probability $p_i$, provided as part of the input. Find the expected circumference of the convex hull of all activated points.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/25100.%E2%80%85E(length(CH))/bf4f4b9e.png" data-original-src="https://upload.acmicpc.net/1abe79dd-c13e-4891-ab6f-489174c5d195/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 299px; height: 230px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/25100.%E2%80%85E(length(CH))/bf4f4b9e.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/25100.%E2%80%85E(length(CH))/bf4f4b9e.png" data-original-src="https://upload.acmicpc.net/1abe79dd-c13e-4891-ab6f-489174c5d195/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 299px; height: 230px;" /></p>
 
 ### 입력
 

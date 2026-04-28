@@ -20,7 +20,7 @@
 
 <p>Mark could receive one simple code at a time which he could detect as a hexadecimal digit or hex code including 0-9 and A-F. Then he could transform a pair of hex digits into a character since he knows how to look up the ASCII table. Fortunately enough he has an ASCII table at hand (who would miss an ASCII table on voyage to Mars!! ^_^).&nbsp;</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/11784.%E2%80%85Hex%E2%80%85Code/d291a6dc.jpg" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11783/1.jpg" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:424px; width:500px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/11784.%E2%80%85Hex%E2%80%85Code/d291a6dc.jpg" data-original-src="%EB%B0%B1%EC%A4%80/Bronze/11784.%E2%80%85Hex%E2%80%85Code/d291a6dc.jpg" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11783/1.jpg" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:424px; width:500px" /></p>
 
 <p>If Mark receives a code sequence &ldquo;4869204D61726B&rdquo;, he can decode it into the message &ldquo;Hi Mark&rdquo;. However, decoding the hex codes manually is very slow and inefficient. Therefore your task is to help Mark Watney write a program to decode these hex codes.&nbsp;</p>
 

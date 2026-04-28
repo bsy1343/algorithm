@@ -22,7 +22,7 @@
 
 <p>트리 $T$의 모든&nbsp;내부 정점 $v$에 대해, $v$의 왼쪽 부트리와 오른쪽 부트리의&nbsp;높이 차이가 1 이하일 때, $T$는 높이 균형 성질을 만족한다고 부른다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/22968.%E2%80%85%EA%B7%A0%ED%98%95/2192e59c.png" data-original-src="https://upload.acmicpc.net/c803af4a-0d46-4d64-9cf7-34f551dd70c9/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 423px; width: 1000px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/22968.%E2%80%85%EA%B7%A0%ED%98%95/2192e59c.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/22968.%E2%80%85%EA%B7%A0%ED%98%95/2192e59c.png" data-original-src="https://upload.acmicpc.net/c803af4a-0d46-4d64-9cf7-34f551dd70c9/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 423px; width: 1000px;" /></p>
 
 <p>위 그림에서, 왼쪽에 있는 트리는 모든 내부 정점의 왼쪽 부트리와&nbsp;오른쪽 부트리의 높이가 동일하므로 AVL Tree이다.</p>
 

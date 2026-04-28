@@ -22,11 +22,11 @@
 
 <p>For example, if N = 6 Alex might specify the following activities: singing with score S<sub>1</sub> = 10, running with score S<sub>2</sub> = 60, listening to music with score S<sub>3</sub> = 70, traveling with score S<sub>4</sub> = 70, eating out with score S<sub>5</sub> = 80, and visiting museums with score S6 = 80. Then the corresponding radial diagram would be as shown in the figure below.</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/13869.%E2%80%85Dating%E2%80%85On-Line/a0987af8.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/13869/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-11-19%20%EC%98%A4%EC%A0%84%203.50.39.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:217px; width:313px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/13869.%E2%80%85Dating%E2%80%85On-Line/a0987af8.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/13869.%E2%80%85Dating%E2%80%85On-Line/a0987af8.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/13869/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-11-19%20%EC%98%A4%EC%A0%84%203.50.39.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:217px; width:313px" /></p>
 
 <p>The area of a radial diagram depends on the order in which the different activities are specified, and Alex suspects that a profile depicting a radial diagram with greater area might be more successful. For example, the radial diagram in the following figure features the same activities and scores as the example above, but has a greater area.</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/13869.%E2%80%85Dating%E2%80%85On-Line/32b74f57.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/13869/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-11-19%20%EC%98%A4%EC%A0%84%203.50.48.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:208px; width:313px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/13869.%E2%80%85Dating%E2%80%85On-Line/32b74f57.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/13869.%E2%80%85Dating%E2%80%85On-Line/32b74f57.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/13869/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-11-19%20%EC%98%A4%EC%A0%84%203.50.48.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:208px; width:313px" /></p>
 
 <p>Alex has asked you to write a program to find the maximum possible area of a radial diagram given a list of activities graded with scores between 0 and 100.</p>
 

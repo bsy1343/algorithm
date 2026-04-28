@@ -18,11 +18,11 @@
 
 <p>생물 개체들 사이에 대한 계통 관계를 구성하는 것은 생물정보학에서 매우 중요한 작업이다. 계통 관계는 보통 트리로 표현되는데, 이를 계통 트리라고 부른다. 각 개체는 계통 트리에서 잎 노드(leaf node)에 대응된다. 계통 트리에서 두 잎 노드 사이의 경로 길이는 해당 노드에 대응되는 두 개체가 진화생물학적으로 가까운 정도를 나타낸다. 아래 그림은 계통 트리의 예를 보여준다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/6991.%E2%80%85%EA%B3%84%ED%86%B5%E2%80%85%ED%8A%B8%EB%A6%AC/bc12d739.jpg" data-original-src="https://www.acmicpc.net/upload/images/gt1.jpg" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:206px; width:297px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/6991.%E2%80%85%EA%B3%84%ED%86%B5%E2%80%85%ED%8A%B8%EB%A6%AC/bc12d739.jpg" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/6991.%E2%80%85%EA%B3%84%ED%86%B5%E2%80%85%ED%8A%B8%EB%A6%AC/bc12d739.jpg" data-original-src="https://www.acmicpc.net/upload/images/gt1.jpg" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:206px; width:297px" /></p>
 
 <p>계통 트리를 참고하여 개체들 사이에서 진화생물학적으로 가까운 정도를 나타내는 그래프를 정의할 수 있다. 이 그래프를 계통 그래프라고 부른다. 유사도 K인 계통 그래프는 다음과 같이 정의된다. 그래프의 정점은 각 개체를 나타내고, 두 정점 사이에 에지가 존재할 필요충분조건은 계통 트리에서 이 두 정점에 대응되는 노드들 사이의 거리(경로의 길이)가 K 이하인 경우이다. 아래 그림은 위 계통 트리에 의해 정의되는 유사도 K=3인 그래프를 보여준다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/6991.%E2%80%85%EA%B3%84%ED%86%B5%E2%80%85%ED%8A%B8%EB%A6%AC/7ea2d66f.jpg" data-original-src="https://www.acmicpc.net/upload/images/gt2.jpg" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:130px; width:264px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/6991.%E2%80%85%EA%B3%84%ED%86%B5%E2%80%85%ED%8A%B8%EB%A6%AC/7ea2d66f.jpg" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/6991.%E2%80%85%EA%B3%84%ED%86%B5%E2%80%85%ED%8A%B8%EB%A6%AC/7ea2d66f.jpg" data-original-src="https://www.acmicpc.net/upload/images/gt2.jpg" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:130px; width:264px" /></p>
 
 <p>실험실에서 유사도 3인 계통 그래프를 구축한 후에 계통 트리에 대한 자료를 분실하였다. 따라서 계통 트리를 복원하기 위한 작업을 수행하려고 한다.</p>
 
@@ -38,4 +38,4 @@
 
 ### 힌트
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/6991.%E2%80%85%EA%B3%84%ED%86%B5%E2%80%85%ED%8A%B8%EB%A6%AC/7c2ccc51.jpg" data-original-src="https://www.acmicpc.net/upload/images/gt3.jpg" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:207px; width:297px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/6991.%E2%80%85%EA%B3%84%ED%86%B5%E2%80%85%ED%8A%B8%EB%A6%AC/7c2ccc51.jpg" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/6991.%E2%80%85%EA%B3%84%ED%86%B5%E2%80%85%ED%8A%B8%EB%A6%AC/7c2ccc51.jpg" data-original-src="https://www.acmicpc.net/upload/images/gt3.jpg" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:207px; width:297px" /></p>

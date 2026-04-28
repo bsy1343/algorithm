@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/7420.%E2%80%85%EB%A7%B9%EB%8F%85%E2%80%85%EB%B0%A9%EB%B2%BD/a8a77e40.png" data-original-src="https://upload.acmicpc.net/e8b1d57d-ee8e-4e2d-bf2b-6e788776c553/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="margin-left: 10px; float: right;" />화학&nbsp;제국의 왕 성준이는 계속되는 이웃나라의 침범으로부터 자유로워지기 위해 자국의 자랑 <strong>화학 방벽</strong>을 건설하기로 마음먹었다. 이 방벽은 근처에 다가오는 생명체에게 해로운 독성을 내뿜어서 더이상 다른 나라들이 얼씬도 못하게 만들 것이다!</p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/7420.%E2%80%85%EB%A7%B9%EB%8F%85%E2%80%85%EB%B0%A9%EB%B2%BD/a8a77e40.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/7420.%E2%80%85%EB%A7%B9%EB%8F%85%E2%80%85%EB%B0%A9%EB%B2%BD/a8a77e40.png" data-original-src="https://upload.acmicpc.net/e8b1d57d-ee8e-4e2d-bf2b-6e788776c553/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="margin-left: 10px; float: right;" />화학&nbsp;제국의 왕 성준이는 계속되는 이웃나라의 침범으로부터 자유로워지기 위해 자국의 자랑 <strong>화학 방벽</strong>을 건설하기로 마음먹었다. 이 방벽은 근처에 다가오는 생명체에게 해로운 독성을 내뿜어서 더이상 다른 나라들이 얼씬도 못하게 만들 것이다!</p>
 
 <p>그러나 이 방벽은 만들기 까다롭기에 가능한 한 적게 지어야 하며, 자국민들에게도 악영향을 끼칠 수 있으므로 자국의 모든 건물들로부터 L 이상의 거리를 유지해야만 한다.</p>
 

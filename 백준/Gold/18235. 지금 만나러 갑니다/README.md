@@ -22,7 +22,7 @@
 
 <p>아래 그림은 <em>N&nbsp;</em>= 10, <em>A&nbsp;</em>= 4, <em>B&nbsp;</em>= 10일 때의 예시이다. 화살표는 점프 가능한 위치를 나타낸다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/18235.%E2%80%85%EC%A7%80%EA%B8%88%E2%80%85%EB%A7%8C%EB%82%98%EB%9F%AC%E2%80%85%EA%B0%91%EB%8B%88%EB%8B%A4/13b9070c.png" data-original-src="https://upload.acmicpc.net/17882260-669e-4a3b-87ab-321b05c5879b/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 697px; width: 600px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/18235.%E2%80%85%EC%A7%80%EA%B8%88%E2%80%85%EB%A7%8C%EB%82%98%EB%9F%AC%E2%80%85%EA%B0%91%EB%8B%88%EB%8B%A4/13b9070c.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/18235.%E2%80%85%EC%A7%80%EA%B8%88%E2%80%85%EB%A7%8C%EB%82%98%EB%9F%AC%E2%80%85%EA%B0%91%EB%8B%88%EB%8B%A4/13b9070c.png" data-original-src="https://upload.acmicpc.net/17882260-669e-4a3b-87ab-321b05c5879b/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 697px; width: 600px;" /></p>
 
 <p>오리와 육리의 위치가 주어졌을 때, 둘이 만날 수 있는 최소 일수를 구해보자. <strong>같은 날&nbsp;같은 점의 땅에 도착했을&nbsp;때</strong>&nbsp;오리와 육리가 만난 것으로 간주한다.</p>
 

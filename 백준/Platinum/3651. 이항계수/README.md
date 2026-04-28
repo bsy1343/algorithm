@@ -24,7 +24,7 @@
 
 
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/3651.%E2%80%85%EC%9D%B4%ED%95%AD%EA%B3%84%EC%88%98/cf76f608.png" data-original-src="https://www.acmicpc.net/upload/images/daum_equation_1358305217093.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:60px; width:177px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/3651.%E2%80%85%EC%9D%B4%ED%95%AD%EA%B3%84%EC%88%98/cf76f608.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/3651.%E2%80%85%EC%9D%B4%ED%95%AD%EA%B3%84%EC%88%98/cf76f608.png" data-original-src="https://www.acmicpc.net/upload/images/daum_equation_1358305217093.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:60px; width:177px" /></p>
 
 
 

@@ -18,7 +18,7 @@
 
 <p>2차원 세계에 블록이 쌓여있다. 비가 오면 블록 사이에 빗물이 고인다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/14719.%E2%80%85%EB%B9%97%EB%AC%BC/3f498352.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14719/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:79px; width:146px" /><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/14719.%E2%80%85%EB%B9%97%EB%AC%BC/a0932729.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14719/2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:79px; width:143px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/14719.%E2%80%85%EB%B9%97%EB%AC%BC/3f498352.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/14719.%E2%80%85%EB%B9%97%EB%AC%BC/3f498352.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14719/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:79px; width:146px" /><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/14719.%E2%80%85%EB%B9%97%EB%AC%BC/a0932729.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/14719.%E2%80%85%EB%B9%97%EB%AC%BC/a0932729.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14719/2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:79px; width:143px" /></p>
 
 <p>비는 충분히 많이 온다. 고이는 빗물의 총량은 얼마일까?</p>
 
@@ -40,12 +40,12 @@
 
 <p>힌트 1:</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/14719.%E2%80%85%EB%B9%97%EB%AC%BC/eecef66c.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14719/ex1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:111px; width:104px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/14719.%E2%80%85%EB%B9%97%EB%AC%BC/eecef66c.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/14719.%E2%80%85%EB%B9%97%EB%AC%BC/eecef66c.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14719/ex1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:111px; width:104px" /></p>
 
 <p>힌트 2:</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/14719.%E2%80%85%EB%B9%97%EB%AC%BC/32b028b6.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14719/ex2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:101px; width:183px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/14719.%E2%80%85%EB%B9%97%EB%AC%BC/32b028b6.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/14719.%E2%80%85%EB%B9%97%EB%AC%BC/32b028b6.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14719/ex2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:101px; width:183px" /></p>
 
 <p>힌트 3:</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/14719.%E2%80%85%EB%B9%97%EB%AC%BC/d9434be7.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14719/ex3.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:94px; width:146px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/14719.%E2%80%85%EB%B9%97%EB%AC%BC/d9434be7.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/14719.%E2%80%85%EB%B9%97%EB%AC%BC/d9434be7.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14719/ex3.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:94px; width:146px" /></p>

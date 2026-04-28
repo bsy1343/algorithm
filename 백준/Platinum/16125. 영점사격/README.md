@@ -32,6 +32,6 @@
 
 ### 힌트
 
-<p style="text-align: center;"><img alt="훈련을 통과할 수 있는 경우과 불가능한 경우의 예시" src="%EB%B0%B1%EC%A4%80/Platinum/16125.%E2%80%85%EC%98%81%EC%A0%90%EC%82%AC%EA%B2%A9/f39801d7.png" data-original-src="https://upload.acmicpc.net/5765a195-658a-4c5e-ac58-baebb2e56759/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 76.15%;" /></p>
+<p style="text-align: center;"><img alt="훈련을 통과할 수 있는 경우과 불가능한 경우의 예시" src="%EB%B0%B1%EC%A4%80/Platinum/16125.%E2%80%85%EC%98%81%EC%A0%90%EC%82%AC%EA%B2%A9/f39801d7.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/16125.%E2%80%85%EC%98%81%EC%A0%90%EC%82%AC%EA%B2%A9/f39801d7.png" data-original-src="https://upload.acmicpc.net/5765a195-658a-4c5e-ac58-baebb2e56759/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 76.15%;" /></p>
 
 <p>첫 번째 예시에서 훈련을 통과할 수 있는 경우와 불가능한 경우의 예시이다. 빨간 점은 세 번째 총알 자국의 위치, 파란 점은 세 점의 외심을 의미한다.</p>

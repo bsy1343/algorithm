@@ -18,7 +18,7 @@
 
 <p>Montgomery Burns has recently acquired a rod with dimensions 1 &times; 2 &times; N, where 3 &le; N &le; 100,000. The mechanics of Burns&rsquo; Rod resemble those of a standard 3 &times; 3 &times; 3 Rubik&rsquo;s Cube; in fact, one can twist it around in N + 1 different ways as follows (all twists must be by multiples of 180 degrees):</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/7646.%E2%80%85Burns%E2%80%99%E2%80%85Rods/20f3b664.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/7646/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:173px; width:625px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/7646.%E2%80%85Burns%E2%80%99%E2%80%85Rods/20f3b664.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/7646.%E2%80%85Burns%E2%80%99%E2%80%85Rods/20f3b664.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/7646/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:173px; width:625px" /></p>
 
 <p>The long length of the rod has made it particularly useful for a variety of essential day-to-day errands: it has successfully served Burns as a back-scratcher, TV remote replacement and as a means to prod one Waylon Smithers. However, during its most recent stint as a fishing rod, it fell into a pond when Burns was unable to sustain the weight of a particularly hungry goldfish. Unfortunately, this meant the coloured labels peeled off, leaving an unlabelled Rod, 6N +4 sticky labels and a very confused goldfish splashing around in the pond.</p>
 
@@ -44,4 +44,4 @@
 
 ### 힌트
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/7646.%E2%80%85Burns%E2%80%99%E2%80%85Rods/557bfb84.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/7646/2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:283px; width:299px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/7646.%E2%80%85Burns%E2%80%99%E2%80%85Rods/557bfb84.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/7646.%E2%80%85Burns%E2%80%99%E2%80%85Rods/557bfb84.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/7646/2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:283px; width:299px" /></p>

@@ -33,7 +33,7 @@
 
 <p>예를 들어, n = 3&nbsp;이고 주어지는 3개의 픽셀 삼각형이&nbsp;$P(1, 2, 3), P(3, 1, 2), P(5, 5, 1)$ 일 때&nbsp;격자의 상태를 묘사하면 다음과 같다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/16572.%E2%80%85Pixel%E2%80%85Triangles/901c0926.png" data-original-src="https://upload.acmicpc.net/912abc69-0f88-4837-b5b7-12b6b507972a/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 353px; width: 600px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/16572.%E2%80%85Pixel%E2%80%85Triangles/901c0926.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/16572.%E2%80%85Pixel%E2%80%85Triangles/901c0926.png" data-original-src="https://upload.acmicpc.net/912abc69-0f88-4837-b5b7-12b6b507972a/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 353px; width: 600px;" /></p>
 
 <p style="text-align: center;"><em><b>Figure</b></em>:<b> </b>격자 일부분의 상태</p>
 

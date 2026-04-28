@@ -18,13 +18,13 @@
 
 <p>Nonograms (also known as Paint by Numbers or Hanjie) is a logic puzzle which encodes a blackand-white picture using sequences of numbers. The object of the puzzle is to recreate the picture from the numbers. The puzzle initially consists of a blank n &times; m grid, with a sequence of numbers associated with each row and each column. These numbers indicate the lengths of runs of black squares in a row (from left to right) or column (from top to bottom). For example, if the numbers for a row are 4 5 1 it indicates that somewhere in the row there is a run of 4 consecutive black squares followed later by a run of 5 consecutive black squares which is in turn followed by a run of a single black square. There must be 1 or more white spaces between each black run, and there can be 0 or more white squares before the first or after the last black run. In our example, if the length of a row is 13, then there are four possible layouts of black and white squares:</p>
 
-<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/15078.%E2%80%85Yes%2C%E2%80%85Yes%2C%E2%80%85It%E2%80%99s%E2%80%85Nonograms/0fe363d6.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15078/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:98px; width:232px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/15078.%E2%80%85Yes%2C%E2%80%85Yes%2C%E2%80%85It%E2%80%99s%E2%80%85Nonograms/0fe363d6.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/15078.%E2%80%85Yes%2C%E2%80%85Yes%2C%E2%80%85It%E2%80%99s%E2%80%85Nonograms/0fe363d6.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15078/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:98px; width:232px" /></p>
 
 <p style="text-align:center">Figure J.1</p>
 
 <p>Note that in all four of the possible layouts certain squares are always black, as shown in Figure J.2, while others can be either white or black (indicated by &lsquo;?&rsquo;)</p>
 
-<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/15078.%E2%80%85Yes%2C%E2%80%85Yes%2C%E2%80%85It%E2%80%99s%E2%80%85Nonograms/a6ad577f.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15078/2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:27px; width:231px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/15078.%E2%80%85Yes%2C%E2%80%85Yes%2C%E2%80%85It%E2%80%99s%E2%80%85Nonograms/a6ad577f.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/15078.%E2%80%85Yes%2C%E2%80%85Yes%2C%E2%80%85It%E2%80%99s%E2%80%85Nonograms/a6ad577f.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15078/2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:27px; width:231px" /></p>
 
 <p style="text-align:center">Figure J.2</p>
 

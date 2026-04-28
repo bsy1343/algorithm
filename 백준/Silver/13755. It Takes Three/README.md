@@ -20,7 +20,7 @@
 
 <p>Here&rsquo;s an example of how three rectangles, 8x2, 1x6 and 7x6, can be put together to form a square 8x8:</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/13755.%E2%80%85It%E2%80%85Takes%E2%80%85Three/88a2cd61.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/13755/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-11-19%20%EC%98%A4%EC%A0%84%202.18.28.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:225px; width:225px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/13755.%E2%80%85It%E2%80%85Takes%E2%80%85Three/88a2cd61.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/13755.%E2%80%85It%E2%80%85Takes%E2%80%85Three/88a2cd61.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/13755/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-11-19%20%EC%98%A4%EC%A0%84%202.18.28.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:225px; width:225px" /></p>
 
 ### 입력
 

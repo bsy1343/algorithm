@@ -22,7 +22,7 @@
 
 <p>You will be responsible for buying the filament to run around the entire perimeter of the artwork. How many centimetres will you need to obtain?</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/16600.%E2%80%85Contemporary%E2%80%85Art/445e9ed8.png" data-original-src="https://upload.acmicpc.net/2f49e9ec-bf83-45a6-acce-a6d5f6a35d61/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 607px; height: 277px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/16600.%E2%80%85Contemporary%E2%80%85Art/445e9ed8.png" data-original-src="%EB%B0%B1%EC%A4%80/Bronze/16600.%E2%80%85Contemporary%E2%80%85Art/445e9ed8.png" data-original-src="https://upload.acmicpc.net/2f49e9ec-bf83-45a6-acce-a6d5f6a35d61/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 607px; height: 277px;" /></p>
 
 <p style="text-align: center;">Figure C.1: A test subject for the frame.</p>
 

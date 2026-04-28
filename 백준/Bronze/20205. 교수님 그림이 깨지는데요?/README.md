@@ -22,7 +22,7 @@
 
 <p>기존의 픽셀이 늘린 방향으로 넓게 퍼질 뿐 해상도가 늘어나진 않는다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/20205.%E2%80%85%EA%B5%90%EC%88%98%EB%8B%98%E2%80%85%EA%B7%B8%EB%A6%BC%EC%9D%B4%E2%80%85%EA%B9%A8%EC%A7%80%EB%8A%94%EB%8D%B0%EC%9A%94%3F/e21f7603.png" data-original-src="https://upload.acmicpc.net/473b24e6-9cbd-498a-a653-bcfb27c6bb31/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/20205.%E2%80%85%EA%B5%90%EC%88%98%EB%8B%98%E2%80%85%EA%B7%B8%EB%A6%BC%EC%9D%B4%E2%80%85%EA%B9%A8%EC%A7%80%EB%8A%94%EB%8D%B0%EC%9A%94%3F/e21f7603.png" data-original-src="%EB%B0%B1%EC%A4%80/Bronze/20205.%E2%80%85%EA%B5%90%EC%88%98%EB%8B%98%E2%80%85%EA%B7%B8%EB%A6%BC%EC%9D%B4%E2%80%85%EA%B9%A8%EC%A7%80%EB%8A%94%EB%8D%B0%EC%9A%94%3F/e21f7603.png" data-original-src="https://upload.acmicpc.net/473b24e6-9cbd-498a-a653-bcfb27c6bb31/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p style="text-align: center;">&lt; 그림 1. 크기를 늘린&nbsp;비트맵 이미지의 예시&nbsp;&gt;</p>
 
@@ -30,7 +30,7 @@
 
 <p>업샘플링을 하는 방법은 여러 가지가 있는데 그중 가장 간단한 방법은 기존 픽셀의 배열을 그대로 유지한 채, 각 픽셀의 개수를 동일하게 늘리는 방법이다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/20205.%E2%80%85%EA%B5%90%EC%88%98%EB%8B%98%E2%80%85%EA%B7%B8%EB%A6%BC%EC%9D%B4%E2%80%85%EA%B9%A8%EC%A7%80%EB%8A%94%EB%8D%B0%EC%9A%94%3F/8f791c7d.png" data-original-src="https://upload.acmicpc.net/a170eb35-16a1-4e0e-be7b-fb9d9febdc0f/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/20205.%E2%80%85%EA%B5%90%EC%88%98%EB%8B%98%E2%80%85%EA%B7%B8%EB%A6%BC%EC%9D%B4%E2%80%85%EA%B9%A8%EC%A7%80%EB%8A%94%EB%8D%B0%EC%9A%94%3F/8f791c7d.png" data-original-src="%EB%B0%B1%EC%A4%80/Bronze/20205.%E2%80%85%EA%B5%90%EC%88%98%EB%8B%98%E2%80%85%EA%B7%B8%EB%A6%BC%EC%9D%B4%E2%80%85%EA%B9%A8%EC%A7%80%EB%8A%94%EB%8D%B0%EC%9A%94%3F/8f791c7d.png" data-original-src="https://upload.acmicpc.net/a170eb35-16a1-4e0e-be7b-fb9d9febdc0f/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p style="text-align: center;">&lt;그림 2. 그림을 가로, 세로로 K(=2) 배 늘렸을 때 추가된 픽셀의 모습 &gt;</p>
 

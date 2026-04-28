@@ -28,7 +28,7 @@
 
 <p>예를 들어, 45656이란 수는 변형 계단 수이지만&nbsp;45676은 4567에서 인접한 자릿수가 연속으로 3번 증가하였으므로 변형 계단 수가 아니다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/18244.%E2%80%85%EB%B3%80%ED%98%95%E2%80%85%EA%B3%84%EB%8B%A8%E2%80%85%EC%88%98/8638f2c9.png" data-original-src="https://upload.acmicpc.net/505323aa-953f-4680-8b14-2737be1da2c3/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 176px; width: 400px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/18244.%E2%80%85%EB%B3%80%ED%98%95%E2%80%85%EA%B3%84%EB%8B%A8%E2%80%85%EC%88%98/8638f2c9.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/18244.%E2%80%85%EB%B3%80%ED%98%95%E2%80%85%EA%B3%84%EB%8B%A8%E2%80%85%EC%88%98/8638f2c9.png" data-original-src="https://upload.acmicpc.net/505323aa-953f-4680-8b14-2737be1da2c3/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 176px; width: 400px;" /></p>
 
 <p>그럼, 오늘도 역시 세준이는 수의 길이가&nbsp;N인 변형 계단 수가 몇 개 있는지 궁금해졌다.</p>
 

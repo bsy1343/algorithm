@@ -24,7 +24,7 @@
 
 <p>As an example (see the first sample test case), the picture below illustrates a room with width 5, height 3. The two directions for the ping-pong balls in each room are (-1, 0) and (-1, -1), respectively. The first ball you launch hits the mousetrap at the position (4, 2). In the end, 12 mousetraps are triggered.</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/12663.%E2%80%85Ping%E2%80%85Pong%E2%80%85Balls%E2%80%85(Small)/8ba55e86.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/12663/images-18.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/12663.%E2%80%85Ping%E2%80%85Pong%E2%80%85Balls%E2%80%85(Small)/8ba55e86.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/12663.%E2%80%85Ping%E2%80%85Pong%E2%80%85Balls%E2%80%85(Small)/8ba55e86.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/12663/images-18.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 ### 입력
 

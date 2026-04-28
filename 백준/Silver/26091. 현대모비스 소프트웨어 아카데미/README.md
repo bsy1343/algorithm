@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/26091.%E2%80%85%ED%98%84%EB%8C%80%EB%AA%A8%EB%B9%84%EC%8A%A4%E2%80%85%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4%E2%80%85%EC%95%84%EC%B9%B4%EB%8D%B0%EB%AF%B8/c0de0cbc.png" data-original-src="https://upload.acmicpc.net/582b9fa8-55f7-4f93-9f9f-507607aab82e/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 300px; width: 399px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/26091.%E2%80%85%ED%98%84%EB%8C%80%EB%AA%A8%EB%B9%84%EC%8A%A4%E2%80%85%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4%E2%80%85%EC%95%84%EC%B9%B4%EB%8D%B0%EB%AF%B8/c0de0cbc.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/26091.%E2%80%85%ED%98%84%EB%8C%80%EB%AA%A8%EB%B9%84%EC%8A%A4%E2%80%85%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4%E2%80%85%EC%95%84%EC%B9%B4%EB%8D%B0%EB%AF%B8/c0de0cbc.png" data-original-src="https://upload.acmicpc.net/582b9fa8-55f7-4f93-9f9f-507607aab82e/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 300px; width: 399px;" /></p>
 
 <blockquote>
 <p>현대모비스는 글로벌 자동차 부품 기업으로 자율주행, 커넥티비티, 전동화 분야에 역량을 집중해 스마트 모빌리티 시대를 선도하고 있는 기업입니다.</p>

@@ -20,7 +20,7 @@
 
 <p>For example, in the following 2 x 2 grid, they can spend 7 + 9 + 12 = 28 unit strength to unite the 4 compartments. And this is the minimum.&nbsp;</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/11787.%E2%80%85Aquarium/34e29c21.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11787/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:294px; width:292px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/11787.%E2%80%85Aquarium/34e29c21.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/11787.%E2%80%85Aquarium/34e29c21.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11787/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:294px; width:292px" /></p>
 
 ### 입력
 

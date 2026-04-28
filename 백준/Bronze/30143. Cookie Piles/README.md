@@ -37,4 +37,4 @@
 
 <p>In the second test case the sequence is: 5, 11, 17 whose sum is 33.  See figure.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/30143.%E2%80%85Cookie%E2%80%85Piles/b2c38ccb.png" data-original-src="https://upload.acmicpc.net/24e203df-c08e-4378-8de7-fc947b9cefd0/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 300px; height: 227px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/30143.%E2%80%85Cookie%E2%80%85Piles/b2c38ccb.png" data-original-src="%EB%B0%B1%EC%A4%80/Bronze/30143.%E2%80%85Cookie%E2%80%85Piles/b2c38ccb.png" data-original-src="https://upload.acmicpc.net/24e203df-c08e-4378-8de7-fc947b9cefd0/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 300px; height: 227px;" /></p>

@@ -30,6 +30,6 @@
 
 ### 힌트
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/14842.%E2%80%85%EC%9E%AC%ED%99%8D%EC%9D%98%E2%80%85%EC%82%AC%EB%8B%A4%EB%A6%AC/5fb1f05a.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14842/example.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:279px; width:348px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/14842.%E2%80%85%EC%9E%AC%ED%99%8D%EC%9D%98%E2%80%85%EC%82%AC%EB%8B%A4%EB%A6%AC/5fb1f05a.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/14842.%E2%80%85%EC%9E%AC%ED%99%8D%EC%9D%98%E2%80%85%EC%82%AC%EB%8B%A4%EB%A6%AC/5fb1f05a.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14842/example.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:279px; width:348px" /></p>
 
 <p>모든 길이의 합 S는 S = A<sub>1</sub> + A<sub>2</sub> + A<sub>3</sub> + ... + A<sub>n-1</sub>이 된다.</p>

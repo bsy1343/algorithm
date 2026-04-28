@@ -22,7 +22,7 @@
 
 <p>For instance, the distance between the points D and E in the following grid is 4 (one path of minimal length between D and E is drawn in red below), and the average distance between D and the other points is 13/5 .</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/18306.%E2%80%85Hiding%E2%80%85Nuts/5621206c.png" data-original-src="https://upload.acmicpc.net/cbbe3c94-ecd1-4897-802e-e0c17c6ce4f0/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 279px; height: 236px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/18306.%E2%80%85Hiding%E2%80%85Nuts/5621206c.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/18306.%E2%80%85Hiding%E2%80%85Nuts/5621206c.png" data-original-src="https://upload.acmicpc.net/cbbe3c94-ecd1-4897-802e-e0c17c6ce4f0/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 279px; height: 236px;" /></p>
 
 ### 입력
 

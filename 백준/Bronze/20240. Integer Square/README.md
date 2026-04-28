@@ -18,7 +18,7 @@
 
 <p>Iris likes to draw different shapes on a grid paper. Her favorite shape is a square. She has recently tried to draw a square with area $s$, but since she uses a grid paper, she wants all the vertices of the square to have integer coordinates.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/20240.%E2%80%85Integer%E2%80%85Square/97ebc2b8.png" data-original-src="https://upload.acmicpc.net/4e9811eb-7599-4e72-bc3e-5ae61f3afaec/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 393px; height: 384px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/20240.%E2%80%85Integer%E2%80%85Square/97ebc2b8.png" data-original-src="%EB%B0%B1%EC%A4%80/Bronze/20240.%E2%80%85Integer%E2%80%85Square/97ebc2b8.png" data-original-src="https://upload.acmicpc.net/4e9811eb-7599-4e72-bc3e-5ae61f3afaec/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 393px; height: 384px;" /></p>
 
 <p>Can you help her find such a square?</p>
 

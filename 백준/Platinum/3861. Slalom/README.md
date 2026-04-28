@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/3861.%E2%80%85Slalom/f8e6aa33.png" data-original-src="https://www.acmicpc.net/upload/images2/slalom.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:275px; width:228px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/3861.%E2%80%85Slalom/f8e6aa33.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/3861.%E2%80%85Slalom/f8e6aa33.png" data-original-src="https://www.acmicpc.net/upload/images2/slalom.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:275px; width:228px" /></p>
 
 <p>In spite of the scarcity of snowfall in Madrid, interest in winter sports is growing in the city, especially with regard to skiing. Many people spend several weekends or even full weeks improving their skills in the mountains.</p>
 

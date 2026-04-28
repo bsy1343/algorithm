@@ -48,6 +48,6 @@ Then,&nbsp;<strong>N</strong>&nbsp;more lines follow. The ith of these lines con
 
 ### 힌트
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/12053.%E2%80%85gBalloon%E2%80%85(Large)/1cab4677.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/12052/12052.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:372px; width:572px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/12053.%E2%80%85gBalloon%E2%80%85(Large)/1cab4677.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/12053.%E2%80%85gBalloon%E2%80%85(Large)/1cab4677.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/12052/12052.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:372px; width:572px" /></p>
 
 <p>In the sample case, there are two balloons in the sky, and you have 1 energy point to use. The best solution is to immediately spend 1 energy point to move the balloon at position 3, height 3 down to height 2. Once you&#39;ve done that, it will take 2 time units for both balloons to reach the tower.</p>

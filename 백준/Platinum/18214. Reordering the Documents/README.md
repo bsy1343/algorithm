@@ -24,7 +24,7 @@
 
 <p>For example, assume that the pile has six documents #1, #3, #4, #2, #6, and #5, in this order from the top, and that the temporary piles can have no more than three documents. Then, she can form two temporary piles, one with documents #6, #4, and #3, from the top, and the other with #5, #2, and #1 (Figure E.1). Both of the temporary piles are reversely ordered. Then, comparing the serial numbers of documents on top of the two temporary piles, one with the larger number (#6, in this case) is to be removed and stowed into the document box first. Repeating this, all the documents will be perfectly ordered in the document box.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/18214.%E2%80%85Reordering%E2%80%85the%E2%80%85Documents/1291b2b3.png" data-original-src="https://upload.acmicpc.net/615bf0d9-4f43-4562-b11f-f4e09fc4f106/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 590px; height: 149px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/18214.%E2%80%85Reordering%E2%80%85the%E2%80%85Documents/1291b2b3.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/18214.%E2%80%85Reordering%E2%80%85the%E2%80%85Documents/1291b2b3.png" data-original-src="https://upload.acmicpc.net/615bf0d9-4f43-4562-b11f-f4e09fc4f106/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 590px; height: 149px;" /></p>
 
 <p style="text-align: center;">Figure E.1. Making two temporary piles</p>
 

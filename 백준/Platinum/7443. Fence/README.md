@@ -18,11 +18,11 @@
 
 <p>There is an area bounded by a fence on some flat field. The fence has the height \(h\)and in the plane projection it has a form of a closed polygonal line (without self-intersections), which is specified by Cartesian coordinates (\(X_i\), \(Y_i\)) of its \(N\) vertices. At the point with coordinates (0, 0) a lamp stands on the field. The lamp may be located either outside or inside the fence, but not on its side as it is shown in the following sample pictures (parts shown in a thin line are not illuminated by the lamp):&nbsp;</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/7443.%E2%80%85Fence/cd65fd73.png" data-original-src="https://www.acmicpc.net/upload/images2/fence1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:82px; width:121px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/7443.%E2%80%85Fence/cd65fd73.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/7443.%E2%80%85Fence/cd65fd73.png" data-original-src="https://www.acmicpc.net/upload/images2/fence1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:82px; width:121px" /></p>
 
 <p>The lamp is inside the fence</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/7443.%E2%80%85Fence/9969f7cf.png" data-original-src="https://www.acmicpc.net/upload/images2/fence2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:128px; width:93px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/7443.%E2%80%85Fence/9969f7cf.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/7443.%E2%80%85Fence/9969f7cf.png" data-original-src="https://www.acmicpc.net/upload/images2/fence2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:128px; width:93px" /></p>
 
 <p>The lamp is outside the fence</p>
 

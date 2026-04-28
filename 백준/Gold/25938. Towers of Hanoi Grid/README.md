@@ -18,11 +18,11 @@
 
 <p>Towers of Hanoi is a rather famous problem for computer scientists as it is an excellent exercise in recursion. For those of you unfamiliar, here is the classic problem. You are given three pegs. On the first peg, there are d disks placed in decreasing order of size (as placed on the peg). The objective of the game is to move the entire tower from the first peg to the last peg. In each move, you are only allowed to move a single disk from the top of one stack to another stack. For the entire game, no disk of larger size is ever allowed to be placed on top of a disk of smaller size. The goal of the puzzle is to move the tower in the minimum number of moves.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/25938.%E2%80%85Towers%E2%80%85of%E2%80%85Hanoi%E2%80%85Grid/2a6473b9.png" data-original-src="https://upload.acmicpc.net/3bd5b53a-623c-4ca6-a631-d7ad01b39070/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 419px; height: 141px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/25938.%E2%80%85Towers%E2%80%85of%E2%80%85Hanoi%E2%80%85Grid/2a6473b9.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/25938.%E2%80%85Towers%E2%80%85of%E2%80%85Hanoi%E2%80%85Grid/2a6473b9.png" data-original-src="https://upload.acmicpc.net/3bd5b53a-623c-4ca6-a631-d7ad01b39070/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 419px; height: 141px;" /></p>
 
 <p>In our problem, we will instead have an n &times; n grid of pegs. The rows are numbered top to bottom from 1 to n, while the columns are similarly labeled, from left to right, 1 to n. The original tower is placed on the top left peg (1, 1). The goal is to move the tower to the bottom right peg (n, n) in the minimum number of moves possible.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/25938.%E2%80%85Towers%E2%80%85of%E2%80%85Hanoi%E2%80%85Grid/980b5d49.png" data-original-src="https://upload.acmicpc.net/4c245a47-2d26-4b0f-afbb-1b91d88a12ae/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 518px; height: 368px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/25938.%E2%80%85Towers%E2%80%85of%E2%80%85Hanoi%E2%80%85Grid/980b5d49.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/25938.%E2%80%85Towers%E2%80%85of%E2%80%85Hanoi%E2%80%85Grid/980b5d49.png" data-original-src="https://upload.acmicpc.net/4c245a47-2d26-4b0f-afbb-1b91d88a12ae/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 518px; height: 368px;" /></p>
 
 <p>Our game will have some different but related rules:</p>
 

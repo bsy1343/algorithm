@@ -18,7 +18,7 @@
 
 <p>En fotograf har tagit m&aring;nga fina foton med sin digitalkamera och kopplar in den i sin dator f&ouml;r att &ouml;verf&ouml;ra bilderna. Bilderna har tagits med olika vridningar av kameran s&aring; nu &auml;r vissa av bilderna roterade. Vi kallar de fyra m&ouml;jliga rotationerna ett foto kan ha f&ouml;r <em>upp</em>, <em>h&ouml;ger</em>, <em>ner</em> och <em>v&auml;nster</em> och definierar det som den sida som motsvarar upp&aring;t i bilden. En bild &auml;r v&auml;nd r&auml;tt om den &auml;r roterad <em>upp</em>. Datorn visar bilderna i en lista och har en funktion som roterar en bild $90^\circ$ medurs. Rotationen sker allts&aring; enligt f&ouml;ljande ordning:</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/26913.%E2%80%85Fotografen/66429f13.png" data-original-src="https://upload.acmicpc.net/0ca2cd1e-4b0c-41a1-9619-5f23d50c5e2c/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 475px; height: 100px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/26913.%E2%80%85Fotografen/66429f13.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/26913.%E2%80%85Fotografen/66429f13.png" data-original-src="https://upload.acmicpc.net/0ca2cd1e-4b0c-41a1-9619-5f23d50c5e2c/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 475px; height: 100px;" /></p>
 
 <p style="text-align: center;">Hur en bild roteras</p>
 

@@ -26,7 +26,7 @@
 
 <p>다구 중 하나인 &#39;숙우&#39;는 &#39;공도배&#39;라고도 하며 우린 물을 나누거나 차를 우릴 물을 식히기 위해 사용한다. 물을 옮길 때마다 온도가 감소한다는 사실을 알게 된 초승달은 자신이 가지고 있었던 숙우들을 이용해 각각의 차에 맞는 적절한 온도를 가진 물을 여러 개 만들어 한꺼번에 차를 여러 종류로 우리고 싶어졌다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/30627.%E2%80%85%EC%82%BC%EC%9B%94%E2%80%85%EC%B4%88%ED%95%98%EB%A3%A8/c7412e8c.png" data-original-src="https://upload.acmicpc.net/973eeb4a-1606-4c59-ac99-496cbaba8484/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="max-width:640px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/30627.%E2%80%85%EC%82%BC%EC%9B%94%E2%80%85%EC%B4%88%ED%95%98%EB%A3%A8/c7412e8c.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/30627.%E2%80%85%EC%82%BC%EC%9B%94%E2%80%85%EC%B4%88%ED%95%98%EB%A3%A8/c7412e8c.png" data-original-src="https://upload.acmicpc.net/973eeb4a-1606-4c59-ac99-496cbaba8484/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="max-width:640px" /></p>
 
 <p>초승달은 $1$번부터 $N$번까지 $N$개의 숙우를 가지고 있다. $1$번부터 $N-1$번까지의 숙우에 $1$번부터 $N-1$번까지의 물이 순서대로 채워져 있고, $N$번 숙우는 비어 있다. $N-1$개의 물은 각각 목표 온도를 가지고 있다. 처음 숙우에 담긴 물은 $100$℃이다. 숙우의 물을 이동할 때 빈 숙우로만 이동할 수 있으며, 숙우에 담긴 물을 모두 이동해야 한다.</p>
 

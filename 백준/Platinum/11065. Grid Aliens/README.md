@@ -24,7 +24,7 @@
 
 <p>Those aliens decided to set up separating fences to reduce the conflicts between different hydrophilic aliens group. Thus they first need to allocate grid space to two disjoint regions; W region for hydrophilic aliens and Q region for hydrophobic aliens (who dislike the watery environment and have little values of hydrophilic property). So they will set up a closed fence for Q regions against W regions to separate conflicting aliens. In Figure 1, dotted cycles denote the separating fences for Q Aliens living on grid points {b,c,f,x,y} are classified as hydrophilic aliens. And {a,d,e,p,q} are aliens living in W region.</p>
 
-<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/11065.%E2%80%85Grid%E2%80%85Aliens/810e858b.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11065/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:280px; width:280px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/11065.%E2%80%85Grid%E2%80%85Aliens/810e858b.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/11065.%E2%80%85Grid%E2%80%85Aliens/810e858b.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11065/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:280px; width:280px" /></p>
 
 <p style="text-align:center">Figure 1. Three fences (dotted red) separate Q regions against R regions</p>
 

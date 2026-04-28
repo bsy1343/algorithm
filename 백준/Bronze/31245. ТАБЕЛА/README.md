@@ -24,11 +24,11 @@
 
 <p>Например от цените 13, 17 и 72 получили общата цена 1317&rsquo;2 и съответно табелата:</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/31245.%E2%80%85%D0%A2%D0%90%D0%91%D0%95%D0%9B%D0%90/7d79bc0b.png" data-original-src="https://upload.acmicpc.net/1eade03c-93fd-4f8d-b3fb-6a3d158e30ed/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 98px; height: 46px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/31245.%E2%80%85%D0%A2%D0%90%D0%91%D0%95%D0%9B%D0%90/7d79bc0b.png" data-original-src="%EB%B0%B1%EC%A4%80/Bronze/31245.%E2%80%85%D0%A2%D0%90%D0%91%D0%95%D0%9B%D0%90/7d79bc0b.png" data-original-src="https://upload.acmicpc.net/1eade03c-93fd-4f8d-b3fb-6a3d158e30ed/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 98px; height: 46px;" /></p>
 
 <p>В края на деня украсената табела изглеждала така:</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/31245.%E2%80%85%D0%A2%D0%90%D0%91%D0%95%D0%9B%D0%90/72243164.png" data-original-src="https://upload.acmicpc.net/b155d8ad-9a55-45fa-8f7a-9e75dcc920b6/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 197px; height: 81px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/31245.%E2%80%85%D0%A2%D0%90%D0%91%D0%95%D0%9B%D0%90/72243164.png" data-original-src="%EB%B0%B1%EC%A4%80/Bronze/31245.%E2%80%85%D0%A2%D0%90%D0%91%D0%95%D0%9B%D0%90/72243164.png" data-original-src="https://upload.acmicpc.net/b155d8ad-9a55-45fa-8f7a-9e75dcc920b6/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 197px; height: 81px;" /></p>
 
 <p>Вие сте състезател по програмиране и се разхождате в МОЛ-а. Когато виждате табелата, решавате да напишете програма sign, с която ако знаете цените на трите стоки, да намирате надписа върху табелата.</p>
 

@@ -24,7 +24,7 @@
 
 <p>Determine the maximum number of commuters who can drive downtown without congestion, subject to all commuters starting their journeys at exactly the same time and without any of them taking a suboptimal route.</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/8879.%E2%80%85Surely%E2%80%85You%E2%80%85Congest/7e38a0e0.png" data-original-src="https://www.acmicpc.net/upload/images/commute.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:237px; width:261px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/8879.%E2%80%85Surely%E2%80%85You%E2%80%85Congest/7e38a0e0.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/8879.%E2%80%85Surely%E2%80%85You%E2%80%85Congest/7e38a0e0.png" data-original-src="https://www.acmicpc.net/upload/images/commute.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:237px; width:261px" /></p>
 
 <p>Figure C.1: Illustration of Sample Input.</p>
 

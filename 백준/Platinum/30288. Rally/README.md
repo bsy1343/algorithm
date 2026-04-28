@@ -20,7 +20,7 @@
 
 <p>Byteland rally organisers asked you to set up a track that would consist of exactly four roads and that would start and end in the same city. A road can not be added to the track more than once.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/30288.%E2%80%85Rally/aed1b274.png" data-original-src="https://upload.acmicpc.net/0de5dcd6-238f-40db-926e-6900838226e7/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 423px; height: 328px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/30288.%E2%80%85Rally/aed1b274.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/30288.%E2%80%85Rally/aed1b274.png" data-original-src="https://upload.acmicpc.net/0de5dcd6-238f-40db-926e-6900838226e7/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 423px; height: 328px;" /></p>
 
 <p style="text-align: center;">Figure 1: Four marked roads make a valid track</p>
 

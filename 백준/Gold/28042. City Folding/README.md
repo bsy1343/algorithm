@@ -35,7 +35,7 @@
 
 <p>The figure below illustrates the first sample. Amelia&rsquo;s home is on the fourth section of the strip, and after the three shown folds it ends up in the seventh layer from the ground.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/28042.%E2%80%85City%E2%80%85Folding/c9ff80bc.png" data-original-src="https://upload.acmicpc.net/440c06d1-03d9-4b88-b61c-03e33b47cbf0/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 425px; height: 268px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/28042.%E2%80%85City%E2%80%85Folding/c9ff80bc.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/28042.%E2%80%85City%E2%80%85Folding/c9ff80bc.png" data-original-src="https://upload.acmicpc.net/440c06d1-03d9-4b88-b61c-03e33b47cbf0/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 425px; height: 268px;" /></p>
 
 ### 입력
 

@@ -26,7 +26,7 @@
 
 <p>例えば，店舗の位置と宅配先の位置が下図のようになっている場合 (この例は「入 出力の例」の例 1 と対応している)，</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/5571.%E2%80%85%E3%83%94%E3%82%B6/bdcc8f39.png" data-original-src="https://upload.acmicpc.net/86756a17-6e3b-47f6-96d9-6be1ae2c6a93/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 298px; height: 253px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/5571.%E2%80%85%E3%83%94%E3%82%B6/bdcc8f39.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/5571.%E2%80%85%E3%83%94%E3%82%B6/bdcc8f39.png" data-original-src="https://upload.acmicpc.net/86756a17-6e3b-47f6-96d9-6be1ae2c6a93/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 298px; height: 253px;" /></p>
 
 <p>宅配先 1 にもっとも近い店舗は S<sub>2</sub> なので，店舗 S<sub>2</sub> から宅配する．このとき，店 舗からの移動距離は 1 である．また，宅配先 2 にもっとも近い店舗は S<sub>1</sub>(本店) なの で，店舗 S<sub>1</sub>(本店) から宅配する．このとき，店舗からの移動距離は 2 である．</p>
 

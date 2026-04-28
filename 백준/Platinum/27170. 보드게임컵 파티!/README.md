@@ -30,7 +30,7 @@
 
 <p>하지만 공지가 늦어지는 바람에 보드게임컵 파티는 운영진들끼리 보드게임을 즐기는 파티가 되었습니다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/27170.%E2%80%85%EB%B3%B4%EB%93%9C%EA%B2%8C%EC%9E%84%EC%BB%B5%E2%80%85%ED%8C%8C%ED%8B%B0!/afa21d53.png" data-original-src="https://upload.acmicpc.net/56c0adee-3c50-4da9-93a4-4928658c529a/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/27170.%E2%80%85%EB%B3%B4%EB%93%9C%EA%B2%8C%EC%9E%84%EC%BB%B5%E2%80%85%ED%8C%8C%ED%8B%B0!/afa21d53.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/27170.%E2%80%85%EB%B3%B4%EB%93%9C%EA%B2%8C%EC%9E%84%EC%BB%B5%E2%80%85%ED%8C%8C%ED%8B%B0!/afa21d53.png" data-original-src="https://upload.acmicpc.net/56c0adee-3c50-4da9-93a4-4928658c529a/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>아쉬운 마음에 실버는 보드게임컵 파티의 게임 매칭을 구현해보기로 했습니다.</p>
 

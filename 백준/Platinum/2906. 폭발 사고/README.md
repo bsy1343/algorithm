@@ -28,7 +28,7 @@
 
 <p>아래 예시는 N=4, A=1, B=1일 때 가능한 방법의 수를 나타낸 것이다. 단, 아래 그림에서는 편의를 위해 90도 구부린 것으로 그려져 있지만 실제 준규는 이 테입을 180도로 구부린다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/2906.%E2%80%85%ED%8F%AD%EB%B0%9C%E2%80%85%EC%82%AC%EA%B3%A0/cf1d8afe.png" data-original-src="https://upload.acmicpc.net/52ce6484-e80c-42f5-a5cd-6ec9932b8b1c/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 594px; height: 280px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/2906.%E2%80%85%ED%8F%AD%EB%B0%9C%E2%80%85%EC%82%AC%EA%B3%A0/cf1d8afe.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/2906.%E2%80%85%ED%8F%AD%EB%B0%9C%E2%80%85%EC%82%AC%EA%B3%A0/cf1d8afe.png" data-original-src="https://upload.acmicpc.net/52ce6484-e80c-42f5-a5cd-6ec9932b8b1c/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 594px; height: 280px;" /></p>
 
 ### 입력
 

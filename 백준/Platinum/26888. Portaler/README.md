@@ -42,7 +42,7 @@
 
 ### 힌트
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/26888.%E2%80%85Portaler/111bd5a1.png" data-original-src="https://upload.acmicpc.net/aef7c7eb-9b51-4de0-913c-c9918ff844b4/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 215px; height: 57px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/26888.%E2%80%85Portaler/111bd5a1.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/26888.%E2%80%85Portaler/111bd5a1.png" data-original-src="https://upload.acmicpc.net/aef7c7eb-9b51-4de0-913c-c9918ff844b4/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 215px; height: 57px;" /></p>
 
 <p style="text-align: center;">En illustration av Sample Input 1.</p>
 

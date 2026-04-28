@@ -20,7 +20,7 @@
 
 <p>Sophie wants to cut the cake the following way: First, she chooses a real number s &ge; 2. For each vertex and each incident edge of the cake she marks where 1/s of the edge&rsquo;s length is. Afterwards, she makes a direct cut between the two markings for each vertex and removes the vertex that way.</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/10851.%E2%80%85Cake/e301ddad.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/10851/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:301px; width:511px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/10851.%E2%80%85Cake/e301ddad.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/10851.%E2%80%85Cake/e301ddad.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/10851/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:301px; width:511px" /></p>
 
 <p>Figure C.1: Illustration of the first two Sample Inputs.</p>
 

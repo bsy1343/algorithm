@@ -26,7 +26,7 @@
 
 <p>그리고 슬라임 분할 기술이 아직 완벽하지 않아서 슬라임을 분할할 때마다 흠집이 하나씩 생기게 돼. 구체적으로, 흠집이 T개인 슬라임을 분할하면 흠집이 T + 1개인 슬라임 2마리가 생기는 것이지.</p>
 
-<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/14715.%E2%80%85%EC%A0%84%EC%83%9D%ED%96%88%EB%8D%94%EB%8B%88%E2%80%85%EC%8A%AC%EB%9D%BC%EC%9E%84%E2%80%85%EC%97%B0%EA%B5%AC%EC%9E%90%EC%98%80%EB%8D%98%E2%80%85%EA%B1%B4%EC%97%90%E2%80%85%EB%8C%80%ED%95%98%EC%97%AC%E2%80%85(Easy)/54566215.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14715/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:337px; width:472px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/14715.%E2%80%85%EC%A0%84%EC%83%9D%ED%96%88%EB%8D%94%EB%8B%88%E2%80%85%EC%8A%AC%EB%9D%BC%EC%9E%84%E2%80%85%EC%97%B0%EA%B5%AC%EC%9E%90%EC%98%80%EB%8D%98%E2%80%85%EA%B1%B4%EC%97%90%E2%80%85%EB%8C%80%ED%95%98%EC%97%AC%E2%80%85(Easy)/54566215.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/14715.%E2%80%85%EC%A0%84%EC%83%9D%ED%96%88%EB%8D%94%EB%8B%88%E2%80%85%EC%8A%AC%EB%9D%BC%EC%9E%84%E2%80%85%EC%97%B0%EA%B5%AC%EC%9E%90%EC%98%80%EB%8D%98%E2%80%85%EA%B1%B4%EC%97%90%E2%80%85%EB%8C%80%ED%95%98%EC%97%AC%E2%80%85(Easy)/54566215.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14715/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:337px; width:472px" /></p>
 
 <p style="text-align:center">&nbsp;에너지가 24이고 흠집이 1개인 슬라임을 분할한 모습. 에너지가 4이고 흠집이 2개인 슬라임과 에너지가 6이고 흠집이 2개인 슬라임으로 분할되었다.</p>
 

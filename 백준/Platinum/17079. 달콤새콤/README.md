@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/17079.%E2%80%85%EB%8B%AC%EC%BD%A4%EC%83%88%EC%BD%A4/277bd009.png" data-original-src="https://upload.acmicpc.net/5fc4a9e8-6e00-4b3f-8f07-84c09f026f08/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 334px; width: 500px;" /><br />
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/17079.%E2%80%85%EB%8B%AC%EC%BD%A4%EC%83%88%EC%BD%A4/277bd009.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/17079.%E2%80%85%EB%8B%AC%EC%BD%A4%EC%83%88%EC%BD%A4/277bd009.png" data-original-src="https://upload.acmicpc.net/5fc4a9e8-6e00-4b3f-8f07-84c09f026f08/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 334px; width: 500px;" /><br />
 &nbsp;</p>
 
 <p>세상에서 가장 달콤한 축제! 달콤새콤 올림픽이 개최되는 날이 되었다.</p>

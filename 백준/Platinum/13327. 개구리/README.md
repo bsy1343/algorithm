@@ -20,7 +20,7 @@
 
 <p>다음 예제를 생각해보자. 강과 양쪽 강가는 8 &times; 9 크기의 격자로 표현할 수 있다. 처음 개구리는 아래쪽 강가에 있고, 파리 나라는 위쪽 강가에 있다. (a, b) &minus; (c, d)는 양 끝점이 (a, b)와 (c, d)인 선분을 의미한다. 아래쪽 강가는 다음과 같은 7 개의 선분으로 표현할 수 있다. (0,0) &minus; (0,1),(0,1) &minus; (2,1), (2, 1) &minus; (2,2) , (2,2) &minus; (3, 2) , (3, 2) &minus; (3,1) , (3,1) &minus; (7,1) , (7,1) &minus; (7,0) . 위쪽 강가는 다음과 같은 11 개의 선분으로 표현할 수 있다. (0, 8) &minus; (0,7),(0, 7) &minus; (1,7), (1,7) &minus; (1,6), (1,6) &minus; (2,6), (2,6) &minus; (2,7), (2,7) &minus; (4,7), (4,7) &minus; (4,6), (4,6) &minus; (5,6), (5,6) &minus; (5,7), (5,7) &minus; (7,7), (7,7) &minus; (7,8). 강 위에는 4 개의 통나무가 있다. (0, 3) &minus; (2, 3) , (6, 2) &minus; (4, 2) , (3, 5) &minus; (6, 5) , (7, 4) &minus; (7, 6) . 모든 선분은 (강가이든, 통나무이든) x-축 또는 y-축에 평행하다고 가정하자. 또한 어떤 한 쌍의 통나무도 공통인 영역을 갖지 않고, 통나무와 강가도 공통인 영역을 갖지 않는다. 다시 한번 강조하지만, 개구리는 같은 선분 위라면 어느 위치로든지 에너지를 사용하지 않고 움직일 수 있다. 일단 파리 나라에 개구리가 도착하면 여행은 끝난다.&nbsp;</p>
 
-<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/13327.%E2%80%85%EA%B0%9C%EA%B5%AC%EB%A6%AC/955137d0.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/13327/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:310px; width:301px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/13327.%E2%80%85%EA%B0%9C%EA%B5%AC%EB%A6%AC/955137d0.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/13327.%E2%80%85%EA%B0%9C%EA%B5%AC%EB%A6%AC/955137d0.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/13327/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:310px; width:301px" /></p>
 
 <p style="text-align:center">그림 1. 강 위의 네 통나무.</p>
 

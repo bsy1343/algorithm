@@ -38,10 +38,10 @@
 
 ### 힌트
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/21624.%E2%80%85Fence/3a28c9e7.png" data-original-src="https://upload.acmicpc.net/3635a55d-b9f6-467f-bde5-a7b320abaf06/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 454px; height: 420px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/21624.%E2%80%85Fence/3a28c9e7.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/21624.%E2%80%85Fence/3a28c9e7.png" data-original-src="https://upload.acmicpc.net/3635a55d-b9f6-467f-bde5-a7b320abaf06/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 454px; height: 420px;" /></p>
 
 <p style="text-align: center;">Example 1, the house is shown inside in orange, and the optimal fence is shown outside in blue.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/21624.%E2%80%85Fence/1b2c118c.png" data-original-src="https://upload.acmicpc.net/66e4f627-5217-4459-b85e-8a34b76fa785/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 425px; height: 304px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/21624.%E2%80%85Fence/1b2c118c.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/21624.%E2%80%85Fence/1b2c118c.png" data-original-src="https://upload.acmicpc.net/66e4f627-5217-4459-b85e-8a34b76fa785/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 425px; height: 304px;" /></p>
 
 <p style="text-align: center;">Example 2, the house is shown inside in orange, and the optimal fence is shown outside in blue.</p>

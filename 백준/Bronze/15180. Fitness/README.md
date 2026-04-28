@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/15180.%E2%80%85Fitness/8c5b68a0.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15180/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="float:right; height:151px; width:173px" />Hilary is a fitness enthusiast. Near her home is a reserve which has 8 fitness stations set out in a roughly circular pattern, as shown. Every day, Hilary visits at least 5 of these stations as part of her daily exercise routine.&nbsp;</p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/15180.%E2%80%85Fitness/8c5b68a0.png" data-original-src="%EB%B0%B1%EC%A4%80/Bronze/15180.%E2%80%85Fitness/8c5b68a0.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15180/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="float:right; height:151px; width:173px" />Hilary is a fitness enthusiast. Near her home is a reserve which has 8 fitness stations set out in a roughly circular pattern, as shown. Every day, Hilary visits at least 5 of these stations as part of her daily exercise routine.&nbsp;</p>
 
 <p>Hilary s daughter Catherine has been given the task of planning her mother s visits to the fitness stations. Catherine has produced a lot of daily plans, but would like them checked to see that they meet Hilary s requirements. This is your task! Do the plans visit at least 5 stations without repeats?&nbsp;</p>
 

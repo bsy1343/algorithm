@@ -18,11 +18,11 @@
 
 <p>아래와 같이 좌우로 $N$개의 장소가 있다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/21758.%E2%80%85%EA%BF%80%E2%80%85%EB%94%B0%EA%B8%B0/49bba610.png" data-original-src="https://upload.acmicpc.net/7eac9e04-f000-482d-9ad5-05cc2363df05/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 353px; height: 56px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/21758.%E2%80%85%EA%BF%80%E2%80%85%EB%94%B0%EA%B8%B0/49bba610.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/21758.%E2%80%85%EA%BF%80%E2%80%85%EB%94%B0%EA%B8%B0/49bba610.png" data-original-src="https://upload.acmicpc.net/7eac9e04-f000-482d-9ad5-05cc2363df05/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 353px; height: 56px;" /></p>
 
 <p>장소들 중 서로 다른 두 곳을 골라서 벌을 한 마리씩 둔다. 또, 다른 한 장소를 골라서 벌통을 둔다. 아래 그림에서 연한 회색의 장소는 벌이 있는 장소이고 진한 회색의 장소는 벌통이 있는 장소이다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/21758.%E2%80%85%EA%BF%80%E2%80%85%EB%94%B0%EA%B8%B0/4ee8ebcd.png" data-original-src="https://upload.acmicpc.net/8ca82402-c379-40cd-902d-9ecc24c35d1f/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 353px; height: 56px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/21758.%E2%80%85%EA%BF%80%E2%80%85%EB%94%B0%EA%B8%B0/4ee8ebcd.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/21758.%E2%80%85%EA%BF%80%E2%80%85%EB%94%B0%EA%B8%B0/4ee8ebcd.png" data-original-src="https://upload.acmicpc.net/8ca82402-c379-40cd-902d-9ecc24c35d1f/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 353px; height: 56px;" /></p>
 
 <p>두 마리 벌은 벌통으로 똑바로 날아가면서 지나가는 모든 칸에서 꿀을 딴다. 각 장소에 적힌 숫자는 벌이 지나가면서 꿀을 딸 수 있는 양이다.</p>
 
@@ -33,11 +33,11 @@
 
 <p>위의 그림과 같이 배치된 경우 두 마리의 벌 모두 $4 + 1 + 4 + 9 + 9 = 27$의 꿀을 따서, 전체 꿀의 양은 54가 된다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/21758.%E2%80%85%EA%BF%80%E2%80%85%EB%94%B0%EA%B8%B0/59da8f65.png" data-original-src="https://upload.acmicpc.net/a9794fde-7a1b-4c4d-82b5-f1b8e7daaa73/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 353px; height: 56px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/21758.%E2%80%85%EA%BF%80%E2%80%85%EB%94%B0%EA%B8%B0/59da8f65.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/21758.%E2%80%85%EA%BF%80%E2%80%85%EB%94%B0%EA%B8%B0/59da8f65.png" data-original-src="https://upload.acmicpc.net/a9794fde-7a1b-4c4d-82b5-f1b8e7daaa73/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 353px; height: 56px;" /></p>
 
 <p>위의 그림과 같이 배치된 경우 왼쪽 장소에서 출발한 벌은 $9 + 4 + 4 + 9 + 9 = 35$의 꿀을 따고 오른쪽 장소에서 출발한 벌은 $4 + 9 + 9 = 22$의 꿀을 따므로, 전체 꿀의 양은 $57$이 된다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/21758.%E2%80%85%EA%BF%80%E2%80%85%EB%94%B0%EA%B8%B0/ebeb9f3c.png" data-original-src="https://upload.acmicpc.net/5b264635-fc6b-498a-af76-bbe08197ab32/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 353px; height: 56px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/21758.%E2%80%85%EA%BF%80%E2%80%85%EB%94%B0%EA%B8%B0/ebeb9f3c.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/21758.%E2%80%85%EA%BF%80%E2%80%85%EB%94%B0%EA%B8%B0/ebeb9f3c.png" data-original-src="https://upload.acmicpc.net/5b264635-fc6b-498a-af76-bbe08197ab32/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 353px; height: 56px;" /></p>
 
 <p>위의 그림과 같은 경우는 전체 꿀의 양이 31이 된다.</p>
 

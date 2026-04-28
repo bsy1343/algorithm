@@ -49,6 +49,6 @@
 
 <p>입력 형식에 주어진 게임 판은 아래 방향이 $+x$ 방향이고, 오른쪽 방향이 $+y$ 방향이다. 또한, 장애물은 없을 ($K=0$) 수도 있다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/14744.%E2%80%85God%E2%80%85Game/b3a53051.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14744/g3.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:129px; width:355px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/14744.%E2%80%85God%E2%80%85Game/b3a53051.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/14744.%E2%80%85God%E2%80%85Game/b3a53051.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14744/g3.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:129px; width:355px" /></p>
 
 <p>위 예에서는 공을 아무리 잘 움직여도 연속된 4개의 장애물이 있는 구간을 통과할 수 없다. 이 경우 게임을 클리어할 수 있는 방법이 없다. 하지만 연속된 3개의 장애물만 있다면 타이밍을 잘 맞춰서 이 구간을 통과하여 게임을 클리어할 수 있다.</p>

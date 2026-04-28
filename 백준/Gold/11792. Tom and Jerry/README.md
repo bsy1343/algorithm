@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/11792.%E2%80%85Tom%E2%80%85and%E2%80%85Jerry/074cf8b1.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11792/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="float:left; height:236px; width:222px" />Tom and Jerry are very fond of cat and mice games, which might be rather obvious to you. Today they are playing a very complicated game. The goals are simple as usual though, Jerry would be running and Tom would have to catch Jerry.</p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/11792.%E2%80%85Tom%E2%80%85and%E2%80%85Jerry/074cf8b1.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/11792.%E2%80%85Tom%E2%80%85and%E2%80%85Jerry/074cf8b1.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11792/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="float:left; height:236px; width:222px" />Tom and Jerry are very fond of cat and mice games, which might be rather obvious to you. Today they are playing a very complicated game. The goals are simple as usual though, Jerry would be running and Tom would have to catch Jerry.</p>
 
 <p>However, today Jerry is running on a perfect circular path with radius R meters, at a constant speed of V m/s. Initially Tom is sitting at the very center of the circle. He wants to catch Jerry as soon as possible, but we all know, Tom is not very intelligent. Instead of calculating an optimal direction to catch Jerry, he is just running towards Jerry.</p>
 

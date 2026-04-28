@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/31533.%E2%80%85Furiosa%E2%80%85AI%E2%80%85%EC%98%81%EC%83%81%E2%80%85%EC%B2%98%EB%A6%AC%E2%80%85%EA%B0%80%EC%86%8D/c134a0fc.webp" data-original-src="https://u.acmicpc.net/41d20ff2-db81-4dab-9fed-0793213ba5a9/Furiosa.webp" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 319px; width: 400px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/31533.%E2%80%85Furiosa%E2%80%85AI%E2%80%85%EC%98%81%EC%83%81%E2%80%85%EC%B2%98%EB%A6%AC%E2%80%85%EA%B0%80%EC%86%8D/c134a0fc.webp" data-original-src="%EB%B0%B1%EC%A4%80/Bronze/31533.%E2%80%85Furiosa%E2%80%85AI%E2%80%85%EC%98%81%EC%83%81%E2%80%85%EC%B2%98%EB%A6%AC%E2%80%85%EA%B0%80%EC%86%8D/c134a0fc.webp" data-original-src="https://u.acmicpc.net/41d20ff2-db81-4dab-9fed-0793213ba5a9/Furiosa.webp" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 319px; width: 400px;" /></p>
 
 <p style="text-align: center;">1세대 WARBOY제품</p>
 

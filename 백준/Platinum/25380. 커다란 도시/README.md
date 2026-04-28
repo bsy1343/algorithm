@@ -18,19 +18,19 @@
 
 <p>KOI시는 너무나 커다라서, 이동하려면 시간이 오래 걸린다. 그래서 KOI시는 도시를 관통하는 아주 긴 도로를 건설하였다. 도로는 남북 방향 또는 동서 방향으로 무한히 뻗어 나간다. 남북 방향의 도로는 총 N개이고, 동서 방향의 도로는 총 M개이다. 도로의 폭은 충분히 좁아 무시할 수 있다. KOI시의 시청을 원점으로 삼아 도시를 좌표평면 위에 그리면 남북 방향 도로는 x = a<sub>i</sub> (1 &le; i &le; N)인 직선으로, 동서 방향 도로는 y = b<sub>j</sub> (1 &le; j &le; M) 인 직선으로 표현할 수 있다. 아래는 x = 3인 도로와 y = 2인 도로의 예이다. 그림에서는 도로가 유한하지만, 실제로는 무한히 뻗어 나감에 주의하라.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/25380.%E2%80%85%EC%BB%A4%EB%8B%A4%EB%9E%80%E2%80%85%EB%8F%84%EC%8B%9C/3bf78774.png" data-original-src="https://upload.acmicpc.net/15e39bf7-eed7-4e14-be0a-2e00e01889b4/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 260px; height: 235px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/25380.%E2%80%85%EC%BB%A4%EB%8B%A4%EB%9E%80%E2%80%85%EB%8F%84%EC%8B%9C/3bf78774.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/25380.%E2%80%85%EC%BB%A4%EB%8B%A4%EB%9E%80%E2%80%85%EB%8F%84%EC%8B%9C/3bf78774.png" data-original-src="https://upload.acmicpc.net/15e39bf7-eed7-4e14-be0a-2e00e01889b4/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 260px; height: 235px;" /></p>
 
 <p>N + M개의 도로 중 K개의 도로에는 과속을 단속하기 위해 담당 경찰을 정확히 한 명씩 배치하였다. k (1 &le; k &le; K)번째 경찰의 위치는 (p<sub>k</sub>, q<sub>k</sub>)이다. 담당 경찰은 반드시 자신이 담당하는 도로 위에 위치한다. 아래는 x = 3 도로의 (3, -2) 지점에 경찰이 배치되고, y = 2 도로의 (-4, 2) 지점에 경찰이 배치된 예이다. 경찰이 배치되지 않은 도로가 있을 수 있고, 어떤 도로에 경찰이 배치되었다면 반드시 한 명이라는 것에 주의하라.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/25380.%E2%80%85%EC%BB%A4%EB%8B%A4%EB%9E%80%E2%80%85%EB%8F%84%EC%8B%9C/d5e5f426.png" data-original-src="https://upload.acmicpc.net/0de70081-09dd-467d-9cd7-68bf657537cb/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 260px; height: 235px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/25380.%E2%80%85%EC%BB%A4%EB%8B%A4%EB%9E%80%E2%80%85%EB%8F%84%EC%8B%9C/d5e5f426.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/25380.%E2%80%85%EC%BB%A4%EB%8B%A4%EB%9E%80%E2%80%85%EB%8F%84%EC%8B%9C/d5e5f426.png" data-original-src="https://upload.acmicpc.net/0de70081-09dd-467d-9cd7-68bf657537cb/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 260px; height: 235px;" /></p>
 
 <p>경찰은 도로 위를 이동할 수 있다. 경찰은 도로 위에서만 움직인다. 만약 두 도로가 교차한다면, 경찰은 그 지점에서 다른 도로로 옮겨갈 수 있다. 옮겨가는 데 드는 거리는 무시한다. 아래는 경찰이 다른 경찰의 위치로 움직이는 예시로, 이 경우에 경찰은 교점 (3, 2) 위에서 x = 3 직선을 나와 y = 2로 옮겨가게 된다. 총 11만큼 이동하였다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/25380.%E2%80%85%EC%BB%A4%EB%8B%A4%EB%9E%80%E2%80%85%EB%8F%84%EC%8B%9C/27a97d73.png" data-original-src="https://upload.acmicpc.net/9ccaf28d-ed8e-485f-93fc-6d0976b69b42/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 260px; height: 235px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/25380.%E2%80%85%EC%BB%A4%EB%8B%A4%EB%9E%80%E2%80%85%EB%8F%84%EC%8B%9C/27a97d73.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/25380.%E2%80%85%EC%BB%A4%EB%8B%A4%EB%9E%80%E2%80%85%EB%8F%84%EC%8B%9C/27a97d73.png" data-original-src="https://upload.acmicpc.net/9ccaf28d-ed8e-485f-93fc-6d0976b69b42/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 260px; height: 235px;" /></p>
 
 <p>경찰들은 만약의 사태에 다른 경찰과 빠르게 만날 수 있어야 한다. 당신은 각 경찰이 다른 경찰과 만나는 모든 경우에 대해 경찰의 최소 이동 거리를 구하여 그 합을 계산해야 한다. 아래 예시를 보자.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/25380.%E2%80%85%EC%BB%A4%EB%8B%A4%EB%9E%80%E2%80%85%EB%8F%84%EC%8B%9C/99d30482.png" data-original-src="https://upload.acmicpc.net/e3a8d781-b0b0-44ab-b23b-dd08e78ce781/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 263px; height: 235px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/25380.%E2%80%85%EC%BB%A4%EB%8B%A4%EB%9E%80%E2%80%85%EB%8F%84%EC%8B%9C/99d30482.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/25380.%E2%80%85%EC%BB%A4%EB%8B%A4%EB%9E%80%E2%80%85%EB%8F%84%EC%8B%9C/99d30482.png" data-original-src="https://upload.acmicpc.net/e3a8d781-b0b0-44ab-b23b-dd08e78ce781/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 263px; height: 235px;" /></p>
 
 <p>이 경우에는 총 3가지 경우가 있다.</p>
 

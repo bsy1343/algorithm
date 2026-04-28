@@ -20,13 +20,13 @@
 
 <p>예를 들어 아래 그림의 좌측은 $R = C = 4$ 인 게임 보드판의 모습을 나타내고 <span class="marker">&#39;W&#39;</span> 로 표시된 칸은 벽을 나타낸다. 나머지 <span class="marker">&#39;.&#39;</span> 로 표시된 칸은 빈칸을 나타낸다. 편의상 이 문제에서 문자열 $A_i$는 $i$번째 행의 게임 보드판의 모습을 나타내는 길이가 $C$인 문자열이라 하면, 이 예제의 게임 보드판은 $A = [$<code>&quot;.WW.&quot;</code>, <code>&quot;..W.&quot;</code>, <code>&quot;.WW.&quot;</code>, <code>&quot;....&quot;</code>$]$ 로 나타낼 수 있다. 우측 그림은 이후 Albert가 총 3개의 게임말을 놓은 칸과 목적지 칸을 나타내는데, $X = [1, 1, 4]$, $Y = [1, 4, 4$], 그리고 $(r, c) = (2, 2)$ 이다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/28311.%E2%80%85%EB%B2%BD%EC%9D%98%E2%80%85%EA%B0%80%EC%B9%98/a1e3babc.png" data-original-src="https://upload.acmicpc.net/ef21df76-b95d-4599-87dc-433e94644ec6/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 132px; width: 320px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/28311.%E2%80%85%EB%B2%BD%EC%9D%98%E2%80%85%EA%B0%80%EC%B9%98/a1e3babc.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/28311.%E2%80%85%EB%B2%BD%EC%9D%98%E2%80%85%EA%B0%80%EC%B9%98/a1e3babc.png" data-original-src="https://upload.acmicpc.net/ef21df76-b95d-4599-87dc-433e94644ec6/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 132px; width: 320px;" /></p>
 
 <p>이 때 각 말이 목적지에 도달하려면 벽이 없는 빈칸을 통해 상/하/좌/우로 이동할 수 있는데, $i$번째 말이 목적지까지 이동해야하는 최소 거리를 $d_i$라 하자. 위 예제에서 $d_1 = 2$ (하 -&gt; 우 로 이동하면 된다), $d_2 = 9$, 그리고 $d_3 = 6$ 임을 쉽게 알 수 있다. 모든 말이 이동해야하는 최소 거리의 총 합을 $D = \sum_{1 \le i \le N} d_i$ 라 하고, 이는 게임의 점수가 된다 - 이 예제의 게임 점수는 $2 + 9 + 6 = 17$ 점이다.</p>
 
 <p>이 놀이가 너무 심심하다고 느낀 Albet는 게임을 약간 변형해보기로 했다. 우선, 맨 처음의 보드 게임 상태를 유지한채로 벽을 하나 없애보기로 했다. 벽을 없애면 새로운 길이 생길 수 있으므로 게임의 점수는 같거나 낮아질텐데, 이 점수의 차이를 없어진 &quot;벽의 가치&quot;라 정의하자. 위 예제에서는 벽이 총 5칸 있으므로, 아래 그림 처럼 5가지 다른 방법으로 벽을 딱 하나 없앨 수 있다 - 벽이 없어진 칸은 알아보기 쉽도록 그림에서 <span class="marker">&#39;X&#39;</span>로 표시했지만 빈칸이므로 게임말이 지나갈 수 있다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/28311.%E2%80%85%EB%B2%BD%EC%9D%98%E2%80%85%EA%B0%80%EC%B9%98/cf584165.png" data-original-src="https://upload.acmicpc.net/53c00d4b-63f1-47e1-9f43-350d56708ec0/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 134px; width: 900px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/28311.%E2%80%85%EB%B2%BD%EC%9D%98%E2%80%85%EA%B0%80%EC%B9%98/cf584165.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/28311.%E2%80%85%EB%B2%BD%EC%9D%98%E2%80%85%EA%B0%80%EC%B9%98/cf584165.png" data-original-src="https://upload.acmicpc.net/53c00d4b-63f1-47e1-9f43-350d56708ec0/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 134px; width: 900px;" /></p>
 
 <p>위 다섯가지의 새로운 게임 보드에서 점수를 구한 후 기존 게임의 점수 (앞서 구한 17점) 과의 차이를 구하면 없앤 벽의 가치가 된다. 왼쪽 부터 순서대로 이를 구해보면:</p>
 

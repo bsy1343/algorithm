@@ -36,4 +36,4 @@
 
 ### 힌트
 
-<p>The level from the first example after an optimal terraforming:&nbsp;<img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/18495.%E2%80%85Greedy%E2%80%85Algorithm/e5d6db4d.png" data-original-src="https://upload.acmicpc.net/b917a5e0-83af-44db-9c8f-c37e6c6ea489/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 110px; height: 81px;" /></p>
+<p>The level from the first example after an optimal terraforming:&nbsp;<img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/18495.%E2%80%85Greedy%E2%80%85Algorithm/e5d6db4d.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/18495.%E2%80%85Greedy%E2%80%85Algorithm/e5d6db4d.png" data-original-src="https://upload.acmicpc.net/b917a5e0-83af-44db-9c8f-c37e6c6ea489/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 110px; height: 81px;" /></p>

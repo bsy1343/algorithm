@@ -41,7 +41,7 @@
 
 <p>As the actual number of ways can be huge, compute the remainder it gives when divided by 10<sup>9</sup> + 9.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/27694.%E2%80%85Knee%E2%80%85problems%E2%80%85(Easy)/2e501a3d.png" data-original-src="https://upload.acmicpc.net/7e069ddf-3115-428e-8573-f5d20fc1cd16/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/27694.%E2%80%85Knee%E2%80%85problems%E2%80%85(Easy)/2e501a3d.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/27694.%E2%80%85Knee%E2%80%85problems%E2%80%85(Easy)/2e501a3d.png" data-original-src="https://upload.acmicpc.net/7e069ddf-3115-428e-8573-f5d20fc1cd16/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>For example, for n = 5 one valid way of going up and down the staircase looks as follows: Start on the ground, ascend to step 2, continue to step 3, and then go to step 5. Having now reached the top of the staircase, you turn around and walk down, first descending to step 4 and then going directly to the ground (which is, at that moment, 4 steps below).</p>
 

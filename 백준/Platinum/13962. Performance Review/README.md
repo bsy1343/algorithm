@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/13962.%E2%80%85Performance%E2%80%85Review/026a3a9c.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/13962/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-12-30%20%EC%98%A4%ED%9B%84%204.35.14.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:232px; width:192px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/13962.%E2%80%85Performance%E2%80%85Review/026a3a9c.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/13962.%E2%80%85Performance%E2%80%85Review/026a3a9c.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/13962/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-12-30%20%EC%98%A4%ED%9B%84%204.35.14.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:232px; width:192px" /></p>
 
 <p>Employee performance reviews are a necessary evil in any company. In a performance review, employees give written feedback about each other on the work done recently. This feedback is passed up to their managers which then decide promotions based on the feedback received.</p>
 

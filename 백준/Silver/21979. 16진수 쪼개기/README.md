@@ -27,7 +27,7 @@
 <p>예를 들어 S = &quot;FED&quot; 인 경우 아래와 같은 총 4가지의 방법으로 쪼갤 수 있다:</p>
 
 <ul>
-	<li><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/21979.%E2%80%8516%EC%A7%84%EC%88%98%E2%80%85%EC%AA%BC%EA%B0%9C%EA%B8%B0/834b435b.png" data-original-src="https://upload.acmicpc.net/7066b041-642b-4482-a97d-dc7e5b1e5fb4/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 120px; height: 145px; float: right;" />방법 1: T1 = &quot;FED&quot; (이 경우, k = 1)</li>
+	<li><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/21979.%E2%80%8516%EC%A7%84%EC%88%98%E2%80%85%EC%AA%BC%EA%B0%9C%EA%B8%B0/834b435b.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/21979.%E2%80%8516%EC%A7%84%EC%88%98%E2%80%85%EC%AA%BC%EA%B0%9C%EA%B8%B0/834b435b.png" data-original-src="https://upload.acmicpc.net/7066b041-642b-4482-a97d-dc7e5b1e5fb4/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 120px; height: 145px; float: right;" />방법 1: T1 = &quot;FED&quot; (이 경우, k = 1)</li>
 	<li>방법 2: T1 = &quot;F&quot;, T2 = &quot;ED&quot; (이 경우, k = 2)</li>
 	<li>방법 3: T1 = &quot;FE&quot;, T2 = &quot;D&quot; (이 경우, k = 2)</li>
 	<li>방법 4: T1 = &quot;F&quot;, T2 = &quot;E&quot;, T3 = &quot;D&quot; (이 경우, k = 3)</li>

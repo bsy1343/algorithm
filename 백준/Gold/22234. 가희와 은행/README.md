@@ -20,7 +20,7 @@
 
 <p>&nbsp;</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/22234.%E2%80%85%EA%B0%80%ED%9D%AC%EC%99%80%E2%80%85%EC%9D%80%ED%96%89/e9629e05.png" data-original-src="https://upload.acmicpc.net/55e4fafb-f33c-4d0d-b275-dd9728c1ad7f/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/22234.%E2%80%85%EA%B0%80%ED%9D%AC%EC%99%80%E2%80%85%EC%9D%80%ED%96%89/e9629e05.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/22234.%E2%80%85%EA%B0%80%ED%9D%AC%EC%99%80%E2%80%85%EC%9D%80%ED%96%89/e9629e05.png" data-original-src="https://upload.acmicpc.net/55e4fafb-f33c-4d0d-b275-dd9728c1ad7f/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p style="text-align: center;"><strong>[그림 1] 카운터 직원과 <em>N</em>명의 손님</strong></p>
 
@@ -34,7 +34,7 @@
 
 <p>&nbsp;</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/22234.%E2%80%85%EA%B0%80%ED%9D%AC%EC%99%80%E2%80%85%EC%9D%80%ED%96%89/dbabe07e.png" data-original-src="https://upload.acmicpc.net/33a3c56a-04b0-4119-bef6-c2dbea337ba4/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/22234.%E2%80%85%EA%B0%80%ED%9D%AC%EC%99%80%E2%80%85%EC%9D%80%ED%96%89/dbabe07e.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/22234.%E2%80%85%EA%B0%80%ED%9D%AC%EC%99%80%E2%80%85%EC%9D%80%ED%96%89/dbabe07e.png" data-original-src="https://upload.acmicpc.net/33a3c56a-04b0-4119-bef6-c2dbea337ba4/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p style="text-align: center;"><strong>[그림 2] 은행이 영업을 시작하고 c<sub>N+1</sub>초 후 상황</strong></p>
 

@@ -24,7 +24,7 @@
 
 <p>Den som &auml;r lite matematiskt intresserad (ifall det nu skulle finnas n&aring;gon s&aring;dan i detta s&auml;llskap) skulle kunna kalla detta f&ouml;r en riktad och viktad acyklisk graf.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/20869.%E2%80%85Trevlig%E2%80%85v%C3%A4g/47dca38a.png" data-original-src="https://upload.acmicpc.net/42823b20-ac3b-4df2-be45-90150d2e465d/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 400px; height: 200px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/20869.%E2%80%85Trevlig%E2%80%85v%C3%A4g/47dca38a.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/20869.%E2%80%85Trevlig%E2%80%85v%C3%A4g/47dca38a.png" data-original-src="https://upload.acmicpc.net/42823b20-ac3b-4df2-be45-90150d2e465d/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 400px; height: 200px;" /></p>
 
 <p style="text-align: center;">Kartan i det andra exemplet. Den trevligaste v&auml;gen &auml;r $1\rightarrow 3\rightarrow 5$.</p>
 

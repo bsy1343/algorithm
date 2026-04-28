@@ -26,7 +26,7 @@
 	<li><strong>or</strong> send its own dirty water, plus any from the upstream neighbour, to the downstream neighbouring city&#39;s plant, if the pipe is not being used.</li>
 </ul>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/6301.%E2%80%85Water%E2%80%85Treatment%E2%80%85Plants/ccb334f7.jpg" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/6301/cities.jpg" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:128px; width:241px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/6301.%E2%80%85Water%E2%80%85Treatment%E2%80%85Plants/ccb334f7.jpg" data-original-src="%EB%B0%B1%EC%A4%80/Gold/6301.%E2%80%85Water%E2%80%85Treatment%E2%80%85Plants/ccb334f7.jpg" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/6301/cities.jpg" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:128px; width:241px" /></p>
 
 <p>The choices above ensure that:</p>
 

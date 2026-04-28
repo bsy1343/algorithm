@@ -18,9 +18,9 @@
 
 <p>블루아카이브에 있는 아비도스 고등학교 학생, 스나오오카미 시로코는 은행 터는 것을 자주 시뮬레이션한다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/26607.%E2%80%85%EC%8B%9C%EB%A1%9C%EC%BD%94%EC%99%80%E2%80%85%EC%9D%80%ED%96%89%ED%84%B8%EA%B8%B0/18a4732d.png" data-original-src="https://upload.acmicpc.net/a660f8c2-d92e-4330-9d5f-b4eaf67eff4a/-/crop/1886x1080/183,0/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 300px; width: 500px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/26607.%E2%80%85%EC%8B%9C%EB%A1%9C%EC%BD%94%EC%99%80%E2%80%85%EC%9D%80%ED%96%89%ED%84%B8%EA%B8%B0/18a4732d.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/26607.%E2%80%85%EC%8B%9C%EB%A1%9C%EC%BD%94%EC%99%80%E2%80%85%EC%9D%80%ED%96%89%ED%84%B8%EA%B8%B0/18a4732d.png" data-original-src="https://upload.acmicpc.net/a660f8c2-d92e-4330-9d5f-b4eaf67eff4a/-/crop/1886x1080/183,0/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 300px; width: 500px;" /></p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/26607.%E2%80%85%EC%8B%9C%EB%A1%9C%EC%BD%94%EC%99%80%E2%80%85%EC%9D%80%ED%96%89%ED%84%B8%EA%B8%B0/c181607e.png" data-original-src="https://upload.acmicpc.net/5b991799-4317-4d27-ae0c-330aa2ece4d4/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 200px; width: 200px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/26607.%E2%80%85%EC%8B%9C%EB%A1%9C%EC%BD%94%EC%99%80%E2%80%85%EC%9D%80%ED%96%89%ED%84%B8%EA%B8%B0/c181607e.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/26607.%E2%80%85%EC%8B%9C%EB%A1%9C%EC%BD%94%EC%99%80%E2%80%85%EC%9D%80%ED%96%89%ED%84%B8%EA%B8%B0/c181607e.png" data-original-src="https://upload.acmicpc.net/5b991799-4317-4d27-ae0c-330aa2ece4d4/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 200px; width: 200px;" /></p>
 
 <p style="text-align: center;">게임의 마스코트, 스나오오카미 시로코이다.</p>
 

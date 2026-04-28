@@ -20,7 +20,7 @@
 
 <p>Fig. D-1 shows an example of a game board. Some squares may be occupied with blocks. There are two special squares namely the start and the goal, which are not occupied with blocks. (These two squares are distinct.) Once the stone begins to move, it will proceed until it hits a block. In order to bring the stone to the goal, you may have to stop the stone by hitting it against a block, and throw again.</p>
 
-<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/4983.%E2%80%85Curling%E2%80%852.0/e61a8250.gif" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/4983/1.gif" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:220px; width:216px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/4983.%E2%80%85Curling%E2%80%852.0/e61a8250.gif" data-original-src="%EB%B0%B1%EC%A4%80/Gold/4983.%E2%80%85Curling%E2%80%852.0/e61a8250.gif" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/4983/1.gif" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:220px; width:216px" /></p>
 
 <p style="text-align:center">Fig. D-1: Example of board (S: start, G: goal)</p>
 
@@ -53,7 +53,7 @@
 	<li>You cannot throw the stone more than 10 times in a game. If the stone does not reach the goal in 10 moves, the game ends in failure.</li>
 </ul>
 
-<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/4983.%E2%80%85Curling%E2%80%852.0/909887cc.gif" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/4983/2.gif" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:166px; width:579px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/4983.%E2%80%85Curling%E2%80%852.0/909887cc.gif" data-original-src="%EB%B0%B1%EC%A4%80/Gold/4983.%E2%80%85Curling%E2%80%852.0/909887cc.gif" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/4983/2.gif" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:166px; width:579px" /></p>
 
 <p style="text-align:center">Fig. D-2: Stone movements</p>
 
@@ -61,7 +61,7 @@
 
 <p>With the initial configuration shown in Fig. D-1, 4 moves are required to bring the stone from the start to the goal. The route is shown in Fig. D-3(a). Notice when the stone reaches the goal, the board configuration has changed as in Fig. D-3(b).</p>
 
-<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/4983.%E2%80%85Curling%E2%80%852.0/7983c80d.gif" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/4983/3.gif" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:215px; width:453px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/4983.%E2%80%85Curling%E2%80%852.0/7983c80d.gif" data-original-src="%EB%B0%B1%EC%A4%80/Gold/4983.%E2%80%85Curling%E2%80%852.0/7983c80d.gif" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/4983/3.gif" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:215px; width:453px" /></p>
 
 <p style="text-align:center">Fig. D-3: The solution for Fig. D-1 and the final board configuration&nbsp;</p>
 

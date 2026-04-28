@@ -18,7 +18,7 @@
 
 <p>아연은 정원장어를 좋아한다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/24536.%E2%80%85%EC%A0%95%EC%9B%90%EC%9E%A5%EC%96%B4/b790440c.png" data-original-src="https://upload.acmicpc.net/4e98b5be-356c-44c2-90c7-bd3e83f7e34c/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/24536.%E2%80%85%EC%A0%95%EC%9B%90%EC%9E%A5%EC%96%B4/b790440c.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/24536.%E2%80%85%EC%A0%95%EC%9B%90%EC%9E%A5%EC%96%B4/b790440c.png" data-original-src="https://upload.acmicpc.net/4e98b5be-356c-44c2-90c7-bd3e83f7e34c/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>정원장어는 사진에서 보이는 것처럼 해저에 굴을 파고 머리만 굴 밖으로 내밀고 있는 습성이 있다. 이 모습이 너무 귀여웠던 아연은 정원 장어를 사서 키우기로 결심했다.</p>
 

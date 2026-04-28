@@ -18,7 +18,7 @@
 
 <p>By filling a rectangle with slashes (/) and backslashes (\), you can generate nice little mazes. Here is an example:&nbsp;</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/6334.%E2%80%85Maze/cfbf1e70.png" data-original-src="https://www.acmicpc.net/upload/images2/maze.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:173px; width:246px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/6334.%E2%80%85Maze/cfbf1e70.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/6334.%E2%80%85Maze/cfbf1e70.png" data-original-src="https://www.acmicpc.net/upload/images2/maze.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:173px; width:246px" /></p>
 
 <p>As you can see, paths in the maze cannot branch, so the whole maze only contains cyclic paths and paths entering somewhere and leaving somewhere else. We are only interested in the cycles. In our example, there are two of them.&nbsp;</p>
 

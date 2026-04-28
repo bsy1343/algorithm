@@ -20,7 +20,7 @@
 
 <p>Let each village&rsquo;s location be represented by a coordinate on the x-axis. For example, there are 5 villages in Vusan on the x-coordinate (1, 2, 5, 7, 8) and their number of fans are (3, 2, 4, 3, 1). Then the dome stadium should be constructed in the village on the -coordinate 5 that minimizes the total distance from all the baseball fans to the stadium.&nbsp;</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/9027.%E2%80%85Stadium/70121dd7.png" data-original-src="https://www.acmicpc.net/upload/images2/vusan.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:96px; width:499px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/9027.%E2%80%85Stadium/70121dd7.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/9027.%E2%80%85Stadium/70121dd7.png" data-original-src="https://www.acmicpc.net/upload/images2/vusan.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:96px; width:499px" /></p>
 
 <p>You are to program to find the location that minimizes the total distance from the each baseball fan to the stadium. The dome stadium should be constructed on a village in Vusan. Assume that every village is located on an integer x-coordinate.</p>
 

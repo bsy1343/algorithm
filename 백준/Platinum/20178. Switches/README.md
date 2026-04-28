@@ -22,7 +22,7 @@
 
 <p>Figure J.1 is an example of the information Alice received from the front desk of the hotel, where <em>N</em> = 5.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/20178.%E2%80%85Switches/14e4ba61.png" data-original-src="https://upload.acmicpc.net/8d1051d7-00f7-4889-8642-9fdc7a110cd3/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 227px; height: 165px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/20178.%E2%80%85Switches/14e4ba61.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/20178.%E2%80%85Switches/14e4ba61.png" data-original-src="https://upload.acmicpc.net/8d1051d7-00f7-4889-8642-9fdc7a110cd3/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 227px; height: 165px;" /></p>
 
 <p style="text-align: center;">Figure J.1</p>
 

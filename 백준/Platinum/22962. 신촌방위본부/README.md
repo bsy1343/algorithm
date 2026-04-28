@@ -16,15 +16,15 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/22962.%E2%80%85%EC%8B%A0%EC%B4%8C%EB%B0%A9%EC%9C%84%EB%B3%B8%EB%B6%80/e2281467.png" data-original-src="https://upload.acmicpc.net/4c62bc40-0cb1-454a-82a9-9e1f62ff8228/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 358px; width: 500px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/22962.%E2%80%85%EC%8B%A0%EC%B4%8C%EB%B0%A9%EC%9C%84%EB%B3%B8%EB%B6%80/e2281467.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/22962.%E2%80%85%EC%8B%A0%EC%B4%8C%EB%B0%A9%EC%9C%84%EB%B3%B8%EB%B6%80/e2281467.png" data-original-src="https://upload.acmicpc.net/4c62bc40-0cb1-454a-82a9-9e1f62ff8228/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 358px; width: 500px;" /></p>
 
 <p>신촌 근처에&nbsp;있는 어느 평화로운&nbsp;숲에&nbsp;다음 사진과 같이 격자점 당&nbsp;나무가 하나씩 심어져있다. 운영진들은 이 숲이 마음에 들었기에&nbsp;여기서 사람들을 모아서 ICPC Sinchon Camp를 진행하려고 했다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/22962.%E2%80%85%EC%8B%A0%EC%B4%8C%EB%B0%A9%EC%9C%84%EB%B3%B8%EB%B6%80/25faca13.png" data-original-src="https://upload.acmicpc.net/a4f7e5a2-1103-423c-98be-eb536ab4eed6/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 443px; width: 500px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/22962.%E2%80%85%EC%8B%A0%EC%B4%8C%EB%B0%A9%EC%9C%84%EB%B3%B8%EB%B6%80/25faca13.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/22962.%E2%80%85%EC%8B%A0%EC%B4%8C%EB%B0%A9%EC%9C%84%EB%B3%B8%EB%B6%80/25faca13.png" data-original-src="https://upload.acmicpc.net/a4f7e5a2-1103-423c-98be-eb536ab4eed6/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 443px; width: 500px;" /></p>
 
 <p>이렇게 해서 2021년 8월 21일 ICPC Sinchon Camp Contest를 숲에서 깨끗한 공기를 마시면서 진행하게 되었다. 이렇게 평화롭게 대회가 잘 진행되려고 하는 중에, 갑작스럽게&nbsp;정체불명의 조직으로부터 이 숲을 공격 받기 시작했다. 신촌 숲에 서로 다른 위치 $N$개에 미사일이 날라오고 있다. ICPC Sinchon 운영진들은 미사일의 피해를 최소화하기 위해서 $M$개의 보호막을 곳곳에 있는 나무에&nbsp;설치했다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/22962.%E2%80%85%EC%8B%A0%EC%B4%8C%EB%B0%A9%EC%9C%84%EB%B3%B8%EB%B6%80/f5925321.png" data-original-src="https://upload.acmicpc.net/bb2f8946-665d-4e30-a0b6-b38f07a745f6/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 440px; width: 500px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/22962.%E2%80%85%EC%8B%A0%EC%B4%8C%EB%B0%A9%EC%9C%84%EB%B3%B8%EB%B6%80/f5925321.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/22962.%E2%80%85%EC%8B%A0%EC%B4%8C%EB%B0%A9%EC%9C%84%EB%B3%B8%EB%B6%80/f5925321.png" data-original-src="https://upload.acmicpc.net/bb2f8946-665d-4e30-a0b6-b38f07a745f6/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 440px; width: 500px;" /></p>
 
 <p>보호막이 설치된 나무들은 무사했지만, 미사일 간의 상호작용으로 인해서 그림과 같이&nbsp;보호막이 설치되지&nbsp;않은 몇몇 나무들이&nbsp;불에 타고 있었다. 보호막이 설치되지 않은 나무의 좌표를 $(a,b)$라&nbsp;하고&nbsp;$i$번째 미사일이 떨어진 지점의 좌표를 $(x_i, y_i)$라고 할 때, 다음 조건을 만족하는&nbsp;$c_1$, ..., $c_N$이 존재한다면 해당 나무는 불에 탄다.</p>
 

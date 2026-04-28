@@ -22,7 +22,7 @@
 
 <p>Here is an example of an almost balanced binary tree:</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/20699.%E2%80%85Almost%E2%80%85Balanced%E2%80%85Tree/3f2851ca.png" data-original-src="https://upload.acmicpc.net/074e4bbc-b079-4e48-938a-0e0e5bc57dcf/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 275px; height: 141px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/20699.%E2%80%85Almost%E2%80%85Balanced%E2%80%85Tree/3f2851ca.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/20699.%E2%80%85Almost%E2%80%85Balanced%E2%80%85Tree/3f2851ca.png" data-original-src="https://upload.acmicpc.net/074e4bbc-b079-4e48-938a-0e0e5bc57dcf/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 275px; height: 141px;" /></p>
 
 <p>Your task is to build any almost balanced binary tree with exactly $A$ nodes of weight 1 and $B$ nodes of weight 2, or to say that it is impossible.</p>
 

@@ -21,7 +21,7 @@
 <table class="table" style="width:100%">
 	<tbody>
 		<tr>
-			<td style="text-align:center; width:100%"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/15095.%E2%80%85Nine%E2%80%85Knights/d42b7d34.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15095/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:146px; width:145px" /></td>
+			<td style="text-align:center; width:100%"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/15095.%E2%80%85Nine%E2%80%85Knights/d42b7d34.png" data-original-src="%EB%B0%B1%EC%A4%80/Bronze/15095.%E2%80%85Nine%E2%80%85Knights/d42b7d34.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15095/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:146px; width:145px" /></td>
 		</tr>
 		<tr>
 			<td style="text-align:center; width:100%">Figure A.1: The highlighted squares show all possible moves for a knight.</td>
@@ -34,8 +34,8 @@
 <table class="table" style="width:100%">
 	<tbody>
 		<tr>
-			<td style="text-align:center; width:50%"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/15095.%E2%80%85Nine%E2%80%85Knights/43eda4d4.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15095/2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:146px; width:145px" /></td>
-			<td style="text-align:center; width:50%"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/15095.%E2%80%85Nine%E2%80%85Knights/08782ddb.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15095/3.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:147px; width:145px" /></td>
+			<td style="text-align:center; width:50%"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/15095.%E2%80%85Nine%E2%80%85Knights/43eda4d4.png" data-original-src="%EB%B0%B1%EC%A4%80/Bronze/15095.%E2%80%85Nine%E2%80%85Knights/43eda4d4.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15095/2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:146px; width:145px" /></td>
+			<td style="text-align:center; width:50%"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/15095.%E2%80%85Nine%E2%80%85Knights/08782ddb.png" data-original-src="%EB%B0%B1%EC%A4%80/Bronze/15095.%E2%80%85Nine%E2%80%85Knights/08782ddb.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15095/3.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:147px; width:145px" /></td>
 		</tr>
 		<tr>
 			<td style="text-align:center; width:50%">Figure A.2: Invalid game configuration</td>

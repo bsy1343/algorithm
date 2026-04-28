@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/27157.%E2%80%85GGANALi/f8fe9932.png" data-original-src="https://upload.acmicpc.net/1e259653-671e-44d6-9a1b-0b55abb95074/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="max-height:300px; object-fit:contain; display:inline-block;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/27157.%E2%80%85GGANALi/f8fe9932.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/27157.%E2%80%85GGANALi/f8fe9932.png" data-original-src="https://upload.acmicpc.net/1e259653-671e-44d6-9a1b-0b55abb95074/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="max-height:300px; object-fit:contain; display:inline-block;" /></p>
 
 <p>곰곰컵 문제를 몇 개 풀다 보면 느끼는 것이 있을 것이다. 바로 &ldquo;잘 알려진&rdquo; 문제들이라는 것이다.</p>
 
@@ -26,13 +26,13 @@
 
 <p>이제 이 DALi 라이브러리의 기능 일부를 직접 구현해보자! DALi 라이브러리의 기능을 전부 구현하기에는 양이 방대하니, 기능 일부를 열화시킨 GomGom Algorithmically NAive Library, 줄여서 <strong>GGANALi</strong> (까나리)를 정의하고 구현해보자. 실제 DALi 라이브러리와 용어나 동작이 다를 수 있음에 유의하자.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/27157.%E2%80%85GGANALi/9c9bda01.png" data-original-src="https://upload.acmicpc.net/f6283c07-4b7e-4122-b06f-d78e3a77ccbe/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="max-width:800px; object-fit:contain; display:inline-block;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/27157.%E2%80%85GGANALi/9c9bda01.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/27157.%E2%80%85GGANALi/9c9bda01.png" data-original-src="https://upload.acmicpc.net/f6283c07-4b7e-4122-b06f-d78e3a77ccbe/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="max-width:800px; object-fit:contain; display:inline-block;" /></p>
 
 <p>GGANALi는 크기/위치/색상 정보를 가진, Actor 라고 불리는 컴포넌트를 트리 구조 형태로 배치해서 UI를 구성한다. 이 Actor는 직사각형 형태이며 <span style="color:#c0392b;">POSITION</span>, <span style="color:#c0392b;">SIZE</span>, <span style="color:#c0392b;">COLOR </span>등의 <span style="color:#c0392b;">속성 </span>값을 가진다.</p>
 
 <p>각 Actor는 이름을 가지고 있다. 특별히 Window라는 이름을 가진 Actor는 실제 화면을 나타내는 Actor로, 항상 트리의 루트이다. Window의 가로 크기 $W$와 세로 크기 $H$는 입력으로 주어지며, 이후 변경되지 않는다. 이 Window Actor의 자식으로 들어온 Actor들은 Scene On 되었다고 표현하며, 이러한 Actor들만이 화면에 그려질 것이다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/27157.%E2%80%85GGANALi/cf444983.png" data-original-src="https://upload.acmicpc.net/d51012c7-d74f-4d88-a4fc-6b39556db5b4/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="max-width:800px; object-fit:contain; display:inline-block;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/27157.%E2%80%85GGANALi/cf444983.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/27157.%E2%80%85GGANALi/cf444983.png" data-original-src="https://upload.acmicpc.net/d51012c7-d74f-4d88-a4fc-6b39556db5b4/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="max-width:800px; object-fit:contain; display:inline-block;" /></p>
 
 <p>Actor를 실제 Window에 그릴 때에는, Window를 루트로 하는 트리 구조를 Pre-order로 순회하면서 화면을 채워나간다. Actor가 화면을 채울 때에는, Actor의 영역에 해당하는 직사각형 모양으로 화면의 색을 <span style="color:#c0392b;">COLOR</span>색으로 바꿔준다. 이 때 나중에 화면을 채우는 Actor는 이전에 채운 Actor 의 색을 덮어씌운다. 따라서 최종적으로는 트리의 가장 마지막에 위치한 Actor가 화면상에서는 가장 위에 놓여진 것처럼 보이게 된다.</p>
 
@@ -47,7 +47,7 @@
 	<li><span style="color:#c0392b;">ANCHOR_POINT</span></li>
 </ul>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/27157.%E2%80%85GGANALi/efcccb30.png" data-original-src="https://upload.acmicpc.net/da7c7c38-261c-4754-ad27-8ae8f2d29df0/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="max-width:800px; object-fit:contain; display:inline-block;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/27157.%E2%80%85GGANALi/efcccb30.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/27157.%E2%80%85GGANALi/efcccb30.png" data-original-src="https://upload.acmicpc.net/da7c7c38-261c-4754-ad27-8ae8f2d29df0/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="max-width:800px; object-fit:contain; display:inline-block;" /></p>
 
 <p><span style="color:#c0392b;">SIZE</span>, <span style="color:#c0392b;">POSITION</span>, <span style="color:#c0392b;">PARENT_ORIGIN</span>, <span style="color:#c0392b;">ANCHOR_POINT</span>는 모두 2차원 ($x$, $y$) 꼴의 좌표 형태로 표현된다. <span style="color:#c0392b;">SIZE</span>의 $x$는 가로(Width), $y$는 세로(Height)를 의미하고, 화면을 기준으로 오른쪽방향이 $+X$축 방향이고, 아래방향이 $+Y$축 방향이다.</p>
 
@@ -75,7 +75,7 @@
 	<li><span style="color:#c0392b;">SENSITIVE</span></li>
 </ul>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/27157.%E2%80%85GGANALi/1cb34afc.png" data-original-src="https://upload.acmicpc.net/b63bca0b-84d3-4306-8625-77f1e89133c9/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="max-width:800px; object-fit:contain; display:inline-block;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/27157.%E2%80%85GGANALi/1cb34afc.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/27157.%E2%80%85GGANALi/1cb34afc.png" data-original-src="https://upload.acmicpc.net/b63bca0b-84d3-4306-8625-77f1e89133c9/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="max-width:800px; object-fit:contain; display:inline-block;" /></p>
 
 <p><span style="color:#c0392b;">SENSITIVE</span>는 $0$ 또는 $1$ 중 하나의 값을 가진다. 값이 $1$인 경우에는 <span style="color:#2980b9;">Touch</span> 이벤트에 대한 결과로 선택될 수 있다는 의미이다. 이 값이 $0$이면 <span style="color:#2980b9;">Touch</span> 이벤트 결과로 선택될 수 없다.</p>
 
@@ -87,7 +87,7 @@
 	<li><span style="color:#c0392b;">CLIP_CHILD</span></li>
 </ul>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/27157.%E2%80%85GGANALi/9c134676.png" data-original-src="https://upload.acmicpc.net/d16166c1-7be4-4ebf-944c-371b0524c9c9/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="max-width:800px; object-fit:contain; display:inline-block;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/27157.%E2%80%85GGANALi/9c134676.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/27157.%E2%80%85GGANALi/9c134676.png" data-original-src="https://upload.acmicpc.net/d16166c1-7be4-4ebf-944c-371b0524c9c9/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="max-width:800px; object-fit:contain; display:inline-block;" /></p>
 
 <p><span style="color:#c0392b;">CLIP_CHILD</span>는 값이 $1$로 설정될 경우 해당 Actor의 자손들은 모두 Actor의 영역으로 잘린 채로 화면에 그려지게 된다. 잘려진 부분은 이후 <span style="color:#2980b9;">Touch </span>이벤트에 대한 처리에서도 제외된다.</p>
 

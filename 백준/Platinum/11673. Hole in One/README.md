@@ -20,7 +20,7 @@
 
 <p>For the purposes of this problem you can think of the playing field as a cartesian plane with the initial position of the ball at the origin. The walls are non-intersecting axis-parallel line segments in this plane (i.e., parallel to either the x axis or the y axis). The diameter of the ball is negligible so it is represented as a single point.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/11673.%E2%80%85Hole%E2%80%85in%E2%80%85One/307b8243.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11673/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:194px; width:340px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/11673.%E2%80%85Hole%E2%80%85in%E2%80%85One/307b8243.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/11673.%E2%80%85Hole%E2%80%85in%E2%80%85One/307b8243.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11673/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:194px; width:340px" /></p>
 
 <p style="text-align: center;">Figure H.1: Illustration of the first sample input: The ball first bounces off two walls at points 1 and 2. When it passes point 3 the wall has already vanished.</p>
 

@@ -37,10 +37,10 @@
 
 <p>ตัวอย่างการวางเครื่องฉีดน้ าที่ใช้จ านวนเครื่องน้อยที่สุด</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/11240.%E2%80%85Flower/3e68e8af.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11240/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:108px; width:108px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/11240.%E2%80%85Flower/3e68e8af.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/11240.%E2%80%85Flower/3e68e8af.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11240/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:108px; width:108px" /></p>
 
 <p style="text-align: center;">กรณีทดสอบที่หนึ่ง</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/11240.%E2%80%85Flower/7ce1e15a.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11240/2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:173px; width:240px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/11240.%E2%80%85Flower/7ce1e15a.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/11240.%E2%80%85Flower/7ce1e15a.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11240/2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:173px; width:240px" /></p>
 
 <p style="text-align: center;">กรณีทดสอบที่สอง</p>

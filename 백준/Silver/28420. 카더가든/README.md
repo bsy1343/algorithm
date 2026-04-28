@@ -18,13 +18,13 @@
 
 <p>화전역 옆에는 땅이 매우 많다. 이 땅에 우리는 캠핑카가 달린 차를 세우려고 한다. 이때 캠핑카를 차 옆에 <strong>정확히 아래 그림의 3개의 모양으로만</strong> 배치할 수 있고, 캠핑카와 차는 회전하거나 뒤집힐 수 없다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/28420.%E2%80%85%EC%B9%B4%EB%8D%94%EA%B0%80%EB%93%A0/9283454a.png" data-original-src="https://upload.acmicpc.net/2c7b3246-65d4-4e7d-81a0-7dfa4d29a91a/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 80%; width: 80%;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/28420.%E2%80%85%EC%B9%B4%EB%8D%94%EA%B0%80%EB%93%A0/9283454a.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/28420.%E2%80%85%EC%B9%B4%EB%8D%94%EA%B0%80%EB%93%A0/9283454a.png" data-original-src="https://upload.acmicpc.net/2c7b3246-65d4-4e7d-81a0-7dfa4d29a91a/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 80%; width: 80%;" /></p>
 
 <p>차와 캠핑카는 너비는 $a$로 같지만 차의 길이 $b$와 캠핑카의 길이 $c$는 다를 수 있다. 이때 너비는 차량의 좌우로 측정된 가로 폭 치수를, 길이는 차체의 앞부분에서 뒷부분까지의 치수를 의미한다. 땅은 1X1의 단위 구역마다 흐림 정도가 주어진다. <strong>차와 캠핑카가 차지하는 단위 구역의 흐림 정도 합</strong>이 낮을수록 맑다. 단, 차와 캠핑카가 차지하는 단위 구역이 땅을 벗어나서는 안 된다. 어떻게 하면 가장 맑은 곳에서 캠핑할 수 있도록 차를 세울 수 있을까?</p>
 
 <p>아래 예시를 참고하자. 차와 캠핑카의 너비는 1, 차의 길이는 2, 캠핑카의 길이는 3일 때, 아래 땅에 가장 맑은 위치에 차와 캠핑카를 배치하고 싶다. 예제 입력 1의 땅은 아래와 같다. 해당 땅에 3가지 방법로 차를 놓을 수 있다고 했을 때, 차의 배치도는 3가지 방법 그대로이어야 하나, 차의 앞부분의 위치는 달라질 수 있다. 단, 차체가 땅을 벗어나는 일은 없다. 아래와 같이 배치했을 때 가장 맑은 곳에서 캠핑할 수 있다. 이때의 흐림 정도는 12이다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/28420.%E2%80%85%EC%B9%B4%EB%8D%94%EA%B0%80%EB%93%A0/6f7bf49f.png" data-original-src="https://upload.acmicpc.net/55b2f755-8fea-44a0-8d2d-6a7618fa2fef/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 50%; height: 50%;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/28420.%E2%80%85%EC%B9%B4%EB%8D%94%EA%B0%80%EB%93%A0/6f7bf49f.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/28420.%E2%80%85%EC%B9%B4%EB%8D%94%EA%B0%80%EB%93%A0/6f7bf49f.png" data-original-src="https://upload.acmicpc.net/55b2f755-8fea-44a0-8d2d-6a7618fa2fef/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 50%; height: 50%;" /></p>
 
 ### 입력
 
@@ -42,6 +42,6 @@
 
 ### 힌트
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/28420.%E2%80%85%EC%B9%B4%EB%8D%94%EA%B0%80%EB%93%A0/fe65eeaf.png" data-original-src="https://upload.acmicpc.net/8e2fbd57-2114-4f47-aeff-2347ee5ee8db/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 60%; width: 60%;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/28420.%E2%80%85%EC%B9%B4%EB%8D%94%EA%B0%80%EB%93%A0/fe65eeaf.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/28420.%E2%80%85%EC%B9%B4%EB%8D%94%EA%B0%80%EB%93%A0/fe65eeaf.png" data-original-src="https://upload.acmicpc.net/8e2fbd57-2114-4f47-aeff-2347ee5ee8db/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 60%; width: 60%;" /></p>
 
 <p>다음과 같은 배치는 성립할 수 없다.</p>

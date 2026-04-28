@@ -20,7 +20,7 @@
 
 <p>For two rooted trees $A$ and $B$, their <em>tree product</em> $T = A \times B$ is defined as follows: copy tree $A$, and then for each vertex $x$ in it, make a copy of $B$ and merge its root with vertex $x$. See the table below for an example:</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/20614.%E2%80%85Tree%E2%80%85Product/0fe56ba1.png" data-original-src="https://upload.acmicpc.net/2fccc4ea-310b-42fa-9dcb-800854b4c1a4/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 444px; height: 209px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/20614.%E2%80%85Tree%E2%80%85Product/0fe56ba1.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/20614.%E2%80%85Tree%E2%80%85Product/0fe56ba1.png" data-original-src="https://upload.acmicpc.net/2fccc4ea-310b-42fa-9dcb-800854b4c1a4/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 444px; height: 209px;" /></p>
 
 <p>It can be shown that tree product is associative: $(A \times B) \times C = A \times (B \times C)$. So the parentheses in a product of three or more trees can be omitted.</p>
 

@@ -30,4 +30,4 @@
 
 ### 힌트
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/6573.%E2%80%85Hike%E2%80%85on%E2%80%85a%E2%80%85Graph/cb15121b.gif" data-original-src="https://www.acmicpc.net/upload/images2/hike.gif" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:217px; width:358px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/6573.%E2%80%85Hike%E2%80%85on%E2%80%85a%E2%80%85Graph/cb15121b.gif" data-original-src="%EB%B0%B1%EC%A4%80/Gold/6573.%E2%80%85Hike%E2%80%85on%E2%80%85a%E2%80%85Graph/cb15121b.gif" data-original-src="https://www.acmicpc.net/upload/images2/hike.gif" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:217px; width:358px" /></p>

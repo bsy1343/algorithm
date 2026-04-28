@@ -46,7 +46,7 @@
 
 ### 힌트
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/11952.%E2%80%85%EC%A2%80%EB%B9%84/4be3801a.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11952/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:224px; width:221px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/11952.%E2%80%85%EC%A2%80%EB%B9%84/4be3801a.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/11952.%E2%80%85%EC%A2%80%EB%B9%84/4be3801a.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11952/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:224px; width:221px" /></p>
 
 <p>도시는 이렇게 생겼다. 이때</p>
 

@@ -20,7 +20,7 @@
 
 <p>There are 2<sup>N</sup> (1 &le; N &le; 20) competitor positions in the tourney tree, numbered 1, 2, . . . , 2<sup>N</sup> from left to right. In the first round, competitors 1 and 2 face off in a furniture disassembly race, as do competitors 3 and 4, etc. In each subsequent round, the winners of the first two matches from the previous round compete, as do the winners of the following two, etc. After N rounds, a single winner remains. For example, when N = 2, the tourney tree looks like this:</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/6758.%E2%80%85Tourney/95f7d484.png" data-original-src="https://upload.acmicpc.net/a16491ec-b026-4313-9129-ae3bbee12f40/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 166px; height: 103px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/6758.%E2%80%85Tourney/95f7d484.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/6758.%E2%80%85Tourney/95f7d484.png" data-original-src="https://upload.acmicpc.net/a16491ec-b026-4313-9129-ae3bbee12f40/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 166px; height: 103px;" /></p>
 
 <p>where A represents the winner of the match between competitors 1 and 2, B represents the winner of the match between competitors 3 and 4, and C represents the winner of the match between A and B. The winner of this tourney is C.</p>
 

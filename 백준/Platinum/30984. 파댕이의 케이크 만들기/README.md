@@ -18,11 +18,11 @@
 
 <p>어릴 때부터 달달한 음식을 좋아했던 파댕이는 달달한 음식을 직접 만들고 싶어 했고, 식품 회사에서 인턴을 하게 되었다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/30984.%E2%80%85%ED%8C%8C%EB%8C%95%EC%9D%B4%EC%9D%98%E2%80%85%EC%BC%80%EC%9D%B4%ED%81%AC%E2%80%85%EB%A7%8C%EB%93%A4%EA%B8%B0/707bc5ad.png" data-original-src="https://upload.acmicpc.net/0c07d828-ac28-4862-b8e9-2e8d291721b0/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 256px; width: 256px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/30984.%E2%80%85%ED%8C%8C%EB%8C%95%EC%9D%B4%EC%9D%98%E2%80%85%EC%BC%80%EC%9D%B4%ED%81%AC%E2%80%85%EB%A7%8C%EB%93%A4%EA%B8%B0/707bc5ad.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/30984.%E2%80%85%ED%8C%8C%EB%8C%95%EC%9D%B4%EC%9D%98%E2%80%85%EC%BC%80%EC%9D%B4%ED%81%AC%E2%80%85%EB%A7%8C%EB%93%A4%EA%B8%B0/707bc5ad.png" data-original-src="https://upload.acmicpc.net/0c07d828-ac28-4862-b8e9-2e8d291721b0/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 256px; width: 256px;" /></p>
 
 <p>파댕이가 첫 번째로 맡은 일은 $N$개의 케이크 단을 쌓는 일이다. 파댕이는 매일 $K$개의 케이크를 쌓아 완성해야 하며, 케이크는 가장 아랫단부터 가장 윗단까지 순서대로 쌓아야 한다. 즉, $1$번째 단은 바로 쌓을 수 있으며, $1$ 이상의 정수 $i$에 대해서 $i+1$번째 단을 받았을 때 그 단을 케이크 위에 올리기 위해서는 $i$번째 단까지만 올라가 있는 케이크가 있어야만 한다. </p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/30984.%E2%80%85%ED%8C%8C%EB%8C%95%EC%9D%B4%EC%9D%98%E2%80%85%EC%BC%80%EC%9D%B4%ED%81%AC%E2%80%85%EB%A7%8C%EB%93%A4%EA%B8%B0/27e3403e.png" data-original-src="https://upload.acmicpc.net/cb6ee2b5-98d1-44c1-9b82-78d14a77ff13/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 221px; width: 256px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/30984.%E2%80%85%ED%8C%8C%EB%8C%95%EC%9D%B4%EC%9D%98%E2%80%85%EC%BC%80%EC%9D%B4%ED%81%AC%E2%80%85%EB%A7%8C%EB%93%A4%EA%B8%B0/27e3403e.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/30984.%E2%80%85%ED%8C%8C%EB%8C%95%EC%9D%B4%EC%9D%98%E2%80%85%EC%BC%80%EC%9D%B4%ED%81%AC%E2%80%85%EB%A7%8C%EB%93%A4%EA%B8%B0/27e3403e.png" data-original-src="https://upload.acmicpc.net/cb6ee2b5-98d1-44c1-9b82-78d14a77ff13/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 221px; width: 256px;" /></p>
 
 <p>매일 출근하여 케이크를 만들던 파댕이는 작업 과정에서 올릴 수 없는 케이크 단을 받게 될 확률이 상당히 높다는 것을 깨달았다. 작업 중간에 올릴 수 없는 케이크 단을 받게 되는 것이 작업 능률에 있어 심각한 문제라고 생각한 파댕이는 문제 제기를 위해 &quot;임의의 순서로 케이크의 단이 주어질 때, 작업 중간에 올릴 수 없는 케이크 단이 주어지지 않을 확률&quot;을 계산해 보고하기로 마음먹었다. 파댕이를 대신해 확률을 계산해 주자!</p>
 

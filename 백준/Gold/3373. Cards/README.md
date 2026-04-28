@@ -18,7 +18,7 @@
 
 <p>Adam has a fancy for numbers. Once he found a batch of empty paper cards in his drawer, wrote random numbers on both sides of each card and thought of the following puzzle: what smallest possible value can be obtained by putting all cards in an arbitrary order (and upturned if necessary) to the expression of the following form:</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/3373.%E2%80%85Cards/db74b300.png" data-original-src="https://upload.acmicpc.net/29e51235-3c2e-4e9d-832c-f11ecd33350c/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 381px; height: 30px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/3373.%E2%80%85Cards/db74b300.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/3373.%E2%80%85Cards/db74b300.png" data-original-src="https://upload.acmicpc.net/29e51235-3c2e-4e9d-832c-f11ecd33350c/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 381px; height: 30px;" /></p>
 
 <p>After a while Adam came up with a solution. Could you do that too? Write a program to solve the puzzle described above.</p>
 

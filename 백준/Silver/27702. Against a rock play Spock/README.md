@@ -81,8 +81,8 @@
 				</tbody>
 			</table>
 			</td>
-			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/27702.%E2%80%85Against%E2%80%85a%E2%80%85rock%E2%80%85play%E2%80%85Spock/e13c447c.png" data-original-src="https://upload.acmicpc.net/62441144-7b7b-4188-9585-301a1dc6c6d0/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></td>
-			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/27702.%E2%80%85Against%E2%80%85a%E2%80%85rock%E2%80%85play%E2%80%85Spock/328c8b0c.png" data-original-src="https://upload.acmicpc.net/d155aaa6-1604-4cad-8490-fea545cfdeb0/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></td>
+			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/27702.%E2%80%85Against%E2%80%85a%E2%80%85rock%E2%80%85play%E2%80%85Spock/e13c447c.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/27702.%E2%80%85Against%E2%80%85a%E2%80%85rock%E2%80%85play%E2%80%85Spock/e13c447c.png" data-original-src="https://upload.acmicpc.net/62441144-7b7b-4188-9585-301a1dc6c6d0/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></td>
+			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/27702.%E2%80%85Against%E2%80%85a%E2%80%85rock%E2%80%85play%E2%80%85Spock/328c8b0c.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/27702.%E2%80%85Against%E2%80%85a%E2%80%85rock%E2%80%85play%E2%80%85Spock/328c8b0c.png" data-original-src="https://upload.acmicpc.net/d155aaa6-1604-4cad-8490-fea545cfdeb0/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></td>
 		</tr>
 	</tbody>
 </table>

@@ -34,4 +34,4 @@
 
 ### 힌트
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/3629.%E2%80%85Astronomy/d918b813.png" data-original-src="https://upload.acmicpc.net/e2dac139-9297-4744-b921-0aeec2bd5cc6/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 186px; height: 185px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/3629.%E2%80%85Astronomy/d918b813.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/3629.%E2%80%85Astronomy/d918b813.png" data-original-src="https://upload.acmicpc.net/e2dac139-9297-4744-b921-0aeec2bd5cc6/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 186px; height: 185px;" /></p>

@@ -18,7 +18,7 @@
 
 <p>자동차 여러 대가 그림 1과 같이 한 줄로 이동하고 있다. 각 자동차의 색상은 한 글자로 나타내며, 인접한 두 차 사이의 거리는 1이다. 그림 1에는 각 차의 위치도 적혀져 있다.</p>
 
-<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/8902.%E2%80%85%EC%83%89%EC%83%81%EC%9D%98%E2%80%85%EA%B8%B8%EC%9D%B4/c4e5a312.png" data-original-src="https://www.acmicpc.net/upload/images/cl1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:69px; width:460px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/8902.%E2%80%85%EC%83%89%EC%83%81%EC%9D%98%E2%80%85%EA%B8%B8%EC%9D%B4/c4e5a312.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/8902.%E2%80%85%EC%83%89%EC%83%81%EC%9D%98%E2%80%85%EA%B8%B8%EC%9D%B4/c4e5a312.png" data-original-src="https://www.acmicpc.net/upload/images/cl1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:69px; width:460px" /></p>
 
 <p style="text-align:center">그림 1. 도로를 이동하는 여러 가지 색상의 자동차</p>
 
@@ -57,7 +57,7 @@
 
 <p>예를 들어, 그림 2와 같이 두 차선이 그림 3과 같이 한 차선으로 합쳐지는 경우를 생각해보자. 같은 색 자동차를 구분하기 위해, 각 차에 숫자를 붙였다.</p>
 
-<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/8902.%E2%80%85%EC%83%89%EC%83%81%EC%9D%98%E2%80%85%EA%B8%B8%EC%9D%B4/241dc0b0.png" data-original-src="https://www.acmicpc.net/upload/images/cl2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:117px; width:323px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/8902.%E2%80%85%EC%83%89%EC%83%81%EC%9D%98%E2%80%85%EA%B8%B8%EC%9D%B4/241dc0b0.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/8902.%E2%80%85%EC%83%89%EC%83%81%EC%9D%98%E2%80%85%EA%B8%B8%EC%9D%B4/241dc0b0.png" data-original-src="https://www.acmicpc.net/upload/images/cl2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:117px; width:323px" /></p>
 
 <p style="text-align:center">그림 2. 차선이 합쳐지기 전에 두 차선을 이동하는 자동차</p>
 
@@ -65,11 +65,11 @@
 
 <p>합쳐진 이후 (시나리오 1):</p>
 
-<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/8902.%E2%80%85%EC%83%89%EC%83%81%EC%9D%98%E2%80%85%EA%B8%B8%EC%9D%B4/65b68f56.png" data-original-src="https://www.acmicpc.net/upload/images/cl31.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:55px; width:576px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/8902.%E2%80%85%EC%83%89%EC%83%81%EC%9D%98%E2%80%85%EA%B8%B8%EC%9D%B4/65b68f56.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/8902.%E2%80%85%EC%83%89%EC%83%81%EC%9D%98%E2%80%85%EA%B8%B8%EC%9D%B4/65b68f56.png" data-original-src="https://www.acmicpc.net/upload/images/cl31.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:55px; width:576px" /></p>
 
 <p>합쳐진 이후 (시나리오 2):</p>
 
-<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/8902.%E2%80%85%EC%83%89%EC%83%81%EC%9D%98%E2%80%85%EA%B8%B8%EC%9D%B4/985cfaf8.png" data-original-src="https://www.acmicpc.net/upload/images/cl32.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:51px; width:573px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/8902.%E2%80%85%EC%83%89%EC%83%81%EC%9D%98%E2%80%85%EA%B8%B8%EC%9D%B4/985cfaf8.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/8902.%E2%80%85%EC%83%89%EC%83%81%EC%9D%98%E2%80%85%EA%B8%B8%EC%9D%B4/985cfaf8.png" data-original-src="https://www.acmicpc.net/upload/images/cl32.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:51px; width:573px" /></p>
 
 <p style="text-align:center">그림 3. 한 차선으로 합쳐진 이후의 도로 상황 (두 가지)</p>
 

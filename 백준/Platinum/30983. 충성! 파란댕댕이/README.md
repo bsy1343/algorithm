@@ -18,7 +18,7 @@
 
 <p>파댕이의 즐거운 대학생활은 순식간에 지나가고, 입영일이 되어 파댕이는 입대를 하게 되었다. 파댕이는 너무 슬프다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/30983.%E2%80%85%EC%B6%A9%EC%84%B1!%E2%80%85%ED%8C%8C%EB%9E%80%EB%8C%95%EB%8C%95%EC%9D%B4/f9f0a76c.png" data-original-src="https://upload.acmicpc.net/6af93a30-9785-4ea9-a67d-13406da4e7a2/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 221px; width: 256px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/30983.%E2%80%85%EC%B6%A9%EC%84%B1!%E2%80%85%ED%8C%8C%EB%9E%80%EB%8C%95%EB%8C%95%EC%9D%B4/f9f0a76c.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/30983.%E2%80%85%EC%B6%A9%EC%84%B1!%E2%80%85%ED%8C%8C%EB%9E%80%EB%8C%95%EB%8C%95%EC%9D%B4/f9f0a76c.png" data-original-src="https://upload.acmicpc.net/6af93a30-9785-4ea9-a67d-13406da4e7a2/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 221px; width: 256px;" /></p>
 
 <p>힘든 훈련소 생활을 끝내고, 파댕이는 사단 본부에 배치받았다. </p>
 

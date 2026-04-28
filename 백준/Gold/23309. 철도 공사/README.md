@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/23309.%E2%80%85%EC%B2%A0%EB%8F%84%E2%80%85%EA%B3%B5%EC%82%AC/095e9d43.png" data-original-src="https://upload.acmicpc.net/19a8adca-5e60-48c7-91f2-b3a285366a5d/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 417px; height: 350px;" /><br />
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/23309.%E2%80%85%EC%B2%A0%EB%8F%84%E2%80%85%EA%B3%B5%EC%82%AC/095e9d43.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/23309.%E2%80%85%EC%B2%A0%EB%8F%84%E2%80%85%EA%B3%B5%EC%82%AC/095e9d43.png" data-original-src="https://upload.acmicpc.net/19a8adca-5e60-48c7-91f2-b3a285366a5d/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 417px; height: 350px;" /><br />
 [그림] 2호선 노선도</p>
 
 <p>연세대학교가 위치한 신촌역이&nbsp;속한 2호선은 그림과 같이 $N$개의 역이 원형으로 연결되어 있다. 각 역은&nbsp;고유 번호가 할당돼 있으며&nbsp;역들의 고유 번호는 서로 다르다. 그리고 특정 역의 다음 역은 시계 방향으로 인접한&nbsp;역을 의미하고, 이전 역은 반시계 방향으로 인접한 역을 의미한다.</p>

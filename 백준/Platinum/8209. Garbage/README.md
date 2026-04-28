@@ -42,4 +42,4 @@
 
 ### 힌트
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/8209.%E2%80%85Garbage/6ba0f9be.gif" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/8209/1.gif" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:154px; width:154px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/8209.%E2%80%85Garbage/6ba0f9be.gif" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/8209.%E2%80%85Garbage/6ba0f9be.gif" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/8209/1.gif" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:154px; width:154px" /></p>

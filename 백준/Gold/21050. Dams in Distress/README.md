@@ -22,7 +22,7 @@
 
 <p>The network of dams and the war camp form a rooted tree, where the war camp is the root and the parent of a dam is the location (either another dam, or the war camp) immediately downstream of the dam. &nbsp;See Figure 1 for an example.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/21050.%E2%80%85Dams%E2%80%85in%E2%80%85Distress/ceeda755.png" data-original-src="https://upload.acmicpc.net/d2691247-a4b1-4787-97c1-b20ac26a9396/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 378px; height: 207px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/21050.%E2%80%85Dams%E2%80%85in%E2%80%85Distress/ceeda755.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/21050.%E2%80%85Dams%E2%80%85in%E2%80%85Distress/ceeda755.png" data-original-src="https://upload.acmicpc.net/d2691247-a4b1-4787-97c1-b20ac26a9396/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 378px; height: 207px;" /></p>
 
 <p style="text-align: center;">Figure 1:&nbsp;Illustration of Sample Input 1. &nbsp;In this case Freyr only has to make $2$ units of rain at the left-most dam in order to make it break and send $50$ units of water downstream, which then ultimately results in $100$ units of rain reaching the war camp, well exceeding the $75$ units of water needed to flood the camp.</p>
 

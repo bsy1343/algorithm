@@ -38,4 +38,4 @@
 
 <p>The following diagram helps illustrate the relationships above, which are the only relationship types you need to consider. Observe that some relationships like &quot;niece&quot; (daughter of sister) are not necessary since if BESSIE is the niece of ELSIE, then ELSIE is BESSIE&#39;s aunt.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/15765.%E2%80%85Family%E2%80%85Tree/a55dfdec.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15765/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 593px; height: 419px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/15765.%E2%80%85Family%E2%80%85Tree/a55dfdec.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/15765.%E2%80%85Family%E2%80%85Tree/a55dfdec.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15765/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 593px; height: 419px;" /></p>

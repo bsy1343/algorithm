@@ -24,7 +24,7 @@
 
 <p>Przykładowo, jeśli N = 3, na odcinku zaznaczone będą następujące punkty:</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/26744.%E2%80%85Pinezki/9655cb2f.png" data-original-src="https://upload.acmicpc.net/50147f5b-5612-42a8-b76c-80270b4cec50/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 630px; height: 28px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/26744.%E2%80%85Pinezki/9655cb2f.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/26744.%E2%80%85Pinezki/9655cb2f.png" data-original-src="https://upload.acmicpc.net/50147f5b-5612-42a8-b76c-80270b4cec50/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 630px; height: 28px;" /></p>
 
 <p>Bajtosia zastanawia się czy się nie pomyliła, sprawdzając dla r&oacute;żnych K pozycję K-tej pinezki od lewej. Pomożesz jej?</p>
 

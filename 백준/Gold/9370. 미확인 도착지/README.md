@@ -22,7 +22,7 @@
 
 <p>이 듀오는 대체 어디로 가고 있는 것일까?</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/9370.%E2%80%85%EB%AF%B8%ED%99%95%EC%9D%B8%E2%80%85%EB%8F%84%EC%B0%A9%EC%A7%80/afb0fab0.png" data-original-src="https://www.acmicpc.net/upload/images/destination.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="font-size:medium; height:230px; width:236px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/9370.%E2%80%85%EB%AF%B8%ED%99%95%EC%9D%B8%E2%80%85%EB%8F%84%EC%B0%A9%EC%A7%80/afb0fab0.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/9370.%E2%80%85%EB%AF%B8%ED%99%95%EC%9D%B8%E2%80%85%EB%8F%84%EC%B0%A9%EC%A7%80/afb0fab0.png" data-original-src="https://www.acmicpc.net/upload/images/destination.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="font-size:medium; height:230px; width:236px" /></p>
 
 <p>예제 입력의 두 번째 케이스를 시각화한 것이다. 이 듀오는 회색 원에서 두 검은 원 중 하나로 가고 있고 점선으로 표시된 도로에서 냄새를 맡았다. 따라서 그들은 6으로 향하고 있다.</p>
 

@@ -20,7 +20,7 @@
 
 <p>For example, consider this situation shown in Figure L.1 (which corresponds to Sample Input 1). The figure shows three warehouses W1, W2 and W3, two products A and B, the amount of each product in each warehouse, and the distances between the warehouses. If we assign A to the W1 warehouse and B to the W2 warehouse, the total distance to move all the A&#39;s to W1 is $0(3) + 7(5) = 35$ and the total distance to move all the B&#39;s to W2 is $10(3)+3(3+5) = 54$ for a total cost of $89$ (note that the shortest path to move all the B&#39;s from W3 to W2 goes through W1). However, the best solution is to assign A to W3 and B to W1 which results in a total cost of only $58$.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/27620.%E2%80%85Which%E2%80%85Warehouse%3F/f44ea2d0.png" data-original-src="https://upload.acmicpc.net/89c044fd-887e-4f58-9771-df1acda6b60c/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 300px; height: 180px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/27620.%E2%80%85Which%E2%80%85Warehouse%3F/f44ea2d0.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/27620.%E2%80%85Which%E2%80%85Warehouse%3F/f44ea2d0.png" data-original-src="https://upload.acmicpc.net/89c044fd-887e-4f58-9771-df1acda6b60c/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 300px; height: 180px;" /></p>
 
 <p style="text-align: center;">Figure L.1: Example warehouse and product layout</p>
 

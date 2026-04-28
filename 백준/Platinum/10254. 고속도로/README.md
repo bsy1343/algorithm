@@ -20,7 +20,7 @@
 
 <p>고속도로는 시작점과 끝점이 아닌 다른 나라를 통과해도 된다. 즉, n개의 도시 중 유클리드 거리가 가장 먼 두 도시를 찾으려 한다. 모든 도시는 한 평면 위에 있다.</p>
 
-<p><img src="%EB%B0%B1%EC%A4%80/Platinum/10254.%E2%80%85%EA%B3%A0%EC%86%8D%EB%8F%84%EB%A1%9C/2a4d7945.png" data-original-src="https://www.acmicpc.net/upload/images2/highway(1).png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p><img src="%EB%B0%B1%EC%A4%80/Platinum/10254.%E2%80%85%EA%B3%A0%EC%86%8D%EB%8F%84%EB%A1%9C/2a4d7945.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/10254.%E2%80%85%EA%B3%A0%EC%86%8D%EB%8F%84%EB%A1%9C/2a4d7945.png" data-original-src="https://www.acmicpc.net/upload/images2/highway(1).png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>위의 예제에서는 (12,0)의 도시와 (-6,3)의 도시가 가장 먼 유클리드 거리를 갖는다.</p>
 

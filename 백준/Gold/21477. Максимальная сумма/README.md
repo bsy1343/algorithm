@@ -20,7 +20,7 @@
 
 <p>Для решения головоломки требуется найти такой невырожденный прямоугольник с вершинами в центрах ячеек таблицы, и сторонами, параллельными сторонам таблицы, чтобы сумма чисел, записанных в ячейках на границе получившегося прямоугольника, была максимальна.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/21477.%E2%80%85%D0%9C%D0%B0%D0%BA%D1%81%D0%B8%D0%BC%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F%E2%80%85%D1%81%D1%83%D0%BC%D0%BC%D0%B0/4405c2d4.png" data-original-src="https://upload.acmicpc.net/23a60690-dd49-4659-b7f3-d72ba14462db/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 129px; height: 160px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/21477.%E2%80%85%D0%9C%D0%B0%D0%BA%D1%81%D0%B8%D0%BC%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F%E2%80%85%D1%81%D1%83%D0%BC%D0%BC%D0%B0/4405c2d4.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/21477.%E2%80%85%D0%9C%D0%B0%D0%BA%D1%81%D0%B8%D0%BC%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F%E2%80%85%D1%81%D1%83%D0%BC%D0%BC%D0%B0/4405c2d4.png" data-original-src="https://upload.acmicpc.net/23a60690-dd49-4659-b7f3-d72ba14462db/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 129px; height: 160px;" /></p>
 
 <p>Безуспешно потратив несколько часов на решение головоломки, Саша решил написать программу, которая сделала бы это за него. Но и тут его постигла неудача. Теперь ему ничего не остается, как обратиться за помощью к вам.</p>
 

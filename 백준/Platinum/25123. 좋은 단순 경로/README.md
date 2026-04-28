@@ -20,7 +20,7 @@
 
 <p>옆에서 지켜보던 Alice는 Bob에게 아래 정의에 따라 &quot;좋은 단순 경로&quot;를 찾아보라고 했다. 임의의 단순 경로 $P$에 대해, 만약 $P$에 속한 노드들의 레이블을 순서대로 나열하여 문자열을 만들었을 때 같은 알파벳이 연속으로 반복되지 않으면 $P$를 &quot;좋은 단순 경로&quot;라 한다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/25123.%E2%80%85%EC%A2%8B%EC%9D%80%E2%80%85%EB%8B%A8%EC%88%9C%E2%80%85%EA%B2%BD%EB%A1%9C/583a50fd.png" data-original-src="https://upload.acmicpc.net/76f16b8d-1baf-4668-9b01-d5361bb331a5/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 283px; width: 408px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/25123.%E2%80%85%EC%A2%8B%EC%9D%80%E2%80%85%EB%8B%A8%EC%88%9C%E2%80%85%EA%B2%BD%EB%A1%9C/583a50fd.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/25123.%E2%80%85%EC%A2%8B%EC%9D%80%E2%80%85%EB%8B%A8%EC%88%9C%E2%80%85%EA%B2%BD%EB%A1%9C/583a50fd.png" data-original-src="https://upload.acmicpc.net/76f16b8d-1baf-4668-9b01-d5361bb331a5/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 283px; width: 408px;" /></p>
 
 <p>예를 들어 위의 트리는 $7$개의 노드를 포함하고 있다.</p>
 

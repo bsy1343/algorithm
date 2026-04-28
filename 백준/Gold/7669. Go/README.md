@@ -20,7 +20,7 @@
 
 <p>Formally, two grid lattice points with coordinates (r, c) and (r&prime;, c&prime;) are adjacent if |r &minus; r&prime;| + |c &minus; c&prime;| = 1. A connected region of unfilled lattice points belongs to one player&rsquo;s territory if all adjacent filled lattice points contain stones belonging to that player (see Figure 1). Finally, a player&rsquo;s score consists of the number of unfilled lattice points in his or her territory.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/7669.%E2%80%85Go/166feee8.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/7669/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:384px; width:374px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/7669.%E2%80%85Go/166feee8.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/7669.%E2%80%85Go/166feee8.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/7669/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:384px; width:374px" /></p>
 
 <p style="text-align: center;">Figure 1: Diagram of a 9 &times; 9 Go board. Unfilled lattice points belonging to black&rsquo;s territory are marked with B, and unfilled lattice points belonging to white&rsquo;s territory are marked with W. Neutral unfilled lattice points are unmarked. In the game above, white wins by 21 &minus; 3 = 18.</p>
 

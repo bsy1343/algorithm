@@ -31,7 +31,7 @@
 
 <p>Here is an example:</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/6339.%E2%80%85The%E2%80%85Game/826f73cd.png" data-original-src="https://www.acmicpc.net/upload/images2/game.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:200px; width:189px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/6339.%E2%80%85The%E2%80%85Game/826f73cd.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/6339.%E2%80%85The%E2%80%85Game/826f73cd.png" data-original-src="https://www.acmicpc.net/upload/images2/game.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:200px; width:189px" /></p>
 
 <p>The game pieces at (1,3) and at (4, 4) can be connected. The game pieces at (2, 3) and (3, 4) cannot be connected; each path would cross at least one other game piece.</p>
 

@@ -20,7 +20,7 @@
 
 <p>작업을 마친 후, 마을 사람들을 대신해 울타리 조각들의 총길이를 구해주자.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/30053.%E2%80%85%EC%9A%B8%ED%83%80%EB%A6%AC%E2%80%85%EC%A7%93%EA%B8%B0/31b8d904.png" data-original-src="https://upload.acmicpc.net/52937066-84a9-4ad4-8cc7-26ee25d5f969/-/crop/816x298/455,388/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 292px; max-width:100%" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/30053.%E2%80%85%EC%9A%B8%ED%83%80%EB%A6%AC%E2%80%85%EC%A7%93%EA%B8%B0/31b8d904.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/30053.%E2%80%85%EC%9A%B8%ED%83%80%EB%A6%AC%E2%80%85%EC%A7%93%EA%B8%B0/31b8d904.png" data-original-src="https://upload.acmicpc.net/52937066-84a9-4ad4-8cc7-26ee25d5f969/-/crop/816x298/455,388/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 292px; max-width:100%" /></p>
 
 <p>예를 들어, 그림의 첫 번째 나무에서는 (1, 2), (4, 8) 두 개의 울타리 조각을 얻고, 두 번째 나무에서는 (8, 10), (12, 15) 두 개의 울타리 조각을 얻어 총길이는 1 + 4 + 2 + 3 = 10이 된다.</p>
 

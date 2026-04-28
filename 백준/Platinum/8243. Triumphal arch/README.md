@@ -38,4 +38,4 @@
 
 <p>On the first day, triumphal arches need to be erected in towns 2, 3, 4. On the second day, they should be erected in towns 5, 6, 7.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/8243.%E2%80%85Triumphal%E2%80%85arch/99367a17.gif" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/8243/1.gif" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:247px; width:200px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/8243.%E2%80%85Triumphal%E2%80%85arch/99367a17.gif" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/8243.%E2%80%85Triumphal%E2%80%85arch/99367a17.gif" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/8243/1.gif" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:247px; width:200px" /></p>

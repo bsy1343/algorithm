@@ -40,4 +40,4 @@
 
 <p>Clarification of the second example: Students in the beginning, after the first and after the second swap.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/27341.%E2%80%85Dirigent/25b193c2.png" data-original-src="https://upload.acmicpc.net/30ca168d-b12c-48dc-9505-885aaa311b69/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 409px; height: 113px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/27341.%E2%80%85Dirigent/25b193c2.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/27341.%E2%80%85Dirigent/25b193c2.png" data-original-src="https://upload.acmicpc.net/30ca168d-b12c-48dc-9505-885aaa311b69/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 409px; height: 113px;" /></p>

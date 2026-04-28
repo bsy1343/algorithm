@@ -33,8 +33,8 @@
 <table class="table table-bordered td-center">
 	<tbody>
 		<tr>
-			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/21566.%E2%80%85%ED%8A%B8%EB%A6%AC%E2%80%85%EC%A0%95%EB%A6%AC%ED%95%98%EA%B8%B0/ef9e0d2f.png" data-original-src="https://upload.acmicpc.net/8eeb7b46-ff2e-4459-b13b-0801c757683f/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></td>
-			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/21566.%E2%80%85%ED%8A%B8%EB%A6%AC%E2%80%85%EC%A0%95%EB%A6%AC%ED%95%98%EA%B8%B0/ba435919.png" data-original-src="https://upload.acmicpc.net/1d74067c-4950-4672-b500-ced8b88c904a/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></td>
+			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/21566.%E2%80%85%ED%8A%B8%EB%A6%AC%E2%80%85%EC%A0%95%EB%A6%AC%ED%95%98%EA%B8%B0/ef9e0d2f.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/21566.%E2%80%85%ED%8A%B8%EB%A6%AC%E2%80%85%EC%A0%95%EB%A6%AC%ED%95%98%EA%B8%B0/ef9e0d2f.png" data-original-src="https://upload.acmicpc.net/8eeb7b46-ff2e-4459-b13b-0801c757683f/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></td>
+			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/21566.%E2%80%85%ED%8A%B8%EB%A6%AC%E2%80%85%EC%A0%95%EB%A6%AC%ED%95%98%EA%B8%B0/ba435919.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/21566.%E2%80%85%ED%8A%B8%EB%A6%AC%E2%80%85%EC%A0%95%EB%A6%AC%ED%95%98%EA%B8%B0/ba435919.png" data-original-src="https://upload.acmicpc.net/1d74067c-4950-4672-b500-ced8b88c904a/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></td>
 		</tr>
 		<tr>
 			<td>초기 상태</td>

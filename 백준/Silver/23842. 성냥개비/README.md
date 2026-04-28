@@ -18,7 +18,7 @@
 
 <p>동빈이는 내일 TV 프로그램 &#39;문제적 유니&#39; 에 출연한다. 평소 애청자였던 동빈이는 성냥개비 문제가 자주 출제된다는 사실을 알았고, 오늘 예습하기로 했다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/23842.%E2%80%85%EC%84%B1%EB%83%A5%EA%B0%9C%EB%B9%84/ef82d95a.png" data-original-src="https://upload.acmicpc.net/4ca15d6c-034a-4bd2-89f0-0b1ff2c64720/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 333px; height: 200px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/23842.%E2%80%85%EC%84%B1%EB%83%A5%EA%B0%9C%EB%B9%84/ef82d95a.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/23842.%E2%80%85%EC%84%B1%EB%83%A5%EA%B0%9C%EB%B9%84/ef82d95a.png" data-original-src="https://upload.acmicpc.net/4ca15d6c-034a-4bd2-89f0-0b1ff2c64720/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 333px; height: 200px;" /></p>
 
 <p>성냥개비는 다음과 같이 숫자를 디지털 형식으로 표현하는데, 각 숫자에 필요한 성냥개비 수는 그림과 같다.</p>
 

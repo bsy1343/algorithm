@@ -24,7 +24,7 @@
 
 <p>Now Bill wants to know the total area of the field that he will be able to harvest. Help him!</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/7402.%E2%80%85Farmer%E2%80%85Bill%E2%80%99s%E2%80%85Problem/07ce44d6.png" data-original-src="https://upload.acmicpc.net/42165772-3933-493c-8b43-561d52d8608d/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 206px; height: 169px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/7402.%E2%80%85Farmer%E2%80%85Bill%E2%80%99s%E2%80%85Problem/07ce44d6.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/7402.%E2%80%85Farmer%E2%80%85Bill%E2%80%99s%E2%80%85Problem/07ce44d6.png" data-original-src="https://upload.acmicpc.net/42165772-3933-493c-8b43-561d52d8608d/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 206px; height: 169px;" /></p>
 
 ### 입력
 

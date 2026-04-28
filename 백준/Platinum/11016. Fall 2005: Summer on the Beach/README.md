@@ -30,7 +30,7 @@
 
 <p>Here is a figure illustrating these quantities. Notice that the sun travels &ldquo;from your feet to your head&rdquo;, and not &ldquo;from your left arm to your right arm&rdquo;.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/11016.%E2%80%85Fall%E2%80%852005%3A%E2%80%85Summer%E2%80%85on%E2%80%85the%E2%80%85Beach/df3b0bc9.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11016/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:205px; width:405px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/11016.%E2%80%85Fall%E2%80%852005%3A%E2%80%85Summer%E2%80%85on%E2%80%85the%E2%80%85Beach/df3b0bc9.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/11016.%E2%80%85Fall%E2%80%852005%3A%E2%80%85Summer%E2%80%85on%E2%80%85the%E2%80%85Beach/df3b0bc9.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11016/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:205px; width:405px" /></p>
 
 ### 출력
 

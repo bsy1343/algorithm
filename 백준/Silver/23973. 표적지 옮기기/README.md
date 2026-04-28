@@ -32,7 +32,7 @@
 
 <p>아래의 그림은 표적지와 점수를 나타낸 그림이다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/23973.%E2%80%85%ED%91%9C%EC%A0%81%EC%A7%80%E2%80%85%EC%98%AE%EA%B8%B0%EA%B8%B0/f653fc1e.png" data-original-src="https://upload.acmicpc.net/1a079ad1-631f-4502-8192-34d93dd29fcc/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 400px; height: 404px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/23973.%E2%80%85%ED%91%9C%EC%A0%81%EC%A7%80%E2%80%85%EC%98%AE%EA%B8%B0%EA%B8%B0/f653fc1e.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/23973.%E2%80%85%ED%91%9C%EC%A0%81%EC%A7%80%E2%80%85%EC%98%AE%EA%B8%B0%EA%B8%B0/f653fc1e.png" data-original-src="https://upload.acmicpc.net/1a079ad1-631f-4502-8192-34d93dd29fcc/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 400px; height: 404px;" /></p>
 
 ### 입력
 

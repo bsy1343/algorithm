@@ -24,7 +24,7 @@
 
 <p>다음 예는 3개의 벨트와 4개의 바퀴에 대한 정보가 주어진 경우이다. 이때 벨트 형태는 0자 형태(안꼬인 형태)면 0으로, 8자 형태(꼬인 형태)면 1로 나타낸다.</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/10834.%E2%80%85%EB%B2%A8%ED%8A%B8/422126ba.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/10834/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:124px; width:276px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/10834.%E2%80%85%EB%B2%A8%ED%8A%B8/422126ba.png" data-original-src="%EB%B0%B1%EC%A4%80/Bronze/10834.%E2%80%85%EB%B2%A8%ED%8A%B8/422126ba.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/10834/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:124px; width:276px" /></p>
 
 <table class="table table-bordered" style="width:40%">
 	<thead>

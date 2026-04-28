@@ -18,7 +18,7 @@
 
 <p>평면 상에서 어떤 점의 위치를 나타내기 위해 좌표를 이용하면 매우 편리하다. &lt;그림 1&gt;에서 예로 보인 것처럼 기준점(이를 원점이라 부른다)에서 우측으로 거리가 4, 위로 거리가 3에 놓인 빨간 점의 좌표는 (4, 3)로 표시한다. 좌표를 이용하면 평면 상에 있는 어떤 점의 위치도 쉽게 나타낼 수 있다. 즉, 기준점에서 오른쪽으로 거리가 x, 위로 거리가 y에 놓인 점의 좌표는 (x, y)로 나타낸다. 기준점(원점)의 좌표는 (0, 0)이 된다.&nbsp;</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/13303.%E2%80%85%EC%9E%A5%EC%95%A0%EB%AC%BC%E2%80%85%EA%B2%BD%EA%B8%B0/41dd9e07.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/13303/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:156px; width:183px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/13303.%E2%80%85%EC%9E%A5%EC%95%A0%EB%AC%BC%E2%80%85%EA%B2%BD%EA%B8%B0/41dd9e07.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/13303.%E2%80%85%EC%9E%A5%EC%95%A0%EB%AC%BC%E2%80%85%EA%B2%BD%EA%B8%B0/41dd9e07.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/13303/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:156px; width:183px" /></p>
 
 <p style="text-align: center;">&lt;그림 1&gt;</p>
 
@@ -34,7 +34,7 @@
 
 <p>&lt;그림 2&gt;의 예를 보자. 출발지점이 (0, 43), 결승선의 x 좌표가 70이고, 4개의 수직 장애물에 대한 정보가 각각 [20, 30, 50], [30, 10, 38], [45, 35, 55], [55, 50, 70]인 경우, 최단의 이동경로는 점선으로 표시한 것처럼 (0, 43) &rarr; (20, 43) &rarr; (20, 50) &rarr; (45, 50) &rarr; (45, 55) &rarr; (55, 55) &rarr; (55, 50) &rarr; (70, 50)이 되고, 이때의 총 이동거리는 87이다. 또한 도착지 점의 y 좌표는 50이 된다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/13303.%E2%80%85%EC%9E%A5%EC%95%A0%EB%AC%BC%E2%80%85%EA%B2%BD%EA%B8%B0/fbeb0cee.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/13303/2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:240px; width:277px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/13303.%E2%80%85%EC%9E%A5%EC%95%A0%EB%AC%BC%E2%80%85%EA%B2%BD%EA%B8%B0/fbeb0cee.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/13303.%E2%80%85%EC%9E%A5%EC%95%A0%EB%AC%BC%E2%80%85%EA%B2%BD%EA%B8%B0/fbeb0cee.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/13303/2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:240px; width:277px" /></p>
 
 <p style="text-align: center;">&lt;그림 2&gt;</p>
 
@@ -47,7 +47,7 @@
 	<li>(0, 40) &rarr; (20, 40) &rarr; (20, 30) &rarr; (50, 30) &rarr; (50, 20) &rarr; (70, 20)</li>
 </ol>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/13303.%E2%80%85%EC%9E%A5%EC%95%A0%EB%AC%BC%E2%80%85%EA%B2%BD%EA%B8%B0/95b4b439.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/13303/3.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:237px; width:273px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/13303.%E2%80%85%EC%9E%A5%EC%95%A0%EB%AC%BC%E2%80%85%EA%B2%BD%EA%B8%B0/95b4b439.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/13303.%E2%80%85%EC%9E%A5%EC%95%A0%EB%AC%BC%E2%80%85%EA%B2%BD%EA%B8%B0/95b4b439.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/13303/3.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:237px; width:273px" /></p>
 
 <p style="text-align: center;">&lt;그림 3&gt;</p>
 

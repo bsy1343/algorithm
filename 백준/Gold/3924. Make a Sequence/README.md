@@ -22,7 +22,7 @@
 
 <p>You can see several snapshots of the game in Figures 3&ndash;5. These figures correspond to the three datasets given in the Sample Input.</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/3924.%E2%80%85Make%E2%80%85a%E2%80%85Sequence/616e78c1.png" data-original-src="https://www.acmicpc.net/upload/images2/ms1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:277px; width:365px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/3924.%E2%80%85Make%E2%80%85a%E2%80%85Sequence/616e78c1.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/3924.%E2%80%85Make%E2%80%85a%E2%80%85Sequence/616e78c1.png" data-original-src="https://www.acmicpc.net/upload/images2/ms1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:277px; width:365px" /></p>
 
 <p>Figure 3: A game with n = m = 3</p>
 
@@ -33,7 +33,7 @@
 	<li>There are n &times; n vertical pegs. Each peg can accommodate up to n balls. A peg can be specified by its x- and y-coordinates (1 &le; x, y &le; n). A ball on a peg can be specified by its z-coordinate (1 &le; z &le; n). At the beginning of a game, there are no balls on any of the pegs.</li>
 </ol>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/3924.%E2%80%85Make%E2%80%85a%E2%80%85Sequence/b81f0e36.png" data-original-src="https://www.acmicpc.net/upload/images2/ms2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/3924.%E2%80%85Make%E2%80%85a%E2%80%85Sequence/b81f0e36.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/3924.%E2%80%85Make%E2%80%85a%E2%80%85Sequence/b81f0e36.png" data-original-src="https://www.acmicpc.net/upload/images2/ms2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>Figure 4: A game with n = m = 3 (White made a 3-sequence before Black)</p>
 
@@ -44,7 +44,7 @@
 
 <p>A sequence can be horizontal, vertical, or diagonal. Precisely speaking, there are 13 possible directions to make a sequence, categorized as follows.</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/3924.%E2%80%85Make%E2%80%85a%E2%80%85Sequence/f077ae30.png" data-original-src="https://www.acmicpc.net/upload/images2/ms3.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:278px; width:363px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/3924.%E2%80%85Make%E2%80%85a%E2%80%85Sequence/f077ae30.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/3924.%E2%80%85Make%E2%80%85a%E2%80%85Sequence/f077ae30.png" data-original-src="https://www.acmicpc.net/upload/images2/ms3.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:278px; width:363px" /></p>
 
 <p>Figure 5: A game with n = 4, m = 3 (Black made two 4-sequences)</p>
 

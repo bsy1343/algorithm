@@ -43,6 +43,6 @@
 
 ### 힌트
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/16096.%E2%80%85Life%E2%80%85on%E2%80%85a%E2%80%85Torus/4d90cd5b.png" data-original-src="https://upload.acmicpc.net/e1896aa7-4591-4136-a87d-b6f712e0eb88/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 266px; height: 120px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/16096.%E2%80%85Life%E2%80%85on%E2%80%85a%E2%80%85Torus/4d90cd5b.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/16096.%E2%80%85Life%E2%80%85on%E2%80%85a%E2%80%85Torus/4d90cd5b.png" data-original-src="https://upload.acmicpc.net/e1896aa7-4591-4136-a87d-b6f712e0eb88/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 266px; height: 120px;" /></p>
 
 <p style="text-align: center;">Figure 2: Illustration of the second input from the Sample Input: a seed with period two, and the configuration to which it leads</p>

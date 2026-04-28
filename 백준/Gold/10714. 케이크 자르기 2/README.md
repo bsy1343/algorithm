@@ -20,7 +20,7 @@
 
 <p>케이크는 둥그런 모양을 하고 있다. 어느 점에서부터 직선으로 칼집을 넣어 케이크를 N 개의 조각으로 나눈 뒤, 각 조각마다 1부터 N 까지 반시계방향으로 번호를 매긴다. 즉,&nbsp;1 ≦ i ≦ N에 대해, i 번째 조각은 i - 1 번째와 i + 1 번째 조각과 인접해있다. (단, 0번째는 N 번째, N + 1 번째는 1번째로 간주한다). i 번째 조각의 크기는&nbsp;A<sub>i</sub> 이지만, 칼질이 서툴러&nbsp;A<sub>i</sub>가 모두 다른 값을 가지게 되었다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/10714.%E2%80%85%EC%BC%80%EC%9D%B4%ED%81%AC%E2%80%85%EC%9E%90%EB%A5%B4%EA%B8%B0%E2%80%852/7450f152.png" data-original-src="https://www.acmicpc.net/upload/images3/cake.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:290px; text-align:center; width:298px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/10714.%E2%80%85%EC%BC%80%EC%9D%B4%ED%81%AC%E2%80%85%EC%9E%90%EB%A5%B4%EA%B8%B0%E2%80%852/7450f152.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/10714.%E2%80%85%EC%BC%80%EC%9D%B4%ED%81%AC%E2%80%85%EC%9E%90%EB%A5%B4%EA%B8%B0%E2%80%852/7450f152.png" data-original-src="https://www.acmicpc.net/upload/images3/cake.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:290px; text-align:center; width:298px" /></p>
 
 <p style="text-align: center;">그림 1 : 케이크의 예&nbsp;(N = 5, A<sub>1</sub> = 2, A<sub>2</sub> = 8, A<sub>3</sub> = 1, A<sub>4</sub> = 10, A<sub>5</sub> = 9)</p>
 

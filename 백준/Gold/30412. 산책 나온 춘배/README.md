@@ -18,7 +18,7 @@
 
 <p>춘배는 혼자 있는 것을 좋아한다. 오늘은 이안이가 춘배를 데리고 공원으로 산책을 나왔다. 공원에는 $N$개의 탑으로 이루어진 특이한 모양의 장식물이 있었다. 춘배는 탑에 올라가고 싶어했지만, 산책을 나온 다른 고양이들도 탑에 올라가 있었고 춘배는 근처에 다른 고양이가 있는 것이 싫었다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/30412.%E2%80%85%EC%82%B0%EC%B1%85%E2%80%85%EB%82%98%EC%98%A8%E2%80%85%EC%B6%98%EB%B0%B0/84fff32d.png" data-original-src="https://upload.acmicpc.net/461ed60b-6101-40f9-b9b0-4e9d99bac869/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/30412.%E2%80%85%EC%82%B0%EC%B1%85%E2%80%85%EB%82%98%EC%98%A8%E2%80%85%EC%B6%98%EB%B0%B0/84fff32d.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/30412.%E2%80%85%EC%82%B0%EC%B1%85%E2%80%85%EB%82%98%EC%98%A8%E2%80%85%EC%B6%98%EB%B0%B0/84fff32d.png" data-original-src="https://upload.acmicpc.net/461ed60b-6101-40f9-b9b0-4e9d99bac869/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>그래서 춘배는 이안이에게 근처에 높이가 비슷한 탑이 없게 만들어달라고 했다. 춘배는 양옆에 있는 탑과의 높이의 차이가 <strong>모두</strong> $X$ 이상이 되도록 하고 싶었다. 장식 양 끝에 있는 탑의 경우 한쪽만 고려하면 된다. 이안이는 새로운 탑을 만들면 제일 좋겠지만, 그 정도까지의 권한은 없어 높이를 조정하는 방법을 택하기로 했다.</p>
 

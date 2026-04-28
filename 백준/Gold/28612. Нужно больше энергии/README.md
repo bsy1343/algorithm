@@ -38,4 +38,4 @@
 
 <p>Ниже находится иллюстрация к первому примеру:</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/28612.%E2%80%85%D0%9D%D1%83%D0%B6%D0%BD%D0%BE%E2%80%85%D0%B1%D0%BE%D0%BB%D1%8C%D1%88%D0%B5%E2%80%85%D1%8D%D0%BD%D0%B5%D1%80%D0%B3%D0%B8%D0%B8/8cc51b0d.png" data-original-src="https://upload.acmicpc.net/d060d6b1-11a2-4536-ae18-097c570a0c0d/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 640px; height: 131px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/28612.%E2%80%85%D0%9D%D1%83%D0%B6%D0%BD%D0%BE%E2%80%85%D0%B1%D0%BE%D0%BB%D1%8C%D1%88%D0%B5%E2%80%85%D1%8D%D0%BD%D0%B5%D1%80%D0%B3%D0%B8%D0%B8/8cc51b0d.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/28612.%E2%80%85%D0%9D%D1%83%D0%B6%D0%BD%D0%BE%E2%80%85%D0%B1%D0%BE%D0%BB%D1%8C%D1%88%D0%B5%E2%80%85%D1%8D%D0%BD%D0%B5%D1%80%D0%B3%D0%B8%D0%B8/8cc51b0d.png" data-original-src="https://upload.acmicpc.net/d060d6b1-11a2-4536-ae18-097c570a0c0d/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 640px; height: 131px;" /></p>

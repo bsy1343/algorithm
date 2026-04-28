@@ -24,7 +24,7 @@
 
 <p>Here are illustrations of the two sample inputs. Boxes represent the numbered rooms, and each arrow is a passage labeled by the number of people per minute that can walk through it.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/10500.%E2%80%85Maze%E2%80%85movement/6a3f7d3f.png" data-original-src="https://www.acmicpc.net/upload/images2/maze(2).png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:171px; width:485px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/10500.%E2%80%85Maze%E2%80%85movement/6a3f7d3f.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/10500.%E2%80%85Maze%E2%80%85movement/6a3f7d3f.png" data-original-src="https://www.acmicpc.net/upload/images2/maze(2).png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:171px; width:485px" /></p>
 
 ### 입력
 

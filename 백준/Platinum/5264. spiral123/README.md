@@ -24,11 +24,11 @@
 	<li>starting from the upper-left corner going right, moving in spiral, the non-zero values will appear in the following order 1, 2, 3, 1, 2, 3, ... , 1, 2, 3.</li>
 </ul>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/5264.%E2%80%85spiral123/510e0654.png" data-original-src="https://upload.acmicpc.net/5c89f24b-4431-4dfe-a9a6-0c5110ecb952/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 114px; height: 100px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/5264.%E2%80%85spiral123/510e0654.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/5264.%E2%80%85spiral123/510e0654.png" data-original-src="https://upload.acmicpc.net/5c89f24b-4431-4dfe-a9a6-0c5110ecb952/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 114px; height: 100px;" /></p>
 
 <p>For example a 5x5 spiral123 matrix is the following:</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/5264.%E2%80%85spiral123/272effa8.png" data-original-src="https://upload.acmicpc.net/b54a96f0-79a2-4305-873f-5945269bf828/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 107px; height: 96px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/5264.%E2%80%85spiral123/272effa8.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/5264.%E2%80%85spiral123/272effa8.png" data-original-src="https://upload.acmicpc.net/b54a96f0-79a2-4305-873f-5945269bf828/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 107px; height: 96px;" /></p>
 
 <p>For a given natural number n, you should generate a n x n spiral123 matrix.</p>
 

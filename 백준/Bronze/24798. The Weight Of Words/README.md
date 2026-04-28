@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/24798.%E2%80%85The%E2%80%85Weight%E2%80%85Of%E2%80%85Words/79f12288.png" data-original-src="https://upload.acmicpc.net/16b54178-6c71-496a-afde-81ca24734427/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 200px; height: 100px; float: right;" />Justin likes to play a game called &quot;Weight of Words.&quot; In this game, a player must find words of a given length and a given weight. The weight of a word is the sum of the weights of its letters. Letters are English lowercase characters from &#39;a&#39; to &#39;z&#39; and have weights from $1 \ldots 26$.</p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/24798.%E2%80%85The%E2%80%85Weight%E2%80%85Of%E2%80%85Words/79f12288.png" data-original-src="%EB%B0%B1%EC%A4%80/Bronze/24798.%E2%80%85The%E2%80%85Weight%E2%80%85Of%E2%80%85Words/79f12288.png" data-original-src="https://upload.acmicpc.net/16b54178-6c71-496a-afde-81ca24734427/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 200px; height: 100px; float: right;" />Justin likes to play a game called &quot;Weight of Words.&quot; In this game, a player must find words of a given length and a given weight. The weight of a word is the sum of the weights of its letters. Letters are English lowercase characters from &#39;a&#39; to &#39;z&#39; and have weights from $1 \ldots 26$.</p>
 
 <p>You are asked to write an AI that can play this game!</p>
 

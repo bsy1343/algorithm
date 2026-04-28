@@ -20,7 +20,7 @@
 
 <p>As a compromise, Alice decides to let each person choose two toppings for their pizza slice in advance. Each person will be happy if their slice has exactly their two chosen toppings and none of the others. Note that a person may choose the same topping twice, in which case they just get twice the amount of that topping.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/26184.%E2%80%85Kebab%E2%80%85Pizza/63bb9078.png" data-original-src="https://upload.acmicpc.net/129db56a-f3fb-4d9e-bdc1-3df01ca6d5de/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 300px; height: 300px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/26184.%E2%80%85Kebab%E2%80%85Pizza/63bb9078.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/26184.%E2%80%85Kebab%E2%80%85Pizza/63bb9078.png" data-original-src="https://upload.acmicpc.net/129db56a-f3fb-4d9e-bdc1-3df01ca6d5de/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 300px; height: 300px;" /></p>
 
 <p style="text-align: center;">Figure K.1: Illustration of Sample Input 1, with two toppings numbered on every slice in one possible solution. Note that each topping only occurs on a single range of pizza slices.</p>
 

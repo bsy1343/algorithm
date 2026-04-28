@@ -20,13 +20,13 @@
 
 <p>Your goal is to find the area of the largest rectangle contained in the given histogram, such that one of the sides is parallel to the base line.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/20033.%E2%80%85Square%2C%E2%80%85Not%E2%80%85Rectangle/7c12dfa8.png" data-original-src="https://upload.acmicpc.net/c2f4b765-52f0-45c6-87e8-52e2c5760d0e/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 420px; height: 131px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/20033.%E2%80%85Square%2C%E2%80%85Not%E2%80%85Rectangle/7c12dfa8.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/20033.%E2%80%85Square%2C%E2%80%85Not%E2%80%85Rectangle/7c12dfa8.png" data-original-src="https://upload.acmicpc.net/c2f4b765-52f0-45c6-87e8-52e2c5760d0e/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 420px; height: 131px;" /></p>
 
 <p style="text-align: center;"><em>Figure 1. The histogram given in the example, with the largest rectangle shown on the right.</em></p>
 
 <p>Actually, no, you have to find the largest <strong>square</strong>. Since the area of a square is determined by its side length, you are required to output the <strong>side length</strong>&nbsp;instead of the area.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/20033.%E2%80%85Square%2C%E2%80%85Not%E2%80%85Rectangle/ef4bda7c.png" data-original-src="https://upload.acmicpc.net/56b37985-3029-4879-90cb-4b6cdba5d798/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 419px; height: 131px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/20033.%E2%80%85Square%2C%E2%80%85Not%E2%80%85Rectangle/ef4bda7c.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/20033.%E2%80%85Square%2C%E2%80%85Not%E2%80%85Rectangle/ef4bda7c.png" data-original-src="https://upload.acmicpc.net/56b37985-3029-4879-90cb-4b6cdba5d798/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 419px; height: 131px;" /></p>
 
 <p style="text-align: center;"><em>Figure 2. The histogram given in the example, with the largest <strong>square</strong>&nbsp;shown on the right.</em></p>
 

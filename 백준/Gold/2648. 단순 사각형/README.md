@@ -22,7 +22,7 @@
 
 <p>최종적인 궤적을 살펴보면 다양한 다각형이 생겨난다. 이 다각형중에서 그 내부에 다른 점이나 선분을 포함하지 않은 사각형을 단순 사각형이라고 한다. 문제는 주어진 궤적으로 만들어진 단순 사각형 중에서 가장 작은 면적의 단순 사각형을 구하는 것이다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/2648.%E2%80%85%EB%8B%A8%EC%88%9C%E2%80%85%EC%82%AC%EA%B0%81%ED%98%95/f8b25711.png" data-original-src="https://upload.acmicpc.net/5ec3a128-8d65-4b11-bdb6-ab6715703f10/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 285px; height: 230px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/2648.%E2%80%85%EB%8B%A8%EC%88%9C%E2%80%85%EC%82%AC%EA%B0%81%ED%98%95/f8b25711.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/2648.%E2%80%85%EB%8B%A8%EC%88%9C%E2%80%85%EC%82%AC%EA%B0%81%ED%98%95/f8b25711.png" data-original-src="https://upload.acmicpc.net/5ec3a128-8d65-4b11-bdb6-ab6715703f10/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 285px; height: 230px;" /></p>
 
 <p>위의 그림에서 촤표(4, 9)는 출발점이고 로봇의 움직인은 R 7, D 5, L 10, U 3, ... 으로 진행된다. 위 그림에서 회색으로 표시한 부분이 가장 작은 면적의 단순 사각형이므로 이것이 답이 된다.</p>
 
@@ -38,4 +38,4 @@
 
 ### 힌트
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/2648.%E2%80%85%EB%8B%A8%EC%88%9C%E2%80%85%EC%82%AC%EA%B0%81%ED%98%95/be1ff9eb.png" data-original-src="https://upload.acmicpc.net/23ea48a2-fa61-437e-9a63-715331b44855/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 285px; height: 157px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/2648.%E2%80%85%EB%8B%A8%EC%88%9C%E2%80%85%EC%82%AC%EA%B0%81%ED%98%95/be1ff9eb.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/2648.%E2%80%85%EB%8B%A8%EC%88%9C%E2%80%85%EC%82%AC%EA%B0%81%ED%98%95/be1ff9eb.png" data-original-src="https://upload.acmicpc.net/23ea48a2-fa61-437e-9a63-715331b44855/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 285px; height: 157px;" /></p>

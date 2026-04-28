@@ -20,7 +20,7 @@
 
 <p>The syntax tree we consider in this problem is a rooted binary tree where each node has either zero or two children. If a node has zero children, it is an integer node that corresponds to a single integer between 0 and 9, inclusive. On the other hand, if a node has two children, the node is a binary operation node that corresponds to a binary operation of either addition, subtraction or multiplication. In this case the left and right children correspond to the left and right operands of the binary operation, respectively. For example, Figure B.1 represents the syntax tree of expression $(9-4) * ((7*2)+5)$.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/26450.%E2%80%85Parse%E2%80%85the%E2%80%85Syntax%E2%80%85Tree/5812ed02.png" data-original-src="https://upload.acmicpc.net/40bd83b1-d6d8-4531-85d9-f150f7411ebd/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/26450.%E2%80%85Parse%E2%80%85the%E2%80%85Syntax%E2%80%85Tree/5812ed02.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/26450.%E2%80%85Parse%E2%80%85the%E2%80%85Syntax%E2%80%85Tree/5812ed02.png" data-original-src="https://upload.acmicpc.net/40bd83b1-d6d8-4531-85d9-f150f7411ebd/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p style="text-align: center;">Figure B.1: Example of a syntax tree</p>
 
@@ -34,7 +34,7 @@
 
 <p>Figure B.2 shows the rules (similar to Backus-Naur Form) of such representation of a syntax tree.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/26450.%E2%80%85Parse%E2%80%85the%E2%80%85Syntax%E2%80%85Tree/8f3750e3.png" data-original-src="https://upload.acmicpc.net/8e59413d-69c0-4c8a-ae1d-a25c187704ec/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/26450.%E2%80%85Parse%E2%80%85the%E2%80%85Syntax%E2%80%85Tree/8f3750e3.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/26450.%E2%80%85Parse%E2%80%85the%E2%80%85Syntax%E2%80%85Tree/8f3750e3.png" data-original-src="https://upload.acmicpc.net/8e59413d-69c0-4c8a-ae1d-a25c187704ec/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p style="text-align: center;">Figure B.2: Rules of the representation of a syntax tree</p>
 

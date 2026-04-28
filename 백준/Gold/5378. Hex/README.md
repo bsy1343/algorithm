@@ -18,7 +18,7 @@
 
 <p>Hex is a game for two players, played on a diamond-shaped board with hexagonal cells. At the start of the game, all cells are empty. Each player in turn puts a stone of his own color (black or white) in any empty cell. The goal for Black is to connect the top left edge of the board with the bottom right edge, by making a path consisting of neighboring cells with Black stones in them. White attempts to make a path from the top right to the bottom left. The cells located in the corners of the diamond count as being adjacent to both corresponding edges. The player to start the game is Black. An interesting feature of this game is that there is always a winner: if all cells are filled and one player does not have a path connecting his designated edges, then the other player automatically does have one.</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/5378.%E2%80%85Hex/6bc0fe30.png" data-original-src="https://www.acmicpc.net/upload/images2/hex.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:269px; width:466px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/5378.%E2%80%85Hex/6bc0fe30.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/5378.%E2%80%85Hex/6bc0fe30.png" data-original-src="https://www.acmicpc.net/upload/images2/hex.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:269px; width:466px" /></p>
 
 <p>The game situation as described by the first test case in the sample input. Black has successfully connected the top left edge and the bottom right edge and has therefore won the game.</p>
 

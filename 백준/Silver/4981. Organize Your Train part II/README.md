@@ -18,7 +18,7 @@
 
 <p>RJ Freight, a Japanese railroad company for freight operations has recently constructed exchange lines at Hazawa, Yokohama. The layout of the lines is shown in Figure B-1.</p>
 
-<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/4981.%E2%80%85Organize%E2%80%85Your%E2%80%85Train%E2%80%85part%E2%80%85II/a96c2ad5.gif" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/4981/1.gif" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:194px; width:407px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/4981.%E2%80%85Organize%E2%80%85Your%E2%80%85Train%E2%80%85part%E2%80%85II/a96c2ad5.gif" data-original-src="%EB%B0%B1%EC%A4%80/Silver/4981.%E2%80%85Organize%E2%80%85Your%E2%80%85Train%E2%80%85part%E2%80%85II/a96c2ad5.gif" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/4981/1.gif" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:194px; width:407px" /></p>
 
 <p style="text-align:center">Figure B-1: Layout of the exchange lines</p>
 

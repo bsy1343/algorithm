@@ -35,7 +35,7 @@
 
 <p>보물상자를 여는 데 걸리는 최소 시간을 구함으로써, 백남이가&nbsp;무사히 보물을 얻게 도와주자!</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/23058.%E2%80%85%EB%92%A4%EC%A7%91%EA%B8%B0%E2%80%85%EA%B2%8C%EC%9E%84/700c82c7.png" data-original-src="https://upload.acmicpc.net/c319c784-0944-490c-917a-4f821c656fd4/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 500px; width: 500px;" /><br />
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/23058.%E2%80%85%EB%92%A4%EC%A7%91%EA%B8%B0%E2%80%85%EA%B2%8C%EC%9E%84/700c82c7.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/23058.%E2%80%85%EB%92%A4%EC%A7%91%EA%B8%B0%E2%80%85%EA%B2%8C%EC%9E%84/700c82c7.png" data-original-src="https://upload.acmicpc.net/c319c784-0944-490c-917a-4f821c656fd4/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 500px; width: 500px;" /><br />
 &nbsp;</p>
 
 ### 입력

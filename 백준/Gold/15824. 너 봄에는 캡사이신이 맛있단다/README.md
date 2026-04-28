@@ -20,7 +20,7 @@
 
 <p>&#39;스코빌 지수&#39;란 고추류가 가진 매운맛의 원인인 캡사이신의 농도를 수치화 한 단위이다. 주헌이가 느끼는 매운 정도는 굉장히 독특한데, 먹고 있는 메뉴의 절대 수치가 아닌 음식과의 상대수치에 기반한다. 예를 들어 [5, 2, 8]의 스코빌 지수를 가진 음식을 먹을 때 주헌이가 느끼는 매운 정도는 가장 높은 수치인 8과 가장 낮은 수치인 2의 차이인 6만큼의 매운맛을 느낀다. 이처럼 메뉴들의 스코빌 지수가 있을 때 그 최댓값과 최솟값의 차이를 &quot;주헌고통지수&quot;라고 정의한다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/15824.%E2%80%85%EB%84%88%E2%80%85%EB%B4%84%EC%97%90%EB%8A%94%E2%80%85%EC%BA%A1%EC%82%AC%EC%9D%B4%EC%8B%A0%EC%9D%B4%E2%80%85%EB%A7%9B%EC%9E%88%EB%8B%A8%EB%8B%A4/c8512530.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15824/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 224px; height: 118px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/15824.%E2%80%85%EB%84%88%E2%80%85%EB%B4%84%EC%97%90%EB%8A%94%E2%80%85%EC%BA%A1%EC%82%AC%EC%9D%B4%EC%8B%A0%EC%9D%B4%E2%80%85%EB%A7%9B%EC%9E%88%EB%8B%A8%EB%8B%A4/c8512530.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/15824.%E2%80%85%EB%84%88%E2%80%85%EB%B4%84%EC%97%90%EB%8A%94%E2%80%85%EC%BA%A1%EC%82%AC%EC%9D%B4%EC%8B%A0%EC%9D%B4%E2%80%85%EB%A7%9B%EC%9E%88%EB%8B%A8%EB%8B%A4/c8512530.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15824/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 224px; height: 118px;" /></p>
 
 <p style="text-align: center;">그림1. 고추처럼 보이지만 문제와는 무관합니다.&nbsp;</p>
 

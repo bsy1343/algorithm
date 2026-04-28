@@ -16,13 +16,13 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/24344.%E2%80%85%D0%A1%D0%9A%D0%A0%D0%98%D0%99%E2%80%85%D0%9C%D0%9E%D0%9B%D0%98%D0%92%D0%90/f0a53901.png" data-original-src="https://upload.acmicpc.net/e0f2d203-6119-4643-a17c-3ec439ecdfc5/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 44px; height: 179px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/24344.%E2%80%85%D0%A1%D0%9A%D0%A0%D0%98%D0%99%E2%80%85%D0%9C%D0%9E%D0%9B%D0%98%D0%92%D0%90/f0a53901.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/24344.%E2%80%85%D0%A1%D0%9A%D0%A0%D0%98%D0%99%E2%80%85%D0%9C%D0%9E%D0%9B%D0%98%D0%92%D0%90/f0a53901.png" data-original-src="https://upload.acmicpc.net/e0f2d203-6119-4643-a17c-3ec439ecdfc5/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 44px; height: 179px;" /></p>
 
 <p style="text-align: center;">Схема А</p>
 
 <p>Ако сложим молив в по-късо калъфче, моливът се вижда, както е показано на Схема А. Нека сега вземем няколко калъфчета и ги обединим в снопче. Дали ще можем да си изберем такива от тях, в които, ако поставим молива, той няма да се вижда? (Вижте Схема Б)</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/24344.%E2%80%85%D0%A1%D0%9A%D0%A0%D0%98%D0%99%E2%80%85%D0%9C%D0%9E%D0%9B%D0%98%D0%92%D0%90/76de1e2a.png" data-original-src="https://upload.acmicpc.net/39d563bd-b531-4f4a-822c-77641f5184c5/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 125px; height: 167px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/24344.%E2%80%85%D0%A1%D0%9A%D0%A0%D0%98%D0%99%E2%80%85%D0%9C%D0%9E%D0%9B%D0%98%D0%92%D0%90/76de1e2a.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/24344.%E2%80%85%D0%A1%D0%9A%D0%A0%D0%98%D0%99%E2%80%85%D0%9C%D0%9E%D0%9B%D0%98%D0%92%D0%90/76de1e2a.png" data-original-src="https://upload.acmicpc.net/39d563bd-b531-4f4a-822c-77641f5184c5/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 125px; height: 167px;" /></p>
 
 <p style="text-align: center;">Схема Б (отразява примера)</p>
 

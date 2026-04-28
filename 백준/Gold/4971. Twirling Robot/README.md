@@ -18,7 +18,7 @@
 
 <p>Let&#39;s play a game using a robot on a rectangular board covered with a square mesh (Figure D-1). The robot is initially set at the start square in the northwest corner facing the east direction. The goal of this game is to lead the robot to the goal square in the southeast corner.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/4971.%E2%80%85Twirling%E2%80%85Robot/ec6c34af.png" data-original-src="https://www.acmicpc.net/upload/images3/D1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:306px; width:704px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/4971.%E2%80%85Twirling%E2%80%85Robot/ec6c34af.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/4971.%E2%80%85Twirling%E2%80%85Robot/ec6c34af.png" data-original-src="https://www.acmicpc.net/upload/images3/D1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:306px; width:704px" /></p>
 
 <p style="text-align: center;">Figure D-1: Example of a board</p>
 
@@ -34,7 +34,7 @@
 
 <p>Each square has one of these commands assigned as shown in Figure D-2. The robot executes the command assigned to the square where it resides, unless the player gives another command to be executed instead. Each time the player gives an explicit command, the player has to pay the cost that depends on the command type.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/4971.%E2%80%85Twirling%E2%80%85Robot/69688504.png" data-original-src="https://www.acmicpc.net/upload/images3/D2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:275px; width:677px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/4971.%E2%80%85Twirling%E2%80%85Robot/69688504.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/4971.%E2%80%85Twirling%E2%80%85Robot/69688504.png" data-original-src="https://www.acmicpc.net/upload/images3/D2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:275px; width:677px" /></p>
 
 <p style="text-align: center;">Figure D-2: Example of commands assigned to squares</p>
 

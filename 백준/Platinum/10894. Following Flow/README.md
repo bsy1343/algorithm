@@ -18,7 +18,7 @@
 
 <p>세상은 N+1개의 정점으로 이루어져 있는데, 각 정점은 0에서 N까지의 번호가 붙어있다. 각 정점에서는 다른 정점으로 가는 간선이 있는데, 각 간선은 일방통행이며, 각 간선마다 간선을 지나가는데 걸리는 시간이 다르다. 동현이는 세상을 떠돌고 있는데, 0번 지점은 동현이가 현재 있는 위치이고, N번은 동현이의 집이다. 동현이는 집에 도착하기 전까지는 마음이 가는 대로 세상을 떠돌고 싶어한다. 마음이 가는 대로라는 것은 현재 정점에서 다른 정점으로 갈 수 있는 모든 간선에 대해 동일한 확률로 한 간선을 선택하여 다음 정점으로 가는 것이다. 이때 동현이는 집으로 가기까지 걸리는 시간의 기댓값이 어느 정도 일지 궁금하다. 예를 들어 세상이 다음과 같이 이루어져 있다고 생각해보자.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/10894.%E2%80%85Following%E2%80%85Flow/6fbb6ead.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/10894/pic1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:143px; width:166px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/10894.%E2%80%85Following%E2%80%85Flow/6fbb6ead.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/10894.%E2%80%85Following%E2%80%85Flow/6fbb6ead.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/10894/pic1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:143px; width:166px" /></p>
 
 <p>다음과 같은 경우 처음에 동현이는 0번 지점에서 각각 50%의 확률로 1초가 걸려 1번 지점으로 이동하거나 1초가 걸려 2번 지점으로 이동하여 집에 도착하게 된다. 1번 지점으로 가는 경우 역시 50%의 확률로 3초가 걸려 0번 지점으로 돌아오거나 3초가 걸려 2번 지점으로 이동하여 집에 도착하게 된다. 이 경우 답은 아래와 같다.</p>
 

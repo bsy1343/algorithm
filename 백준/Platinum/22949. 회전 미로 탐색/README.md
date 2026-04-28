@@ -22,7 +22,7 @@
 
 <p>예를 들어, $(2, 3)$와 $(3, 4)$은 둘다 구역 1이므로 같은 구역에 속하고 $(2, 3)$와 $(3, 5)$는 각각 구역 1, 구역 2이므로 다른 구역이다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/22949.%E2%80%85%ED%9A%8C%EC%A0%84%E2%80%85%EB%AF%B8%EB%A1%9C%E2%80%85%ED%83%90%EC%83%89/ad923e2d.png" data-original-src="https://upload.acmicpc.net/b825fe2b-6da6-42c9-81e1-f6b77940a3dd/-/crop/1013x1006/455,37/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 604px; height: 600px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/22949.%E2%80%85%ED%9A%8C%EC%A0%84%E2%80%85%EB%AF%B8%EB%A1%9C%E2%80%85%ED%83%90%EC%83%89/ad923e2d.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/22949.%E2%80%85%ED%9A%8C%EC%A0%84%E2%80%85%EB%AF%B8%EB%A1%9C%E2%80%85%ED%83%90%EC%83%89/ad923e2d.png" data-original-src="https://upload.acmicpc.net/b825fe2b-6da6-42c9-81e1-f6b77940a3dd/-/crop/1013x1006/455,37/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 604px; height: 600px;" /></p>
 
 <p>미로를 탈출할 때까지 매 시간마다 아래와 같은 순서대로 진행된다.</p>
 

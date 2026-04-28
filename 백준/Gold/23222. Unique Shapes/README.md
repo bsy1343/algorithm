@@ -22,7 +22,7 @@
 
 <p>With one block, only one unique shape can be made. With two blocks, the same is true. With three blocks, two unique shapes are possible, and with four blocks, five unique shapes are possible. The figure below gives illustrations of these cases:</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/23222.%E2%80%85Unique%E2%80%85Shapes/e1bee58f.png" data-original-src="https://upload.acmicpc.net/fac69263-21c3-49ae-aca4-c430d8902c94/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 215px; height: 145px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/23222.%E2%80%85Unique%E2%80%85Shapes/e1bee58f.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/23222.%E2%80%85Unique%E2%80%85Shapes/e1bee58f.png" data-original-src="https://upload.acmicpc.net/fac69263-21c3-49ae-aca4-c430d8902c94/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 215px; height: 145px;" /></p>
 
 ### 입력
 

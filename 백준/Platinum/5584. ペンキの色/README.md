@@ -18,7 +18,7 @@
 
 <p>情報オリンピックの宣伝のために，長方形のベニヤ板にペンキを塗り看板を制作 したい．ベニヤ板には色を塗りたくないところにあらかじめ何枚かの長方形のマス キングテープが貼られている．そこでマスキングテープで区切られた領域ごとに別々 の色を使いペンキを塗ることにした．例えば，図 5-1 の場合は 5 色のペンキを使う．</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/5584.%E2%80%85%E3%83%9A%E3%83%B3%E3%82%AD%E3%81%AE%E8%89%B2/438f821d.png" data-original-src="https://upload.acmicpc.net/abdd29fc-9b28-4a07-a803-e5671aefce3e/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 299px; height: 127px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/5584.%E2%80%85%E3%83%9A%E3%83%B3%E3%82%AD%E3%81%AE%E8%89%B2/438f821d.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/5584.%E2%80%85%E3%83%9A%E3%83%B3%E3%82%AD%E3%81%AE%E8%89%B2/438f821d.png" data-original-src="https://upload.acmicpc.net/abdd29fc-9b28-4a07-a803-e5671aefce3e/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 299px; height: 127px;" /></p>
 
 <p style="text-align: center;">図 5-1 看板の例</p>
 
@@ -38,6 +38,6 @@
 
 ### 힌트
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/5584.%E2%80%85%E3%83%9A%E3%83%B3%E3%82%AD%E3%81%AE%E8%89%B2/548366af.png" data-original-src="https://upload.acmicpc.net/2886d5d3-dbcc-4a90-a6d3-d96e8f317276/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 344px; height: 199px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/5584.%E2%80%85%E3%83%9A%E3%83%B3%E3%82%AD%E3%81%AE%E8%89%B2/548366af.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/5584.%E2%80%85%E3%83%9A%E3%83%B3%E3%82%AD%E3%81%AE%E8%89%B2/548366af.png" data-original-src="https://upload.acmicpc.net/2886d5d3-dbcc-4a90-a6d3-d96e8f317276/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 344px; height: 199px;" /></p>
 
 <p style="text-align: center;">図 5-2 図 5-1 の看板の入力例</p>

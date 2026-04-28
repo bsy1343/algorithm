@@ -18,11 +18,11 @@
 
 <p>오랜만에 휴가를 나온 호근이는 문득 동아리방에 있는 장기가 하고 싶어졌다. 하지만 장기를 오랫동안 하지 않은 탓인지 예전에는 잘 쓰던 상을 제대로 쓰는 것이 너무 힘들었다. 호근이를 위해 상을 어떻게 써야 할지 도와주자.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/16509.%E2%80%85%EC%9E%A5%EA%B5%B0/cdf86576.png" data-original-src="https://upload.acmicpc.net/34c5b076-666b-4ca7-a1a7-347a09958afb/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 464px; width: 600px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/16509.%E2%80%85%EC%9E%A5%EA%B5%B0/cdf86576.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/16509.%E2%80%85%EC%9E%A5%EA%B5%B0/cdf86576.png" data-original-src="https://upload.acmicpc.net/34c5b076-666b-4ca7-a1a7-347a09958afb/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 464px; width: 600px;" /></p>
 
 <p>위 그림은 10&times;9 크기의 장기판을 나타내며, 상은 (5, 4)에, 왕은 (1, 4)에 자리 잡고 있는 기물이다. (0, 3)과 (2, 5)를 꼭짓점으로 하는 사각형과, (7, 3)과 (9, 5)를 꼭짓점으로 하는 사각형은 왕이 위치할 수 있는 궁성이라고 한다. 상은 위 그림과 같이 8가지 방법으로 움직일 수 있는데, 상, 하, 좌, 우로 한 칸을 이동한 후에 같은 방향 쪽 대각선으로 두 칸 이동한다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/16509.%E2%80%85%EC%9E%A5%EA%B5%B0/ed20620c.png" data-original-src="https://upload.acmicpc.net/ba413f3c-e33e-4458-9cc2-15ac8b333fe5/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 600px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/16509.%E2%80%85%EC%9E%A5%EA%B5%B0/ed20620c.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/16509.%E2%80%85%EC%9E%A5%EA%B5%B0/ed20620c.png" data-original-src="https://upload.acmicpc.net/ba413f3c-e33e-4458-9cc2-15ac8b333fe5/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 600px;" /></p>
 
 <p>만약 상이 이동하는 경로에 위 그림과 같이 다른 기물이 있다면 상은 그쪽으로 이동할 수 없다. 또한, 상이 장기판을 벗어날 수도 없다.</p>
 

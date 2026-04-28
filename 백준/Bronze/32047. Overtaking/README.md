@@ -20,7 +20,7 @@
 
 <p>Here, the term <em>overtaking</em> stands for the event where the runner previously behind takes the lead. Note that, before overtaking, the two runners may run side by side for a while, during which neither takes the lead. Figure B-1 shows the times and the positions of two runners for the third dataset of Sample Input. The number of overtakings in this case is two.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/32047.%E2%80%85Overtaking/d1fab5d7.png" data-original-src="https://upload.acmicpc.net/7774fceb-fb78-469f-aa2f-f2c686bff403/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 500px; height: 800px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/32047.%E2%80%85Overtaking/d1fab5d7.png" data-original-src="%EB%B0%B1%EC%A4%80/Bronze/32047.%E2%80%85Overtaking/d1fab5d7.png" data-original-src="https://upload.acmicpc.net/7774fceb-fb78-469f-aa2f-f2c686bff403/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 500px; height: 800px;" /></p>
 
 <p style="text-align: center;">Figure B-1: The third dataset of Sample Input</p>
 

@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><img alt="2-set and QWERTY keyboard" src="%EB%B0%B1%EC%A4%80/Gold/18109.%E2%80%85%EB%8F%84%EA%B9%A8%EB%B9%84%EB%B6%88/0db847d9.png" data-original-src="https://upload.acmicpc.net/174db09b-1afb-412c-90b9-4c397df888a8/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 1000px;" /></p>
+<p style="text-align: center;"><img alt="2-set and QWERTY keyboard" src="%EB%B0%B1%EC%A4%80/Gold/18109.%E2%80%85%EB%8F%84%EA%B9%A8%EB%B9%84%EB%B6%88/0db847d9.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/18109.%E2%80%85%EB%8F%84%EA%B9%A8%EB%B9%84%EB%B6%88/0db847d9.png" data-original-src="https://upload.acmicpc.net/174db09b-1afb-412c-90b9-4c397df888a8/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 1000px;" /></p>
 
 <p>한글 두벌식 자판을 사용하다 보면, 다른 입력 방식에서는 찾아보기 힘든&nbsp;<strong>도깨비불 현상</strong>이라는 특이한 현상을&nbsp;경험할&nbsp;수 있다. 예를 들어 &ldquo;<em>서강대학교</em>&rdquo;를 입력할 때 글쇠 입력 하나하나를 추적해 보자:</p>
 

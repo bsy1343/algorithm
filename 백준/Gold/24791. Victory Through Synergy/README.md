@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/24791.%E2%80%85Victory%E2%80%85Through%E2%80%85Synergy/8da16e5b.png" data-original-src="https://upload.acmicpc.net/497d6efc-b83a-4580-ad09-043a744fafe7/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 250px; height: 187px; float: right;" />Johnny has been roped into a fantasy soccer league and needs your help to set up the best team.</p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/24791.%E2%80%85Victory%E2%80%85Through%E2%80%85Synergy/8da16e5b.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/24791.%E2%80%85Victory%E2%80%85Through%E2%80%85Synergy/8da16e5b.png" data-original-src="https://upload.acmicpc.net/497d6efc-b83a-4580-ad09-043a744fafe7/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 250px; height: 187px; float: right;" />Johnny has been roped into a fantasy soccer league and needs your help to set up the best team.</p>
 
 <p>He has a list of $10$ players that are on his fantasy team (no goalkeepers in this league). He also knows what country they&#39;re from, what league they play in, and what team they play for.</p>
 

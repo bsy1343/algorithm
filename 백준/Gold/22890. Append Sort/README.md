@@ -24,7 +24,7 @@
 
 <p>For example, if the list is 100,7,10, we can use 4 total operations to make it into a sorted list, as the following image shows.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/22890.%E2%80%85Append%E2%80%85Sort/c0c4fbc8.png" data-original-src="https://upload.acmicpc.net/c9b1174d-0a57-4144-8c01-d691ac7c0da1/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/22890.%E2%80%85Append%E2%80%85Sort/c0c4fbc8.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/22890.%E2%80%85Append%E2%80%85Sort/c0c4fbc8.png" data-original-src="https://upload.acmicpc.net/c9b1174d-0a57-4144-8c01-d691ac7c0da1/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 ### 입력
 

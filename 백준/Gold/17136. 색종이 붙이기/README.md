@@ -18,7 +18,7 @@
 
 <p>&lt;그림 1&gt;과 같이 정사각형 모양을 한 다섯 종류의 색종이가 있다. 색종이의 크기는&nbsp;1&times;1, 2&times;2, 3&times;3, 4&times;4, 5&times;5로 총 다섯 종류가 있으며, 각 종류의 색종이는 5개씩 가지고 있다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/17136.%E2%80%85%EC%83%89%EC%A2%85%EC%9D%B4%E2%80%85%EB%B6%99%EC%9D%B4%EA%B8%B0/ec3c5ce9.png" data-original-src="https://upload.acmicpc.net/496452ae-ce36-4d77-93f7-19d7f3f9ce28/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 972px; height: 302px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/17136.%E2%80%85%EC%83%89%EC%A2%85%EC%9D%B4%E2%80%85%EB%B6%99%EC%9D%B4%EA%B8%B0/ec3c5ce9.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/17136.%E2%80%85%EC%83%89%EC%A2%85%EC%9D%B4%E2%80%85%EB%B6%99%EC%9D%B4%EA%B8%B0/ec3c5ce9.png" data-original-src="https://upload.acmicpc.net/496452ae-ce36-4d77-93f7-19d7f3f9ce28/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 972px; height: 302px;" /></p>
 
 <p style="text-align: center;">&lt;그림 1&gt;</p>
 

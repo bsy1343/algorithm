@@ -24,7 +24,7 @@
 
 <p>경로가 끝나는 최종 위치는 시작한 위치에서 동쪽으로 1미터 떨어져 있다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/3097.%E2%80%85%EC%82%B0%EC%B1%85%E2%80%85%EA%B2%BD%EB%A1%9C/324f8b64.png" data-original-src="https://upload.acmicpc.net/ed41a58f-cdb9-430d-b016-cffd6b46a11a/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 433px; height: 138px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/3097.%E2%80%85%EC%82%B0%EC%B1%85%E2%80%85%EA%B2%BD%EB%A1%9C/324f8b64.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/3097.%E2%80%85%EC%82%B0%EC%B1%85%E2%80%85%EA%B2%BD%EB%A1%9C/324f8b64.png" data-original-src="https://upload.acmicpc.net/ed41a58f-cdb9-430d-b016-cffd6b46a11a/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 433px; height: 138px;" /></p>
 
 <p>상근이는 산책을 마치는 위치가 시작한 위치와 많이 떨어져 있는 것을 싫어하기 때문에, 선분 하나를 제거하려고 한다. 즉, 산책 경로에 있는 선분 중 하나를 제거해 시작 위치와 마지막 위치 사이의 거리를 최소로 만들려고 한다.</p>
 

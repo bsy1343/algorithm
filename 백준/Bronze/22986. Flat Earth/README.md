@@ -26,7 +26,7 @@
 
 <p>$N=1$일 때는 모든 칸이 지구의 끝이다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/22986.%E2%80%85Flat%E2%80%85Earth/bc510918.png" data-original-src="https://upload.acmicpc.net/837fa105-2405-4966-9206-bffd58ba9747/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 480px; height: 247px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/22986.%E2%80%85Flat%E2%80%85Earth/bc510918.png" data-original-src="%EB%B0%B1%EC%A4%80/Bronze/22986.%E2%80%85Flat%E2%80%85Earth/bc510918.png" data-original-src="https://upload.acmicpc.net/837fa105-2405-4966-9206-bffd58ba9747/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 480px; height: 247px;" /></p>
 
 <p style="text-align: center;">위 그림에서 동그라미 친 곳이 $N=1$, $N=2$, $N=3$일 때의 지구의 끝이다.</p>
 

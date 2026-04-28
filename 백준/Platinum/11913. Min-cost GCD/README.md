@@ -63,4 +63,4 @@
 
 <p>네 번째 입력에서는 상수와 석환이 모두에게 맡겨야 합니다. 변화를 살펴보자면 아래와 같습니다. 오른쪽으로 향하는 화살표는 상수의 가공을, 아래로 향하는 화살표는 석환이의 가공을 의미합니다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/11913.%E2%80%85Min-cost%E2%80%85GCD/53f86e82.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11913/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:101px; width:465px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/11913.%E2%80%85Min-cost%E2%80%85GCD/53f86e82.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/11913.%E2%80%85Min-cost%E2%80%85GCD/53f86e82.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11913/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:101px; width:465px" /></p>

@@ -26,7 +26,7 @@
 
 <p>You are asked to find any valid sequence of gates&rsquo; opening that might have happened between the times the two pictures were taken, or claim that it is impossible. A gate can be opened multiple times in the sequence.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/18337.%E2%80%85Passport%E2%80%85Control%E2%80%85Gates/ce214ad1.png" data-original-src="https://upload.acmicpc.net/6b6bd9d1-ae71-4d9b-b25a-7d7a95b339eb/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 539px; height: 426px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/18337.%E2%80%85Passport%E2%80%85Control%E2%80%85Gates/ce214ad1.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/18337.%E2%80%85Passport%E2%80%85Control%E2%80%85Gates/ce214ad1.png" data-original-src="https://upload.acmicpc.net/6b6bd9d1-ae71-4d9b-b25a-7d7a95b339eb/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 539px; height: 426px;" /></p>
 
 ### 입력
 

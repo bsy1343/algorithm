@@ -18,7 +18,7 @@
 
 <p>На плоскости задано $n$ кругов. У кругов могут быть общие точки, но любые два круга либо не имеют общих точек, либо имеют одну общую точку, либо один круг вкладывается в другой.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/29432.%E2%80%85%D0%9A%D1%80%D1%83%D0%B3%D0%B8/0ebc1e49.png" data-original-src="https://upload.acmicpc.net/23601992-f41a-4d6e-b933-099168f23a5f/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 331px; height: 328px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/29432.%E2%80%85%D0%9A%D1%80%D1%83%D0%B3%D0%B8/0ebc1e49.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/29432.%E2%80%85%D0%9A%D1%80%D1%83%D0%B3%D0%B8/0ebc1e49.png" data-original-src="https://upload.acmicpc.net/23601992-f41a-4d6e-b933-099168f23a5f/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 331px; height: 328px;" /></p>
 
 <p>Найдите площадь объединения всех заданных кругов.</p>
 

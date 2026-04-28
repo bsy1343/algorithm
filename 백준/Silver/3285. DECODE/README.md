@@ -24,7 +24,7 @@
 
 <p>For example, if the key word is DUBROVNIK and the key number is 10, then the replacement table can be written as</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/3285.%E2%80%85DECODE/712056b2.png" data-original-src="https://upload.acmicpc.net/00efd138-0055-44cb-bb40-1d2b4fbc87f4/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 600px; height: 59px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/3285.%E2%80%85DECODE/712056b2.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/3285.%E2%80%85DECODE/712056b2.png" data-original-src="https://upload.acmicpc.net/00efd138-0055-44cb-bb40-1d2b4fbc87f4/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 600px; height: 59px;" /></p>
 
 <p>An original text can be coded so that each letter is found in the first row and then replaced by a letter written below it.</p>
 

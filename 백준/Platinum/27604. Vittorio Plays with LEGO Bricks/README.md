@@ -27,7 +27,7 @@
 
 <p>For example, this is a valid structure:</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/27604.%E2%80%85Vittorio%E2%80%85Plays%E2%80%85with%E2%80%85LEGO%E2%80%85Bricks/f7841930.png" data-original-src="https://upload.acmicpc.net/9ae13c5c-1d7a-47f0-b76c-cb6465f03bab/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 531px; height: 297px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/27604.%E2%80%85Vittorio%E2%80%85Plays%E2%80%85with%E2%80%85LEGO%E2%80%85Bricks/f7841930.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/27604.%E2%80%85Vittorio%E2%80%85Plays%E2%80%85with%E2%80%85LEGO%E2%80%85Bricks/f7841930.png" data-original-src="https://upload.acmicpc.net/9ae13c5c-1d7a-47f0-b76c-cb6465f03bab/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 531px; height: 297px;" /></p>
 
 <p>Vittorio wants to build a structure that includes purple bricks in the following $n$ positions: $(x_1, 0, h), (x_2, 0, h), \dots , (x_n, 0, h)$ &mdash; these are the coordinates of the centers of their lower bases; note that all of these bricks have $y$ coordinate equal to $0$ and $z$ coordinate equal to $h$. Vittorio will use additional bricks of other colors to support the purple bricks. He is willing to place bricks only in positions where the center of the lower base has $y$ coordinate equal to $0$. What is the minimum number of additional bricks needed?</p>
 

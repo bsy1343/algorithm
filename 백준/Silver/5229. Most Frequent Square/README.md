@@ -18,7 +18,7 @@
 
 <p>As Sam is flying over the Grid world to the outlands, he notices some interesting formations on the ground, where there is well-defined small square grid with only a subset of its grid points lit (see figure). To pass time, Sam starts counting the number of different axis-parallel squares formed by the grid points. You are to write a program to help Sam with this task.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/5229.%E2%80%85Most%E2%80%85Frequent%E2%80%85Square/30177b70.png" data-original-src="https://upload.acmicpc.net/71d38a16-0400-437a-a010-48cdda2bda01/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 493px; height: 226px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/5229.%E2%80%85Most%E2%80%85Frequent%E2%80%85Square/30177b70.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/5229.%E2%80%85Most%E2%80%85Frequent%E2%80%85Square/30177b70.png" data-original-src="https://upload.acmicpc.net/71d38a16-0400-437a-a010-48cdda2bda01/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 493px; height: 226px;" /></p>
 
 <p>Specifically, given a set of grid coordinates, your goal is to find the most common size of an axis-parallel square formed by subsets of the given points. An axis-parallel square is such that the square is aligned with the grid axes (i.e., the sides of the square are either vertical or horizontal, but are not allowed to at an angle). For instance, in the figure above, there are 3 such squares with side length 2, and three squares with side length 4.</p>
 

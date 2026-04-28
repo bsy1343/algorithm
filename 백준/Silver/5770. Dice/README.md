@@ -24,7 +24,7 @@
 
 <p>There will be exactly three traps on the trail.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/5770.%E2%80%85Dice/6e3091dc.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/5770/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:162px; width:584px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/5770.%E2%80%85Dice/6e3091dc.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/5770.%E2%80%85Dice/6e3091dc.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/5770/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:162px; width:584px" /></p>
 
 <p>The winner of the game is the player whose piece reaches the end of the trail first. The end of the trail is after the last square of the board. Consider, for example, the board in the figure above, which has squares numbered from 1 to 48. At the start, the pieces are positioned at the place marked &lsquo;Begin&rsquo; in the figure, that is, before the square number 1. Therefore, if a player rolls a 7 (dice showing 2 and 5 for example), her/his piece is positioned at square number 7 at the end of the first round of the game. Furthermore, if a player&rsquo;s piece is positioned at square 41, the player needs a roll result of at least 8 to reach the end of the trail and win the game. Notice also that there will be no draw in the game.</p>
 

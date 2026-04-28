@@ -28,4 +28,4 @@
 
 ### 힌트
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/14431.%E2%80%85%EC%86%8C%EC%88%98%EB%A7%88%EC%9D%84/a4bf6e07.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14431/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:238px; width:320px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/14431.%E2%80%85%EC%86%8C%EC%88%98%EB%A7%88%EC%9D%84/a4bf6e07.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/14431.%E2%80%85%EC%86%8C%EC%88%98%EB%A7%88%EC%9D%84/a4bf6e07.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14431/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:238px; width:320px" /></p>

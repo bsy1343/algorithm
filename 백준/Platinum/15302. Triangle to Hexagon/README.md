@@ -18,7 +18,7 @@
 
 <p>Given a triangle ABC with incenter (center of its inscribed circle), I, and circumscribed circle O, let M, N and P be the second points of intersection of the lines through A and I, B and I resp. C and I with the circle O.</p>
 
-<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/15302.%E2%80%85Triangle%E2%80%85to%E2%80%85Hexagon/4b689ef8.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15302/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:281px; width:278px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/15302.%E2%80%85Triangle%E2%80%85to%E2%80%85Hexagon/4b689ef8.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/15302.%E2%80%85Triangle%E2%80%85to%E2%80%85Hexagon/4b689ef8.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15302/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:281px; width:278px" /></p>
 
 <p>Let E and F be the intersections of the line NP with AB and AC respectively. Similarly, let G and H be the intersections of the line MN with AC and BC respectively and let J and K be the intersections of the line MP with BC and AB respectively.</p>
 

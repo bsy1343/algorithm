@@ -23,7 +23,7 @@
 	<li>A ghost catches Pac-Man. In this case, the player loses.</li>
 </ol>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/20246.%E2%80%85Pac-Man/1a105df9.png" data-original-src="https://upload.acmicpc.net/66a2a5f4-3947-4b16-a9b1-da78165b71bf/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/20246.%E2%80%85Pac-Man/1a105df9.png" data-original-src="%EB%B0%B1%EC%A4%80/Bronze/20246.%E2%80%85Pac-Man/1a105df9.png" data-original-src="https://upload.acmicpc.net/66a2a5f4-3947-4b16-a9b1-da78165b71bf/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p style="text-align: center;">Figure 1: Pac-Man gameplay (image from <a href="https://en.wikipedia.org/wiki/File:Pac-man.png">Wikipedia</a>)</p>
 

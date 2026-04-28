@@ -20,7 +20,7 @@
 
 <p>Na slici je prikazana jedna moguća podjela grada na 4 zone: za zonu 2 odabran je smjer &scaron;irenja na sjever, za zonu 3 na zapad, a za zonu 4 ponovno na sjever.&nbsp;</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/14127.%E2%80%85Zone/53eee7fc.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/14127/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202017-01-02%20%EC%98%A4%ED%9B%84%206.17.27.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:129px; width:144px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/14127.%E2%80%85Zone/53eee7fc.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/14127.%E2%80%85Zone/53eee7fc.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/14127/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202017-01-02%20%EC%98%A4%ED%9B%84%206.17.27.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:129px; width:144px" /></p>
 
 <p>Cijena karte u svakoj zoni odgovara broju susjednih zona koje ju okružuju. Cijene karata u gornjem primjeru su tako 2 kn u zoni 1, 3 kn u zoni 2, 3 kn u zoni 3 te 2 kn u zoni 4.&nbsp;</p>
 

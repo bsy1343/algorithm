@@ -20,7 +20,7 @@
 
 <p>下図では 14 個の領域に分割されている．</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/24165.%E2%80%85%E7%9B%B4%E7%B7%9A%E2%80%85(Lines)/c59ee009.png" data-original-src="https://upload.acmicpc.net/e2659e16-2f3b-47d2-8dbf-ea009e84b395/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 298px; height: 219px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/24165.%E2%80%85%E7%9B%B4%E7%B7%9A%E2%80%85(Lines)/c59ee009.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/24165.%E2%80%85%E7%9B%B4%E7%B7%9A%E2%80%85(Lines)/c59ee009.png" data-original-src="https://upload.acmicpc.net/e2659e16-2f3b-47d2-8dbf-ea009e84b395/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 298px; height: 219px;" /></p>
 
 ### 입력
 
@@ -32,4 +32,4 @@
 
 ### 힌트
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/24165.%E2%80%85%E7%9B%B4%E7%B7%9A%E2%80%85(Lines)/40763e3a.png" data-original-src="https://upload.acmicpc.net/8ebf28e1-b879-4c89-9e6d-441e5f36041c/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 493px; height: 493px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/24165.%E2%80%85%E7%9B%B4%E7%B7%9A%E2%80%85(Lines)/40763e3a.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/24165.%E2%80%85%E7%9B%B4%E7%B7%9A%E2%80%85(Lines)/40763e3a.png" data-original-src="https://upload.acmicpc.net/8ebf28e1-b879-4c89-9e6d-441e5f36041c/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 493px; height: 493px;" /></p>

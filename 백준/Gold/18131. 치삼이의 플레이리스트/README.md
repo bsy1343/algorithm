@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/18131.%E2%80%85%EC%B9%98%EC%82%BC%EC%9D%B4%EC%9D%98%E2%80%85%ED%94%8C%EB%A0%88%EC%9D%B4%EB%A6%AC%EC%8A%A4%ED%8A%B8/9ce6cea7.png" data-original-src="https://upload.acmicpc.net/a0bf0659-f2de-4c02-baa2-ee6c5e78d947/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 480px; width: 600px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/18131.%E2%80%85%EC%B9%98%EC%82%BC%EC%9D%B4%EC%9D%98%E2%80%85%ED%94%8C%EB%A0%88%EC%9D%B4%EB%A6%AC%EC%8A%A4%ED%8A%B8/9ce6cea7.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/18131.%E2%80%85%EC%B9%98%EC%82%BC%EC%9D%B4%EC%9D%98%E2%80%85%ED%94%8C%EB%A0%88%EC%9D%B4%EB%A6%AC%EC%8A%A4%ED%8A%B8/9ce6cea7.png" data-original-src="https://upload.acmicpc.net/a0bf0659-f2de-4c02-baa2-ee6c5e78d947/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 480px; width: 600px;" /></p>
 
 <p>노래 듣기에 진심인 편인 치삼이는 하나의&nbsp;플레이리스트로 소중한 노래들을 관리하려고 한다.&nbsp;치삼이가 직접 구현한 플레이리스트에는 노래마다&nbsp;<strong>&quot;치삼 지수&quot;</strong>라는 특별한 값이 존재한다. 이 값은 아래와 같이 정의된다.</p>
 

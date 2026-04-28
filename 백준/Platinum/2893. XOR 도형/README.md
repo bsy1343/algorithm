@@ -20,7 +20,7 @@
 
 <p>동혁이가 삼각형을 그릴때마다, 삼각형 내부의 색을 모두 반전시킨다. 즉, 흰색은 검정색으로, 검정색은 흰색으로 칠한다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/2893.%E2%80%85XOR%E2%80%85%EB%8F%84%ED%98%95/8c3b7200.png" data-original-src="https://upload.acmicpc.net/95741186-0b7a-4786-a57e-5c5085711f6b/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 360px; height: 229px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/2893.%E2%80%85XOR%E2%80%85%EB%8F%84%ED%98%95/8c3b7200.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/2893.%E2%80%85XOR%E2%80%85%EB%8F%84%ED%98%95/8c3b7200.png" data-original-src="https://upload.acmicpc.net/95741186-0b7a-4786-a57e-5c5085711f6b/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 360px; height: 229px;" /></p>
 
 <p>이때, 검정색의 면적을 구하는 프로그램을 작성하시오. 가장 처음에 스케치북은 흰색으로 칠해져 있다.</p>
 

@@ -21,11 +21,11 @@
 <hr />
 <p>Задача на Хитър Петър: Малкият Петърчо иска да обиколи всички полета на дъската с последователни ходове на коня, без да повтаря поле, в което вече е бил. Той намерил няколко решения за дъска с размери 3 х 4:</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/31242.%E2%80%85%D0%A8%D0%90%D0%A5%D0%9C%D0%90%D0%A2%D0%9D%D0%90%E2%80%85%D0%94%D0%AA%D0%A1%D0%9AA/47c39550.png" data-original-src="https://upload.acmicpc.net/42bea782-9159-4a98-a8b6-e1016cad3753/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 512px; height: 92px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/31242.%E2%80%85%D0%A8%D0%90%D0%A5%D0%9C%D0%90%D0%A2%D0%9D%D0%90%E2%80%85%D0%94%D0%AA%D0%A1%D0%9AA/47c39550.png" data-original-src="%EB%B0%B1%EC%A4%80/Bronze/31242.%E2%80%85%D0%A8%D0%90%D0%A5%D0%9C%D0%90%D0%A2%D0%9D%D0%90%E2%80%85%D0%94%D0%AA%D0%A1%D0%9AA/47c39550.png" data-original-src="https://upload.acmicpc.net/42bea782-9159-4a98-a8b6-e1016cad3753/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 512px; height: 92px;" /></p>
 
 <p>Намерете решение за дъска с размери 4 х 5:</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/31242.%E2%80%85%D0%A8%D0%90%D0%A5%D0%9C%D0%90%D0%A2%D0%9D%D0%90%E2%80%85%D0%94%D0%AA%D0%A1%D0%9AA/7ef90bc3.png" data-original-src="https://upload.acmicpc.net/c1330bfb-c32c-4b2b-8898-cfb16f012025/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 163px; height: 132px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/31242.%E2%80%85%D0%A8%D0%90%D0%A5%D0%9C%D0%90%D0%A2%D0%9D%D0%90%E2%80%85%D0%94%D0%AA%D0%A1%D0%9AA/7ef90bc3.png" data-original-src="%EB%B0%B1%EC%A4%80/Bronze/31242.%E2%80%85%D0%A8%D0%90%D0%A5%D0%9C%D0%90%D0%A2%D0%9D%D0%90%E2%80%85%D0%94%D0%AA%D0%A1%D0%9AA/7ef90bc3.png" data-original-src="https://upload.acmicpc.net/c1330bfb-c32c-4b2b-8898-cfb16f012025/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 163px; height: 132px;" /></p>
 
 <p>Поставете в полетата числата 1, 2, ..., 20, така че от полето с числото 1 с ход на коня да се отива на полето с числото 2, от там в полето с числото 3 и т.н.</p>
 

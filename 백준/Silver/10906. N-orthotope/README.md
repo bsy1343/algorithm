@@ -37,7 +37,7 @@
 
 <p>어떤 N에 대해 두 개의 N-orthotope가 주어져 있다고 하자. 이때 두 영역에 동시에 속하는 점들이 있다면, 이 점들은 축에 M-orthotope가 된다. 이때 M이 무엇인지 구하는 프로그램을 작성하라. 예를 들어 2-orthotope의 경우 아래의 네 가지 경우가 있을 수 있다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/10906.%E2%80%85N-orthotope/b25d8de1.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/10906/ex.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/10906.%E2%80%85N-orthotope/b25d8de1.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/10906.%E2%80%85N-orthotope/b25d8de1.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/10906/ex.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <ul>
 	<li>A는 두 2-orthotope의 공통된 영역이 똑같이 2-orthotope가 되는 경우이다.&nbsp;</li>

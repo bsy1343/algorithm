@@ -20,7 +20,7 @@
 <br />
 Para minimizar o n&uacute;mero de viagens de elevador para transportar os cilindros, a FCC quer, sempre que poss&iacute;vel, colocar dois cilindros no elevador. A figura abaixo ilustra, esquematicamente (vista superior), um caso em que isto &eacute; poss&iacute;vel (a), e um caso em que isto n&atilde;o &eacute; poss&iacute;vel (b):</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/13662.%E2%80%85Elevador/9de22af1.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/13662/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202017-01-12%20%EC%98%A4%EC%A0%84%206.27.01.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:141px; width:328px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/13662.%E2%80%85Elevador/9de22af1.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/13662.%E2%80%85Elevador/9de22af1.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/13662/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202017-01-12%20%EC%98%A4%EC%A0%84%206.27.01.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:141px; width:328px" /></p>
 
 <p>Como existe uma quantidade muito grande de elevadores e de tipos de cilindros, a FCC quer que voc&ecirc; escreva um programa que, dadas as dimens&otilde;es do elevador e dos dois cilindros, determine se &eacute; poss&iacute;vel colocar os dois cilindros no elevador.</p>
 

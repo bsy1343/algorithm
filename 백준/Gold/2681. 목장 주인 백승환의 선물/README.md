@@ -29,7 +29,7 @@
 	아래 그림을 보면, 백원은 변AB, 변AA&#39;, 변BB&#39;로 나눠진 땅을 받게 되고, 백조는 변BC, 변BB&#39;, 변CC&#39;로 나눠진 땅을 받게 된다. 나머지 아들도 이와 같은 방법으로 땅을 받게 된다.</p>
 
 <p>
-	<img alt="" src="%EB%B0%B1%EC%A4%80/Gold/2681.%E2%80%85%EB%AA%A9%EC%9E%A5%E2%80%85%EC%A3%BC%EC%9D%B8%E2%80%85%EB%B0%B1%EC%8A%B9%ED%99%98%EC%9D%98%E2%80%85%EC%84%A0%EB%AC%BC/82c5998d.png" data-original-src="https://www.acmicpc.net/upload/images/shsh.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 461px; height: 310px; " /></p>
+	<img alt="" src="%EB%B0%B1%EC%A4%80/Gold/2681.%E2%80%85%EB%AA%A9%EC%9E%A5%E2%80%85%EC%A3%BC%EC%9D%B8%E2%80%85%EB%B0%B1%EC%8A%B9%ED%99%98%EC%9D%98%E2%80%85%EC%84%A0%EB%AC%BC/82c5998d.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/2681.%E2%80%85%EB%AA%A9%EC%9E%A5%E2%80%85%EC%A3%BC%EC%9D%B8%E2%80%85%EB%B0%B1%EC%8A%B9%ED%99%98%EC%9D%98%E2%80%85%EC%84%A0%EB%AC%BC/82c5998d.png" data-original-src="https://www.acmicpc.net/upload/images/shsh.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 461px; height: 310px; " /></p>
 
 <p>
 	자 이제 승환이는 자신의 자식들이 받게될 땅의 넓이와 백미의 채소밭 둘레를 구하려고 한다. 백미의 채소밭 둘레를 구하는 이유는 채소밭에 울타리를 만들어, 아들들의 소가 채소밭을 망가뜨리는 것을 막기 위해서이다.</p>

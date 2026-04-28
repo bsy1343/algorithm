@@ -40,4 +40,4 @@
 
 <p>In the figure below, notice that the five coffee shops/intersections marked with a dark circle have total bitrates of 12.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/6818.%E2%80%85Wireless/508763ed.png" data-original-src="https://upload.acmicpc.net/64fc67bc-afc3-4427-a405-f34f014f2f05/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 431px; height: 373px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/6818.%E2%80%85Wireless/508763ed.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/6818.%E2%80%85Wireless/508763ed.png" data-original-src="https://upload.acmicpc.net/64fc67bc-afc3-4427-a405-f34f014f2f05/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 431px; height: 373px;" /></p>

@@ -27,7 +27,7 @@
 
 <p>例えば、数列<var>A</var>が{5,-4,10,-3,8}の場合を考えてみる。 区切りの位置を表す数列<var>C</var>を用意し、<var>C={2,4}</var>とする。 このとき、数列<var>A</var>は(5,-4),(10,-3),(8)の部分に分かれ、これらの内部を足し合わせるとそれぞれ1,7,8となり、出来上がる数列<var>B</var>は{1,7,8}となる。</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/22467.%E2%80%85Longest%E2%80%85Increasing%E2%80%85Sequence/ffc45b24.png" data-original-src="https://upload.acmicpc.net/ca6f25d6-6009-46da-8ab8-550003f2b3fa/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 555px; height: 389px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/22467.%E2%80%85Longest%E2%80%85Increasing%E2%80%85Sequence/ffc45b24.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/22467.%E2%80%85Longest%E2%80%85Increasing%E2%80%85Sequence/ffc45b24.png" data-original-src="https://upload.acmicpc.net/ca6f25d6-6009-46da-8ab8-550003f2b3fa/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 555px; height: 389px;" /></p>
 
 <p>太郎君はこの問題について&quot;最長増加列問題&quot;と名付け、これを解くアルゴリズムも考えました。 そして社会人になったあなたにチェックをしてほしいと連絡をしました。 あなたの仕事は、成長した太郎君の作った問題を解くプログラムを作ることです。 チェックするのが仕事なので、<var>m-1</var>個の区切りの位置も出力します。 なお、最適な<var>m</var>に対してこのような区切り方が複数考えられる場合もありますが、この<var>m</var>が正しく出力されていれば、考えられるもののうち一つを出力すればよいです。</p>
 

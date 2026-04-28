@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/24820.%E2%80%85Spelling%E2%80%85Bee/f461557d.png" data-original-src="https://upload.acmicpc.net/553e5927-ccad-4e0c-bef4-30ce08ad6779/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 200px; height: 272px; float: right;" />The New York Times publishes a daily puzzle called the &quot;Spelling Bee.&quot; In this puzzle, $7$ letters are shown in a hexagonal arrangement of $6$ letters around a center letter. &nbsp;The task is to come up with as many words as possible that&nbsp;</p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/24820.%E2%80%85Spelling%E2%80%85Bee/f461557d.png" data-original-src="%EB%B0%B1%EC%A4%80/Bronze/24820.%E2%80%85Spelling%E2%80%85Bee/f461557d.png" data-original-src="https://upload.acmicpc.net/553e5927-ccad-4e0c-bef4-30ce08ad6779/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 200px; height: 272px; float: right;" />The New York Times publishes a daily puzzle called the &quot;Spelling Bee.&quot; In this puzzle, $7$ letters are shown in a hexagonal arrangement of $6$ letters around a center letter. &nbsp;The task is to come up with as many words as possible that&nbsp;</p>
 
 <ul>
 	<li>contain only letters that are displayed in the hexagon,</li>

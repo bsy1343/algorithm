@@ -30,6 +30,6 @@
 
 ### 힌트
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/5030.%E2%80%85Skyline/b50e17e2.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/5030/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:212px; width:240px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/5030.%E2%80%85Skyline/b50e17e2.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/5030.%E2%80%85Skyline/b50e17e2.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/5030/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:212px; width:240px" /></p>
 
 <p style="text-align: center;">Figure 1: Figure of the first sample case</p>

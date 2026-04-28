@@ -25,7 +25,7 @@
 
 <p>The following is a $5\!\times\!5$ example, with its unique solution:</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/24598.%E2%80%85Diagonals/e7579d72.png" data-original-src="https://upload.acmicpc.net/ca784d9f-b183-4d88-8e7c-463e9deb324c/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 500px; height: 245px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/24598.%E2%80%85Diagonals/e7579d72.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/24598.%E2%80%85Diagonals/e7579d72.png" data-original-src="https://upload.acmicpc.net/ca784d9f-b183-4d88-8e7c-463e9deb324c/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 500px; height: 245px;" /></p>
 
 <p>Given the numbers at the intersections of a grid, solve the puzzle.</p>
 

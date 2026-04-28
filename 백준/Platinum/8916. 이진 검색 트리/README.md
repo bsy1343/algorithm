@@ -27,7 +27,7 @@
 
 <p>아래 그림은 이진 검색 트리의 예이다.</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/8916.%E2%80%85%EC%9D%B4%EC%A7%84%E2%80%85%EA%B2%80%EC%83%89%E2%80%85%ED%8A%B8%EB%A6%AC/d8d5374e.png" data-original-src="https://www.acmicpc.net/upload/images/treeperm.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:224px; width:526px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/8916.%E2%80%85%EC%9D%B4%EC%A7%84%E2%80%85%EA%B2%80%EC%83%89%E2%80%85%ED%8A%B8%EB%A6%AC/d8d5374e.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/8916.%E2%80%85%EC%9D%B4%EC%A7%84%E2%80%85%EA%B2%80%EC%83%89%E2%80%85%ED%8A%B8%EB%A6%AC/d8d5374e.png" data-original-src="https://www.acmicpc.net/upload/images/treeperm.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:224px; width:526px" /></p>
 
 <p>이진 검색 트리 T에서 k가 키인 노드를 찾으려면, 먼저 루트에서 시작해야 한다. T가 비어있다면, T는 키를 가지고 있지 않기 때문에 검색은 실패한다. 비어있지 않은 경우에는 루트의 키와 k를 비교한다. 만약, k가 루트의 키와 같다면, 검색은 성공적으로 종료된다. k가 루트의 키보다 작은 경우에는 왼쪽 서브트리의 루트에서 검색을 시작한다. k가 루트의 키보드 큰 경우에는 오른쪽 서브 트리의 루트에서 검색을 시작한다. 같은 과정으로 T의 왼쪽 또는 오른쪽 서브 트리에서 검색을 수행한다.</p>
 

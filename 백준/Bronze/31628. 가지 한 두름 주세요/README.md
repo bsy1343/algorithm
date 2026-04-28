@@ -18,7 +18,7 @@
 
 <p>$10 \times 10$ 격자의 각 칸에 가지가 한 개씩 들어 있습니다. 키위새는 가로로 연속한 $10$개의 칸 혹은 세로로 연속한 $10$개의 칸에 들어 있는 모든 가지를 단 한 번 줄줄이 연결할 수 있습니다. 가지 한 두름은 같은 색의 가지를 정확히 $10$개 연결한 것입니다. 각 칸에 들어 있는 가지의 색이 주어질 때, 키위새가 가지 한 두름을 만들 수 있는지 판단해 봅시다.</p>
 
-<p style="display:flex;flex-direction:column;align-items:center;"><img alt="가지 한 두름의 예" src="%EB%B0%B1%EC%A4%80/Bronze/31628.%E2%80%85%EA%B0%80%EC%A7%80%E2%80%85%ED%95%9C%E2%80%85%EB%91%90%EB%A6%84%E2%80%85%EC%A3%BC%EC%84%B8%EC%9A%94/f1b26713.png" data-original-src="https://upload.acmicpc.net/cdfb0b0a-9951-4a0b-8e99-5c7d4581cbe0/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="max-height:24em;max-width:100%" /><span style="text-align:center;">첫 행의 모든 가지로 가지 한 두름을 만든 모습</span></p>
+<p style="display:flex;flex-direction:column;align-items:center;"><img alt="가지 한 두름의 예" src="%EB%B0%B1%EC%A4%80/Bronze/31628.%E2%80%85%EA%B0%80%EC%A7%80%E2%80%85%ED%95%9C%E2%80%85%EB%91%90%EB%A6%84%E2%80%85%EC%A3%BC%EC%84%B8%EC%9A%94/f1b26713.png" data-original-src="%EB%B0%B1%EC%A4%80/Bronze/31628.%E2%80%85%EA%B0%80%EC%A7%80%E2%80%85%ED%95%9C%E2%80%85%EB%91%90%EB%A6%84%E2%80%85%EC%A3%BC%EC%84%B8%EC%9A%94/f1b26713.png" data-original-src="https://upload.acmicpc.net/cdfb0b0a-9951-4a0b-8e99-5c7d4581cbe0/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="max-height:24em;max-width:100%" /><span style="text-align:center;">첫 행의 모든 가지로 가지 한 두름을 만든 모습</span></p>
 
 ### 입력
 

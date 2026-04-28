@@ -20,7 +20,7 @@
 
 <p>In the new game &quot;Duck, Duck, Geese&quot;, the walking player instead chooses a contiguous subset of at least two (but not all) sitting players to be &quot;geese&quot;! Furthermore, each sitting player is wearing a hat. Each hat is one of $\mathbf{C}$ possible colors, numbered $1$ through $\mathbf{C}$.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/25296.%E2%80%85Duck%2C%E2%80%85Duck%2C%E2%80%85Geese/3e4a4957.png" data-original-src="https://upload.acmicpc.net/9e87e8af-6b58-40aa-8017-072113e55246/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/25296.%E2%80%85Duck%2C%E2%80%85Duck%2C%E2%80%85Geese/3e4a4957.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/25296.%E2%80%85Duck%2C%E2%80%85Duck%2C%E2%80%85Geese/3e4a4957.png" data-original-src="https://upload.acmicpc.net/9e87e8af-6b58-40aa-8017-072113e55246/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>For each color $i$, the quantity of selected geese wearing a hat of color $i$ must be either $0$ or between $\mathbf{A_i}$ and $\mathbf{B_i}$, inclusive.</p>
 

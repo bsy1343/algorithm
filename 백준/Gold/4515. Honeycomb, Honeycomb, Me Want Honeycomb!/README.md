@@ -20,7 +20,7 @@
 
 <p>Upon inspecting the panels, the beekeeper discovers that many of the hexagonal cells have been damaged. Given as input a list of line segments representing undamaged cell walls, compute the number of undamaged (i.e. containing all six walls) hexagons in the panel. You can assume that the only damage to the honeycomb is that some cell walls are missing, but none of them are moved, broken in half, etc. Below is an example honeycomb with the undamaged hexagons shaded in gray:</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/4515.%E2%80%85Honeycomb%2C%E2%80%85Honeycomb%2C%E2%80%85Me%E2%80%85Want%E2%80%85Honeycomb!/1ff822ce.png" data-original-src="https://www.acmicpc.net/upload/images2/honey-screen.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:120px; width:300px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/4515.%E2%80%85Honeycomb%2C%E2%80%85Honeycomb%2C%E2%80%85Me%E2%80%85Want%E2%80%85Honeycomb!/1ff822ce.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/4515.%E2%80%85Honeycomb%2C%E2%80%85Honeycomb%2C%E2%80%85Me%E2%80%85Want%E2%80%85Honeycomb!/1ff822ce.png" data-original-src="https://www.acmicpc.net/upload/images2/honey-screen.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:120px; width:300px" /></p>
 
 ### 입력
 

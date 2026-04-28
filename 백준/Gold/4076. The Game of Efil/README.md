@@ -28,11 +28,11 @@
 
 <p>One of the major problems researchers have looked at over the years is the existence of so-called &ldquo;Garden of Eden&rdquo; configurations in the Game of Life &mdash; configurations that could not have arisen as the result of the application of the rules to some previous configuration. We&rsquo;re going to extend this question, which we&rsquo;ll call the &ldquo;Game of Efil&rdquo;: Given a starting configuration, how many possible parent configurations could it have? To make matters easier, we assume a finite grid in which edge and corner cells &ldquo;wrap around&rdquo; (i.e., a toroidal surface). For instance, the 2 by 3 configuration:</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/4076.%E2%80%85The%E2%80%85Game%E2%80%85of%E2%80%85Efil/56ecaeb2.png" data-original-src="https://www.acmicpc.net/upload/images2/ef1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:110px; width:158px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/4076.%E2%80%85The%E2%80%85Game%E2%80%85of%E2%80%85Efil/56ecaeb2.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/4076.%E2%80%85The%E2%80%85Game%E2%80%85of%E2%80%85Efil/56ecaeb2.png" data-original-src="https://www.acmicpc.net/upload/images2/ef1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:110px; width:158px" /></p>
 
 <p>has exactly three possible parent configurations; they are:</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/4076.%E2%80%85The%E2%80%85Game%E2%80%85of%E2%80%85Efil/086e2afb.png" data-original-src="https://www.acmicpc.net/upload/images2/ef2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:114px; width:547px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/4076.%E2%80%85The%E2%80%85Game%E2%80%85of%E2%80%85Efil/086e2afb.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/4076.%E2%80%85The%E2%80%85Game%E2%80%85of%E2%80%85Efil/086e2afb.png" data-original-src="https://www.acmicpc.net/upload/images2/ef2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:114px; width:547px" /></p>
 
 <p>You should note that when counting neighbors of a cell, another cell may be counted as a neighbor more than once, if it touches the given cell on more than one side due to the wrap around. This is the case for the configurations above.&nbsp;</p>
 

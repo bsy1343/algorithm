@@ -20,7 +20,7 @@
 
 <p>각 시계는 현재 시각을&nbsp;&quot;HH:MM:SS&quot;의 방식으로 시:분:초로 보여주는데 항상 0 &le; HH &lt; 24, 0 &le; MM &lt; 60, 0 &le; SS &lt; 60을 만족한다. 만약 HH, MM, SS 값이 10 미만인 경우 선행0을 표시하여 각 시계에는 언제나 6개의 숫자가 표시된다. 예를 들어, &quot;00:00:01&quot; 은 자정에서 1초가 지난 시각이고, &quot;12:00:00&quot;는 정오를 나타내며, &quot;18:05:05&quot;는 저녁 6시에서 5분 5초가 지난 시각을 나타낸다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/21981.%E2%80%85%EA%B3%A0%EC%9E%A5%EB%82%9C%E2%80%85%EC%8B%9C%EA%B3%84/432ad3cf.png" data-original-src="https://upload.acmicpc.net/9249188d-4e1f-4be0-8c27-6154923f25ab/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 350px; height: 35px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/21981.%E2%80%85%EA%B3%A0%EC%9E%A5%EB%82%9C%E2%80%85%EC%8B%9C%EA%B3%84/432ad3cf.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/21981.%E2%80%85%EA%B3%A0%EC%9E%A5%EB%82%9C%E2%80%85%EC%8B%9C%EA%B3%84/432ad3cf.png" data-original-src="https://upload.acmicpc.net/9249188d-4e1f-4be0-8c27-6154923f25ab/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 350px; height: 35px;" /></p>
 
 <p>각 시계는 현재 가리키는 시각도 제각각이고, 고장난 것도 있어서 매초 1초가 아닌 다른 시간만큼 진행되기도 한다. 구체적으로, i번째 시계가 현재 가리키고 있는 시각을 T[i]라 하고 매초 이 시계는&nbsp;D[i]초 이후의 시각을 보여&nbsp;준다 하자 (즉, 1초마다&nbsp;D[i]초씩 증가한다).</p>
 

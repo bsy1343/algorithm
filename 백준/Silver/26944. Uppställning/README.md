@@ -55,7 +55,7 @@
 	</tbody>
 </table>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/26944.%E2%80%85Uppst%C3%A4llning/6cfe680c.png" data-original-src="https://upload.acmicpc.net/1f9dda4e-60b2-4c40-a5cf-4ac20dc1b3e3/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 144px; height: 117px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/26944.%E2%80%85Uppst%C3%A4llning/6cfe680c.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/26944.%E2%80%85Uppst%C3%A4llning/6cfe680c.png" data-original-src="https://upload.acmicpc.net/1f9dda4e-60b2-4c40-a5cf-4ac20dc1b3e3/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 144px; height: 117px;" /></p>
 
 <p>Tyv&auml;rr klarade du inte n&ouml;ten utan m&aring;ste i hemlighet smyga iv&auml;g och skriva ett datorprogram som l&ouml;ser uppgiften. F&ouml;r att underl&auml;tta f&ouml;r dig sj&auml;lv n&auml;sta g&aring;ng barnen ans&auml;tter dig s&aring; vill du kunna variera b&aring;de antalet barn (mellan 3 och 8, inklusive) och informationen p&aring; lapparna. Du kan f&ouml;ruts&auml;tta att alla barn &auml;r olika l&aring;nga och att de inte har gjort n&aring;got misstag n&auml;r de skrev lapparna. Intressant nog finns det aldrig mer &auml;n en l&ouml;sning.</p>
 

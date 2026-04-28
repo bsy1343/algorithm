@@ -18,7 +18,7 @@
 
 <p>For a long time Tim wanted to visit Greece. He has already purchased his flight to and from Athens. Tim has a list of historical sites he wants to visit, e.g., Olympia and Delphi. However, due to recent political events in Greece, the public transport has gotten a little complicated. To make the Greek happy and content with their new government, many short-range bus and train lines have been created. They shall take the citizens around in their neighborhoods, to work or to their doctor. At the same time, long-range trains that are perfect for tourists have been closed down as they are too expensive. This is bad for people like Tim, who really likes to travel by train. Moreover, he has already purchased the Greece&rsquo; Card for Public Conveyance (GCPC) making all trains and buses free for him.</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/10849.%E2%80%85A%E2%80%85Journey%E2%80%85to%E2%80%85Greece/0593079c.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/10849/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:266px; width:290px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/10849.%E2%80%85A%E2%80%85Journey%E2%80%85to%E2%80%85Greece/0593079c.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/10849.%E2%80%85A%E2%80%85Journey%E2%80%85to%E2%80%85Greece/0593079c.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/10849/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:266px; width:290px" /></p>
 
 <p>Figure A.1: Visual representation of the Sample Input: Tim&rsquo;s tour has length 18.</p>
 

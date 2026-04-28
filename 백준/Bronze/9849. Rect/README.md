@@ -24,7 +24,7 @@
 
 <p>For example, the intersection of 4 rectangles, R<sub>1</sub>, R<sub>2</sub>, R<sub>3</sub>, and R<sub>4</sub>, in the following figure is the shaded rectangle.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/9849.%E2%80%85Rect/2a79d109.png" data-original-src="https://upload.acmicpc.net/264f8ab3-4e5c-4231-807d-2cf10b88a497/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 268px; height: 211px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/9849.%E2%80%85Rect/2a79d109.png" data-original-src="%EB%B0%B1%EC%A4%80/Bronze/9849.%E2%80%85Rect/2a79d109.png" data-original-src="https://upload.acmicpc.net/264f8ab3-4e5c-4231-807d-2cf10b88a497/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 268px; height: 211px;" /></p>
 
 ### 입력
 

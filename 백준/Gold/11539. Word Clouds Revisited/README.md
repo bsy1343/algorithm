@@ -22,7 +22,7 @@
 
 <p>Because his goal is to minimize the height, Tagg&rsquo;s original algorithm would place each entry in the same row as the previous entry, unless it did not physically fit because of the given limit on the width of the cloud. As an example, Figure I.1 shows the layout Tagg&rsquo;s original algorithm produces for a particular cloud with a maximum width of 260 units.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/11539.%E2%80%85Word%E2%80%85Clouds%E2%80%85Revisited/0acf0cf1.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11539/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:150px; width:321px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/11539.%E2%80%85Word%E2%80%85Clouds%E2%80%85Revisited/0acf0cf1.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/11539.%E2%80%85Word%E2%80%85Clouds%E2%80%85Revisited/0acf0cf1.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11539/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:150px; width:321px" /></p>
 
 <p style="text-align: center;">Figure I.1: Tagg&rsquo;s original placement of entries for his word cloud</p>
 
@@ -30,7 +30,7 @@
 
 <p>However, Tagg later realized that an even better cloud was possible for this same data set, as shown in Figure I.2. By placing the first and second entries in the first row, the third and fourth entries in the second row, and the fifth and sixth entries in a third row, the overall height of the cloud is only 23+48+28 = 99 units (while still respecting the overall limit of 260 on the width of the cloud).</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/11539.%E2%80%85Word%E2%80%85Clouds%E2%80%85Revisited/bbafbbe5.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11539/2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:130px; width:323px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/11539.%E2%80%85Word%E2%80%85Clouds%E2%80%85Revisited/bbafbbe5.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/11539.%E2%80%85Word%E2%80%85Clouds%E2%80%85Revisited/bbafbbe5.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11539/2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:130px; width:323px" /></p>
 
 <p style="text-align: center;">Figure I.2: An optimal placement of the entries from Figure I.1</p>
 

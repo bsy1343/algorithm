@@ -24,7 +24,7 @@
 
 <p>&nbsp;시간이 지나 현재 아래쪽 면은 적당히 구워졌기 때문에 고기를 뒤집을 시간이 되었다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/10219.%E2%80%85Meats%E2%80%85On%E2%80%85The%E2%80%85Grill/aa283e48.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/upload/codershigh/%EA%B4%B4%EA%B8%B0.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:147px; width:605px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/10219.%E2%80%85Meats%E2%80%85On%E2%80%85The%E2%80%85Grill/aa283e48.png" data-original-src="%EB%B0%B1%EC%A4%80/Bronze/10219.%E2%80%85Meats%E2%80%85On%E2%80%85The%E2%80%85Grill/aa283e48.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/upload/codershigh/%EA%B4%B4%EA%B8%B0.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:147px; width:605px" /></p>
 
 <p>같은 덩이에 속하는 고기는 뒤집을 경우 모두 같이 뒤집히게 된다. 첫 번째 그림이 원래 고기가 불판 위에 있었던 상태라고 하자. 두 번째 그림은 고기를 좌우 대칭으로 뒤집은 그림이라고 할 수 있다. 세 번째 그림은 고기를 뒤집었지만, 고기가 불판의 격자 칸 위에 제대로 위치하고 있지 않다. 명우는 이런 경우를 끔찍히 싫어하기 때문에 저렇게 뒤집지 않을 것이다. 네 번째 그림은 뒤집은 후 오른쪽으로 90˚돌려진 형태인데, 이런 형태도 가능하며, 180˚, 270˚로 돌리는 것도 가능하다.</p>
 

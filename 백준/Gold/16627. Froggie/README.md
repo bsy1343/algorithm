@@ -32,23 +32,23 @@
 
 <p>At time 3, Froggie hops upward a third time, reaching the top lane. See Figure D.4. Finally, at time 4, with a final upward hop, Froggie exits the road to safety. See Figure D.5.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/16627.%E2%80%85Froggie/60bf7b17.png" data-original-src="https://upload.acmicpc.net/3658f4c9-7e07-4061-9dca-eed4afb14f64/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 449px; height: 92px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/16627.%E2%80%85Froggie/60bf7b17.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/16627.%E2%80%85Froggie/60bf7b17.png" data-original-src="https://upload.acmicpc.net/3658f4c9-7e07-4061-9dca-eed4afb14f64/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 449px; height: 92px;" /></p>
 
 <p style="text-align: center;">Figure D.1: Time 0. Cars and Froggie in their initial positions.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/16627.%E2%80%85Froggie/fa452933.png" data-original-src="https://upload.acmicpc.net/4f466ce5-94c0-46b7-8c7f-a7042b81cb81/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 448px; height: 81px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/16627.%E2%80%85Froggie/fa452933.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/16627.%E2%80%85Froggie/fa452933.png" data-original-src="https://upload.acmicpc.net/4f466ce5-94c0-46b7-8c7f-a7042b81cb81/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 448px; height: 81px;" /></p>
 
 <p style="text-align: center;">Figure D.2: Time 1. Froggie hopped up, the cars all moved. Some cars left, and some new cars appeared.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/16627.%E2%80%85Froggie/b2b3795e.png" data-original-src="https://upload.acmicpc.net/9abeac18-3e9d-4f64-9f4a-6391c0cdf7b9/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 447px; height: 76px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/16627.%E2%80%85Froggie/b2b3795e.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/16627.%E2%80%85Froggie/b2b3795e.png" data-original-src="https://upload.acmicpc.net/9abeac18-3e9d-4f64-9f4a-6391c0cdf7b9/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 447px; height: 76px;" /></p>
 
 <p style="text-align: center;">Figure D.3: Time 2. Froggie hopped up to the middle lane.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/16627.%E2%80%85Froggie/01b08c5a.png" data-original-src="https://upload.acmicpc.net/bbfcd810-3360-4316-bde2-1a80127a11b3/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 447px; height: 73px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/16627.%E2%80%85Froggie/01b08c5a.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/16627.%E2%80%85Froggie/01b08c5a.png" data-original-src="https://upload.acmicpc.net/bbfcd810-3360-4316-bde2-1a80127a11b3/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 447px; height: 73px;" /></p>
 
 <p style="text-align: center;">Figure D.4: Time 3. Froggie hopped up to the top lane.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/16627.%E2%80%85Froggie/a0a243a8.png" data-original-src="https://upload.acmicpc.net/d0f612df-a330-44a1-9b19-a64aca0e10ed/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 439px; height: 94px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/16627.%E2%80%85Froggie/a0a243a8.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/16627.%E2%80%85Froggie/a0a243a8.png" data-original-src="https://upload.acmicpc.net/d0f612df-a330-44a1-9b19-a64aca0e10ed/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 439px; height: 94px;" /></p>
 
 <p style="text-align: center;">Figure D.5: Time 4. Froggie hops to safety!</p>
 
@@ -56,7 +56,7 @@
 
 <p>If Froggie enters the path of a moving car she is squished. Consider Figure D.6, which is a bit different than earlier figures in that it shows one car over two successive times. Let&rsquo;s say that at time t the car is in the leftmost cell and Froggie is not in this lane. At time t + 1, the car moves with a speed of 3 to the rightmost cell, and Froggie attempts to hop into the lane shown. Since the width of the lane is four, the only safe place to hop is the leftmost cell (where the car had just been). The other three cells would cause her to be squished by the car shown, ending the simulation.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/16627.%E2%80%85Froggie/f70f6032.png" data-original-src="https://upload.acmicpc.net/c5dab369-6533-4189-ba79-70ee9b589054/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 259px; height: 32px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/16627.%E2%80%85Froggie/f70f6032.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/16627.%E2%80%85Froggie/f70f6032.png" data-original-src="https://upload.acmicpc.net/c5dab369-6533-4189-ba79-70ee9b589054/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 259px; height: 32px;" /></p>
 
 <p style="text-align: center;">Figure D.6: A single car across two consecutive time steps, starting at the left and moving right.</p>
 

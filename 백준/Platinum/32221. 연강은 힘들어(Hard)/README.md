@@ -22,7 +22,7 @@
 
 <p>하루 일과는 $1,2,\ldots ,n$교시로 구성되고, $n$개의 서로 다른 수업이 각각 하나의 서로 다른 교시를 차지한다. 이번 수강신청에서는 수강할 수업을 잘 골라서 가장 많이 연속된 수업들이 <strong>정확히 $k$교시</strong>를 이루도록 시간표를 짜고 싶다. 이때, $k$교시의 연속된 수업들이 여러 번 등장하더라도 상관없다.</p>
 
-<div style="display: flex; flex-direction: column; align-items: center; justify-content: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/32221.%E2%80%85%EC%97%B0%EA%B0%95%EC%9D%80%E2%80%85%ED%9E%98%EB%93%A4%EC%96%B4(Hard)/8ea51bf8.png" data-original-src="https://upload.acmicpc.net/640bccf3-6df7-4b85-9953-d665e19c2f1e/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 100%; max-width: 530px;" />
+<div style="display: flex; flex-direction: column; align-items: center; justify-content: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/32221.%E2%80%85%EC%97%B0%EA%B0%95%EC%9D%80%E2%80%85%ED%9E%98%EB%93%A4%EC%96%B4(Hard)/8ea51bf8.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/32221.%E2%80%85%EC%97%B0%EA%B0%95%EC%9D%80%E2%80%85%ED%9E%98%EB%93%A4%EC%96%B4(Hard)/8ea51bf8.png" data-original-src="https://upload.acmicpc.net/640bccf3-6df7-4b85-9953-d665e19c2f1e/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 100%; max-width: 530px;" />
 <p style="text-align: center;"><small>예제 1에서 가능한 경우들 중 일부.</small></p>
 
 <p style="text-align: center;"><small>두 경우 모두 가장 많이 연속된 수업들이 정확히 $2$교시를 이룬다.</small></p>

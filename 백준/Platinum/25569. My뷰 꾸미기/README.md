@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><img alt="카카오_뷰_로고" src="%EB%B0%B1%EC%A4%80/Platinum/25569.%E2%80%85My%EB%B7%B0%E2%80%85%EA%BE%B8%EB%AF%B8%EA%B8%B0/f27eaa31.png" data-original-src="https://upload.acmicpc.net/c74bf373-b655-4fd7-9c8d-e2e0171de94b/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="max-height:270px; object-fit:contain; display:inline-block;" /></p>
+<p style="text-align: center;"><img alt="카카오_뷰_로고" src="%EB%B0%B1%EC%A4%80/Platinum/25569.%E2%80%85My%EB%B7%B0%E2%80%85%EA%BE%B8%EB%AF%B8%EA%B8%B0/f27eaa31.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/25569.%E2%80%85My%EB%B7%B0%E2%80%85%EA%BE%B8%EB%AF%B8%EA%B8%B0/f27eaa31.png" data-original-src="https://upload.acmicpc.net/c74bf373-b655-4fd7-9c8d-e2e0171de94b/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="max-height:270px; object-fit:contain; display:inline-block;" /></p>
 
 <p>카카오 뷰는 사용자가 관심을 가질 만한 주제를 분석하고, 이를 바탕으로 큐레이팅을 진행하는 카카오톡의 서비스이다. &#39;발견&#39;을 통해 흥미로운 주제의 콘텐츠를 탐색하고, 마음에 드는 콘텐츠는 My뷰에 등록해서 지속적으로 구독할 수 있다.</p>
 

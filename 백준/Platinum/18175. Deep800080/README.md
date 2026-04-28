@@ -42,6 +42,6 @@
 
 ### 힌트
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/18175.%E2%80%85Deep800080/cf270213.png" data-original-src="https://upload.acmicpc.net/d94b8506-8d1a-4d9d-b5b2-309583166259/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 626px; height: 372px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/18175.%E2%80%85Deep800080/cf270213.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/18175.%E2%80%85Deep800080/cf270213.png" data-original-src="https://upload.acmicpc.net/d94b8506-8d1a-4d9d-b5b2-309583166259/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 626px; height: 372px;" /></p>
 
 <p style="text-align: center;">Figure 1: Possible solution of Sample Input 1 (left), Sample Input 2 (top right) and Sample Input 3 (bottom right)</p>

@@ -48,4 +48,4 @@
 
 <p>1번 예제에서 배를 옮기는 방법은 다음과 같다. 치훈이가 운전하고 있는 배는 흰색으로 표시하였다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/28079.%E2%80%85%EB%B0%B0%E2%80%85%EC%98%AE%EA%B8%B0%EA%B8%B0/f9bbf2f4.png" data-original-src="https://upload.acmicpc.net/c825e5ad-3099-459f-ab07-40f778ff8239/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 1193px; width: 640px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/28079.%E2%80%85%EB%B0%B0%E2%80%85%EC%98%AE%EA%B8%B0%EA%B8%B0/f9bbf2f4.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/28079.%E2%80%85%EB%B0%B0%E2%80%85%EC%98%AE%EA%B8%B0%EA%B8%B0/f9bbf2f4.png" data-original-src="https://upload.acmicpc.net/c825e5ad-3099-459f-ab07-40f778ff8239/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 1193px; width: 640px;" /></p>

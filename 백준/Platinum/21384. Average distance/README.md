@@ -18,7 +18,7 @@
 
 <p>Given a tree, calculate the average distance between two vertices in the tree. For example, the average distance between two vertices in the following tree is (d<sub>01</sub> + d<sub>02</sub> + d<sub>03</sub> + d<sub>04</sub> + d<sub>12</sub> + d<sub>13</sub> + d<sub>14</sub> + d<sub>23</sub> + d<sub>24</sub> + d<sub>34</sub>)/10 = (6 + 3 + 7 + 9 + 9 + 13 + 15 + 10 + 12 + 2)/10 = 8.6.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/21384.%E2%80%85Average%E2%80%85distance/943f2560.png" data-original-src="https://upload.acmicpc.net/c59f6a88-ea0c-4caf-8b28-708c25fa40fd/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 202px; height: 98px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/21384.%E2%80%85Average%E2%80%85distance/943f2560.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/21384.%E2%80%85Average%E2%80%85distance/943f2560.png" data-original-src="https://upload.acmicpc.net/c59f6a88-ea0c-4caf-8b28-708c25fa40fd/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 202px; height: 98px;" /></p>
 
 <p style="text-align: center;">Figure 1: The first sample case</p>
 

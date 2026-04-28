@@ -23,7 +23,7 @@
 	<li>The minimal number of relays that disconnect the network when removed.</li>
 </ol>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/3784.%E2%80%85Cable%E2%80%85TV%E2%80%85Network/535446c2.png" data-original-src="https://upload.acmicpc.net/666397bd-1754-42c4-a352-d9db3ae2ab0b/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 360px; height: 110px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/3784.%E2%80%85Cable%E2%80%85TV%E2%80%85Network/535446c2.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/3784.%E2%80%85Cable%E2%80%85TV%E2%80%85Network/535446c2.png" data-original-src="https://upload.acmicpc.net/666397bd-1754-42c4-a352-d9db3ae2ab0b/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 360px; height: 110px;" /></p>
 
 <p style="text-align: center;">Figure 1. Cable TV networks</p>
 

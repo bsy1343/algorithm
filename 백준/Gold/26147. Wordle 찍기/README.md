@@ -30,7 +30,7 @@
 
 <p>예를 들면, 아래는 정답 단어가 READY일 때, 플레이어의 추측과 이에 대한 결과를 보여준다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/26147.%E2%80%85Wordle%E2%80%85%EC%B0%8D%EA%B8%B0/bd0784cc.png" data-original-src="https://upload.acmicpc.net/96ce2978-451c-459f-88b5-87efa4541ac1/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 250px; height: 213px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/26147.%E2%80%85Wordle%E2%80%85%EC%B0%8D%EA%B8%B0/bd0784cc.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/26147.%E2%80%85Wordle%E2%80%85%EC%B0%8D%EA%B8%B0/bd0784cc.png" data-original-src="https://upload.acmicpc.net/96ce2978-451c-459f-88b5-87efa4541ac1/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 250px; height: 213px;" /></p>
 
 <p>하지만 영어 단어에는 중복된 글자가 있을 수 있기 때문에, 실제 Wordle에서는 아래와 같은 방식으로 글자를 칠한다.</p>
 
@@ -42,7 +42,7 @@
 
 <p>예를 들면, 아래는 정답 단어가 SPEED일 때, 플레이어의 추측과 이에 대한 결과를 보여준다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/26147.%E2%80%85Wordle%E2%80%85%EC%B0%8D%EA%B8%B0/eb3a8e51.png" data-original-src="https://upload.acmicpc.net/8abfb405-a5d5-41ef-970b-e03cfdf989f7/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 254px; width: 500px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/26147.%E2%80%85Wordle%E2%80%85%EC%B0%8D%EA%B8%B0/eb3a8e51.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/26147.%E2%80%85Wordle%E2%80%85%EC%B0%8D%EA%B8%B0/eb3a8e51.png" data-original-src="https://upload.acmicpc.net/8abfb405-a5d5-41ef-970b-e03cfdf989f7/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 254px; width: 500px;" /></p>
 
 <p>영민이는 Wordle을 플레이하다보니, 각 단어가 색칠된 정보만을 알고 있을 때 정답 단어를 알아차릴 수 있을지 궁금해졌다.</p>
 

@@ -20,7 +20,7 @@
 
 <p>The junctions on the board are labeled 1, ..., N, except for two special junctions labeled + and &minus; where the power supply terminals are connected. The + terminal only connects + leads, and the &minus; terminal only connects &minus; leads. All current that enters a junction from the &minus; leads of connected components exits through connected + leads, but you are able to control how much current flows to each connected + lead at every junction (though methods for doing so are beyond the scope of this problem). Moreover, you know you have assembled the circuit in such a way that there are no feedback loops (components chained in a manner that allows current to flow in a loop).</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/4490.%E2%80%85Crazy%E2%80%85Circuits/392bd7d2.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/4490/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:237px; width:594px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/4490.%E2%80%85Crazy%E2%80%85Circuits/392bd7d2.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/4490.%E2%80%85Crazy%E2%80%85Circuits/392bd7d2.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/4490/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:237px; width:594px" /></p>
 
 <p>Figure 1: Examples of two valid circuit diagrams. In (a), all components can be powered along directed paths from the positive terminal to the negative terminal. In (b), components 4 and 6 cannot be powered, since there is no directed path from junction 4 to the negative terminal.</p>
 

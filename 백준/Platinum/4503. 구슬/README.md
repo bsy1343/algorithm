@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/4503.%E2%80%85%EA%B5%AC%EC%8A%AC/a3fce066.png" data-original-src="https://www.acmicpc.net/upload/images/mbr.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="float:right; height:374px; width:200px" />구슬 26개(회색 13개, 노란색 13개)가 오른쪽 그림과 같이 두 원에 놓여있다. 각각의 원에 있는 구슬은 시계방향이나 반시계방향으로 자유롭게 돌릴 수 있다.</p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/4503.%E2%80%85%EA%B5%AC%EC%8A%AC/a3fce066.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/4503.%E2%80%85%EA%B5%AC%EC%8A%AC/a3fce066.png" data-original-src="https://www.acmicpc.net/upload/images/mbr.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="float:right; height:374px; width:200px" />구슬 26개(회색 13개, 노란색 13개)가 오른쪽 그림과 같이 두 원에 놓여있다. 각각의 원에 있는 구슬은 시계방향이나 반시계방향으로 자유롭게 돌릴 수 있다.</p>
 
 
 

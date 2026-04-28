@@ -18,7 +18,7 @@
 
 <p>Albert는 아래와 같은 3x3 격자판에서 하는 미니 빙고를 (mini BINGO) 즐겨한다. 이 문제를 풀기 위해 BINGO가 무슨 게임인지 알 필요는 없다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/27372.%E2%80%85%EB%AF%B8%EB%8B%88%E2%80%85%EB%B9%99%EA%B3%A0/30627490.png" data-original-src="https://upload.acmicpc.net/b999f7f2-3d41-42af-8ab3-a8a7563135a9/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/27372.%E2%80%85%EB%AF%B8%EB%8B%88%E2%80%85%EB%B9%99%EA%B3%A0/30627490.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/27372.%E2%80%85%EB%AF%B8%EB%8B%88%E2%80%85%EB%B9%99%EA%B3%A0/30627490.png" data-original-src="https://upload.acmicpc.net/b999f7f2-3d41-42af-8ab3-a8a7563135a9/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>Albert가 고안한 &quot;미니 빙고&quot; 놀이는 위와 같이 3x3 격자판에 서로 다른 영대문자 알파벳 9개를 적는 것으로 시작한다. 그리고 이 9개의 알파벳을 임의로 섞어서 길이 9인 문자열 $S$를 하나 고르는데 이를 seed (시드) 문자열이라 부른다.</p>
 
@@ -44,11 +44,11 @@
 	<li>이리하여 최종적으로 얻게 되는 점수 문자열은 $T(S)$ = &quot;<code>000002222</code>&quot;가 된다.</li>
 </ul>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/27372.%E2%80%85%EB%AF%B8%EB%8B%88%E2%80%85%EB%B9%99%EA%B3%A0/8e8ebdf8.png" data-original-src="https://upload.acmicpc.net/8854d6db-c321-47aa-9390-0b4b8086fe4e/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/27372.%E2%80%85%EB%AF%B8%EB%8B%88%E2%80%85%EB%B9%99%EA%B3%A0/8e8ebdf8.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/27372.%E2%80%85%EB%AF%B8%EB%8B%88%E2%80%85%EB%B9%99%EA%B3%A0/8e8ebdf8.png" data-original-src="https://upload.acmicpc.net/8854d6db-c321-47aa-9390-0b4b8086fe4e/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>같은 격자판에서 시드 문자열이 $S$ = &quot;<code>ABEGKCFIJ</code>&quot; 일 때, 아래와 같은 순서로 격자를 칠하고, 이때의 점수 문자열은 &quot;<code>000002222</code>&quot;가 된다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/27372.%E2%80%85%EB%AF%B8%EB%8B%88%E2%80%85%EB%B9%99%EA%B3%A0/229f5cf8.png" data-original-src="https://upload.acmicpc.net/5527201e-3a8f-43e6-981e-18641434699a/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/27372.%E2%80%85%EB%AF%B8%EB%8B%88%E2%80%85%EB%B9%99%EA%B3%A0/229f5cf8.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/27372.%E2%80%85%EB%AF%B8%EB%8B%88%E2%80%85%EB%B9%99%EA%B3%A0/229f5cf8.png" data-original-src="https://upload.acmicpc.net/5527201e-3a8f-43e6-981e-18641434699a/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>위 예제에서 보이듯 서로 다른 시드 문자열의 점수 문자열이 같을 수 있다.</p>
 

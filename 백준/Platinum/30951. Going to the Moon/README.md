@@ -40,4 +40,4 @@
 
 <p>The solution for the first test case is shown in the picture.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/30951.%E2%80%85Going%E2%80%85to%E2%80%85the%E2%80%85Moon/e8efc659.png" data-original-src="https://upload.acmicpc.net/1db14e9f-deb0-4558-95ef-e59622217d38/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/30951.%E2%80%85Going%E2%80%85to%E2%80%85the%E2%80%85Moon/e8efc659.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/30951.%E2%80%85Going%E2%80%85to%E2%80%85the%E2%80%85Moon/e8efc659.png" data-original-src="https://upload.acmicpc.net/1db14e9f-deb0-4558-95ef-e59622217d38/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>

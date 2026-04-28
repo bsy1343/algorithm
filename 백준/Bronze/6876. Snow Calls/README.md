@@ -22,7 +22,7 @@
 
 <p>Since it&#39;s getting tedious to do the conversion by hand, write a program to help change all the phone numbers in your phone book to the form xxx-xxx-xxxx, using the below image to assist you.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/6876.%E2%80%85Snow%E2%80%85Calls/a141b33e.png" data-original-src="https://upload.acmicpc.net/5e382daf-5863-41e7-bc7f-22ad8751a22b/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 191px; height: 207px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/6876.%E2%80%85Snow%E2%80%85Calls/a141b33e.png" data-original-src="%EB%B0%B1%EC%A4%80/Bronze/6876.%E2%80%85Snow%E2%80%85Calls/a141b33e.png" data-original-src="https://upload.acmicpc.net/5e382daf-5863-41e7-bc7f-22ad8751a22b/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 191px; height: 207px;" /></p>
 
 ### 입력
 

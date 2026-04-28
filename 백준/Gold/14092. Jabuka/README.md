@@ -22,7 +22,7 @@
 
 <p>Va&scaron; zadatak je napraviti simulator igre, odnosno za početno stanje i niz koraka ispisati konačno stanje. Sljedeća tablica ilustrira jedan jednostavni primjer ove igre. U tablici znak &lsquo;#&rsquo; označava blokirano polje, znak &lsquo;.&rsquo; označava prazno polje, dok znak &lsquo;J&rsquo; označava poziciju jabuke.</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/14092.%E2%80%85Jabuka/0ef5c311.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/14092/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202017-01-02%20%EC%98%A4%ED%9B%84%204.33.58.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:280px; width:500px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/14092.%E2%80%85Jabuka/0ef5c311.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/14092.%E2%80%85Jabuka/0ef5c311.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/14092/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202017-01-02%20%EC%98%A4%ED%9B%84%204.33.58.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:280px; width:500px" /></p>
 
 ### 입력
 

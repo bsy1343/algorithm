@@ -42,7 +42,7 @@
 
 <p>1) В первом тесте поле можно разрезать, как показано на рисунке:</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/28395.%E2%80%85%D0%A0%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%E2%80%85%D0%BF%D1%80%D1%8F%D0%BC%D0%BE%D1%83%D0%B3%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA%D0%B0/b62a909e.png" data-original-src="https://upload.acmicpc.net/422c5d3d-564d-4e86-9ea1-ed8cba101fe9/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 200px; height: 202px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/28395.%E2%80%85%D0%A0%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%E2%80%85%D0%BF%D1%80%D1%8F%D0%BC%D0%BE%D1%83%D0%B3%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA%D0%B0/b62a909e.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/28395.%E2%80%85%D0%A0%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%E2%80%85%D0%BF%D1%80%D1%8F%D0%BC%D0%BE%D1%83%D0%B3%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA%D0%B0/b62a909e.png" data-original-src="https://upload.acmicpc.net/422c5d3d-564d-4e86-9ea1-ed8cba101fe9/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 200px; height: 202px;" /></p>
 
 <p style="text-align: center;">Иллюстрация к первому тесту:</p>
 
@@ -52,7 +52,7 @@
 
 <p>3) В третьем тесте поле можно разрезать, как показано на рисунке:</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/28395.%E2%80%85%D0%A0%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%E2%80%85%D0%BF%D1%80%D1%8F%D0%BC%D0%BE%D1%83%D0%B3%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA%D0%B0/6b0ac28b.png" data-original-src="https://upload.acmicpc.net/467dcb26-860b-496c-b6b1-fe4b5abef7e9/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 355px; height: 250px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/28395.%E2%80%85%D0%A0%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%E2%80%85%D0%BF%D1%80%D1%8F%D0%BC%D0%BE%D1%83%D0%B3%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA%D0%B0/6b0ac28b.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/28395.%E2%80%85%D0%A0%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%E2%80%85%D0%BF%D1%80%D1%8F%D0%BC%D0%BE%D1%83%D0%B3%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA%D0%B0/6b0ac28b.png" data-original-src="https://upload.acmicpc.net/467dcb26-860b-496c-b6b1-fe4b5abef7e9/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 355px; height: 250px;" /></p>
 
 <p style="text-align: center;">Иллюстрация к третьему тесту:</p>
 

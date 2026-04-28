@@ -20,7 +20,7 @@
 
 <p>The situation is like this. The slides all have numbers written on them according to their order in the talk. Since the slides lie on each other and are transparent, one cannot see on which slide each number is written.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/6310.%E2%80%85Sorting%E2%80%85Slides/20cb703c.png" data-original-src="https://www.acmicpc.net/upload/images2/slides.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:203px; width:265px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/6310.%E2%80%85Sorting%E2%80%85Slides/20cb703c.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/6310.%E2%80%85Sorting%E2%80%85Slides/20cb703c.png" data-original-src="https://www.acmicpc.net/upload/images2/slides.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:203px; width:265px" /></p>
 
 <p>Well, one cannot see on which slide a number is written, but one may deduce which numbers are written on which slides. If we label the slides which characters A, B, C, ... as in the figure above, it is obvious that D has number 3, B has number 1, C number 2 and A number 4.</p>
 

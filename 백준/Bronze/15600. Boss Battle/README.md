@@ -25,7 +25,7 @@
 
 <p>The last time you tried to beat the boss you failed because you ran out of bombs. This time you want to gather enough bombs to make sure that whatever the boss does you will be able to beat it. What is the minimum number of bombs you need in order to defeat the boss in the worst case? See Figure B.1 for an example.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/15600.%E2%80%85Boss%E2%80%85Battle/af44b920.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15600/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 457px; height: 125px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/15600.%E2%80%85Boss%E2%80%85Battle/af44b920.png" data-original-src="%EB%B0%B1%EC%A4%80/Bronze/15600.%E2%80%85Boss%E2%80%85Battle/af44b920.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15600/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 457px; height: 125px;" /></p>
 
 <p style="text-align: center;">Figure B.1: Example for n = 4. In this case 2 bombs are enough. Grey pillars represent pillars where the boss cannot be hiding. The bomb is represented in black.</p>
 

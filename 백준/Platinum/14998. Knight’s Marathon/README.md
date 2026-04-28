@@ -20,7 +20,7 @@
 
 <p>The knight moves as on a chessboard: in each move, he travels two squares in one of the four compass directions, and one more square sideways. During his journey, he must remain inside the kingdom to avoid starting any new wars. The kingdom is a N<sub>X</sub> &times; N<sub>Y</sub> rectangular grid, which is possibly much (much!) larger than the 8 &times; 8 board on which the battle was fought. The rows and columns in this kingdom are numbered from 0. The knight starts at square K<sub>X</sub>, K<sub>Y</sub>, and must travel to the capital at square C<sub>X</sub>, C<sub>Y</sub>. Output the smallest number of moves in which the knight can reach the capital.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/14998.%E2%80%85Knight%E2%80%99s%E2%80%85Marathon/cc609d8b.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14998/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:153px; width:153px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/14998.%E2%80%85Knight%E2%80%99s%E2%80%85Marathon/cc609d8b.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/14998.%E2%80%85Knight%E2%80%99s%E2%80%85Marathon/cc609d8b.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14998/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:153px; width:153px" /></p>
 
 <p style="text-align: center;">Figure 4: The possible moves for a knight.</p>
 

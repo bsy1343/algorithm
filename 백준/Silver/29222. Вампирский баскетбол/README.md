@@ -42,7 +42,7 @@
 
 ### 힌트
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/29222.%E2%80%85%D0%92%D0%B0%D0%BC%D0%BF%D0%B8%D1%80%D1%81%D0%BA%D0%B8%D0%B9%E2%80%85%D0%B1%D0%B0%D1%81%D0%BA%D0%B5%D1%82%D0%B1%D0%BE%D0%BB/26f185d5.png" data-original-src="https://upload.acmicpc.net/2ee1bbeb-80ab-4b64-b1a1-b9ca5f639283/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 396px; height: 238px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/29222.%E2%80%85%D0%92%D0%B0%D0%BC%D0%BF%D0%B8%D1%80%D1%81%D0%BA%D0%B8%D0%B9%E2%80%85%D0%B1%D0%B0%D1%81%D0%BA%D0%B5%D1%82%D0%B1%D0%BE%D0%BB/26f185d5.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/29222.%E2%80%85%D0%92%D0%B0%D0%BC%D0%BF%D0%B8%D1%80%D1%81%D0%BA%D0%B8%D0%B9%E2%80%85%D0%B1%D0%B0%D1%81%D0%BA%D0%B5%D1%82%D0%B1%D0%BE%D0%BB/26f185d5.png" data-original-src="https://upload.acmicpc.net/2ee1bbeb-80ab-4b64-b1a1-b9ca5f639283/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 396px; height: 238px;" /></p>
 
 <p>На картинке изображен пример. $b_1 = \frac{2}{26*4} = \frac{1}{52}$, $b_2 = \frac{3}{40*3} = \frac{1}{40}$, $b_3 = \frac{2}{20*4} = \frac{1}{40}$.</p>
 

@@ -32,8 +32,8 @@
 <table class="table table-bordered" style="width:100%">
 	<tbody>
 		<tr>
-			<td style="text-align:center; width:50%"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/15321.%E2%80%85%EC%9D%B4%EC%83%81%ED%95%9C%E2%80%85%ED%86%A0%EB%84%88%EB%A8%BC%ED%8A%B8/ba884bfc.png" data-original-src="http://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15321/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:143px; width:208px" /></td>
-			<td style="text-align:center; width:50%"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/15321.%E2%80%85%EC%9D%B4%EC%83%81%ED%95%9C%E2%80%85%ED%86%A0%EB%84%88%EB%A8%BC%ED%8A%B8/cd4a10f8.png" data-original-src="http://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15321/2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:148px; width:214px" /></td>
+			<td style="text-align:center; width:50%"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/15321.%E2%80%85%EC%9D%B4%EC%83%81%ED%95%9C%E2%80%85%ED%86%A0%EB%84%88%EB%A8%BC%ED%8A%B8/ba884bfc.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/15321.%E2%80%85%EC%9D%B4%EC%83%81%ED%95%9C%E2%80%85%ED%86%A0%EB%84%88%EB%A8%BC%ED%8A%B8/ba884bfc.png" data-original-src="http://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15321/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:143px; width:208px" /></td>
+			<td style="text-align:center; width:50%"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/15321.%E2%80%85%EC%9D%B4%EC%83%81%ED%95%9C%E2%80%85%ED%86%A0%EB%84%88%EB%A8%BC%ED%8A%B8/cd4a10f8.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/15321.%E2%80%85%EC%9D%B4%EC%83%81%ED%95%9C%E2%80%85%ED%86%A0%EB%84%88%EB%A8%BC%ED%8A%B8/cd4a10f8.png" data-original-src="http://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15321/2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:148px; width:214px" /></td>
 		</tr>
 		<tr>
 			<td style="text-align:center; width:50%">그림1 &nbsp;최적의 경우 (총 지루함:1997)</td>

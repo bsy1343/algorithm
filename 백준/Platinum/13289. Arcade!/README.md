@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/13289.%E2%80%85Arcade!/ca51cb8a.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/13289/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-09-30%20%EC%98%A4%ED%9B%84%206.42.39.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:205px; width:314px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/13289.%E2%80%85Arcade!/ca51cb8a.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/13289.%E2%80%85Arcade!/ca51cb8a.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/13289/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-09-30%20%EC%98%A4%ED%9B%84%206.42.39.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:205px; width:314px" /></p>
 
 <p>Have you recently visited an arcade? Arcade games seem to have become more boring over the years, requiring less and less skill. In fact, most arcade games these days seem to depend entirely on luck. Consider the arcade game shown in the picture, which consists of different holes arranged in a triangular shape. A ball is dropped near the hole at the top. The ball either falls into the hole, in which case the game ends, or it bounces to one of its (up to) 4 neighbors, denoted by the red arrows. Different holes have different payouts &mdash; some may even be negative! If the ball reaches another hole, the process repeats: the ball either falls into the hole, ending the game &mdash; or it bounces to one of its neighbors, possibly ad infinitum!</p>
 

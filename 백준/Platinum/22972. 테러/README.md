@@ -24,7 +24,7 @@
 
 <p>즉, 모든 $1 \le i &lt; j \le N$에 대해,&nbsp;$i$번째 집과 $j$번째 집의 거리인 $P_j - P_i$를 측정했다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/22972.%E2%80%85%ED%85%8C%EB%9F%AC/3b23f4b9.png" data-original-src="https://upload.acmicpc.net/39ca9279-2207-4c70-9a5c-0254258eb767/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 384px; width: 600px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/22972.%E2%80%85%ED%85%8C%EB%9F%AC/3b23f4b9.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/22972.%E2%80%85%ED%85%8C%EB%9F%AC/3b23f4b9.png" data-original-src="https://upload.acmicpc.net/39ca9279-2207-4c70-9a5c-0254258eb767/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 384px; width: 600px;" /></p>
 
 <p>예를 들어, 4개의 집의 위치가 각각 $0, 1, 3, 4$에 있었다면,&nbsp;정휘는 집들 사이의 거리인 $1-0=1$, $3-0=3$, $3-1=2$, $4-0=4$, $4-1=3$, $4-3=1$을 각각 측정했다.</p>
 

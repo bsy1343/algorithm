@@ -20,11 +20,11 @@
 
 <p>The map of the wasteland is represented with a 5 x 5 grid as shown in the following figures, where &#39;1&#39; represents a place suitable for reclamation and &#39;0&#39; represents a sandy place. Your task is to find the largest rectangle consisting only of 1&#39;s in the map, and to report the size of the rectangle. The size of a rectangle is defined by the number of 1&#39;s in it. Note that there may be two or more largest rectangles of the same size.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/22820.%E2%80%85Get%E2%80%85a%E2%80%85Rectangular%E2%80%85Field/2a108ff5.png" data-original-src="https://upload.acmicpc.net/263f68e7-d4b3-4341-aad3-a69a684f77cd/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/22820.%E2%80%85Get%E2%80%85a%E2%80%85Rectangular%E2%80%85Field/2a108ff5.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/22820.%E2%80%85Get%E2%80%85a%E2%80%85Rectangular%E2%80%85Field/2a108ff5.png" data-original-src="https://upload.acmicpc.net/263f68e7-d4b3-4341-aad3-a69a684f77cd/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p style="text-align: center;">Figure 1. The size of the largest rectangles is 4. There are two largest rectangles (shaded).</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/22820.%E2%80%85Get%E2%80%85a%E2%80%85Rectangular%E2%80%85Field/819cb945.png" data-original-src="https://upload.acmicpc.net/870369bb-c4da-46ad-a604-7b51dbbaec13/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/22820.%E2%80%85Get%E2%80%85a%E2%80%85Rectangular%E2%80%85Field/819cb945.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/22820.%E2%80%85Get%E2%80%85a%E2%80%85Rectangular%E2%80%85Field/819cb945.png" data-original-src="https://upload.acmicpc.net/870369bb-c4da-46ad-a604-7b51dbbaec13/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p style="text-align: center;">Figure 2. The size of the largest rectangle is 3. There is one largest rectangle (shaded).</p>
 

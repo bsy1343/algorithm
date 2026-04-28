@@ -24,7 +24,7 @@
 
 <p>The fly is a sphere of radius&nbsp;<strong>f</strong>. Assume that the racquet is moving in a straight line perpendicular to the plane of the ring. Assume also that the fly&#39;s center is inside the outer radius of the racquet and is equally likely to be anywhere within that radius.Any overlap between the fly and the racquet (the ring or a string) counts as a hit.</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/12734.%E2%80%85Fly%E2%80%85Swatter%E2%80%85(Large)/e90dabec.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/12733/images.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:267px; opacity:0.9; width:308px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/12734.%E2%80%85Fly%E2%80%85Swatter%E2%80%85(Large)/e90dabec.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/12734.%E2%80%85Fly%E2%80%85Swatter%E2%80%85(Large)/e90dabec.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/12733/images.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:267px; opacity:0.9; width:308px" /></p>
 
 ### 입력
 

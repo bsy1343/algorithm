@@ -26,7 +26,7 @@
 
 <p>아래 &lt;그림 1&gt;에서 [A1,B1,A2]은 cycle을 이루고 있기 때문에 &#39;순환 참조&#39;를 이루고 있는 상태이고, A1,B1,A2는 &#39;유효하지 않은 셀&#39;이다. 그리고 A3은 처음에는 &#39;유효한 셀&#39;이었지만, 자신이 참조하고 있는 A2가 &#39;유효하지 않은 셀&#39;의 상태가 전파되어 A3도 &#39;전파된 셀&#39;로 변하였다. 또한 B3 역시 전파된 셀인 A3을 참조하였기 때문에 자신도 전파된 셀로 변하게 된다. &nbsp;&nbsp;</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/23297.%E2%80%85%EC%A0%84%ED%8C%8C%EC%99%80%E2%80%85%EB%B3%91%ED%95%A9%E2%80%851/f3cd2755.png" data-original-src="https://upload.acmicpc.net/347060a1-5b29-4d64-9567-7a578da7345c/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 273px; width: 1050px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/23297.%E2%80%85%EC%A0%84%ED%8C%8C%EC%99%80%E2%80%85%EB%B3%91%ED%95%A9%E2%80%851/f3cd2755.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/23297.%E2%80%85%EC%A0%84%ED%8C%8C%EC%99%80%E2%80%85%EB%B3%91%ED%95%A9%E2%80%851/f3cd2755.png" data-original-src="https://upload.acmicpc.net/347060a1-5b29-4d64-9567-7a578da7345c/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 273px; width: 1050px;" /></p>
 
 <p style="text-align: center;">&lt;그림 1&gt;</p>
 
@@ -43,7 +43,7 @@
 
 <p>아래 &lt;그림 2&gt;에서 [A1, B1, A2, B2]은 처음에는 &#39;순환 참조&#39;를 이루고 있고, A3은 A2를 참조하고 있기 때문에 전파된 셀이었다. 하지만 [A1, B1, A2, B2]가 &#39;셀 병합&#39;이 일어나 하나의 셀 [A1]이 된다. 또한 병합되기 이전에 [A1, B1, A2, B2] 중에서 유효하지 않은 셀을 참조하는 셀이 없었으므로 유효한 셀로 변하며, 이를 참조하고 있던 A3도 &#39;유효한 셀&#39;로 변한고 연쇄적으로 B3도&nbsp;&#39;유효한 셀&#39;로 변한다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/23297.%E2%80%85%EC%A0%84%ED%8C%8C%EC%99%80%E2%80%85%EB%B3%91%ED%95%A9%E2%80%851/25882e27.png" data-original-src="https://upload.acmicpc.net/3ffb9579-f402-46f7-ba9f-70bcc1ef8269/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 273px; width: 1050px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/23297.%E2%80%85%EC%A0%84%ED%8C%8C%EC%99%80%E2%80%85%EB%B3%91%ED%95%A9%E2%80%851/25882e27.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/23297.%E2%80%85%EC%A0%84%ED%8C%8C%EC%99%80%E2%80%85%EB%B3%91%ED%95%A9%E2%80%851/25882e27.png" data-original-src="https://upload.acmicpc.net/3ffb9579-f402-46f7-ba9f-70bcc1ef8269/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 273px; width: 1050px;" /></p>
 
 <p style="text-align: center;">&lt;그림 2&gt;</p>
 
@@ -71,13 +71,13 @@
 
 ### 힌트
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/23297.%E2%80%85%EC%A0%84%ED%8C%8C%EC%99%80%E2%80%85%EB%B3%91%ED%95%A9%E2%80%851/e657159c.png" data-original-src="https://upload.acmicpc.net/575fa3c6-27b1-4cce-9fc7-ef44d6b6c41f/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 279px; width: 1050px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/23297.%E2%80%85%EC%A0%84%ED%8C%8C%EC%99%80%E2%80%85%EB%B3%91%ED%95%A9%E2%80%851/e657159c.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/23297.%E2%80%85%EC%A0%84%ED%8C%8C%EC%99%80%E2%80%85%EB%B3%91%ED%95%A9%E2%80%851/e657159c.png" data-original-src="https://upload.acmicpc.net/575fa3c6-27b1-4cce-9fc7-ef44d6b6c41f/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 279px; width: 1050px;" /></p>
 
 <p style="text-align: center;">&lt;그림 8&gt;</p>
 
 <p>1. &lt;그림 8&gt;는 셀 병합의 잘못된 예시이다.&nbsp;셀 병합을 이루기 위해서는 <strong>완전한 직사각형&nbsp;</strong>형태이어야 한다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/23297.%E2%80%85%EC%A0%84%ED%8C%8C%EC%99%80%E2%80%85%EB%B3%91%ED%95%A9%E2%80%851/3d859003.png" data-original-src="https://upload.acmicpc.net/1d53ad81-fc5d-41dd-b46d-8294925620cc/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 313px; width: 600px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/23297.%E2%80%85%EC%A0%84%ED%8C%8C%EC%99%80%E2%80%85%EB%B3%91%ED%95%A9%E2%80%851/3d859003.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/23297.%E2%80%85%EC%A0%84%ED%8C%8C%EC%99%80%E2%80%85%EB%B3%91%ED%95%A9%E2%80%851/3d859003.png" data-original-src="https://upload.acmicpc.net/1d53ad81-fc5d-41dd-b46d-8294925620cc/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 313px; width: 600px;" /></p>
 
 <p style="text-align: center;">&lt;그림 9&gt;</p>
 

@@ -18,7 +18,7 @@
 
 <p>아래의 그림과 같이 배열된 장애물들 사이로, 구슬을 굴린다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/23317.%E2%80%85%EA%B5%AC%EC%8A%AC%E2%80%85%EA%B5%B4%EB%A6%AC%EA%B8%B0/233f1f66.png" data-original-src="https://upload.acmicpc.net/7daef56b-7e93-4851-b8c0-7535928a4cdb/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 375px; height: 300px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/23317.%E2%80%85%EA%B5%AC%EC%8A%AC%E2%80%85%EA%B5%B4%EB%A6%AC%EA%B8%B0/233f1f66.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/23317.%E2%80%85%EA%B5%AC%EC%8A%AC%E2%80%85%EA%B5%B4%EB%A6%AC%EA%B8%B0/233f1f66.png" data-original-src="https://upload.acmicpc.net/7daef56b-7e93-4851-b8c0-7535928a4cdb/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 375px; height: 300px;" /></p>
 
 <p>장애물들은 n개의 행에 걸쳐 배치되어 있으며, 구슬은 맨 위의 행부터 맨 아래의 행을 향해 구른다. 각 행의 장애물들을 지나면서, 구슬은 왼쪽 또는 오른쪽으로 굴러갈 수 있다. 각 행의 번호는 0부터 n-1까지로 주어지며, 그 행의 장애물 사이의 공간은 왼쪽부터 차례로 0으로 주어진다.</p>
 

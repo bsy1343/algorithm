@@ -20,7 +20,7 @@
 
 <p>Instead of performing only one half-twist, we can also do zero, two, three, four, or more half-twists, and then tape the two ends. The resulting shape for three, four, and five half-twists respectively looks like below:</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/14186.%E2%80%85M%C3%B6bius%E2%80%85Strip/79e93135.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/14186/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-12-29%20%EC%98%A4%ED%9B%84%201.17.09.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:65px; width:200px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/14186.%E2%80%85M%C3%B6bius%E2%80%85Strip/79e93135.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/14186.%E2%80%85M%C3%B6bius%E2%80%85Strip/79e93135.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/14186/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-12-29%20%EC%98%A4%ED%9B%84%201.17.09.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:65px; width:200px" /></p>
 
 <p>The &ldquo;type&rdquo; of each strip is a non-negative integer denoting the number of its halftwists. Now given a strip, consider a line along the length of the strip that lies one-third of the width away from one edge of the strip. Next, cut the strip along that line using scissors as shown in the figure to the right. The cutting is continued until it reaches its starting point.</p>
 

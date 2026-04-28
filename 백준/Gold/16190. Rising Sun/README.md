@@ -44,6 +44,6 @@
 
 ### 힌트
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/16190.%E2%80%85Rising%E2%80%85Sun/5d679d35.png" data-original-src="https://upload.acmicpc.net/0d8493f2-b781-4060-970a-fc6d6dc0b351/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/16190.%E2%80%85Rising%E2%80%85Sun/5d679d35.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/16190.%E2%80%85Rising%E2%80%85Sun/5d679d35.png" data-original-src="https://upload.acmicpc.net/0d8493f2-b781-4060-970a-fc6d6dc0b351/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p style="text-align: center;"><em><strong>Figure</strong>: Illustration of the first example</em></p>

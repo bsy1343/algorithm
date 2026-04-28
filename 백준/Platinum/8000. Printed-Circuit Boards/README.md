@@ -20,15 +20,15 @@
 
 <p>a single unit</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/8000.%E2%80%85Printed-Circuit%E2%80%85Boards/d37fc745.jpg" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/8000/1.jpg" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:22px; width:111px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/8000.%E2%80%85Printed-Circuit%E2%80%85Boards/d37fc745.jpg" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/8000.%E2%80%85Printed-Circuit%E2%80%85Boards/d37fc745.jpg" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/8000/1.jpg" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:22px; width:111px" /></p>
 
 <p>several smaller series-parallel circuits connected in series</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/8000.%E2%80%85Printed-Circuit%E2%80%85Boards/e8c72889.jpg" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/8000/2.jpg" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:24px; width:353px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/8000.%E2%80%85Printed-Circuit%E2%80%85Boards/e8c72889.jpg" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/8000.%E2%80%85Printed-Circuit%E2%80%85Boards/e8c72889.jpg" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/8000/2.jpg" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:24px; width:353px" /></p>
 
 <p>two branching units connecting in parallel several smaller series-parallel circuits.</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/8000.%E2%80%85Printed-Circuit%E2%80%85Boards/347d1739.jpg" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/8000/3.jpg" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:178px; width:253px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/8000.%E2%80%85Printed-Circuit%E2%80%85Boards/347d1739.jpg" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/8000.%E2%80%85Printed-Circuit%E2%80%85Boards/347d1739.jpg" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/8000/3.jpg" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:178px; width:253px" /></p>
 
 <p>The circuits are assembled on two-sided printed-circuit boards. The problem is to determine which connections should run on the top and which on the bottom side of the board. For technical reasons as many connections as possible should run on the bottom side but to each unit at least one must come from the top side of the board.</p>
 

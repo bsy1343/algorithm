@@ -18,7 +18,7 @@
 
 <p>ある 2 人の不動産屋が，客船に乗って南の島に向かっていた．青い空，さわやかな風&hellip;．2 人は他の乗客とともに船旅を楽しんでいた．ところが，ある日突然発生した竜巻によって客船が沈んでしまった．他の乗客は救助隊によって救助されたが，どういうわけかこの 2 人だけ見落とされてしまった．数日の漂流の後，彼らはある無人島に流れ着いた．この無人島は長方形であり，以下の図のように格子に区切られていた．</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/22682.%E2%80%85Surrounding%E2%80%85Area/42062486.png" data-original-src="https://upload.acmicpc.net/2fcf1ca3-35a6-4c51-a0f3-49364a88a7f4/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 180px; height: 150px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/22682.%E2%80%85Surrounding%E2%80%85Area/42062486.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/22682.%E2%80%85Surrounding%E2%80%85Area/42062486.png" data-original-src="https://upload.acmicpc.net/2fcf1ca3-35a6-4c51-a0f3-49364a88a7f4/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 180px; height: 150px;" /></p>
 
 <p style="text-align: center;">図 C-1: 無人島の形状</p>
 

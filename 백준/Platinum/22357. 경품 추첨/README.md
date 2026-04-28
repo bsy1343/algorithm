@@ -34,6 +34,6 @@
 
 ### 힌트
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/22357.%E2%80%85%EA%B2%BD%ED%92%88%E2%80%85%EC%B6%94%EC%B2%A8/8de336c9.png" data-original-src="https://upload.acmicpc.net/f53bbbbc-e9b0-49b5-a3b9-d6e483a9bef4/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 466px; height: 200px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/22357.%E2%80%85%EA%B2%BD%ED%92%88%E2%80%85%EC%B6%94%EC%B2%A8/8de336c9.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/22357.%E2%80%85%EA%B2%BD%ED%92%88%E2%80%85%EC%B6%94%EC%B2%A8/8de336c9.png" data-original-src="https://upload.acmicpc.net/f53bbbbc-e9b0-49b5-a3b9-d6e483a9bef4/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 466px; height: 200px;" /></p>
 
 <p>진행자가 세 개의 상자 중 어떤 두 상자를 고르더라도 $4^2=16$개의 서로 다른 당첨 번호가 만들어진다. 예를 들어 첫 번째 상자와 두 번째 상자를 골랐을 경우 만들어지는 당첨 번호는 위와 같다.</p>

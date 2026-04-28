@@ -37,16 +37,16 @@
 <table class="table table-bordered td-center">
 	<tbody>
 		<tr>
-			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/20834.%E2%80%85Studschiffret/ce72ac2b.png" data-original-src="https://upload.acmicpc.net/27c1cb5c-61ed-4ff9-aa37-f810a92fcbe8/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 369px; height: 170px;" /></td>
-			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/20834.%E2%80%85Studschiffret/83d78df3.png" data-original-src="https://upload.acmicpc.net/3da99237-36c5-41d9-b7f7-2fef744f47b6/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 369px; height: 170px;" /></td>
+			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/20834.%E2%80%85Studschiffret/ce72ac2b.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/20834.%E2%80%85Studschiffret/ce72ac2b.png" data-original-src="https://upload.acmicpc.net/27c1cb5c-61ed-4ff9-aa37-f810a92fcbe8/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 369px; height: 170px;" /></td>
+			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/20834.%E2%80%85Studschiffret/83d78df3.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/20834.%E2%80%85Studschiffret/83d78df3.png" data-original-src="https://upload.acmicpc.net/3da99237-36c5-41d9-b7f7-2fef744f47b6/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 369px; height: 170px;" /></td>
 		</tr>
 		<tr>
 			<td>Efter 6 bokst&auml;ver &auml;r skrivna</td>
 			<td>Efter 8 bokst&auml;ver &auml;r skrivna, vi har nu studsat en g&aring;ng i bottenv&auml;ggen</td>
 		</tr>
 		<tr>
-			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/20834.%E2%80%85Studschiffret/2e37bcbf.png" data-original-src="https://upload.acmicpc.net/0ec84b8b-a0cd-45d1-a05f-372df155a351/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 369px; height: 170px;" /></td>
-			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/20834.%E2%80%85Studschiffret/c9270593.png" data-original-src="https://upload.acmicpc.net/e42015dc-84d7-44b9-875f-36552951b167/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 369px; height: 170px;" /></td>
+			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/20834.%E2%80%85Studschiffret/2e37bcbf.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/20834.%E2%80%85Studschiffret/2e37bcbf.png" data-original-src="https://upload.acmicpc.net/0ec84b8b-a0cd-45d1-a05f-372df155a351/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 369px; height: 170px;" /></td>
+			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/20834.%E2%80%85Studschiffret/c9270593.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/20834.%E2%80%85Studschiffret/c9270593.png" data-original-src="https://upload.acmicpc.net/e42015dc-84d7-44b9-875f-36552951b167/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 369px; height: 170px;" /></td>
 		</tr>
 		<tr>
 			<td>Efter 14 bost&auml;ver &auml;r skrivna, vi har nu &auml;ven studsat i &ouml;vre och h&ouml;gra v&auml;ggen</td>

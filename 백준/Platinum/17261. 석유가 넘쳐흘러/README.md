@@ -20,13 +20,13 @@
 
 <p>욱수르가 될 생각에 신이 난 욱제는 다음과 같은 구조로 석유 탱크를 연결하며 열심히 땅을 파내려 갔다. 각 용량이 W<sub>i</sub>인 N개의 탱크들이 N-1개의 파이프를 통해 포화&nbsp;이진 트리(노드가&nbsp;2<sup>k</sup>-1개인 이진 트리, k는 1 이상의 자연수)&nbsp;형태로 연결되어 있다. 자식 탱크가 없는 모든 (N+1)/2개의 잎 탱크에는 석유를 끌어 올리는 펌프가 연결되어 있는데, 펌프는 매 단위시간마다 한 번씩&nbsp;1만큼의 석유를 끌어 올리며&nbsp;모든 펌프의 성능은 동일하다.</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/17261.%E2%80%85%EC%84%9D%EC%9C%A0%EA%B0%80%E2%80%85%EB%84%98%EC%B3%90%ED%9D%98%EB%9F%AC/3d316bf3.png" data-original-src="https://upload.acmicpc.net/0642b55a-1ad7-4f2f-a2a8-175ae9d378d9/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 463px; width: 500px;" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/17261.%E2%80%85%EC%84%9D%EC%9C%A0%EA%B0%80%E2%80%85%EB%84%98%EC%B3%90%ED%9D%98%EB%9F%AC/3d316bf3.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/17261.%E2%80%85%EC%84%9D%EC%9C%A0%EA%B0%80%E2%80%85%EB%84%98%EC%B3%90%ED%9D%98%EB%9F%AC/3d316bf3.png" data-original-src="https://upload.acmicpc.net/0642b55a-1ad7-4f2f-a2a8-175ae9d378d9/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 463px; width: 500px;" /></p>
 
 <p>&nbsp;</p>
 
 <p>자식 탱크에 석유가 가득 차면 부모 탱크로 석유가 넘쳐 오른다. 만약 어떤 자식 탱크로부터 석유가 올라왔는데 다른 자식 탱크는 아직 가득 차지 않았다면, 석유는 자연스럽게 다른 자식 탱크로 흘러 들어가게 된다. (욕조에 하수구가 두 개 있고 한 하수구에서 물이 역류했을 때를 생각하면 된다) 두 자식 탱크가 가득 차면, 그제야 비로소 부모 탱크에 석유가 채워지기 시작한다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/17261.%E2%80%85%EC%84%9D%EC%9C%A0%EA%B0%80%E2%80%85%EB%84%98%EC%B3%90%ED%9D%98%EB%9F%AC/18d88526.png" data-original-src="https://upload.acmicpc.net/04067c44-6304-43fb-80ae-2024c239afbb/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 439px; width: 500px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/17261.%E2%80%85%EC%84%9D%EC%9C%A0%EA%B0%80%E2%80%85%EB%84%98%EC%B3%90%ED%9D%98%EB%9F%AC/18d88526.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/17261.%E2%80%85%EC%84%9D%EC%9C%A0%EA%B0%80%E2%80%85%EB%84%98%EC%B3%90%ED%9D%98%EB%9F%AC/18d88526.png" data-original-src="https://upload.acmicpc.net/04067c44-6304-43fb-80ae-2024c239afbb/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 439px; width: 500px;" /></p>
 
 <p>&nbsp;</p>
 

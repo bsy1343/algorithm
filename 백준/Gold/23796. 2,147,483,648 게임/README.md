@@ -28,11 +28,11 @@
 
 <p>예를 들어 현재 게임판이 다음 그림과 같은 상태라고 하자.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/23796.%E2%80%852%2C147%2C483%2C648%E2%80%85%EA%B2%8C%EC%9E%84/cfed88af.png" data-original-src="https://upload.acmicpc.net/a789a0cd-95d4-41e5-ae62-fa1869bfdb34/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/23796.%E2%80%852%2C147%2C483%2C648%E2%80%85%EA%B2%8C%EC%9E%84/cfed88af.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/23796.%E2%80%852%2C147%2C483%2C648%E2%80%85%EA%B2%8C%EC%9E%84/cfed88af.png" data-original-src="https://upload.acmicpc.net/a789a0cd-95d4-41e5-ae62-fa1869bfdb34/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>여기에서 왼쪽 방향키(L)가 눌렸을 때 다음 그림과 같이 게임판이 바뀐다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/23796.%E2%80%852%2C147%2C483%2C648%E2%80%85%EA%B2%8C%EC%9E%84/a1a195cb.png" data-original-src="https://upload.acmicpc.net/20e9ac8f-31fe-41f0-8f9b-3b8899cf2f80/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/23796.%E2%80%852%2C147%2C483%2C648%E2%80%85%EA%B2%8C%EC%9E%84/a1a195cb.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/23796.%E2%80%852%2C147%2C483%2C648%E2%80%85%EA%B2%8C%EC%9E%84/a1a195cb.png" data-original-src="https://upload.acmicpc.net/20e9ac8f-31fe-41f0-8f9b-3b8899cf2f80/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>호준이는 행동 취소 기능도 없는 이 게임을 며칠 동안 밤새 하다 보니 이젠 키 하나를 눌러도 게임판이 어떻게 바뀔지 전혀 감을 잡지 못하는 상태에 이르렀다. 호준이를 위해 현재의 게임판과 누를 방향키를 주면 위 규칙대로 진행했을 때의 게임판을 출력하는 프로그램을 작성하자.</p>
 

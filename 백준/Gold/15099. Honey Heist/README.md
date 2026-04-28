@@ -20,7 +20,7 @@
 
 <p>The cells of the honeycomb are numbered in row major order, so cell IDs can be assigned as shown below:</p>
 
-<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/15099.%E2%80%85Honey%E2%80%85Heist/8aaf8ffc.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15099/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:164px; width:162px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/15099.%E2%80%85Honey%E2%80%85Heist/8aaf8ffc.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/15099.%E2%80%85Honey%E2%80%85Heist/8aaf8ffc.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15099/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:164px; width:162px" /></p>
 
 <p>When 0x67 discovers the opening to the honeycomb, it enters the cell. Some ants are stronger than others, depending on their age, so 0x67 can only chew through at most N cells before its jaw wears out and must return to the nest to recuperate. The honeycomb is hexagonal, and each edge length is R cells. 0x67 enters through a hole at location A and must get to the honey at location B by chewing a path through no more than N adjacent cells. Because ants can be competitive, 0x67 wants to reach the honey by chewing through the fewest possible cells. 0x67 can also sense some of the cells are hardened with wax and impossible to penetrate, so it will have to chew around those to reach the cell at location B.</p>
 
@@ -48,10 +48,10 @@
 
 ### 힌트
 
-<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/15099.%E2%80%85Honey%E2%80%85Heist/2feffe76.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15099/2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:242px; width:252px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/15099.%E2%80%85Honey%E2%80%85Heist/2feffe76.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/15099.%E2%80%85Honey%E2%80%85Heist/2feffe76.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15099/2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:242px; width:252px" /></p>
 
 <p style="text-align:center">Figure E.1: K=6</p>
 
-<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/15099.%E2%80%85Honey%E2%80%85Heist/96ea868c.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15099/3.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:249px; width:256px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/15099.%E2%80%85Honey%E2%80%85Heist/96ea868c.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/15099.%E2%80%85Honey%E2%80%85Heist/96ea868c.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15099/3.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:249px; width:256px" /></p>
 
 <p style="text-align:center">Figure E.2: No</p>

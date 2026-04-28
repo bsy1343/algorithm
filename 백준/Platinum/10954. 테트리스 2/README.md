@@ -20,7 +20,7 @@
 
 <p>테트리스에는 다음과 같이 $7$개의 블록이 있다. 그러나 김진영은 테트리스를 할 때 $1 \times 4$ 크기의 블록을 사용하지 않는다. 따라서 김진영은 테트리스에는 총 $6$개의 블록을 이용할 것이다. &lt;그림 1&gt;을 참고한다.</p>
 
-<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/10954.%E2%80%85%ED%85%8C%ED%8A%B8%EB%A6%AC%EC%8A%A4%E2%80%852/bed636f9.png" data-original-src="https://www.acmicpc.net/upload/201004/tetetetet.PNG" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:78px; width:484px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/10954.%E2%80%85%ED%85%8C%ED%8A%B8%EB%A6%AC%EC%8A%A4%E2%80%852/bed636f9.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/10954.%E2%80%85%ED%85%8C%ED%8A%B8%EB%A6%AC%EC%8A%A4%E2%80%852/bed636f9.png" data-original-src="https://www.acmicpc.net/upload/201004/tetetetet.PNG" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:78px; width:484px" /></p>
 
 <p style="text-align:center">&lt;그림 1&gt;</p>
 
@@ -28,7 +28,7 @@
 
 <p style="text-align:left">다음은 3*4크기로 테트리스 블록을 차곡차곡 쌓을 수 없는 두 가지 예와, 쌓을 수 있는 한 가지 예이다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/10954.%E2%80%85%ED%85%8C%ED%8A%B8%EB%A6%AC%EC%8A%A4%E2%80%852/821cfea4.png" data-original-src="https://www.acmicpc.net/upload/201004/tetet.PNG" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:124px; width:327px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/10954.%E2%80%85%ED%85%8C%ED%8A%B8%EB%A6%AC%EC%8A%A4%E2%80%852/821cfea4.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/10954.%E2%80%85%ED%85%8C%ED%8A%B8%EB%A6%AC%EC%8A%A4%E2%80%852/821cfea4.png" data-original-src="https://www.acmicpc.net/upload/201004/tetet.PNG" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:124px; width:327px" /></p>
 
 <p style="text-align: center;">&lt;그림 2&gt;: 김진영 조교는 $1 \times 4$ 크기의 블록을 사용하지 않는다.</p>
 

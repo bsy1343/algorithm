@@ -22,7 +22,7 @@
 
 <p>다음 예를 보자.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/2759.%E2%80%85%ED%8C%AC%EC%BC%80%EC%9D%B4%ED%81%AC%E2%80%85%EB%92%A4%EC%A7%91%EA%B8%B0/4b9572bd.png" data-original-src="https://upload.acmicpc.net/dad8fb32-da3b-40f1-ac35-63eec3ab66a1/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 575px; height: 118px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/2759.%E2%80%85%ED%8C%AC%EC%BC%80%EC%9D%B4%ED%81%AC%E2%80%85%EB%92%A4%EC%A7%91%EA%B8%B0/4b9572bd.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/2759.%E2%80%85%ED%8C%AC%EC%BC%80%EC%9D%B4%ED%81%AC%E2%80%85%EB%92%A4%EC%A7%91%EA%B8%B0/4b9572bd.png" data-original-src="https://upload.acmicpc.net/dad8fb32-da3b-40f1-ac35-63eec3ab66a1/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 575px; height: 118px;" /></p>
 
 <p>팬케이크가 쌓여있는 상태가 주어졌을 때, 이를 순서대로 만드는 방법을 찾아 출력하는 프로그램을 작성하시오. 팬케이크는 최대 max(0, 2n-3)번 뒤집을 수 있다.</p>
 

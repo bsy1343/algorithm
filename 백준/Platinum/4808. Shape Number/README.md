@@ -18,7 +18,7 @@
 
 <p>In computer vision, a chain code is a sequence of numbers representing directions when following the contour of an object. For example, the following figure shows the contour represented by the chain code 22234446466001207560 (starting at the upper-left corner).</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/4808.%E2%80%85Shape%E2%80%85Number/4d8c0ae7.png" data-original-src="https://www.acmicpc.net/upload/images2/shapenum.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:241px; width:580px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/4808.%E2%80%85Shape%E2%80%85Number/4d8c0ae7.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/4808.%E2%80%85Shape%E2%80%85Number/4d8c0ae7.png" data-original-src="https://www.acmicpc.net/upload/images2/shapenum.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:241px; width:580px" /></p>
 
 <p>Two chain codes may represent the same shape if the shape has been rotated, or if a different starting point is chosen for the contour. To normalize the code for rotation, we can compute the first difference of the chain code instead. The first difference is obtained by counting the number of direction changes in counterclockwise direction between consecutive elements in the chain code (the last element is consecutive with the first one). In the above code, the first difference is</p>
 

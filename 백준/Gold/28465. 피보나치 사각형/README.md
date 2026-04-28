@@ -40,7 +40,7 @@
 
 <p>예시로 아래는 그림이 5번째 피보나치 사각형일 때의 모습이다.</p>
 
-<p style="text-align: center;"> <img alt="" src="%EB%B0%B1%EC%A4%80/Gold/28465.%E2%80%85%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98%E2%80%85%EC%82%AC%EA%B0%81%ED%98%95/0c058390.png" data-original-src="https://upload.acmicpc.net/892799be-63b9-420d-b124-1e33e7d66f54/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 315px; height: 205px;" /></p>
+<p style="text-align: center;"> <img alt="" src="%EB%B0%B1%EC%A4%80/Gold/28465.%E2%80%85%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98%E2%80%85%EC%82%AC%EA%B0%81%ED%98%95/0c058390.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/28465.%E2%80%85%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98%E2%80%85%EC%82%AC%EA%B0%81%ED%98%95/0c058390.png" data-original-src="https://upload.acmicpc.net/892799be-63b9-420d-b124-1e33e7d66f54/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 315px; height: 205px;" /></p>
 
 ### 입력
 

@@ -25,17 +25,17 @@
 <p>
 	단, 희원이가 그리는 가로줄 중 같은 높이에 그리는 가로줄은 없다.</p>
 <p style="text-align: center;">
-	<img alt="" src="%EB%B0%B1%EC%A4%80/Silver/3061.%E2%80%85%EC%82%AC%EB%8B%A4%EB%A6%AC/4eb7a567.png" data-original-src="https://www.acmicpc.net/upload/images/ld.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 200px; height: 136px;" /></p>
+	<img alt="" src="%EB%B0%B1%EC%A4%80/Silver/3061.%E2%80%85%EC%82%AC%EB%8B%A4%EB%A6%AC/4eb7a567.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/3061.%E2%80%85%EC%82%AC%EB%8B%A4%EB%A6%AC/4eb7a567.png" data-original-src="https://www.acmicpc.net/upload/images/ld.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 200px; height: 136px;" /></p>
 <table class="table table-bordered">
 	<tbody>
 		<tr>
 			<td style="text-align:center;">
 				<p>
-					<img alt="" src="%EB%B0%B1%EC%A4%80/Silver/3061.%E2%80%85%EC%82%AC%EB%8B%A4%EB%A6%AC/17c2a13b.png" data-original-src="https://www.acmicpc.net/upload/images/l1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 200px; height: 175px;" /></p>
+					<img alt="" src="%EB%B0%B1%EC%A4%80/Silver/3061.%E2%80%85%EC%82%AC%EB%8B%A4%EB%A6%AC/17c2a13b.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/3061.%E2%80%85%EC%82%AC%EB%8B%A4%EB%A6%AC/17c2a13b.png" data-original-src="https://www.acmicpc.net/upload/images/l1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 200px; height: 175px;" /></p>
 			</td>
 			<td style="text-align:center;">
 				<p>
-					<img alt="" src="%EB%B0%B1%EC%A4%80/Silver/3061.%E2%80%85%EC%82%AC%EB%8B%A4%EB%A6%AC/ec138810.png" data-original-src="https://www.acmicpc.net/upload/images/l2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 200px; height: 175px;" /></p>
+					<img alt="" src="%EB%B0%B1%EC%A4%80/Silver/3061.%E2%80%85%EC%82%AC%EB%8B%A4%EB%A6%AC/ec138810.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/3061.%E2%80%85%EC%82%AC%EB%8B%A4%EB%A6%AC/ec138810.png" data-original-src="https://www.acmicpc.net/upload/images/l2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 200px; height: 175px;" /></p>
 			</td>
 		</tr>
 		<tr>

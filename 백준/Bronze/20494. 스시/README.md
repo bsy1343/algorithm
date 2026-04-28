@@ -20,7 +20,7 @@
 
 <p>회전 초밥집은 아래 그림과 같이 $N+1$개의 의자와 $N+1$개의 접시로 이루어져 있다. 사람들은 계속 자신의 자리에 앉아 있으며, 매 분마다 접시들은 시계방향으로 한 칸씩 이동한다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/20494.%E2%80%85%EC%8A%A4%EC%8B%9C/ab83ef63.png" data-original-src="https://upload.acmicpc.net/40e0b0b0-21b1-4135-a176-bc62d3e42c31/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 301px; height: 269px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/20494.%E2%80%85%EC%8A%A4%EC%8B%9C/ab83ef63.png" data-original-src="%EB%B0%B1%EC%A4%80/Bronze/20494.%E2%80%85%EC%8A%A4%EC%8B%9C/ab83ef63.png" data-original-src="https://upload.acmicpc.net/40e0b0b0-21b1-4135-a176-bc62d3e42c31/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 301px; height: 269px;" /></p>
 
 <p>$S_0$에는 셰프가 앉아 있으며, 매 분마다 셰프는 자신 앞에 온 접시가 비어있지 않으면 아무 행동도 하지 않고, 자신 앞에 온 접시가 비어있으면, 한 점의 스시를 만들어 접시에 올린다. 하지만, 현재 상태에서 셰프가 더 이상 스시를 만들지 않아도 모든 손님이 유한한 시간안에 식사를 마칠 수 있음이 보장된다면, 셰프는 더 이상의 스시를 만들지 않는다.</p>
 

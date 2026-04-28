@@ -20,7 +20,7 @@
 
 <p>While looking at his star map Spike wonders how many friends he needs to conduct a search on every planet. Each planet should not be visited by more than one friend otherwise the criminal might get suspicious and flee before he can be captured. While each person can start at a planet of their choosing and travel along the hyperspace connections from planet to planet they are still bound by the limitations of hyperspace travel.</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/10850.%E2%80%85Bounty%E2%80%85Hunter%E2%80%85II/d5bc6b18.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/10850/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:120px; width:275px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/10850.%E2%80%85Bounty%E2%80%85Hunter%E2%80%85II/d5bc6b18.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/10850.%E2%80%85Bounty%E2%80%85Hunter%E2%80%85II/d5bc6b18.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/10850/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:120px; width:275px" /></p>
 
 <p>Figure B.1: Illustration of the Sample Inputs.</p>
 

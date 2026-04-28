@@ -20,7 +20,7 @@
 
 <p>예를 들어 <em>N</em>=5일 때, 각 코스의 길이가 차례대로 7, 4, 2, 4, 5라고 가정하자. 출발 지점을 0이라고 하면, 전체 코스가 구성된 형태를 다음과 같이 그릴 수 있다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/18311.%E2%80%85%EC%99%95%EB%B3%B5/b2cc5bbd.png" data-original-src="https://upload.acmicpc.net/31205870-182b-4c54-ad41-2c4892be90a9/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 115px; width: 600px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/18311.%E2%80%85%EC%99%95%EB%B3%B5/b2cc5bbd.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/18311.%E2%80%85%EC%99%95%EB%B3%B5/b2cc5bbd.png" data-original-src="https://upload.acmicpc.net/31205870-182b-4c54-ad41-2c4892be90a9/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 115px; width: 600px;" /></p>
 
 <ol>
 	<li style="text-align: justify;"><em>K</em>=0일 때, 1번 코스를 지나고 있으므로 1을 출력한다.</li>

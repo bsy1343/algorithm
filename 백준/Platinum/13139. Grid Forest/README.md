@@ -18,7 +18,7 @@
 
 <p>용훈이는 격자 숲 안에서 길을 잃어버렸다. 다행히도 용훈이는 느지막이 보이는 자신의 집을 이용해서 자기 위치를 파악했다. 용훈이의 현재 위치는 집으로부터 동쪽으로 x만큼, 북쪽으로 y만큼 떨어져 있다.</p>
 
-<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/13139.%E2%80%85Grid%E2%80%85Forest/4f1d1bfc.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/13139/G_forest.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:373px; width:485px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/13139.%E2%80%85Grid%E2%80%85Forest/4f1d1bfc.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/13139.%E2%80%85Grid%E2%80%85Forest/4f1d1bfc.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/13139/G_forest.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:373px; width:485px" /></p>
 
 <p>용훈이는 동, 서, 남, 북 중 한 가지 방향으로 이동하면서 집까지 갈 것이다. 용훈이는 한 번 이동하기 시작하면 다른 나무(또는 집)에 도달할 때까지 계속 이동한다. 용훈이가 가장 가까운 두 나무 사이의 거리를 움직이는 데 1의 시간이 걸린다. 한편, 용훈이가 계속 방향감각을 유지하기 위해서는 용훈이가 거치는 모든 나무에서 용훈이의 집이 보여야 한다.</p>
 

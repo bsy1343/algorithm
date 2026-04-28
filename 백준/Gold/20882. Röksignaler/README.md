@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/20882.%E2%80%85R%C3%B6ksignaler/dcd6f979.png" data-original-src="https://upload.acmicpc.net/ca1c37bf-7ccd-48b7-add0-7f19f1ba05ff/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 188px; height: 180px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/20882.%E2%80%85R%C3%B6ksignaler/dcd6f979.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/20882.%E2%80%85R%C3%B6ksignaler/dcd6f979.png" data-original-src="https://upload.acmicpc.net/ca1c37bf-7ccd-48b7-add0-7f19f1ba05ff/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 188px; height: 180px;" /></p>
 
 <p style="text-align: center;">Figure 1:&nbsp;Morsealfabetet</p>
 

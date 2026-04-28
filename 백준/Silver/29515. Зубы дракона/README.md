@@ -20,13 +20,13 @@
 
 <p>Дракон хоть был и юн, а зубов для устрашения всего живого выросло у него достаточно. А именно, у дракона было две челюсти, в каждой из которых был ряд ровно из $n$ зубов. Челюсти были направлены друг на друга и напротив каждого из зубов находился зуб из противоположной челюсти.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/29515.%E2%80%85%D0%97%D1%83%D0%B1%D1%8B%E2%80%85%D0%B4%D1%80%D0%B0%D0%BA%D0%BE%D0%BD%D0%B0/12a01532.png" data-original-src="https://upload.acmicpc.net/bfcdaa34-42a5-4439-8cbf-f386b605259e/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 200px; height: 283px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/29515.%E2%80%85%D0%97%D1%83%D0%B1%D1%8B%E2%80%85%D0%B4%D1%80%D0%B0%D0%BA%D0%BE%D0%BD%D0%B0/12a01532.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/29515.%E2%80%85%D0%97%D1%83%D0%B1%D1%8B%E2%80%85%D0%B4%D1%80%D0%B0%D0%BA%D0%BE%D0%BD%D0%B0/12a01532.png" data-original-src="https://upload.acmicpc.net/bfcdaa34-42a5-4439-8cbf-f386b605259e/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 200px; height: 283px;" /></p>
 
 <p>Природа сделала дракону подарок --- все его зубы имели одинаковую ширину. Второго подарка она делать не стала и поэтому длины зубов у дракона могли различаться.</p>
 
 <p>Чтобы понравиться принцессе, дракону не стоит показывать ей свои зубы вовсе. Однако, если существует хоть одна пара зубов, направленных друг на друга, суммарная длина которых превосходит $d$ сантиметров, то челюсть не может закрыться, зубы станут видны невооруженным глазом, и, скорее всего, принцесса испугается драконьего вида. По этой причине дракону необходимо сдвинуть нижнюю челюсть на некоторое число зубов вбок (налево или направо).</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/29515.%E2%80%85%D0%97%D1%83%D0%B1%D1%8B%E2%80%85%D0%B4%D1%80%D0%B0%D0%BA%D0%BE%D0%BD%D0%B0/67e1b281.png" data-original-src="https://upload.acmicpc.net/190ff774-298d-43e7-a6a1-f899e959eca6/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 250px; height: 202px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/29515.%E2%80%85%D0%97%D1%83%D0%B1%D1%8B%E2%80%85%D0%B4%D1%80%D0%B0%D0%BA%D0%BE%D0%BD%D0%B0/67e1b281.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/29515.%E2%80%85%D0%97%D1%83%D0%B1%D1%8B%E2%80%85%D0%B4%D1%80%D0%B0%D0%BA%D0%BE%D0%BD%D0%B0/67e1b281.png" data-original-src="https://upload.acmicpc.net/190ff774-298d-43e7-a6a1-f899e959eca6/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 250px; height: 202px;" /></p>
 
 <p>Двигать таким образом челюсть не очень приятно, и дракон интересуется, на какое наименьшее число зубов ему стоит сдвинуть челюсть для того, чтобы понравиться принцессе.</p>
 

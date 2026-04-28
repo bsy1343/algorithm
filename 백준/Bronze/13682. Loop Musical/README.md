@@ -22,7 +22,7 @@
 
 <p>Fernandinha trabalha para uma empresa que desenvolve jogos e comp&ocirc;s um bonito loopmusical, codificando-o em PCM. Analisando a forma de onda do seu loop em um software de edi&ccedil;&atilde;o de &aacute;udio, Fernandinha ficou curiosa ao notar a quantidade de &ldquo;picos&rdquo; existentes. Um pico em uma forma de onda &eacute; um valor de uma amostra que representa um m&aacute;ximo ou m&iacute;nimo local, ou seja, um ponto de inflex&atilde;o da forma de onda. A figura abaixo ilustra (a) um exemplo de forma de onda e (b) o loop formado com essa forma de onda, contendo 48 picos.</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/13682.%E2%80%85Loop%E2%80%85Musical/cb13473a.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/13682/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202017-01-12%20%EC%98%A4%EC%A0%84%207.53.00.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:284px; width:433px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/13682.%E2%80%85Loop%E2%80%85Musical/cb13473a.png" data-original-src="%EB%B0%B1%EC%A4%80/Bronze/13682.%E2%80%85Loop%E2%80%85Musical/cb13473a.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/13682/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202017-01-12%20%EC%98%A4%EC%A0%84%207.53.00.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:284px; width:433px" /></p>
 
 <p>Fernandinha &eacute; uma amiga muito querida e pediu sua ajuda para determinar quantos picos existem no seu loop musical.</p>
 

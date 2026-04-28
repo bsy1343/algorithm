@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/29845.%E2%80%85Pipes/c41efb27.png" data-original-src="https://upload.acmicpc.net/36566ce2-9712-4ac6-983f-58e79e1feedb/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 307px; height: 206px; float: right;" />Valter is a fan of experiments. His latest experiment is depicted in the figure: he rolls several pipes down an inclined floor until they are stopped either by the wall perpendicular to the floor or by another pipe rolled earlier; after all the pipes have stopped, Valter measures the distance from the wall to the farthest point of the farthest pipe.</p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/29845.%E2%80%85Pipes/c41efb27.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/29845.%E2%80%85Pipes/c41efb27.png" data-original-src="https://upload.acmicpc.net/36566ce2-9712-4ac6-983f-58e79e1feedb/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 307px; height: 206px; float: right;" />Valter is a fan of experiments. His latest experiment is depicted in the figure: he rolls several pipes down an inclined floor until they are stopped either by the wall perpendicular to the floor or by another pipe rolled earlier; after all the pipes have stopped, Valter measures the distance from the wall to the farthest point of the farthest pipe.</p>
 
 <p>Now his classmate Vanessa pointed out that some pipes may have no impact on the result. For example, in the figure, neither pipe 1 nor pipe 3 impact the positions of the following pipes. In addition, the farthest point may be in a pipe that was not rolled last.</p>
 

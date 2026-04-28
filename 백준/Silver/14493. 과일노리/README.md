@@ -20,7 +20,7 @@
 
 <p>아래의 예시를 보자.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/14493.%E2%80%85%EA%B3%BC%EC%9D%BC%EB%85%B8%EB%A6%AC/b65750a0.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14493/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:111px; width:729px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/14493.%E2%80%85%EA%B3%BC%EC%9D%BC%EB%85%B8%EB%A6%AC/b65750a0.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/14493.%E2%80%85%EA%B3%BC%EC%9D%BC%EB%85%B8%EB%A6%AC/b65750a0.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14493/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:111px; width:729px" /></p>
 
 <p>재훈이는 과일노리에 접속하기 위해 총 4개의 구간을 거쳐야 한다. A/B는 해당 구간에서 학인봇이 A초 간격으로 나타나, B초 동안 침입자를 탐지하고 사라진다는 의미이다. 학인봇은 침입자 발생과 동시에 모든 구간에서 한꺼번에 나타나 활동을 시작한다. 따라서 재훈이는 학인봇의 감시를 피해 경로 중간의 네트워크 장비에 숨으면서 이동해야한다. 각 구간을 통과하는 데에는 1초의 시간이 소요된다. 다음은 예시에 대한 설명이다.</p>
 

@@ -24,7 +24,7 @@
 
 <p>조건에 맞는 문자열의 시작 알파벳인 $S$와 마지막 알파벳인 $E$는 이미 정해져 있기 때문에 참가자들은 모두 $S$의 도장을 찍어주는 문제들 중 하나에서 시작한다. 그리고 각 문제마다 연결된 문제들이 정해져 있어서 연결된 문제들 중 하나만 골라서 풀 수 있다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/28073.%E2%80%85PSAT%E2%80%85%ED%8A%B9%EB%B3%84%EA%B3%BC%EC%A0%95/41fb2487.png" data-original-src="https://upload.acmicpc.net/11c5926e-c3ac-40f1-8ec4-1488362d72b3/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/28073.%E2%80%85PSAT%E2%80%85%ED%8A%B9%EB%B3%84%EA%B3%BC%EC%A0%95/41fb2487.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/28073.%E2%80%85PSAT%E2%80%85%ED%8A%B9%EB%B3%84%EA%B3%BC%EC%A0%95/41fb2487.png" data-original-src="https://upload.acmicpc.net/11c5926e-c3ac-40f1-8ec4-1488362d72b3/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>예를 들어 위와 같은 구조로 훈련 과정을 구성했고, $S$는 <code>S</code>, $E$는 <code>C</code>로 정했다면 가장 왼쪽의 1번 문제에서 시작해 1번 &rarr; 3번 &rarr; 2번 &rarr; 4번 문제의 순서로 풀어 <span style="color:#e74c3c;"><code>SUPC</code></span>의 문자열을 완성하여 훈련을 수료할 수 있다. 물론 <span style="color:#e74c3c;"><code>SPPDC</code></span>, <span style="color:#e74c3c;"><code>SPSUC</code></span> 등도 가능하다.</p>
 

@@ -40,4 +40,4 @@
 
 <p>1 日目に，あなたは宿場町 1 から宿場町 3 まで移動する．2 日目に，あなたは宿場 町 3 から宿場町 2 まで移動する．そして，3 日目に宿場町 2 から宿場町 5 まで移動 し，4 日目に宿場町 5 から宿場町 7 まで移動し，5 日目に宿場町 7 から宿場町 4 ま で移動する．5 日間の旅におけるあなたの移動距離の合計は 18 である．</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/5560.%E2%80%85%E6%97%85%E4%BA%BA/5c422383.png" data-original-src="https://upload.acmicpc.net/cf6b2366-3d9e-4f87-a9fb-effec214fed3/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 543px; height: 262px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/5560.%E2%80%85%E6%97%85%E4%BA%BA/5c422383.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/5560.%E2%80%85%E6%97%85%E4%BA%BA/5c422383.png" data-original-src="https://upload.acmicpc.net/cf6b2366-3d9e-4f87-a9fb-effec214fed3/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 543px; height: 262px;" /></p>

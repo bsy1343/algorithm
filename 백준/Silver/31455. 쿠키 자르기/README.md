@@ -20,7 +20,7 @@
 
 <p>예를 들어 아래 그림은 $K = 2$ 이고 $A = [ [1, 2, 3, 4], [2, 3, 4, 5], [3, 4, 5, 6], [0, 9, 8, 7]]$ 인 쿠키의 모습을 보여준다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/31455.%E2%80%85%EC%BF%A0%ED%82%A4%E2%80%85%EC%9E%90%EB%A5%B4%EA%B8%B0/e025bbbe.png" data-original-src="https://upload.acmicpc.net/1f0e7622-dfd7-416e-873f-10719c3b6b4c/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 194px; width: 200px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/31455.%E2%80%85%EC%BF%A0%ED%82%A4%E2%80%85%EC%9E%90%EB%A5%B4%EA%B8%B0/e025bbbe.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/31455.%E2%80%85%EC%BF%A0%ED%82%A4%E2%80%85%EC%9E%90%EB%A5%B4%EA%B8%B0/e025bbbe.png" data-original-src="https://upload.acmicpc.net/1f0e7622-dfd7-416e-873f-10719c3b6b4c/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 194px; width: 200px;" /></p>
 
 <p>구워진 쿠키를 감상하던 Bob은 Albert에게 아래와 같은 놀이를 제안했다.</p>
 
@@ -34,7 +34,7 @@
 	<li>남은 3조각의 크기가 $2 \times 2$ 이상이라면 각각에 대해 이 과정을 반복한다. 만약 각 조각의 크기가 $1 \times 1$ 이라면 이 과정은 끝난다.</li>
 </ol>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/31455.%E2%80%85%EC%BF%A0%ED%82%A4%E2%80%85%EC%9E%90%EB%A5%B4%EA%B8%B0/e079f295.png" data-original-src="https://upload.acmicpc.net/545c4a81-9f25-4c96-a697-d6adbbe68f71/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 120px; width: 300px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/31455.%E2%80%85%EC%BF%A0%ED%82%A4%E2%80%85%EC%9E%90%EB%A5%B4%EA%B8%B0/e079f295.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/31455.%E2%80%85%EC%BF%A0%ED%82%A4%E2%80%85%EC%9E%90%EB%A5%B4%EA%B8%B0/e079f295.png" data-original-src="https://upload.acmicpc.net/545c4a81-9f25-4c96-a697-d6adbbe68f71/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 120px; width: 300px;" /></p>
 
 <p>위의 예제의 경우 우선 $4 \times 4$ 크기의 쿠키를 아래 왼쪽 그림과 같이 4등분 한다.</p>
 
@@ -50,7 +50,7 @@
 	<li>이 때 두 어린이가 먹지않고 남은 쿠키 조각에 적힌 숫자의 총합은 38이다.</li>
 </ul>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/31455.%E2%80%85%EC%BF%A0%ED%82%A4%E2%80%85%EC%9E%90%EB%A5%B4%EA%B8%B0/c8223646.png" data-original-src="https://upload.acmicpc.net/9f43258e-0c41-411d-9d6d-0b23b1545131/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 167px; width: 400px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/31455.%E2%80%85%EC%BF%A0%ED%82%A4%E2%80%85%EC%9E%90%EB%A5%B4%EA%B8%B0/c8223646.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/31455.%E2%80%85%EC%BF%A0%ED%82%A4%E2%80%85%EC%9E%90%EB%A5%B4%EA%B8%B0/c8223646.png" data-original-src="https://upload.acmicpc.net/9f43258e-0c41-411d-9d6d-0b23b1545131/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 167px; width: 400px;" /></p>
 
 <p>입력으로 $N = 2^K$, 그리고 쿠키에 적힌 숫자를 나타내는 2차원 배열 $A$가 주어졌을 때, 두 어린이가 먹고 남은 쿠키 조각에 적힌 숫자의 총합을 구해보자.</p>
 

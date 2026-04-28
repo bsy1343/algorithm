@@ -18,7 +18,7 @@
 
 <p>Two chess knights have decided to collaborate on writing short, one-line poems. They have obtained the use of a laptop to type their poetry. The laptop keyboard is composed of 4 rows of 10 keys. 30 of these are symbol keys, 4 are Shift keys, and 6 are Space keys.</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/10249.%E2%80%85Two%E2%80%85Knight%E2%80%99s%E2%80%85Poem/8867ebc2.png" data-original-src="https://www.acmicpc.net/upload/images2/keyboard.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:208px; width:595px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/10249.%E2%80%85Two%E2%80%85Knight%E2%80%99s%E2%80%85Poem/8867ebc2.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/10249.%E2%80%85Two%E2%80%85Knight%E2%80%99s%E2%80%85Poem/8867ebc2.png" data-original-src="https://www.acmicpc.net/upload/images2/keyboard.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:208px; width:595px" /></p>
 
 <p>Note that the Shift and Space keys, which are usually extra-wide keys on a keyboard, are treated here as multiple individual keys that each have the same effect.</p>
 

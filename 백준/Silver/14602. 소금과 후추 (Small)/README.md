@@ -32,7 +32,7 @@
 	<li>주어진 행렬 A와 정수 W를 이용하여 행렬 B를 구한다.</li>
 </ul>
 
-<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/14602.%E2%80%85%EC%86%8C%EA%B8%88%EA%B3%BC%E2%80%85%ED%9B%84%EC%B6%94%E2%80%85(Small)/1abf56eb.png" data-original-src="http://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14602/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:222px; width:391px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/14602.%E2%80%85%EC%86%8C%EA%B8%88%EA%B3%BC%E2%80%85%ED%9B%84%EC%B6%94%E2%80%85(Small)/1abf56eb.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/14602.%E2%80%85%EC%86%8C%EA%B8%88%EA%B3%BC%E2%80%85%ED%9B%84%EC%B6%94%E2%80%85(Small)/1abf56eb.png" data-original-src="http://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14602/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:222px; width:391px" /></p>
 
 <p style="text-align:center">&lt;행렬 A와 W로 행렬 B가 만들어지는 과정&gt;</p>
 

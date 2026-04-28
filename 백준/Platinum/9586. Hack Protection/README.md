@@ -20,7 +20,7 @@
 
 <p>For example, consider an array of four binary numbers &ldquo;01&rdquo;, &ldquo;10&rdquo;, &ldquo;11&rdquo;, and &ldquo;11&rdquo;. The table below to the left lists the results of the bitwise xor of numbers for each subarray of this array, and the table below to the right list the results of the bitwise and of numbers for each subarray of this array. The rows of the table correspond to the starting elements of the subarray from the 1st element of the array to the 4th one, while columns correspond to the ending elements of the subarray. Matching values are highlighted with gray background.</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/9586.%E2%80%85Hack%E2%80%85Protection/a259a416.png" data-original-src="https://www.acmicpc.net/upload/images2/hp.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:148px; width:283px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/9586.%E2%80%85Hack%E2%80%85Protection/a259a416.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/9586.%E2%80%85Hack%E2%80%85Protection/a259a416.png" data-original-src="https://www.acmicpc.net/upload/images2/hp.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:148px; width:283px" /></p>
 
 <p>Your task is to help Pavel compute this kind of a digest of the given array.</p>
 

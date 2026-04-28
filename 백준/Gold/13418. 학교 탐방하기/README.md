@@ -18,7 +18,7 @@
 
 <p>국민대학교 홍보대사 국희는 여름방학을 맞아 고등학생들을 대상으로 학교 내부에 있는 건물을 소개해주는 일을 하게 되어 학교 건물을 차례로 소개할 수 있는 이동 경로를 짜보기로 하였다. 국민대학교는 북한산의 정기를 받는 위치에 있어 건물 간 연결된 길이 험난한 오르막길일 수도 있고, 내리막길일 수도 있다. 국희는 먼저 입구를 기준으로 건물 간 연결된 도로가 오르막길인지, 내리막길인지를 파악하여 오르막길인 경우 점선, 내리막길인 경우 실선으로 표시하였다.</p>
 
-<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/13418.%E2%80%85%ED%95%99%EA%B5%90%E2%80%85%ED%83%90%EB%B0%A9%ED%95%98%EA%B8%B0/46577571.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/13418/F1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:139px; width:220px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/13418.%E2%80%85%ED%95%99%EA%B5%90%E2%80%85%ED%83%90%EB%B0%A9%ED%95%98%EA%B8%B0/46577571.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/13418.%E2%80%85%ED%95%99%EA%B5%90%E2%80%85%ED%83%90%EB%B0%A9%ED%95%98%EA%B8%B0/46577571.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/13418/F1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:139px; width:220px" /></p>
 
 <p style="text-align:center">그림 1</p>
 
@@ -26,11 +26,11 @@
 
 <p>얼마나 피곤해지는지 알아보기 위해 피로도를 계산하기로 하였다. 오르막길을 <em>k</em>번 오를 때, 피로도는 <em>k</em><sup>2</sup>이 된다. 피로도의 계산은 최초 조사된 길을 기준으로만 한다. 즉, 내리막길로 내려갔다 다시 올라올 때 오르막길이 되는 경우는 <strong>고려하지 않는다</strong>. 입구는 항상 1번 건물과 연결된 도로를 가지며, 출발은 항상 입구에서 한다.</p>
 
-<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/13418.%E2%80%85%ED%95%99%EA%B5%90%E2%80%85%ED%83%90%EB%B0%A9%ED%95%98%EA%B8%B0/9292002a.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/13418/F2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:131px; width:186px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/13418.%E2%80%85%ED%95%99%EA%B5%90%E2%80%85%ED%83%90%EB%B0%A9%ED%95%98%EA%B8%B0/9292002a.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/13418.%E2%80%85%ED%95%99%EA%B5%90%E2%80%85%ED%83%90%EB%B0%A9%ED%95%98%EA%B8%B0/9292002a.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/13418/F2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:131px; width:186px" /></p>
 
 <p style="text-align:center">그림 2</p>
 
-<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/13418.%E2%80%85%ED%95%99%EA%B5%90%E2%80%85%ED%83%90%EB%B0%A9%ED%95%98%EA%B8%B0/8da841c9.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/13418/F3.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:138px; width:190px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/13418.%E2%80%85%ED%95%99%EA%B5%90%E2%80%85%ED%83%90%EB%B0%A9%ED%95%98%EA%B8%B0/8da841c9.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/13418.%E2%80%85%ED%95%99%EA%B5%90%E2%80%85%ED%83%90%EB%B0%A9%ED%95%98%EA%B8%B0/8da841c9.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/13418/F3.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:138px; width:190px" /></p>
 
 <p style="text-align:center">그림 3</p>
 

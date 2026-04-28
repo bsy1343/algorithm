@@ -24,7 +24,7 @@
 	<li>만들어진 두 선분을 따라 피자를 자른다.</li>
 </ol>
 
-<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/12781.%E2%80%85PIZZA%E2%80%85ALVOLOC/e11e972b.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/12781/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:230px; width:470px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/12781.%E2%80%85PIZZA%E2%80%85ALVOLOC/e11e972b.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/12781.%E2%80%85PIZZA%E2%80%85ALVOLOC/e11e972b.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/12781/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:230px; width:470px" /></p>
 
 <p>도윤이와 친구들은 잘라진 피자의 크기에 상관없이 네 조각으로만 나눠지면 먹기로 했다. 만약 네 조각으로 나눠지지 않는다면 도윤이와 친구들은 피자를 두고 싸우게 된다. 예를 들어 그림1의 경우에는 두 선분에 의해 피자가 네 조각으로 나뉘게 된다. 하지만 그림2의 경우에는 두 선분에 의해 피자가 세 조각으로 나뉘게 된다.&nbsp;</p>
 

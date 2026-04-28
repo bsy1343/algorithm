@@ -18,7 +18,7 @@
 
 <p>We are analyzing how the domains on the Internet connect to each other. A domain is the part of a URL that comes before the / character. Examples of domains are: twitter.com, aipo.computing.dcu.ieor google.com. A domain d1 is connected to a domain d2 if there is a link from d1 to d2 or if d1 is connected to a domain d3 and d3 is connected to d2. We consider that a domain is connected to itself. In the following structure of domains:</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/13232.%E2%80%85Domain%E2%80%85clusters/29650849.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/13232/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:218px; width:365px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/13232.%E2%80%85Domain%E2%80%85clusters/29650849.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/13232.%E2%80%85Domain%E2%80%85clusters/29650849.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/13232/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:218px; width:365px" /></p>
 
 <ul>
 	<li>D1 is connected to D2, D3 (through D2), D4 and D5 (through D3).</li>

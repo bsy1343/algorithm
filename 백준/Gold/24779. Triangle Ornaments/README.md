@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/24779.%E2%80%85Triangle%E2%80%85Ornaments/d05f63c4.png" data-original-src="https://upload.acmicpc.net/3eeff83e-1b9a-4e3d-9ac3-fe9d91d4c93c/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 367px; height: 250px; float: right;" />A company makes triangle-shaped ornaments for the upcoming holidays. Each ornament is tied at one of its corners to a rod using a string of unknown length. Multiple of these ornaments may be attached to the same rod. These ornaments should be able to swing (rotate around the axis formed by the string) without interfering with each other.</p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/24779.%E2%80%85Triangle%E2%80%85Ornaments/d05f63c4.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/24779.%E2%80%85Triangle%E2%80%85Ornaments/d05f63c4.png" data-original-src="https://upload.acmicpc.net/3eeff83e-1b9a-4e3d-9ac3-fe9d91d4c93c/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 367px; height: 250px; float: right;" />A company makes triangle-shaped ornaments for the upcoming holidays. Each ornament is tied at one of its corners to a rod using a string of unknown length. Multiple of these ornaments may be attached to the same rod. These ornaments should be able to swing (rotate around the axis formed by the string) without interfering with each other.</p>
 
 <p>Write a program that computes the minimum required length for the rod, given a list of triangles!</p>
 

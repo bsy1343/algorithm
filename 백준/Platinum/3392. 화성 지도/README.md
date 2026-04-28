@@ -36,4 +36,4 @@
 
 ### 힌트
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/3392.%E2%80%85%ED%99%94%EC%84%B1%E2%80%85%EC%A7%80%EB%8F%84/43b6f8a3.gif" data-original-src="https://www.acmicpc.net/upload/images/mar0.gif" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 188px; height: 250px;" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/3392.%E2%80%85%ED%99%94%EC%84%B1%E2%80%85%EC%A7%80%EB%8F%84/43b6f8a3.gif" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/3392.%E2%80%85%ED%99%94%EC%84%B1%E2%80%85%EC%A7%80%EB%8F%84/43b6f8a3.gif" data-original-src="https://www.acmicpc.net/upload/images/mar0.gif" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 188px; height: 250px;" /></p>

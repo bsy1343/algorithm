@@ -20,7 +20,7 @@
 
 <p>A regular knight can move either by two rows and one column or by two columns and one row in each move (the leftmost figure). A knight can jump over blocked squares, only landing on them is forbidden (the middle figure).</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/29913.%E2%80%85Superknight/37659db3.png" data-original-src="https://upload.acmicpc.net/5cfedd8b-70d6-4bfc-acda-0cd2086e0e8b/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 478px; height: 143px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/29913.%E2%80%85Superknight/37659db3.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/29913.%E2%80%85Superknight/37659db3.png" data-original-src="https://upload.acmicpc.net/5cfedd8b-70d6-4bfc-acda-0cd2086e0e8b/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 478px; height: 143px;" /></p>
 
 <p>A superknight differs from a regular one by its ability to perform a <em>supermove</em> on its path (but <em>at most once</em>), in which it moves either by three rows and one column or by three columns and one row (the rightmost figure).</p>
 

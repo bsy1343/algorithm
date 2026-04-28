@@ -22,7 +22,7 @@
 
 <p>The following picture shows the front view of several different bases. All of them consist of three stacks made of a total of six blocks, with each stack having at least one block as required. However, the eight bases on the left will lead to long-lasting artwork, while the two bases on the right will not.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/18034.%E2%80%85Fabricating%E2%80%85Sculptures/aa45c957.png" data-original-src="https://upload.acmicpc.net/63e634c5-3661-424a-adf3-6e93778438f1/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 394px; height: 251px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/18034.%E2%80%85Fabricating%E2%80%85Sculptures/aa45c957.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/18034.%E2%80%85Fabricating%E2%80%85Sculptures/aa45c957.png" data-original-src="https://upload.acmicpc.net/63e634c5-3661-424a-adf3-6e93778438f1/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 394px; height: 251px;" /></p>
 
 <p>Miguel Angelo is receiving a lot of sculpture requests. Although he has all the freedom to create the artwork, he wants to be fair and use the same number of stacks and the same number blocks in each of the sculptures. Since he doesn&rsquo;t want to sell identical sculptures to different clients, he will construct a different base each time.</p>
 

@@ -18,7 +18,7 @@
 
 <p>오토는 반쵸스시에서 곰치 커리를 대접받은 뒤, 그 보답으로 데이브에게 $2\times N$ 크기의 양식장을 만들어 주었다!</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/31027.%E2%80%85%EB%AC%BC%EA%B3%A0%EA%B8%B0%E2%80%85%EA%B2%8C%EC%9E%84/424cd5fe.png" data-original-src="https://upload.acmicpc.net/64ecd7c4-1b71-45c0-9d21-ed571e5e8744/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 800px; height: 437px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/31027.%E2%80%85%EB%AC%BC%EA%B3%A0%EA%B8%B0%E2%80%85%EA%B2%8C%EC%9E%84/424cd5fe.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/31027.%E2%80%85%EB%AC%BC%EA%B3%A0%EA%B8%B0%E2%80%85%EA%B2%8C%EC%9E%84/424cd5fe.png" data-original-src="https://upload.acmicpc.net/64ecd7c4-1b71-45c0-9d21-ed571e5e8744/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 800px; height: 437px;" /></p>
 
 <ul>
 	<li>데이브: 오...! 여기는 뭔가요?</li>

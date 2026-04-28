@@ -20,7 +20,7 @@
 
 <p>아직도 <em>&#39;그녀&#39;</em>를 잊지 못한 로맨티스트 종민이는 어느 날 그녀와 이름 궁합을 한 번 해 보기로 했는데, 그 결과는 충격적이었다.</p>
 
-<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/15312.%E2%80%85%EC%9D%B4%EB%A6%84%E2%80%85%EA%B6%81%ED%95%A9/914cf706.jpg" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15312/1.jpg" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:314px; width:350px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/15312.%E2%80%85%EC%9D%B4%EB%A6%84%E2%80%85%EA%B6%81%ED%95%A9/914cf706.jpg" data-original-src="%EB%B0%B1%EC%A4%80/Silver/15312.%E2%80%85%EC%9D%B4%EB%A6%84%E2%80%85%EA%B6%81%ED%95%A9/914cf706.jpg" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15312/1.jpg" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:314px; width:350px" /></p>
 
 <p>이 결과를 도저히 받아들일 수 없었던 종민이는 이것이 틀렸음을 증명하기 위해 열심히 머리를 굴렸고, 다음과 같은 변명거리를 생각해 냈다.</p>
 

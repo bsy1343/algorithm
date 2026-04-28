@@ -28,12 +28,12 @@
 		<li>
 		<p><strong>MatKor</strong></p>
 
-		<p><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/28691.%E2%80%85%EC%A0%95%EB%B3%B4%EB%B3%B4%ED%98%B8%ED%95%99%EB%B6%80%E2%80%85%EB%8F%99%EC%95%84%EB%A6%AC%E2%80%85%EC%86%8C%EA%B0%9C/ef79dadb.png" data-original-src="https://upload.acmicpc.net/94f2bdde-bb90-4677-a8ed-afbd994590d6/-/crop/1120x429/0,0/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 320px; max-width: 100%;" /></p>
+		<p><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/28691.%E2%80%85%EC%A0%95%EB%B3%B4%EB%B3%B4%ED%98%B8%ED%95%99%EB%B6%80%E2%80%85%EB%8F%99%EC%95%84%EB%A6%AC%E2%80%85%EC%86%8C%EA%B0%9C/ef79dadb.png" data-original-src="%EB%B0%B1%EC%A4%80/Bronze/28691.%E2%80%85%EC%A0%95%EB%B3%B4%EB%B3%B4%ED%98%B8%ED%95%99%EB%B6%80%E2%80%85%EB%8F%99%EC%95%84%EB%A6%AC%E2%80%85%EC%86%8C%EA%B0%9C/ef79dadb.png" data-original-src="https://upload.acmicpc.net/94f2bdde-bb90-4677-a8ed-afbd994590d6/-/crop/1120x429/0,0/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 320px; max-width: 100%;" /></p>
 		</li>
 		<li>
 		<p><strong>WiCys</strong></p>
 
-		<p><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/28691.%E2%80%85%EC%A0%95%EB%B3%B4%EB%B3%B4%ED%98%B8%ED%95%99%EB%B6%80%E2%80%85%EB%8F%99%EC%95%84%EB%A6%AC%E2%80%85%EC%86%8C%EA%B0%9C/d8c15628.png" data-original-src="https://upload.acmicpc.net/a17b9acf-3278-41f4-9cf9-7a01867e7b9d/-/crop/1107x367/0,0/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 320px; max-width: 100%;" /></p>
+		<p><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/28691.%E2%80%85%EC%A0%95%EB%B3%B4%EB%B3%B4%ED%98%B8%ED%95%99%EB%B6%80%E2%80%85%EB%8F%99%EC%95%84%EB%A6%AC%E2%80%85%EC%86%8C%EA%B0%9C/d8c15628.png" data-original-src="%EB%B0%B1%EC%A4%80/Bronze/28691.%E2%80%85%EC%A0%95%EB%B3%B4%EB%B3%B4%ED%98%B8%ED%95%99%EB%B6%80%E2%80%85%EB%8F%99%EC%95%84%EB%A6%AC%E2%80%85%EC%86%8C%EA%B0%9C/d8c15628.png" data-original-src="https://upload.acmicpc.net/a17b9acf-3278-41f4-9cf9-7a01867e7b9d/-/crop/1107x367/0,0/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 320px; max-width: 100%;" /></p>
 		</li>
 	</ul>
 	</li>
@@ -42,12 +42,12 @@
 		<li>
 		<p><strong>CyKor</strong></p>
 
-		<p><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/28691.%E2%80%85%EC%A0%95%EB%B3%B4%EB%B3%B4%ED%98%B8%ED%95%99%EB%B6%80%E2%80%85%EB%8F%99%EC%95%84%EB%A6%AC%E2%80%85%EC%86%8C%EA%B0%9C/0986fad3.png" data-original-src="https://upload.acmicpc.net/0a2106e2-c31d-4eca-a2de-bc64b628b457/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 320px; max-width: 100%;" /></p>
+		<p><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/28691.%E2%80%85%EC%A0%95%EB%B3%B4%EB%B3%B4%ED%98%B8%ED%95%99%EB%B6%80%E2%80%85%EB%8F%99%EC%95%84%EB%A6%AC%E2%80%85%EC%86%8C%EA%B0%9C/0986fad3.png" data-original-src="%EB%B0%B1%EC%A4%80/Bronze/28691.%E2%80%85%EC%A0%95%EB%B3%B4%EB%B3%B4%ED%98%B8%ED%95%99%EB%B6%80%E2%80%85%EB%8F%99%EC%95%84%EB%A6%AC%E2%80%85%EC%86%8C%EA%B0%9C/0986fad3.png" data-original-src="https://upload.acmicpc.net/0a2106e2-c31d-4eca-a2de-bc64b628b457/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 320px; max-width: 100%;" /></p>
 		</li>
 		<li>
 		<p><strong>AlKor</strong></p>
 
-		<p><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/28691.%E2%80%85%EC%A0%95%EB%B3%B4%EB%B3%B4%ED%98%B8%ED%95%99%EB%B6%80%E2%80%85%EB%8F%99%EC%95%84%EB%A6%AC%E2%80%85%EC%86%8C%EA%B0%9C/fdd6d408.png" data-original-src="https://upload.acmicpc.net/f67d87fa-3e8b-4cdd-84c3-c8602a91e795/-/crop/1118x298/0,0/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 320px; max-width: 100%;" /></p>
+		<p><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/28691.%E2%80%85%EC%A0%95%EB%B3%B4%EB%B3%B4%ED%98%B8%ED%95%99%EB%B6%80%E2%80%85%EB%8F%99%EC%95%84%EB%A6%AC%E2%80%85%EC%86%8C%EA%B0%9C/fdd6d408.png" data-original-src="%EB%B0%B1%EC%A4%80/Bronze/28691.%E2%80%85%EC%A0%95%EB%B3%B4%EB%B3%B4%ED%98%B8%ED%95%99%EB%B6%80%E2%80%85%EB%8F%99%EC%95%84%EB%A6%AC%E2%80%85%EC%86%8C%EA%B0%9C/fdd6d408.png" data-original-src="https://upload.acmicpc.net/f67d87fa-3e8b-4cdd-84c3-c8602a91e795/-/crop/1118x298/0,0/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 320px; max-width: 100%;" /></p>
 		</li>
 	</ul>
 	</li>
@@ -56,7 +56,7 @@
 		<li>
 		<p><strong>$clear</strong></p>
 
-		<p><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/28691.%E2%80%85%EC%A0%95%EB%B3%B4%EB%B3%B4%ED%98%B8%ED%95%99%EB%B6%80%E2%80%85%EB%8F%99%EC%95%84%EB%A6%AC%E2%80%85%EC%86%8C%EA%B0%9C/5bca6ca4.png" data-original-src="https://upload.acmicpc.net/a18d2cdc-cd08-4852-8e6f-87c9a3bbba5f/-/crop/1127x305/0,0/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 320px; max-width: 100%;" /></p>
+		<p><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/28691.%E2%80%85%EC%A0%95%EB%B3%B4%EB%B3%B4%ED%98%B8%ED%95%99%EB%B6%80%E2%80%85%EB%8F%99%EC%95%84%EB%A6%AC%E2%80%85%EC%86%8C%EA%B0%9C/5bca6ca4.png" data-original-src="%EB%B0%B1%EC%A4%80/Bronze/28691.%E2%80%85%EC%A0%95%EB%B3%B4%EB%B3%B4%ED%98%B8%ED%95%99%EB%B6%80%E2%80%85%EB%8F%99%EC%95%84%EB%A6%AC%E2%80%85%EC%86%8C%EA%B0%9C/5bca6ca4.png" data-original-src="https://upload.acmicpc.net/a18d2cdc-cd08-4852-8e6f-87c9a3bbba5f/-/crop/1127x305/0,0/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 320px; max-width: 100%;" /></p>
 		</li>
 	</ul>
 	</li>

@@ -47,10 +47,10 @@ l<sub>n</sub> t<sub>n</sub> r<sub>n</sub> b<sub>n</sub></pre>
 
 ### 힌트
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/9601.%E2%80%85Count%E2%80%85the%E2%80%85Regions/976de174.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/9601/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:204px; width:250px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/9601.%E2%80%85Count%E2%80%85the%E2%80%85Regions/976de174.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/9601.%E2%80%85Count%E2%80%85the%E2%80%85Regions/976de174.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/9601/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:204px; width:250px" /></p>
 
 <p style="text-align: center;">Figure C.1. Three rectangles partition the plane into eight regions. This corresponds to the first dataset of the sample input. The x- and y-axes are shown for illustration purposes only, and therefore they do not partition the plane.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/9601.%E2%80%85Count%E2%80%85the%E2%80%85Regions/30c96a23.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/9601/2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:202px; width:215px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/9601.%E2%80%85Count%E2%80%85the%E2%80%85Regions/30c96a23.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/9601.%E2%80%85Count%E2%80%85the%E2%80%85Regions/30c96a23.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/9601/2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:202px; width:215px" /></p>
 
 <p style="text-align: center;">Figure C.2. Rectangles overlapping in more complex ways. This corresponds to the second dataset.</p>

@@ -46,4 +46,4 @@
 
 <p>Все возможные потрошения во втором примере:</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/28569.%E2%80%85%D0%9F%D0%BE%D1%82%D1%80%D0%BE%D1%88%D0%B5%D0%BD%D0%B8%D0%B5%E2%80%85%D0%B2%D1%8B%D0%B2%D0%B5%D1%81%D0%BA%D0%B8/4a258c13.png" data-original-src="https://upload.acmicpc.net/388c90cb-b83d-40fa-af73-6305ed491cf5/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 600px; height: 160px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/28569.%E2%80%85%D0%9F%D0%BE%D1%82%D1%80%D0%BE%D1%88%D0%B5%D0%BD%D0%B8%D0%B5%E2%80%85%D0%B2%D1%8B%D0%B2%D0%B5%D1%81%D0%BA%D0%B8/4a258c13.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/28569.%E2%80%85%D0%9F%D0%BE%D1%82%D1%80%D0%BE%D1%88%D0%B5%D0%BD%D0%B8%D0%B5%E2%80%85%D0%B2%D1%8B%D0%B2%D0%B5%D1%81%D0%BA%D0%B8/4a258c13.png" data-original-src="https://upload.acmicpc.net/388c90cb-b83d-40fa-af73-6305ed491cf5/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 600px; height: 160px;" /></p>

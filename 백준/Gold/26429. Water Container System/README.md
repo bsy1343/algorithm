@@ -20,7 +20,7 @@
 
 <p>Consider the following diagram which is an example of a water container system:</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/26429.%E2%80%85Water%E2%80%85Container%E2%80%85System/302ff579.png" data-original-src="https://upload.acmicpc.net/ca649fe5-41b6-429c-b3b1-9a4b98e8e2c8/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 308px; height: 203px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/26429.%E2%80%85Water%E2%80%85Container%E2%80%85System/302ff579.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/26429.%E2%80%85Water%E2%80%85Container%E2%80%85System/302ff579.png" data-original-src="https://upload.acmicpc.net/ca649fe5-41b6-429c-b3b1-9a4b98e8e2c8/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 308px; height: 203px;" /></p>
 
 <p>The first level of the system consists of a single container, container $1$ (root). Container $1$ is connected to container $2$ and container $3$, which are present in the above level, level $2$. Container $2$ is also connected to container $4$, which is present at level $3$.</p>
 
@@ -28,7 +28,7 @@
 
 <p>The following diagram illustrates the flow of the water in the system in different conditions:</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/26429.%E2%80%85Water%E2%80%85Container%E2%80%85System/a834d4d3.png" data-original-src="https://upload.acmicpc.net/bb3805e6-b3fc-4c0b-b97b-cb372ca68fe7/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 1084px; height: 854px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/26429.%E2%80%85Water%E2%80%85Container%E2%80%85System/a834d4d3.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/26429.%E2%80%85Water%E2%80%85Container%E2%80%85System/a834d4d3.png" data-original-src="https://upload.acmicpc.net/bb3805e6-b3fc-4c0b-b97b-cb372ca68fe7/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 1084px; height: 854px;" /></p>
 
 <p>In step $1$, after adding $1$ liter of water in container $3$, the water flows downward because the water containers at the lower level are still empty.</p>
 

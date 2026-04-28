@@ -18,7 +18,7 @@
 
 <p>달팽이는 원점에서 시작하여 1초에 한 칸 씩, 시계방향으로 아래 그림과 같이 움직인다. (단, 1초일 때 달팽이의 위치는 (0, 1)이다.) 몇 초가 지났는지가 입력으로 주어질 때, 현재 달팽이의 위치를 좌표로 출력하시오.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/15722.%E2%80%85%EB%B9%99%EA%B8%80%EB%B9%99%EA%B8%80%E2%80%85%EC%8A%A4%EB%84%A4%EC%9D%BC/1fbac0ba.jpg" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15722/1.jpg" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 212px; height: 211px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/15722.%E2%80%85%EB%B9%99%EA%B8%80%EB%B9%99%EA%B8%80%E2%80%85%EC%8A%A4%EB%84%A4%EC%9D%BC/1fbac0ba.jpg" data-original-src="%EB%B0%B1%EC%A4%80/Bronze/15722.%E2%80%85%EB%B9%99%EA%B8%80%EB%B9%99%EA%B8%80%E2%80%85%EC%8A%A4%EB%84%A4%EC%9D%BC/1fbac0ba.jpg" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15722/1.jpg" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 212px; height: 211px;" /></p>
 
 ### 입력
 

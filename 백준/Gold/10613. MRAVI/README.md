@@ -20,7 +20,7 @@
 
 <p>We know the flow Xi of each pipe: the percent of fluid from the parent node that flows through that pipe to the child node. Let&rsquo;s observe the following example:</p>
 
-<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/10613.%E2%80%85MRAVI/b8d61d51.png" data-original-src="https://www.acmicpc.net/upload/images2/mr.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:360px; width:193px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/10613.%E2%80%85MRAVI/b8d61d51.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/10613.%E2%80%85MRAVI/b8d61d51.png" data-original-src="https://www.acmicpc.net/upload/images2/mr.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:360px; width:193px" /></p>
 
 <p>Node 1 from the image has 12 liters of liquid in it and has two pipes after it. One has the flow of Xi = 30, and the other Xi = 70. Node 2 is going to get 3.6 liters and node 3 gets 8.4 liters. In the input data, the sum of flows of pipes going from the same node will always be equal to 100.</p>
 

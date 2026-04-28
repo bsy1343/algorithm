@@ -31,8 +31,8 @@
 <table class="table table-bordered td-center">
 	<tbody>
 		<tr>
-			<td style="width: 50%;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/31984.%E2%80%85Sirologija/acf667ed.png" data-original-src="https://upload.acmicpc.net/35416b36-7afe-4485-86ff-b9fd9e36ce46/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 199px; height: 200px;" /></td>
-			<td style="width: 50%;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/31984.%E2%80%85Sirologija/5ea5d242.png" data-original-src="https://upload.acmicpc.net/b4df8629-add7-4e15-b474-17f70577f7d7/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 200px; height: 200px;" /></td>
+			<td style="width: 50%;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/31984.%E2%80%85Sirologija/acf667ed.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/31984.%E2%80%85Sirologija/acf667ed.png" data-original-src="https://upload.acmicpc.net/35416b36-7afe-4485-86ff-b9fd9e36ce46/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 199px; height: 200px;" /></td>
+			<td style="width: 50%;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/31984.%E2%80%85Sirologija/5ea5d242.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/31984.%E2%80%85Sirologija/5ea5d242.png" data-original-src="https://upload.acmicpc.net/b4df8629-add7-4e15-b474-17f70577f7d7/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 200px; height: 200px;" /></td>
 		</tr>
 		<tr>
 			<td>(a) Lo&scaron; odabir puteva - sijeku se</td>
@@ -62,8 +62,8 @@
 <table class="table table-bordered td-center">
 	<tbody>
 		<tr>
-			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/31984.%E2%80%85Sirologija/89206141.png" data-original-src="https://upload.acmicpc.net/ffa3ff73-8702-44c8-a2c2-c75b7f531bf5/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 200px; height: 200px;" /></td>
-			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/31984.%E2%80%85Sirologija/3027e3c5.png" data-original-src="https://upload.acmicpc.net/3704b5c8-00ff-4adf-9fc1-484b54b93b41/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 199px; height: 200px;" /></td>
+			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/31984.%E2%80%85Sirologija/89206141.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/31984.%E2%80%85Sirologija/89206141.png" data-original-src="https://upload.acmicpc.net/ffa3ff73-8702-44c8-a2c2-c75b7f531bf5/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 200px; height: 200px;" /></td>
+			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/31984.%E2%80%85Sirologija/3027e3c5.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/31984.%E2%80%85Sirologija/3027e3c5.png" data-original-src="https://upload.acmicpc.net/3704b5c8-00ff-4adf-9fc1-484b54b93b41/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 199px; height: 200px;" /></td>
 		</tr>
 		<tr>
 			<td>(a) Primjer odabira puteva prvog primjera</td>

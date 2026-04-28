@@ -18,7 +18,7 @@
 
 <p>Daniel likes playing a game with blocks. The game starts with N empty piles of blocks in a line. While playing the game, Daniel does the following operation: he chooses a pile k and puts a block in every pile either to the left or to the right of pile k (including pile k). A valid game state is reached by applying only this operation zero or more times.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/16615.%E2%80%85Dropping%E2%80%85Blocks/a5850f8e.png" data-original-src="https://upload.acmicpc.net/392b8383-fa28-49a3-b813-bf13cd04feee/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 592px; height: 84px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/16615.%E2%80%85Dropping%E2%80%85Blocks/a5850f8e.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/16615.%E2%80%85Dropping%E2%80%85Blocks/a5850f8e.png" data-original-src="https://upload.acmicpc.net/392b8383-fa28-49a3-b813-bf13cd04feee/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 592px; height: 84px;" /></p>
 
 <p>For example, in the above image, Daniel played a game with four piles and performed four operations. Firstly, he put one block in each pile to the left of pile 2 (including pile 2), then he put one block in each pile to the right of pile 2 (including pile 2), then he put one block in each pile to the left of pile 3 (including pile 3), and finally, he put one block in each pile to the left of pile 1 (including pile 1).</p>
 

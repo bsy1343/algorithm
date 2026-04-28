@@ -24,9 +24,9 @@
 
 <p>예를 들어, 볼의 개수가 5이고, 트리의 높이가 3이라면 트리를 꾸밀 수 있는 경우의 수는 다음과 같다.&nbsp;</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/16468.%E2%80%85%ED%81%AC%EB%A6%AC%EC%8A%A4%EB%A7%88%EC%8A%A4%E2%80%85%ED%8A%B8%EB%A6%AC%E2%80%85%EA%BE%B8%EB%AF%B8%EA%B8%B0/e4668223.png" data-original-src="https://upload.acmicpc.net/45d93ffe-a755-4f55-ae89-2cf13bbc0071/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" width="1000" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/16468.%E2%80%85%ED%81%AC%EB%A6%AC%EC%8A%A4%EB%A7%88%EC%8A%A4%E2%80%85%ED%8A%B8%EB%A6%AC%E2%80%85%EA%BE%B8%EB%AF%B8%EA%B8%B0/e4668223.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/16468.%E2%80%85%ED%81%AC%EB%A6%AC%EC%8A%A4%EB%A7%88%EC%8A%A4%E2%80%85%ED%8A%B8%EB%A6%AC%E2%80%85%EA%BE%B8%EB%AF%B8%EA%B8%B0/e4668223.png" data-original-src="https://upload.acmicpc.net/45d93ffe-a755-4f55-ae89-2cf13bbc0071/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" width="1000" /></p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/16468.%E2%80%85%ED%81%AC%EB%A6%AC%EC%8A%A4%EB%A7%88%EC%8A%A4%E2%80%85%ED%8A%B8%EB%A6%AC%E2%80%85%EA%BE%B8%EB%AF%B8%EA%B8%B0/a3df4d34.png" data-original-src="https://upload.acmicpc.net/5528dc1d-238c-4b53-9195-9837d4afeb83/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" width="1000" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/16468.%E2%80%85%ED%81%AC%EB%A6%AC%EC%8A%A4%EB%A7%88%EC%8A%A4%E2%80%85%ED%8A%B8%EB%A6%AC%E2%80%85%EA%BE%B8%EB%AF%B8%EA%B8%B0/a3df4d34.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/16468.%E2%80%85%ED%81%AC%EB%A6%AC%EC%8A%A4%EB%A7%88%EC%8A%A4%E2%80%85%ED%8A%B8%EB%A6%AC%E2%80%85%EA%BE%B8%EB%AF%B8%EA%B8%B0/a3df4d34.png" data-original-src="https://upload.acmicpc.net/5528dc1d-238c-4b53-9195-9837d4afeb83/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" width="1000" /></p>
 
 ### 입력
 

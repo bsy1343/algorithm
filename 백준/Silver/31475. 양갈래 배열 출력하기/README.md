@@ -22,19 +22,19 @@
 
 <p>아래는 $3 \times 5$ 크기의 2차원 배열의 위쪽 변의 중심에서 시작한 양갈래 배열이다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/31475.%E2%80%85%EC%96%91%EA%B0%88%EB%9E%98%E2%80%85%EB%B0%B0%EC%97%B4%E2%80%85%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0/d0d42ab1.png" data-original-src="https://upload.acmicpc.net/8edb4eb8-0938-4ec7-9f11-f5623c866f61/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" width="250px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/31475.%E2%80%85%EC%96%91%EA%B0%88%EB%9E%98%E2%80%85%EB%B0%B0%EC%97%B4%E2%80%85%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0/d0d42ab1.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/31475.%E2%80%85%EC%96%91%EA%B0%88%EB%9E%98%E2%80%85%EB%B0%B0%EC%97%B4%E2%80%85%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0/d0d42ab1.png" data-original-src="https://upload.acmicpc.net/8edb4eb8-0938-4ec7-9f11-f5623c866f61/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" width="250px" /></p>
 
 <p>아래는 $4 \times 7$ 크기의 2차원 배열의 아래쪽 변의 중심에서 시작한 양갈래 배열이다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/31475.%E2%80%85%EC%96%91%EA%B0%88%EB%9E%98%E2%80%85%EB%B0%B0%EC%97%B4%E2%80%85%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0/3b623dc5.png" data-original-src="https://upload.acmicpc.net/e0f85c0a-18bf-41de-9818-83337637d326/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" width="350px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/31475.%E2%80%85%EC%96%91%EA%B0%88%EB%9E%98%E2%80%85%EB%B0%B0%EC%97%B4%E2%80%85%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0/3b623dc5.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/31475.%E2%80%85%EC%96%91%EA%B0%88%EB%9E%98%E2%80%85%EB%B0%B0%EC%97%B4%E2%80%85%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0/3b623dc5.png" data-original-src="https://upload.acmicpc.net/e0f85c0a-18bf-41de-9818-83337637d326/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" width="350px" /></p>
 
 <p>아래는 $3 \times 4$ 크기의 2차원 배열의 왼쪽 변의 중심에서 시작한 양갈래 배열이다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/31475.%E2%80%85%EC%96%91%EA%B0%88%EB%9E%98%E2%80%85%EB%B0%B0%EC%97%B4%E2%80%85%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0/76cbfa2e.png" data-original-src="https://upload.acmicpc.net/321571c3-0f03-404e-a25a-0b0dc687c059/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" width="200px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/31475.%E2%80%85%EC%96%91%EA%B0%88%EB%9E%98%E2%80%85%EB%B0%B0%EC%97%B4%E2%80%85%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0/76cbfa2e.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/31475.%E2%80%85%EC%96%91%EA%B0%88%EB%9E%98%E2%80%85%EB%B0%B0%EC%97%B4%E2%80%85%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0/76cbfa2e.png" data-original-src="https://upload.acmicpc.net/321571c3-0f03-404e-a25a-0b0dc687c059/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" width="200px" /></p>
 
 <p>아래는 $5 \times 5$ 크기의 2차원 배열의 오른쪽 변의 중심에서 시작한 양갈래 배열이다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/31475.%E2%80%85%EC%96%91%EA%B0%88%EB%9E%98%E2%80%85%EB%B0%B0%EC%97%B4%E2%80%85%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0/09836ac2.png" data-original-src="https://upload.acmicpc.net/9ac8f1cb-2896-454d-9f5b-e4e209295cc6/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" width="250px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/31475.%E2%80%85%EC%96%91%EA%B0%88%EB%9E%98%E2%80%85%EB%B0%B0%EC%97%B4%E2%80%85%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0/09836ac2.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/31475.%E2%80%85%EC%96%91%EA%B0%88%EB%9E%98%E2%80%85%EB%B0%B0%EC%97%B4%E2%80%85%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0/09836ac2.png" data-original-src="https://upload.acmicpc.net/9ac8f1cb-2896-454d-9f5b-e4e209295cc6/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" width="250px" /></p>
 
 <p>위쪽 변, 아래쪽 변, 왼쪽 변, 오른쪽 변은 각각 양갈래 배열의 $1$번째 행, $N$번째 행, $1$번째 열, $M$번째 열을 말한다.</p>
 

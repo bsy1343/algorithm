@@ -26,7 +26,7 @@
 	아래의 그림은 모빌의 한 예를 보여 준다:</p>
 
 <p>
-	<img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/4016.%E2%80%85%EB%AA%A8%EB%B9%8C/b7df4984.png" data-original-src="https://www.acmicpc.net/upload/images/mobile.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 378px; height: 122px;" /></p>
+	<img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/4016.%E2%80%85%EB%AA%A8%EB%B9%8C/b7df4984.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/4016.%E2%80%85%EB%AA%A8%EB%B9%8C/b7df4984.png" data-original-src="https://www.acmicpc.net/upload/images/mobile.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 378px; height: 122px;" /></p>
 
 <p>
 	동생 Ike 를 만족 시키기 위하여, 다음과 같은 제약 조건을 만족하도록 구성을 바꿀 수 있는 모빌을 찾아야 한다:&nbsp;</p>
@@ -52,13 +52,13 @@
 	1. 우선 1번 막대의 양쪽 끝을 서로 바꾼다. 이런 바꿈으로 2번 막대와 3번 막대의 위치가 바뀌게 되어, 그 결과는 아래의 그림과 같이 된다.&nbsp;</p>
 
 <p>
-	<img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/4016.%E2%80%85%EB%AA%A8%EB%B9%8C/f8b5aa1c.png" data-original-src="https://www.acmicpc.net/upload/images/mobile2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 373px; height: 118px;" /></p>
+	<img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/4016.%E2%80%85%EB%AA%A8%EB%B9%8C/f8b5aa1c.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/4016.%E2%80%85%EB%AA%A8%EB%B9%8C/f8b5aa1c.png" data-original-src="https://www.acmicpc.net/upload/images/mobile2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 373px; height: 118px;" /></p>
 
 <p>
 	2. 그 다음으로, 2번 막대의 양쪽 끝을 서로 바꾼다. 이렇게 하면 4번 막대가 2번 막대의 왼쪽 끝으로, 장난감은 오른쪽 끝으로 옮겨지게 된다.</p>
 
 <p>
-	<img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/4016.%E2%80%85%EB%AA%A8%EB%B9%8C/ad394f1c.png" data-original-src="https://www.acmicpc.net/upload/images/mobile3.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 402px; height: 119px;" /></p>
+	<img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/4016.%E2%80%85%EB%AA%A8%EB%B9%8C/ad394f1c.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/4016.%E2%80%85%EB%AA%A8%EB%B9%8C/ad394f1c.png" data-original-src="https://www.acmicpc.net/upload/images/mobile3.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 402px; height: 119px;" /></p>
 
 <p>
 	이 결과는 Ike 가 좋아하는 구성이 된다. 모든 장난감들이 매달린 레벨의 차이는 많아야 1 이며, 아래 레벨에 있는 장난감들은 위 레벨에 있는 장난감들 보다 모두 왼쪽에 위치하고 있다.&nbsp;</p>

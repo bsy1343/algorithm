@@ -51,7 +51,7 @@
 
 <p>The trampolines are placed like so:</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/21972.%E2%80%85Trampoline/29e5cfa0.png" data-original-src="https://upload.acmicpc.net/cfdd008c-14e9-4693-81b7-e3be5a81970b/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 328px; height: 252px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/21972.%E2%80%85Trampoline/29e5cfa0.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/21972.%E2%80%85Trampoline/29e5cfa0.png" data-original-src="https://upload.acmicpc.net/cfdd008c-14e9-4693-81b7-e3be5a81970b/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 328px; height: 252px;" /></p>
 
 <p>In the first routine Little Square can go on the following route: (2, 1) &rarr; (2, 2) &rarr; (3, 2) &rarr; (3, 3) &rarr; (3, 4) &rarr; (4, 4) &rarr; (4, 5).</p>
 

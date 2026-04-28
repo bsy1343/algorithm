@@ -20,7 +20,7 @@
 
 <p>Each one of the L container lines will be loaded in a different ship. To make it simpler when unloading at each destination country, containers from a line must be organized such that the identifiers are in sequential order. More precisely, the first line must have the containers identified from 1 to C in increasing order, line 2 must have containers numbered from C + 1 to 2C (in increasing order), and so on until the last line. which will have containers numbered (L&minus;1)C + 1 to LC (again, in increasing order). Figure (a) shows the organization of a shipment with 5 lines and 4 columns of containers.</p>
 
-<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/13629.%E2%80%85Lines%E2%80%85of%E2%80%85Containers/2179a50e.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/13629/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202017-01-05%20%EC%98%A4%ED%9B%84%208.48.10.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:166px; width:500px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/13629.%E2%80%85Lines%E2%80%85of%E2%80%85Containers/2179a50e.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/13629.%E2%80%85Lines%E2%80%85of%E2%80%85Containers/2179a50e.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/13629/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202017-01-05%20%EC%98%A4%ED%9B%84%208.48.10.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:166px; width:500px" /></p>
 
 <p>A crane is able to move either a full line or a full column of containers. It cannot move other groupments or individual containers.</p>
 

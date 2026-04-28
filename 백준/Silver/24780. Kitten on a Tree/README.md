@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/24780.%E2%80%85Kitten%E2%80%85on%E2%80%85a%E2%80%85Tree/e28d4de1.png" data-original-src="https://upload.acmicpc.net/1852811f-919d-4a86-a135-fa59643391e0/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 346px; height: 300px; float: right;" />Ouch! A kitten got stuck on a tree. &nbsp;Fortunately, the tree&#39;s branches are numbered. Given a description of a tree and the position of the kitten, can you write a program to help the kitten down?</p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/24780.%E2%80%85Kitten%E2%80%85on%E2%80%85a%E2%80%85Tree/e28d4de1.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/24780.%E2%80%85Kitten%E2%80%85on%E2%80%85a%E2%80%85Tree/e28d4de1.png" data-original-src="https://upload.acmicpc.net/1852811f-919d-4a86-a135-fa59643391e0/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 346px; height: 300px; float: right;" />Ouch! A kitten got stuck on a tree. &nbsp;Fortunately, the tree&#39;s branches are numbered. Given a description of a tree and the position of the kitten, can you write a program to help the kitten down?</p>
 
 ### 입력
 

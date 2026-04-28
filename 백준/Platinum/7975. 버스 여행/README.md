@@ -38,6 +38,6 @@
 
 ### 힌트
 
-<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/7975.%E2%80%85%EB%B2%84%EC%8A%A4%E2%80%85%EC%97%AC%ED%96%89/70e45ee6.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/7975/2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:360px; width:428px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/7975.%E2%80%85%EB%B2%84%EC%8A%A4%E2%80%85%EC%97%AC%ED%96%89/70e45ee6.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/7975.%E2%80%85%EB%B2%84%EC%8A%A4%E2%80%85%EC%97%AC%ED%96%89/70e45ee6.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/7975/2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:360px; width:428px" /></p>
 
 <p>재현이는 (2, 1) &rarr; (1, 5) &rarr; (2, 2) &rarr; (4, 5) &rarr; (1, 3) 순으로 관광 명소를 방문한다. 관광 명소의 매력도의 합은 2 + 2 + 8 + 3 + 5 = 20 이고, 이동 중에 쌓은 매력도의 합은 5 + 4 + 5 + 5 = 19 이다. 고로 총 매력도의 합은 39이다.</p>

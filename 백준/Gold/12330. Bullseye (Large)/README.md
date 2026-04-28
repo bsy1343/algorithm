@@ -18,7 +18,7 @@
 
 <p>Maria has been hired by the Ghastly Chemicals Junkies (GCJ) company to help them manufacture <strong>bullseyes</strong>. A <strong>bullseye</strong> consists of a number of concentric rings (rings that are centered at the same point), and it usually represents an archery target. GCJ is interested in manufacturing black-and-white bullseyes.&nbsp;</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/12330.%E2%80%85Bullseye%E2%80%85(Large)/dc45e9f1.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/12329/images-53.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:222px; width:224px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/12330.%E2%80%85Bullseye%E2%80%85(Large)/dc45e9f1.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/12330.%E2%80%85Bullseye%E2%80%85(Large)/dc45e9f1.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/12329/images-53.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:222px; width:224px" /></p>
 
 <p>Maria starts with <strong>t</strong>&nbsp;millilitres of black paint, which she will use to draw rings of thickness 1cm (one centimetre). A ring of thickness 1cm is the space between two concentric circles whose radii differ by 1cm.</p>
 

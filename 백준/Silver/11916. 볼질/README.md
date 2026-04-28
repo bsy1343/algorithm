@@ -18,7 +18,7 @@
 
 <p>5월 5일 &lsquo;방긋 스마일스&rsquo;와의 어린이날 프로야구 경기에서 &lsquo;GA 아인타즈&rsquo;의 감독 성균이는 테스트 겸으로 창석이를 선발 투수로 등판시켰다. 그러나 창석이는 스트라이크를 못 던지는 치명적인 단점이 있다. 그는 경기 때 &#39;볼&#39;, &#39;몸에 맞는 공&#39;, &#39;폭투&#39; 이렇게 3가지 종류의 공을 던진다. 창석이가 너무나도 터무니없는 공을 던지기 때문에 타자가 배트를 휘두를 일은 없다.</p>
 
-<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/11916.%E2%80%85%EB%B3%BC%EC%A7%88/ceb88fb5.jpg" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11916/1.jpg" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:335px; width:330px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/11916.%E2%80%85%EB%B3%BC%EC%A7%88/ceb88fb5.jpg" data-original-src="%EB%B0%B1%EC%A4%80/Silver/11916.%E2%80%85%EB%B3%BC%EC%A7%88/ceb88fb5.jpg" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11916/1.jpg" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:335px; width:330px" /></p>
 
 <p>한 타자를 상대로 &#39;볼&#39;을 4번 던지거나 &#39;몸에 맞는 공&#39;을 던질 경우, 타자는 1루로 간다. 기존 주자는 아래 조건에 의하여 이동한다.</p>
 

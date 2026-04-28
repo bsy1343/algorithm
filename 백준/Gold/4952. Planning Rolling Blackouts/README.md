@@ -34,7 +34,7 @@
 
 <p>Note that the condition 1 does not allow such a grouping shown in Figure E-1.</p>
 
-<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/4952.%E2%80%85Planning%E2%80%85Rolling%E2%80%85Blackouts/e3591f3d.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/4952/E-1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:100px; width:100px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/4952.%E2%80%85Planning%E2%80%85Rolling%E2%80%85Blackouts/e3591f3d.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/4952.%E2%80%85Planning%E2%80%85Rolling%E2%80%85Blackouts/e3591f3d.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/4952/E-1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:100px; width:100px" /></p>
 
 <p style="text-align:center">Figure E-1: A grouping that violates the condition 1&nbsp;</p>
 

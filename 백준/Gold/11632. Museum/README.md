@@ -22,11 +22,11 @@
 
 <p>The security system&rsquo;s parts can only be installed on the pillars that are placed against the walls of the room. There is a pillar placed against the wall of the room per every meter of the wall. Also, a pillar is placed in each corner of the room.</p>
 
-<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/11632.%E2%80%85Museum/095475e4.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11632/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:186px; width:211px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/11632.%E2%80%85Museum/095475e4.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/11632.%E2%80%85Museum/095475e4.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11632/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:186px; width:211px" /></p>
 
 <p>Figure 1: An example of a room with length and width of 1 meter. The pedestal is denoted by the square in the top-right corner of the room. The spots represent the pillars where the security system parts are deployed, while the dashed lines represent the infrared laser beams that are sent out by the security system parts. The pedestal blocks the beam that could be sent from the bottom-left pillar to the top-right pillar and subsequently only 2 of the 4 possible distinct security systems can be placed in this room.</p>
 
-<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/11632.%E2%80%85Museum/436322d2.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11632/2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:233px; width:232px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/11632.%E2%80%85Museum/436322d2.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/11632.%E2%80%85Museum/436322d2.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11632/2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:233px; width:232px" /></p>
 
 <p>Figure 2: An example of a treasure room with length and width of 2 meters. 13 distinct security systems can be placed in this room.</p>
 

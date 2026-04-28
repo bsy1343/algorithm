@@ -22,7 +22,7 @@
 
 <p>정원은 길을 따라 쉼터에서 다른 쉼터로 이동하는 구조이지만, 길이 너무 좁아서 산책하는 사람들이 다칠 수 있기 때문에 정해진 방향이 아닌 반대 방향으로 이동하는 것은 금지되어있다. 물론, 정원은 입구에서 출발한다면 어떤 쉼터로든 갈 수 있도록 설계되어있다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/17228.%E2%80%85%EC%95%84%EB%A6%84%EB%8B%A4%EC%9A%B4%E2%80%85%EB%A7%8C%EC%98%81%EB%A1%9C/9d580d47.png" data-original-src="https://upload.acmicpc.net/74048e18-91b6-47af-a4b2-b9528bddeb93/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/17228.%E2%80%85%EC%95%84%EB%A6%84%EB%8B%A4%EC%9A%B4%E2%80%85%EB%A7%8C%EC%98%81%EB%A1%9C/9d580d47.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/17228.%E2%80%85%EC%95%84%EB%A6%84%EB%8B%A4%EC%9A%B4%E2%80%85%EB%A7%8C%EC%98%81%EB%A1%9C/9d580d47.png" data-original-src="https://upload.acmicpc.net/74048e18-91b6-47af-a4b2-b9528bddeb93/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p style="text-align: center;">&lt;그림1&gt; 정원의 한 예 (예제 1)</p>
 

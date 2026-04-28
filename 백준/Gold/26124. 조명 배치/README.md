@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/26124.%E2%80%85%EC%A1%B0%EB%AA%85%E2%80%85%EB%B0%B0%EC%B9%98/5aa209bf.png" data-original-src="https://upload.acmicpc.net/a18f8523-bd0f-4634-9da3-e3e8ef6c9362/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="max-width: 100%; width: 400px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/26124.%E2%80%85%EC%A1%B0%EB%AA%85%E2%80%85%EB%B0%B0%EC%B9%98/5aa209bf.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/26124.%E2%80%85%EC%A1%B0%EB%AA%85%E2%80%85%EB%B0%B0%EC%B9%98/5aa209bf.png" data-original-src="https://upload.acmicpc.net/a18f8523-bd0f-4634-9da3-e3e8ef6c9362/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="max-width: 100%; width: 400px;" /></p>
 
 <p>윤이는 최근에 Mazecraft라는 게임을 즐기고 있다. Mazecraft는 $H\times W$ 직사각형 격자 위에 미로를 그리는 게임이다. 격자의 맨 왼쪽 위 격자칸의 좌표는 $(1,1)$, 맨 오른쪽 아래 격자칸의 좌표는 $(H,W)$이다. 각 격자칸은 빈칸이거나 벽이며, 빈칸에는 조명을 설치할 수 있다. 각 조명은 양의 정수인 밝기를 가지고 있다.</p>
 

@@ -20,7 +20,7 @@
 
 
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/3959.%E2%80%85%EC%8A%A4%ED%82%A4%E2%80%85%EC%A0%90%ED%94%84/3b6a8d85.png" data-original-src="https://www.acmicpc.net/upload/images/sj1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:363px; width:593px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/3959.%E2%80%85%EC%8A%A4%ED%82%A4%E2%80%85%EC%A0%90%ED%94%84/3b6a8d85.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/3959.%E2%80%85%EC%8A%A4%ED%82%A4%E2%80%85%EC%A0%90%ED%94%84/3b6a8d85.png" data-original-src="https://www.acmicpc.net/upload/images/sj1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:363px; width:593px" /></p>
 
 
 
@@ -32,7 +32,7 @@
 
 
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/3959.%E2%80%85%EC%8A%A4%ED%82%A4%E2%80%85%EC%A0%90%ED%94%84/0115707a.png" data-original-src="https://www.acmicpc.net/upload/images/sj2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:104px; width:429px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/3959.%E2%80%85%EC%8A%A4%ED%82%A4%E2%80%85%EC%A0%90%ED%94%84/0115707a.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/3959.%E2%80%85%EC%8A%A4%ED%82%A4%E2%80%85%EC%A0%90%ED%94%84/0115707a.png" data-original-src="https://www.acmicpc.net/upload/images/sj2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:104px; width:429px" /></p>
 
 
 
@@ -40,7 +40,7 @@
 
 
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/3959.%E2%80%85%EC%8A%A4%ED%82%A4%E2%80%85%EC%A0%90%ED%94%84/2f742295.png" data-original-src="https://www.acmicpc.net/upload/images/sj3.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:63px; width:489px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/3959.%E2%80%85%EC%8A%A4%ED%82%A4%E2%80%85%EC%A0%90%ED%94%84/2f742295.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/3959.%E2%80%85%EC%8A%A4%ED%82%A4%E2%80%85%EC%A0%90%ED%94%84/2f742295.png" data-original-src="https://www.acmicpc.net/upload/images/sj3.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:63px; width:489px" /></p>
 
 
 
@@ -48,7 +48,7 @@
 
 
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/3959.%E2%80%85%EC%8A%A4%ED%82%A4%E2%80%85%EC%A0%90%ED%94%84/9b50d2a3.png" data-original-src="https://www.acmicpc.net/upload/images/sj4.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:52px; width:495px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/3959.%E2%80%85%EC%8A%A4%ED%82%A4%E2%80%85%EC%A0%90%ED%94%84/9b50d2a3.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/3959.%E2%80%85%EC%8A%A4%ED%82%A4%E2%80%85%EC%A0%90%ED%94%84/9b50d2a3.png" data-original-src="https://www.acmicpc.net/upload/images/sj4.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:52px; width:495px" /></p>
 
 
 
@@ -86,4 +86,4 @@
 
 <p>두 벡터 a와 b의 내적은 다음과 같이 구할 수 있다.</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/3959.%E2%80%85%EC%8A%A4%ED%82%A4%E2%80%85%EC%A0%90%ED%94%84/f6bee852.png" data-original-src="https://www.acmicpc.net/upload/images/sj5.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:37px; width:388px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/3959.%E2%80%85%EC%8A%A4%ED%82%A4%E2%80%85%EC%A0%90%ED%94%84/f6bee852.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/3959.%E2%80%85%EC%8A%A4%ED%82%A4%E2%80%85%EC%A0%90%ED%94%84/f6bee852.png" data-original-src="https://www.acmicpc.net/upload/images/sj5.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:37px; width:388px" /></p>

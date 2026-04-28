@@ -20,7 +20,7 @@
 
 <p>Поле для ввода кода представляет из себя бесконечную последовательность $7$-сегментных индикаторов. Известно, что кодом является самое большое натуральное число, для отображения которого используется не более $n$ горящих сегментов.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/28642.%E2%80%85%D0%AD%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BD%D0%BD%D1%8B%D0%B9%E2%80%85%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA/74537d54.png" data-original-src="https://upload.acmicpc.net/2c569587-f896-4f29-bbce-fbdaab264502/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 171px; height: 100px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/28642.%E2%80%85%D0%AD%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BD%D0%BD%D1%8B%D0%B9%E2%80%85%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA/74537d54.png" data-original-src="%EB%B0%B1%EC%A4%80/Bronze/28642.%E2%80%85%D0%AD%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BD%D0%BD%D1%8B%D0%B9%E2%80%85%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA/74537d54.png" data-original-src="https://upload.acmicpc.net/2c569587-f896-4f29-bbce-fbdaab264502/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 171px; height: 100px;" /></p>
 
 <p style="text-align: center;">Рис. 2: Примеры того, как на $7$-сегментном индикаторе отображаются все цифры.</p>
 

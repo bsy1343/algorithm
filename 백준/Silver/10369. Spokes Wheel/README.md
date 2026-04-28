@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/10369.%E2%80%85Spokes%E2%80%85Wheel/ba30c115.png" data-original-src="https://www.acmicpc.net/upload/images2/wheel.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="float:right; height:127px; width:122px" />Mr. Miyamoto is playing with a wheel. Each wheel can have many spokes. A spoke is one of the rods radiating from the center of a wheel (the hub where the axle connects), connecting the hub with the round traction surface. The wheel has 32 spokes with random of 0 or 1 as the value/tag for each spoke.</p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/10369.%E2%80%85Spokes%E2%80%85Wheel/ba30c115.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/10369.%E2%80%85Spokes%E2%80%85Wheel/ba30c115.png" data-original-src="https://www.acmicpc.net/upload/images2/wheel.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="float:right; height:127px; width:122px" />Mr. Miyamoto is playing with a wheel. Each wheel can have many spokes. A spoke is one of the rods radiating from the center of a wheel (the hub where the axle connects), connecting the hub with the round traction surface. The wheel has 32 spokes with random of 0 or 1 as the value/tag for each spoke.</p>
 
 <p>He has given a list of spokes, before and after its movement. His task is to calculate itsoptimal movement, whether the spokes move (in rotation) to the left or right. The list of spokes can be represented in a hexadecimal. For example: 800000001, means:&nbsp;</p>
 

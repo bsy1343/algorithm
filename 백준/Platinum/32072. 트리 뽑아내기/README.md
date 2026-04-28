@@ -40,7 +40,7 @@
 
 <p>예를 들어, 아래와 같은 트리들을 생각하자. 원 밖의 수는 정점의 번호를 나타내고, 원 안의 수는 그 정점의 가중치를 나타낸다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/32072.%E2%80%85%ED%8A%B8%EB%A6%AC%E2%80%85%EB%BD%91%EC%95%84%EB%82%B4%EA%B8%B0/70c5ec7f.png" data-original-src="https://upload.acmicpc.net/f3d13f9b-4cf1-49b3-ad5d-3e58a8cea728/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 512px; height: 186px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/32072.%E2%80%85%ED%8A%B8%EB%A6%AC%E2%80%85%EB%BD%91%EC%95%84%EB%82%B4%EA%B8%B0/70c5ec7f.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/32072.%E2%80%85%ED%8A%B8%EB%A6%AC%E2%80%85%EB%BD%91%EC%95%84%EB%82%B4%EA%B8%B0/70c5ec7f.png" data-original-src="https://upload.acmicpc.net/f3d13f9b-4cf1-49b3-ad5d-3e58a8cea728/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 512px; height: 186px;" /></p>
 
 <p>첫 번째 트리의 <strong>특별한 경로</strong>를 찾아보자. 루트 정점인 $1$번 정점에서 출발하여 $1$번 정점의 자식 중 가중치가 가장 작은 $3$번 정점으로 이동하고, $3$번 정점의 자식 중 가중치가 가장 작은 $4$번 정점으로 이동한다. $4$번 정점은 리프 정점이기 때문에 <strong>특별한 경로</strong>가 $S = {1, 3, 4}$임을 알 수 있다. 이제 이 트리에 <strong>뽑아내기</strong> 연산을 적용하면 $1$번 정점과 $3$번 정점의 가중치를 교환하고, $3$번 정점과 $4$번 정점의 가중치를 교환한 뒤 $4$번 정점을 트리에서 제거하여 두 번째 트리와 같은 모양이 된다.</p>
 

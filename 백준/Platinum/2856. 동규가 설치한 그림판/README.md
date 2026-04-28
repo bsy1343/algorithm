@@ -24,7 +24,7 @@
 
 <p>가장 왼쪽 위 칸의 색상은 명령어에서 고른 색상 c가 된다. 나머지 칸의 색은 체스판 패턴에 의해서 결정된다. 이때, 색칠되지 않는 칸의 색상은 원래 색상을 그대로 유지한다. 아래 그림은 흰색 캔버스에 빨간 체스판 패턴을 칠했을 때의 모습이다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/2856.%E2%80%85%EB%8F%99%EA%B7%9C%EA%B0%80%E2%80%85%EC%84%A4%EC%B9%98%ED%95%9C%E2%80%85%EA%B7%B8%EB%A6%BC%ED%8C%90/86987088.png" data-original-src="https://upload.acmicpc.net/db18acdb-54af-4e63-ba3d-5b7fd6eff102/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 199px; height: 153px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/2856.%E2%80%85%EB%8F%99%EA%B7%9C%EA%B0%80%E2%80%85%EC%84%A4%EC%B9%98%ED%95%9C%E2%80%85%EA%B7%B8%EB%A6%BC%ED%8C%90/86987088.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/2856.%E2%80%85%EB%8F%99%EA%B7%9C%EA%B0%80%E2%80%85%EC%84%A4%EC%B9%98%ED%95%9C%E2%80%85%EA%B7%B8%EB%A6%BC%ED%8C%90/86987088.png" data-original-src="https://upload.acmicpc.net/db18acdb-54af-4e63-ba3d-5b7fd6eff102/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 199px; height: 153px;" /></p>
 
 <p>그림판에는 두 가지 명령어가 더 있다. 첫 번째는 SAVE로 현재 캔버스를 저장하는 명령이다. 두 번째 명령은 LOAD x로 x번째 저장한 캔버스를 불러오는 명령이다.</p>
 

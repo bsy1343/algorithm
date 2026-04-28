@@ -20,7 +20,7 @@
 
 <p>The land is shaped like a rectangle, N meters wide and M meters long. It can be divided into N&middot;M squares (see the image). Bob&rsquo;s house will be shaped like a rectangle that has sides parallel with the land&rsquo;s edges and its vertices coincide with the vertices of the squares. All the land covered by Bob&rsquo;s house must be of equal elevation to prevent it from collapsing.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/10548.%E2%80%85BOB/a05bce3d.png" data-original-src="https://www.acmicpc.net/upload/images2/land.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:130px; width:78px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/10548.%E2%80%85BOB/a05bce3d.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/10548.%E2%80%85BOB/a05bce3d.png" data-original-src="https://www.acmicpc.net/upload/images2/land.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:130px; width:78px" /></p>
 
 <p style="text-align: center;">The land divided into squares.<br />
 Two possible locations of house are marked with red and blue.</p>

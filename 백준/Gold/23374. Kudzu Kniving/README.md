@@ -30,7 +30,7 @@
 
 <p>Given the indices of the roots of the subtrees which you will remove, compute the number of vertices which will be removed for each of these removed subtrees. Since these numbers may be large, you should find them modulo $10^9 + 7$.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/23374.%E2%80%85Kudzu%E2%80%85Kniving/936cd73d.png" data-original-src="https://upload.acmicpc.net/639d528e-36d3-4e20-87a2-c6fe74713af6/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 305px; height: 150px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/23374.%E2%80%85Kudzu%E2%80%85Kniving/936cd73d.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/23374.%E2%80%85Kudzu%E2%80%85Kniving/936cd73d.png" data-original-src="https://upload.acmicpc.net/639d528e-36d3-4e20-87a2-c6fe74713af6/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 305px; height: 150px;" /></p>
 
 <p style="text-align: center;">Figure K.1:&nbsp;The tree of the second sample case.&nbsp;The different colours indicate in which removal the vertices are removed.</p>
 

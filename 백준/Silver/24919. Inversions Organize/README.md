@@ -20,7 +20,7 @@
 
 <p>You are looking at one of those installations, and find it to be disorganized. You want to change some of the letters such that the top&nbsp;$N$&nbsp;rows show the same number of letter&nbsp;<code>I</code>⁠&#39;s as the bottom&nbsp;$N$&nbsp;rows, and at the same time, the leftmost&nbsp;$N$&nbsp;columns show the same number of letter&nbsp;<code>I</code>⁠&#39;s in total as the rightmost&nbsp;$N$&nbsp;columns.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/24919.%E2%80%85Inversions%E2%80%85Organize/082d0dce.png" data-original-src="https://upload.acmicpc.net/dbeb40b7-87b8-4344-a907-c91cfda190a6/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/24919.%E2%80%85Inversions%E2%80%85Organize/082d0dce.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/24919.%E2%80%85Inversions%E2%80%85Organize/082d0dce.png" data-original-src="https://upload.acmicpc.net/dbeb40b7-87b8-4344-a907-c91cfda190a6/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>For example, in the left picture above, $N=2$. The top&nbsp;$2$&nbsp;rows show&nbsp;$3$&nbsp;letter&nbsp;<code>I</code>⁠&#39;s in total, while the bottom&nbsp;$2$&nbsp;rows show&nbsp;$5$. On the other hand, both the leftmost&nbsp;$2$&nbsp;columns and the rightmost&nbsp;$2$&nbsp;columns show&nbsp;$4$&nbsp;letter&nbsp;<code>I</code>⁠&#39;s. By touching the two highlighted screens we can change the state to that shown in the right picture, which shows&nbsp;$4$&nbsp;letter&nbsp;<code>I</code>⁠&#39;s in the top&nbsp;$2$ columns and in the bottom&nbsp;$2$&nbsp;columns, and also maintains the balance between the left and right sides.</p>
 

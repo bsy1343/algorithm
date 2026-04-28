@@ -41,11 +41,11 @@
 
 <p>Suppose that K=4. Below you can find five examples of valid cuts.</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/23016.%E2%80%85Birthday%E2%80%85Cake/871e39d6.png" data-original-src="https://upload.acmicpc.net/cd8b61ab-059a-49b7-bc37-8526301ee8aa/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 662px; height: 140px;" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/23016.%E2%80%85Birthday%E2%80%85Cake/871e39d6.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/23016.%E2%80%85Birthday%E2%80%85Cake/871e39d6.png" data-original-src="https://upload.acmicpc.net/cd8b61ab-059a-49b7-bc37-8526301ee8aa/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 662px; height: 140px;" /></p>
 
 <p>And here are four examples of invalid cuts</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/23016.%E2%80%85Birthday%E2%80%85Cake/71ff7fa1.png" data-original-src="https://upload.acmicpc.net/0cde4243-8f15-4e7e-98a2-c18d44e72712/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 662px; height: 140px;" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/23016.%E2%80%85Birthday%E2%80%85Cake/71ff7fa1.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/23016.%E2%80%85Birthday%E2%80%85Cake/71ff7fa1.png" data-original-src="https://upload.acmicpc.net/0cde4243-8f15-4e7e-98a2-c18d44e72712/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 662px; height: 140px;" /></p>
 
 <ul>
 	<li>In the first picture, the cut is too long (longer than 4).</li>
@@ -80,8 +80,8 @@
 
 <p>In the Sample 1, the minimum number of cuts is 5. One of the possible series of cuts is as follows:</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/23016.%E2%80%85Birthday%E2%80%85Cake/b72645b2.png" data-original-src="https://upload.acmicpc.net/1a3b9cc0-446d-43b6-bc72-e0727be96dbc/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 175px; height: 175px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/23016.%E2%80%85Birthday%E2%80%85Cake/b72645b2.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/23016.%E2%80%85Birthday%E2%80%85Cake/b72645b2.png" data-original-src="https://upload.acmicpc.net/1a3b9cc0-446d-43b6-bc72-e0727be96dbc/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 175px; height: 175px;" /></p>
 
 <p>In the Sample 2, the minimum number of cuts is 3. One of the possible series of cuts is as follows:</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/23016.%E2%80%85Birthday%E2%80%85Cake/a098e3a3.png" data-original-src="https://upload.acmicpc.net/192fdef7-ca32-4b9a-b73b-e0d7aceb57b0/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 164px; height: 132px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/23016.%E2%80%85Birthday%E2%80%85Cake/a098e3a3.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/23016.%E2%80%85Birthday%E2%80%85Cake/a098e3a3.png" data-original-src="https://upload.acmicpc.net/192fdef7-ca32-4b9a-b73b-e0d7aceb57b0/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 164px; height: 132px;" /></p>

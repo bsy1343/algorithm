@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/25970.%E2%80%85%ED%98%84%EB%8C%80%E2%80%85%EB%AA%A8%EB%B9%84%EC%8A%A4%E2%80%85%EC%97%90%EC%96%B4%E2%80%85%EC%84%9C%EC%8A%A4%ED%8E%9C%EC%85%98/3fe59593.png" data-original-src="https://upload.acmicpc.net/cb6869b6-61ae-4628-8dcd-1b02edf89864/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 1164px; height: 352px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/25970.%E2%80%85%ED%98%84%EB%8C%80%E2%80%85%EB%AA%A8%EB%B9%84%EC%8A%A4%E2%80%85%EC%97%90%EC%96%B4%E2%80%85%EC%84%9C%EC%8A%A4%ED%8E%9C%EC%85%98/3fe59593.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/25970.%E2%80%85%ED%98%84%EB%8C%80%E2%80%85%EB%AA%A8%EB%B9%84%EC%8A%A4%E2%80%85%EC%97%90%EC%96%B4%E2%80%85%EC%84%9C%EC%8A%A4%ED%8E%9C%EC%85%98/3fe59593.png" data-original-src="https://upload.acmicpc.net/cb6869b6-61ae-4628-8dcd-1b02edf89864/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 1164px; height: 352px;" /></p>
 
 <p>현대 모비스의 에어서스펜션은 고속 주행 시 차고를 낮추어 조정성을 확보하고, 공기 저항력을 최소화하는 장치다. 비포장 도로에서는 차고를 높여 차체를 보호하며, 승차 / 하차 / 화물 적재 시에 차고를 조절하여 편리한 탑승 / 하차 / 적재가 가능하도록 도와주며, 화물 적재와 상관없이 차고를 유지함으로써 최적의 주행을 구현한다.</p>
 

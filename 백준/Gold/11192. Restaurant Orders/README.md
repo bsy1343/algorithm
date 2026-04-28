@@ -18,7 +18,7 @@
 
 <p>A friend of yours who is working as a waiter has a problem. A group of xkcd-fans have started to come to the restaurant and order food as in the comic strip below. Each order takes him a lot of time to figure out, but maybe you can help him.</p>
 
-<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/11192.%E2%80%85Restaurant%E2%80%85Orders/0a0878e1.png" data-original-src="https://imgs.xkcd.com/comics/np_complete.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:414px; width:640px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/11192.%E2%80%85Restaurant%E2%80%85Orders/0a0878e1.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/11192.%E2%80%85Restaurant%E2%80%85Orders/0a0878e1.png" data-original-src="https://imgs.xkcd.com/comics/np_complete.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:414px; width:640px" /></p>
 
 <p style="text-align:center">Figure G.1: Comic strip <a href="https://xkcd.com/287">xkcd.com/287</a>.</p>
 

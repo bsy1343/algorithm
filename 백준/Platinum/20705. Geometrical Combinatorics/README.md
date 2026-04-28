@@ -20,7 +20,7 @@
 
 <p>Consider two triangles on plane --- a Pascal&#39;s triangle and an ordinary triangle. Pascal&#39;s triangle is drawn with it&#39;s root at point (0, 0), and two sides along diagonals of upper-halfplane quarters. Formally, there are 1&#39;s written in points $(i, i)$ and $(-i, i)$, and between them at point $(-i + 2 k, i)$ there is a number equal to the sum of numbers at $(-i + 2k + 1, i - 1)$ and at $(-i + 2k - 1, i - 1)$ for all $k$ from $1$ to $i - 1$. An ordinary triangle is drawn as just a triangle with vertices at $(x_A, y_A)$, $(x_B, y_B)$, $(x_C, y_C)$.&nbsp;</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/20705.%E2%80%85Geometrical%E2%80%85Combinatorics/e9ca750c.png" data-original-src="https://upload.acmicpc.net/fe9b0673-265d-4413-bf06-88f0f78d2686/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 479px; height: 287px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/20705.%E2%80%85Geometrical%E2%80%85Combinatorics/e9ca750c.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/20705.%E2%80%85Geometrical%E2%80%85Combinatorics/e9ca750c.png" data-original-src="https://upload.acmicpc.net/fe9b0673-265d-4413-bf06-88f0f78d2686/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 479px; height: 287px;" /></p>
 
 <p>Grace defines an <em>intersection value</em> of Pascal&#39;s triangle and an ordinary triangle as the sum of values of Pascal&#39;s triangle inside or on the border of the ordinary triangle. Can you develop a program that calculates this intersection value?</p>
 

@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/24542.%E2%80%85%ED%8A%9C%ED%84%B0-%ED%8A%9C%ED%8B%B0%E2%80%85%EA%B4%80%EA%B3%84%EC%9D%98%E2%80%85%EC%88%98/3998f16e.png" data-original-src="https://upload.acmicpc.net/2c675aad-c509-433a-b0bc-d7f111d30c6d/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 333px; width: 466px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/24542.%E2%80%85%ED%8A%9C%ED%84%B0-%ED%8A%9C%ED%8B%B0%E2%80%85%EA%B4%80%EA%B3%84%EC%9D%98%E2%80%85%EC%88%98/3998f16e.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/24542.%E2%80%85%ED%8A%9C%ED%84%B0-%ED%8A%9C%ED%8B%B0%E2%80%85%EA%B4%80%EA%B3%84%EC%9D%98%E2%80%85%EC%88%98/3998f16e.png" data-original-src="https://upload.acmicpc.net/2c675aad-c509-433a-b0bc-d7f111d30c6d/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 333px; width: 466px;" /></p>
 
 <blockquote>
 <p>퓨처테크아케데미(주)는 올해로 4년째 엘리트 알고리즘 SW교육-「헬로알고」라는 브랜드로 <strong>국내는 물론 해외 14개국 청소년들을 대상으로 SW교육을 실시하고 있는 교육회사</strong>입니다. 또한 중소벤처기업부와 한국교육학술정보원이 선정한 &#39;2021비대면스타트업 교육회사&#39;, 동국대학교 &#39;SW코딩역량강화캠프 교육회사&#39; 선정 등 <strong>늘 새로운 것에 도전하는 젊은 열정의 에듀테크 회사</strong>이기도 합니다. 2022 국내외 온&middot;오프라인 사업의 새로운 도전을 위해 SW교육 지도 및 컨텐츠 연구개발 분야에 함께할 젊고 패기있는 SW인재를 찾습니다!</p>

@@ -52,6 +52,6 @@
 
 <p>In Sample Input 1, the player is promoted to the rank $1$ after finishing the fourth quiz, because the ratio of the correct answers 3$/4$ is higher than $p/q = 4/7$. Note that, the promotion didn&rsquo;t happen at the third quiz because only three quizzes had been answered, which is less than $c = 4$. Then, after the eleventh quiz, the player is promoted to the rank $2$.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/30929.%E2%80%85Rank%E2%80%85Promotion/d8c5a2ab.png" data-original-src="https://upload.acmicpc.net/808efe4f-5f68-4874-9d41-87f53ef69dd9/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 342px; height: 55px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/30929.%E2%80%85Rank%E2%80%85Promotion/d8c5a2ab.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/30929.%E2%80%85Rank%E2%80%85Promotion/d8c5a2ab.png" data-original-src="https://upload.acmicpc.net/808efe4f-5f68-4874-9d41-87f53ef69dd9/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 342px; height: 55px;" /></p>
 
 <p style="text-align: center;">Figure B.1. The timings of rank promotions of Sample Input 1</p>

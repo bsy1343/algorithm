@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p><a href="https://xkcd.com/951/"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/10326.%E2%80%85Highway%E2%80%85Hassle/b20d7a22.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/upload/images2/working.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="float:right; height:395px; width:339px" /></a>A transport company has come to you for help. One of the biggest expenses that they have is the petrol for the trucks. They would like to minimize the money they need to spend on petrol.</p>
+<p><a href="https://xkcd.com/951/"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/10326.%E2%80%85Highway%E2%80%85Hassle/b20d7a22.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/10326.%E2%80%85Highway%E2%80%85Hassle/b20d7a22.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/upload/images2/working.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="float:right; height:395px; width:339px" /></a>A transport company has come to you for help. One of the biggest expenses that they have is the petrol for the trucks. They would like to minimize the money they need to spend on petrol.</p>
 
 <p>Because of the long trips, a truck driver typically needs to stop multiple times at a petrol station to tank up. What complicates matters is that the price of petrol is not the same at every station. The differences could in fact be so significant that it pays to take a detour in order to visit a station with a low price. Yet another complication is that the price is not the same every day (but it does not change during the day).</p>
 

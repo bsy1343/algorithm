@@ -24,11 +24,11 @@
 
 <p>Melina argued with Alexander that the game was unfair since there was no way to satisfy his requirements. Alexander assured her that the game was fair, and she simply had to &ldquo;get good&rdquo; to solve the challenge. After much arguing, the friends decided to task you, an unbiased observer, with determining whether the game is fair or not.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/24992.%E2%80%85Joining%E2%80%85Pairs/2a49fa11.png" data-original-src="https://upload.acmicpc.net/ef3b8203-3b15-45eb-a651-7513049b7533/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 365px; height: 186px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/24992.%E2%80%85Joining%E2%80%85Pairs/2a49fa11.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/24992.%E2%80%85Joining%E2%80%85Pairs/2a49fa11.png" data-original-src="https://upload.acmicpc.net/ef3b8203-3b15-45eb-a651-7513049b7533/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 365px; height: 186px;" /></p>
 
 <p>In the example above, Melina can connect each pair of points without crossing lines, therefore the game is fair. On the contrary, in the example below, Melina can&rsquo;t connect the twos without crossing whichever line connects the ones, therefore the game is not fair.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/24992.%E2%80%85Joining%E2%80%85Pairs/331345f5.png" data-original-src="https://upload.acmicpc.net/60e392e5-d16d-4bee-a2b2-29fb3fe992b7/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 185px; height: 186px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/24992.%E2%80%85Joining%E2%80%85Pairs/331345f5.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/24992.%E2%80%85Joining%E2%80%85Pairs/331345f5.png" data-original-src="https://upload.acmicpc.net/60e392e5-d16d-4bee-a2b2-29fb3fe992b7/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 185px; height: 186px;" /></p>
 
 ### 입력
 

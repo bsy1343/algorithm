@@ -20,7 +20,7 @@
 
 <p>다음은 $K = 3$ 일 때 푸앙이가 $(1,\,1)$ 지점에서 시전한 발도술 영역이다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/25599.%E2%80%85%ED%91%B8%EC%95%99%EC%9D%B4%EC%99%80%E2%80%85%EB%A0%88%EB%B2%A8%EC%97%85/42332405.png" data-original-src="https://upload.acmicpc.net/638f5863-5634-476f-b4f4-1e4f385b4c12/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 478px; width: 500px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/25599.%E2%80%85%ED%91%B8%EC%95%99%EC%9D%B4%EC%99%80%E2%80%85%EB%A0%88%EB%B2%A8%EC%97%85/42332405.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/25599.%E2%80%85%ED%91%B8%EC%95%99%EC%9D%B4%EC%99%80%E2%80%85%EB%A0%88%EB%B2%A8%EC%97%85/42332405.png" data-original-src="https://upload.acmicpc.net/638f5863-5634-476f-b4f4-1e4f385b4c12/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 478px; width: 500px;" /></p>
 
 ### 입력
 

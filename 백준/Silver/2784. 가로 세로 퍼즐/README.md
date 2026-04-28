@@ -18,7 +18,7 @@
 
 <p>아래와 같은 가로 세로 퍼즐을 풀어보자.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/2784.%E2%80%85%EA%B0%80%EB%A1%9C%E2%80%85%EC%84%B8%EB%A1%9C%E2%80%85%ED%8D%BC%EC%A6%90/3df97911.png" data-original-src="https://upload.acmicpc.net/45bdf75b-0280-4ae5-94b3-f91e742dc1e2/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 149px; height: 125px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/2784.%E2%80%85%EA%B0%80%EB%A1%9C%E2%80%85%EC%84%B8%EB%A1%9C%E2%80%85%ED%8D%BC%EC%A6%90/3df97911.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/2784.%E2%80%85%EA%B0%80%EB%A1%9C%E2%80%85%EC%84%B8%EB%A1%9C%E2%80%85%ED%8D%BC%EC%A6%90/3df97911.png" data-original-src="https://upload.acmicpc.net/45bdf75b-0280-4ae5-94b3-f91e742dc1e2/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 149px; height: 125px;" /></p>
 
 <p>가로줄</p>
 

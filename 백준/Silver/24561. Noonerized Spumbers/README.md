@@ -20,19 +20,19 @@
 
 <p>Just imagine him as a student of arithmetic, occasionally swapping the prefixes of the numbers he was calculating with and then wondering why his equations never made any sense. For instance, when he writes:</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/24561.%E2%80%85Noonerized%E2%80%85Spumbers/8576e247.png" data-original-src="https://upload.acmicpc.net/51a71cf5-2554-40d1-8349-f55cf4600990/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 243px; height: 20px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/24561.%E2%80%85Noonerized%E2%80%85Spumbers/8576e247.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/24561.%E2%80%85Noonerized%E2%80%85Spumbers/8576e247.png" data-original-src="https://upload.acmicpc.net/51a71cf5-2554-40d1-8349-f55cf4600990/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 243px; height: 20px;" /></p>
 
 <p>what he really intended to write was:</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/24561.%E2%80%85Noonerized%E2%80%85Spumbers/d3790de1.png" data-original-src="https://upload.acmicpc.net/aee2b4d4-d569-40d8-87cd-246fd3a8844e/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 261px; height: 20px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/24561.%E2%80%85Noonerized%E2%80%85Spumbers/d3790de1.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/24561.%E2%80%85Noonerized%E2%80%85Spumbers/d3790de1.png" data-original-src="https://upload.acmicpc.net/aee2b4d4-d569-40d8-87cd-246fd3a8844e/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 261px; height: 20px;" /></p>
 
 <p>(He swapped prefixes &quot;$9$&quot; and &quot;$669$&quot; in the first and third numbers.) And when he writes:</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/24561.%E2%80%85Noonerized%E2%80%85Spumbers/1abf713e.png" data-original-src="https://upload.acmicpc.net/130f78a4-d36a-4e6a-ab6b-83ff89d1e8b8/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 273px; height: 20px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/24561.%E2%80%85Noonerized%E2%80%85Spumbers/1abf713e.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/24561.%E2%80%85Noonerized%E2%80%85Spumbers/1abf713e.png" data-original-src="https://upload.acmicpc.net/130f78a4-d36a-4e6a-ab6b-83ff89d1e8b8/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 273px; height: 20px;" /></p>
 
 <p>what he really intended to write was:</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/24561.%E2%80%85Noonerized%E2%80%85Spumbers/13939896.png" data-original-src="https://upload.acmicpc.net/f1d53438-c73c-4060-b9a4-aabaeb594fd6/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 320px; height: 20px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/24561.%E2%80%85Noonerized%E2%80%85Spumbers/13939896.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/24561.%E2%80%85Noonerized%E2%80%85Spumbers/13939896.png" data-original-src="https://upload.acmicpc.net/f1d53438-c73c-4060-b9a4-aabaeb594fd6/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 320px; height: 20px;" /></p>
 
 <p>(He swapped the prefix &quot;$72$&quot; with the prefix &quot;$68$&quot; in the first and second numbers.)</p>
 

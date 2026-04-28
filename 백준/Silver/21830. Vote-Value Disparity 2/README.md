@@ -57,7 +57,7 @@
 
 <p>In this example, the shape of the JOI kingdom is as follows.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/21830.%E2%80%85Vote-Value%E2%80%85Disparity%E2%80%852/84b4ecfe.png" data-original-src="https://upload.acmicpc.net/2684c98e-dec5-43e3-bc4b-f2449ff29e59/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 283px; height: 158px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/21830.%E2%80%85Vote-Value%E2%80%85Disparity%E2%80%852/84b4ecfe.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/21830.%E2%80%85Vote-Value%E2%80%85Disparity%E2%80%852/84b4ecfe.png" data-original-src="https://upload.acmicpc.net/2684c98e-dec5-43e3-bc4b-f2449ff29e59/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 283px; height: 158px;" /></p>
 
 <p>The number of voters in each province is 3, 5, 7, 10, respectively. In this sample output, the provinces are divided into electoral districts as follows.</p>
 

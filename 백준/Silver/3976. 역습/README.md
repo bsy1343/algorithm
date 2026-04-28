@@ -22,7 +22,7 @@
 
 <p>WeissBlume FC가 이상적으로 경기를 진행할 때, 최소 난이도를 구하는 프로그램을 작성하시오.</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/3976.%E2%80%85%EC%97%AD%EC%8A%B5/202e747e.png" data-original-src="https://www.acmicpc.net/upload/images/counterattack.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/3976.%E2%80%85%EC%97%AD%EC%8A%B5/202e747e.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/3976.%E2%80%85%EC%97%AD%EC%8A%B5/202e747e.png" data-original-src="https://www.acmicpc.net/upload/images/counterattack.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>위의 그림에서 수비는 왼쪽 진영의 X마크이다. 이때, 오른쪽 진영의 X는 스트라이커이다. 스트라이커는 미리 정해진 경로를 동시에 움직인다. 미리 지정해논 점(원)에서는 공을 드리블 해서 다음 점으로 이동할지, 다른 스트라이커에게 패스를 할 지 결정을 해야 한다. 마지막 점에서 스트라이커는 슛을 하면 된다.</p>
 

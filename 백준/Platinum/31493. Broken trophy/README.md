@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/31493.%E2%80%85Broken%E2%80%85trophy/6f9d2b86.png" data-original-src="https://upload.acmicpc.net/50b1c1f5-67d1-4216-bfbe-087c76ea031f/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 276px; height: 120px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/31493.%E2%80%85Broken%E2%80%85trophy/6f9d2b86.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/31493.%E2%80%85Broken%E2%80%85trophy/6f9d2b86.png" data-original-src="https://upload.acmicpc.net/50b1c1f5-67d1-4216-bfbe-087c76ea031f/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 276px; height: 120px;" /></p>
 
 <p>Coming back home after triumphally winning your long-coveted trophy, you discover that it was shattered to pieces in your trunk. It just remains to repair it.</p>
 

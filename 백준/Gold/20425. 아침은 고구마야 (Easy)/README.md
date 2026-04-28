@@ -20,7 +20,7 @@
 
 <p>준표는 살이 쪄버렸다. 무려 체지방 25%의 비만이다. 준표는 균형 잡힌 식습관을 위해 아침마다 고구마를 먹기 시작했다. 아침마다 고구마를 먹던 준표는 고구마의 진정한 맛에 눈을 뜨고, 직접 고구마밭을 꾸려 매일 아침 최고의 고구마를 캐 먹기로 했다.</p>
 
-<p><img alt="고구마 그래프" src="%EB%B0%B1%EC%A4%80/Gold/20425.%E2%80%85%EC%95%84%EC%B9%A8%EC%9D%80%E2%80%85%EA%B3%A0%EA%B5%AC%EB%A7%88%EC%95%BC%E2%80%85(Easy)/75f5cc76.png" data-original-src="https://upload.acmicpc.net/67b454e0-968e-46c6-adb9-6adc1c7e0531/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="max-width:100%;" /></p>
+<p><img alt="고구마 그래프" src="%EB%B0%B1%EC%A4%80/Gold/20425.%E2%80%85%EC%95%84%EC%B9%A8%EC%9D%80%E2%80%85%EA%B3%A0%EA%B5%AC%EB%A7%88%EC%95%BC%E2%80%85(Easy)/75f5cc76.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/20425.%E2%80%85%EC%95%84%EC%B9%A8%EC%9D%80%E2%80%85%EA%B3%A0%EA%B5%AC%EB%A7%88%EC%95%BC%E2%80%85(Easy)/75f5cc76.png" data-original-src="https://upload.acmicpc.net/67b454e0-968e-46c6-adb9-6adc1c7e0531/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="max-width:100%;" /></p>
 
 <p>&lt;그림 1&gt; 고구마 그래프 예시</p>
 

@@ -22,7 +22,7 @@
 
 <p>예를 들어 <em>N</em>=4이고, 각 위치가 1, 5, 7, 9일 때를 가정하자.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/18310.%E2%80%85%EC%95%88%ED%85%8C%EB%82%98/f8f1bbf1.png" data-original-src="https://upload.acmicpc.net/4da9d177-d4d8-4cf7-9f91-a75d5a6ec5e6/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 113px; width: 600px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/18310.%E2%80%85%EC%95%88%ED%85%8C%EB%82%98/f8f1bbf1.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/18310.%E2%80%85%EC%95%88%ED%85%8C%EB%82%98/f8f1bbf1.png" data-original-src="https://upload.acmicpc.net/4da9d177-d4d8-4cf7-9f91-a75d5a6ec5e6/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 113px; width: 600px;" /></p>
 
 <p>이 경우 5의 위치에 설치했을 때, 안테나로부터 모든 집까지의 거리의 총 합이 (4+0+2+4)=10으로, 최소가 된다.</p>
 

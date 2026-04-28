@@ -20,7 +20,7 @@
 
 <p>예를 들어 흰색 도화지 위에 네 장의 검은색 색종이를 &lt;그림 1&gt;과 같은 모양으로 붙였다면 검은색 영역의 둘레는 96 이 된다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/2567.%E2%80%85%EC%83%89%EC%A2%85%EC%9D%B4%E2%80%85-%E2%80%852/79136a7c.png" data-original-src="https://upload.acmicpc.net/c69406f3-4cc4-48a8-a04f-11e7e4f33ab3/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 326px; height: 330px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/2567.%E2%80%85%EC%83%89%EC%A2%85%EC%9D%B4%E2%80%85-%E2%80%852/79136a7c.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/2567.%E2%80%85%EC%83%89%EC%A2%85%EC%9D%B4%E2%80%85-%E2%80%852/79136a7c.png" data-original-src="https://upload.acmicpc.net/c69406f3-4cc4-48a8-a04f-11e7e4f33ab3/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 326px; height: 330px;" /></p>
 
 <p style="text-align: center;">&lt;그림 1&gt;</p>
 

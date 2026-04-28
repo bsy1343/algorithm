@@ -28,7 +28,7 @@
 
 <p>The following figure shows two valid Sudoku boards with no empty cells:</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/20103.%E2%80%85Sudoku%E2%80%8510/aa9fa953.png" data-original-src="https://upload.acmicpc.net/34e9cbc7-57f2-4ee6-b890-e1fa4e4d4833/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 320px; height: 198px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/20103.%E2%80%85Sudoku%E2%80%8510/aa9fa953.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/20103.%E2%80%85Sudoku%E2%80%8510/aa9fa953.png" data-original-src="https://upload.acmicpc.net/34e9cbc7-57f2-4ee6-b890-e1fa4e4d4833/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 320px; height: 198px;" /></p>
 
 <p>Fereydun has a valid board with some empty cells and has asked for your help. Your task is to fill as many empty cells as you can while keeping the board valid. It is guaranteed that there is at least one way to fill all the empty cells while keeping the board valid.&nbsp;</p>
 

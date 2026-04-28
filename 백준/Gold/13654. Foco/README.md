@@ -20,7 +20,7 @@
 
 <p>Daniel sabe que, para cada objeto, existe um intervalo fechado de planos de foco no qual aquele objeto est&aacute; contido. Por exemplo, na figura abaixo, (i), (ii) e (iii) s&atilde;o tr&ecirc;s fotos da mesma cena, cada uma tirada com um foco diferente; (iv) &eacute; a imagem combinada gerada por Daniel.</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/13654.%E2%80%85Foco/68375844.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/13654/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202017-01-12%20%EC%98%A4%EC%A0%84%206.09.29.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:135px; width:482px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/13654.%E2%80%85Foco/68375844.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/13654.%E2%80%85Foco/68375844.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/13654/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202017-01-12%20%EC%98%A4%EC%A0%84%206.09.29.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:135px; width:482px" /></p>
 
 <p>Como o cart&atilde;o de memoria de sua c&acirc;mera &eacute; pequeno, ele pediu sua ajuda para, dados os intervalos de foco de todos os objetos da cena que pretende fotografar, determinar o numero m&iacute;nimo de fotos que ele deve tirar para que seja poss&iacute;vel deixar cada objeto n&iacute;tido em pelo menos uma foto.</p>
 

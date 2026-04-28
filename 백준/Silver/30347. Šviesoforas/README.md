@@ -22,7 +22,7 @@
 
 <p>Žinodami, kad nuo stovėjimo aik&scaron;telės iki starto Mantas nuvažiuos per M minučių, o pilną ratą įveiks per N minučių (žr. iliustraciją), apskaičiuokite, kiek pilnų ratų Mantas apvažiuos iki pirmo sustojimo prie &scaron;viesoforo.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/30347.%E2%80%85%C5%A0viesoforas/ffb6e578.png" data-original-src="https://upload.acmicpc.net/582503ab-d9c6-44e5-94b1-fc23b4eaf84d/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 313px; height: 174px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/30347.%E2%80%85%C5%A0viesoforas/ffb6e578.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/30347.%E2%80%85%C5%A0viesoforas/ffb6e578.png" data-original-src="https://upload.acmicpc.net/582503ab-d9c6-44e5-94b1-fc23b4eaf84d/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 313px; height: 174px;" /></p>
 
 <p>Atkreipkite dėmesį &ndash; &scaron;viesoforo laikas skaičiuojamas nuo tada, kai Mantas pajuda i&scaron; aik&scaron;telės.</p>
 

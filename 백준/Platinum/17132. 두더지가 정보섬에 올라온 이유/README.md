@@ -22,7 +22,7 @@
 
 <p>어느 날, 아래의 그림과 같은 집을 가진&nbsp;두더지는 집1에서 집4로 이동했다. 이때&nbsp;거치게 되는&nbsp;집은&nbsp;(1 &rarr;&nbsp;2 &rarr;&nbsp;3 &rarr;&nbsp;4)이다.&nbsp;두더지는 한 번 이동할 때마다,&nbsp;이동경로에 포함되는 만족도들 중에서&nbsp;가장 최소인&nbsp;만족도를 얻는다. 즉, (1&nbsp;&rarr;&nbsp;4)의&nbsp;경우에는 만족도를 2만큼, (6&nbsp;&rarr; 2)의 경우에는 만족도를 3만큼&nbsp;얻게 된다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/17132.%E2%80%85%EB%91%90%EB%8D%94%EC%A7%80%EA%B0%80%E2%80%85%EC%A0%95%EB%B3%B4%EC%84%AC%EC%97%90%E2%80%85%EC%98%AC%EB%9D%BC%EC%98%A8%E2%80%85%EC%9D%B4%EC%9C%A0/731402b0.png" data-original-src="https://upload.acmicpc.net/9fde67aa-ce73-4809-9f6f-9d23ce0bb640/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /><br />
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/17132.%E2%80%85%EB%91%90%EB%8D%94%EC%A7%80%EA%B0%80%E2%80%85%EC%A0%95%EB%B3%B4%EC%84%AC%EC%97%90%E2%80%85%EC%98%AC%EB%9D%BC%EC%98%A8%E2%80%85%EC%9D%B4%EC%9C%A0/731402b0.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/17132.%E2%80%85%EB%91%90%EB%8D%94%EC%A7%80%EA%B0%80%E2%80%85%EC%A0%95%EB%B3%B4%EC%84%AC%EC%97%90%E2%80%85%EC%98%AC%EB%9D%BC%EC%98%A8%E2%80%85%EC%9D%B4%EC%9C%A0/731402b0.png" data-original-src="https://upload.acmicpc.net/9fde67aa-ce73-4809-9f6f-9d23ce0bb640/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /><br />
 &nbsp;</p>
 
 <p>&nbsp;</p>

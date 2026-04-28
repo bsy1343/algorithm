@@ -18,7 +18,7 @@
 
 <p>Good old Marko came across a new feature on his mobile phone &ndash; T9 input! His phone has a keyboard consisting of numbers looking like this:</p>
 
-<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/11587.%E2%80%85MARKO/ca553272.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11587/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:128px; width:145px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/11587.%E2%80%85MARKO/ca553272.png" data-original-src="%EB%B0%B1%EC%A4%80/Bronze/11587.%E2%80%85MARKO/ca553272.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11587/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:128px; width:145px" /></p>
 
 <p>In order to input a word using this keyboard, one needs to press a key multiple times for the required letter. More specifically, if the required letter is the first letter mapped to the key, one key press is needed, if it&rsquo;s the second, two key presses are needed and so on. For instance, if we want to input the word &ldquo;giht&rdquo;, we will press the following keys: g-4 i-444 h-44 t-8. The new possibility Marko discovered enables you to input text more easily because you don&rsquo;t need several presses per letter anymore, just one. The software will try to figure out what word from the dictionary you are trying to input.</p>
 

@@ -20,7 +20,7 @@
 
 <p>After taking in the view from the tip of one pyramid, Carl would like to go to the tip of another. Since ants do not do particularly well in the hot sun, he wants to find the minimum distance to travel between the tips of these two pyramids, assuming he can only walk on the surfaces of the pyramids and the plane which the pyramids sit upon. The pyramids are, geometrically, right square pyramids, meaning the apex of the pyramid lies directly above the center of a square base.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/31894.%E2%80%85Carl%E2%80%99s%E2%80%85Vacation/0e99cdc3.png" data-original-src="https://upload.acmicpc.net/31661832-742e-45ba-9b18-81e3a9723a25/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 343px; height: 300px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/31894.%E2%80%85Carl%E2%80%99s%E2%80%85Vacation/0e99cdc3.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/31894.%E2%80%85Carl%E2%80%99s%E2%80%85Vacation/0e99cdc3.png" data-original-src="https://upload.acmicpc.net/31661832-742e-45ba-9b18-81e3a9723a25/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 343px; height: 300px;" /></p>
 
 <p style="text-align: center;"><b>Figure 1</b>: Illustration of two pyramids corresponding to Sample Input 1. The black line shows the shortest path between their apexes.</p>
 

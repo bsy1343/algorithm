@@ -22,7 +22,7 @@
 
 <p>The diagram below indicates the first test case in the sample data. Note that Friendship One is small enough compared to the size of the craters that it can be treated as a point; it has no area.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/9304.%E2%80%85Canyon%E2%80%85Crossing/43de4365.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/9304/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:283px; width:514px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/9304.%E2%80%85Canyon%E2%80%85Crossing/43de4365.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/9304.%E2%80%85Canyon%E2%80%85Crossing/43de4365.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/9304/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:283px; width:514px" /></p>
 
 ### 입력
 

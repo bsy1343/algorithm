@@ -37,7 +37,7 @@
 
 <p>Paprastumo delei pateiksime atitinkamą lentelę su simbolių numeriais.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/7247.%E2%80%85%C5%A0ifravimas/a27c70b9.png" data-original-src="https://upload.acmicpc.net/9e551a43-9d7b-4f17-b781-a2909d44f7bf/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 459px; height: 320px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/7247.%E2%80%85%C5%A0ifravimas/a27c70b9.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/7247.%E2%80%85%C5%A0ifravimas/a27c70b9.png" data-original-src="https://upload.acmicpc.net/9e551a43-9d7b-4f17-b781-a2909d44f7bf/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 459px; height: 320px;" /></p>
 
 <p>Pavyzdžiui, tekstas &bdquo;<code>GERI_ORAI.</code>&ldquo; pagal Igno ir Simono algoritmą bus už&scaron;ifruotas kaip &bdquo;<code>YJDEVLDBEA</code>&ldquo;. Tai lengva patikrinti. Imkime pirmąją raidę <code>G</code>:</p>
 

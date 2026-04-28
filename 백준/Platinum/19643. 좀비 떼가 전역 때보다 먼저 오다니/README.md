@@ -22,11 +22,11 @@
 
 <p>킬로는 자신이 개인화기 사격으로 좀비 떼를 저지할 테니 헥토에게 탄약을 운반할 것을 지시했다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/19643.%E2%80%85%EC%A2%80%EB%B9%84%E2%80%85%EB%96%BC%EA%B0%80%E2%80%85%EC%A0%84%EC%97%AD%E2%80%85%EB%95%8C%EB%B3%B4%EB%8B%A4%E2%80%85%EB%A8%BC%EC%A0%80%E2%80%85%EC%98%A4%EB%8B%A4%EB%8B%88/96084473.png" data-original-src="https://upload.acmicpc.net/2c4ee10d-f1e1-4c62-bee2-01f1eb8eae55/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/19643.%E2%80%85%EC%A2%80%EB%B9%84%E2%80%85%EB%96%BC%EA%B0%80%E2%80%85%EC%A0%84%EC%97%AD%E2%80%85%EB%95%8C%EB%B3%B4%EB%8B%A4%E2%80%85%EB%A8%BC%EC%A0%80%E2%80%85%EC%98%A4%EB%8B%A4%EB%8B%88/96084473.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/19643.%E2%80%85%EC%A2%80%EB%B9%84%E2%80%85%EB%96%BC%EA%B0%80%E2%80%85%EC%A0%84%EC%97%AD%E2%80%85%EB%95%8C%EB%B3%B4%EB%8B%A4%E2%80%85%EB%A8%BC%EC%A0%80%E2%80%85%EC%98%A4%EB%8B%A4%EB%8B%88/96084473.png" data-original-src="https://upload.acmicpc.net/2c4ee10d-f1e1-4c62-bee2-01f1eb8eae55/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>특급전사 킬로의 조준사격은 탄약고 초소 길 위의 좀비가 아무리 멀리 있다 하더라도 맨 앞의 좀비에게 반드시 명중한다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/19643.%E2%80%85%EC%A2%80%EB%B9%84%E2%80%85%EB%96%BC%EA%B0%80%E2%80%85%EC%A0%84%EC%97%AD%E2%80%85%EB%95%8C%EB%B3%B4%EB%8B%A4%E2%80%85%EB%A8%BC%EC%A0%80%E2%80%85%EC%98%A4%EB%8B%A4%EB%8B%88/3b19443b.png" data-original-src="https://upload.acmicpc.net/018a8767-a8bd-4897-b5fe-ce179986b002/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/19643.%E2%80%85%EC%A2%80%EB%B9%84%E2%80%85%EB%96%BC%EA%B0%80%E2%80%85%EC%A0%84%EC%97%AD%E2%80%85%EB%95%8C%EB%B3%B4%EB%8B%A4%E2%80%85%EB%A8%BC%EC%A0%80%E2%80%85%EC%98%A4%EB%8B%A4%EB%8B%88/3b19443b.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/19643.%E2%80%85%EC%A2%80%EB%B9%84%E2%80%85%EB%96%BC%EA%B0%80%E2%80%85%EC%A0%84%EC%97%AD%E2%80%85%EB%95%8C%EB%B3%B4%EB%8B%A4%E2%80%85%EB%A8%BC%EC%A0%80%E2%80%85%EC%98%A4%EB%8B%A4%EB%8B%88/3b19443b.png" data-original-src="https://upload.acmicpc.net/018a8767-a8bd-4897-b5fe-ce179986b002/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>또한, 맨 앞의 좀비를 두고 다른 좀비를 조준 사격할 수 없다. 즉, 위와 같은 조준 사격은 할 수 없다.</p>
 
@@ -40,9 +40,9 @@
 	<li>돌격소총 (B1)</li>
 </ul>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/19643.%E2%80%85%EC%A2%80%EB%B9%84%E2%80%85%EB%96%BC%EA%B0%80%E2%80%85%EC%A0%84%EC%97%AD%E2%80%85%EB%95%8C%EB%B3%B4%EB%8B%A4%E2%80%85%EB%A8%BC%EC%A0%80%E2%80%85%EC%98%A4%EB%8B%A4%EB%8B%88/a3d7684b.png" data-original-src="https://upload.acmicpc.net/13b24a49-f448-4ba9-96e3-bbe5a598a7c2/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/19643.%E2%80%85%EC%A2%80%EB%B9%84%E2%80%85%EB%96%BC%EA%B0%80%E2%80%85%EC%A0%84%EC%97%AD%E2%80%85%EB%95%8C%EB%B3%B4%EB%8B%A4%E2%80%85%EB%A8%BC%EC%A0%80%E2%80%85%EC%98%A4%EB%8B%A4%EB%8B%88/a3d7684b.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/19643.%E2%80%85%EC%A2%80%EB%B9%84%E2%80%85%EB%96%BC%EA%B0%80%E2%80%85%EC%A0%84%EC%97%AD%E2%80%85%EB%95%8C%EB%B3%B4%EB%8B%A4%E2%80%85%EB%A8%BC%EC%A0%80%E2%80%85%EC%98%A4%EB%8B%A4%EB%8B%88/a3d7684b.png" data-original-src="https://upload.acmicpc.net/13b24a49-f448-4ba9-96e3-bbe5a598a7c2/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/19643.%E2%80%85%EC%A2%80%EB%B9%84%E2%80%85%EB%96%BC%EA%B0%80%E2%80%85%EC%A0%84%EC%97%AD%E2%80%85%EB%95%8C%EB%B3%B4%EB%8B%A4%E2%80%85%EB%A8%BC%EC%A0%80%E2%80%85%EC%98%A4%EB%8B%A4%EB%8B%88/92b3207c.png" data-original-src="https://upload.acmicpc.net/f0b4a821-cc9f-420b-a6ab-84e67062a261/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/19643.%E2%80%85%EC%A2%80%EB%B9%84%E2%80%85%EB%96%BC%EA%B0%80%E2%80%85%EC%A0%84%EC%97%AD%E2%80%85%EB%95%8C%EB%B3%B4%EB%8B%A4%E2%80%85%EB%A8%BC%EC%A0%80%E2%80%85%EC%98%A4%EB%8B%A4%EB%8B%88/92b3207c.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/19643.%E2%80%85%EC%A2%80%EB%B9%84%E2%80%85%EB%96%BC%EA%B0%80%E2%80%85%EC%A0%84%EC%97%AD%E2%80%85%EB%95%8C%EB%B3%B4%EB%8B%A4%E2%80%85%EB%A8%BC%EC%A0%80%E2%80%85%EC%98%A4%EB%8B%A4%EB%8B%88/92b3207c.png" data-original-src="https://upload.acmicpc.net/f0b4a821-cc9f-420b-a6ab-84e67062a261/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>맨 앞의 좀비의 체력을&nbsp;<em>B1<sub>power</sub></em> 낮춘다.</p>
 
@@ -54,9 +54,9 @@
 	<li>산탄총 (B2)</li>
 </ul>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/19643.%E2%80%85%EC%A2%80%EB%B9%84%E2%80%85%EB%96%BC%EA%B0%80%E2%80%85%EC%A0%84%EC%97%AD%E2%80%85%EB%95%8C%EB%B3%B4%EB%8B%A4%E2%80%85%EB%A8%BC%EC%A0%80%E2%80%85%EC%98%A4%EB%8B%A4%EB%8B%88/4bb24e48.png" data-original-src="https://upload.acmicpc.net/aab0b50d-7ae8-4a17-ab5e-eca5271e10c4/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/19643.%E2%80%85%EC%A2%80%EB%B9%84%E2%80%85%EB%96%BC%EA%B0%80%E2%80%85%EC%A0%84%EC%97%AD%E2%80%85%EB%95%8C%EB%B3%B4%EB%8B%A4%E2%80%85%EB%A8%BC%EC%A0%80%E2%80%85%EC%98%A4%EB%8B%A4%EB%8B%88/4bb24e48.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/19643.%E2%80%85%EC%A2%80%EB%B9%84%E2%80%85%EB%96%BC%EA%B0%80%E2%80%85%EC%A0%84%EC%97%AD%E2%80%85%EB%95%8C%EB%B3%B4%EB%8B%A4%E2%80%85%EB%A8%BC%EC%A0%80%E2%80%85%EC%98%A4%EB%8B%A4%EB%8B%88/4bb24e48.png" data-original-src="https://upload.acmicpc.net/aab0b50d-7ae8-4a17-ab5e-eca5271e10c4/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/19643.%E2%80%85%EC%A2%80%EB%B9%84%E2%80%85%EB%96%BC%EA%B0%80%E2%80%85%EC%A0%84%EC%97%AD%E2%80%85%EB%95%8C%EB%B3%B4%EB%8B%A4%E2%80%85%EB%A8%BC%EC%A0%80%E2%80%85%EC%98%A4%EB%8B%A4%EB%8B%88/9266af58.png" data-original-src="https://upload.acmicpc.net/c7af4d8b-c517-448a-b68a-e8d08cbbdbf7/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/19643.%E2%80%85%EC%A2%80%EB%B9%84%E2%80%85%EB%96%BC%EA%B0%80%E2%80%85%EC%A0%84%EC%97%AD%E2%80%85%EB%95%8C%EB%B3%B4%EB%8B%A4%E2%80%85%EB%A8%BC%EC%A0%80%E2%80%85%EC%98%A4%EB%8B%A4%EB%8B%88/9266af58.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/19643.%E2%80%85%EC%A2%80%EB%B9%84%E2%80%85%EB%96%BC%EA%B0%80%E2%80%85%EC%A0%84%EC%97%AD%E2%80%85%EB%95%8C%EB%B3%B4%EB%8B%A4%E2%80%85%EB%A8%BC%EC%A0%80%E2%80%85%EC%98%A4%EB%8B%A4%EB%8B%88/9266af58.png" data-original-src="https://upload.acmicpc.net/c7af4d8b-c517-448a-b68a-e8d08cbbdbf7/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>맨 앞의 좀비의 체력을&nbsp;<em>B2<sub>power</sub></em> 낮춘다.</p>
 
@@ -68,9 +68,9 @@
 	<li>저격 소총 (B3)</li>
 </ul>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/19643.%E2%80%85%EC%A2%80%EB%B9%84%E2%80%85%EB%96%BC%EA%B0%80%E2%80%85%EC%A0%84%EC%97%AD%E2%80%85%EB%95%8C%EB%B3%B4%EB%8B%A4%E2%80%85%EB%A8%BC%EC%A0%80%E2%80%85%EC%98%A4%EB%8B%A4%EB%8B%88/9179fe4b.png" data-original-src="https://upload.acmicpc.net/900b2c6b-7a87-4bc5-9a78-6778092d96a2/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/19643.%E2%80%85%EC%A2%80%EB%B9%84%E2%80%85%EB%96%BC%EA%B0%80%E2%80%85%EC%A0%84%EC%97%AD%E2%80%85%EB%95%8C%EB%B3%B4%EB%8B%A4%E2%80%85%EB%A8%BC%EC%A0%80%E2%80%85%EC%98%A4%EB%8B%A4%EB%8B%88/9179fe4b.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/19643.%E2%80%85%EC%A2%80%EB%B9%84%E2%80%85%EB%96%BC%EA%B0%80%E2%80%85%EC%A0%84%EC%97%AD%E2%80%85%EB%95%8C%EB%B3%B4%EB%8B%A4%E2%80%85%EB%A8%BC%EC%A0%80%E2%80%85%EC%98%A4%EB%8B%A4%EB%8B%88/9179fe4b.png" data-original-src="https://upload.acmicpc.net/900b2c6b-7a87-4bc5-9a78-6778092d96a2/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/19643.%E2%80%85%EC%A2%80%EB%B9%84%E2%80%85%EB%96%BC%EA%B0%80%E2%80%85%EC%A0%84%EC%97%AD%E2%80%85%EB%95%8C%EB%B3%B4%EB%8B%A4%E2%80%85%EB%A8%BC%EC%A0%80%E2%80%85%EC%98%A4%EB%8B%A4%EB%8B%88/83c120ef.png" data-original-src="https://upload.acmicpc.net/1283fce5-2c63-47f7-a276-6b5b5970095c/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/19643.%E2%80%85%EC%A2%80%EB%B9%84%E2%80%85%EB%96%BC%EA%B0%80%E2%80%85%EC%A0%84%EC%97%AD%E2%80%85%EB%95%8C%EB%B3%B4%EB%8B%A4%E2%80%85%EB%A8%BC%EC%A0%80%E2%80%85%EC%98%A4%EB%8B%A4%EB%8B%88/83c120ef.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/19643.%E2%80%85%EC%A2%80%EB%B9%84%E2%80%85%EB%96%BC%EA%B0%80%E2%80%85%EC%A0%84%EC%97%AD%E2%80%85%EB%95%8C%EB%B3%B4%EB%8B%A4%E2%80%85%EB%A8%BC%EC%A0%80%E2%80%85%EC%98%A4%EB%8B%A4%EB%8B%88/83c120ef.png" data-original-src="https://upload.acmicpc.net/1283fce5-2c63-47f7-a276-6b5b5970095c/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>최초 명중한 곳으로부터&nbsp;<em>B3<sub>length</sub></em> m 내에 모인 좀비의 체력을 각 1 m마다&nbsp;<em>B3<sub>power</sub></em>씩 낮춘다.&nbsp;</p>
 

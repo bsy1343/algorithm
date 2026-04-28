@@ -18,7 +18,7 @@
 
 <p>주사위 윷놀이는 다음과 같은 게임판에서 하는 게임이다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/17825.%E2%80%85%EC%A3%BC%EC%82%AC%EC%9C%84%E2%80%85%EC%9C%B7%EB%86%80%EC%9D%B4/c5a77a22.png" data-original-src="https://upload.acmicpc.net/43409ac6-54bf-4a21-b542-e01a8211e59f/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 640px; height: 585px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/17825.%E2%80%85%EC%A3%BC%EC%82%AC%EC%9C%84%E2%80%85%EC%9C%B7%EB%86%80%EC%9D%B4/c5a77a22.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/17825.%E2%80%85%EC%A3%BC%EC%82%AC%EC%9C%84%E2%80%85%EC%9C%B7%EB%86%80%EC%9D%B4/c5a77a22.png" data-original-src="https://upload.acmicpc.net/43409ac6-54bf-4a21-b542-e01a8211e59f/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 640px; height: 585px;" /></p>
 
 <ul>
 	<li>처음에는 시작 칸에 말 4개가 있다.</li>

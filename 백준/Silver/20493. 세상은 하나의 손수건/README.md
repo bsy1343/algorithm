@@ -20,7 +20,7 @@
 
 <p>준원이는 천하제일코딩대회가 진행 중인 지금 구름같이 행복한 하루를 보내고 있지만,&nbsp;애석하게도 여러분은 문제를 풀어야 한다. 준원이가 오늘 에버랜드 대신 x축과 y축이 있는 좌표평면의 원점에서 걷고 있다고 생각해보자. 준원이의 초기 위치는 (0, 0)이고, x축 방향으로 초당 1의 속도로 움직이고 있다.&nbsp;즉, 매초 준원이의 x좌표가 1만큼 증가하고 있다.&nbsp;그렇지만 준원이는 가끔씩 방향을 바꾼다.&nbsp;방향을 바꿀 때에는 왼쪽으로 90도만큼 돌거나 오른쪽으로 90도만큼 돈다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/20493.%E2%80%85%EC%84%B8%EC%83%81%EC%9D%80%E2%80%85%ED%95%98%EB%82%98%EC%9D%98%E2%80%85%EC%86%90%EC%88%98%EA%B1%B4/47038b59.png" data-original-src="https://upload.acmicpc.net/fe4b8c1d-cfc4-4c7c-807b-89932cd048f8/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 286px; width: 400px;" /><br />
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/20493.%E2%80%85%EC%84%B8%EC%83%81%EC%9D%80%E2%80%85%ED%95%98%EB%82%98%EC%9D%98%E2%80%85%EC%86%90%EC%88%98%EA%B1%B4/47038b59.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/20493.%E2%80%85%EC%84%B8%EC%83%81%EC%9D%80%E2%80%85%ED%95%98%EB%82%98%EC%9D%98%E2%80%85%EC%86%90%EC%88%98%EA%B1%B4/47038b59.png" data-original-src="https://upload.acmicpc.net/fe4b8c1d-cfc4-4c7c-807b-89932cd048f8/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 286px; width: 400px;" /><br />
 &nbsp;</p>
 
 <p>준원이가 방향을 바꾼 기록이 입력으로 주어졌을 때,&nbsp;준원이가 T초간 걸어간 이후 도착했을 좌표를 구하는 프로그램을 작성하시오.</p>

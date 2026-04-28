@@ -38,6 +38,6 @@
 
 ### 힌트
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/8410.%E2%80%85Meeting/4aa91cfd.png" data-original-src="https://upload.acmicpc.net/c10e6183-c4a2-4e27-a48b-116244e438a3/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/8410.%E2%80%85Meeting/4aa91cfd.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/8410.%E2%80%85Meeting/4aa91cfd.png" data-original-src="https://upload.acmicpc.net/c10e6183-c4a2-4e27-a48b-116244e438a3/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p style="text-align: center;">All possible ways of shaking hands.</p>

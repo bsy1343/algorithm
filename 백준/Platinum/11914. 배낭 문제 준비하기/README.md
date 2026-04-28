@@ -20,7 +20,7 @@
 
 <p>예를 들어 아래와 같은 유명한 문제를 생각해 봅시다.</p>
 
-<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/11914.%E2%80%85%EB%B0%B0%EB%82%AD%E2%80%85%EB%AC%B8%EC%A0%9C%E2%80%85%EC%A4%80%EB%B9%84%ED%95%98%EA%B8%B0/d4ac3971.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11914/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:282px; width:384px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/11914.%E2%80%85%EB%B0%B0%EB%82%AD%E2%80%85%EB%AC%B8%EC%A0%9C%E2%80%85%EC%A4%80%EB%B9%84%ED%95%98%EA%B8%B0/d4ac3971.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/11914.%E2%80%85%EB%B0%B0%EB%82%AD%E2%80%85%EB%AC%B8%EC%A0%9C%E2%80%85%EC%A4%80%EB%B9%84%ED%95%98%EA%B8%B0/d4ac3971.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11914/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:282px; width:384px" /></p>
 
 <p>저는 이 문제에서 발생할 수 있는 다양한 오답들을 떠올리다가, 답이 정확히 t인 데이터에서 t - 1을 출력하는 답안을 생각해냈습니다. 이러한 답안을 걸러주는 데이터를 마련하기 위해, 저는 어떤 자연수 t가 주어졌을 때, 위 문제의 답이 t가 되도록 하는 집합 S와 자연수 k를 구해주는 프로그램이 필요합니다.</p>
 

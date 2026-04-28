@@ -24,7 +24,7 @@
 
 <p>It is guaranteed that the buildings will not contain any hovering parts: whenever a pixel that is not on the bottom row of the photo is classified as building, the pixels below it will also be classified as building.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/26001.%E2%80%85Jagged%E2%80%85Skyline/1a06943f.png" data-original-src="https://upload.acmicpc.net/c3f5c7cb-e7ea-4a42-b2cb-8810b7f5cc98/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 300px; height: 174px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/26001.%E2%80%85Jagged%E2%80%85Skyline/1a06943f.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/26001.%E2%80%85Jagged%E2%80%85Skyline/1a06943f.png" data-original-src="https://upload.acmicpc.net/c3f5c7cb-e7ea-4a42-b2cb-8810b7f5cc98/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 300px; height: 174px;" /></p>
 
 <p style="text-align: center;">Figure J.1: The skyline of the sample interaction.</p>
 

@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/14627.%E2%80%85%ED%8C%8C%EB%8B%AD%ED%8C%8C%EB%8B%AD/6621be05.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14627/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:195px; width:258px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/14627.%E2%80%85%ED%8C%8C%EB%8B%AD%ED%8C%8C%EB%8B%AD/6621be05.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/14627.%E2%80%85%ED%8C%8C%EB%8B%AD%ED%8C%8C%EB%8B%AD/6621be05.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14627/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:195px; width:258px" /></p>
 
 <p>평소 요리에 관심이 많은 승균이는 치킨집을 개업하였다. 승균이네 치킨집은 파닭이 주메뉴다. 승균이는 가게를 오픈하기 전에 남부시장에 들러서 길이가 일정하지 않은 파를 여러 개 구매하였다. 승균이는 파닭의 일정한 맛을 유지하기 위해 각각의 파닭에 같은 양의 파를 넣는다. 또 파닭 맛은 파의 양에 따라 좌우된다고 생각하기 때문에 될 수 있는 한 파의 양을 최대한 많이 넣으려고 한다. (하지만 하나의 파닭에는 하나 이상의 파가 들어가면 안 된다.) 힘든 하루를 마치고 승균이는 파닭을 만들고 남은 파를 라면에 넣어 먹으려고 한다. 이때 라면에 넣을 파의 양을 구하는 프로그램을 작성하시오. 승균이네 치킨집 자는 정수만 표현되기 때문에 정수의 크기로만 자를 수 있다.</p>
 

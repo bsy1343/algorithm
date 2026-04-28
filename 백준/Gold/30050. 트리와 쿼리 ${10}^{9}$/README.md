@@ -27,7 +27,7 @@
 
 <p>1번 쿼리를 수행한 후에도 항상 트리의 조건을 만족함을 증명할 수 있다. 2번 쿼리는 최소 한 번 이상 주어진다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/30050.%E2%80%85%ED%8A%B8%EB%A6%AC%EC%99%80%E2%80%85%EC%BF%BC%EB%A6%AC%E2%80%85%24%7B10%7D%5E%7B9%7D%24/2e9c8fb9.png" data-original-src="https://upload.acmicpc.net/a62a5742-b786-4329-b92f-22d420b8a4dc/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/30050.%E2%80%85%ED%8A%B8%EB%A6%AC%EC%99%80%E2%80%85%EC%BF%BC%EB%A6%AC%E2%80%85%24%7B10%7D%5E%7B9%7D%24/2e9c8fb9.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/30050.%E2%80%85%ED%8A%B8%EB%A6%AC%EC%99%80%E2%80%85%EC%BF%BC%EB%A6%AC%E2%80%85%24%7B10%7D%5E%7B9%7D%24/2e9c8fb9.png" data-original-src="https://upload.acmicpc.net/a62a5742-b786-4329-b92f-22d420b8a4dc/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 ### 입력
 

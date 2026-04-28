@@ -35,7 +35,7 @@
 	<li>$N$번째 차례까지 게임이 끝나지 않으면 무승부로 게임은 종료된다.</li>
 </ol>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/27947.%E2%80%85%EA%B0%80%EC%A7%80%E2%80%85%EB%B0%AD%E2%80%85%EA%B2%8C%EC%9E%84/a15e7595.png" data-original-src="https://upload.acmicpc.net/4565f853-d3d2-4c01-abde-5e767fb47f5e/-" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="max-width: min(100%,586px); height: auto;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/27947.%E2%80%85%EA%B0%80%EC%A7%80%E2%80%85%EB%B0%AD%E2%80%85%EA%B2%8C%EC%9E%84/a15e7595.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/27947.%E2%80%85%EA%B0%80%EC%A7%80%E2%80%85%EB%B0%AD%E2%80%85%EA%B2%8C%EC%9E%84/a15e7595.png" data-original-src="https://upload.acmicpc.net/4565f853-d3d2-4c01-abde-5e767fb47f5e/-" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="max-width: min(100%,586px); height: auto;" /></p>
 
 <p style="text-align: center;"><small>플레이어 차례에 일어나는 일</small></p>
 

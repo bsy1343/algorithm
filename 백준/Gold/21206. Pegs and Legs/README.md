@@ -20,7 +20,7 @@
 
 <p>You start with a disk at the top and drop it onto some <em>drop point</em> peg or directly into some <em>drop point</em> leg. When your disk hits a peg, one of three things happen: (1) the disk falls to the left with probability $\ell$, (2) the disk falls to the right with probability $r$, or (3) it gets stuck with probability $1 - \ell - r$. The probabilities may be different for each peg. If the disk falls to the left or to the right, then it will either fall onto another peg or into a leg. If the disk gets stuck, then you must drop it again from some drop point on the top. The figure below illustrates the 3rd sample input, the two dark pegs are the drop points.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/21206.%E2%80%85Pegs%E2%80%85and%E2%80%85Legs/2573b484.png" data-original-src="https://upload.acmicpc.net/b8dc39fe-2690-4526-8936-2cbedcbefb1c/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 300px; height: 225px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/21206.%E2%80%85Pegs%E2%80%85and%E2%80%85Legs/2573b484.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/21206.%E2%80%85Pegs%E2%80%85and%E2%80%85Legs/2573b484.png" data-original-src="https://upload.acmicpc.net/b8dc39fe-2690-4526-8936-2cbedcbefb1c/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 300px; height: 225px;" /></p>
 
 <p>Because of gravity it is not possible for a disk to hit the same peg more than once unless the disk is dropped again. The game continues until your disk lands in a leg, at which point you earn the value of that leg. What is the maximum possible expected score the player can earn?</p>
 

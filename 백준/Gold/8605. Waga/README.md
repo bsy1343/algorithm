@@ -32,6 +32,6 @@
 
 ### 힌트
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/8605.%E2%80%85Waga/b073237a.png" data-original-src="https://upload.acmicpc.net/73604a03-bd4f-4bf0-a75b-df43cd0c1008/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/8605.%E2%80%85Waga/b073237a.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/8605.%E2%80%85Waga/b073237a.png" data-original-src="https://upload.acmicpc.net/73604a03-bd4f-4bf0-a75b-df43cd0c1008/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p><b>Wyjaśnienie do przykładu:</b>&nbsp;Suma wag cegiełek na lewej szalce jest r&oacute;wna 8, a na prawej 9. Aby zr&oacute;wnoważyć szalki, Bajtek może zdjąć po jednej cegiełce z drugiej wieży na lewej szalce i z pierwszej wieży na prawej szalce; w&oacute;wczas obciążenie szalek wyniesie&nbsp;$3 + 4 + (-1) = 6 = 7 + (-2) + 1$.</p>

@@ -24,7 +24,7 @@
 
 <p style="text-align: center;">농작물로부터 농토 경계까지의 최단 거리를 <em>c<sub>i</sub></em> 라고 하면, 농작물마다 매일 <em>w<sub>i</sub></em> &times;&nbsp;<em>c<sub>i</sub></em> 달러</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/18120.%E2%80%85%EB%8C%80%EB%86%8D%EB%B6%80%E2%80%85%EA%B9%80%EC%83%81%ED%98%81/776ca20c.png" data-original-src="https://upload.acmicpc.net/da08b1c1-458c-469a-9bfa-eb56375038b7/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 480px; width: 477px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/18120.%E2%80%85%EB%8C%80%EB%86%8D%EB%B6%80%E2%80%85%EA%B9%80%EC%83%81%ED%98%81/776ca20c.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/18120.%E2%80%85%EB%8C%80%EB%86%8D%EB%B6%80%E2%80%85%EA%B9%80%EC%83%81%ED%98%81/776ca20c.png" data-original-src="https://upload.acmicpc.net/da08b1c1-458c-469a-9bfa-eb56375038b7/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 480px; width: 477px;" /></p>
 
 <p>위의 예시는 농작물들과 농토를&nbsp;2차원 좌표평면 상에 나타낸 그림이다. 초록색 원(<em>r&nbsp;</em>= 3)은 농토의 경계를 의미한다. 농작물&nbsp;밑에&nbsp;나온 수들은&nbsp;농작물의 가치이다. 이 때 농토 바깥에 있는 농작물들은 황무지에 있으므로 수확되지 않는다.</p>
 

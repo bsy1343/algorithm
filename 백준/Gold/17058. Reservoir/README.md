@@ -18,7 +18,7 @@
 
 <p>A big reservoir was built in Red river using a dam. Assume that the reservoir is a rectangular box with unit length width. The reservoir consists of many tanks. An example a cross section of an empty reservoir along its length and height dimensions is shown in the picture below:&nbsp;</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/17058.%E2%80%85Reservoir/9955098b.png" data-original-src="https://upload.acmicpc.net/20984629-371a-4053-9aba-b19a15905697/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 288px; height: 213px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/17058.%E2%80%85Reservoir/9955098b.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/17058.%E2%80%85Reservoir/9955098b.png" data-original-src="https://upload.acmicpc.net/20984629-371a-4053-9aba-b19a15905697/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 288px; height: 213px;" /></p>
 
 <p>Water flows in from the top left gate into the reservoir. The tanks in the resevoir are constructed using water resistant walls. Each wall is one unit length thick (along the width dimention) and has its height smaller than the height of the reservoir.</p>
 
@@ -46,4 +46,4 @@
 
 <p>Explanations:</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/17058.%E2%80%85Reservoir/dda0180d.png" data-original-src="https://upload.acmicpc.net/b8895c44-b22f-43a5-bb6f-20ed1b47a8fb/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 591px; height: 466px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/17058.%E2%80%85Reservoir/dda0180d.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/17058.%E2%80%85Reservoir/dda0180d.png" data-original-src="https://upload.acmicpc.net/b8895c44-b22f-43a5-bb6f-20ed1b47a8fb/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 591px; height: 466px;" /></p>

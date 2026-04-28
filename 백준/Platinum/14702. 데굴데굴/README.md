@@ -36,6 +36,6 @@
 
 ### 힌트
 
-<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/14702.%E2%80%85%EB%8D%B0%EA%B5%B4%EB%8D%B0%EA%B5%B4/90e7a597.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14702/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:112px; width:339px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/14702.%E2%80%85%EB%8D%B0%EA%B5%B4%EB%8D%B0%EA%B5%B4/90e7a597.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/14702.%E2%80%85%EB%8D%B0%EA%B5%B4%EB%8D%B0%EA%B5%B4/90e7a597.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14702/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:112px; width:339px" /></p>
 
 <p>위의 그림은 첫 번째 요청에 대해 물이 차지하는 영역이 삼각형, 사각형, 오각형을 이루는 경우이다.</p>

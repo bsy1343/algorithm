@@ -34,7 +34,7 @@
 	<li>원의 중심이 19.701191, 19.203466), 반지름이 19.913790</li>
 </ul>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/3881.%E2%80%85%EB%A7%90%ED%8C%8C%ED%8B%B0%E2%80%85%EC%9B%90/e102683b.png" data-original-src="https://www.acmicpc.net/upload/images/malfatti.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:173px; width:615px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/3881.%E2%80%85%EB%A7%90%ED%8C%8C%ED%8B%B0%E2%80%85%EC%9B%90/e102683b.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/3881.%E2%80%85%EB%A7%90%ED%8C%8C%ED%8B%B0%E2%80%85%EC%9B%90/e102683b.png" data-original-src="https://www.acmicpc.net/upload/images/malfatti.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:173px; width:615px" /></p>
 
 <p>삼각형이 주어졌을 때, 말파티 원을 구하는 프로그램을 작성하시오.</p>
 

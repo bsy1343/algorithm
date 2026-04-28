@@ -16,13 +16,13 @@
 
 ### 문제 설명
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/29156.%E2%80%85%ED%83%AD%E2%80%85UI/32115044.png" data-original-src="https://upload.acmicpc.net/5e02aa5b-67e4-40d8-a849-312eb5b28d8c/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 100%" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/29156.%E2%80%85%ED%83%AD%E2%80%85UI/32115044.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/29156.%E2%80%85%ED%83%AD%E2%80%85UI/32115044.png" data-original-src="https://upload.acmicpc.net/5e02aa5b-67e4-40d8-a849-312eb5b28d8c/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 100%" /></p>
 
 <p>탭 UI는 여러 탭이 일렬로 나열되어 특정 탭을 클릭하면 해당 탭에 대한 내용을 확인할 수 있는 UI(User Interface)이다. 화면 내에 있는 탭은 노출되고 좌우로 화면을 벗어난 탭은 노출되지 않으며 사용자가 화면을 스크롤하면 전체 탭이 이동하여 화면에 노출되는 탭이 변화한다. 사용자는 화면에 노출된 탭 중에서 원하는 탭을 클릭하여 내용을 확인할 수 있다. 각 탭은 길이를 가지며 인접한 탭 사이 간격은 없는 것으로 생각한다.</p>
 
 <p>전체 탭이 왼쪽으로 이동하는 방향을 양의 방향이라 하고, 전체 탭이 오른쪽으로 이동하는 방향을 음의 방향이라 하자. 위치 $x$에서 양의 방향으로 $a$만큼 이동하면 위치는 $x+a$가 되고, 위치 $x$에서 음의 방향으로 $a$만큼 이동하면 위치는 $x-a$가 된다. <strong>가장 왼쪽에 있는 탭의 왼쪽 끝과 화면의 왼쪽 끝이 일치하는 순간의 위치는 $0$이다</strong>.</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/29156.%E2%80%85%ED%83%AD%E2%80%85UI/5cfa1319.png" data-original-src="https://upload.acmicpc.net/33bb171f-3b3d-495f-a405-34e6de2b73e0/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 100%;" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/29156.%E2%80%85%ED%83%AD%E2%80%85UI/5cfa1319.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/29156.%E2%80%85%ED%83%AD%E2%80%85UI/5cfa1319.png" data-original-src="https://upload.acmicpc.net/33bb171f-3b3d-495f-a405-34e6de2b73e0/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 100%;" /></p>
 
 <ul>
 	<li>위 그림의 초기 화면에서는 왼쪽에서부터 첫 번째 탭인 &ldquo;DP&rdquo; 탭이 화면 왼쪽으로 벗어나 있고, 왼쪽에서부터 두 번째 탭인 &ldquo;그리디&rdquo; 탭의 왼쪽 끝과 화면의 왼쪽 끝이 일치한다. 이때 위치는 $2$이다.</li>
@@ -38,7 +38,7 @@
 	<li>모든 탭의 길이의 합이 화면의 길이보다 작다면, 가장 왼쪽에 있는 탭의 왼쪽 끝과 화면의 왼쪽 끝이 일치하는 순간 더 이상 양의 방향으로 이동하지 않는다.</li>
 </ul>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/29156.%E2%80%85%ED%83%AD%E2%80%85UI/d427c464.png" data-original-src="https://upload.acmicpc.net/870c38d2-3e03-4471-a6a2-653db9eff66b/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 512px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/29156.%E2%80%85%ED%83%AD%E2%80%85UI/d427c464.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/29156.%E2%80%85%ED%83%AD%E2%80%85UI/d427c464.png" data-original-src="https://upload.acmicpc.net/870c38d2-3e03-4471-a6a2-653db9eff66b/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 512px;" /></p>
 
 <p><strong>탭을 클릭하면 해당 탭의 중앙이 화면의 중앙과 일치하도록 하는 방향으로 이동하다 더 이상 이동할 수 없다면 그 위치에서 멈춘다</strong>. 사용자가 탭을 클릭한 순서대로, 각 탭을 클릭하고 난 직후의 위치를 구하시오.</p>
 

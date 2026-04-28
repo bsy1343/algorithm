@@ -24,7 +24,7 @@
 
 <p>아래 그림은 $(N, K) = (8, 3)$일 때 가능한 이동 중 하나이다. $(8, 5)$ 등의 예시도 될 수 있다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/26526.%E2%80%85%EC%82%B4%EC%96%BC%EC%9D%8C%ED%8C%90%E2%80%85%EA%B1%B7%EA%B8%B0/1ec64d70.png" data-original-src="https://upload.acmicpc.net/0b19ee84-452c-4451-8585-e8bb205b68b1/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 700px; height: 185px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/26526.%E2%80%85%EC%82%B4%EC%96%BC%EC%9D%8C%ED%8C%90%E2%80%85%EA%B1%B7%EA%B8%B0/1ec64d70.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/26526.%E2%80%85%EC%82%B4%EC%96%BC%EC%9D%8C%ED%8C%90%E2%80%85%EA%B1%B7%EA%B8%B0/1ec64d70.png" data-original-src="https://upload.acmicpc.net/0b19ee84-452c-4451-8585-e8bb205b68b1/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 700px; height: 185px;" /></p>
 
 ### 입력
 

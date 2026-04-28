@@ -22,7 +22,7 @@
 
 <p>Can you help Thistle to find the most plentiful piece of connected land that she can reach by sea?</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/20270.%E2%80%85Thistle%E2%80%85Darkwater/6d4c3734.png" data-original-src="https://upload.acmicpc.net/29184eed-a0d3-4891-8f5b-310bf73e3da8/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 555px; height: 318px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/20270.%E2%80%85Thistle%E2%80%85Darkwater/6d4c3734.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/20270.%E2%80%85Thistle%E2%80%85Darkwater/6d4c3734.png" data-original-src="https://upload.acmicpc.net/29184eed-a0d3-4891-8f5b-310bf73e3da8/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 555px; height: 318px;" /></p>
 
 ### 입력
 

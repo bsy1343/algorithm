@@ -20,7 +20,7 @@
 
 <p>포켓볼을 시작하기 전에 숫자가 적혀져 있는 공은 삼각형 모양으로 빠짐없이 배치해야 한다. 이 배치는 그림 b에 나와있다.</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/4030.%E2%80%85%ED%8F%AC%EC%BC%93%EB%B3%BC/7845a022.png" data-original-src="https://www.acmicpc.net/upload/images/pocketball.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:199px; width:403px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/4030.%E2%80%85%ED%8F%AC%EC%BC%93%EB%B3%BC/7845a022.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/4030.%E2%80%85%ED%8F%AC%EC%BC%93%EB%B3%BC/7845a022.png" data-original-src="https://www.acmicpc.net/upload/images/pocketball.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:199px; width:403px" /></p>
 
 <p>선영이는 포켓볼과 비슷하지만, 큐 볼과 숫자가 적혀져 있는 x개 공을 가지고 하는 새로운 게임을 하나 창안했다. 이때, 공 x개를 삼각형 모양으로, x+1개를 m&times;m크기의 트레이에 넣을 수 있어야 한다. a와 b가 주어졌을 때, a보다 크고 b보다 작은 x+1 중에서 선영이가 만든 게임을 즐길 수 있는 x+1의 개수를 구하는 프로그램을 작성하시오. 공을 삼각형 모양을 만들고 ,트레이에 넣을 때, 모든 공을 사용해야 하고, 빈 칸 (삼각형, 사각형을 이루지 못하는 칸) 이 있으면 안 된다.</p>
 

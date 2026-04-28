@@ -20,13 +20,13 @@
 
 <p>Let us represent Minsu&rsquo;s travel route in the form of a graph. The cities with stations on the GB train line or a bit far from that line where he visits restaurants are represented as nodes. Two nodes corresponding to consecutive cities on the GB train line are connected as an edge and two nodes corresponding to a city $X$ on the GB train line and a city $Y$ a bit far from $X$ are also connected as an edge. When the total number of cities where Minsu visits restaurants is $n$, the graph has $n$ nodes and $n - 1$ edges. Nodes are numbered as distinct integers between $1$ and $n$. For example, the figure below represents Minsu&#39;s travel route in the form of an undirected graph with $10$ nodes ($10$ restaurants in $10$ cities).</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/30443.%E2%80%85Gourmet%E2%80%85Tour/7388be47.png" data-original-src="https://upload.acmicpc.net/01e45e70-7f2c-4070-a6e3-a8b30c1ca3fe/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 368px; height: 190px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/30443.%E2%80%85Gourmet%E2%80%85Tour/7388be47.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/30443.%E2%80%85Gourmet%E2%80%85Tour/7388be47.png" data-original-src="https://upload.acmicpc.net/01e45e70-7f2c-4070-a6e3-a8b30c1ca3fe/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 368px; height: 190px;" /></p>
 
 <p>The rankings of restaurants assigned by Minsu are integers from $1$ to $n$ without duplication. It can be considered as an assignment of rankings to nodes in the graph. The curious fact that Minsu discovers is that the differences of rankings assigned to any two adjacent nodes are all different. For example, the figure below represents the assigned rankings (blue numbers) and the differences (red numbers) of rankings between adjacent nodes. Note that the differences of rankings are integers from $1$ to $n - 1$ without duplication.</p>
 
 <p>Given a travel route graph for $n$ cities, write a program to compute the rankings of $n$ restaurants in the cities satisfying the condition explained above.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/30443.%E2%80%85Gourmet%E2%80%85Tour/c22dee17.png" data-original-src="https://upload.acmicpc.net/189c6bcd-855f-4c73-9e1c-7f3ef9525dd6/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 355px; height: 190px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/30443.%E2%80%85Gourmet%E2%80%85Tour/c22dee17.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/30443.%E2%80%85Gourmet%E2%80%85Tour/c22dee17.png" data-original-src="https://upload.acmicpc.net/189c6bcd-855f-4c73-9e1c-7f3ef9525dd6/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 355px; height: 190px;" /></p>
 
 ### 입력
 

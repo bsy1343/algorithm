@@ -20,7 +20,7 @@
 
 <p>왼쪽 그림은 상근이가 찾고자하는 별자리이다. 오른쪽 그림은 상근이가 가지고 있는 별자리 사진이고, 상근이가 찾은 별자리의 별은 동그라미가 쳐져 있다. 주어진 별자리의 별 좌표를 x방향으로 2, y방향으로 -3만큼 평행 이동하면 사진 속 위치가 된다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/5588.%E2%80%85%EB%B3%84%EC%9E%90%EB%A6%AC%E2%80%85%EC%B0%BE%EA%B8%B0/3dbb1919.png" data-original-src="https://www.acmicpc.net/upload/images/star1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 270px; height: 270px;" /><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/5588.%E2%80%85%EB%B3%84%EC%9E%90%EB%A6%AC%E2%80%85%EC%B0%BE%EA%B8%B0/4a261049.png" data-original-src="https://www.acmicpc.net/upload/images/star2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 270px; height: 270px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/5588.%E2%80%85%EB%B3%84%EC%9E%90%EB%A6%AC%E2%80%85%EC%B0%BE%EA%B8%B0/3dbb1919.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/5588.%E2%80%85%EB%B3%84%EC%9E%90%EB%A6%AC%E2%80%85%EC%B0%BE%EA%B8%B0/3dbb1919.png" data-original-src="https://www.acmicpc.net/upload/images/star1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 270px; height: 270px;" /><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/5588.%E2%80%85%EB%B3%84%EC%9E%90%EB%A6%AC%E2%80%85%EC%B0%BE%EA%B8%B0/4a261049.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/5588.%E2%80%85%EB%B3%84%EC%9E%90%EB%A6%AC%E2%80%85%EC%B0%BE%EA%B8%B0/4a261049.png" data-original-src="https://www.acmicpc.net/upload/images/star2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 270px; height: 270px;" /></p>
 
 <p>꼭 찾고 싶은 별자리의 모양과, 사진에 찍힌 별의 위치가 주어졌을 때, 별자리 좌표를 사진 속 좌표로 변환하기 위해 변환해야 하는 양을 구하는 프로그램을 작성하시오.</p>
 

@@ -18,7 +18,7 @@
 
 <p>Your local gym has b bars and p plates for barbells. In order to prepare a weight for lifting, you must choose a single bar, which has two sides. You then load each side with a (possibly empty) set of plates. For safety reasons, the plates on each side must balance; they must sum to the same weight. The combination of plates on either side might be different, but the total weight on either side must be the same. What weights are available for lifting?</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/13751.%E2%80%85Barbells/0fd354ca.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/13751/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-11-19%20%EC%98%A4%EC%A0%84%202.13.57.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:141px; width:360px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/13751.%E2%80%85Barbells/0fd354ca.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/13751.%E2%80%85Barbells/0fd354ca.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/13751/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-11-19%20%EC%98%A4%EC%A0%84%202.13.57.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:141px; width:360px" /></p>
 
 ### 입력
 

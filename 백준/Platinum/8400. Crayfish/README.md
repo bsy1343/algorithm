@@ -48,6 +48,6 @@
 
 ### 힌트
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/8400.%E2%80%85Crayfish/47544fdf.png" data-original-src="https://upload.acmicpc.net/325a6226-bad8-4160-b10f-74d5ab0697d6/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/8400.%E2%80%85Crayfish/47544fdf.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/8400.%E2%80%85Crayfish/47544fdf.png" data-original-src="https://upload.acmicpc.net/325a6226-bad8-4160-b10f-74d5ab0697d6/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>Staying at house number 1 the crayfish can visit friends from houses 2, 3, 4. Staying at house number 2 the crayfish can visit friends from houses 3, 4, 5. Staying at house number 3 the crayfish can visit friends from houses 2, 4, 5. Staying at house number 4 the crayfish can visit friends from houses 2, 3, 5. Staying at house number 5 the crayfish can visit none of his friends.</p>

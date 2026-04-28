@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/19101.%E2%80%85Admiral/7f59150e.png" data-original-src="https://upload.acmicpc.net/ccb766f1-c901-4831-89c1-e350766ab29a/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 244px; height: 202px; float: right;" />Suppose that you are an admiral of a famous naval troop. The troop consists of 21 battleships. There are 6 kinds of battleships. First, there is one flagship in which the admiral must be, and it is denoted by the integer 0. Other battleship kinds are denoted by integers from 1 to 5, and there are 2, 3, 4, 5, and 6 ships of these kinds, respectively.</p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/19101.%E2%80%85Admiral/7f59150e.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/19101.%E2%80%85Admiral/7f59150e.png" data-original-src="https://upload.acmicpc.net/ccb766f1-c901-4831-89c1-e350766ab29a/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 244px; height: 202px; float: right;" />Suppose that you are an admiral of a famous naval troop. The troop consists of 21 battleships. There are 6 kinds of battleships. First, there is one flagship in which the admiral must be, and it is denoted by the integer 0. Other battleship kinds are denoted by integers from 1 to 5, and there are 2, 3, 4, 5, and 6 ships of these kinds, respectively.</p>
 
 <p>The troop is going to a battle against the enemy. Hence, the correct arrangement of the battleships is very important. The shape of the battlefield is shown on the picture to the right. For simplicity, we consider all battleships to have the same rectangular shape.</p>
 

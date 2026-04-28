@@ -29,7 +29,7 @@
 
 <p dir="ltr">예를 들어, 그림1에서와 같이 n = 8, k = 5, m = 3 인 경우 답은 1이다.</p>
 
-<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/3895.%E2%80%85%EA%B7%B8%EB%A6%AC%EA%B3%A0%E2%80%85%ED%95%98%EB%82%98%EA%B0%80%E2%80%85%EB%82%A8%EC%95%98%EB%8B%A4/039c6788.png" data-original-src="https://www.acmicpc.net/upload/imagesa/figureA1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:368px; width:795px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/3895.%E2%80%85%EA%B7%B8%EB%A6%AC%EA%B3%A0%E2%80%85%ED%95%98%EB%82%98%EA%B0%80%E2%80%85%EB%82%A8%EC%95%98%EB%8B%A4/039c6788.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/3895.%E2%80%85%EA%B7%B8%EB%A6%AC%EA%B3%A0%E2%80%85%ED%95%98%EB%82%98%EA%B0%80%E2%80%85%EB%82%A8%EC%95%98%EB%8B%A4/039c6788.png" data-original-src="https://www.acmicpc.net/upload/imagesa/figureA1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:368px; width:795px" /></p>
 
 <p style="text-align:center">그림1: 게임 예제</p>
 

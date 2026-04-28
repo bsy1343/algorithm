@@ -24,7 +24,7 @@
 
 <p>또한, $i$번째 물대포는 <strong>초기 시점을 포함</strong>해, $T_i$초에 한 번씩 물대포가 향한 방향으로 물줄기를 발사합니다. 물줄기는 반직선 경로를 따라 멈추지 않고 한없이 뻗어나갑니다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/30195.%E2%80%85%EB%B9%99%EA%B8%80%EB%B9%99%EA%B8%80%E2%80%85%EB%AC%BC%EB%8C%80%ED%8F%AC/e0696759.png" data-original-src="https://upload.acmicpc.net/34205594-75cf-4a89-8821-b0ffbdf6e387/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 350px; height: 349px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/30195.%E2%80%85%EB%B9%99%EA%B8%80%EB%B9%99%EA%B8%80%E2%80%85%EB%AC%BC%EB%8C%80%ED%8F%AC/e0696759.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/30195.%E2%80%85%EB%B9%99%EA%B8%80%EB%B9%99%EA%B8%80%E2%80%85%EB%AC%BC%EB%8C%80%ED%8F%AC/e0696759.png" data-original-src="https://upload.acmicpc.net/34205594-75cf-4a89-8821-b0ffbdf6e387/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 350px; height: 349px;" /></p>
 
 <p>$i(1\le i\le N)$번 참가자는 $i$번 물대포 위치에서 게임을 진행합니다. 만약 물대포가 발사하는 물줄기가 지나는 위치에 사람이 서 있었다면, <strong>발사된 즉시</strong> 그 물줄기를 맞게 됩니다. 단, 자신이 선택한 물대포에서 발사되는 물줄기는 맞지 않습니다. $i$번째 물대포에 위치한 사람에게는 초기 시점에 $A_i$ 만큼의 체력이 주어지고, 물줄기를 한 번 맞을 때마다 체력이 정확히 $1$씩 감소하여 체력이 $0$이 된 사람은 $0.5$초 후에 게임에서 탈락하게 됩니다. 게임에서 탈락한 사람의 대포는 그 사람이 탈락한 시점부터 더 이상 물줄기를 발사하지 않게 됩니다.</p>
 

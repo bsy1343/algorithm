@@ -20,7 +20,7 @@
 
 <p>자물쇠는 위아래로 $M$개의 다이얼로 만들어져 있다. 각 다이얼은 $R$개의 칸이 있고 좌우로 칸에 맞추어 돌릴 수 있다. 다이얼의 각 칸에는 점이 있을 수도 있고 점이 없을 수도 있다. 각 다이얼에는 최소 $1$개의 점이 있다. 다이얼들을 돌려서 어떤 위치에서든 <strong>세로로 모든 칸에 점이 있도록</strong> 만들면 문이 열린다고 한다. 각각의 다이얼은 따로 돌아간다. 다이얼이 아주 무거워 돌리기 힘들기 때문에 다이얼을 돌리는 칸 수의 합을 최소화하고 싶다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/25012.%E2%80%85%EB%A7%88%EB%B2%95%EC%9D%98%E2%80%85%EB%8B%A4%EC%9D%B4%EC%96%BC/67aab8c5.png" data-original-src="https://upload.acmicpc.net/77f7b509-da9d-48b0-ac58-335f04321c2d/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 319px; height: 150px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/25012.%E2%80%85%EB%A7%88%EB%B2%95%EC%9D%98%E2%80%85%EB%8B%A4%EC%9D%B4%EC%96%BC/67aab8c5.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/25012.%E2%80%85%EB%A7%88%EB%B2%95%EC%9D%98%E2%80%85%EB%8B%A4%EC%9D%B4%EC%96%BC/67aab8c5.png" data-original-src="https://upload.acmicpc.net/77f7b509-da9d-48b0-ac58-335f04321c2d/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 319px; height: 150px;" /></p>
 
 <p>위 그림은 다이얼의 한 예를 보여 준다. 가능한 최선의 방법 중 하나는, 위에서 첫 번째 다이얼을 왼쪽으로 한 칸, 두 번째 다이얼을 왼쪽으로 두 칸, 세 번째 다이얼을 오른쪽으로 한 칸, 네 번째 다이얼을 돌리지 않아서, 총 4칸을 돌리는 방법이다.</p>
 

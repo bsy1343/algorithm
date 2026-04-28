@@ -20,7 +20,7 @@
 
 <p>In this problem, you&rsquo;ll have to compute the heights of every node of the tree. Each node will be identified by an integer from 1 to the number of nodes n.</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/13237.%E2%80%85Binary%E2%80%85tree/40165429.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/13237/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="float:right; height:169px; width:250px" />Check the following tree:</p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/13237.%E2%80%85Binary%E2%80%85tree/40165429.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/13237.%E2%80%85Binary%E2%80%85tree/40165429.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/13237/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="float:right; height:169px; width:250px" />Check the following tree:</p>
 
 <p>The root of the tree is 1. The left child of 1 is 2, the right child of 1 is 3.</p>
 
@@ -34,7 +34,7 @@
 	<li>Nodes 4, 5, 6 and 7: 2</li>
 </ul>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/13237.%E2%80%85Binary%E2%80%85tree/b11aee81.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/13237/2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="float:right; height:250px; width:228px" />The following tree is a bit different:</p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/13237.%E2%80%85Binary%E2%80%85tree/b11aee81.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/13237.%E2%80%85Binary%E2%80%85tree/b11aee81.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/13237/2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="float:right; height:250px; width:228px" />The following tree is a bit different:</p>
 
 <p>Node 1 is still the root and has 2 and 3 as left and right children but 3 only have right child. On the contrary, node 4 only has left child (5).</p>
 

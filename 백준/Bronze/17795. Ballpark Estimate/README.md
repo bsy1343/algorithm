@@ -20,7 +20,7 @@
 
 <p>For example, whenever a person asks for a number, often they just want an estimate. If the value is in the millions, they do not need to know the precise number of hundreds and tens. Likewise, if the value is in the billions, they do not necessarily care about little things like millions.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/17795.%E2%80%85Ballpark%E2%80%85Estimate/65301a71.png" data-original-src="https://upload.acmicpc.net/fbcc08c2-ec3f-47cf-bdb4-abd56a7a99ad/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 317px; height: 165px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/17795.%E2%80%85Ballpark%E2%80%85Estimate/65301a71.png" data-original-src="%EB%B0%B1%EC%A4%80/Bronze/17795.%E2%80%85Ballpark%E2%80%85Estimate/65301a71.png" data-original-src="https://upload.acmicpc.net/fbcc08c2-ec3f-47cf-bdb4-abd56a7a99ad/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 317px; height: 165px;" /></p>
 
 <p style="text-align: center;">Figure B.1: Illustration of ballpark figures versus actual figures, as a log chart.</p>
 

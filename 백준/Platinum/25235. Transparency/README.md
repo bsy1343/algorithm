@@ -46,6 +46,6 @@
 
 ### 힌트
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/25235.%E2%80%85Transparency/d3f1c2ee.png" data-original-src="https://upload.acmicpc.net/d3e35693-edd3-4384-8eb7-f17b7ad36a1f/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 290px; height: 200px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/25235.%E2%80%85Transparency/d3f1c2ee.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/25235.%E2%80%85Transparency/d3f1c2ee.png" data-original-src="https://upload.acmicpc.net/d3e35693-edd3-4384-8eb7-f17b7ad36a1f/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 290px; height: 200px;" /></p>
 
 <p style="text-align: center;">The factory design from the first sample input.  The packaging station is marked by a double circle.</p>

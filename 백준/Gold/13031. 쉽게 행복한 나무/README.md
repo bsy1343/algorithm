@@ -26,7 +26,7 @@
 
 <p>아래 그림의 1)과 같은 나무가 있을 때, 이 나무에서 잘려나가는 정점들은 최소는 다음의 2) ~ 6)의 5개가 된다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/13031.%E2%80%85%EC%89%BD%EA%B2%8C%E2%80%85%ED%96%89%EB%B3%B5%ED%95%9C%E2%80%85%EB%82%98%EB%AC%B4/715eb8bd.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/13031/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:425px; width:436px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/13031.%E2%80%85%EC%89%BD%EA%B2%8C%E2%80%85%ED%96%89%EB%B3%B5%ED%95%9C%E2%80%85%EB%82%98%EB%AC%B4/715eb8bd.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/13031.%E2%80%85%EC%89%BD%EA%B2%8C%E2%80%85%ED%96%89%EB%B3%B5%ED%95%9C%E2%80%85%EB%82%98%EB%AC%B4/715eb8bd.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/13031/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:425px; width:436px" /></p>
 
 ### 입력
 

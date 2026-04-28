@@ -18,7 +18,7 @@
 
 <p>There is a famous railway station in one hilly country. The station was built in many decades ago when funds were extremely limited at that time. It was possible to establish only a surface track. Moreover, it turned out that the station could be only a dead-end one (see picture) and due to lack of available space it could have only one track.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/14540.%E2%80%85Railway%E2%80%85Station/4314feda.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14540/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:126px; width:233px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/14540.%E2%80%85Railway%E2%80%85Station/4314feda.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/14540.%E2%80%85Railway%E2%80%85Station/4314feda.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14540/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:126px; width:233px" /></p>
 
 <p>The local tradition is that every train arriving from the direction <em>A</em> continues in the direction <em>B</em> with coaches reorganized in some way. Assume that the train arriving from the direction <em>A</em> has <em>N</em> &le;1000 coaches numbered in increasing order 1, 2, ..., <em>N</em>. The chief for train reorganizations must know whether it is possible to marshal coaches continuing in the direction <em>B</em> so that their order will be<em>a</em><sub>1</sub>, <em>a</em><sub>2</sub>, &hellip;, <em>a<sub>N</sub></em>.</p>
 

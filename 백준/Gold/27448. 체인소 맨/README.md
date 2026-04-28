@@ -20,7 +20,7 @@
 
 <p>전기톱 조각을 하기 위해서는 재료로 직사각형 모양의 통나무가 필요하고, 아래 그림 중 왼쪽은 덴지가 방금 가져온 $4\times 5$ 크기의 통나무이다. 덴지는 전기톱만을 사용해 이 통나무를 오른쪽과 같은 모양으로 조각해 의자를 만들었다.</p>
 
-<p style="text-align:center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/27448.%E2%80%85%EC%B2%B4%EC%9D%B8%EC%86%8C%E2%80%85%EB%A7%A8/f02c8bed.png" data-original-src="https://upload.acmicpc.net/ab589acd-a9d8-43a7-bfd4-fdc8b34b0b6f/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 720px; height: 160px;" /></p>
+<p style="text-align:center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/27448.%E2%80%85%EC%B2%B4%EC%9D%B8%EC%86%8C%E2%80%85%EB%A7%A8/f02c8bed.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/27448.%E2%80%85%EC%B2%B4%EC%9D%B8%EC%86%8C%E2%80%85%EB%A7%A8/f02c8bed.png" data-original-src="https://upload.acmicpc.net/ab589acd-a9d8-43a7-bfd4-fdc8b34b0b6f/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 720px; height: 160px;" /></p>
 
 <p>자신이 만든 작품이 마음에 들었던 덴지는 또 다른 조각을 만들어 보기로 했다. 덴지는 세로 $N$, 가로 $M$의 직사각형 모양의 통나무를 새로 가져와서 이 통나무가 처음에 있는 $N \times M$의 영역을 작업 영역으로 두고, 한 변의 길이가 $1$인 정사각형 $N \times M$개로 만들어진 격자를 작업 영역에 완전히 포함되게 만들었다.</p>
 
@@ -32,7 +32,7 @@
 
 <p>덴지는 조각의 어떤 부분도 회전시키거나 이동시키지 않을 것이고, 조각을 끝낸 후 격자에 포함되는 정사각형 중 완성해야 하는 조각에 포함되는 두 정사각형 사이에 톱질이 되어있으면 안되며, 완성해야 하는 조각에 포함되는 정사각형과 포함되지 않는 정사각형 사이에는 반드시 톱질이 되어있어야 한다. 완성해야 하는 조각에 포함되지 않는 정사각형 둘 사이에는 톱질이 되어있는지 상관하지 않는다. 예를 들어, 덴지는 아래와 같은 모양의 조각을 만들 때 화살표와 같은 톱질을 할 수 있다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/27448.%E2%80%85%EC%B2%B4%EC%9D%B8%EC%86%8C%E2%80%85%EB%A7%A8/9e094aae.png" data-original-src="https://upload.acmicpc.net/d74be17c-a8cc-4786-a084-1acd23bac552/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 160px; width: 200px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/27448.%E2%80%85%EC%B2%B4%EC%9D%B8%EC%86%8C%E2%80%85%EB%A7%A8/9e094aae.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/27448.%E2%80%85%EC%B2%B4%EC%9D%B8%EC%86%8C%E2%80%85%EB%A7%A8/9e094aae.png" data-original-src="https://upload.acmicpc.net/d74be17c-a8cc-4786-a084-1acd23bac552/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 160px; width: 200px;" /></p>
 
 <p>통나무의 가로와 세로의 길이와 조각해야 하는 모양이 주어졌을 때, 덴지가 조각을 완성하기 위해 소모해야 하는 힘의 최솟값을 구하시오.</p>
 

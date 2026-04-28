@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/15776.%E2%80%85Winter%E2%80%85Olympic%E2%80%85Games/60afcaec.jpg" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15776/winter.jpg" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 640px; height: 480px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/15776.%E2%80%85Winter%E2%80%85Olympic%E2%80%85Games/60afcaec.jpg" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/15776.%E2%80%85Winter%E2%80%85Olympic%E2%80%85Games/60afcaec.jpg" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15776/winter.jpg" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 640px; height: 480px;" /></p>
 
 <p style="text-align: center;">사진: 문제와 아무 관련이 없지만, 아무튼 귀여운 수호랑.</p>
 

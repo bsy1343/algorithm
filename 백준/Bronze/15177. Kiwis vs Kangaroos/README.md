@@ -32,7 +32,7 @@
 
 <p>For example, if the secret phrase is &ldquo;Australia&rdquo;, then the kangaroos&rsquo; score would be 7 and the kiwis&rsquo; score would be 4. In this case, the kangaroos would win the feud.</p>
 
-<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/15177.%E2%80%85Kiwis%E2%80%85vs%E2%80%85Kangaroos/8fb1936c.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15177/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:59px; width:338px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/15177.%E2%80%85Kiwis%E2%80%85vs%E2%80%85Kangaroos/8fb1936c.png" data-original-src="%EB%B0%B1%EC%A4%80/Bronze/15177.%E2%80%85Kiwis%E2%80%85vs%E2%80%85Kangaroos/8fb1936c.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15177/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:59px; width:338px" /></p>
 
 <p>Given the secret phrase, who wins the feud?</p>
 

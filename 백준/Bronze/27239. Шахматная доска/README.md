@@ -18,7 +18,7 @@
 
 <p>Саша пронумеровала клетки шахматной доски, начиная с левого нижнего угла (клетки <code>a1</code>) по горизонталям сверху вниз, внутри горизонтали слева направо. У неё получилась следующая нумерация:</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/27239.%E2%80%85%D0%A8%D0%B0%D1%85%D0%BC%D0%B0%D1%82%D0%BD%D0%B0%D1%8F%E2%80%85%D0%B4%D0%BE%D1%81%D0%BA%D0%B0/7dc8e487.png" data-original-src="https://upload.acmicpc.net/84dc8586-5c6c-49c0-9531-dea795105d15/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 195px; height: 200px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/27239.%E2%80%85%D0%A8%D0%B0%D1%85%D0%BC%D0%B0%D1%82%D0%BD%D0%B0%D1%8F%E2%80%85%D0%B4%D0%BE%D1%81%D0%BA%D0%B0/7dc8e487.png" data-original-src="%EB%B0%B1%EC%A4%80/Bronze/27239.%E2%80%85%D0%A8%D0%B0%D1%85%D0%BC%D0%B0%D1%82%D0%BD%D0%B0%D1%8F%E2%80%85%D0%B4%D0%BE%D1%81%D0%BA%D0%B0/7dc8e487.png" data-original-src="https://upload.acmicpc.net/84dc8586-5c6c-49c0-9531-dea795105d15/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 195px; height: 200px;" /></p>
 
 <p>По заданному номеру клетки выведите, что это за клетка.</p>
 

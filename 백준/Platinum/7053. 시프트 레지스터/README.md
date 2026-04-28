@@ -28,7 +28,7 @@
 	<li>output = a<sub>N</sub></li>
 </ul>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/7053.%E2%80%85%EC%8B%9C%ED%94%84%ED%8A%B8%E2%80%85%EB%A0%88%EC%A7%80%EC%8A%A4%ED%84%B0/8ba202cb.png" data-original-src="https://upload.acmicpc.net/efcd80dd-e936-4087-899b-56b4b47a5525/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 634px; height: 346px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/7053.%E2%80%85%EC%8B%9C%ED%94%84%ED%8A%B8%E2%80%85%EB%A0%88%EC%A7%80%EC%8A%A4%ED%84%B0/8ba202cb.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/7053.%E2%80%85%EC%8B%9C%ED%94%84%ED%8A%B8%E2%80%85%EB%A0%88%EC%A7%80%EC%8A%A4%ED%84%B0/8ba202cb.png" data-original-src="https://upload.acmicpc.net/efcd80dd-e936-4087-899b-56b4b47a5525/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 634px; height: 346px;" /></p>
 
 <p>위의 예제에서 틱 1에서 a1은 다음과 같이 XOR(1&middot;1, 0&middot;0, 1&middot;1, 1&middot;1, 0&middot;0, 1&middot;0, 1&middot;1) = 0</p>
 

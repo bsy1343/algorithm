@@ -18,7 +18,7 @@
 
 <p>A suspicious-looking convex polygon wants to escape its current position by translating itself along some straight-line direction. Three very diligent straight lines want to lock it up by placing themselves along three distinct sides of the polygon. Then, if the triple of lines defines a triangle and the polygon lies inside this triangle, it will be locked up. Otherwise, it will escape.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/16525.%E2%80%85Escape%2C%E2%80%85Polygon!/685c493a.png" data-original-src="https://upload.acmicpc.net/1992a244-399f-486d-88aa-b57dd4d8017a/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 609px; height: 202px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/16525.%E2%80%85Escape%2C%E2%80%85Polygon!/685c493a.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/16525.%E2%80%85Escape%2C%E2%80%85Polygon!/685c493a.png" data-original-src="https://upload.acmicpc.net/1992a244-399f-486d-88aa-b57dd4d8017a/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 609px; height: 202px;" /></p>
 
 <p>Figure (a) above illustrates a triple that will lock the polygon up. For (b), the lines do not define a triangle since two of them are parallel, and so the polygon will escape. In (c), the polygon lies outside the triangle defined by the triple and it will easily escape.</p>
 

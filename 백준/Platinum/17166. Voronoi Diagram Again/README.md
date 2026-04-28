@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/17166.%E2%80%85Voronoi%E2%80%85Diagram%E2%80%85Again/00b37119.png" data-original-src="https://upload.acmicpc.net/ee3b7001-c24a-413d-bb15-9d83259d3df4/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /><br />
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/17166.%E2%80%85Voronoi%E2%80%85Diagram%E2%80%85Again/00b37119.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/17166.%E2%80%85Voronoi%E2%80%85Diagram%E2%80%85Again/00b37119.png" data-original-src="https://upload.acmicpc.net/ee3b7001-c24a-413d-bb15-9d83259d3df4/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /><br />
 &nbsp;</p>
 
 <p>In the 2-dimensional Cartesian coordinate system, we define the <strong>Voronoi Diagram</strong>&nbsp;of a non-empty set of points $S$, as a diagram that divides the plane by the criteria ``which point in the set $S$ is closest in this location?&quot;. More precisely, the Voronoi diagram of a given non-empty point set $\{P_1, P_2, \cdots, P_n\}$ is a collection of \textbf{regions}: A point $K$ is included in region $i$ if and only if $d(P_i, K) \le d(P_j, K)$ holds for all $1 \le j \le n$.&nbsp;</p>

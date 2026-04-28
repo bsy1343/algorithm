@@ -20,7 +20,7 @@
 
 <p>예를 들어, 아래 그림은 N=5개의 노드와 N-1=4개의 간선으로 이루어져 있는 그래프이다.</p>
 
-<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/12909.%E2%80%85%EA%B7%B8%EB%9E%98%ED%94%84%E2%80%85%EB%A7%8C%EB%93%A4%EA%B8%B0/b91d88d3.gif" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/12909/1.gif" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:161px; width:310px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/12909.%E2%80%85%EA%B7%B8%EB%9E%98%ED%94%84%E2%80%85%EB%A7%8C%EB%93%A4%EA%B8%B0/b91d88d3.gif" data-original-src="%EB%B0%B1%EC%A4%80/Gold/12909.%E2%80%85%EA%B7%B8%EB%9E%98%ED%94%84%E2%80%85%EB%A7%8C%EB%93%A4%EA%B8%B0/b91d88d3.gif" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/12909/1.gif" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:161px; width:310px" /></p>
 
 <p>간선은 두 노드를 연결할 수 있다. 노드의 차수는 노드와 연결되어 있는 간선의 개수이다. 위의 그림에서 A의 차수는 3이고, B의 차수는 1이다.</p>
 
@@ -46,10 +46,10 @@
 
 <p>아래 그림과 같은 그래프를 만들면 그래프의 점수가 최대가 된다.</p>
 
-<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/12909.%E2%80%85%EA%B7%B8%EB%9E%98%ED%94%84%E2%80%85%EB%A7%8C%EB%93%A4%EA%B8%B0/75cd6ac1.gif" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/12909/2.gif" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:52px; width:250px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/12909.%E2%80%85%EA%B7%B8%EB%9E%98%ED%94%84%E2%80%85%EB%A7%8C%EB%93%A4%EA%B8%B0/75cd6ac1.gif" data-original-src="%EB%B0%B1%EC%A4%80/Gold/12909.%E2%80%85%EA%B7%B8%EB%9E%98%ED%94%84%E2%80%85%EB%A7%8C%EB%93%A4%EA%B8%B0/75cd6ac1.gif" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/12909/2.gif" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:52px; width:250px" /></p>
 
 <p>그래프의 차수를 계산해보면 1, 2, 2, 1이다. 따라서, 합은 1+3+3+1 = 8이 된다.</p>
 
 <p>예제 2의 경우에 가능한 정답은 아래 그림과 같다.</p>
 
-<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/12909.%E2%80%85%EA%B7%B8%EB%9E%98%ED%94%84%E2%80%85%EB%A7%8C%EB%93%A4%EA%B8%B0/b63da2de.gif" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/12909/3.gif" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:137px; width:250px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/12909.%E2%80%85%EA%B7%B8%EB%9E%98%ED%94%84%E2%80%85%EB%A7%8C%EB%93%A4%EA%B8%B0/b63da2de.gif" data-original-src="%EB%B0%B1%EC%A4%80/Gold/12909.%E2%80%85%EA%B7%B8%EB%9E%98%ED%94%84%E2%80%85%EB%A7%8C%EB%93%A4%EA%B8%B0/b63da2de.gif" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/12909/3.gif" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:137px; width:250px" /></p>

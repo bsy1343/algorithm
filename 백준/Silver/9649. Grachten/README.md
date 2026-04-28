@@ -24,7 +24,7 @@
 
 <p>Luckily, I did attend the excursion in Delft city center yesterday, where I learned that all paving stones in Delft are squares and have the same size. This way, I can do some measurements on my side of the gracht (my units are paving stones):</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/9649.%E2%80%85Grachten/d4449971.png" data-original-src="https://www.acmicpc.net/upload/images2/grachten.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:217px; width:398px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/9649.%E2%80%85Grachten/d4449971.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/9649.%E2%80%85Grachten/d4449971.png" data-original-src="https://www.acmicpc.net/upload/images2/grachten.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:217px; width:398px" /></p>
 
 <p>Figure 1 &ndash; Illustration of first sample input.</p>
 

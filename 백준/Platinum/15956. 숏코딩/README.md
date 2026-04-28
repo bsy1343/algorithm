@@ -18,7 +18,7 @@
 
 <p>코드 페스티벌 온라인 예선에 참가하고 있던 라이언은 이제 남은 시간이 <span id="remaining-time">00:00:00</span>밖에 없다는 것을 깨닫게 되었다. 라이언은 이미 머릿속에서 풀이를 구상하고 코딩도 완료했기 때문에, 이를 그대로 타이핑하기만 하면 된다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/15956.%E2%80%85%EC%88%8F%EC%BD%94%EB%94%A9/4c962826.png" data-original-src="https://upload.acmicpc.net/6d222569-3f51-447f-9ea9-9a9b77bfe041/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/15956.%E2%80%85%EC%88%8F%EC%BD%94%EB%94%A9/4c962826.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/15956.%E2%80%85%EC%88%8F%EC%BD%94%EB%94%A9/4c962826.png" data-original-src="https://upload.acmicpc.net/6d222569-3f51-447f-9ea9-9a9b77bfe041/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>지금 라이언은 변수들과 정수들끼리 같은지 다른지 비교하는 간단한 조건문 (conditional expression) <em>S</em>를 작성하고자 한다. 자세히 설명하자면,</p>
 

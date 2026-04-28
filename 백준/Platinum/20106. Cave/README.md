@@ -18,7 +18,7 @@
 
 <p>While lost on the long walk from the college to the UQ Centre, you have stumbled across the entrance to a secret cave system running deep under the university. The entrance is blocked by a security system consisting of N consecutive doors, each door behind the previous; and N switches, with each switch connected to a different door.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/20106.%E2%80%85Cave/5fdf2037.png" data-original-src="https://upload.acmicpc.net/e31ec5b9-9bff-4a31-85a1-8aa8bd2e8cf2/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 425px; height: 194px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/20106.%E2%80%85Cave/5fdf2037.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/20106.%E2%80%85Cave/5fdf2037.png" data-original-src="https://upload.acmicpc.net/e31ec5b9-9bff-4a31-85a1-8aa8bd2e8cf2/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 425px; height: 194px;" /></p>
 
 <p>The doors are numbered 0, 1, &hellip;, (N -1) in order, with door 0 being closest to you. The switches are also numbered 0, 1, &hellip;, (N - 1) , though you do not know which switch is connected to which door.</p>
 

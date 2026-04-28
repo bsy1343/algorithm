@@ -20,7 +20,7 @@
 
 <p>The hornet, the dice and the box are located in the standard three-dimensional coordinate system with the x coordinate growing eastwards, the y coordinate growing northwards and the z coordinate growing upwards. The surface of the table corresponds to the x-y plane.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/11620.%E2%80%85Hovering%E2%80%85Hornet/c023f58c.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11620/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:220px; width:513px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/11620.%E2%80%85Hovering%E2%80%85Hornet/c023f58c.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/11620.%E2%80%85Hovering%E2%80%85Hornet/c023f58c.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11620/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:220px; width:513px" /></p>
 
 <p style="text-align: center;">Perspective and the birds-eye view of the second example input</p>
 

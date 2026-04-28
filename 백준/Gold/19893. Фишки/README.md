@@ -45,4 +45,4 @@
 
 <p>В примере фишки перемещались следующим образом.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/19893.%E2%80%85%D0%A4%D0%B8%D1%88%D0%BA%D0%B8/9fea45a2.png" data-original-src="https://upload.acmicpc.net/1803ac57-6c18-45af-9c45-3520d2e7857b/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 398px; height: 97px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/19893.%E2%80%85%D0%A4%D0%B8%D1%88%D0%BA%D0%B8/9fea45a2.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/19893.%E2%80%85%D0%A4%D0%B8%D1%88%D0%BA%D0%B8/9fea45a2.png" data-original-src="https://upload.acmicpc.net/1803ac57-6c18-45af-9c45-3520d2e7857b/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 398px; height: 97px;" /></p>

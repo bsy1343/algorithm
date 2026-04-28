@@ -20,7 +20,7 @@
 
 <p>알고리즘 최정상을 꿈꾸는 효규는 깊은 고민에 빠져있다. 바로 핸들을 정하는 일이다. 적당히 멋있으면서도 의미 있는 핸들을 원하지만, 도저히 떠오르지 않는다. 그 모습을 지켜보던 상원이는 주머니에 있던 트리 하나를 효규에게 주며 핸들 정하는 방법을 제안했다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/25498.%E2%80%85%ED%95%B8%EB%93%A4%E2%80%85%EB%AD%98%EB%A1%9C%E2%80%85%ED%95%98%EC%A7%80/65875aab.png" data-original-src="https://upload.acmicpc.net/4744069c-5ba9-4f8d-8a60-eb71887bc203/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 248px; width: 400px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/25498.%E2%80%85%ED%95%B8%EB%93%A4%E2%80%85%EB%AD%98%EB%A1%9C%E2%80%85%ED%95%98%EC%A7%80/65875aab.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/25498.%E2%80%85%ED%95%B8%EB%93%A4%E2%80%85%EB%AD%98%EB%A1%9C%E2%80%85%ED%95%98%EC%A7%80/65875aab.png" data-original-src="https://upload.acmicpc.net/4744069c-5ba9-4f8d-8a60-eb71887bc203/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 248px; width: 400px;" /></p>
 
 <ol>
 	<li>트리는 $1$번부터 $N$번까지 총 $N$개의 정점으로 이뤄져 있으며, 각 정점에는 알파벳 소문자가 하나 적혀 있다.</li>

@@ -18,7 +18,7 @@
 
 <p>색을 표현하는 기본 요소를 이용하여 표시할 수 있는 모든 색 중에서 대표적인 색을 고리 모양으로 연결하여 나타낸 것을 색상환이라고 한다. 미국의 화가 먼셀(Munsell)이 교육용으로 고안한 20색상환이 널리 알려져 있다. 아래 그림은 먼셀의 20색상환을 보여준다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/2482.%E2%80%85%EC%83%89%EC%83%81%ED%99%98/ccd32fa4.png" data-original-src="https://upload.acmicpc.net/069ffaec-e512-4352-bbc4-5ed9a20851ee/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 284px; height: 287px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/2482.%E2%80%85%EC%83%89%EC%83%81%ED%99%98/ccd32fa4.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/2482.%E2%80%85%EC%83%89%EC%83%81%ED%99%98/ccd32fa4.png" data-original-src="https://upload.acmicpc.net/069ffaec-e512-4352-bbc4-5ed9a20851ee/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 284px; height: 287px;" /></p>
 
 <p style="text-align: center;">그림 1. 먼셀의 20색상환</p>
 

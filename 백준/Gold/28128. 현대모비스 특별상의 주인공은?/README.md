@@ -20,7 +20,7 @@
 <p><strong>현대모비스는 하드웨어 중심의 자동차 부품 회사에서 소프트웨어 중심의 기술 기업으로 거듭나기 위해 소프트웨어 연구개발 역량을 강화하고 있습니다.</strong></p>
 </blockquote>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/28128.%E2%80%85%ED%98%84%EB%8C%80%EB%AA%A8%EB%B9%84%EC%8A%A4%E2%80%85%ED%8A%B9%EB%B3%84%EC%83%81%EC%9D%98%E2%80%85%EC%A3%BC%EC%9D%B8%EA%B3%B5%EC%9D%80%3F/6c6bf728.png" data-original-src="https://upload.acmicpc.net/33eca1df-7e2c-4ee7-9b9d-7114bb23ff1a/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/28128.%E2%80%85%ED%98%84%EB%8C%80%EB%AA%A8%EB%B9%84%EC%8A%A4%E2%80%85%ED%8A%B9%EB%B3%84%EC%83%81%EC%9D%98%E2%80%85%EC%A3%BC%EC%9D%B8%EA%B3%B5%EC%9D%80%3F/6c6bf728.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/28128.%E2%80%85%ED%98%84%EB%8C%80%EB%AA%A8%EB%B9%84%EC%8A%A4%E2%80%85%ED%8A%B9%EB%B3%84%EC%83%81%EC%9D%98%E2%80%85%EC%A3%BC%EC%9D%B8%EA%B3%B5%EC%9D%80%3F/6c6bf728.png" data-original-src="https://upload.acmicpc.net/33eca1df-7e2c-4ee7-9b9d-7114bb23ff1a/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>현대모비스는 실력 있는 소프트웨어 인재를 양성하고 독려하기 위해 APC의 주최 동아리인 A.N.S.I를 후원하고 있다. 올해 현대모비스는 2023 APC에 참가한 여러분들을 위해 특별상을 준비하였다. 특별상은 추첨을 통해 지급된다. 추첨의 진행은 현빈이가 맡게 되었다.</p>
 

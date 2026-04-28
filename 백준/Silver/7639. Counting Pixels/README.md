@@ -20,7 +20,7 @@
 
 <p>Assume that our display is set on a Cartesian grid where every pixel is a perfect unit square. For example, one pixel occupies the area of a square with corners (0, 0) and (1, 1). A circle can be drawn by specifying its center in grid coordinates and its radius. On our display, a pixel is lit if any part of is covered by the circle being drawn; pixels whose edge or corner are just touched by the circle, however, are not lit.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/7639.%E2%80%85Counting%E2%80%85Pixels/26799ff6.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/7639/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:338px; width:344px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/7639.%E2%80%85Counting%E2%80%85Pixels/26799ff6.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/7639.%E2%80%85Counting%E2%80%85Pixels/26799ff6.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/7639/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:338px; width:344px" /></p>
 
 <p>Your job is to compute the exact number of pixels that are lit when a circle with a given position and radius is drawn.</p>
 

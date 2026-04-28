@@ -24,7 +24,7 @@
 
 <p>Теперь Вася хочет узнать, можно ли разбить оставшиеся ребра на непересекающиеся гаджеты, и, если можно, --- найти это разбиение. Помогите ему!</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/21550.%E2%80%85%D0%93%D0%B0%D0%B4%D0%B6%D0%B5%D1%82%D1%8B%E2%80%85%D0%BD%D0%B0%E2%80%85%D0%B4%D0%B5%D1%80%D0%B5%D0%B2%D0%B5/5ad96f2b.png" data-original-src="https://upload.acmicpc.net/681f386b-51fe-4fed-a970-bee0a9ae96d5/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 204px; height: 223px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/21550.%E2%80%85%D0%93%D0%B0%D0%B4%D0%B6%D0%B5%D1%82%D1%8B%E2%80%85%D0%BD%D0%B0%E2%80%85%D0%B4%D0%B5%D1%80%D0%B5%D0%B2%D0%B5/5ad96f2b.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/21550.%E2%80%85%D0%93%D0%B0%D0%B4%D0%B6%D0%B5%D1%82%D1%8B%E2%80%85%D0%BD%D0%B0%E2%80%85%D0%B4%D0%B5%D1%80%D0%B5%D0%B2%D0%B5/5ad96f2b.png" data-original-src="https://upload.acmicpc.net/681f386b-51fe-4fed-a970-bee0a9ae96d5/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 204px; height: 223px;" /></p>
 
 <p style="text-align: center;">Рис. 1: Разбиение на гаджеты в первом примере</p>
 

@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/25550.%E2%80%85%ED%83%9D%EB%B0%B0%E2%80%85%EC%83%89%EC%B9%A0/425cf427.png" data-original-src="https://upload.acmicpc.net/e097f721-20ce-4055-9290-86e70c5edd27/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 221px; width: 256px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/25550.%E2%80%85%ED%83%9D%EB%B0%B0%E2%80%85%EC%83%89%EC%B9%A0/425cf427.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/25550.%E2%80%85%ED%83%9D%EB%B0%B0%E2%80%85%EC%83%89%EC%B9%A0/425cf427.png" data-original-src="https://upload.acmicpc.net/e097f721-20ce-4055-9290-86e70c5edd27/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 221px; width: 256px;" /></p>
 
 <p>포스텍에서는 기숙사 퇴사날이면 학생들이 집으로 보내는 택배 상자가 가득 쌓인다. 택배를 놓는 곳은 $N$행 $M$열으로 이루어진 격자로 표현된다. 격자의 각 칸은 크기 1의 정사각형 모양이며, 모든 택배 상자는 부피 1의 정육면체 형태이다. 온통 칙칙한 색인 택배 상자들을 보고 따분함을 느낀 포닉스는 택배 상자들을 옮기지 않고 보이는 모든 면에 붉은색 페인트를 칠하려 한다. 이 때, 보이는 면이란 다른 상자 또는 바닥과 닿아있지 않은 면을 말한다. 포닉스가 페인트칠을 마친 후, 어떤 면에도 페인트가 칠해져 있지 않은 택배 상자의 수를 구해 보자.</p>
 

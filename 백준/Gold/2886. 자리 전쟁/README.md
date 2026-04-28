@@ -22,7 +22,7 @@
 
 <p>만약, 나보다 의자에 가까이 있는 사람은 없지만, 같은 거리에 있는 사람이 있으면 서로 자리를 차지하려고 할 것이므로, 그 자리는 전쟁터가 될 것이다. (심지어 모든 사람들은 싸움에 자신있기 때문에, 이러한 전쟁터를 거부하지 않는다(!) )</p>
 
-<p><img src="%EB%B0%B1%EC%A4%80/Gold/2886.%E2%80%85%EC%9E%90%EB%A6%AC%E2%80%85%EC%A0%84%EC%9F%81/3d92b992.jpg" data-original-src="https://us.123rf.com/450wm/yupiramos/yupiramos1207/yupiramos120700373/14452549-%EB%A7%8C%ED%99%94%EC%97%90%EC%84%9C-%ED%8F%AD%EB%B0%9C-%EB%98%90%EB%8A%94-%EC%8B%B8%EC%9B%80%EC%9D%98-%EA%B7%B8%EB%A6%BC%EC%9E%85%EB%8B%88%EB%8B%A4.-%EB%B2%A1%ED%84%B0-%EC%9D%BC%EB%9F%AC%EC%8A%A4%ED%8A%B8-%EB%A0%88%EC%9D%B4-%EC%85%98.jpg" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="font-family:&quot;open sans&quot;,&quot;helvetica neue&quot;,helvetica,arial,&quot;nanum gothic&quot;,sans-serif; font-size:15px; height:400px; width:450px" /></p>
+<p><img src="%EB%B0%B1%EC%A4%80/Gold/2886.%E2%80%85%EC%9E%90%EB%A6%AC%E2%80%85%EC%A0%84%EC%9F%81/3d92b992.jpg" data-original-src="%EB%B0%B1%EC%A4%80/Gold/2886.%E2%80%85%EC%9E%90%EB%A6%AC%E2%80%85%EC%A0%84%EC%9F%81/3d92b992.jpg" data-original-src="https://us.123rf.com/450wm/yupiramos/yupiramos1207/yupiramos120700373/14452549-%EB%A7%8C%ED%99%94%EC%97%90%EC%84%9C-%ED%8F%AD%EB%B0%9C-%EB%98%90%EB%8A%94-%EC%8B%B8%EC%9B%80%EC%9D%98-%EA%B7%B8%EB%A6%BC%EC%9E%85%EB%8B%88%EB%8B%A4.-%EB%B2%A1%ED%84%B0-%EC%9D%BC%EB%9F%AC%EC%8A%A4%ED%8A%B8-%EB%A0%88%EC%9D%B4-%EC%85%98.jpg" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="font-family:&quot;open sans&quot;,&quot;helvetica neue&quot;,helvetica,arial,&quot;nanum gothic&quot;,sans-serif; font-size:15px; height:400px; width:450px" /></p>
 
 <p>여러분들은 이 전차의 정보가 주어질 때, 전쟁터가 될 자리의 수를 세어주면 된다.</p>
 

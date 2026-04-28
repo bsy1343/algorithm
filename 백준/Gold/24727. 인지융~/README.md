@@ -31,7 +31,7 @@
 <p>예를 들어, 다음 그림에서 왼쪽의 경우 $A$공간과 $B$공간은 연결되어 있지 않다고 볼 수 있으며, 오른쪽의 경우 $A$공간과 $B$공간이 연결되었다고 볼 수 있다.</p>
 
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/24727.%E2%80%85%EC%9D%B8%EC%A7%80%EC%9C%B5~/61a46e94.png" data-original-src="https://upload.acmicpc.net/131c5e52-3ae0-4cb0-ab1b-8188f3684a6a/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" width="650px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/24727.%E2%80%85%EC%9D%B8%EC%A7%80%EC%9C%B5~/61a46e94.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/24727.%E2%80%85%EC%9D%B8%EC%A7%80%EC%9C%B5~/61a46e94.png" data-original-src="https://upload.acmicpc.net/131c5e52-3ae0-4cb0-ab1b-8188f3684a6a/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" width="650px" /></p>
 
 <p>또한, 싸움이 나는 것을 방지하기 위해 정확히 제출한 크기만큼의 공간만 제공되어야 한다.</p>
 

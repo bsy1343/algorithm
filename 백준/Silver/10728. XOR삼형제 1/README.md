@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/10728.%E2%80%85XOR%EC%82%BC%ED%98%95%EC%A0%9C%E2%80%851/04794408.png" data-original-src="https://www.acmicpc.net/upload/codershigh2015/statement.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:674px; width:594px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/10728.%E2%80%85XOR%EC%82%BC%ED%98%95%EC%A0%9C%E2%80%851/04794408.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/10728.%E2%80%85XOR%EC%82%BC%ED%98%95%EC%A0%9C%E2%80%851/04794408.png" data-original-src="https://www.acmicpc.net/upload/codershigh2015/statement.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:674px; width:594px" /></p>
 
 <p>(위에서 아래로, 오른쪽에서 왼쪽으로 읽어주세요.)</p>
 

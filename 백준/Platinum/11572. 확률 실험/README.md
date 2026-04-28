@@ -26,7 +26,7 @@
 
 ### 입력
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/11572.%E2%80%85%ED%99%95%EB%A5%A0%E2%80%85%EC%8B%A4%ED%97%98/7101ac09.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11572/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="float:right; height:166px; width:172px" />먼저, 입력의 첫 번째 줄에는 점의 수 N과 원의 반지름 R이 주어진다. (1 &le; N &le; 200,000, 1 &le; R &le; 100,000)</p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/11572.%E2%80%85%ED%99%95%EB%A5%A0%E2%80%85%EC%8B%A4%ED%97%98/7101ac09.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/11572.%E2%80%85%ED%99%95%EB%A5%A0%E2%80%85%EC%8B%A4%ED%97%98/7101ac09.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11572/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="float:right; height:166px; width:172px" />먼저, 입력의 첫 번째 줄에는 점의 수 N과 원의 반지름 R이 주어진다. (1 &le; N &le; 200,000, 1 &le; R &le; 100,000)</p>
 
 <p>그리고 오른쪽 그림과 같이 원 위의 점 P가 점 a를 기준으로 시계 반대 방향으로 &theta;도 만큼 떨어져 있을 때, 이 점의 위치를 &empty; = &theta; &times; 1000으로 표시한다. (즉, x좌표는 R &times; cos(&theta;), y좌표는 R &times; sin(&theta;)가 된다.) 두 번째 줄 부터는 이 정의에 따라 한 줄에 한 개씩 각 점의 위치가 주어지는데, &empty;값이 증가하는 순서로 주어진다. 이때, &empty;는 모두 정수이며 (0 &le; &empty; &lt; 360,000) 모든 점의 &empty;값은 다르다.</p>
 
@@ -38,6 +38,6 @@
 
 <p>예제 입력 1의 점과 예각 삼각형을 모두 그려보면 다음과 같다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/11572.%E2%80%85%ED%99%95%EB%A5%A0%E2%80%85%EC%8B%A4%ED%97%98/f9f40bb7.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11572/2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:300px; width:306px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/11572.%E2%80%85%ED%99%95%EB%A5%A0%E2%80%85%EC%8B%A4%ED%97%98/f9f40bb7.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/11572.%E2%80%85%ED%99%95%EB%A5%A0%E2%80%85%EC%8B%A4%ED%97%98/f9f40bb7.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11572/2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:300px; width:306px" /></p>
 
 <p>계산 과정이나 답의 크기가 32bit 정수형 데이터 타입인 int의 최대 범위를 넘어설 수 있기 때문에 64bit 정수형 데이터 타입인 long long(formatstring: %lld)을 사용해야 한다.</p>

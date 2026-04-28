@@ -47,4 +47,4 @@
 
 <p>There is only one possible picture in the first example, which is shown as follows. There are $3$ maximal orthogonally connected regions in the picture, so the beauty value of the picture is $3$. </p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/28167.%E2%80%85Big%E2%80%85Picture/9f37bfee.png" data-original-src="https://upload.acmicpc.net/63994518-3049-4e3f-a3a5-b04c0c097a97/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 200px; height: 185px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/28167.%E2%80%85Big%E2%80%85Picture/9f37bfee.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/28167.%E2%80%85Big%E2%80%85Picture/9f37bfee.png" data-original-src="https://upload.acmicpc.net/63994518-3049-4e3f-a3a5-b04c0c097a97/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 200px; height: 185px;" /></p>

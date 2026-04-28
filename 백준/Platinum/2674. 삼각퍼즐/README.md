@@ -26,7 +26,7 @@
 
 <p>다음은 8&times;8의 경우에 대한 예이다. 각각 왼쪽과 위에 주어진 것이 입력으로 주어지는 순열이 되며, 가운데 사각행렬이 입력으로부터 재구성한 삼각행렬이다.</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/2674.%E2%80%85%EC%82%BC%EA%B0%81%ED%8D%BC%EC%A6%90/5cf53375.png" data-original-src="https://www.acmicpc.net/upload/images/17oDBsJiXS6nsbxyJWVK.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 423px; height: 353px; " /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/2674.%E2%80%85%EC%82%BC%EA%B0%81%ED%8D%BC%EC%A6%90/5cf53375.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/2674.%E2%80%85%EC%82%BC%EA%B0%81%ED%8D%BC%EC%A6%90/5cf53375.png" data-original-src="https://www.acmicpc.net/upload/images/17oDBsJiXS6nsbxyJWVK.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 423px; height: 353px; " /></p>
 
 ### 입력
 

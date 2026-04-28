@@ -18,7 +18,7 @@
 
 <p>Tomosynthesis is a medical imaging modality in which a 3D dataset is obtained algorithmically from a set of X-ray images taken in different directions within a limited range of angles. A larger range of angles normally gives a better reconstruction, but is more difficult to acquire. Arvid is working on a reconstruction algorithm for obtaining the 3D image, but so far it doesn&rsquo;t seem to work when there are overlapping structures in any of the input images. The sample he will first reconstruct is a test object consisting of parallel equal-length cylinders of varying diameters that will be rotated around the axis of the cylinders.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/11206.%E2%80%85Tomosynthesis/0a5545c2.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11206/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:214px; width:324px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/11206.%E2%80%85Tomosynthesis/0a5545c2.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/11206.%E2%80%85Tomosynthesis/0a5545c2.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11206/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:214px; width:324px" /></p>
 
 <p style="text-align: center;">Figure D.1: To the left, a cross section of the test object of sample input 1. The upper projection is not acceptable since the two larger cylinders overlap. In the lower projection no cylinders overlap, so this direction and a range of angles around it are okay. To the right, an illustration of the same test object from the side.</p>
 

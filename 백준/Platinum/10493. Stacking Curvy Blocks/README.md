@@ -18,7 +18,7 @@
 
 <p>You&rsquo;re doing some construction work, and, to save money, you&rsquo;re using some discount, &ldquo;irregular&rdquo; construction materials. In particular, you have some blocks that are mostly rectangular, but with one edge that&rsquo;s curvy. As illustrated below, you&rsquo;re going to use these irregular blocks between stacks of ordinary blocks, so they won&rsquo;t shift sideways or rotate. You&rsquo;ll put one irregular block on the bottom, with its curvy edge pointing up, and another above it, with it&rsquo;s curvy edge pointing down. You just need to know how well these blocks fit together. You define the fit quality as the maximum vertical gap between the upper edge of the bottom block and the lower edge of the top block when the upper block is just touching the lower one.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/10493.%E2%80%85Stacking%E2%80%85Curvy%E2%80%85Blocks/e779c224.png" data-original-src="https://www.acmicpc.net/upload/images2/stacking.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:236px; width:529px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/10493.%E2%80%85Stacking%E2%80%85Curvy%E2%80%85Blocks/e779c224.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/10493.%E2%80%85Stacking%E2%80%85Curvy%E2%80%85Blocks/e779c224.png" data-original-src="https://www.acmicpc.net/upload/images2/stacking.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:236px; width:529px" /></p>
 
 <p style="text-align: center;">Figure 1: Block stacking and coordinate system</p>
 

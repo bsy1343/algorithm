@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/17558.%E2%80%85Rounding/30f8ffa4.png" data-original-src="https://upload.acmicpc.net/5abaa502-572c-4bf9-8f46-14edf7ca0d27/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 346px; height: 298px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/17558.%E2%80%85Rounding/30f8ffa4.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/17558.%E2%80%85Rounding/30f8ffa4.png" data-original-src="https://upload.acmicpc.net/5abaa502-572c-4bf9-8f46-14edf7ca0d27/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 346px; height: 298px;" /></p>
 
 <p>You decided to stay an extra day in Paris visiting favorite places of Parisians around T&eacute;l&eacute;com ParisTech. You want to collect information about these favorite places, but asking people to fill in surveys is less fun than coding. For this reason, you asked the Parisian Agency for Really Imprecise Surveys to do it for you. You sent them a list of the P places you were interested in.</p>
 

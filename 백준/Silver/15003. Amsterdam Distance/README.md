@@ -22,7 +22,7 @@
 
 <p>since Manhattan looks like a rectangular grid of city blocks. However, Amsterdam is not well approximated by a rectangular grid. Therefore, you have taken it upon yourself to figure out the shortest distances between attractions in Amsterdam. With its canals, Amsterdam looks much more like a half-disc, with streets radiating at regular angles from the center, and with canals running the arc of the circle at equally spaced intervals. A street corner is given by the intersection of a circular canal and a street which radiates from the city center.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/15003.%E2%80%85Amsterdam%E2%80%85Distance/390d7229.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15003/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:239px; width:421px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/15003.%E2%80%85Amsterdam%E2%80%85Distance/390d7229.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/15003.%E2%80%85Amsterdam%E2%80%85Distance/390d7229.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15003/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:239px; width:421px" /></p>
 
 <p style="text-align: center;">Figure 1: The first sample input.</p>
 

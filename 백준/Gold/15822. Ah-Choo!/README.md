@@ -24,7 +24,7 @@
 
 <p>소리와 같은 파형 데이터는 시간을 x축으로 가지는 시계열(Time-series) 형태의 데이터로 표현된다. 하지만 같은 사람의 재채기 소리도 매 번 조금씩 다른 형태의 파형을 가질 수 있다. 아래의 예시를 보자.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/15822.%E2%80%85Ah-Choo!/7132d51a.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15822/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 361px; height: 120px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/15822.%E2%80%85Ah-Choo!/7132d51a.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/15822.%E2%80%85Ah-Choo!/7132d51a.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15822/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 361px; height: 120px;" /></p>
 
 <p style="text-align: center;">그림 1. 시간을 기준으로 한 파형의 비교(좌) / DTW를 적용한 파형의 비교(우) 방식 예시&nbsp;</p>
 
@@ -32,13 +32,13 @@
 
 <p>두 소리 X, Y의 각 시점의 파형의 높이를 X(i), Y(j)라고 하자. 이때, 파형 X의 시점 i와 파형 Y의 시험 j에서의 두 파형의 오차는 {X(i)-Y(j)}<sup>2</sup>와 같이 정의한다. 두 파형의 각 시점은 하나 이상의 상대편 파형의 시점에 대응되어야 하며, 각 대응된 시점간의 오차의 총 합이 두 소리의 거리가 된다. 결과적으로 DTW 기법을 적용해 얻을 수 있는 두 소리의 최소 거리의 역수가 두 소리의 유사도가 된다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/15822.%E2%80%85Ah-Choo!/c6cbe74d.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15822/2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 208px; height: 208px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/15822.%E2%80%85Ah-Choo!/c6cbe74d.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/15822.%E2%80%85Ah-Choo!/c6cbe74d.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15822/2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 208px; height: 208px;" /></p>
 
 <p style="text-align: center;">그림 2. 두 소리의 거리가 최소가 되도록 각 시점을 대응시킨 예시</p>
 
 <p>결과적으로 유사도를 계산하기 위하여 두 파형에 대해서 대응되는 시점을 정해야 한다. 각 소리 파형의 각 시점은 하나 이상의 대응되는 시점을 가져야 한다. 단, 두 시점의 대응이 다른 두 시점의 대응과 교차되어서는 안 된다. 예를 들어서 X 파형의 7초 시점과 Y 파형의 6초를 대응했을 때 이후에 X파형의 8초 시점과 Y파형의 5초 시점을 대응시키면 두 대응 관계간의 교차가 발생하므로 올바른 대응이 아니다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/15822.%E2%80%85Ah-Choo!/05eb9d9b.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15822/3.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 470px; height: 75px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/15822.%E2%80%85Ah-Choo!/05eb9d9b.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/15822.%E2%80%85Ah-Choo!/05eb9d9b.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15822/3.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 470px; height: 75px;" /></p>
 
 <p style="text-align: center;">그림 3. 예시 파형의 각 시점을 대응시키는 방법.&nbsp;</p>
 

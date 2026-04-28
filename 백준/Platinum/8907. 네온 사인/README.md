@@ -24,7 +24,7 @@
 
 <p>예를 들어, 아래 네온 사인에는 단색 삼각형이 두 개 있다. (1, 3, 5)와 (2, 3, 4)</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/8907.%E2%80%85%EB%84%A4%EC%98%A8%E2%80%85%EC%82%AC%EC%9D%B8/5bd169aa.png" data-original-src="https://www.acmicpc.net/upload/images/neonsign.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:312px; width:344px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/8907.%E2%80%85%EB%84%A4%EC%98%A8%E2%80%85%EC%82%AC%EC%9D%B8/5bd169aa.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/8907.%E2%80%85%EB%84%A4%EC%98%A8%E2%80%85%EC%82%AC%EC%9D%B8/5bd169aa.png" data-original-src="https://www.acmicpc.net/upload/images/neonsign.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:312px; width:344px" /></p>
 
 <p>네온 사인의 꼭짓점의 수와 각 야광 튜브의 색상이 주어졌을 때, 단색 삼각형의 개수를 구하는 프로그램을 작성하시오.</p>
 

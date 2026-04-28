@@ -18,7 +18,7 @@
 
 <p>Charlie Darkbrown sits in another one of those boring Computer Science lessons: At the moment the teacher just explains the standard Tower of Hanoi problem, which bores Charlie to death!&nbsp;</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/6092.%E2%80%85Strange%E2%80%85Towers%E2%80%85of%E2%80%85Hanoi/d1dde639.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/6092/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/6092.%E2%80%85Strange%E2%80%85Towers%E2%80%85of%E2%80%85Hanoi/d1dde639.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/6092.%E2%80%85Strange%E2%80%85Towers%E2%80%85of%E2%80%85Hanoi/d1dde639.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/6092/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p style="text-align: center;">Figure 4: The standard (three) Towers of Hanoi.</p>
 

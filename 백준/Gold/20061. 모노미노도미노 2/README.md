@@ -18,79 +18,79 @@
 
 <p>모노미노도미노는 아래와 같이 생긴 보드에서 진행되는 게임이다. 보드는 빨간색 보드, 파란색 보드, 초록색 보드가 그림과 같이 붙어있는 형태이다.&nbsp;게임에서 사용하는 좌표 (x, y)에서 x는 행, y는 열을 의미한다. 빨간색, 파란색, 초록색 보드가 사용하는 좌표는 그 색으로 그림에 적혀있다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/20061.%E2%80%85%EB%AA%A8%EB%85%B8%EB%AF%B8%EB%85%B8%EB%8F%84%EB%AF%B8%EB%85%B8%E2%80%852/e77c2be6.png" data-original-src="https://upload.acmicpc.net/8043086d-a85c-4d9e-8505-7a4ffd8c4439/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 611px; height: 624px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/20061.%E2%80%85%EB%AA%A8%EB%85%B8%EB%AF%B8%EB%85%B8%EB%8F%84%EB%AF%B8%EB%85%B8%E2%80%852/e77c2be6.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/20061.%E2%80%85%EB%AA%A8%EB%85%B8%EB%AF%B8%EB%85%B8%EB%8F%84%EB%AF%B8%EB%85%B8%E2%80%852/e77c2be6.png" data-original-src="https://upload.acmicpc.net/8043086d-a85c-4d9e-8505-7a4ffd8c4439/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 611px; height: 624px;" /></p>
 
 <p style="text-align: center;">&lt;그림 1&gt; 모노미노도미노 게임 보드</p>
 
 <p>이 게임에서 사용하는 블록은 타일 하나 또는 두 개가 가로 또는 세로로 붙어있는 형태이다. 아래와 같이 세 종류가 있으며, 왼쪽부터 순서대로 크기가 1&times;1, 1&times;2, 2&times;1 이다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/20061.%E2%80%85%EB%AA%A8%EB%85%B8%EB%AF%B8%EB%85%B8%EB%8F%84%EB%AF%B8%EB%85%B8%E2%80%852/fffcb4b0.png" data-original-src="https://upload.acmicpc.net/1453b25c-e0c1-4b99-9eda-bba9336beab1/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 335px; height: 129px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/20061.%E2%80%85%EB%AA%A8%EB%85%B8%EB%AF%B8%EB%85%B8%EB%8F%84%EB%AF%B8%EB%85%B8%E2%80%852/fffcb4b0.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/20061.%E2%80%85%EB%AA%A8%EB%85%B8%EB%AF%B8%EB%85%B8%EB%8F%84%EB%AF%B8%EB%85%B8%E2%80%852/fffcb4b0.png" data-original-src="https://upload.acmicpc.net/1453b25c-e0c1-4b99-9eda-bba9336beab1/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 335px; height: 129px;" /></p>
 
 <p style="text-align: center;">&lt;그림 2&gt;&nbsp;모노미노도미노 게임에서 사용하는 블록</p>
 
 <p>블록을 놓을 위치를 빨간색 보드에서 선택하면, 그 위치부터 초록색 보드로 블록이&nbsp;이동하고, 파란색 보드로&nbsp;블록이&nbsp;이동한다. 블록의 이동은 다른 블록을 만나거나 보드의 경계를 만나기 전까지 계속해서 이동한다. 예를 들어, 크기가 1&times;1인 블록을 (1, 1)에 놓으면, 보드의 상태는 &lt;그림 3&gt;과 같이 변한다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/20061.%E2%80%85%EB%AA%A8%EB%85%B8%EB%AF%B8%EB%85%B8%EB%8F%84%EB%AF%B8%EB%85%B8%E2%80%852/749b2f72.png" data-original-src="https://upload.acmicpc.net/49d72bb4-859c-422f-845b-00e6699023b7/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 623px; height: 627px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/20061.%E2%80%85%EB%AA%A8%EB%85%B8%EB%AF%B8%EB%85%B8%EB%8F%84%EB%AF%B8%EB%85%B8%E2%80%852/749b2f72.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/20061.%E2%80%85%EB%AA%A8%EB%85%B8%EB%AF%B8%EB%85%B8%EB%8F%84%EB%AF%B8%EB%85%B8%E2%80%852/749b2f72.png" data-original-src="https://upload.acmicpc.net/49d72bb4-859c-422f-845b-00e6699023b7/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 623px; height: 627px;" /></p>
 
 <p style="text-align: center;">&lt;그림 3&gt;</p>
 
 <p>여기서 크기가 1&times;2인 블록을 (3, 0)과 (3, 1)에 놓으면 &lt;그림 4&gt;와 같이 보드의 상태가 변한다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/20061.%E2%80%85%EB%AA%A8%EB%85%B8%EB%AF%B8%EB%85%B8%EB%8F%84%EB%AF%B8%EB%85%B8%E2%80%852/e8085d6f.png" data-original-src="https://upload.acmicpc.net/4fc4574a-3e42-42ab-991f-3417104239a5/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 608px; height: 617px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/20061.%E2%80%85%EB%AA%A8%EB%85%B8%EB%AF%B8%EB%85%B8%EB%8F%84%EB%AF%B8%EB%85%B8%E2%80%852/e8085d6f.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/20061.%E2%80%85%EB%AA%A8%EB%85%B8%EB%AF%B8%EB%85%B8%EB%8F%84%EB%AF%B8%EB%85%B8%E2%80%852/e8085d6f.png" data-original-src="https://upload.acmicpc.net/4fc4574a-3e42-42ab-991f-3417104239a5/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 608px; height: 617px;" /></p>
 
 <p style="text-align: center;">&lt;그림 4&gt;</p>
 
 <p>다시 이 상태에서&nbsp;크기가 2&times;1인 블록을 (2, 2), (3, 2)와 (2, 3), (3, 3)에 놓으면 &lt;그림 5&gt;와 같이 변한다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/20061.%E2%80%85%EB%AA%A8%EB%85%B8%EB%AF%B8%EB%85%B8%EB%8F%84%EB%AF%B8%EB%85%B8%E2%80%852/0a19de85.png" data-original-src="https://upload.acmicpc.net/d6f4303f-06e7-4918-8cb4-da0356a6b5c6/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 609px; height: 615px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/20061.%E2%80%85%EB%AA%A8%EB%85%B8%EB%AF%B8%EB%85%B8%EB%8F%84%EB%AF%B8%EB%85%B8%E2%80%852/0a19de85.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/20061.%E2%80%85%EB%AA%A8%EB%85%B8%EB%AF%B8%EB%85%B8%EB%8F%84%EB%AF%B8%EB%85%B8%E2%80%852/0a19de85.png" data-original-src="https://upload.acmicpc.net/d6f4303f-06e7-4918-8cb4-da0356a6b5c6/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 609px; height: 615px;" /></p>
 
 <p style="text-align: center;">&lt;그림 5&gt;</p>
 
 <p>초록색 보드의 4번 행은 모든 칸이 타일로 가득 차있다. 이렇게 초록색 보드에서 어떤 행이 타일로 가득 차 있다면, 그 행의 타일은 모두 사라진다. 사라진 이후에는 초록색 보드에서 사라진 행의 위에 있는 블록이 사라진 행의 수만큼&nbsp;아래로 이동한다. 파란색의 경우는 열이 타일로 가득 차 있으면, 그 열의 타일이 모두 사라지며, 사라진 이후에는 파란색 보드에서 사라진 열의 왼쪽에 있는 블록이 사라진 열의 수만큼 오른쪽으로 이동한다. 이렇게 한 행이나 열이 타일로 가득 차서 사라지면&nbsp;1점을 획득한다. 점수는 사라진 행 또는 열의 수와 같다. 만약, 두 개의 행이 사라지면 2점을 획득하게 되고, 한 행과 한 열이 사라져도 2점을 획득하게 된다. 위의 보드는&nbsp;아래와 같이 변하고, 1점을 얻는다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/20061.%E2%80%85%EB%AA%A8%EB%85%B8%EB%AF%B8%EB%85%B8%EB%8F%84%EB%AF%B8%EB%85%B8%E2%80%852/c60b0ed3.png" data-original-src="https://upload.acmicpc.net/106542a6-ee12-4d30-9000-f78fb96c8908/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 606px; height: 615px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/20061.%E2%80%85%EB%AA%A8%EB%85%B8%EB%AF%B8%EB%85%B8%EB%8F%84%EB%AF%B8%EB%85%B8%E2%80%852/c60b0ed3.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/20061.%E2%80%85%EB%AA%A8%EB%85%B8%EB%AF%B8%EB%85%B8%EB%8F%84%EB%AF%B8%EB%85%B8%E2%80%852/c60b0ed3.png" data-original-src="https://upload.acmicpc.net/106542a6-ee12-4d30-9000-f78fb96c8908/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 606px; height: 615px;" /></p>
 
 <p style="text-align: center;">&lt;그림 6&gt;</p>
 
 <p>여기서 크기가 2&times;1인 블록을 (1, 3), (2, 3)에 놓으면 보드는 &lt;그림 7&gt;과 같이 변한다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/20061.%E2%80%85%EB%AA%A8%EB%85%B8%EB%AF%B8%EB%85%B8%EB%8F%84%EB%AF%B8%EB%85%B8%E2%80%852/7424980f.png" data-original-src="https://upload.acmicpc.net/911438b0-7b7f-43b8-b6cc-20c6390bc7e3/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 614px; height: 614px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/20061.%E2%80%85%EB%AA%A8%EB%85%B8%EB%AF%B8%EB%85%B8%EB%8F%84%EB%AF%B8%EB%85%B8%E2%80%852/7424980f.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/20061.%E2%80%85%EB%AA%A8%EB%85%B8%EB%AF%B8%EB%85%B8%EB%8F%84%EB%AF%B8%EB%85%B8%E2%80%852/7424980f.png" data-original-src="https://upload.acmicpc.net/911438b0-7b7f-43b8-b6cc-20c6390bc7e3/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 614px; height: 614px;" /></p>
 
 <p style="text-align: center;">&lt;그림 7&gt;</p>
 
 <p>초록색 보드의 0, 1번 행과 파란색 보드의 0, 1번 열은 그림에는 연한색으로 표현되어 있는 특별한 칸이다. 초록색 보드의 0, 1번 행에 블록이 있으면, 블록이 있는 행의 수만큼 아래 행에 있는 타일이 사라지고, 초록색 보드의 모든 블록이 사라진 행의 수만큼 아래로&nbsp;이동하고, 파란색 보드의 0, 1번 열에 블록이 있으면, 블록이 있는 열의 수만큼 오른쪽 열에 있는 타일이 사라지고, 파란색 보드의 모든 블록이 사라진 열의 수만큼 이동하게 된다. 위의 그림은 파란색 보드의 1번 열에&nbsp;블록이 있기 때문에, 5번 열에 있는 블록이 모두 사라지고, 파란색 보드의 모든 블록이 오른쪽으로 한 칸 이동하게 된다. 따라서, 보드는 &lt;그림 8&gt;과 같이 변하게 된다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/20061.%E2%80%85%EB%AA%A8%EB%85%B8%EB%AF%B8%EB%85%B8%EB%8F%84%EB%AF%B8%EB%85%B8%E2%80%852/f6fce423.png" data-original-src="https://upload.acmicpc.net/9b59b0ff-ebfc-4283-9576-5bec2bf2f238/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 615px; height: 615px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/20061.%E2%80%85%EB%AA%A8%EB%85%B8%EB%AF%B8%EB%85%B8%EB%8F%84%EB%AF%B8%EB%85%B8%E2%80%852/f6fce423.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/20061.%E2%80%85%EB%AA%A8%EB%85%B8%EB%AF%B8%EB%85%B8%EB%8F%84%EB%AF%B8%EB%85%B8%E2%80%852/f6fce423.png" data-original-src="https://upload.acmicpc.net/9b59b0ff-ebfc-4283-9576-5bec2bf2f238/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 615px; height: 615px;" /></p>
 
 <p style="text-align: center;">&lt;그림 8&gt;</p>
 
 <p>위의 보드에서 1&times;2인 블록을 (0, 0), (0, 1)에 놓으면 &lt;그림 9&gt;와 같다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/20061.%E2%80%85%EB%AA%A8%EB%85%B8%EB%AF%B8%EB%85%B8%EB%8F%84%EB%AF%B8%EB%85%B8%E2%80%852/344f6ac3.png" data-original-src="https://upload.acmicpc.net/c2151fd5-4e43-4403-bf10-7cbef642a6eb/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 608px; height: 614px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/20061.%E2%80%85%EB%AA%A8%EB%85%B8%EB%AF%B8%EB%85%B8%EB%8F%84%EB%AF%B8%EB%85%B8%E2%80%852/344f6ac3.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/20061.%E2%80%85%EB%AA%A8%EB%85%B8%EB%AF%B8%EB%85%B8%EB%8F%84%EB%AF%B8%EB%85%B8%E2%80%852/344f6ac3.png" data-original-src="https://upload.acmicpc.net/c2151fd5-4e43-4403-bf10-7cbef642a6eb/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 608px; height: 614px;" /></p>
 
 <p style="text-align: center;">&lt;그림 9&gt;</p>
 
 <p>여기서 크기가 2&times;1인 블록을 (2, 0), (3, 0)에 놓으면 &lt;그림 10&gt;과 같이 변한다. 파란색 보드는 1번 열에 블록이 생겨서 오른쪽으로 한 칸씩 이동한 상태이다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/20061.%E2%80%85%EB%AA%A8%EB%85%B8%EB%AF%B8%EB%85%B8%EB%8F%84%EB%AF%B8%EB%85%B8%E2%80%852/d4b76989.png" data-original-src="https://upload.acmicpc.net/0fd074f1-72af-4ffe-95d0-038635b7a80c/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 611px; height: 618px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/20061.%E2%80%85%EB%AA%A8%EB%85%B8%EB%AF%B8%EB%85%B8%EB%8F%84%EB%AF%B8%EB%85%B8%E2%80%852/d4b76989.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/20061.%E2%80%85%EB%AA%A8%EB%85%B8%EB%AF%B8%EB%85%B8%EB%8F%84%EB%AF%B8%EB%85%B8%E2%80%852/d4b76989.png" data-original-src="https://upload.acmicpc.net/0fd074f1-72af-4ffe-95d0-038635b7a80c/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 611px; height: 618px;" /></p>
 
 <p style="text-align: center;">&lt;그림 10&gt;</p>
 
 <p>크기가&nbsp;2&times;1인 블록을 (1, 2), (2, 2)에 놓으면, &lt;그림 11&gt;과 같이 변한다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/20061.%E2%80%85%EB%AA%A8%EB%85%B8%EB%AF%B8%EB%85%B8%EB%8F%84%EB%AF%B8%EB%85%B8%E2%80%852/fec02846.png" data-original-src="https://upload.acmicpc.net/f5941153-b92d-42ef-b25c-453e600f884c/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 601px; height: 612px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/20061.%E2%80%85%EB%AA%A8%EB%85%B8%EB%AF%B8%EB%85%B8%EB%8F%84%EB%AF%B8%EB%85%B8%E2%80%852/fec02846.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/20061.%E2%80%85%EB%AA%A8%EB%85%B8%EB%AF%B8%EB%85%B8%EB%8F%84%EB%AF%B8%EB%85%B8%E2%80%852/fec02846.png" data-original-src="https://upload.acmicpc.net/f5941153-b92d-42ef-b25c-453e600f884c/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 601px; height: 612px;" /></p>
 
 <p style="text-align: center;">&lt;그림 11&gt;</p>
 
 <p>파란색 보드는 1번 열에 블록이 있기 때문에, 5번 열의 타일이 사라지고 모든 블록이 오른쪽으로 한 칸씩 이동하게 된다. 초록색 보드는 4번 행의 모든 칸에 타일이 있기 때문에, 1점을 얻으면서, 4번 행의 모든 타일이 사라진다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/20061.%E2%80%85%EB%AA%A8%EB%85%B8%EB%AF%B8%EB%85%B8%EB%8F%84%EB%AF%B8%EB%85%B8%E2%80%852/e26b9a2d.png" data-original-src="https://upload.acmicpc.net/1153c233-befa-477d-a385-a10be375ff50/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 609px; height: 616px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/20061.%E2%80%85%EB%AA%A8%EB%85%B8%EB%AF%B8%EB%85%B8%EB%8F%84%EB%AF%B8%EB%85%B8%E2%80%852/e26b9a2d.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/20061.%E2%80%85%EB%AA%A8%EB%85%B8%EB%AF%B8%EB%85%B8%EB%8F%84%EB%AF%B8%EB%85%B8%E2%80%852/e26b9a2d.png" data-original-src="https://upload.acmicpc.net/1153c233-befa-477d-a385-a10be375ff50/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 609px; height: 616px;" /></p>
 
 <p style="text-align: center;">&lt;그림 12&gt;</p>
 
 <p>&lt;그림 12&gt;는 &lt;그림 11&gt;의 상태에서 파란색 보드는 모든 블록이 오른쪽으로 한 칸 이동했고, 초록색 보드의 4번 행이 모두 사라진 상태이다. 이제, 초록색 보드에서 사라진 행의 위에 있는&nbsp;블록이 아래로 한 칸씩 내려와야 한다. 이동한 후의 상태는 &lt;그림 13&gt;과 같다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/20061.%E2%80%85%EB%AA%A8%EB%85%B8%EB%AF%B8%EB%85%B8%EB%8F%84%EB%AF%B8%EB%85%B8%E2%80%852/664de3cf.png" data-original-src="https://upload.acmicpc.net/81a0a734-129b-47e8-8142-5579f747f678/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 609px; height: 618px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/20061.%E2%80%85%EB%AA%A8%EB%85%B8%EB%AF%B8%EB%85%B8%EB%8F%84%EB%AF%B8%EB%85%B8%E2%80%852/664de3cf.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/20061.%E2%80%85%EB%AA%A8%EB%85%B8%EB%AF%B8%EB%85%B8%EB%8F%84%EB%AF%B8%EB%85%B8%E2%80%852/664de3cf.png" data-original-src="https://upload.acmicpc.net/81a0a734-129b-47e8-8142-5579f747f678/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 609px; height: 618px;" /></p>
 
 <p style="text-align: center;">&lt;그림 13&gt;</p>
 

@@ -18,7 +18,7 @@
 
 <p>The&nbsp;<i>hundred-cell calculation</i>&nbsp;is a kind of calculation training. In hundred-cell calculation, a sheet with ten by ten empty cells is given. Numbers, 0 through 9, are written on the top of the ten columns in an arbitrary order. 0 through 9 are also written at the left of the ten rows in an arbitrary order. You are to fill the empty cells with the sums of the top and left numbers, as an example shown in the figure below.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/23723.%E2%80%85Hundred-Cell%E2%80%85Calculation%E2%80%85Puzzles/2f9a5bb2.png" data-original-src="https://upload.acmicpc.net/fc80f0ac-a9c5-4cf7-b74e-5b38e2726643/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 400px; height: 400px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/23723.%E2%80%85Hundred-Cell%E2%80%85Calculation%E2%80%85Puzzles/2f9a5bb2.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/23723.%E2%80%85Hundred-Cell%E2%80%85Calculation%E2%80%85Puzzles/2f9a5bb2.png" data-original-src="https://upload.acmicpc.net/fc80f0ac-a9c5-4cf7-b74e-5b38e2726643/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 400px; height: 400px;" /></p>
 
 <p>You may think of more generalized drills. Such a drill has different numbers of the columns and rows, say&nbsp;<i>w</i>&nbsp;&times;&nbsp;<i>h.</i>&nbsp;The numbers to be written on the top and the left can be any integers.</p>
 

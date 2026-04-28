@@ -20,7 +20,7 @@
 
 <p>저는 여러분에게 괄호열을 활용한 아주 쉬운 문제를 내고, 입력 데이터를 만들었습니다. 각 입력 데이터에는 올바른 괄호열이 들어가 있습니다. 그런데 이 채점 데이터를 열어보니, 괄호열의 일부가 아래와 같이 <code>?</code>로 바뀌어 있었습니다! 불행 중 다행으로, 각 &#39;<code>?</code>&#39;는 무조건 1개의 <code>(</code> 또는 <code>)</code> 기호가 깨진 것임을 알 수 있었습니다.</p>
 
-<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/11882.%E2%80%85%EA%B4%84%ED%98%B8%E2%80%85%EC%B1%84%EC%9A%B0%EA%B8%B0/fc02efa8.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11882/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:123px; width:433px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/11882.%E2%80%85%EA%B4%84%ED%98%B8%E2%80%85%EC%B1%84%EC%9A%B0%EA%B8%B0/fc02efa8.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/11882.%E2%80%85%EA%B4%84%ED%98%B8%E2%80%85%EC%B1%84%EC%9A%B0%EA%B8%B0/fc02efa8.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11882/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:123px; width:433px" /></p>
 
 <p>저는 모든 입력 데이터를 복구하고자 합니다. 그러나 단순하게 복구하면 데이터가 제가 의도했던 것보다 훨씬 쉬워질 것 같으니, 저는 왼쪽에서 i번째에 위치한 &#39;<code>?</code>&#39;마다 &#39;<code>(</code>&#39;로 바꾸는데 드는 비용 l<sub>i</sub>와 &#39;<code>)</code>&#39;로 바꾸는데 드는 비용 r<sub>i</sub>를 계산해 놓았습니다.</p>
 

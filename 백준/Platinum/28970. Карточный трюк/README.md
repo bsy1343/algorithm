@@ -38,4 +38,4 @@
 
 <p>Пояснение к первому тесту</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/28970.%E2%80%85%D0%9A%D0%B0%D1%80%D1%82%D0%BE%D1%87%D0%BD%D1%8B%D0%B9%E2%80%85%D1%82%D1%80%D1%8E%D0%BA/3b7996ae.png" data-original-src="https://upload.acmicpc.net/c559a69e-1b20-4347-8db1-cfd1a6a50fa0/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 539px; height: 139px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/28970.%E2%80%85%D0%9A%D0%B0%D1%80%D1%82%D0%BE%D1%87%D0%BD%D1%8B%D0%B9%E2%80%85%D1%82%D1%80%D1%8E%D0%BA/3b7996ae.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/28970.%E2%80%85%D0%9A%D0%B0%D1%80%D1%82%D0%BE%D1%87%D0%BD%D1%8B%D0%B9%E2%80%85%D1%82%D1%80%D1%8E%D0%BA/3b7996ae.png" data-original-src="https://upload.acmicpc.net/c559a69e-1b20-4347-8db1-cfd1a6a50fa0/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 539px; height: 139px;" /></p>

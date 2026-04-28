@@ -18,7 +18,7 @@
 
 <p>신촌지역 대학교 프로그래밍 동아리 연합의 2022년 여름 캠프가 끝났다. 그간 열심히 공부하느라 지친 원빈-효규 형제는 여행을 떠나기로 했다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/25493.%E2%80%85%EA%B9%8C%EB%8B%A4%EB%A1%9C%EC%9A%B4%E2%80%85%ED%98%95%EC%A0%9C/ef0ba2c0.png" data-original-src="https://upload.acmicpc.net/28990456-edbb-4879-b32e-4ddbba35452e/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 351px; width: 400px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/25493.%E2%80%85%EA%B9%8C%EB%8B%A4%EB%A1%9C%EC%9A%B4%E2%80%85%ED%98%95%EC%A0%9C/ef0ba2c0.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/25493.%E2%80%85%EA%B9%8C%EB%8B%A4%EB%A1%9C%EC%9A%B4%E2%80%85%ED%98%95%EC%A0%9C/ef0ba2c0.png" data-original-src="https://upload.acmicpc.net/28990456-edbb-4879-b32e-4ddbba35452e/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 351px; width: 400px;" /></p>
 
 <p>원빈-효규 형제가 사는 세상은 2차원 좌표평면으로 나타낼 수 있다. $N$개의 서로 다른 위치에 여행지가 존재하고, 각 여행지에 방문하면 $s_i$의 만족도를 얻을 수 있다. 이 여행지 중에서 몇 개를 골라 방문하는 여행 경로를 정하려고 한다. 그런데 원빈-효규 형제는 까다롭기로 소문난 형제다. 이들은 여행 경로가 다음 두 조건을 만족해야만 여행을 떠난다.</p>
 

@@ -30,4 +30,4 @@
 
 <p>마지막 예제의 경우에 아래와 같이 8가지가 가능하다.</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/7889.%E2%80%85%ED%9E%99%E2%80%85%EC%84%B8%EA%B8%B0/3dadcd23.png" data-original-src="https://www.acmicpc.net/upload/images/cheap.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:207px; width:480px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/7889.%E2%80%85%ED%9E%99%E2%80%85%EC%84%B8%EA%B8%B0/3dadcd23.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/7889.%E2%80%85%ED%9E%99%E2%80%85%EC%84%B8%EA%B8%B0/3dadcd23.png" data-original-src="https://www.acmicpc.net/upload/images/cheap.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:207px; width:480px" /></p>

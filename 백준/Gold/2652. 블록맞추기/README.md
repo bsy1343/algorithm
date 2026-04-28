@@ -22,7 +22,7 @@
 
 <p>예를 들어, &#39;ㅗ&#39;자 모양의 블록 (a)가 주어지면, 이는 &#39;ㄷ&#39;자 모양의 블록 A, B, C, D 중의 어느 블록에 맞추어도 직사각형을 만들 수 없으나, 블록 (b)를 블록 A에 끼우면 직사각형이 된다. 블록 (c)는 블록 C와 D모두에 맞는 블록이다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/2652.%E2%80%85%EB%B8%94%EB%A1%9D%EB%A7%9E%EC%B6%94%EA%B8%B0/531e6e79.png" data-original-src="https://www.acmicpc.net/upload/images/zb4EdpEBE4vGhQownxSz6uIDmxK3A.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 621px; height: 336px; " /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/2652.%E2%80%85%EB%B8%94%EB%A1%9D%EB%A7%9E%EC%B6%94%EA%B8%B0/531e6e79.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/2652.%E2%80%85%EB%B8%94%EB%A1%9D%EB%A7%9E%EC%B6%94%EA%B8%B0/531e6e79.png" data-original-src="https://www.acmicpc.net/upload/images/zb4EdpEBE4vGhQownxSz6uIDmxK3A.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 621px; height: 336px; " /></p>
 
 <p>&#39;ㄷ&#39;자 모양의 블록들이 들어 있는 판과 &#39;ㅗ&#39;자 모양의 블록이 1개 주어지면, 이 블록이 끼워져서 직사각형이 될 수 있는 &#39;ㄷ&#39;자 블록들을 구하는 프로그램을 작성하시오.</p>
 
@@ -41,7 +41,7 @@
 
 <p>주어지는 판에 있는 모든 블록은 &#39;ㄷ&#39;자 모양 블록이며 &#39;ㄷ&#39;자 모양 블록들은 서로 인접해있지 않다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/2652.%E2%80%85%EB%B8%94%EB%A1%9D%EB%A7%9E%EC%B6%94%EA%B8%B0/cb7cbeb4.png" data-original-src="https://upload.acmicpc.net/938fae28-0b89-4b23-8076-c994fc5791b6/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 200px; height: 236px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/2652.%E2%80%85%EB%B8%94%EB%A1%9D%EB%A7%9E%EC%B6%94%EA%B8%B0/cb7cbeb4.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/2652.%E2%80%85%EB%B8%94%EB%A1%9D%EB%A7%9E%EC%B6%94%EA%B8%B0/cb7cbeb4.png" data-original-src="https://upload.acmicpc.net/938fae28-0b89-4b23-8076-c994fc5791b6/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 200px; height: 236px;" /></p>
 
 ### 출력
 

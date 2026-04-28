@@ -31,7 +31,7 @@
 	<li>나라 안에 아무 종이 없어도 됩니다.</li>
 </ul>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/17500.%E2%80%85%EA%B5%AD%EA%B2%BD/9d23bd65.png" data-original-src="https://upload.acmicpc.net/8e2a4952-ac30-44ce-9a4b-d56ecb7ae1d3/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/17500.%E2%80%85%EA%B5%AD%EA%B2%BD/9d23bd65.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/17500.%E2%80%85%EA%B5%AD%EA%B2%BD/9d23bd65.png" data-original-src="https://upload.acmicpc.net/8e2a4952-ac30-44ce-9a4b-d56ecb7ae1d3/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p style="text-align: center;">&laquo; 4&times;4 모양의 섬과 조건을 만족하는 국경 이미지 &raquo;</p>
 

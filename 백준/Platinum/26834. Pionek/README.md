@@ -38,4 +38,4 @@
 
 <p>Wyjaśnienie do przykładu: Na rysunku przedstawiono rozwiązanie optymalne wykorzystujące ruchy opisane wektorami [0, 2], [3, 1] oraz [2, &minus;2]. Inne, r&oacute;wnie dobre rozwiązanie uzyskujemy za pomocą wektor&oacute;w [0, 2], [&minus;3, 1] oraz [&minus;2, &minus;2].</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/26834.%E2%80%85Pionek/89a74132.png" data-original-src="https://upload.acmicpc.net/b079cae2-1bc9-4d97-8cdf-61c0a6526172/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 201px; height: 150px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/26834.%E2%80%85Pionek/89a74132.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/26834.%E2%80%85Pionek/89a74132.png" data-original-src="https://upload.acmicpc.net/b079cae2-1bc9-4d97-8cdf-61c0a6526172/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 201px; height: 150px;" /></p>

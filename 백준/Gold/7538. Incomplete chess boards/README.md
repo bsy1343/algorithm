@@ -28,7 +28,7 @@
 
 <p>For example, it is possible to cover the board with 31 dominoes if the squares (8, 4) and (2, 5) are removed, as you can see in Figure 1.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/7538.%E2%80%85Incomplete%E2%80%85chess%E2%80%85boards/7e778a5c.png" data-original-src="https://www.acmicpc.net/upload/images2/ichess.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:257px; width:257px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/7538.%E2%80%85Incomplete%E2%80%85chess%E2%80%85boards/7e778a5c.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/7538.%E2%80%85Incomplete%E2%80%85chess%E2%80%85boards/7e778a5c.png" data-original-src="https://www.acmicpc.net/upload/images2/ichess.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:257px; width:257px" /></p>
 
 <p style="text-align: center;">Figure 1: A possible covering where (8, 4) and (2, 5) are removed.</p>
 

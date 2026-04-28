@@ -31,7 +31,7 @@
 
 <p>You are given the numbers $N$ and $K$, and your task is to calculate the number of ones in the string $s$.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/30432.%E2%80%85Aperiodic%E2%80%85Appointments/ddbbd10c.png" data-original-src="https://upload.acmicpc.net/6bdc72dc-8be7-4f18-a7f7-fedba7cfaf46/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 271px; height: 100px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/30432.%E2%80%85Aperiodic%E2%80%85Appointments/ddbbd10c.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/30432.%E2%80%85Aperiodic%E2%80%85Appointments/ddbbd10c.png" data-original-src="https://upload.acmicpc.net/6bdc72dc-8be7-4f18-a7f7-fedba7cfaf46/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 271px; height: 100px;" /></p>
 
 <p style="text-align: center;">The picture represents Sample 1. An angry face means that Nick had to pay on the corresponding day.</p>
 

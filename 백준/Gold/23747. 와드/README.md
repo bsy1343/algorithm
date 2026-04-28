@@ -18,11 +18,11 @@
 
 <p>한별이는 출근하던 도중 <strong>이세계 대환장 버스</strong>에 치였다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/23747.%E2%80%85%EC%99%80%EB%93%9C/da7a5dfb.png" data-original-src="https://upload.acmicpc.net/3abb77e5-a490-4e6c-8fed-89d292b258f9/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 540px; max-width: 100%;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/23747.%E2%80%85%EC%99%80%EB%93%9C/da7a5dfb.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/23747.%E2%80%85%EC%99%80%EB%93%9C/da7a5dfb.png" data-original-src="https://upload.acmicpc.net/3abb77e5-a490-4e6c-8fed-89d292b258f9/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 540px; max-width: 100%;" /></p>
 
 <p style="text-align: center;">그림 B.1: 이세계 대환장 버스</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/23747.%E2%80%85%EC%99%80%EB%93%9C/77b11b57.png" data-original-src="https://upload.acmicpc.net/34aa7e72-2f8a-49bd-ae2d-633f460697a8/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 540px; max-width: 100%;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/23747.%E2%80%85%EC%99%80%EB%93%9C/77b11b57.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/23747.%E2%80%85%EC%99%80%EB%93%9C/77b11b57.png" data-original-src="https://upload.acmicpc.net/34aa7e72-2f8a-49bd-ae2d-633f460697a8/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 540px; max-width: 100%;" /></p>
 
 <p style="text-align: center;">그림 B.2: 출근하는 한별이</p>
 

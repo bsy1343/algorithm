@@ -16,11 +16,11 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><img alt="치킨으로 이동하는 곰곰" src="%EB%B0%B1%EC%A4%80/Platinum/26076.%E2%80%85%EA%B3%B0%EA%B3%B0%EC%9D%B4%EC%9D%98%E2%80%85%EC%8B%9D%EB%8B%A8%E2%80%85%EA%B4%80%EB%A6%AC%E2%80%852/3b49fe19.png" data-original-src="https://upload.acmicpc.net/87acb90a-fedf-4c21-b5e6-6f324eadfc94/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="max-height:105px; object-fit:contain; display:inline-block;" /></p>
+<p style="text-align: center;"><img alt="치킨으로 이동하는 곰곰" src="%EB%B0%B1%EC%A4%80/Platinum/26076.%E2%80%85%EA%B3%B0%EA%B3%B0%EC%9D%B4%EC%9D%98%E2%80%85%EC%8B%9D%EB%8B%A8%E2%80%85%EA%B4%80%EB%A6%AC%E2%80%852/3b49fe19.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/26076.%E2%80%85%EA%B3%B0%EA%B3%B0%EC%9D%B4%EC%9D%98%E2%80%85%EC%8B%9D%EB%8B%A8%E2%80%85%EA%B4%80%EB%A6%AC%E2%80%852/3b49fe19.png" data-original-src="https://upload.acmicpc.net/87acb90a-fedf-4c21-b5e6-6f324eadfc94/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="max-height:105px; object-fit:contain; display:inline-block;" /></p>
 
 <p>$N$행 $M$열 크기의 격자판이 있고, 이 격자판의 $(N,M)$ 위치에는 맛있는 치킨이 놓여 있다. 곰곰이는 $(1,1)$ 에서 출발하여 치킨을 향해 이동하려 한다. 곰곰이는 상하좌우 방향으로 자유롭게 이동할 수 있지만, 장애물이 있는 칸으로 이동하거나 격자판 바깥으로 나갈 수는 없다.</p>
 
-<p style="text-align: center;"><img alt="곰곰의 치킨으로의 이동을 막는 총총" src="%EB%B0%B1%EC%A4%80/Platinum/26076.%E2%80%85%EA%B3%B0%EA%B3%B0%EC%9D%B4%EC%9D%98%E2%80%85%EC%8B%9D%EB%8B%A8%E2%80%85%EA%B4%80%EB%A6%AC%E2%80%852/a34c5a7f.png" data-original-src="https://upload.acmicpc.net/e2fe176d-2242-4dbd-89cf-5a65f64bdb28/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="max-height:120px; object-fit:contain; display:inline-block;" /></p>
+<p style="text-align: center;"><img alt="곰곰의 치킨으로의 이동을 막는 총총" src="%EB%B0%B1%EC%A4%80/Platinum/26076.%E2%80%85%EA%B3%B0%EA%B3%B0%EC%9D%B4%EC%9D%98%E2%80%85%EC%8B%9D%EB%8B%A8%E2%80%85%EA%B4%80%EB%A6%AC%E2%80%852/a34c5a7f.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/26076.%E2%80%85%EA%B3%B0%EA%B3%B0%EC%9D%B4%EC%9D%98%E2%80%85%EC%8B%9D%EB%8B%A8%E2%80%85%EA%B4%80%EB%A6%AC%E2%80%852/a34c5a7f.png" data-original-src="https://upload.acmicpc.net/e2fe176d-2242-4dbd-89cf-5a65f64bdb28/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="max-height:120px; object-fit:contain; display:inline-block;" /></p>
 
 <p>곰곰이의 헬스 트레이너인 총총이는 곰곰이가 치킨으로 이동하는 것을 막기로 했다. 총총이는 현재 장애물이 없는 칸에 장애물을 새로 놓아 곰곰이의 이동을 방해할 수 있다. 만약 격자판에 벌써 장애물이 놓여 있는 칸이 있다면, 총총이는 새로 장애물을 놓는 횟수를 절약할 수 있을지도 모른다.</p>
 

@@ -20,7 +20,7 @@
 
 <p>An object can be moved by repeatedly sliding it either north, south, east, or west one unit. The goal of the puzzle is to move the objects so that they are separated -- where their bounding boxes are disjoint from each-other. Given the shapes and locations of the three objects, your task is to help Bessie decide if they can be separated or not. A configuration that is non-separable is said to be locked.</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/5886.%E2%80%85Unlocking%E2%80%85Blocks/a24158a3.png" data-original-src="https://www.acmicpc.net/upload/images2/fig_unlock.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:92px; width:92px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/5886.%E2%80%85Unlocking%E2%80%85Blocks/a24158a3.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/5886.%E2%80%85Unlocking%E2%80%85Blocks/a24158a3.png" data-original-src="https://www.acmicpc.net/upload/images2/fig_unlock.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:92px; width:92px" /></p>
 
 <p>[Note: programs that do nothing more than make random guesses about the output may be disqualified, receiving a score of zero points]</p>
 

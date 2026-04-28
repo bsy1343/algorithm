@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/29158.%E2%80%85%ED%81%B0%E2%80%85%EC%88%98%E2%80%85%EB%A7%8C%EB%93%A4%EA%B8%B0%E2%80%85%EA%B2%8C%EC%9E%84/527c5d05.png" data-original-src="https://upload.acmicpc.net/4a76c890-9c65-443c-82b6-365ac619676b/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 674px; height: 720px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/29158.%E2%80%85%ED%81%B0%E2%80%85%EC%88%98%E2%80%85%EB%A7%8C%EB%93%A4%EA%B8%B0%E2%80%85%EA%B2%8C%EC%9E%84/527c5d05.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/29158.%E2%80%85%ED%81%B0%E2%80%85%EC%88%98%E2%80%85%EB%A7%8C%EB%93%A4%EA%B8%B0%E2%80%85%EA%B2%8C%EC%9E%84/527c5d05.png" data-original-src="https://upload.acmicpc.net/4a76c890-9c65-443c-82b6-365ac619676b/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 674px; height: 720px;" /></p>
 
 <p>성현이와 지훈이는 큰 수 만들기 게임을 하고 있다. 성현이는 양의 정수 $N$이 적힌 카드 $1$장이 들어 있는 주머니를 들고 있다. 지훈이는 성현이의 카드를 몰래 본 다음 성현이의 카드에 적힌 $N$보다 <strong>작은</strong> 양의 정수 $M$을 선택하여 카드에 적은 후 자신의 주머니에 넣었다. 이 둘은 각자 $1$장의 카드가 들어 있는 주머니를 가지고, 다음 두 동작 중 원하는 동작을 원하는 만큼 수행할 수 있다.</p>
 

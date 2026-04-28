@@ -27,14 +27,14 @@
 	<li>백남이가 이동하는 방법의 수는 8가지이며, 다음과 같다.</li>
 </ul>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/23060.%E2%80%85%EB%B0%B1%EB%82%A8%EC%9D%B4%EC%9D%98%E2%80%85%EC%97%AC%ED%96%89/778b213e.png" data-original-src="https://upload.acmicpc.net/45018cb8-9d12-4c7e-939f-3783a46873bf/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 500px; width: 500px;" /><br />
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/23060.%E2%80%85%EB%B0%B1%EB%82%A8%EC%9D%B4%EC%9D%98%E2%80%85%EC%97%AC%ED%96%89/778b213e.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/23060.%E2%80%85%EB%B0%B1%EB%82%A8%EC%9D%B4%EC%9D%98%E2%80%85%EC%97%AC%ED%96%89/778b213e.png" data-original-src="https://upload.acmicpc.net/45018cb8-9d12-4c7e-939f-3783a46873bf/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 500px; width: 500px;" /><br />
 &nbsp;</p>
 
 <p>MBTI가 N(직관형)인 백남이는 모든 계획을 짜지 않고는 여행을 시작할 수 없다!</p>
 
 <p>계획 수립에 골머리를 앓고 있는 백남이를 도와 백남이의 여행 계획을 짜주자!</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/23060.%E2%80%85%EB%B0%B1%EB%82%A8%EC%9D%B4%EC%9D%98%E2%80%85%EC%97%AC%ED%96%89/80b0f705.png" data-original-src="https://upload.acmicpc.net/0810dc2d-46ab-45cc-b29a-670da7ca12c2/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 500px; height: 286px;" /><br />
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/23060.%E2%80%85%EB%B0%B1%EB%82%A8%EC%9D%B4%EC%9D%98%E2%80%85%EC%97%AC%ED%96%89/80b0f705.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/23060.%E2%80%85%EB%B0%B1%EB%82%A8%EC%9D%B4%EC%9D%98%E2%80%85%EC%97%AC%ED%96%89/80b0f705.png" data-original-src="https://upload.acmicpc.net/0810dc2d-46ab-45cc-b29a-670da7ca12c2/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 500px; height: 286px;" /><br />
 &nbsp;</p>
 
 ### 입력

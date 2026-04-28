@@ -22,11 +22,11 @@
 
 <p>예를 들어 위와 같이 N개의 구간이 있을 때 이를 구간 그래프로 나타내면 아래와 같다.</p>
 
-<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/13160.%E2%80%85%EC%B5%9C%EB%8C%80%E2%80%85%ED%81%B4%EB%A6%AC%ED%81%AC%E2%80%85%EA%B5%AC%ED%95%98%EA%B8%B0/0d40df5d.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/13160/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:110px; width:396px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/13160.%E2%80%85%EC%B5%9C%EB%8C%80%E2%80%85%ED%81%B4%EB%A6%AC%ED%81%AC%E2%80%85%EA%B5%AC%ED%95%98%EA%B8%B0/0d40df5d.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/13160.%E2%80%85%EC%B5%9C%EB%8C%80%E2%80%85%ED%81%B4%EB%A6%AC%ED%81%AC%E2%80%85%EA%B5%AC%ED%95%98%EA%B8%B0/0d40df5d.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/13160/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:110px; width:396px" /></p>
 
 <p>이때 이 구간 그래프의 최대 클리크는 {1, 2, 4}이다.</p>
 
-<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/13160.%E2%80%85%EC%B5%9C%EB%8C%80%E2%80%85%ED%81%B4%EB%A6%AC%ED%81%AC%E2%80%85%EA%B5%AC%ED%95%98%EA%B8%B0/d9bfb308.png" data-original-src="https://upload.acmicpc.net/d51c0ffb-3c0e-494a-a829-47ca38f452dc/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 241px; height: 134px;" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/13160.%E2%80%85%EC%B5%9C%EB%8C%80%E2%80%85%ED%81%B4%EB%A6%AC%ED%81%AC%E2%80%85%EA%B5%AC%ED%95%98%EA%B8%B0/d9bfb308.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/13160.%E2%80%85%EC%B5%9C%EB%8C%80%E2%80%85%ED%81%B4%EB%A6%AC%ED%81%AC%E2%80%85%EA%B5%AC%ED%95%98%EA%B8%B0/d9bfb308.png" data-original-src="https://upload.acmicpc.net/d51c0ffb-3c0e-494a-a829-47ca38f452dc/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 241px; height: 134px;" /></p>
 
 <p>N개의 구간이 주어졌을 때, 이에 대한 구간 그래프의 최대 클리크를 구하시오.</p>
 

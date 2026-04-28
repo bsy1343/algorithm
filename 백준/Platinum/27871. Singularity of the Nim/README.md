@@ -22,7 +22,7 @@
 
 <p>밑에서 $i$번째 칸에 올려둔 코인의 개수를 $C_i$라고 하자. 다음 그림은 $N=4$, $C=[3, 1, 0, 2]$인 예를 나타낸다.</p>
 
-<p style="margin-top: 0px; margin-bottom: 10px;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/27871.%E2%80%85Singularity%E2%80%85of%E2%80%85the%E2%80%85Nim/8978cff5.png" data-original-src="https://upload.acmicpc.net/1262c0b1-318f-4819-8c11-ba428198fdd5/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="display: block; margin-left: auto; margin-right: auto; width: 100%; max-width: 500px;" /></p>
+<p style="margin-top: 0px; margin-bottom: 10px;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/27871.%E2%80%85Singularity%E2%80%85of%E2%80%85the%E2%80%85Nim/8978cff5.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/27871.%E2%80%85Singularity%E2%80%85of%E2%80%85the%E2%80%85Nim/8978cff5.png" data-original-src="https://upload.acmicpc.net/1262c0b1-318f-4819-8c11-ba428198fdd5/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="display: block; margin-left: auto; margin-right: auto; width: 100%; max-width: 500px;" /></p>
 
 <p>게임을 하는 두 사람은 각자의 차례에 코인이 있는 계단 칸을 하나 골라 $1$개에서 $P$개 사이의 코인을 가져와야 한다.</p>
 
@@ -30,7 +30,7 @@
 
 <p>다음 그림들은 처음 예로 들었던 상황에서 $i=2$, $x=1$를 선택해 차례를 진행한 결과와 $i=4$, $x=2$를 선택해 차례를 진행한 결과를 각각 나타낸다.</p>
 
-<p style="margin-top: 20px; margin-bottom: 10px;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/27871.%E2%80%85Singularity%E2%80%85of%E2%80%85the%E2%80%85Nim/225a033f.png" data-original-src="https://upload.acmicpc.net/bc418519-1e70-48fe-9f3e-6987a5a65bd6/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="display: block; margin-left: auto; margin-right: auto; width: 100%; max-width: 800px;" /></p>
+<p style="margin-top: 20px; margin-bottom: 10px;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/27871.%E2%80%85Singularity%E2%80%85of%E2%80%85the%E2%80%85Nim/225a033f.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/27871.%E2%80%85Singularity%E2%80%85of%E2%80%85the%E2%80%85Nim/225a033f.png" data-original-src="https://upload.acmicpc.net/bc418519-1e70-48fe-9f3e-6987a5a65bd6/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="display: block; margin-left: auto; margin-right: auto; width: 100%; max-width: 800px;" /></p>
 
 <p>만약 위쪽에 있는 칸에서 코인을 많이 가져오면, 인간이 따라잡을 수 없는 속도로 게임이 커지는 <em>특이점</em>을 보게 될 것이다.</p>
 

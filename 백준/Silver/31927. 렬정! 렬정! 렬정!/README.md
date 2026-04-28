@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/31927.%E2%80%85%EB%A0%AC%EC%A0%95!%E2%80%85%EB%A0%AC%EC%A0%95!%E2%80%85%EB%A0%AC%EC%A0%95!/1ca21879.png" data-original-src="https://upload.acmicpc.net/e3df66a1-e246-4b56-ab9c-6e97ff0cf307/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 500px; height: 294px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/31927.%E2%80%85%EB%A0%AC%EC%A0%95!%E2%80%85%EB%A0%AC%EC%A0%95!%E2%80%85%EB%A0%AC%EC%A0%95!/1ca21879.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/31927.%E2%80%85%EB%A0%AC%EC%A0%95!%E2%80%85%EB%A0%AC%EC%A0%95!%E2%80%85%EB%A0%AC%EC%A0%95!/1ca21879.png" data-original-src="https://upload.acmicpc.net/e3df66a1-e246-4b56-ab9c-6e97ff0cf307/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 500px; height: 294px;" /></p>
 
 <p>원소의 순서만 바꾸던 기존 정렬 알고리즘을 공부하던 민석이는 모든 게 부질없음을 깨닫고 원소의 값을 바꿔서 정렬해 버리기로 했다.</p>
 

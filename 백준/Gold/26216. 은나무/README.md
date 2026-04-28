@@ -28,7 +28,7 @@
 
 <p>구체적으로, 흰색 자식들을 순서대로 $c_{0}$, $c_{1}$, $\cdots$, $c_{K}$이라 하고, 파란색 자식이 갖고 있는 키 값을 순서대로 $x_{1} &lt; x_{2} &lt; \cdots &lt; x_{K}$라 하자. $c_{i}$을 루트로 하는 서브트리에 있는 모든 키들은 $x_{i}$보다 크고 $x_{i+1}$보다 작다. $y_{i}$를 흰색 자식 $c_{i}$를 루트로 하는 서브트리에 존재하는 임의의 키라고 할 때, $y_{0} &lt; x_{1} &lt; y_{1} &lt; x_{2} &lt; \cdots &lt; x_{K} &lt; y_{K}$이 성립한다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/26216.%E2%80%85%EC%9D%80%EB%82%98%EB%AC%B4/c996d63f.png" data-original-src="https://upload.acmicpc.net/6c8371f7-768e-4708-a66f-4885427ec935/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/26216.%E2%80%85%EC%9D%80%EB%82%98%EB%AC%B4/c996d63f.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/26216.%E2%80%85%EC%9D%80%EB%82%98%EB%AC%B4/c996d63f.png" data-original-src="https://upload.acmicpc.net/6c8371f7-768e-4708-a66f-4885427ec935/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>위의 그림이 $K = 2$, $H = 3$일 때 만들어지는 은나무이다.</p>
 

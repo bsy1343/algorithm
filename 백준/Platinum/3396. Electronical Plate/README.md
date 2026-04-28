@@ -18,7 +18,7 @@
 
 <p>A square grid is carved on the top of a square plate. The place where two gridlines cross is called a node. There are n &times; n nodes in the grid.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/3396.%E2%80%85Electronical%E2%80%85Plate/ffb6d439.png" data-original-src="https://upload.acmicpc.net/ecb7bc0f-2ca8-47ea-bee8-e7e13a8766d2/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 528px; height: 178px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/3396.%E2%80%85Electronical%E2%80%85Plate/ffb6d439.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/3396.%E2%80%85Electronical%E2%80%85Plate/ffb6d439.png" data-original-src="https://upload.acmicpc.net/ecb7bc0f-2ca8-47ea-bee8-e7e13a8766d2/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 528px; height: 178px;" /></p>
 
 <p style="text-align: center;">Figure 2. The problem (center) and the solution (right)</p>
 

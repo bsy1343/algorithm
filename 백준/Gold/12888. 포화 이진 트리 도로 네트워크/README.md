@@ -22,7 +22,7 @@
 
 <p>아래 그림은 H = 2일 때, 그림이다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/12888.%E2%80%85%ED%8F%AC%ED%99%94%E2%80%85%EC%9D%B4%EC%A7%84%E2%80%85%ED%8A%B8%EB%A6%AC%E2%80%85%EB%8F%84%EB%A1%9C%E2%80%85%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/c531b528.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/12888/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:251px; width:371px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/12888.%E2%80%85%ED%8F%AC%ED%99%94%E2%80%85%EC%9D%B4%EC%A7%84%E2%80%85%ED%8A%B8%EB%A6%AC%E2%80%85%EB%8F%84%EB%A1%9C%E2%80%85%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/c531b528.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/12888.%E2%80%85%ED%8F%AC%ED%99%94%E2%80%85%EC%9D%B4%EC%A7%84%E2%80%85%ED%8A%B8%EB%A6%AC%E2%80%85%EB%8F%84%EB%A1%9C%E2%80%85%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/c531b528.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/12888/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:251px; width:371px" /></p>
 
 <p>수빈이는 도로 네트워크에 차를 보내려고 한다. 모든 차는 시작 도시와 도착 도시가 있으며, 같은 도시를 두 번 이상 방문하지 않는다. 차의 시작 도시와 도착 도시가 같을 수도 있다.</p>
 
@@ -42,8 +42,8 @@
 
 <p>예제 1</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/12888.%E2%80%85%ED%8F%AC%ED%99%94%E2%80%85%EC%9D%B4%EC%A7%84%E2%80%85%ED%8A%B8%EB%A6%AC%E2%80%85%EB%8F%84%EB%A1%9C%E2%80%85%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/bf2fbbd2.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/12888/2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:155px; width:179px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/12888.%E2%80%85%ED%8F%AC%ED%99%94%E2%80%85%EC%9D%B4%EC%A7%84%E2%80%85%ED%8A%B8%EB%A6%AC%E2%80%85%EB%8F%84%EB%A1%9C%E2%80%85%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/bf2fbbd2.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/12888.%E2%80%85%ED%8F%AC%ED%99%94%E2%80%85%EC%9D%B4%EC%A7%84%E2%80%85%ED%8A%B8%EB%A6%AC%E2%80%85%EB%8F%84%EB%A1%9C%E2%80%85%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/bf2fbbd2.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/12888/2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:155px; width:179px" /></p>
 
 <p>예제 2</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/12888.%E2%80%85%ED%8F%AC%ED%99%94%E2%80%85%EC%9D%B4%EC%A7%84%E2%80%85%ED%8A%B8%EB%A6%AC%E2%80%85%EB%8F%84%EB%A1%9C%E2%80%85%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/0ce633e2.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/12888/3.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:251px; width:371px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/12888.%E2%80%85%ED%8F%AC%ED%99%94%E2%80%85%EC%9D%B4%EC%A7%84%E2%80%85%ED%8A%B8%EB%A6%AC%E2%80%85%EB%8F%84%EB%A1%9C%E2%80%85%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/0ce633e2.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/12888.%E2%80%85%ED%8F%AC%ED%99%94%E2%80%85%EC%9D%B4%EC%A7%84%E2%80%85%ED%8A%B8%EB%A6%AC%E2%80%85%EB%8F%84%EB%A1%9C%E2%80%85%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/0ce633e2.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/12888/3.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:251px; width:371px" /></p>

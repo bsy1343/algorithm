@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/24792.%E2%80%85Rock%E2%80%85Climbing/9b69b3fe.png" data-original-src="https://upload.acmicpc.net/221e48b1-968b-4db4-be64-926dffa1b3af/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 300px; height: 225px; float: right;" />Peter is attempting to deep-water solo a rock climbing cliff over the ocean. Deep-water soloing (DWS) is a form of solo rock climbing that relies solely upon the presence of water at the base of the climb to protect against injury from falling.</p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/24792.%E2%80%85Rock%E2%80%85Climbing/9b69b3fe.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/24792.%E2%80%85Rock%E2%80%85Climbing/9b69b3fe.png" data-original-src="https://upload.acmicpc.net/221e48b1-968b-4db4-be64-926dffa1b3af/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 300px; height: 225px; float: right;" />Peter is attempting to deep-water solo a rock climbing cliff over the ocean. Deep-water soloing (DWS) is a form of solo rock climbing that relies solely upon the presence of water at the base of the climb to protect against injury from falling.</p>
 
 <p>Rock climbing is very exhausting and takes lots of energy. Since Peter is not very flexible, he can only move $1$ unit in any of the four directions: Up, Down, Left, and Right. &nbsp;Traveling to a different square will decrease Peter&#39;s energy by the amount on that square. &nbsp;Note that the amount of energy on a square can be negative. In this case, Peter will gain energy.</p>
 

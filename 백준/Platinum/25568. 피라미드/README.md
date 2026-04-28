@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><img alt="삼각형 모양의 블록 피라미드를 가지고 노는 아기 팬더" src="%EB%B0%B1%EC%A4%80/Platinum/25568.%E2%80%85%ED%94%BC%EB%9D%BC%EB%AF%B8%EB%93%9C/9087f7e0.png" data-original-src="https://upload.acmicpc.net/bd73e9f9-2607-4658-952a-7413840e4196/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="max-height:300px; object-fit:contain; display:inline-block;" /></p>
+<p style="text-align: center;"><img alt="삼각형 모양의 블록 피라미드를 가지고 노는 아기 팬더" src="%EB%B0%B1%EC%A4%80/Platinum/25568.%E2%80%85%ED%94%BC%EB%9D%BC%EB%AF%B8%EB%93%9C/9087f7e0.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/25568.%E2%80%85%ED%94%BC%EB%9D%BC%EB%AF%B8%EB%93%9C/9087f7e0.png" data-original-src="https://upload.acmicpc.net/bd73e9f9-2607-4658-952a-7413840e4196/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="max-height:300px; object-fit:contain; display:inline-block;" /></p>
 
 <p>$3$가지 색상의 블록으로 이루어진 블록 피라미드가 있다. 피라미드는 $N$행으로 이루어져 있고, $i\ (1 \le i \le N)$행은 $i$개의 블록으로 이루어져 있다.</p>
 

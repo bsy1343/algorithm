@@ -18,7 +18,7 @@
 
 <p><em>Lord Pooty</em> has a $n$ by $m$ board of integers $A$ and would like to draw an L. However, he would like to maximise the sum of integers on the tiles covered by L. The L can be rotated in all 4 possible orientations such that the sides are parallel to the board. Each side of the L may not necessarily be drawn (a straight line is possible). Some examples of valid Ls are shown below:</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/27285.%E2%80%85L-Board/dec85c30.png" data-original-src="https://upload.acmicpc.net/a3a1364a-e675-4008-a50f-8303b6e74c3e/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 265px; height: 65px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/27285.%E2%80%85L-Board/dec85c30.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/27285.%E2%80%85L-Board/dec85c30.png" data-original-src="https://upload.acmicpc.net/a3a1364a-e675-4008-a50f-8303b6e74c3e/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 265px; height: 65px;" /></p>
 
 <p>Formally, you want to choose $3$ points, $(x_1, y_1)$, $(x_2, y_1)$ and $(x_1, y_2)$ (which may not necessarily be distinct) on the board $A$ such that</p>
 

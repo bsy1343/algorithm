@@ -21,16 +21,16 @@
 <table class="table table-bordered td-center">
 	<tbody>
 		<tr>
-			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/31863.%E2%80%85%EB%82%B4%EC%A7%84%E2%80%85%EC%84%A4%EA%B3%84/94ef738a.png" data-original-src="https://upload.acmicpc.net/02a8ce92-6ede-4135-954d-5d1ae1b24382/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 280px; width: 350px;" /></td>
-			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/31863.%E2%80%85%EB%82%B4%EC%A7%84%E2%80%85%EC%84%A4%EA%B3%84/6864597f.png" data-original-src="https://upload.acmicpc.net/6a017858-7fd6-4d74-879a-74bb385cc644/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 280px; width: 350px;" /></td>
+			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/31863.%E2%80%85%EB%82%B4%EC%A7%84%E2%80%85%EC%84%A4%EA%B3%84/94ef738a.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/31863.%E2%80%85%EB%82%B4%EC%A7%84%E2%80%85%EC%84%A4%EA%B3%84/94ef738a.png" data-original-src="https://upload.acmicpc.net/02a8ce92-6ede-4135-954d-5d1ae1b24382/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 280px; width: 350px;" /></td>
+			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/31863.%E2%80%85%EB%82%B4%EC%A7%84%E2%80%85%EC%84%A4%EA%B3%84/6864597f.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/31863.%E2%80%85%EB%82%B4%EC%A7%84%E2%80%85%EC%84%A4%EA%B3%84/6864597f.png" data-original-src="https://upload.acmicpc.net/6a017858-7fd6-4d74-879a-74bb385cc644/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 280px; width: 350px;" /></td>
 		</tr>
 		<tr>
 			<td>(1)</td>
 			<td>(2)</td>
 		</tr>
 		<tr>
-			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/31863.%E2%80%85%EB%82%B4%EC%A7%84%E2%80%85%EC%84%A4%EA%B3%84/9c581664.png" data-original-src="https://upload.acmicpc.net/ca699ab7-5423-42ca-820e-6b93e0ab7061/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 280px; width: 350px;" /></td>
-			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/31863.%E2%80%85%EB%82%B4%EC%A7%84%E2%80%85%EC%84%A4%EA%B3%84/5aec5592.png" data-original-src="https://upload.acmicpc.net/49a05ff1-9486-4994-b64e-0ea65b9c3fa9/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 280px; width: 350px;" /></td>
+			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/31863.%E2%80%85%EB%82%B4%EC%A7%84%E2%80%85%EC%84%A4%EA%B3%84/9c581664.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/31863.%E2%80%85%EB%82%B4%EC%A7%84%E2%80%85%EC%84%A4%EA%B3%84/9c581664.png" data-original-src="https://upload.acmicpc.net/ca699ab7-5423-42ca-820e-6b93e0ab7061/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 280px; width: 350px;" /></td>
+			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/31863.%E2%80%85%EB%82%B4%EC%A7%84%E2%80%85%EC%84%A4%EA%B3%84/5aec5592.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/31863.%E2%80%85%EB%82%B4%EC%A7%84%E2%80%85%EC%84%A4%EA%B3%84/5aec5592.png" data-original-src="https://upload.acmicpc.net/49a05ff1-9486-4994-b64e-0ea65b9c3fa9/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 280px; width: 350px;" /></td>
 		</tr>
 		<tr>
 			<td>(3)</td>

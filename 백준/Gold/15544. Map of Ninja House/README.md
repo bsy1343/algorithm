@@ -23,8 +23,8 @@
 <table class="table" style="width:100%">
 	<tbody>
 		<tr>
-			<td style="text-align:center; width:50%"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/15544.%E2%80%85Map%E2%80%85of%E2%80%85Ninja%E2%80%85House/f29165db.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15544/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:216px; width:222px" /></td>
-			<td style="text-align:center; width:50%"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/15544.%E2%80%85Map%E2%80%85of%E2%80%85Ninja%E2%80%85House/c52d2ca9.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15544/2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:220px; width:234px" /></td>
+			<td style="text-align:center; width:50%"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/15544.%E2%80%85Map%E2%80%85of%E2%80%85Ninja%E2%80%85House/f29165db.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/15544.%E2%80%85Map%E2%80%85of%E2%80%85Ninja%E2%80%85House/f29165db.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15544/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:216px; width:222px" /></td>
+			<td style="text-align:center; width:50%"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/15544.%E2%80%85Map%E2%80%85of%E2%80%85Ninja%E2%80%85House/c52d2ca9.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/15544.%E2%80%85Map%E2%80%85of%E2%80%85Ninja%E2%80%85House/c52d2ca9.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15544/2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:220px; width:234px" /></td>
 		</tr>
 		<tr>
 			<td style="text-align:center; width:50%">Figure 1</td>

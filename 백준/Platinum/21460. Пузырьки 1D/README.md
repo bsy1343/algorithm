@@ -24,7 +24,7 @@
 
 <p>Например, ниже на рисунке показана позиция, содержащая 10 пузырьков. В ней четыре группы, содержащие 3, 2, 4 и 1 пузырек, соответственно. Если взорвать группу, содержащую четыре пузырька, то игрок получит 16 очков, и верхние 5 пузырьков опустятся вниз. В получившейся позиции 6 пузырьков, и две группы по 3 пузырька в каждой.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/21460.%E2%80%85%D0%9F%D1%83%D0%B7%D1%8B%D1%80%D1%8C%D0%BA%D0%B8%E2%80%851D/76cfde44.png" data-original-src="https://upload.acmicpc.net/a2af7ec5-1578-42a9-974a-1b98941d43bd/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 463px; height: 200px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/21460.%E2%80%85%D0%9F%D1%83%D0%B7%D1%8B%D1%80%D1%8C%D0%BA%D0%B8%E2%80%851D/76cfde44.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/21460.%E2%80%85%D0%9F%D1%83%D0%B7%D1%8B%D1%80%D1%8C%D0%BA%D0%B8%E2%80%851D/76cfde44.png" data-original-src="https://upload.acmicpc.net/a2af7ec5-1578-42a9-974a-1b98941d43bd/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 463px; height: 200px;" /></p>
 
 <p>По заданной начальной позиции в игре выясните, сможет ли Сережа уничтожить все пузырьки, и если да, то какое максимальное количество очков он сможет заработать.</p>
 

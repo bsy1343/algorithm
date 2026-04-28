@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/15675.%E2%80%85%EA%B4%B4%EB%8F%84%E2%80%85%EA%B0%95%EC%82%B0/d1582ec5.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15675/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 104px; height: 96px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/15675.%E2%80%85%EA%B4%B4%EB%8F%84%E2%80%85%EA%B0%95%EC%82%B0/d1582ec5.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/15675.%E2%80%85%EA%B4%B4%EB%8F%84%E2%80%85%EA%B0%95%EC%82%B0/d1582ec5.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15675/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 104px; height: 96px;" /></p>
 
 <p style="text-align: center;"><em>오늘 밤, 다녀가겠담.</em></p>
 
@@ -46,7 +46,7 @@
 
 <p>아래의 예시를 보도록 하자.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/15675.%E2%80%85%EA%B4%B4%EB%8F%84%E2%80%85%EA%B0%95%EC%82%B0/a9402cee.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15675/2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 381px; height: 250px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/15675.%E2%80%85%EA%B4%B4%EB%8F%84%E2%80%85%EA%B0%95%EC%82%B0/a9402cee.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/15675.%E2%80%85%EA%B4%B4%EB%8F%84%E2%80%85%EA%B0%95%EC%82%B0/a9402cee.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15675/2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 381px; height: 250px;" /></p>
 
 <p>위의 예제에서, 박물관은 4행 5열 그리드이며, 보석은 (1,5), (3,4), (4,3)에 놓여 있고, 위치추적기는 (1,1), (2,2), (2,5), (4,4)에 놓여있다. 위와 같은 상황에서, 강산이는 다음과 같은 방법으로 보석을 모두 훔칠 수 있다.</p>
 

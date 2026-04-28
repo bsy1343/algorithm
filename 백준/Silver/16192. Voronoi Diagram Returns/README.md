@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/16192.%E2%80%85Voronoi%E2%80%85Diagram%E2%80%85Returns/f458ffa9.png" data-original-src="https://upload.acmicpc.net/48107407-615e-429b-834d-de4cb1c83cb5/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 70%; width: 70%;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/16192.%E2%80%85Voronoi%E2%80%85Diagram%E2%80%85Returns/f458ffa9.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/16192.%E2%80%85Voronoi%E2%80%85Diagram%E2%80%85Returns/f458ffa9.png" data-original-src="https://upload.acmicpc.net/48107407-615e-429b-834d-de4cb1c83cb5/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 70%; width: 70%;" /></p>
 
 <p style="text-align: center;"><em><strong>Figure</strong>: Voronoi Diagram of size 4.</em></p>
 

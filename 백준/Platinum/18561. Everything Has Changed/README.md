@@ -24,7 +24,7 @@
 
 <p>Here is an illustration of the sample, in which the red curve is counted but the green curve is not.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/18561.%E2%80%85Everything%E2%80%85Has%E2%80%85Changed/28e2d9c0.png" data-original-src="https://upload.acmicpc.net/f56a4c1e-42b7-4fba-a476-4a8985f8db15/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 300px; height: 250px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/18561.%E2%80%85Everything%E2%80%85Has%E2%80%85Changed/28e2d9c0.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/18561.%E2%80%85Everything%E2%80%85Has%E2%80%85Changed/28e2d9c0.png" data-original-src="https://upload.acmicpc.net/f56a4c1e-42b7-4fba-a476-4a8985f8db15/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 300px; height: 250px;" /></p>
 
 ### 입력
 

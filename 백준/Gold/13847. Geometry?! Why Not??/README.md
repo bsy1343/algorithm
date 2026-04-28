@@ -18,7 +18,7 @@
 
 <p>Consider a 2D path drawn in the following manner: Starting at the origin point, we can move only up or right. The path will be described as a string made of zero or more {&lsquo;U&rsquo;, &lsquo;R&rsquo;} letters. For each &lsquo;U&rsquo; we&rsquo;ll move one unit up, while &lsquo;R&rsquo; moves one unit to the right. In the following figure, the path constructed by the string RRRURRUUURRRRRUUR is drawn in a thick line.</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/13847.%E2%80%85Geometry%3F!%E2%80%85Why%E2%80%85Not%3F%3F/a96198a7.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/13847/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-12-27%20%EC%98%A4%ED%9B%84%205.10.28.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:245px; width:380px" /><br />
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/13847.%E2%80%85Geometry%3F!%E2%80%85Why%E2%80%85Not%3F%3F/a96198a7.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/13847.%E2%80%85Geometry%3F!%E2%80%85Why%E2%80%85Not%3F%3F/a96198a7.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/13847/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-12-27%20%EC%98%A4%ED%9B%84%205.10.28.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:245px; width:380px" /><br />
 Figure 1: Sample 2D Path</p>
 
 <p>Imagine now that we draw a straight line that connects the origin point to the last point in the path (the line that is drawn in dots in the figure above). We want to compute the total area that falls between the straight line and the path (the grayed area in the above figure).</p>

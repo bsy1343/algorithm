@@ -32,6 +32,6 @@
 
 ### 힌트
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/16840.%E2%80%85Dense%E2%80%85Amidakuji/8fca9893.png" data-original-src="https://upload.acmicpc.net/ebf62cd5-053d-4079-a96f-d57b88548bf4/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 96px; height: 124px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/16840.%E2%80%85Dense%E2%80%85Amidakuji/8fca9893.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/16840.%E2%80%85Dense%E2%80%85Amidakuji/8fca9893.png" data-original-src="https://upload.acmicpc.net/ebf62cd5-053d-4079-a96f-d57b88548bf4/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 96px; height: 124px;" /></p>
 
 <p>For example, if he initially chooses the leftmost segment in sample 1, he crosses (1, 1),(2, 2),(4, 2) and reach the bottom end of the segment that is second from the left.</p>

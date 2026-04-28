@@ -34,7 +34,7 @@
 
 <p>&nbsp;</p>
 
-<p>These constraints are illustrated below:&nbsp;<img src="%EB%B0%B1%EC%A4%80/Gold/12390.%E2%80%85Tide%E2%80%85Goes%E2%80%85In%2C%E2%80%85Tide%E2%80%85Goes%E2%80%85Out%E2%80%85(Small)/7bc2ee09.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/12390/images-48.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="vertical-align:middle" /></p>
+<p>These constraints are illustrated below:&nbsp;<img src="%EB%B0%B1%EC%A4%80/Gold/12390.%E2%80%85Tide%E2%80%85Goes%E2%80%85In%2C%E2%80%85Tide%E2%80%85Goes%E2%80%85Out%E2%80%85(Small)/7bc2ee09.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/12390.%E2%80%85Tide%E2%80%85Goes%E2%80%85In%2C%E2%80%85Tide%E2%80%85Goes%E2%80%85Out%E2%80%85(Small)/7bc2ee09.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/12390/images-48.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="vertical-align:middle" /></p>
 
 <ul>
 	<li>In the first image, you can&#39;t move to the right because the water level is less than 50 centimeters below the ceiling height of the adjacent square.</li>

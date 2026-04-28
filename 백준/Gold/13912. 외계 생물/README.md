@@ -32,4 +32,4 @@
 
 <p>1 일째의 경우 번호를 붙일 방법은 다음과 같이 2가지가 있다.</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/13912.%E2%80%85%EC%99%B8%EA%B3%84%E2%80%85%EC%83%9D%EB%AC%BC/df6b025e.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/13912/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:100px; width:191px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/13912.%E2%80%85%EC%99%B8%EA%B3%84%E2%80%85%EC%83%9D%EB%AC%BC/df6b025e.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/13912.%E2%80%85%EC%99%B8%EA%B3%84%E2%80%85%EC%83%9D%EB%AC%BC/df6b025e.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/13912/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:100px; width:191px" /></p>

@@ -22,7 +22,7 @@
 
 <p>John&#39;s parents came up with the following idea. They put cardboard partitions into the box. Even if John keeps throwing his toys into the box, at least toys that get thrown into different bins stay separated. The following diagram shows a top view of an example toy box.</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/4874.%E2%80%85TOYS/e9aa7cc2.png" data-original-src="https://upload.acmicpc.net/0978ec51-7427-424e-8566-db50de730453/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/4874.%E2%80%85TOYS/e9aa7cc2.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/4874.%E2%80%85TOYS/e9aa7cc2.png" data-original-src="https://upload.acmicpc.net/0978ec51-7427-424e-8566-db50de730453/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>For this problem, you are asked to determine how many toys fall into each partition as John throws them into the toy box.</p>
 

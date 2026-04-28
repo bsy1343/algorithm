@@ -18,7 +18,7 @@
 
 <p>흔한 수학 문제 중 하나는 주어진 점이 어느 사분면에 속하는지 알아내는 것이다. 사분면은 아래 그림처럼 1부터 4까지 번호를 갖는다. &quot;Quadrant n&quot;은 &quot;제n사분면&quot;이라는 뜻이다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/14681.%E2%80%85%EC%82%AC%EB%B6%84%EB%A9%B4%E2%80%85%EA%B3%A0%EB%A5%B4%EA%B8%B0/ce47c603.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14681/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 276px; height: 200px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/14681.%E2%80%85%EC%82%AC%EB%B6%84%EB%A9%B4%E2%80%85%EA%B3%A0%EB%A5%B4%EA%B8%B0/ce47c603.png" data-original-src="%EB%B0%B1%EC%A4%80/Bronze/14681.%E2%80%85%EC%82%AC%EB%B6%84%EB%A9%B4%E2%80%85%EA%B3%A0%EB%A5%B4%EA%B8%B0/ce47c603.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14681/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 276px; height: 200px;" /></p>
 
 <p>예를 들어, 좌표가 (12, 5)인 점 A는 x좌표와 y좌표가 모두 양수이므로 제1사분면에 속한다. 점 B는 x좌표가 음수이고 y좌표가 양수이므로 제2사분면에 속한다.</p>
 

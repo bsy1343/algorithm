@@ -40,4 +40,4 @@
 
 <p>The picture illustrates for the above example the area on which the third fisherman can catch fish.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/16330.%E2%80%85Fishermen/bebc4760.png" data-original-src="https://upload.acmicpc.net/678ef55b-676a-4f61-b0dc-3591461e7f6b/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 449px; height: 307px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/16330.%E2%80%85Fishermen/bebc4760.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/16330.%E2%80%85Fishermen/bebc4760.png" data-original-src="https://upload.acmicpc.net/678ef55b-676a-4f61-b0dc-3591461e7f6b/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 449px; height: 307px;" /></p>

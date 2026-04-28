@@ -20,9 +20,9 @@
 
 <p>&nbsp;</p>
 
-<p><img alt="fns.png" src="%EB%B0%B1%EC%A4%80/Silver/7347.%E2%80%85%ED%94%8C%EB%A6%BD%EA%B3%BC%E2%80%85%EC%8B%9C%ED%94%84%ED%8A%B8/d9d2741a.png" data-original-src="https://upload.acmicpc.net/a2d73457-771b-4bb7-a157-8d7a4242ab4b/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p><img alt="fns.png" src="%EB%B0%B1%EC%A4%80/Silver/7347.%E2%80%85%ED%94%8C%EB%A6%BD%EA%B3%BC%E2%80%85%EC%8B%9C%ED%94%84%ED%8A%B8/d9d2741a.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/7347.%E2%80%85%ED%94%8C%EB%A6%BD%EA%B3%BC%E2%80%85%EC%8B%9C%ED%94%84%ED%8A%B8/d9d2741a.png" data-original-src="https://upload.acmicpc.net/a2d73457-771b-4bb7-a157-8d7a4242ab4b/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
-<p><img alt="fns2.png" src="%EB%B0%B1%EC%A4%80/Silver/7347.%E2%80%85%ED%94%8C%EB%A6%BD%EA%B3%BC%E2%80%85%EC%8B%9C%ED%94%84%ED%8A%B8/bc99e684.png" data-original-src="https://upload.acmicpc.net/cc4c59c2-8446-457c-9b95-704f1e026cba/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p><img alt="fns2.png" src="%EB%B0%B1%EC%A4%80/Silver/7347.%E2%80%85%ED%94%8C%EB%A6%BD%EA%B3%BC%E2%80%85%EC%8B%9C%ED%94%84%ED%8A%B8/bc99e684.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/7347.%E2%80%85%ED%94%8C%EB%A6%BD%EA%B3%BC%E2%80%85%EC%8B%9C%ED%94%84%ED%8A%B8/bc99e684.png" data-original-src="https://upload.acmicpc.net/cc4c59c2-8446-457c-9b95-704f1e026cba/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>m개의 검은색 원판과 n개의 흰색 원판으로 이루어진 수열이 주어질 때, 플립을 유한 번 수행하여 (Figure 2처럼) 검은색 원판은 검은색 원판끼리, 흰색 원판은 흰색 원판끼리 한 곳에 연속적으로 모여 있는 상태를 만들 수 있을지 없을지 판단하는 프로그램을 작성하세요.</p>
 

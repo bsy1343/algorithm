@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/17073.%E2%80%85%EB%82%98%EB%AC%B4%E2%80%85%EC%9C%84%EC%9D%98%E2%80%85%EB%B9%97%EB%AC%BC/d90ba5c5.png" data-original-src="https://upload.acmicpc.net/96077f22-38dc-4cab-8122-1a693bc3928f/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 282px; width: 300px;" /><br />
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/17073.%E2%80%85%EB%82%98%EB%AC%B4%E2%80%85%EC%9C%84%EC%9D%98%E2%80%85%EB%B9%97%EB%AC%BC/d90ba5c5.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/17073.%E2%80%85%EB%82%98%EB%AC%B4%E2%80%85%EC%9C%84%EC%9D%98%E2%80%85%EB%B9%97%EB%AC%BC/d90ba5c5.png" data-original-src="https://upload.acmicpc.net/96077f22-38dc-4cab-8122-1a693bc3928f/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 282px; width: 300px;" /><br />
 &nbsp;</p>
 
 <p>트리란, 사이클이 없는 연결 그래프를 의미한다. 위 그림은 1번 정점을 루트로 하는 어떤 트리를 나타낸 모습이다.</p>

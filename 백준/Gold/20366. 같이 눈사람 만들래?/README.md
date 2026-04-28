@@ -24,7 +24,7 @@
 
 <p>엘자와 안나는 눈덩이 <em>N</em>개 중 서로 다른&nbsp;4개를 골라서&nbsp;눈사람을 각각&nbsp;1개씩, 총&nbsp;2개를&nbsp;만들려고 한다. 두 자매는 두&nbsp;눈사람의 키의 차이가 작을수록 두 눈사람의 사이가 좋을 것이라고 믿는다. 우리는 엘자와 안나가 가장 사이좋은 두 눈사람을 만들기 위해서 도와주려고 한다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/20366.%E2%80%85%EA%B0%99%EC%9D%B4%E2%80%85%EB%88%88%EC%82%AC%EB%9E%8C%E2%80%85%EB%A7%8C%EB%93%A4%EB%9E%98%3F/fd93292c.png" data-original-src="https://upload.acmicpc.net/65c871bd-cf26-4fd7-bda6-91728bbaf742/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 277px; width: 400px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/20366.%E2%80%85%EA%B0%99%EC%9D%B4%E2%80%85%EB%88%88%EC%82%AC%EB%9E%8C%E2%80%85%EB%A7%8C%EB%93%A4%EB%9E%98%3F/fd93292c.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/20366.%E2%80%85%EA%B0%99%EC%9D%B4%E2%80%85%EB%88%88%EC%82%AC%EB%9E%8C%E2%80%85%EB%A7%8C%EB%93%A4%EB%9E%98%3F/fd93292c.png" data-original-src="https://upload.acmicpc.net/65c871bd-cf26-4fd7-bda6-91728bbaf742/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 277px; width: 400px;" /></p>
 
 <p>주어진 <em>N</em>개의 눈덩이를 이용하여 만들 수 있는 두 눈사람의 키&nbsp;차이 중&nbsp;최솟값을 구하는 프로그램을 작성하시오.</p>
 

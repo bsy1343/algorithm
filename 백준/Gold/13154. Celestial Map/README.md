@@ -71,10 +71,10 @@
 
 <p>In the first sample we need to check 2 stars. The star positions in the present as well as the given plane and the trajectories of the stars are shown in figure 1. The plane from which the message originated is given by the vectors (1.0, 0.0, 0.0) and (0.0, 1.0, 0.0), the distance is 2.0. The first star is currently at position (2.0, 0.0, 1.0) and moves in direction (0.0, 0.0, 1.0) with speed 0.5. The second star is currently at position (0.0, 2.0, 1.0) and moves in direction (0.0, 0.0, 1.0) with speed 0.7. After moving the stars back by 2 years the stars&rsquo; positions are as shown in Figure H.2. As we can see, star 1 is in the plane and has the correct distance to Bob, therefore it fits the description. Star 2 is not in the plane and therefore does not fit the description. Hence the correct answer for the first sample is 1.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/13154.%E2%80%85Celestial%E2%80%85Map/28a2707c.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/13154/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:414px; width:419px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/13154.%E2%80%85Celestial%E2%80%85Map/28a2707c.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/13154.%E2%80%85Celestial%E2%80%85Map/28a2707c.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/13154/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:414px; width:419px" /></p>
 
 <p style="text-align: center;">Figure H.1: Star positions in the present for the first sample input.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/13154.%E2%80%85Celestial%E2%80%85Map/a457894e.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/13154/2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:412px; width:419px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/13154.%E2%80%85Celestial%E2%80%85Map/a457894e.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/13154.%E2%80%85Celestial%E2%80%85Map/a457894e.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/13154/2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:412px; width:419px" /></p>
 
 <p style="text-align: center;">Figure H.2: Star positions two years ago for the first sample input.</p>

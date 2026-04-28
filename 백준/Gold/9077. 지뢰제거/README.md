@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/9077.%E2%80%85%EC%A7%80%EB%A2%B0%EC%A0%9C%EA%B1%B0/cbec5922.png" data-original-src="https://www.acmicpc.net/upload/images/mine.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:325px; width:336px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/9077.%E2%80%85%EC%A7%80%EB%A2%B0%EC%A0%9C%EA%B1%B0/cbec5922.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/9077.%E2%80%85%EC%A7%80%EB%A2%B0%EC%A0%9C%EA%B1%B0/cbec5922.png" data-original-src="https://www.acmicpc.net/upload/images/mine.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:325px; width:336px" /></p>
 
 <p>지뢰제거를 위해서 새로운 장비가 투입되었다. 이 장비를 이용하면 10m &times; 10m 정사각형 범위 안(경계 포함)에 있는 지뢰를 한꺼번에 제거할 수 있다. 10,000m &times; 10,000m의 작업장에 묻힌 지뢰의 위치를 모두 알고 있다고 할 때, 이 장치를 효과적으로 사용하기 위해서 한 번 사용하여 제거할 수 있는 최대 지뢰 개수를 계산하는 프로그램을 작성하시오. 위의 그림은 아래 &quot;예제 입력&quot;의 세 번째 경우를 나타낸 것이다. 그림에서 보이는 정사각형 영역에 이 장비를 사용하면 다섯 개의 지뢰를 한꺼번에 제거할 수 있으며, 이 수가 한 번 사용하여 제거할 수 있는 최대 지뢰 개수이다.</p>
 

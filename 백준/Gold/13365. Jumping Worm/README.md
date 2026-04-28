@@ -29,41 +29,41 @@
 
 <p>Example: There are 8 trees, whose heights from left to right are 5, 5, 3, 3, 3, 4, 5, and 5 units, as shown below. All the u<sub>i</sub> &rsquo;sare 3 units per second, and the d<sub>i</sub> &rsquo;sare 2 units per second. Figures a) to g) show one possible way for the little worm to move from the starting position, the base of the first tree, to the top of the 8<sup>th</sup> tree in Figure f).&nbsp;</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/13365.%E2%80%85Jumping%E2%80%85Worm/4d912c46.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/13365/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-10-11%20%EC%98%A4%ED%9B%84%202.10.30.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:98px; width:300px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/13365.%E2%80%85Jumping%E2%80%85Worm/4d912c46.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/13365.%E2%80%85Jumping%E2%80%85Worm/4d912c46.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/13365/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-10-11%20%EC%98%A4%ED%9B%84%202.10.30.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:98px; width:300px" /></p>
 
 <p>a) The little worm begins at the base of the first tree.</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/13365.%E2%80%85Jumping%E2%80%85Worm/9bbecfbe.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/13365/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-10-11%20%EC%98%A4%ED%9B%84%202.11.25.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:101px; width:300px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/13365.%E2%80%85Jumping%E2%80%85Worm/9bbecfbe.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/13365.%E2%80%85Jumping%E2%80%85Worm/9bbecfbe.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/13365/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-10-11%20%EC%98%A4%ED%9B%84%202.11.25.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:101px; width:300px" /></p>
 
 <p>b) After the worm climbed 3 units up and fell 2 units down during the wait, he ended up at the position of the flag.</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/13365.%E2%80%85Jumping%E2%80%85Worm/bc1d9c3d.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/13365/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-10-11%20%EC%98%A4%ED%9B%84%202.12.06.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:108px; width:300px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/13365.%E2%80%85Jumping%E2%80%85Worm/bc1d9c3d.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/13365.%E2%80%85Jumping%E2%80%85Worm/bc1d9c3d.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/13365/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-10-11%20%EC%98%A4%ED%9B%84%202.12.06.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:108px; width:300px" /></p>
 
 <p>c) He must spend 5 seconds to get to the top.</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/13365.%E2%80%85Jumping%E2%80%85Worm/9125d452.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/13365/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-10-11%20%EC%98%A4%ED%9B%84%202.12.49.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:116px; width:300px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/13365.%E2%80%85Jumping%E2%80%85Worm/9125d452.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/13365.%E2%80%85Jumping%E2%80%85Worm/9125d452.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/13365/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-10-11%20%EC%98%A4%ED%9B%84%202.12.49.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:116px; width:300px" /></p>
 
 <p>d) Then, he jumpped to the tree 2, 3, 4, 5 on the 6th, 7th, 8th, 9th seconds respectively without having to rest.</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/13365.%E2%80%85Jumping%E2%80%85Worm/ba4b23af.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/13365/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-10-11%20%EC%98%A4%ED%9B%84%202.13.57.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:101px; width:300px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/13365.%E2%80%85Jumping%E2%80%85Worm/ba4b23af.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/13365.%E2%80%85Jumping%E2%80%85Worm/ba4b23af.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/13365/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-10-11%20%EC%98%A4%ED%9B%84%202.13.57.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:101px; width:300px" /></p>
 
 <p>e) While on the 6th tree, the little worm was not at the top, so he must rest for 1 second. During the time, he fell down 2 units. Then, he moved to the top of the tree again.</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/13365.%E2%80%85Jumping%E2%80%85Worm/f06f397e.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/13365/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-10-11%20%EC%98%A4%ED%9B%84%202.14.47.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:115px; width:300px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/13365.%E2%80%85Jumping%E2%80%85Worm/f06f397e.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/13365.%E2%80%85Jumping%E2%80%85Worm/f06f397e.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/13365/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-10-11%20%EC%98%A4%ED%9B%84%202.14.47.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:115px; width:300px" /></p>
 
 <p>f) The little worm continued its journey to the top of the 8th tree.</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/13365.%E2%80%85Jumping%E2%80%85Worm/25b6122c.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/13365/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-10-11%20%EC%98%A4%ED%9B%84%202.15.44.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:114px; width:300px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/13365.%E2%80%85Jumping%E2%80%85Worm/25b6122c.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/13365.%E2%80%85Jumping%E2%80%85Worm/25b6122c.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/13365/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-10-11%20%EC%98%A4%ED%9B%84%202.15.44.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:114px; width:300px" /></p>
 
 <p>g) This figure summarized the trip of the little worm from Figure a) to Figure f). The total time required for this trip is 16 seconds.</p>
 
 <p>Now if the worm decides to instead jump from the base of one trees to the next as shown in the figure below, and only climbs up on the last tree, he will take a total of 19 seconds. Note that since the jump is not made at the top, he must rest for 1 second (shown as dots). Also, since the worm is at the base, he cannot fall further while resting.</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/13365.%E2%80%85Jumping%E2%80%85Worm/b04825db.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/13365/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-10-11%20%EC%98%A4%ED%9B%84%202.17.32.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:102px; width:300px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/13365.%E2%80%85Jumping%E2%80%85Worm/b04825db.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/13365.%E2%80%85Jumping%E2%80%85Worm/b04825db.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/13365/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-10-11%20%EC%98%A4%ED%9B%84%202.17.32.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:102px; width:300px" /></p>
 
 <p>It turns out for this particular example, the shortest possible travel time for the little worm is 14 seconds, as shown in the figure below.</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/13365.%E2%80%85Jumping%E2%80%85Worm/5bcb1b30.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/13365/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-10-11%20%EC%98%A4%ED%9B%84%202.19.15.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:112px; width:300px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/13365.%E2%80%85Jumping%E2%80%85Worm/5bcb1b30.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/13365.%E2%80%85Jumping%E2%80%85Worm/5bcb1b30.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/13365/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-10-11%20%EC%98%A4%ED%9B%84%202.19.15.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:112px; width:300px" /></p>
 
 <p>Your task Given N trees, the u<sub>i</sub> and d<sub>i</sub> of all trees, find the shortest travel time (in seconds) from the base of the 1st tree to the top of the Nth tree.</p>
 

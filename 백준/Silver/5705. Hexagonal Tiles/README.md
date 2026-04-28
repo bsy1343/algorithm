@@ -18,7 +18,7 @@
 
 <p>The path to Mary&rsquo;s school is a straight line paved with hexagonal tiles. The picture below shows an example of the path with 12 numbered tiles.</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/5705.%E2%80%85Hexagonal%E2%80%85Tiles/4b5d7234.png" data-original-src="https://www.acmicpc.net/upload/images2/hexa(1).png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:139px; width:387px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/5705.%E2%80%85Hexagonal%E2%80%85Tiles/4b5d7234.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/5705.%E2%80%85Hexagonal%E2%80%85Tiles/4b5d7234.png" data-original-src="https://www.acmicpc.net/upload/images2/hexa(1).png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:139px; width:387px" /></p>
 
 <p>Mary loves mathematics. When going to school, she steps on the tiles of that path following these rules:</p>
 

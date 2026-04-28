@@ -22,9 +22,9 @@
 
 <p>Another technique, frequently used in printing tables, is to alternate the background color of rows to make it easier for the reader to visually follow a row. For example, the background color in Table (a) alternates after each row, while in Table (b) the color alternates every three rows.</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/4919.%E2%80%85Being%E2%80%85Smarty!/61f2cf4a.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/4919/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-06-10%20%EC%98%A4%ED%9B%84%204.30.14.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:275px; width:241px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/4919.%E2%80%85Being%E2%80%85Smarty!/61f2cf4a.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/4919.%E2%80%85Being%E2%80%85Smarty!/61f2cf4a.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/4919/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-06-10%20%EC%98%A4%ED%9B%84%204.30.14.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:275px; width:241px" /></p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/4919.%E2%80%85Being%E2%80%85Smarty!/492fb616.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/4919/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-06-10%20%EC%98%A4%ED%9B%84%204.30.24.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:277px; width:243px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/4919.%E2%80%85Being%E2%80%85Smarty!/492fb616.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/4919.%E2%80%85Being%E2%80%85Smarty!/492fb616.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/4919/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-06-10%20%EC%98%A4%ED%9B%84%204.30.24.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:277px; width:243px" /></p>
 
 <p>A properly designed template language would have a construct to allow the designer to alternate the properties of table rows. In this problem we shall concentrate on one such construct that takes three arguments: N, P<sub>1</sub>, and P<sub>2</sub>. The template engine would then apply P<sub>1</sub> on the first N rows, P<sub>2</sub> on the second N rows, and then back to P<sub>1</sub> on the third N rows, and so on.</p>
 

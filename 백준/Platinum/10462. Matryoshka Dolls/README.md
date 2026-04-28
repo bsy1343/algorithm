@@ -18,7 +18,7 @@
 
 <p>You most likely have seen the Russian Dolls which stack inside each other. For example:</p>
 
-<p><img src="%EB%B0%B1%EC%A4%80/Platinum/10462.%E2%80%85Matryoshka%E2%80%85Dolls/c6e91e1c.jpg" data-original-src="https://www.acmicpc.net/upload/images2/dolls.jpg" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p><img src="%EB%B0%B1%EC%A4%80/Platinum/10462.%E2%80%85Matryoshka%E2%80%85Dolls/c6e91e1c.jpg" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/10462.%E2%80%85Matryoshka%E2%80%85Dolls/c6e91e1c.jpg" data-original-src="https://www.acmicpc.net/upload/images2/dolls.jpg" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>Each doll has a different weight and storage ability. Your task is to nest as many dolls as possible.</p>
 

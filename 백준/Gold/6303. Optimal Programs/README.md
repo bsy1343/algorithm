@@ -24,7 +24,7 @@
 
 <p>So if the commands are applied to a stack with the two top elements a and b (shown to the left), the resulting stacks look as follows:</p>
 
-<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/6303.%E2%80%85Optimal%E2%80%85Programs/0a4e81e3.png" data-original-src="https://www.acmicpc.net/upload/images2/stack.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:262px; width:497px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/6303.%E2%80%85Optimal%E2%80%85Programs/0a4e81e3.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/6303.%E2%80%85Optimal%E2%80%85Programs/0a4e81e3.png" data-original-src="https://www.acmicpc.net/upload/images2/stack.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:262px; width:497px" /></p>
 
 <p>At the beginning of the execution of a program, the stack will contain a single integer only: the input. At the end of the computation, the stack must also contain only one integer; this number is the result of the computation.</p>
 

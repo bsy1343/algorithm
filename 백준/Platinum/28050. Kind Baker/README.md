@@ -23,8 +23,8 @@
 <table class="table table-bordered td-center">
 	<tbody>
 		<tr>
-			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/28050.%E2%80%85Kind%E2%80%85Baker/8b1a9994.png" data-original-src="https://upload.acmicpc.net/bdc91f69-a552-4262-abef-218ac34aa4eb/-/crop/273x282/0,0/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 137px; height: 141px;" /></td>
-			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/28050.%E2%80%85Kind%E2%80%85Baker/2cce2267.png" data-original-src="https://upload.acmicpc.net/bdc91f69-a552-4262-abef-218ac34aa4eb/-/crop/273x282/343,0/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 137px; height: 141px;" /></td>
+			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/28050.%E2%80%85Kind%E2%80%85Baker/8b1a9994.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/28050.%E2%80%85Kind%E2%80%85Baker/8b1a9994.png" data-original-src="https://upload.acmicpc.net/bdc91f69-a552-4262-abef-218ac34aa4eb/-/crop/273x282/0,0/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 137px; height: 141px;" /></td>
+			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/28050.%E2%80%85Kind%E2%80%85Baker/2cce2267.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/28050.%E2%80%85Kind%E2%80%85Baker/2cce2267.png" data-original-src="https://upload.acmicpc.net/bdc91f69-a552-4262-abef-218ac34aa4eb/-/crop/273x282/343,0/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 137px; height: 141px;" /></td>
 		</tr>
 		<tr>
 			<td>(a) Connected</td>
@@ -56,4 +56,4 @@
 	<li>No toppings: rest of the pieces.</li>
 </ol>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/28050.%E2%80%85Kind%E2%80%85Baker/8618b435.png" data-original-src="https://upload.acmicpc.net/c2eb3fe9-240b-4610-a5b8-3620653bcd0a/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 141px; height: 141px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/28050.%E2%80%85Kind%E2%80%85Baker/8618b435.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/28050.%E2%80%85Kind%E2%80%85Baker/8618b435.png" data-original-src="https://upload.acmicpc.net/c2eb3fe9-240b-4610-a5b8-3620653bcd0a/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 141px; height: 141px;" /></p>

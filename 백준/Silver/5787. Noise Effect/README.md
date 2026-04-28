@@ -18,7 +18,7 @@
 
 <p>Cheap small industrial scanners can only acquire images on gray scale, which are images where the pixels have intensity values in the integer range [0..255]. A company that builds automatic vending machines wants to use these small scanners to validate the tokens used in its machines. Tokens are small square chips of metal with holes strategically pierced. Tokens with different holes are used for different values.</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/5787.%E2%80%85Noise%E2%80%85Effect/c7e5adb7.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/5787/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-06-13%20%EC%98%A4%ED%9B%84%205.23.51.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:110px; width:126px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/5787.%E2%80%85Noise%E2%80%85Effect/c7e5adb7.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/5787.%E2%80%85Noise%E2%80%85Effect/c7e5adb7.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/5787/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-06-13%20%EC%98%A4%ED%9B%84%205.23.51.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:110px; width:126px" /></p>
 
 <p>Fig. 1: Token for a vending machine</p>
 

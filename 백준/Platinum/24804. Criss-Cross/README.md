@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/24804.%E2%80%85Criss-Cross/c6794b4d.png" data-original-src="https://upload.acmicpc.net/31ffe9b6-1288-4ff3-9702-600f55ed5e27/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 180px; height: 191px; float: right;" />Peter is bored during his operating systems class, so he draws doodles on a sheet of paper. &nbsp;He feels like drawing abstract art using his ruler: he draws line segments by choosing two points in the plane and connecting them. Lots of them.</p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/24804.%E2%80%85Criss-Cross/c6794b4d.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/24804.%E2%80%85Criss-Cross/c6794b4d.png" data-original-src="https://upload.acmicpc.net/31ffe9b6-1288-4ff3-9702-600f55ed5e27/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 180px; height: 191px; float: right;" />Peter is bored during his operating systems class, so he draws doodles on a sheet of paper. &nbsp;He feels like drawing abstract art using his ruler: he draws line segments by choosing two points in the plane and connecting them. Lots of them.</p>
 
 <p>Can you write a program that counts the number of distinct points at which the line segments he drew intersect or touch?</p>
 

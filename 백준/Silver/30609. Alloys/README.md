@@ -24,7 +24,7 @@
 
 <p>Another graphical example is depicted in the below image, where red dots represent dominant alloys.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/30609.%E2%80%85Alloys/1fcf8cc6.png" data-original-src="https://upload.acmicpc.net/a9b67fb1-a380-4004-b521-efeceeaafdbd/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 613px; height: 471px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/30609.%E2%80%85Alloys/1fcf8cc6.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/30609.%E2%80%85Alloys/1fcf8cc6.png" data-original-src="https://upload.acmicpc.net/a9b67fb1-a380-4004-b521-efeceeaafdbd/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 613px; height: 471px;" /></p>
 
 ### 입력
 

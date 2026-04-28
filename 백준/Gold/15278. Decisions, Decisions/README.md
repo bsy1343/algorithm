@@ -20,7 +20,7 @@
 
 <p>A BDD is a rooted binary tree such that all internal vertices v have precisely two children. The edges connecting an internal vertex v with its children are labelled with a 0 or 1 (exactly one of each). Each leaf vertex is also labelled with a 0 or 1. We note that a BDD may consist of a single vertex, which is considered to be both the root and a leaf vertex.</p>
 
-<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/15278.%E2%80%85Decisions%2C%E2%80%85Decisions/f00992a3.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15278/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:345px; width:407px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/15278.%E2%80%85Decisions%2C%E2%80%85Decisions/f00992a3.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/15278.%E2%80%85Decisions%2C%E2%80%85Decisions/f00992a3.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15278/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:345px; width:407px" /></p>
 
 <p>Given input (x<sub>0</sub>, . . . , x<sub>n&minus;1</sub>), the boolean function represented by the BDD is evaluated as follows.</p>
 

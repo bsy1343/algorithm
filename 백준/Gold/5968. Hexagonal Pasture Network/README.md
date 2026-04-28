@@ -28,7 +28,7 @@
 
 <p>By way of example, suppose K = 3, the Holsteins are in pasture #1, and Farmer John says he&#39;s placed some treats in pastures a distance of 2 away. &nbsp;The possible locations of the treats are pastures #3, #6, #10, #9, and #8, as shown below.</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/5968.%E2%80%85Hexagonal%E2%80%85Pasture%E2%80%85Network/6a99bd84.gif" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/5968/1.gif" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:195px; width:183px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/5968.%E2%80%85Hexagonal%E2%80%85Pasture%E2%80%85Network/6a99bd84.gif" data-original-src="%EB%B0%B1%EC%A4%80/Gold/5968.%E2%80%85Hexagonal%E2%80%85Pasture%E2%80%85Network/6a99bd84.gif" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/5968/1.gif" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:195px; width:183px" /></p>
 
 ### 입력
 

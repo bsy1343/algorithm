@@ -18,7 +18,7 @@
 
 <p>민상이는 자신이 해야할 작업 $N$개를 아래와 같이 작업 순서도로 그려보았다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/21937.%E2%80%85%EC%9E%91%EC%97%85/331d72b9.png" data-original-src="https://upload.acmicpc.net/3837e51f-ef9b-44c5-9028-92a0b2d99e21/-/crop/879x813/523,132/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 231px; width: 250px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/21937.%E2%80%85%EC%9E%91%EC%97%85/331d72b9.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/21937.%E2%80%85%EC%9E%91%EC%97%85/331d72b9.png" data-original-src="https://upload.acmicpc.net/3837e51f-ef9b-44c5-9028-92a0b2d99e21/-/crop/879x813/523,132/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 231px; width: 250px;" /></p>
 
 <p>위 그림에서 5번 작업을 하기 위해 제일 먼저 2번 작업을 끝내야 하고 그 다음으로 4번 작업을 끝내야 5번 작업을 할 수 있다. 3번 작업은 먼저 해야하는 작업이 없으므로 3번 작업을 바로 시작 할 수 있다.</p>
 

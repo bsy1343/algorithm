@@ -20,7 +20,7 @@
 
 <p>문제를 열심히 찾아보다보면 분명히 상근이가 정사각형을 좋아한다는 문제를 찾을 수 있을 것이다. 따라서, 상근이는 초콜릿을 쪼개서 모두 정사각형 모양으로 만들려고 한다. 상근이는 초콜릿을 베스트 프랜드에게만 나누어 주려고 한다. 되도록 적은 수의 정사각형이 남도록 초콜릿을 쪼개보자. 이때, 버리는 초콜릿이 있으면 안 된다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/3086.%E2%80%85%EC%B4%88%EC%BD%9C%EB%A6%BF%E2%80%85%EC%9E%90%EB%A5%B4%EA%B8%B0/cd335ee9.png" data-original-src="https://upload.acmicpc.net/1867f86d-5dc8-48a7-8176-42bb7b3efc0a/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 303px; height: 99px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/3086.%E2%80%85%EC%B4%88%EC%BD%9C%EB%A6%BF%E2%80%85%EC%9E%90%EB%A5%B4%EA%B8%B0/cd335ee9.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/3086.%E2%80%85%EC%B4%88%EC%BD%9C%EB%A6%BF%E2%80%85%EC%9E%90%EB%A5%B4%EA%B8%B0/cd335ee9.png" data-original-src="https://upload.acmicpc.net/1867f86d-5dc8-48a7-8176-42bb7b3efc0a/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 303px; height: 99px;" /></p>
 
 <p>위의 그림은 N이 3이고, M이 4인초콜릿이다. 왼쪽 초콜릿은 총 6개의 초콜릿으로 쪼갠 그림이고, 오른쪽 그림은 4개로 쪼갠 그림이다. 오른족 그림이 가장 적은 수의 정사각형으로 쪼개는 방법이다.</p>
 

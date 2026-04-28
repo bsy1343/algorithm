@@ -38,6 +38,6 @@
 
 ### 힌트
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/25231.%E2%80%85Rafting%E2%80%85Trip/4ec7d5f2.png" data-original-src="https://upload.acmicpc.net/f89d3869-c2d6-416c-9c37-b75b528dbaf1/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 356px; height: 300px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/25231.%E2%80%85Rafting%E2%80%85Trip/4ec7d5f2.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/25231.%E2%80%85Rafting%E2%80%85Trip/4ec7d5f2.png" data-original-src="https://upload.acmicpc.net/f89d3869-c2d6-416c-9c37-b75b528dbaf1/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 356px; height: 300px;" /></p>
 
 <p style="text-align: center;">Illustration of the first sample case. The optimal rafting trip starts at the cell with the raft and visits $4$ sightseeing spots (marked by binoculars). The river cells reached along the trip are highlighted in dark blue.</p>

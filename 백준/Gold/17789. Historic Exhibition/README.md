@@ -20,7 +20,7 @@
 
 <p>For artistic reasons, it is important that the diameter of the base of a vase matches the diameter of the surface of the pedestal it is placed on. You have been asked to find a way to place all the vases on available pedestals. In order to make this work, you might need to turn some of the pedestals upside down. For example, Figure H.1 shows a possible assignment of pedestals to vases for sample input 1. Assist the gallery by writing a program to compute such an assignment.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/17789.%E2%80%85Historic%E2%80%85Exhibition/6bd5d8ad.png" data-original-src="https://upload.acmicpc.net/9e9963ab-85e2-464e-8af5-ee061c9d5dea/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 179px; height: 137px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/17789.%E2%80%85Historic%E2%80%85Exhibition/6bd5d8ad.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/17789.%E2%80%85Historic%E2%80%85Exhibition/6bd5d8ad.png" data-original-src="https://upload.acmicpc.net/9e9963ab-85e2-464e-8af5-ee061c9d5dea/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 179px; height: 137px;" /></p>
 
 <p style="text-align: center;">Figure H.1: Solution for sample input 1.</p>
 

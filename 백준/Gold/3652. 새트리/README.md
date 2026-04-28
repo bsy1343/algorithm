@@ -18,11 +18,11 @@
 
 <p>새트리는 무한 이진 트리이고, 첫 5레벨은 다음과 같이 생겼다.</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/3652.%E2%80%85%EC%83%88%ED%8A%B8%EB%A6%AC/09bec388.png" data-original-src="https://www.acmicpc.net/upload/images/bt.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:240px; width:564px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/3652.%E2%80%85%EC%83%88%ED%8A%B8%EB%A6%AC/09bec388.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/3652.%E2%80%85%EC%83%88%ED%8A%B8%EB%A6%AC/09bec388.png" data-original-src="https://www.acmicpc.net/upload/images/bt.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:240px; width:564px" /></p>
 
 <p>새트리의 각 노드는 다음과 같이 재귀적으로 정의할 수 있다.</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/3652.%E2%80%85%EC%83%88%ED%8A%B8%EB%A6%AC/a43046ae.png" data-original-src="https://www.acmicpc.net/upload/images/bd.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:85px; width:247px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/3652.%E2%80%85%EC%83%88%ED%8A%B8%EB%A6%AC/a43046ae.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/3652.%E2%80%85%EC%83%88%ED%8A%B8%EB%A6%AC/a43046ae.png" data-original-src="https://www.acmicpc.net/upload/images/bd.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:85px; width:247px" /></p>
 
 <p>여기서 bird는 완전 트리를 의미하고, bird+1은 트리의 모든 분수에 1를 더하는 것을 의미하고, 1/bird는 트리의 모든 분수를 뒤집는 것을 의미한다.</p>
 

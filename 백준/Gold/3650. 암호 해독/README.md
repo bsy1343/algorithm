@@ -22,7 +22,7 @@
 
 <p>상근이와 선영이는 메시지를 k개의 글자씩 블록으로 나눈 다음에 각 블록에 들어있는 글자의 순서를 바꾸는 것이다. 순서를 바꾸는 방법은 총 k!가지가 있으며, 이 중 한 순열을 골라서 모든 블록에 동일하게 적용한다. 이때 사용한 순열을 암호키라고 한다. 아래 그림은 secret을 암호키 (514362)를 이용해서 암호화한 것이고, 블록의 크기는 6이다.</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/3650.%E2%80%85%EC%95%94%ED%98%B8%E2%80%85%ED%95%B4%EB%8F%85/096b6285.png" data-original-src="https://www.acmicpc.net/upload/images/keysecret.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:133px; width:246px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/3650.%E2%80%85%EC%95%94%ED%98%B8%E2%80%85%ED%95%B4%EB%8F%85/096b6285.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/3650.%E2%80%85%EC%95%94%ED%98%B8%E2%80%85%ED%95%B4%EB%8F%85/096b6285.png" data-original-src="https://www.acmicpc.net/upload/images/keysecret.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:133px; width:246px" /></p>
 
 <p>정인이는 블록의 크기도 알고 있다. 또, 평문과 암호문의 길이는 같고, 길이는 항상 k로 나누어 떨어진다. 또, 모든 블록은 같은 암호키를 이용해서 암호화 한다.</p>
 

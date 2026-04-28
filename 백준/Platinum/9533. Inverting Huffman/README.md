@@ -34,7 +34,7 @@
 
 <p>For the text &ldquo;abracadabra&rdquo;, the tree produced by the above procedure can look like the one on the left of the following picture, where each internal node is labeled with the weight of the subtree rooted at that node. Notice that the obtained tree can also look like the one on the right of the picture, among others, because at steps 3a and 3b the set s may contain several trees with minimum weight.</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/9533.%E2%80%85Inverting%E2%80%85Huffman/cd0742f5.png" data-original-src="https://www.acmicpc.net/upload/images2/inverthuff.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:180px; width:525px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/9533.%E2%80%85Inverting%E2%80%85Huffman/cd0742f5.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/9533.%E2%80%85Inverting%E2%80%85Huffman/cd0742f5.png" data-original-src="https://www.acmicpc.net/upload/images2/inverthuff.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:180px; width:525px" /></p>
 
 <p>For each different character in the text, its code depends on the path that exists, in the final tree, from the root to the leaf corresponding to the character. The length of the code is the number of edges in that path (which is coincident with the number of internal nodes in the path). Assuming the tree on the left was built by the algorithm, the code for &ldquo;r&rdquo; has length 3 while the code for &ldquo;d&rdquo; has length 4.</p>
 

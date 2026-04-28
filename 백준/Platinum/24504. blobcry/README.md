@@ -30,7 +30,7 @@
 
 <p>한편, 신성한 침묵을 통해 역사를 배운 Harmony&nbsp;왕국의 왕 정후는&nbsp;Light&nbsp;왕국의&nbsp;다리가 하나밖에 남지 않았고, 그곳에 라이트온과 다른 블롭들이 있다는 사실을 알게 되었다.</p>
 
-<p style="text-align: center;"><img alt="img" src="%EB%B0%B1%EC%A4%80/Platinum/24504.%E2%80%85blobcry/8144a2b9.png" data-original-src="https://upload.acmicpc.net/9e5d30b1-6aae-46d6-ae21-894e9a615e17/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="display: inline-block; max-width: 768px;" /></p>
+<p style="text-align: center;"><img alt="img" src="%EB%B0%B1%EC%A4%80/Platinum/24504.%E2%80%85blobcry/8144a2b9.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/24504.%E2%80%85blobcry/8144a2b9.png" data-original-src="https://upload.acmicpc.net/9e5d30b1-6aae-46d6-ae21-894e9a615e17/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="display: inline-block; max-width: 768px;" /></p>
 
 <p>정후는 Light&nbsp;왕국을&nbsp;도와주기 위해 블롭들이 Harmony&nbsp;왕국으로&nbsp;탈출할 수 있는 포탈을 설치하려고 한다. 그는 Light&nbsp;왕국의 구조를 알고 있지만, 마지막으로 남은 다리가 무엇인지는 모른다. 정후는 자신의 부하에게 Light&nbsp;왕국으로&nbsp;가서 마지막으로 남은 다리가 무엇인지 알아 오라고 했지만, 시간이 많지 않아서 이론적으로 마지막 다리가 될 수 있는 곳만 탐색하려고 한다.</p>
 

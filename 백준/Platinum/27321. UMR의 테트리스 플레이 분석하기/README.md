@@ -29,7 +29,7 @@
 
 <p>테트로미노는 다음과 같이 $7$종류가 있으며, 왼쪽부터 순서대로 I, J, L, O, S, T, Z라고 부른다. 테트로미노를 뒤집을 수 없기 때문에 J와 L, S와 Z는 서로 다른 테트로미노이다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/27321.%E2%80%85UMR%EC%9D%98%E2%80%85%ED%85%8C%ED%8A%B8%EB%A6%AC%EC%8A%A4%E2%80%85%ED%94%8C%EB%A0%88%EC%9D%B4%E2%80%85%EB%B6%84%EC%84%9D%ED%95%98%EA%B8%B0/2ec367b1.png" data-original-src="https://upload.acmicpc.net/10a07c12-9a30-4c06-986a-2a54193074d1/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/27321.%E2%80%85UMR%EC%9D%98%E2%80%85%ED%85%8C%ED%8A%B8%EB%A6%AC%EC%8A%A4%E2%80%85%ED%94%8C%EB%A0%88%EC%9D%B4%E2%80%85%EB%B6%84%EC%84%9D%ED%95%98%EA%B8%B0/2ec367b1.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/27321.%E2%80%85UMR%EC%9D%98%E2%80%85%ED%85%8C%ED%8A%B8%EB%A6%AC%EC%8A%A4%E2%80%85%ED%94%8C%EB%A0%88%EC%9D%B4%E2%80%85%EB%B6%84%EC%84%9D%ED%95%98%EA%B8%B0/2ec367b1.png" data-original-src="https://upload.acmicpc.net/10a07c12-9a30-4c06-986a-2a54193074d1/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>당신은 영상을 분석하던 중, UMR의 플레이가 너무 빨라서 어떤 테트로미노를 놓기 전의 장면과 후의 장면만 찍힌 부분을 발견했다. 그 사이에 지나간 테트로미노는 과연 무엇이었을까?</p>
 

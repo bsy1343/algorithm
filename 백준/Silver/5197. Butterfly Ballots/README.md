@@ -18,7 +18,7 @@
 
 <p>To &ldquo;properly&rdquo; improve one&rsquo;s chances for winning an election, it is helpful to have allies on the election board. For instance, it can be quite useful to have the ballot designed in such a way that voters who are not paying close attention may actually vote for the wrong candidate. One tried and true way to achieve that is the so-called &ldquo;Butterfly Ballot&rdquo;. In a butterfly ballot, all the candidates&rsquo; names are on one side (say, the left), while all the boxes in which to mark a vote are on the other side. Now, if the boxes are a little bit shifted, it can be hard to tell which box corresponds to which candidate. For instance, look at the following ballot:</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/5197.%E2%80%85Butterfly%E2%80%85Ballots/59bb045d.png" data-original-src="https://www.acmicpc.net/upload/images2/ballot.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:228px; width:602px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/5197.%E2%80%85Butterfly%E2%80%85Ballots/59bb045d.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/5197.%E2%80%85Butterfly%E2%80%85Ballots/59bb045d.png" data-original-src="https://www.acmicpc.net/upload/images2/ballot.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:228px; width:602px" /></p>
 
 <p>You&rsquo;ll have to admit that if one isn&rsquo;t careful with this ballot, one might easily end up making a mark next to UCLA instead of USC. Of course, similar things could happen to political candidates.</p>
 

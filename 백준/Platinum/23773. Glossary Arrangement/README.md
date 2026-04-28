@@ -22,7 +22,7 @@
 
 <p>Unfortunately, your friend is not satisfied with your layouts and complains that some of them take up too much vertical space. The problem with your approach is that <code>ls</code> always forms columns of equal height, except for the last column, which may be shorter. This sometimes ends up using more lines than would be needed if the column heights could be chosen more freely:</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/23773.%E2%80%85Glossary%E2%80%85Arrangement/dfe9e18f.png" data-original-src="https://upload.acmicpc.net/777ce3b9-f1e1-49ec-8623-3529f40e8f70/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 381px; height: 100px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/23773.%E2%80%85Glossary%E2%80%85Arrangement/dfe9e18f.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/23773.%E2%80%85Glossary%E2%80%85Arrangement/dfe9e18f.png" data-original-src="https://upload.acmicpc.net/777ce3b9-f1e1-49ec-8623-3529f40e8f70/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 381px; height: 100px;" /></p>
 
 <p style="text-align: center;">Figure 1:&nbsp;Saving two lines using variable column heights.</p>
 

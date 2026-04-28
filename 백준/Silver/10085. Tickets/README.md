@@ -29,7 +29,7 @@
 	Finally, the gray code of all numbers consisting of \(n\) bits, \(L\), is constructed by appending \(L&#39;_2\) to \(L&#39;_1\), that is \(L = L&#39;_1 + L&#39;_2 = \left[ 0s_1, 0s_2, \dots, 0s_{2^{n-1}}, 1s_{2^{n-1}}, 1s_{2^{n-1}-1}, \dots, 1s_2, 1s_1 \right]\)</li>
 </ol>
 
-<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/10085.%E2%80%85Tickets/2badfd78.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/10085/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:240px; width:300px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/10085.%E2%80%85Tickets/2badfd78.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/10085.%E2%80%85Tickets/2badfd78.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/10085/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:240px; width:300px" /></p>
 
 <p style="text-align:center">Figure 1 source: <a href="https://en.wikipedia.org/wiki/Gray_code">https://en.wikipedia.org/wiki/Gray_code</a></p>
 

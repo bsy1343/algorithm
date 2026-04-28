@@ -22,7 +22,7 @@
 
 <p>Per realizes that he can easily trick the system. He can sell overlapping areas, because bureaucrats only check whether the south-east corners are identical. However, nobody wants to buy a parcel containing swamp.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/3667.%E2%80%85Selling%E2%80%85Land/f3b9bf55.png" data-original-src="https://www.acmicpc.net/upload/images2/sellingland.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:246px; width:206px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/3667.%E2%80%85Selling%E2%80%85Land/f3b9bf55.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/3667.%E2%80%85Selling%E2%80%85Land/f3b9bf55.png" data-original-src="https://www.acmicpc.net/upload/images2/sellingland.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:246px; width:206px" /></p>
 
 <p>In this example, dark squares represent swamp. Per may, for example, sell three overlapping grey areas, with dimensions 2 &times; 1, 2 &times; 4 and 4 &times; 1 respectively. The total perimeter is 6 + 12 + 10 = 28. Note that he can get more money by selling even more land. This figure corresponds to the case in the sample input.</p>
 

@@ -18,7 +18,7 @@
 
 <p>승현이는 앞면과 뒷면이 있는 카드 n장을 가지고 있습니다. 각 카드의 앞면에는 1 이상 2222 이하의 정수가 적혀 있으며, 이 수는 카드마다 서로 다릅니다. 각 카드의 뒷면에는 동물 그림이 그려져 있으며, 이 그림 역시 카드마다 서로 다릅니다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/11908.%E2%80%85%EC%B9%B4%EB%93%9C/2d4bae45.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11908/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:154px; width:254px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/11908.%E2%80%85%EC%B9%B4%EB%93%9C/2d4bae45.png" data-original-src="%EB%B0%B1%EC%A4%80/Bronze/11908.%E2%80%85%EC%B9%B4%EB%93%9C/2d4bae45.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11908/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:154px; width:254px" /></p>
 
 <p style="text-align: center;">가능한 카드의 예시입니다. 왼쪽 그림은 앞면, 오른쪽 그림은 뒷면입니다.</p>
 

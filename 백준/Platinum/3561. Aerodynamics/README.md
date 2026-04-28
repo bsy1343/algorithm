@@ -24,7 +24,7 @@
 
 <p>Bill&rsquo;s department makes a lot of computer simulations to study missile&rsquo;s aerodynamic properties before it is even built. To approximate missile&rsquo;s cross-sectional profile one takes samples of S(z<sub>0</sub>) for integer arguments z<sub>0</sub> from z<sub>min</sub> to z<sub>max</sub>.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/3561.%E2%80%85Aerodynamics/d56709a1.png" data-original-src="https://upload.acmicpc.net/0367bbd8-d9b9-4d5a-af7f-2a316e762024/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 552px; height: 397px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/3561.%E2%80%85Aerodynamics/d56709a1.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/3561.%E2%80%85Aerodynamics/d56709a1.png" data-original-src="https://upload.acmicpc.net/0367bbd8-d9b9-4d5a-af7f-2a316e762024/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 552px; height: 397px;" /></p>
 
 <p>Your task is to find the area S(z<sub>0</sub>) for each integer z<sub>0</sub> from z<sub>min</sub> to z<sub>max</sub>, inclusive, given the description of the missile. The description of the missile is given to you as a set of points. The missile is the minimal convex solid containing all the given points. It is guaranteed that there are four points that do not belong to the same plane.</p>
 

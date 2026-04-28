@@ -18,7 +18,7 @@
 
 <p>체스에 사용되는 말 중 하나인 나이트는 아래 표의 S와 같은 위치에서 X와 같은 위치로 &nbsp;이동할 수 있다. 이 때 이동하려는 위치에 다른 말이 있으면 그 말을 잡아먹을 수 있다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/3391.%E2%80%85%EB%82%98%EC%9D%B4%ED%8A%B8/b732333a.png" data-original-src="https://upload.acmicpc.net/5dc01ada-b550-4cd7-81f6-9845a68609c4/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 147px; height: 147px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/3391.%E2%80%85%EB%82%98%EC%9D%B4%ED%8A%B8/b732333a.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/3391.%E2%80%85%EB%82%98%EC%9D%B4%ED%8A%B8/b732333a.png" data-original-src="https://upload.acmicpc.net/5dc01ada-b550-4cd7-81f6-9845a68609c4/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 147px; height: 147px;" /></p>
 
 <p>N&times;N 크기의 체스판이 주어졌을 때, 이 체스판에 한 번의 이동으로는 서로를 잡아먹을 수 없도록 놓을 수 있는 나이트의 최대 개수를 구하는 프로그램을 작성하시오. 단, 체스판의 M개의 주어진 위치에는 나이트를 놓을 수 없다.</p>
 

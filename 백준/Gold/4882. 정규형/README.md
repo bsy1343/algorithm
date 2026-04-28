@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/4882.%E2%80%85%EC%A0%95%EA%B7%9C%ED%98%95/4ae539df.png" data-original-src="https://www.acmicpc.net/upload/images/andortree.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="float:right; height:172px; width:164px" />모든 불리언 식은 Disjunctive Normal Form(DNF)나 Conjunctive Normal Form(CNF)로 나타낼 수 있다. DNF는 하나 또는 그 이상의 CNF식을 OR로 연결한 식이고, CNF는 DNF식을 AND로 연결한 식이다.</p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/4882.%E2%80%85%EC%A0%95%EA%B7%9C%ED%98%95/4ae539df.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/4882.%E2%80%85%EC%A0%95%EA%B7%9C%ED%98%95/4ae539df.png" data-original-src="https://www.acmicpc.net/upload/images/andortree.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="float:right; height:172px; width:164px" />모든 불리언 식은 Disjunctive Normal Form(DNF)나 Conjunctive Normal Form(CNF)로 나타낼 수 있다. DNF는 하나 또는 그 이상의 CNF식을 OR로 연결한 식이고, CNF는 DNF식을 AND로 연결한 식이다.</p>
 
 <p>AND/OR 트리는 DNF나 CNF 불리언 식을 트리와 같은 형태로 표현한 것이다. DNF나 CNF는 서로를 부분식으로 포함하기 때문에, 서브 트리의 레벨만 알면 그 서브&nbsp;트리가 AND트리인지 OR트리인지를 알 수 있다.</p>
 

@@ -22,7 +22,7 @@
 
 <p>You start out with a positive mindset thinking that there are probably just a few leaking components responsible for all the positive measurements. To determine if this is indeed possible you set out to determine the minimum number of leaking components that could give rise to the observed leak test results.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/21051.%E2%80%85Exhaustive%E2%80%85Experiment/c4b89ce5.png" data-original-src="https://upload.acmicpc.net/692eab2b-fe2c-4e89-bcbb-785519423169/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 295px; height: 295px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/21051.%E2%80%85Exhaustive%E2%80%85Experiment/c4b89ce5.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/21051.%E2%80%85Exhaustive%E2%80%85Experiment/c4b89ce5.png" data-original-src="https://upload.acmicpc.net/692eab2b-fe2c-4e89-bcbb-785519423169/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 295px; height: 295px;" /></p>
 
 <p style="text-align: center;">Figure 1:&nbsp;Illustration of Sample Input 1. Circles indicate components and the blue triangle indicates where helium will spread when the first component is tested. This test being positive means that at least one of the the three components covered by the triangle is leaking. The correct answer in this case is 1 since the measurement results can all be explained with only the rightmost component leaking.</p>
 

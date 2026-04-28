@@ -49,7 +49,7 @@
 
 <p>で与えられる．インフルエンザの感染可能距離は d = 2 であり，各都市で流行が続く日数は m = 2 である．また，k = 3 である．</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/24141.%E2%80%85%E3%82%A4%E3%83%B3%E3%83%95%E3%83%AB%E3%82%A8%E3%83%B3%E3%82%B6%E2%80%85(Flu)/4de9d580.png" data-original-src="https://upload.acmicpc.net/6100deb4-51fb-4e35-aa77-9f4404ae64ef/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 325px; height: 327px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/24141.%E2%80%85%E3%82%A4%E3%83%B3%E3%83%95%E3%83%AB%E3%82%A8%E3%83%B3%E3%82%B6%E2%80%85(Flu)/4de9d580.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/24141.%E2%80%85%E3%82%A4%E3%83%B3%E3%83%95%E3%83%AB%E3%82%A8%E3%83%B3%E3%82%B6%E2%80%85(Flu)/4de9d580.png" data-original-src="https://upload.acmicpc.net/6100deb4-51fb-4e35-aa77-9f4404ae64ef/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 325px; height: 327px;" /></p>
 
 <p>最初，インフルエンザが流行しているのは JOI 市 P<sub>1</sub> のみである．1 日後には，インフルエン ザの流行は，P<sub>1</sub> からの距離が 2 以下の都市 P<sub>2</sub>, P<sub>3</sub>, P<sub>6</sub> に拡大する．また，JOI 市 P<sub>1</sub> における 流行はまだ収まらない．2 日後には，流行は P<sub>4</sub>, P<sub>7</sub>, P<sub>8</sub> に拡大し，JOI 市 P<sub>1</sub> における流行は収 まる．3 日後には，流行は P<sub>9</sub> に拡大し，P<sub>2</sub>, P<sub>3</sub>, P<sub>6</sub> における流行は収まる．</p>
 

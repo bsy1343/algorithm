@@ -18,7 +18,7 @@
 
 <p>희권이는 영화관에서 한 개의 상영관을 담당하고 있다. 상영관의 좌석은 $10\times 20$ 형태이고, 좌석 번호는 다음과 같다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/30889.%E2%80%85%EC%A2%8C%EC%84%9D%E2%80%85%EB%B0%B0%EC%B9%98%EB%8F%84/4ede9d1f.png" data-original-src="https://u.acmicpc.net/53df96e2-59b5-4f0b-a537-783b6b0f0658/cinema.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 711px; height: 400px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/30889.%E2%80%85%EC%A2%8C%EC%84%9D%E2%80%85%EB%B0%B0%EC%B9%98%EB%8F%84/4ede9d1f.png" data-original-src="%EB%B0%B1%EC%A4%80/Bronze/30889.%E2%80%85%EC%A2%8C%EC%84%9D%E2%80%85%EB%B0%B0%EC%B9%98%EB%8F%84/4ede9d1f.png" data-original-src="https://u.acmicpc.net/53df96e2-59b5-4f0b-a537-783b6b0f0658/cinema.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 711px; height: 400px;" /></p>
 
 <p>스크린을 기준으로 맨 앞이 A열, 맨 뒤가 J열이다. 좌석은 가장 왼쪽이 1번, 오른쪽이 20번이다.</p>
 

@@ -18,7 +18,7 @@
 
 <p>Contemporary buildings can have very complicated roofs. If we take a vertical section of such a roof it results in a number of sloping segments. When it is raining the drops are falling down on the roof straight from the sky above. Some segments are completely exposed to the rain but there may be some segments partially or even completely shielded by other segments. All the water falling onto a segment as a stream straight down from the lower end of the segment on the ground or possibly onto some other segment. In particular, if a stream of water is falling on an end of a segment then we consider it to be collected by this segment.&nbsp;</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/3455.%E2%80%85November%E2%80%85Rain/12abece4.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/3455/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:394px; width:574px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/3455.%E2%80%85November%E2%80%85Rain/12abece4.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/3455.%E2%80%85November%E2%80%85Rain/12abece4.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/3455/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:394px; width:574px" /></p>
 
 <p>For the purpose of designing a piping system it is desired to compute how much water is down from each segment of the roof. To be prepared for a heavy November rain you should count one liter of rain water falling on a meter of the horizontal plane during one second.&nbsp;</p>
 

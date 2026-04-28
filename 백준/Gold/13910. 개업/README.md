@@ -18,7 +18,7 @@
 
 <p>해빈이는 짜장면을 정말 좋아한다. 짜장면을 너무 좋아한 나머지 짜장면만 파는 중국집을 개업했다! 해빈이는 양손잡이여서 동시에 두 개의 웍(중국 냄비)을 사용하여 요리할 수 있다. 그러나 해빈이는 낭비를 매우 싫어하기 때문에 요리 할 때, 필요 이상 크기의 웍을 사용하지 않으며, 주문 받은 짜장면의 그릇 수에 딱 맞게 요리한다.</p>
 
-<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/13910.%E2%80%85%EA%B0%9C%EC%97%85/f2b45d83.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/13902/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:135px; width:216px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/13910.%E2%80%85%EA%B0%9C%EC%97%85/f2b45d83.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/13910.%E2%80%85%EA%B0%9C%EC%97%85/f2b45d83.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/13902/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:135px; width:216px" /></p>
 
 <p style="text-align:center">&lt;웍&gt;</p>
 

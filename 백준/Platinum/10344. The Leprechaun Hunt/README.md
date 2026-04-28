@@ -27,8 +27,8 @@
 <table style="height:204px; text-align:center; width:406px">
 	<tbody>
 		<tr>
-			<td><img alt="cycle graph" src="%EB%B0%B1%EC%A4%80/Platinum/10344.%E2%80%85The%E2%80%85Leprechaun%E2%80%85Hunt/12ef0d62.png" data-original-src="https://www.acmicpc.net/upload/images2/cycle.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:200px" /></td>
-			<td><img alt="house graph" src="%EB%B0%B1%EC%A4%80/Platinum/10344.%E2%80%85The%E2%80%85Leprechaun%E2%80%85Hunt/b2f080cf.png" data-original-src="https://www.acmicpc.net/upload/images2/house.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:200px" /></td>
+			<td><img alt="cycle graph" src="%EB%B0%B1%EC%A4%80/Platinum/10344.%E2%80%85The%E2%80%85Leprechaun%E2%80%85Hunt/12ef0d62.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/10344.%E2%80%85The%E2%80%85Leprechaun%E2%80%85Hunt/12ef0d62.png" data-original-src="https://www.acmicpc.net/upload/images2/cycle.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:200px" /></td>
+			<td><img alt="house graph" src="%EB%B0%B1%EC%A4%80/Platinum/10344.%E2%80%85The%E2%80%85Leprechaun%E2%80%85Hunt/b2f080cf.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/10344.%E2%80%85The%E2%80%85Leprechaun%E2%80%85Hunt/b2f080cf.png" data-original-src="https://www.acmicpc.net/upload/images2/house.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:200px" /></td>
 		</tr>
 		<tr>
 			<td>Figure 1</td>

@@ -24,7 +24,7 @@
 
 <p>Each city in Treeland has its own tax on prizes: t<sub>i</sub>. Let d<sub>u,v</sub> be the sum of the tolls on each road on the only simple path from city u to v. For a trip from city u to city v, the cost of that trip is then (t<sub>u</sub> + t<sub>v</sub>)d<sub>u,v</sub>.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/18152.%E2%80%85Radio%E2%80%85Prize/c6e68964.png" data-original-src="https://upload.acmicpc.net/a2a1897b-8772-4f40-ab12-ce5f47b565c1/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 456px; height: 142px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/18152.%E2%80%85Radio%E2%80%85Prize/c6e68964.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/18152.%E2%80%85Radio%E2%80%85Prize/c6e68964.png" data-original-src="https://upload.acmicpc.net/a2a1897b-8772-4f40-ab12-ce5f47b565c1/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 456px; height: 142px;" /></p>
 
 <p style="text-align: center;">Figure A.1: The map of Treeland corresponding to the first sample input.</p>
 

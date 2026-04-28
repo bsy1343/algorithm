@@ -40,14 +40,14 @@
 
 <p>예제의 마을을 그림으로 나타내면 다음과 같다.</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/17241.%E2%80%85Pineapple%E2%80%85Advertising/5498b760.png" data-original-src="https://i.imgur.com/pMs5cdx.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 200px; height: 175px;" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/17241.%E2%80%85Pineapple%E2%80%85Advertising/5498b760.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/17241.%E2%80%85Pineapple%E2%80%85Advertising/5498b760.png" data-original-src="https://i.imgur.com/pMs5cdx.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 200px; height: 175px;" /></p>
 
 <p>여기서 1번 집에 파인애플 피자를 전달하게 되면 아래와 같이 1, 2, 3번 집이 새로이 파인애플 피자를 좋아하게 된다.</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/17241.%E2%80%85Pineapple%E2%80%85Advertising/ef4a2913.png" data-original-src="https://i.imgur.com/YXbEGyV.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 200px; height: 172px;" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/17241.%E2%80%85Pineapple%E2%80%85Advertising/ef4a2913.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/17241.%E2%80%85Pineapple%E2%80%85Advertising/ef4a2913.png" data-original-src="https://i.imgur.com/YXbEGyV.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 200px; height: 172px;" /></p>
 
 <p>그 다음 2번 집에 파인애플 피자를 전달하게 되면 4번 집이 새로이 파인애플 피자를 좋아하게 된다.</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/17241.%E2%80%85Pineapple%E2%80%85Advertising/9eb70402.png" data-original-src="https://i.imgur.com/tczDYnk.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 200px; height: 172px;" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/17241.%E2%80%85Pineapple%E2%80%85Advertising/9eb70402.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/17241.%E2%80%85Pineapple%E2%80%85Advertising/9eb70402.png" data-original-src="https://i.imgur.com/tczDYnk.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 200px; height: 172px;" /></p>
 
 <p>1, 2, 3번 집은 이미 파인애플 피자를 좋아하기 때문에 출력의 개수에 포함되지 않는다.</p>

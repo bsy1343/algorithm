@@ -20,7 +20,7 @@
 
 <p>Anika is excited to be one of the $N$ participants, numbered from $0$ to $N-1$. She was quick to sign up which means she is participant $0$. She starts right after the finish line with all other participants positioned ahead of her on the track. Anika cannot keep track of how many laps she has run, but she remembers when she overtakes someone or when someone overtakes her. What is the minimum number of times she must have crossed the finish line? Nobody moves backwards, and no overtaking happens exactly at the finish line. Furthermore, note that the participants do not necessarily run at a constant speed.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/32107.%E2%80%85Infinite%E2%80%85Race/e1ae6f42.png" data-original-src="https://upload.acmicpc.net/143748a8-0995-4b25-868a-8d0be16591a2/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 512px; height: 266px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/32107.%E2%80%85Infinite%E2%80%85Race/e1ae6f42.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/32107.%E2%80%85Infinite%E2%80%85Race/e1ae6f42.png" data-original-src="https://upload.acmicpc.net/143748a8-0995-4b25-868a-8d0be16591a2/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 512px; height: 266px;" /></p>
 
 ### 입력
 

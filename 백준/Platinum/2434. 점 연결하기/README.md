@@ -18,7 +18,7 @@
 
 <p>3 &times; N개의 점이 찍혀있는 직사각형 그리드가 있다. 그리드 상의 모든 점은 최대 8개의 이웃한 점을 가지고 있다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/2434.%E2%80%85%EC%A0%90%E2%80%85%EC%97%B0%EA%B2%B0%ED%95%98%EA%B8%B0/3843a0f7.png" data-original-src="https://upload.acmicpc.net/2463aeeb-ccc7-4bea-975c-6080bd85fafb/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 106px; height: 105px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/2434.%E2%80%85%EC%A0%90%E2%80%85%EC%97%B0%EA%B2%B0%ED%95%98%EA%B8%B0/3843a0f7.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/2434.%E2%80%85%EC%A0%90%E2%80%85%EC%97%B0%EA%B2%B0%ED%95%98%EA%B8%B0/3843a0f7.png" data-original-src="https://upload.acmicpc.net/2463aeeb-ccc7-4bea-975c-6080bd85fafb/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 106px; height: 105px;" /></p>
 
 <p>그리드 상의 점을 연결해서 만들 수 있는 다각형의 개수를 구하려고 한다. 다각형은 아래와 같은 조건을 만족해야 한다.</p>
 
@@ -30,7 +30,7 @@
 
 <p>아래 그림은 N=6인 경우에 가능한 두 가지 다각형이다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/2434.%E2%80%85%EC%A0%90%E2%80%85%EC%97%B0%EA%B2%B0%ED%95%98%EA%B8%B0/7f1dbe01.png" data-original-src="https://upload.acmicpc.net/a7ee11de-3edc-4a6d-a6c3-db307d5c17c1/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 545px; height: 105px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/2434.%E2%80%85%EC%A0%90%E2%80%85%EC%97%B0%EA%B2%B0%ED%95%98%EA%B8%B0/7f1dbe01.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/2434.%E2%80%85%EC%A0%90%E2%80%85%EC%97%B0%EA%B2%B0%ED%95%98%EA%B8%B0/7f1dbe01.png" data-original-src="https://upload.acmicpc.net/a7ee11de-3edc-4a6d-a6c3-db307d5c17c1/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 545px; height: 105px;" /></p>
 
 <p>N이 주어졌을 때, 만들 수 있는 다각형의 개수를 구하는 프로그램을 작성하시오.</p>
 

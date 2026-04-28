@@ -22,7 +22,7 @@
 
 <p>When driving from one city to the next, Alice needs to choose which road to take. Some of these roads have a tarmac surface, while others are just gravel roads and some roads have bridges which will not support vehicles that are too heavy. For each road it is known how long it takes to traverse it and what is the maximal weight of vehicles that can safely drive on it.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/25249.%E2%80%85Excursion%E2%80%85to%E2%80%85Porvoo/798a778d.png" data-original-src="https://upload.acmicpc.net/72928c8f-5f65-4951-9970-dabedfe8e4d4/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 768px; height: 58px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/25249.%E2%80%85Excursion%E2%80%85to%E2%80%85Porvoo/798a778d.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/25249.%E2%80%85Excursion%E2%80%85to%E2%80%85Porvoo/798a778d.png" data-original-src="https://upload.acmicpc.net/72928c8f-5f65-4951-9970-dabedfe8e4d4/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 768px; height: 58px;" /></p>
 
 <p style="text-align: center;">Figure E.1: Illustration of the second sample input. The red path from Tampere to Porvoo is the optimal choice for a car of weight $31$.</p>
 

@@ -18,7 +18,7 @@
 
 <p>베개와 가희가 방 안에 있습니다.&nbsp;가희가 베개&nbsp;위에서 자고 있는지 그렇지 않은지&nbsp;출력해 주세요.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/21771.%E2%80%85%EA%B0%80%ED%9D%AC%EC%95%BC%E2%80%85%EA%B1%B0%EA%B8%B0%EC%84%9C%E2%80%85%EC%9E%90%EB%8A%94%E2%80%85%EA%B1%B0%E2%80%85%EC%95%84%EB%8B%88%EC%95%BC/a9381ab4.png" data-original-src="https://i.imgur.com/34mAd6i.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 324px; height: 204px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/21771.%E2%80%85%EA%B0%80%ED%9D%AC%EC%95%BC%E2%80%85%EA%B1%B0%EA%B8%B0%EC%84%9C%E2%80%85%EC%9E%90%EB%8A%94%E2%80%85%EA%B1%B0%E2%80%85%EC%95%84%EB%8B%88%EC%95%BC/a9381ab4.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/21771.%E2%80%85%EA%B0%80%ED%9D%AC%EC%95%BC%E2%80%85%EA%B1%B0%EA%B8%B0%EC%84%9C%E2%80%85%EC%9E%90%EB%8A%94%E2%80%85%EA%B1%B0%E2%80%85%EC%95%84%EB%8B%88%EC%95%BC/a9381ab4.png" data-original-src="https://i.imgur.com/34mAd6i.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 324px; height: 204px;" /></p>
 
 ### 입력
 

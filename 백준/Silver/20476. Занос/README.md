@@ -22,7 +22,7 @@
 
 <p>Трасса в Берляндии устроена следующим образом. Сначала идет длинная прямая, на которой машины могут разогнаться до любой скорости от 0 до $v$. Затем следует линия старта, после которой следует отрезок длиной $x$ м, поворот на 90$^\circ$ и отрезок длины $y$ м, после которого находится линия финиша. Линию финиша машина может пересечь на любой скорости.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/20476.%E2%80%85%D0%97%D0%B0%D0%BD%D0%BE%D1%81/99303c8f.png" data-original-src="https://upload.acmicpc.net/21166213-b41c-4629-aea8-59e7b05301b2/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 376px; height: 174px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/20476.%E2%80%85%D0%97%D0%B0%D0%BD%D0%BE%D1%81/99303c8f.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/20476.%E2%80%85%D0%97%D0%B0%D0%BD%D0%BE%D1%81/99303c8f.png" data-original-src="https://upload.acmicpc.net/21166213-b41c-4629-aea8-59e7b05301b2/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 376px; height: 174px;" /></p>
 
 <p>Для прохождения поворота рекомендуется использовать управляемый занос. Для этого необходимо затормозить таким образом, чтобы скорость оказалась равна 0 в точности в повороте. После этого, сделав резкое движение рулем по направлению поворота и резко нажав газ, можно, не теряя времени, уйти на второй отрезок трассы.</p>
 

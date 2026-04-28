@@ -22,19 +22,19 @@
 
 <p>예를 들어, <em>N</em>=5, <em>C</em>=4일 때 아래와&nbsp;같은 색의 버튼들이 있다고 하자.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/17307.%E2%80%85%EC%83%89%EA%B9%94%E2%80%85%ED%86%B5%EC%9D%BC%ED%95%98%EA%B8%B0/1fa4bb1a.png" data-original-src="https://upload.acmicpc.net/6a34baca-47f5-4d6b-b5e9-a5dc5e573f78/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 109px; width: 600px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/17307.%E2%80%85%EC%83%89%EA%B9%94%E2%80%85%ED%86%B5%EC%9D%BC%ED%95%98%EA%B8%B0/1fa4bb1a.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/17307.%E2%80%85%EC%83%89%EA%B9%94%E2%80%85%ED%86%B5%EC%9D%BC%ED%95%98%EA%B8%B0/1fa4bb1a.png" data-original-src="https://upload.acmicpc.net/6a34baca-47f5-4d6b-b5e9-a5dc5e573f78/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 109px; width: 600px;" /></p>
 
 <p>여기서 4번&nbsp;버튼을 누르면&nbsp;현재 4번 버튼의 양옆에 같은 색의 버튼이 없으므로 4번 버튼의 색만&nbsp;0번 색깔로 바뀌게 된다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/17307.%E2%80%85%EC%83%89%EA%B9%94%E2%80%85%ED%86%B5%EC%9D%BC%ED%95%98%EA%B8%B0/c383cf61.png" data-original-src="https://upload.acmicpc.net/3ff216fc-c676-4999-b350-d58c6d13a2a8/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 600px; height: 109px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/17307.%E2%80%85%EC%83%89%EA%B9%94%E2%80%85%ED%86%B5%EC%9D%BC%ED%95%98%EA%B8%B0/c383cf61.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/17307.%E2%80%85%EC%83%89%EA%B9%94%E2%80%85%ED%86%B5%EC%9D%BC%ED%95%98%EA%B8%B0/c383cf61.png" data-original-src="https://upload.acmicpc.net/3ff216fc-c676-4999-b350-d58c6d13a2a8/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 600px; height: 109px;" /></p>
 
 <p>그 이후&nbsp;2번째 버튼을 누르면 2번의 왼쪽으로는 같은 색의 버튼이 없고, 오른쪽으로 연속한 3, 4번 버튼이 2번 버튼의 색과 같으므로 2, 3, 4번 버튼의 색이 1번 색깔로 바뀐다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/17307.%E2%80%85%EC%83%89%EA%B9%94%E2%80%85%ED%86%B5%EC%9D%BC%ED%95%98%EA%B8%B0/bf6c2d7b.png" data-original-src="https://upload.acmicpc.net/3606753a-6a72-49ad-b1ca-aab5c078f9ab/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 109px; width: 600px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/17307.%E2%80%85%EC%83%89%EA%B9%94%E2%80%85%ED%86%B5%EC%9D%BC%ED%95%98%EA%B8%B0/bf6c2d7b.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/17307.%E2%80%85%EC%83%89%EA%B9%94%E2%80%85%ED%86%B5%EC%9D%BC%ED%95%98%EA%B8%B0/bf6c2d7b.png" data-original-src="https://upload.acmicpc.net/3606753a-6a72-49ad-b1ca-aab5c078f9ab/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 109px; width: 600px;" /></p>
 
 <p>그 이후&nbsp;3번째 버튼을 누르면 1, 2, 3, 4, 5번 버튼의 색이 모두 함께 2번 색깔로 바뀌게 된다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/17307.%E2%80%85%EC%83%89%EA%B9%94%E2%80%85%ED%86%B5%EC%9D%BC%ED%95%98%EA%B8%B0/5a95c63e.png" data-original-src="https://upload.acmicpc.net/697d01d9-a812-4842-b3eb-c0393e7e8e11/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 109px; width: 600px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/17307.%E2%80%85%EC%83%89%EA%B9%94%E2%80%85%ED%86%B5%EC%9D%BC%ED%95%98%EA%B8%B0/5a95c63e.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/17307.%E2%80%85%EC%83%89%EA%B9%94%E2%80%85%ED%86%B5%EC%9D%BC%ED%95%98%EA%B8%B0/5a95c63e.png" data-original-src="https://upload.acmicpc.net/697d01d9-a812-4842-b3eb-c0393e7e8e11/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 109px; width: 600px;" /></p>
 
 <p>우리의 목적은 버튼을 누르는 횟수를 최소화 하면서 모든 버튼의 색을 한 색으로 통일시키는 것이다.&nbsp;위의 방법대로면 4번 버튼을 누른&nbsp;후 2번 버튼을 누르면서 2회만에 1번 색으로 통일된다.</p>
 

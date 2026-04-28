@@ -22,7 +22,7 @@
 
 <p>The truck unloads heavy equipment on the entrance of the site and after that the equipment is carried across the site by a sequence of crane movements. In each step, one crane picks up the equipment and leaves it at any place within the maximum reach of that crane.&nbsp;</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/3170.%E2%80%85grad/28c4435c.png" data-original-src="https://upload.acmicpc.net/783c37d6-6d83-4619-8cc0-78f1cfd098fe/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 237px; height: 387px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/3170.%E2%80%85grad/28c4435c.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/3170.%E2%80%85grad/28c4435c.png" data-original-src="https://upload.acmicpc.net/783c37d6-6d83-4619-8cc0-78f1cfd098fe/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 237px; height: 387px;" /></p>
 
 <p>Write a program that, given a list of K destinations within the site, determines for each destination if it is possible to carry the equipment to this destination.&nbsp;</p>
 

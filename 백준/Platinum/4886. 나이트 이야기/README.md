@@ -20,7 +20,7 @@
 
 <p>나이트 N개가 모두 목적칸으로 이동하기 위해 필요한 최소 이동 횟수를 구하는 프로그램을 작성하시오. 나이트는 모두 똑같이 생겨서, 구분할 수 없다. 또, 나이트 여러 개가 같은 칸에 동시에 있을 수 있다. 그리고, 모든 목적칸에는 나이트가 한 개씩 있어야 한다.</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/4886.%E2%80%85%EB%82%98%EC%9D%B4%ED%8A%B8%E2%80%85%EC%9D%B4%EC%95%BC%EA%B8%B0/bdf5b8c1.png" data-original-src="https://www.acmicpc.net/upload/images/knighttail.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:246px; width:246px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/4886.%E2%80%85%EB%82%98%EC%9D%B4%ED%8A%B8%E2%80%85%EC%9D%B4%EC%95%BC%EA%B8%B0/bdf5b8c1.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/4886.%E2%80%85%EB%82%98%EC%9D%B4%ED%8A%B8%E2%80%85%EC%9D%B4%EC%95%BC%EA%B8%B0/bdf5b8c1.png" data-original-src="https://www.acmicpc.net/upload/images/knighttail.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:246px; width:246px" /></p>
 
 <p>위의 그림은 나이트가 움직일 수 있는 방향이다.</p>
 

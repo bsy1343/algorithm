@@ -22,7 +22,7 @@
 
 <p>The picture below shows an example of three interconnected planets with transit times shown. The planets are labelled with positive integers, and the hyperspace travel time is denoted by &ldquo;x&rdquo; (the picture corresponds to the second example input):&nbsp;</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/5815.%E2%80%85HIPERPROSTOR/b34a15b4.png" data-original-src="https://upload.acmicpc.net/355c6bd2-a158-47a2-a2e9-d8313b4d3dfc/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 270px; height: 157px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/5815.%E2%80%85HIPERPROSTOR/b34a15b4.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/5815.%E2%80%85HIPERPROSTOR/b34a15b4.png" data-original-src="https://upload.acmicpc.net/355c6bd2-a158-47a2-a2e9-d8313b4d3dfc/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 270px; height: 157px;" /></p>
 
 <p>Transit time is measured in days and is always a positive integer.&nbsp;</p>
 
@@ -54,4 +54,4 @@
 	<li>The shortest path from 1 to 4 can take 3 (for x = 1), 6 (for x = 2), or 8 (for x &gt;= 3) time. 3+6+8=17&nbsp;</li>
 </ol>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/5815.%E2%80%85HIPERPROSTOR/a72885ec.png" data-original-src="https://upload.acmicpc.net/1bb62512-4984-4f1d-a067-56bd59f9474f/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 377px; height: 94px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/5815.%E2%80%85HIPERPROSTOR/a72885ec.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/5815.%E2%80%85HIPERPROSTOR/a72885ec.png" data-original-src="https://upload.acmicpc.net/1bb62512-4984-4f1d-a067-56bd59f9474f/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 377px; height: 94px;" /></p>

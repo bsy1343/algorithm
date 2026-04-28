@@ -22,7 +22,7 @@
 
 <p>예를 들어 뉴 아시아 왕국의 마을과 도로는 그림 1a와 같다. 만일 왕이 2개의 자갈도로를 무료로 하고자 하면, 왕국은 그림 1b와 같이 (1, 2), (2, 3), (3, 4), (3, 5)를 무료로 하여야 한다. 이 계획은 왕의 요구사항을 만족하는데 그 이유는 (1) 모든 두 마을이 무료도로를 통하여 연결되어 있으며, (2) 가능한 가장 적은 수의 무료도로를 가지고 있고, (3) 정확히 두 개의 무료 자갈도로를 포함한다: (2, 3)과 (3, 4)&nbsp;</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/4014.%E2%80%85%EB%8F%84%EB%A1%9C/1946c6fd.png" data-original-src="https://upload.acmicpc.net/70ed732a-9d35-490b-a67f-473711cc742a/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 514px; height: 222px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/4014.%E2%80%85%EB%8F%84%EB%A1%9C/1946c6fd.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/4014.%E2%80%85%EB%8F%84%EB%A1%9C/1946c6fd.png" data-original-src="https://upload.acmicpc.net/70ed732a-9d35-490b-a67f-473711cc742a/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 514px; height: 222px;" /></p>
 
 <p>그림1: (a) 뉴 아시아 왕국의 마을과 도로 예. 실선은 콘크리트 도로를 점선은 자갈도로를 뜻함. (b) 정확히 두 개의 무료 자갈도로를 포함하는 도로유지방안. 무료도로만 표시되었음.</p>
 

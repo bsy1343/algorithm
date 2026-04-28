@@ -93,4 +93,4 @@ N&#39; P&#39; M&#39;<br />
 
 ### 힌트
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/12441.%E2%80%85%EC%95%BD%EC%86%8D%EC%9E%A5%EC%86%8C%E2%80%85%EC%A0%95%ED%95%98%EA%B8%B0%E2%80%85(Small)/42093c63.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/12441/images-40.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/12441.%E2%80%85%EC%95%BD%EC%86%8D%EC%9E%A5%EC%86%8C%E2%80%85%EC%A0%95%ED%95%98%EA%B8%B0%E2%80%85(Small)/42093c63.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/12441.%E2%80%85%EC%95%BD%EC%86%8D%EC%9E%A5%EC%86%8C%E2%80%85%EC%A0%95%ED%95%98%EA%B8%B0%E2%80%85(Small)/42093c63.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/12441/images-40.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>

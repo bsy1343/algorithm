@@ -31,7 +31,7 @@
 
 <p>그림 C.1 은 디스크를 모두 옮긴 후, 크기가 같은 디스크의 색상에 따른 상대적 순서의 조건을 만족시키는 예를 보여준다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/23240.%E2%80%85Colorful%E2%80%85Tower%E2%80%85of%E2%80%85Hanoi/6e9025bb.png" data-original-src="https://upload.acmicpc.net/793f7a4f-d11f-4366-abbc-55d995186e3c/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 400px; height: 197px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/23240.%E2%80%85Colorful%E2%80%85Tower%E2%80%85of%E2%80%85Hanoi/6e9025bb.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/23240.%E2%80%85Colorful%E2%80%85Tower%E2%80%85of%E2%80%85Hanoi/6e9025bb.png" data-original-src="https://upload.acmicpc.net/793f7a4f-d11f-4366-abbc-55d995186e3c/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 400px; height: 197px;" /></p>
 
 <p style="text-align: center;">그림 C.1</p>
 

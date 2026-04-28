@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><img alt="카카오_지갑_로고" src="%EB%B0%B1%EC%A4%80/Gold/24551.%E2%80%85%EC%9D%BC%EC%9D%B4%E2%80%85%EB%84%88%EB%AC%B4%E2%80%85%EB%A7%8E%EC%95%84.../68f440c0.png" data-original-src="https://upload.acmicpc.net/a803cbe1-feff-4bea-bf84-a6eca615c03a/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="max-height:270px; object-fit:contain; display:inline-block;" /></p>
+<p style="text-align: center;"><img alt="카카오_지갑_로고" src="%EB%B0%B1%EC%A4%80/Gold/24551.%E2%80%85%EC%9D%BC%EC%9D%B4%E2%80%85%EB%84%88%EB%AC%B4%E2%80%85%EB%A7%8E%EC%95%84.../68f440c0.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/24551.%E2%80%85%EC%9D%BC%EC%9D%B4%E2%80%85%EB%84%88%EB%AC%B4%E2%80%85%EB%A7%8E%EC%95%84.../68f440c0.png" data-original-src="https://upload.acmicpc.net/a803cbe1-feff-4bea-bf84-a6eca615c03a/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="max-height:270px; object-fit:contain; display:inline-block;" /></p>
 
 <p>카카오에 7년 경력을 가진 신입 개발자로&nbsp;입사한 pichulia. pichulia 는 카카오 서비스 중 카카오 지갑 서비스 개발 담당자가 되었다.</p>
 

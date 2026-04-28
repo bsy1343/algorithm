@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/8891.%E2%80%85%EC%A0%90%E2%80%85%EC%88%AB%EC%9E%90/2dba259e.png" data-original-src="https://www.acmicpc.net/upload/images/dnum(1).png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="float:right; height:233px; width:239px" />2차원 평면의 제 1사분면에 점이 무한개 찍혀있다. 점의 x, y좌표는 모두 양의 정수이다. 오른쪽 그림과 같이 대각선 순서로 점에 자연수를 할당할 수 있다.</p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/8891.%E2%80%85%EC%A0%90%E2%80%85%EC%88%AB%EC%9E%90/2dba259e.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/8891.%E2%80%85%EC%A0%90%E2%80%85%EC%88%AB%EC%9E%90/2dba259e.png" data-original-src="https://www.acmicpc.net/upload/images/dnum(1).png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="float:right; height:233px; width:239px" />2차원 평면의 제 1사분면에 점이 무한개 찍혀있다. 점의 x, y좌표는 모두 양의 정수이다. 오른쪽 그림과 같이 대각선 순서로 점에 자연수를 할당할 수 있다.</p>
 
 <p>각 점에 할당된 숫자는 점 숫자라고 부른다. (x,y)의 점 숫자는 #(x,y)로 나타낸다. 예를 들어, #(1,1) = 1, #(2,1) = 3, #(2,2) = 5, #(4,4) = 25 이다.</p>
 

@@ -31,7 +31,7 @@
 
 <p>Fig.1 shows an example of a move in which a player chooses the cell at the third row and the fourth column.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/11717.%E2%80%85Wall%E2%80%85Making%E2%80%85Game/f54dd757.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11717/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:192px; width:327px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/11717.%E2%80%85Wall%E2%80%85Making%E2%80%85Game/f54dd757.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/11717.%E2%80%85Wall%E2%80%85Making%E2%80%85Game/f54dd757.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11717/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:192px; width:327px" /></p>
 
 <p style="text-align: center;">fig.1: An example of a move in Wall Making Game.</p>
 

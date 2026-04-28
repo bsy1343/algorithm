@@ -22,7 +22,7 @@
 
 <p>송도수자원공사의 정수 시설은 물탱크 $n$개와 물탱크를 연결하는 수로 $n-1$개로 구성된다. 정수 시설은 $1$번 물탱크를 루트로 하는 이진 트리 구조를 이루며, $i$번 물탱크는 용량 $c_i$를 갖는다. 창연이는 임의의 물탱크 하나에 펌프를 연결하여 $m$의 물을 흘려보낼 수 있다.</p>
 
-<div style="display: flex; flex-direction: column; align-items: center; justify-content: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/32224.%E2%80%85%EB%AC%BC%ED%83%B1%ED%81%AC%E2%80%85%EC%95%8C%EB%B0%94(Easy)/96fb29ad.png" data-original-src="https://upload.acmicpc.net/7aa06aa1-b179-4637-8bb1-7d0be8a0c655/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 100%; max-width: 639px;" />
+<div style="display: flex; flex-direction: column; align-items: center; justify-content: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/32224.%E2%80%85%EB%AC%BC%ED%83%B1%ED%81%AC%E2%80%85%EC%95%8C%EB%B0%94(Easy)/96fb29ad.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/32224.%E2%80%85%EB%AC%BC%ED%83%B1%ED%81%AC%E2%80%85%EC%95%8C%EB%B0%94(Easy)/96fb29ad.png" data-original-src="https://upload.acmicpc.net/7aa06aa1-b179-4637-8bb1-7d0be8a0c655/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 100%; max-width: 639px;" />
 <p style="text-align: center;"><small>왼쪽 그림은 $1$번 물탱크에 $3$의 물을 투입한 결과, 오른쪽 그림은 $2$번 물탱크에 $3$의 물을 투입한 결과이다.</small></p>
 </div>
 

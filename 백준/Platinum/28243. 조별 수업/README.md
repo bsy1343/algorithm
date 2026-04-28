@@ -18,7 +18,7 @@
 
 <p>송도고등학교의 박상진 선생님은 조별 수업에서 버스를 타는 학생은 없고 모두가 협력할 수 있는 획기적인 방법을 고안해내셨다!</p>
 
-<p style="text-align: center;"><img alt="" height="284" src="%EB%B0%B1%EC%A4%80/Platinum/28243.%E2%80%85%EC%A1%B0%EB%B3%84%E2%80%85%EC%88%98%EC%97%85/e23efb7c.png" data-original-src="https://upload.acmicpc.net/5f502241-d02b-44a5-ad77-350b6ddfcb08/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" width="386" /></p>
+<p style="text-align: center;"><img alt="" height="284" src="%EB%B0%B1%EC%A4%80/Platinum/28243.%E2%80%85%EC%A1%B0%EB%B3%84%E2%80%85%EC%88%98%EC%97%85/e23efb7c.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/28243.%E2%80%85%EC%A1%B0%EB%B3%84%E2%80%85%EC%88%98%EC%97%85/e23efb7c.png" data-original-src="https://upload.acmicpc.net/5f502241-d02b-44a5-ad77-350b6ddfcb08/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" width="386" /></p>
 
 <p style="text-align: center;">박상진 선생님의 획기적인 방법을 사용하지 않은 보통의 조별 수업 상황이다.</p>
 

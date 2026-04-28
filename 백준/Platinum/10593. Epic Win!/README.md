@@ -22,7 +22,7 @@
 
 <p>An FSM for playing rock-paper-scissors has finitely many states. Each state is described by the following: what move the FSM will make in the upcoming round, and what will be the new state in case of its opponent playing Rock, Paper , and Scissors.</p>
 
-<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/10593.%E2%80%85Epic%E2%80%85Win!/e344d952.png" data-original-src="https://www.acmicpc.net/upload/images2/epic.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:106px; width:625px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/10593.%E2%80%85Epic%E2%80%85Win!/e344d952.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/10593.%E2%80%85Epic%E2%80%85Win!/e344d952.png" data-original-src="https://www.acmicpc.net/upload/images2/epic.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:106px; width:625px" /></p>
 
 <p>Fortunately, you know your opponent FSM &mdash; the entire scheme except for one thing: you do not know the initial state of that FSM.</p>
 

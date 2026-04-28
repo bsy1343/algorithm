@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><img alt="" height="426" src="%EB%B0%B1%EC%A4%80/Silver/30645.%E2%80%85%EC%9D%B8%ED%98%95%E2%80%85%EC%A0%84%EC%8B%9C/c941c594.png" data-original-src="https://u.acmicpc.net/bf22dde9-1535-469c-876f-f37469872f9f/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202023-10-15%20154438.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" width="568" /></p>
+<p style="text-align: center;"><img alt="" height="426" src="%EB%B0%B1%EC%A4%80/Silver/30645.%E2%80%85%EC%9D%B8%ED%98%95%E2%80%85%EC%A0%84%EC%8B%9C/c941c594.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/30645.%E2%80%85%EC%9D%B8%ED%98%95%E2%80%85%EC%A0%84%EC%8B%9C/c941c594.png" data-original-src="https://u.acmicpc.net/bf22dde9-1535-469c-876f-f37469872f9f/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202023-10-15%20154438.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" width="568" /></p>
 
 <p>탁자 위에 인형을 전시하려고 한다. 탁자는 위에서 보았을 때 <em>R</em>개의 행과 <em>C</em>개의 열을 가진 <em>R</em> &times;<em> C</em>개의 칸을 가진 2차원 배열이며, 각 칸에 하나의 인형을 전시할 수 있다. 현재 전시할 수 있는 인형은 N개이며, 탁자 위에 N개의 인형을 모두 전시할 필요는 없다.</p>
 

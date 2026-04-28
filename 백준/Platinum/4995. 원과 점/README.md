@@ -18,7 +18,7 @@
 
 <p>xy평면에 N개의 점이 있다. 이때, 반지름의 길이가 1인 원으로 점을 최대 몇 개 포함시킬 수 있는지 구하는 프로그램을 작성하시오. 점이 원의 내부에 있거나, 원 위에 있을 때를 원이 점을 포함하는 것이다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/4995.%E2%80%85%EC%9B%90%EA%B3%BC%E2%80%85%EC%A0%90/91957f0e.gif" data-original-src="https://www.acmicpc.net/upload/images/cnp.gif" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 493px; height: 472px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/4995.%E2%80%85%EC%9B%90%EA%B3%BC%E2%80%85%EC%A0%90/91957f0e.gif" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/4995.%E2%80%85%EC%9B%90%EA%B3%BC%E2%80%85%EC%A0%90/91957f0e.gif" data-original-src="https://www.acmicpc.net/upload/images/cnp.gif" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 493px; height: 472px;" /></p>
 
 ### 입력
 

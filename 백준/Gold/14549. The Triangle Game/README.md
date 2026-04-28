@@ -16,11 +16,11 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/14549.%E2%80%85The%E2%80%85Triangle%E2%80%85Game/4919f18f.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14549/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:219px; width:434px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/14549.%E2%80%85The%E2%80%85Triangle%E2%80%85Game/4919f18f.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/14549.%E2%80%85The%E2%80%85Triangle%E2%80%85Game/4919f18f.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14549/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:219px; width:434px" /></p>
 
 <p>In the triangle game you start off with six triangles numbered on each edge, as in the example above. You can slide and rotate the triangles so they form a hexagon, but the hexagon is only legal if edges common to two triangles have the same number on them. You may not flip any triangle over. Two legal hexagons formed from the six triangles are illustrated below.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/14549.%E2%80%85The%E2%80%85Triangle%E2%80%85Game/5c4a4b81.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14549/2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:228px; width:510px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/14549.%E2%80%85The%E2%80%85Triangle%E2%80%85Game/5c4a4b81.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/14549.%E2%80%85The%E2%80%85Triangle%E2%80%85Game/5c4a4b81.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14549/2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:228px; width:510px" /></p>
 
 <p>The score for a legal hexagon is the sum of the numbers on the outside six edges.</p>
 

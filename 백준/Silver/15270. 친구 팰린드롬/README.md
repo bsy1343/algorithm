@@ -22,7 +22,7 @@
 
 <p>A와 B가 친한 친구고, B와 C가 친한 친구라고해서 반드시 A와 C가 친한 친구는 아니다. 로봇 댄스를 추는 친구를 제외한 무대에 올라가는 친구들은 모두 각자 자신과 친한 친구하고만 춤을 춰야한다. 또한 재홍이 반 친구들은 모두 로봇 댄스를 출 수 있다.</p>
 
-<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/15270.%E2%80%85%EC%B9%9C%EA%B5%AC%E2%80%85%ED%8C%B0%EB%A6%B0%EB%93%9C%EB%A1%AC/7e4d060a.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15270/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:61px; width:195px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/15270.%E2%80%85%EC%B9%9C%EA%B5%AC%E2%80%85%ED%8C%B0%EB%A6%B0%EB%93%9C%EB%A1%AC/7e4d060a.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/15270.%E2%80%85%EC%B9%9C%EA%B5%AC%E2%80%85%ED%8C%B0%EB%A6%B0%EB%93%9C%EB%A1%AC/7e4d060a.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15270/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:61px; width:195px" /></p>
 
 ### 입력
 

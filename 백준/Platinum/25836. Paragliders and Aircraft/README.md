@@ -22,7 +22,7 @@
 
 <p>Treat the airspace as a 3D coordinate space measured in feet. (This is reasonable because, for small distances, you can interpret latitude and longitude as coordinates on a plane.) You can assume the paragliders will stay in a 3D cylinder with a center, a radius, and lower and upper altitude bounds. Flight data will contain each aircraft&#39;s position, altitude, heading, velocity, and descent rate. Heading is in degrees where 0 degrees is along the positive x axis and 90 degrees is along the positive y axis. Airspeed is in feet per second, along vector s in the diagram; descent is along vector d.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/25836.%E2%80%85Paragliders%E2%80%85and%E2%80%85Aircraft/ac1184bd.png" data-original-src="https://upload.acmicpc.net/cf35b5a2-db4d-4da9-8698-c5f1712df998/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 470px; height: 231px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/25836.%E2%80%85Paragliders%E2%80%85and%E2%80%85Aircraft/ac1184bd.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/25836.%E2%80%85Paragliders%E2%80%85and%E2%80%85Aircraft/ac1184bd.png" data-original-src="https://upload.acmicpc.net/cf35b5a2-db4d-4da9-8698-c5f1712df998/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 470px; height: 231px;" /></p>
 
 <p>If an aircraft&#39;s flight path will intersect the bounded cylinder, compute the entry and exit time in seconds from the current time, and output a message with those times. Otherwise, output a message to ignore the aircraft.</p>
 

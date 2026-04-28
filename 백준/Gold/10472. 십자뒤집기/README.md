@@ -20,7 +20,7 @@
 
 <p>당신은 모든 칸이 흰색인 3x3 보드를 입력으로 주어지는 보드의 형태로 바꾸려고 한다. 보드를 회전시킬수는 없다.</p>
 
-<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/10472.%E2%80%85%EC%8B%AD%EC%9E%90%EB%92%A4%EC%A7%91%EA%B8%B0/3b700e44.png" data-original-src="https://www.acmicpc.net/upload/images2/flip.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:183px; width:339px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/10472.%E2%80%85%EC%8B%AD%EC%9E%90%EB%92%A4%EC%A7%91%EA%B8%B0/3b700e44.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/10472.%E2%80%85%EC%8B%AD%EC%9E%90%EB%92%A4%EC%A7%91%EA%B8%B0/3b700e44.png" data-original-src="https://www.acmicpc.net/upload/images2/flip.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:183px; width:339px" /></p>
 
 <p style="text-align:center">Figure D.1: 예제 입력</p>
 

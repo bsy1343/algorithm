@@ -18,7 +18,7 @@
 
 <p>On her spare time Caitlin loves to do speed typing. Unfortunately Caitlyn was never good at spelling. So what often happens is that Catelin makes a mistake spelling a word, and has to go back and fix her typo. One word in particular that Caitlynn has a hard time spelling is the word <code>mischievous</code>. Catelyn usually spells it <code>mischevious</code> instead. In order to fix this typo, Caytlin needs to do 12 key presses.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/25276.%E2%80%85Sperhling/b4bad532.png" data-original-src="https://upload.acmicpc.net/fcd02930-a3b3-492a-97f3-232ea78710b8/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 150px; height: 270px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/25276.%E2%80%85Sperhling/b4bad532.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/25276.%E2%80%85Sperhling/b4bad532.png" data-original-src="https://upload.acmicpc.net/fcd02930-a3b3-492a-97f3-232ea78710b8/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 150px; height: 270px;" /></p>
 
 <p>Katelin thinks that no matter how much time she puts into speed typing, she will always make mistakes. But maybe she can get better at quickly fixing her mistakes. Katelyn would like you to help her with this.</p>
 

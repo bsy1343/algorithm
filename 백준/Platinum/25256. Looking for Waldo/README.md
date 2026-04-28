@@ -18,7 +18,7 @@
 
 <p>You may know the game <em>Where is Waldo?</em>. In this game you need to find a person named Waldo in a crowd of people. This problem is kind of similar. You need to find an axis-aligned rectangle of minimal area which contains the letters <code>W</code>, <code>A</code>, <code>L</code>, <code>D</code> and <code>O</code> and those letters are hidden in a crowd of other letters.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/25256.%E2%80%85Looking%E2%80%85for%E2%80%85Waldo/8325a4ba.png" data-original-src="https://upload.acmicpc.net/cda0c4ea-ff65-4db6-bddb-6b83beb5fe11/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 232px; height: 119px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/25256.%E2%80%85Looking%E2%80%85for%E2%80%85Waldo/8325a4ba.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/25256.%E2%80%85Looking%E2%80%85for%E2%80%85Waldo/8325a4ba.png" data-original-src="https://upload.acmicpc.net/cda0c4ea-ff65-4db6-bddb-6b83beb5fe11/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 232px; height: 119px;" /></p>
 
 <p style="text-align: center;">Figure L.1: Illustration of the second sample case.</p>
 

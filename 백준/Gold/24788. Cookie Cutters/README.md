@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/24788.%E2%80%85Cookie%E2%80%85Cutters/4db2db41.png" data-original-src="https://upload.acmicpc.net/2875eb51-275a-4ebe-9109-33e7568c24d8/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 150px; height: 200px; float: right;" />Theta likes to bake cookies for the upcoming holidays. &nbsp;She has a selection of cookie cutters of different shapes and sizes. &nbsp;She thinks it&#39;s unfair that some shapes are larger than others - because even if everyone gets the same number of cookies, some will end up with more dough!</p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/24788.%E2%80%85Cookie%E2%80%85Cutters/4db2db41.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/24788.%E2%80%85Cookie%E2%80%85Cutters/4db2db41.png" data-original-src="https://upload.acmicpc.net/2875eb51-275a-4ebe-9109-33e7568c24d8/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 150px; height: 200px; float: right;" />Theta likes to bake cookies for the upcoming holidays. &nbsp;She has a selection of cookie cutters of different shapes and sizes. &nbsp;She thinks it&#39;s unfair that some shapes are larger than others - because even if everyone gets the same number of cookies, some will end up with more dough!</p>
 
 <p>She comes up with a plan to enlarge (or shrink) the cookie cutters&#39; shapes --- while retaining their proportions --- so that all cookies will have the same weight. &nbsp;</p>
 

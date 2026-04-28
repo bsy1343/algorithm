@@ -30,7 +30,7 @@
 <p>&nbsp;&nbsp; &nbsp;abcd abdc acbd adbc adcb bacd badc cabd cbad dabc dacb dbac dcab dcba</p>
 
 <p>The string badc is the (7,4)-code and it corresponds to the BST printed below:<br />
-<img alt="" src="%EB%B0%B1%EC%A4%80/Gold/8048.%E2%80%85Code/42e3e0e6.gif" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/8048/1.gif" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:133px; width:160px" /></p>
+<img alt="" src="%EB%B0%B1%EC%A4%80/Gold/8048.%E2%80%85Code/42e3e0e6.gif" data-original-src="%EB%B0%B1%EC%A4%80/Gold/8048.%E2%80%85Code/42e3e0e6.gif" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/8048/1.gif" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:133px; width:160px" /></p>
 
 <p>
 Write a program which:</p>

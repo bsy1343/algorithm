@@ -22,7 +22,7 @@
 
 <p>눈앞이 캄캄해진 양파는 최악의 경우 자신이 서로 다른 텐트를 몇개나 만들어봐야 되는지 계산하기 시작했다. 불쌍한 양파를 위해 서로 다른 텐트의 개수라도 당신이 세어주자. 텐트의 바닥을 구성하는 말뚝의 집합이 같으면 같은 텐트이다.</p>
 
-<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/14743.%E2%80%85Labor/a036aec4.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14743/2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:184px; width:377px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/14743.%E2%80%85Labor/a036aec4.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/14743.%E2%80%85Labor/a036aec4.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14743/2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:184px; width:377px" /></p>
 
 <p>위의 그림은 간단한 예시를 나타낸다. 위쪽의 두 그림은 조건을 만족하지 않고, 아래쪽의 두 그림은 조건을 만족한다.</p>
 

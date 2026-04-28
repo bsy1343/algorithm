@@ -22,7 +22,7 @@
 
 <p>두 DNA 서열이 얼마나 비슷한가를 측정하기 위하여 사용하는 방법 중에 하나는 최장 공통 K-부분서열을 찾는 것이다. (놀랍게도 인간과 쥐의 DNA 서열은 90%이상이 동일하다고 한다.) 두 DNA 서열의 최장 공통 K-부분서열이란 두 서열에서 모두 얻을 수 있는 동일한 K-부분서열 중, 가장 길이가 긴 부 분서열을 말한다. 최장 공통 K-부분서열은 여러 개 있을 수 있다.</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/2625.%E2%80%85DNA%EC%9C%A0%EC%82%AC%EB%8F%84/eeaf94e0.jpg" data-original-src="https://www.acmicpc.net/upload/images/CJQoCt2UZkQReCNB.jpg" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 166px; height: 108px; " /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/2625.%E2%80%85DNA%EC%9C%A0%EC%82%AC%EB%8F%84/eeaf94e0.jpg" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/2625.%E2%80%85DNA%EC%9C%A0%EC%82%AC%EB%8F%84/eeaf94e0.jpg" data-original-src="https://www.acmicpc.net/upload/images/CJQoCt2UZkQReCNB.jpg" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 166px; height: 108px; " /></p>
 
 <p>예를 들어서, 위 그림과 같이 두 DNA 서열 AGTCAC와 GATGAGAC가 주어진 경우, AGAC는 최장 공통 2-부분서열은 되지만, 1-부분서열은 될 수 없다. 왜냐하면 DNA 서열 AGTCAC에서 2번째 문자인 G와 5번째 문자인 A사이에 두 개의 문자 &#39;TC&#39;가 있기 때문이다. GTAC도 최장 공통 2-부분서열이다. 최장 공통 1-부분서열은 AGC, GTA, ATA 세 개가 된다. 이 세 개를 사전식(dictionary) 순서로 나열하면 AGC, ATA, GTA가 된다.</p>
 

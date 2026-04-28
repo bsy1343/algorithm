@@ -18,7 +18,7 @@
 
 <p>We want to have a great SWERC at Porto this year and we approached this challenge in several ways. We even framed it as a word addition problem, similar to the classic SEND+MORE=MONEY, where each letter stands for a single digit (0, 1, 2, ..., 8, 9) that makes the arithmetic operation correct. In word additions different letters cannot be assigned the same digit and the leftmost letter in a word cannot be zero (0). In particular, a single letter term cannot be zero.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/10529.%E2%80%85GREAT%E2%80%85%2B%E2%80%85SWERC%E2%80%85%3D%E2%80%85PORTO/6634f02c.png" data-original-src="https://www.acmicpc.net/upload/images2/greatswerc.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:187px; width:245px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/10529.%E2%80%85GREAT%E2%80%85%2B%E2%80%85SWERC%E2%80%85%3D%E2%80%85PORTO/6634f02c.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/10529.%E2%80%85GREAT%E2%80%85%2B%E2%80%85SWERC%E2%80%85%3D%E2%80%85PORTO/6634f02c.png" data-original-src="https://www.acmicpc.net/upload/images2/greatswerc.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:187px; width:245px" /></p>
 
 <p>To solve this word addition problem we had to find positive digits for G, S and P, and digits for R, E, A, T, W, C, O, so that each letter has a different digit and the sum is correct. It turns out that, unlike the classical SEND+MORE=MONEY which has a single solution, GREAT+SWERC=PORTO has six solutions.</p>
 

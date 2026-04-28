@@ -22,7 +22,7 @@
 
 <p>In this task, we will represent the table in the coordinate system with a square that has opposite points in the coordinates (0,0) and (10 000, 10 000), whereas the sticks will be represented with straight line segments that lie within that square. We will assume that Arthur is sitting at the edge of the table lying on the x-axis. Then the movement of the stick comes down to translating the line segment along the shortest path towards the x-axis until the stick falls off the table (as shown in the image). It is your task to help Arthur determine the order of stick movements that meets the requirements from the previous paragraph.</p>
 
-<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/11589.%E2%80%85ARTUR/2fd93974.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11589/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:336px; width:463px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/11589.%E2%80%85ARTUR/2fd93974.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/11589.%E2%80%85ARTUR/2fd93974.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11589/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:336px; width:463px" /></p>
 
 <p><sup>1</sup>A game that involves carefully moving sticks.</p>
 

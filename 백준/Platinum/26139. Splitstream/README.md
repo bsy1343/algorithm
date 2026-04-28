@@ -23,7 +23,7 @@
 	<li>A <em>merge</em> node takes two sequences of numbers as input and merges them alternatingly to form its single output. The output contains the first number from input 1, then the first from input 2, then the second from input 1, then the second from input 2, and so on. If one of the input sequences is shorter than the other, then the remaining numbers from the longer sequence are simply transmitted without being merged after the shorter sequence has been exhausted.</li>
 </ul>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/26139.%E2%80%85Splitstream/7de44557.png" data-original-src="https://upload.acmicpc.net/69c96e85-8bac-45ff-a73b-b91b39361f9a/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 384px; height: 163px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/26139.%E2%80%85Splitstream/7de44557.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/26139.%E2%80%85Splitstream/7de44557.png" data-original-src="https://upload.acmicpc.net/69c96e85-8bac-45ff-a73b-b91b39361f9a/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 384px; height: 163px;" /></p>
 
 <p style="text-align: center;">Figure J.1: Illustration of how split and merge nodes work.</p>
 

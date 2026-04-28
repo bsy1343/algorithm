@@ -22,7 +22,7 @@
 
 <p>산은 $N$개의 봉우리가 균등한 간격으로&nbsp;일렬로 서있으며, $i$번째 봉우리의 높이는 $h_i$ ($1 \le h_i \le 1\,000\,000\,000$) 로 각 봉우리의 높이는 모두 다르다. 국렬이는 운동하기 위해서 가장 높은 봉우리로 갈 것이다. 그러나 국렬이는 각 봉우리의 높이가 어느 정도인지 모르기 때문에 봉우리의 높이를 측정하기 위해서&nbsp;집에서 탐지기 $N$개와 배터리&nbsp;$2N-1$개를&nbsp;가져왔다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/22958.%E2%80%85%EC%95%88%EC%82%B0%E2%80%85%ED%83%90%EC%A7%80%EA%B8%B0/13e6f6ef.png" data-original-src="https://upload.acmicpc.net/569021fc-fbab-4047-9f82-e82b817fdf08/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 363px; width: 800px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/22958.%E2%80%85%EC%95%88%EC%82%B0%E2%80%85%ED%83%90%EC%A7%80%EA%B8%B0/13e6f6ef.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/22958.%E2%80%85%EC%95%88%EC%82%B0%E2%80%85%ED%83%90%EC%A7%80%EA%B8%B0/13e6f6ef.png" data-original-src="https://upload.acmicpc.net/569021fc-fbab-4047-9f82-e82b817fdf08/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 363px; width: 800px;" /></p>
 
 <p>탐지기를 사용하기 위해서는 우선 첫 번째로 탐지하는&nbsp;봉우리를 지정한다. 그리고&nbsp;$i$번째 탐지기로 배터리 $j$개를 사용하면&nbsp;지정한 봉우리부터 시작해서 $i$칸 간격으로 연속된 봉우리 $j$개를&nbsp;확인할 수 있다. 예를 들어서 첫 번째로 탐지할 봉우리로 2번째 봉우리를 지정한 후에&nbsp;3번째 탐지기로 배터리를 3개를 사용하면 그림과 같이 2번째, 5번째, 8번째 봉우리를 탐지할 수 있다. 이렇게 해서 탐지한 산들 중&nbsp;최대 높이가&nbsp;탐지기의 결과 값으로 나온다.</p>
 

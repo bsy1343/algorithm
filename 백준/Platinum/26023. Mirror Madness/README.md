@@ -22,7 +22,7 @@
 
 <p>The laser beam starts at some boundary point of the polygon at an angle of $45$ degrees to the wall. Whenever it hits a mirror, it bounces off in a $90$ degree angle. To get their monitoring system to work, the operators are planning to install sensors at each of the first $m$ bouncing points of the laser beam. Find the locations where the sensors need to be installed.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/26023.%E2%80%85Mirror%E2%80%85Madness/b6faceab.png" data-original-src="https://upload.acmicpc.net/a5594eb7-f7c6-436a-9bcd-f91a2e7dc87c/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 400px; height: 338px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/26023.%E2%80%85Mirror%E2%80%85Madness/b6faceab.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/26023.%E2%80%85Mirror%E2%80%85Madness/b6faceab.png" data-original-src="https://upload.acmicpc.net/a5594eb7-f7c6-436a-9bcd-f91a2e7dc87c/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 400px; height: 338px;" /></p>
 
 <p style="text-align: center;">Figure M.1: Illustration of the second sample case.</p>
 

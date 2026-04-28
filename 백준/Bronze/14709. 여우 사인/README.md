@@ -18,7 +18,7 @@
 
 <p>도주는 동물을 좋아한다. 그중에서도 여우를 정말 좋아한다! 어느 날, 힐링을 위해 여우 사진을 검색하던 도주는 &ldquo;여우 사인&rdquo;이라는 손 모양을 발견했다.</p>
 
-<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/14709.%E2%80%85%EC%97%AC%EC%9A%B0%E2%80%85%EC%82%AC%EC%9D%B8/fcad780c.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14709/fox-sign.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:180px; width:298px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/14709.%E2%80%85%EC%97%AC%EC%9A%B0%E2%80%85%EC%82%AC%EC%9D%B8/fcad780c.png" data-original-src="%EB%B0%B1%EC%A4%80/Bronze/14709.%E2%80%85%EC%97%AC%EC%9A%B0%E2%80%85%EC%82%AC%EC%9D%B8/fcad780c.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14709/fox-sign.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:180px; width:298px" /></p>
 
 <p>여우 사인은 엄지손가락, 중지, 약지 세 손가락을 서로 끝이 맞닿도록 모으고, 검지와 새끼손가락은 다른 손가락과 닿지 않도록 곧게 펴서 여우의 얼굴과 두 귀를 표현한 손 모양이다.</p>
 

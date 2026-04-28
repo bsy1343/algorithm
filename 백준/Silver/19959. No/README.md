@@ -24,7 +24,7 @@
 
 <p>Также некоторые достаточно яркие звезды могут присутствовать на снимке в виде отдельных белых точек. Таких точек не больше $25$. Объектов, отличных от Луны и звезд, на снимке не изображено.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/19959.%E2%80%85No/f9a156f4.png" data-original-src="https://upload.acmicpc.net/02dd50e8-4657-4411-baa0-c792d27c8628/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 280px; height: 321px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/19959.%E2%80%85No/f9a156f4.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/19959.%E2%80%85No/f9a156f4.png" data-original-src="https://upload.acmicpc.net/02dd50e8-4657-4411-baa0-c792d27c8628/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 280px; height: 321px;" /></p>
 
 <p>Напишите программу, которая по изображению найдет наибольший возможный радиус круга, который соответствует Луне, а также ее возможное положение.</p>
 

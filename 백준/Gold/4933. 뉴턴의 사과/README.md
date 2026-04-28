@@ -30,7 +30,7 @@
 	예를 들어, 아래 왼쪽 3개 트리는 서로 동등하다. 하지만, 가장 오른쪽 트리와는 동등하지 않다.</p>
 
 <p>
-	<img alt="" src="%EB%B0%B1%EC%A4%80/Gold/4933.%E2%80%85%EB%89%B4%ED%84%B4%EC%9D%98%E2%80%85%EC%82%AC%EA%B3%BC/e82e9a58.png" data-original-src="https://www.acmicpc.net/upload/images/tree(1).png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 467px; height: 154px;" /></p>
+	<img alt="" src="%EB%B0%B1%EC%A4%80/Gold/4933.%E2%80%85%EB%89%B4%ED%84%B4%EC%9D%98%E2%80%85%EC%82%AC%EA%B3%BC/e82e9a58.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/4933.%E2%80%85%EB%89%B4%ED%84%B4%EC%9D%98%E2%80%85%EC%82%AC%EA%B3%BC/e82e9a58.png" data-original-src="https://www.acmicpc.net/upload/images/tree(1).png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 467px; height: 154px;" /></p>
 
 <p>
 	두 바이너리 트리가 주어졌을 때, 동등한지 아닌지 구하는 프로그램을 작성하시오.</p>

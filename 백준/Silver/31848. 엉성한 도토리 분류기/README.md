@@ -20,7 +20,7 @@
 
 <p>분류기는 $N$개의 구멍이 뚫린 기울어진 판자이다. 분류기의 구멍은 높은 쪽부터 차례로 $1$번부터 $N$번까지 번호가 매겨져 있다. $i$번 구멍의 크기는 $a_i$이다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/31848.%E2%80%85%EC%97%89%EC%84%B1%ED%95%9C%E2%80%85%EB%8F%84%ED%86%A0%EB%A6%AC%E2%80%85%EB%B6%84%EB%A5%98%EA%B8%B0/cf453759.png" data-original-src="https://upload.acmicpc.net/6df2db00-c945-4b9e-a7fc-5d7b046351b8/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 400px; height: 292px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/31848.%E2%80%85%EC%97%89%EC%84%B1%ED%95%9C%E2%80%85%EB%8F%84%ED%86%A0%EB%A6%AC%E2%80%85%EB%B6%84%EB%A5%98%EA%B8%B0/cf453759.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/31848.%E2%80%85%EC%97%89%EC%84%B1%ED%95%9C%E2%80%85%EB%8F%84%ED%86%A0%EB%A6%AC%E2%80%85%EB%B6%84%EB%A5%98%EA%B8%B0/cf453759.png" data-original-src="https://upload.acmicpc.net/6df2db00-c945-4b9e-a7fc-5d7b046351b8/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 400px; height: 292px;" /></p>
 
 <p>분류기에 도토리를 넣으면 $1$번 구멍부터 $N$번 구멍까지 굴러간다. 분류기의 표면은 거칠기 때문에 도토리가 하나의 구멍을 지나고 나면 크기가 $1$씩 줄어든다. 예를 들어 $1$번 구멍을 지날 때 도토리의 크기가 $10$이었다면, $1$번 구멍을 지나고 나서 $2$번 구멍을 지날 때는 크기가 $1$ 줄어 $9$가 된다. 마찬가지로 도토리가 $2$번 구멍을 지났다면 $3$번 구멍을 지날 때 크기가 $1$ 줄어 $8$이 된다.</p>
 

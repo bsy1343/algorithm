@@ -26,7 +26,7 @@
 
 <p>아래 그림은 물체를 쓰레기 슈트에 들어갈 수 있게 회전시킨 다음 버리는 그림이다.</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/4225.%E2%80%85%EC%93%B0%EB%A0%88%EA%B8%B0%E2%80%85%EC%8A%88%ED%8A%B8/a774605d.png" data-original-src="https://www.acmicpc.net/upload/images/chute.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:303px; width:387px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/4225.%E2%80%85%EC%93%B0%EB%A0%88%EA%B8%B0%E2%80%85%EC%8A%88%ED%8A%B8/a774605d.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/4225.%E2%80%85%EC%93%B0%EB%A0%88%EA%B8%B0%E2%80%85%EC%8A%88%ED%8A%B8/a774605d.png" data-original-src="https://www.acmicpc.net/upload/images/chute.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:303px; width:387px" /></p>
 
 <p>어떤 물체가 주어진다. 이 물체가 통과할 수 있는 가장 작은 슈트의 너비를 구하는 프로그램을 작성하시오.</p>
 

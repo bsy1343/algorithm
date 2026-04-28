@@ -24,13 +24,13 @@
 
 <p>재료들은 모두 크기를 무시할 정도로 작다. 프라이팬에 열을 가하면 재료들은 충돌하는 순간을 제외하고 일정한 속력과 일정한 방향, 즉 일정한 속도로 운동한다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/27990.%E2%80%85%EA%B0%80%EC%A7%80%E2%80%85%EB%B3%B6%EC%9D%8C%E2%80%85(Easy)/e47e3241.png" data-original-src="https://upload.acmicpc.net/17336364-d9f3-489a-b3a7-2ce7eaaaef8a/-" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="max-width: min(100%,671px); height: auto;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/27990.%E2%80%85%EA%B0%80%EC%A7%80%E2%80%85%EB%B3%B6%EC%9D%8C%E2%80%85(Easy)/e47e3241.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/27990.%E2%80%85%EA%B0%80%EC%A7%80%E2%80%85%EB%B3%B6%EC%9D%8C%E2%80%85(Easy)/e47e3241.png" data-original-src="https://upload.acmicpc.net/17336364-d9f3-489a-b3a7-2ce7eaaaef8a/-" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="max-width: min(100%,671px); height: auto;" /></p>
 
 <p style="text-align: center;"><small>왼쪽부터 두 재료가 충돌하기 전, 충돌하는 순간, 충돌한 후의 모습</small></p>
 
 <p>서로 다른 두 재료 $a$와 $b$의 $x$좌표와 $y$좌표가 모두 일치하면 충돌한다. 이때 $a$는 $b$가 운동하던 속도로 운동하고 $b$는 $a$가 운동하던 속도로 운동한다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/27990.%E2%80%85%EA%B0%80%EC%A7%80%E2%80%85%EB%B3%B6%EC%9D%8C%E2%80%85(Easy)/9a280c14.png" data-original-src="https://upload.acmicpc.net/cc0aee16-f76a-457b-a095-7a5adeb29e4d/-" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="max-width: min(100%,483px); height: auto;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/27990.%E2%80%85%EA%B0%80%EC%A7%80%E2%80%85%EB%B3%B6%EC%9D%8C%E2%80%85(Easy)/9a280c14.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/27990.%E2%80%85%EA%B0%80%EC%A7%80%E2%80%85%EB%B3%B6%EC%9D%8C%E2%80%85(Easy)/9a280c14.png" data-original-src="https://upload.acmicpc.net/cc0aee16-f76a-457b-a095-7a5adeb29e4d/-" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="max-width: min(100%,483px); height: auto;" /></p>
 
 <p style="text-align: center;"><small>왼쪽은 재료가 $y = N$인 벽면과 충돌할 때의 궤적, 오른쪽은 $x = N$인 벽면과 충돌할 때의 궤적</small></p>
 

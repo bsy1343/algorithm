@@ -18,7 +18,7 @@
 
 <p>Birds are stupendous animals. Many species of them perform different rituals throughout their life; from courtship dances of peacocks to moonwalking of red-capped manakins. Among all, we are studying the <em>permutation dance</em> in this problem. This ritual is performed by a group of birds sitting in a row on a wire or tree branch, as shown in the figure.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/20680.%E2%80%85Birds%E2%80%85Rituals/55fb1933.png" data-original-src="https://upload.acmicpc.net/e782a016-6a5e-4f73-8e72-e0004ac9d291/-/crop/636x347/22,21/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 318px; height: 174px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/20680.%E2%80%85Birds%E2%80%85Rituals/55fb1933.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/20680.%E2%80%85Birds%E2%80%85Rituals/55fb1933.png" data-original-src="https://upload.acmicpc.net/e782a016-6a5e-4f73-8e72-e0004ac9d291/-/crop/636x347/22,21/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 318px; height: 174px;" /></p>
 
 <p>The ritual can be simplified to a performance based on a sequence of actions of these types:</p>
 

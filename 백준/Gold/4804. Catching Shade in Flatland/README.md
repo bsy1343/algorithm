@@ -22,7 +22,7 @@
 
 <p>There are several trees in the park that can provide shade for Alex. Trees are modeled as solid circles with integer coordinates and radii. The &#39;shade value&#39; at any particular time is defined as the sum of the lengths of the chords created by the intersections of a ray of sunlight with trees. (The sum of the lengths of the chords is a measure of how much &#39;leaves and branches&#39; the ray of light would have to pass through.) This is illustrated in the diagram, in which trees are solid circles but only the boundaries are drawn to show the chords.</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/4804.%E2%80%85Catching%E2%80%85Shade%E2%80%85in%E2%80%85Flatland/765bf953.png" data-original-src="https://www.acmicpc.net/upload/images2/shade.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:381px; width:605px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/4804.%E2%80%85Catching%E2%80%85Shade%E2%80%85in%E2%80%85Flatland/765bf953.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/4804.%E2%80%85Catching%E2%80%85Shade%E2%80%85in%E2%80%85Flatland/765bf953.png" data-original-src="https://www.acmicpc.net/upload/images2/shade.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:381px; width:605px" /></p>
 
 <p>We compute the shade value every minute, on the minute over a 24-hour period, starting at midnight: at 00:00, 00:01, ..., 23:59. We would like to determine the maximum of these shade values.</p>
 

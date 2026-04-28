@@ -22,7 +22,7 @@
 
 <p>지도는 xy평면으로 나타낼 수 있고, 선영이의 집은 (0,0), 상근이의 집은 (100 000, 0)에 있다. 등고선은 다각형으로 나타낼 수 있으며, 다각형이 자기 자신이 교차하거나, 다른 다각형과 교차하는 경우는 없다. 또, 선영이와 상근이가 등고선 위에 살고있는 경우는 없다.</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/3700.%E2%80%85%EA%B1%B7%EA%B8%B0/5ef25c27.png" data-original-src="https://www.acmicpc.net/upload/images/walk(2).png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:180px; line-height:1.6em; opacity:0.9; width:345px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/3700.%E2%80%85%EA%B1%B7%EA%B8%B0/5ef25c27.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/3700.%E2%80%85%EA%B1%B7%EA%B8%B0/5ef25c27.png" data-original-src="https://www.acmicpc.net/upload/images/walk(2).png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:180px; line-height:1.6em; opacity:0.9; width:345px" /></p>
 
 <p>위의 그림은 두 번째 예제를 압축해서 그림으로 나타낸 것이다.</p>
 

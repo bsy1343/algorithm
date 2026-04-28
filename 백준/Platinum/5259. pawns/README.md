@@ -58,4 +58,4 @@
 
 <p>In the example above the initial configuration and the configuration after each move are illustrated as follows:</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/5259.%E2%80%85pawns/fb9bbece.png" data-original-src="https://upload.acmicpc.net/88c4c6bc-aafd-45b5-9da7-19d033e6aaa9/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 245px; height: 241px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/5259.%E2%80%85pawns/fb9bbece.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/5259.%E2%80%85pawns/fb9bbece.png" data-original-src="https://upload.acmicpc.net/88c4c6bc-aafd-45b5-9da7-19d033e6aaa9/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 245px; height: 241px;" /></p>

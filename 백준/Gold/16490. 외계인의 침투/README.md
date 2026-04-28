@@ -38,6 +38,6 @@
 
 <p>아래의 그림은 문제의 상황을 나타낸 것이다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/16490.%E2%80%85%EC%99%B8%EA%B3%84%EC%9D%B8%EC%9D%98%E2%80%85%EC%B9%A8%ED%88%AC/3bcfff41.png" data-original-src="https://upload.acmicpc.net/dd5e4724-b87e-42a1-8102-b4c4c5c4be5d/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 265px; width: 220px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/16490.%E2%80%85%EC%99%B8%EA%B3%84%EC%9D%B8%EC%9D%98%E2%80%85%EC%B9%A8%ED%88%AC/3bcfff41.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/16490.%E2%80%85%EC%99%B8%EA%B3%84%EC%9D%B8%EC%9D%98%E2%80%85%EC%B9%A8%ED%88%AC/3bcfff41.png" data-original-src="https://upload.acmicpc.net/dd5e4724-b87e-42a1-8102-b4c4c5c4be5d/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 265px; width: 220px;" /></p>
 
 <p>단, 위의 그림에서 B와 C의 위치는 서로 바뀔 수 있으며, P와 D의 위치는 <em>a</em>와 <em>t</em>의 값으로 바뀐다.</p>

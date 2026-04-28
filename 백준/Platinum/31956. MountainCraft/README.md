@@ -22,7 +22,7 @@
 
 <p>Your avatar can only see the parts of the mountains which are in a viewport. The visible edges of the mountains, where they do not overlap other mountains, are rendered in bold. If mountains overlap, the overlapping parts are not rendered in bold. Edges do not have to intersect for mountains to overlap.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/31956.%E2%80%85MountainCraft/9e4a8833.png" data-original-src="https://upload.acmicpc.net/4fd64ae7-71de-4a85-9609-6fd4e0350aee/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 400px; height: 300px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/31956.%E2%80%85MountainCraft/9e4a8833.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/31956.%E2%80%85MountainCraft/9e4a8833.png" data-original-src="https://upload.acmicpc.net/4fd64ae7-71de-4a85-9609-6fd4e0350aee/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 400px; height: 300px;" /></p>
 
 <p style="text-align: center;">Figure H.1: The first sample input after all mountains appear.</p>
 

@@ -18,17 +18,17 @@
 
 <p>Oobleck is a fascinating magical substance --- leave it in sunlight and it grows in an ever-expanding circle. &nbsp;If two circles ever manage to touch each other, both circles magically merge into one combined circle with area equal to the total of the combined areas of both circles and center at the midpoint of the centers of the two intersecting circles. &nbsp;The expansion rate of this new circle is the maximum rate of both colliding circles. &nbsp;An example of this is shown in Figures F.1 and F.2.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/24560.%E2%80%85Growing%E2%80%85Some%E2%80%85Oobleck/73845d09.png" data-original-src="https://upload.acmicpc.net/2aa735fc-b120-4161-b875-788478e95b19/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 169px; height: 105px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/24560.%E2%80%85Growing%E2%80%85Some%E2%80%85Oobleck/73845d09.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/24560.%E2%80%85Growing%E2%80%85Some%E2%80%85Oobleck/73845d09.png" data-original-src="https://upload.acmicpc.net/2aa735fc-b120-4161-b875-788478e95b19/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 169px; height: 105px;" /></p>
 
 <p style="text-align: center;">Figure F.1:&nbsp;Circle A has center $(10,10)$, radius $6$ and area $36\pi$; circle B has center $(24,10)$, radius $8$ and area $64\pi$.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/24560.%E2%80%85Growing%E2%80%85Some%E2%80%85Oobleck/ef47255a.png" data-original-src="https://upload.acmicpc.net/90315679-6b2d-4d5e-9ee8-72a036680575/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 167px; height: 112px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/24560.%E2%80%85Growing%E2%80%85Some%E2%80%85Oobleck/ef47255a.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/24560.%E2%80%85Growing%E2%80%85Some%E2%80%85Oobleck/ef47255a.png" data-original-src="https://upload.acmicpc.net/90315679-6b2d-4d5e-9ee8-72a036680575/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 167px; height: 112px;" /></p>
 
 <p style="text-align: center;">Figure F.2: After they merge, they are replaced by circle C with center $(17,10)$, radius $10$ and area $100\pi$.</p>
 
 <p>After a new circle is created it may intersect other existing circles, causing a chain reaction of merges. &nbsp;This combination of an intersection followed by one or more merges is technically known as an <em>ooblection</em>. &nbsp;Ooblections occur instantaneously at the moment of the initial intersection even though they may contain a cascade of merges. &nbsp;If three or more circles are involved in a merge &nbsp;the resulting circle has its center at the average of the centers of all of the circles involved and the resulting area is the sum of all the areas of the circles involved. &nbsp;The expansion rate of the final circle after an ooblection is the maximum rate of any circle involved.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/24560.%E2%80%85Growing%E2%80%85Some%E2%80%85Oobleck/e641b0bb.png" data-original-src="https://upload.acmicpc.net/0ce93904-4a00-4f55-8e16-6e60c01448bd/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 462px; height: 147px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/24560.%E2%80%85Growing%E2%80%85Some%E2%80%85Oobleck/e641b0bb.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/24560.%E2%80%85Growing%E2%80%85Some%E2%80%85Oobleck/e641b0bb.png" data-original-src="https://upload.acmicpc.net/0ce93904-4a00-4f55-8e16-6e60c01448bd/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 462px; height: 147px;" /></p>
 
 <p style="text-align: center;">Figure F.3: A five-circle ooblection.</p>
 

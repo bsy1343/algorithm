@@ -40,4 +40,4 @@
 
 <p>A view from the top of an empty pool and of a filled pool given in the pictures below.&nbsp;</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/7161.%E2%80%85Swimming%E2%80%85pool/01220a6f.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/7161/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:200px; width:575px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/7161.%E2%80%85Swimming%E2%80%85pool/01220a6f.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/7161.%E2%80%85Swimming%E2%80%85pool/01220a6f.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/7161/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:200px; width:575px" /></p>

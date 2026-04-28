@@ -40,6 +40,6 @@
 
 ### 힌트
 
-<p style="margin-top: 15px; margin-bottom: 15px;"><img alt="alt text" src="%EB%B0%B1%EC%A4%80/Gold/17453.%E2%80%85%EB%91%90%E2%80%85%EA%B0%9C%EC%9D%98%E2%80%85%EB%AC%B8/ef24ca6f.png" data-original-src="https://upload.acmicpc.net/b280e6f2-6602-4963-942c-91a18fd2358b/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="display: block; margin-left: auto; margin-right: auto; width: 100%; max-width: 400px;" /></p>
+<p style="margin-top: 15px; margin-bottom: 15px;"><img alt="alt text" src="%EB%B0%B1%EC%A4%80/Gold/17453.%E2%80%85%EB%91%90%E2%80%85%EA%B0%9C%EC%9D%98%E2%80%85%EB%AC%B8/ef24ca6f.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/17453.%E2%80%85%EB%91%90%E2%80%85%EA%B0%9C%EC%9D%98%E2%80%85%EB%AC%B8/ef24ca6f.png" data-original-src="https://upload.acmicpc.net/b280e6f2-6602-4963-942c-91a18fd2358b/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="display: block; margin-left: auto; margin-right: auto; width: 100%; max-width: 400px;" /></p>
 
 <p>빨간색을 문이 앞면을 보고 있는 상태, 파란색을 뒷면을 보고 있는 상태라 했을 때, 예제의 초기 상태는 위쪽 통로와 같습니다. 이 상태로 통로를 통과하면 (-3)년 미래, 즉 3년 과거로 가게 됩니다. 여기서 2번 스위치를 누르면 아래 통로와 같게 됩니다. 이 상태로 통로를 통과하면 1년 미래로 가게 됩니다.</p>

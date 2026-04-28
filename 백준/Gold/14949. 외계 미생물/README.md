@@ -40,4 +40,4 @@
 
 <p>예제 입력2 의 경우에는 아래와 같은 예시가 있다.</p>
 
-<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/14949.%E2%80%85%EC%99%B8%EA%B3%84%E2%80%85%EB%AF%B8%EC%83%9D%EB%AC%BC/73e9f2b0.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14949/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:116px; width:414px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/14949.%E2%80%85%EC%99%B8%EA%B3%84%E2%80%85%EB%AF%B8%EC%83%9D%EB%AC%BC/73e9f2b0.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/14949.%E2%80%85%EC%99%B8%EA%B3%84%E2%80%85%EB%AF%B8%EC%83%9D%EB%AC%BC/73e9f2b0.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14949/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:116px; width:414px" /></p>

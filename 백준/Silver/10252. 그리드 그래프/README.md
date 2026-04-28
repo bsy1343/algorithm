@@ -20,7 +20,7 @@
 
 <p>m &times; n 직사각 그리드의 모든 행 i &isin; {0, &hellip; , m-1}에 대하여 두 정점 (i, 0)과 (i, n-1)을 잇는 에지를 추가하고, 또한 모든 열 j &isin; {0, &hellip; , n-1} 에 대하여 두 정점 (0, j) 와 (m-1, j) 을 잇는 에지를 추가하면, 그림 2 에 보인 것과 같이 각 행은 길이 n인 사이클을 이루고 각 열은 길이 m인 사이클을 이루게 된다. 이렇게 만들어진 그래프를 종종 m &times; n 토로이드 그리드(toroidal grid) 라고 부르는데, 왜냐하면 이 그래프를 토러스(torus)에 에지가 교차하지 않도록 그릴 수 있기 때문이다.</p>
 
-<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/10252.%E2%80%85%EA%B7%B8%EB%A6%AC%EB%93%9C%E2%80%85%EA%B7%B8%EB%9E%98%ED%94%84/5d23cf34.png" data-original-src="https://www.acmicpc.net/upload/images2/gg1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:243px; width:643px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/10252.%E2%80%85%EA%B7%B8%EB%A6%AC%EB%93%9C%E2%80%85%EA%B7%B8%EB%9E%98%ED%94%84/5d23cf34.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/10252.%E2%80%85%EA%B7%B8%EB%A6%AC%EB%93%9C%E2%80%85%EA%B7%B8%EB%9E%98%ED%94%84/5d23cf34.png" data-original-src="https://www.acmicpc.net/upload/images2/gg1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:243px; width:643px" /></p>
 
 <p>주어진 m &times; n 토로이드 그리드에 대하여, 모든 정점을 정확히 한번씩 지나는 사이클을 찾는 프로그램을 작성하시오. 문제에서 요구하는 사이클은 그래프에 있는 서로 다른 mn개 정점들의 열 (v<sub>1</sub>, v<sub>2</sub>, &hellip; , v<sub>mn</sub>)로 나타낼 수 있는데, 이때 모든 k &isin; {1, &hellip; , mn-1}에 대하여 v<sub>k</sub>와 v<sub>k+1</sub>은 인접하며 또한 v<sub>mn</sub>과 v<sub>1</sub>도 인접하여야 한다.</p>
 

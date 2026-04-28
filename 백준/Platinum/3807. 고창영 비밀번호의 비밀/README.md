@@ -20,7 +20,7 @@
 	창영이는 비밀번호를 만드는 함수가 있다.</p>
 
 <p>
-	<img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/3807.%E2%80%85%EA%B3%A0%EC%B0%BD%EC%98%81%E2%80%85%EB%B9%84%EB%B0%80%EB%B2%88%ED%98%B8%EC%9D%98%E2%80%85%EB%B9%84%EB%B0%80/cfe48d2f.png" data-original-src="https://www.acmicpc.net/upload/images/daum_equation_1357760328214.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+	<img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/3807.%E2%80%85%EA%B3%A0%EC%B0%BD%EC%98%81%E2%80%85%EB%B9%84%EB%B0%80%EB%B2%88%ED%98%B8%EC%9D%98%E2%80%85%EB%B9%84%EB%B0%80/cfe48d2f.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/3807.%E2%80%85%EA%B3%A0%EC%B0%BD%EC%98%81%E2%80%85%EB%B9%84%EB%B0%80%EB%B2%88%ED%98%B8%EC%9D%98%E2%80%85%EB%B9%84%EB%B0%80/cfe48d2f.png" data-original-src="https://www.acmicpc.net/upload/images/daum_equation_1357760328214.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>
 	이 함수의 뜻은 최소공배수가 n인 모든 쌍을 찾아, 그 합을 구하는 것이다.</p>

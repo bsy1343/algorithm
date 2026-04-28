@@ -32,7 +32,7 @@
 
 ### 힌트
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/30604.%E2%80%85Intersegment%E2%80%85Activation/61d1e91d.png" data-original-src="https://upload.acmicpc.net/73d7f6f8-7b9b-4add-ba58-59d6b28fab6a/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 237px; height: 130px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/30604.%E2%80%85Intersegment%E2%80%85Activation/61d1e91d.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/30604.%E2%80%85Intersegment%E2%80%85Activation/61d1e91d.png" data-original-src="https://upload.acmicpc.net/73d7f6f8-7b9b-4add-ba58-59d6b28fab6a/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 237px; height: 130px;" /></p>
 
 <p>In the example, initially, only two barriers, $(1, 2)$ and $(2, 3)$, are active. These two barriers cover all three cells, so $k$ is equal to 0 in the first round.</p>
 

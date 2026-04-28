@@ -23,16 +23,16 @@
 <table class="table" style="width:100%">
 	<tbody>
 		<tr>
-			<td style="width: 50%; text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/15040.%E2%80%85Brincadeira/53afe325.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15040/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:89px; width:290px" /></td>
-			<td style="width: 50%; text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/15040.%E2%80%85Brincadeira/b0a5dbb0.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15040/2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:89px; width:282px" /></td>
+			<td style="width: 50%; text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/15040.%E2%80%85Brincadeira/53afe325.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/15040.%E2%80%85Brincadeira/53afe325.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15040/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:89px; width:290px" /></td>
+			<td style="width: 50%; text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/15040.%E2%80%85Brincadeira/b0a5dbb0.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/15040.%E2%80%85Brincadeira/b0a5dbb0.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15040/2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:89px; width:282px" /></td>
 		</tr>
 		<tr>
 			<td style="width: 50%; text-align: center;">estado inicial</td>
 			<td style="width: 50%; text-align: center;">estado ap&oacute;s um pulso</td>
 		</tr>
 		<tr>
-			<td style="width: 50%; text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/15040.%E2%80%85Brincadeira/f33f89ed.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15040/3.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:90px; width:289px" /></td>
-			<td style="width: 50%; text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/15040.%E2%80%85Brincadeira/99d0bd46.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15040/4.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:87px; width:283px" /></td>
+			<td style="width: 50%; text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/15040.%E2%80%85Brincadeira/f33f89ed.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/15040.%E2%80%85Brincadeira/f33f89ed.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15040/3.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:90px; width:289px" /></td>
+			<td style="width: 50%; text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/15040.%E2%80%85Brincadeira/99d0bd46.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/15040.%E2%80%85Brincadeira/99d0bd46.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15040/4.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:87px; width:283px" /></td>
 		</tr>
 		<tr>
 			<td style="width: 50%; text-align: center;">estado ap&oacute;s dois pulsos</td>

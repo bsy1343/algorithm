@@ -22,7 +22,7 @@
 
 <p>A possible toy with L = 11 and R = 3 is depicted in the diagram below:</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/19671.%E2%80%85Lasers/8c6aacdc.png" data-original-src="https://upload.acmicpc.net/e2be5d18-ec2c-4a87-a9ee-cb0c31a6d96a/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 384px; height: 143px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/19671.%E2%80%85Lasers/8c6aacdc.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/19671.%E2%80%85Lasers/8c6aacdc.png" data-original-src="https://upload.acmicpc.net/e2be5d18-ec2c-4a87-a9ee-cb0c31a6d96a/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 384px; height: 143px;" /></p>
 
 <p>Rar the Cat, being the curious cat as he is, wishes to know: Out of the L lasers in his toy, how many lasers will always be blocked by at least one wall in all possible configurations of the toy?</p>
 

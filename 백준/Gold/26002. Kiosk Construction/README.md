@@ -30,7 +30,7 @@
 
 <p>Figure K.1 shows the third sample case: one solution is to put the kiosk in plot $4$, so that every other plot is at most distance $3$ away. Placing the kiosk in plot $7$ does not work as plot $9$ cannot be reached from there.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/26002.%E2%80%85Kiosk%E2%80%85Construction/decccecf.png" data-original-src="https://upload.acmicpc.net/1b0abeb8-6339-4d13-8f34-bad871d37216/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 200px; height: 181px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/26002.%E2%80%85Kiosk%E2%80%85Construction/decccecf.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/26002.%E2%80%85Kiosk%E2%80%85Construction/decccecf.png" data-original-src="https://upload.acmicpc.net/1b0abeb8-6339-4d13-8f34-bad871d37216/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 200px; height: 181px;" /></p>
 
 <p style="text-align: center;">Figure K.1: Visualisation of the third sample case.</p>
 

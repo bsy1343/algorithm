@@ -18,13 +18,13 @@
 
 <p>Your company provides robots that can be used to pick up litter from fields after sporting events and concerts. Before robots are assigned to a job, an aerial photograph of the field is marked with a grid. Each location in the grid that contains garbage is marked. All robots begin in the Northwest corner and end their movement in the Southeast corner. A robot can only move in two directions, either to the East or South. Upon entering a cell that contains garbage, the robot will pick it up before proceeding. Once a robot reaches its destination at the Southeast corner it cannot be repositioned or reused. Since your expenses are directly proportional to the number of robots used for a particular job, you are interested in finding the minimum number of robots that can clean a given field. For example, consider the field map shown in Figure 1 with rows and columns numbered as shown and garbage locations marked with a &#39;G&#39;. In this scheme, all robots will begin in location 1,1 and end in location 6, 7.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/4637.%E2%80%85Robots/effa9595.gif" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/4637/1.gif" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:134px; width:230px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/4637.%E2%80%85Robots/effa9595.gif" data-original-src="%EB%B0%B1%EC%A4%80/Gold/4637.%E2%80%85Robots/effa9595.gif" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/4637/1.gif" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:134px; width:230px" /></p>
 
 <p style="text-align: center;">Figure 1 - A Field Map</p>
 
 <p>Figure 2 below shows two possible solutions, the second of which is preferable since it uses two robots rather than three.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/4637.%E2%80%85Robots/56cf5c70.gif" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/4637/2.gif" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:128px; width:520px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/4637.%E2%80%85Robots/56cf5c70.gif" data-original-src="%EB%B0%B1%EC%A4%80/Gold/4637.%E2%80%85Robots/56cf5c70.gif" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/4637/2.gif" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:128px; width:520px" /></p>
 
 <p style="text-align: center;">Figure 2 - Two Possible Solutions</p>
 

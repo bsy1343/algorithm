@@ -22,7 +22,7 @@
 
 <p>Your task is to design the new network so that it has precisely one path between each pair of nodes while minimizing the number of nodes that do not have the same number of connections as in the original network. Figure K.1 shows the original network and a solution for Sample Input 1.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/15699.%E2%80%85Wireless%E2%80%85is%E2%80%85the%E2%80%85New%E2%80%85Fiber/4d548d0e.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15699/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 526px; height: 245px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/15699.%E2%80%85Wireless%E2%80%85is%E2%80%85the%E2%80%85New%E2%80%85Fiber/4d548d0e.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/15699.%E2%80%85Wireless%E2%80%85is%E2%80%85the%E2%80%85New%E2%80%85Fiber/4d548d0e.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15699/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 526px; height: 245px;" /></p>
 
 <p style="text-align: center;">Figure K.1: Illustration of Sample Input 1.</p>
 

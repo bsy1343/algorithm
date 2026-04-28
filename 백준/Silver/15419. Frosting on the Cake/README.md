@@ -20,7 +20,7 @@
 
 <p>To obtain a nice pattern, he partitions the cake surface into vertical stripes of width A<sub>1</sub>, A<sub>2</sub>, . . . , A<sub>n</sub> centimeters, and horizontal stripes of height B<sub>1</sub>, B<sub>2</sub>, . . . , B<sub>n</sub> centimeters, for some positive integer n. These stripes split the cake surface into n &times; n rectangles. The intersection of vertical stripe i and horizontal stripe j has color number (i + j) mod 3 for all 1 &le; i, j &le; n. To prepare the frosting, Iskander wants to know the total surface in square centimeters to be colored for each of the three colors, and asks for your help.</p>
 
-<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/15419.%E2%80%85Frosting%E2%80%85on%E2%80%85the%E2%80%85Cake/8ede34b9.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15419/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:314px; width:311px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/15419.%E2%80%85Frosting%E2%80%85on%E2%80%85the%E2%80%85Cake/8ede34b9.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/15419.%E2%80%85Frosting%E2%80%85on%E2%80%85the%E2%80%85Cake/8ede34b9.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15419/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:314px; width:311px" /></p>
 
 ### 입력
 

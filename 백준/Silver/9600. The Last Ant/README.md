@@ -24,7 +24,7 @@
 
 <p>Figure B.1 corresponds to the first dataset of the sample input.</p>
 
-<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/9600.%E2%80%85The%E2%80%85Last%E2%80%85Ant/821dbdc5.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/9600/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:279px; width:451px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/9600.%E2%80%85The%E2%80%85Last%E2%80%85Ant/821dbdc5.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/9600.%E2%80%85The%E2%80%85Last%E2%80%85Ant/821dbdc5.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/9600/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:279px; width:451px" /></p>
 
 <p style="text-align:center">Figure B.1. Movements of ants</p>
 

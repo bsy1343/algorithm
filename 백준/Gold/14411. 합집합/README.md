@@ -18,7 +18,7 @@
 
 <p>직교 좌표계에 존재하는 N개의 직사각형이 주어집니다. 주어진 N개의 직사각형은 중심은 모두 직교좌표계 가운데(원점)이며, 직사각형의 네 개의 변은 좌표축과 평행합니다. 각 사각형은 폭 (x 축을 따라)과 높이 (y 축을 따라)로 고유하게 식별됩니다. 아래 그림은 첫 번째 샘플 테스트를 보여줍니다.</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/14411.%E2%80%85%ED%95%A9%EC%A7%91%ED%95%A9/f2b71207.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/14411/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202017-02-02%20%EC%98%A4%ED%9B%84%208.15.41.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:316px; width:380px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/14411.%E2%80%85%ED%95%A9%EC%A7%91%ED%95%A9/f2b71207.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/14411.%E2%80%85%ED%95%A9%EC%A7%91%ED%95%A9/f2b71207.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/14411/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202017-02-02%20%EC%98%A4%ED%9B%84%208.15.41.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:316px; width:380px" /></p>
 
 <p dir="ltr">디자인학부 학생인 미추홀 군은 각 사각형을 특정 색상으로 채색했으며, 이제는 종이의 채색된 부분의 면적(넓이)을 알고 싶어합니다. 즉, 미추홀 군은 적어도 하나의 직사각형에 속하는 영역(모든 직사각형의 합집합)의 면적을 알고 싶습니다.</p>
 

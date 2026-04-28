@@ -38,4 +38,4 @@
 
 <p>Пояснение к тесту из примера. Кратчайший путь для первого и второго вопроса соответственно.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/28976.%E2%80%85%D0%9A%D0%BE%D0%BB%D1%8C%D1%86%D0%B5%D0%B2%D1%8B%D0%B5%E2%80%85%D0%B4%D0%BE%D1%80%D0%BE%D0%B3%D0%B8/1f9174a6.png" data-original-src="https://upload.acmicpc.net/8035f134-fe19-4f0e-b5ae-a2ef3e0037b4/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 430px; height: 206px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/28976.%E2%80%85%D0%9A%D0%BE%D0%BB%D1%8C%D1%86%D0%B5%D0%B2%D1%8B%D0%B5%E2%80%85%D0%B4%D0%BE%D1%80%D0%BE%D0%B3%D0%B8/1f9174a6.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/28976.%E2%80%85%D0%9A%D0%BE%D0%BB%D1%8C%D1%86%D0%B5%D0%B2%D1%8B%D0%B5%E2%80%85%D0%B4%D0%BE%D1%80%D0%BE%D0%B3%D0%B8/1f9174a6.png" data-original-src="https://upload.acmicpc.net/8035f134-fe19-4f0e-b5ae-a2ef3e0037b4/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 430px; height: 206px;" /></p>

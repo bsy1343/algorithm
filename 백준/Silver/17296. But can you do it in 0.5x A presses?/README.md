@@ -20,7 +20,7 @@
 
 <p>여기서 &quot;A버튼을 누르면 눌렀지 반만 누르는 게 어딨어요?&quot;라는 생각이 들 수도 있다. 물론 정말로 버튼을 반만 누르는 것은 존재하지 않으니 반은 맞는 말이다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/17296.%E2%80%85But%E2%80%85can%E2%80%85you%E2%80%85do%E2%80%85it%E2%80%85in%E2%80%850.5x%E2%80%85A%E2%80%85presses%3F/888c3030.png" data-original-src="https://imgur.com/vRbgU1z.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 361px; height: 98px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/17296.%E2%80%85But%E2%80%85can%E2%80%85you%E2%80%85do%E2%80%85it%E2%80%85in%E2%80%850.5x%E2%80%85A%E2%80%85presses%3F/888c3030.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/17296.%E2%80%85But%E2%80%85can%E2%80%85you%E2%80%85do%E2%80%85it%E2%80%85in%E2%80%850.5x%E2%80%85A%E2%80%85presses%3F/888c3030.png" data-original-src="https://imgur.com/vRbgU1z.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 361px; height: 98px;" /></p>
 
 <p>음이 아닌 정수 x에 대해 x+0.5라는 것은 정말로 A버튼을 x+0.5번 누르라는 뜻이 아니라, A버튼을 누른 채로 스테이지를 시작한 뒤 A버튼을 x번 더 누르라는 뜻이다. 그 스테이지만 골라서 깨려고 한다면 A버튼을 총 x+1번 눌러야 하지만, A버튼을 누른 채로 이전 스테이지를 깨고 그 상태로 다음 스테이지를 시작한 경우라면 x번만 눌러도 되는 것이다. A버튼을 계속 누르고 있는다고 해서 오는 부작용이나 제약은 없다.</p>
 

@@ -20,7 +20,7 @@
 
 <p>Recently, while examining viruses attacking bacteria (called&nbsp;<b>bacteriophages</b>&nbsp;or simply&nbsp;<b>phages</b>), they observed a very intriguing phenomenon. If sequences of genes of some phages are arranged one below another and homologous genes are coloured with the same colour, then a peculiar mosaic is obtained:</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/8351.%E2%80%85Mosaicism/8fc3de6e.png" data-original-src="https://upload.acmicpc.net/f8769804-66a4-40d7-ab38-31f719dad2a0/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/8351.%E2%80%85Mosaicism/8fc3de6e.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/8351.%E2%80%85Mosaicism/8fc3de6e.png" data-original-src="https://upload.acmicpc.net/f8769804-66a4-40d7-ab38-31f719dad2a0/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>To describe the phenomenon that they discovered, scientists invented a measure that they called&nbsp;<b>the coefficient of mosaicism</b>. This coefficient can be computed for a phage only in juxtaposition with some other phages - it is then equal to the total number of points computed in the following way. For every two genes <em>A</em>, <em>B</em> from the <em>i</em>-th phage and for every two different phages <em>j</em>, <em>k</em>&nbsp;such that:</p>
 

@@ -18,13 +18,13 @@
 
 <p>A balloon placed on the ground is connected to one or more anchors on the ground with ropes. Each rope is long enough to connect the balloon and the anchor. No two ropes cross each other. Figure E-1 shows such a situation.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/9200.%E2%80%85Anchored%E2%80%85Balloon/f1ebf9e6.png" data-original-src="https://upload.acmicpc.net/94212498-8776-4b0b-b56a-4573925113f6/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/9200.%E2%80%85Anchored%E2%80%85Balloon/f1ebf9e6.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/9200.%E2%80%85Anchored%E2%80%85Balloon/f1ebf9e6.png" data-original-src="https://upload.acmicpc.net/94212498-8776-4b0b-b56a-4573925113f6/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p style="text-align: center;">Figure E-1: A balloon and ropes on the ground</p>
 
 <p>Now the balloon takes off, and your task is to find how high the balloon can go up with keeping the rope connections. The positions of the anchors are fixed. The lengths of the ropes and the positions of the anchors are given. You may assume that these ropes have no weight and thus can be straightened up when pulled to whichever directions. Figure E-2 shows the highest position of the balloon for the situation shown in Figure E-1.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/9200.%E2%80%85Anchored%E2%80%85Balloon/618eabb4.png" data-original-src="https://upload.acmicpc.net/2fb5976b-1c39-4c8f-899c-300664c696ea/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/9200.%E2%80%85Anchored%E2%80%85Balloon/618eabb4.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/9200.%E2%80%85Anchored%E2%80%85Balloon/618eabb4.png" data-original-src="https://upload.acmicpc.net/2fb5976b-1c39-4c8f-899c-300664c696ea/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p style="text-align: center;">Figure E-2: The highest position of the balloon</p>
 

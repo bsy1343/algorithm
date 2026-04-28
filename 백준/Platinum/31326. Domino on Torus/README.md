@@ -43,4 +43,4 @@
 
 <p>The following picture shows one of the possible tilings in the given example.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/31326.%E2%80%85Domino%E2%80%85on%E2%80%85Torus/7f930709.png" data-original-src="https://upload.acmicpc.net/071a899f-b821-471a-b152-ed8c1c0a2d2d/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 198px; height: 136px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/31326.%E2%80%85Domino%E2%80%85on%E2%80%85Torus/7f930709.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/31326.%E2%80%85Domino%E2%80%85on%E2%80%85Torus/7f930709.png" data-original-src="https://upload.acmicpc.net/071a899f-b821-471a-b152-ed8c1c0a2d2d/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 198px; height: 136px;" /></p>

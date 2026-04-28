@@ -40,7 +40,7 @@
 
 ### 힌트
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/8143.%E2%80%85The%E2%80%85Flood/92c91736.gif" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/8143/1.gif" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:111px; width:165px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/8143.%E2%80%85The%E2%80%85Flood/92c91736.gif" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/8143.%E2%80%85The%E2%80%85Flood/92c91736.gif" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/8143/1.gif" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:111px; width:165px" /></p>
 
 <p>In the figure you can see the area of Byteburg and an exemplary setup of two pumps.</p>
 

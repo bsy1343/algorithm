@@ -22,7 +22,7 @@
 
 <p>예를 들어 아주대학교 팔달관 정문 출입구는 환율, 비법, 달콤한 3개의 단어로 표현된다.</p>
 
-<p style="text-align: center;"><img alt="" height="500px" src="%EB%B0%B1%EC%A4%80/Platinum/23298.%E2%80%85W3W%E2%80%85(What%E2%80%853%E2%80%85Words)/baf8d87f.png" data-original-src="https://upload.acmicpc.net/b6195c96-1f7d-4b36-bfdd-6ecf027d87fb/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="max-widtrh: 100%;" width="300px" /></p>
+<p style="text-align: center;"><img alt="" height="500px" src="%EB%B0%B1%EC%A4%80/Platinum/23298.%E2%80%85W3W%E2%80%85(What%E2%80%853%E2%80%85Words)/baf8d87f.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/23298.%E2%80%85W3W%E2%80%85(What%E2%80%853%E2%80%85Words)/baf8d87f.png" data-original-src="https://upload.acmicpc.net/b6195c96-1f7d-4b36-bfdd-6ecf027d87fb/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="max-widtrh: 100%;" width="300px" /></p>
 
 <p style="text-align: center;">&lt;그림 1&gt; 아주대학교 팔달관 정문의 W3W 고유 코드</p>
 

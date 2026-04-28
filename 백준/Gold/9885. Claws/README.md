@@ -18,7 +18,7 @@
 
 <p>Consider a heavy machinery in the form of a binary tree (i.e., every non-leaf node has <em>at most two</em> child nodes) as shown in Figure 1. The edges of the tree are metal bars, which are connected by hinges, denoted by nodes (labelled &lsquo;1&rsquo; through &lsquo;5&rsquo;) in the tree. The leaf nodes of the tree in Figure 1(a) are essentially the claws used by the heavy machinery to perform heavy-duty tasks. The claws are also connected to metal bars by hinges.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/9885.%E2%80%85Claws/24aab3f6.png" data-original-src="https://upload.acmicpc.net/327655e7-bd87-4db1-9961-7bc761455f87/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 363px; height: 214px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/9885.%E2%80%85Claws/24aab3f6.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/9885.%E2%80%85Claws/24aab3f6.png" data-original-src="https://upload.acmicpc.net/327655e7-bd87-4db1-9961-7bc761455f87/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 363px; height: 214px;" /></p>
 
 <p style="text-align: center;">Figure 1: (a) A tree and (b) the corresponding tree of claws.</p>
 

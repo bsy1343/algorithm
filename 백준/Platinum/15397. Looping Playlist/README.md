@@ -22,7 +22,7 @@
 
 <p>Every musical note has one of 12 names: Do, Do#, Re, Re#, Mi, Fa, Fa#, Sol, Sol#, La, La#, or Si. The interval between any two consecutive notes from the list is called a half-step. Notes that are 12 half-steps apart share the same name; therefore, the note that follows Si is called Do, and so on.</p>
 
-<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/15397.%E2%80%85Looping%E2%80%85Playlist/1822b0d3.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15397/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:134px; width:381px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/15397.%E2%80%85Looping%E2%80%85Playlist/1822b0d3.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/15397.%E2%80%85Looping%E2%80%85Playlist/1822b0d3.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15397/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:134px; width:381px" /></p>
 
 <p>Each of the songs is made up of two or more notes, all belonging to a single major scale.</p>
 

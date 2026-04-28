@@ -20,7 +20,7 @@
 
 <p>병준이는 감옥 안쪽의 모든 간수들은 매수에 성공했으나, 감옥 밖의 간수들은 매수에 실패했다. 따라서 감시가 허술한 감옥의 벽을 찾아 탈옥할 것이다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/24458.%E2%80%85Prison%E2%80%85Break/ef2f1149.png" data-original-src="https://upload.acmicpc.net/449e57b3-fcaa-4c31-89b6-128a58058f0b/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 720px; height: 405px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/24458.%E2%80%85Prison%E2%80%85Break/ef2f1149.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/24458.%E2%80%85Prison%E2%80%85Break/ef2f1149.png" data-original-src="https://upload.acmicpc.net/449e57b3-fcaa-4c31-89b6-128a58058f0b/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 720px; height: 405px;" /></p>
 
 <p>위 그림을 예로 들어보자. 감옥은 볼록팔각형 모양이고, 감옥의 벽은 팔각형의 변, 감옥의 기둥은 팔각형의 꼭짓점이다. $\texttt{A},\ \texttt{B},\ \texttt{C}$를 간수라고 하자. $\texttt{A},\ \texttt{B}$가 감시하는 감옥의 벽은 빨간색으로 표시된 변이다. ($\texttt{B}$를 보면, 간수는 자신과 일직선을 이루는 벽을 감시할 수 없음을 알 수 있다.) $\texttt{C}$는 매수된 간수이므로 무시할 수 있다. $\texttt{A},\ \texttt{B}$가 감시하지 못하는 벽은 $4$개(검은색)이므로 감시가 허술한 감옥의 벽은 $4$개다.</p>
 

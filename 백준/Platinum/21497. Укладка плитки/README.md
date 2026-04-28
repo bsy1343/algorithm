@@ -34,10 +34,10 @@
 
 ### 힌트
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/21497.%E2%80%85%D0%A3%D0%BA%D0%BB%D0%B0%D0%B4%D0%BA%D0%B0%E2%80%85%D0%BF%D0%BB%D0%B8%D1%82%D0%BA%D0%B8/eae30afc.png" data-original-src="https://upload.acmicpc.net/6571c17d-2cc1-4c73-91a4-72f53d8722e2/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 500px; height: 49px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/21497.%E2%80%85%D0%A3%D0%BA%D0%BB%D0%B0%D0%B4%D0%BA%D0%B0%E2%80%85%D0%BF%D0%BB%D0%B8%D1%82%D0%BA%D0%B8/eae30afc.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/21497.%E2%80%85%D0%A3%D0%BA%D0%BB%D0%B0%D0%B4%D0%BA%D0%B0%E2%80%85%D0%BF%D0%BB%D0%B8%D1%82%D0%BA%D0%B8/eae30afc.png" data-original-src="https://upload.acmicpc.net/6571c17d-2cc1-4c73-91a4-72f53d8722e2/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 500px; height: 49px;" /></p>
 
 <p style="text-align: center;">Рисунок 1. Все способы укладки плиток в первом примере</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/21497.%E2%80%85%D0%A3%D0%BA%D0%BB%D0%B0%D0%B4%D0%BA%D0%B0%E2%80%85%D0%BF%D0%BB%D0%B8%D1%82%D0%BA%D0%B8/0e95224e.png" data-original-src="https://upload.acmicpc.net/dc6e598e-d990-419f-b620-da467018356b/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 351px; height: 116px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/21497.%E2%80%85%D0%A3%D0%BA%D0%BB%D0%B0%D0%B4%D0%BA%D0%B0%E2%80%85%D0%BF%D0%BB%D0%B8%D1%82%D0%BA%D0%B8/0e95224e.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/21497.%E2%80%85%D0%A3%D0%BA%D0%BB%D0%B0%D0%B4%D0%BA%D0%B0%E2%80%85%D0%BF%D0%BB%D0%B8%D1%82%D0%BA%D0%B8/0e95224e.png" data-original-src="https://upload.acmicpc.net/dc6e598e-d990-419f-b620-da467018356b/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 351px; height: 116px;" /></p>
 
 <p style="text-align: center;">Рисунок 2. Все способы укладки плиток в третьем примере. Уже уложенная плитка отмечена серым цветом.</p>

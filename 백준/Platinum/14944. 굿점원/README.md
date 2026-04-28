@@ -27,7 +27,7 @@
 
 <p>어느 날 치킨을 배달해야 할 집이 하나 늘었다. 인호는 새로운 손님에게 치킨을 배달하기 위해 길을 딱 하나만 만들려고 한다. 인호의 친구들은 각자 자기가 만들 수 있는 길을 알려주었다.</p>
 
-<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/14944.%E2%80%85%EA%B5%BF%EC%A0%90%EC%9B%90/db14a36c.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14944/a.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:107px; width:470px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/14944.%E2%80%85%EA%B5%BF%EC%A0%90%EC%9B%90/db14a36c.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/14944.%E2%80%85%EA%B5%BF%EC%A0%90%EC%9B%90/db14a36c.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14944/a.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:107px; width:470px" /></p>
 
 <p>인호는 치킨가게를 0번 집, 그리고 가게와 가까운 집부터 차례대로 1번 집부터 n번 집이라고 부른다.</p>
 
@@ -55,8 +55,8 @@
 
 ### 힌트
 
-<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/14944.%E2%80%85%EA%B5%BF%EC%A0%90%EC%9B%90/52a0051b.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14944/b.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:134px; width:435px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/14944.%E2%80%85%EA%B5%BF%EC%A0%90%EC%9B%90/52a0051b.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/14944.%E2%80%85%EA%B5%BF%EC%A0%90%EC%9B%90/52a0051b.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14944/b.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:134px; width:435px" /></p>
 
-<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/14944.%E2%80%85%EA%B5%BF%EC%A0%90%EC%9B%90/0748de2c.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14944/c.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:124px; width:470px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/14944.%E2%80%85%EA%B5%BF%EC%A0%90%EC%9B%90/0748de2c.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/14944.%E2%80%85%EA%B5%BF%EC%A0%90%EC%9B%90/0748de2c.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14944/c.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:124px; width:470px" /></p>
 
 <p>두 번째 길을 이용해0-1-2-3-새집-6-5-4 순서로 이동하면 25의 거리를 이동해 가장 조금만 걷고 배달을 마칠 수 있다.</p>

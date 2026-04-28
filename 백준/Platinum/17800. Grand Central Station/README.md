@@ -20,7 +20,7 @@
 
 <p>You have been hired to put together the signage for each of the stations which shows where on the network a passenger is with a big arrow pointing to the bright red station in the centre.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/17800.%E2%80%85Grand%E2%80%85Central%E2%80%85Station/b096a6f8.png" data-original-src="https://upload.acmicpc.net/29f19b47-783d-4e3c-b2aa-168c8a89c620/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 614px; height: 203px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/17800.%E2%80%85Grand%E2%80%85Central%E2%80%85Station/b096a6f8.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/17800.%E2%80%85Grand%E2%80%85Central%E2%80%85Station/b096a6f8.png" data-original-src="https://upload.acmicpc.net/29f19b47-783d-4e3c-b2aa-168c8a89c620/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 614px; height: 203px;" /></p>
 
 <p style="text-align: center;">Figure G.1: Illustration of Sample Input 1 and how two designs are reused four times, with the labels painted at different places.</p>
 

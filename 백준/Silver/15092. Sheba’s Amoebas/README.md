@@ -20,7 +20,7 @@
 
 <p>Sheba would like you to write a program that counts the closed loops in a rectangular array of black and white pixels. No two closed loops in the image touch or overlap. One particularly nasty species of cannibalistic amoeba is known to surround and engulf its neighbors; consequently there may be amoebas within amoebas. For instance, each of the images in Figure H.1 contains four amoebas.</p>
 
-<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/15092.%E2%80%85Sheba%E2%80%99s%E2%80%85Amoebas/036e8b93.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15092/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:152px; width:299px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/15092.%E2%80%85Sheba%E2%80%99s%E2%80%85Amoebas/036e8b93.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/15092.%E2%80%85Sheba%E2%80%99s%E2%80%85Amoebas/036e8b93.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15092/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:152px; width:299px" /></p>
 
 <p style="text-align:center">Figure H.1: Two Petri dishes, each with four amoebas.</p>
 

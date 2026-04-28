@@ -20,7 +20,7 @@
 
 <p>There may be some pillars in the warehouse. Except for the locations of the pillars, the floor of the warehouse is paved with square tiles whose size fits with the cargo. Each pillar occupies the same area as a tile.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/22832.%E2%80%85Push!!/ae299c8c.png" data-original-src="https://upload.acmicpc.net/562c13cc-76db-4958-b005-1d249b30fd48/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 362px; height: 411px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/22832.%E2%80%85Push!!/ae299c8c.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/22832.%E2%80%85Push!!/ae299c8c.png" data-original-src="https://upload.acmicpc.net/562c13cc-76db-4958-b005-1d249b30fd48/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 362px; height: 411px;" /></p>
 
 <p>Initially, the cargo is on the center of a tile. With one push, he can move the cargo onto the center of an adjacent tile if he is in proper position. The tile onto which he will move the cargo must be one of (at most) four tiles (i.e., east, west, north or south) adjacent to the tile where the cargo is present.</p>
 

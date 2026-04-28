@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/17963.%E2%80%85Projection/41e90485.png" data-original-src="https://upload.acmicpc.net/6849b005-d109-4ac2-8dac-f1ac14891ce9/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 231px; height: 192px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/17963.%E2%80%85Projection/41e90485.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/17963.%E2%80%85Projection/41e90485.png" data-original-src="https://upload.acmicpc.net/6849b005-d109-4ac2-8dac-f1ac14891ce9/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 231px; height: 192px;" /></p>
 
 <p>Everybody knows that you are a TensorFlow fan. Therefore, you&rsquo;ve been challenged to recreate the TensorFlow logo from two projections.</p>
 

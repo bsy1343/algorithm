@@ -22,11 +22,11 @@
 
 <p>어떤 길들은 자원봉사들에 의해 청소되는데, 보통 쓸 수 없다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/3124.%E2%80%85%EA%B3%B5%EC%9B%90%E2%80%85%EC%82%B0%EC%B1%85/dd3536f3.png" data-original-src="https://upload.acmicpc.net/14a64f97-6bbd-41ff-912c-4593c3cc8872/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 127px; height: 117px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/3124.%E2%80%85%EA%B3%B5%EC%9B%90%E2%80%85%EC%82%B0%EC%B1%85/dd3536f3.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/3124.%E2%80%85%EA%B3%B5%EC%9B%90%E2%80%85%EC%82%B0%EC%B1%85/dd3536f3.png" data-original-src="https://upload.acmicpc.net/14a64f97-6bbd-41ff-912c-4593c3cc8872/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 127px; height: 117px;" /></p>
 
 <p>그림은 N=6인 공원을 나타낸 것이다. 이 그림에서 모든 길들은 사용 가능하다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/3124.%E2%80%85%EA%B3%B5%EC%9B%90%E2%80%85%EC%82%B0%EC%B1%85/07e899fe.png" data-original-src="https://upload.acmicpc.net/ae8cd9ec-0f9b-4a9c-bece-f6c0fe09c5b0/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 124px; height: 117px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/3124.%E2%80%85%EA%B3%B5%EC%9B%90%E2%80%85%EC%82%B0%EC%B1%85/07e899fe.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/3124.%E2%80%85%EA%B3%B5%EC%9B%90%E2%80%85%EC%82%B0%EC%B1%85/07e899fe.png" data-original-src="https://upload.acmicpc.net/ae8cd9ec-0f9b-4a9c-bece-f6c0fe09c5b0/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 124px; height: 117px;" /></p>
 
 <p>첫 번째 그림과 같은 공원이지만, 몇몇 길들을 사용할 수 없다.</p>
 

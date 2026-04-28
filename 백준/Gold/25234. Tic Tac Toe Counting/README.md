@@ -28,7 +28,7 @@
 
 <p>Each of the next $t$ lines contains a single string $s$ ($|s|=9$) which consists of only the characters <code>&#39;.&#39;</code>, <code>&#39;X&#39;</code> and/or <code>&#39;O&#39;</code>. These are the test case grids. The first three characters represent the first row, the second three are the second row, and the last three are the last row, with <code>&#39;.&#39;</code> representing an empty cell. For example, the string <code>XX..O....</code> represents this grid:</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/25234.%E2%80%85Tic%E2%80%85Tac%E2%80%85Toe%E2%80%85Counting/dc049f5c.png" data-original-src="https://upload.acmicpc.net/2abda38c-13c7-455c-9ba3-50d730033a00/-/crop/504x504/115,136/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 100px; height: 100px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/25234.%E2%80%85Tic%E2%80%85Tac%E2%80%85Toe%E2%80%85Counting/dc049f5c.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/25234.%E2%80%85Tic%E2%80%85Tac%E2%80%85Toe%E2%80%85Counting/dc049f5c.png" data-original-src="https://upload.acmicpc.net/2abda38c-13c7-455c-9ba3-50d730033a00/-/crop/504x504/115,136/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 100px; height: 100px;" /></p>
 
 ### 출력
 

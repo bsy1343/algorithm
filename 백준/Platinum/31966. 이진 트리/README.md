@@ -38,8 +38,8 @@
 <table class="table table-bordered td-center">
 	<tbody>
 		<tr>
-			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/31966.%E2%80%85%EC%9D%B4%EC%A7%84%E2%80%85%ED%8A%B8%EB%A6%AC/0ba9dace.png" data-original-src="https://upload.acmicpc.net/f1d639c2-365a-418e-a59a-43bab36beac6/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 164px; height: 200px;" /></td>
-			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/31966.%E2%80%85%EC%9D%B4%EC%A7%84%E2%80%85%ED%8A%B8%EB%A6%AC/f27b7ac4.png" data-original-src="https://upload.acmicpc.net/55c49c1f-1c89-4e8b-bbf7-67d7eddf0370/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 162px; height: 200px;" /></td>
+			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/31966.%E2%80%85%EC%9D%B4%EC%A7%84%E2%80%85%ED%8A%B8%EB%A6%AC/0ba9dace.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/31966.%E2%80%85%EC%9D%B4%EC%A7%84%E2%80%85%ED%8A%B8%EB%A6%AC/0ba9dace.png" data-original-src="https://upload.acmicpc.net/f1d639c2-365a-418e-a59a-43bab36beac6/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 164px; height: 200px;" /></td>
+			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/31966.%E2%80%85%EC%9D%B4%EC%A7%84%E2%80%85%ED%8A%B8%EB%A6%AC/f27b7ac4.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/31966.%E2%80%85%EC%9D%B4%EC%A7%84%E2%80%85%ED%8A%B8%EB%A6%AC/f27b7ac4.png" data-original-src="https://upload.acmicpc.net/55c49c1f-1c89-4e8b-bbf7-67d7eddf0370/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 162px; height: 200px;" /></td>
 		</tr>
 		<tr>
 			<td>(a) 만든 트리</td>
@@ -50,7 +50,7 @@
 
 <p>$f(5, 7)$의 값은 $2$이다. 다음과 같이 서브 트리 두 개를 선택하면 $5$, $6$, $7$번 리프 노드만 덮이기 때문이다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/31966.%E2%80%85%EC%9D%B4%EC%A7%84%E2%80%85%ED%8A%B8%EB%A6%AC/70c71cce.png" data-original-src="https://upload.acmicpc.net/e8019b8f-1f07-4083-8334-2a97e26f0dd4/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 195px; height: 240px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/31966.%E2%80%85%EC%9D%B4%EC%A7%84%E2%80%85%ED%8A%B8%EB%A6%AC/70c71cce.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/31966.%E2%80%85%EC%9D%B4%EC%A7%84%E2%80%85%ED%8A%B8%EB%A6%AC/70c71cce.png" data-original-src="https://upload.acmicpc.net/e8019b8f-1f07-4083-8334-2a97e26f0dd4/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 195px; height: 240px;" /></p>
 
 <p>이런 식으로 모든 $1 &le; a &le; b &le; 7$에 대해 $f(a, b)$의 값의 합은 $47$이고, 이를 $10^9 + 7$로 나눈 나머지를 구하면 $S(T) = 47$이다.</p>
 

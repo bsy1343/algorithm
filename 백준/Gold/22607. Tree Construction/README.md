@@ -18,7 +18,7 @@
 
 <p>Consider a two-dimensional space with a set of points (<var>x<sub>i</sub></var>,&nbsp;<var>y<sub>i</sub></var>) that satisfy&nbsp;<var>x<sub>i</sub></var>&nbsp;&lt;&nbsp;<var>x<sub>j</sub></var>&nbsp;and&nbsp;<var>y<sub>i</sub></var>&nbsp;&gt;&nbsp;<var>y<sub>j</sub></var>&nbsp;for all&nbsp;<var>i &lt; j</var>. We want to have them all connected by a directed tree whose edges go toward either right (<var>x</var>&nbsp;positive) or upward (<var>y</var>&nbsp;positive). The figure below shows an example tree.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/22607.%E2%80%85Tree%E2%80%85Construction/e305b9ed.png" data-original-src="https://upload.acmicpc.net/6f9e428e-f332-4010-81ab-a8644aea5536/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/22607.%E2%80%85Tree%E2%80%85Construction/e305b9ed.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/22607.%E2%80%85Tree%E2%80%85Construction/e305b9ed.png" data-original-src="https://upload.acmicpc.net/6f9e428e-f332-4010-81ab-a8644aea5536/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p style="text-align: center;">Figure 1: An example tree</p>
 

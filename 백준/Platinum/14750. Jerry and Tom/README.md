@@ -27,7 +27,7 @@
 
 <p>For example, consider a situation where three mice and three holes are in the house as shown in Figure E.1. Each circle on the boundary denotes a hole. Assuming that k = 1, i.e., only one mouse is allowed to hide into each hole, with the situation shown in the left figure, when Tom appears all the three mice can hide. But for the case shown in the right figure it is impossible for all the mice to hide.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/14750.%E2%80%85Jerry%E2%80%85and%E2%80%85Tom/9f57bd5f.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14750/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:125px; width:425px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/14750.%E2%80%85Jerry%E2%80%85and%E2%80%85Tom/9f57bd5f.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/14750.%E2%80%85Jerry%E2%80%85and%E2%80%85Tom/9f57bd5f.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14750/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:125px; width:425px" /></p>
 
 <p style="text-align: center;">Figure E.1: Illustration to show two situations: 1. All mice can hide (left) and 2. They cannot (right)</p>
 

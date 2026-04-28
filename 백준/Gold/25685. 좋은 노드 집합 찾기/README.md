@@ -18,7 +18,7 @@
 
 <p>Alice와 Bob은 트리를 이용한 놀이를 즐겨한다. n개의 노드를 가진 트리 가 있고 노드는 편의상 번호가 1부터 n까지 붙어있다고 하자. i번 노드의 부모 노드는 p[i] 라 하고, 루트 노드의 경우 p[i] = 0 으로 정의한다. 마지막으로, 각 노드에는 정수 값이 부여되어있는데 이는 v[i]로 나타낸다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/25685.%E2%80%85%EC%A2%8B%EC%9D%80%E2%80%85%EB%85%B8%EB%93%9C%E2%80%85%EC%A7%91%ED%95%A9%E2%80%85%EC%B0%BE%EA%B8%B0/f8daefbd.png" data-original-src="https://upload.acmicpc.net/2bd87b09-86d1-408f-93b3-3df7c388b384/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 243px; width: 400px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/25685.%E2%80%85%EC%A2%8B%EC%9D%80%E2%80%85%EB%85%B8%EB%93%9C%E2%80%85%EC%A7%91%ED%95%A9%E2%80%85%EC%B0%BE%EA%B8%B0/f8daefbd.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/25685.%E2%80%85%EC%A2%8B%EC%9D%80%E2%80%85%EB%85%B8%EB%93%9C%E2%80%85%EC%A7%91%ED%95%A9%E2%80%85%EC%B0%BE%EA%B8%B0/f8daefbd.png" data-original-src="https://upload.acmicpc.net/2bd87b09-86d1-408f-93b3-3df7c388b384/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 243px; width: 400px;" /></p>
 
 <p>예를 들어 위 그림 속의 트리는 n = 6, v = [30, 15, 10, 20, 15, 18] 이고 p = [0, 1, 1, 3, 3, 3]인 경우를 나타낸다. 각 노드 옆에 적힌 값이 노드에 부여된 정수 값이다. 이 트리의 경우 p[1] = 0 이므로 1이 루트 노드이고, 루트 노드를 제외한 모든 노드는 부모 노드를 갖는다.</p>
 
@@ -41,7 +41,7 @@
 
 <p>노드 부분집합 S의 점수는 (Score(S)) S에 속한 노드들의 정수 값을 모두 더한 값으로 정의하자. 위 예제의 경우 S = {1, 4, 5, 6}일 때 30 + 20 + 15 + 18 = 83으로 가장 높은 점수를 달성할 수 있다 (아래 그림 참고).</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/25685.%E2%80%85%EC%A2%8B%EC%9D%80%E2%80%85%EB%85%B8%EB%93%9C%E2%80%85%EC%A7%91%ED%95%A9%E2%80%85%EC%B0%BE%EA%B8%B0/26cb9ff0.png" data-original-src="https://upload.acmicpc.net/650689e9-78c0-4108-b4df-263a1da1be9e/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/25685.%E2%80%85%EC%A2%8B%EC%9D%80%E2%80%85%EB%85%B8%EB%93%9C%E2%80%85%EC%A7%91%ED%95%A9%E2%80%85%EC%B0%BE%EA%B8%B0/26cb9ff0.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/25685.%E2%80%85%EC%A2%8B%EC%9D%80%E2%80%85%EB%85%B8%EB%93%9C%E2%80%85%EC%A7%91%ED%95%A9%E2%80%85%EC%B0%BE%EA%B8%B0/26cb9ff0.png" data-original-src="https://upload.acmicpc.net/650689e9-78c0-4108-b4df-263a1da1be9e/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>입력으로 트리에 대한 정보가 주어졌을 때 Alice와 Bob이 달성할 수 있는 좋은 노드 집합의 가장 높은 점수를 구해보자.</p>
 

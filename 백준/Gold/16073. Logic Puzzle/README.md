@@ -20,7 +20,7 @@
 
 <p>The puzzle you are currently trying to solve is called Mosaic, and it is quite similar to the classic Minesweeper video game:</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/16073.%E2%80%85Logic%E2%80%85Puzzle/7bcf78d8.png" data-original-src="https://upload.acmicpc.net/6765c456-ce04-4d09-83de-69c9ca3b4e05/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 396px; height: 163px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/16073.%E2%80%85Logic%E2%80%85Puzzle/7bcf78d8.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/16073.%E2%80%85Logic%E2%80%85Puzzle/7bcf78d8.png" data-original-src="https://upload.acmicpc.net/6765c456-ce04-4d09-83de-69c9ca3b4e05/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 396px; height: 163px;" /></p>
 
 <p style="text-align: center;">Figure L.1: Illustration of the first sample</p>
 

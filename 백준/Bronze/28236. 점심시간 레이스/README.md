@@ -22,7 +22,7 @@
 
 <p>급식실은 $1$층 맨 오른쪽 칸에서 오른쪽으로 나가면 있다.</p>
 
-<p style="text-align: center;"><img alt="" height="308" src="%EB%B0%B1%EC%A4%80/Bronze/28236.%E2%80%85%EC%A0%90%EC%8B%AC%EC%8B%9C%EA%B0%84%E2%80%85%EB%A0%88%EC%9D%B4%EC%8A%A4/561e94dc.png" data-original-src="https://upload.acmicpc.net/f83b1782-294c-4106-ac23-34f9bca61ce6/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" width="496" /></p>
+<p style="text-align: center;"><img alt="" height="308" src="%EB%B0%B1%EC%A4%80/Bronze/28236.%E2%80%85%EC%A0%90%EC%8B%AC%EC%8B%9C%EA%B0%84%E2%80%85%EB%A0%88%EC%9D%B4%EC%8A%A4/561e94dc.png" data-original-src="%EB%B0%B1%EC%A4%80/Bronze/28236.%E2%80%85%EC%A0%90%EC%8B%AC%EC%8B%9C%EA%B0%84%E2%80%85%EB%A0%88%EC%9D%B4%EC%8A%A4/561e94dc.png" data-original-src="https://upload.acmicpc.net/f83b1782-294c-4106-ac23-34f9bca61ce6/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" width="496" /></p>
 
 <p style="text-align: center;">레이싱이 이루어질 본관과 급식실의 모습이다.</p>
 

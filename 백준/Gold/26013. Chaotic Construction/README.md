@@ -22,7 +22,7 @@
 
 <p>As a member of the <em>Gircle</em> <em>Construction and Planning Commission</em> (GCPC), you always know when one of the $n$ street segments is closed or reopened. Naturally, the citizens expect you to tell them whether the trips they want to do are currently possible.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/26013.%E2%80%85Chaotic%E2%80%85Construction/3b99bd9c.png" data-original-src="https://upload.acmicpc.net/de631905-06bd-4308-8f59-cbc60a9b08f8/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 300px; height: 295px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/26013.%E2%80%85Chaotic%E2%80%85Construction/3b99bd9c.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/26013.%E2%80%85Chaotic%E2%80%85Construction/3b99bd9c.png" data-original-src="https://upload.acmicpc.net/de631905-06bd-4308-8f59-cbc60a9b08f8/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 300px; height: 295px;" /></p>
 
 <p style="text-align: center;">Figure C.1: Depiction of the query &quot;<code>? 9 7</code>&quot; in the sample input.</p>
 

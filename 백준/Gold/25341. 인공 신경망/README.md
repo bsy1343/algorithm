@@ -22,7 +22,7 @@
 
 <p>인공 신경망은 여러 개의 인공 신경으로 구성된 망 형태의 구조이다. $i$번째 인공 신경은 가중치 $W_{i,1}, W_{i,2}, \cdots, W_{i,C_i}$와 편향값 $B_i$를 갖고 있다. $C_i$개의 입력 데이터 $X_{i,1}, X_{i,2}, \cdots, X_{i,C_i}$를 받으면 $Y_i = X_{i,1}W_{i,1} + X_{i,2}W_{i,2} + \cdots + X_{i,C_i}W_{i,C_i} + B_i$를 계산해서 출력한다. 즉, $Y_i = \displaystyle \sum_{k=1}^{C_i} X_{i,k}W_{i,k} + B_i$를 출력한다. 아래 그림은 인공 신경의 구성을 그림으로 나타낸 것이다.</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/25341.%E2%80%85%EC%9D%B8%EA%B3%B5%E2%80%85%EC%8B%A0%EA%B2%BD%EB%A7%9D/92d34482.png" data-original-src="https://upload.acmicpc.net/668ec6cc-8e36-4ae5-8bad-957d0e734e04/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 283px; width: 400px;" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/25341.%E2%80%85%EC%9D%B8%EA%B3%B5%E2%80%85%EC%8B%A0%EA%B2%BD%EB%A7%9D/92d34482.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/25341.%E2%80%85%EC%9D%B8%EA%B3%B5%E2%80%85%EC%8B%A0%EA%B2%BD%EB%A7%9D/92d34482.png" data-original-src="https://upload.acmicpc.net/668ec6cc-8e36-4ae5-8bad-957d0e734e04/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 283px; width: 400px;" /></p>
 
 <p>예를 들어 가중치가 $\lbrace 3, 1 \rbrace$, 편향값이 $2$인 인공 신경을 생각해보자. 입력이 $\lbrace 1, 2 \rbrace$이면 출력값은 $1\times3+2\times1+2=7$이다.</p>
 
@@ -32,7 +32,7 @@
 
 <p>예를 들어 인공 신경들의 가중치가 $W = \lbrace \lbrace 1,2 \rbrace, \lbrace 3,4\rbrace, \lbrace 5,6 \rbrace, \lbrace 10,20,30\rbrace\rbrace$, 편향값이 $B = \lbrace 7, 8, 9, 100\rbrace$인 인공 신경망에서 은닉층의 인공 신경들이 입력 층의 $P = \lbrace\lbrace 1, 2\rbrace, \lbrace2, 3\rbrace, \lbrace4, 5\rbrace\rbrace$ 번째 값을 입력으로 받는다고 하자. 입력으로 $A = \lbrace 2,7,6,8,4 \rbrace$이 주어지면 아래 그림처럼 나타낼 수 있다.</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/25341.%E2%80%85%EC%9D%B8%EA%B3%B5%E2%80%85%EC%8B%A0%EA%B2%BD%EB%A7%9D/5a26f169.png" data-original-src="https://upload.acmicpc.net/4f53e542-ed28-42f8-9cbe-c5eb4d879581/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 589px; width: 800px;" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/25341.%E2%80%85%EC%9D%B8%EA%B3%B5%E2%80%85%EC%8B%A0%EA%B2%BD%EB%A7%9D/5a26f169.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/25341.%E2%80%85%EC%9D%B8%EA%B3%B5%E2%80%85%EC%8B%A0%EA%B2%BD%EB%A7%9D/5a26f169.png" data-original-src="https://upload.acmicpc.net/4f53e542-ed28-42f8-9cbe-c5eb4d879581/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 589px; width: 800px;" /></p>
 
 <p>인공 신경망의 구성과 입력 데이터가 주어지면 신경망의 출력값을 구하는 프로그램을 작성해 보자.</p>
 

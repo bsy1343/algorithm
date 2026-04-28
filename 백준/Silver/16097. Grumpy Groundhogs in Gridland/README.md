@@ -38,6 +38,6 @@
 
 <p>Of course, it can be the case that no suitable tunnel network exists at all! For instance, in the right diagram of Figure 3, there are two groundhog couples A and B. It is not possible to connect the couple members with tunnels that do not intersect, so the poor groundhogs will remain grumpy all winter!</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/16097.%E2%80%85Grumpy%E2%80%85Groundhogs%E2%80%85in%E2%80%85Gridland/779e12f0.png" data-original-src="https://upload.acmicpc.net/62ac4466-5e4f-480a-8bf2-97f27896bab0/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 564px; height: 155px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/16097.%E2%80%85Grumpy%E2%80%85Groundhogs%E2%80%85in%E2%80%85Gridland/779e12f0.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/16097.%E2%80%85Grumpy%E2%80%85Groundhogs%E2%80%85in%E2%80%85Gridland/779e12f0.png" data-original-src="https://upload.acmicpc.net/62ac4466-5e4f-480a-8bf2-97f27896bab0/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 564px; height: 155px;" /></p>
 
 <p style="text-align: center;">Figure 3: Illustration of the first two inputs from the Sample Input</p>

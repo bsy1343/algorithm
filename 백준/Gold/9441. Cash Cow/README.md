@@ -23,9 +23,9 @@
 <table class="table table-bordered" style="height:204px; text-align:center; width:406px">
 	<tbody>
 		<tr>
-			<td><img src="%EB%B0%B1%EC%A4%80/Gold/9441.%E2%80%85Cash%E2%80%85Cow/655142fe.png" data-original-src="https://www.acmicpc.net/upload/images2/original.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></td>
-			<td><img src="%EB%B0%B1%EC%A4%80/Gold/9441.%E2%80%85Cash%E2%80%85Cow/ad504471.png" data-original-src="https://www.acmicpc.net/upload/images2/during_h10.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></td>
-			<td><img src="%EB%B0%B1%EC%A4%80/Gold/9441.%E2%80%85Cash%E2%80%85Cow/6468098d.png" data-original-src="https://www.acmicpc.net/upload/images2/after_h10.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></td>
+			<td><img src="%EB%B0%B1%EC%A4%80/Gold/9441.%E2%80%85Cash%E2%80%85Cow/655142fe.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/9441.%E2%80%85Cash%E2%80%85Cow/655142fe.png" data-original-src="https://www.acmicpc.net/upload/images2/original.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></td>
+			<td><img src="%EB%B0%B1%EC%A4%80/Gold/9441.%E2%80%85Cash%E2%80%85Cow/ad504471.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/9441.%E2%80%85Cash%E2%80%85Cow/ad504471.png" data-original-src="https://www.acmicpc.net/upload/images2/during_h10.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></td>
+			<td><img src="%EB%B0%B1%EC%A4%80/Gold/9441.%E2%80%85Cash%E2%80%85Cow/6468098d.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/9441.%E2%80%85Cash%E2%80%85Cow/6468098d.png" data-original-src="https://www.acmicpc.net/upload/images2/after_h10.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></td>
 		</tr>
 		<tr>
 			<td>Figure 1</td>
@@ -52,9 +52,9 @@
 <table class="table table-bordered" style="height:204px; text-align:center; width:406px">
 	<tbody>
 		<tr>
-			<td><img src="%EB%B0%B1%EC%A4%80/Gold/9441.%E2%80%85Cash%E2%80%85Cow/6468098d.png" data-original-src="https://www.acmicpc.net/upload/images2/after_h10.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></td>
-			<td><img src="%EB%B0%B1%EC%A4%80/Gold/9441.%E2%80%85Cash%E2%80%85Cow/8c22e48f.png" data-original-src="https://www.acmicpc.net/upload/images2/during_j1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></td>
-			<td><img src="%EB%B0%B1%EC%A4%80/Gold/9441.%E2%80%85Cash%E2%80%85Cow/357767e0.png" data-original-src="https://www.acmicpc.net/upload/images2/after_j1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></td>
+			<td><img src="%EB%B0%B1%EC%A4%80/Gold/9441.%E2%80%85Cash%E2%80%85Cow/6468098d.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/9441.%E2%80%85Cash%E2%80%85Cow/6468098d.png" data-original-src="https://www.acmicpc.net/upload/images2/after_h10.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></td>
+			<td><img src="%EB%B0%B1%EC%A4%80/Gold/9441.%E2%80%85Cash%E2%80%85Cow/8c22e48f.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/9441.%E2%80%85Cash%E2%80%85Cow/8c22e48f.png" data-original-src="https://www.acmicpc.net/upload/images2/during_j1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></td>
+			<td><img src="%EB%B0%B1%EC%A4%80/Gold/9441.%E2%80%85Cash%E2%80%85Cow/357767e0.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/9441.%E2%80%85Cash%E2%80%85Cow/357767e0.png" data-original-src="https://www.acmicpc.net/upload/images2/after_j1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></td>
 		</tr>
 		<tr>
 			<td colspan="3">Figure 4: Processing a click on cell j1.</td>
@@ -65,9 +65,9 @@
 <table class="table table-bordered" style="height:204px; text-align:center; width:406px">
 	<tbody>
 		<tr>
-			<td><img src="%EB%B0%B1%EC%A4%80/Gold/9441.%E2%80%85Cash%E2%80%85Cow/357767e0.png" data-original-src="https://www.acmicpc.net/upload/images2/after_j1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></td>
-			<td><img src="%EB%B0%B1%EC%A4%80/Gold/9441.%E2%80%85Cash%E2%80%85Cow/92fc80b9.png" data-original-src="https://www.acmicpc.net/upload/images2/during_g2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></td>
-			<td><img src="%EB%B0%B1%EC%A4%80/Gold/9441.%E2%80%85Cash%E2%80%85Cow/695f6c1c.png" data-original-src="https://www.acmicpc.net/upload/images2/after_g2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></td>
+			<td><img src="%EB%B0%B1%EC%A4%80/Gold/9441.%E2%80%85Cash%E2%80%85Cow/357767e0.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/9441.%E2%80%85Cash%E2%80%85Cow/357767e0.png" data-original-src="https://www.acmicpc.net/upload/images2/after_j1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></td>
+			<td><img src="%EB%B0%B1%EC%A4%80/Gold/9441.%E2%80%85Cash%E2%80%85Cow/92fc80b9.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/9441.%E2%80%85Cash%E2%80%85Cow/92fc80b9.png" data-original-src="https://www.acmicpc.net/upload/images2/during_g2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></td>
+			<td><img src="%EB%B0%B1%EC%A4%80/Gold/9441.%E2%80%85Cash%E2%80%85Cow/695f6c1c.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/9441.%E2%80%85Cash%E2%80%85Cow/695f6c1c.png" data-original-src="https://www.acmicpc.net/upload/images2/after_g2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></td>
 		</tr>
 		<tr>
 			<td colspan="3">Figure 5: Processing a click on cell g2.</td>

@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/22553.%E2%80%85%EF%BC%91%EF%BC%90%E6%AD%B3%E3%81%AE%E5%8B%95%E7%9A%84%E8%A8%88%E7%94%BB/6411e58f.png" data-original-src="https://upload.acmicpc.net/37768467-7946-4bb3-b696-2e183637cb39/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 337px; height: 236px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/22553.%E2%80%85%EF%BC%91%EF%BC%90%E6%AD%B3%E3%81%AE%E5%8B%95%E7%9A%84%E8%A8%88%E7%94%BB/6411e58f.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/22553.%E2%80%85%EF%BC%91%EF%BC%90%E6%AD%B3%E3%81%AE%E5%8B%95%E7%9A%84%E8%A8%88%E7%94%BB/6411e58f.png" data-original-src="https://upload.acmicpc.net/37768467-7946-4bb3-b696-2e183637cb39/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 337px; height: 236px;" /></p>
 
 <p>ある日の夕方。いつものようにあなたが居間でテレビを見ていると、小学５年生の妹から相談を持ち かけられた。話を聞いてみると、今日学校で出された算数の問題が難しくて理解できなかったので、 あなたに解き方を教えてほしいのだという。</p>
 

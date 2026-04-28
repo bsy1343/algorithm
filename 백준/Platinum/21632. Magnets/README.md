@@ -18,7 +18,7 @@
 
 <p>You have a $10^9 \times 10^9$ square magnetic board with the origin of the coordinate system in the lower-left corner. There are $n$ magnets on the board, numbered from $1$ to $n$. Each magnet is an $1 \times 1$ square. Initially, the magnets are positioned in such way that the lower right corner of the $i$-th magnet has the coordinates $(i, 0)$.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/21632.%E2%80%85Magnets/bbf9229b.png" data-original-src="https://upload.acmicpc.net/c845994f-6da0-424f-bf5a-36d584fbf9f7/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 107px; height: 109px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/21632.%E2%80%85Magnets/bbf9229b.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/21632.%E2%80%85Magnets/bbf9229b.png" data-original-src="https://upload.acmicpc.net/c845994f-6da0-424f-bf5a-36d584fbf9f7/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 107px; height: 109px;" /></p>
 
 <p style="text-align: center;">Example of the initial state for $n=5$</p>
 
@@ -31,23 +31,23 @@
 
 <p>Below are the board states for $n=6$ and the series of first type queries $(l_1=2,r_1=5)$, $(l_2=3,r_2=4)$, $(l_3=2,r_3=3)$, $(l_4=6,r_4=6)$.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/21632.%E2%80%85Magnets/277c8665.png" data-original-src="https://upload.acmicpc.net/4795847d-db8c-469a-8766-626e4ed5b9cd/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 107px; height: 109px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/21632.%E2%80%85Magnets/277c8665.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/21632.%E2%80%85Magnets/277c8665.png" data-original-src="https://upload.acmicpc.net/4795847d-db8c-469a-8766-626e4ed5b9cd/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 107px; height: 109px;" /></p>
 
 <p style="text-align: center;">Initial state for $n=6$.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/21632.%E2%80%85Magnets/c3a38e89.png" data-original-src="https://upload.acmicpc.net/55509ad0-3d38-44a2-bff2-88b0da7bfbdd/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 107px; height: 109px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/21632.%E2%80%85Magnets/c3a38e89.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/21632.%E2%80%85Magnets/c3a38e89.png" data-original-src="https://upload.acmicpc.net/55509ad0-3d38-44a2-bff2-88b0da7bfbdd/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 107px; height: 109px;" /></p>
 
 <p style="text-align: center;">After processing a query of the first type $(l_1=2,r_1=5)$.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/21632.%E2%80%85Magnets/b31fe516.png" data-original-src="https://upload.acmicpc.net/18378013-fd5d-4803-a938-c1afb2cd19ea/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 107px; height: 109px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/21632.%E2%80%85Magnets/b31fe516.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/21632.%E2%80%85Magnets/b31fe516.png" data-original-src="https://upload.acmicpc.net/18378013-fd5d-4803-a938-c1afb2cd19ea/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 107px; height: 109px;" /></p>
 
 <p style="text-align: center;">After processing a query of the first type $(l_2=3,r_2=4)$.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/21632.%E2%80%85Magnets/2f384756.png" data-original-src="https://upload.acmicpc.net/711b7af6-98b9-440e-9548-7276a42ca124/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 107px; height: 109px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/21632.%E2%80%85Magnets/2f384756.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/21632.%E2%80%85Magnets/2f384756.png" data-original-src="https://upload.acmicpc.net/711b7af6-98b9-440e-9548-7276a42ca124/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 107px; height: 109px;" /></p>
 
 <p style="text-align: center;">After processing a query of the first type $(l_3=2,r_3=3)$.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/21632.%E2%80%85Magnets/2f384756.png" data-original-src="https://upload.acmicpc.net/711b7af6-98b9-440e-9548-7276a42ca124/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 107px; height: 109px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/21632.%E2%80%85Magnets/2f384756.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/21632.%E2%80%85Magnets/2f384756.png" data-original-src="https://upload.acmicpc.net/711b7af6-98b9-440e-9548-7276a42ca124/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 107px; height: 109px;" /></p>
 
 <p style="text-align: center;">After processing a query of the first type $(l_4=6,r_4=6)$.</p>
 

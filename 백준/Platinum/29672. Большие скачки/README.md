@@ -34,6 +34,6 @@
 
 ### 힌트
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/29672.%E2%80%85%D0%91%D0%BE%D0%BB%D1%8C%D1%88%D0%B8%D0%B5%E2%80%85%D1%81%D0%BA%D0%B0%D1%87%D0%BA%D0%B8/517a4a0b.png" data-original-src="https://upload.acmicpc.net/17d634a9-38ae-4fe9-ba50-afdfe35571cd/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 271px; height: 348px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/29672.%E2%80%85%D0%91%D0%BE%D0%BB%D1%8C%D1%88%D0%B8%D0%B5%E2%80%85%D1%81%D0%BA%D0%B0%D1%87%D0%BA%D0%B8/517a4a0b.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/29672.%E2%80%85%D0%91%D0%BE%D0%BB%D1%8C%D1%88%D0%B8%D0%B5%E2%80%85%D1%81%D0%BA%D0%B0%D1%87%D0%BA%D0%B8/517a4a0b.png" data-original-src="https://upload.acmicpc.net/17d634a9-38ae-4fe9-ba50-afdfe35571cd/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 271px; height: 348px;" /></p>
 
 <p>Этот рисунок соответствует второму примеру. Отмеченная жирной линией часть дороги, является освещенной.</p>

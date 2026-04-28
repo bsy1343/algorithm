@@ -32,6 +32,6 @@
 
 ### 힌트
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/8394.%E2%80%85%EC%95%85%EC%88%98/b615fc17.png" data-original-src="https://www.acmicpc.net/upload/images/kon.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:111px; width:102px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/8394.%E2%80%85%EC%95%85%EC%88%98/b615fc17.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/8394.%E2%80%85%EC%95%85%EC%88%98/b615fc17.png" data-original-src="https://www.acmicpc.net/upload/images/kon.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:111px; width:102px" /></p>
 
 <p>n=4인 경우에는 5가지 방법이 있다.</p>

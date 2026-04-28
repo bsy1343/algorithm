@@ -28,4 +28,4 @@
 
 ### 힌트
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/7743.%E2%80%85Triangles/0dba2ffd.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/7743/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:225px; width:169px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/7743.%E2%80%85Triangles/0dba2ffd.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/7743.%E2%80%85Triangles/0dba2ffd.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/7743/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:225px; width:169px" /></p>

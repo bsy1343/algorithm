@@ -36,7 +36,7 @@
 
 <p><strong>Step 4</strong> All of the area under y is filled in with dirt.</p>
 
-<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/15148.%E2%80%85Front%E2%80%85Nine/2cb7ebb8.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15148/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:214px; width:328px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/15148.%E2%80%85Front%E2%80%85Nine/2cb7ebb8.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/15148.%E2%80%85Front%E2%80%85Nine/2cb7ebb8.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15148/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:214px; width:328px" /></p>
 
 <p>Figure F.1: An example with n = 9, h = 6, a = 3. The area of dirt is 42.5. One possible function r: r(1) = 1, r(2) = 1, r(3) = &minus;1, r(4) = 0, r(5) = 1, r(6) = 1, r(7) = 1, r(8) = &minus;1, r(9) = &minus;1.</p>
 

@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/22037.%E2%80%85DEX%E2%80%85Save/d01ec4f3.png" data-original-src="https://upload.acmicpc.net/559a941e-ae0b-443b-847a-c0008f9eedba/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 174px; height: 200px; float: right;" />Oh no! &nbsp;After months of playing a campaign in the table-top role-playing game Bungalows &amp; Banshees, your character accidentally triggered a trap and was squished under a gigantic rolling boulder. If you had only succeeded in that dexterity saving throw to dodge out of the way of the incoming boulder of doom...</p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/22037.%E2%80%85DEX%E2%80%85Save/d01ec4f3.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/22037.%E2%80%85DEX%E2%80%85Save/d01ec4f3.png" data-original-src="https://upload.acmicpc.net/559a941e-ae0b-443b-847a-c0008f9eedba/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 174px; height: 200px; float: right;" />Oh no! &nbsp;After months of playing a campaign in the table-top role-playing game Bungalows &amp; Banshees, your character accidentally triggered a trap and was squished under a gigantic rolling boulder. If you had only succeeded in that dexterity saving throw to dodge out of the way of the incoming boulder of doom...</p>
 
 <p>Always one to dwell on the past, you begin to wonder what your chances actually were of succeeding with the saving throw, and discover that it is not immediately obvious -- you had that bardic inspiration giving you a d6 bonus, but then you had disadvantage on the roll due to being intoxicated, but on the other hand your dexterity save modifier was pretty high...</p>
 

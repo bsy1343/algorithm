@@ -44,7 +44,7 @@
 
 ### 힌트
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/21902.%E2%80%85Peterson%E2%80%85Polyglot/d7f36c5d.png" data-original-src="https://upload.acmicpc.net/7ce16bd1-23e7-4b97-a38f-e2ce34910cf1/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 433px; height: 298px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/21902.%E2%80%85Peterson%E2%80%85Polyglot/d7f36c5d.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/21902.%E2%80%85Peterson%E2%80%85Polyglot/d7f36c5d.png" data-original-src="https://upload.acmicpc.net/7ce16bd1-23e7-4b97-a38f-e2ce34910cf1/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 433px; height: 298px;" /></p>
 
 <p>Broom for initial language from sample test 2. &amp; &amp; Broom after simplification with $p = 2$.</p>
 

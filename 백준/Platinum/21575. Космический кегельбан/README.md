@@ -24,7 +24,7 @@
 
 <p>На рисунке приведен пример расположения кеглей для r = 500, n = 4 и шара для q = 1000, x<sub>c</sub> = &ndash;2, y<sub>c</sub> = &ndash;2, v<sub>x</sub> = 1, v<sub>y</sub> = 1.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/21575.%E2%80%85%D0%9A%D0%BE%D1%81%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9%E2%80%85%D0%BA%D0%B5%D0%B3%D0%B5%D0%BB%D1%8C%D0%B1%D0%B0%D0%BD/e7055c40.png" data-original-src="https://upload.acmicpc.net/a8a65151-710b-49bc-a358-fe436284a04e/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 300px; height: 327px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/21575.%E2%80%85%D0%9A%D0%BE%D1%81%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9%E2%80%85%D0%BA%D0%B5%D0%B3%D0%B5%D0%BB%D1%8C%D0%B1%D0%B0%D0%BD/e7055c40.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/21575.%E2%80%85%D0%9A%D0%BE%D1%81%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9%E2%80%85%D0%BA%D0%B5%D0%B3%D0%B5%D0%BB%D1%8C%D0%B1%D0%B0%D0%BD/e7055c40.png" data-original-src="https://upload.acmicpc.net/a8a65151-710b-49bc-a358-fe436284a04e/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 300px; height: 327px;" /></p>
 
 <p>Требуется написать программу, которая по заданным радиусу кегли r, количеству рядов кеглей n, радиусу шара q, его начальному положению (x<sub>c</sub>, y<sub>c</sub>) и вектору направления движения (v<sub>x</sub>, v<sub>y</sub>) определяет количество кеглей, сбитых шаром.</p>
 
@@ -46,4 +46,4 @@
 
 <p>Рисунок ниже показывает, какие кегли будут сбиты (такие кегли обозначены &laquo;х&raquo;).</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/21575.%E2%80%85%D0%9A%D0%BE%D1%81%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9%E2%80%85%D0%BA%D0%B5%D0%B3%D0%B5%D0%BB%D1%8C%D0%B1%D0%B0%D0%BD/29798398.png" data-original-src="https://upload.acmicpc.net/2985f162-8e2d-426d-99bf-fd4546fcf0ae/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 300px; height: 327px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/21575.%E2%80%85%D0%9A%D0%BE%D1%81%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9%E2%80%85%D0%BA%D0%B5%D0%B3%D0%B5%D0%BB%D1%8C%D0%B1%D0%B0%D0%BD/29798398.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/21575.%E2%80%85%D0%9A%D0%BE%D1%81%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9%E2%80%85%D0%BA%D0%B5%D0%B3%D0%B5%D0%BB%D1%8C%D0%B1%D0%B0%D0%BD/29798398.png" data-original-src="https://upload.acmicpc.net/2985f162-8e2d-426d-99bf-fd4546fcf0ae/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 300px; height: 327px;" /></p>

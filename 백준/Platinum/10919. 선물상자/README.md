@@ -28,7 +28,7 @@
 
 <p>이 예제에서 N = 3팀이 있고, 아만은 동시에 최대 K = 2개의 선물을 들 수 있으며, 구역의 수는 L = 8이다. 팀들은 구역 1, 2, 5에 있다.</p>
 
-<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/10919.%E2%80%85%EC%84%A0%EB%AC%BC%EC%83%81%EC%9E%90/adfc094b.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/10919/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:205px; width:654px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/10919.%E2%80%85%EC%84%A0%EB%AC%BC%EC%83%81%EC%9E%90/adfc094b.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/10919.%E2%80%85%EC%84%A0%EB%AC%BC%EC%83%81%EC%9E%90/adfc094b.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/10919/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:205px; width:654px" /></p>
 
 <p>최적의 해 중 하나가 위 그림에 나와 있다. 처음에 아만은 선물 두 개를 들고, 이를 구역 2에 있는 팀에게 하나를 전달하고, 나머지 하나를 구역 5에 있는 팀에게 준 뒤 구역 0으로 돌아온다. 이 과정은 8초가 걸린다. 다음에 아만은 남은 선물 하나를 구역 1에 있는 팀에게 주고 다시 구역 0으로 돌아온다. 이 과정은 2초가 걸린다. 따라서, 전체 시간은 10초이다.</p>
 

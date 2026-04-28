@@ -18,7 +18,7 @@
 
 <p>Cloud Retainer, the builder of the Dwelling in the clouds above Qingyun Peak, is very interested in mechanics. Although there is more than one month away from the Lantern Rite Festival in Liyue, she has already started the design of a gaming event for it.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/31183.%E2%80%85Cloud%E2%80%85Retainer's%E2%80%85Game/65edf287.png" data-original-src="https://upload.acmicpc.net/45fb9984-7035-49f8-b35c-4e178a0d4d6f/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 512px; height: 288px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/31183.%E2%80%85Cloud%E2%80%85Retainer's%E2%80%85Game/65edf287.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/31183.%E2%80%85Cloud%E2%80%85Retainer's%E2%80%85Game/65edf287.png" data-original-src="https://upload.acmicpc.net/45fb9984-7035-49f8-b35c-4e178a0d4d6f/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 512px; height: 288px;" /></p>
 
 <p style="text-align: center;">Cloud Retainer and the Traveler</p>
 
@@ -57,8 +57,8 @@
 <table class="table table-bordered td-center td-middle">
 	<tbody>
 		<tr>
-			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/31183.%E2%80%85Cloud%E2%80%85Retainer's%E2%80%85Game/73a04285.png" data-original-src="https://upload.acmicpc.net/7620e1f8-4557-45c0-ba6d-69b9649ab7d6/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 290px; height: 156px;" /></td>
-			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/31183.%E2%80%85Cloud%E2%80%85Retainer's%E2%80%85Game/ba8a3ea2.png" data-original-src="https://upload.acmicpc.net/3962f5c2-fd8d-419d-a35a-3df8ce53ce27/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 360px; height: 125px;" /></td>
+			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/31183.%E2%80%85Cloud%E2%80%85Retainer's%E2%80%85Game/73a04285.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/31183.%E2%80%85Cloud%E2%80%85Retainer's%E2%80%85Game/73a04285.png" data-original-src="https://upload.acmicpc.net/7620e1f8-4557-45c0-ba6d-69b9649ab7d6/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 290px; height: 156px;" /></td>
+			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/31183.%E2%80%85Cloud%E2%80%85Retainer's%E2%80%85Game/ba8a3ea2.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/31183.%E2%80%85Cloud%E2%80%85Retainer's%E2%80%85Game/ba8a3ea2.png" data-original-src="https://upload.acmicpc.net/3962f5c2-fd8d-419d-a35a-3df8ce53ce27/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 360px; height: 125px;" /></td>
 		</tr>
 		<tr>
 			<td>Sample test case No. 1</td>

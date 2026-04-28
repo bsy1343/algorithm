@@ -31,7 +31,7 @@
 
 <p>아래는 다트판의 영역별 점수를 나타낸 그림입니다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/27171.%E2%80%85%EB%8D%94%EB%B8%94%E2%80%85%EC%95%84%EC%9B%83/8a57f3d6.png" data-original-src="https://upload.acmicpc.net/fa849804-b05d-4074-80f2-d1dcf4832efb/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 616px; max-width: 100%;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/27171.%E2%80%85%EB%8D%94%EB%B8%94%E2%80%85%EC%95%84%EC%9B%83/8a57f3d6.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/27171.%E2%80%85%EB%8D%94%EB%B8%94%E2%80%85%EC%95%84%EC%9B%83/8a57f3d6.png" data-original-src="https://upload.acmicpc.net/fa849804-b05d-4074-80f2-d1dcf4832efb/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 616px; max-width: 100%;" /></p>
 
 <p>다트에는 <strong>Double Out</strong>이라는 규칙이 있습니다. 이 규칙에 따르면 마지막 라운드에서, 다트 $3$발을 모두 사용할 필요는 없지만, 점수를 $0$점으로 만드는 마지막 화살은 <strong>Double 또는 Double Bull</strong>을 맞혀야 합니다. 예를 들어 남은 점수가 $3$점일 때 게임이 진행되는 예시는 다음과 같습니다.</p>
 

@@ -18,7 +18,7 @@
 
 <p>초보 게임개발자 동이는 프로그래밍을 공부하며 자신만의 테트리스 게임을 개발하고 있다. 테트리스는 이미 세계적으로 유명한 게임으로, 20행 10열의 그리드 게임판에서 위에서부터 추락하는 블록 도형을 회전시키거나 좌우로 위치를 옮겨가며 쌓아 올리는 게임이다. 게임을 진행하는 중에 블록이 아래위로 충돌하여 멈추게 되면 블록으로 가득 찬 행은 삭제되고 삭제된 한 줄마다 사용자는 1점을 얻는다. 이때 그 행 위의 행들은 모양을 유지한 채로 내려온다. 블록 도형은 총 7가지 종류가 있으며 사용자는 각각 90, 180, 270도로 회전시켜 사용할 수도 있다.</p>
 
-<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/14599.%E2%80%85%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%E2%80%85%ED%85%8C%ED%8A%B8%EB%A6%AC%EC%8A%A4%E2%80%85(Large)/db209101.png" data-original-src="http://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14598/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:335px; width:303px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/14599.%E2%80%85%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%E2%80%85%ED%85%8C%ED%8A%B8%EB%A6%AC%EC%8A%A4%E2%80%85(Large)/db209101.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/14599.%E2%80%85%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%E2%80%85%ED%85%8C%ED%8A%B8%EB%A6%AC%EC%8A%A4%E2%80%85(Large)/db209101.png" data-original-src="http://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14598/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:335px; width:303px" /></p>
 
 <p style="text-align:center">&lt;20행 10열의 게임판 예시(좌)와 일곱가지 테트리스 블록 도형(우)&gt;</p>
 

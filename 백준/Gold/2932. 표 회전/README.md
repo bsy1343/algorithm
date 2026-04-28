@@ -32,7 +32,7 @@
 
 <p>아래 그림은 6을 (3,4)에 이동시키는 방법이다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/2932.%E2%80%85%ED%91%9C%E2%80%85%ED%9A%8C%EC%A0%84/bd741386.png" data-original-src="https://upload.acmicpc.net/614feed6-dbb8-4d85-978a-dab02f69b961/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 650px; height: 123px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/2932.%E2%80%85%ED%91%9C%E2%80%85%ED%9A%8C%EC%A0%84/bd741386.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/2932.%E2%80%85%ED%91%9C%E2%80%85%ED%9A%8C%EC%A0%84/bd741386.png" data-original-src="https://upload.acmicpc.net/614feed6-dbb8-4d85-978a-dab02f69b961/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 650px; height: 123px;" /></p>
 
 <p>상근이는 숫자 K개를 이동시키려고 한다. 한 숫자를 이동시키고 난 후에, 바로 그 다음 숫자를 이동시키며, 다음 숫자를 이동시킬 때, 표에 들어있는 수를 처음 상태로 되돌리지 않는다. 숫자 K개를 이동시키는데 필요한 회전의 수를 구하는 프로그램을 작성하시오.</p>
 

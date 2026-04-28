@@ -18,11 +18,11 @@
 
 <p>Рассмотрим прямоугольную таблицу $n$ на $m$. Занумеруем строки таблицы числами от $1$ до $n$, а столбцы &ndash; числами от $1$ до $m$. Таблица последовательно заполняется числами. Обозначим через $a_{i,j}$ число, стоящее на пересечении $i$-ой строки и $j$-ого столбца. Первая строка таблицы заполняется заданными числами &ndash; $a_{1,1}, a_{1,2}, \cdots , a_{1,m}$. Затем заполняются строки с номерами от $2$ до $n$. Число $a_{i,j}$ вычисляется как сумма всех чисел таблицы, находящихся в &laquo;треугольнике&raquo; над элементом $a_{i,j}$. Все вычисления при этом выполняются по модулю $r$.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/21686.%E2%80%85%D0%A2%D0%B0%D0%B1%D0%BB%D0%B8%D1%86%D0%B0/8fba14dc.png" data-original-src="https://upload.acmicpc.net/91537e42-6b96-4aae-bf6a-781f2ab4445c/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 370px; height: 191px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/21686.%E2%80%85%D0%A2%D0%B0%D0%B1%D0%BB%D0%B8%D1%86%D0%B0/8fba14dc.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/21686.%E2%80%85%D0%A2%D0%B0%D0%B1%D0%BB%D0%B8%D1%86%D0%B0/8fba14dc.png" data-original-src="https://upload.acmicpc.net/91537e42-6b96-4aae-bf6a-781f2ab4445c/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 370px; height: 191px;" /></p>
 
 <p>Более точно, значение $a_{i,j}$ вычисляется по следующей формуле:</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/21686.%E2%80%85%D0%A2%D0%B0%D0%B1%D0%BB%D0%B8%D1%86%D0%B0/9b31d799.png" data-original-src="https://upload.acmicpc.net/ee53f7e9-8e09-482c-8cf9-c493a2243691/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 329px; height: 146px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/21686.%E2%80%85%D0%A2%D0%B0%D0%B1%D0%BB%D0%B8%D1%86%D0%B0/9b31d799.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/21686.%E2%80%85%D0%A2%D0%B0%D0%B1%D0%BB%D0%B8%D1%86%D0%B0/9b31d799.png" data-original-src="https://upload.acmicpc.net/ee53f7e9-8e09-482c-8cf9-c493a2243691/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 329px; height: 146px;" /></p>
 
 <p>Например, если таблица состоит из трех строк и четырех столбцов, и первая строка состоит из чисел $2$,$3$,$4$,$5$, а $r = 40$ то таблица выглядит следующим образом (взятие по модулю показано только там, где оно приводит к изменению числа):</p>
 

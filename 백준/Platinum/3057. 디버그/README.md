@@ -24,7 +24,7 @@
 
 <p>예를 들어, 프로그램 메모리가 아래 그림과 같을 때, 정사각형 킬러는 3가지가 있다.</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/3057.%E2%80%85%EB%94%94%EB%B2%84%EA%B7%B8/cc805fe5.png" data-original-src="https://www.acmicpc.net/upload/images/kill.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:107px; width:674px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/3057.%E2%80%85%EB%94%94%EB%B2%84%EA%B7%B8/cc805fe5.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/3057.%E2%80%85%EB%94%94%EB%B2%84%EA%B7%B8/cc805fe5.png" data-original-src="https://www.acmicpc.net/upload/images/kill.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:107px; width:674px" /></p>
 
 <p>상근이는 가장 큰 정사각형 킬러의 크기와 버그 사이의 관계가 궁금해졌다. 프로그램 메모리가 주어졌을 때, 가장 큰 정사각형 킬러의 크기를 구하는 프로그램을 작성하시오. 정사각형 킬러의 크기는 부분 행렬의 행의 개수 또는 열의 개수와 같다. 위의 그림에서 정사각형 킬러의 크기는 순서대로 2, 2, 3이다.</p>
 

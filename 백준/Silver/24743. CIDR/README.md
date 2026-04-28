@@ -18,7 +18,7 @@
 
 <p>Internet Protocol (IP) V4 addresses are 32-bit integers that uniquely identify a host on the internet. IP addresses are written in a dotted-quad notation such as 192.168.1.100. Each component of the dotted-quad specifies an 8-bit (unsigned) value, corresponding to each of the 4 bytes in the 32-bit integer address. An IP address specifies two groups of bits in that 32-bit integer: the network group and the host group. The least significant bits in the address specify the specific host on the network described by the most significant bits.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/24743.%E2%80%85CIDR/f2918686.png" data-original-src="https://upload.acmicpc.net/db000669-5197-4a83-8e15-68d80c01a3c2/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 728px; height: 68px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/24743.%E2%80%85CIDR/f2918686.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/24743.%E2%80%85CIDR/f2918686.png" data-original-src="https://upload.acmicpc.net/db000669-5197-4a83-8e15-68d80c01a3c2/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 728px; height: 68px;" /></p>
 
 <p>The network mask is a bitmask that has all the bits in the network group set to 1. Ex. If the network group has 14 bits, then the netmask is: <code>0xfffc0000</code> or, in dotted-quad format: <code>255.252.0.0</code></p>
 

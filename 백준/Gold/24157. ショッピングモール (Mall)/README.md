@@ -18,7 +18,7 @@
 
 <p>クロアチアの首都ザグレブでは，IOI2007 の開催にあわせて，郊外に大型のショッピングモー ルを建設することにした．ショッピングモールの建設候補地は，下図のように横 m ブロック，縦 n ブロックの格子状に区切られている．</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/24157.%E2%80%85%E3%82%B7%E3%83%A7%E3%83%83%E3%83%94%E3%83%B3%E3%82%B0%E3%83%A2%E3%83%BC%E3%83%AB%E2%80%85(Mall)/0e485f4b.png" data-original-src="https://upload.acmicpc.net/79038212-e0a0-48fd-929d-1564f4a38a0d/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 199px; height: 141px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/24157.%E2%80%85%E3%82%B7%E3%83%A7%E3%83%83%E3%83%94%E3%83%B3%E3%82%B0%E3%83%A2%E3%83%BC%E3%83%AB%E2%80%85(Mall)/0e485f4b.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/24157.%E2%80%85%E3%82%B7%E3%83%A7%E3%83%83%E3%83%94%E3%83%B3%E3%82%B0%E3%83%A2%E3%83%BC%E3%83%AB%E2%80%85(Mall)/0e485f4b.png" data-original-src="https://upload.acmicpc.net/79038212-e0a0-48fd-929d-1564f4a38a0d/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 199px; height: 141px;" /></p>
 
 <p style="text-align: center;">建設候補地の例 (m = 10, n = 7)</p>
 
@@ -48,4 +48,4 @@
 
 <p>この入出力例におけるショッピングモール建設地を図示すると，以下の通りである．&times;のブ ロックは，すでに人が住んでいることを意味する．</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/24157.%E2%80%85%E3%82%B7%E3%83%A7%E3%83%83%E3%83%94%E3%83%B3%E3%82%B0%E3%83%A2%E3%83%BC%E3%83%AB%E2%80%85(Mall)/2634b157.png" data-original-src="https://upload.acmicpc.net/c790bbd6-f207-4e8d-ade1-30424b70960a/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 237px; height: 203px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/24157.%E2%80%85%E3%82%B7%E3%83%A7%E3%83%83%E3%83%94%E3%83%B3%E3%82%B0%E3%83%A2%E3%83%BC%E3%83%AB%E2%80%85(Mall)/2634b157.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/24157.%E2%80%85%E3%82%B7%E3%83%A7%E3%83%83%E3%83%94%E3%83%B3%E3%82%B0%E3%83%A2%E3%83%BC%E3%83%AB%E2%80%85(Mall)/2634b157.png" data-original-src="https://upload.acmicpc.net/c790bbd6-f207-4e8d-ade1-30424b70960a/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 237px; height: 203px;" /></p>

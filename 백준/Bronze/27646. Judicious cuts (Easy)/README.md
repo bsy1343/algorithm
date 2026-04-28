@@ -26,7 +26,7 @@
 
 <p>Below are some ways of arranging three lines to cut the plane into 7, 6, and 6 regions, respectively.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/27646.%E2%80%85Judicious%E2%80%85cuts%E2%80%85(Easy)/2ec1aadd.png" data-original-src="https://upload.acmicpc.net/83560455-cda9-43c0-a354-3cb15f882a4b/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/27646.%E2%80%85Judicious%E2%80%85cuts%E2%80%85(Easy)/2ec1aadd.png" data-original-src="%EB%B0%B1%EC%A4%80/Bronze/27646.%E2%80%85Judicious%E2%80%85cuts%E2%80%85(Easy)/2ec1aadd.png" data-original-src="https://upload.acmicpc.net/83560455-cda9-43c0-a354-3cb15f882a4b/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>We want to divide the plane into <em>r</em> regions. Tell us how to draw the lines.</p>
 

@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/4801.%E2%80%85Nine/d7b86168.png" data-original-src="https://www.acmicpc.net/upload/images2/9.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="float:right; height:467px; width:263px" />Randall Munroe from xkcd.com pointed out that 9 is the most rarely used key on a microwave. Let&#39;s all share the load.</p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/4801.%E2%80%85Nine/d7b86168.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/4801.%E2%80%85Nine/d7b86168.png" data-original-src="https://www.acmicpc.net/upload/images2/9.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="float:right; height:467px; width:263px" />Randall Munroe from xkcd.com pointed out that 9 is the most rarely used key on a microwave. Let&#39;s all share the load.</p>
 
 <p>Given a desired cooking time, find a sequence of keys with the greatest number of 9&#39;s such that the resulting time has less than 10% error compared to the desired cooking time. In other words, if T is the desired cooking time in seconds, and T9 is the cooking time specified by the found sequence, then 10|T - T9| &lt; T. If there are multiple possibilities, choose the one that has the smallest error (in magnitude). If there are still ties, choose the one that is lexicographically smallest.</p>
 

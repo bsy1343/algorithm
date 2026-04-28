@@ -18,11 +18,11 @@
 
 <p>동혁이는 막대과자를 포장하는 아르바이트를 하고 있다. 막대과자는 그림과 같이 3 X1 직사각형 모양의 과자와 2 X 2 크기에 ㄴ자 모양의 과자가 있고, 동혁이는 이 과자를 포장 박스에 차곡차곡 넣으려 한다.</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/14219.%E2%80%85%EB%A7%89%EB%8C%80%EA%B3%BC%EC%9E%90%E2%80%85%ED%8F%AC%EC%9E%A5/3a63a1ba.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14219/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:105px; width:209px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/14219.%E2%80%85%EB%A7%89%EB%8C%80%EA%B3%BC%EC%9E%90%E2%80%85%ED%8F%AC%EC%9E%A5/3a63a1ba.png" data-original-src="%EB%B0%B1%EC%A4%80/Bronze/14219.%E2%80%85%EB%A7%89%EB%8C%80%EA%B3%BC%EC%9E%90%E2%80%85%ED%8F%AC%EC%9E%A5/3a63a1ba.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14219/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:105px; width:209px" /></p>
 
 <p>포장 박스의 크기는 n X m이고, 과자들은 부서지기 쉬우므로, 상자에 빈틈이 있으면 흔들려서 깨질 가능성이 있어, 상자를 빈틈없이 꽉 채우려고 한다. 아래 그림은 5 X 3의 박스를 채운 모습이다.</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/14219.%E2%80%85%EB%A7%89%EB%8C%80%EA%B3%BC%EC%9E%90%E2%80%85%ED%8F%AC%EC%9E%A5/d8d60bac.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14219/2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:235px; width:196px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/14219.%E2%80%85%EB%A7%89%EB%8C%80%EA%B3%BC%EC%9E%90%E2%80%85%ED%8F%AC%EC%9E%A5/d8d60bac.png" data-original-src="%EB%B0%B1%EC%A4%80/Bronze/14219.%E2%80%85%EB%A7%89%EB%8C%80%EA%B3%BC%EC%9E%90%E2%80%85%ED%8F%AC%EC%9E%A5/d8d60bac.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14219/2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:235px; width:196px" /></p>
 
 <p>동혁이는 지금 막대과자와 포장 박스들을 가지러 갔다. 동혁이를 대신하여 포장 박스안에 과자들을 빈틈없이 넣을 수 있는지 확인해주자.</p>
 

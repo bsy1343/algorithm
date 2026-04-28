@@ -24,7 +24,7 @@
 
 <p>Note that the viewing angle of your lens is not large enough to capture the ocean to the east and west of the island in one shot. Also, the viewing angle of sea at sea level is $0$ degrees.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/25993.%E2%80%85Bellevue/4139b3f0.png" data-original-src="https://upload.acmicpc.net/49969b43-f152-404f-ba57-2f2aabc35928/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 400px; height: 188px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/25993.%E2%80%85Bellevue/4139b3f0.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/25993.%E2%80%85Bellevue/4139b3f0.png" data-original-src="https://upload.acmicpc.net/49969b43-f152-404f-ba57-2f2aabc35928/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 400px; height: 188px;" /></p>
 
 <p style="text-align: center;">Figure B.1: The east-west profile of the island in the first sample case.</p>
 

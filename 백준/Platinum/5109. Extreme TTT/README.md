@@ -18,15 +18,15 @@
 
 <p>Tic Tac Toe, (Naughts and Crosses) is a simple pencil and paper game played by children. The idea is that players take turns at drawing their symbol (O or X) in squares on a 3 by 3 grid. The first to get three of their symbols in a row (horizontal, vertical or diagonal) wins the game. If the grid is filled without either player making a line, the game is a draw. Here is a game that the X player has just won.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/5109.%E2%80%85Extreme%E2%80%85TTT/ec469660.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/5109/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:110px; width:140px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/5109.%E2%80%85Extreme%E2%80%85TTT/ec469660.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/5109.%E2%80%85Extreme%E2%80%85TTT/ec469660.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/5109/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:110px; width:140px" /></p>
 
 <p>Unfortunately the game is rather limited. An interesting extension is to make it three dimensional &ndash; using 3 layers of 3 by 3. Real 3D requires some construction &ndash; plastic sets are available commercially. However it is possible to play a 3D game on paper, drawing three 2D grids and imagining them piled above each other. X wins again:</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/5109.%E2%80%85Extreme%E2%80%85TTT/4f68e882.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/5109/2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:117px; width:402px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/5109.%E2%80%85Extreme%E2%80%85TTT/4f68e882.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/5109.%E2%80%85Extreme%E2%80%85TTT/4f68e882.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/5109/2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:117px; width:402px" /></p>
 
 <p>What about playing in 4, 5 or 6 dimensions? This is the basic idea of the game of Extreme Tic Tac Toe (ETTT), a game played by AI computers. ETTT scoring differs from normal Tic Tac Toe. Rather than stop as soon as one player achieves a line of their symbols, ETTT players play until the grid is full, or until they agree to stop. The winner is the one with the greatest number of lines of symbols. By ETTT rules, X would score 4 and O would score 1 in the following 3D game:</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/5109.%E2%80%85Extreme%E2%80%85TTT/a4d55819.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/5109/3.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:113px; width:388px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/5109.%E2%80%85Extreme%E2%80%85TTT/a4d55819.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/5109.%E2%80%85Extreme%E2%80%85TTT/a4d55819.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/5109/3.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:113px; width:388px" /></p>
 
 <p>Your task is to write a program to read N-Dimensional ETTT game grids and work out the scores.</p>
 

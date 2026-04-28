@@ -22,7 +22,7 @@
 
 <p>Since you are good at programming, you guess you can find the solution using your computer. So your job in this problem is to write a program for it.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/22671.%E2%80%85Tile%E2%80%85Puzzle/c89fa098.png" data-original-src="https://upload.acmicpc.net/069eb837-67f2-429e-93f5-ea811b80b9f9/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 226px; height: 226px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/22671.%E2%80%85Tile%E2%80%85Puzzle/c89fa098.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/22671.%E2%80%85Tile%E2%80%85Puzzle/c89fa098.png" data-original-src="https://upload.acmicpc.net/069eb837-67f2-429e-93f5-ea811b80b9f9/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 226px; height: 226px;" /></p>
 
 <p style="text-align: center;">Figure 1: Example Goal Pattern</p>
 

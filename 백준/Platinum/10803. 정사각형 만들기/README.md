@@ -31,7 +31,7 @@
 
 <p>예를 들어, 아래 왼쪽 그림에서 보인 것과 같이 두 변의 길이가 5와 6인 종이가 주어질 때, 최소 개수의 정사각형 조각을 얻도록 자른 결과를 아래 오른쪽 그림에서 보였다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/10803.%E2%80%85%EC%A0%95%EC%82%AC%EA%B0%81%ED%98%95%E2%80%85%EB%A7%8C%EB%93%A4%EA%B8%B0/cf9483af.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/10803/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:141px; width:268px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/10803.%E2%80%85%EC%A0%95%EC%82%AC%EA%B0%81%ED%98%95%E2%80%85%EB%A7%8C%EB%93%A4%EA%B8%B0/cf9483af.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/10803.%E2%80%85%EC%A0%95%EC%82%AC%EA%B0%81%ED%98%95%E2%80%85%EB%A7%8C%EB%93%A4%EA%B8%B0/cf9483af.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/10803/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:141px; width:268px" /></p>
 
 <p>두 변의 길이가 주어진 직사각형의 종이를 제시한 규칙에 따라 잘랐을 때, 잘려진 조각의 개수가 최소가 되도록 하는 프로그램을 작성하시오.</p>
 

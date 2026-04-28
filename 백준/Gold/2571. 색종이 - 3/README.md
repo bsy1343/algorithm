@@ -20,11 +20,11 @@
 
 <p>예를 들어 흰색 도화지 위에 세 장의 검은색 색종이를 &lt;그림 1&gt;과 같은 모양으로 붙였다. &lt;그림 1&gt;에 표시된 대로 검은색 직사각형을 잘라내면 그 넓이는 22&times;5=110이 된다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/2571.%E2%80%85%EC%83%89%EC%A2%85%EC%9D%B4%E2%80%85-%E2%80%853/d0ff778d.png" data-original-src="https://upload.acmicpc.net/dd83053d-3e5d-4233-a5e9-467be7ea8556/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 324px; height: 257px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/2571.%E2%80%85%EC%83%89%EC%A2%85%EC%9D%B4%E2%80%85-%E2%80%853/d0ff778d.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/2571.%E2%80%85%EC%83%89%EC%A2%85%EC%9D%B4%E2%80%85-%E2%80%853/d0ff778d.png" data-original-src="https://upload.acmicpc.net/dd83053d-3e5d-4233-a5e9-467be7ea8556/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 324px; height: 257px;" /></p>
 
 <p style="text-align: center;">&lt;그림 1&gt;</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/2571.%E2%80%85%EC%83%89%EC%A2%85%EC%9D%B4%E2%80%85-%E2%80%853/d244cf9d.png" data-original-src="https://upload.acmicpc.net/7a7ebae5-6db9-4662-8a1e-03c2a884f771/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 324px; height: 256px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/2571.%E2%80%85%EC%83%89%EC%A2%85%EC%9D%B4%E2%80%85-%E2%80%853/d244cf9d.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/2571.%E2%80%85%EC%83%89%EC%A2%85%EC%9D%B4%E2%80%85-%E2%80%853/d244cf9d.png" data-original-src="https://upload.acmicpc.net/7a7ebae5-6db9-4662-8a1e-03c2a884f771/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 324px; height: 256px;" /></p>
 
 <p style="text-align: center;">&lt;그림 2&gt;</p>
 

@@ -31,7 +31,7 @@
 
 <p>Pomozi Mirku i napi&scaron;i program koji odgovara na sljedeće pitanje: koliki je najmanji broj dijelova mrlje koje će ostati vidljive ispod naljepnice nakon pokrivanja? (Ako je mrlju moguće potpuno prekriti, odgovor je nula.)</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/25162.%E2%80%85Mrlja/83ac6607.png" data-original-src="https://upload.acmicpc.net/ec50d876-af7f-4625-9386-2af0ea721740/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 532px; height: 130px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/25162.%E2%80%85Mrlja/83ac6607.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/25162.%E2%80%85Mrlja/83ac6607.png" data-original-src="https://upload.acmicpc.net/ec50d876-af7f-4625-9386-2af0ea721740/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 532px; height: 130px;" /></p>
 
 <p style="text-align: center;">Slika opisuje treći primjer niže. Lijevo je mrlja, a u sredini naljepnica, koju valja rotirati udesno (za 90&deg; u smjeru kazaljke sata) i potom pomaknuti tako da prekrije sve osim jednog (gornjeg desnog) dijela mrlje, kao na desnom dijelu slike.</p>
 

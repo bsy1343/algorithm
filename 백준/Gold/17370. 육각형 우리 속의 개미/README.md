@@ -18,7 +18,7 @@
 
 <p>무한히 많은 정육각형이 서로 맞닿아 놓인 형태의 개미 우리가 있다. 다음 그림과 같은 형태이고, 하얀색 변으로만 개미가 다닐 수 있다.</p>
 
-<p style="margin-top: 20px;"><img alt="img1" src="%EB%B0%B1%EC%A4%80/Gold/17370.%E2%80%85%EC%9C%A1%EA%B0%81%ED%98%95%E2%80%85%EC%9A%B0%EB%A6%AC%E2%80%85%EC%86%8D%EC%9D%98%E2%80%85%EA%B0%9C%EB%AF%B8/11cdf0cd.png" data-original-src="https://upload.acmicpc.net/a62eeb9c-2d2d-44f8-bc58-f475ba72e514/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="display: block; margin-left: auto; margin-right: auto; width: 100%; max-width: 210px;" /></p>
+<p style="margin-top: 20px;"><img alt="img1" src="%EB%B0%B1%EC%A4%80/Gold/17370.%E2%80%85%EC%9C%A1%EA%B0%81%ED%98%95%E2%80%85%EC%9A%B0%EB%A6%AC%E2%80%85%EC%86%8D%EC%9D%98%E2%80%85%EA%B0%9C%EB%AF%B8/11cdf0cd.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/17370.%E2%80%85%EC%9C%A1%EA%B0%81%ED%98%95%E2%80%85%EC%9A%B0%EB%A6%AC%E2%80%85%EC%86%8D%EC%9D%98%E2%80%85%EA%B0%9C%EB%AF%B8/11cdf0cd.png" data-original-src="https://upload.acmicpc.net/a62eeb9c-2d2d-44f8-bc58-f475ba72e514/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="display: block; margin-left: auto; margin-right: auto; width: 100%; max-width: 210px;" /></p>
 
 <p style="margin-bottom: 20px; text-align: center;">개미 우리의 모습</p>
 
@@ -26,13 +26,13 @@
 
 <p>만약 개미가 변이 세 갈래로 갈라지는 점에 도착하면, 자신이 이동해온 변을 제외한 나머지 두 변 중 하나를 골라 그 방향으로 회전하여 탐색을 계속한다.</p>
 
-<p style="margin-top: 20px;"><img alt="img2" src="%EB%B0%B1%EC%A4%80/Gold/17370.%E2%80%85%EC%9C%A1%EA%B0%81%ED%98%95%E2%80%85%EC%9A%B0%EB%A6%AC%E2%80%85%EC%86%8D%EC%9D%98%E2%80%85%EA%B0%9C%EB%AF%B8/a36a66ae.png" data-original-src="https://upload.acmicpc.net/3c98ee70-eb95-42ed-a469-9ca9e47b77db/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="display: block; margin-left: auto; margin-right: auto; width: 100%; max-width: 180px;" /></p>
+<p style="margin-top: 20px;"><img alt="img2" src="%EB%B0%B1%EC%A4%80/Gold/17370.%E2%80%85%EC%9C%A1%EA%B0%81%ED%98%95%E2%80%85%EC%9A%B0%EB%A6%AC%E2%80%85%EC%86%8D%EC%9D%98%E2%80%85%EA%B0%9C%EB%AF%B8/a36a66ae.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/17370.%E2%80%85%EC%9C%A1%EA%B0%81%ED%98%95%E2%80%85%EC%9A%B0%EB%A6%AC%E2%80%85%EC%86%8D%EC%9D%98%E2%80%85%EA%B0%9C%EB%AF%B8/a36a66ae.png" data-original-src="https://upload.acmicpc.net/3c98ee70-eb95-42ed-a469-9ca9e47b77db/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="display: block; margin-left: auto; margin-right: auto; width: 100%; max-width: 180px;" /></p>
 
 <p style="margin-bottom: 20px; text-align: center;">연두색은 시작 지점, 초록색은 개미가 탐색하며 페로몬을 뿌린 경로. 검은색은 개미, 주황색은 다음 이동을 위해 선택 가능한 두 변을 나타낸다.</p>
 
 <p>개미가 이전에 방문했던, 즉, 페로몬이 뿌려진 지점에 도착하면 이곳이 이미 익숙한 영역이라는 착각에 빠지고 더 이상의 탐색을 멈춘다. 이렇게 탐색을 멈췄을 때, 방향을 회전한 횟수가 정확히 <em>N</em>번이 되는 경우의 수를 구해보자.</p>
 
-<p style="margin-top: 20px;"><img alt="img3" src="%EB%B0%B1%EC%A4%80/Gold/17370.%E2%80%85%EC%9C%A1%EA%B0%81%ED%98%95%E2%80%85%EC%9A%B0%EB%A6%AC%E2%80%85%EC%86%8D%EC%9D%98%E2%80%85%EA%B0%9C%EB%AF%B8/9d0b7278.png" data-original-src="https://upload.acmicpc.net/aff82ba5-e6e9-498c-80ac-04d2cc5cf6f9/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="display: block; margin-left: auto; margin-right: auto; width: 100%; max-width: 320px;" /></p>
+<p style="margin-top: 20px;"><img alt="img3" src="%EB%B0%B1%EC%A4%80/Gold/17370.%E2%80%85%EC%9C%A1%EA%B0%81%ED%98%95%E2%80%85%EC%9A%B0%EB%A6%AC%E2%80%85%EC%86%8D%EC%9D%98%E2%80%85%EA%B0%9C%EB%AF%B8/9d0b7278.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/17370.%E2%80%85%EC%9C%A1%EA%B0%81%ED%98%95%E2%80%85%EC%9A%B0%EB%A6%AC%E2%80%85%EC%86%8D%EC%9D%98%E2%80%85%EA%B0%9C%EB%AF%B8/9d0b7278.png" data-original-src="https://upload.acmicpc.net/aff82ba5-e6e9-498c-80ac-04d2cc5cf6f9/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="display: block; margin-left: auto; margin-right: auto; width: 100%; max-width: 320px;" /></p>
 
 <p style="text-align: center;">방향을 7번 회전하는 두 경로. 페로몬의 궤적은 동일해도 개미의 이동 방향에 따라 경로를 구별하도록 한다.</p>
 

@@ -24,7 +24,7 @@
 
 <p>예를 들어, 아래와 같은 트리를 생각하자. ($N = 7$)</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/25402.%E2%80%85%ED%8A%B8%EB%A6%AC%EC%99%80%E2%80%85%EC%BF%BC%EB%A6%AC/2e3caf35.png" data-original-src="https://upload.acmicpc.net/718e7c6d-b718-45a0-84b7-0ed67bd01c22/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 259px; height: 145px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/25402.%E2%80%85%ED%8A%B8%EB%A6%AC%EC%99%80%E2%80%85%EC%BF%BC%EB%A6%AC/2e3caf35.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/25402.%E2%80%85%ED%8A%B8%EB%A6%AC%EC%99%80%E2%80%85%EC%BF%BC%EB%A6%AC/2e3caf35.png" data-original-src="https://upload.acmicpc.net/718e7c6d-b718-45a0-84b7-0ed67bd01c22/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 259px; height: 145px;" /></p>
 
 <p>만일, $K = 6$, $S = \{1, 2, 3, 4, 5, 6\}$라면, &ldquo;$1$과 $2$&rdquo;, &ldquo;$3$과 $5$&rdquo;, &ldquo;$4$와 $6$&rdquo;은 각각 서로 $S$ 위에서 연결되어 있다. 그러나, &ldquo;$1$과 $6$&rdquo;, &ldquo;$2$와 $7$&rdquo;은 각각 서로 $S$ 위에서 연결되어 있지 않다.</p>
 

@@ -22,7 +22,7 @@
 
 <p>Your uncle asked your help to determine the largest number of properties he could sell (the remaining squares will become recreational parks).</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/5780.%E2%80%85Uncle%E2%80%85Tom%E2%80%99s%E2%80%85Inherited%E2%80%85Land/5eb6dadd.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/5780/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:155px; width:621px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/5780.%E2%80%85Uncle%E2%80%85Tom%E2%80%99s%E2%80%85Inherited%E2%80%85Land/5eb6dadd.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/5780.%E2%80%85Uncle%E2%80%85Tom%E2%80%99s%E2%80%85Inherited%E2%80%85Land/5eb6dadd.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/5780/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:155px; width:621px" /></p>
 
 ### 입력
 

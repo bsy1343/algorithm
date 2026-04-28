@@ -24,7 +24,7 @@
 
 <p>You have been tasked with organizing this community watch program. Of course, it is ideal to minimize the number of patrollers you use. Thus, you must enlist the fewest possible patrollers and assign each to a path between two junctions in the neighborhood such that any street e lies on exactly p<sub>e</sub> patrollers&rsquo; paths.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/20990.%E2%80%85Perfect%E2%80%85Path%E2%80%85Patrol/be078112.png" data-original-src="https://upload.acmicpc.net/64fcbb2c-bc5f-4033-8b3e-0dadec9a4f18/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 313px; height: 98px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/20990.%E2%80%85Perfect%E2%80%85Path%E2%80%85Patrol/be078112.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/20990.%E2%80%85Perfect%E2%80%85Path%E2%80%85Patrol/be078112.png" data-original-src="https://upload.acmicpc.net/64fcbb2c-bc5f-4033-8b3e-0dadec9a4f18/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 313px; height: 98px;" /></p>
 
 <p style="text-align: center;">Figure B.1: An illustration of the first sample. The numbers by the solid black edges indicate how many patrollers must include that edge in their paths. The dashed red curves indicate one possible way to select 10 patrol paths so every edge lies on exactly the required number of patrol paths. That is, one solution is to use 10 patroller paths with endpoints:</p>
 

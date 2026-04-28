@@ -47,4 +47,4 @@
 
 <p>Initial state of the system from the second sample:</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/26241.%E2%80%85A%E2%80%85system%E2%80%85of%E2%80%85balance%E2%80%85scales/14a89c2a.png" data-original-src="https://upload.acmicpc.net/89050783-27f0-43cf-b98f-0d28fb8b4575/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 511px; height: 117px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/26241.%E2%80%85A%E2%80%85system%E2%80%85of%E2%80%85balance%E2%80%85scales/14a89c2a.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/26241.%E2%80%85A%E2%80%85system%E2%80%85of%E2%80%85balance%E2%80%85scales/14a89c2a.png" data-original-src="https://upload.acmicpc.net/89050783-27f0-43cf-b98f-0d28fb8b4575/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 511px; height: 117px;" /></p>

@@ -22,15 +22,15 @@
 
 <p>하지만 준서는 매우매우매우 귀찮았기 때문에 효과적인 퍼즐 해결 부분은 작성하고 싶어 하지 않았다. 아무리 그래도 준서는 조그마한 양심은 남아 있었기에, 핸드폰에 연동해서 자동으로 게임을 진행하는 것은 직접 만들기로 했다. 대신 당신에게 퍼즐을 고득점으로 해결할 수 있는 프로그램 작성을 의뢰했다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/14673.%E2%80%85Crush%E2%80%85Fever/bd7725a5.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14672/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:258px; width:417px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/14673.%E2%80%85Crush%E2%80%85Fever/bd7725a5.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/14673.%E2%80%85Crush%E2%80%85Fever/bd7725a5.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14672/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:258px; width:417px" /></p>
 
 <p>5종류의 퍼즐 조각들이 아무렇게나 쌓여 있는데, 위처럼 복잡한 구조는 아니고 격자 형태로 쌓여 있다. 자신의 차례에 공격을 진행하려면 퍼즐 조각을 세 번 누르면 된다. 퍼즐 조각을 한 번 누를 때마다 그 조각이 파괴되며, 파괴된 조각에서 상하좌우로 인접하고 종류가 같은 조각은 같이 파괴된다. 따라서 인접한 조각들이 연쇄적으로 파괴되며, P개의 조각이 파괴되면 P<sup>2</sup>점을 얻는다. 그 후 공중에 떠 있는 조각이 아래로 가라앉는다. 아래 예시를 보자.</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/14673.%E2%80%85Crush%E2%80%85Fever/c4c068d0.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14672/2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:84px; width:159px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/14673.%E2%80%85Crush%E2%80%85Fever/c4c068d0.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/14673.%E2%80%85Crush%E2%80%85Fever/c4c068d0.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14672/2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:84px; width:159px" /></p>
 
 <p>여기서 3을 지우면 아래와 같은 모습이 된다.</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/14673.%E2%80%85Crush%E2%80%85Fever/ee32d6b5.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14672/3.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:82px; width:156px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/14673.%E2%80%85Crush%E2%80%85Fever/ee32d6b5.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/14673.%E2%80%85Crush%E2%80%85Fever/ee32d6b5.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14672/3.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:82px; width:156px" /></p>
 
 <p>준서의 차례에 얻을 수 있는 최고의 고득점을 구해주는 프로그램을 작성하여 준서를 도와주자.</p>
 

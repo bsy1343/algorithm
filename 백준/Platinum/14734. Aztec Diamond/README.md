@@ -18,11 +18,11 @@
 
 <p>재민이는 1x2의 벽돌로 이루어진 마름모 형태의 고대 문양을 발견했다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/14734.%E2%80%85Aztec%E2%80%85Diamond/c55b4b68.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14734/3.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:93px; width:325px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/14734.%E2%80%85Aztec%E2%80%85Diamond/c55b4b68.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/14734.%E2%80%85Aztec%E2%80%85Diamond/c55b4b68.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14734/3.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:93px; width:325px" /></p>
 
 <p>하지만 가로와 세로 벽돌이 불규칙적으로 놓여 있는 것이 마음에 안 들었던 재민이는 모든 벽돌을 세로로 만들려고 한다. 재민이는 손이 작아서 한 손으로 벽돌을 들 수 없고, 두 손 사이에 벽돌을 끼워서 두 개의 벽돌을 들 수는 있다. 그래서 두 벽돌로 이루어진 2x2 정사각형을 하나 고르고 90도 회전시키는 작업만 가능하다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/14734.%E2%80%85Aztec%E2%80%85Diamond/c9067c11.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14734/4.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:71px; width:377px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/14734.%E2%80%85Aztec%E2%80%85Diamond/c9067c11.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/14734.%E2%80%85Aztec%E2%80%85Diamond/c9067c11.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14734/4.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:71px; width:377px" /></p>
 
 <p>프로그래밍 대회가 곧 시작되기 때문에 여기에 너무 많은 시간을 쓰고 싶지는 않다. 재민이를 도와 주자!</p>
 

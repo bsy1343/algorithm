@@ -27,7 +27,7 @@
 
 <p>Note that the edges can go through the central forbidden square. The only condition is that the corners itself should not lie in the central forbidden square.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/30125.%E2%80%85Lattice%E2%80%85Squares/06589f97.png" data-original-src="https://upload.acmicpc.net/2cf83432-c1f1-4cb1-89e0-df807eaddd99/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/30125.%E2%80%85Lattice%E2%80%85Squares/06589f97.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/30125.%E2%80%85Lattice%E2%80%85Squares/06589f97.png" data-original-src="https://upload.acmicpc.net/2cf83432-c1f1-4cb1-89e0-df807eaddd99/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>The above figure shows the case n = 2 and k = 1. In the figure the central 2 x 2 square is forbidden and the forbidden lattice points are marked with red. When drawing a square you cannot use these points (marked red) for any of the corners. You are allowed to use only the points marked with black. So the only allowed square you can draw is the 4 x 4 square. Hence the answer for this case is 1.</p>
 

@@ -24,11 +24,11 @@
 
 <p>You would really like to become a master of this game, so you have written down the sizes of the boards and the positions of the Here and There squares from several games in the past. Now, you&#39;d like to find the exact number of steps you need to take to get from Here to There on each of the boards. Each square is described by two numbers between 1 and&nbsp;3<sup>N</sup>, the first of them denoting the column and the second one the row the square is in. The square in the upper left corner of the board has coordinates (1, 1), as you can see on the picture below.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/2298.%E2%80%85Here-There/c7ad1fa9.png" data-original-src="https://upload.acmicpc.net/621b8c87-d42d-4184-8693-93f68fef5e78/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/2298.%E2%80%85Here-There/c7ad1fa9.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/2298.%E2%80%85Here-There/c7ad1fa9.png" data-original-src="https://upload.acmicpc.net/621b8c87-d42d-4184-8693-93f68fef5e78/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>You can see one of the shortest paths between squares (1, 1) and (4, 8) on the picture, consisting of 10 steps. Path from (1, 1) to (4, 8)</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/2298.%E2%80%85Here-There/0c1e67fc.png" data-original-src="https://upload.acmicpc.net/8b811183-7325-41b4-92fc-83398b574102/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/2298.%E2%80%85Here-There/0c1e67fc.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/2298.%E2%80%85Here-There/0c1e67fc.png" data-original-src="https://upload.acmicpc.net/8b811183-7325-41b4-92fc-83398b574102/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>You are given several boards and pairs of squares on them and your task is to find the steps-distances between the squares in each pair.</p>
 

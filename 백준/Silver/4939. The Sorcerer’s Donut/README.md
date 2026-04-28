@@ -31,11 +31,11 @@
 <p>Each square sequence does not overlap itself. (Two square sequences can share some squares.)<br />
 The square sequences start from different squares, and/or go to different directions.</p>
 
-<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/4939.%E2%80%85The%E2%80%85Sorcerer%E2%80%99s%E2%80%85Donut/9108f5c7.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/4939/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:209px; width:280px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/4939.%E2%80%85The%E2%80%85Sorcerer%E2%80%99s%E2%80%85Donut/9108f5c7.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/4939.%E2%80%85The%E2%80%85Sorcerer%E2%80%99s%E2%80%85Donut/9108f5c7.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/4939/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:209px; width:280px" /></p>
 
 <p style="text-align:center">Figure B.1: The Sorcerer&rsquo;s Donut Before Filled with Letters, Showing the Mesh and 8 Possible Spell Directions</p>
 
-<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/4939.%E2%80%85The%E2%80%85Sorcerer%E2%80%99s%E2%80%85Donut/bbf00896.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/4939/2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:209px; width:277px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/4939.%E2%80%85The%E2%80%85Sorcerer%E2%80%99s%E2%80%85Donut/bbf00896.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/4939.%E2%80%85The%E2%80%85Sorcerer%E2%80%99s%E2%80%85Donut/bbf00896.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/4939/2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:209px; width:277px" /></p>
 
 <p style="text-align:center">Figure B.2: The Sorcerer&rsquo;s Donut After Filled with Letters</p>
 

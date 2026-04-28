@@ -20,7 +20,7 @@
 
 <p>예를 들어, 6개의 정점으로 이루어진 다음 그래프를 고려해 보자.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/2463.%E2%80%85%EB%B9%84%EC%9A%A9/e3367978.png" data-original-src="https://upload.acmicpc.net/7b221c03-a670-4b02-936a-691209b66487/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 332px; height: 150px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/2463.%E2%80%85%EB%B9%84%EC%9A%A9/e3367978.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/2463.%E2%80%85%EB%B9%84%EC%9A%A9/e3367978.png" data-original-src="https://upload.acmicpc.net/7b221c03-a670-4b02-936a-691209b66487/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 332px; height: 150px;" /></p>
 
 <p>두 정점 2, 6에 대하여, Cost(2,6)을 구하는 과정에서 제거되는 간선들을 차례대로 나열하면 다음과 같다: (2, 3), (4, 5), (3, 5), (3, 4), (2, 6).</p>
 

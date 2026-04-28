@@ -26,7 +26,7 @@
 	<li>총 <em>R</em> 번의 라운드동안 3, 4번 과정이&nbsp;반복된다. 매 라운드마다 공격수가 해당 라운드에 넘어뜨린 도미노의 개수를 세고, <em>R </em>라운드에 걸친 총합이 곧 공격수의 점수가 된다.</li>
 </ol>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/20165.%E2%80%85%EC%9D%B8%EB%82%B4%EC%9D%98%E2%80%85%EB%8F%84%EB%AF%B8%EB%85%B8%E2%80%85%EC%9E%A5%EC%9D%B8%E2%80%85%ED%98%B8%EC%84%9D/e5029528.png" data-original-src="https://upload.acmicpc.net/3a4746db-2d7a-47bb-9f13-ddbac18d032e/-/crop/229x194/0,587/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/20165.%E2%80%85%EC%9D%B8%EB%82%B4%EC%9D%98%E2%80%85%EB%8F%84%EB%AF%B8%EB%85%B8%E2%80%85%EC%9E%A5%EC%9D%B8%E2%80%85%ED%98%B8%EC%84%9D/e5029528.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/20165.%E2%80%85%EC%9D%B8%EB%82%B4%EC%9D%98%E2%80%85%EB%8F%84%EB%AF%B8%EB%85%B8%E2%80%85%EC%9E%A5%EC%9D%B8%E2%80%85%ED%98%B8%EC%84%9D/e5029528.png" data-original-src="https://upload.acmicpc.net/3a4746db-2d7a-47bb-9f13-ddbac18d032e/-/crop/229x194/0,587/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>도미노 공격에 대한 예시 그림이다. 그림의 빨간 숫자들은 넘어진 도미노들을 의미한다.</p>
 

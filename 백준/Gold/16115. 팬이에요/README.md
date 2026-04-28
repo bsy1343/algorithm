@@ -40,10 +40,10 @@
 
 <p>첫 번째 예제의 선풍기는 아래와 같다.</p>
 
-<p style="text-align: center;"><img alt="첫 번째 예제의 선풍기" src="%EB%B0%B1%EC%A4%80/Gold/16115.%E2%80%85%ED%8C%AC%EC%9D%B4%EC%97%90%EC%9A%94/bb3a9d73.png" data-original-src="https://upload.acmicpc.net/d1f1afb1-5e6c-4b65-8892-418e2c2cfcbe/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width:40.31%;" /></p>
+<p style="text-align: center;"><img alt="첫 번째 예제의 선풍기" src="%EB%B0%B1%EC%A4%80/Gold/16115.%E2%80%85%ED%8C%AC%EC%9D%B4%EC%97%90%EC%9A%94/bb3a9d73.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/16115.%E2%80%85%ED%8C%AC%EC%9D%B4%EC%97%90%EC%9A%94/bb3a9d73.png" data-original-src="https://upload.acmicpc.net/d1f1afb1-5e6c-4b65-8892-418e2c2cfcbe/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width:40.31%;" /></p>
 
 <p>이를 반시계 방향으로 45&deg; 돌렸을 때 자취는 아래와 같다. 처음 도형과 마지막 도형을 짙게 칠하였다.</p>
 
-<p style="text-align: center;"><img alt="반시계 방향으로 45° 돌렸을 때 자취" src="%EB%B0%B1%EC%A4%80/Gold/16115.%E2%80%85%ED%8C%AC%EC%9D%B4%EC%97%90%EC%9A%94/1135abba.png" data-original-src="https://upload.acmicpc.net/c90fd8d2-978b-4cfe-816a-5cc426b70233/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width:56.39%;" /></p>
+<p style="text-align: center;"><img alt="반시계 방향으로 45° 돌렸을 때 자취" src="%EB%B0%B1%EC%A4%80/Gold/16115.%E2%80%85%ED%8C%AC%EC%9D%B4%EC%97%90%EC%9A%94/1135abba.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/16115.%E2%80%85%ED%8C%AC%EC%9D%B4%EC%97%90%EC%9A%94/1135abba.png" data-original-src="https://upload.acmicpc.net/c90fd8d2-978b-4cfe-816a-5cc426b70233/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width:56.39%;" /></p>
 
 <p>이렇게 90&deg;를 돌리는 순간 자취는 반지름이 2&radic;<span style="text-decoration: overline;">2</span>인 원이 된다. 따라서 답은 90이다.</p>

@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/25045.%E2%80%85%EB%B9%84%EC%A6%88%EB%A7%88%EC%BC%93/a81bfb11.png" data-original-src="https://upload.acmicpc.net/27ee0fba-ed5d-4548-b18c-792ef436f6c9/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 117px; width: 500px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/25045.%E2%80%85%EB%B9%84%EC%A6%88%EB%A7%88%EC%BC%93/a81bfb11.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/25045.%E2%80%85%EB%B9%84%EC%A6%88%EB%A7%88%EC%BC%93/a81bfb11.png" data-original-src="https://upload.acmicpc.net/27ee0fba-ed5d-4548-b18c-792ef436f6c9/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 117px; width: 500px;" /></p>
 
 <p>비즈마켓은 &quot;고객 기업 운영의 효율화에 기여하며, 그 구성원의 복지 만세를 추구한다.&quot; 라는 기조 아래 기업을 주 대상으로 복지몰 사업, 기업 판촉 및 사은품 사업, 산업재 유통 사업을 하는 온라인 종합상사입니다. 이 주 사업 분야 외에도 비즈마켓은 브랜드 사업, 렌탈 사업, 에너지 사업 등 다양한 분야에서 사업을 진행하고 있습니다. 오늘 신욱이는 비즈마켓으로부터 효율적으로 렌탈 사업을 운영하는 것을 도와달라는 의뢰를 받았습니다.</p>
 

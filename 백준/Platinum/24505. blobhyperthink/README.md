@@ -30,7 +30,7 @@
 
 <p>하지만, 아직 이 문제는 블롭에게&nbsp;너무 쉬웠고, 블롭은 쌍의 원소 수를 열 개로 늘렸다. 하지만, 아직 이 문제는 블롭에게&nbsp;너무 쉬웠고, 블롭은 쌍의 원소 수를 열한 개로 늘렸다. 이제 이 문제는 블롭에게 너무 어려워서 풀 수 없었다!</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/24505.%E2%80%85blobhyperthink/7fa41e43.png" data-original-src="https://upload.acmicpc.net/3edecc05-2c59-4459-b844-35cd01f63cfe/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="display: inline-block; max-width: 384px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/24505.%E2%80%85blobhyperthink/7fa41e43.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/24505.%E2%80%85blobhyperthink/7fa41e43.png" data-original-src="https://upload.acmicpc.net/3edecc05-2c59-4459-b844-35cd01f63cfe/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="display: inline-block; max-width: 384px;" /></p>
 
 <p>블롭을 위해&nbsp;다음&nbsp;조건을 만족하는 $(i,\ j,\ k,\ l,\ m,\ o,\ p,\ q,\ r,\ s,\ t)$ 쌍의 개수를 $10^9+7$로 나눈 나머지를 구하자.</p>
 

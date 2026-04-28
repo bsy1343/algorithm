@@ -20,11 +20,11 @@
 
 <p>지수가 하는 마인크래프트에서는 점프는 한 칸밖에 되지 않으며, 신기하게도 두 칸 이상부터 즉사 낙하 데미지가 들어간다! 따라서 한 곳에서 다른 한 곳으로 이동하기 위해서는 인접한 열의 높이 차가 $1$ 이하여야만 한다. 또한, 모든 블록은 공중에 떠 있을 수 없다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/25963.%E2%80%85%EA%B3%84%EB%8B%A8%E2%80%85%EB%A7%8C%EB%93%A4%EA%B8%B0%E2%80%85(Small)/ba5d5a80.png" data-original-src="https://upload.acmicpc.net/886e9077-a576-4fdd-a5b9-4a05f9756981/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 247px; height: 345px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/25963.%E2%80%85%EA%B3%84%EB%8B%A8%E2%80%85%EB%A7%8C%EB%93%A4%EA%B8%B0%E2%80%85(Small)/ba5d5a80.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/25963.%E2%80%85%EA%B3%84%EB%8B%A8%E2%80%85%EB%A7%8C%EB%93%A4%EA%B8%B0%E2%80%85(Small)/ba5d5a80.png" data-original-src="https://upload.acmicpc.net/886e9077-a576-4fdd-a5b9-4a05f9756981/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 247px; height: 345px;" /></p>
 
 <p>위 그림에서처럼 지수는 왼쪽 끝에서 오른쪽 끝으로 이동하고자 한다. 그런데 지금 상태에서는 인접한 열의 높이 차가 $2$ 이상인 곳이 있어 지수의 캐릭터가 즉사하게 된다. 따라서 몇 개의 블록을 옮겨 블록의 높이 차가 최대 $1$이 되게 하고자 한다. 그러나 지수는 매우 게으른 성격이기 때문에 최소한의 블록만 옮기고 싶다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/25963.%E2%80%85%EA%B3%84%EB%8B%A8%E2%80%85%EB%A7%8C%EB%93%A4%EA%B8%B0%E2%80%85(Small)/91ba15ef.png" data-original-src="https://upload.acmicpc.net/0d57b1f9-8864-42e8-a38e-37d7208bea2c/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 247px; height: 345px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/25963.%E2%80%85%EA%B3%84%EB%8B%A8%E2%80%85%EB%A7%8C%EB%93%A4%EA%B8%B0%E2%80%85(Small)/91ba15ef.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/25963.%E2%80%85%EA%B3%84%EB%8B%A8%E2%80%85%EB%A7%8C%EB%93%A4%EA%B8%B0%E2%80%85(Small)/91ba15ef.png" data-original-src="https://upload.acmicpc.net/0d57b1f9-8864-42e8-a38e-37d7208bea2c/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 247px; height: 345px;" /></p>
 
 <p>위 예시에서는 두 개의 블록을 옮기면 모든 인접한 블록의 높이 차가 최대 $1$이 된다!</p>
 

@@ -54,6 +54,6 @@
 
 ### 힌트
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/18397.%E2%80%85LTBL/d245dd4c.png" data-original-src="https://upload.acmicpc.net/54b71ed2-1759-45cc-80af-17e6380a697b/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 346px; height: 123px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/18397.%E2%80%85LTBL/d245dd4c.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/18397.%E2%80%85LTBL/d245dd4c.png" data-original-src="https://upload.acmicpc.net/54b71ed2-1759-45cc-80af-17e6380a697b/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 346px; height: 123px;" /></p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/18397.%E2%80%85LTBL/34f5248b.png" data-original-src="https://upload.acmicpc.net/16e34e00-02a3-4309-a1dc-9868e3e525e4/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 577px; height: 439px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/18397.%E2%80%85LTBL/34f5248b.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/18397.%E2%80%85LTBL/34f5248b.png" data-original-src="https://upload.acmicpc.net/16e34e00-02a3-4309-a1dc-9868e3e525e4/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 577px; height: 439px;" /></p>

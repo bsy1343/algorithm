@@ -18,7 +18,7 @@
 
 <p>노노그램은 직사각형 격자를 규칙에 맞게 색칠하는 퍼즐 게임이다. 격자의 각 행과 열에는 양의 정수의 배열이 힌트로 주어지는데, 이는 각 행 또는 열에서 연속한 칠해진 칸의 배열을 나타낸다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/26127.%E2%80%85%EB%85%B8%EB%85%B8%EA%B7%B8%EB%9E%A8/5b29e864.png" data-original-src="https://upload.acmicpc.net/9d46e134-7699-434a-89fa-73f51b358770/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="max-width: 100%; width: 300px;" /> <img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/26127.%E2%80%85%EB%85%B8%EB%85%B8%EA%B7%B8%EB%9E%A8/f77ba871.png" data-original-src="https://upload.acmicpc.net/b2891056-e5a8-4ab9-a2ad-0ee75aa06a2a/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="max-width: 100%; width: 300px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/26127.%E2%80%85%EB%85%B8%EB%85%B8%EA%B7%B8%EB%9E%A8/5b29e864.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/26127.%E2%80%85%EB%85%B8%EB%85%B8%EA%B7%B8%EB%9E%A8/5b29e864.png" data-original-src="https://upload.acmicpc.net/9d46e134-7699-434a-89fa-73f51b358770/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="max-width: 100%; width: 300px;" /> <img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/26127.%E2%80%85%EB%85%B8%EB%85%B8%EA%B7%B8%EB%9E%A8/f77ba871.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/26127.%E2%80%85%EB%85%B8%EB%85%B8%EA%B7%B8%EB%9E%A8/f77ba871.png" data-original-src="https://upload.acmicpc.net/b2891056-e5a8-4ab9-a2ad-0ee75aa06a2a/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="max-width: 100%; width: 300px;" /></p>
 
 <p>예를 들어 위의 왼쪽 그림을 보자. 4행에 있는 힌트 $[10]$은 해당 행에서 연속한 $10$칸을 색칠해야 함을 나타낸다. 색칠할 $10$칸은 아무 곳에서나 시작해도 되고, 그 외의 칸은 비워 놔야 한다.</p>
 

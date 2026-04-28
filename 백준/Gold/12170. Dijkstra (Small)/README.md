@@ -20,7 +20,7 @@
 <br />
 You were marked down one point on an algorithms exam for misspelling &quot;Dijkstra&quot; -- between&nbsp;<code>D</code>&nbsp;and&nbsp;<code>stra</code>, you wrote some number of characters, each of which was either&nbsp;<code>i</code>,&nbsp;<code>j</code>, or&nbsp;<code>k</code>. You are prepared to argue to get your point back using&nbsp;<em>quaternions</em>, an actual number system (extended from complex numbers) with the following multiplicative structure:<br />
 <br />
-<img src="%EB%B0%B1%EC%A4%80/Gold/12170.%E2%80%85Dijkstra%E2%80%85(Small)/733d3476.jpeg" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/12170/images-3.jpeg" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="border:0px; height:174px; vertical-align:middle; width:175px" /><br />
+<img src="%EB%B0%B1%EC%A4%80/Gold/12170.%E2%80%85Dijkstra%E2%80%85(Small)/733d3476.jpeg" data-original-src="%EB%B0%B1%EC%A4%80/Gold/12170.%E2%80%85Dijkstra%E2%80%85(Small)/733d3476.jpeg" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/12170/images-3.jpeg" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="border:0px; height:174px; vertical-align:middle; width:175px" /><br />
 <br />
 To multiply one quaternion by another, look at the row for the first quaternion and the column for the second quaternion. For example, to multiply&nbsp;<em>i</em>&nbsp;by&nbsp;<em>j</em>, look in the row for&nbsp;<em>i</em>&nbsp;and the column for&nbsp;<em>j</em>&nbsp;to find that the answer is&nbsp;<em>k</em>. To multiply&nbsp;<em>j</em>&nbsp;by&nbsp;<em>i</em>, look in the row for&nbsp;<em>j</em>&nbsp;and the column for&nbsp;<em>i</em>&nbsp;to find that the answer is&nbsp;<em>-k</em>.<br />
 <br />

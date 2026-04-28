@@ -18,7 +18,7 @@
 
 <p>계단에 그림과 같이 검은색 혹은 흰색 모자를 쓴 아이들이 서 있다. 아이들은 계단 아래쪽만 볼 수 있고 전체 검은색 모자와 흰색 모자의 개수를 각각 알고 있다. 아이들보다 모자가 많아서, 모자가 남을 수 있는데, 이 경우 아이들이 쓰고 있지 않은 모자는 인솔자가 감추고 있다. 인솔자는 계단 맨 위에 있는 아이부터 차례차례 자신이 쓰고 있는 모자의 색을 알 수 있는지 물어보았고, 한 아이가 정답을 맞혔다. (즉 자신이 쓰고 있는 모자의 색을 맞혔다.) 정답을 맞힌 아이가 나온 후에는 그 앞에 있는 아이들에게는 더 이상 물어보지 않았다.</p>
 
-<p><img src="%EB%B0%B1%EC%A4%80/Platinum/12433.%E2%80%85%EB%AA%A8%EC%9E%90%E2%80%85%EC%93%B4%E2%80%85%EC%95%84%EC%9D%B4%EB%93%A4%E2%80%85(Small)/49173409.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/12433/images-41.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="vertical-align:middle" /></p>
+<p><img src="%EB%B0%B1%EC%A4%80/Platinum/12433.%E2%80%85%EB%AA%A8%EC%9E%90%E2%80%85%EC%93%B4%E2%80%85%EC%95%84%EC%9D%B4%EB%93%A4%E2%80%85(Small)/49173409.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/12433.%E2%80%85%EB%AA%A8%EC%9E%90%E2%80%85%EC%93%B4%E2%80%85%EC%95%84%EC%9D%B4%EB%93%A4%E2%80%85(Small)/49173409.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/12433/images-41.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="vertical-align:middle" /></p>
 
 <p>위 그림은 3명의 아이가 검은색/흰색 모자가 각각 2개인 상황에 뒤에서부터 2번째 아이가 정답을 말한 경우이다.</p>
 

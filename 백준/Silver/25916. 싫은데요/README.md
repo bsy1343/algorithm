@@ -16,17 +16,17 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/25916.%E2%80%85%EC%8B%AB%EC%9D%80%EB%8D%B0%EC%9A%94/1532a379.png" data-original-src="https://upload.acmicpc.net/7047e2fb-861b-43df-9d5e-23b23001c102/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 120px; height: 104px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/25916.%E2%80%85%EC%8B%AB%EC%9D%80%EB%8D%B0%EC%9A%94/1532a379.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/25916.%E2%80%85%EC%8B%AB%EC%9D%80%EB%8D%B0%EC%9A%94/1532a379.png" data-original-src="https://upload.acmicpc.net/7047e2fb-861b-43df-9d5e-23b23001c102/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 120px; height: 104px;" /></p>
 
 <p>싫은데요 햄스터는 콩쥐를 위해서 깨진 독을 자기 몸으로 막으려고 한다.</p>
 
 <p>햄스터는 유체라 자기 몸을 그림처럼 늘릴 수 있다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/25916.%E2%80%85%EC%8B%AB%EC%9D%80%EB%8D%B0%EC%9A%94/651bb739.png" data-original-src="https://upload.acmicpc.net/fc7b80e6-a1fb-4e6f-a5bd-9fbbef6e349d/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 591px; height: 186px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/25916.%E2%80%85%EC%8B%AB%EC%9D%80%EB%8D%B0%EC%9A%94/651bb739.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/25916.%E2%80%85%EC%8B%AB%EC%9D%80%EB%8D%B0%EC%9A%94/651bb739.png" data-original-src="https://upload.acmicpc.net/fc7b80e6-a1fb-4e6f-a5bd-9fbbef6e349d/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 591px; height: 186px;" /></p>
 
 <p>또, 햄스터는 유체라 자기 몸을 아래 그림처럼 늘릴 수도 있다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/25916.%E2%80%85%EC%8B%AB%EC%9D%80%EB%8D%B0%EC%9A%94/a12b6cef.png" data-original-src="https://upload.acmicpc.net/4f612b6a-fb6f-4315-ba9b-3682db7b5741/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 591px; height: 180px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/25916.%E2%80%85%EC%8B%AB%EC%9D%80%EB%8D%B0%EC%9A%94/a12b6cef.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/25916.%E2%80%85%EC%8B%AB%EC%9D%80%EB%8D%B0%EC%9A%94/a12b6cef.png" data-original-src="https://upload.acmicpc.net/4f612b6a-fb6f-4315-ba9b-3682db7b5741/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 591px; height: 180px;" /></p>
 
 <p>하지만 햄스터의 부피는 $M$으로 정해져 있기 때문에, 늘릴 수 있는 크기에는 한계가 있다.</p>
 

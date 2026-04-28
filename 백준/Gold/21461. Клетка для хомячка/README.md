@@ -20,7 +20,7 @@
 
 <p>Все кубики оказались склеены в две фигуры. Любые два кубика в каждой из фигур либо не имеют общих точек, либо имеют общую грань, либо имеют общее ребро, но в последнем случае есть кубик, с которым каждый из них имеет общую грань. Каждую фигуру можно положить на стол так, что каждый кубик будет касаться стола одной из своих граней.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/21461.%E2%80%85%D0%9A%D0%BB%D0%B5%D1%82%D0%BA%D0%B0%E2%80%85%D0%B4%D0%BB%D1%8F%E2%80%85%D1%85%D0%BE%D0%BC%D1%8F%D1%87%D0%BA%D0%B0/56216260.png" data-original-src="https://upload.acmicpc.net/bc4eba8f-e6bb-4822-b92f-9aa16e856add/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 331px; height: 123px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/21461.%E2%80%85%D0%9A%D0%BB%D0%B5%D1%82%D0%BA%D0%B0%E2%80%85%D0%B4%D0%BB%D1%8F%E2%80%85%D1%85%D0%BE%D0%BC%D1%8F%D1%87%D0%BA%D0%B0/56216260.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/21461.%E2%80%85%D0%9A%D0%BB%D0%B5%D1%82%D0%BA%D0%B0%E2%80%85%D0%B4%D0%BB%D1%8F%E2%80%85%D1%85%D0%BE%D0%BC%D1%8F%D1%87%D0%BA%D0%B0/56216260.png" data-original-src="https://upload.acmicpc.net/bc4eba8f-e6bb-4822-b92f-9aa16e856add/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 331px; height: 123px;" /></p>
 
 <p>Теперь Андрюша хочет положить эти две фигуры на стол так, чтобы получилась клетка для хомячка. Фигуры должны быть положены таким образом, чтобы каждый кубик касался стола гранью. Стороны нижних граней кубиков должны быть параллельны сторонам стола. Любые два кубика, принадлежащие различным фигурам, должны либо не касаться друг друга, либо иметь общую грань, либо иметь общее ребро. Фигуры разрешается поворачивать и переворачивать.</p>
 
@@ -30,7 +30,7 @@
 
 <p>Например, две фигуры, показанные на рисунке выше, можно расположить как показано на следующем рисунке. Если выпустить хомячка в точку, отмеченную стрелкой, то доступная ему территория будет иметь площадь равную четырем.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/21461.%E2%80%85%D0%9A%D0%BB%D0%B5%D1%82%D0%BA%D0%B0%E2%80%85%D0%B4%D0%BB%D1%8F%E2%80%85%D1%85%D0%BE%D0%BC%D1%8F%D1%87%D0%BA%D0%B0/594b3a7d.png" data-original-src="https://upload.acmicpc.net/7eed4ff1-46a5-4e2c-a056-1553d28ed067/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 143px; height: 162px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/21461.%E2%80%85%D0%9A%D0%BB%D0%B5%D1%82%D0%BA%D0%B0%E2%80%85%D0%B4%D0%BB%D1%8F%E2%80%85%D1%85%D0%BE%D0%BC%D1%8F%D1%87%D0%BA%D0%B0/594b3a7d.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/21461.%E2%80%85%D0%9A%D0%BB%D0%B5%D1%82%D0%BA%D0%B0%E2%80%85%D0%B4%D0%BB%D1%8F%E2%80%85%D1%85%D0%BE%D0%BC%D1%8F%D1%87%D0%BA%D0%B0/594b3a7d.png" data-original-src="https://upload.acmicpc.net/7eed4ff1-46a5-4e2c-a056-1553d28ed067/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 143px; height: 162px;" /></p>
 
 ### 입력
 

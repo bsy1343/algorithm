@@ -26,4 +26,4 @@
 
 <p>For each input case, print one line of output listing the top sticks in the format given in the sample. The top sticks should be listed in order in which they were thrown.</p>
 
-<p>The picture to the right below illustrates the first case from input.<img alt="" src="%EB%B0%B1%EC%A4%80/Gold/4288.%E2%80%85Pick-up%E2%80%85sticks/fe38ff39.jpg" data-original-src="https://www.acmicpc.net/upload/images2/C.jpg" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="float:right; height:270px; width:333px" /></p>
+<p>The picture to the right below illustrates the first case from input.<img alt="" src="%EB%B0%B1%EC%A4%80/Gold/4288.%E2%80%85Pick-up%E2%80%85sticks/fe38ff39.jpg" data-original-src="%EB%B0%B1%EC%A4%80/Gold/4288.%E2%80%85Pick-up%E2%80%85sticks/fe38ff39.jpg" data-original-src="https://www.acmicpc.net/upload/images2/C.jpg" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="float:right; height:270px; width:333px" /></p>

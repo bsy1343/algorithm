@@ -20,7 +20,7 @@
 
 <p>This problem is limited to binary Christmas trees. Such trees consist of a trunk, which splits into two subtrees. Each subtree may itself split further into two smaller subtrees and so on. A subtree that does not split any further is a twig. A twig may be decorated by attaching at most one ball to it.</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/9652.%E2%80%85Jingle%E2%80%85Balls/90130fc7.png" data-original-src="https://www.acmicpc.net/upload/images2/jingle.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:245px; width:299px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/9652.%E2%80%85Jingle%E2%80%85Balls/90130fc7.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/9652.%E2%80%85Jingle%E2%80%85Balls/90130fc7.png" data-original-src="https://www.acmicpc.net/upload/images2/jingle.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:245px; width:299px" /></p>
 
 <p>Figure 1 &ndash; Example of a tree with subtrees, twigs and one ball.</p>
 
@@ -58,6 +58,6 @@
 
 ### 힌트
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/9652.%E2%80%85Jingle%E2%80%85Balls/1ed184d2.png" data-original-src="https://www.acmicpc.net/upload/images2/jingle2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:236px; width:600px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/9652.%E2%80%85Jingle%E2%80%85Balls/1ed184d2.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/9652.%E2%80%85Jingle%E2%80%85Balls/1ed184d2.png" data-original-src="https://www.acmicpc.net/upload/images2/jingle2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:236px; width:600px" /></p>
 
 <p>Figure 2 &ndash; Trees corresponding to the example input cases.</p>

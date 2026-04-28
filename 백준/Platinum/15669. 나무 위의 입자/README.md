@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/15669.%E2%80%85%EB%82%98%EB%AC%B4%E2%80%85%EC%9C%84%EC%9D%98%E2%80%85%EC%9E%85%EC%9E%90/5a28f47a.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15669/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 471px; height: 324px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/15669.%E2%80%85%EB%82%98%EB%AC%B4%E2%80%85%EC%9C%84%EC%9D%98%E2%80%85%EC%9E%85%EC%9E%90/5a28f47a.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/15669.%E2%80%85%EB%82%98%EB%AC%B4%E2%80%85%EC%9C%84%EC%9D%98%E2%80%85%EC%9E%85%EC%9E%90/5a28f47a.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15669/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 471px; height: 324px;" /></p>
 
 <p>트리란, 사이클이 없는 연결 그래프를 의미한다. 위 그림은 트리 모양의 입자가속기와 그 위의 어떤 정점에 놓인 특별한 입자 하나를 표시하고 있다. RB 입자라고 불리는 이 특이한 입자는 안정한 상태에서는 빨간색이지만, 불안정해질 경우 1초마다 색이 변하게 된다. 만일 빨간색이었다면 검은색이 되며, 검은색이었다면 빨간색으로 변하게 된다.</p>
 

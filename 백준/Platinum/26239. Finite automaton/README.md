@@ -60,4 +60,4 @@
 
 <p>Shown below is the DFA used in the sample. The letter &quot;<code>S</code>&quot; and the number are shown near each state. Bold arrow points to the start state. Each normal arrow describes the state the DFA goes to after reading the digit written near the arrow.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/26239.%E2%80%85Finite%E2%80%85automaton/04840ee9.png" data-original-src="https://upload.acmicpc.net/a704eafc-fed8-4b03-a4ab-36db21ec3f91/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 250px; height: 204px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/26239.%E2%80%85Finite%E2%80%85automaton/04840ee9.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/26239.%E2%80%85Finite%E2%80%85automaton/04840ee9.png" data-original-src="https://upload.acmicpc.net/a704eafc-fed8-4b03-a4ab-36db21ec3f91/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 250px; height: 204px;" /></p>

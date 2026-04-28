@@ -22,7 +22,7 @@
 
 <p>We make the following assumptions about the input images. The images contain only three different pixel values: for the background, the dice and the dots on the dice. We consider two pixels connected if they share an edge -- meeting at a corner is not enough. In the figure, pixels A and B are connected, but B and C are not.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/6688.%E2%80%85The%E2%80%85Die%E2%80%85Is%E2%80%85Cast/8dfe1143.gif" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/6688/1.gif" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:77px; width:73px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/6688.%E2%80%85The%E2%80%85Die%E2%80%85Is%E2%80%85Cast/8dfe1143.gif" data-original-src="%EB%B0%B1%EC%A4%80/Gold/6688.%E2%80%85The%E2%80%85Die%E2%80%85Is%E2%80%85Cast/8dfe1143.gif" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/6688/1.gif" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:77px; width:73px" /></p>
 
 <p>A set S of pixels is connected if for every pair a,b of pixels in S, there is a sequence a<sub>1</sub>, a<sub>2</sub>, ... a<sub>k</sub> in S such that a = a<sub>1</sub>, b = a<sub>k</sub>, and for any 1 &lt;= i &lt; l, a<sub>i</sub> and a<sub>i+1</sub> are connected.</p>
 

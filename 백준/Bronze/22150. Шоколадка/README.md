@@ -22,7 +22,7 @@
 
 <p>На картинке приведены шоколадки из первых двух запросов в примере.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/22150.%E2%80%85%D0%A8%D0%BE%D0%BA%D0%BE%D0%BB%D0%B0%D0%B4%D0%BA%D0%B0/283449a1.png" data-original-src="https://upload.acmicpc.net/e2ee03e9-55b0-426d-9f56-74f7039a802c/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 422px; height: 183px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/22150.%E2%80%85%D0%A8%D0%BE%D0%BA%D0%BE%D0%BB%D0%B0%D0%B4%D0%BA%D0%B0/283449a1.png" data-original-src="%EB%B0%B1%EC%A4%80/Bronze/22150.%E2%80%85%D0%A8%D0%BE%D0%BA%D0%BE%D0%BB%D0%B0%D0%B4%D0%BA%D0%B0/283449a1.png" data-original-src="https://upload.acmicpc.net/e2ee03e9-55b0-426d-9f56-74f7039a802c/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 422px; height: 183px;" /></p>
 
 ### 입력
 

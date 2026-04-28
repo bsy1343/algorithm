@@ -20,7 +20,7 @@
 	표준 휴대전화의 키패드에는 글자들이 다음과 같이 번호키와 대응되어있다.</p>
 
 <p>
-	<img alt="" src="%EB%B0%B1%EC%A4%80/Gold/2706.%E2%80%85%EB%AC%B8%EC%9E%90%E2%80%85%EB%B3%B4%EB%82%B4%EA%B8%B0/ddcfe12d.png" data-original-src="https://www.acmicpc.net/upload/images/key.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 225px; height: 263px;" /></p>
+	<img alt="" src="%EB%B0%B1%EC%A4%80/Gold/2706.%E2%80%85%EB%AC%B8%EC%9E%90%E2%80%85%EB%B3%B4%EB%82%B4%EA%B8%B0/ddcfe12d.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/2706.%E2%80%85%EB%AC%B8%EC%9E%90%E2%80%85%EB%B3%B4%EB%82%B4%EA%B8%B0/ddcfe12d.png" data-original-src="https://www.acmicpc.net/upload/images/key.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 225px; height: 263px;" /></p>
 
 <p>
 	글자 C를 입력하기 위해서는 &#39;2&#39;키를 3번 눌러야 한다. 이와 같이 글자를 입력하기 위해 눌러야 하는 키의 번호와 눌러야 하는 횟수는 글자가 어떤 키의 리스트에 속해있는가와 리스트에서 몇 번째인지에 따라 다르다.</p>

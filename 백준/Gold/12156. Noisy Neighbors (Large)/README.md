@@ -46,4 +46,4 @@ In Case #3, the optimal strategy is to place the eight tenants in a ring, leavin
 <br />
 Here are illustrations of sample cases 1-3. Each red wall adds a point of unhappiness.<br />
 <br />
-<img src="%EB%B0%B1%EC%A4%80/Gold/12156.%E2%80%85Noisy%E2%80%85Neighbors%E2%80%85(Large)/37fc61f9.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/12155/images-75.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc"/></p>
+<img src="%EB%B0%B1%EC%A4%80/Gold/12156.%E2%80%85Noisy%E2%80%85Neighbors%E2%80%85(Large)/37fc61f9.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/12156.%E2%80%85Noisy%E2%80%85Neighbors%E2%80%85(Large)/37fc61f9.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/12155/images-75.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc"/></p>

@@ -34,4 +34,4 @@
 
 <p>ビルの総数が 9 であり、高さが空港に近いものから順に 3, 7, 5, 9, 8, 10, 10, 11, 9 である場合 を示したのが下図である。色をつけて示したビルを選ぶことにより、飾り付けに利用するビル の数を最大にすることができる。このときの最大値は 5 である。</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/24158.%E2%80%85%E3%83%93%E3%83%AB%E3%81%AE%E9%A3%BE%E3%82%8A%E3%81%A4%E3%81%91%E2%80%85(Building)/8ac5eb79.png" data-original-src="https://upload.acmicpc.net/5c354a93-1b71-4e82-ac4b-71959aba6592/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 342px; height: 220px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/24158.%E2%80%85%E3%83%93%E3%83%AB%E3%81%AE%E9%A3%BE%E3%82%8A%E3%81%A4%E3%81%91%E2%80%85(Building)/8ac5eb79.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/24158.%E2%80%85%E3%83%93%E3%83%AB%E3%81%AE%E9%A3%BE%E3%82%8A%E3%81%A4%E3%81%91%E2%80%85(Building)/8ac5eb79.png" data-original-src="https://upload.acmicpc.net/5c354a93-1b71-4e82-ac4b-71959aba6592/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 342px; height: 220px;" /></p>

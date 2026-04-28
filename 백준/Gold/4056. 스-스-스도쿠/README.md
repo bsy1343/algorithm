@@ -22,7 +22,7 @@
 
 <p>새우는 오징어보다 스도쿠를 먼저 풀어서 자랑하기 위해 프로그래밍으로 스도쿠를 풀어보려고 한다.</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/4056.%E2%80%85%EC%8A%A4-%EC%8A%A4-%EC%8A%A4%EB%8F%84%EC%BF%A0/ed9f5b9f.png" data-original-src="https://www.acmicpc.net/upload/images2/sususudoku.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/4056.%E2%80%85%EC%8A%A4-%EC%8A%A4-%EC%8A%A4%EB%8F%84%EC%BF%A0/ed9f5b9f.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/4056.%E2%80%85%EC%8A%A4-%EC%8A%A4-%EC%8A%A4%EB%8F%84%EC%BF%A0/ed9f5b9f.png" data-original-src="https://www.acmicpc.net/upload/images2/sususudoku.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>위의 모습 처럼 생긴 스도쿠가 있다면, 숫자는 숫자로, 빈 칸은 0으로 주어진다.</p>
 

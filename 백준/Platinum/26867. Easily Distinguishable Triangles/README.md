@@ -20,7 +20,7 @@
 
 <p>Eva is going to draw a black triangle inside each empty cell. She wants each triangle to be right-angled and have an area of $\frac{1}{2}$ square unit cells. Thus, there are four ways to draw a single triangle:</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/26867.%E2%80%85Easily%E2%80%85Distinguishable%E2%80%85Triangles/c89758d3.png" data-original-src="https://upload.acmicpc.net/1060a6ec-8448-47dc-98d4-7a105d159430/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 325px; height: 57px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/26867.%E2%80%85Easily%E2%80%85Distinguishable%E2%80%85Triangles/c89758d3.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/26867.%E2%80%85Easily%E2%80%85Distinguishable%E2%80%85Triangles/c89758d3.png" data-original-src="https://upload.acmicpc.net/1060a6ec-8448-47dc-98d4-7a105d159430/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 325px; height: 57px;" /></p>
 
 <p>Each triangle is a piece of art, and Eva wants them to be easily distinguishable from the rest of the painting. To achieve that, no two black triangles may share a common side with each other, and no black triangle may share a common side with a black square. Note that two black squares are allowed to share a common side.</p>
 
@@ -40,10 +40,10 @@
 
 <p>In the first example test, there are $4$ ways to finish the painting, as illustrated below:</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/26867.%E2%80%85Easily%E2%80%85Distinguishable%E2%80%85Triangles/797b7d03.png" data-original-src="https://upload.acmicpc.net/2996c785-a737-4784-bbd5-1118afa16778/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 506px; height: 100px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/26867.%E2%80%85Easily%E2%80%85Distinguishable%E2%80%85Triangles/797b7d03.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/26867.%E2%80%85Easily%E2%80%85Distinguishable%E2%80%85Triangles/797b7d03.png" data-original-src="https://upload.acmicpc.net/2996c785-a737-4784-bbd5-1118afa16778/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 506px; height: 100px;" /></p>
 
 <p>In the second example test, there is a single way to finish the painting:</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/26867.%E2%80%85Easily%E2%80%85Distinguishable%E2%80%85Triangles/92ab0fd2.png" data-original-src="https://upload.acmicpc.net/9d43d0aa-dec7-4639-b28e-c9ad5b484830/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 145px; height: 145px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/26867.%E2%80%85Easily%E2%80%85Distinguishable%E2%80%85Triangles/92ab0fd2.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/26867.%E2%80%85Easily%E2%80%85Distinguishable%E2%80%85Triangles/92ab0fd2.png" data-original-src="https://upload.acmicpc.net/9d43d0aa-dec7-4639-b28e-c9ad5b484830/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 145px; height: 145px;" /></p>
 
 <p>In the third example test, regardless of how Eva draws the triangle in the center cell, it will share two sides with black squares.</p>

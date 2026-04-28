@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/15678.%E2%80%85%EC%97%B0%EC%84%B8%EC%9B%8C%ED%84%B0%ED%8C%8C%ED%81%AC/71c65f8b.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15678/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 422px; height: 279px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/15678.%E2%80%85%EC%97%B0%EC%84%B8%EC%9B%8C%ED%84%B0%ED%8C%8C%ED%81%AC/71c65f8b.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/15678.%E2%80%85%EC%97%B0%EC%84%B8%EC%9B%8C%ED%84%B0%ED%8C%8C%ED%81%AC/71c65f8b.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15678/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 422px; height: 279px;" /></p>
 
 <p style="text-align: center;">(연세대학교 도서관, 2016년 7월)</p>
 

@@ -18,11 +18,11 @@
 
 <p>A rectangle whose edges are parallel to the axes can always be defined by the two ends of one of its diagonals. For example, a rectangle can be drawn when the top left $(x_1, y_1)$ and the bottom right $(x_2, y_2)$ coordinates are given.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/9927.%E2%80%85Rectangles/d7215ede.png" data-original-src="https://upload.acmicpc.net/c8cfb5cc-769b-41ef-b0bd-bd7ae44fdf76/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 277px; height: 170px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/9927.%E2%80%85Rectangles/d7215ede.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/9927.%E2%80%85Rectangles/d7215ede.png" data-original-src="https://upload.acmicpc.net/c8cfb5cc-769b-41ef-b0bd-bd7ae44fdf76/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 277px; height: 170px;" /></p>
 
 <p>Given a set of rectangles, we are interested in finding the total area covered by them.  For instance, the total area covered by the rectangles below is the area covered within the solid lines.  Notice that there is no double counting for overlapping regions.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/9927.%E2%80%85Rectangles/ad178004.png" data-original-src="https://upload.acmicpc.net/e3f8f8b3-0b0b-4e02-97d4-e1948e638989/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 474px; height: 234px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/9927.%E2%80%85Rectangles/ad178004.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/9927.%E2%80%85Rectangles/ad178004.png" data-original-src="https://upload.acmicpc.net/e3f8f8b3-0b0b-4e02-97d4-e1948e638989/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 474px; height: 234px;" /></p>
 
 <p>Write a program that, given a set of rectangles, computes the total area covered by all the rectangles.</p>
 

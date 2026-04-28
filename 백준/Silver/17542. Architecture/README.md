@@ -24,7 +24,7 @@
 
 <p>Figure A.1 shows a possible city with the northern and eastern skylines exactly as given in the input of the first sample.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/17542.%E2%80%85Architecture/c9d47510.png" data-original-src="https://upload.acmicpc.net/8ff3e217-443b-4877-8032-66eaa0c625c6/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 108px; height: 85px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/17542.%E2%80%85Architecture/c9d47510.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/17542.%E2%80%85Architecture/c9d47510.png" data-original-src="https://upload.acmicpc.net/8ff3e217-443b-4877-8032-66eaa0c625c6/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 108px; height: 85px;" /></p>
 
 <p style="text-align: center;">Figure A.1: Example city showing sample 1 has a valid solution.</p>
 

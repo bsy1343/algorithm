@@ -20,7 +20,7 @@
 
 <p>For example, the following is a binary search tree.</p>
 
-<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/10441.%E2%80%85Preorder%E2%80%85Traversals/8c5cb384.png" data-original-src="https://www.acmicpc.net/upload/images2/bst.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:191px; width:308px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/10441.%E2%80%85Preorder%E2%80%85Traversals/8c5cb384.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/10441.%E2%80%85Preorder%E2%80%85Traversals/8c5cb384.png" data-original-src="https://www.acmicpc.net/upload/images2/bst.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:191px; width:308px" /></p>
 
 <p>A preorder traversal is defined by the following recursive pseudocode:</p>
 

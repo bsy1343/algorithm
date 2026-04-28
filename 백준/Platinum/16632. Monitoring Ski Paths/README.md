@@ -24,7 +24,7 @@
 
 <p>Your job is to look through the ski plans and set up monitors at some of the junctions to count how many skiers actually show up. To keep operating costs as low as possible, you should determine the minimum number of junctions that need to be monitored so that each skier passes through at least one monitored junction.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/16632.%E2%80%85Monitoring%E2%80%85Ski%E2%80%85Paths/2a172449.png" data-original-src="https://upload.acmicpc.net/94f7663f-1792-4d8d-8206-845483f59b66/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 314px; height: 217px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/16632.%E2%80%85Monitoring%E2%80%85Ski%E2%80%85Paths/2a172449.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/16632.%E2%80%85Monitoring%E2%80%85Ski%E2%80%85Paths/2a172449.png" data-original-src="https://upload.acmicpc.net/94f7663f-1792-4d8d-8206-845483f59b66/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 314px; height: 217px;" /></p>
 
 <p style="text-align: center;">Figure I.1: Illustration of the first sample input.</p>
 

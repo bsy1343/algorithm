@@ -20,7 +20,7 @@
 
 <p>Let&#39;s consider a point to be located <em>inside</em> a parabola if it located above the parabola in case of positive coefficient $a$, or below the parabola in case of negative $a$.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/24862.%E2%80%85Lots%E2%80%85of%E2%80%85Parabolas/2f7a1336.png" data-original-src="https://upload.acmicpc.net/de9abf28-fe63-4429-8091-1465660a81fe/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 236px; height: 275px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/24862.%E2%80%85Lots%E2%80%85of%E2%80%85Parabolas/2f7a1336.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/24862.%E2%80%85Lots%E2%80%85of%E2%80%85Parabolas/2f7a1336.png" data-original-src="https://upload.acmicpc.net/de9abf28-fe63-4429-8091-1465660a81fe/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 236px; height: 275px;" /></p>
 
 <p>On this figure, the point $P$ is located inside both parabolas, the point $Q$ is inside one of them, and the point $R$ is inside none of them.</p>
 

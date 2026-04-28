@@ -18,7 +18,7 @@
 
 <p>진흥이는 나무젓가락을 $N$쌍 이용하여 직사각형 두 개를 만들려고 한다. 각 나무젓가락 쌍에는 $1$번부터 $N$번까지의 서로 다른 번호가 붙어있고, $i$번 나무젓가락의 길이는 $L_i$이다. 진흥이는 $1$부터 $N$번 중 원하는 $2M$개의 서로 다른 번호를 고르고, 고른 번호의 나무젓가락을 두 쌍씩 짝짓는다. 짝지은 두 쌍의 나무젓가락마다 한 나무젓가락을 가로로, 다른 나무젓가락을 세로로 하는 직사각형을 만든다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/30091.%E2%80%85%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95%E2%80%85%EB%A7%8C%EB%93%A4%EA%B8%B0/cae740ea.png" data-original-src="https://upload.acmicpc.net/05d7a0fd-0cf8-497f-8f67-f979303f680d/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 611px; height: 269px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/30091.%E2%80%85%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95%E2%80%85%EB%A7%8C%EB%93%A4%EA%B8%B0/cae740ea.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/30091.%E2%80%85%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95%E2%80%85%EB%A7%8C%EB%93%A4%EA%B8%B0/cae740ea.png" data-original-src="https://upload.acmicpc.net/05d7a0fd-0cf8-497f-8f67-f979303f680d/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 611px; height: 269px;" /></p>
 
 <p style="text-align: center;">왼쪽 그림은 길이 $5$의 나무젓가락을 가로로, 길이 $6$의 나무젓가락을 세로로 하여 직사각형을 만든 모습이다. 오른쪽 그림은 길이 $7$의 나무젓가락을 가로로, 길이 $4$의 나무젓가락을 세로로 하여 직사각형을 만든 모습이다.</p>
 

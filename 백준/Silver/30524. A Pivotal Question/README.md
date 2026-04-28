@@ -18,11 +18,11 @@
 
 <p>Quicksort is a recursive sorting algorithm developed in 1959 by Tony Hoare. One of the major steps in the algorithm is the <em>partition\/</em> step: given an element $p$ in the array (the <em>pivot\/</em> element) rearrange the elements in the array as shown below where all the values in $X_L$ are $\leq p$ and all elements in $X_R$ are $&gt; p$.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/30524.%E2%80%85A%E2%80%85Pivotal%E2%80%85Question/a3141e71.png" data-original-src="https://upload.acmicpc.net/c9651717-7428-44b4-914f-7e07132351c9/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 280px; height: 41px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/30524.%E2%80%85A%E2%80%85Pivotal%E2%80%85Question/a3141e71.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/30524.%E2%80%85A%E2%80%85Pivotal%E2%80%85Question/a3141e71.png" data-original-src="https://upload.acmicpc.net/c9651717-7428-44b4-914f-7e07132351c9/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 280px; height: 41px;" /></p>
 
 <p>Figure A.1 below shows an array before and after it&#39;s been partitioned with the pivot element $13$. Note that the elements in $X_L$ and $X_R$ are typically not in sorted order and either one of them could be empty.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/30524.%E2%80%85A%E2%80%85Pivotal%E2%80%85Question/fc4ca5ef.png" data-original-src="https://upload.acmicpc.net/2c710065-8851-4085-886e-40a0b2532ff0/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 575px; height: 41px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/30524.%E2%80%85A%E2%80%85Pivotal%E2%80%85Question/fc4ca5ef.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/30524.%E2%80%85A%E2%80%85Pivotal%E2%80%85Question/fc4ca5ef.png" data-original-src="https://upload.acmicpc.net/2c710065-8851-4085-886e-40a0b2532ff0/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 575px; height: 41px;" /></p>
 
 <p style="text-align: center;">Figure A.1: An array before and after a partition</p>
 

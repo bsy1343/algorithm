@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/32136.%E2%80%85%EC%86%8C%EC%8B%A0%EB%B0%9C%EC%96%B8/75b0898f.png" data-original-src="https://upload.acmicpc.net/68e62ade-1ff0-47b5-b919-30463224f184/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 509px; height: 400px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/32136.%E2%80%85%EC%86%8C%EC%8B%A0%EB%B0%9C%EC%96%B8/75b0898f.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/32136.%E2%80%85%EC%86%8C%EC%8B%A0%EB%B0%9C%EC%96%B8/75b0898f.png" data-original-src="https://upload.acmicpc.net/68e62ade-1ff0-47b5-b919-30463224f184/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 509px; height: 400px;" /></p>
 
 <p>때아닌 한파로 목장에 있던 모든 소의 신발이 언 상태가 되어버렸다! 피돌이는 히터를 하나 설치해서 얼음을 녹이려고 한다.</p>
 

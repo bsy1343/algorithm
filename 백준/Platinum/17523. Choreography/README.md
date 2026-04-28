@@ -48,11 +48,11 @@
 
 <p>For example, in Figure E. 1, there are six intervals on a stage, which are denoted by numbers from 1 to 6. The blue intervals 1 and 4 are intervals on which two members stand in the start of choreography and the red intervals 3 and 6 are ones in the end.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/17523.%E2%80%85Choreography/1566645d.png" data-original-src="https://upload.acmicpc.net/a5a7ec2f-08f9-4c83-a135-045bf66faa46/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 280px; height: 117px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/17523.%E2%80%85Choreography/1566645d.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/17523.%E2%80%85Choreography/1566645d.png" data-original-src="https://upload.acmicpc.net/a5a7ec2f-08f9-4c83-a135-045bf66faa46/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 280px; height: 117px;" /></p>
 
 <p style="text-align: center;">Figure E. 1 Initial configuration <em>S</em> of the choreography on a stage</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/17523.%E2%80%85Choreography/8a2ccabb.png" data-original-src="https://upload.acmicpc.net/fef83e14-8f6c-4bba-9fb2-becae6b29466/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 668px; height: 275px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/17523.%E2%80%85Choreography/8a2ccabb.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/17523.%E2%80%85Choreography/8a2ccabb.png" data-original-src="https://upload.acmicpc.net/fef83e14-8f6c-4bba-9fb2-becae6b29466/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 668px; height: 275px;" /></p>
 
 <p style="text-align: center;">Figure E. 2 Four steps of choreography</p>
 

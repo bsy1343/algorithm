@@ -26,19 +26,19 @@
 
 <p>예를 들어, $N = 6$, $M = 8$, $K = 3$이고 막혀 있는 칸이 없는 보드를 생각하자. $(2, 3)$에 놓인 말이 움직일 수 있는 칸은 총 $5$개로 다음 그림에 <code>O</code> 표시된 것과 같다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/28218.%E2%80%85%EA%B2%A9%EC%9E%90%E2%80%85%EA%B2%8C%EC%9E%84/7fbd2f77.png" data-original-src="https://upload.acmicpc.net/3fc8af26-4b5e-4e57-b52b-7310bd71b231/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 240px; height: 182px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/28218.%E2%80%85%EA%B2%A9%EC%9E%90%E2%80%85%EA%B2%8C%EC%9E%84/7fbd2f77.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/28218.%E2%80%85%EA%B2%A9%EC%9E%90%E2%80%85%EA%B2%8C%EC%9E%84/7fbd2f77.png" data-original-src="https://upload.acmicpc.net/3fc8af26-4b5e-4e57-b52b-7310bd71b231/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 240px; height: 182px;" /></p>
 
 <p>위의 상황에서 $(2, 4)$와 $(4, 5)$가 막혀 있다고 가정하자. 이 경우에 $(2, 3)$에 놓인 말이 움직일 수 있는 칸은 총 $3$개로 다음 그림에 <code>O</code> 표시된 것과 같다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/28218.%E2%80%85%EA%B2%A9%EC%9E%90%E2%80%85%EA%B2%8C%EC%9E%84/c264a454.png" data-original-src="https://upload.acmicpc.net/6b569dbc-fb21-4fe4-891d-66e794133732/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 240px; height: 183px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/28218.%E2%80%85%EA%B2%A9%EC%9E%90%E2%80%85%EA%B2%8C%EC%9E%84/c264a454.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/28218.%E2%80%85%EA%B2%A9%EC%9E%90%E2%80%85%EA%B2%8C%EC%9E%84/c264a454.png" data-original-src="https://upload.acmicpc.net/6b569dbc-fb21-4fe4-891d-66e794133732/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 240px; height: 183px;" /></p>
 
 <p>다음 그림과 같이 $N = 6$, $M = 8$, $K = 3$이고 막혀 있는 칸이 없는 보드를 생각하자. 이 보드에서 $(5, 7)$에 놓인 말이 움직일 수 있는 칸은 총 $3$개로 다음 그림에 <code>O</code> 표시된 것과 같다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/28218.%E2%80%85%EA%B2%A9%EC%9E%90%E2%80%85%EA%B2%8C%EC%9E%84/4d6227e8.png" data-original-src="https://upload.acmicpc.net/739bcd4d-5f03-44dd-a871-affc67f574bb/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 240px; height: 184px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/28218.%E2%80%85%EA%B2%A9%EC%9E%90%E2%80%85%EA%B2%8C%EC%9E%84/4d6227e8.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/28218.%E2%80%85%EA%B2%A9%EC%9E%90%E2%80%85%EA%B2%8C%EC%9E%84/4d6227e8.png" data-original-src="https://upload.acmicpc.net/739bcd4d-5f03-44dd-a871-affc67f574bb/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 240px; height: 184px;" /></p>
 
 <p>마지막으로, 다음 그림과 같이 $N = 6$, $M = 8$, $K = 0$이고 막혀 있는 칸이 없는 보드를 생각하자. 이 보드에서 $(1, 1)$에 놓인 말이 움직일 수 있는 칸은 총 $2$개로 다음 그림에 <code>O</code> 표시된 것과 같다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/28218.%E2%80%85%EA%B2%A9%EC%9E%90%E2%80%85%EA%B2%8C%EC%9E%84/4b0e3a7b.png" data-original-src="https://upload.acmicpc.net/b6b1d807-e6c3-4817-8f93-8254ffc5d7bc/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 240px; height: 184px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/28218.%E2%80%85%EA%B2%A9%EC%9E%90%E2%80%85%EA%B2%8C%EC%9E%84/4b0e3a7b.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/28218.%E2%80%85%EA%B2%A9%EC%9E%90%E2%80%85%EA%B2%8C%EC%9E%84/4b0e3a7b.png" data-original-src="https://upload.acmicpc.net/b6b1d807-e6c3-4817-8f93-8254ffc5d7bc/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 240px; height: 184px;" /></p>
 
 <p>게임의 목표는 말을 보드의 맨 오른쪽 아래 칸, 즉, $(N, M)$으로 옮기는 것이고, 마지막으로 말을 움직인 사람이 이긴다. 한국이와 정올이 모두 최선을 다해 게임에 임한다고 가정하자.</p>
 

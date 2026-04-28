@@ -29,7 +29,7 @@
 
 <p>그릇 더미의 모든 부분이 다른 더미 위에 곧바로 쌓을 수 없을 때에는 분할을 한뒤 일부분만 결합을 해야한다.&nbsp; 아래 그림은 첫 번째 예제를 나타낸다.</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/4213.%E2%80%85%EA%B7%B8%EB%A6%87%E2%80%85%EC%8C%93%EA%B8%B0/3cf6f896.png" data-original-src="https://www.acmicpc.net/upload/images/stackingp.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/4213.%E2%80%85%EA%B7%B8%EB%A6%87%E2%80%85%EC%8C%93%EA%B8%B0/3cf6f896.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/4213.%E2%80%85%EA%B7%B8%EB%A6%87%E2%80%85%EC%8C%93%EA%B8%B0/3cf6f896.png" data-original-src="https://www.acmicpc.net/upload/images/stackingp.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>그릇 더미들이 주어질 때 단일 더미로 쌓는데 필요한 분할과 결합의 횟수를 구하여라.</p>
 

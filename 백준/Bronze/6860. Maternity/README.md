@@ -24,7 +24,7 @@
 
 <p>When reproducing, each parent fruit fly passes exactly one allele for each gene to its child. We can draw a Punnett square to see all possible allele combinations for the child. For example, here is the Punnett square for possible offspring of Alice (Bb) and Bob (Bb).</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/6860.%E2%80%85Maternity/8d6225b3.png" data-original-src="https://upload.acmicpc.net/9854cb1e-92fc-4f7f-80ae-ff120229f5fd/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 160px; height: 88px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/6860.%E2%80%85Maternity/8d6225b3.png" data-original-src="%EB%B0%B1%EC%A4%80/Bronze/6860.%E2%80%85Maternity/8d6225b3.png" data-original-src="https://upload.acmicpc.net/9854cb1e-92fc-4f7f-80ae-ff120229f5fd/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 160px; height: 88px;" /></p>
 
 <p>Unfortunately, the full genetic profiles of the babies were not available (as they take weeks to process). All we have are the attributes of the baby &ndash; whether or not they have brown eyes, hair colour, etc. Can you use this information, with the full genetic profile of the parents, to determine which babies could not possibly be theirs?</p>
 

@@ -18,7 +18,7 @@
 
 <p>승현이는 1 &times; n 크기의 격자판을 가지고 있습니다. 각 칸에는 1 이상 n 이하의 자연수 번호가 왼쪽에서부터 차례대로 붙어있습니다. 이 중 k개의 칸에는 말이 하나씩 놓여 있는데, 이 말들은 격자들을 좋아해서, 도달 가능한 모든 격자판을 방문합니다. 말들이 자신의 격자판을 더럽히는 것을 보고만 있을 수 없었던 승현이는 d개의 칸막이를 구매했습니다. 각 칸막이는 인접한 두 격자가 만나는 선분 위에 놓을 수 있으며, 말들은 칸막이를 지나갈 수 없습니다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/11912.%E2%80%85%EA%B2%A9%EC%9E%90%E2%80%85%EB%B3%B4%EC%A1%B4%ED%95%98%EA%B8%B0/0f84e364.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11912/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:123px; width:387px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/11912.%E2%80%85%EA%B2%A9%EC%9E%90%E2%80%85%EB%B3%B4%EC%A1%B4%ED%95%98%EA%B8%B0/0f84e364.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/11912.%E2%80%85%EA%B2%A9%EC%9E%90%E2%80%85%EB%B3%B4%EC%A1%B4%ED%95%98%EA%B8%B0/0f84e364.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11912/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:123px; width:387px" /></p>
 
 <p>위 그림에서, 지금 5번 격자에 있는 말은 3번, 4번, 5번 격자를 모두 방문하고, 8번 격자에 있는 말은 6번, 7번, 8번 격자를 모두 방문합니다. 보존되는 격자는 1번 격자와 2번 격자뿐입니다.</p>
 

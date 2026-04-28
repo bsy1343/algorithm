@@ -24,7 +24,7 @@
 
 <p>Initially, all the lights around the dial are turned off. When the&nbsp;<i>i</i>-th button is pressed, the hand revolves clockwise by&nbsp;<i>L<sub>i</sub></i>&nbsp;lights, and the pointed light is turned on. You are allowed to press the buttons exactly&nbsp;<i>N</i>&nbsp;times. The lock opens only when you make all the lights turned on.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/22637.%E2%80%85Dial%E2%80%85Key/d934ed16.png" data-original-src="https://upload.acmicpc.net/7e043edb-e4f1-42a9-8663-8e2722e54c55/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 446px; height: 340px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/22637.%E2%80%85Dial%E2%80%85Key/d934ed16.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/22637.%E2%80%85Dial%E2%80%85Key/d934ed16.png" data-original-src="https://upload.acmicpc.net/7e043edb-e4f1-42a9-8663-8e2722e54c55/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 446px; height: 340px;" /></p>
 
 <p>For example, in the case with&nbsp;<i>N</i>&nbsp;= 6,&nbsp;<i>M</i>&nbsp;= 2,&nbsp;<i>L</i><sub>1</sub>&nbsp;= 2 and&nbsp;<i>L</i><sub>2</sub>&nbsp;= 5, you can unlock the door by pressing buttons 2, 2, 2, 5, 2 and 2 in this order.</p>
 

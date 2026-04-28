@@ -20,7 +20,7 @@
 
 <p>以下の図にように，Y センターの敷地は横 w &times;縦 h の長方形である．左下の座標が (0, 0)，右 上の座標が (w, h) である．</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/24147.%E2%80%85%E5%A4%9C%E8%AD%A6%E2%80%85(Nightman)/e2ae6d5d.png" data-original-src="https://upload.acmicpc.net/a1abc205-0213-40bb-9baf-9783dbe3652d/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 207px; height: 156px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/24147.%E2%80%85%E5%A4%9C%E8%AD%A6%E2%80%85(Nightman)/e2ae6d5d.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/24147.%E2%80%85%E5%A4%9C%E8%AD%A6%E2%80%85(Nightman)/e2ae6d5d.png" data-original-src="https://upload.acmicpc.net/a1abc205-0213-40bb-9baf-9783dbe3652d/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 207px; height: 156px;" /></p>
 
 <p style="text-align: center;">図 1: 横 8，縦 6 の Y センター (w = 8, h = 6 の場合)</p>
 
@@ -30,7 +30,7 @@
 
 <p>深夜，Y センター内の警備は以下のように行われる．敷地内のある点で不審物が発見される と，そのたびに全ての警備員に連絡が入る．そして，その点までの移動距離が最も短い警備員 が現場に急行し，不審物の確認を行う．警備員は Y センター内を最短距離で移動するが，建物 内は深夜はロックされているため，建物の内部を通ることはできない．（建物の辺は建物に含ま れないので，建物の辺に沿って移動することはできる）不審物の確認が済むと，警備員は同じ 経路で自分の位置に戻る．次に不審物が発見されたときも同様に警備される．</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/24147.%E2%80%85%E5%A4%9C%E8%AD%A6%E2%80%85(Nightman)/c0db7170.png" data-original-src="https://upload.acmicpc.net/8118a01b-7c8a-4844-b963-576da21c46b3/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 213px; height: 163px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/24147.%E2%80%85%E5%A4%9C%E8%AD%A6%E2%80%85(Nightman)/c0db7170.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/24147.%E2%80%85%E5%A4%9C%E8%AD%A6%E2%80%85(Nightman)/c0db7170.png" data-original-src="https://upload.acmicpc.net/8118a01b-7c8a-4844-b963-576da21c46b3/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 213px; height: 163px;" /></p>
 
 <p style="text-align: center;">図 2: 警備員が現場に急行する図 (○が警備員，&times;が不審物)</p>
 

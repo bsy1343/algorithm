@@ -27,9 +27,9 @@
 <table class="table table-bordered td-center">
 	<tbody>
 		<tr>
-			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/3538.%E2%80%85Journey/a4093cea.png" data-original-src="https://upload.acmicpc.net/1ee8b009-66d2-4016-85ce-bde6475235a6/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 212px; height: 181px;" /></td>
-			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/3538.%E2%80%85Journey/66b8b951.png" data-original-src="https://upload.acmicpc.net/af3fabcd-9d7f-41d2-9e8f-c9499fc620c9/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 213px; height: 181px;" /></td>
-			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/3538.%E2%80%85Journey/bd33e1a3.png" data-original-src="https://upload.acmicpc.net/d4467aa5-5037-4c9a-ba32-f0798341cce9/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 211px; height: 181px;" /></td>
+			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/3538.%E2%80%85Journey/a4093cea.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/3538.%E2%80%85Journey/a4093cea.png" data-original-src="https://upload.acmicpc.net/1ee8b009-66d2-4016-85ce-bde6475235a6/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 212px; height: 181px;" /></td>
+			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/3538.%E2%80%85Journey/66b8b951.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/3538.%E2%80%85Journey/66b8b951.png" data-original-src="https://upload.acmicpc.net/af3fabcd-9d7f-41d2-9e8f-c9499fc620c9/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 213px; height: 181px;" /></td>
+			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/3538.%E2%80%85Journey/bd33e1a3.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/3538.%E2%80%85Journey/bd33e1a3.png" data-original-src="https://upload.acmicpc.net/d4467aa5-5037-4c9a-ba32-f0798341cce9/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 211px; height: 181px;" /></td>
 		</tr>
 		<tr>
 			<td>Stefan&rsquo;s map</td>

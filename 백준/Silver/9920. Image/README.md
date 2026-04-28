@@ -27,7 +27,7 @@
 	<li>
 	<p>An image $I$ is partitioned into $4$ equal size sub-images $A$, $B$, $C$, $D$ as shown:</p>
 
-	<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/9920.%E2%80%85Image/eaec73c0.png" data-original-src="https://upload.acmicpc.net/2c6174bb-d644-4a3d-ad87-a127569dd757/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 260px; height: 100px;" /></p>
+	<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/9920.%E2%80%85Image/eaec73c0.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/9920.%E2%80%85Image/eaec73c0.png" data-original-src="https://upload.acmicpc.net/2c6174bb-d644-4a3d-ad87-a127569dd757/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 260px; height: 100px;" /></p>
 
 	<p>Step (1) is then performed on each of the four sub-images in the order of $A$, $B$, $C$, $D$.</p>
 	</li>

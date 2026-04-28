@@ -22,7 +22,7 @@
 
 <p>A game might proceed like this, for example: you and your sister start with a 3 &times;4-rectangle. You decide to break off 2 columns, obtaining 3 dark and 3 white chocolate squares, netting a happiness of zero. Your sister then breaks off 1 row, obtaining 1 dark and 1 white squares as well, so no happiness for her either. You then take a single column, which nets you nothing again, after which your sister decides to break off one row, which nets her 1 happiness! You then take the last piece, which makes you lose a unit of happiness, so your total score is &minus;1 &minus; 1 = &minus;2. See the figure. (Note: the strategies used here might not be optimal.)</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/15011.%E2%80%85Irrational%E2%80%85Division/c5617b4e.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15011/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:163px; width:201px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/15011.%E2%80%85Irrational%E2%80%85Division/c5617b4e.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/15011.%E2%80%85Irrational%E2%80%85Division/c5617b4e.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15011/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:163px; width:201px" /></p>
 
 <p style="text-align: center;">Figure 5: The example game described in the problem statement.</p>
 

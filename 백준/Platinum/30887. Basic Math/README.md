@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/30887.%E2%80%85Basic%E2%80%85Math/025a925b.png" data-original-src="https://upload.acmicpc.net/81b7ea6d-6cc4-4fba-a1ea-771e2469fea7/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 400px; height: 351px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/30887.%E2%80%85Basic%E2%80%85Math/025a925b.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/30887.%E2%80%85Basic%E2%80%85Math/025a925b.png" data-original-src="https://upload.acmicpc.net/81b7ea6d-6cc4-4fba-a1ea-771e2469fea7/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 400px; height: 351px;" /></p>
 
 <p style="text-align: center;">Example exam by Ellen.</p>
 

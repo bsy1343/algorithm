@@ -18,7 +18,7 @@
 
 <p>Three infinite lines define a triangle, unless they meet at a common point or some of them are parallel.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/17881.%E2%80%85The%E2%80%85Biggest%E2%80%85Triangle/4aea47ea.png" data-original-src="https://upload.acmicpc.net/98b0e568-abe6-4d1b-8da6-c4de5b72e917/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 525px; height: 277px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/17881.%E2%80%85The%E2%80%85Biggest%E2%80%85Triangle/4aea47ea.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/17881.%E2%80%85The%E2%80%85Biggest%E2%80%85Triangle/4aea47ea.png" data-original-src="https://upload.acmicpc.net/98b0e568-abe6-4d1b-8da6-c4de5b72e917/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 525px; height: 277px;" /></p>
 
 <p>Given a collection of infinite lines, what is the largest possible perimeter of a triangle defined by some three lines in the collection?</p>
 

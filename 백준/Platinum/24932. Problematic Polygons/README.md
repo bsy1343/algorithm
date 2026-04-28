@@ -20,7 +20,7 @@
 
 <p>You want to automate the packing process by utilizing the Polygon-Rotating Robot, which has an arm capable of rotating objects with simple polygon shapes before placing them into the container. Unfortunately, the robot lacks some crucial programming: it cannot determine the angle needed to rotate the object by to fit into the container. Write a program to determine the minimum integer angle&nbsp;$&theta;&isin;[0,359]$&nbsp;such that the robot can rotate the object counter-clockwise $&theta;$&nbsp;degrees around the origin so that it will fit inside the box.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/24932.%E2%80%85Problematic%E2%80%85Polygons/c29ffb9f.png" data-original-src="https://upload.acmicpc.net/a61ed43c-1223-4bc6-a7de-3554fad72b4c/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 600px; height: 250px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/24932.%E2%80%85Problematic%E2%80%85Polygons/c29ffb9f.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/24932.%E2%80%85Problematic%E2%80%85Polygons/c29ffb9f.png" data-original-src="https://upload.acmicpc.net/a61ed43c-1223-4bc6-a7de-3554fad72b4c/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 600px; height: 250px;" /></p>
 
 <center>
 <p><b>Figure 1</b>: The left image depicts Sample Input $2$&nbsp;where the goal is to rotate the blue object to fit within the orange container. The right image depicts the minimum integer rotation of&nbsp;$&theta;=113$&nbsp;degrees counter-clockwise around the origin&nbsp;$(0,0)$.</p>

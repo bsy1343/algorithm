@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/23834.%E2%80%85%EC%BB%A4%EC%97%AC%EC%9A%B4%E2%80%85%ED%82%A4%EC%9C%84/8a9a9a68.png" data-original-src="https://upload.acmicpc.net/58f4914f-639e-40f0-bc46-f2469ef27e47/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/23834.%E2%80%85%EC%BB%A4%EC%97%AC%EC%9A%B4%E2%80%85%ED%82%A4%EC%9C%84/8a9a9a68.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/23834.%E2%80%85%EC%BB%A4%EC%97%AC%EC%9A%B4%E2%80%85%ED%82%A4%EC%9C%84/8a9a9a68.png" data-original-src="https://upload.acmicpc.net/58f4914f-639e-40f0-bc46-f2469ef27e47/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>키위는 뉴질랜드에 사는 새다. 키위는 수직선 위를 움직이는데, 처음에 $0$에서 시작해서 다음과 같은 과정으로&nbsp;움직인다.</p>
 

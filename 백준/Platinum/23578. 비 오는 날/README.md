@@ -22,7 +22,7 @@
 
 <p>점심시간에 건물 1에는 학생 1명, 건물 2에는 학생 2명, 건물 3에는 학생 3명이 게임한다고 가정하자. 아래와 같이 구름다리를 건설하면 건물 2와 건물 3에 있는 학생들은 불만을 1씩 가지고 건물 1에 있는 학생은 불만을 4 가진다. 따라서 이때 생기는 학생들의 불만은 $1 \times 4 + 2 \times 1 + 3\times 1 = 9$이다. 불만이 9보다 작도록 구름다리를 건설하는 것은 불가능하다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/23578.%E2%80%85%EB%B9%84%E2%80%85%EC%98%A4%EB%8A%94%E2%80%85%EB%82%A0/d9187d07.png" data-original-src="https://upload.acmicpc.net/b5ce393a-b4c3-49bb-b262-32bbbaf38438/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/23578.%E2%80%85%EB%B9%84%E2%80%85%EC%98%A4%EB%8A%94%E2%80%85%EB%82%A0/d9187d07.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/23578.%E2%80%85%EB%B9%84%E2%80%85%EC%98%A4%EB%8A%94%E2%80%85%EB%82%A0/d9187d07.png" data-original-src="https://upload.acmicpc.net/b5ce393a-b4c3-49bb-b262-32bbbaf38438/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>실제로 피에스고등학교에는 $N$개의 건물이 있고, $i$번 건물에서는 $a_i$명의 학생이 게임을 한다. 학생의 불만이 크면 이환이가 상처받기 때문에, 이환이를 위해 불만의 최솟값을 구해줘야 한다.</p>
 

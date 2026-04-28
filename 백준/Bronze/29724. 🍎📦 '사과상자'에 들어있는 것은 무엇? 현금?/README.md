@@ -32,7 +32,7 @@
 
 <p>무엇보다도 남편 두식(Doo-Sik)이의 아빠가 보낸 <strong>&#39;사과상자&#39;</strong>와 배즙 상자 때문에 현관문이 막혀 갇힐 뻔하여 카페에 못 올 뻔한 것!!</p>
 
-<p align="center"><img alt="(상자로 현관문이 막힌 상황의 그림)" src="%EB%B0%B1%EC%A4%80/Bronze/29724.%E2%80%85%F0%9F%8D%8E%F0%9F%93%A6%E2%80%85'%EC%82%AC%EA%B3%BC%EC%83%81%EC%9E%90'%EC%97%90%E2%80%85%EB%93%A4%EC%96%B4%EC%9E%88%EB%8A%94%E2%80%85%EA%B2%83%EC%9D%80%E2%80%85%EB%AC%B4%EC%97%87%3F%E2%80%85%ED%98%84%EA%B8%88%3F/ea079862.png" data-original-src="https://upload.acmicpc.net/d7e85de5-8535-4f3f-8a8f-570d61f3375d/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="max_width: 100%; width: 300px; height: 300px;" /></p>
+<p align="center"><img alt="(상자로 현관문이 막힌 상황의 그림)" src="%EB%B0%B1%EC%A4%80/Bronze/29724.%E2%80%85%F0%9F%8D%8E%F0%9F%93%A6%E2%80%85'%EC%82%AC%EA%B3%BC%EC%83%81%EC%9E%90'%EC%97%90%E2%80%85%EB%93%A4%EC%96%B4%EC%9E%88%EB%8A%94%E2%80%85%EA%B2%83%EC%9D%80%E2%80%85%EB%AC%B4%EC%97%87%3F%E2%80%85%ED%98%84%EA%B8%88%3F/ea079862.png" data-original-src="%EB%B0%B1%EC%A4%80/Bronze/29724.%E2%80%85%F0%9F%8D%8E%F0%9F%93%A6%E2%80%85'%EC%82%AC%EA%B3%BC%EC%83%81%EC%9E%90'%EC%97%90%E2%80%85%EB%93%A4%EC%96%B4%EC%9E%88%EB%8A%94%E2%80%85%EA%B2%83%EC%9D%80%E2%80%85%EB%AC%B4%EC%97%87%3F%E2%80%85%ED%98%84%EA%B8%88%3F/ea079862.png" data-original-src="https://upload.acmicpc.net/d7e85de5-8535-4f3f-8a8f-570d61f3375d/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="max_width: 100%; width: 300px; height: 300px;" /></p>
 
 <blockquote>
 <p>헤이: &quot;두식이 아빠가 보낸, (우주 그 어디서도 맛볼 수 없는, 새로운 사과의 지평선을 개척하기 시작한) &#39;군위윤하사과&#39;는...</p>

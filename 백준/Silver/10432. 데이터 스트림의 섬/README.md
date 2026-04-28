@@ -25,7 +25,7 @@
 
 <p>아래의 예시에는 각각의 예제 수열에 대한 모든 섬이 표시되어 있다.</p>
 
-<p><img src="%EB%B0%B1%EC%A4%80/Silver/10432.%E2%80%85%EB%8D%B0%EC%9D%B4%ED%84%B0%E2%80%85%EC%8A%A4%ED%8A%B8%EB%A6%BC%EC%9D%98%E2%80%85%EC%84%AC/bdbd57ad.png" data-original-src="https://www.acmicpc.net/upload/images2/island(1).png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p><img src="%EB%B0%B1%EC%A4%80/Silver/10432.%E2%80%85%EB%8D%B0%EC%9D%B4%ED%84%B0%E2%80%85%EC%8A%A4%ED%8A%B8%EB%A6%BC%EC%9D%98%E2%80%85%EC%84%AC/bdbd57ad.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/10432.%E2%80%85%EB%8D%B0%EC%9D%B4%ED%84%B0%E2%80%85%EC%8A%A4%ED%8A%B8%EB%A6%BC%EC%9D%98%E2%80%85%EC%84%AC/bdbd57ad.png" data-original-src="https://www.acmicpc.net/upload/images2/island(1).png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>이 문제에서 수열은 항상 12개의 음이 아닌 정수로 이루어져 있다.</p>
 

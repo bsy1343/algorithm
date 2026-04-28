@@ -38,16 +38,16 @@
 
 <p>Wyjaśnienie przykład&oacute;w: Układ platform i taśmociąg&oacute;w w pierwszym teście przykładowym wygląda następująco:</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/26729.%E2%80%85Walizki/78c0c889.png" data-original-src="https://upload.acmicpc.net/bf24dc65-26df-4f25-9cb0-8405100a868f/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 372px; height: 86px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/26729.%E2%80%85Walizki/78c0c889.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/26729.%E2%80%85Walizki/78c0c889.png" data-original-src="https://upload.acmicpc.net/bf24dc65-26df-4f25-9cb0-8405100a868f/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 372px; height: 86px;" /></p>
 
 <p>Niżej zobrazowane są trasy, kt&oacute;rymi na swoje docelowe platformy trafiają kolejne walizki:</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/26729.%E2%80%85Walizki/b1b3f46c.png" data-original-src="https://upload.acmicpc.net/6e4d3569-6a64-4034-ad4e-1e4e7b93ca01/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 632px; height: 319px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/26729.%E2%80%85Walizki/b1b3f46c.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/26729.%E2%80%85Walizki/b1b3f46c.png" data-original-src="https://upload.acmicpc.net/6e4d3569-6a64-4034-ad4e-1e4e7b93ca01/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 632px; height: 319px;" /></p>
 
 <p>Po sześciu walizkach każda platforma zn&oacute;w wypuści następną walizkę pierwszym wychodzącym z niej taśmociągiem, zatem odpowiedzią jest liczba 6.</p>
 
 <p>Układ platform i taśmociąg&oacute;w w drugim teście przykładowym wygląda następująco:</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/26729.%E2%80%85Walizki/8a82f5f9.png" data-original-src="https://upload.acmicpc.net/f23c33e0-4906-4610-ab6b-7d73700494dc/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 146px; height: 38px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/26729.%E2%80%85Walizki/8a82f5f9.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/26729.%E2%80%85Walizki/8a82f5f9.png" data-original-src="https://upload.acmicpc.net/f23c33e0-4906-4610-ab6b-7d73700494dc/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 146px; height: 38px;" /></p>
 
 <p>Pierwsza walizka zostanie odebrana przez personel lotniska bezpośrednio z pierwszej platformy i nie zmieni niczego, zatem układ będzie zresetowany już po niej.</p>

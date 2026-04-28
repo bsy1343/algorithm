@@ -22,7 +22,7 @@
 
 <p>gcd(x, y)란 두 수 x, y의 최대 공약수를 뜻한다. 예를 들어 길이가 4인 수열 A = {4, 3, 6, 2}의 GCD 테이블은 아래와 같다.</p>
 
-<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/12972.%E2%80%85GCD%E2%80%85%ED%85%8C%EC%9D%B4%EB%B8%94/06817c40.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/12972/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:142px; width:178px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/12972.%E2%80%85GCD%E2%80%85%ED%85%8C%EC%9D%B4%EB%B8%94/06817c40.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/12972.%E2%80%85GCD%E2%80%85%ED%85%8C%EC%9D%B4%EB%B8%94/06817c40.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/12972/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:142px; width:178px" /></p>
 
 <p>GCD 테이블 G를 구성하는 모든 g<sub>ij</sub>가 주어질 때, 원본 수열 a를 구하여라.</p>
 

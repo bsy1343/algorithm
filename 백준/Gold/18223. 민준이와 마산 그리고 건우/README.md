@@ -26,7 +26,7 @@
 
 <p>아래와 같은 그래프가 있을 때,</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/18223.%E2%80%85%EB%AF%BC%EC%A4%80%EC%9D%B4%EC%99%80%E2%80%85%EB%A7%88%EC%82%B0%E2%80%85%EA%B7%B8%EB%A6%AC%EA%B3%A0%E2%80%85%EA%B1%B4%EC%9A%B0/cf30d709.png" data-original-src="https://upload.acmicpc.net/202a6118-5a5c-462c-bce9-e9303701e63a/-/crop/724x635/187,35/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 526px; width: 600px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/18223.%E2%80%85%EB%AF%BC%EC%A4%80%EC%9D%B4%EC%99%80%E2%80%85%EB%A7%88%EC%82%B0%E2%80%85%EA%B7%B8%EB%A6%AC%EA%B3%A0%E2%80%85%EA%B1%B4%EC%9A%B0/cf30d709.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/18223.%E2%80%85%EB%AF%BC%EC%A4%80%EC%9D%B4%EC%99%80%E2%80%85%EB%A7%88%EC%82%B0%E2%80%85%EA%B7%B8%EB%A6%AC%EA%B3%A0%E2%80%85%EA%B1%B4%EC%9A%B0/cf30d709.png" data-original-src="https://upload.acmicpc.net/202a6118-5a5c-462c-bce9-e9303701e63a/-/crop/724x635/187,35/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 526px; width: 600px;" /></p>
 
 <p>위의 경우는 최단 경로가 두 가지 있다.<br />
 1&rarr;3&rarr;4&rarr;5&rarr;6 또는 1&rarr;3&rarr;5&rarr;6 이다. 이것 중에서 건우가 있는 곳, 즉 4번 정점이 포함된 최단 경로가 있으므로 이 경우에는 민준이가 건우를 도울 수 있다.</p>

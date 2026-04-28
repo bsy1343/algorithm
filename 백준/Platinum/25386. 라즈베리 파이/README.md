@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="margin-bottom: 15px;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/25386.%E2%80%85%EB%9D%BC%EC%A6%88%EB%B2%A0%EB%A6%AC%E2%80%85%ED%8C%8C%EC%9D%B4/3a2cfecc.png" data-original-src="https://upload.acmicpc.net/bcc2f986-cf78-4d8e-97ab-4cca0cccbde6/-/crop/816x610/0,0/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="display: block; margin-left: auto; margin-right: auto; width: 100%; max-width: 400px;" /></p>
+<p style="margin-bottom: 15px;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/25386.%E2%80%85%EB%9D%BC%EC%A6%88%EB%B2%A0%EB%A6%AC%E2%80%85%ED%8C%8C%EC%9D%B4/3a2cfecc.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/25386.%E2%80%85%EB%9D%BC%EC%A6%88%EB%B2%A0%EB%A6%AC%E2%80%85%ED%8C%8C%EC%9D%B4/3a2cfecc.png" data-original-src="https://upload.acmicpc.net/bcc2f986-cf78-4d8e-97ab-4cca0cccbde6/-/crop/816x610/0,0/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="display: block; margin-left: auto; margin-right: auto; width: 100%; max-width: 400px;" /></p>
 
 <p>한별이는 $3$년 만에 오프라인으로 개최되는 UCPC 본선을 맞아 특별한 이벤트를 계획했다. 바로 참가자들과 라즈베리 파이를 나눠 먹는 것이다! 한별이는 원기둥 모양의 파이를 모든 조각이 밑면이 부채꼴인 기둥 모양이 되도록 $M$등분하고, 각 조각 위에 라즈베리를 하나씩 놓았다. 그리고 각 조각에 시계 방향 순서대로 $1$번에서 $M$번까지 번호를 붙였다.</p>
 

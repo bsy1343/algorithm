@@ -29,7 +29,7 @@
 
 <p>어떤 재벌 고양이가 최근에 고양이 리그에 관심이 생겨 새 팀을 창단하기로 마음먹었고, 영철이에게 팀 운영을 맡겼다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/30415.%E2%80%85%EA%B3%A0%EC%96%91%EC%9D%B4%E2%80%85%EB%A6%AC%EA%B7%B8/817bce81.png" data-original-src="https://upload.acmicpc.net/01ba2102-8982-4085-b986-58388aa9f2d1/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/30415.%E2%80%85%EA%B3%A0%EC%96%91%EC%9D%B4%E2%80%85%EB%A6%AC%EA%B7%B8/817bce81.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/30415.%E2%80%85%EA%B3%A0%EC%96%91%EC%9D%B4%E2%80%85%EB%A6%AC%EA%B7%B8/817bce81.png" data-original-src="https://upload.acmicpc.net/01ba2102-8982-4085-b986-58388aa9f2d1/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>영철이는 급전이 필요하다. 그래서 팀을 승인 날 정도로만 구성하고 최대한 남겨 먹을 생각이다.</p>
 

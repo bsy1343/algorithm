@@ -25,7 +25,7 @@
 	<li>대각선의 길이가 같은 경우에는 높이가 작은 것이 작다.</li>
 </ol>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/9196.%E2%80%85%EC%A0%95%EC%88%98%E2%80%85%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95/ade7bc7f.png" data-original-src="https://www.acmicpc.net/upload/images/rect.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:221px; width:600px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/9196.%E2%80%85%EC%A0%95%EC%88%98%E2%80%85%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95/ade7bc7f.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/9196.%E2%80%85%EC%A0%95%EC%88%98%E2%80%85%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95/ade7bc7f.png" data-original-src="https://www.acmicpc.net/upload/images/rect.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:221px; width:600px" /></p>
 
 <p>넓은 정수 직사각형이 주어졌을 때, 그 직사각형보다 큰 직사각형 중 가장 작은 것을 찾는 프로그램을 작성하시오.</p>
 

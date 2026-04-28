@@ -26,7 +26,7 @@
 
 <p>図D-1は3つ目のSample Inputを図示したものである。 図中、赤色の線分は星間移動距離の総和が最小になるような経路の、 星間移動の部分を表している。</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/22457.%E2%80%85Milky%E2%80%85Way/a8181065.png" data-original-src="https://upload.acmicpc.net/d7063079-797e-42c3-ac13-ec31d421b602/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/22457.%E2%80%85Milky%E2%80%85Way/a8181065.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/22457.%E2%80%85Milky%E2%80%85Way/a8181065.png" data-original-src="https://upload.acmicpc.net/d7063079-797e-42c3-ac13-ec31d421b602/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p style="text-align: center;"><i>図 D-1: 星間の移動</i></p>
 
@@ -46,7 +46,7 @@
 
 <p>図 D-2の左の星はx=5, y=10, a=0, r=5の星を表しており、右の星はx=15, y=10, a=30, r=5の星を表している。</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/22457.%E2%80%85Milky%E2%80%85Way/5dab89ee.png" data-original-src="https://upload.acmicpc.net/f93267fb-73ba-4c85-8603-392a3caf87f5/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/22457.%E2%80%85Milky%E2%80%85Way/5dab89ee.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/22457.%E2%80%85Milky%E2%80%85Way/5dab89ee.png" data-original-src="https://upload.acmicpc.net/f93267fb-73ba-4c85-8603-392a3caf87f5/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p style="text-align: center;"><i>図 D-2: 星の例</i></p>
 

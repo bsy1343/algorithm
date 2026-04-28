@@ -18,7 +18,7 @@
 
 <p>A triangle is a basic shape of planar geometry. It consists of three straight lines and three angles in between. Figure 1 shows how the sides and angles are usually labeled.&nbsp;</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/6442.%E2%80%85Triangle/df674bce.gif" data-original-src="https://www.acmicpc.net/upload/images2/Triangle.gif" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:172px; width:262px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/6442.%E2%80%85Triangle/df674bce.gif" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/6442.%E2%80%85Triangle/df674bce.gif" data-original-src="https://www.acmicpc.net/upload/images2/Triangle.gif" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:172px; width:262px" /></p>
 
 <p>Figure 1: Triangle</p>
 

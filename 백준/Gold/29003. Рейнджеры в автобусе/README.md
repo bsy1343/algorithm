@@ -50,6 +50,6 @@
 
 ### 힌트
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/29003.%E2%80%85%D0%A0%D0%B5%D0%B9%D0%BD%D0%B4%D0%B6%D0%B5%D1%80%D1%8B%E2%80%85%D0%B2%E2%80%85%D0%B0%D0%B2%D1%82%D0%BE%D0%B1%D1%83%D1%81%D0%B5/4b23a185.png" data-original-src="https://upload.acmicpc.net/b0ed5112-7d35-4470-bbd7-141b2665b65a/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 178px; height: 248px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/29003.%E2%80%85%D0%A0%D0%B5%D0%B9%D0%BD%D0%B4%D0%B6%D0%B5%D1%80%D1%8B%E2%80%85%D0%B2%E2%80%85%D0%B0%D0%B2%D1%82%D0%BE%D0%B1%D1%83%D1%81%D0%B5/4b23a185.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/29003.%E2%80%85%D0%A0%D0%B5%D0%B9%D0%BD%D0%B4%D0%B6%D0%B5%D1%80%D1%8B%E2%80%85%D0%B2%E2%80%85%D0%B0%D0%B2%D1%82%D0%BE%D0%B1%D1%83%D1%81%D0%B5/4b23a185.png" data-original-src="https://upload.acmicpc.net/b0ed5112-7d35-4470-bbd7-141b2665b65a/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 178px; height: 248px;" /></p>
 
 <p>На этой картинке показаны места, на которые садились пассажиры в примере.</p>

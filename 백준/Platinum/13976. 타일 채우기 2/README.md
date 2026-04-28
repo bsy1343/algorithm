@@ -30,4 +30,4 @@
 
 <p>아래 그림은 3&times;12 벽을 타일로 채운 예시이다.</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/13976.%E2%80%85%ED%83%80%EC%9D%BC%E2%80%85%EC%B1%84%EC%9A%B0%EA%B8%B0%E2%80%852/9058610b.jpg" data-original-src="https://www.acmicpc.net/upload/images/2663_1.jpg" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:80px; width:273px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/13976.%E2%80%85%ED%83%80%EC%9D%BC%E2%80%85%EC%B1%84%EC%9A%B0%EA%B8%B0%E2%80%852/9058610b.jpg" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/13976.%E2%80%85%ED%83%80%EC%9D%BC%E2%80%85%EC%B1%84%EC%9A%B0%EA%B8%B0%E2%80%852/9058610b.jpg" data-original-src="https://www.acmicpc.net/upload/images/2663_1.jpg" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:80px; width:273px" /></p>

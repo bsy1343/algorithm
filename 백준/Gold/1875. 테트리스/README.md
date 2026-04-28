@@ -18,7 +18,7 @@
 
 <p>동혁이는 테트리스와 매우 비슷한 아래와 같은 게임을 즐기는데, 이 게임은 가로 3, 세로 300 길이의 직사각형 모양의 게임 필드에서 이루어진다. 이 게임에는 아래와 같은 일곱 개의 타일이 있다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/1875.%E2%80%85%ED%85%8C%ED%8A%B8%EB%A6%AC%EC%8A%A4/c8ae97aa.png" data-original-src="https://upload.acmicpc.net/f31876d9-8ad5-4fc7-bf30-c4724a63f7ac/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 560px; height: 104px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/1875.%E2%80%85%ED%85%8C%ED%8A%B8%EB%A6%AC%EC%8A%A4/c8ae97aa.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/1875.%E2%80%85%ED%85%8C%ED%8A%B8%EB%A6%AC%EC%8A%A4/c8ae97aa.png" data-original-src="https://upload.acmicpc.net/f31876d9-8ad5-4fc7-bf30-c4724a63f7ac/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 560px; height: 104px;" /></p>
 
 <p>동혁이는 각각의 타일을 돌릴 수 있다. 돌린다는 것은 90도, 180도, 270도로 왼쪽 또는 오른쪽으로 타일을 회전시키는 것을 의미하여, 뒤집는 것은 허용되지 않는다. (즉 2번 모양의 타일을 돌려서 3번 모양의 타일로 만들 수는 없다.)</p>
 

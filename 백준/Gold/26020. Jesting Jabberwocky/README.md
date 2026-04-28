@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/26020.%E2%80%85Jesting%E2%80%85Jabberwocky/3dcbf735.png" data-original-src="https://upload.acmicpc.net/cc619d45-9b75-4df9-88bf-3846465c7019/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 200px; height: 179px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/26020.%E2%80%85Jesting%E2%80%85Jabberwocky/3dcbf735.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/26020.%E2%80%85Jesting%E2%80%85Jabberwocky/3dcbf735.png" data-original-src="https://upload.acmicpc.net/cc619d45-9b75-4df9-88bf-3846465c7019/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 200px; height: 179px;" /></p>
 
 <p style="text-align: center;">Figure J.1: In Sample 1, Alice has to move at least two cards to sort her hand.</p>
 

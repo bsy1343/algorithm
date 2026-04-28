@@ -18,7 +18,7 @@
 
 <p>가로 길이와 세로 길이가 모두 2L + 1인 2차원 격자판이 있다. 이 격자판의 각 칸을 그 좌표에 따라 (x, y)로 표현하기로 한다. 격자판의 가운데 칸의 좌표는 (0, 0)이고, 맨 왼쪽 맨 아래 칸의 좌표는 (&minus;L, &minus;L), 그리고 맨 오른쪽 맨 위 칸의 좌표는 (L, L)이다. x좌표는 왼쪽에서 오른쪽으로 갈수록, y좌표는 아래에서 위로 갈수록 증가한다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/10875.%E2%80%85%EB%B1%80/ceaec5e5.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/10875/snake_start.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:417px; width:414px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/10875.%E2%80%85%EB%B1%80/ceaec5e5.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/10875.%E2%80%85%EB%B1%80/ceaec5e5.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/10875/snake_start.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:417px; width:414px" /></p>
 
 <p>이 격자판의 (0, 0) 칸에 한 마리의 뱀이 자리를 잡고 있다. 처음에는 뱀의 크기가 격자판의 한 칸의 크기와 같으며, 뱀의 머리는 격자판의 오른쪽을 바라보고 있다. 이 뱀은 자신이 바라보고 있는 방향으로 1초에 한 칸씩 몸을 늘려나가며, 뱀의 머리는 그 방향의 칸으로 옮겨가게 된다. 예를 들어 위의 그림과 같이 L = 3인 경우를 생각해 보자. 뱀은 처음에 (0, 0)에 있으며, 그 크기는 격자판 한 칸 만큼이고, 뱀의 머리가 바라보고 있는 방향은 오른쪽이다. 1초가 지나고 나면 이 뱀은 몸을 한 칸 늘려서 (0, 0)과 (1, 0)의 두 칸을 차지하게 되며, 이때 (1, 0) 칸에 뱀의 머리가 놓이게 된다. 1초가 더 지나고 나면 (0, 0), (1, 0), (2, 0)의 세 칸을 차지하게 되고, 뱀의 머리는 (2, 0)에 놓이게 된다.</p>
 
@@ -40,4 +40,4 @@
 
 <p>첫 번째 예제의 경우 출발 후 7초가 지나고 나면 뱀의 머리가 자신의 몸 (1, 0)에 부딪히게 되고, 이때 뱀은 숨을 거둔다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/10875.%E2%80%85%EB%B1%80/96b1f9fc.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/10875/snake_end.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:417px; width:413px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/10875.%E2%80%85%EB%B1%80/96b1f9fc.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/10875.%E2%80%85%EB%B1%80/96b1f9fc.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/10875/snake_end.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:417px; width:413px" /></p>

@@ -20,7 +20,7 @@
 
 <p>성당에는 R개의 벤치가 한 행에 하나씩 있고, 각 벤치에는 총 S명이 앉을 수 있다. 성당의 좌석 배치는 크기가 R &times; S인 행렬로 나타낼 수 있고, 행렬의 각 원소는 사람이 있는지 없는지로 나타낼 수 있다. 모든 사람은 자신의 이웃과 악수를 한다고 가정한다. 이웃은 사람이 있는 칸과 인접한 칸 여덟개이다. (칸이 존재하지 않을 수도 있다)</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/9518.%E2%80%85%EB%A1%9C%EB%A7%88%E2%80%85%EC%B9%B4%ED%86%A8%EB%A6%AD%E2%80%85%EB%AF%B8%EC%82%AC/84dc99ea.png" data-original-src="https://upload.acmicpc.net/59c48df6-092f-41b4-87f3-4304487b43b8/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 100px; height: 92px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/9518.%E2%80%85%EB%A1%9C%EB%A7%88%E2%80%85%EC%B9%B4%ED%86%A8%EB%A6%AD%E2%80%85%EB%AF%B8%EC%82%AC/84dc99ea.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/9518.%E2%80%85%EB%A1%9C%EB%A7%88%E2%80%85%EC%B9%B4%ED%86%A8%EB%A6%AD%E2%80%85%EB%AF%B8%EC%82%AC/84dc99ea.png" data-original-src="https://upload.acmicpc.net/59c48df6-092f-41b4-87f3-4304487b43b8/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 100px; height: 92px;" /></p>
 
 <p>상근이는 오늘도 늦잠을 자 미사에 늦었고, 가장 좋아하는 평화 의식 시간을 참여하기 위해 성당 입구까지 달려왔다. 상근이는 최대한 많은 사람과 악수를 할 수 있는 자리에 앉으려고 한다. 만약, 남은 자리가 없는 경우에는 상근이는 저녁 미사에 다시 참가하려고 한다. 또, 상근이보다 지각하는 사람은 없다.</p>
 

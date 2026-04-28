@@ -34,19 +34,19 @@
 
 <p>일 때, 각 연산을 실행한 후 어떻게 트리의 모양과 에지 색깔이 바뀌는지를 아래 그림 2부터 그림 4에서 차례대로 보였다.&nbsp;</p>
 
-<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/10838.%E2%80%85%ED%8A%B8%EB%A6%AC/14b7df0f.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/10838/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:103px; width:227px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/10838.%E2%80%85%ED%8A%B8%EB%A6%AC/14b7df0f.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/10838.%E2%80%85%ED%8A%B8%EB%A6%AC/14b7df0f.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/10838/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:103px; width:227px" /></p>
 
 <p style="text-align:center">그림 1. 초기 형태</p>
 
-<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/10838.%E2%80%85%ED%8A%B8%EB%A6%AC/f7b22e78.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/10838/2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:170px; width:289px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/10838.%E2%80%85%ED%8A%B8%EB%A6%AC/f7b22e78.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/10838.%E2%80%85%ED%8A%B8%EB%A6%AC/f7b22e78.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/10838/2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:170px; width:289px" /></p>
 
 <p style="text-align:center">그림 2. 좌측: move(1,3)을 실행한 후, 우측: move(5,3)을 실행 한 후</p>
 
-<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/10838.%E2%80%85%ED%8A%B8%EB%A6%AC/7e41634d.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/10838/3.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:138px; width:161px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/10838.%E2%80%85%ED%8A%B8%EB%A6%AC/7e41634d.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/10838.%E2%80%85%ED%8A%B8%EB%A6%AC/7e41634d.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/10838/3.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:138px; width:161px" /></p>
 
 <p style="text-align:center">그림 3. paint(5,4,8)을 실행한 후</p>
 
-<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/10838.%E2%80%85%ED%8A%B8%EB%A6%AC/e7172e05.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/10838/4.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:150px; width:283px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/10838.%E2%80%85%ED%8A%B8%EB%A6%AC/e7172e05.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/10838.%E2%80%85%ED%8A%B8%EB%A6%AC/e7172e05.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/10838/4.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:150px; width:283px" /></p>
 
 <p style="text-align:center">그림 4. 좌측: move(3,4)를 실행한 후, 우측: paint(0,3,7)을 실행한 후</p>
 

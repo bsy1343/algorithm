@@ -20,7 +20,7 @@
 
 <p>Введем координатную систему таким образом, чтобы ось $OY$ была направлена с юга на север, а ось $OX$ --- с запада на восток. Берега реки представляют собой ломаные, бесконечные в обе стороны. Левый берег начинается лучом, направленным на юг из точки $(x_{1,1}, y_{1,1})$, продолжается отрезками $(x_{1,1}, y_{1,1})-(x_{1,2}, y_{1,2})$, $(x_{1,2}, y_{1,2})-(x_{1,3}, y_{1,3})$, \dots, $(x_{1,m-1}, y_{1,m-1})-(x_{1,m}, y_{1,m})$ и заканчивается лучом, направленным на север из точки $(x_{1,m}, y_{1,m})$. Аналогично, правый берег реки начинается лучом, направленным на юг из точки $(x_{2,1}, y_{2,1})$, продолжается отрезками $(x_{2,1}, y_{2,1})-(x_{2,2}, y_{2,2})$, $(x_{2,2}, y_{2,2})-(x_{2,3}, y_{2,3})$, \dots, $(x_{2,n-1}, y_{2,n-1})-(x_{2,n}, y_{2,n})$ и заканчивается лучом, направленным на север из точки $(x_{2,n}, y_{2,n})$.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/21451.%E2%80%85%D0%9C%D0%BE%D1%81%D1%82/27f5c398.png" data-original-src="https://upload.acmicpc.net/3f03f911-6d94-45ba-9f8a-42baa966d0a5/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 182px; height: 355px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/21451.%E2%80%85%D0%9C%D0%BE%D1%81%D1%82/27f5c398.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/21451.%E2%80%85%D0%9C%D0%BE%D1%81%D1%82/27f5c398.png" data-original-src="https://upload.acmicpc.net/3f03f911-6d94-45ba-9f8a-42baa966d0a5/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 182px; height: 355px;" /></p>
 
 <p>Помогите руководству Флатландии выяснить, мост какой минимальной длины можно построить.</p>
 
@@ -40,4 +40,4 @@
 
 <p>Оптимальное положение моста показано на следующем рисунке:</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/21451.%E2%80%85%D0%9C%D0%BE%D1%81%D1%82/1946c147.png" data-original-src="https://upload.acmicpc.net/cde69961-eb0d-472e-b0d5-8ad427be84e1/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 182px; height: 355px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/21451.%E2%80%85%D0%9C%D0%BE%D1%81%D1%82/1946c147.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/21451.%E2%80%85%D0%9C%D0%BE%D1%81%D1%82/1946c147.png" data-original-src="https://upload.acmicpc.net/cde69961-eb0d-472e-b0d5-8ad427be84e1/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 182px; height: 355px;" /></p>

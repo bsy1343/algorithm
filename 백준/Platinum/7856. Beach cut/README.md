@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/7856.%E2%80%85Beach%E2%80%85cut/ed89877d.png" data-original-src="https://upload.acmicpc.net/2cbbc785-4ede-4b11-959e-958d0d1ef2aa/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 235px; height: 248px; float: right;" />The seashore is represented by a polyline without self-intersections, described by a sequence of vertices (x<sub>1</sub>, y<sub>1</sub>), &hellip; (x<sub>N</sub>, y<sub>N</sub>). It also has a property that x<sub>i</sub> &lt; x<sub>i + 1</sub>. The sea is above the line, and the beach &mdash; below.</p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/7856.%E2%80%85Beach%E2%80%85cut/ed89877d.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/7856.%E2%80%85Beach%E2%80%85cut/ed89877d.png" data-original-src="https://upload.acmicpc.net/2cbbc785-4ede-4b11-959e-958d0d1ef2aa/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 235px; height: 248px; float: right;" />The seashore is represented by a polyline without self-intersections, described by a sequence of vertices (x<sub>1</sub>, y<sub>1</sub>), &hellip; (x<sub>N</sub>, y<sub>N</sub>). It also has a property that x<sub>i</sub> &lt; x<sub>i + 1</sub>. The sea is above the line, and the beach &mdash; below.</p>
 
 <p>Your program must connect two vertices with a straight line not longer than L chosen so as to maximize the beach area enclosed between that line and the shore. The line must not intersect with the sea and may only touch, not intersect, the shore polyline.&nbsp;</p>
 

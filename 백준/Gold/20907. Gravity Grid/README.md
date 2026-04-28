@@ -18,7 +18,7 @@
 
 <p>Alice and Bob are playing a generalized version of <em>Connect Four</em>. In their game, the board consists of $w$ columns of height $h$ and the goal is to be the first player to complete a row of $k$ tiles of equal colour, either vertically, horizontally or diagonally. The two players alternate dropping their tiles into one of the columns, with Alice using red tiles and going first and Bob using yellow tiles and going second. Once a tile is dropped, it falls down to the bottommost available position, making that position no longer available. Once a column has $h$ tiles in it, it becomes full and the players can no longer drop their tiles there.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/20907.%E2%80%85Gravity%E2%80%85Grid/ff601842.png" data-original-src="https://upload.acmicpc.net/c61fe533-7ab2-4960-ad27-e67296dc1c48/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 300px; height: 95px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/20907.%E2%80%85Gravity%E2%80%85Grid/ff601842.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/20907.%E2%80%85Gravity%E2%80%85Grid/ff601842.png" data-original-src="https://upload.acmicpc.net/c61fe533-7ab2-4960-ad27-e67296dc1c48/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 300px; height: 95px;" /></p>
 
 <p>Figure G.1:&nbsp;Visualisation of the sample cases, showing the state of the game after 0, 3, 8 and 12 moves, respectively. Alice&#39;s tiles are shown in red, Bob&#39;s tiles in yellow.</p>
 

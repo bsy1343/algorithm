@@ -24,7 +24,7 @@
 
 <p>На картинке показаны запросы из примера.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/22152.%E2%80%85%D0%A7%D0%B0%D1%81%D1%8B/7d776008.png" data-original-src="https://upload.acmicpc.net/ddcb834a-1a23-409e-8c47-4453c1a0d5b2/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/22152.%E2%80%85%D0%A7%D0%B0%D1%81%D1%8B/7d776008.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/22152.%E2%80%85%D0%A7%D0%B0%D1%81%D1%8B/7d776008.png" data-original-src="https://upload.acmicpc.net/ddcb834a-1a23-409e-8c47-4453c1a0d5b2/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 ### 입력
 

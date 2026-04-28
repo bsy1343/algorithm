@@ -18,7 +18,7 @@
 
 <p>꿍은 미래의 여자친구에게 선물을 주기 위해&nbsp;a&times;a 사이즈의 판자를 이용해&nbsp;미리 선물상자를 만들려고 한다. 이 선물상자는 밑면이 정사각형이어야 하며 맨 위는 뚫려있어야 한다. 선물상자는 아래와 같이&nbsp;두 가지 단계를 거쳐 만들어진다. 먼저 각 꼭짓점에서 bxb 사이즈의 정사각형모양으로 판자를 잘라낸 후, 직사각형 모양의 판자를 수직으로 세워 붙인다.</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/7482.%E2%80%85%EC%83%81%EC%9E%90%E2%80%85%EB%A7%8C%EB%93%A4%EA%B8%B0/16e15879.png" data-original-src="https://www.acmicpc.net/upload/images2/box.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:161px; width:436px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/7482.%E2%80%85%EC%83%81%EC%9E%90%E2%80%85%EB%A7%8C%EB%93%A4%EA%B8%B0/16e15879.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/7482.%E2%80%85%EC%83%81%EC%9E%90%E2%80%85%EB%A7%8C%EB%93%A4%EA%B8%B0/16e15879.png" data-original-src="https://www.acmicpc.net/upload/images2/box.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:161px; width:436px" /></p>
 
 <p>꿍은 미래의 여자친구에게 최대한 큰 부피의 선물을 주고싶어한다. 따라서 여러분은 꿍이 가장 큰 부피의 선물상자를 만들 수 있도록 선물상자의 부피가 최대가 되게하는 높이 b를 찾아야 한다.</p>
 

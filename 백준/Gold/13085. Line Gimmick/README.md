@@ -31,7 +31,7 @@
 	<li>Get out of the gimmick.</li>
 </ul>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/13085.%E2%80%85Line%E2%80%85Gimmick/a217243b.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/13085/figD1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:93px; width:535px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/13085.%E2%80%85Line%E2%80%85Gimmick/a217243b.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/13085.%E2%80%85Line%E2%80%85Gimmick/a217243b.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/13085/figD1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:93px; width:535px" /></p>
 
 <p>You are given a gimmick with N panels. Compute the maximum number of removed panels after you get out of the gimmick.</p>
 

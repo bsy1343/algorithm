@@ -20,17 +20,17 @@
 
 <p>씨앗이 자라 어떤 나무가 되는지는 다음 규칙을 따른다. 변을 맞댄 두 칸에 모두 씨앗이 있다면 그 두 씨앗을 서로 <strong>인접</strong>하다고 한다. <strong>인접</strong>한 씨앗의 수가 짝수인 씨앗은 사과나무가 된다. 반면 <strong>인접</strong>한 씨앗의 수가 홀수인 씨앗은 복숭아나무가 된다.</p>
 
-<p style="text-align:center;"><img alt="변을 맞댄 두 칸에 들어있는 씨앗은 인접함" src="%EB%B0%B1%EC%A4%80/Platinum/32035.%E2%80%85%EB%82%98%EB%AC%B4%E2%80%85%EC%8B%AC%EA%B8%B0/dc4d5da2.png" data-original-src="https://upload.acmicpc.net/71dcc6ca-c7ad-4ee7-9c1b-817ea63b2c2a/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="max-width: 100%; width: 200px;" /></p>
+<p style="text-align:center;"><img alt="변을 맞댄 두 칸에 들어있는 씨앗은 인접함" src="%EB%B0%B1%EC%A4%80/Platinum/32035.%E2%80%85%EB%82%98%EB%AC%B4%E2%80%85%EC%8B%AC%EA%B8%B0/dc4d5da2.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/32035.%E2%80%85%EB%82%98%EB%AC%B4%E2%80%85%EC%8B%AC%EA%B8%B0/dc4d5da2.png" data-original-src="https://upload.acmicpc.net/71dcc6ca-c7ad-4ee7-9c1b-817ea63b2c2a/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="max-width: 100%; width: 200px;" /></p>
 
 <p>승연이가 위와 같이 5개의 씨앗을 심었다고 하자. 서로 <strong>인접</strong>한 씨앗은 파란색 화살표와 같이 나타난다. 가운데 씨앗은 3개의 씨앗과 <strong>인접</strong>해 있으므로 복숭아나무가 된다.</p>
 
-<p style="text-align:center;"><img alt="세 개의 사과나무와 두 개의 복숭아나무가 열린 모습" src="%EB%B0%B1%EC%A4%80/Platinum/32035.%E2%80%85%EB%82%98%EB%AC%B4%E2%80%85%EC%8B%AC%EA%B8%B0/083b94bc.png" data-original-src="https://upload.acmicpc.net/f46b1c54-1e72-4477-bddf-e4dcf9eb5ab8/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="max-width: 100%; width: 200px;" /></p>
+<p style="text-align:center;"><img alt="세 개의 사과나무와 두 개의 복숭아나무가 열린 모습" src="%EB%B0%B1%EC%A4%80/Platinum/32035.%E2%80%85%EB%82%98%EB%AC%B4%E2%80%85%EC%8B%AC%EA%B8%B0/083b94bc.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/32035.%E2%80%85%EB%82%98%EB%AC%B4%E2%80%85%EC%8B%AC%EA%B8%B0/083b94bc.png" data-original-src="https://upload.acmicpc.net/f46b1c54-1e72-4477-bddf-e4dcf9eb5ab8/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="max-width: 100%; width: 200px;" /></p>
 
 <p>결과적으로 위와 같이 3개의 사과나무와 2개의 복숭아나무가 열리게 된다.</p>
 
 <p>씨앗을 심을 때는 씨앗들이 격자에서 모두 연결되어 있어야 한다. 즉 임의의 두 씨앗에 대해, 서로 <strong>인접</strong>한 씨앗만 거쳐서 두 씨앗 사이를 이동할 수 있어야 한다. 예를 들어 아래와 같은 배치는 불가능하다.</p>
 
-<p style="text-align:center;"><img alt="모든 씨앗이 연결되어 있지 않아 불가능한 배치의 예시" src="%EB%B0%B1%EC%A4%80/Platinum/32035.%E2%80%85%EB%82%98%EB%AC%B4%E2%80%85%EC%8B%AC%EA%B8%B0/357bbcac.png" data-original-src="https://upload.acmicpc.net/b9973e57-1dc6-43a4-b5bc-cfe11287ae50/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="max-width: 100%; width: 200px;" /></p>
+<p style="text-align:center;"><img alt="모든 씨앗이 연결되어 있지 않아 불가능한 배치의 예시" src="%EB%B0%B1%EC%A4%80/Platinum/32035.%E2%80%85%EB%82%98%EB%AC%B4%E2%80%85%EC%8B%AC%EA%B8%B0/357bbcac.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/32035.%E2%80%85%EB%82%98%EB%AC%B4%E2%80%85%EC%8B%AC%EA%B8%B0/357bbcac.png" data-original-src="https://upload.acmicpc.net/b9973e57-1dc6-43a4-b5bc-cfe11287ae50/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="max-width: 100%; width: 200px;" /></p>
 
 <p>승연이는 사과나무 <em>A</em>개, 복숭아나무 <em>B</em>개를 심으려 한다. 이것이 가능한지 여부와, 가능하다면 나무 배치를 출력하라.</p>
 

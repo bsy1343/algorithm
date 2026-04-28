@@ -18,11 +18,11 @@
 
 <p>윷놀이는 한국의 전통놀이중 하나로 윷가락을 가지고 진행하는 놀이이다. 윷놀이는 윷가락 4개와, 내 말 4개, 상대편의 말 4개로 총 말 8개 그리고 윷판 하나를 가지고 진행한다. 윷판은 다음과 같이 29개의 위치가 있고, 각각 이름이 붙어 있다. (사진 1)</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/15778.%E2%80%85Yut%E2%80%85Nori/f60b6dbc.jpg" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15778/yut.jpg" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 321px; height: 294px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/15778.%E2%80%85Yut%E2%80%85Nori/f60b6dbc.jpg" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/15778.%E2%80%85Yut%E2%80%85Nori/f60b6dbc.jpg" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15778/yut.jpg" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 321px; height: 294px;" /></p>
 
 <p style="text-align: center;">사진 1: 윷판. 윷판의 각각의 위치에는 이름이 적혀있다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/15778.%E2%80%85Yut%E2%80%85Nori/093a295d.jpg" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15778/yut2.jpg" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 612px; height: 183px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/15778.%E2%80%85Yut%E2%80%85Nori/093a295d.jpg" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/15778.%E2%80%85Yut%E2%80%85Nori/093a295d.jpg" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15778/yut2.jpg" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 612px; height: 183px;" /></p>
 
 <p style="text-align: center;">사진 2: 가능한 네가지 윷길의 그림.</p>
 

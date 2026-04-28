@@ -20,7 +20,7 @@
 
 <p>Ernesto and Penelope are trying to move in such a way that their pieces will end up in the same cell. Is there a cell for which this is possible?</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/18066.%E2%80%85Move%E2%80%85%26%E2%80%85Meet/6697e5de.png" data-original-src="https://upload.acmicpc.net/31090c92-36ab-45a9-88c8-c9d2222d1b23/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 273px; height: 277px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/18066.%E2%80%85Move%E2%80%85%26%E2%80%85Meet/6697e5de.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/18066.%E2%80%85Move%E2%80%85%26%E2%80%85Meet/6697e5de.png" data-original-src="https://upload.acmicpc.net/31090c92-36ab-45a9-88c8-c9d2222d1b23/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 273px; height: 277px;" /></p>
 
 <p style="text-align: center;">Figure M.1: Visualisation of the first sample, including possible paths for the given output.</p>
 

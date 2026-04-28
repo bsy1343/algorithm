@@ -20,7 +20,7 @@
 
 <p>各交差点にはそれぞれ柱が 1 本ずつ立っている．JOI 国には国を象徴する色が黒色・灰色・白色の 3 色あ り，各柱はこの 3 色のうちのどれか 1 色で塗られている．</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/24093.%E2%80%85%E6%A8%AA%E6%96%AD%E5%B9%95%E2%80%85(Banner)/df731209.png" data-original-src="https://upload.acmicpc.net/5eb2b569-9b87-418d-9cb3-672f7f1c78d2/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 213px; height: 139px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/24093.%E2%80%85%E6%A8%AA%E6%96%AD%E5%B9%95%E2%80%85(Banner)/df731209.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/24093.%E2%80%85%E6%A8%AA%E6%96%AD%E5%B9%95%E2%80%85(Banner)/df731209.png" data-original-src="https://upload.acmicpc.net/5eb2b569-9b87-418d-9cb3-672f7f1c78d2/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 213px; height: 139px;" /></p>
 
 <p style="text-align: center;">図: JOI 国の図 (H = 3, W = 4 の場合)．図の上が北，左が西に対応する．</p>
 

@@ -23,7 +23,7 @@
 	아래 이진 트리 4개를 보자.</p>
 
 <p>
-	<img alt="" src="%EB%B0%B1%EC%A4%80/Gold/4257.%E2%80%85%ED%94%84%EB%A6%AC%EC%98%A4%EB%8D%94%E2%80%85%ED%8F%AC%EC%8A%A4%ED%8A%B8%EC%98%A4%EB%8D%94/43fd4e01.png" data-original-src="https://www.acmicpc.net/upload/images/prepost.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 230px; height: 116px;" /></p>
+	<img alt="" src="%EB%B0%B1%EC%A4%80/Gold/4257.%E2%80%85%ED%94%84%EB%A6%AC%EC%98%A4%EB%8D%94%E2%80%85%ED%8F%AC%EC%8A%A4%ED%8A%B8%EC%98%A4%EB%8D%94/43fd4e01.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/4257.%E2%80%85%ED%94%84%EB%A6%AC%EC%98%A4%EB%8D%94%E2%80%85%ED%8F%AC%EC%8A%A4%ED%8A%B8%EC%98%A4%EB%8D%94/43fd4e01.png" data-original-src="https://www.acmicpc.net/upload/images/prepost.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 230px; height: 116px;" /></p>
 
 <p>
 	위의 트리는 같은 프리오더와 포스트오더를 갖는 트리이다. 이러한 현상은 이진 트리에서만 나타나는 것이 아니고, 모든 m진 트리(자식이 최대 m개인 트리)에서 나타난다.</p>

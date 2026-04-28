@@ -27,7 +27,7 @@
 <p>
 	첫 날 돼지들이 먹었던 양이 주어졌을 때, 현수가 6마리의 돼지들의 요구를 들어줄 수 없게 되는 날이 몇 번째 날인지 구하는 프로그램을 작성하시오.</p>
 <p style="text-align: center;">
-	<img alt="" src="%EB%B0%B1%EC%A4%80/Silver/3060.%E2%80%85%EC%9A%95%EC%8B%AC%EC%9F%81%EC%9D%B4%E2%80%85%EB%8F%BC%EC%A7%80/c519c435.png" data-original-src="https://www.acmicpc.net/upload/images/pig.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 200px; height: 194px;" /></p>
+	<img alt="" src="%EB%B0%B1%EC%A4%80/Silver/3060.%E2%80%85%EC%9A%95%EC%8B%AC%EC%9F%81%EC%9D%B4%E2%80%85%EB%8F%BC%EC%A7%80/c519c435.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/3060.%E2%80%85%EC%9A%95%EC%8B%AC%EC%9F%81%EC%9D%B4%E2%80%85%EB%8F%BC%EC%A7%80/c519c435.png" data-original-src="https://www.acmicpc.net/upload/images/pig.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 200px; height: 194px;" /></p>
 
 ### 입력
 

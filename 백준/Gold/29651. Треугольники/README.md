@@ -18,7 +18,7 @@
 
 <p>Недавно Вася объяснил своему младшему брату Пете основы работы с циркулем и линейкой. В качестве примера он показал, как по данному треугольнику построить такой, что середины его сторон совпадают с вершинами первого. Такое действие он назвал &lt;&lt;расширением&gt;&gt; треугольника.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/29651.%E2%80%85%D0%A2%D1%80%D0%B5%D1%83%D0%B3%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA%D0%B8/209352b6.png" data-original-src="https://upload.acmicpc.net/d0d747d9-4e93-418b-a4bf-62b81ce622c5/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 267px; height: 194px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/29651.%E2%80%85%D0%A2%D1%80%D0%B5%D1%83%D0%B3%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA%D0%B8/209352b6.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/29651.%E2%80%85%D0%A2%D1%80%D0%B5%D1%83%D0%B3%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA%D0%B8/209352b6.png" data-original-src="https://upload.acmicpc.net/d0d747d9-4e93-418b-a4bf-62b81ce622c5/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 267px; height: 194px;" /></p>
 
 <p>Например, на рисунке треугольник $DEF$ является расширением треугольника $ABC$.</p>
 
@@ -40,6 +40,6 @@
 
 <p>Пояснение для последнего примера:</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/29651.%E2%80%85%D0%A2%D1%80%D0%B5%D1%83%D0%B3%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA%D0%B8/fbec6fb0.png" data-original-src="https://upload.acmicpc.net/929a702c-6789-4559-9089-c7ba70e4a237/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 331px; height: 295px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/29651.%E2%80%85%D0%A2%D1%80%D0%B5%D1%83%D0%B3%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA%D0%B8/fbec6fb0.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/29651.%E2%80%85%D0%A2%D1%80%D0%B5%D1%83%D0%B3%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA%D0%B8/fbec6fb0.png" data-original-src="https://upload.acmicpc.net/929a702c-6789-4559-9089-c7ba70e4a237/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 331px; height: 295px;" /></p>
 
 <p>Сплошными линиями обозначены расширения первого треугольника, пунктирными --- второго.</p>

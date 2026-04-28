@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/4902.%E2%80%85%EC%82%BC%EA%B0%81%ED%98%95%EC%9D%98%E2%80%85%EA%B0%92/aabb332a.png" data-original-src="https://www.acmicpc.net/upload/images/tr.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="float:right; height:130px; width:134px" />오른쪽 삼각형은 9개의 단위 삼각형이 총 3줄(N=3)로 이루어져 있다. 단위 삼각형은 N=1인 삼각형이다.</p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/4902.%E2%80%85%EC%82%BC%EA%B0%81%ED%98%95%EC%9D%98%E2%80%85%EA%B0%92/aabb332a.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/4902.%E2%80%85%EC%82%BC%EA%B0%81%ED%98%95%EC%9D%98%E2%80%85%EA%B0%92/aabb332a.png" data-original-src="https://www.acmicpc.net/upload/images/tr.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="float:right; height:130px; width:134px" />오른쪽 삼각형은 9개의 단위 삼각형이 총 3줄(N=3)로 이루어져 있다. 단위 삼각형은 N=1인 삼각형이다.</p>
 
 <p>이때, 그림에서 서로 다른 부분 삼각형은 총 13개가 있다. (N=1인 삼각형이 9개, N=2인 삼각형이 3개, N=3인 삼각형이 1개)</p>
 
@@ -24,7 +24,7 @@
 
 <p>이때, 단위 삼각형의 값을 삼각형 내부에 쓰여 있는 숫자의 값이라고 하자. 삼각형의 값은 삼각형 안에 있는 단위 삼각형의 값의 합이다.</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/4902.%E2%80%85%EC%82%BC%EA%B0%81%ED%98%95%EC%9D%98%E2%80%85%EA%B0%92/b0684d74.png" data-original-src="https://www.acmicpc.net/upload/images/tr1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="float:right; height:126px; width:133px" />오른쪽 그림은 가장 큰 값을 갖는 부분 삼각형이다.</p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/4902.%E2%80%85%EC%82%BC%EA%B0%81%ED%98%95%EC%9D%98%E2%80%85%EA%B0%92/b0684d74.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/4902.%E2%80%85%EC%82%BC%EA%B0%81%ED%98%95%EC%9D%98%E2%80%85%EA%B0%92/b0684d74.png" data-original-src="https://www.acmicpc.net/upload/images/tr1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="float:right; height:126px; width:133px" />오른쪽 그림은 가장 큰 값을 갖는 부분 삼각형이다.</p>
 
 <p>삼각형이 주어졌을 때, 가장 큰 값을 갖는 부분 삼각형을 구하는 프로그램을 작성하시오.</p>
 

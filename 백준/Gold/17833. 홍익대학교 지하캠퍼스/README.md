@@ -32,13 +32,13 @@
 
 <p>샘플의 높이를 맘대로 바꿀 수는 없지만 너비를 바꾸는 것은 매우 쉬운 일이기 때문에 건물을 몇 개나 사용하는지는 중요하지 않다고 할 때, 캠퍼스를 설계할 때 드는 최소 시간을 구해서 기열이에게 알려주자.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/17833.%E2%80%85%ED%99%8D%EC%9D%B5%EB%8C%80%ED%95%99%EA%B5%90%E2%80%85%EC%A7%80%ED%95%98%EC%BA%A0%ED%8D%BC%EC%8A%A4/2463926a.png" data-original-src="https://upload.acmicpc.net/9b4a24d5-c2e4-4374-891a-bdeec9a7d075/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" width="500dp" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/17833.%E2%80%85%ED%99%8D%EC%9D%B5%EB%8C%80%ED%95%99%EA%B5%90%E2%80%85%EC%A7%80%ED%95%98%EC%BA%A0%ED%8D%BC%EC%8A%A4/2463926a.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/17833.%E2%80%85%ED%99%8D%EC%9D%B5%EB%8C%80%ED%95%99%EA%B5%90%E2%80%85%EC%A7%80%ED%95%98%EC%BA%A0%ED%8D%BC%EC%8A%A4/2463926a.png" data-original-src="https://upload.acmicpc.net/9b4a24d5-c2e4-4374-891a-bdeec9a7d075/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" width="500dp" /></p>
 
 <p>위와 같이 3개의 모델이 주어진다고 했을 때, 각각 <em>H</em>, <em>T</em>, <em>E<sub>1</sub></em>, <em>E<sub>2</sub></em>값은 각각 모델 아래 박스 안의 값과 같다.</p>
 
 <p><em>N</em>=9, <em>R</em>=3, <em>D</em>=2 라고 할 때, 위&nbsp;세 모델로 캠퍼스를 설계한다면 시간을 최소로 하는 설계 방법은 아래 그림과 같다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/17833.%E2%80%85%ED%99%8D%EC%9D%B5%EB%8C%80%ED%95%99%EA%B5%90%E2%80%85%EC%A7%80%ED%95%98%EC%BA%A0%ED%8D%BC%EC%8A%A4/ae8e5933.png" data-original-src="https://upload.acmicpc.net/44983b28-7803-419b-8e06-8582338af549/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" width="500dp" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/17833.%E2%80%85%ED%99%8D%EC%9D%B5%EB%8C%80%ED%95%99%EA%B5%90%E2%80%85%EC%A7%80%ED%95%98%EC%BA%A0%ED%8D%BC%EC%8A%A4/ae8e5933.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/17833.%E2%80%85%ED%99%8D%EC%9D%B5%EB%8C%80%ED%95%99%EA%B5%90%E2%80%85%EC%A7%80%ED%95%98%EC%BA%A0%ED%8D%BC%EC%8A%A4/ae8e5933.png" data-original-src="https://upload.acmicpc.net/44983b28-7803-419b-8e06-8582338af549/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" width="500dp" /></p>
 
 <p>이 때 걸리는 시간은 38이다.</p>
 

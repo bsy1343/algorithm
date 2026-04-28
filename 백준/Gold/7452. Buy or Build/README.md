@@ -43,9 +43,9 @@
 
 <p>Consider a 115 cities instance of the problem with 4 subnetworks (the 4 first graphs in Figure 1). As mentioned earlier the exact shape of a subnetwork is not relevant still, to keep figures easy to read, we have assumed an arbitrary tree like structure for each subnetworks. The bottom network in Figure 1 corresponds to the solution in which the first and the third networks have been bought. Thin edges correspond to edges build from scratch while thick edges are those from one of the initial networks.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/7452.%E2%80%85Buy%E2%80%85or%E2%80%85Build/edcb4e92.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/7452/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:470px; width:452px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/7452.%E2%80%85Buy%E2%80%85or%E2%80%85Build/edcb4e92.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/7452.%E2%80%85Buy%E2%80%85or%E2%80%85Build/edcb4e92.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/7452/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:470px; width:452px" /></p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/7452.%E2%80%85Buy%E2%80%85or%E2%80%85Build/992d6cdb.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/7452/2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:223px; width:221px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/7452.%E2%80%85Buy%E2%80%85or%E2%80%85Build/992d6cdb.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/7452.%E2%80%85Buy%E2%80%85or%E2%80%85Build/992d6cdb.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/7452/2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:223px; width:221px" /></p>
 
 <p style="text-align: center;">Figure 1: A 115 Cities Instance and a Solution (Buying the First and the Third Network)</p>
 
@@ -53,12 +53,12 @@
 
 <p>The sample input instance is shown in Figure 2. An optimal solution is described in Figure 3 (thick edges come from an existing network while thin edges have been setup from scratch).</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/7452.%E2%80%85Buy%E2%80%85or%E2%80%85Build/f35aca4f.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/7452/3.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:189px; width:579px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/7452.%E2%80%85Buy%E2%80%85or%E2%80%85Build/f35aca4f.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/7452.%E2%80%85Buy%E2%80%85or%E2%80%85Build/f35aca4f.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/7452/3.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:189px; width:579px" /></p>
 
 <p style="text-align: center;">Figure 2: The 7 City instance of the sample input</p>
 
 <p>An optimal solution of the 7 City instance in which which the first and second existing networkshave been bought while two extra edges (1,5) and (2,4) have been setup</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/7452.%E2%80%85Buy%E2%80%85or%E2%80%85Build/c05db4b2.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/7452/4.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:209px; width:174px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/7452.%E2%80%85Buy%E2%80%85or%E2%80%85Build/c05db4b2.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/7452.%E2%80%85Buy%E2%80%85or%E2%80%85Build/c05db4b2.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/7452/4.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:209px; width:174px" /></p>
 
 <p style="text-align: center;">Figure 3</p>

@@ -26,7 +26,7 @@
 
 <p>즉, n = 3 일 때 다음과 같은 그림을 그릴 수 있다.</p>
 
-<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/14578.%E2%80%85%EC%98%81%ED%9B%88%EC%9D%B4%EC%9D%98%E2%80%85%EC%83%89%EC%B9%A0%EA%B3%B5%EB%B6%80/6e350300.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14578/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:250px; width:265px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/14578.%E2%80%85%EC%98%81%ED%9B%88%EC%9D%B4%EC%9D%98%E2%80%85%EC%83%89%EC%B9%A0%EA%B3%B5%EB%B6%80/6e350300.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/14578.%E2%80%85%EC%98%81%ED%9B%88%EC%9D%B4%EC%9D%98%E2%80%85%EC%83%89%EC%B9%A0%EA%B3%B5%EB%B6%80/6e350300.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14578/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:250px; width:265px" /></p>
 
 <p>그림의 크기 N이 주어졌을 때, 영훈이가 색칠 할 수 있는 모든 경우의 수를 구하여라</p>
 

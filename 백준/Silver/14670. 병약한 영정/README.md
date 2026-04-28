@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/14670.%E2%80%85%EB%B3%91%EC%95%BD%ED%95%9C%E2%80%85%EC%98%81%EC%A0%95/4fc6a1d5.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14670/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:240px; width:470px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/14670.%E2%80%85%EB%B3%91%EC%95%BD%ED%95%9C%E2%80%85%EC%98%81%EC%A0%95/4fc6a1d5.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/14670.%E2%80%85%EB%B3%91%EC%95%BD%ED%95%9C%E2%80%85%EC%98%81%EC%A0%95/4fc6a1d5.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14670/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:240px; width:470px" /></p>
 
 <p>영정이는 병약하다. 본인도 병약한 것을 알고 있기 때문에 언제든 먹을 수 있는 약을 상비해서 들고 다닌다. 각 약들은 약의 이름과 필요한 증상이 적혀져 있으며 하나의 약은 하나의 증상만을 해결 할 수 있다. 각각의 약은 모두 다른 이름을 가지고 있으며 서로 다른 증상을 해결함이 보장된다. 영정이가 아픈 증상을 호소 할 때, 어떤 약들을 먹어야 하는지 출력 해 주자!</p>
 

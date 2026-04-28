@@ -27,7 +27,7 @@
 	<li>$x\le a\le x+d-1,y\le b\le y+d-1$을 만족하는 $(a,b)$가 모두 흰색이라면 이를 $(x,y)$를 왼쪽 위 꼭짓점으로 하고 크기가 $d$인 호수라 한다. 이때 $d$는 $1$ 이상 $\min(N-x+1,M-y+1)$ 이하의 정수여야 한다.</li>
 </ul>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/31722.%E2%80%85%EC%82%B0%EC%88%98%ED%99%94/9bb599f4.png" data-original-src="https://upload.acmicpc.net/13a2111c-1313-4972-ac3c-158179ed3194/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 225px; width: 300px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/31722.%E2%80%85%EC%82%B0%EC%88%98%ED%99%94/9bb599f4.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/31722.%E2%80%85%EC%82%B0%EC%88%98%ED%99%94/9bb599f4.png" data-original-src="https://upload.acmicpc.net/13a2111c-1313-4972-ac3c-158179ed3194/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 225px; width: 300px;" /></p>
 
 <p>위 그림의 경우, $(3,2)$를 중심으로 하고 크기가 $2$인 산과 $(1,3)$을 왼쪽 위 꼭짓점으로 하고 크기가 $2$인 호수가 있다.</p>
 

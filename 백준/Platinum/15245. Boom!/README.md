@@ -28,7 +28,7 @@
 
 <p dir="ltr">The following example illustrates all 6 possible ways for N=4, A=1 and B=1. For clarity, the tape is only bent 90 degrees on the illustration. Tadhg would actually bend it 180 degrees.</p>
 
-<p dir="ltr" style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/15245.%E2%80%85Boom!/087866c5.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15245/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:125px; width:300px" /></p>
+<p dir="ltr" style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/15245.%E2%80%85Boom!/087866c5.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/15245.%E2%80%85Boom!/087866c5.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15245/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:125px; width:300px" /></p>
 
 <p dir="ltr">Note: The unbent stage counts as 1 position</p>
 

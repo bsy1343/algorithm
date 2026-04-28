@@ -18,7 +18,7 @@
 
 <p>초라기는 한국의 비밀 국방 기지 원타곤을 습격하는 임무를 받은 특급 요원이다. 원타곤은 도넛 형태이며, 아래와 같이 <em>N</em>개의 구역으로 나뉜다. (그림의 숫자는 각 구역의 번호이다.)</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/17138.%E2%80%85%EC%8A%B5%EA%B2%A9%EC%9E%90%E2%80%85%EC%B4%88%EB%9D%BC%EA%B8%B0%EC%99%80%E2%80%85%EC%BF%BC%EB%A6%AC%E2%80%85(Easy)/b4fe9611.png" data-original-src="https://upload.acmicpc.net/f6e3719a-5b74-4550-9703-6b0a45610bec/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 292px; height: 292px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/17138.%E2%80%85%EC%8A%B5%EA%B2%A9%EC%9E%90%E2%80%85%EC%B4%88%EB%9D%BC%EA%B8%B0%EC%99%80%E2%80%85%EC%BF%BC%EB%A6%AC%E2%80%85(Easy)/b4fe9611.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/17138.%E2%80%85%EC%8A%B5%EA%B2%A9%EC%9E%90%E2%80%85%EC%B4%88%EB%9D%BC%EA%B8%B0%EC%99%80%E2%80%85%EC%BF%BC%EB%A6%AC%E2%80%85(Easy)/b4fe9611.png" data-original-src="https://upload.acmicpc.net/f6e3719a-5b74-4550-9703-6b0a45610bec/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 292px; height: 292px;" /></p>
 
 <p>초라기는 특수 소대들을&nbsp;출동시켜 모든 구역을 점령하고 적들을 포로로 사로잡는 데 성공했다. 특수 소대는 아래 조건에 따라 원타곤의 각 구역에 배치되어&nbsp;포로들을&nbsp;관리한다.</p>
 

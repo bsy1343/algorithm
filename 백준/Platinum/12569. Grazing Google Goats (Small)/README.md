@@ -34,7 +34,7 @@
 <p>In the picture below, there are four blue points, corresponding to the pole positions:&nbsp;<strong>P</strong><sub>1</sub>,&nbsp;<strong>P</strong><sub>2</sub>,&nbsp;<strong>P</strong><sub>3</sub>, and&nbsp;<strong>P</strong><sub>4</sub>. There are also two red points, corresponding to the potential bucket positions:&nbsp;<strong>Q</strong><sub>1</sub>&nbsp;and&nbsp;<strong>Q</strong><sub>2</sub>. You need to calculate&nbsp;<strong>A</strong><sub>1</sub>&nbsp;and&nbsp;<strong>A</strong><sub>2</sub>, the areas of the two shaded regions.</p>
 
 <p><br />
-&nbsp;&nbsp;&nbsp;<img src="%EB%B0%B1%EC%A4%80/Platinum/12569.%E2%80%85Grazing%E2%80%85Google%E2%80%85Goats%E2%80%85(Small)/16e76433.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/12569/images-30.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="border:0px; vertical-align:middle" /></p>
+&nbsp;&nbsp;&nbsp;<img src="%EB%B0%B1%EC%A4%80/Platinum/12569.%E2%80%85Grazing%E2%80%85Google%E2%80%85Goats%E2%80%85(Small)/16e76433.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/12569.%E2%80%85Grazing%E2%80%85Google%E2%80%85Goats%E2%80%85(Small)/16e76433.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/12569/images-30.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="border:0px; vertical-align:middle" /></p>
 
 ### 입력
 

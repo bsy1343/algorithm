@@ -31,7 +31,7 @@
 
 <p>예를 들어, 3번째 피이보나치 트리는 다음과 같다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/1646.%E2%80%85%ED%94%BC%EC%9D%B4%EB%B3%B4%EB%82%98%EC%B9%98%E2%80%85%ED%8A%B8%EB%A6%AC/4c3c64ab.png" data-original-src="https://upload.acmicpc.net/b1e27c79-a4fe-4bca-9b0c-7a9a100e4f7b/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/1646.%E2%80%85%ED%94%BC%EC%9D%B4%EB%B3%B4%EB%82%98%EC%B9%98%E2%80%85%ED%8A%B8%EB%A6%AC/4c3c64ab.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/1646.%E2%80%85%ED%94%BC%EC%9D%B4%EB%B3%B4%EB%82%98%EC%B9%98%E2%80%85%ED%8A%B8%EB%A6%AC/4c3c64ab.png" data-original-src="https://upload.acmicpc.net/b1e27c79-a4fe-4bca-9b0c-7a9a100e4f7b/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>N과 시작 위치와 도착 위치가 들어오면, N번째 피이보나치 트리에서 시작 위치에서 도착 위치로 가는 최단 경로를 구하는 프로그램을 작성하시오. 각 노드사이의 거리는 1이다.</p>
 

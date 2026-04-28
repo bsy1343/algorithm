@@ -18,17 +18,17 @@
 
 <p>형찬이는 놀이공원의 &lsquo;스프링 야드&rsquo; 어트랙션을 관리하는 관리자이다. &lsquo;스프링 야드&rsquo; 어트랙션은 스프링 $N$개가 일렬로 늘어진 모양이다. 이 어트랙션에서는 한 스프링을 밟으면 높이 떠올랐다가 바로 옆에 있는 스프링으로 떨어지는데, 이런 과정이 반복되면 보는 사람은 짜릿함을, 즐기는 사람은 스릴을 느낄 수 있다. 만약 사람이 가장 왼쪽 스프링에서 왼쪽으로 떠오르거나 가장 오른쪽 스프링에서 오른쪽으로 떠오르면 매트에 떨어지며 한 번의 차례가 끝난다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/31579.%E2%80%85LR%E2%80%85Springboard/fecb60e1.png" data-original-src="https://upload.acmicpc.net/201cb966-2b50-4cca-87b9-071a4ceeaaca/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/31579.%E2%80%85LR%E2%80%85Springboard/fecb60e1.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/31579.%E2%80%85LR%E2%80%85Springboard/fecb60e1.png" data-original-src="https://upload.acmicpc.net/201cb966-2b50-4cca-87b9-071a4ceeaaca/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>여기에 있는 스프링은 매우 특이하게 설계되어 있다. 모든 스프링은 왼쪽 또는 오른쪽으로 살짝 기울어져 있는데, 스프링을 밟으면 그 스프링이 보고 있는 방향으로 높이 떠오른다. 또, 사람이 어떤 스프링을 밟아서 떠오르면 그 스프링은 알아서 방향을 바꾼다. 왼쪽을 보고 있던 스프링은 오른쪽으로, 오른쪽을 보고 있던 스프링은 왼쪽으로 방향이 바뀐다.</p>
 
 <p>벌써 날이 어둑어둑해져서 형찬이는 어트랙션을 정리하려고 한다. 형찬이는 놀이공원의 방침에 따라 모든 스프링이 왼쪽을 향하게 해야 한다. 형찬이가 자기 손으로 직접 스프링의 방향을 바꾸면 안전사고의 위험이 있으므로 그는 파란색 공을 이용해서 스프링의 방향을 바꾸려고 한다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/31579.%E2%80%85LR%E2%80%85Springboard/cdfb77fd.png" data-original-src="https://upload.acmicpc.net/61460fd4-c3dc-4d64-8ee2-c3ddd97c6eaf/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/31579.%E2%80%85LR%E2%80%85Springboard/cdfb77fd.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/31579.%E2%80%85LR%E2%80%85Springboard/cdfb77fd.png" data-original-src="https://upload.acmicpc.net/61460fd4-c3dc-4d64-8ee2-c3ddd97c6eaf/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>형찬이가 높은 곳에서 공을 떨어뜨리면 공은 이리저리 튀다가 왼쪽 끝 매트나 오른쪽 끝 매트에 떨어진다. 아래 그림과 같이 형찬이가 3번째 스프링에 공을 떨어뜨린 후 첫 번째 스프링에 공을 떨어뜨리면 모든 스프링이 왼쪽을 보게 할 수 있다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/31579.%E2%80%85LR%E2%80%85Springboard/0af98843.png" data-original-src="https://upload.acmicpc.net/c0f1bef9-03e9-4c51-80ac-36d3e13887d8/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/31579.%E2%80%85LR%E2%80%85Springboard/5187452b.png" data-original-src="https://upload.acmicpc.net/17c742a9-3602-41bb-8310-5eb2f68ca5b1/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/31579.%E2%80%85LR%E2%80%85Springboard/0af98843.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/31579.%E2%80%85LR%E2%80%85Springboard/0af98843.png" data-original-src="https://upload.acmicpc.net/c0f1bef9-03e9-4c51-80ac-36d3e13887d8/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/31579.%E2%80%85LR%E2%80%85Springboard/5187452b.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/31579.%E2%80%85LR%E2%80%85Springboard/5187452b.png" data-original-src="https://upload.acmicpc.net/17c742a9-3602-41bb-8310-5eb2f68ca5b1/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>허나, 형찬이가 높은 곳에서 스프링을 보면 $N$개의 스프링이 어떤 방향을 향하고 있는지 제대로 보이지 않는다. 즉, 형찬이는 처음부터 끝까지 스프링의 상태를 알 수 없다. 그렇지만 형찬이가 파란색 공을 떨어뜨렸을 때 그 공이 왼쪽 끝에서 멈추는지 오른쪽 끝에서 멈추는지는 쉽게 분간이 가능하다. 형찬이를 도와 공을 적절히 떨어뜨려서 모든 스프링이 왼쪽을 보게 만드는 프로그램을 작성하여라.</p>
 

@@ -22,7 +22,7 @@
 
 <p>Pasižiūrėkime, kaip Bitukas už&scaron;ifruotų žinutę <code>Kaip_gyveni?</code> su raktu $K = 7$:</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/30065.%E2%80%85De%C5%A1ifravimas/292f830b.png" data-original-src="https://upload.acmicpc.net/b661c7c3-58aa-42e0-b60f-1ddc8b38e119/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 523px; height: 292px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/30065.%E2%80%85De%C5%A1ifravimas/292f830b.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/30065.%E2%80%85De%C5%A1ifravimas/292f830b.png" data-original-src="https://upload.acmicpc.net/b661c7c3-58aa-42e0-b60f-1ddc8b38e119/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 523px; height: 292px;" /></p>
 
 <p>Norėdamas žinutes &scaron;ifruoti greičiau, Bitukas sukonstravo Bituko &Scaron;ifravimo Ma&scaron;iną (B&Scaron;M). Bitukas į B&Scaron;M įveda pradinę žinutę, tuomet paleidžia ma&scaron;iną ir &scaron;i pradeda &scaron;ifruoti žinutę po vieną simbolį nuo pradžios iki galo.</p>
 

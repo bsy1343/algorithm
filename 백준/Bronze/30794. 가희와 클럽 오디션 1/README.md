@@ -20,7 +20,7 @@
 
 <p>가희는 클럽 오디션을 하고 있습니다. 이 게임에는 여러 모드가 있는데 가희는 8키 모드를 하고 있습니다. 8키 모드에서는 레벨이 6 이상인 키 노트가 등장합니다. 레벨이 $lv$인 키 노트 안에는 $lv$개의 키가 있습니다.  키의 방향은 8 방향 중 (상, 하, 좌, 우, 좌상, 좌하, 우상, 우하) 하나입니다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/30794.%E2%80%85%EA%B0%80%ED%9D%AC%EC%99%80%E2%80%85%ED%81%B4%EB%9F%BD%E2%80%85%EC%98%A4%EB%94%94%EC%85%98%E2%80%851/0eed31c2.png" data-original-src="https://u.acmicpc.net/69cb163b-a407-4318-9ed8-f03847fba2e1/1%20-%20%EB%B3%B5%EC%82%AC%EB%B3%B8.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/30794.%E2%80%85%EA%B0%80%ED%9D%AC%EC%99%80%E2%80%85%ED%81%B4%EB%9F%BD%E2%80%85%EC%98%A4%EB%94%94%EC%85%98%E2%80%851/0eed31c2.png" data-original-src="%EB%B0%B1%EC%A4%80/Bronze/30794.%E2%80%85%EA%B0%80%ED%9D%AC%EC%99%80%E2%80%85%ED%81%B4%EB%9F%BD%E2%80%85%EC%98%A4%EB%94%94%EC%85%98%E2%80%851/0eed31c2.png" data-original-src="https://u.acmicpc.net/69cb163b-a407-4318-9ed8-f03847fba2e1/1%20-%20%EB%B3%B5%EC%82%AC%EB%B3%B8.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p style="text-align: center;"><strong>[그림 1]</strong> 레벨 6의 키 노트</p>
 

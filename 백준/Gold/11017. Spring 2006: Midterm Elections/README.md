@@ -18,7 +18,7 @@
 
 <p>In Spring of 2006, it was time for midterm elections, so the contest was titled the &ldquo;Midterm Elections Contest&rdquo;, and we explored some computational aspects thereof. One of the topics we looked at were the famous &ldquo;butterfly ballots&rdquo;. Butterfly ballots are a tried and true way to ensure that many voters will accidentally vote for the wrong candidate. In a butterfly ballot, all the candidates&rsquo; names are on one side (say, the left), while all the boxes in which to mark a vote are on the other side. Now, if the boxes are a little bit shifted, it can be hard to tell which box corresponds to which candidate. For instance, look at the following ballot:</p>
 
-<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/11017.%E2%80%85Spring%E2%80%852006%3A%E2%80%85Midterm%E2%80%85Elections/fe7266b2.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11017/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:226px; width:602px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/11017.%E2%80%85Spring%E2%80%852006%3A%E2%80%85Midterm%E2%80%85Elections/fe7266b2.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/11017.%E2%80%85Spring%E2%80%852006%3A%E2%80%85Midterm%E2%80%85Elections/fe7266b2.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11017/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:226px; width:602px" /></p>
 
 <p>You&rsquo;ll have to admit that if one isn&rsquo;t careful with this ballot, one might easily end up making a mark next to UCLA instead of USC. Of course, similar things could happen to political candidates.</p>
 

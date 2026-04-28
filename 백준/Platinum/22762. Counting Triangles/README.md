@@ -18,7 +18,7 @@
 
 <p>Triangles are polygons with three sides and strictly positive area. Lattice triangles are the triangles all whose vertices have integer coordinates. In this problem you have to find the number of lattice triangles in an M &times; N grid. For example in a 1 &times; 2 grid there are 18 different lattice triangles as shown in the picture below:</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/22762.%E2%80%85Counting%E2%80%85Triangles/60e5e12a.png" data-original-src="https://upload.acmicpc.net/8c03fd80-bf43-457b-9b76-82a9190879d5/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 527px; height: 156px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/22762.%E2%80%85Counting%E2%80%85Triangles/60e5e12a.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/22762.%E2%80%85Counting%E2%80%85Triangles/60e5e12a.png" data-original-src="https://upload.acmicpc.net/8c03fd80-bf43-457b-9b76-82a9190879d5/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 527px; height: 156px;" /></p>
 
 <p style="text-align: center;">Figure 2: Lattice Triangles in a 1 &times; 2 Grid</p>
 

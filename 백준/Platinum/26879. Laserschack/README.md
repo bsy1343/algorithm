@@ -44,14 +44,14 @@
 
 ### 힌트
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/26879.%E2%80%85Laserschack/788fcf56.png" data-original-src="https://upload.acmicpc.net/f0752fe8-6272-4b07-9476-ba99065d29f3/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 300px; height: 300px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/26879.%E2%80%85Laserschack/788fcf56.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/26879.%E2%80%85Laserschack/788fcf56.png" data-original-src="https://upload.acmicpc.net/f0752fe8-6272-4b07-9476-ba99065d29f3/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 300px; height: 300px;" /></p>
 
 <p style="text-align: center;">Exempelfall 1 efter en sekund.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/26879.%E2%80%85Laserschack/08f286da.png" data-original-src="https://upload.acmicpc.net/facc7f1e-c817-4000-92ed-b424cf04fbc6/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 793px; height: 596px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/26879.%E2%80%85Laserschack/08f286da.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/26879.%E2%80%85Laserschack/08f286da.png" data-original-src="https://upload.acmicpc.net/facc7f1e-c817-4000-92ed-b424cf04fbc6/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 793px; height: 596px;" /></p>
 
 <p style="text-align: center;">Exempelfall 2 efter tre sekunder.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/26879.%E2%80%85Laserschack/a157f9ea.png" data-original-src="https://upload.acmicpc.net/2374452c-9e87-4159-b4bc-74009789bfd6/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 891px; height: 989px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/26879.%E2%80%85Laserschack/a157f9ea.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/26879.%E2%80%85Laserschack/a157f9ea.png" data-original-src="https://upload.acmicpc.net/2374452c-9e87-4159-b4bc-74009789bfd6/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 891px; height: 989px;" /></p>
 
 <p style="text-align: center;">Exempelfall 3 efter tv&aring; sekunder.</p>

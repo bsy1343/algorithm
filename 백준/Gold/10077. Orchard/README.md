@@ -27,9 +27,9 @@
 <table class="table table-bordered" style="width: 100%;">
 	<tbody>
 		<tr>
-			<td style="width: 33%; text-align: center; vertical-align: middle;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/10077.%E2%80%85Orchard/82ff37e5.png" data-original-src="https://upload.acmicpc.net/2c39d542-b9e3-45e2-b144-fb314b06d874/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 92px; height: 107px;" /></td>
-			<td style="width: 34%; text-align: center; vertical-align: middle;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/10077.%E2%80%85Orchard/50353d91.png" data-original-src="https://upload.acmicpc.net/db53d755-72ae-41d4-a7f7-d089ab5fcd55/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 129px; height: 96px;" /></td>
-			<td style="width: 33%; text-align: center; vertical-align: middle;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/10077.%E2%80%85Orchard/9a0a964c.png" data-original-src="https://upload.acmicpc.net/8e114562-87ea-4dfa-b70b-af92f2edc929/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 161px; height: 37px;" /></td>
+			<td style="width: 33%; text-align: center; vertical-align: middle;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/10077.%E2%80%85Orchard/82ff37e5.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/10077.%E2%80%85Orchard/82ff37e5.png" data-original-src="https://upload.acmicpc.net/2c39d542-b9e3-45e2-b144-fb314b06d874/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 92px; height: 107px;" /></td>
+			<td style="width: 34%; text-align: center; vertical-align: middle;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/10077.%E2%80%85Orchard/50353d91.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/10077.%E2%80%85Orchard/50353d91.png" data-original-src="https://upload.acmicpc.net/db53d755-72ae-41d4-a7f7-d089ab5fcd55/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 129px; height: 96px;" /></td>
+			<td style="width: 33%; text-align: center; vertical-align: middle;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/10077.%E2%80%85Orchard/9a0a964c.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/10077.%E2%80%85Orchard/9a0a964c.png" data-original-src="https://upload.acmicpc.net/8e114562-87ea-4dfa-b70b-af92f2edc929/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 161px; height: 37px;" /></td>
 		</tr>
 		<tr>
 			<td style="width: 33%; text-align: center;">Example 1</td>

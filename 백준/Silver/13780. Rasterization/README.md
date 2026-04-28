@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/13780.%E2%80%85Rasterization/53023299.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/13780/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-11-19%20%EC%98%A4%EC%A0%84%202.59.11.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:259px; width:270px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/13780.%E2%80%85Rasterization/53023299.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/13780.%E2%80%85Rasterization/53023299.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/13780/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-11-19%20%EC%98%A4%EC%A0%84%202.59.11.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:259px; width:270px" /></p>
 
 <p>In computer graphics, one of the fundamental operations is rasterizationof a triangle. Given pixel coordinates of the corners of a triangle, the rasterization algorithm decides which pixels to colour. Consider the following image. It shows a &lsquo;screen&rsquo; with 12 rows of 10 columns of pixels. The coordinate system used for triangle vertices is as shown - integer values at the edges of the pixels. Pixel centres are at half integral coordinates. The coordinates of the corners of the triangle are shown at the top left of the image, with the x or horizontal coordinate first and y coordinate second. Note that the y coordinate increases downward. The coordinates of the triangle follow a standard graphics convention in that they are listed in clockwise order. Any cyclic permutation of the three corners is considered equivalent.</p>
 

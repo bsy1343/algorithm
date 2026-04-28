@@ -18,7 +18,7 @@
 
 <p>You are given&nbsp;<i>N</i>&nbsp;non-overlapping circles in xy-plane. The radius of each circle varies, but the radius of the largest circle is not double longer than that of the smallest.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/22734.%E2%80%85The%E2%80%85Closest%E2%80%85Circle/fa53d560.png" data-original-src="https://upload.acmicpc.net/adc4d493-fcfa-4b43-8265-ffb340740106/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 251px; height: 226px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/22734.%E2%80%85The%E2%80%85Closest%E2%80%85Circle/fa53d560.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/22734.%E2%80%85The%E2%80%85Closest%E2%80%85Circle/fa53d560.png" data-original-src="https://upload.acmicpc.net/adc4d493-fcfa-4b43-8265-ffb340740106/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 251px; height: 226px;" /></p>
 
 <p style="text-align: center;">Figure 1: The Sample Input</p>
 

@@ -46,4 +46,4 @@
 
 <p>예제 1 설명</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/12793.%E2%80%85%EB%B8%94%EB%A1%9D%E2%80%85%EA%B2%8C%EC%9E%84/882f46a6.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/12793/game.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:247px; width:479px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/12793.%E2%80%85%EB%B8%94%EB%A1%9D%E2%80%85%EA%B2%8C%EC%9E%84/882f46a6.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/12793.%E2%80%85%EB%B8%94%EB%A1%9D%E2%80%85%EA%B2%8C%EC%9E%84/882f46a6.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/12793/game.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:247px; width:479px" /></p>

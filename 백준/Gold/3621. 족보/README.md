@@ -26,11 +26,11 @@
 
 <p>예를 들어, d가 2이고 피터가 만든 족보의 베타 버젼이 아래와 같다면,</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/3621.%E2%80%85%EC%A1%B1%EB%B3%B4/7011fe6d.png" data-original-src="https://upload.acmicpc.net/16ddd152-b824-45e9-ae72-b37668387821/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 379px; height: 97px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/3621.%E2%80%85%EC%A1%B1%EB%B3%B4/7011fe6d.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/3621.%E2%80%85%EC%A1%B1%EB%B3%B4/7011fe6d.png" data-original-src="https://upload.acmicpc.net/16ddd152-b824-45e9-ae72-b37668387821/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 379px; height: 97px;" /></p>
 
 <p>아래와 같이 선조 두 명을 추가하면 만족스러운 형태가 된다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/3621.%E2%80%85%EC%A1%B1%EB%B3%B4/675e38e4.png" data-original-src="https://upload.acmicpc.net/a632898a-57c0-4e41-953a-d7ac152ae85a/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 379px; height: 139px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/3621.%E2%80%85%EC%A1%B1%EB%B3%B4/675e38e4.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/3621.%E2%80%85%EC%A1%B1%EB%B3%B4/675e38e4.png" data-original-src="https://upload.acmicpc.net/a632898a-57c0-4e41-953a-d7ac152ae85a/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 379px; height: 139px;" /></p>
 
 ### 입력
 

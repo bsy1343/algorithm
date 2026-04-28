@@ -46,6 +46,6 @@
 
 ### 힌트
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/24125.%E2%80%85%E6%B9%96%E2%80%85(Lake)/e0cbb63c.png" data-original-src="https://upload.acmicpc.net/d0d91344-0012-4131-adf7-d87c360130d6/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 471px; height: 419px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/24125.%E2%80%85%E6%B9%96%E2%80%85(Lake)/e0cbb63c.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/24125.%E2%80%85%E6%B9%96%E2%80%85(Lake)/e0cbb63c.png" data-original-src="https://upload.acmicpc.net/d0d91344-0012-4131-adf7-d87c360130d6/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 471px; height: 419px;" /></p>
 
 <p style="text-align: center;">上の入力例における 5 つの計画を表した図 (地点間の間隔は正確ではない)．太線の 3 つの計画を選べば航 路が交差することなく船を運航できる．</p>

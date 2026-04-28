@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/6613.%E2%80%85%EB%B2%84%EA%B7%B8%EC%9E%A1%EB%8A%94%E2%80%85%EA%BF%8D/27015bb8.png" data-original-src="https://www.acmicpc.net/upload/images2/sb.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="float:right; height:97px; width:110px" /> 모든 버그(bug)가 벌레라는 뜻은 아니다. 개발자에게 악몽인 버그도 있다. 이 버그는 바로 여러분이 아는 &quot;니가 짠 프로그램에서 버그 발견됐다 ㅋ&quot; 라고 말할 때 쓰는 버그다. 말 안해도 알겠지만 버그는 없애도 나오고 없애도 나온다. 젠장...</p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/6613.%E2%80%85%EB%B2%84%EA%B7%B8%EC%9E%A1%EB%8A%94%E2%80%85%EA%BF%8D/27015bb8.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/6613.%E2%80%85%EB%B2%84%EA%B7%B8%EC%9E%A1%EB%8A%94%E2%80%85%EA%BF%8D/27015bb8.png" data-original-src="https://www.acmicpc.net/upload/images2/sb.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="float:right; height:97px; width:110px" /> 모든 버그(bug)가 벌레라는 뜻은 아니다. 개발자에게 악몽인 버그도 있다. 이 버그는 바로 여러분이 아는 &quot;니가 짠 프로그램에서 버그 발견됐다 ㅋ&quot; 라고 말할 때 쓰는 버그다. 말 안해도 알겠지만 버그는 없애도 나오고 없애도 나온다. 젠장...</p>
 
 <p>그래서 최근 &quot;버그잡는 꿍&quot; 이라고 불리는 꽤나 유용한 계획이 나타났다. 이 프로그램은 여러분의 소스에 있는 모든 버그를 찾아서 제거할 수 있다. 그래서 여러분은 소스코드에 나타난 모든 버그를 제거하는 프로그램인 &quot;버그잡는 꿍&quot; 프로그램을 만들어야 한다.</p>
 

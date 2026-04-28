@@ -34,7 +34,7 @@
 
 ### 힌트
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/8585.%E2%80%85Wy%C5%9Bcig/9da286f0.png" data-original-src="https://upload.acmicpc.net/91d2b9f1-93f3-41b6-a020-2538107bc747/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/8585.%E2%80%85Wy%C5%9Bcig/9da286f0.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/8585.%E2%80%85Wy%C5%9Bcig/9da286f0.png" data-original-src="https://upload.acmicpc.net/91d2b9f1-93f3-41b6-a020-2538107bc747/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p><b>Wyjaśnienie do przykładu:</b>&nbsp;Optymalna trasa zaczyna się w odległości $2$&nbsp;od miasta A. Czas przejechania tej trasy jest r&oacute;wny $\frac{2}{50} + \frac{2}{40} = \frac{9}{100}$.</p>
 

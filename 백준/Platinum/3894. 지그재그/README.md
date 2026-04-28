@@ -20,13 +20,13 @@
 
 <p>예를 들어, 아래와 같이 평면 위에 점이 9개가 있다고 하자.</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/3894.%E2%80%85%EC%A7%80%EA%B7%B8%EC%9E%AC%EA%B7%B8/04b69188.png" data-original-src="https://www.acmicpc.net/upload/images/z1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 161px; height: 143px;" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/3894.%E2%80%85%EC%A7%80%EA%B7%B8%EC%9E%AC%EA%B7%B8/04b69188.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/3894.%E2%80%85%EC%A7%80%EA%B7%B8%EC%9E%AC%EA%B7%B8/04b69188.png" data-original-src="https://www.acmicpc.net/upload/images/z1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 161px; height: 143px;" /></p>
 
 <p>지그재그 선은 여러 선분으로 이루어져 있고, 각 선분은 점을 두 개 이상 지나야 한다.</p>
 
 <p>지그재그 선은 선이 꺽일 수 있는데, 이 꺽이는 지점을 전환점(turning point)라고 한다. 전환점은 주어진 점 위에 있을 수도 있고, 아닐 수도 있다.</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/3894.%E2%80%85%EC%A7%80%EA%B7%B8%EC%9E%AC%EA%B7%B8/3c44203e.png" data-original-src="https://www.acmicpc.net/upload/images/z2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 486px; height: 137px;" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/3894.%E2%80%85%EC%A7%80%EA%B7%B8%EC%9E%AC%EA%B7%B8/3c44203e.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/3894.%E2%80%85%EC%A7%80%EA%B7%B8%EC%9E%AC%EA%B7%B8/3c44203e.png" data-original-src="https://www.acmicpc.net/upload/images/z2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 486px; height: 137px;" /></p>
 
 <p>왼쪽 지그재그 선의 길이: 8 + 3&radic;2 ≃ 12.242641, 오른쪽 지그재그 선의 길이: 2&radic;2 + (6 + 1/2) + 5&radic;5/2 ≃ 14.918597</p>
 
@@ -34,11 +34,11 @@
 
 <p>전환점을 네 개 갖는 지그재그 선은 아래와 같다. 이 선의 길이는 위의 그림의 길이보다 짧지만, 전환점의 수가 더 많기 때문에 정답이 아니다.</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/3894.%E2%80%85%EC%A7%80%EA%B7%B8%EC%9E%AC%EA%B7%B8/6c80c6c4.png" data-original-src="https://www.acmicpc.net/upload/images/z3.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 148px; height: 98px;" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/3894.%E2%80%85%EC%A7%80%EA%B7%B8%EC%9E%AC%EA%B7%B8/6c80c6c4.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/3894.%E2%80%85%EC%A7%80%EA%B7%B8%EC%9E%AC%EA%B7%B8/6c80c6c4.png" data-original-src="https://www.acmicpc.net/upload/images/z3.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 148px; height: 98px;" /></p>
 
 <p>아래와 같이 점이 7개 있고, 그 점을 잇는 두가지로 이었다고 하자. 이때, 왼쪽의 길이가 오른쪽보다 더 길지만, 정답은 왼쪽 그림이 된다. 그 이유는 지그재그 선의 모든 선분은 점을 두 개 이상 지나야 하기 때문이다.</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/3894.%E2%80%85%EC%A7%80%EA%B7%B8%EC%9E%AC%EA%B7%B8/ae7ea10f.png" data-original-src="https://www.acmicpc.net/upload/images/z4.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 427px; height: 74px;" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/3894.%E2%80%85%EC%A7%80%EA%B7%B8%EC%9E%AC%EA%B7%B8/ae7ea10f.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/3894.%E2%80%85%EC%A7%80%EA%B7%B8%EC%9E%AC%EA%B7%B8/ae7ea10f.png" data-original-src="https://www.acmicpc.net/upload/images/z4.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 427px; height: 74px;" /></p>
 
 <p>점이 주어졌을 때, 지그재그 선을 구하는 프로그램을 작성하시오.</p>
 
@@ -56,10 +56,10 @@
 
 ### 힌트
 
-<p>첫 번째 데이터:&nbsp;<img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/3894.%E2%80%85%EC%A7%80%EA%B7%B8%EC%9E%AC%EA%B7%B8/73c9f776.png" data-original-src="https://www.acmicpc.net/upload/images/zh1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 163px; height: 166px;" /></p>
+<p>첫 번째 데이터:&nbsp;<img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/3894.%E2%80%85%EC%A7%80%EA%B7%B8%EC%9E%AC%EA%B7%B8/73c9f776.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/3894.%E2%80%85%EC%A7%80%EA%B7%B8%EC%9E%AC%EA%B7%B8/73c9f776.png" data-original-src="https://www.acmicpc.net/upload/images/zh1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 163px; height: 166px;" /></p>
 
-<p>두 번째 데이터:&nbsp;<img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/3894.%E2%80%85%EC%A7%80%EA%B7%B8%EC%9E%AC%EA%B7%B8/f2f7048c.png" data-original-src="https://www.acmicpc.net/upload/images/zh2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 158px; height: 164px;" /></p>
+<p>두 번째 데이터:&nbsp;<img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/3894.%E2%80%85%EC%A7%80%EA%B7%B8%EC%9E%AC%EA%B7%B8/f2f7048c.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/3894.%E2%80%85%EC%A7%80%EA%B7%B8%EC%9E%AC%EA%B7%B8/f2f7048c.png" data-original-src="https://www.acmicpc.net/upload/images/zh2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 158px; height: 164px;" /></p>
 
-<p>세 번째 데이터:&nbsp;<img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/3894.%E2%80%85%EC%A7%80%EA%B7%B8%EC%9E%AC%EA%B7%B8/4872b6f5.png" data-original-src="https://www.acmicpc.net/upload/images/zh3.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 162px; height: 162px;" /></p>
+<p>세 번째 데이터:&nbsp;<img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/3894.%E2%80%85%EC%A7%80%EA%B7%B8%EC%9E%AC%EA%B7%B8/4872b6f5.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/3894.%E2%80%85%EC%A7%80%EA%B7%B8%EC%9E%AC%EA%B7%B8/4872b6f5.png" data-original-src="https://www.acmicpc.net/upload/images/zh3.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 162px; height: 162px;" /></p>
 
-<p>네 번째 데이터:&nbsp;<img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/3894.%E2%80%85%EC%A7%80%EA%B7%B8%EC%9E%AC%EA%B7%B8/9b2e70a8.png" data-original-src="https://www.acmicpc.net/upload/images/zh4.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 158px; height: 161px;" /></p>
+<p>네 번째 데이터:&nbsp;<img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/3894.%E2%80%85%EC%A7%80%EA%B7%B8%EC%9E%AC%EA%B7%B8/9b2e70a8.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/3894.%E2%80%85%EC%A7%80%EA%B7%B8%EC%9E%AC%EA%B7%B8/9b2e70a8.png" data-original-src="https://www.acmicpc.net/upload/images/zh4.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 158px; height: 161px;" /></p>

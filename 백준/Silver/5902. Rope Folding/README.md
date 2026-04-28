@@ -20,7 +20,7 @@
 
 <p>FJ notices that there are certain locations at which he can fold the rope back on itself such that the knots on opposite strands all line up exactly with each-other:</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/5902.%E2%80%85Rope%E2%80%85Folding/443c4309.png" data-original-src="https://www.acmicpc.net/upload/images2/fig_knots.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:29px; width:246px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/5902.%E2%80%85Rope%E2%80%85Folding/443c4309.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/5902.%E2%80%85Rope%E2%80%85Folding/443c4309.png" data-original-src="https://www.acmicpc.net/upload/images2/fig_knots.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:29px; width:246px" /></p>
 
 <p>Please help FJ count the number of folding points having this property. Folding exactly at a knot is allowed, except folding at one of the endpoints is not allowed, and extra knots on the longer side of a fold are not a problem (that is, knots only need to line up in the areas where there are two strands opposite each-other). FJ only considers making a single fold at a time; he fortunately never makes multiple folds.</p>
 

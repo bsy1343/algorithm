@@ -18,7 +18,7 @@
 
 <p>Frograms, Inc. has been busy developing necklaces with brand-new design and feature. Every programmer working at Frograms now wears this necklace. A necklace consists of multiple beads stringed by a thread, as seen below. Each bead is given a number between $0$ to $10^9$ (inclusive).</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/28346.%E2%80%85XOR%E2%80%85Necklace/c7fcc9cc.png" data-original-src="https://upload.acmicpc.net/fde3a3ca-1296-4a6c-9bb0-6614220aa797/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 176px; height: 201px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/28346.%E2%80%85XOR%E2%80%85Necklace/c7fcc9cc.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/28346.%E2%80%85XOR%E2%80%85Necklace/c7fcc9cc.png" data-original-src="https://upload.acmicpc.net/fde3a3ca-1296-4a6c-9bb0-6614220aa797/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 176px; height: 201px;" /></p>
 
 <p>Most of the programmers have left for their summer vacation, and there is only a few programmers in the office today. So they decided to play a game using their own necklace to decide who will buy lunch for everyone. The rule is simple: for each pair of consecutive beads in the necklace, we take sum of their numbers. A programmer&rsquo;s score is defined as the XOR(denoted as $\oplus$) of all those sums. The programmer with the lowest score loses! More formally, if there are $N$ beads and their value is denoted by $A_1$, $A_2$, $\cdots$, $A_N$ in the order they are stringed together, then the score is:</p>
 

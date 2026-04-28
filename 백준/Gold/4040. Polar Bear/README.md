@@ -26,13 +26,13 @@
 
 <p>&ldquo;Wait, let me finish &ndash; I&rsquo;ve been trying to program it to work on polar coordinate graph paper, like this:&rdquo;</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/4040.%E2%80%85Polar%E2%80%85Bear/7bda2216.png" data-original-src="https://www.acmicpc.net/upload/images2/polar1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:238px; width:418px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/4040.%E2%80%85Polar%E2%80%85Bear/7bda2216.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/4040.%E2%80%85Polar%E2%80%85Bear/7bda2216.png" data-original-src="https://www.acmicpc.net/upload/images2/polar1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:238px; width:418px" /></p>
 
 <p>&ldquo;Hmmm. That looks like a real bear.&rdquo;</p>
 
 <p>&ldquo;It&rsquo;s not so bad &ndash; most of the cells have eight neighbors, just like Conway&rsquo;s game. The only tricky ones are the ones on the outer circumference and the wedge-shaped cells in the center. But I think I&rsquo;ve figured out what to do with them. If the number of radial lines is even, then every cell on the outer and inner rings has eight neighbors: the five ordinary neighbors on the ring and the nearest adjacent ring, plus the cell diametrically opposite on the grid, plus the left and right neighbors of that cell. For instance:&rdquo;</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/4040.%E2%80%85Polar%E2%80%85Bear/f8ee8f2a.png" data-original-src="https://www.acmicpc.net/upload/images2/polar2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:244px; width:219px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/4040.%E2%80%85Polar%E2%80%85Bear/f8ee8f2a.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/4040.%E2%80%85Polar%E2%80%85Bear/f8ee8f2a.png" data-original-src="https://www.acmicpc.net/upload/images2/polar2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:244px; width:219px" /></p>
 
 <p>&ldquo;The neighbors of A are the cells numbered 1 through 8, and the neighbors of B are the cells labeled p through w.&rdquo;</p>
 

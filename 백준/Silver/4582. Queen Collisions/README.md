@@ -19,9 +19,9 @@
 <table class="table table-bordered" style="height:277px; text-align:center; width:567px">
 	<tbody>
 		<tr>
-			<td><img alt="no collisions" src="%EB%B0%B1%EC%A4%80/Silver/4582.%E2%80%85Queen%E2%80%85Collisions/83c611fa.png" data-original-src="https://www.acmicpc.net/upload/images2/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:201px; width:198px" /></td>
-			<td><img alt="5x5 4 collisions" src="%EB%B0%B1%EC%A4%80/Silver/4582.%E2%80%85Queen%E2%80%85Collisions/ffa2b1e3.png" data-original-src="https://www.acmicpc.net/upload/images2/2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:147px; width:143px" /></td>
-			<td><img alt="size 8, 5 collisions" src="%EB%B0%B1%EC%A4%80/Silver/4582.%E2%80%85Queen%E2%80%85Collisions/ccf7a9d7.png" data-original-src="https://www.acmicpc.net/upload/images2/3.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:227px; width:223px" /></td>
+			<td><img alt="no collisions" src="%EB%B0%B1%EC%A4%80/Silver/4582.%E2%80%85Queen%E2%80%85Collisions/83c611fa.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/4582.%E2%80%85Queen%E2%80%85Collisions/83c611fa.png" data-original-src="https://www.acmicpc.net/upload/images2/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:201px; width:198px" /></td>
+			<td><img alt="5x5 4 collisions" src="%EB%B0%B1%EC%A4%80/Silver/4582.%E2%80%85Queen%E2%80%85Collisions/ffa2b1e3.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/4582.%E2%80%85Queen%E2%80%85Collisions/ffa2b1e3.png" data-original-src="https://www.acmicpc.net/upload/images2/2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:147px; width:143px" /></td>
+			<td><img alt="size 8, 5 collisions" src="%EB%B0%B1%EC%A4%80/Silver/4582.%E2%80%85Queen%E2%80%85Collisions/ccf7a9d7.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/4582.%E2%80%85Queen%E2%80%85Collisions/ccf7a9d7.png" data-original-src="https://www.acmicpc.net/upload/images2/3.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:227px; width:223px" /></td>
 		</tr>
 		<tr>
 			<td>Figure 1</td>

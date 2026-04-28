@@ -19,7 +19,7 @@
 <p><strong>이 문제는 &quot;한빛미디어(Hard)&quot; 문제와 입력 조건과 출력 조건이 다르다.</strong></p>
 
 <blockquote>
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/31796.%E2%80%85%ED%95%9C%EB%B9%9B%EB%AF%B8%EB%94%94%EC%96%B4%E2%80%85(Easy)/b9bba2ff.png" data-original-src="https://upload.acmicpc.net/e47c3e13-170d-43c0-9346-d44c10d028ad/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/31796.%E2%80%85%ED%95%9C%EB%B9%9B%EB%AF%B8%EB%94%94%EC%96%B4%E2%80%85(Easy)/b9bba2ff.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/31796.%E2%80%85%ED%95%9C%EB%B9%9B%EB%AF%B8%EB%94%94%EC%96%B4%E2%80%85(Easy)/b9bba2ff.png" data-original-src="https://upload.acmicpc.net/e47c3e13-170d-43c0-9346-d44c10d028ad/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>한빛미디어(주)는 &#39;책으로 여는 IT 세상&#39;을 만들어 갑니다. IT 세상의 주역은 &#39;우리&#39; 입니다. 한빛미디어(주)는 IT 세상의 주역들을 위한 프로그래밍, 컴퓨터공학, IT 에세이, Make, 리얼타임(전자책), OA, 그래픽, 나와 내 아이를 위한 실용 등 다양한 분야의 책으로 IT 세상을 만들어 가고 있습니다.</p>
 </blockquote>

@@ -27,7 +27,7 @@
 
 <p>아래 그림은 $2 \times 3$ 피라미드의 1층을 채우는 과정을 나타낸 것이다. 1층을 채우는 데에 화이트 초콜릿은 8개, 다크 초콜릿은 7개가 필요하고, 2층까지 합하면 각각 10개, 8개가 필요하다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/25793.%E2%80%85%EC%B4%88%EC%BD%9C%EB%A6%BF%E2%80%85%ED%94%BC%EB%9D%BC%EB%AF%B8%EB%93%9C/bfbad563.png" data-original-src="https://upload.acmicpc.net/84e118fc-f246-4388-9f46-958758d01da5/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/25793.%E2%80%85%EC%B4%88%EC%BD%9C%EB%A6%BF%E2%80%85%ED%94%BC%EB%9D%BC%EB%AF%B8%EB%93%9C/bfbad563.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/25793.%E2%80%85%EC%B4%88%EC%BD%9C%EB%A6%BF%E2%80%85%ED%94%BC%EB%9D%BC%EB%AF%B8%EB%93%9C/bfbad563.png" data-original-src="https://upload.acmicpc.net/84e118fc-f246-4388-9f46-958758d01da5/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>코코는 아주 큰 초콜릿 피라미드를 만들어 한별이에게 선물하려고 한다. 이 때 화이트와 다크 초콜릿이 각각 몇 개씩 필요한지 계산해주자.</p>
 

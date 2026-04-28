@@ -24,15 +24,15 @@
 
 <p>You should write a program that reports the size of the largest mesh among the (n + 1)<sup>2</sup> meshes of the fishnet made by fixing the threads at the pegs. You may assume that the thread he found is long enough to make the fishnet and that the wood-frame is thin enough for neglecting its thickness.</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/9153.%E2%80%85Fishnet/7c5dd7ad.png" data-original-src="https://www.acmicpc.net/upload/images2/pegs.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:166px; width:264px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/9153.%E2%80%85Fishnet/7c5dd7ad.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/9153.%E2%80%85Fishnet/7c5dd7ad.png" data-original-src="https://www.acmicpc.net/upload/images2/pegs.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:166px; width:264px" /></p>
 
 <p>Figure 1. A wood-frame with 8 pegs.</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/9153.%E2%80%85Fishnet/2b971544.png" data-original-src="https://www.acmicpc.net/upload/images2/pegs2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:256px; width:307px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/9153.%E2%80%85Fishnet/2b971544.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/9153.%E2%80%85Fishnet/2b971544.png" data-original-src="https://www.acmicpc.net/upload/images2/pegs2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:256px; width:307px" /></p>
 
 <p>Figure 2. Positions of pegs (indicated by small black circles)</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/9153.%E2%80%85Fishnet/212819bd.png" data-original-src="https://www.acmicpc.net/upload/images2/pegs3.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:252px; width:307px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/9153.%E2%80%85Fishnet/212819bd.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/9153.%E2%80%85Fishnet/212819bd.png" data-original-src="https://www.acmicpc.net/upload/images2/pegs3.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:252px; width:307px" /></p>
 
 <p>Figure 3. A fishnet and the largest mesh (shaded)</p>
 

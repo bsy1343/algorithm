@@ -20,7 +20,7 @@
 
 <p>예를 들어 세 개의 숫자나사가 주어졌을 때, 정면에서 보는 현재 상태가 326이고 원하는 상태는 446이라면 최소 회전 칸수는 4이다. 먼저 숫자나사 1을 왼쪽으로 한 칸 돌리면 437이 되고, 숫자나사 2를 역시 왼쪽으로 한 칸 돌리면 448이 되며, 마지막으로 숫자나사 3을 오른쪽으로 두 칸 돌리면 446이 된다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/13392.%E2%80%85%EB%B0%A9%EB%B2%95%EC%9D%84%E2%80%85%EC%B6%9C%EB%A0%A5%ED%95%98%EC%A7%80%E2%80%85%EC%95%8A%EB%8A%94%E2%80%85%EC%88%AB%EC%9E%90%E2%80%85%EB%A7%9E%EC%B6%94%EA%B8%B0/6d32731a.png" data-original-src="https://upload.acmicpc.net/62a0dbc7-5004-46d4-824d-12b434a3b71d/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 248px; height: 256px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/13392.%E2%80%85%EB%B0%A9%EB%B2%95%EC%9D%84%E2%80%85%EC%B6%9C%EB%A0%A5%ED%95%98%EC%A7%80%E2%80%85%EC%95%8A%EB%8A%94%E2%80%85%EC%88%AB%EC%9E%90%E2%80%85%EB%A7%9E%EC%B6%94%EA%B8%B0/6d32731a.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/13392.%E2%80%85%EB%B0%A9%EB%B2%95%EC%9D%84%E2%80%85%EC%B6%9C%EB%A0%A5%ED%95%98%EC%A7%80%E2%80%85%EC%95%8A%EB%8A%94%E2%80%85%EC%88%AB%EC%9E%90%E2%80%85%EB%A7%9E%EC%B6%94%EA%B8%B0/6d32731a.png" data-original-src="https://upload.acmicpc.net/62a0dbc7-5004-46d4-824d-12b434a3b71d/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 248px; height: 256px;" /></p>
 
 ### 입력
 

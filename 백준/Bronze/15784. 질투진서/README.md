@@ -26,7 +26,7 @@
 
 <p>진서가 앉아있는 의자의 행 a 와 열 b가 주어질 때, &nbsp;진서가 볼 수 있는 사람 중 자신보다 잘생긴 사람이 있다면 ANGRY, 그렇지 않다면 HAPPY를 출력하시오.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/15784.%E2%80%85%EC%A7%88%ED%88%AC%EC%A7%84%EC%84%9C/bf1cb129.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15784/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 225px; height: 229px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/15784.%E2%80%85%EC%A7%88%ED%88%AC%EC%A7%84%EC%84%9C/bf1cb129.png" data-original-src="%EB%B0%B1%EC%A4%80/Bronze/15784.%E2%80%85%EC%A7%88%ED%88%AC%EC%A7%84%EC%84%9C/bf1cb129.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15784/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 225px; height: 229px;" /></p>
 
 ### 입력
 

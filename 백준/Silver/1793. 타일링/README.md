@@ -20,7 +20,7 @@
 
 <p>아래 그림은 2&times;17 직사각형을 채운 한가지 예이다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/1793.%E2%80%85%ED%83%80%EC%9D%BC%EB%A7%81/2a6b2e4c.gif" data-original-src="https://www.acmicpc.net/upload/images/t2n2122.gif" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:59px; width:380px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/1793.%E2%80%85%ED%83%80%EC%9D%BC%EB%A7%81/2a6b2e4c.gif" data-original-src="%EB%B0%B1%EC%A4%80/Silver/1793.%E2%80%85%ED%83%80%EC%9D%BC%EB%A7%81/2a6b2e4c.gif" data-original-src="https://www.acmicpc.net/upload/images/t2n2122.gif" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:59px; width:380px" /></p>
 
 ### 입력
 

@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/5069.%E2%80%85%EB%AF%B8%EB%A1%9C%EC%97%90%E2%80%85%EA%B0%87%ED%9E%8C%E2%80%85%EC%83%81%EA%B7%BC/0403cf85.png" data-original-src="https://www.acmicpc.net/upload/images/hex.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="float:right; height:292px; width:268px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/5069.%E2%80%85%EB%AF%B8%EB%A1%9C%EC%97%90%E2%80%85%EA%B0%87%ED%9E%8C%E2%80%85%EC%83%81%EA%B7%BC/0403cf85.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/5069.%E2%80%85%EB%AF%B8%EB%A1%9C%EC%97%90%E2%80%85%EA%B0%87%ED%9E%8C%E2%80%85%EC%83%81%EA%B7%BC/0403cf85.png" data-original-src="https://www.acmicpc.net/upload/images/hex.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="float:right; height:292px; width:268px" /></p>
 
 <p>상근이는 오른쪽 그림과 같은 미로에 갇혀있다. 미로는 육각형 모양의 방이 계속해서 붙어있는 모양이고, 이러한 방은 무수히 많이 있다. 또, 인접한 방은 문으로 연결되어 있어서, 한 방에서 다른 방으로 건너갈 수 있다. 하지만, 방의 개수는 무한대이기 때문에, 상근이는 절대 이 미로를 빠져나갈 수 없다.</p>
 

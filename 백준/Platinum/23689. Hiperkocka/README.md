@@ -62,4 +62,4 @@
 
 <p>Clarification of the third example:</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/23689.%E2%80%85Hiperkocka/419313c0.png" data-original-src="https://upload.acmicpc.net/c97060fc-cf5e-400a-b766-8a608bba2e6f/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 119px; height: 126px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/23689.%E2%80%85Hiperkocka/419313c0.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/23689.%E2%80%85Hiperkocka/419313c0.png" data-original-src="https://upload.acmicpc.net/c97060fc-cf5e-400a-b766-8a608bba2e6f/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 119px; height: 126px;" /></p>

@@ -18,7 +18,7 @@
 
 <p><em>문제의 모티브는 비디오 게임 <strong>폴 가이즈(Fall Guys)</strong>의 미니게임 점프 쇼다운이지만, 후술할 게임 시스템과는&nbsp;관계가 없으므로 지문을 읽어야 합니다.</em></p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/25714.%E2%80%85%EC%A0%90%ED%94%84%E2%80%85%EC%87%BC%EB%8B%A4%EC%9A%B4/56b3eaf6.png" data-original-src="https://upload.acmicpc.net/02089e57-fcde-4787-a7b4-139534fc2899/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 385px; width: 400px;" /><br />
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/25714.%E2%80%85%EC%A0%90%ED%94%84%E2%80%85%EC%87%BC%EB%8B%A4%EC%9A%B4/56b3eaf6.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/25714.%E2%80%85%EC%A0%90%ED%94%84%E2%80%85%EC%87%BC%EB%8B%A4%EC%9A%B4/56b3eaf6.png" data-original-src="https://upload.acmicpc.net/02089e57-fcde-4787-a7b4-139534fc2899/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 385px; width: 400px;" /><br />
 [그림 1]</p>
 
 <p>점프 쇼다운이란 [그림 1]과 같이 중앙이 뚫린 원형 게임장에서 즐기는 게임이다. 1번부터 <em>N</em>번까지의 <em>N</em>개의 <strong>판</strong>이 맞물려 하나의 게임장을 이룬다. 게임이 시작된 직후엔 <em>N</em>개의 판이 모두 존재하지만, 시간이 지남에 따라&nbsp;판들이&nbsp;순차적으로&nbsp;사라진다. 마지막에는 정확히 <strong>3개</strong>의 판이 남고, 이 셋은 게임이 종료될 때까지 절대 사라지지 않는다.</p>
@@ -27,7 +27,7 @@
 
 <p>플레이어는 사라지지 않은 판을 밟고 가만히 서 있거나, 밟고 있는&nbsp;판과 인접한 판으로 걸어서 이동할 수 있다. 만약 인접한 판이 사라졌다면&nbsp;그곳으로는 이동할 수 없고, 사라지는 판 위에 가만히 서 있는다면 게임에서 탈락한다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/25714.%E2%80%85%EC%A0%90%ED%94%84%E2%80%85%EC%87%BC%EB%8B%A4%EC%9A%B4/10f6d96b.png" data-original-src="https://upload.acmicpc.net/5c902fea-11d6-4cac-9e4e-c4136cf3aafd/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /><br />
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/25714.%E2%80%85%EC%A0%90%ED%94%84%E2%80%85%EC%87%BC%EB%8B%A4%EC%9A%B4/10f6d96b.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/25714.%E2%80%85%EC%A0%90%ED%94%84%E2%80%85%EC%87%BC%EB%8B%A4%EC%9A%B4/10f6d96b.png" data-original-src="https://upload.acmicpc.net/5c902fea-11d6-4cac-9e4e-c4136cf3aafd/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /><br />
 [그림 2]</p>
 
 <p>[그림 2]와 같은 상황을 예로 들면,</p>

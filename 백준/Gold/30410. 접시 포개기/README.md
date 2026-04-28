@@ -18,7 +18,7 @@
 
 <p>춘배는 배가 너무 고파서 밥을 모두 먹어 치웠고 현재 춘배의 앞에는 $N$개의 접시가 있다. $i$번째 접시의 두께는 정수 $A_i$로 표현되는데, 이제 배부르기 때문에 재미있는 놀이를 해보려고 한다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/30410.%E2%80%85%EC%A0%91%EC%8B%9C%E2%80%85%ED%8F%AC%EA%B0%9C%EA%B8%B0/cdd7c790.png" data-original-src="https://upload.acmicpc.net/979b602e-9058-4fb8-92fa-a4a6cd640f84/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/30410.%E2%80%85%EC%A0%91%EC%8B%9C%E2%80%85%ED%8F%AC%EA%B0%9C%EA%B8%B0/cdd7c790.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/30410.%E2%80%85%EC%A0%91%EC%8B%9C%E2%80%85%ED%8F%AC%EA%B0%9C%EA%B8%B0/cdd7c790.png" data-original-src="https://upload.acmicpc.net/979b602e-9058-4fb8-92fa-a4a6cd640f84/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>다음과 같이 접시를 포갤 수 있을 때, 마지막에 남는 가장 두꺼운 접시의 두께를 최대화하는 것이 목표이다.</p>
 

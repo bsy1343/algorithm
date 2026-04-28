@@ -20,7 +20,7 @@
 
 <p>There are eight types of direction arrows in the Step Step Evolution: UP, UPPER RIGHT, RIGHT, LOWER RIGHT, DOWN, LOWER LEFT, LEFT, and UPPER LEFT. These direction arrows will scroll upward from the bottom of the screen. When the direction arrow overlaps the stationary arrow nearby the top, then the player must step on the corresponding arrow panel on the dance platform. The figure below shows how the dance platform looks like.</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/13798.%E2%80%85Step%E2%80%85Step%E2%80%85Evolution/443bceec.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/13798/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-12-26%20%EC%98%A4%ED%9B%84%206.26.56.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:251px; width:252px" /><br />
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/13798.%E2%80%85Step%E2%80%85Step%E2%80%85Evolution/443bceec.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/13798.%E2%80%85Step%E2%80%85Step%E2%80%85Evolution/443bceec.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/13798/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-12-26%20%EC%98%A4%ED%9B%84%206.26.56.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:251px; width:252px" /><br />
 Figure 1: the dance platform for Step Step Evolution</p>
 
 <p>In the game, you have to obey the following rule:</p>
@@ -33,7 +33,7 @@ Figure 1: the dance platform for Step Step Evolution</p>
 
 <p>As for the third condition, the following figure shows the examples of the valid and invalid footsteps.</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/13798.%E2%80%85Step%E2%80%85Step%E2%80%85Evolution/9e47dbb7.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/13798/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-12-26%20%EC%98%A4%ED%9B%84%206.28.11.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:170px; width:520px" /><br />
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/13798.%E2%80%85Step%E2%80%85Step%E2%80%85Evolution/9e47dbb7.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/13798.%E2%80%85Step%E2%80%85Step%E2%80%85Evolution/9e47dbb7.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/13798/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-12-26%20%EC%98%A4%ED%9B%84%206.28.11.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:170px; width:520px" /><br />
 Figure 2: the examples of valid and invalid footsteps</p>
 
 <p>The first one (left foot for LEFT, right foot for DOWN) and the second one (left foot for LOWER LEFT, right foot for UPPER LEFT) are valid footstep. The last one (left foot for RIGHT, right foot for DOWN) is invalid footstep.</p>
@@ -50,7 +50,7 @@ Figure 2: the examples of valid and invalid footsteps</p>
 
 <p>You may assume that the length of the sequence is between 1 and 100000, inclusive. Also, arrows of the same direction won&rsquo;t appear consecutively in the line. The end of the input is indicated by a single &ldquo;#&rdquo;.</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/13798.%E2%80%85Step%E2%80%85Step%E2%80%85Evolution/635776cb.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/13798/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-12-26%20%EC%98%A4%ED%9B%84%206.29.12.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:250px; width:252px" /><br />
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/13798.%E2%80%85Step%E2%80%85Step%E2%80%85Evolution/635776cb.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/13798.%E2%80%85Step%E2%80%85Step%E2%80%85Evolution/635776cb.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/13798/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-12-26%20%EC%98%A4%ED%9B%84%206.29.12.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:250px; width:252px" /><br />
 Figure 3: the correspondence of the numbers to the direction arrows</p>
 
 ### 출력

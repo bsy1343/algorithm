@@ -20,7 +20,7 @@
 
 <p>In chess, a piece <em>threatens</em> a square on the board if the piece can move to that square in one move. The knight is one of the more fearsome chess pieces, as it moves differently from the other pieces. In a single move, a knight can move two rows and one column or one column and two rows. The image below shows the squares a standard chess knight threatens if it starts in square $e5$.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/20574.%E2%80%85General%E2%80%85Knight/6dd97d95.png" data-original-src="https://upload.acmicpc.net/b6543d1a-c5d0-458d-a2dc-4cf29353c754/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 512px; height: 522px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/20574.%E2%80%85General%E2%80%85Knight/6dd97d95.png" data-original-src="%EB%B0%B1%EC%A4%80/Bronze/20574.%E2%80%85General%E2%80%85Knight/6dd97d95.png" data-original-src="https://upload.acmicpc.net/b6543d1a-c5d0-458d-a2dc-4cf29353c754/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 512px; height: 522px;" /></p>
 
 <p>The standard chess knight is a $(2, 1)$-knight. The more general version is an $(a, b)$-knight, which in one move can move either $a$ rows and $b$ columns, or $b$ rows and $a$ columns. Citizens of the chessboard are concerned, as they don&#39;t know how powerful these new knights are. Given an $(a, b)$-knight and its starting square, which squares does it threaten?</p>
 

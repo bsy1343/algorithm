@@ -20,7 +20,7 @@
 
 <p>아래 그림은 이석원의 시각화 툴을 이용해서 만든 히스토그램이다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/3885.%E2%80%85%ED%9A%8C%EC%83%89%E2%80%85%EC%98%81%EC%97%AD/3244ac53.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/upload/images/gre.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 370px; height: 273px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/3885.%E2%80%85%ED%9A%8C%EC%83%89%E2%80%85%EC%98%81%EC%97%AD/3244ac53.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/3885.%E2%80%85%ED%9A%8C%EC%83%89%E2%80%85%EC%98%81%EC%97%AD/3244ac53.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/upload/images/gre.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 370px; height: 273px;" /></p>
 
 <p>위의 예에서 구간 0-9는 5번 발생했고, 10-19는 3번, 20-29와 30-39는 한 번씩 발생한 것이다.</p>
 
@@ -44,6 +44,6 @@
 
 <p>가장 높은 막대를 검정색으로 드는데 잉크가 1만큼 필요하다. 또, 히스토그램에서 축과 글자를 그리는데 필요한 잉크의 양은 0.01이다. 예를 들어, 위에서 주어진 히스토그램을 그리는데 필요한 잉크의 양은 다음과 같다.</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/3885.%E2%80%85%ED%9A%8C%EC%83%89%E2%80%85%EC%98%81%EC%97%AD/3d286990.png" data-original-src="https://www.acmicpc.net/upload/images/ink.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 284px; height: 109px;" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/3885.%E2%80%85%ED%9A%8C%EC%83%89%E2%80%85%EC%98%81%EC%97%AD/3d286990.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/3885.%E2%80%85%ED%9A%8C%EC%83%89%E2%80%85%EC%98%81%EC%97%AD/3d286990.png" data-original-src="https://www.acmicpc.net/upload/images/ink.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 284px; height: 109px;" /></p>
 
 <p>정답과의 오차가 10<sup>-5</sup>보다 작은 경우에 정답이다.</p>

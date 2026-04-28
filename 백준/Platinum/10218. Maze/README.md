@@ -18,7 +18,7 @@
 
 <p>요즘 한창 잘 나가고 있는 XH 주식회사에서는 어린이용 장난감을 주력 사업으로 밀고 있다. 그 중 인기가 많은 제품은 역시 미로 탈출 게임인 째로탈출이다. 째로탈출은 다음 그림처럼, 미로 형태의 보드를 이용한 게임이다.&nbsp;</p>
 
-<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/10218.%E2%80%85Maze/acaa5c91.png" data-original-src="https://www.acmicpc.net/upload/codershigh/maze(1).png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:235px; width:378px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/10218.%E2%80%85Maze/acaa5c91.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/10218.%E2%80%85Maze/acaa5c91.png" data-original-src="https://www.acmicpc.net/upload/codershigh/maze(1).png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:235px; width:378px" /></p>
 
 <p>째로탈출의 보드는 세로 N, 가로 M의 크기로 이뤄진 격자 형식으로 되어있다. 가장 바깥의 행과 열은 모두 막혀 있고, 가장자리에는 단 하나의 출구만 구멍이 뚫려 있다. 그림에는 없지만 째로탈출에는 구슬이 하나 들어있다. 게임의 목적은 구슬을 가장자리의 조그만 구멍을 통해 빼내는 것이다. 물론 째로탈출 보드에는 투명한 아크릴판이 덮여있어서 직접 빼내는 것은 불가능하고, 중력을 이용해 이리저리 굴리면서 빼내게 된다. 플레이어가 할 수 있는 동작은 다음과 같이 네 종류가 있다. 왼쪽으로 기울이기, 오른쪽으로 기울이기, 위쪽으로 기울이기, 아래쪽으로 기울이기.</p>
 

@@ -57,4 +57,4 @@ Write a programme which:</p>
 
 <p>For the sample input</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/8145.%E2%80%85Megalopolis/c1cfd96c.gif" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/8145/1%5B.gif" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:163px; width:112px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/8145.%E2%80%85Megalopolis/c1cfd96c.gif" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/8145.%E2%80%85Megalopolis/c1cfd96c.gif" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/8145/1%5B.gif" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:163px; width:112px" /></p>

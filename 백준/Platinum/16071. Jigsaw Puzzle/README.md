@@ -18,7 +18,7 @@
 
 <p>You found a box with old games when cleaning up your attic, and among them was also a jigsaw puzzle. Unfortunately, the packaging was damaged, so a couple of puzzle pieces are scattered around the bottom of the box, and you suspect that some of the pieces may have been lost elsewhere. In fact, given the orderliness of your attic, some of the pieces in the box may even come from some entirely different puzzle! So now you have a pile of puzzle pieces lying in front of you and you are trying to assemble them into a solved puzzle.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/16071.%E2%80%85Jigsaw%E2%80%85Puzzle/9429b5e2.png" data-original-src="https://upload.acmicpc.net/738ba4e3-0783-48b5-8a81-fa17ff3fe260/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 244px; height: 167px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/16071.%E2%80%85Jigsaw%E2%80%85Puzzle/9429b5e2.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/16071.%E2%80%85Jigsaw%E2%80%85Puzzle/9429b5e2.png" data-original-src="https://upload.acmicpc.net/738ba4e3-0783-48b5-8a81-fa17ff3fe260/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 244px; height: 167px;" /></p>
 
 <p style="text-align: center;">Figure J.1: Illustration of the first sample.</p>
 

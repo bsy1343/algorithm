@@ -22,7 +22,7 @@
 
 <p>세현이는 학교에서 집으로 가는 경로에서 만나는 숫자와 연산자의 연산 결과의 최댓값과 최솟값을 구하려고 한다. 세현이는 항상 자신의 집 (1, 1)에서 학교 (N, N)까지 최단거리로 이동한다. 최단거리로 이동하기 위해서는 오른쪽과 아래쪽으로만 이동해야 한다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/17265.%E2%80%85%EB%82%98%EC%9D%98%E2%80%85%EC%9D%B8%EC%83%9D%EC%97%90%EB%8A%94%E2%80%85%EC%88%98%ED%95%99%EA%B3%BC%E2%80%85%ED%95%A8%EA%BB%98/e3c919f7.png" data-original-src="https://upload.acmicpc.net/52b1ed3b-b434-4cb7-b532-ce8658764c08/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 298px; width: 600px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/17265.%E2%80%85%EB%82%98%EC%9D%98%E2%80%85%EC%9D%B8%EC%83%9D%EC%97%90%EB%8A%94%E2%80%85%EC%88%98%ED%95%99%EA%B3%BC%E2%80%85%ED%95%A8%EA%BB%98/e3c919f7.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/17265.%E2%80%85%EB%82%98%EC%9D%98%E2%80%85%EC%9D%B8%EC%83%9D%EC%97%90%EB%8A%94%E2%80%85%EC%88%98%ED%95%99%EA%B3%BC%E2%80%85%ED%95%A8%EA%BB%98/e3c919f7.png" data-original-src="https://upload.acmicpc.net/52b1ed3b-b434-4cb7-b532-ce8658764c08/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 298px; width: 600px;" /></p>
 
 <p>위와 같이 N = 5 인 5 x 5 바둑판을 만들었다고 해보자.<img alt="" src="바탕화면/캡처2.jpg" /></p>
 

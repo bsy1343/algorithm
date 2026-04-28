@@ -22,7 +22,7 @@
 
 <p>The least square approach is to find the line L which minimizes such error. Your task is to write a program to find the values a and b of the line L for a given set of points P.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/5649.%E2%80%85Line%E2%80%85of%E2%80%85Best%E2%80%85Fit/eab21fa1.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/5649/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:237px; width:249px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/5649.%E2%80%85Line%E2%80%85of%E2%80%85Best%E2%80%85Fit/eab21fa1.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/5649.%E2%80%85Line%E2%80%85of%E2%80%85Best%E2%80%85Fit/eab21fa1.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/5649/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:237px; width:249px" /></p>
 
 <p style="text-align: center;">Figure 1. Example of points and a line of best fit</p>
 

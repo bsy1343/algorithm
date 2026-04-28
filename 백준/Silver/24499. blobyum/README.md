@@ -22,7 +22,7 @@
 
 <p>각 애플파이는&nbsp;하나의 양의 정수로 표현되며, 이는 맛있는 정도를 의미한다. (수가 클수록 더 맛있는 애플파이이다.)</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/24499.%E2%80%85blobyum/13147298.png" data-original-src="https://upload.acmicpc.net/140d5ae2-f4b2-48b6-9262-91be949de4f6/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="display: inline-block; max-width: 768px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/24499.%E2%80%85blobyum/13147298.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/24499.%E2%80%85blobyum/13147298.png" data-original-src="https://upload.acmicpc.net/140d5ae2-f4b2-48b6-9262-91be949de4f6/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="display: inline-block; max-width: 768px;" /></p>
 
 <p>블롭은 $N$개의 애플파이 중 $K$개를 먹으려고 한다. 물론 블롭은 힘을 들이지 않고 먹고 싶기 때문에, 연속으로 배치되어 있는 $K$개의 애플파이를&nbsp;먹으려 한다.</p>
 

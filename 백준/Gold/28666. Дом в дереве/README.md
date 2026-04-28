@@ -20,7 +20,7 @@
 
 <p>В этом доме будет $n + 1$ этаж. На каждом этаже будет $5$ квадратных комнат образующих крест (см. рисунок). Этажи находятся ровно друг над другом. В каждой комнате будет жить один лемур.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/28666.%E2%80%85%D0%94%D0%BE%D0%BC%E2%80%85%D0%B2%E2%80%85%D0%B4%D0%B5%D1%80%D0%B5%D0%B2%D0%B5/5038d02d.png" data-original-src="https://upload.acmicpc.net/70e9e05e-f449-4abc-98d0-95adf6204ed8/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 88px; height: 88px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/28666.%E2%80%85%D0%94%D0%BE%D0%BC%E2%80%85%D0%B2%E2%80%85%D0%B4%D0%B5%D1%80%D0%B5%D0%B2%D0%B5/5038d02d.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/28666.%E2%80%85%D0%94%D0%BE%D0%BC%E2%80%85%D0%B2%E2%80%85%D0%B4%D0%B5%D1%80%D0%B5%D0%B2%D0%B5/5038d02d.png" data-original-src="https://upload.acmicpc.net/70e9e05e-f449-4abc-98d0-95adf6204ed8/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 88px; height: 88px;" /></p>
 
 <p style="text-align: center;">Рис. 2: Расположение комнат на одном этаже.</p>
 

@@ -25,7 +25,7 @@
 
 <p>나는 0 세대인 정민을 한 마리 가지고 있고, 이 정민에게 0 번을 붙이기로 하였다.또한 이 정민의 자손들에게도 편의를 위해 번호를 붙이기로 하였다. 번호를 붙이는 과정은 아직 자식들에게 번호가 붙지 않은 정민들 중에 가장 작은 번호인 정민을 뽑아 그 자식들에게 태어난 순서대로 아직 붙여지지 않은 가장 작은 번호를 붙이는 것을 반복하기로 하였다. 그렇게 하면 아래와 같게 번호가 붙을 것이다.</p>
 
-<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/10897.%E2%80%85Inherited%E2%80%85disease/cd4367ab.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/10897/pic1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:192px; width:387px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/10897.%E2%80%85Inherited%E2%80%85disease/cd4367ab.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/10897.%E2%80%85Inherited%E2%80%85disease/cd4367ab.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/10897/pic1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:192px; width:387px" /></p>
 
 <p>나는 정민이 어떤 순서로 태어나야 유전병에 걸리게 되는지 실험을 계속하고 있다. 실험방법은 간단하다. 각 정민이 태어난 순서를 따라가는 것이다. 예를 들어서 0세대에서 1번째로 태어난 자식에게서 2번째로 태어난 자식의 1번째로 태어난 자식... 과 같이 보면서 유전병이 있는지 검사하는 것이다. 위와 같이 할 경우 보게 되는 정민의 번호는 순서대로 1,3,7이 된다. 그러나 이 과정이 세대수가 커지면 커질수록 번호가 너무 커져서 힘들어지게 되었다. 당신의 도움이 필요하다.</p>
 

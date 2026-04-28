@@ -29,7 +29,7 @@
 
 <p>색깔이 같은 공이 같은 상자에 들어가도록 하기 위해 필요한 공의 이동 횟수의 최솟값을 구하는 프로그램을 작성하라.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/32070.%E2%80%85%EC%83%89%EA%B9%94%E2%80%85%EB%AA%A8%EC%9C%BC%EA%B8%B0/b97692ae.png" data-original-src="https://upload.acmicpc.net/5311ddec-0563-41f0-9f1e-287178c08f8d/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 434px; height: 85px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/32070.%E2%80%85%EC%83%89%EA%B9%94%E2%80%85%EB%AA%A8%EC%9C%BC%EA%B8%B0/b97692ae.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/32070.%E2%80%85%EC%83%89%EA%B9%94%E2%80%85%EB%AA%A8%EC%9C%BC%EA%B8%B0/b97692ae.png" data-original-src="https://upload.acmicpc.net/5311ddec-0563-41f0-9f1e-287178c08f8d/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 434px; height: 85px;" /></p>
 
 <p>예를 들어, 위 그림에서 아래와 같이 공을 옮기면 $6$번의 이동으로 색깔이 같은 공이 같은 상자에 들어가게 되고, 공을 $6$번보다 적게 옮겨서 목표를 달성하는 것은 불가능하다.</p>
 

@@ -18,7 +18,7 @@
 
 <p>카드 뒤집기 게임은 혼자서 하는 카드 게임으로, 두 가지 타입의 카드 A, B를 사용한다. 카드 A에는 게임에 적용될 규칙에 관한 정보가 적혀 있다. 구체적으로, <strong>그림 1</strong>과 같이 두 정수 $N$ 과 $M(\le N)$, 그리고 $N \times N$ 격자 형태로 문자 &#39;O&#39;와 &#39;X&#39;가 배치된 패턴 $P$가 적혀 있다.&nbsp;</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/22026.%E2%80%85%EC%B9%B4%EB%93%9C%E2%80%85%EB%92%A4%EC%A7%91%EA%B8%B0%E2%80%85%EA%B2%8C%EC%9E%84/46743957.png" data-original-src="https://upload.acmicpc.net/de2409cb-4225-4493-a3b8-c8c807402c47/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 98px; height: 133px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/22026.%E2%80%85%EC%B9%B4%EB%93%9C%E2%80%85%EB%92%A4%EC%A7%91%EA%B8%B0%E2%80%85%EA%B2%8C%EC%9E%84/46743957.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/22026.%E2%80%85%EC%B9%B4%EB%93%9C%E2%80%85%EB%92%A4%EC%A7%91%EA%B8%B0%E2%80%85%EA%B2%8C%EC%9E%84/46743957.png" data-original-src="https://upload.acmicpc.net/de2409cb-4225-4493-a3b8-c8c807402c47/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 98px; height: 133px;" /></p>
 
 <p style="text-align: center;"><strong>그림 1</strong></p>
 
@@ -26,7 +26,7 @@
 
 <p>게임을 시작해보자. 먼저, 카드 A를 하나 선택하고, 그 카드에 적힌 $N$ 값에 따라 $N \times N$ 격자 형태로 카드 B를 배치한다. 처음 배치되는 카드는 모두 &#39;X&#39;가 보이도록 배치해야 한다. 배치된 각 카드는 <strong>그림 2</strong>처럼 행과 열의 번호로 구분한다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/22026.%E2%80%85%EC%B9%B4%EB%93%9C%E2%80%85%EB%92%A4%EC%A7%91%EA%B8%B0%E2%80%85%EA%B2%8C%EC%9E%84/d16abc9d.png" data-original-src="https://upload.acmicpc.net/52087a8f-4097-412a-ad03-dd70aebf23f2/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 254px; height: 209px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/22026.%E2%80%85%EC%B9%B4%EB%93%9C%E2%80%85%EB%92%A4%EC%A7%91%EA%B8%B0%E2%80%85%EA%B2%8C%EC%9E%84/d16abc9d.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/22026.%E2%80%85%EC%B9%B4%EB%93%9C%E2%80%85%EB%92%A4%EC%A7%91%EA%B8%B0%E2%80%85%EA%B2%8C%EC%9E%84/d16abc9d.png" data-original-src="https://upload.acmicpc.net/52087a8f-4097-412a-ad03-dd70aebf23f2/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 254px; height: 209px;" /></p>
 
 <p style="text-align: center;"><strong>그림 2</strong></p>
 

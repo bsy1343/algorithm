@@ -18,7 +18,7 @@
 
 <p>Given the coordinates (x,y) of some points in 2-dimensional plane, find out which quadrant(Q1-Q4) the points are located. If a point is located on X-axis or Y-axis, print out AXIS instead.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/9772.%E2%80%85Quadrants/c8d9f6b2.png" data-original-src="https://upload.acmicpc.net/09499d93-7ae3-4a8d-819b-90def3045626/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 213px; height: 138px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/9772.%E2%80%85Quadrants/c8d9f6b2.png" data-original-src="%EB%B0%B1%EC%A4%80/Bronze/9772.%E2%80%85Quadrants/c8d9f6b2.png" data-original-src="https://upload.acmicpc.net/09499d93-7ae3-4a8d-819b-90def3045626/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 213px; height: 138px;" /></p>
 
 ### 입력
 

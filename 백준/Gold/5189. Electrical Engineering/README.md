@@ -30,7 +30,7 @@
 
 <p>We will make sure that (1) no routers or points lie exactly on a building wall, (2) no router and point are in the same location, and (3) no line from a router to a point just touches a wall (either it really intersects it, or completely avoids it).</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/5189.%E2%80%85Electrical%E2%80%85Engineering/3c7ba129.png" data-original-src="https://www.acmicpc.net/upload/images2/ee.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:126px; width:124px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/5189.%E2%80%85Electrical%E2%80%85Engineering/3c7ba129.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/5189.%E2%80%85Electrical%E2%80%85Engineering/3c7ba129.png" data-original-src="https://www.acmicpc.net/upload/images2/ee.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:126px; width:124px" /></p>
 
 <p style="text-align: center;">The example input +: router, o: location</p>
 

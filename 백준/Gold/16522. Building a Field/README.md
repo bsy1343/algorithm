@@ -20,7 +20,7 @@
 
 <p>Now John wants to use a long rope and four of the field trees to demarcate a rectangle using the trees as vertices and the rope as edges. Figure (b) below shows two rectangles that can be demarcated using the trees of the field in figure (a).</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/16522.%E2%80%85Building%E2%80%85a%E2%80%85Field/ae969273.png" data-original-src="https://upload.acmicpc.net/88eaa204-93dd-4574-b677-8375d1bc5c92/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 447px; height: 162px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/16522.%E2%80%85Building%E2%80%85a%E2%80%85Field/ae969273.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/16522.%E2%80%85Building%E2%80%85a%E2%80%85Field/ae969273.png" data-original-src="https://upload.acmicpc.net/88eaa204-93dd-4574-b677-8375d1bc5c92/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 447px; height: 162px;" /></p>
 
 <p>Given the description of the positions of the trees in John&rsquo;s circular field, you must determine whether it is possible to demarcate a rectangle using four of the trees as vertices and the rope as edges.</p>
 

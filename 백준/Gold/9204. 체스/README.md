@@ -20,7 +20,7 @@
 
 <p>체스판 위의 두 좌표가 주어진다. 이때, 비숍이 한 좌표에서 다른 좌표로 이동할 수 있는지와 그 방법을 구하는 프로그램을 작성하시오. 체스판의 좌표는 글자(A-H)와 숫자(1-8)로 나타내며, 글자는 열에, 숫자는 행에 적혀져 있다.</p>
 
-<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/9204.%E2%80%85%EC%B2%B4%EC%8A%A4/0469ee90.png" data-original-src="https://www.acmicpc.net/upload/images/chess.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:228px; width:226px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/9204.%E2%80%85%EC%B2%B4%EC%8A%A4/0469ee90.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/9204.%E2%80%85%EC%B2%B4%EC%8A%A4/0469ee90.png" data-original-src="https://www.acmicpc.net/upload/images/chess.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:228px; width:226px" /></p>
 
 <p style="text-align:center"><strong>그림 1</strong>&nbsp;&ndash; 체스판, 비숍, 비숍이 한 번에 움직일 수 있는 위치</p>
 

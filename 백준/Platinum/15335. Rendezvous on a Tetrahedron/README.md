@@ -24,7 +24,7 @@
 
 <p>You may assume that each of the worms is a point without length, area, or volume.</p>
 
-<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/15335.%E2%80%85Rendezvous%E2%80%85on%E2%80%85a%E2%80%85Tetrahedron/76fd9ff0.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15335/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:279px; width:276px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/15335.%E2%80%85Rendezvous%E2%80%85on%E2%80%85a%E2%80%85Tetrahedron/76fd9ff0.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/15335.%E2%80%85Rendezvous%E2%80%85on%E2%80%85a%E2%80%85Tetrahedron/76fd9ff0.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15335/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:279px; width:276px" /></p>
 
 <p style="text-align:center">Figure G.1. Crossing an edge</p>
 
@@ -32,7 +32,7 @@
 
 <p>The initial crawling direction of a worm is specified by two items: the edge XY which is the first edge the worm encountered after its start, and the angle d between the edge AX and the&nbsp;direction of the worm, in degrees.</p>
 
-<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/15335.%E2%80%85Rendezvous%E2%80%85on%E2%80%85a%E2%80%85Tetrahedron/633d8c88.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15335/2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:317px; width:327px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/15335.%E2%80%85Rendezvous%E2%80%85on%E2%80%85a%E2%80%85Tetrahedron/633d8c88.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/15335.%E2%80%85Rendezvous%E2%80%85on%E2%80%85a%E2%80%85Tetrahedron/633d8c88.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15335/2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:317px; width:327px" /></p>
 
 <p style="text-align:center">Figure G.2. Trails of the worms corresponding to Sample Input 1</p>
 

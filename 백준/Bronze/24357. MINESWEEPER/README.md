@@ -24,7 +24,7 @@
 
 <p>От първите три реда на стандартния вход се въвеждат по три цели числа (всяко от които е 0 или 9), като числото 9 показва мястото на бомбата, а числото 0 &ndash; къде няма бомба (фиг.1). Числата са разделени с по един интервал.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/24357.%E2%80%85MINESWEEPER/56d2a2b1.png" data-original-src="https://upload.acmicpc.net/596340b8-4b02-4b49-b665-8a461c6e0383/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 201px; height: 121px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/24357.%E2%80%85MINESWEEPER/56d2a2b1.png" data-original-src="%EB%B0%B1%EC%A4%80/Bronze/24357.%E2%80%85MINESWEEPER/56d2a2b1.png" data-original-src="https://upload.acmicpc.net/596340b8-4b02-4b49-b665-8a461c6e0383/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 201px; height: 121px;" /></p>
 
 <p style="text-align: center;">Фиг.1</p>
 

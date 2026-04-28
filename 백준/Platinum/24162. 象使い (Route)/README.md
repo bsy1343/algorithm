@@ -28,7 +28,7 @@
 	<li>象は鋭角には曲れないため，料金所では，それまでたどった道路とのなす角が鋭角になる 道路には乗り換えられない. 例えば，下の図では，p &rarr; q &rarr; r はたどれず，u &rarr; v &rarr; w や x &rarr; y &rarr; z はたどれる．</li>
 </ul>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/24162.%E2%80%85%E8%B1%A1%E4%BD%BF%E3%81%84%E2%80%85(Route)/5e8fd68e.png" data-original-src="https://upload.acmicpc.net/b0f2ed6b-079d-41e7-868a-fc78aa13012a/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 496px; height: 243px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/24162.%E2%80%85%E8%B1%A1%E4%BD%BF%E3%81%84%E2%80%85(Route)/5e8fd68e.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/24162.%E2%80%85%E8%B1%A1%E4%BD%BF%E3%81%84%E2%80%85(Route)/5e8fd68e.png" data-original-src="https://upload.acmicpc.net/b0f2ed6b-079d-41e7-868a-fc78aa13012a/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 496px; height: 243px;" /></p>
 
 ### 입력
 
@@ -42,7 +42,7 @@
 
 ### 힌트
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/24162.%E2%80%85%E8%B1%A1%E4%BD%BF%E3%81%84%E2%80%85(Route)/b50ffa51.png" data-original-src="https://upload.acmicpc.net/843d738b-57de-4ae5-bef2-d5e1e51efca1/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 193px; height: 266px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/24162.%E2%80%85%E8%B1%A1%E4%BD%BF%E3%81%84%E2%80%85(Route)/b50ffa51.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/24162.%E2%80%85%E8%B1%A1%E4%BD%BF%E3%81%84%E2%80%85(Route)/b50ffa51.png" data-original-src="https://upload.acmicpc.net/843d738b-57de-4ae5-bef2-d5e1e51efca1/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 193px; height: 266px;" /></p>
 
 <p style="text-align: center;">入力例の図示</p>
 

@@ -24,7 +24,7 @@
 
 <p>The office room is rectangular aligned to north-south and east-west directions. As the walls are tall enough, you can hang clocks even above the door and can assume one&rsquo;s eyesight is not blocked by other members or furniture. You can also assume that each clock is a point (of size zero), and so you can hang a clock even on a corner of the room.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/11750.%E2%80%85Wall%E2%80%85Clocks/168b21cf.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11750/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:186px; width:598px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/11750.%E2%80%85Wall%E2%80%85Clocks/168b21cf.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/11750.%E2%80%85Wall%E2%80%85Clocks/168b21cf.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11750/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:186px; width:598px" /></p>
 
 <p style="text-align: center;">Figure D.1. Arrangements of seats and clocks. Gray area indicates field of view.</p>
 

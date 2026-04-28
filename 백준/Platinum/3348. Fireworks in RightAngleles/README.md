@@ -26,7 +26,7 @@
 
 <p>For example, if S=2 and there are seven citizens whose locations are shown on the map (there are two of them in (-4;8)), then the best place for the fireworks is the main street intersection with 8th vertical street; in this case the total distance which citizens need to move is 9 units.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/3348.%E2%80%85Fireworks%E2%80%85in%E2%80%85RightAngleles/577237b2.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/3348/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:221px; width:368px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/3348.%E2%80%85Fireworks%E2%80%85in%E2%80%85RightAngleles/577237b2.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/3348.%E2%80%85Fireworks%E2%80%85in%E2%80%85RightAngleles/577237b2.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/3348/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:221px; width:368px" /></p>
 
 <p>Write a program which calculates the minimum possible total distance (in units) which citizens have to move to observe the fireworks.</p>
 

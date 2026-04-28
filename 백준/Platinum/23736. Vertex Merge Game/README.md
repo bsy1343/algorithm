@@ -30,7 +30,7 @@
 
 <p>Given a graph, find out who wins the game when both Yunee and Woongbae play the game optimally. Note that their goal is to win the game, not to maximize their points.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/23736.%E2%80%85Vertex%E2%80%85Merge%E2%80%85Game/e1981898.png" data-original-src="https://upload.acmicpc.net/e11e96fd-caed-4c22-a04e-25b48e6b48e2/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="max-width: 100%; width: 720px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/23736.%E2%80%85Vertex%E2%80%85Merge%E2%80%85Game/e1981898.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/23736.%E2%80%85Vertex%E2%80%85Merge%E2%80%85Game/e1981898.png" data-original-src="https://upload.acmicpc.net/e11e96fd-caed-4c22-a04e-25b48e6b48e2/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="max-width: 100%; width: 720px;" /></p>
 
 ### 입력
 

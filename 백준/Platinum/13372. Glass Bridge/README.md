@@ -26,7 +26,7 @@
 
 <p>The metropolis around the river is structured such that the District 1 is directly across from District -1, District 2 from District -2, and so on. Each district has bridge to one another district across the river.&nbsp;</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/13372.%E2%80%85Glass%E2%80%85Bridge/be2a11a4.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/13372/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-10-11%20%EC%98%A4%ED%9B%84%204.05.59.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:171px; width:350px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/13372.%E2%80%85Glass%E2%80%85Bridge/be2a11a4.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/13372.%E2%80%85Glass%E2%80%85Bridge/be2a11a4.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/13372/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-10-11%20%EC%98%A4%ED%9B%84%204.05.59.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:171px; width:350px" /></p>
 
 ### 입력
 

@@ -20,7 +20,7 @@
 
 <p>The numbers tournament is depicted below; the tournament takes place in pairs, where the higher of two numbers advances to the upper level. The levels are denoted with numbers from 1 to N, where the highest level is given the number 0.</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/12111.%E2%80%85Turnir/6ddec79b.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/12111/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202017-03-09%20%EC%98%A4%ED%9B%84%208.43.48.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:513px; width:500px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/12111.%E2%80%85Turnir/6ddec79b.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/12111.%E2%80%85Turnir/6ddec79b.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/12111/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202017-03-09%20%EC%98%A4%ED%9B%84%208.43.48.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:513px; width:500px" /></p>
 
 <p>Since Jozef doesn&rsquo;t have time to organize all tournaments, he wants to know, for each number from the initial set, the highest level (the smallest level number) at which the number can end up in, for any permutation of the input array.</p>
 

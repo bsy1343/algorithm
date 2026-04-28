@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/14629.%E2%80%85%EC%88%AB%EC%9E%90%E2%80%85%EC%A1%B0%EA%B0%81/72c50826.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14629/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:193px; width:277px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/14629.%E2%80%85%EC%88%AB%EC%9E%90%E2%80%85%EC%A1%B0%EA%B0%81/72c50826.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/14629.%E2%80%85%EC%88%AB%EC%9E%90%E2%80%85%EC%A1%B0%EA%B0%81/72c50826.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14629/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:193px; width:277px" /></p>
 
 <p>곧 7살을 맞이하는 준하는 유치원에서 숫자가 적힌 나무 조각들을 가지고 노는 것을 좋아한다. 숫자 조각은 총 10개이며, 각각의 조각엔 0부터 9까지의 숫자가 한 숫자씩 적혀있다. 준하는 각 숫자 조각을 이어 붙이면 더 큰 숫자를 만들 수 있고, 정말 다양한 조합이 존재한다는 점이 마음에 무척 들었다. 오늘도 준하는 숫자 조각으로 만들 수 있는 가장 큰 숫자인 9876543210을 보면서 흥분을 감추지 못하고 있었다. 그러나 그런 준하를 보다 못 한 강민이는 준하에게 딴지를 걸기 시작했다.</p>
 

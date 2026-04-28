@@ -20,7 +20,7 @@
 
 <p>타일은 격자판의 각 칸에 맞춰서만 붙일 수 있으며, 타일끼리 겹치거나 포갤 수 없다. 또 모든 타일은 서로 연결되어 있어야 한다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/30704.%E2%80%85%EC%A0%95%EC%82%AC%EA%B0%81%ED%98%95%E2%80%85%EC%97%B0%EA%B2%B0%ED%95%98%EA%B8%B0/3791d421.png" data-original-src="https://u.acmicpc.net/95a416fb-a64f-468f-8b6f-600f5e85e3d6/%EC%A0%95%EC%82%AC%EA%B0%81%ED%98%95%EC%97%B0%EA%B2%B0%ED%95%98%EA%B8%B0.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 50%; width: 50%;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/30704.%E2%80%85%EC%A0%95%EC%82%AC%EA%B0%81%ED%98%95%E2%80%85%EC%97%B0%EA%B2%B0%ED%95%98%EA%B8%B0/3791d421.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/30704.%E2%80%85%EC%A0%95%EC%82%AC%EA%B0%81%ED%98%95%E2%80%85%EC%97%B0%EA%B2%B0%ED%95%98%EA%B8%B0/3791d421.png" data-original-src="https://u.acmicpc.net/95a416fb-a64f-468f-8b6f-600f5e85e3d6/%EC%A0%95%EC%82%AC%EA%B0%81%ED%98%95%EC%97%B0%EA%B2%B0%ED%95%98%EA%B8%B0.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 50%; width: 50%;" /></p>
 
 <p>정사각형 타일의 장수가 주어지면, 이들을 위에서 설명한 규칙에 맞게 이어 붙여 만들 수 있는 도형 둘레의 최솟값을 구하여라. 하나의 입력에서 $T$개의 테스트 케이스를 해결해야 한다.</p>
 

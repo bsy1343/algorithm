@@ -30,4 +30,4 @@
 
 ### 힌트
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/2673.%E2%80%85%EA%B5%90%EC%B0%A8%ED%95%98%EC%A7%80%E2%80%85%EC%95%8A%EB%8A%94%E2%80%85%EC%9B%90%EC%9D%98%E2%80%85%ED%98%84%EB%93%A4%EC%9D%98%E2%80%85%EC%B5%9C%EB%8C%80%EC%A7%91%ED%95%A9/af0a5c34.png" data-original-src="https://www.acmicpc.net/upload/images/XTsjcmekYr6xY.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 207px; height: 181px; " /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/2673.%E2%80%85%EA%B5%90%EC%B0%A8%ED%95%98%EC%A7%80%E2%80%85%EC%95%8A%EB%8A%94%E2%80%85%EC%9B%90%EC%9D%98%E2%80%85%ED%98%84%EB%93%A4%EC%9D%98%E2%80%85%EC%B5%9C%EB%8C%80%EC%A7%91%ED%95%A9/af0a5c34.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/2673.%E2%80%85%EA%B5%90%EC%B0%A8%ED%95%98%EC%A7%80%E2%80%85%EC%95%8A%EB%8A%94%E2%80%85%EC%9B%90%EC%9D%98%E2%80%85%ED%98%84%EB%93%A4%EC%9D%98%E2%80%85%EC%B5%9C%EB%8C%80%EC%A7%91%ED%95%A9/af0a5c34.png" data-original-src="https://www.acmicpc.net/upload/images/XTsjcmekYr6xY.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 207px; height: 181px; " /></p>

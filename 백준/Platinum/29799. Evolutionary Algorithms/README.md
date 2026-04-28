@@ -58,7 +58,7 @@
 
 ### 힌트
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/29799.%E2%80%85Evolutionary%E2%80%85Algorithms/ffc7efba.png" data-original-src="https://upload.acmicpc.net/7d9bf284-cba9-4e9f-86c5-747c8d65e38a/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/29799.%E2%80%85Evolutionary%E2%80%85Algorithms/ffc7efba.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/29799.%E2%80%85Evolutionary%E2%80%85Algorithms/ffc7efba.png" data-original-src="https://upload.acmicpc.net/7d9bf284-cba9-4e9f-86c5-747c8d65e38a/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>In Sample Case #1, there is only one possible interesting triplet: $(5, 3, 4)$. Indeed, we can verify that:</p>
 
@@ -68,7 +68,7 @@
 	<li>The score of species $b = 3$ is more than $\mathbf{K}$ times higher than the scores of both $a = 5$ and $c = 4$: $6 = \mathbf{S_3} \ge \mathbf{K} \times \max(\mathbf{S_4}, \mathbf{S_5}) + 1 = 2 \times \max(2, 2) + 1 = 5$.</li>
 </ol>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/29799.%E2%80%85Evolutionary%E2%80%85Algorithms/1e7ce200.png" data-original-src="https://upload.acmicpc.net/3d414cf8-5016-4dff-bd4c-c87cd8bf8628/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/29799.%E2%80%85Evolutionary%E2%80%85Algorithms/1e7ce200.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/29799.%E2%80%85Evolutionary%E2%80%85Algorithms/1e7ce200.png" data-original-src="https://upload.acmicpc.net/3d414cf8-5016-4dff-bd4c-c87cd8bf8628/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>In Sample Case #2, there are seven interesting triplets:</p>
 

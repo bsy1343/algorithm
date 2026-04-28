@@ -24,13 +24,13 @@
 	<li>$\overline{AB}$와 $\overline{CD}$는 MatKor 사거리를 포함한다.</li>
 </ul>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/31529.%E2%80%852024%EB%85%84%EC%97%90%EB%8A%94%E2%80%85%ED%98%BC%EC%9E%90%EA%B0%80%E2%80%85%EC%95%84%EB%8B%88%EA%B8%B8/bd65c1b1.png" data-original-src="https://upload.acmicpc.net/35978d5f-ad6e-4c8f-901a-4f93bcd684d2/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 323px; width: 400px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/31529.%E2%80%852024%EB%85%84%EC%97%90%EB%8A%94%E2%80%85%ED%98%BC%EC%9E%90%EA%B0%80%E2%80%85%EC%95%84%EB%8B%88%EA%B8%B8/bd65c1b1.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/31529.%E2%80%852024%EB%85%84%EC%97%90%EB%8A%94%E2%80%85%ED%98%BC%EC%9E%90%EA%B0%80%E2%80%85%EC%95%84%EB%8B%88%EA%B8%B8/bd65c1b1.png" data-original-src="https://upload.acmicpc.net/35978d5f-ad6e-4c8f-901a-4f93bcd684d2/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 323px; width: 400px;" /></p>
 
 <ul>
 	<li>$\overline{AC}^2+\overline{BD}^2$의 값은 $X$이고, $\overline{AB}^2+\overline{CD}^2$의 값은 $Y$이다.</li>
 </ul>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/31529.%E2%80%852024%EB%85%84%EC%97%90%EB%8A%94%E2%80%85%ED%98%BC%EC%9E%90%EA%B0%80%E2%80%85%EC%95%84%EB%8B%88%EA%B8%B8/1cc754d0.png" data-original-src="https://upload.acmicpc.net/ba17f808-5f1d-4ee2-9541-d956485b6f36/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 335px; width: 400px;" /> <img alt="" src="%EB%B0%B1%EC%A4%80/Silver/31529.%E2%80%852024%EB%85%84%EC%97%90%EB%8A%94%E2%80%85%ED%98%BC%EC%9E%90%EA%B0%80%E2%80%85%EC%95%84%EB%8B%88%EA%B8%B8/b42c95d6.png" data-original-src="https://upload.acmicpc.net/dfedd01f-df43-49c1-9bd9-c7a1fd8e6b42/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 335px; width: 400px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/31529.%E2%80%852024%EB%85%84%EC%97%90%EB%8A%94%E2%80%85%ED%98%BC%EC%9E%90%EA%B0%80%E2%80%85%EC%95%84%EB%8B%88%EA%B8%B8/1cc754d0.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/31529.%E2%80%852024%EB%85%84%EC%97%90%EB%8A%94%E2%80%85%ED%98%BC%EC%9E%90%EA%B0%80%E2%80%85%EC%95%84%EB%8B%88%EA%B8%B8/1cc754d0.png" data-original-src="https://upload.acmicpc.net/ba17f808-5f1d-4ee2-9541-d956485b6f36/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 335px; width: 400px;" /> <img alt="" src="%EB%B0%B1%EC%A4%80/Silver/31529.%E2%80%852024%EB%85%84%EC%97%90%EB%8A%94%E2%80%85%ED%98%BC%EC%9E%90%EA%B0%80%E2%80%85%EC%95%84%EB%8B%88%EA%B8%B8/b42c95d6.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/31529.%E2%80%852024%EB%85%84%EC%97%90%EB%8A%94%E2%80%85%ED%98%BC%EC%9E%90%EA%B0%80%E2%80%85%EC%95%84%EB%8B%88%EA%B8%B8/b42c95d6.png" data-original-src="https://upload.acmicpc.net/dfedd01f-df43-49c1-9bd9-c7a1fd8e6b42/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 335px; width: 400px;" /></p>
 
 <ul>
 	<li>MatKor 사거리가 집일 수도 있으며, 이 경우도 선분에 포함된다. 또한, 같은 아파트에 살 수 있기 때문에, 집이 같은 위치에 있을 수도 있다.</li>
@@ -40,7 +40,7 @@
 
 <p>재현이는 동우에게 다음에도 같이 만나 더블데이트를 하기로 했다고 자랑했다. 이때, 남자는 남자끼리, 여자는 여자끼리 먼저 각각 중간 지점, 즉 $\overline{AB}$와 $\overline{CD}$의 중점 $M$과 $N$에서 만나서 오기로 했다고 한다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/31529.%E2%80%852024%EB%85%84%EC%97%90%EB%8A%94%E2%80%85%ED%98%BC%EC%9E%90%EA%B0%80%E2%80%85%EC%95%84%EB%8B%88%EA%B8%B8/4714a645.png" data-original-src="https://upload.acmicpc.net/77aba665-7ea4-44b3-bd1b-def2f36ae49a/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 335px; width: 400px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/31529.%E2%80%852024%EB%85%84%EC%97%90%EB%8A%94%E2%80%85%ED%98%BC%EC%9E%90%EA%B0%80%E2%80%85%EC%95%84%EB%8B%88%EA%B8%B8/4714a645.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/31529.%E2%80%852024%EB%85%84%EC%97%90%EB%8A%94%E2%80%85%ED%98%BC%EC%9E%90%EA%B0%80%E2%80%85%EC%95%84%EB%8B%88%EA%B8%B8/4714a645.png" data-original-src="https://upload.acmicpc.net/77aba665-7ea4-44b3-bd1b-def2f36ae49a/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 335px; width: 400px;" /></p>
 
 <p>동우는 이를 듣고 곰곰이 생각하더니 다음과 같이 이야기했다.</p>
 

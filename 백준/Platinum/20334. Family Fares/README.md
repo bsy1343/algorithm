@@ -24,7 +24,7 @@
 
 <p>Group tickets are more complicated. First, you may only buy at most one and it must be for a set list of people. There is no limit to the number of people named, but all must be present. The ticket is priced according to the number of named persons.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/20334.%E2%80%85Family%E2%80%85Fares/c820e419.png" data-original-src="https://upload.acmicpc.net/462657cc-f173-49cf-8db0-a75e26a15a2d/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 295px; height: 140px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/20334.%E2%80%85Family%E2%80%85Fares/c820e419.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/20334.%E2%80%85Family%E2%80%85Fares/c820e419.png" data-original-src="https://upload.acmicpc.net/462657cc-f173-49cf-8db0-a75e26a15a2d/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 295px; height: 140px;" /></p>
 
 <p style="text-align: center;">Figure F.1: Sample 2. Group or individual tickets are shown by thick or thin lines, respectively.</p>
 

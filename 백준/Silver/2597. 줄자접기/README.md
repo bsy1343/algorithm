@@ -22,7 +22,7 @@
 
 <p>예를 들어 길이 10㎝ 인 줄자에 아래 그림과 같이 2㎝ 와 7㎝ 위에에 두 빨간 점이 찍혀 있고, 5㎝ 와 4㎝위치에 파란 점이, 10㎝ 와 3㎝ 위치에 노란 점이 찍혀 있다고 하자. (그림에서 빨간 점은 별표로, 파란 점은 동그라미, 그리고 노란 점은 네모로 표시되어 있다.) 빨간 두 점이 만나도록 줄자를 접으면 줄자의 4.5㎝ 위치에서 접히고 4㎝ 와 5㎝ 눈금이 서로 만나게 된다. 그러면 줄자의 왼쪽 부분의 길이는 4.5㎝ 이고 오른쪽 부분의 길이는 5.5㎝가 되어, 접힌 줄자의 길이는 5.5㎝ 가 된다. 파란 두 점은 이미 만나므로 줄자를 접지 않고, 그런 다음 노란 두 점이 만나도록 접으면 줄자의 길이는 3.5㎝ 가 된다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/2597.%E2%80%85%EC%A4%84%EC%9E%90%EC%A0%91%EA%B8%B0/a6d3727a.png" data-original-src="https://www.acmicpc.net/upload/images/XyC8aT8ca4V82Yb7fycTX.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 259px; height: 56px; " /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/2597.%E2%80%85%EC%A4%84%EC%9E%90%EC%A0%91%EA%B8%B0/a6d3727a.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/2597.%E2%80%85%EC%A4%84%EC%9E%90%EC%A0%91%EA%B8%B0/a6d3727a.png" data-original-src="https://www.acmicpc.net/upload/images/XyC8aT8ca4V82Yb7fycTX.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 259px; height: 56px; " /></p>
 
 <p>줄자의 길이와 각 색깔의 점들이 찍혀있는 위치가 주어질 때, 준성이가 빨간 색, 파란 색, 노란 색의 순서로 두 점이 만나도록 줄자를 접으면 줄자의 길이가 얼마가 되는지를 구하는 프로그램을 작성하시오.</p>
 

@@ -20,7 +20,7 @@
 
 <p>The blocks are formed by gluing together small cubes to form a single, connected object. As an example, the figures below show, layer by layer, the internal structure of a block which can cast shadows of the letters &ldquo;E&rdquo;, &ldquo;G&rdquo;, or &ldquo;B&rdquo;.</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/6369.%E2%80%85Plato%E2%80%99s%E2%80%85Blocks/ee0229d1.gif" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/6369/p2283.gif" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/6369.%E2%80%85Plato%E2%80%99s%E2%80%85Blocks/ee0229d1.gif" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/6369.%E2%80%85Plato%E2%80%99s%E2%80%85Blocks/ee0229d1.gif" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/6369/p2283.gif" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>Only a partial set of blocks was discovered, but the curious scientists would like to determine what combinations of shadows are possible. Your program, the solution to this problem, will help them! The program will input groups of shadow patterns, and for each group will report whether or not a solid can be constructed that will cast those three shadows.</p>
 

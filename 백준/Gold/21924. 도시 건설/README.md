@@ -24,11 +24,11 @@
 
 <p>모든 건물이 도로를 통해 연결되도록 최소한의 도로를 만들려고 한다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/21924.%E2%80%85%EB%8F%84%EC%8B%9C%E2%80%85%EA%B1%B4%EC%84%A4/17fc07d2.png" data-original-src="https://upload.acmicpc.net/007ab470-3481-47d6-85ec-f5378b3051b3/-/crop/1122x785/404,145/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 455px; width: 650px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/21924.%E2%80%85%EB%8F%84%EC%8B%9C%E2%80%85%EA%B1%B4%EC%84%A4/17fc07d2.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/21924.%E2%80%85%EB%8F%84%EC%8B%9C%E2%80%85%EA%B1%B4%EC%84%A4/17fc07d2.png" data-original-src="https://upload.acmicpc.net/007ab470-3481-47d6-85ec-f5378b3051b3/-/crop/1122x785/404,145/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 455px; width: 650px;" /></p>
 
 <p>위 그림에서 건물과 직선으로 표시된 도로, 해당 도로를 만들 때 드는 비용을 표시해놓은 지도이다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/21924.%E2%80%85%EB%8F%84%EC%8B%9C%E2%80%85%EA%B1%B4%EC%84%A4/36f78678.png" data-original-src="https://upload.acmicpc.net/c16fc3ee-aaa3-4950-bfa3-57661b00389e/-/crop/1068x727/430,178/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 442px; width: 650px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/21924.%E2%80%85%EB%8F%84%EC%8B%9C%E2%80%85%EA%B1%B4%EC%84%A4/36f78678.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/21924.%E2%80%85%EB%8F%84%EC%8B%9C%E2%80%85%EA%B1%B4%EC%84%A4/36f78678.png" data-original-src="https://upload.acmicpc.net/c16fc3ee-aaa3-4950-bfa3-57661b00389e/-/crop/1068x727/430,178/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 442px; width: 650px;" /></p>
 
 <p>그림에 있는 도로를 다 설치할 때 드는 비용은 62이다. 모든 건물을 연결하는 도로만&nbsp;만드는 비용은 27로 절약하는 비용은 35이다.</p>
 

@@ -31,7 +31,7 @@
 
 <p>For example, let N = 5 and B<sub>1...4</sub> = [1, 0, 1, 0]. The cities and roads in Bazbesonin can be illustrated by the following figure:</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/20690.%E2%80%85Exchange%E2%80%85Bottleneck/d2414268.png" data-original-src="https://upload.acmicpc.net/95ff3402-5fc9-4bf2-817b-583c7dbe1104/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 200px; height: 124px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/20690.%E2%80%85Exchange%E2%80%85Bottleneck/d2414268.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/20690.%E2%80%85Exchange%E2%80%85Bottleneck/d2414268.png" data-original-src="https://upload.acmicpc.net/95ff3402-5fc9-4bf2-817b-583c7dbe1104/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 200px; height: 124px;" /></p>
 
 <ul>
 	<li>The latency of city 1 and city 2 is 1.</li>

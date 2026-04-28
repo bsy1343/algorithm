@@ -46,4 +46,4 @@
 
 <p>In all other queries, there are no invisible parts.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/19011.%E2%80%85Unseen%E2%80%85Segments/eaaaddd2.png" data-original-src="https://upload.acmicpc.net/99d3f283-c797-4622-9fba-aa16a9997ca8/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 300px; height: 200px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/19011.%E2%80%85Unseen%E2%80%85Segments/eaaaddd2.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/19011.%E2%80%85Unseen%E2%80%85Segments/eaaaddd2.png" data-original-src="https://upload.acmicpc.net/99d3f283-c797-4622-9fba-aa16a9997ca8/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 300px; height: 200px;" /></p>

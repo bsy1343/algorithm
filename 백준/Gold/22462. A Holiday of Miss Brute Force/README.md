@@ -18,13 +18,13 @@
 
 <p>全探索お姉さんはとても優秀な女性である。 お姉さんは格子状の道の経路の数え上げを数千程度なら簡単に数え上げてしまう。 あなたと全探索お姉さんは今、六角形のタイルが敷き詰められた部屋にいる。 お姉さんは初めて見る六角形にとても興奮している様子である。 六角形の並びを座標に表すことに不慣れなお姉さんは図1のような座標系で部屋を表した。</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/22462.%E2%80%85A%E2%80%85Holiday%E2%80%85of%E2%80%85Miss%E2%80%85Brute%E2%80%85Force/38ca9763.png" data-original-src="https://upload.acmicpc.net/906c8caa-0d0d-47ea-88f0-78ce3aa2d646/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 247px; height: 305px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/22462.%E2%80%85A%E2%80%85Holiday%E2%80%85of%E2%80%85Miss%E2%80%85Brute%E2%80%85Force/38ca9763.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/22462.%E2%80%85A%E2%80%85Holiday%E2%80%85of%E2%80%85Miss%E2%80%85Brute%E2%80%85Force/38ca9763.png" data-original-src="https://upload.acmicpc.net/906c8caa-0d0d-47ea-88f0-78ce3aa2d646/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 247px; height: 305px;" /></p>
 
 <p style="text-align: center;">図1</p>
 
 <p>あなたはこの座標系上である地点からある地点まで移動したい。 しかし、お姉さんは 1 分ごとに動きたい方向をあなたに指示する。 いつものお姉さんなら同じ座標の場所を通らないようにあなたに移動の指示を出すだろう。 しかし、この座標系に不慣れなお姉さんは<var>|x&times;y&times;t|</var>(<var>x</var>：<var>x</var> 座標、<var>y</var>：<var>y</var>座標、<var>t</var>:最初の指示からの経過時間[分])を 6 で割った余り に対応する方向（図で示す番号と対応）を指示するだけで、まったくのでたらめな方向にあなたを誘導する。</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/22462.%E2%80%85A%E2%80%85Holiday%E2%80%85of%E2%80%85Miss%E2%80%85Brute%E2%80%85Force/ecbaa5c4.png" data-original-src="https://upload.acmicpc.net/0716d9db-c445-47d4-972e-2f7923eba652/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 238px; height: 285px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/22462.%E2%80%85A%E2%80%85Holiday%E2%80%85of%E2%80%85Miss%E2%80%85Brute%E2%80%85Force/ecbaa5c4.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/22462.%E2%80%85A%E2%80%85Holiday%E2%80%85of%E2%80%85Miss%E2%80%85Brute%E2%80%85Force/ecbaa5c4.png" data-original-src="https://upload.acmicpc.net/0716d9db-c445-47d4-972e-2f7923eba652/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 238px; height: 285px;" /></p>
 
 <p style="text-align: center;">図2</p>
 

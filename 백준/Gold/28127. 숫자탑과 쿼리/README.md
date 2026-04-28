@@ -27,7 +27,7 @@
 
 <p>아래 그림은 $1$에서 $4$층까지 $a=1$이고 $d=2$일 때 의찬이가 쌓은 탑의 모습이다.</p>
 
-<p style="text-align: center;"><img alt="" longdesc="" src="%EB%B0%B1%EC%A4%80/Gold/28127.%E2%80%85%EC%88%AB%EC%9E%90%ED%83%91%EA%B3%BC%E2%80%85%EC%BF%BC%EB%A6%AC/2145ff2c.png" data-original-src="https://upload.acmicpc.net/b00014b4-0c7f-4054-ad7b-3d116effd66d/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 197px; width: 600px;" /></p>
+<p style="text-align: center;"><img alt="" longdesc="" src="%EB%B0%B1%EC%A4%80/Gold/28127.%E2%80%85%EC%88%AB%EC%9E%90%ED%83%91%EA%B3%BC%E2%80%85%EC%BF%BC%EB%A6%AC/2145ff2c.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/28127.%E2%80%85%EC%88%AB%EC%9E%90%ED%83%91%EA%B3%BC%E2%80%85%EC%BF%BC%EB%A6%AC/2145ff2c.png" data-original-src="https://upload.acmicpc.net/b00014b4-0c7f-4054-ad7b-3d116effd66d/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 197px; width: 600px;" /></p>
 
 <p>각 숫자가 적힌 블록의 위치를 모조리 외운 의찬이는 선우가 던지는 $Q$개의 질문에 답하고자 한다. 질문은 한 가지 형식이다.</p>
 

@@ -31,11 +31,11 @@
 	<li>해당 경로의 스트레스는 (Kaka의 총 마리 수)&times;(Bebe의 총 마리 수)로 정의된다. 만약 1번을 만족하는 경로가 여러 개가 있다면 그 중 스트레스가 가장 적은 경로를 선택한다.</li>
 </ol>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/17242.%E2%80%85Kaka%E2%80%85%26%E2%80%85Bebe/908918e5.png" data-original-src="https://i.imgur.com/heRAFCV.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 400px; height: 206px;" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/17242.%E2%80%85Kaka%E2%80%85%26%E2%80%85Bebe/908918e5.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/17242.%E2%80%85Kaka%E2%80%85%26%E2%80%85Bebe/908918e5.png" data-original-src="https://i.imgur.com/heRAFCV.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 400px; height: 206px;" /></p>
 
 <p>위 그림은 첫 번째 예시를 표현한 것이다. 각 간선의 (<em>a</em>, <em>b</em>)는 (<em>c</em><sub>i</sub>, <em>d</em><sub>i</sub>)를 표현한 것이다. 보다시피, 0번과 3번을 잇는 간선을 지나게 되면 어떠한 형태로든 Kaka의 총 마리 수 가 1,000을 넘어가게 되므로 지나가면 안 된다. 가능한 경로 중 가장 스트레스가 적은 경로 는 0번, 1번, 3번, 4번 순서대로 지나가는 경로이고, 스트레스 값은 (1+2+1)&times;(1+2+7) = 40이다.</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/17242.%E2%80%85Kaka%E2%80%85%26%E2%80%85Bebe/d0d2d634.png" data-original-src="https://i.imgur.com/Tvg98zk.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 400px; height: 243px;" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/17242.%E2%80%85Kaka%E2%80%85%26%E2%80%85Bebe/d0d2d634.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/17242.%E2%80%85Kaka%E2%80%85%26%E2%80%85Bebe/d0d2d634.png" data-original-src="https://i.imgur.com/Tvg98zk.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 400px; height: 243px;" /></p>
 
 <p>위 그림은 두 번째 예시를 표현한 것이다. 두 번째 예시는 어떠한 경로로 가도 Kaka나 Bebe의 마리 수가 1,000을 넘어가게 되므로 가능한 답이 없다. 그러므로 -1을 출력한다.</p>
 

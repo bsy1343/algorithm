@@ -22,7 +22,7 @@
 
 <p>The ferry waits for an appropriate time when there is an adequate gap in the ship traffic. It then crosses the strait heading northbound along a north-south line at a constant speed. From the moment a ferry enters a lane until the moment it leaves the lane, no ship in that lane may touch the crossing line. Ferries are so small you can neglect their size. Figure I.1 illustrates the lanes and ships for Sample Input 1. Your task is to find the largest time interval within which the ferry can safely cross the strait.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/10792.%E2%80%85Ship%E2%80%85Traffic/e77b35d4.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/10792/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:137px; width:471px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/10792.%E2%80%85Ship%E2%80%85Traffic/e77b35d4.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/10792.%E2%80%85Ship%E2%80%85Traffic/e77b35d4.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/10792/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:137px; width:471px" /></p>
 
 <p style="text-align: center;">Figure I.1: Sample Input 1.</p>
 

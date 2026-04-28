@@ -43,11 +43,11 @@ Write a programme that:</p>
 
 <p>For the sample input</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/8155.%E2%80%85Postering/f713b737.gif" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/8155/1.gif" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:153px; width:178px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/8155.%E2%80%85Postering/f713b737.gif" data-original-src="%EB%B0%B1%EC%A4%80/Gold/8155.%E2%80%85Postering/f713b737.gif" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/8155/1.gif" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:153px; width:178px" /></p>
 
 <p>For the sample output</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/8155.%E2%80%85Postering/1e33ce92.gif" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/8155/2.gif" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:115px; width:160px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/8155.%E2%80%85Postering/1e33ce92.gif" data-original-src="%EB%B0%B1%EC%A4%80/Gold/8155.%E2%80%85Postering/1e33ce92.gif" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/8155/2.gif" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:115px; width:160px" /></p>
 
 <p>The figures show the north face of the buildings chain. The second figure shows an exemplary covering of the face with four posters.</p>
 

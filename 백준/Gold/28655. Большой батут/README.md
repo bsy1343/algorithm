@@ -28,6 +28,6 @@
 
 ### 힌트
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/28655.%E2%80%85%D0%91%D0%BE%D0%BB%D1%8C%D1%88%D0%BE%D0%B9%E2%80%85%D0%B1%D0%B0%D1%82%D1%83%D1%82/8aeb09d6.png" data-original-src="https://upload.acmicpc.net/0f948c20-df3a-45b6-8c25-337c4b9f6024/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 232px; height: 235px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/28655.%E2%80%85%D0%91%D0%BE%D0%BB%D1%8C%D1%88%D0%BE%D0%B9%E2%80%85%D0%B1%D0%B0%D1%82%D1%83%D1%82/8aeb09d6.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/28655.%E2%80%85%D0%91%D0%BE%D0%BB%D1%8C%D1%88%D0%BE%D0%B9%E2%80%85%D0%B1%D0%B0%D1%82%D1%83%D1%82/8aeb09d6.png" data-original-src="https://upload.acmicpc.net/0f948c20-df3a-45b6-8c25-337c4b9f6024/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 232px; height: 235px;" /></p>
 
 <p style="text-align: center;">Рис. 2: Батут, который построили в примере.</p>

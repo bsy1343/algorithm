@@ -20,7 +20,7 @@
 
 <p>Some of the cells in the beehive are already filled with old, hardened honey. The other cells are still empty. If you pour honey into an empty cell, it will automatically start flowing into adjacent empty cells. From these cells, the honey will again flow to other neighbouring empty cells. This saves you from having to funnel honey into them directly. You decide to use this to your advantage, by pouring into cells with lots of (indirect) adjacent open cells.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/16294.%E2%80%85Bee%E2%80%85Problem/9d4f8073.png" data-original-src="https://upload.acmicpc.net/a5884c0c-7004-41a7-bb5a-427a33f8334a/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 457px; height: 145px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/16294.%E2%80%85Bee%E2%80%85Problem/9d4f8073.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/16294.%E2%80%85Bee%E2%80%85Problem/9d4f8073.png" data-original-src="https://upload.acmicpc.net/a5884c0c-7004-41a7-bb5a-427a33f8334a/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 457px; height: 145px;" /></p>
 
 <p style="text-align: center;">Figure 1: The beehives from the first two samples. The black hexagons already contain hardened honey. The white cells are still empty.</p>
 

@@ -25,7 +25,7 @@
 	<li>The sizes of the blocks on even positions are strictly increasing. Formally, $b_2 &lt; b_4 &lt; b_6 &lt; \ldots &lt; b_n$ (remember that $n$ is even).</li>
 </ul>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/25360.%E2%80%85Fancy%E2%80%85Stack/b72ef709.png" data-original-src="https://upload.acmicpc.net/89a545fd-39db-430c-9063-01271e8bf4c3/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 223px; height: 128px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/25360.%E2%80%85Fancy%E2%80%85Stack/b72ef709.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/25360.%E2%80%85Fancy%E2%80%85Stack/b72ef709.png" data-original-src="https://upload.acmicpc.net/89a545fd-39db-430c-9063-01271e8bf4c3/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 223px; height: 128px;" /></p>
 
 <p>Two stacks are considered different if their corresponding sequences $b_1, b_2, \ldots, b_n$ differ in at least one position.</p>
 

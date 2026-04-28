@@ -19,7 +19,7 @@
 <p>태영이는 격자를 좋아한다. 그래서 컨베이어 벨트로 이루어진&nbsp;<em>N&nbsp;</em>&times;&nbsp;<em>N</em>&nbsp;모양의 격자를 만들었다.&nbsp;각 칸은 (r, c)로 나타낼 수 있으며 r은 맨 위에서 몇 번째 칸인지&nbsp;의미하고 c는 맨 왼쪽에서 몇 번째 칸인지 의미한다. 각 칸에는 숫자가 하나씩 올려져 있다.<br />
 태영이가 만든 격자는 바깥에서부터&nbsp;여러 컨베이어 벨트가 중첩되어 있는 형태이다. 8 &times; 8형태의 격자를 예로 들어보자.</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/21322.%E2%80%85%EA%B2%A9%EC%9E%90%E2%80%85%EB%8F%8C%EB%A6%AC%EA%B8%B0/75cc3f91.png" data-original-src="https://upload.acmicpc.net/7d939870-4432-4809-b4c0-43d32c7394a1/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /><br />
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/21322.%E2%80%85%EA%B2%A9%EC%9E%90%E2%80%85%EB%8F%8C%EB%A6%AC%EA%B8%B0/75cc3f91.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/21322.%E2%80%85%EA%B2%A9%EC%9E%90%E2%80%85%EB%8F%8C%EB%A6%AC%EA%B8%B0/75cc3f91.png" data-original-src="https://upload.acmicpc.net/7d939870-4432-4809-b4c0-43d32c7394a1/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /><br />
 같은 색은 같은 컨베이어 벨트에 포함된다는 것을 뜻한다.</p>
 
 <p>그런데 격자를 싫어하는 호석이는 태영이의 격자를 마구마구 돌려버리려고 한다. 더군다나 격자를 마구마구 돌리고 나서는 어떤 칸에 어떤 수가 놓여있는지 물어보기까지 한다.<br />

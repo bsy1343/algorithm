@@ -18,7 +18,7 @@
 
 <p>The teams in your local rugby league aren&rsquo;t particularly good, but they make up for it in enthusiasm. We are going to organise a single-elimination knockout tournament between them, where the 2<sup>n</sup> teams play n rounds. In each round, the 2i + 1th remaining team pairs up with the 2i + 2th team and one or the other team is eliminated.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/17805.%E2%80%85Low%E2%80%85Effort%E2%80%85League/4400b042.png" data-original-src="https://upload.acmicpc.net/9565ff61-5d65-4609-91ae-11496a58ea83/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 222px; height: 245px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/17805.%E2%80%85Low%E2%80%85Effort%E2%80%85League/4400b042.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/17805.%E2%80%85Low%E2%80%85Effort%E2%80%85League/4400b042.png" data-original-src="https://upload.acmicpc.net/9565ff61-5d65-4609-91ae-11496a58ea83/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 222px; height: 245px;" /></p>
 
 <p>Each team has a scalar skill level. In the normal course of things, a team with higher skill level will always beat a team with lower skill level. However, training plays a part too: if one team studies another, learns its techniques, and trains against them, it can win.</p>
 

@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p>욱제는 구사과의 열렬한 팬이다. 오늘 욱제는 구사과에게 선물(<img alt="" src="%EB%B0%B1%EC%A4%80/Silver/15886.%E2%80%85%EB%82%B4%E2%80%85%EC%84%A0%EB%AC%BC%EC%9D%84%E2%80%85%EB%B0%9B%EC%95%84%EC%A4%98%E2%80%852/d4f8b2c5.png" data-original-src="https://upload.acmicpc.net/c725ab53-dfed-4cdd-a508-aaa6e917a04d/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 16px; height: 16px;" />)을 전달해주려고 한다. 지난 며칠간의 관찰 끝에 욱제는 구사과의 이동 패턴을 모두 파악했다.</p>
+<p>욱제는 구사과의 열렬한 팬이다. 오늘 욱제는 구사과에게 선물(<img alt="" src="%EB%B0%B1%EC%A4%80/Silver/15886.%E2%80%85%EB%82%B4%E2%80%85%EC%84%A0%EB%AC%BC%EC%9D%84%E2%80%85%EB%B0%9B%EC%95%84%EC%A4%98%E2%80%852/d4f8b2c5.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/15886.%E2%80%85%EB%82%B4%E2%80%85%EC%84%A0%EB%AC%BC%EC%9D%84%E2%80%85%EB%B0%9B%EC%95%84%EC%A4%98%E2%80%852/d4f8b2c5.png" data-original-src="https://upload.acmicpc.net/c725ab53-dfed-4cdd-a508-aaa6e917a04d/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 16px; height: 16px;" />)을 전달해주려고 한다. 지난 며칠간의 관찰 끝에 욱제는 구사과의 이동 패턴을 모두 파악했다.</p>
 
 <p>구사과가 있는 곳은 1&times;N 크기의 직사각형 지도로 나타낼 수 있으며, 1&times;1크기의 정사각형으로 나누어져 있다. 구사과의 위치는 (1, x)로 나타낼 수 있으며, (1, x)는 왼쪽에서부터 x번째 칸을 의미한다.</p>
 

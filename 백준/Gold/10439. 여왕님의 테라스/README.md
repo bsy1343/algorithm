@@ -18,7 +18,7 @@
 
 <p>여왕께서 테라스 정원을 꾸미길 원하신다. 테라스 정원은 한 개의 중앙 돌과 그 돌을 동그랗게 둘러싼 동그란 돌들의 고리 여러 개로 이루어질 것이다. 중앙의 돌을 제외한 다른 돌들은 고리의 형태로 연속적으로 배열되며, 바로 안쪽의 고리(또는 중앙의 돌)와 바로 바깥쪽의 고리에(자기 자신이 가장 바깥쪽 고리가 아닐 경우) 접한 형태여야 한다. 또한, 각각의 고리를 이루는 돌들도 서로 접해야 하며, 각 고리를 이루는 돌의 개수는 동일해야 한다. 아래의 그림은 각각 1개의 고리와 3개의 돌, 5개의 고리와 11개의 돌로 꾸민 테라스의 예시이다.</p>
 
-<p><img src="%EB%B0%B1%EC%A4%80/Gold/10439.%E2%80%85%EC%97%AC%EC%99%95%EB%8B%98%EC%9D%98%E2%80%85%ED%85%8C%EB%9D%BC%EC%8A%A4/368e4266.png" data-original-src="https://www.acmicpc.net/upload/images2/circular.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p><img src="%EB%B0%B1%EC%A4%80/Gold/10439.%E2%80%85%EC%97%AC%EC%99%95%EB%8B%98%EC%9D%98%E2%80%85%ED%85%8C%EB%9D%BC%EC%8A%A4/368e4266.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/10439.%E2%80%85%EC%97%AC%EC%99%95%EB%8B%98%EC%9D%98%E2%80%85%ED%85%8C%EB%9D%BC%EC%8A%A4/368e4266.png" data-original-src="https://www.acmicpc.net/upload/images2/circular.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>여왕께서 아직 고리를 이룰 돌의 개수와 고리의 수를 정하지 않았기 때문에, 모든 고리의 수와 돌의 수에 대해 최소 어느 정도 크기의 테라스가 필요할지 계산해두려 한다. 테라스는 가장 바깥의 돌들을 둘러싸는 부분과 그 부분들을 직선으로 이어 만드는 형태이다.</p>
 

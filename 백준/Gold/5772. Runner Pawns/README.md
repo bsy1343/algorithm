@@ -18,7 +18,7 @@
 
 <p>The &ldquo;Runner Pawns&rdquo; game is a variant of classic Chess for a single player. It uses a board similar to the chess board, divided in 8x8 squares. As in chess, each square can contain only one piece at a time. The pieces are a number of pawns (the &ldquo;Runner Pawns&rdquo;), and a single horse, which is the only piece under command of the player. The objective is to capture all pawns before they get to the last row and become kings.</p>
 
-<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/5772.%E2%80%85Runner%E2%80%85Pawns/e0c529a7.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/5772/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:142px; width:135px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/5772.%E2%80%85Runner%E2%80%85Pawns/e0c529a7.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/5772.%E2%80%85Runner%E2%80%85Pawns/e0c529a7.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/5772/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:142px; width:135px" /></p>
 
 <p style="text-align:center">Possible movements of the horse</p>
 

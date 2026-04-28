@@ -32,6 +32,6 @@
 
 ### 힌트
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/26842.%E2%80%85Sabota%C5%BC/e2ceeb97.png" data-original-src="https://upload.acmicpc.net/3f6800f1-8bde-4805-8faf-010be030ffe2/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 300px; height: 128px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/26842.%E2%80%85Sabota%C5%BC/e2ceeb97.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/26842.%E2%80%85Sabota%C5%BC/e2ceeb97.png" data-original-src="https://upload.acmicpc.net/3f6800f1-8bde-4805-8faf-010be030ffe2/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 300px; height: 128px;" /></p>
 
 <p>Wyjaśnienie do przykładu: Spadek morale poniżej 2/3 grozi tym, że jeśli sabotażystą jest pracownik numer 8, to spowoduje on bunt 4 pracownik&oacute;w (o numerach 3, 7, 8 i 9).</p>

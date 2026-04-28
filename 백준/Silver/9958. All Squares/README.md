@@ -27,7 +27,7 @@
 
 <p>Hence, given a value of k, we can draw a unique pattern of squares according to the above rules, e.g., if k is 15, then the following pattern would be produced.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/9958.%E2%80%85All%E2%80%85Squares/0cd93bc3.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/9958/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:393px; width:391px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/9958.%E2%80%85All%E2%80%85Squares/0cd93bc3.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/9958.%E2%80%85All%E2%80%85Squares/0cd93bc3.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/9958/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:393px; width:391px" /></p>
 
 <p>Obviously, any point in the grid will be surrounded by zero or more squares. (If the point is on the border of a square, it is considered to be surrounded by that square).</p>
 

@@ -20,7 +20,7 @@
 
 <p>To improve company morale, all teams are chosen so they include an employee and the supervisor they report directly to. In the organization chart below, Mildred could be on a team with Ken (running at 4.0 meters per second) or with Zack (running at 4.2 meters per second), but Mildred could not be on a team with Barbara.</p>
 
-<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/15425.%E2%80%85Company%E2%80%85Picnic/e9490e62.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15425/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:178px; width:250px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/15425.%E2%80%85Company%E2%80%85Picnic/e9490e62.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/15425.%E2%80%85Company%E2%80%85Picnic/e9490e62.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15425/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:178px; width:250px" /></p>
 
 <p style="text-align:center">Figure E.1: Organization chart illustrating the sample input below.</p>
 

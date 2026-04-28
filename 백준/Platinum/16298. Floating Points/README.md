@@ -22,7 +22,7 @@
 
 <p>You have already released a bunch of ping pong balls beneath your ship, and you want to know how many of the balls actually contribute to the salvage. Fortunately, you know exactly where you have released the balls, and you have a very precise model of the ship. Can you compute how many of the balls are helping you out?</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/16298.%E2%80%85Floating%E2%80%85Points/0017ec65.png" data-original-src="https://upload.acmicpc.net/7ca59cb0-625a-432b-bd81-a80de43538e2/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 424px; height: 238px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/16298.%E2%80%85Floating%E2%80%85Points/0017ec65.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/16298.%E2%80%85Floating%E2%80%85Points/0017ec65.png" data-original-src="https://upload.acmicpc.net/7ca59cb0-625a-432b-bd81-a80de43538e2/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 424px; height: 238px;" /></p>
 
 <p>Figure 2: The shipwreck from sample 2. The fourth ping pong ball from the left, for instance, will help you out as it gets stuck between the anchor and the ship.</p>
 

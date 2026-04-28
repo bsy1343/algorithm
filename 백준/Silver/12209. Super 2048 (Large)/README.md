@@ -20,7 +20,7 @@
 
 <p>2048 is played on a simple 4 x 4 grid with tiles that slide smoothly when a player moves them. For each movement, the player can choose to move all tiles in 4 directions, left, right, up, and down, as far as possible at the same time. If two tiles of the same number collide while moving, they will merge into a tile with the total value of the two tiles that collided. <strong>In one movement, one newly created tile can not be merged again and always is merged with the tile next to it along the moving direction first.</strong> E.g. if the three &quot;2&quot; are in a row &quot;2 2 2&quot; and the player choose to move left, it will become &quot;4 2 0&quot;, the most left 2 &quot;2&quot; are merged.</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/12209.%E2%80%85Super%E2%80%852048%E2%80%85(Large)/6e8b5f40.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/12208/images-68.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:242px; width:567px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/12209.%E2%80%85Super%E2%80%852048%E2%80%85(Large)/6e8b5f40.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/12209.%E2%80%85Super%E2%80%852048%E2%80%85(Large)/6e8b5f40.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/12208/images-68.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:242px; width:567px" /></p>
 
 <p>The above figure shows how 4 x 4 grid varies when player moves all tiles &#39;right&#39;.</p>
 

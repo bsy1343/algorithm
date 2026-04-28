@@ -42,4 +42,4 @@ h<sub>(n-1)</sub> d<sub>(n-1)</sub>
 
 ### 힌트
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/4427.%E2%80%85Leaps%E2%80%85Tall%E2%80%85Buildings%E2%80%85(in%E2%80%85a%E2%80%85single%E2%80%85bound)/341f8688.png" data-original-src="https://upload.acmicpc.net/2a1d0777-1c98-4fee-a785-8374262a32fe/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/4427.%E2%80%85Leaps%E2%80%85Tall%E2%80%85Buildings%E2%80%85(in%E2%80%85a%E2%80%85single%E2%80%85bound)/341f8688.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/4427.%E2%80%85Leaps%E2%80%85Tall%E2%80%85Buildings%E2%80%85(in%E2%80%85a%E2%80%85single%E2%80%85bound)/341f8688.png" data-original-src="https://upload.acmicpc.net/2a1d0777-1c98-4fee-a785-8374262a32fe/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>

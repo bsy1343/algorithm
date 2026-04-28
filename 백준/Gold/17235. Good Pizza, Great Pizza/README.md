@@ -34,6 +34,6 @@
 
 ### 힌트
 
-<p><a href="https://i.imgur.com/vaCFXNZ.png"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/17235.%E2%80%85Good%E2%80%85Pizza%2C%E2%80%85Great%E2%80%85Pizza/413bd75c.png" data-original-src="https://i.imgur.com/vaCFXNZ.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 300px; height: 288px;" /></a></p>
+<p><a href="https://i.imgur.com/vaCFXNZ.png"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/17235.%E2%80%85Good%E2%80%85Pizza%2C%E2%80%85Great%E2%80%85Pizza/413bd75c.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/17235.%E2%80%85Good%E2%80%85Pizza%2C%E2%80%85Great%E2%80%85Pizza/413bd75c.png" data-original-src="https://i.imgur.com/vaCFXNZ.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 300px; height: 288px;" /></a></p>
 
 <p>첫 번째 예제의 파인애플 배치는 위와 같다.</p>

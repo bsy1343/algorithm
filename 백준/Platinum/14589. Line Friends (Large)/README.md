@@ -18,7 +18,7 @@
 
 <p>수직선 위에 N개의 선분들이 살고 있다. N개의 선분들은 서로 친구 관계를 맺기 시작했다.</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/14589.%E2%80%85Line%E2%80%85Friends%E2%80%85(Large)/46dfe37a.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14588/line_friends.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/14589.%E2%80%85Line%E2%80%85Friends%E2%80%85(Large)/46dfe37a.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/14589.%E2%80%85Line%E2%80%85Friends%E2%80%85(Large)/46dfe37a.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14588/line_friends.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>선분들 중 오직 영역이 겹치는 선분끼리만 대화를 할 수 있었기 때문에 이들끼리만 친구가 되었다. 위 그림을 참고하면 브라운과 코니는 친구가 되었고 문과 제임스도 친구가 되었지만 브라운과 샐리는 친구가 되지 못했다.</p>
 

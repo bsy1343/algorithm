@@ -61,9 +61,9 @@
 
 <p>Task: The cell $M_0$ contains an integer $x$ ($0 \le x \le 200$), all other cells contain zeros. Write the remainder of dividing $x$ by $7$ into the cell $M_0$. By the end of the execution of the program cells other than $M_0$ may contain any numbers.</p>
 
-<p>Input example: <img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/29887.%E2%80%85Magical%E2%80%85BF%E2%80%852/673d16f0.png" data-original-src="https://upload.acmicpc.net/335c3285-98ff-4c9f-adb5-aff9ebbd5594/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 146px; height: 27px;" /></p>
+<p>Input example: <img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/29887.%E2%80%85Magical%E2%80%85BF%E2%80%852/673d16f0.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/29887.%E2%80%85Magical%E2%80%85BF%E2%80%852/673d16f0.png" data-original-src="https://upload.acmicpc.net/335c3285-98ff-4c9f-adb5-aff9ebbd5594/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 146px; height: 27px;" /></p>
 
-<p>Output example: <img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/29887.%E2%80%85Magical%E2%80%85BF%E2%80%852/9dcf7fa6.png" data-original-src="https://upload.acmicpc.net/3dbdaf36-bb34-45d5-a6d2-bc45e096bba9/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 138px; height: 27px;" /></p>
+<p>Output example: <img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/29887.%E2%80%85Magical%E2%80%85BF%E2%80%852/9dcf7fa6.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/29887.%E2%80%85Magical%E2%80%85BF%E2%80%852/9dcf7fa6.png" data-original-src="https://upload.acmicpc.net/3dbdaf36-bb34-45d5-a6d2-bc45e096bba9/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 138px; height: 27px;" /></p>
 
 ### 입력
 

@@ -22,13 +22,13 @@
 
 <p>Let us say that the knights are in their stables if the following conditions are satisfied: some (specifically, $k \text{ div } 8$) lower rows are filled with knights, and the next row only contains knights in its leftmost cells (if $k \bmod 8 \ne 0$, then $k \bmod 8$ knights take leftmost positions in this row).</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/19821.%E2%80%85Horseback%E2%80%85Riding/df2fc5f1.png" data-original-src="https://upload.acmicpc.net/f88f6d0e-cfee-4186-9d8a-a83729c88ff8/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 250px; height: 255px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/19821.%E2%80%85Horseback%E2%80%85Riding/df2fc5f1.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/19821.%E2%80%85Horseback%E2%80%85Riding/df2fc5f1.png" data-original-src="https://upload.acmicpc.net/f88f6d0e-cfee-4186-9d8a-a83729c88ff8/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 250px; height: 255px;" /></p>
 
 <p style="text-align: center;">There are the desired cells for $k=11$ knights, one per knight.</p>
 
 <p>This is a chess problem, so the knights move as they do in chess: exactly two cells in one direction, and then exactly one cell in another direction.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/19821.%E2%80%85Horseback%E2%80%85Riding/00c943f3.png" data-original-src="https://upload.acmicpc.net/824faf4b-3d88-4a22-a0a0-6d2d6d2b3125/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 250px; height: 255px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/19821.%E2%80%85Horseback%E2%80%85Riding/00c943f3.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/19821.%E2%80%85Horseback%E2%80%85Riding/00c943f3.png" data-original-src="https://upload.acmicpc.net/824faf4b-3d88-4a22-a0a0-6d2d6d2b3125/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 250px; height: 255px;" /></p>
 
 <p style="text-align: center;">Possible moves of a knight</p>
 

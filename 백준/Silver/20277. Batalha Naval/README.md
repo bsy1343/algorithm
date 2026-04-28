@@ -18,7 +18,7 @@
 
 <p>Batalha Naval é um clássico jogo de estratégia para dois jogadores. Cada jogador posiciona seus navios num grid 10 &times; 10, e cada rodada do jogo consiste em adivinhar as posições dos navios do adversário. Existem muitas variações das regras, mas tais regras são irrelevantes para esse problema. Estamos interessados num problema mais básico: Dada a lista dos navios e suas posições, você deve determinar se o posicionamento inicial é válido.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/20277.%E2%80%85Batalha%E2%80%85Naval/bcf7792a.png" data-original-src="https://upload.acmicpc.net/710a5cdc-129b-4b8d-ac69-fa7166a5884d/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 330px; height: 327px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/20277.%E2%80%85Batalha%E2%80%85Naval/bcf7792a.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/20277.%E2%80%85Batalha%E2%80%85Naval/bcf7792a.png" data-original-src="https://upload.acmicpc.net/710a5cdc-129b-4b8d-ac69-fa7166a5884d/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 330px; height: 327px;" /></p>
 
 <p>As linhas e colunas do tabuleiro são numeradas de 1 a 10, e os navios são posicionados na horizontal ou na vertical, ocupando uma sequência contígua de quadrados do tabuleiro. Para esse problema, um posicionamento é válido se:</p>
 

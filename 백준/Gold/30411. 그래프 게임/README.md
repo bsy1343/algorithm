@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/30411.%E2%80%85%EA%B7%B8%EB%9E%98%ED%94%84%E2%80%85%EA%B2%8C%EC%9E%84/d03239e9.png" data-original-src="https://upload.acmicpc.net/b356e2f8-1d2d-43be-be87-da4d2b831eab/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/30411.%E2%80%85%EA%B7%B8%EB%9E%98%ED%94%84%E2%80%85%EA%B2%8C%EC%9E%84/d03239e9.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/30411.%E2%80%85%EA%B7%B8%EB%9E%98%ED%94%84%E2%80%85%EA%B2%8C%EC%9E%84/d03239e9.png" data-original-src="https://upload.acmicpc.net/b356e2f8-1d2d-43be-be87-da4d2b831eab/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>춘배는 그래프 게임을 하고 있다. 그래프 게임은 초기에 정점이 $N$개이고 간선은 $0$개인 그래프에 방향이 없는 간선을 하나씩 추가하며 진행된다. 정점 번호는 $1$부터 $N$까지이다.</p>
 

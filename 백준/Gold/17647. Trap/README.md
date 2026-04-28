@@ -38,4 +38,4 @@
 
 <p>The two walks are (0,0) (1,0) (2,0) (2,1) (2,2) (1,2) (0,2) (0,1) (1,1) and (0,0) (1,0) (1,1) (2,1) (3,1) (3,0) (3, -1) (2, -1) (2,0), and they are depicted in the figures:</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/17647.%E2%80%85Trap/50c90354.png" data-original-src="https://upload.acmicpc.net/38edb3e0-b37d-4390-803a-222cbcacb900/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 640px; height: 259px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/17647.%E2%80%85Trap/50c90354.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/17647.%E2%80%85Trap/50c90354.png" data-original-src="https://upload.acmicpc.net/38edb3e0-b37d-4390-803a-222cbcacb900/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 640px; height: 259px;" /></p>

@@ -32,11 +32,11 @@
 
 <p>Consider the following 8 by 12 maze, where shaded squares are walls that can&rsquo;t be entered.</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/9168.%E2%80%85No%E2%80%85Left%E2%80%85Turns/ac41e3b7.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/9168/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-06-13%20%EC%98%A4%ED%9B%84%206.17.46.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:256px; width:380px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/9168.%E2%80%85No%E2%80%85Left%E2%80%85Turns/ac41e3b7.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/9168.%E2%80%85No%E2%80%85Left%E2%80%85Turns/ac41e3b7.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/9168/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-06-13%20%EC%98%A4%ED%9B%84%206.17.46.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:256px; width:380px" /></p>
 
 <p>The shortest path between the Right Head (denoted by the S, for start) and the knight (denoted by the F, for finish) is of length 3, as illustrated above. But! Right Head can&rsquo;t turn left or make U- Turns. He can only move forward and turn right. That means the shortest path that Right Head can find is significantly longer: at 29!</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/9168.%E2%80%85No%E2%80%85Left%E2%80%85Turns/9ff88958.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/9168/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-06-13%20%EC%98%A4%ED%9B%84%206.18.01.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:259px; width:379px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/9168.%E2%80%85No%E2%80%85Left%E2%80%85Turns/9ff88958.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/9168.%E2%80%85No%E2%80%85Left%E2%80%85Turns/9ff88958.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/9168/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-06-13%20%EC%98%A4%ED%9B%84%206.18.01.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:259px; width:379px" /></p>
 
 ### 입력
 

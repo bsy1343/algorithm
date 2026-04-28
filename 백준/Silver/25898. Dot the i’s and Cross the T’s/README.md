@@ -18,7 +18,7 @@
 
 <p>Mr. T, known for his hair cut and the phrase &ldquo;you fool&rdquo; in the old TV series &ldquo;The A Team&rdquo;, has decided to try out for the UCF Programming Team. Considering the many talented students at UCF, Mr. T&rsquo;s best chance is to become great at geometry. So, he sought help from Euclid, one of the Fathers of Geometry. Considering the teacher and the student, the obvious place to start is with the letter T!</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/25898.%E2%80%85Dot%E2%80%85the%E2%80%85i%E2%80%99s%E2%80%85and%E2%80%85Cross%E2%80%85the%E2%80%85T%E2%80%99s/a037545c.png" data-original-src="https://upload.acmicpc.net/c326328e-26b1-4adf-b3c4-e8e184af0643/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 148px; height: 140px; float: right;" />Consider the picture of the letter T to the right. We define four points A, M, B, and C form a T if three conditions holds:</p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/25898.%E2%80%85Dot%E2%80%85the%E2%80%85i%E2%80%99s%E2%80%85and%E2%80%85Cross%E2%80%85the%E2%80%85T%E2%80%99s/a037545c.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/25898.%E2%80%85Dot%E2%80%85the%E2%80%85i%E2%80%99s%E2%80%85and%E2%80%85Cross%E2%80%85the%E2%80%85T%E2%80%99s/a037545c.png" data-original-src="https://upload.acmicpc.net/c326328e-26b1-4adf-b3c4-e8e184af0643/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 148px; height: 140px; float: right;" />Consider the picture of the letter T to the right. We define four points A, M, B, and C form a T if three conditions holds:</p>
 
 <ol>
 	<li>M is the midpoint of AB</li>

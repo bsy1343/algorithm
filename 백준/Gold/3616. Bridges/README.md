@@ -34,4 +34,4 @@
 
 ### 힌트
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/3616.%E2%80%85Bridges/e98f4156.png" data-original-src="https://upload.acmicpc.net/e943c4ca-1d1b-4dea-9321-3f7aec443dab/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 592px; height: 143px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/3616.%E2%80%85Bridges/e98f4156.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/3616.%E2%80%85Bridges/e98f4156.png" data-original-src="https://upload.acmicpc.net/e943c4ca-1d1b-4dea-9321-3f7aec443dab/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 592px; height: 143px;" /></p>

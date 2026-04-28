@@ -22,7 +22,7 @@
 
 <p>The server receives one long stream of region labels, without knowing the identity of the sender robots. Knowing the stream and the area&rsquo;s map, it needs your help to figure out the number of robots present in the area.</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/9406.%E2%80%85Tracking%E2%80%85Robots/01aec84c.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/9406/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-09-13%20%EC%98%A4%ED%9B%84%206.35.13.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:62px; width:92px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/9406.%E2%80%85Tracking%E2%80%85Robots/01aec84c.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/9406.%E2%80%85Tracking%E2%80%85Robots/01aec84c.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/9406/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-09-13%20%EC%98%A4%ED%9B%84%206.35.13.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:62px; width:92px" /></p>
 
 <p>Your task is to find out the minimum and the maximum number of robots that may have created such a stream, assuming that each robot has at least once sent a region label to the server.</p>
 

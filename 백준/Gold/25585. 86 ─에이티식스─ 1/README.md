@@ -22,7 +22,7 @@
 
 <p>저거노트는 대각선 네 방향으로 이동할 수 있다. 현재 좌표가 $(r,\,c)$ 라면 $(r - 1,\,c - 1)$, $(r - 1,\,c + 1)$, $(r + 1,\,c - 1)$, $(r + 1,\,c + 1)$로 움직일 수 있다.</p>
 
-<p style="text-align: center;"><img alt="저거노트 이동가능 좌표" src="%EB%B0%B1%EC%A4%80/Gold/25585.%E2%80%8586%E2%80%85%E2%94%80%EC%97%90%EC%9D%B4%ED%8B%B0%EC%8B%9D%EC%8A%A4%E2%94%80%E2%80%851/6f091e57.png" data-original-src="https://upload.acmicpc.net/5110c2b7-4cef-4e93-9498-3cc7e37afaa9/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 600px; height: 427px;" /></p>
+<p style="text-align: center;"><img alt="저거노트 이동가능 좌표" src="%EB%B0%B1%EC%A4%80/Gold/25585.%E2%80%8586%E2%80%85%E2%94%80%EC%97%90%EC%9D%B4%ED%8B%B0%EC%8B%9D%EC%8A%A4%E2%94%80%E2%80%851/6f091e57.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/25585.%E2%80%8586%E2%80%85%E2%94%80%EC%97%90%EC%9D%B4%ED%8B%B0%EC%8B%9D%EC%8A%A4%E2%94%80%E2%80%851/6f091e57.png" data-original-src="https://upload.acmicpc.net/5110c2b7-4cef-4e93-9498-3cc7e37afaa9/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 600px; height: 427px;" /></p>
 
 <p style="text-align: center;">&lt;저거노트 이동 가능 좌표&gt;</p>
 

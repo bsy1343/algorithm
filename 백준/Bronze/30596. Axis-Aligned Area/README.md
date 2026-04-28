@@ -34,6 +34,6 @@
 
 <p>Here is one optimal way to place the sticks on the plane for the first example:</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/30596.%E2%80%85Axis-Aligned%E2%80%85Area/1320f410.png" data-original-src="https://upload.acmicpc.net/bae65007-9cf1-4ad9-ba04-3561b7c41039/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 320px; height: 273px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/30596.%E2%80%85Axis-Aligned%E2%80%85Area/1320f410.png" data-original-src="%EB%B0%B1%EC%A4%80/Bronze/30596.%E2%80%85Axis-Aligned%E2%80%85Area/1320f410.png" data-original-src="https://upload.acmicpc.net/bae65007-9cf1-4ad9-ba04-3561b7c41039/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 320px; height: 273px;" /></p>
 
 <p>The enclosed area is shaded in gray.</p>

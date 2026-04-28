@@ -20,17 +20,17 @@
 
 <p>The following are a solid shape (Figure 1) and one of its&nbsp;<i>net</i>&nbsp;(Figure 2).</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/22824.%E2%80%85Nets%E2%80%85of%E2%80%85Dice/d49df00b.png" data-original-src="https://upload.acmicpc.net/552de1d1-e814-426f-8d7f-93f284a12827/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/22824.%E2%80%85Nets%E2%80%85of%E2%80%85Dice/d49df00b.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/22824.%E2%80%85Nets%E2%80%85of%E2%80%85Dice/d49df00b.png" data-original-src="https://upload.acmicpc.net/552de1d1-e814-426f-8d7f-93f284a12827/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p style="text-align: center;">Figure 1: a prism</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/22824.%E2%80%85Nets%E2%80%85of%E2%80%85Dice/9b333983.png" data-original-src="https://upload.acmicpc.net/2c98a684-2450-4cef-acd4-240989e965f1/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/22824.%E2%80%85Nets%E2%80%85of%E2%80%85Dice/9b333983.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/22824.%E2%80%85Nets%E2%80%85of%E2%80%85Dice/9b333983.png" data-original-src="https://upload.acmicpc.net/2c98a684-2450-4cef-acd4-240989e965f1/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p style="text-align: center;">Figure 2: a net of a prism</p>
 
 <p>Nets corresponding to a solid shape are not unique. For example, Figure 3 shows three of the nets of a cube.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/22824.%E2%80%85Nets%E2%80%85of%E2%80%85Dice/bac985a7.png" data-original-src="https://upload.acmicpc.net/d03771a8-ecc7-4fe5-ad71-d37a57a5d61a/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/22824.%E2%80%85Nets%E2%80%85of%E2%80%85Dice/bac985a7.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/22824.%E2%80%85Nets%E2%80%85of%E2%80%85Dice/bac985a7.png" data-original-src="https://upload.acmicpc.net/d03771a8-ecc7-4fe5-ad71-d37a57a5d61a/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p style="text-align: center;">Figure 3: examples of nets of a cube</p>
 
@@ -46,11 +46,11 @@
 
 <p>Some examples of proper nets of dice are shown in Figure 4, and those of improper ones are shown in Figure 5.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/22824.%E2%80%85Nets%E2%80%85of%E2%80%85Dice/499b97f8.png" data-original-src="https://upload.acmicpc.net/b5c83f73-84e6-4669-a58d-4b9be2ef3180/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/22824.%E2%80%85Nets%E2%80%85of%E2%80%85Dice/499b97f8.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/22824.%E2%80%85Nets%E2%80%85of%E2%80%85Dice/499b97f8.png" data-original-src="https://upload.acmicpc.net/b5c83f73-84e6-4669-a58d-4b9be2ef3180/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p style="text-align: center;">Figure 4: examples of proper nets of dice</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/22824.%E2%80%85Nets%E2%80%85of%E2%80%85Dice/7b33dd97.png" data-original-src="https://upload.acmicpc.net/cc281101-db7a-4783-9cf9-29ef841420ef/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/22824.%E2%80%85Nets%E2%80%85of%E2%80%85Dice/7b33dd97.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/22824.%E2%80%85Nets%E2%80%85of%E2%80%85Dice/7b33dd97.png" data-original-src="https://upload.acmicpc.net/cc281101-db7a-4783-9cf9-29ef841420ef/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p style="text-align: center;">Figure 5: examples of improper nets</p>
 
@@ -70,11 +70,11 @@
 
 <p>Any net of a die can be expressed on a sheet of 5x5 mesh like the one in Figure 6. In the figure, gray squares are the parts to be cut off. When we represent the sheet of mesh by numbers as in Figure 7, squares cut off are marked with zeros.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/22824.%E2%80%85Nets%E2%80%85of%E2%80%85Dice/5cf551f3.png" data-original-src="https://upload.acmicpc.net/450b485e-edb8-45b3-9358-0324e01db064/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/22824.%E2%80%85Nets%E2%80%85of%E2%80%85Dice/5cf551f3.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/22824.%E2%80%85Nets%E2%80%85of%E2%80%85Dice/5cf551f3.png" data-original-src="https://upload.acmicpc.net/450b485e-edb8-45b3-9358-0324e01db064/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p style="text-align: center;">Figure 6: 5x5 mesh</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/22824.%E2%80%85Nets%E2%80%85of%E2%80%85Dice/782dfa87.png" data-original-src="https://upload.acmicpc.net/1844b81c-bafc-4246-84a7-9469e4da1330/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/22824.%E2%80%85Nets%E2%80%85of%E2%80%85Dice/782dfa87.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/22824.%E2%80%85Nets%E2%80%85of%E2%80%85Dice/782dfa87.png" data-original-src="https://upload.acmicpc.net/1844b81c-bafc-4246-84a7-9469e4da1330/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p style="text-align: center;">Figure 7: representation by numbers</p>
 

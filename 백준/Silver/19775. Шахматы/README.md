@@ -20,7 +20,7 @@
 
 <p>Васина доска состоит из $n$ столбцов, $i$-й из которых содержит $a_i$ клеток. Нижние клетки всех столбцов образуют один горизонтальный ряд, причем длины столбцов упорядочены слева направо по невозрастанию. На рисунке ниже приведен пример доски, в которой три столбца, содержащих 5, 2 и 1 клетку, соответственно.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/19775.%E2%80%85%D0%A8%D0%B0%D1%85%D0%BC%D0%B0%D1%82%D1%8B/4682fc00.png" data-original-src="https://upload.acmicpc.net/75b484b4-169a-47c8-9f27-9907f6480532/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 97px; height: 145px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/19775.%E2%80%85%D0%A8%D0%B0%D1%85%D0%BC%D0%B0%D1%82%D1%8B/4682fc00.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/19775.%E2%80%85%D0%A8%D0%B0%D1%85%D0%BC%D0%B0%D1%82%D1%8B/4682fc00.png" data-original-src="https://upload.acmicpc.net/75b484b4-169a-47c8-9f27-9907f6480532/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 97px; height: 145px;" /></p>
 
 <p>Сегодня на шахматном кружке занятие было посвящено ладейным окончаниям, и Васю заинтересовал вопрос: как расставить минимальное число ладей на его доске так, чтобы каждую клетку поля била хотя бы одна ладья. Ладья бьет те клетки, которые расположены с ней на одной вертикали или одной горизонтали.</p>
 
@@ -38,4 +38,4 @@
 
 ### 힌트
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/19775.%E2%80%85%D0%A8%D0%B0%D1%85%D0%BC%D0%B0%D1%82%D1%8B/c1f7f46a.png" data-original-src="https://upload.acmicpc.net/9fd541a5-260c-48f3-89dd-91e858fcfafa/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 100px; height: 153px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/19775.%E2%80%85%D0%A8%D0%B0%D1%85%D0%BC%D0%B0%D1%82%D1%8B/c1f7f46a.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/19775.%E2%80%85%D0%A8%D0%B0%D1%85%D0%BC%D0%B0%D1%82%D1%8B/c1f7f46a.png" data-original-src="https://upload.acmicpc.net/9fd541a5-260c-48f3-89dd-91e858fcfafa/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 100px; height: 153px;" /></p>

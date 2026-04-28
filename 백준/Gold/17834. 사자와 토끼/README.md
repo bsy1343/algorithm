@@ -20,7 +20,7 @@
 
 <p style="text-align: justify;">게임은 다음과 같은 순서로 이루어진다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/17834.%E2%80%85%EC%82%AC%EC%9E%90%EC%99%80%E2%80%85%ED%86%A0%EB%81%BC/aabf2755.png" data-original-src="https://upload.acmicpc.net/526bc2c8-bf4b-4b1b-85ab-c1e0c7bf468b/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 700px; height: 500px;" /> &nbsp;</p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/17834.%E2%80%85%EC%82%AC%EC%9E%90%EC%99%80%E2%80%85%ED%86%A0%EB%81%BC/aabf2755.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/17834.%E2%80%85%EC%82%AC%EC%9E%90%EC%99%80%E2%80%85%ED%86%A0%EB%81%BC/aabf2755.png" data-original-src="https://upload.acmicpc.net/526bc2c8-bf4b-4b1b-85ab-c1e0c7bf468b/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 700px; height: 500px;" /> &nbsp;</p>
 
 <ol>
 	<li>

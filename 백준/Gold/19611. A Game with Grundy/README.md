@@ -42,6 +42,6 @@
 
 <p>There are three friends with the following triangular wedges of vision, along with the possible positions that Grundy can be placed, as shown in the diagram below:</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/19611.%E2%80%85A%E2%80%85Game%E2%80%85with%E2%80%85Grundy/cbf8deb8.png" data-original-src="https://upload.acmicpc.net/11b5e7db-3472-487e-846e-17a79f16e1f8/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 607px; height: 465px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/19611.%E2%80%85A%E2%80%85Game%E2%80%85with%E2%80%85Grundy/cbf8deb8.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/19611.%E2%80%85A%E2%80%85Game%E2%80%85with%E2%80%85Grundy/cbf8deb8.png" data-original-src="https://upload.acmicpc.net/11b5e7db-3472-487e-846e-17a79f16e1f8/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 607px; height: 465px;" /></p>
 
 <p>Notice the points (2, 3) and (4, 3) are visible only by the friend at position 0, since they lie on the boundary of the triangular wedge of vision for the friend at position 3.</p>

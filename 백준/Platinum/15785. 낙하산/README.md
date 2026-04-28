@@ -24,7 +24,7 @@
 
 <p>예를 들어, 다음 그림 1과 같이 낙하 속도 g가 10이고,&nbsp;낙하산 수평 최대 속도 a가 2이며 걷는 속도 f가 1이고 시작 위치는 S(100, 100)이라면, 낙하 시 x축 속도는 0이며,&nbsp; y축 속도는 g(=10)이다.그리고&nbsp; 5초가 지나면 위치 P는 (50,&nbsp; 100)이고 이때 낙하선을 펴고 최대 속도 a로 오른쪽으로 간다면 x축 속도는 a(=2)가 되고, y축 속도는 g/2(=5)가 된다. 그러면 10초 뒤에 X<sub>1</sub> (0, 120)에 도착하게 된다. 그리고 1번 차량을 타면 x축 속도는 S<sub>1</sub>(=60)이 되고 1초 뒤에 안전 지역에 도착할 수 있다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/15785.%E2%80%85%EB%82%99%ED%95%98%EC%82%B0/54247d10.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15785/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 427px; height: 242px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/15785.%E2%80%85%EB%82%99%ED%95%98%EC%82%B0/54247d10.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/15785.%E2%80%85%EB%82%99%ED%95%98%EC%82%B0/54247d10.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15785/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 427px; height: 242px;" /></p>
 
 <p>이때, 규환이가 안전 지역으로 최대한 빠르게 도착할 수 있는 시간을 구해보자.</p>
 

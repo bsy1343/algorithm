@@ -47,4 +47,4 @@
 
 <p>In the second sample, the maximum possible number of tulips Lieke can pick is $3$ and the way it can be obtained is shown in the picture. Other ways of picking tulips result in a smaller answer.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/32108.%E2%80%85Bouquet/5ade0eea.png" data-original-src="https://upload.acmicpc.net/a66eb05f-50fb-43fc-8a2c-dff04503f1b1/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 512px; height: 147px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/32108.%E2%80%85Bouquet/5ade0eea.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/32108.%E2%80%85Bouquet/5ade0eea.png" data-original-src="https://upload.acmicpc.net/a66eb05f-50fb-43fc-8a2c-dff04503f1b1/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 512px; height: 147px;" /></p>

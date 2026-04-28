@@ -20,7 +20,7 @@
 
 <p>A substitution cipher takes the alphabet and lines up a substitution with it, as shown in the example below:</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/24812.%E2%80%85Substitution%E2%80%85Mania!/7b05cdc7.png" data-original-src="https://upload.acmicpc.net/7817592d-2a71-4c70-b387-97c41cec1b98/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 196px; height: 118px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/24812.%E2%80%85Substitution%E2%80%85Mania!/7b05cdc7.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/24812.%E2%80%85Substitution%E2%80%85Mania!/7b05cdc7.png" data-original-src="https://upload.acmicpc.net/7817592d-2a71-4c70-b387-97c41cec1b98/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 196px; height: 118px;" /></p>
 
 <p>Then, for each letter of the plaintext, we find that letter in the top row and substitute it with the corresponding letter in the bottom row. The cipher is referred to by the string in the bottom row. &nbsp;In this example, &quot;hello abc&quot; would encrypt to &quot;kpxxt sau&quot; (Ben leaves spaces as spaces so things don&#39;t get too confusing).</p>
 

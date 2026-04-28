@@ -24,7 +24,7 @@
 
 <p>V형 별자리를&nbsp;명확하게&nbsp;정의하면&nbsp;다음과 같다.&nbsp;세 별 (s,t,u)가 <b>s.x &lt; t.x &lt; u.x</b>이고 <b>s.y &gt; t.y &lt; u.y</b>이면 V형 별자리이다. 예를 들어 아래의&nbsp;&#39;정보섬의 밤하늘&nbsp;참고도&#39;에서 (a,b,c)는 V형 별자리를 이루지만&nbsp;(d,b,c)는 d.x &lt; b.x가 아니므로 V형 별자리가 아니다. V형 별자리의 개수를 셀&nbsp;때,&nbsp;한 별이 여러 별자리에 속할 수 있다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/17131.%E2%80%85%EC%97%AC%EC%9A%B0%EA%B0%80%E2%80%85%EC%A0%95%EB%B3%B4%EC%84%AC%EC%97%90%E2%80%85%EC%98%AC%EB%9D%BC%EC%98%A8%E2%80%85%EC%9D%B4%EC%9C%A0/9131c7c7.png" data-original-src="https://upload.acmicpc.net/dbf080bd-9e82-4a6b-af2e-4e3043244970/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/17131.%E2%80%85%EC%97%AC%EC%9A%B0%EA%B0%80%E2%80%85%EC%A0%95%EB%B3%B4%EC%84%AC%EC%97%90%E2%80%85%EC%98%AC%EB%9D%BC%EC%98%A8%E2%80%85%EC%9D%B4%EC%9C%A0/9131c7c7.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/17131.%E2%80%85%EC%97%AC%EC%9A%B0%EA%B0%80%E2%80%85%EC%A0%95%EB%B3%B4%EC%84%AC%EC%97%90%E2%80%85%EC%98%AC%EB%9D%BC%EC%98%A8%E2%80%85%EC%9D%B4%EC%9C%A0/9131c7c7.png" data-original-src="https://upload.acmicpc.net/dbf080bd-9e82-4a6b-af2e-4e3043244970/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>답이 매우 커질 수 있으므로&nbsp;(10<sup>9</sup>+7)로 나눈 나머지를 출력한다.</p>
 

@@ -24,7 +24,7 @@
 
 <p>Given the location of the passengers relative to the train, help the city by reporting the longest distance that any passenger has to walk and the maximum number of passengers boarding any single car.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/21207.%E2%80%85Train%E2%80%85Boarding/0251815c.png" data-original-src="https://upload.acmicpc.net/8288c350-d229-44b4-a9aa-0b1161dc4065/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 400px; height: 73px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/21207.%E2%80%85Train%E2%80%85Boarding/0251815c.png" data-original-src="%EB%B0%B1%EC%A4%80/Bronze/21207.%E2%80%85Train%E2%80%85Boarding/0251815c.png" data-original-src="https://upload.acmicpc.net/8288c350-d229-44b4-a9aa-0b1161dc4065/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 400px; height: 73px;" /></p>
 
 ### 입력
 

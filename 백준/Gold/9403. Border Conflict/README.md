@@ -29,7 +29,7 @@
 	<li>Each point p<sub>i </sub>should have a distance of at most some given number D from C. The distance of p<sub>i</sub> from C is defined as the distance from p<sub>i</sub> to the closest point on C. Note that, the line segment drawn from p<sub>i</sub> to the closest point on C, is always perpendicular to C.</li>
 </ol>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/9403.%E2%80%85Border%E2%80%85Conflict/4a05cb0e.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/9403/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-09-13%20%EC%98%A4%ED%9B%84%206.14.23.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:160px; line-height:20.8px; opacity:0.9; width:180px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/9403.%E2%80%85Border%E2%80%85Conflict/4a05cb0e.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/9403.%E2%80%85Border%E2%80%85Conflict/4a05cb0e.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/9403/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-09-13%20%EC%98%A4%ED%9B%84%206.14.23.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:160px; line-height:20.8px; opacity:0.9; width:180px" /></p>
 
 <p>Your task is to find a new border C with the shortest possible length, while adhering to the above constraints.</p>
 

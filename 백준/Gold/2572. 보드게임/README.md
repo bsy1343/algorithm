@@ -22,7 +22,7 @@
 
 <p>예를 들어 N이 5이고 1번부터 5번까지의 카드 색깔이 R, G, R, B, G이라고 하자. 지도가 &lt;그림 1&gt;과 같이 주어졌다고 할 때,</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/2572.%E2%80%85%EB%B3%B4%EB%93%9C%EA%B2%8C%EC%9E%84/a8d54f02.png" data-original-src="https://upload.acmicpc.net/cc86e4b8-d7f3-465d-99cc-6c6d874f42cb/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 216px; height: 203px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/2572.%E2%80%85%EB%B3%B4%EB%93%9C%EA%B2%8C%EC%9E%84/a8d54f02.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/2572.%E2%80%85%EB%B3%B4%EB%93%9C%EA%B2%8C%EC%9E%84/a8d54f02.png" data-original-src="https://upload.acmicpc.net/cc86e4b8-d7f3-465d-99cc-6c6d874f42cb/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 216px; height: 203px;" /></p>
 
 <p style="text-align: center;">&lt;그림 1&gt;</p>
 

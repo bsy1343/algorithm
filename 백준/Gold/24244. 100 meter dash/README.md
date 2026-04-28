@@ -26,7 +26,7 @@
 
 <p>You need to create your own program so you can find what your fastest $100$m was measured in seconds.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/24244.%E2%80%85100%E2%80%85meter%E2%80%85dash/2dd13259.png" data-original-src="https://upload.acmicpc.net/166e8a41-9188-465f-84e1-aee82d901085/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 383px; height: 225px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/24244.%E2%80%85100%E2%80%85meter%E2%80%85dash/2dd13259.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/24244.%E2%80%85100%E2%80%85meter%E2%80%85dash/2dd13259.png" data-original-src="https://upload.acmicpc.net/166e8a41-9188-465f-84e1-aee82d901085/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 383px; height: 225px;" /></p>
 
 <p style="text-align: center;">Illustration of sample case $1$.</p>
 

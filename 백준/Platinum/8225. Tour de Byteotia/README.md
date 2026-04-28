@@ -38,4 +38,4 @@
 
 ### 힌트
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/8225.%E2%80%85Tour%E2%80%85de%E2%80%85Byteotia/5d03dc17.gif" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/8225/1.gif" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:85px; width:212px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/8225.%E2%80%85Tour%E2%80%85de%E2%80%85Byteotia/5d03dc17.gif" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/8225.%E2%80%85Tour%E2%80%85de%E2%80%85Byteotia/5d03dc17.gif" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/8225/1.gif" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:85px; width:212px" /></p>

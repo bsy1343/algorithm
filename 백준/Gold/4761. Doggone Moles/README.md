@@ -49,4 +49,4 @@
 
 <p>This input set may be visualized as:</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/4761.%E2%80%85Doggone%E2%80%85Moles/4e444fc3.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/4761/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:314px; width:458px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/4761.%E2%80%85Doggone%E2%80%85Moles/4e444fc3.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/4761.%E2%80%85Doggone%E2%80%85Moles/4e444fc3.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/4761/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:314px; width:458px" /></p>

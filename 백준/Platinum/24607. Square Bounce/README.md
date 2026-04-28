@@ -18,7 +18,7 @@
 
 <p>Given a square in the plane with corners at $(-1,-1)$, $(-1,1)$, $(1,1)$ and $(1,-1)$, we fire a ray from point $(-1,0)$ into the interior of the square on a path with a given slope. The ray bounces off of the sides of the square with an angle of reflection which is the same as the angle of incidence to the side at the point of intersection.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/24607.%E2%80%85Square%E2%80%85Bounce/7de40044.png" data-original-src="https://upload.acmicpc.net/c174e305-7ab6-48ac-a73e-8ee06cd3fb7c/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 300px; height: 77px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/24607.%E2%80%85Square%E2%80%85Bounce/7de40044.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/24607.%E2%80%85Square%E2%80%85Bounce/7de40044.png" data-original-src="https://upload.acmicpc.net/c174e305-7ab6-48ac-a73e-8ee06cd3fb7c/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 300px; height: 77px;" /></p>
 
 <p>After a number of bounces, the ray intersects one of the square&#39;s sides again at some point which has rational coordinates. Find those rational coordinates in reduced form.</p>
 
@@ -34,4 +34,4 @@
 
 <p>The following is a picture of the first sample:</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/24607.%E2%80%85Square%E2%80%85Bounce/8fe57ef0.png" data-original-src="https://upload.acmicpc.net/c186800b-043c-4faa-903a-f78c8e65aa9a/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 500px; height: 447px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/24607.%E2%80%85Square%E2%80%85Bounce/8fe57ef0.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/24607.%E2%80%85Square%E2%80%85Bounce/8fe57ef0.png" data-original-src="https://upload.acmicpc.net/c186800b-043c-4faa-903a-f78c8e65aa9a/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 500px; height: 447px;" /></p>

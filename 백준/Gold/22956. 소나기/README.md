@@ -42,5 +42,5 @@
 
 <p>다음은 예제 1번의 그림이다.</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/22956.%E2%80%85%EC%86%8C%EB%82%98%EA%B8%B0/ad86313d.png" data-original-src="https://upload.acmicpc.net/448960f2-7d24-42e8-bf67-2f9791179ba2/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 266px; width: 750px;" /><br />
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/22956.%E2%80%85%EC%86%8C%EB%82%98%EA%B8%B0/ad86313d.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/22956.%E2%80%85%EC%86%8C%EB%82%98%EA%B8%B0/ad86313d.png" data-original-src="https://upload.acmicpc.net/448960f2-7d24-42e8-bf67-2f9791179ba2/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 266px; width: 750px;" /><br />
 &nbsp;</p>

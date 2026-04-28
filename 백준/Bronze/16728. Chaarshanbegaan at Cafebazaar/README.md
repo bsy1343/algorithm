@@ -18,7 +18,7 @@
 
 <p>Chaarshanbegaan is a gathering event at Cafebazaar similar to TGIF events at Google. Some entertainment programs like pantomime, foosball, Xbox/PS4, and several board games are part of the event. You are going to set up a dart game in Chaarshanbegaan. As a techie organizing a game for techies, you would rather use a smart screen and write a program to calculate the scores instead of hanging a traditional dartboard and scoring the shots manually. Your program must get the coordinates of dart shots for a player and calculate his/her total score. The score for each dart shot (at point (x, y)) is calculated based on its distance from the center of the dartboard (point (0, 0)). If the distance is d millimeters, the score is calculated based on the following table:</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/16728.%E2%80%85Chaarshanbegaan%E2%80%85at%E2%80%85Cafebazaar/66a21ea3.png" data-original-src="https://upload.acmicpc.net/a9fff8cc-e548-4b3a-a04c-ed33b9049e63/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 488px; height: 271px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/16728.%E2%80%85Chaarshanbegaan%E2%80%85at%E2%80%85Cafebazaar/66a21ea3.png" data-original-src="%EB%B0%B1%EC%A4%80/Bronze/16728.%E2%80%85Chaarshanbegaan%E2%80%85at%E2%80%85Cafebazaar/66a21ea3.png" data-original-src="https://upload.acmicpc.net/a9fff8cc-e548-4b3a-a04c-ed33b9049e63/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 488px; height: 271px;" /></p>
 
 ### 입력
 

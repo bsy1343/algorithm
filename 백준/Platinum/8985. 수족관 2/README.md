@@ -18,7 +18,7 @@
 
 <p>아래 그림 1은 수족관을 앞에서 본 모양이다. 이 수족관에는 물이 가득 차 있다. 만약 수족관 밑바닥(수평선분)에 구멍을 하나 뚫으면, 구멍을 통해 수족관 안의 물이 빠지게 된다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/8985.%E2%80%85%EC%88%98%EC%A1%B1%EA%B4%80%E2%80%852/33587973.png" data-original-src="https://upload.acmicpc.net/4c0f1045-5150-455d-8a8e-f9f2c9fe9557/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 264px; height: 210px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/8985.%E2%80%85%EC%88%98%EC%A1%B1%EA%B4%80%E2%80%852/33587973.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/8985.%E2%80%85%EC%88%98%EC%A1%B1%EA%B4%80%E2%80%852/33587973.png" data-original-src="https://upload.acmicpc.net/4c0f1045-5150-455d-8a8e-f9f2c9fe9557/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 264px; height: 210px;" /></p>
 
 <p style="text-align: center;">그림 1. 수족관과 구멍.</p>
 
@@ -34,13 +34,13 @@
 
 <p>수족관에는 하나 이상의 구멍이 존재하는데, 구멍은 수평선분에만 존재하며, 수평선분의 한 가운데에만 위치한다. 그리고 하나의 수평선분에는 최대 하나의 구멍만 존재할 수 있다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/8985.%E2%80%85%EC%88%98%EC%A1%B1%EA%B4%80%E2%80%852/6fedf2e8.png" data-original-src="https://upload.acmicpc.net/55d1b6ae-0068-4d23-aee7-051fe344e6a4/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 264px; height: 201px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/8985.%E2%80%85%EC%88%98%EC%A1%B1%EA%B4%80%E2%80%852/6fedf2e8.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/8985.%E2%80%85%EC%88%98%EC%A1%B1%EA%B4%80%E2%80%852/6fedf2e8.png" data-original-src="https://upload.acmicpc.net/55d1b6ae-0068-4d23-aee7-051fe344e6a4/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 264px; height: 201px;" /></p>
 
 <p style="text-align: center;">그림 2. 수족관의 처음 상태. 물의 양은 26L이고 구멍은 2개.</p>
 
 <p>그림 2에는 2개의 수평선분에 총 2개의 구멍(1번 구멍과 2번 구멍)이 뚫려 있다. 처음 물의 양은 26L이다. 2개의 구멍을 통해, 0초부터 물을 빼기 시작하면 몇 초 후부터 더 이상 물이 빠지지 않게 될까?</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/8985.%E2%80%85%EC%88%98%EC%A1%B1%EA%B4%80%E2%80%852/39cbcfdd.png" data-original-src="https://upload.acmicpc.net/f9f32a40-9eba-4841-bab3-00831dfe1c44/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 257px; height: 182px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/8985.%E2%80%85%EC%88%98%EC%A1%B1%EA%B4%80%E2%80%852/39cbcfdd.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/8985.%E2%80%85%EC%88%98%EC%A1%B1%EA%B4%80%E2%80%852/39cbcfdd.png" data-original-src="https://upload.acmicpc.net/f9f32a40-9eba-4841-bab3-00831dfe1c44/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 257px; height: 182px;" /></p>
 
 <p style="text-align: center;">그림 3. 물이 빠진 중간 상태.</p>
 
@@ -48,7 +48,7 @@
 
 <p>이후에는 3L의 물이 2번 구멍을 통해 3초 동안 배출된다. 결국, 8초+3초 = 11초 동안 물이 배출되고, 그 이후에는 더 이상 배출되지 않는다. 11초 후에 남은 물의 양은 7L이며, 최종 상태는 그림 4와 같다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/8985.%E2%80%85%EC%88%98%EC%A1%B1%EA%B4%80%E2%80%852/625b9ee8.png" data-original-src="https://upload.acmicpc.net/e0e15021-56ab-4923-af94-5f7e0799d77b/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 270px; height: 189px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/8985.%E2%80%85%EC%88%98%EC%A1%B1%EA%B4%80%E2%80%852/625b9ee8.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/8985.%E2%80%85%EC%88%98%EC%A1%B1%EA%B4%80%E2%80%852/625b9ee8.png" data-original-src="https://upload.acmicpc.net/e0e15021-56ab-4923-af94-5f7e0799d77b/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 270px; height: 189px;" /></p>
 
 <p style="text-align: center;">그림 4. 최종 상태.</p>
 

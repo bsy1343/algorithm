@@ -18,11 +18,11 @@
 
 <p>각 칸에 &#39;상&#39;, &#39;하&#39;, &#39;좌&#39;, &#39;우&#39; 중 하나가 표시되어 있고 세로로 $N$칸, 가로로 $M$칸인 $N \times M$ 크기의 미로가 있다. 해당 칸으로 도착한 모든 사람은 미로에 표시된 방향으로 한 칸 이동한다. 이를 반복해 미로 밖으로 벗어나면 미로에서 탈출할 수 있다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/30689.%E2%80%85%EB%AF%B8%EB%A1%9C%E2%80%85%EB%B3%B4%EC%88%98/b043f898.png" data-original-src="https://u.acmicpc.net/5bfdcabd-5376-4216-a696-fc855ba1bf36/maze_description1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 1000px; height: 323px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/30689.%E2%80%85%EB%AF%B8%EB%A1%9C%E2%80%85%EB%B3%B4%EC%88%98/b043f898.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/30689.%E2%80%85%EB%AF%B8%EB%A1%9C%E2%80%85%EB%B3%B4%EC%88%98/b043f898.png" data-original-src="https://u.acmicpc.net/5bfdcabd-5376-4216-a696-fc855ba1bf36/maze_description1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 1000px; height: 323px;" /></p>
 
 <p>해당 그림의 파란색 경로는 미로에서 탈출하는 예시이다. 하지만 운이 나쁘다면 그림의 빨간색 경로와 같이 영원히 미로에서 탈출하지 못할 수도 있다! 영원히 탈출하지 못하는 상황을 막기 위해, 형진이는 미로를 보수하기로 했다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/30689.%E2%80%85%EB%AF%B8%EB%A1%9C%E2%80%85%EB%B3%B4%EC%88%98/82abee4e.png" data-original-src="https://u.acmicpc.net/ee09b142-b75d-417d-a817-57861a1edb9a/maze_description2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 700px; height: 298px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/30689.%E2%80%85%EB%AF%B8%EB%A1%9C%E2%80%85%EB%B3%B4%EC%88%98/82abee4e.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/30689.%E2%80%85%EB%AF%B8%EB%A1%9C%E2%80%85%EB%B3%B4%EC%88%98/82abee4e.png" data-original-src="https://u.acmicpc.net/ee09b142-b75d-417d-a817-57861a1edb9a/maze_description2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 700px; height: 298px;" /></p>
 
 <p>형진이는 미로에 원하는 만큼 점프대를 설치할 수 있다. 점프대를 설치하면 해당 위치에 도착한 사람들은 점프를 통해 바로 미로 밖으로 빠져나올 수 있다.</p>
 

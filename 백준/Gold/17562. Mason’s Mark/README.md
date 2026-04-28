@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/17562.%E2%80%85Mason%E2%80%99s%E2%80%85Mark/11b394da.png" data-original-src="https://upload.acmicpc.net/bfd16030-c350-4ac8-a612-6399ead205e0/-/crop/452x721/11,14/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 226px; height: 361px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/17562.%E2%80%85Mason%E2%80%99s%E2%80%85Mark/11b394da.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/17562.%E2%80%85Mason%E2%80%99s%E2%80%85Mark/11b394da.png" data-original-src="https://upload.acmicpc.net/bfd16030-c350-4ac8-a612-6399ead205e0/-/crop/452x721/11,14/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 226px; height: 361px;" /></p>
 
 <p>A mason&rsquo;s mark is a symbol often found on dressed stones in buildings and other public structures. As Peter walks with his camera through Paris, he notices these marks on the wall of the Tour JeanSans-Peur. Every stone has one of the marks A, B or C, which are quite visible. He makes a black and white photo and observes:</p>
 
@@ -25,7 +25,7 @@
 	<li>All marks have one of the following shape with x and y being arbitrary strictly positive integers, and possibly different for each mark. Note that marks are surrounded by white pixels, and that marks cannot be rotated.</li>
 </ul>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/17562.%E2%80%85Mason%E2%80%99s%E2%80%85Mark/8109c4c0.png" data-original-src="https://upload.acmicpc.net/95d8488b-7df3-4a23-bc0d-b764a6e93847/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 409px; height: 201px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/17562.%E2%80%85Mason%E2%80%99s%E2%80%85Mark/8109c4c0.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/17562.%E2%80%85Mason%E2%80%99s%E2%80%85Mark/8109c4c0.png" data-original-src="https://upload.acmicpc.net/95d8488b-7df3-4a23-bc0d-b764a6e93847/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 409px; height: 201px;" /></p>
 
 <ul>
 	<li>The picture contains some noise, which are black pixels surrounded by 8 white pixels.</li>

@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/23364.%E2%80%85Almost%E2%80%85Always/27fdfa45.png" data-original-src="https://upload.acmicpc.net/7f5445f4-0dd8-45ed-80d8-e24918361952/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 311px; height: 100px; float: right;" />Today, your probability theory class covered probabilistic events that occur <em>with high probability</em>. As you are now explaining to your friend, this means that as some parameter $n$ goes to infinity, the probability of this event goes to $1$.</p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/23364.%E2%80%85Almost%E2%80%85Always/27fdfa45.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/23364.%E2%80%85Almost%E2%80%85Always/27fdfa45.png" data-original-src="https://upload.acmicpc.net/7f5445f4-0dd8-45ed-80d8-e24918361952/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 311px; height: 100px; float: right;" />Today, your probability theory class covered probabilistic events that occur <em>with high probability</em>. As you are now explaining to your friend, this means that as some parameter $n$ goes to infinity, the probability of this event goes to $1$.</p>
 
 <p>An example of an event that occurs with high probability is the following: given a list of $n$ independent uniform random integers between $1$ and $2\cdot 10^9$, there are two elements such that one divides the other.</p>
 

@@ -51,4 +51,4 @@ a<sub>Q</sub> b<sub>Q</sub> pQ</pre>
 
 <p>Regarding the first example, the minimum time to complete only the first request is 4 seconds. All the two requests can be completed within 4 seconds too. See the below figure.</p>
 
-<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/15528.%E2%80%85Conveyor%E2%80%85Belt/1ed33ee6.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15528/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:245px; width:400px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/15528.%E2%80%85Conveyor%E2%80%85Belt/1ed33ee6.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/15528.%E2%80%85Conveyor%E2%80%85Belt/1ed33ee6.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15528/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:245px; width:400px" /></p>

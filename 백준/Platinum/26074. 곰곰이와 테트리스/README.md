@@ -24,7 +24,7 @@
 
 <p>단, 이때 블록을 회전시켜서 배치할 수 있으나 뒤집는 것은 불가능하고, 기존 블록과 겹치지 않고 격자와 테두리를 벗어나지 않게 배치해야 한다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/26074.%E2%80%85%EA%B3%B0%EA%B3%B0%EC%9D%B4%EC%99%80%E2%80%85%ED%85%8C%ED%8A%B8%EB%A6%AC%EC%8A%A4/ef0bbe3f.png" data-original-src="https://upload.acmicpc.net/2662c74a-ffbd-4fea-a56f-4e3221d23eba/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/26074.%E2%80%85%EA%B3%B0%EA%B3%B0%EC%9D%B4%EC%99%80%E2%80%85%ED%85%8C%ED%8A%B8%EB%A6%AC%EC%8A%A4/ef0bbe3f.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/26074.%E2%80%85%EA%B3%B0%EA%B3%B0%EC%9D%B4%EC%99%80%E2%80%85%ED%85%8C%ED%8A%B8%EB%A6%AC%EC%8A%A4/ef0bbe3f.png" data-original-src="https://upload.acmicpc.net/2662c74a-ffbd-4fea-a56f-4e3221d23eba/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p style="text-align: center;"><strong>[그림 1] 배치할 수 있는 블록의 종류와 번호 </strong></p>
 

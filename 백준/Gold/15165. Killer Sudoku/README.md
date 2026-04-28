@@ -22,11 +22,11 @@
 
 <p>Killer Sudoku is a popular variant on the standard form, such that instead of starting with some individual numbers already placed in their squares, the grid is divided into one or more connected regions popularly known as cages and there are constraints on the numbers that may appear in the cages. Each cage has a total specifying what the number(s) in the cage must sum to. In the sub-variant that we consider here, the number(s) in a cage must also be a set (that is, there must be no repeated numbers in a cage).</p>
 
-<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/15165.%E2%80%85Killer%E2%80%85Sudoku/824cb3dc.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15165/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:215px; width:214px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/15165.%E2%80%85Killer%E2%80%85Sudoku/824cb3dc.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/15165.%E2%80%85Killer%E2%80%85Sudoku/824cb3dc.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15165/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:215px; width:214px" /></p>
 
 <p style="text-align:center">Figure K.1: A standard Sudoku.</p>
 
-<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/15165.%E2%80%85Killer%E2%80%85Sudoku/fafae9a6.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15165/2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:301px; width:620px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/15165.%E2%80%85Killer%E2%80%85Sudoku/fafae9a6.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/15165.%E2%80%85Killer%E2%80%85Sudoku/fafae9a6.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15165/2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:301px; width:620px" /></p>
 
 <p style="text-align:center">Figure K.2: A Killer Sudoku grid (left) with a solution (right).</p>
 

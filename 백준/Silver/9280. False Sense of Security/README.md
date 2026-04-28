@@ -20,11 +20,11 @@
 
 <p>The encryption is based on the Morse code, which represents characters as variable-length sequences of dots and dashes. The following table shows the Morse code sequences for all letters:</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/9280.%E2%80%85False%E2%80%85Sense%E2%80%85of%E2%80%85Security/d1845a60.png" data-original-src="https://www.acmicpc.net/upload/images/fs1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:156px; width:340px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/9280.%E2%80%85False%E2%80%85Sense%E2%80%85of%E2%80%85Security/d1845a60.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/9280.%E2%80%85False%E2%80%85Sense%E2%80%85of%E2%80%85Security/d1845a60.png" data-original-src="https://www.acmicpc.net/upload/images/fs1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:156px; width:340px" /></p>
 
 <p>Note that four possible dot-dash combinations are unassigned. For the purposes of this problem we will assign them as follows (note these are not the assignments for actual Morse code):</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/9280.%E2%80%85False%E2%80%85Sense%E2%80%85of%E2%80%85Security/2c0006f6.png" data-original-src="https://www.acmicpc.net/upload/images/fs2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:62px; width:386px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/9280.%E2%80%85False%E2%80%85Sense%E2%80%85of%E2%80%85Security/2c0006f6.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/9280.%E2%80%85False%E2%80%85Sense%E2%80%85of%E2%80%85Security/2c0006f6.png" data-original-src="https://www.acmicpc.net/upload/images/fs2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:62px; width:386px" /></p>
 
 <p>In practice, characters in a message are delimited by short pauses, typically displayed as spaces.<br />
 Thus, the message ACM GREATER NY REGION is encoded as:</p>

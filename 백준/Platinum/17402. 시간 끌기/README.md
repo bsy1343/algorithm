@@ -28,7 +28,7 @@
 
 <p>예를 들어 다음의 게임판을 보자.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/17402.%E2%80%85%EC%8B%9C%EA%B0%84%E2%80%85%EB%81%8C%EA%B8%B0/91a15eda.png" data-original-src="https://upload.acmicpc.net/2ebde659-dba8-4230-a62f-1fc27f1270ee/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 230px; height: 231px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/17402.%E2%80%85%EC%8B%9C%EA%B0%84%E2%80%85%EB%81%8C%EA%B8%B0/91a15eda.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/17402.%E2%80%85%EC%8B%9C%EA%B0%84%E2%80%85%EB%81%8C%EA%B8%B0/91a15eda.png" data-original-src="https://upload.acmicpc.net/2ebde659-dba8-4230-a62f-1fc27f1270ee/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 230px; height: 231px;" /></p>
 
 <p>지금까지 두 번째 행과 네 번째 행, 두 번째 열을 선택한 상태라고 하자. 그렇다면 첫 번째 행을 선택하거나 네 번째 열을 선택하는 것 외에는 선택된 행, 열들의 교차점에 X가 생기게 된다. 따라서 첫 번째 행이나 첫 번째 열을 선택해야만 하고 그 뒤에는 어떤 행이나 열을 골라도 교차점에 X가 생기므로 총 선택 횟수는 4번이며, 이보다 더 많이 선택할 수 있는 방법은 없다.</p>
 

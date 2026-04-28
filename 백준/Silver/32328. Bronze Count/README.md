@@ -22,7 +22,7 @@
 
 <p>Given a list of all the scores, your job is to determine the score required for bronze level and how many participants achieved this score.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/32328.%E2%80%85Bronze%E2%80%85Count/9e7abb93.png" data-original-src="https://upload.acmicpc.net/dd38e9f0-73fe-4763-8841-6642a0890f2e/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 394px; height: 150px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/32328.%E2%80%85Bronze%E2%80%85Count/9e7abb93.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/32328.%E2%80%85Bronze%E2%80%85Count/9e7abb93.png" data-original-src="https://upload.acmicpc.net/dd38e9f0-73fe-4763-8841-6642a0890f2e/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 394px; height: 150px;" /></p>
 
 ### 입력
 

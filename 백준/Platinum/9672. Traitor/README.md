@@ -26,7 +26,7 @@
 
 <p>If we want to satisfy all above conditions, it may be impossible to watch all suspects. Therefore, you should write a program that gets the structure of ASA and the list of suspects as the input and finds the maximum number of suspects for whom the watcher assignment is possible. In the following figure that illustrates the organizational structure of ASA with two top managers and eleven agents, the suspects are indicated with gray color. One watcher assignment covering 7 out of 8 suspects is possible in this case which is shown by arrows. An arrow from agent x to agent y, means agent x is supposed to watch agent y. It can be shown that in this example there is no watcher assignment covering all suspects.</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/9672.%E2%80%85Traitor/4e136125.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/9672/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-09-12%20%EC%98%A4%ED%9B%84%206.25.11.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:166px; width:340px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/9672.%E2%80%85Traitor/4e136125.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/9672.%E2%80%85Traitor/4e136125.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/9672/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-09-12%20%EC%98%A4%ED%9B%84%206.25.11.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:166px; width:340px" /></p>
 
 ### 입력
 

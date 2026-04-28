@@ -20,11 +20,11 @@
 
 <p>Sir Jumpsalot doesn&rsquo;t like to play by the rules. While he still moves around by jumping &radic;D metres, he doesn&rsquo;t bother landing on the centre of a square every time. In other words, he sometimes lands in a corner of a square or even on the border between adjacent squares, whichever is most convenient. Reaching his destination is usually easier this way, as can be seen from the following example (travelling two squares horizontally and three vertically with the familiar value of D = 5).</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/11445.%E2%80%85Cheating%E2%80%85Knight/411c49b7.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11445/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:118px; width:114px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/11445.%E2%80%85Cheating%E2%80%85Knight/411c49b7.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/11445.%E2%80%85Cheating%E2%80%85Knight/411c49b7.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11445/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:118px; width:114px" /></p>
 
 <p style="text-align: center;">a) Route for any normal, law abiding knight.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/11445.%E2%80%85Cheating%E2%80%85Knight/2314e0ed.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11445/2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:117px; width:115px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/11445.%E2%80%85Cheating%E2%80%85Knight/2314e0ed.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/11445.%E2%80%85Cheating%E2%80%85Knight/2314e0ed.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11445/2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:117px; width:115px" /></p>
 
 <p style="text-align: center;">b) Route for the cheating Sir Jumpsalot.</p>
 

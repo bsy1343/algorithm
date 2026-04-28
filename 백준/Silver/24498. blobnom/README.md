@@ -18,7 +18,7 @@
 
 <p>블롭들은 심심해서 서로를 이용해&nbsp;$N$개의 탑을 만들었다.&nbsp;각 탑의 높이는 그 탑에 있는 블롭의 수와 같다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/24498.%E2%80%85blobnom/c8c4ea75.png" data-original-src="https://upload.acmicpc.net/e2a1544d-acfb-4160-a6a9-f58e7b73f7ae/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="display: inline-block; width: 50%; max-width: 256px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/24498.%E2%80%85blobnom/c8c4ea75.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/24498.%E2%80%85blobnom/c8c4ea75.png" data-original-src="https://upload.acmicpc.net/e2a1544d-acfb-4160-a6a9-f58e7b73f7ae/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="display: inline-block; width: 50%; max-width: 256px;" /></p>
 
 <p>여러분은 다음 행동을 $0$회 이상 할 수 있다.</p>
 

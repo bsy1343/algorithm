@@ -20,11 +20,11 @@
 
 <p dir="ltr" style="margin-top:0pt; margin-bottom:0pt">&nbsp;</p>
 
-<p dir="ltr" style="text-align: center"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/16151.%E2%80%85%EB%B3%84%EC%9E%90%EB%A6%AC/f4cb5e4c.png" data-original-src="https://upload.acmicpc.net/87dec6e9-cda9-46df-a5d9-d988e592bfdd/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 150px; height: 150px;" /></p>
+<p dir="ltr" style="text-align: center"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/16151.%E2%80%85%EB%B3%84%EC%9E%90%EB%A6%AC/f4cb5e4c.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/16151.%E2%80%85%EB%B3%84%EC%9E%90%EB%A6%AC/f4cb5e4c.png" data-original-src="https://upload.acmicpc.net/87dec6e9-cda9-46df-a5d9-d988e592bfdd/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 150px; height: 150px;" /></p>
 
 <p dir="ltr" style="text-align: center">올바른 예시</p>
 
-<p dir="ltr" style="margin-top: 0pt; margin-bottom: 0pt; text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/16151.%E2%80%85%EB%B3%84%EC%9E%90%EB%A6%AC/ef882598.png" data-original-src="https://upload.acmicpc.net/e36b590f-3705-4b98-bab3-ab7e072c15b9/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 150px; height: 150px;" />&nbsp;&nbsp;&nbsp;<img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/16151.%E2%80%85%EB%B3%84%EC%9E%90%EB%A6%AC/7355831b.png" data-original-src="https://upload.acmicpc.net/766ae188-5a76-4071-b3c5-b0ae7699092b/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 150px; height: 150px;" /></p>
+<p dir="ltr" style="margin-top: 0pt; margin-bottom: 0pt; text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/16151.%E2%80%85%EB%B3%84%EC%9E%90%EB%A6%AC/ef882598.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/16151.%E2%80%85%EB%B3%84%EC%9E%90%EB%A6%AC/ef882598.png" data-original-src="https://upload.acmicpc.net/e36b590f-3705-4b98-bab3-ab7e072c15b9/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 150px; height: 150px;" />&nbsp;&nbsp;&nbsp;<img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/16151.%E2%80%85%EB%B3%84%EC%9E%90%EB%A6%AC/7355831b.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/16151.%E2%80%85%EB%B3%84%EC%9E%90%EB%A6%AC/7355831b.png" data-original-src="https://upload.acmicpc.net/766ae188-5a76-4071-b3c5-b0ae7699092b/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 150px; height: 150px;" /></p>
 
 <p dir="ltr" style="margin-top: 0pt; margin-bottom: 0pt; text-align: center;">올바르지 않은 예시</p>
 

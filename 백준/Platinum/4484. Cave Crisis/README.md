@@ -18,7 +18,7 @@
 
 <p>R2D2 was exploring a tunnel when a cave-in suddenly occurred. Oh no, is he trapped?</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/4484.%E2%80%85Cave%E2%80%85Crisis/794f5f10.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/4484/p4434.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:284px; width:841px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/4484.%E2%80%85Cave%E2%80%85Crisis/794f5f10.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/4484.%E2%80%85Cave%E2%80%85Crisis/794f5f10.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/4484/p4434.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:284px; width:841px" /></p>
 
 <p>Figure1: Overhead view of the cave crisis from the third example test case.</p>
 

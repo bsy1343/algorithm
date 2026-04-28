@@ -33,7 +33,7 @@
 
 <p>The picture shows two ways to color the tree from the second test case.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/16263.%E2%80%85Red-Black%E2%80%85Tree/451bb312.png" data-original-src="https://upload.acmicpc.net/de78fa10-3f1b-42c9-80d8-e4b0d8422558/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 417px; height: 141px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/16263.%E2%80%85Red-Black%E2%80%85Tree/451bb312.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/16263.%E2%80%85Red-Black%E2%80%85Tree/451bb312.png" data-original-src="https://upload.acmicpc.net/de78fa10-3f1b-42c9-80d8-e4b0d8422558/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 417px; height: 141px;" /></p>
 
 ### 입력
 

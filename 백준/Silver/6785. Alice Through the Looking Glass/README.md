@@ -20,13 +20,13 @@
 
 <p>At level 1 of magnification, Alice sees the image as follows:</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/6785.%E2%80%85Alice%E2%80%85Through%E2%80%85the%E2%80%85Looking%E2%80%85Glass/f0098802.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/6785/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202017-03-24%20%EC%98%A4%ED%9B%84%201.49.24.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:295px; width:289px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/6785.%E2%80%85Alice%E2%80%85Through%E2%80%85the%E2%80%85Looking%E2%80%85Glass/f0098802.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/6785.%E2%80%85Alice%E2%80%85Through%E2%80%85the%E2%80%85Looking%E2%80%85Glass/f0098802.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/6785/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202017-03-24%20%EC%98%A4%ED%9B%84%201.49.24.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:295px; width:289px" /></p>
 
 <p>Notice that at level 1, there is a 5 &times; 5 grid superimposed over the image.</p>
 
 <p>However, as Alice increases the magnification, the leaf pattern becomes more intricate.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/6785.%E2%80%85Alice%E2%80%85Through%E2%80%85the%E2%80%85Looking%E2%80%85Glass/7e043e01.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/6785/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202017-03-24%20%EC%98%A4%ED%9B%84%201.50.53.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:289px; width:289px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/6785.%E2%80%85Alice%E2%80%85Through%E2%80%85the%E2%80%85Looking%E2%80%85Glass/7e043e01.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/6785.%E2%80%85Alice%E2%80%85Through%E2%80%85the%E2%80%85Looking%E2%80%85Glass/7e043e01.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/6785/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202017-03-24%20%EC%98%A4%ED%9B%84%201.50.53.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:289px; width:289px" /></p>
 
 <p>At level 2 of the magnification, Alice sees the image with a 25 &times; 25 grid, and notices that three of the four larger squares in the original image have the small four square pattern on top. In fact, for this particular crystal, this self-similarity repeats for each magnification level.</p>
 

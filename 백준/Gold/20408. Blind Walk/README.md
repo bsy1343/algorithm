@@ -20,7 +20,7 @@
 
 <p>The robot has to visit all empty cells in the maze. All cells are guaranteed to be reachable.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/20408.%E2%80%85Blind%E2%80%85Walk/99045d90.png" data-original-src="https://upload.acmicpc.net/310300f0-fc9e-4d1d-98a7-7ac9a9cc26ce/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 73px; height: 61px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/20408.%E2%80%85Blind%E2%80%85Walk/99045d90.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/20408.%E2%80%85Blind%E2%80%85Walk/99045d90.png" data-original-src="https://upload.acmicpc.net/310300f0-fc9e-4d1d-98a7-7ac9a9cc26ce/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 73px; height: 61px;" /></p>
 
 <p>The picture shows sample maze where blocked cells are, filled and initial robot&rsquo;s location is designated with a circle.</p>
 

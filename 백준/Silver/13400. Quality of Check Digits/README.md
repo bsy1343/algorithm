@@ -22,11 +22,11 @@
 
 <p>Operation Table 1</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/13400.%E2%80%85Quality%E2%80%85of%E2%80%85Check%E2%80%85Digits/3b49e7fc.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/13400/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-11-11%20%EC%98%A4%EC%A0%84%205.07.12.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:203px; width:265px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/13400.%E2%80%85Quality%E2%80%85of%E2%80%85Check%E2%80%85Digits/3b49e7fc.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/13400.%E2%80%85Quality%E2%80%85of%E2%80%85Check%E2%80%85Digits/3b49e7fc.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/13400/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-11-11%20%EC%98%A4%EC%A0%84%205.07.12.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:203px; width:265px" /></p>
 
 <p>Operation Table 2</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/13400.%E2%80%85Quality%E2%80%85of%E2%80%85Check%E2%80%85Digits/ffce6fd0.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/13400/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-11-11%20%EC%98%A4%EC%A0%84%205.07.20.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:206px; width:265px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/13400.%E2%80%85Quality%E2%80%85of%E2%80%85Check%E2%80%85Digits/ffce6fd0.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/13400.%E2%80%85Quality%E2%80%85of%E2%80%85Check%E2%80%85Digits/ffce6fd0.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/13400/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-11-11%20%EC%98%A4%EC%A0%84%205.07.20.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:206px; width:265px" /></p>
 
 <p>Using an operation table, the check digit e for a four-digit basic ID number abcd is computed by using the following formula. Here, i &otimes; j denotes the table element at row i and column j.</p>
 
@@ -40,7 +40,7 @@
 
 <p>Note that the check digit depends on the operation table used. With Operation Table 2, we have e = 3 for the same basic ID number 2016, and the whole SSN will be 20163.</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/13400.%E2%80%85Quality%E2%80%85of%E2%80%85Check%E2%80%85Digits/1a07f0cc.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/13400/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-11-11%20%EC%98%A4%EC%A0%84%205.11.36.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:225px; width:600px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/13400.%E2%80%85Quality%E2%80%85of%E2%80%85Check%E2%80%85Digits/1a07f0cc.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/13400.%E2%80%85Quality%E2%80%85of%E2%80%85Check%E2%80%85Digits/1a07f0cc.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/13400/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-11-11%20%EC%98%A4%EC%A0%84%205.11.36.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:225px; width:600px" /></p>
 
 <p>Figure B.1. Two kinds of common human errors</p>
 

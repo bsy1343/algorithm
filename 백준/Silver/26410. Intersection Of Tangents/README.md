@@ -40,8 +40,8 @@
 
 <p>Images for samples and some random photo.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/26410.%E2%80%85Intersection%E2%80%85Of%E2%80%85Tangents/24899579.png" data-original-src="https://upload.acmicpc.net/52d43fd3-9e6f-4560-b12e-69eb28408b9a/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/26410.%E2%80%85Intersection%E2%80%85Of%E2%80%85Tangents/24899579.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/26410.%E2%80%85Intersection%E2%80%85Of%E2%80%85Tangents/24899579.png" data-original-src="https://upload.acmicpc.net/52d43fd3-9e6f-4560-b12e-69eb28408b9a/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/26410.%E2%80%85Intersection%E2%80%85Of%E2%80%85Tangents/ba0bb36e.png" data-original-src="https://upload.acmicpc.net/afb47d22-9120-45a6-8046-231679de2726/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/26410.%E2%80%85Intersection%E2%80%85Of%E2%80%85Tangents/ba0bb36e.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/26410.%E2%80%85Intersection%E2%80%85Of%E2%80%85Tangents/ba0bb36e.png" data-original-src="https://upload.acmicpc.net/afb47d22-9120-45a6-8046-231679de2726/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/26410.%E2%80%85Intersection%E2%80%85Of%E2%80%85Tangents/a2bf6fbe.png" data-original-src="https://upload.acmicpc.net/c3d92415-b41f-4d56-966a-ef0f52ff9f60/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/26410.%E2%80%85Intersection%E2%80%85Of%E2%80%85Tangents/a2bf6fbe.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/26410.%E2%80%85Intersection%E2%80%85Of%E2%80%85Tangents/a2bf6fbe.png" data-original-src="https://upload.acmicpc.net/c3d92415-b41f-4d56-966a-ef0f52ff9f60/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>

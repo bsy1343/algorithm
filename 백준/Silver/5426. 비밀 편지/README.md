@@ -22,7 +22,7 @@
 
 <p>예를 들어, 편지의 내용이 &quot;RosesAreRedVioletsAreBlue&quot;인 경우에, 암호화한 편지는 &quot;eedARBtVrolsiesuAoReerles&quot; 이 된다.</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/5426.%E2%80%85%EB%B9%84%EB%B0%80%E2%80%85%ED%8E%B8%EC%A7%80/ff46cff5.png" data-original-src="https://www.acmicpc.net/upload/images/encode.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:117px; width:324px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/5426.%E2%80%85%EB%B9%84%EB%B0%80%E2%80%85%ED%8E%B8%EC%A7%80/ff46cff5.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/5426.%E2%80%85%EB%B9%84%EB%B0%80%E2%80%85%ED%8E%B8%EC%A7%80/ff46cff5.png" data-original-src="https://www.acmicpc.net/upload/images/encode.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:117px; width:324px" /></p>
 
 <p>선영이가 암호화한 편지가 주어졌을 때, 원래 내용을 구하는 프로그램을 작성하시오.</p>
 

@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/15412.%E2%80%85Macarons/8d156a2a.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15412/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:308px; width:392px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/15412.%E2%80%85Macarons/8d156a2a.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/15412.%E2%80%85Macarons/8d156a2a.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15412/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:308px; width:392px" /></p>
 
 <p>Pierre is famous for his macarons. He makes round macarons, stored in square boxes of size 1 &times; 1, and oval-shaped macarons, stored in rectangular boxes of size 1 &times; 2 (or, rotated, in rectangular boxes of size 2 &times; 1). For the purpose of a buffet, Pierre wishes to tile a rectangular table of size N &times; M with the two kinds of macarons, meaning that the table must be completely full, with no empty space left. The width N of the table is small, for the guest to be able to grab the macarons easily, and the length M of the table is large, to accommodate a huge number of guests. To keep the table pretty, the orientation of macarons should always be aligned with the sides of the table.</p>
 

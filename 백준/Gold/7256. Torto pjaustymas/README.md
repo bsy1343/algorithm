@@ -28,17 +28,17 @@
 
 <p>Pavyzdžiui, toks 4&times;8 tortas vertikaliu pjūviu gali būti padalintas į du 4&times;4 gabalus, turinčius po dvi žvakutes. Pirmas pjūvis negali būti horizontalus, nes pjaunant per vidurį vir&scaron;utinis gabalas turės tris žvakutes, o apatinis &ndash; tik vieną.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/7256.%E2%80%85Torto%E2%80%85pjaustymas/b585ae1b.png" data-original-src="https://upload.acmicpc.net/ace3e415-2adc-400c-8252-e7ef63f6265f/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 314px; height: 76px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/7256.%E2%80%85Torto%E2%80%85pjaustymas/b585ae1b.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/7256.%E2%80%85Torto%E2%80%85pjaustymas/b585ae1b.png" data-original-src="https://upload.acmicpc.net/ace3e415-2adc-400c-8252-e7ef63f6265f/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 314px; height: 76px;" /></p>
 
 <p>De&scaron;iniojo gabalo toliau pjaustyti negalima, ir jis turi dvi žvakutes. Jį pasilikęs Artūras torto negautų. Kairįjį gabalą galima pjauti tiek horizontaliai, tiek vertikaliai.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/7256.%E2%80%85Torto%E2%80%85pjaustymas/70cca92a.png" data-original-src="https://upload.acmicpc.net/90ec5803-c049-434c-aeb3-69a1cd01b20a/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 438px; height: 90px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/7256.%E2%80%85Torto%E2%80%85pjaustymas/70cca92a.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/7256.%E2%80%85Torto%E2%80%85pjaustymas/70cca92a.png" data-original-src="https://upload.acmicpc.net/90ec5803-c049-434c-aeb3-69a1cd01b20a/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 438px; height: 90px;" /></p>
 
 <p>Pjaunant abiem būdais, gauti gabalai turi po vieną žvakutę, todėl bet kuris i&scaron; jų gali atitekti Artūrui.</p>
 
 <p>Taigi &scaron;iame pavyzdyje Artūrui gali atitekti vienas i&scaron; keturių skirtingų gabalų.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/7256.%E2%80%85Torto%E2%80%85pjaustymas/67c34e09.png" data-original-src="https://upload.acmicpc.net/0943ada3-37d3-4a3f-81cc-4bd8b3ba923a/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 541px; height: 74px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/7256.%E2%80%85Torto%E2%80%85pjaustymas/67c34e09.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/7256.%E2%80%85Torto%E2%80%85pjaustymas/67c34e09.png" data-original-src="https://upload.acmicpc.net/0943ada3-37d3-4a3f-81cc-4bd8b3ba923a/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 541px; height: 74px;" /></p>
 
 <p>Suskaičiuokite, kiek skirtingų gabalų gali atitekti Artūrui. Gabalai laikomi skirtingais, jei jie užima skirtingą poziciją torte.</p>
 

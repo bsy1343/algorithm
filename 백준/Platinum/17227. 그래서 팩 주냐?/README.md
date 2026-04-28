@@ -20,7 +20,7 @@
 
 <p>준표와 만영이의 대화는 항상 &#39;그팩주&#39;로 끝나는 일정한 패턴으로 이루어진다. 이 패턴은 <em>N</em>개의 화제로 이루어져 있는데, 각 화제에서 다른 화제로 넘어가는 방향 그래프로 표현된다. 예를 들어 정점 <em>u</em>에서 나가 정점 <em>v</em>로 들어오는 간선이 존재한다는 것은 <em>u</em>번 화제 다음에 <em>v</em>번 화제를 고를 수 있다는 뜻이다. 골랐던 화제를 이후 또 고를 수 있는 사이클은 존재하지 않는다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/17227.%E2%80%85%EA%B7%B8%EB%9E%98%EC%84%9C%E2%80%85%ED%8C%A9%E2%80%85%EC%A3%BC%EB%83%90%3F/d1391364.png" data-original-src="https://upload.acmicpc.net/39ee2334-e06c-4592-968e-4a46088a27f7/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 600px; height: 232px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/17227.%E2%80%85%EA%B7%B8%EB%9E%98%EC%84%9C%E2%80%85%ED%8C%A9%E2%80%85%EC%A3%BC%EB%83%90%3F/d1391364.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/17227.%E2%80%85%EA%B7%B8%EB%9E%98%EC%84%9C%E2%80%85%ED%8C%A9%E2%80%85%EC%A3%BC%EB%83%90%3F/d1391364.png" data-original-src="https://upload.acmicpc.net/39ee2334-e06c-4592-968e-4a46088a27f7/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 600px; height: 232px;" /></p>
 
 <p style="text-align: center;">&lt;그림1&gt;&nbsp;패턴 그래프의 한 예(예제4)</p>
 
@@ -46,6 +46,6 @@
 
 <p>예제3, 예제4는 서브태스크1에서 나오지 않는다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/17227.%E2%80%85%EA%B7%B8%EB%9E%98%EC%84%9C%E2%80%85%ED%8C%A9%E2%80%85%EC%A3%BC%EB%83%90%3F/0d317486.png" data-original-src="https://upload.acmicpc.net/d60ec637-af68-4498-bd13-ba3e5d9d1d6e/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 600px; height: 282px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/17227.%E2%80%85%EA%B7%B8%EB%9E%98%EC%84%9C%E2%80%85%ED%8C%A9%E2%80%85%EC%A3%BC%EB%83%90%3F/0d317486.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/17227.%E2%80%85%EA%B7%B8%EB%9E%98%EC%84%9C%E2%80%85%ED%8C%A9%E2%80%85%EC%A3%BC%EB%83%90%3F/0d317486.png" data-original-src="https://upload.acmicpc.net/d60ec637-af68-4498-bd13-ba3e5d9d1d6e/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 600px; height: 282px;" /></p>
 
 <p style="text-align: center;">&lt;그림2&gt; 서브태스크1에서 나올 수 있는 패턴 그래프의 형태</p>

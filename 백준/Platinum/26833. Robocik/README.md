@@ -34,4 +34,4 @@
 
 <p>Wyjaśnienie przykładu: Robocik znajdzie się w punkcie (3, 2) po 6 i 22 sekundach od włączenia. Poniższy rysunek przedstawia trasę robocika:</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/26833.%E2%80%85Robocik/b707b099.png" data-original-src="https://upload.acmicpc.net/437b0efe-aa39-4311-b923-9c97a1723a2f/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 256px; height: 258px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/26833.%E2%80%85Robocik/b707b099.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/26833.%E2%80%85Robocik/b707b099.png" data-original-src="https://upload.acmicpc.net/437b0efe-aa39-4311-b923-9c97a1723a2f/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 256px; height: 258px;" /></p>

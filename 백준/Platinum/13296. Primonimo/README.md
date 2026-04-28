@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/13296.%E2%80%85Primonimo/988f475d.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/13296/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-09-30%20%EC%98%A4%ED%9B%84%207.00.48.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:198px; width:270px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/13296.%E2%80%85Primonimo/988f475d.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/13296.%E2%80%85Primonimo/988f475d.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/13296/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-09-30%20%EC%98%A4%ED%9B%84%207.00.48.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:198px; width:270px" /></p>
 
 <p>Primonimo is a game played on an n &times; m board filled with numbers taken from the range 1 . . . p for some prime number p. At each move, a player selects a square and adds 1 to the numbers in all squares in the same row and column as the selected square. If a square already shows the number p, it wraps around to 1.</p>
 

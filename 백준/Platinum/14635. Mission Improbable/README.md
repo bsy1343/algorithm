@@ -24,11 +24,11 @@
 
 <p>Once Patrick is inside, he will determine the heights of the piles and send them to you. Figure C.1 shows a possible layout of the grid and the view from each of the cameras.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/14635.%E2%80%85Mission%E2%80%85Improbable/11104a9d.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14635/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:148px; width:532px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/14635.%E2%80%85Mission%E2%80%85Improbable/11104a9d.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/14635.%E2%80%85Mission%E2%80%85Improbable/11104a9d.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14635/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:148px; width:532px" /></p>
 
 <p style="text-align: center;">Figure C.1: Grid of heights and the corresponding camera views.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/14635.%E2%80%85Mission%E2%80%85Improbable/ab3d5f14.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14635/2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:103px; width:98px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/14635.%E2%80%85Mission%E2%80%85Improbable/ab3d5f14.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/14635.%E2%80%85Mission%E2%80%85Improbable/ab3d5f14.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14635/2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:103px; width:98px" /></p>
 
 <p style="text-align: center;">Figure C.2: Possible grid of heights after the heist</p>
 

@@ -22,7 +22,7 @@
 
 <p>아래 그림에는 총 6개의 상점 p<sub>1</sub>부터 p<sub>6</sub>까지가 있고, 시작점 s는 p<sub>3</sub>이다. 또, t[p<sub>1</sub>,p<sub>2</sub>] = 7, t[p<sub>2</sub>,p<sub>3</sub>] = 4, t[p<sub>3</sub>,p<sub>4</sub>] = 1, t[p<sub>4</sub>,p<sub>5</sub>] = 2, t[p<sub>5</sub>,p<sub>6</sub>] = 9이다. 명우가 s에서 오른쪽으로 걷기 시작한다면, 대기 시간 ℓ<sub>4</sub>와 ℓ<sub>5</sub>는 1과 3이 된다. 아래 그림에 나와있는 순서대로&nbsp;순찰을 한다면, 대기 시간의 합은 71이 된다. 71보다 대기 시간의 합을 줄이는 방법은 없다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/4243.%E2%80%85%EB%B3%B4%EC%95%88%E2%80%85%EC%97%85%EC%B2%B4/f8213409.png" data-original-src="https://www.acmicpc.net/upload/images/security.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:100px; width:415px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/4243.%E2%80%85%EB%B3%B4%EC%95%88%E2%80%85%EC%97%85%EC%B2%B4/f8213409.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/4243.%E2%80%85%EB%B3%B4%EC%95%88%E2%80%85%EC%97%85%EC%B2%B4/f8213409.png" data-original-src="https://www.acmicpc.net/upload/images/security.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:100px; width:415px" /></p>
 
 <p>점의 수 N과, p<sub>i</sub>와 p<sub>i+1</sub> 사이를 오가는데 걸리는 시간 t[p<sub>i</sub>,p<sub>i+1</sub>] (t = 1,...,N-1)이 주어졌을 때, 대기 시간을 최소로 하는 프로그램을 작성하시오.</p>
 

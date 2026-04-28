@@ -20,7 +20,7 @@
 
 <p>이 게임을 즐기는 진아는 굉장한 실력의 게이머로서, 그녀의 실력은 화면 속의 적을 동시에 3명까지 맞춰 쓰러뜨릴 정도로 잘한다. 대신에 그녀가 제 실력을 발휘하기 위해선 한 가지 조건이 있다. 그건 적들이 진아의 화면 속에서 직선으로 있을 때만 동시에 쓰러뜨릴 수 있다는 것인데, 몇 번의 승부로 이를 알아챈 준서는 BOTTLEGROUNDS 대회에서 진아를 쓰러뜨리고 우승하기 위해 같은 스쿼드의 팀원들과 특훈을 시작했다. 특훈 내용은 상대방의 화면 속에서 각자의 위치가 직선이 안 되도록 포지션을 잡는 것이다. 준서는 이 연습을 위해서 당신에게 현재 팀원들의 상대방 화면 속 위치들이 직선이 되는지를 판별하는 기계를 만들어 달라고 요청했다. 당신에게 의뢰비로 대회 상금의 30%를 약속했기 때문에 당신은 흔쾌히 제안을 수락했다. 이제 그들에게 전달할 기계의 프로그램을 만들어 보도록 하자.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/15803.%E2%80%85PLAYERJINAH%E2%80%99S%E2%80%85BOTTLEGROUNDS/e6e215e4.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15803/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 360px; height: 240px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/15803.%E2%80%85PLAYERJINAH%E2%80%99S%E2%80%85BOTTLEGROUNDS/e6e215e4.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/15803.%E2%80%85PLAYERJINAH%E2%80%99S%E2%80%85BOTTLEGROUNDS/e6e215e4.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15803/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 360px; height: 240px;" /></p>
 
 <p style="text-align: center;">화면 속 아군 위치의 예시. 이 경우 팀원들은 직선상에 위치한다.</p>
 

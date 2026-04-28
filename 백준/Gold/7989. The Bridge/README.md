@@ -20,7 +20,7 @@
 
 <p>Suppose that the group numbers 4 people. The first one of them needs 6 minutes to cross the bridge, the second 7 minutes, the third 10 minutes, the fourth 15 minutes. The following image shows how they can cross the bridge in 44 minutes. However, they can do it faster. How?</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/7989.%E2%80%85The%E2%80%85Bridge/912ce2a8.gif" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/7989/1.gif" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:179px; width:400px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/7989.%E2%80%85The%E2%80%85Bridge/912ce2a8.gif" data-original-src="%EB%B0%B1%EC%A4%80/Gold/7989.%E2%80%85The%E2%80%85Bridge/912ce2a8.gif" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/7989/1.gif" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:179px; width:400px" /></p>
 
 <p>A hypothetical method of crossing the bridge in 44 minutes. The numbers in circles denote time (in minutes) required by each tourist to cross the bridge.</p>
 

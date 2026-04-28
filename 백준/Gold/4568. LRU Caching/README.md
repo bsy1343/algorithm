@@ -25,8 +25,8 @@
 <table class="table table table-bordered">
 	<tbody>
 		<tr>
-			<td style="text-align: center;"><img src="%EB%B0%B1%EC%A4%80/Gold/4568.%E2%80%85LRU%E2%80%85Caching/50c2bf51.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/upload/images2/cache1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></td>
-			<td style="text-align: center;"><img src="%EB%B0%B1%EC%A4%80/Gold/4568.%E2%80%85LRU%E2%80%85Caching/e0b68cb0.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/upload/images2/cache2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></td>
+			<td style="text-align: center;"><img src="%EB%B0%B1%EC%A4%80/Gold/4568.%E2%80%85LRU%E2%80%85Caching/50c2bf51.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/4568.%E2%80%85LRU%E2%80%85Caching/50c2bf51.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/upload/images2/cache1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></td>
+			<td style="text-align: center;"><img src="%EB%B0%B1%EC%A4%80/Gold/4568.%E2%80%85LRU%E2%80%85Caching/e0b68cb0.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/4568.%E2%80%85LRU%E2%80%85Caching/e0b68cb0.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/upload/images2/cache2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></td>
 		</tr>
 		<tr>
 			<td style="text-align: center;">Figure 1: Cache after A, B, C</td>

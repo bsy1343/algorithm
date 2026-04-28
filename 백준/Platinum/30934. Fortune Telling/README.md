@@ -22,7 +22,7 @@
 
 <p>Figure G.1 illustrates how cards are removed and slid when the die shows up two.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/30934.%E2%80%85Fortune%E2%80%85Telling/a4ae6e53.png" data-original-src="https://upload.acmicpc.net/5d05a015-436b-4b21-9ff0-96d85a808475/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 666px; height: 170px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/30934.%E2%80%85Fortune%E2%80%85Telling/a4ae6e53.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/30934.%E2%80%85Fortune%E2%80%85Telling/a4ae6e53.png" data-original-src="https://upload.acmicpc.net/5d05a015-436b-4b21-9ff0-96d85a808475/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 666px; height: 170px;" /></p>
 
 <p style="text-align: center;">Figure G.1. Removing and sliding cards</p>
 

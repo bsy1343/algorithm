@@ -18,7 +18,7 @@
 
 <p>ある川で，一方の岸から石の上を次々と飛び移って反対側の岸まで行くという少々 危険なゲームがはやっている．</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/5583.%E2%80%85%E3%81%B4%E3%82%87%E3%82%93%E3%81%B4%E3%82%87%E3%82%93%E5%B7%9D%E6%B8%A1%E3%82%8A/8dc12969.png" data-original-src="https://upload.acmicpc.net/b2454a96-e66b-4d7f-982b-dc21f12cbff8/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 351px; height: 295px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/5583.%E2%80%85%E3%81%B4%E3%82%87%E3%82%93%E3%81%B4%E3%82%87%E3%82%93%E5%B7%9D%E6%B8%A1%E3%82%8A/8dc12969.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/5583.%E2%80%85%E3%81%B4%E3%82%87%E3%82%93%E3%81%B4%E3%82%87%E3%82%93%E5%B7%9D%E6%B8%A1%E3%82%8A/8dc12969.png" data-original-src="https://upload.acmicpc.net/b2454a96-e66b-4d7f-982b-dc21f12cbff8/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 351px; height: 295px;" /></p>
 
 <p style="text-align: center;">図 4-1 石の位置の例</p>
 
@@ -52,6 +52,6 @@
 
 <p>この例は入出力例に対応している．</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/5583.%E2%80%85%E3%81%B4%E3%82%87%E3%82%93%E3%81%B4%E3%82%87%E3%82%93%E5%B7%9D%E6%B8%A1%E3%82%8A/bc38c051.png" data-original-src="https://upload.acmicpc.net/de558351-bb6a-4ea9-b484-f5c19342f132/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 238px; height: 248px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/5583.%E2%80%85%E3%81%B4%E3%82%87%E3%82%93%E3%81%B4%E3%82%87%E3%82%93%E5%B7%9D%E6%B8%A1%E3%82%8A/bc38c051.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/5583.%E2%80%85%E3%81%B4%E3%82%87%E3%82%93%E3%81%B4%E3%82%87%E3%82%93%E5%B7%9D%E6%B8%A1%E3%82%8A/bc38c051.png" data-original-src="https://upload.acmicpc.net/de558351-bb6a-4ea9-b484-f5c19342f132/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 238px; height: 248px;" /></p>
 
 <p style="text-align: center;">図 4-2 経路の例</p>

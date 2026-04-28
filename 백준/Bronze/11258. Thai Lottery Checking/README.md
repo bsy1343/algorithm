@@ -18,7 +18,7 @@
 
 <p style="text-align:center">ตรวจรางวัลสลากกินแบ่งรัฐบาล</p>
 
-<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/11258.%E2%80%85Thai%E2%80%85Lottery%E2%80%85Checking/1a82509d.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11258/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:113px; width:388px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/11258.%E2%80%85Thai%E2%80%85Lottery%E2%80%85Checking/1a82509d.png" data-original-src="%EB%B0%B1%EC%A4%80/Bronze/11258.%E2%80%85Thai%E2%80%85Lottery%E2%80%85Checking/1a82509d.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11258/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:113px; width:388px" /></p>
 
 <p>จงเขียนโปรแกรมตรวจผลรางวัลสลากกินแบ่งรัฐบาลประเทศไทย ซึLงล็อตเตอรีL(Lottery) ประกอบด้วย ตัวเลขหกหลัก โดยรางวัลทีLตรวจจะมีดังต่อไปนี  รางวัลทีL 1, รางวัลเลขหน้าสามตัว 2 รางวัล, รางวัลเลขท้ายสามตัว 2 รางวัล และรางวัลเลขท้ายสองตัว 1 รางวัล</p>
 

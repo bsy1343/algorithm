@@ -20,7 +20,7 @@
 
 <p>Each fragment of the map happens to perfectly contain a single subway station while also identifying all of the other stations that it connects to. Each connection between stations is bi-directional such that it can be travelled going either direction. Using all of the available fragments, your task is to determine the sequence of stations you must pass through in order to reach your final destination or state that there is no route if you don&rsquo;t have enough information to complete your journey.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/11095.%E2%80%85Torn%E2%80%85To%E2%80%85Pieces/05635736.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11095/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:140px; width:555px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/11095.%E2%80%85Torn%E2%80%85To%E2%80%85Pieces/05635736.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/11095.%E2%80%85Torn%E2%80%85To%E2%80%85Pieces/05635736.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11095/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:140px; width:555px" /></p>
 
 ### 입력
 

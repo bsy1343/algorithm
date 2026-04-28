@@ -18,7 +18,7 @@
 
 <p>양의 정수 $W$, $H$가 주어진다. 밑변의 길이가 $W$이고, 높이가 $H$인 삼각형의 넓이를 구하시오.</p>
 
-<p style="text-align:center;max-width:500px; margin: 0 auto"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/29751.%E2%80%85%EC%82%BC%EA%B0%81%ED%98%95/539d8575.png" data-original-src="https://upload.acmicpc.net/f24ae595-16ac-45e7-9c86-60216c7bc7a9/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: auto; width: 500px;" /></p>
+<p style="text-align:center;max-width:500px; margin: 0 auto"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/29751.%E2%80%85%EC%82%BC%EA%B0%81%ED%98%95/539d8575.png" data-original-src="%EB%B0%B1%EC%A4%80/Bronze/29751.%E2%80%85%EC%82%BC%EA%B0%81%ED%98%95/539d8575.png" data-original-src="https://upload.acmicpc.net/f24ae595-16ac-45e7-9c86-60216c7bc7a9/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: auto; width: 500px;" /></p>
 
 ### 입력
 

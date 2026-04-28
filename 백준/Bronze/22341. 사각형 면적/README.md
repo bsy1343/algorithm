@@ -29,7 +29,7 @@
 
 <p>다음 예제를 생각해보자.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/22341.%E2%80%85%EC%82%AC%EA%B0%81%ED%98%95%E2%80%85%EB%A9%B4%EC%A0%81/1c662bfb.png" data-original-src="https://upload.acmicpc.net/24942f08-a85e-4b41-88eb-b6fceeadbf06/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 473px; height: 312px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/22341.%E2%80%85%EC%82%AC%EA%B0%81%ED%98%95%E2%80%85%EB%A9%B4%EC%A0%81/1c662bfb.png" data-original-src="%EB%B0%B1%EC%A4%80/Bronze/22341.%E2%80%85%EC%82%AC%EA%B0%81%ED%98%95%E2%80%85%EB%A9%B4%EC%A0%81/1c662bfb.png" data-original-src="https://upload.acmicpc.net/24942f08-a85e-4b41-88eb-b6fceeadbf06/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 473px; height: 312px;" /></p>
 
 <p>세로 길이 4, 가로 길이 8인 종이가 주어져 있는 상태에서, 점 (3, 6)을 생각해보자. 그림에서 한 칸은 면적이 1이다. 이 경우 이 점을 지나는 세로 직선으로 종이를 자르면 세로 길이 4, 가로 길이 6인 종이가 남고, 이 점을 지나는 가로 직선으로 종이를 자르면 세로 길이 3, 가로 길이 8인 종이가 남게 된다. 두 사각형은 모두 면적이 24로 같으므로 조건에 따라 가로로 잘라야 한다. 그래서, 이 예에서는 세로 길이 3, 가로 길이 8인 종이가 남는다.</p>
 

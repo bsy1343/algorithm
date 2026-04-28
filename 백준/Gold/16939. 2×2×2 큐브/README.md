@@ -24,7 +24,7 @@
 
 <p>첫째 줄에 2&times;2&times;2 루빅스 큐브 각 면의 각 칸 색상이 주어진다. 색상은 1부터 6까지의 자연수로 나타내며, 각 자연수는 총 4번 등장한다. i번째 수가 의미하는 칸은 아래와 같다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/16939.%E2%80%852%C3%972%C3%972%E2%80%85%ED%81%90%EB%B8%8C/e7bce42e.png" data-original-src="https://upload.acmicpc.net/8742b71d-e834-4901-b71b-aa4a47fc04a3/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 281px; height: 210px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/16939.%E2%80%852%C3%972%C3%972%E2%80%85%ED%81%90%EB%B8%8C/e7bce42e.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/16939.%E2%80%852%C3%972%C3%972%E2%80%85%ED%81%90%EB%B8%8C/e7bce42e.png" data-original-src="https://upload.acmicpc.net/8742b71d-e834-4901-b71b-aa4a47fc04a3/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 281px; height: 210px;" /></p>
 
 ### 출력
 

@@ -22,7 +22,7 @@
 
 <p>The gas bombs used are built by a company called American Catastrophe Management (ACM) and they are sold under the heading of &ldquo;smart rat gas&rdquo;. They are smart because &mdash; when fired &mdash; the gas spreads in a rectangular fashion through the understreet canals. The strength of a gas bomb is given by a number d which specifies the rectangular &ldquo;radius&rdquo; of the gas diffusion area. For example, Figure 2 shows what happens when a bomb with d = 1 explodes.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/7563.%E2%80%85Rat%E2%80%85Attack/dc961642.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/7563/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:247px; width:488px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/7563.%E2%80%85Rat%E2%80%85Attack/dc961642.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/7563.%E2%80%85Rat%E2%80%85Attack/dc961642.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/7563/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:247px; width:488px" /></p>
 
 <p style="text-align: center;">Figure 2: Diffusion area of gas after an explosion.</p>
 

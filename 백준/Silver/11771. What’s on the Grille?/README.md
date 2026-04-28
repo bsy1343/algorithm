@@ -22,7 +22,7 @@
 
 <p>An example is shown below, where the message &ldquo;Send more monkeys&rdquo; is encrypted as &ldquo;noeesrksdmnyemoj&rdquo;, after adding a random letter to fill out the grid (this example corresponds to the first sample input.)</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/11771.%E2%80%85What%E2%80%99s%E2%80%85on%E2%80%85the%E2%80%85Grille%3F/4e85c462.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11771/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:118px; width:516px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/11771.%E2%80%85What%E2%80%99s%E2%80%85on%E2%80%85the%E2%80%85Grille%3F/4e85c462.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/11771.%E2%80%85What%E2%80%99s%E2%80%85on%E2%80%85the%E2%80%85Grille%3F/4e85c462.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11771/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:118px; width:516px" /></p>
 
 <p style="text-align: center;">Figure I.1</p>
 

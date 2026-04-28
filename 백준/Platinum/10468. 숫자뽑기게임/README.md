@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/10468.%E2%80%85%EC%88%AB%EC%9E%90%EB%BD%91%EA%B8%B0%EA%B2%8C%EC%9E%84/cec540d8.jpg" data-original-src="https://www.acmicpc.net/upload/images2/picket.jpg" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="float:right; height:421px; margin-left:20px; width:500px" />아현이는 건반악기를 다루기 때문에 손가락 힘을 기르기 위해 손가락 끝을 이용해 숫자를 뽑는 게임을 즐긴다. 그 게임의 방식은 이렇다.</p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/10468.%E2%80%85%EC%88%AB%EC%9E%90%EB%BD%91%EA%B8%B0%EA%B2%8C%EC%9E%84/cec540d8.jpg" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/10468.%E2%80%85%EC%88%AB%EC%9E%90%EB%BD%91%EA%B8%B0%EA%B2%8C%EC%9E%84/cec540d8.jpg" data-original-src="https://www.acmicpc.net/upload/images2/picket.jpg" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="float:right; height:421px; margin-left:20px; width:500px" />아현이는 건반악기를 다루기 때문에 손가락 힘을 기르기 위해 손가락 끝을 이용해 숫자를 뽑는 게임을 즐긴다. 그 게임의 방식은 이렇다.</p>
 
 <p>아현이에게 양의 정수들의 리스트가 주어진다. 그리고 아현이는 리스트의 첫 번째 혹은 마지막번째의 숫자를 제외한 어떤 숫자를 선택할 수 있다. 아현이가 숫자를 선택했을 때, 그 숫자는 리스트에서 사라지고 아현이의 점수는 선택한 숫자와 이웃한 숫자들의 합에 의해 올라간다.</p>
 

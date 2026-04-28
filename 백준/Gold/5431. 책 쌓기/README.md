@@ -22,7 +22,7 @@
 
 <p>아래 그림은 3, 4, 1, 2로 쌓여진 책을 크기 순으로 정렬하는 방법이다.</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/5431.%E2%80%85%EC%B1%85%E2%80%85%EC%8C%93%EA%B8%B0/fbe0aa9f.png" data-original-src="https://www.acmicpc.net/upload/images/stackbook.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:153px; width:572px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/5431.%E2%80%85%EC%B1%85%E2%80%85%EC%8C%93%EA%B8%B0/fbe0aa9f.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/5431.%E2%80%85%EC%B1%85%E2%80%85%EC%8C%93%EA%B8%B0/fbe0aa9f.png" data-original-src="https://www.acmicpc.net/upload/images/stackbook.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:153px; width:572px" /></p>
 
 <p>현재 책이 쌓여져 있는 상태가 입력으로 주어졌을 때, 안정된 상태로 책을 쌓기 위해 최소&nbsp;몇 단계가 필요한지 구하는 프로그램을 작성하시오. 위의 그림의 경우에 답은 3이다.</p>
 

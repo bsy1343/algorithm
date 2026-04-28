@@ -22,7 +22,7 @@
 
 <p>Operations in Magical Matrix Theory satisfied next rules:</p>
 
-<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/15396.%E2%80%85Harry%E2%80%85Potter%E2%80%85and%E2%80%85The%E2%80%85Vector%E2%80%85Spell/99ff2582.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15396/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:102px; width:595px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/15396.%E2%80%85Harry%E2%80%85Potter%E2%80%85and%E2%80%85The%E2%80%85Vector%E2%80%85Spell/99ff2582.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/15396.%E2%80%85Harry%E2%80%85Potter%E2%80%85and%E2%80%85The%E2%80%85Vector%E2%80%85Spell/99ff2582.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15396/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:102px; width:595px" /></p>
 
 <p>The rank of a matrix A corresponds to the maximal number of linearly independent columns of A. The vectors in a set \(T = \{\vec{v_1}, \vec{v_2}, \dots, \vec{v_k}\}\) are said to be linearly independent if the equation \(a_1\vec{v_1} + a_2\vec{v_2} + \dots + a_k\vec{v_k} = \vec{0}\), where \(a_i = \{0, 1\}\) for \(i = 1, \dots, k\) can only be satisfied by \(a_i = 0\) for \(i = 1, \dots, k\).</p>
 

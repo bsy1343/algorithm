@@ -18,7 +18,7 @@
 
 <p>You are enrolled in the Computer Organization and Architecture course at your university. You decide to write a program to help check your work by computing the output value of a combinational digital circuit, given its inputs.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/17585.%E2%80%85Circuit%E2%80%85Math/4578a810.png" data-original-src="https://upload.acmicpc.net/fb89c1bd-3caf-4f9d-9628-e9b0ca703efd/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 304px; height: 186px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/17585.%E2%80%85Circuit%E2%80%85Math/4578a810.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/17585.%E2%80%85Circuit%E2%80%85Math/4578a810.png" data-original-src="https://upload.acmicpc.net/fb89c1bd-3caf-4f9d-9628-e9b0ca703efd/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 304px; height: 186px;" /></p>
 
 <p style="text-align: center;">Figure A.1: An example of a combinational digital circuit. See the text for an explanation.</p>
 

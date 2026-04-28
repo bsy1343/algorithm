@@ -18,7 +18,7 @@
 
 <p>Albert는 취미로 벌집과 꿀벌에 대해 연구한다. 잘 알려져 있듯 벌집의 각 칸은 6각형 모양으로 생겼는데, 편의상 Albert가 연구하는 벌집의 크기는 $R$행 $C$열의 6각형 격자 모양이라 하자. 아래 그림은 $R = 5$, $C = 8$인 경우를 나타낸다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/27374.%E2%80%85%EB%B2%8C%EC%A7%91%E2%80%85%EC%97%B0%EA%B5%AC/46eff018.png" data-original-src="https://upload.acmicpc.net/ca291593-4f6c-48c0-b62e-293fffdbc7fd/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 318px; width: 400px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/27374.%E2%80%85%EB%B2%8C%EC%A7%91%E2%80%85%EC%97%B0%EA%B5%AC/46eff018.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/27374.%E2%80%85%EB%B2%8C%EC%A7%91%E2%80%85%EC%97%B0%EA%B5%AC/46eff018.png" data-original-src="https://upload.acmicpc.net/ca291593-4f6c-48c0-b62e-293fffdbc7fd/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 318px; width: 400px;" /></p>
 
 <p>Albert는 이 벌집의 빈칸 중 일부에 초소형 장치를 설치하여 꿀벌들의 행동을 관찰하고 싶어 한다. 하나의 장치는 6각형 벌집 한 칸을 차지하며, 한 칸에는 최대 한 개의 장치만 넣을 수 있다. 다만, 장치가 너무 가까이 있으면 서로 간섭현상이 일어날 수 있어 주의해야 한다. 구체적으로, 어떤 칸에 초소형 장치를 설치하면 인접한 (최대) 여섯 칸의 다른 칸 중 같은 열에 위치한 (최대) 두 개의 칸과는 간섭현상이 발생하지 않지만 다른 열에 위치한 (최대) 네 개의 칸과는 간섭현상이 발생한다.</p>
 
@@ -39,7 +39,7 @@
 
 <p>예를 들어, 아래 좌측 그림은 $R = 3$, $C = 3$, $K = 4$ 이고 $X = [1, 3, 1, 3]$, $Y = [1, 1, 2, 3]$인 격자판의 모습이다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/27374.%E2%80%85%EB%B2%8C%EC%A7%91%E2%80%85%EC%97%B0%EA%B5%AC/2c8e8f73.png" data-original-src="https://upload.acmicpc.net/0132417e-2560-4b71-b89c-c721e475db62/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 187px; width: 640px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/27374.%E2%80%85%EB%B2%8C%EC%A7%91%E2%80%85%EC%97%B0%EA%B5%AC/2c8e8f73.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/27374.%E2%80%85%EB%B2%8C%EC%A7%91%E2%80%85%EC%97%B0%EA%B5%AC/2c8e8f73.png" data-original-src="https://upload.acmicpc.net/0132417e-2560-4b71-b89c-c721e475db62/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 187px; width: 640px;" /></p>
 
 <ul>
 	<li>좌측에서 두 번째 그림: (2, 2) 칸에 신형 센서를 설치하고 (2, 1), (1, 3), (2, 3) 총 세 칸에 초소형 장치를 설치하는 것이 가능하다.</li>
@@ -50,7 +50,7 @@
 
 <p>다른 예로, 아래 좌측 그림은 $R = 3$, $C = 4$, $K = 6$ 이고 $X = [2, 1, 3, 1, 3, 3]$, $Y = [1, 2, 2, 3, 3, 4]$인 격자판의 모습이다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/27374.%E2%80%85%EB%B2%8C%EC%A7%91%E2%80%85%EC%97%B0%EA%B5%AC/40373ce0.png" data-original-src="https://upload.acmicpc.net/9b6471cd-fb08-483a-ad46-8fb9274eeef2/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 193px; width: 640px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/27374.%E2%80%85%EB%B2%8C%EC%A7%91%E2%80%85%EC%97%B0%EA%B5%AC/40373ce0.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/27374.%E2%80%85%EB%B2%8C%EC%A7%91%E2%80%85%EC%97%B0%EA%B5%AC/40373ce0.png" data-original-src="https://upload.acmicpc.net/9b6471cd-fb08-483a-ad46-8fb9274eeef2/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 193px; width: 640px;" /></p>
 
 <ul>
 	<li>중앙 그림: 신형 센서를 (2, 2) 칸에 설치하고, (1, 1), (3, 1), (1, 4), (2, 4) 총 네 칸에 초소형 장치를 설치하는 것이 가능하다.</li>

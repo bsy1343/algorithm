@@ -51,7 +51,7 @@
 
 <p>The trees for each sample case are shown in the diagram below.&nbsp;</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/23911.%E2%80%85Beauty%E2%80%85of%E2%80%85tree/26c72f18.svg" data-original-src="https://upload.acmicpc.net/7bd696a4-7a95-4ac6-a94c-6971bc153f2a/sample.svg" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 900px; height: 348px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/23911.%E2%80%85Beauty%E2%80%85of%E2%80%85tree/26c72f18.svg" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/23911.%E2%80%85Beauty%E2%80%85of%E2%80%85tree/26c72f18.svg" data-original-src="https://upload.acmicpc.net/7bd696a4-7a95-4ac6-a94c-6971bc153f2a/sample.svg" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 900px; height: 348px;" /></p>
 
 <p>A few example colourings for sample case #1 are shown below.</p>
 
@@ -60,4 +60,4 @@
 	<li>If Amadea picks node 7 and Bilva picks node 6, then together they paint 3 unique nodes: Amadea paints nodes 7 and 1, while Bilva paints nodes 6 and 1 (note that Amadea painted node 1 as well).</li>
 </ul>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/23911.%E2%80%85Beauty%E2%80%85of%E2%80%85tree/a96f7176.svg" data-original-src="https://upload.acmicpc.net/e40de001-61de-449a-9ee3-956eaf66e599/sample1.svg" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 600px; height: 391px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/23911.%E2%80%85Beauty%E2%80%85of%E2%80%85tree/a96f7176.svg" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/23911.%E2%80%85Beauty%E2%80%85of%E2%80%85tree/a96f7176.svg" data-original-src="https://upload.acmicpc.net/e40de001-61de-449a-9ee3-956eaf66e599/sample1.svg" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 600px; height: 391px;" /></p>

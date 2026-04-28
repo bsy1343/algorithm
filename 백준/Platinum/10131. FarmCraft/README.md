@@ -36,7 +36,7 @@
 
 ### 힌트
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/10131.%E2%80%85FarmCraft/a2ecc0c3.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/10131/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/10131.%E2%80%85FarmCraft/a2ecc0c3.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/10131.%E2%80%85FarmCraft/a2ecc0c3.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/10131/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>Byteasar should deliver the computers to the houses in the following order: 3, 2, 4, 5, 6, and 1. The game will be installed after 11, 10, 10, 10, 8, and 9 minutes respectively, in the house number order. Thus everyone can play after 11 minutes.</p>
 

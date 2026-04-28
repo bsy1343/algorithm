@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><img alt="곰곰이" src="%EB%B0%B1%EC%A4%80/Platinum/25196.%E2%80%85%EC%88%B2%EC%86%8D%EC%97%90%EC%84%9C%E2%80%85%EC%83%88%E2%80%85%EA%B5%AC%EA%B2%BD%ED%95%98%EA%B8%B0/ccb51baf.png" data-original-src="https://upload.acmicpc.net/19bd9494-86c2-4547-9214-0e552b9a5795/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="max-height:120px; object-fit:contain; display:inline-block;" /></p>
+<p style="text-align: center;"><img alt="곰곰이" src="%EB%B0%B1%EC%A4%80/Platinum/25196.%E2%80%85%EC%88%B2%EC%86%8D%EC%97%90%EC%84%9C%E2%80%85%EC%83%88%E2%80%85%EA%B5%AC%EA%B2%BD%ED%95%98%EA%B8%B0/ccb51baf.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/25196.%E2%80%85%EC%88%B2%EC%86%8D%EC%97%90%EC%84%9C%E2%80%85%EC%83%88%E2%80%85%EA%B5%AC%EA%B2%BD%ED%95%98%EA%B8%B0/ccb51baf.png" data-original-src="https://upload.acmicpc.net/19bd9494-86c2-4547-9214-0e552b9a5795/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="max-height:120px; object-fit:contain; display:inline-block;" /></p>
 
 <p>곰곰이는 바위에 앉아 새 3마리가 숲 주변을 비행하는 것을 구경하고 있다. 곰곰이는&nbsp;새들을 관찰하면서&nbsp;아래와 같은 사실들을 알아냈다.</p>
 

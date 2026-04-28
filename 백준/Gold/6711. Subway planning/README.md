@@ -18,7 +18,7 @@
 
 <p>The government in a foreign country is looking into the possibility of establishing a subway system in its capital. Because of practical reasons, they would like each subway line to start at the central station and then go in a straight line in some angle as far as necessary. You have been hired to investigate whether such an approach is feasible. Given the coordinates of important places in the city as well as the maximum distance these places can be from a subway station (possibly the central station, which is already built), your job is to calculate the minimum number of subway lines needed. You may assume that any number of subway stations can be built along a subway line.</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/6711.%E2%80%85Subway%E2%80%85planning/df41150a.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/6711/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-06-13%20%EC%98%A4%ED%9B%84%205.38.19.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:313px; width:445px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/6711.%E2%80%85Subway%E2%80%85planning/df41150a.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/6711.%E2%80%85Subway%E2%80%85planning/df41150a.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/6711/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-06-13%20%EC%98%A4%ED%9B%84%205.38.19.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:313px; width:445px" /></p>
 
 <p>Figure 1: The figure above corresponds to the first data set in the example input.</p>
 

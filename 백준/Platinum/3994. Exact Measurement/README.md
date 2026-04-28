@@ -20,7 +20,7 @@
 
 <p>Standard masses come in n sealed boxes. The i-th box contains q<sub>i</sub> identical masses of 10<sup>k<sub>i</sub></sup>&nbsp;ng. Peter wants to open the minimal number of boxes to take a set of masses with the sum of their weights of x ng.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/3994.%E2%80%85Exact%E2%80%85Measurement/cb171704.png" data-original-src="https://www.acmicpc.net/upload/images2/exact.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:328px; width:523px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/3994.%E2%80%85Exact%E2%80%85Measurement/cb171704.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/3994.%E2%80%85Exact%E2%80%85Measurement/cb171704.png" data-original-src="https://www.acmicpc.net/upload/images2/exact.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:328px; width:523px" /></p>
 
 ### 입력
 

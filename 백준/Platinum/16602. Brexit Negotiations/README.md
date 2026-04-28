@@ -26,7 +26,7 @@
 
 <p>Nobody likes long meetings. The EU would like you to help order the meetings in a way such that the longest meeting takes as little time as possible.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/16602.%E2%80%85Brexit%E2%80%85Negotiations/66b1bece.png" data-original-src="https://upload.acmicpc.net/0ba313f1-164a-493b-a03b-a4ef58c2d39b/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 541px; height: 103px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/16602.%E2%80%85Brexit%E2%80%85Negotiations/66b1bece.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/16602.%E2%80%85Brexit%E2%80%85Negotiations/66b1bece.png" data-original-src="https://upload.acmicpc.net/0ba313f1-164a-493b-a03b-a4ef58c2d39b/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 541px; height: 103px;" /></p>
 
 <p style="text-align: center;">Figure B.1: Illustration of how time is spent in each meeting in a solution to Sample Input 2.</p>
 

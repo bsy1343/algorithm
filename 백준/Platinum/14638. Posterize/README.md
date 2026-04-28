@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/14638.%E2%80%85Posterize/18f414a2.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14638/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:211px; width:598px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/14638.%E2%80%85Posterize/18f414a2.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/14638.%E2%80%85Posterize/18f414a2.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14638/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:211px; width:598px" /></p>
 
 <p>Pixels in a digital picture can be represented with three integers in the range 0 to 255 that indicate the intensity of the red, green, and blue colors. To compress an image or to create an artistic effect, many photo-editing tools include a &ldquo;posterize&rdquo; operation which works as follows. Each color channel is examined separately; this problem focuses only on the red channel. Rather than allow all integers from 0 to 255 for the red channel, a posterized image allows at most k integers from this range. Each pixel&rsquo;s original red intensity is replaced with the nearest of the allowed integers. The photo-editing tool selects a set of k integers that minimizes the sum of the squared errors introduced across all pixels in the original image. If there are n pixels that have original red values r<sub>1</sub>, . . . , r<sub>n</sub>, and k allowed integers v<sub>1</sub>, . . . , v<sub>k</sub>, the sum of squared errors is defined as</p>
 

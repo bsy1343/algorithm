@@ -20,7 +20,7 @@
 
 <p>민제는 빨간색과 검은색 정점들로 가득한 이 트리를 보고 누텔라(Nutella)를 떠올렸다. 누텔라는 민제가 가장 좋아하는 초콜릿 잼으로, 로고는 다음과 같이 생겼다. 맨 앞 글자는 검은색, 나머지 글자는 빨간색임에 주목하자.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/23040.%E2%80%85%EB%88%84%ED%85%94%EB%9D%BC%E2%80%85%ED%8A%B8%EB%A6%AC%E2%80%85(Easy)/476135e9.png" data-original-src="https://upload.acmicpc.net/a9652821-3a39-414c-bd06-250cd84b1467/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 256px; height: 71px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/23040.%E2%80%85%EB%88%84%ED%85%94%EB%9D%BC%E2%80%85%ED%8A%B8%EB%A6%AC%E2%80%85(Easy)/476135e9.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/23040.%E2%80%85%EB%88%84%ED%85%94%EB%9D%BC%E2%80%85%ED%8A%B8%EB%A6%AC%E2%80%85(Easy)/476135e9.png" data-original-src="https://upload.acmicpc.net/a9652821-3a39-414c-bd06-250cd84b1467/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 256px; height: 71px;" /></p>
 
 <p>민제는 트리에서 누텔라 로고를 몇 개나 찾을 수 있을지 궁금해졌다.</p>
 
@@ -51,4 +51,4 @@
 
 <p>예제로 주어진 트리를 그림으로 나타내면 다음과 같다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/23040.%E2%80%85%EB%88%84%ED%85%94%EB%9D%BC%E2%80%85%ED%8A%B8%EB%A6%AC%E2%80%85(Easy)/f0af3871.png" data-original-src="https://upload.acmicpc.net/0a0ab0ab-d139-491c-8e29-a8069e2596a6/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 256px; height: 164px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/23040.%E2%80%85%EB%88%84%ED%85%94%EB%9D%BC%E2%80%85%ED%8A%B8%EB%A6%AC%E2%80%85(Easy)/f0af3871.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/23040.%E2%80%85%EB%88%84%ED%85%94%EB%9D%BC%E2%80%85%ED%8A%B8%EB%A6%AC%E2%80%85(Easy)/f0af3871.png" data-original-src="https://upload.acmicpc.net/0a0ab0ab-d139-491c-8e29-a8069e2596a6/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 256px; height: 164px;" /></p>

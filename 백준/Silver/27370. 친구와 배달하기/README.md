@@ -22,7 +22,7 @@
 
 <p>예를 들어 아래 그림은 $P_A = 0$, $P_B = 100$, $N = 4$, $X = [10, 20, 50, 60]$인 경우를 보여준다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/27370.%E2%80%85%EC%B9%9C%EA%B5%AC%EC%99%80%E2%80%85%EB%B0%B0%EB%8B%AC%ED%95%98%EA%B8%B0/58dbcd9b.png" data-original-src="https://upload.acmicpc.net/a7a6b339-f7a2-4f9f-9d92-de61bf9e1651/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 160px; width: 550px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/27370.%E2%80%85%EC%B9%9C%EA%B5%AC%EC%99%80%E2%80%85%EB%B0%B0%EB%8B%AC%ED%95%98%EA%B8%B0/58dbcd9b.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/27370.%E2%80%85%EC%B9%9C%EA%B5%AC%EC%99%80%E2%80%85%EB%B0%B0%EB%8B%AC%ED%95%98%EA%B8%B0/58dbcd9b.png" data-original-src="https://upload.acmicpc.net/a7a6b339-f7a2-4f9f-9d92-de61bf9e1651/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 160px; width: 550px;" /></p>
 
 <p>두 사람은 다음 규칙에 따라 배달을 해야한다:</p>
 
@@ -53,15 +53,15 @@
 	<li>이 경우 두 사람의 이동 거리의 총합은 440이고 차이는 80이다.</li>
 </ul>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/27370.%E2%80%85%EC%B9%9C%EA%B5%AC%EC%99%80%E2%80%85%EB%B0%B0%EB%8B%AC%ED%95%98%EA%B8%B0/4d077ba6.png" data-original-src="https://upload.acmicpc.net/ca9b0e3a-0a2d-4e83-8447-23d9d2a7edba/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 231px; width: 550px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/27370.%E2%80%85%EC%B9%9C%EA%B5%AC%EC%99%80%E2%80%85%EB%B0%B0%EB%8B%AC%ED%95%98%EA%B8%B0/4d077ba6.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/27370.%E2%80%85%EC%B9%9C%EA%B5%AC%EC%99%80%E2%80%85%EB%B0%B0%EB%8B%AC%ED%95%98%EA%B8%B0/4d077ba6.png" data-original-src="https://upload.acmicpc.net/ca9b0e3a-0a2d-4e83-8447-23d9d2a7edba/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 231px; width: 550px;" /></p>
 
 <p>다른 방법으로 Albert가 1, 2번 집에 배달하고 Bob이 3, 4번 집에 배달하는 경우를 생각해보자. 이 경우, 아래 그림처럼 Albert는 총 60의 거리를 이동하고 Bob은 180의 거리를 이동한다. 그 합은 240이고 그 차이는 120이다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/27370.%E2%80%85%EC%B9%9C%EA%B5%AC%EC%99%80%E2%80%85%EB%B0%B0%EB%8B%AC%ED%95%98%EA%B8%B0/789da496.png" data-original-src="https://upload.acmicpc.net/4bf701bc-d2f0-4a59-8a0c-c21dc71ff4aa/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 226px; width: 550px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/27370.%E2%80%85%EC%B9%9C%EA%B5%AC%EC%99%80%E2%80%85%EB%B0%B0%EB%8B%AC%ED%95%98%EA%B8%B0/789da496.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/27370.%E2%80%85%EC%B9%9C%EA%B5%AC%EC%99%80%E2%80%85%EB%B0%B0%EB%8B%AC%ED%95%98%EA%B8%B0/789da496.png" data-original-src="https://upload.acmicpc.net/4bf701bc-d2f0-4a59-8a0c-c21dc71ff4aa/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 226px; width: 550px;" /></p>
 
 <p>마지막으로 Albert가 1, 2, 3번 집에 배달하고 Bob이 4번 집에 배달하는 경우를 생각해보자. 이 경우, 아래 그림처럼 Albert는 총 160의 거리를 이동하고 Bob은 80의 거리를 이동한다. 그 합은 240이고 그 차이는 80이다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/27370.%E2%80%85%EC%B9%9C%EA%B5%AC%EC%99%80%E2%80%85%EB%B0%B0%EB%8B%AC%ED%95%98%EA%B8%B0/df012725.png" data-original-src="https://upload.acmicpc.net/c8bd2e73-f2de-42d0-99cd-b8d8dfd2e3a0/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 241px; width: 550px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/27370.%E2%80%85%EC%B9%9C%EA%B5%AC%EC%99%80%E2%80%85%EB%B0%B0%EB%8B%AC%ED%95%98%EA%B8%B0/df012725.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/27370.%E2%80%85%EC%B9%9C%EA%B5%AC%EC%99%80%E2%80%85%EB%B0%B0%EB%8B%AC%ED%95%98%EA%B8%B0/df012725.png" data-original-src="https://upload.acmicpc.net/c8bd2e73-f2de-42d0-99cd-b8d8dfd2e3a0/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 241px; width: 550px;" /></p>
 
 <p>앞서 언급한 두 조건에 따르면 마지막 방법이 배달 업무를 분배하는 가장 좋은 방법이다.</p>
 

@@ -20,7 +20,7 @@
 	당구대 위에 흰색 공과 빨간색 공이 있다. 흰색 공은 쿠션(당구대의 모서리)을 N번 만큼 맞춘 뒤 빨간색 공을 맞춰야 한다. 이때, 흰색 공이 이동한 거리의 최솟값을 구하려고 한다.</p>
 
 <p>
-	<img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/4110.%E2%80%85%EB%8B%B9%EA%B5%AC%EB%8C%80/d9e5c40e.png" data-original-src="https://www.acmicpc.net/upload/images/pool.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 576px; height: 165px;" /></p>
+	<img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/4110.%E2%80%85%EB%8B%B9%EA%B5%AC%EB%8C%80/d9e5c40e.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/4110.%E2%80%85%EB%8B%B9%EA%B5%AC%EB%8C%80/d9e5c40e.png" data-original-src="https://www.acmicpc.net/upload/images/pool.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 576px; height: 165px;" /></p>
 
 <p>
 	쿠션은 입사각과 반사각이 항상 같고, 공의 지름은 무시할 수 있다. 당구대의 꼭짓점을 원점으로 사용하고, 모서리는 항상 축에 평행하다. 만약, 공이 당구대의 구석(꼭짓점)을 맞춘다면, 이것은 쿠션을 2번 맞춘 것으로 친다. 흰색 공은 빨간색 공을 맞추기 전에 쿠션을 반드시 N번 맞춰야 한다.</p>

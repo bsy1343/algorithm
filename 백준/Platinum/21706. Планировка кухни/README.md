@@ -26,11 +26,11 @@
 
 <p>Например, пусть a = 3, b = 4 и есть два типа шкафчиков, шириной 1 и 2, соответственно.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/21706.%E2%80%85%D0%9F%D0%BB%D0%B0%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B0%E2%80%85%D0%BA%D1%83%D1%85%D0%BD%D0%B8/ae244962.png" data-original-src="https://upload.acmicpc.net/0abea353-cf9f-48f1-9561-b2264671c317/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 354px; height: 142px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/21706.%E2%80%85%D0%9F%D0%BB%D0%B0%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B0%E2%80%85%D0%BA%D1%83%D1%85%D0%BD%D0%B8/ae244962.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/21706.%E2%80%85%D0%9F%D0%BB%D0%B0%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B0%E2%80%85%D0%BA%D1%83%D1%85%D0%BD%D0%B8/ae244962.png" data-original-src="https://upload.acmicpc.net/0abea353-cf9f-48f1-9561-b2264671c317/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 354px; height: 142px;" /></p>
 
 <p>Тогда возможно шесть планировок кухни. Возможные планировки показаны на рисунке.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/21706.%E2%80%85%D0%9F%D0%BB%D0%B0%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B0%E2%80%85%D0%BA%D1%83%D1%85%D0%BD%D0%B8/32433e80.png" data-original-src="https://upload.acmicpc.net/ecb74651-d8a9-4c90-bb4a-68db1f38f2dd/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 499px; height: 262px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/21706.%E2%80%85%D0%9F%D0%BB%D0%B0%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B0%E2%80%85%D0%BA%D1%83%D1%85%D0%BD%D0%B8/32433e80.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/21706.%E2%80%85%D0%9F%D0%BB%D0%B0%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B0%E2%80%85%D0%BA%D1%83%D1%85%D0%BD%D0%B8/32433e80.png" data-original-src="https://upload.acmicpc.net/ecb74651-d8a9-4c90-bb4a-68db1f38f2dd/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 499px; height: 262px;" /></p>
 
 <p>Требуется по заданным размерам кухни и шкафчиков найти число различных планировок.</p>
 

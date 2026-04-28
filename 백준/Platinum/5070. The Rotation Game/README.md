@@ -18,7 +18,7 @@
 
 <p>The rotation game uses a # shaped board, which can hold 24 pieces of square blocks (see Fig.1). The blocks are marked with symbols 1, 2 and 3, with exactly 8 pieces of each kind.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/5070.%E2%80%85The%E2%80%85Rotation%E2%80%85Game/ea0e641d.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/5070/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:178px; width:528px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/5070.%E2%80%85The%E2%80%85Rotation%E2%80%85Game/ea0e641d.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/5070.%E2%80%85The%E2%80%85Rotation%E2%80%85Game/ea0e641d.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/5070/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:178px; width:528px" /></p>
 
 <p style="text-align: center;">Fig. 1</p>
 

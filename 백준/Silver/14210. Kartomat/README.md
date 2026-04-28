@@ -20,7 +20,7 @@
 
 <p>The initial appearance of the keyboard on the screen is shown in the picture. We will represent it as four arrays of characters of length 8.&nbsp;</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/14210.%E2%80%85Kartomat/6e6628f5.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/14210/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-12-30%20%EC%98%A4%ED%9B%84%204.14.39.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:120px; width:482px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/14210.%E2%80%85Kartomat/6e6628f5.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/14210.%E2%80%85Kartomat/6e6628f5.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/14210/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-12-30%20%EC%98%A4%ED%9B%84%204.14.39.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:120px; width:482px" /></p>
 
 <p>After choosing each letter, the keyboard changes its appearance. Only letters that can be chosen in the next step are left active (depending on the destinations still possible to choose). The remaining letter that can&rsquo;t be chosen are replaced with the character &ldquo;*&rdquo;.</p>
 

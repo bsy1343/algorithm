@@ -18,7 +18,7 @@
 
 <p>Bajtek bawi się zapałkami. Na jednym z końc&oacute;w zapałki znajduje się gł&oacute;wka pokryta masą ułatwiającą zapłon. Bajtek ułożył zapałki w linii prostej jedna obok drugiej, w taki spos&oacute;b, że każdy koniec zapałki sąsiaduje z końcem pewnej innej zapałki, opr&oacute;cz dw&oacute;ch skrajnych zapałek, kt&oacute;re sąsiadują tylko jednym końcem.</p>
 
-<p align="center"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/8586.%E2%80%85Zapa%C5%82ki/1a800d8f.png" data-original-src="https://upload.acmicpc.net/2d74a4f6-095f-4807-aba6-ceefb9679a08/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p align="center"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/8586.%E2%80%85Zapa%C5%82ki/1a800d8f.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/8586.%E2%80%85Zapa%C5%82ki/1a800d8f.png" data-original-src="https://upload.acmicpc.net/2d74a4f6-095f-4807-aba6-ceefb9679a08/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p align="center">Przykładowe ułożenie zapałek.</p>
 
@@ -34,4 +34,4 @@
 
 ### 힌트
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/8586.%E2%80%85Zapa%C5%82ki/fc9dd0b0.png" data-original-src="https://upload.acmicpc.net/9c1193fd-6bbf-46c9-9adf-87eba70ce54e/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/8586.%E2%80%85Zapa%C5%82ki/fc9dd0b0.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/8586.%E2%80%85Zapa%C5%82ki/fc9dd0b0.png" data-original-src="https://upload.acmicpc.net/9c1193fd-6bbf-46c9-9adf-87eba70ce54e/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>

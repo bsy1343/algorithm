@@ -18,7 +18,7 @@
 
 <p>Do you know a game called &ldquo;La cave aux &eacute;nigmes&rdquo;? One of its questions is to find the number of squares contained in a grid square of length l. A grid square of length 4 will look like this:</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/14545.%E2%80%85Square/81626ce4.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14545/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:236px; width:236px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/14545.%E2%80%85Square/81626ce4.png" data-original-src="%EB%B0%B1%EC%A4%80/Bronze/14545.%E2%80%85Square/81626ce4.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14545/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:236px; width:236px" /></p>
 
 <p>The total number of squares that can be seen in this image is 30. Your task is to find the total number of squares which can be seen in an image of a grid square of length l.</p>
 

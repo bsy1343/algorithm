@@ -22,7 +22,7 @@
 
 <p>For example, suppose that Belle is standing at $(2,6)$. &nbsp;If the trees in the rectangle with corners at $(1,1)$ and $(5,4)$ are cut down (blue rectangle in figure), then you can see Belle. &nbsp;However, if the rectangle was at $(3,5)$ and $(5,7)$ (red rectangle in figure), then the tree at $(1,3)$ would be in the way.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/22281.%E2%80%85Forest%E2%80%85for%E2%80%85the%E2%80%85Trees/f33b7918.png" data-original-src="https://upload.acmicpc.net/1839943b-aaf7-46e4-91ca-b5eb3e632b71/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 283px; height: 328px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/22281.%E2%80%85Forest%E2%80%85for%E2%80%85the%E2%80%85Trees/f33b7918.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/22281.%E2%80%85Forest%E2%80%85for%E2%80%85the%E2%80%85Trees/f33b7918.png" data-original-src="https://upload.acmicpc.net/1839943b-aaf7-46e4-91ca-b5eb3e632b71/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 283px; height: 328px;" /></p>
 
 <p>Given the rectangle and Belle&#39;s location, can you see her?</p>
 

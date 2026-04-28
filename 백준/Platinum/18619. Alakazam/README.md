@@ -47,6 +47,6 @@
 
 <p>Before the teleportations, Alakazam hold 1, 2 and 3 spoons:</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/18619.%E2%80%85Alakazam/c9145952.png" data-original-src="https://upload.acmicpc.net/6b505036-b85e-474b-a9a1-4958a3159b24/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 809px; height: 250px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/18619.%E2%80%85Alakazam/c9145952.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/18619.%E2%80%85Alakazam/c9145952.png" data-original-src="https://upload.acmicpc.net/6b505036-b85e-474b-a9a1-4958a3159b24/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 809px; height: 250px;" /></p>
 
 <p>After the first teleportation, two permutations of Alakazam are equally probable: (1, 2, 3) and (2, 1, 3). Meanwhile, after both teleportations, the following permutations are equally probable: (1, 2, 3), (1, 3, 2), (2, 1, 3), (2, 3, 1).</p>

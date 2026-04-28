@@ -24,7 +24,7 @@
 
 <p>위와 같이 문제를 준비하면 프로그래밍 대회에 익숙하지 않은 사람은 앞에서부터 따라가면서 도전해볼 수 있어 쉬운 문제를 찾는 데 시간을 쓰지 않을 수 있고, 어려운 버전으로 학교 대표 선발을 위한 변별력을 유지할 수 있으며, 모든 문제가 읽히길 바라는 출제진의 소망도 이룰 수 있을 것이다!</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/17224.%E2%80%85APC%EB%8A%94%E2%80%85%EC%99%9C%E2%80%85%EC%84%9C%EB%B8%8C%ED%83%9C%EC%8A%A4%ED%81%AC%E2%80%85%EB%8C%80%ED%9A%8C%EA%B0%80%E2%80%85%EB%90%98%EC%97%88%EC%9D%84%EA%B9%8C%3F/4d3ac659.png" data-original-src="https://upload.acmicpc.net/26df1ce0-c71b-4fa8-8954-2f2f503900e9/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 920px; height: 203px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/17224.%E2%80%85APC%EB%8A%94%E2%80%85%EC%99%9C%E2%80%85%EC%84%9C%EB%B8%8C%ED%83%9C%EC%8A%A4%ED%81%AC%E2%80%85%EB%8C%80%ED%9A%8C%EA%B0%80%E2%80%85%EB%90%98%EC%97%88%EC%9D%84%EA%B9%8C%3F/4d3ac659.png" data-original-src="%EB%B0%B1%EC%A4%80/Bronze/17224.%E2%80%85APC%EB%8A%94%E2%80%85%EC%99%9C%E2%80%85%EC%84%9C%EB%B8%8C%ED%83%9C%EC%8A%A4%ED%81%AC%E2%80%85%EB%8C%80%ED%9A%8C%EA%B0%80%E2%80%85%EB%90%98%EC%97%88%EC%9D%84%EA%B9%8C%3F/4d3ac659.png" data-original-src="https://upload.acmicpc.net/26df1ce0-c71b-4fa8-8954-2f2f503900e9/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 920px; height: 203px;" /></p>
 
 <p style="text-align: center;">&lt;그림1&gt; 출제중 평가한 문제들의 난이도 예시 (예제2)</p>
 

@@ -20,15 +20,15 @@
 
 <p>For example, the clock depicted below is showing that the time is exactly 6 hours and 30 minutes after midnight. The hours hand (short black) is halfway between 6 and 7 (completed 6.5/12 of a revolution), the minutes hand (long black) is pointing straight down because it has completed exactly 6 and a half full revolutions and the seconds hand (red) is pointing straight up because it has completed an integer number of full revolutions.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/22893.%E2%80%85Broken%E2%80%85Clock/e3ce5e13.png" data-original-src="https://upload.acmicpc.net/65a83c0c-29f9-4a79-8b47-9792190b5a4a/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 200px; height: 200px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/22893.%E2%80%85Broken%E2%80%85Clock/e3ce5e13.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/22893.%E2%80%85Broken%E2%80%85Clock/e3ce5e13.png" data-original-src="https://upload.acmicpc.net/65a83c0c-29f9-4a79-8b47-9792190b5a4a/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 200px; height: 200px;" /></p>
 
 <p>Unfortunately, the hands are broken, so they all look identical and there is no way to know which hand is which. The clock in the picture above, with its hands broken, would look like this.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/22893.%E2%80%85Broken%E2%80%85Clock/a626bc82.png" data-original-src="https://upload.acmicpc.net/4e5f7753-41c2-41a4-819d-9f5947e2cbb2/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 200px; height: 200px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/22893.%E2%80%85Broken%E2%80%85Clock/a626bc82.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/22893.%E2%80%85Broken%E2%80%85Clock/a626bc82.png" data-original-src="https://upload.acmicpc.net/4e5f7753-41c2-41a4-819d-9f5947e2cbb2/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 200px; height: 200px;" /></p>
 
 <p>In addition, no markings remain that allow Emmett to know which way is up, so any rotation of the clock could be the correct one (the clock can only be rotated, not reflected). To continue with our example, the fully broken clock could look like this.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/22893.%E2%80%85Broken%E2%80%85Clock/7f7d9119.png" data-original-src="https://upload.acmicpc.net/d257466c-30a0-406a-b653-a5caa9f13b9d/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 200px; height: 200px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/22893.%E2%80%85Broken%E2%80%85Clock/7f7d9119.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/22893.%E2%80%85Broken%E2%80%85Clock/7f7d9119.png" data-original-src="https://upload.acmicpc.net/d257466c-30a0-406a-b653-a5caa9f13b9d/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 200px; height: 200px;" /></p>
 
 <p>Emmett does know that the time was strictly before noon, that is, strictly less than 12 hours after midnight. Emmett has taken a picture of the clock. Given that picture (represented by the angles of the hands relative to a single arbitrary axis), figure out what time it could correspond to.</p>
 

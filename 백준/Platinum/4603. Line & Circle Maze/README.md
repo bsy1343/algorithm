@@ -29,16 +29,16 @@
 <table class="table table-bordered" style="width:100%">
 	<tbody>
 		<tr>
-			<td style="width: 50%; text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/4603.%E2%80%85Line%E2%80%85%26%E2%80%85Circle%E2%80%85Maze/9678e552.png" data-original-src="https://www.acmicpc.net/upload/images2/ex1-color.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:395px; width:400px" /></td>
-			<td style="width: 50%; text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/4603.%E2%80%85Line%E2%80%85%26%E2%80%85Circle%E2%80%85Maze/6458c2ec.png" data-original-src="https://www.acmicpc.net/upload/images2/ex2-color.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:395px; width:400px" /></td>
+			<td style="width: 50%; text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/4603.%E2%80%85Line%E2%80%85%26%E2%80%85Circle%E2%80%85Maze/9678e552.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/4603.%E2%80%85Line%E2%80%85%26%E2%80%85Circle%E2%80%85Maze/9678e552.png" data-original-src="https://www.acmicpc.net/upload/images2/ex1-color.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:395px; width:400px" /></td>
+			<td style="width: 50%; text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/4603.%E2%80%85Line%E2%80%85%26%E2%80%85Circle%E2%80%85Maze/6458c2ec.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/4603.%E2%80%85Line%E2%80%85%26%E2%80%85Circle%E2%80%85Maze/6458c2ec.png" data-original-src="https://www.acmicpc.net/upload/images2/ex2-color.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:395px; width:400px" /></td>
 		</tr>
 		<tr>
 			<td style="text-align: center;">Line segments only. The large dots are the junction pair whose shortest path is the longest possible.</td>
 			<td style="text-align: center;">An example using circles only. Note that in this case there is also another pair of junctions with the same length longest possible shortest path.</td>
 		</tr>
 		<tr>
-			<td style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/4603.%E2%80%85Line%E2%80%85%26%E2%80%85Circle%E2%80%85Maze/746cadfb.png" data-original-src="https://www.acmicpc.net/upload/images2/ex3-color.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:395px; width:400px" /></td>
-			<td style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/4603.%E2%80%85Line%E2%80%85%26%E2%80%85Circle%E2%80%85Maze/5295a8a9.png" data-original-src="https://www.acmicpc.net/upload/images2/ex4-color.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:395px; width:400px" /></td>
+			<td style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/4603.%E2%80%85Line%E2%80%85%26%E2%80%85Circle%E2%80%85Maze/746cadfb.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/4603.%E2%80%85Line%E2%80%85%26%E2%80%85Circle%E2%80%85Maze/746cadfb.png" data-original-src="https://www.acmicpc.net/upload/images2/ex3-color.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:395px; width:400px" /></td>
+			<td style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/4603.%E2%80%85Line%E2%80%85%26%E2%80%85Circle%E2%80%85Maze/5295a8a9.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/4603.%E2%80%85Line%E2%80%85%26%E2%80%85Circle%E2%80%85Maze/5295a8a9.png" data-original-src="https://www.acmicpc.net/upload/images2/ex4-color.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:395px; width:400px" /></td>
 		</tr>
 		<tr>
 			<td style="text-align: center;">Disconnected components.</td>

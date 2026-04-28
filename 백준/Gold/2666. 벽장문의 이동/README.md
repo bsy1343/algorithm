@@ -20,7 +20,7 @@
 
 <p>그림은 7개의 벽장의 예이다. 그림에서 2번 벽장과 5번 벽장이 열려있고, 나머지 벽장은 닫혀 있다. &nbsp;벽장 문은 좌우 어느 쪽이든 그 이웃 벽장이 열려 있다면 그 쪽으로 한 칸씩 이동할 수 있다. 그림에서 주어진 상태에서는 1번 벽장을 닫고 있는 벽장문을 오른쪽으로 한 칸 이동함으로써 1번 벽장을 사용할 수 있다. 이때 2번 벽장은 닫혀져 사용할 수 없다. 역시 5번 벽장이 열려 있으므로 4번 벽장 또는 6번 벽장 앞의 벽장문을 5번 벽장 앞으로 이동시킬 수 있다.</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/2666.%E2%80%85%EB%B2%BD%EC%9E%A5%EB%AC%B8%EC%9D%98%E2%80%85%EC%9D%B4%EB%8F%99/f5f51ad7.png" data-original-src="https://www.acmicpc.net/upload/images/ZNqDSxxvtQyqjJsNjdl7zDoz25wBl.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:220px; width:315px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/2666.%E2%80%85%EB%B2%BD%EC%9E%A5%EB%AC%B8%EC%9D%98%E2%80%85%EC%9D%B4%EB%8F%99/f5f51ad7.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/2666.%E2%80%85%EB%B2%BD%EC%9E%A5%EB%AC%B8%EC%9D%98%E2%80%85%EC%9D%B4%EB%8F%99/f5f51ad7.png" data-original-src="https://www.acmicpc.net/upload/images/ZNqDSxxvtQyqjJsNjdl7zDoz25wBl.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:220px; width:315px" /></p>
 
 <p>풀어야 할 문제는 입력으로 주어지는 사용할 벽장의 순서에 따라서 벽장문을 이동하는 순서를 찾는 것이다. 이때 벽장문의 이동횟수를 최소로 하여야 한다. 입력은 다음과 같이 주어지며, 열려있는 벽장의 개수는 항상 2개이다.</p>
 

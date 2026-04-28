@@ -20,7 +20,7 @@
 
 <p>배열을 가지고 놀던 상수를 본 승현이는, 질투심이 불타올라 상수를 A[1][1]에 가둬 버렸습니다! 최소한의 양심이 있던 승현이는 A[n][n]에 출구를 만들어 놓고 이 사실을 상수에게 알려줬습니다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/11909.%E2%80%85%EB%B0%B0%EC%97%B4%E2%80%85%ED%83%88%EC%B6%9C/bb42d7f5.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11909/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:164px; width:203px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/11909.%E2%80%85%EB%B0%B0%EC%97%B4%E2%80%85%ED%83%88%EC%B6%9C/bb42d7f5.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/11909.%E2%80%85%EB%B0%B0%EC%97%B4%E2%80%85%ED%83%88%EC%B6%9C/bb42d7f5.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11909/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:164px; width:203px" /></p>
 
 <p style="text-align: center;">[그림 1] n=4라면 상수는 A[1,1]에 있고, 출구는 A[4][4]에 있습니다.</p>
 
@@ -33,13 +33,13 @@
 	<li>i=j=n인 경우 바로 출구로 갑니다.</li>
 </ol>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/11909.%E2%80%85%EB%B0%B0%EC%97%B4%E2%80%85%ED%83%88%EC%B6%9C/912bd321.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11909/2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:190px; width:234px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/11909.%E2%80%85%EB%B0%B0%EC%97%B4%E2%80%85%ED%83%88%EC%B6%9C/912bd321.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/11909.%E2%80%85%EB%B0%B0%EC%97%B4%E2%80%85%ED%83%88%EC%B6%9C/912bd321.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11909/2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:190px; width:234px" /></p>
 
 <p style="text-align: center;">[그림 2] n=5라고 가정합시다. (ㄱ)는 1번 조건을 만족하고, (ㄴ)는 2번 조건을 만족하며, (ㄷ)는 3번 조건을 만족합니다.</p>
 
 <p>그러나 건너갈 때에도 제약이 따릅니다. 상수가 A[a][b]에서 A[c][d]로 건너가려면 A[a][b]&gt;A[c][d]를 만족해야 합니다. 상수는 왜인지 이런 조건을 만족하면서 이동할 수 없을 것 같았습니다. 다행히도, 승현이가 상수를 배열에 가둬버리기 전에, 상수는 배열의 각 원소에 버튼을 만들어 놓아서, 이 버튼을 누르면 해당 원소의 값이 1 증가하도록 했습니다. (물론 상수는 자신이 위치해 있는 원소의 버튼만 누를 수 있습니다.) 이 버튼 덕분에, 상수는 항상 배열을 탈출할 수 있습니다!</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/11909.%E2%80%85%EB%B0%B0%EC%97%B4%E2%80%85%ED%83%88%EC%B6%9C/d8f57b42.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11909/3.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:98px; width:122px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/11909.%E2%80%85%EB%B0%B0%EC%97%B4%E2%80%85%ED%83%88%EC%B6%9C/d8f57b42.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/11909.%E2%80%85%EB%B0%B0%EC%97%B4%E2%80%85%ED%83%88%EC%B6%9C/d8f57b42.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11909/3.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:98px; width:122px" /></p>
 
 <p style="text-align: center;">[그림 3] n=2라고 가정합시다. A[1][1]=5&gt;A[1][2]=2이므로, 상수는 A[1][1]에서 A[1][2]로 건너갈 수 있습니다. 상수가 A[1][1]에서 A[2][1]로 건너가려면, A[1][1]에 있는 버튼을 두 번 눌러 A[1][1]의 값을 7로 만들면 됩니다.</p>
 
@@ -61,6 +61,6 @@
 
 <p>상수는 아래 그림과 같은 방법으로 탈출할 수 있습니다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/11909.%E2%80%85%EB%B0%B0%EC%97%B4%E2%80%85%ED%83%88%EC%B6%9C/8de390d3.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11909/4.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:202px; width:640px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/11909.%E2%80%85%EB%B0%B0%EC%97%B4%E2%80%85%ED%83%88%EC%B6%9C/8de390d3.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/11909.%E2%80%85%EB%B0%B0%EC%97%B4%E2%80%85%ED%83%88%EC%B6%9C/8de390d3.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11909/4.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:202px; width:640px" /></p>
 
 <p>이렇게 하면 A[1][1]에서 2원, A[3][2]에서 1원의 비용이 들어 총 3원의 비용이 들게 되며, 이것이 최소입니다.</p>

@@ -22,7 +22,7 @@
 
 <p>せっかくなので，博士は二人にケーキを切らせることにした． イコとピコは協力してケーキを切るため，イコが包丁の一端を辺(0,0)-(0,<i>H</i>&nbsp;)の間におき，ピコはもう一端を辺(<i>W</i>&nbsp;,0)-(<i>W</i>&nbsp;,<i>H</i>&nbsp;)の間において同時に下に下ろすという方法をとることにした． もちろん包丁は直線状なので，選んだ2点を通る直線でケーキは2つに分かれる．(図E-1)</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/22528.%E2%80%85Divide%E2%80%85the%E2%80%85Cake/e477ccff.png" data-original-src="https://upload.acmicpc.net/98e6f2c2-4570-4673-8e63-db6ab1a3f715/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 226px; height: 181px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/22528.%E2%80%85Divide%E2%80%85the%E2%80%85Cake/e477ccff.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/22528.%E2%80%85Divide%E2%80%85the%E2%80%85Cake/e477ccff.png" data-original-src="https://upload.acmicpc.net/98e6f2c2-4570-4673-8e63-db6ab1a3f715/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 226px; height: 181px;" /></p>
 
 <p style="text-align: center;">図E-1</p>
 

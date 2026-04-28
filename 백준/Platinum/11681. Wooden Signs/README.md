@@ -20,7 +20,7 @@
 
 <p>The carpenter wrote down a sequence of integers to encode the sketch sent by the designer but the sequence does not determine a unique model and he has thrown away the original sketch. What looked like a trivial task turned out a big jigsaw to him.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/11681.%E2%80%85Wooden%E2%80%85Signs/c1c80074.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11681/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:143px; width:537px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/11681.%E2%80%85Wooden%E2%80%85Signs/c1c80074.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/11681.%E2%80%85Wooden%E2%80%85Signs/c1c80074.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11681/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:143px; width:537px" /></p>
 
 <p>The sequence (with 1 + N elements) encodes the (N) arrows from the bottom to the top of the sign. The first element is the position of the left side of the bottom arrow. The remaining N elements define the positions where the arrowheads start, from bottom to top: the i-th element is the position where the i-th arrowhead basis is. For instance, the two signs depicted (on the left and on the right) could be encoded by 2 6 5 1 4.</p>
 
@@ -28,7 +28,7 @@
 
 <p>If the sequence was 2 3 1, the second arrow could only be fixed with a screw at 3, pointing to the left, because consecutive boards must overlap.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/11681.%E2%80%85Wooden%E2%80%85Signs/cee4ce0c.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11681/2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:125px; width:206px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/11681.%E2%80%85Wooden%E2%80%85Signs/cee4ce0c.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/11681.%E2%80%85Wooden%E2%80%85Signs/cee4ce0c.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11681/2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:125px; width:206px" /></p>
 
 <p>All arrowheads are similar and the designer told the carpenter that their bases stand in different vertical lines, as well as the left side of the bottom arrow, altogether forming a permutation of 1..(N +1). That is why the carpenter overlooked the details and just wrote down the permutation (e.g., 2 6 5 1 4 3).</p>
 

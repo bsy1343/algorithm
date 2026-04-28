@@ -22,12 +22,12 @@
 
 <ul>
 	<li>a stone hung by a string, or</li>
-	<li><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/3918.%E2%80%85Mobile%E2%80%85Computing/076bf60c.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/3918/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="float:right; height:71px; width:111px" />a rod of length 1 with two sub-mobiles at both ends; the rod is hung by a string at the center of gravity of sub-mobiles. When the weights of the sub-mobiles are n and m, and their distances from the center of gravity are a and b respectively, the equation n &times; a = m &times; b holds.</li>
+	<li><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/3918.%E2%80%85Mobile%E2%80%85Computing/076bf60c.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/3918.%E2%80%85Mobile%E2%80%85Computing/076bf60c.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/3918/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="float:right; height:71px; width:111px" />a rod of length 1 with two sub-mobiles at both ends; the rod is hung by a string at the center of gravity of sub-mobiles. When the weights of the sub-mobiles are n and m, and their distances from the center of gravity are a and b respectively, the equation n &times; a = m &times; b holds.</li>
 </ul>
 
 <p>For example, if you got three stones with weights 1, 1, and 2, here are some possible mobiles and their widths:</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/3918.%E2%80%85Mobile%E2%80%85Computing/af444306.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/3918/2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:113px; width:457px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/3918.%E2%80%85Mobile%E2%80%85Computing/af444306.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/3918.%E2%80%85Mobile%E2%80%85Computing/af444306.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/3918/2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:113px; width:457px" /></p>
 
 <p>Given the weights of stones and the width of the room, your task is to design the widest possible mobile satisfying both of the following conditions.</p>
 
@@ -38,7 +38,7 @@
 
 <p>You should ignore the widths of stones.</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/3918.%E2%80%85Mobile%E2%80%85Computing/43d9df5c.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/3918/3.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="float:right; height:100px; width:140px" />In some cases two sub-mobiles hung from both ends of a rod might overlap (see the figure on the right). Such mobiles are acceptable. The width of the example is (1/3) + 1 + (1/4).</p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/3918.%E2%80%85Mobile%E2%80%85Computing/43d9df5c.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/3918.%E2%80%85Mobile%E2%80%85Computing/43d9df5c.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/3918/3.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="float:right; height:100px; width:140px" />In some cases two sub-mobiles hung from both ends of a rod might overlap (see the figure on the right). Such mobiles are acceptable. The width of the example is (1/3) + 1 + (1/4).</p>
 
 ### 입력
 

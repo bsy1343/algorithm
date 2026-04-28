@@ -32,6 +32,6 @@
 
 ### 힌트
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/10892.%E2%80%85Divide%E2%80%85into%E2%80%85triangle/09ef5468.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/10892/pic1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:110px; width:139px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/10892.%E2%80%85Divide%E2%80%85into%E2%80%85triangle/09ef5468.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/10892.%E2%80%85Divide%E2%80%85into%E2%80%85triangle/09ef5468.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/10892/pic1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:110px; width:139px" /></p>
 
 <p>위와 같다</p>

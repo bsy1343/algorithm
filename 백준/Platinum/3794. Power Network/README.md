@@ -85,7 +85,7 @@
 	</tbody>
 </table>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/3794.%E2%80%85Power%E2%80%85Network/1be9e8fb.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/3794/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:132px; width:263px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/3794.%E2%80%85Power%E2%80%85Network/1be9e8fb.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/3794.%E2%80%85Power%E2%80%85Network/1be9e8fb.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/3794/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:132px; width:263px" /></p>
 
 <p>Figure 1. A power network</p>
 

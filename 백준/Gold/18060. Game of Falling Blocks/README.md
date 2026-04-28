@@ -18,7 +18,7 @@
 
 <p>In this problem you have to program a simple AI for the game Tetris. The objective is simple: complete at least one row. More specifically, for the purposes of this problem we play Tetris according to the following modified set of rules:</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/18060.%E2%80%85Game%E2%80%85of%E2%80%85Falling%E2%80%85Blocks/b84b21b2.png" data-original-src="https://upload.acmicpc.net/c8ffd815-d5f0-4da8-9543-f2497b51ad61/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 482px; height: 89px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/18060.%E2%80%85Game%E2%80%85of%E2%80%85Falling%E2%80%85Blocks/b84b21b2.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/18060.%E2%80%85Game%E2%80%85of%E2%80%85Falling%E2%80%85Blocks/b84b21b2.png" data-original-src="https://upload.acmicpc.net/c8ffd815-d5f0-4da8-9543-f2497b51ad61/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 482px; height: 89px;" /></p>
 
 <p style="text-align: center;">Figure G.1: The seven tetrominoes in their initial orientations.</p>
 
@@ -45,6 +45,6 @@
 
 ### 힌트
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/18060.%E2%80%85Game%E2%80%85of%E2%80%85Falling%E2%80%85Blocks/efe97756.png" data-original-src="https://upload.acmicpc.net/e7c7ebfd-dac1-4600-9fc5-7695c0590dfc/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 285px; height: 176px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/18060.%E2%80%85Game%E2%80%85of%E2%80%85Falling%E2%80%85Blocks/efe97756.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/18060.%E2%80%85Game%E2%80%85of%E2%80%85Falling%E2%80%85Blocks/efe97756.png" data-original-src="https://upload.acmicpc.net/e7c7ebfd-dac1-4600-9fc5-7695c0590dfc/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 285px; height: 176px;" /></p>
 
 <p style="text-align: center;">Figure G.2: Illustration of the example interaction.</p>

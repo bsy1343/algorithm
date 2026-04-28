@@ -16,13 +16,13 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><img alt="무지개 댄스를 추는 총총과 그걸 보는 총총" src="%EB%B0%B1%EC%A4%80/Silver/26069.%E2%80%85%EB%B6%99%EC%9E%84%EC%84%B1%E2%80%85%EC%A2%8B%EC%9D%80%E2%80%85%EC%B4%9D%EC%B4%9D%EC%9D%B4/0ec6f0d7.png" data-original-src="https://upload.acmicpc.net/12d3d8d8-06c0-4b31-b661-0ce1bc935cf9/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="max-height:120px; object-fit:contain; display:inline-block;" /></p>
+<p style="text-align: center;"><img alt="무지개 댄스를 추는 총총과 그걸 보는 총총" src="%EB%B0%B1%EC%A4%80/Silver/26069.%E2%80%85%EB%B6%99%EC%9E%84%EC%84%B1%E2%80%85%EC%A2%8B%EC%9D%80%E2%80%85%EC%B4%9D%EC%B4%9D%EC%9D%B4/0ec6f0d7.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/26069.%E2%80%85%EB%B6%99%EC%9E%84%EC%84%B1%E2%80%85%EC%A2%8B%EC%9D%80%E2%80%85%EC%B4%9D%EC%B4%9D%EC%9D%B4/0ec6f0d7.png" data-original-src="https://upload.acmicpc.net/12d3d8d8-06c0-4b31-b661-0ce1bc935cf9/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="max-height:120px; object-fit:contain; display:inline-block;" /></p>
 
 <p>총총이는 친구 곰곰이의 소개로 <strong>제2회 곰곰컵</strong>에 출연할 기회를 얻었다!</p>
 
 <p>총총이는 자신의 묘기인 <strong><span style="color:#8c00ff;">무</span><span style="color:#00b7ff;">지</span><span style="color:#ff0082;">개 </span></strong><span><strong><span style="color:#ff9000;">댄</span><span style="color:#00ff40;">스</span></strong>를 선보여, 여러분의 환심을 사려 한다. 이 댄스는 중독성이 강하기 때문에, 한번 보게 된 사람은 모두 따라 하게 돼버린다.</span></p>
 
-<p style="text-align: center;"><img alt="무지개 댄스를 추는 총총 2마리" src="%EB%B0%B1%EC%A4%80/Silver/26069.%E2%80%85%EB%B6%99%EC%9E%84%EC%84%B1%E2%80%85%EC%A2%8B%EC%9D%80%E2%80%85%EC%B4%9D%EC%B4%9D%EC%9D%B4/9051f3f6.png" data-original-src="https://upload.acmicpc.net/4efdc327-804f-4929-8b6f-5b85577135c8/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="max-height:120px; object-fit:contain; display:inline-block;" /></p>
+<p style="text-align: center;"><img alt="무지개 댄스를 추는 총총 2마리" src="%EB%B0%B1%EC%A4%80/Silver/26069.%E2%80%85%EB%B6%99%EC%9E%84%EC%84%B1%E2%80%85%EC%A2%8B%EC%9D%80%E2%80%85%EC%B4%9D%EC%B4%9D%EC%9D%B4/9051f3f6.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/26069.%E2%80%85%EB%B6%99%EC%9E%84%EC%84%B1%E2%80%85%EC%A2%8B%EC%9D%80%E2%80%85%EC%B4%9D%EC%B4%9D%EC%9D%B4/9051f3f6.png" data-original-src="https://upload.acmicpc.net/4efdc327-804f-4929-8b6f-5b85577135c8/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="max-height:120px; object-fit:contain; display:inline-block;" /></p>
 
 <p>사람들이 만난 기록이 시간 순서대로 $N$개 주어진다. (총총이는 토끼이지만 이 문제에서는 편의상 사람이라고 가정한다.)</p>
 

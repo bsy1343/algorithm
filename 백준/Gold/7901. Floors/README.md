@@ -22,7 +22,7 @@
 
 <p>A floor moving expert was hired to accomplish the job. He decided to cut each floor into smaller pieces, in order to make it more tractable. He possessed a fine floor cutting tool which enabled him to cut a rectangular piece of floor into two smaller rectangular pieces, cutting parallel to one of the sides. Of course the cutting should be between tiles; cutting through a tile was not an option. This way the floor in Figure 1 could easily be cut into 9 tiles. The floor in Figure 2 however can not be cut into smaller pieces. The floor in Figure 3 can be cut into six pieces, but one of the parts will consist of several tiles.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/7901.%E2%80%85Floors/1724449c.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/7901/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:176px; width:544px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/7901.%E2%80%85Floors/1724449c.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/7901.%E2%80%85Floors/1724449c.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/7901/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:176px; width:544px" /></p>
 
 <p>While preparing for the job, the floor moving expert was anxious to know how large the remaining pieces could be: would they be heavy, very heavy or extremely heavy? What kind of floor lifting tool should be hired? Because the floors have a fixed thickness, and a fixed density, the weight of a piece of floor only depends upon its area.</p>
 

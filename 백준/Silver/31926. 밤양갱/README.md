@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/31926.%E2%80%85%EB%B0%A4%EC%96%91%EA%B0%B1/d4056d90.png" data-original-src="https://upload.acmicpc.net/2ebd27e9-0760-45bc-bc23-2cda874469a8/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 366px; width: 400px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/31926.%E2%80%85%EB%B0%A4%EC%96%91%EA%B0%B1/d4056d90.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/31926.%E2%80%85%EB%B0%A4%EC%96%91%EA%B0%B1/d4056d90.png" data-original-src="https://upload.acmicpc.net/2ebd27e9-0760-45bc-bc23-2cda874469a8/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 366px; width: 400px;" /></p>
 
 <blockquote>
 <p>달디달고, 달디달고, 달디단, 밤양갱, 밤양갱</p>

@@ -138,7 +138,7 @@
 
 <p>예제의 입력에선 총 7개의 거주지역이 있으며 아래의 그림과 같다.&nbsp;</p>
 
-<p><img src="%EB%B0%B1%EC%A4%80/Platinum/11936.%E2%80%85%EC%9D%B4%EC%A3%BC%E2%80%85%EA%B3%84%ED%9A%8D%E2%80%85%EC%84%B8%EC%9A%B0%EA%B8%B0%E2%80%851/17427dfe.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11936/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:223px; width:268px" /></p>
+<p><img src="%EB%B0%B1%EC%A4%80/Platinum/11936.%E2%80%85%EC%9D%B4%EC%A3%BC%E2%80%85%EA%B3%84%ED%9A%8D%E2%80%85%EC%84%B8%EC%9A%B0%EA%B8%B0%E2%80%851/17427dfe.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/11936.%E2%80%85%EC%9D%B4%EC%A3%BC%E2%80%85%EA%B3%84%ED%9A%8D%E2%80%85%EC%84%B8%EC%9A%B0%EA%B8%B0%E2%80%851/17427dfe.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11936/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:223px; width:268px" /></p>
 
 <p>총 6개의 나라가 있으며&nbsp;다음과 같이 배치하고자 한다.</p>
 
@@ -153,7 +153,7 @@
 
 <p>그다음 우호관계에 따라 철도를 건설하면 아래의 그림과 같이 된다. 총 2개의 철도&nbsp;쌍이 교차하는 것을&nbsp;알 수 있다.</p>
 
-<p><img src="%EB%B0%B1%EC%A4%80/Platinum/11936.%E2%80%85%EC%9D%B4%EC%A3%BC%E2%80%85%EA%B3%84%ED%9A%8D%E2%80%85%EC%84%B8%EC%9A%B0%EA%B8%B0%E2%80%851/62564f11.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11936/2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:229px; width:270px" /></p>
+<p><img src="%EB%B0%B1%EC%A4%80/Platinum/11936.%E2%80%85%EC%9D%B4%EC%A3%BC%E2%80%85%EA%B3%84%ED%9A%8D%E2%80%85%EC%84%B8%EC%9A%B0%EA%B8%B0%E2%80%851/62564f11.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/11936.%E2%80%85%EC%9D%B4%EC%A3%BC%E2%80%85%EA%B3%84%ED%9A%8D%E2%80%85%EC%84%B8%EC%9A%B0%EA%B8%B0%E2%80%851/62564f11.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11936/2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:229px; width:270px" /></p>
 
 <ul>
 	<li>거주지역 1번 (1번 나라가 배치된 곳) 과 거주지역 4번 (3번 나라가 배치된 곳) 을 잇는 철도와&nbsp;거주지역 2번 (4번 나라가 배치된 곳) 과 거주지역 3번 (6번 나라가 배치된 곳) 잇는 철도가 교차한다.</li>

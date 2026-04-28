@@ -18,7 +18,7 @@
 
 <p>평면 위에 N개의 점이 주어졌을 때, 가장 큰 정사각형의 넓이를 구하여라.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/9015.%E2%80%85%EC%A0%95%EC%82%AC%EA%B0%81%ED%98%95/7ae0cd64.png" data-original-src="https://www.acmicpc.net/upload/images2/square.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="font-size:medium; height:195px; text-align:center; width:192px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/9015.%E2%80%85%EC%A0%95%EC%82%AC%EA%B0%81%ED%98%95/7ae0cd64.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/9015.%E2%80%85%EC%A0%95%EC%82%AC%EA%B0%81%ED%98%95/7ae0cd64.png" data-original-src="https://www.acmicpc.net/upload/images2/square.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="font-size:medium; height:195px; text-align:center; width:192px" /></p>
 
 ### 입력
 

@@ -18,7 +18,7 @@
 
 <p>In the building of Jewelry Art Gallery (JAG), there is a long corridor in the east-west direction. There is a window on the north side of the corridor, and <em>N</em> windowpanes are attached to this window. The width of each windowpane is <em>W</em>, and the height is <em>H</em>. The <em>i</em>-th windowpane from the west covers the horizontal range between <em>W</em> &times; (<em>i</em> - 1) and <em>W</em> &times; <em>i</em> from the west edge of the window.</p>
 
-<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/15518.%E2%80%85Window/7a47dcde.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15518/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:148px; width:463px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/15518.%E2%80%85Window/7a47dcde.png" data-original-src="%EB%B0%B1%EC%A4%80/Bronze/15518.%E2%80%85Window/7a47dcde.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15518/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:148px; width:463px" /></p>
 
 <p style="text-align:center">Figure A1. Illustration of the window</p>
 
@@ -44,6 +44,6 @@ x<sub>1</sub> ... x<sub>N</sub></pre>
 
 ### 힌트
 
-<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/15518.%E2%80%85Window/95c40ab9.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15519/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:127px; width:651px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/15518.%E2%80%85Window/95c40ab9.png" data-original-src="%EB%B0%B1%EC%A4%80/Bronze/15518.%E2%80%85Window/95c40ab9.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15519/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:127px; width:651px" /></p>
 
 <p style="text-align:center">Figure A2. Illustration of Sample Input 1</p>

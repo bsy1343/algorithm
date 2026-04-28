@@ -24,7 +24,7 @@
 
 <p>Consider the following example. Let there be 10 warehouses with the special rails are arranged in the following way (Figure 1).&nbsp;</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/15852.%E2%80%85ANTS/3a48b0f4.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15852/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 285px; height: 163px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/15852.%E2%80%85ANTS/3a48b0f4.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/15852.%E2%80%85ANTS/3a48b0f4.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15852/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 285px; height: 163px;" /></p>
 
 <p style="text-align: center;">Figure 1.&nbsp;</p>
 
@@ -32,11 +32,11 @@
 
 <p>On the other hand, if the manager chooses warehouse number 6, then the special rails are used only 8 times (Figure 3), and this is the minimum possible for this example. Alternatively, the manager can choose warehouse number 1 or 8 as the assembly point as these choices will cause the special rails to be used 8 times as well.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/15852.%E2%80%85ANTS/337e759a.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15852/2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 280px; height: 166px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/15852.%E2%80%85ANTS/337e759a.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/15852.%E2%80%85ANTS/337e759a.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15852/2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 280px; height: 166px;" /></p>
 
 <p style="text-align: center;">Figure 2.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/15852.%E2%80%85ANTS/d73a0c7f.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15852/3.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 288px; height: 166px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/15852.%E2%80%85ANTS/d73a0c7f.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/15852.%E2%80%85ANTS/d73a0c7f.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15852/3.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 288px; height: 166px;" /></p>
 
 <p style="text-align: center;">Figure 3.</p>
 

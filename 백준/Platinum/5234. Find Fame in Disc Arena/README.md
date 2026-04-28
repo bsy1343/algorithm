@@ -24,7 +24,7 @@
 
 <p>For instance, consider the following sets of disc arena games. The prerequisites for each game are indicated using arrows between games. For the first set of games, game 1 has games 2 and 3 as prerequisites, and game 3 has game 2 as a prerequisite. The maximum possible fame is 2, achieved by selecting the set of games {1,2,3}. Game 3 must be selected even though it has a negative fame value, because it is a prerequisite for game 1. For the second set of games, the maximum fame is 3, achieved by selecting the set of games {1,2,4,6}. For the third set of games, the maximum fame is 0, achieved by selecting no games.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/5234.%E2%80%85Find%E2%80%85Fame%E2%80%85in%E2%80%85Disc%E2%80%85Arena/d1fe796a.png" data-original-src="https://upload.acmicpc.net/9a7a5109-ebd4-462e-b64f-967a0ec9b3ae/-/crop/998x745/0,0/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 499px; height: 373px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/5234.%E2%80%85Find%E2%80%85Fame%E2%80%85in%E2%80%85Disc%E2%80%85Arena/d1fe796a.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/5234.%E2%80%85Find%E2%80%85Fame%E2%80%85in%E2%80%85Disc%E2%80%85Arena/d1fe796a.png" data-original-src="https://upload.acmicpc.net/9a7a5109-ebd4-462e-b64f-967a0ec9b3ae/-/crop/998x745/0,0/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 499px; height: 373px;" /></p>
 
 ### 입력
 

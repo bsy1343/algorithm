@@ -20,7 +20,7 @@
 
 <p>For example: if P=(2,3,4,1), then d(P)=10; if P=(4,2,1,3), then d(P)=21.&nbsp;</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/9814.%E2%80%85Coding%E2%80%85of%E2%80%85Permutations/0117b0ad.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/9814/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:392px; width:545px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/9814.%E2%80%85Coding%E2%80%85of%E2%80%85Permutations/0117b0ad.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/9814.%E2%80%85Coding%E2%80%85of%E2%80%85Permutations/0117b0ad.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/9814/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:392px; width:545px" /></p>
 
 <p style="text-align: center;">Rank - 4</p>
 

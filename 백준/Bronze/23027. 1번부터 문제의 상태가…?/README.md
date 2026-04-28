@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/23027.%E2%80%851%EB%B2%88%EB%B6%80%ED%84%B0%E2%80%85%EB%AC%B8%EC%A0%9C%EC%9D%98%E2%80%85%EC%83%81%ED%83%9C%EA%B0%80%E2%80%A6%3F/74ac7b3b.png" data-original-src="https://upload.acmicpc.net/4873cb09-8c7c-4425-9736-39fd62ba48ed/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 417px; width: 500px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/23027.%E2%80%851%EB%B2%88%EB%B6%80%ED%84%B0%E2%80%85%EB%AC%B8%EC%A0%9C%EC%9D%98%E2%80%85%EC%83%81%ED%83%9C%EA%B0%80%E2%80%A6%3F/74ac7b3b.png" data-original-src="%EB%B0%B1%EC%A4%80/Bronze/23027.%E2%80%851%EB%B2%88%EB%B6%80%ED%84%B0%E2%80%85%EB%AC%B8%EC%A0%9C%EC%9D%98%E2%80%85%EC%83%81%ED%83%9C%EA%B0%80%E2%80%A6%3F/74ac7b3b.png" data-original-src="https://upload.acmicpc.net/4873cb09-8c7c-4425-9736-39fd62ba48ed/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 417px; width: 500px;" /></p>
 
 <p>큰일이다. 시험 문제를 본 쿠기는 1번부터 풀 수가 없다. 시험 시간 동안 할 일이 없었던 쿠기는 교수님께 편지를 쓰려고 한다. 작년 시험에서 교수님께 그동안 감사했다는 편지를 전하고 <strong>D+</strong>을 받았던 기억이 있다.&nbsp;그때 성적이 문제였는지, 편지가 문제였는지 궁금하여 이번에도 1번 문제의 답안 칸에 편지를 작성하려고 한다. 혹시나 하는 마음에 쿠기는&nbsp;<strong>D+</strong>만은&nbsp;피하고자&nbsp;편지를 수정하려고 한다.</p>
 

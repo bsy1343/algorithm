@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/31937.%E2%80%85%EB%A1%9C%EA%B7%B8%ED%94%84%EB%A0%88%EC%86%8C%E2%80%85%EB%A7%88%EC%97%90%EC%8A%A4%ED%8A%B8%EB%A1%9C/548a14c5.png" data-original-src="https://upload.acmicpc.net/66d3eb7f-e8fb-47fa-93f4-246ef7f55ddc/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 326px; width: 600px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/31937.%E2%80%85%EB%A1%9C%EA%B7%B8%ED%94%84%EB%A0%88%EC%86%8C%E2%80%85%EB%A7%88%EC%97%90%EC%8A%A4%ED%8A%B8%EB%A1%9C/548a14c5.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/31937.%E2%80%85%EB%A1%9C%EA%B7%B8%ED%94%84%EB%A0%88%EC%86%8C%E2%80%85%EB%A7%88%EC%97%90%EC%8A%A4%ED%8A%B8%EB%A1%9C/548a14c5.png" data-original-src="https://upload.acmicpc.net/66d3eb7f-e8fb-47fa-93f4-246ef7f55ddc/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 326px; width: 600px;" /></p>
 
 <p style="text-align: center;">로그프레소 마에스트로 플레이북 예시</p>
 

@@ -38,4 +38,4 @@
 
 <p>Clarification of the second example:</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/20201.%E2%80%85Oda%C5%A1ilja%C4%8Di/7178dfa9.png" data-original-src="https://upload.acmicpc.net/4e1bcc2d-b934-4863-acc8-c6a17e545d67/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 337px; height: 328px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/20201.%E2%80%85Oda%C5%A1ilja%C4%8Di/7178dfa9.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/20201.%E2%80%85Oda%C5%A1ilja%C4%8Di/7178dfa9.png" data-original-src="https://upload.acmicpc.net/4e1bcc2d-b934-4863-acc8-c6a17e545d67/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 337px; height: 328px;" /></p>

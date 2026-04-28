@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/17244.%E2%80%85%EC%95%84%EB%A7%9E%EB%8B%A4%EC%9A%B0%EC%82%B0/950c90ee.png" data-original-src="https://upload.acmicpc.net/e2f9a035-8d67-4097-8249-37df9c9406f9/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/17244.%E2%80%85%EC%95%84%EB%A7%9E%EB%8B%A4%EC%9A%B0%EC%82%B0/950c90ee.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/17244.%E2%80%85%EC%95%84%EB%A7%9E%EB%8B%A4%EC%9A%B0%EC%82%B0/950c90ee.png" data-original-src="https://upload.acmicpc.net/e2f9a035-8d67-4097-8249-37df9c9406f9/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>경재씨는 저녁 약속을 가기 전 챙기지 않은 물건들이 있는 지 확인하고 있다. 필요한 물건은 전부 챙긴 것 같았고 외출 후 돌아오는 길에 경재씨는 외쳤다.</p>
 

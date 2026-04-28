@@ -54,4 +54,4 @@
 
 ### 힌트
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/24257.%E2%80%85Wall/f59510ef.png" data-original-src="https://upload.acmicpc.net/1d36b44d-0da1-4047-b50f-aff2bfe2a99a/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 294px; height: 115px; float: right;" />The diagram shows one possible arrangement of the stones in the reproduced wall for the first example, in which a minimum area of the rectangle representing the wall is achieved, so that all set conditions are met.</p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/24257.%E2%80%85Wall/f59510ef.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/24257.%E2%80%85Wall/f59510ef.png" data-original-src="https://upload.acmicpc.net/1d36b44d-0da1-4047-b50f-aff2bfe2a99a/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 294px; height: 115px; float: right;" />The diagram shows one possible arrangement of the stones in the reproduced wall for the first example, in which a minimum area of the rectangle representing the wall is achieved, so that all set conditions are met.</p>

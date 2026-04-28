@@ -20,7 +20,7 @@
 
 <p>A transmitter&nbsp;<em>T</em>&nbsp;is located somewhere on a 1,000 square meter grid. It broadcasts in a semicircular area of radius&nbsp;<em>r</em>. The transmitter may be rotated any amount, but not moved. Given&nbsp;<em>N</em>&nbsp;points anywhere on the grid, compute the maximum number of points that can be simultaneously reached by the transmitter&#39;s signal. Figure 1 shows the same data points with two different transmitter rotations.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/4651.%E2%80%85Transmitters/f75f73f7.gif" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/4651/2.gif" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:175px; width:464px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/4651.%E2%80%85Transmitters/f75f73f7.gif" data-original-src="%EB%B0%B1%EC%A4%80/Gold/4651.%E2%80%85Transmitters/f75f73f7.gif" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/4651/2.gif" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:175px; width:464px" /></p>
 
 ### 입력
 

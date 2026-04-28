@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/4883.%E2%80%85%EC%82%BC%EA%B0%81%E2%80%85%EA%B7%B8%EB%9E%98%ED%94%84/5513d9f0.png" data-original-src="https://www.acmicpc.net/upload/images/trigraph.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="float:right; height:342px; width:261px" />이 문제는 삼각 그래프의 가장 위쪽 가운데 정점에서 가장 아래쪽 가운데 정점으로 가는 최단 경로를 찾는 문제이다.</p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/4883.%E2%80%85%EC%82%BC%EA%B0%81%E2%80%85%EA%B7%B8%EB%9E%98%ED%94%84/5513d9f0.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/4883.%E2%80%85%EC%82%BC%EA%B0%81%E2%80%85%EA%B7%B8%EB%9E%98%ED%94%84/5513d9f0.png" data-original-src="https://www.acmicpc.net/upload/images/trigraph.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="float:right; height:342px; width:261px" />이 문제는 삼각 그래프의 가장 위쪽 가운데 정점에서 가장 아래쪽 가운데 정점으로 가는 최단 경로를 찾는 문제이다.</p>
 
 <p>삼각 그래프는 사이클이 없는 그래프로 N &ge; 2 개의 행과 3열로 이루어져 있다. 삼각 그래프는 보통 그래프와 다르게 간선이 아닌 정점에 비용이 있다. 어떤 경로의 비용은 그 경로에서 지나간 정점의 비용의 합이다.</p>
 

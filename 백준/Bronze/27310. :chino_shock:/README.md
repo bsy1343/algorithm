@@ -16,11 +16,11 @@
 
 ### 문제 설명
 
-<p style="text-align:center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/27310.%E2%80%85%3Achino_shock%3A/a9514e7d.png" data-original-src="https://upload.acmicpc.net/452dc985-d922-4b4c-aac8-6c4e743e9731/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p style="text-align:center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/27310.%E2%80%85%3Achino_shock%3A/a9514e7d.png" data-original-src="%EB%B0%B1%EC%A4%80/Bronze/27310.%E2%80%85%3Achino_shock%3A/a9514e7d.png" data-original-src="https://upload.acmicpc.net/452dc985-d922-4b4c-aac8-6c4e743e9731/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p style="text-align: center;">그림 1. 아니메컵 서버를 열고 나서 <code>:chino_shock:</code>부터 추가해 사용하고 있는 sait2000</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/27310.%E2%80%85%3Achino_shock%3A/8a7a9f0b.png" data-original-src="https://upload.acmicpc.net/f342887f-7d07-45b1-b7be-4ba5d8e4859c/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/27310.%E2%80%85%3Achino_shock%3A/8a7a9f0b.png" data-original-src="%EB%B0%B1%EC%A4%80/Bronze/27310.%E2%80%85%3Achino_shock%3A/8a7a9f0b.png" data-original-src="https://upload.acmicpc.net/f342887f-7d07-45b1-b7be-4ba5d8e4859c/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p style="text-align: center;">그림 2. <code>:chinoaww:</code>와 <code>:chino_shock:</code>의 입력 난이도를 비교하고 있는 sait2000</p>
 

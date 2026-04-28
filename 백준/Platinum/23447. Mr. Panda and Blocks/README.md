@@ -22,7 +22,7 @@
 
 <p>Mr. Panda plans to build a fantastic castle with these blocks today.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/23447.%E2%80%85Mr.%E2%80%85Panda%E2%80%85and%E2%80%85Blocks/35d3d7f7.png" data-original-src="https://upload.acmicpc.net/cf42a707-1c90-4ad6-8f36-82cd305686e7/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 394px; height: 250px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/23447.%E2%80%85Mr.%E2%80%85Panda%E2%80%85and%E2%80%85Blocks/35d3d7f7.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/23447.%E2%80%85Mr.%E2%80%85Panda%E2%80%85and%E2%80%85Blocks/35d3d7f7.png" data-original-src="https://upload.acmicpc.net/cf42a707-1c90-4ad6-8f36-82cd305686e7/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 394px; height: 250px;" /></p>
 
 <p>Firstly, he defines an attribute called <em>connected</em>:</p>
 

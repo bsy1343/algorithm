@@ -18,13 +18,13 @@
 
 <p>창연이는 평면 위에 $n$개의 거울과, 크기가 매우 작은 레이저 포인터를 잘 배치시켜 광선을 이용한 그림을 그렸다.</p>
 
-<div style="display: flex; flex-direction: column; align-items: center; justify-content: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/32217.%E2%80%85%EA%B4%91%EC%84%A0%E2%80%85%EB%8B%A4%EA%B0%81%ED%98%95%E2%80%85%EB%A7%8C%EB%93%A4%EA%B8%B0/c6e49fb0.png" data-original-src="https://upload.acmicpc.net/b157c438-14db-471a-b96a-eaef7fcc383f/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 100%; max-width: 343px;" />
+<div style="display: flex; flex-direction: column; align-items: center; justify-content: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/32217.%E2%80%85%EA%B4%91%EC%84%A0%E2%80%85%EB%8B%A4%EA%B0%81%ED%98%95%E2%80%85%EB%A7%8C%EB%93%A4%EA%B8%B0/c6e49fb0.png" data-original-src="%EB%B0%B1%EC%A4%80/Bronze/32217.%E2%80%85%EA%B4%91%EC%84%A0%E2%80%85%EB%8B%A4%EA%B0%81%ED%98%95%E2%80%85%EB%A7%8C%EB%93%A4%EA%B8%B0/c6e49fb0.png" data-original-src="https://upload.acmicpc.net/b157c438-14db-471a-b96a-eaef7fcc383f/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 100%; max-width: 343px;" />
 <p style="text-align: center;"><small>광선을 이용해 그린 그림의 예시</small></p>
 </div>
 
 <p>완성한 그림은 볼록다각형 $A_0A_1\cdots A_n$ 모양을 이루었다. $A_0$는 레이저 포인터가 위치한 지점이고, $A_1,A_2,\ldots ,A_n$ 지점에서 잘 배치된 거울들에 차례대로 반사되어 $A_0$로 돌아온 광선은 레이저 포인터에 막혀 더 나아가지 않았다.</p>
 
-<div style="display: flex; flex-direction: column; align-items: center; justify-content: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/32217.%E2%80%85%EA%B4%91%EC%84%A0%E2%80%85%EB%8B%A4%EA%B0%81%ED%98%95%E2%80%85%EB%A7%8C%EB%93%A4%EA%B8%B0/64536c25.png" data-original-src="https://upload.acmicpc.net/53263538-0616-45dd-9eec-8140512927ab/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 100%; max-width: 457px;" />
+<div style="display: flex; flex-direction: column; align-items: center; justify-content: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/32217.%E2%80%85%EA%B4%91%EC%84%A0%E2%80%85%EB%8B%A4%EA%B0%81%ED%98%95%E2%80%85%EB%A7%8C%EB%93%A4%EA%B8%B0/64536c25.png" data-original-src="%EB%B0%B1%EC%A4%80/Bronze/32217.%E2%80%85%EA%B4%91%EC%84%A0%E2%80%85%EB%8B%A4%EA%B0%81%ED%98%95%E2%80%85%EB%A7%8C%EB%93%A4%EA%B8%B0/64536c25.png" data-original-src="https://upload.acmicpc.net/53263538-0616-45dd-9eec-8140512927ab/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 100%; max-width: 457px;" />
 <p style="text-align: center;"><small>광선이 거울에 반사되어 진행하는 모습</small></p>
 </div>
 

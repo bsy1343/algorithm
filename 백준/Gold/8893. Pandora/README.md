@@ -20,7 +20,7 @@
 
 <p>A rectilinear polygon is a polygon whose edges are either horizontal or vertical. That is, at each vertex of the polygon, the interior angle formed by its two incident edges is either 90&deg; or 270&deg;, as shown in Figure 1. We say that a rectilinear polygon is simple if (1) each vertex is incident to exactly two edges and (2) there are no edges that intersect each other except at their end vertices.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/8893.%E2%80%85Pandora/a0860bdb.png" data-original-src="https://www.acmicpc.net/upload/images2/rl1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:279px; width:547px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/8893.%E2%80%85Pandora/a0860bdb.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/8893.%E2%80%85Pandora/a0860bdb.png" data-original-src="https://www.acmicpc.net/upload/images2/rl1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:279px; width:547px" /></p>
 
 <p style="text-align: center;">Figure 1. (a) A simple rectilinear polygon. (b)-(c) Non-simple rectilinear polygons because (b) there is a vertex having four incident edges, or (c) there is a pair of edges crossing each other.</p>
 
@@ -30,7 +30,7 @@
 
 <p>Let l be the number of L&rsquo;s in S, and let r be the number of R&rsquo;s in S. Since S is obtained by moving along the boundary of the simple rectilinear polygon in counterclockwise direction, it is true that l = r + 4, where l &ge; 4 and r &ge; 0. Conversely, if we have a sequence S with l = r + 4, then we can always draw one or more simple rectilinear polygons having (l+r) vertices from S whose angle sequences in counterclockwise direction are exactly S. The final task of KARA is to know the monotonicity of the simple rectilinear polygons drawn from S.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/8893.%E2%80%85Pandora/b924c83a.png" data-original-src="https://www.acmicpc.net/upload/images2/rl2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:230px; width:600px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/8893.%E2%80%85Pandora/b924c83a.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/8893.%E2%80%85Pandora/b924c83a.png" data-original-src="https://www.acmicpc.net/upload/images2/rl2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:230px; width:600px" /></p>
 
 <p style="text-align: center;">Figure 2. (a) A simple rectilinear polygon and its angle sequence S. (b)-(d) Examples: (b) Monotone to two axes. (c) Monotone to one axis. (d) Not monotone to any axis.</p>
 

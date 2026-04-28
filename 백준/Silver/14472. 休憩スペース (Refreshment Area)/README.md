@@ -38,6 +38,6 @@
 
 <p>入出力例 1 では，下の図に示すように，休憩スペースを設ける方法は全部で 12 通りある．</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/14472.%E2%80%85%E4%BC%91%E6%86%A9%E3%82%B9%E3%83%9A%E3%83%BC%E3%82%B9%E2%80%85(Refreshment%E2%80%85Area)/c724990c.png" data-original-src="https://upload.acmicpc.net/832bd32d-e523-4e87-bf45-23e29b1c10c7/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:207px; width:1024px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/14472.%E2%80%85%E4%BC%91%E6%86%A9%E3%82%B9%E3%83%9A%E3%83%BC%E3%82%B9%E2%80%85(Refreshment%E2%80%85Area)/c724990c.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/14472.%E2%80%85%E4%BC%91%E6%86%A9%E3%82%B9%E3%83%9A%E3%83%BC%E3%82%B9%E2%80%85(Refreshment%E2%80%85Area)/c724990c.png" data-original-src="https://upload.acmicpc.net/832bd32d-e523-4e87-bf45-23e29b1c10c7/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:207px; width:1024px" /></p>
 
 <p>※各入出力例のデータは，右クリック等によりファイルに保存して利用可能です．</p>

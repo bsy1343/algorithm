@@ -62,4 +62,4 @@
 
 <p>This figure corresponds to the first two days of sample $1$. Note that the sum of prices after the first day is $16$, so the first integer in the output is $16$.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/28593.%E2%80%85Inflation/2b8bc805.png" data-original-src="https://upload.acmicpc.net/71e451eb-3315-48d7-80e2-52a70587ca08/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/28593.%E2%80%85Inflation/2b8bc805.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/28593.%E2%80%85Inflation/2b8bc805.png" data-original-src="https://upload.acmicpc.net/71e451eb-3315-48d7-80e2-52a70587ca08/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>

@@ -18,13 +18,13 @@
 
 <p>이음줄은 고려대학교 제49대 총학생회장단입니다. 이음줄이 작년 가을에 선거운동을 했을 때 이런 포스터를 나눠줬어요.</p>
 
-<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/14583.%E2%80%85%EC%9D%B4%EC%9D%8C%EC%A4%84/e8b57d63.jpg" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14583/poster_original.jpg" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:478px; width:640px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/14583.%E2%80%85%EC%9D%B4%EC%9D%8C%EC%A4%84/e8b57d63.jpg" data-original-src="%EB%B0%B1%EC%A4%80/Gold/14583.%E2%80%85%EC%9D%B4%EC%9D%8C%EC%A4%84/e8b57d63.jpg" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14583/poster_original.jpg" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:478px; width:640px" /></p>
 
 <p>이 포스터는 신기하게도 접힌 부분을 펼 수 있어요. 접힌 부분을 펴면 다음과 같이 포스터가 펴지죠.</p>
 
-<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/14583.%E2%80%85%EC%9D%B4%EC%9D%8C%EC%A4%84/b8161d87.jpg" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14583/poster_unfold1.jpg" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:478px; width:640px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/14583.%E2%80%85%EC%9D%B4%EC%9D%8C%EC%A4%84/b8161d87.jpg" data-original-src="%EB%B0%B1%EC%A4%80/Gold/14583.%E2%80%85%EC%9D%B4%EC%9D%8C%EC%A4%84/b8161d87.jpg" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14583/poster_unfold1.jpg" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:478px; width:640px" /></p>
 
-<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/14583.%E2%80%85%EC%9D%B4%EC%9D%8C%EC%A4%84/decd7927.jpg" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14583/poster_unfold2.jpg" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:478px; width:640px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/14583.%E2%80%85%EC%9D%B4%EC%9D%8C%EC%A4%84/decd7927.jpg" data-original-src="%EB%B0%B1%EC%A4%80/Gold/14583.%E2%80%85%EC%9D%B4%EC%9D%8C%EC%A4%84/decd7927.jpg" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14583/poster_unfold2.jpg" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:478px; width:640px" /></p>
 
 <p>지노는 이음줄 포스터를 보고 감명을 깊게 받은 나머지, 이음줄 포스터와 비슷하게 포스터를 만들어 보려고 합니다. 그러나 지노가 갖고 있는 건 오직 Hcm x Vcm 크기의 직사각형 모양 종이밖에 없어요. 지노가 이 종이를 가지고 포스터를 만들었을 때 어떤 크기의 포스터가 생길까요?</p>
 

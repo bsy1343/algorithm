@@ -23,8 +23,8 @@
 <table class="table" style="width:100%">
 	<tbody>
 		<tr>
-			<td style="text-align:center; width:50%"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/15297.%E2%80%85Capsules/ff22fa20.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15297/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:92px; width:131px" /></td>
-			<td style="text-align:center; width:50%"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/15297.%E2%80%85Capsules/11940149.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15297/2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:91px; width:131px" /></td>
+			<td style="text-align:center; width:50%"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/15297.%E2%80%85Capsules/ff22fa20.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/15297.%E2%80%85Capsules/ff22fa20.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15297/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:92px; width:131px" /></td>
+			<td style="text-align:center; width:50%"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/15297.%E2%80%85Capsules/11940149.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/15297.%E2%80%85Capsules/11940149.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15297/2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:91px; width:131px" /></td>
 		</tr>
 		<tr>
 			<td style="text-align:center; width:50%">Incomplete Grid</td>

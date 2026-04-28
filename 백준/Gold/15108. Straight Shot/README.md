@@ -20,7 +20,7 @@
 
 <p>The direction that robot is facing is not changed by the sidewalks; the robot will face in the same orientation for the entire duration of its walk. These sidewalks are aligned with the y-axis and are infinitely long. You still must get the robot to go from start to finish, but you&rsquo;ll need to adjust the orientation of the robot at the start. Given that you choose this direction correctly, so that the robot arrives exactly at the destination, how long will it take the robot to get there?</p>
 
-<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/15108.%E2%80%85Straight%E2%80%85Shot/a2f22993.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15108/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:260px; width:407px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/15108.%E2%80%85Straight%E2%80%85Shot/a2f22993.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/15108.%E2%80%85Straight%E2%80%85Shot/a2f22993.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15108/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:260px; width:407px" /></p>
 
 <p>One final caveat: You don&rsquo;t want the toy robot to walk for too long. If the robot cannot reach the destination in at most twice the time it would take in the absence of all moving sidewalks (i.e., 2X/v), indicate this.</p>
 

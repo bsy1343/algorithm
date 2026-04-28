@@ -18,7 +18,7 @@
 
 <p>A cross-shaped infinite area on the $x$-$y$ plane can be specified by two distinct points as depicted on the figure below.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/24966.%E2%80%85The%E2%80%85Cross%E2%80%85Covers%E2%80%85Everything/9511c029.png" data-original-src="https://upload.acmicpc.net/82298a3f-bedf-4dee-8b2b-424090bf3e9c/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 222px; height: 201px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/24966.%E2%80%85The%E2%80%85Cross%E2%80%85Covers%E2%80%85Everything/9511c029.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/24966.%E2%80%85The%E2%80%85Cross%E2%80%85Covers%E2%80%85Everything/9511c029.png" data-original-src="https://upload.acmicpc.net/82298a3f-bedf-4dee-8b2b-424090bf3e9c/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 222px; height: 201px;" /></p>
 
 <p style="text-align: center;">Figure J.1. The cross area specified by two points numbered $2$ and $4$</p>
 

@@ -20,17 +20,17 @@
 
 <p>You are to write a program to help Lawrence figure out how to best use his limited resources. You have some information from British Intelligence. First, the rail line is completely linear &ndash; there are no branches, no spurs. Next, British Intelligence has assigned a Strategic Value to each depot &ndash; an integer from 1 to 5. But, a depot is of no use on its own, it only has value if it is connected to other depots. The Strategic Value of the entire railroad is calculated by adding up the products of the Strategic Values for every pair of depots that are connected, directly or indirectly, by the rail line. Consider this railroad:&nbsp;</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/4115.%E2%80%85Lawrence%E2%80%85of%E2%80%85Arabia/b05bff54.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/4115/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:62px; width:562px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/4115.%E2%80%85Lawrence%E2%80%85of%E2%80%85Arabia/b05bff54.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/4115.%E2%80%85Lawrence%E2%80%85of%E2%80%85Arabia/b05bff54.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/4115/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:62px; width:562px" /></p>
 
 <p>Its Strategic Value is 4*5 + 4*1 + 4*2 + 5*1 + 5*2 + 1*2 = 49.</p>
 
 <p>Now, suppose that Lawrence only has enough resources for one attack. He cannot attack the depots themselves &ndash; they&rsquo;re too well defended. He must attack the rail line between depots, in the middle of the desert. Consider what would happen if Lawrence attacked this rail line right in the middle:&nbsp;</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/4115.%E2%80%85Lawrence%E2%80%85of%E2%80%85Arabia/04596d54.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/4115/2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:92px; width:565px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/4115.%E2%80%85Lawrence%E2%80%85of%E2%80%85Arabia/04596d54.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/4115.%E2%80%85Lawrence%E2%80%85of%E2%80%85Arabia/04596d54.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/4115/2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:92px; width:565px" /></p>
 
 <p>The Strategic Value of the remaining railroad is 4*5 + 1*2 = 22. But, suppose Lawrence attacks between the 4 and 5 depots:&nbsp;</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/4115.%E2%80%85Lawrence%E2%80%85of%E2%80%85Arabia/6fd77cc0.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/4115/3.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:91px; width:573px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/4115.%E2%80%85Lawrence%E2%80%85of%E2%80%85Arabia/6fd77cc0.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/4115.%E2%80%85Lawrence%E2%80%85of%E2%80%85Arabia/6fd77cc0.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/4115/3.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:91px; width:573px" /></p>
 
 <p>The Strategic Value of the remaining railroad is 5*1 + 5*2 + 1*2 = 17. This is Lawrence&rsquo;s best option.</p>
 

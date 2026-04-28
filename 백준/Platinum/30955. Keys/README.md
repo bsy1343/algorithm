@@ -71,7 +71,7 @@
 
 <p>The first example represents the following floor plan, where blue numbers correspond to key IDs required for each door:</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/30955.%E2%80%85Keys/817291bf.png" data-original-src="https://upload.acmicpc.net/3f327faa-3ca2-4d59-91ba-45ad08732987/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/30955.%E2%80%85Keys/817291bf.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/30955.%E2%80%85Keys/817291bf.png" data-original-src="https://upload.acmicpc.net/3f327faa-3ca2-4d59-91ba-45ad08732987/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>Alice takes keys 0, 1, and 2 while Bob takes keys 3 and 4. Alice walks from 0 to 1, then to 2, and then to 3. There, she drops key 0. She retraces her way back to 1. Bob starts in 1, walks to 4, then to 3, where he picks up key 0. He retraces his way back to 1, and with the newly picked-up key 0, opens up the door to 0.</p>
 

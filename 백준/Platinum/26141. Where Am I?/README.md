@@ -25,8 +25,8 @@
 <table class="table table-bordered td-center">
 	<tbody>
 		<tr>
-			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/26141.%E2%80%85Where%E2%80%85Am%E2%80%85I%3F/3f51f2c2.png" data-original-src="https://upload.acmicpc.net/d7b4f022-a86d-4d68-a09b-7a7001f55dbe/-/crop/531x532/0,0/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 266px; height: 266px;" /></td>
-			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/26141.%E2%80%85Where%E2%80%85Am%E2%80%85I%3F/32343a9e.png" data-original-src="https://upload.acmicpc.net/d7b4f022-a86d-4d68-a09b-7a7001f55dbe/-/crop/531x532/571,0/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 266px; height: 266px;" /></td>
+			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/26141.%E2%80%85Where%E2%80%85Am%E2%80%85I%3F/3f51f2c2.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/26141.%E2%80%85Where%E2%80%85Am%E2%80%85I%3F/3f51f2c2.png" data-original-src="https://upload.acmicpc.net/d7b4f022-a86d-4d68-a09b-7a7001f55dbe/-/crop/531x532/0,0/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 266px; height: 266px;" /></td>
+			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/26141.%E2%80%85Where%E2%80%85Am%E2%80%85I%3F/32343a9e.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/26141.%E2%80%85Where%E2%80%85Am%E2%80%85I%3F/32343a9e.png" data-original-src="https://upload.acmicpc.net/d7b4f022-a86d-4d68-a09b-7a7001f55dbe/-/crop/531x532/571,0/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 266px; height: 266px;" /></td>
 		</tr>
 		<tr>
 			<td>(a) Grid with markers (&times;) corresponding to the first sample input.</td>

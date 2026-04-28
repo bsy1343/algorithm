@@ -33,7 +33,7 @@
 
 <p>The picture below to the left shows a sample rectangular piece of paper that is lined with a W&times;H = 12&times;9 square grid of cells and is cut into a trivial puzzle of k = 9 rectangles with a width of w = 4 cells and a height of h = 3 cells each with bold dashed lines. The corners of the central 3 &times; 4 piece of this trivial puzzle are shown in black. They have to be a part of the central piece of any well-formed puzzle. The other potential cells of the central piece of a well-formed puzzle are shown in gray. The bold black line shows (3w &minus; 2) &times; (3h &minus; 2) = 10 &times; 7 rectangular region that will be describing this central piece. The picture to the right shows the same for the piece in the upper-right corner of the puzzle.</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/9579.%E2%80%85ASCII%E2%80%85Puzzle/98ec6286.png" data-original-src="https://www.acmicpc.net/upload/images2/neerc_a.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:236px; width:584px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/9579.%E2%80%85ASCII%E2%80%85Puzzle/98ec6286.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/9579.%E2%80%85ASCII%E2%80%85Puzzle/98ec6286.png" data-original-src="https://www.acmicpc.net/upload/images2/neerc_a.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:236px; width:584px" /></p>
 
 <p>Your task is to help Floi solve the puzzle.</p>
 

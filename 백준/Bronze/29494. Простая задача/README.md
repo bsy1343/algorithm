@@ -20,15 +20,15 @@
 
 <p>Вова попросил своего друга Сережу взять три квадратных листа бумаги и изобразить диагонали данных квадратов на листах.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/29494.%E2%80%85%D0%9F%D1%80%D0%BE%D1%81%D1%82%D0%B0%D1%8F%E2%80%85%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B0/2924a2cf.png" data-original-src="https://upload.acmicpc.net/6380f179-8137-4cd3-ac46-9dd14f1fb60f/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 315px; height: 89px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/29494.%E2%80%85%D0%9F%D1%80%D0%BE%D1%81%D1%82%D0%B0%D1%8F%E2%80%85%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B0/2924a2cf.png" data-original-src="%EB%B0%B1%EC%A4%80/Bronze/29494.%E2%80%85%D0%9F%D1%80%D0%BE%D1%81%D1%82%D0%B0%D1%8F%E2%80%85%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B0/2924a2cf.png" data-original-src="https://upload.acmicpc.net/6380f179-8137-4cd3-ac46-9dd14f1fb60f/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 315px; height: 89px;" /></p>
 
 <p>Далее, Сережа закрасил каждый из четырех получившихся треугольников в белый или черный цвет.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/29494.%E2%80%85%D0%9F%D1%80%D0%BE%D1%81%D1%82%D0%B0%D1%8F%E2%80%85%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B0/375e2968.png" data-original-src="https://upload.acmicpc.net/8c9bce6b-04a1-4208-9fa3-a900f93c143e/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 315px; height: 90px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/29494.%E2%80%85%D0%9F%D1%80%D0%BE%D1%81%D1%82%D0%B0%D1%8F%E2%80%85%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B0/375e2968.png" data-original-src="%EB%B0%B1%EC%A4%80/Bronze/29494.%E2%80%85%D0%9F%D1%80%D0%BE%D1%81%D1%82%D0%B0%D1%8F%E2%80%85%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B0/375e2968.png" data-original-src="https://upload.acmicpc.net/8c9bce6b-04a1-4208-9fa3-a900f93c143e/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 315px; height: 90px;" /></p>
 
 <p>После чего Вовина задача состояла в том, чтобы написать программу, которая по раскраске квадратов определит, можно ли совместить ребрами данные квадраты так, чтобы смежные треугольники различных квадратов были раскрашены в один цвет. Заметим, что для достижения этой цели квадраты разрешается поворачивать.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/29494.%E2%80%85%D0%9F%D1%80%D0%BE%D1%81%D1%82%D0%B0%D1%8F%E2%80%85%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B0/63897acc.png" data-original-src="https://upload.acmicpc.net/b623ed78-42a3-41ca-9df1-696b21edba82/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 165px; height: 164px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/29494.%E2%80%85%D0%9F%D1%80%D0%BE%D1%81%D1%82%D0%B0%D1%8F%E2%80%85%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B0/63897acc.png" data-original-src="%EB%B0%B1%EC%A4%80/Bronze/29494.%E2%80%85%D0%9F%D1%80%D0%BE%D1%81%D1%82%D0%B0%D1%8F%E2%80%85%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B0/63897acc.png" data-original-src="https://upload.acmicpc.net/b623ed78-42a3-41ca-9df1-696b21edba82/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 165px; height: 164px;" /></p>
 
 <p>Побалуйте и Вы себя простой задачей.</p>
 

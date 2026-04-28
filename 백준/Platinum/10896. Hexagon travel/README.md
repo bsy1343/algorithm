@@ -18,11 +18,11 @@
 
 <p>육각형 모양의 타일로 이루어진 벌집 모양의 판이 있다. 타일에는 빨강색, 녹색, 파란색 중 하나의 색을 칠할 수 있는데, 변이 인접한 타일끼리는 같은 색을 칠할 수 없다. 우리는 앞의 조건을 만족하는 판들 중 아래의 판을 사용하도록 하겠다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/10896.%E2%80%85Hexagon%E2%80%85travel/83836bd5.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/10896/pic1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:318px; width:355px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/10896.%E2%80%85Hexagon%E2%80%85travel/83836bd5.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/10896.%E2%80%85Hexagon%E2%80%85travel/83836bd5.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/10896/pic1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:318px; width:355px" /></p>
 
 <p>이 판의 어느 파란 타일의 정 중앙에 오른쪽을 바라보는 로봇이 올려져 있다. 로봇에게는 세가지 명령이 있는데, <code>LEFT</code>, <code>RIGHT</code>, <code>MOVE</code> 이다. 각 명령을 자세히 정의하기 위해 칸의 중앙에 위치한 로봇이 보고 있는 방향을 숫자로 나타내보자. (처음에 로봇은 오른쪽 방향인 0을 바라보고 있는 것이다.)</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/10896.%E2%80%85Hexagon%E2%80%85travel/ce2be2ee.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/10896/pic2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:71px; width:94px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/10896.%E2%80%85Hexagon%E2%80%85travel/ce2be2ee.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/10896.%E2%80%85Hexagon%E2%80%85travel/ce2be2ee.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/10896/pic2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:71px; width:94px" /></p>
 
 <p>그리고 이제 로봇의 세가지 동작을 정의하면 아래와 같다.</p>
 

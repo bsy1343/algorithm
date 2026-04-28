@@ -20,7 +20,7 @@
 
 <p>파댕이는 유명한 예술가가 되고 싶어 여러 작품을 만든다. 이번에는 4차원 구조물을 만들 예정이다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/30986.%E2%80%85%ED%8C%8C%EB%8C%95%EC%9D%B4%EC%9D%98%E2%80%85%EC%98%88%EC%88%A0%EC%9E%91%ED%92%88/3906abb3.png" data-original-src="https://upload.acmicpc.net/9d3526ab-42e7-48cb-b41c-9d36f5fbde50/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 382px; width: 256px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/30986.%E2%80%85%ED%8C%8C%EB%8C%95%EC%9D%B4%EC%9D%98%E2%80%85%EC%98%88%EC%88%A0%EC%9E%91%ED%92%88/3906abb3.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/30986.%E2%80%85%ED%8C%8C%EB%8C%95%EC%9D%B4%EC%9D%98%E2%80%85%EC%98%88%EC%88%A0%EC%9E%91%ED%92%88/3906abb3.png" data-original-src="https://upload.acmicpc.net/9d3526ab-42e7-48cb-b41c-9d36f5fbde50/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 382px; width: 256px;" /></p>
 
 <p>파댕이가 만들 작품은 정십육포체의 바깥을 둘러싸는 16개의 정사면체의 중심에 빛이 나는 전구를 장착해 빛나는 정십육포체이다. 파댕이가 사용할 전구는 한 개 또는 두 개의 정사면체를 동시에 빛나게 할 수 있다. 두 개의 정사면체를 동시에 빛나게 하기 위해서 두 정사면체가 만나는 교면의 중심에 구멍을 뚫었다. 이 구멍을 통해서 두 개의 정사면체가 동시에 빛나게 할 전구를 통과시킬 수 있다. 파댕이는 돈이 모자라 전구에 드는 돈을 최대한 아끼고자 한다.</p>
 

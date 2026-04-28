@@ -29,7 +29,7 @@
 
 <p>例えば縦部&nbsp;<i>a = {10, 2, 5}</i>, 横部&nbsp;<i>b = {1, 1, 6}</i>&nbsp;として出題された児童は，図 A-1 の様にマスに記入することになる．</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/22361.%E2%80%85nm%E3%83%9E%E3%82%B9%E8%A8%88%E7%AE%97/521631fc.png" data-original-src="https://upload.acmicpc.net/95b8cd27-7005-4130-8a06-04bee0516d5c/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 494px; height: 423px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/22361.%E2%80%85nm%E3%83%9E%E3%82%B9%E8%A8%88%E7%AE%97/521631fc.png" data-original-src="%EB%B0%B1%EC%A4%80/Bronze/22361.%E2%80%85nm%E3%83%9E%E3%82%B9%E8%A8%88%E7%AE%97/521631fc.png" data-original-src="https://upload.acmicpc.net/95b8cd27-7005-4130-8a06-04bee0516d5c/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 494px; height: 423px;" /></p>
 
 <center>図 A-1&nbsp;<i>nm</i>&nbsp;マス計算の例</center>
 

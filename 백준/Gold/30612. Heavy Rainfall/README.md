@@ -24,11 +24,11 @@
 
 <p>It&#39;s easier to understand all of this if we visualize the problem. As an example, consider we&#39;re given as input the height values [3, 0, 6, 1, 2, 8, 6, 7, 3, 1, 2]. The mountains formed could be visualized as below:</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/30612.%E2%80%85Heavy%E2%80%85Rainfall/ca72d44c.png" data-original-src="https://upload.acmicpc.net/6b7fd844-df23-4ee1-9d47-5b9ba6fe01b6/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 395px; height: 200px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/30612.%E2%80%85Heavy%E2%80%85Rainfall/ca72d44c.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/30612.%E2%80%85Heavy%E2%80%85Rainfall/ca72d44c.png" data-original-src="https://upload.acmicpc.net/6b7fd844-df23-4ee1-9d47-5b9ba6fe01b6/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 395px; height: 200px;" /></p>
 
 <p>The biggest lakes that can form for this mountain range and their corresponding sizes would be the following:</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/30612.%E2%80%85Heavy%E2%80%85Rainfall/3b60b7cf.png" data-original-src="https://upload.acmicpc.net/96a3c573-1436-487e-99de-c539788e7a62/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 395px; height: 225px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/30612.%E2%80%85Heavy%E2%80%85Rainfall/3b60b7cf.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/30612.%E2%80%85Heavy%E2%80%85Rainfall/3b60b7cf.png" data-original-src="https://upload.acmicpc.net/96a3c573-1436-487e-99de-c539788e7a62/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 395px; height: 225px;" /></p>
 
 <p>None of the lakes could be bigger, since the water would fall off either side. Also, a lake cannot form in the first gap, as it drains to the ground.</p>
 

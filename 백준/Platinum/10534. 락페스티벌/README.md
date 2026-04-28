@@ -38,7 +38,7 @@
 
 <p>예제를 그림으로 나타내면 다음과 같다.</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/10534.%E2%80%85%EB%9D%BD%ED%8E%98%EC%8A%A4%ED%8B%B0%EB%B2%8C/53634858.png" data-original-src="https://www.acmicpc.net/upload/images2/park.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:159px; width:290px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/10534.%E2%80%85%EB%9D%BD%ED%8E%98%EC%8A%A4%ED%8B%B0%EB%B2%8C/53634858.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/10534.%E2%80%85%EB%9D%BD%ED%8E%98%EC%8A%A4%ED%8B%B0%EB%B2%8C/53634858.png" data-original-src="https://www.acmicpc.net/upload/images2/park.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:159px; width:290px" /></p>
 
 <p>그림에는 총 4개의 땅 묶음이 존재한다.</p>
 

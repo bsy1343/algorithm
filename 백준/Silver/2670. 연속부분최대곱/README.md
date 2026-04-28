@@ -18,7 +18,7 @@
 
 <p>N개의 실수가 있을 때, 한 개 이상의 연속된 수들의 곱이 최대가 되는 부분을 찾아, 그 곱을 출력하는 프로그램을 작성하시오. 예를 들어 아래와 같이 8개의 양의 실수가 주어진다면,</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/2670.%E2%80%85%EC%97%B0%EC%86%8D%EB%B6%80%EB%B6%84%EC%B5%9C%EB%8C%80%EA%B3%B1/dfd27f62.png" data-original-src="https://www.acmicpc.net/upload/images/Kr2fhViNP7YfNWrhf77jJeXwsd.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 600px; height: 49px; " /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/2670.%E2%80%85%EC%97%B0%EC%86%8D%EB%B6%80%EB%B6%84%EC%B5%9C%EB%8C%80%EA%B3%B1/dfd27f62.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/2670.%E2%80%85%EC%97%B0%EC%86%8D%EB%B6%80%EB%B6%84%EC%B5%9C%EB%8C%80%EA%B3%B1/dfd27f62.png" data-original-src="https://www.acmicpc.net/upload/images/Kr2fhViNP7YfNWrhf77jJeXwsd.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 600px; height: 49px; " /></p>
 
 <p>색칠된 부분의 곱이 최대가 되며, 그 값은 1.638이다.</p>
 

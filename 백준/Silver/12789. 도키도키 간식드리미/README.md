@@ -24,11 +24,11 @@
 
 <p>현재 간식 배부 공간을 그림으로 나타내면 다음과 같다.</p>
 
-<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/12789.%E2%80%85%EB%8F%84%ED%82%A4%EB%8F%84%ED%82%A4%E2%80%85%EA%B0%84%EC%8B%9D%EB%93%9C%EB%A6%AC%EB%AF%B8/a69271ff.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/12789/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:169px; width:306px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/12789.%E2%80%85%EB%8F%84%ED%82%A4%EB%8F%84%ED%82%A4%E2%80%85%EA%B0%84%EC%8B%9D%EB%93%9C%EB%A6%AC%EB%AF%B8/a69271ff.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/12789.%E2%80%85%EB%8F%84%ED%82%A4%EB%8F%84%ED%82%A4%E2%80%85%EA%B0%84%EC%8B%9D%EB%93%9C%EB%A6%AC%EB%AF%B8/a69271ff.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/12789/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:169px; width:306px" /></p>
 
 <p>위 예제는 다음 그림과 같이 움직였을 때 모두가 순서대로 간식을 받을 수 있다..</p>
 
-<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/12789.%E2%80%85%EB%8F%84%ED%82%A4%EB%8F%84%ED%82%A4%E2%80%85%EA%B0%84%EC%8B%9D%EB%93%9C%EB%A6%AC%EB%AF%B8/865320b1.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/12789/2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:119px; width:470px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/12789.%E2%80%85%EB%8F%84%ED%82%A4%EB%8F%84%ED%82%A4%E2%80%85%EA%B0%84%EC%8B%9D%EB%93%9C%EB%A6%AC%EB%AF%B8/865320b1.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/12789.%E2%80%85%EB%8F%84%ED%82%A4%EB%8F%84%ED%82%A4%E2%80%85%EA%B0%84%EC%8B%9D%EB%93%9C%EB%A6%AC%EB%AF%B8/865320b1.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/12789/2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:119px; width:470px" /></p>
 
 ### 입력
 

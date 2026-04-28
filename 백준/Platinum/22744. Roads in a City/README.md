@@ -24,7 +24,7 @@
 
 <p>The following figure shows the first plan given as the sample input.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/22744.%E2%80%85Roads%E2%80%85in%E2%80%85a%E2%80%85City/c1e12c4b.png" data-original-src="https://upload.acmicpc.net/14ee2547-5431-486d-950a-ef458f9243eb/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 123px; height: 123px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/22744.%E2%80%85Roads%E2%80%85in%E2%80%85a%E2%80%85City/c1e12c4b.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/22744.%E2%80%85Roads%E2%80%85in%E2%80%85a%E2%80%85City/c1e12c4b.png" data-original-src="https://upload.acmicpc.net/14ee2547-5431-486d-950a-ef458f9243eb/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 123px; height: 123px;" /></p>
 
 <p style="text-align: center;">Figure 1: The first plan given as the sample input</p>
 

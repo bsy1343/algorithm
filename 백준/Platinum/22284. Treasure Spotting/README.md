@@ -22,7 +22,7 @@
 
 <p>Which pirates can see where the treasure is buried?</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/22284.%E2%80%85Treasure%E2%80%85Spotting/417a779a.png" data-original-src="https://upload.acmicpc.net/2c59c6ae-d7cf-49a3-a965-244d1df448fb/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 448px; height: 152px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/22284.%E2%80%85Treasure%E2%80%85Spotting/417a779a.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/22284.%E2%80%85Treasure%E2%80%85Spotting/417a779a.png" data-original-src="https://upload.acmicpc.net/2c59c6ae-d7cf-49a3-a965-244d1df448fb/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 448px; height: 152px;" /></p>
 
 <p>Figure F.1:&nbsp;The left picture illustrates Sample Input 1 where the right-most pirate is the only one who can see the location of the buried treasure. The right picture illustrates Sample Input 2 where the middle pirate is the only one who can see the buried treasure.</p>
 

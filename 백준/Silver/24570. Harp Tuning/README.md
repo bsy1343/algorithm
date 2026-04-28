@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/24570.%E2%80%85Harp%E2%80%85Tuning/c23306b5.png" data-original-src="https://upload.acmicpc.net/29a8a3f2-fe28-4b48-9c02-e67fd30ad4d5/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 204px; height: 295px; float: right;" />The CCC harp is a stringed instrument with strings labelled A, B, . . . , T. Like other instruments, it can be out of tune.</p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/24570.%E2%80%85Harp%E2%80%85Tuning/c23306b5.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/24570.%E2%80%85Harp%E2%80%85Tuning/c23306b5.png" data-original-src="https://upload.acmicpc.net/29a8a3f2-fe28-4b48-9c02-e67fd30ad4d5/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 204px; height: 295px; float: right;" />The CCC harp is a stringed instrument with strings labelled A, B, . . . , T. Like other instruments, it can be out of tune.</p>
 
 <p>A musically inclined computer science student has written a clever computer program to help tune the harp. The program analyzes the sounds produced by the harp and provides instructions to fix each string that is out of tune. Each instruction includes a group of strings, whether they should be tightened or loosened, and by how many turns.</p>
 

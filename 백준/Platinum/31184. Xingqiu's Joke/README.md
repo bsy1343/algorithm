@@ -18,7 +18,7 @@
 
 <p>Once again, Xingqiu hides Chongyun&#39;s ice cream into a box with a strange lock. Liyue&#39;s summer has been always very hot and Chongyun suffers more because of his excessive yang (positive) energy, so he needs that ice cream desperately.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/31184.%E2%80%85Xingqiu's%E2%80%85Joke/1bb97d4c.png" data-original-src="https://upload.acmicpc.net/524addc7-e912-4d5e-af19-c577a3e3e6c3/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 411px; height: 276px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/31184.%E2%80%85Xingqiu's%E2%80%85Joke/1bb97d4c.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/31184.%E2%80%85Xingqiu's%E2%80%85Joke/1bb97d4c.png" data-original-src="https://upload.acmicpc.net/524addc7-e912-4d5e-af19-c577a3e3e6c3/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 411px; height: 276px;" /></p>
 
 <p style="text-align: center;">Pixiv ID: 86787400</p>
 

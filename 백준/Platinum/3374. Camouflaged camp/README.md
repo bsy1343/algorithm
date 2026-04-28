@@ -18,7 +18,7 @@
 
 <p>Squad commander is looking for a location to build a camouflaged camp of a certain size. He has a digital topographic map of the area, which is a rectangular grid with every element defining the altitude at a certain coordinate. Coordinates of any point on the map are identified by the row and the column in the table.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/3374.%E2%80%85Camouflaged%E2%80%85camp/4829be8a.png" data-original-src="https://upload.acmicpc.net/44d6ff44-67a0-4341-beb3-6671d8810d31/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 189px; height: 137px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/3374.%E2%80%85Camouflaged%E2%80%85camp/4829be8a.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/3374.%E2%80%85Camouflaged%E2%80%85camp/4829be8a.png" data-original-src="https://upload.acmicpc.net/44d6ff44-67a0-4341-beb3-6671d8810d31/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 189px; height: 137px;" /></p>
 
 <p style="text-align: center;">Digital topographic 5x6 map Camp of size 3&times;5 at position (3,2)</p>
 
@@ -34,8 +34,8 @@
 <table class="table table-bordered">
 	<tbody>
 		<tr>
-			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/3374.%E2%80%85Camouflaged%E2%80%85camp/00473dd6.png" data-original-src="https://upload.acmicpc.net/46068555-be20-4e0b-b4e7-8cfa10d3410f/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 189px; height: 137px;" /></td>
-			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/3374.%E2%80%85Camouflaged%E2%80%85camp/0afa9b6c.png" data-original-src="https://upload.acmicpc.net/5f16b378-a574-4bb3-a36f-e715da820156/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 189px; height: 137px;" /></td>
+			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/3374.%E2%80%85Camouflaged%E2%80%85camp/00473dd6.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/3374.%E2%80%85Camouflaged%E2%80%85camp/00473dd6.png" data-original-src="https://upload.acmicpc.net/46068555-be20-4e0b-b4e7-8cfa10d3410f/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 189px; height: 137px;" /></td>
+			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/3374.%E2%80%85Camouflaged%E2%80%85camp/0afa9b6c.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/3374.%E2%80%85Camouflaged%E2%80%85camp/0afa9b6c.png" data-original-src="https://upload.acmicpc.net/5f16b378-a574-4bb3-a36f-e715da820156/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 189px; height: 137px;" /></td>
 		</tr>
 		<tr>
 			<td>

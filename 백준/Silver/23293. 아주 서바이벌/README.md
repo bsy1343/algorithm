@@ -20,7 +20,7 @@
 
 <p>상민이는 아주 서바이벌의 서버 개발자다. 이 게임이 흥행하면서 부정행위를 저지르는 플레이어가 늘어나자, 보다 못한 상민이는 게임의 로그를 분석해 부정행위를 전부 찾아내기로 했다.</p>
 
-<p style="text-align: center;"><img alt="아주 서바이벌 지도" src="%EB%B0%B1%EC%A4%80/Silver/23293.%E2%80%85%EC%95%84%EC%A3%BC%E2%80%85%EC%84%9C%EB%B0%94%EC%9D%B4%EB%B2%8C/748af6aa.png" data-original-src="https://upload.acmicpc.net/d6c3457b-1d95-4a74-8fdf-5c7835af954a/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 600px; height: 600px;" /></p>
+<p style="text-align: center;"><img alt="아주 서바이벌 지도" src="%EB%B0%B1%EC%A4%80/Silver/23293.%E2%80%85%EC%95%84%EC%A3%BC%E2%80%85%EC%84%9C%EB%B0%94%EC%9D%B4%EB%B2%8C/748af6aa.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/23293.%E2%80%85%EC%95%84%EC%A3%BC%E2%80%85%EC%84%9C%EB%B0%94%EC%9D%B4%EB%B2%8C/748af6aa.png" data-original-src="https://upload.acmicpc.net/d6c3457b-1d95-4a74-8fdf-5c7835af954a/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 600px; height: 600px;" /></p>
 
 <p style="text-align: center;">&lt;그림 1&gt; 아주 서바이벌의 지도</p>
 

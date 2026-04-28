@@ -18,7 +18,7 @@
 
 <p>Many people are familiar with a standard 3-ball juggling pattern in which you throw ball&nbsp;A, then ball&nbsp;B, then ball&nbsp;C, then ball&nbsp;A, then ball&nbsp;B, then ball&nbsp;C, and so on. Assuming we keep a regular rhythm of throws, a ball that is thrown higher into the air will take longer to return, and therefore will take longer before the next time it gets thrown. We say that a ball thrown to height&nbsp;<em>h</em> will not be thrown again until precisely <em>h</em> steps later in the pattern. For example, in the standard 3-ball pattern, we say that each ball is thrown to a height of 3, and therefore thrown again 3-steps later in the pattern. For example, ball&nbsp;A that we throw at time&nbsp;1 of the process will be next thrown at time&nbsp;4.</p>
 
-<p><img src="%EB%B0%B1%EC%A4%80/Silver/4569.%E2%80%85Jugglefest/08d8f216.png" data-original-src="https://www.acmicpc.net/upload/images2/example3.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p><img src="%EB%B0%B1%EC%A4%80/Silver/4569.%E2%80%85Jugglefest/08d8f216.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/4569.%E2%80%85Jugglefest/08d8f216.png" data-original-src="https://www.acmicpc.net/upload/images2/example3.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>By convention, we label the first ball thrown as&nbsp;A, and each time we introduce a new ball into the pattern, we label it with the next consecutive uppercase letter (hence B and then C in the classic pattern).</p>
 
@@ -28,7 +28,7 @@
 
 <p>While the siteswap pattern describes the heights of the throws, the actual movement of individual balls does not follow as obvious a pattern. The following diagram illustrates the beginning of the &quot;3 4 5&quot; pattern.</p>
 
-<p><img src="%EB%B0%B1%EC%A4%80/Silver/4569.%E2%80%85Jugglefest/a12d6c70.png" data-original-src="https://www.acmicpc.net/upload/images2/example345.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p><img src="%EB%B0%B1%EC%A4%80/Silver/4569.%E2%80%85Jugglefest/a12d6c70.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/4569.%E2%80%85Jugglefest/a12d6c70.png" data-original-src="https://www.acmicpc.net/upload/images2/example345.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>The first throw is ball&nbsp;A, thrown to a height of 3, and thus ball&nbsp;A is not thrown again until time&nbsp;4. At time&nbsp;2, we must make a throw with height&nbsp;4; since ball&nbsp;A has not yet come back, we introduce a second ball, conventionally labeled&nbsp;B. Because ball&nbsp;B is thrown at time&nbsp;2 with a height of 4, it will not be thrown again until time&nbsp;6. At time&nbsp;3, we introduce yet another ball, labeled&nbsp;C, and throw it to height&nbsp;5 (thus it will next be thrown at time&nbsp;8). Our next throw, at time&nbsp;4, is to have height&nbsp;3. However, since ball&nbsp;A has returned (from its throw at time&nbsp;1), we do not introduce a new ball; we throw&nbsp;A. At time&nbsp;5, we are to make a throw with height&nbsp;4, yet we must introduce a new ball,&nbsp;D, because balls A, B, and C are all still up in the air. (Ball&nbsp;D is the last ball to be introduced for this particular pattern.) The juggling continues with ball&nbsp;B being thrown to height&nbsp;5 at time&nbsp;6, and so on.</p>
 
@@ -36,7 +36,7 @@
 
 <p>Consider an attempt to use a siteswap pattern &quot;3 5 4&quot;. If we were only interested in making six throws, everything works well. But a problem arises at time 7, as shown in the following diagram.</p>
 
-<p><img src="%EB%B0%B1%EC%A4%80/Silver/4569.%E2%80%85Jugglefest/5ae45a97.png" data-original-src="https://www.acmicpc.net/upload/images2/example354.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p><img src="%EB%B0%B1%EC%A4%80/Silver/4569.%E2%80%85Jugglefest/5ae45a97.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/4569.%E2%80%85Jugglefest/5ae45a97.png" data-original-src="https://www.acmicpc.net/upload/images2/example354.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>Ball&nbsp;B was thrown at time&nbsp;2 with a height of 5. Therefore, it should get its next turn to be thrown at time&nbsp;7. However, ball&nbsp;C was thrown at time&nbsp;3 with a height of 4, and so it too should get its next turn at time&nbsp;7. (To add insult to injury, ball&nbsp;A gets thrown at time&nbsp;4 with height of 3, also suggesting it get its next turn at time&nbsp;7.) What we have here is a problem, resulting in a lot of balls crashing to the ground.</p>
 

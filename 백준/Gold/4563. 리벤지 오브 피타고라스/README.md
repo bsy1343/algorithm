@@ -28,7 +28,7 @@
 
 
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/4563.%E2%80%85%EB%A6%AC%EB%B2%A4%EC%A7%80%E2%80%85%EC%98%A4%EB%B8%8C%E2%80%85%ED%94%BC%ED%83%80%EA%B3%A0%EB%9D%BC%EC%8A%A4/34b86282.png" data-original-src="https://www.acmicpc.net/upload/images/pyta1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:128px; width:164px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/4563.%E2%80%85%EB%A6%AC%EB%B2%A4%EC%A7%80%E2%80%85%EC%98%A4%EB%B8%8C%E2%80%85%ED%94%BC%ED%83%80%EA%B3%A0%EB%9D%BC%EC%8A%A4/34b86282.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/4563.%E2%80%85%EB%A6%AC%EB%B2%A4%EC%A7%80%E2%80%85%EC%98%A4%EB%B8%8C%E2%80%85%ED%94%BC%ED%83%80%EA%B3%A0%EB%9D%BC%EC%8A%A4/34b86282.png" data-original-src="https://www.acmicpc.net/upload/images/pyta1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:128px; width:164px" /></p>
 
 
 
@@ -36,7 +36,7 @@
 
 
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/4563.%E2%80%85%EB%A6%AC%EB%B2%A4%EC%A7%80%E2%80%85%EC%98%A4%EB%B8%8C%E2%80%85%ED%94%BC%ED%83%80%EA%B3%A0%EB%9D%BC%EC%8A%A4/cc390834.png" data-original-src="https://www.acmicpc.net/upload/images/pyta2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:128px; width:573px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/4563.%E2%80%85%EB%A6%AC%EB%B2%A4%EC%A7%80%E2%80%85%EC%98%A4%EB%B8%8C%E2%80%85%ED%94%BC%ED%83%80%EA%B3%A0%EB%9D%BC%EC%8A%A4/cc390834.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/4563.%E2%80%85%EB%A6%AC%EB%B2%A4%EC%A7%80%E2%80%85%EC%98%A4%EB%B8%8C%E2%80%85%ED%94%BC%ED%83%80%EA%B3%A0%EB%9D%BC%EC%8A%A4/cc390834.png" data-original-src="https://www.acmicpc.net/upload/images/pyta2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:128px; width:573px" /></p>
 
 
 

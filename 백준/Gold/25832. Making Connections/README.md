@@ -20,7 +20,7 @@
 
 <p>Consider the process of building a computer network. At the very beginning there will be n computers, with no connections between any of them. Then, as time goes on, pairs of computers are chosen, one pair at a time, and a direct network connection between them is added. In the middle of such a process, we might get the following graph modeling the current connections:</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/25832.%E2%80%85Making%E2%80%85Connections/f39aef8d.png" data-original-src="https://upload.acmicpc.net/e344d1c9-6e4d-44ed-b562-5ead9d7febf7/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 187px; height: 100px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/25832.%E2%80%85Making%E2%80%85Connections/f39aef8d.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/25832.%E2%80%85Making%E2%80%85Connections/f39aef8d.png" data-original-src="https://upload.acmicpc.net/e344d1c9-6e4d-44ed-b562-5ead9d7febf7/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 187px; height: 100px;" /></p>
 
 <p>This network currently has three groups: the first group has 4 computers that can communicate with each other directly or indirectly, the second group consists of 1 computer by itself, and the third group has 2 computers that can communicate with each other. So, a group is each of the separate components of the graph.</p>
 

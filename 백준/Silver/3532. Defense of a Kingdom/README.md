@@ -20,7 +20,7 @@
 
 <p>The penalty of the position is a number of cells in the largest undefended rectangle. For example, the position shown on the picture has penalty 12.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/3532.%E2%80%85Defense%E2%80%85of%E2%80%85a%E2%80%85Kingdom/0c5730a7.png" data-original-src="https://upload.acmicpc.net/6c6ebc3d-5343-4ec0-b9b7-68a137d18591/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 569px; height: 200px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/3532.%E2%80%85Defense%E2%80%85of%E2%80%85a%E2%80%85Kingdom/0c5730a7.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/3532.%E2%80%85Defense%E2%80%85of%E2%80%85a%E2%80%85Kingdom/0c5730a7.png" data-original-src="https://upload.acmicpc.net/6c6ebc3d-5343-4ec0-b9b7-68a137d18591/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 569px; height: 200px;" /></p>
 
 <p>Help Theodore write a program that calculates the penalty of the given position.</p>
 

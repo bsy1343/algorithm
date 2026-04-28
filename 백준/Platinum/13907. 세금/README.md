@@ -44,12 +44,12 @@
 
 <p>세금이 오르기 전</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/13907.%E2%80%85%EC%84%B8%EA%B8%88/34ca4863.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/13907/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:100px; width:339px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/13907.%E2%80%85%EC%84%B8%EA%B8%88/34ca4863.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/13907.%E2%80%85%EC%84%B8%EA%B8%88/34ca4863.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/13907/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:100px; width:339px" /></p>
 
 <p>첫 번째 세금 인상 후</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/13907.%E2%80%85%EC%84%B8%EA%B8%88/81627921.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/13907/2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:100px; width:325px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/13907.%E2%80%85%EC%84%B8%EA%B8%88/81627921.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/13907.%E2%80%85%EC%84%B8%EA%B8%88/81627921.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/13907/2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:100px; width:325px" /></p>
 
 <p>두 번째 세금 인상 후</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/13907.%E2%80%85%EC%84%B8%EA%B8%88/61088271.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/13907/3.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:100px; width:331px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/13907.%E2%80%85%EC%84%B8%EA%B8%88/61088271.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/13907.%E2%80%85%EC%84%B8%EA%B8%88/61088271.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/13907/3.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:100px; width:331px" /></p>

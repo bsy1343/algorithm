@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/32154.%E2%80%85SUAPC%E2%80%852024%E2%80%85Winter/520de514.png" data-original-src="https://upload.acmicpc.net/50081e76-e891-4f70-95da-3d97065fd70e/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 900px; height: 378px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/32154.%E2%80%85SUAPC%E2%80%852024%E2%80%85Winter/520de514.png" data-original-src="%EB%B0%B1%EC%A4%80/Bronze/32154.%E2%80%85SUAPC%E2%80%852024%E2%80%85Winter/520de514.png" data-original-src="https://upload.acmicpc.net/50081e76-e891-4f70-95da-3d97065fd70e/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 900px; height: 378px;" /></p>
 
 <p style="text-align: center;">[그림] SUAPC 2024 Winter 스코어보드 (<a href="https://www.acmicpc.net/contest/spotboard/1237">링크</a>)</p>
 

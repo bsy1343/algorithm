@@ -20,13 +20,13 @@
 
 <p>To study the feasibility of automating the layout-creation process, TTTCC is interested in constructing train courses using two different shapes: straight line segments, and $90$-degree turns (see Figure 1).</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/31895.%E2%80%85Toy%E2%80%85Train%E2%80%85Tracks/77c48c04.png" data-original-src="https://upload.acmicpc.net/13cdee2b-45d8-479b-b157-688565f8d9a9/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 111px; height: 50px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/31895.%E2%80%85Toy%E2%80%85Train%E2%80%85Tracks/77c48c04.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/31895.%E2%80%85Toy%E2%80%85Train%E2%80%85Tracks/77c48c04.png" data-original-src="https://upload.acmicpc.net/13cdee2b-45d8-479b-b157-688565f8d9a9/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 111px; height: 50px;" /></p>
 
 <p style="text-align: center;"><b>Figure 1</b>: A straight track segment and a curved track segment.</p>
 
 <p>Valid layouts are created by placing these shapes on a square grid, with each track piece taking up exactly one grid cell. Both types of pieces can be rotated in $90$-degree increments. A &ldquo;proper&rdquo; train track needs to be connected, and should form a single closed loop. Given a set of straight and curved track segments, what is the longest closed loop that one can construct?</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/31895.%E2%80%85Toy%E2%80%85Train%E2%80%85Tracks/24165737.png" data-original-src="https://upload.acmicpc.net/69a69aa9-a3f4-4000-b5be-d1e33034ca6b/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 200px; height: 200px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/31895.%E2%80%85Toy%E2%80%85Train%E2%80%85Tracks/24165737.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/31895.%E2%80%85Toy%E2%80%85Train%E2%80%85Tracks/24165737.png" data-original-src="https://upload.acmicpc.net/69a69aa9-a3f4-4000-b5be-d1e33034ca6b/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 200px; height: 200px;" /></p>
 
 <p style="text-align: center;"><b>Figure 2</b>: A sample track using four straight track segments and twelve curves. This corresponds to Sample Output 1.</p>
 

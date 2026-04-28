@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/12841.%E2%80%85%EC%A0%95%EB%B3%B4%EB%8C%80%E2%80%85%EB%93%B1%EC%82%B0/25c6e6dc.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/12841/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="float:right; height:474px; width:304px" />숭실 대학교 정보 과학관은 숭실 대학교 건물 중 제일 높은 곳에 있다. 민주는 평소에 버스를 타고 이 언덕을 오르지만, 이 문제에 등장하기 위하여 오늘 하루만 걸어서 올라간다.</p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/12841.%E2%80%85%EC%A0%95%EB%B3%B4%EB%8C%80%E2%80%85%EB%93%B1%EC%82%B0/25c6e6dc.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/12841.%E2%80%85%EC%A0%95%EB%B3%B4%EB%8C%80%E2%80%85%EB%93%B1%EC%82%B0/25c6e6dc.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/12841/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="float:right; height:474px; width:304px" />숭실 대학교 정보 과학관은 숭실 대학교 건물 중 제일 높은 곳에 있다. 민주는 평소에 버스를 타고 이 언덕을 오르지만, 이 문제에 등장하기 위하여 오늘 하루만 걸어서 올라간다.</p>
 
 <p>정보 과학관을 오르는 길은 왼쪽 길과 오른쪽 길이 있다. 민주는 처음에 왼쪽 길 맨 아래에 있고 정보 과학관을 오른쪽 길 맨 위에 있다.</p>
 

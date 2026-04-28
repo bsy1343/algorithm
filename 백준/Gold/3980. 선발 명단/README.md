@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p>챔피언스 리그 결승전을 앞두고 있는 맨체스터 유나이티드의 명장 퍼거슨 감독은 이번 경기에 4-4-2 다이아몬드 전술을 사용하려고 한다.<img alt="" src="%EB%B0%B1%EC%A4%80/Gold/3980.%E2%80%85%EC%84%A0%EB%B0%9C%E2%80%85%EB%AA%85%EB%8B%A8/2032b0b2.png" data-original-src="https://www.acmicpc.net/upload/images/442.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 170px; height: 226px; float: right;" /></p>
+<p>챔피언스 리그 결승전을 앞두고 있는 맨체스터 유나이티드의 명장 퍼거슨 감독은 이번 경기에 4-4-2 다이아몬드 전술을 사용하려고 한다.<img alt="" src="%EB%B0%B1%EC%A4%80/Gold/3980.%E2%80%85%EC%84%A0%EB%B0%9C%E2%80%85%EB%AA%85%EB%8B%A8/2032b0b2.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/3980.%E2%80%85%EC%84%A0%EB%B0%9C%E2%80%85%EB%AA%85%EB%8B%A8/2032b0b2.png" data-original-src="https://www.acmicpc.net/upload/images/442.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 170px; height: 226px; float: right;" /></p>
 
 <p>오늘 결승전에 뛸 선발 선수 11명은 미리 골라두었지만, 어떤 선수를 어느 포지션에 배치해야 할지 아직 결정하지 못했다.</p>
 

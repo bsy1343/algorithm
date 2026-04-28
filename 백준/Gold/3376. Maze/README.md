@@ -18,7 +18,7 @@
 
 <p>Consider the following maze made of equilateral triangles:</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/3376.%E2%80%85Maze/a1c12066.png" data-original-src="https://upload.acmicpc.net/d5e65b55-d79b-4eaf-b16c-b6d03566ed3f/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 381px; height: 169px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/3376.%E2%80%85Maze/a1c12066.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/3376.%E2%80%85Maze/a1c12066.png" data-original-src="https://upload.acmicpc.net/d5e65b55-d79b-4eaf-b16c-b6d03566ed3f/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 381px; height: 169px;" /></p>
 
 <p>Each vertex is described by two coordinates x and y as in the picture. Some of the edges have a white or a black circle on them. There are two major rules that control movement within the maze:</p>
 

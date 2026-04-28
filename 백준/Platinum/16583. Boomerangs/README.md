@@ -22,7 +22,7 @@
 
 <p>For example, consider a graph G = (V, E) of N = 5 vertices and M = 7 edges where E = {(1, 2), (1, 4), (2, 3), (2, 4), (2, 5), (3, 4), (3, 5)}.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/16583.%E2%80%85Boomerangs/1b098f5b.png" data-original-src="https://upload.acmicpc.net/706dbf55-f81f-4463-aa4e-030c5a3bf4e4/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 242px; height: 167px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/16583.%E2%80%85Boomerangs/1b098f5b.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/16583.%E2%80%85Boomerangs/1b098f5b.png" data-original-src="https://upload.acmicpc.net/706dbf55-f81f-4463-aa4e-030c5a3bf4e4/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 242px; height: 167px;" /></p>
 
 <p>The maximum number of disjoint boomerangs in this example graph is 3. One example set containing the 3 disjoint boomerangs is {&lt;4, 1, 2&gt;,&lt;4, 3, 2&gt;,&lt;2, 5, 3&gt;}; no set can contain more than 3 disjoint boomerangs in this example.</p>
 

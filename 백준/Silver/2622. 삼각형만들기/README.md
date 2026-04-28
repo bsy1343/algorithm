@@ -20,7 +20,7 @@
 
 <p>예를 들어서 9개의 성냥개비로 만들 수 있는 서로 다른 삼각형은 그림 1과 같이 3가지이다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/2622.%E2%80%85%EC%82%BC%EA%B0%81%ED%98%95%EB%A7%8C%EB%93%A4%EA%B8%B0/0f4a1489.png" data-original-src="https://upload.acmicpc.net/715ddccd-76f7-4eb5-9153-1eb1b300f64e/-/crop/349x135/0,0/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/2622.%E2%80%85%EC%82%BC%EA%B0%81%ED%98%95%EB%A7%8C%EB%93%A4%EA%B8%B0/0f4a1489.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/2622.%E2%80%85%EC%82%BC%EA%B0%81%ED%98%95%EB%A7%8C%EB%93%A4%EA%B8%B0/0f4a1489.png" data-original-src="https://upload.acmicpc.net/715ddccd-76f7-4eb5-9153-1eb1b300f64e/-/crop/349x135/0,0/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p style="text-align: center;">그림 1</p>
 
@@ -32,7 +32,7 @@
 	<li>합동인 삼각형들은 같은 삼각형으로 본다. 예를 들어서 성냥개비 5개를 사용하여 만들수 있는 그림 2의 삼각형들은 같은 삼각형으로 본다.</li>
 </ol>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/2622.%E2%80%85%EC%82%BC%EA%B0%81%ED%98%95%EB%A7%8C%EB%93%A4%EA%B8%B0/45379285.png" data-original-src="https://upload.acmicpc.net/530d48e0-300c-4cd1-a0ba-5f69f0d3aefd/-/crop/335x100/0,0/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/2622.%E2%80%85%EC%82%BC%EA%B0%81%ED%98%95%EB%A7%8C%EB%93%A4%EA%B8%B0/45379285.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/2622.%E2%80%85%EC%82%BC%EA%B0%81%ED%98%95%EB%A7%8C%EB%93%A4%EA%B8%B0/45379285.png" data-original-src="https://upload.acmicpc.net/530d48e0-300c-4cd1-a0ba-5f69f0d3aefd/-/crop/335x100/0,0/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p style="text-align: center;">그림 2</p>
 

@@ -26,7 +26,7 @@
 
 <p>You have to consider the prices only for integer values of k.</p>
 
-<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/10784.%E2%80%85Amalgamated%E2%80%85Artichokes/a7eba9ff.png" data-original-src="https://s3-ap-northeast-1.amazonaws.com/onlinejudgeimages/problem/10784/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:270px; width:561px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/10784.%E2%80%85Amalgamated%E2%80%85Artichokes/a7eba9ff.png" data-original-src="%EB%B0%B1%EC%A4%80/Bronze/10784.%E2%80%85Amalgamated%E2%80%85Artichokes/a7eba9ff.png" data-original-src="https://s3-ap-northeast-1.amazonaws.com/onlinejudgeimages/problem/10784/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:270px; width:561px" /></p>
 
 <p style="text-align:center">Figure A.1: Sample Input 1. The largest decline occurs from the fourth to the seventh price.</p>
 

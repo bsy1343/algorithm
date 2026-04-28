@@ -18,7 +18,7 @@
 
 <p>Gildong&rsquo;s town has a train system that has $100$ trains that travel from the bottom end to the top end and $100$ trains that travel from the left end to the right end. The trains starting from each side are numbered from $1$ to $100$, respectively, and all trains have the same speed. Let&rsquo;s take a look at the picture below.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/27475.%E2%80%85Cancel%E2%80%85the%E2%80%85Trains/b80520fb.png" data-original-src="https://upload.acmicpc.net/e66d8b5c-1c9d-46f0-ba78-563e9d4ea7e8/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 447px; height: 423px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/27475.%E2%80%85Cancel%E2%80%85the%E2%80%85Trains/b80520fb.png" data-original-src="%EB%B0%B1%EC%A4%80/Bronze/27475.%E2%80%85Cancel%E2%80%85the%E2%80%85Trains/b80520fb.png" data-original-src="https://upload.acmicpc.net/e66d8b5c-1c9d-46f0-ba78-563e9d4ea7e8/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 447px; height: 423px;" /></p>
 
 <p>The train system can be represented as coordinates on a 2D plane. The $i$-th train starting at the bottom end is initially at $(i,0)$ and will be at $(i,T)$ after $T$ minutes, and the $i$-th train starting at the left end is initially at $(0,i)$ and will be at $(T,i)$ after $T$ minutes. All trains arrive at their destinations after $101$ minutes.</p>
 
@@ -44,4 +44,4 @@
 
 <p>In the second case, at $T=4$, there will be a crash, as can be seen in the picture below. We can prove that after canceling one of these trains, the remaining trains will not crash. Therefore, the answer is one.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/27475.%E2%80%85Cancel%E2%80%85the%E2%80%85Trains/a8e65108.png" data-original-src="https://upload.acmicpc.net/e318360d-33d0-4616-988f-4a3c4660241a/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/27475.%E2%80%85Cancel%E2%80%85the%E2%80%85Trains/a8e65108.png" data-original-src="%EB%B0%B1%EC%A4%80/Bronze/27475.%E2%80%85Cancel%E2%80%85the%E2%80%85Trains/a8e65108.png" data-original-src="https://upload.acmicpc.net/e318360d-33d0-4616-988f-4a3c4660241a/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>

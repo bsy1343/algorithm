@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/9290.%E2%80%85%ED%8B%B1%ED%83%9D%ED%86%A0%E2%80%85%EC%9D%B4%EA%B8%B0%EA%B8%B0/dcfa614d.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/9290/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:94px; width:608px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/9290.%E2%80%85%ED%8B%B1%ED%83%9D%ED%86%A0%E2%80%85%EC%9D%B4%EA%B8%B0%EA%B8%B0/dcfa614d.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/9290.%E2%80%85%ED%8B%B1%ED%83%9D%ED%86%A0%E2%80%85%EC%9D%B4%EA%B8%B0%EA%B8%B0/dcfa614d.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/9290/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:94px; width:608px" /></p>
 
 <p>남규는 재우와 틱택토를 하던 도중, 거의 이기기 직전에 다다랐다! 남규의 승리로부터 단 한 단계 전의 틱택토 게임판이 주어졌을 때, 승리를 위해 말을 어디에 놓아야 할지 알아내자.</p>
 

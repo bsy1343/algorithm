@@ -20,7 +20,7 @@
 
 <p>As her first task, she made a rectangular box of size 2 &times; n, which contains two parallel rails and a rectangular bar on each of them. The short bar has size 1 &times; a, and the long one has size 1 &times; b. The long bar has a stopper at each end, and the short one is always between these two stoppers.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/18067.%E2%80%85Accurate%E2%80%85Movement/9dedce75.png" data-original-src="https://upload.acmicpc.net/fd4de1f0-e5cd-4093-85f8-9d1673a3bbe0/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 424px; height: 105px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/18067.%E2%80%85Accurate%E2%80%85Movement/9dedce75.png" data-original-src="%EB%B0%B1%EC%A4%80/Bronze/18067.%E2%80%85Accurate%E2%80%85Movement/9dedce75.png" data-original-src="https://upload.acmicpc.net/fd4de1f0-e5cd-4093-85f8-9d1673a3bbe0/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 424px; height: 105px;" /></p>
 
 <p>The bars can be moved along the rails, one bar at a time, as long as the short bar is between the stoppers. So, on each move Amelia selects one of the bars and moves it, while the other one stays in place.</p>
 
@@ -38,4 +38,4 @@
 
 <p>A possible solution for the first example is shown below.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/18067.%E2%80%85Accurate%E2%80%85Movement/c2ea5bfd.png" data-original-src="https://upload.acmicpc.net/6b776d61-f1d1-46a3-bfa0-cf5876f23c83/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 419px; height: 202px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/18067.%E2%80%85Accurate%E2%80%85Movement/c2ea5bfd.png" data-original-src="%EB%B0%B1%EC%A4%80/Bronze/18067.%E2%80%85Accurate%E2%80%85Movement/c2ea5bfd.png" data-original-src="https://upload.acmicpc.net/6b776d61-f1d1-46a3-bfa0-cf5876f23c83/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 419px; height: 202px;" /></p>

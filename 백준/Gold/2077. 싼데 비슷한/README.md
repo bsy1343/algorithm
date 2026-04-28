@@ -26,7 +26,7 @@
 
 <p>총 광물 매장량을 $S=\sum_{i=1}^{N}A_i$라 하자. 이때 $0.75S$ 이상을 채굴할 방법이 존재하는지 판별하고, 만약 존재한다면 어떻게 장비를 설치하고 어떤 칸을 채굴할지 구해 보자!</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/2077.%E2%80%85%EC%8B%BC%EB%8D%B0%E2%80%85%EB%B9%84%EC%8A%B7%ED%95%9C/68f20594.png" data-original-src="https://upload.acmicpc.net/a04ee66a-eed7-4f86-9135-82426718acb0/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 550px; height: 382px;" title="" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/2077.%E2%80%85%EC%8B%BC%EB%8D%B0%E2%80%85%EB%B9%84%EC%8A%B7%ED%95%9C/68f20594.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/2077.%E2%80%85%EC%8B%BC%EB%8D%B0%E2%80%85%EB%B9%84%EC%8A%B7%ED%95%9C/68f20594.png" data-original-src="https://upload.acmicpc.net/a04ee66a-eed7-4f86-9135-82426718acb0/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 550px; height: 382px;" title="" /></p>
 
 <p style="text-align: center;">예제 1을 시각화한 그림.</p>
 

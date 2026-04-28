@@ -22,7 +22,7 @@
 
 <p>For example, in the figure below there are three files to delete (black icons) and two to keep (white icons). By moving two of them as shown in the figure on the right, all of the three icons of files to be deleted can be grouped together for one delete operation (note that there are many other ways to move two icons to accomplish this, but no way to do it by just moving one).</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/11764.%E2%80%85Delete%E2%80%85This!/2ad7e481.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11764/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:146px; width:324px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/11764.%E2%80%85Delete%E2%80%85This!/2ad7e481.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/11764.%E2%80%85Delete%E2%80%85This!/2ad7e481.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11764/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:146px; width:324px" /></p>
 
 <p style="text-align: center;">Figure B.1</p>
 

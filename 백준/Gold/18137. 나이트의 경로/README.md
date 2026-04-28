@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/18137.%E2%80%85%EB%82%98%EC%9D%B4%ED%8A%B8%EC%9D%98%E2%80%85%EA%B2%BD%EB%A1%9C/4b173877.png" data-original-src="https://upload.acmicpc.net/e9316526-e533-4485-8855-023296f9caf2/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/18137.%E2%80%85%EB%82%98%EC%9D%B4%ED%8A%B8%EC%9D%98%E2%80%85%EA%B2%BD%EB%A1%9C/4b173877.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/18137.%E2%80%85%EB%82%98%EC%9D%B4%ED%8A%B8%EC%9D%98%E2%80%85%EA%B2%BD%EB%A1%9C/4b173877.png" data-original-src="https://upload.acmicpc.net/e9316526-e533-4485-8855-023296f9caf2/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p style="text-align: center;">&lt;그림&gt; 무한 격자에서의 나이트의 경로</p>
 

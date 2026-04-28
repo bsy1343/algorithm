@@ -49,7 +49,7 @@
 
 ### 힌트
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/5821.%E2%80%85%EC%8C%80%E2%80%85%EC%B0%BD%EA%B3%A0/32ea065e.png" data-original-src="https://upload.acmicpc.net/f8a43431-2537-4c9e-8f35-529b38c74d75/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 521px; height: 93px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/5821.%E2%80%85%EC%8C%80%E2%80%85%EC%B0%BD%EA%B3%A0/32ea065e.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/5821.%E2%80%85%EC%8C%80%E2%80%85%EC%B0%BD%EA%B3%A0/32ea065e.png" data-original-src="https://upload.acmicpc.net/f8a43431-2537-4c9e-8f35-529b38c74d75/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 521px; height: 93px;" /></p>
 
 <p style="text-align: center;">쌀 창고</p>
 

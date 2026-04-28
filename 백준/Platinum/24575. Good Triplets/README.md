@@ -18,7 +18,7 @@
 
 <p>Andrew is a very curious student who drew a circle with the center at (0, 0) and an integer circumference of C &ge; 3. The location of a point on the circle is the counter-clockwise arc length from the right-most point of the circle.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/24575.%E2%80%85Good%E2%80%85Triplets/44478c15.png" data-original-src="https://upload.acmicpc.net/9976cddb-0579-44fe-adc4-ba07e083d81f/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 199px; height: 158px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/24575.%E2%80%85Good%E2%80%85Triplets/44478c15.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/24575.%E2%80%85Good%E2%80%85Triplets/44478c15.png" data-original-src="https://upload.acmicpc.net/9976cddb-0579-44fe-adc4-ba07e083d81f/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 199px; height: 158px;" /></p>
 
 <p>Andrew drew N &ge; 3 points at integer locations. In particular, the i<sup>th</sup> point is drawn at location P<sub>i</sub> (0 &le; P<sub>i</sub> &le; C &minus; 1). It is possible for Andrew to draw multiple points at the same location.</p>
 

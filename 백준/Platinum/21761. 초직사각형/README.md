@@ -18,7 +18,7 @@
 
 <p>1차원 공간에서의 선분, 2차원 공간에서의 직사각형, 3차원 공간에서의 직육면체를 생각해 보자.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/21761.%E2%80%85%EC%B4%88%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95/93eb49c1.png" data-original-src="https://upload.acmicpc.net/c139786a-1938-4d67-ab0b-167a9fefcb1f/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 503px; height: 294px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/21761.%E2%80%85%EC%B4%88%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95/93eb49c1.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/21761.%E2%80%85%EC%B4%88%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95/93eb49c1.png" data-original-src="https://upload.acmicpc.net/c139786a-1938-4d67-ab0b-167a9fefcb1f/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 503px; height: 294px;" /></p>
 
 <p>선분의 크기는 변수 $A$로, 직사각형의 크기는 두 개의 변수 $A$와 $B$로, 직육면체의 크기는 세 개의 변수 $A$, $B$, $C$로 표현할 수 있다. 선분의 길이는 $A$, 직사각형의 넓이는 $A \cdot B$, 직육면체의 부피는 $A \cdot B \cdot C$이다.</p>
 

@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/26931.%E2%80%85Tivoli/3fb01a3b.png" data-original-src="https://upload.acmicpc.net/6d56b385-00fc-4b67-b61a-e05f152e35c8/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/26931.%E2%80%85Tivoli/3fb01a3b.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/26931.%E2%80%85Tivoli/3fb01a3b.png" data-original-src="https://upload.acmicpc.net/6d56b385-00fc-4b67-b61a-e05f152e35c8/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p style="text-align: center;">En illustration av det f&ouml;rsta exempelfallet och en optimala l&ouml;sningen.</p>
 

@@ -24,7 +24,7 @@
 
 <p>아래의 예시는 $4$번째 페이지부터 $6$번째 페이지까지 저장하고 싶을 때 사진을 촬영하는 최적의 방법이다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/32184.%E2%80%85%EB%94%94%EB%AF%B8%EA%B3%A0%EC%97%90%E2%80%85%EA%B0%80%EA%B3%A0%E2%80%85%EC%8B%B6%EC%96%B4!/e8734a69.png" data-original-src="https://upload.acmicpc.net/3ef89dc3-67ce-4652-bef2-85d2a4c0d46f/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="max-width:100%" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/32184.%E2%80%85%EB%94%94%EB%AF%B8%EA%B3%A0%EC%97%90%E2%80%85%EA%B0%80%EA%B3%A0%E2%80%85%EC%8B%B6%EC%96%B4!/e8734a69.png" data-original-src="%EB%B0%B1%EC%A4%80/Bronze/32184.%E2%80%85%EB%94%94%EB%AF%B8%EA%B3%A0%EC%97%90%E2%80%85%EA%B0%80%EA%B3%A0%E2%80%85%EC%8B%B6%EC%96%B4!/e8734a69.png" data-original-src="https://upload.acmicpc.net/3ef89dc3-67ce-4652-bef2-85d2a4c0d46f/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="max-width:100%" /></p>
 
 <p>휴대전화를 세로로 기울여 $4$번째 페이지만 한 번 촬영하고, 가로로 기울여 $5$, $6$번째 페이지를 한 번에 촬영하면 $2$번의 촬영 만에 원하는 페이지들을 모두 저장할 수 있다.</p>
 

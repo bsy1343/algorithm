@@ -20,7 +20,7 @@
 
 <p>Unfortunately, Helen started feeling dizzy due to altitude sickness. Help her group find a route such that the topmost height on that route is as small as possible.</p>
 
-<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/10379.%E2%80%85Hiking%E2%80%85in%E2%80%85the%E2%80%85Hills/c7aeb2b3.png" data-original-src="https://www.acmicpc.net/upload/images2/hiking.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:279px; width:426px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/10379.%E2%80%85Hiking%E2%80%85in%E2%80%85the%E2%80%85Hills/c7aeb2b3.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/10379.%E2%80%85Hiking%E2%80%85in%E2%80%85the%E2%80%85Hills/c7aeb2b3.png" data-original-src="https://www.acmicpc.net/upload/images2/hiking.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:279px; width:426px" /></p>
 
 <p style="text-align:center">&nbsp;</p>
 

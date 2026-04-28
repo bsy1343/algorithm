@@ -20,7 +20,7 @@
 
 <p>The dice can be used in various ways. For example, two people can play a game as follows: Each of the two picks one out of the many dice and then rolls the dice. The winner is the one who tosses a bigger number. It is important which dice to choose in this game because once the dice are set, the probability of one winning against the other is determined. Suppose that KyungYong chooses the dice shown in the figure below left and TaeCheon chooses the dice shown in the figure below right. Then, KyungYong wins when and only when TaeCheon tosses number 1, so the probability that KyungYong wins is 2/3.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/20170.%E2%80%85Commemorative%E2%80%85Dice/686411dc.png" data-original-src="https://upload.acmicpc.net/38952ca8-9cbc-4d22-9807-e001961028ad/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 351px; height: 131px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/20170.%E2%80%85Commemorative%E2%80%85Dice/686411dc.png" data-original-src="%EB%B0%B1%EC%A4%80/Bronze/20170.%E2%80%85Commemorative%E2%80%85Dice/686411dc.png" data-original-src="https://upload.acmicpc.net/38952ca8-9cbc-4d22-9807-e001961028ad/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 351px; height: 131px;" /></p>
 
 <p>Given the dice of the first and second players, write a program to calculate the probability of the first player winning.</p>
 

@@ -22,7 +22,7 @@
 
 <p>Jaime is about to complain that his friends are taking too long to cut his slice, but in order to do so, he needs to know how many different slices with at least one eggfruit and containing at most S fruits there are. A slice is defined just based on the set of fruits it contains. As Jaime is quite focused on details, he is able to distinguish any two fruits, even if both fruits are of the same type. Hence, two slices are considered different when they do not contain exactly the same set of fruits. The following picture shows a possible cake, as well as the six different slices with at most S = 2 fruits that can be cut from it.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/18033.%E2%80%85Eggfruit%E2%80%85Cake/d5cf6ff7.png" data-original-src="https://upload.acmicpc.net/a5f1e55c-7b31-41ad-ace5-5ca3317432c8/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 305px; height: 220px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/18033.%E2%80%85Eggfruit%E2%80%85Cake/d5cf6ff7.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/18033.%E2%80%85Eggfruit%E2%80%85Cake/d5cf6ff7.png" data-original-src="https://upload.acmicpc.net/a5f1e55c-7b31-41ad-ace5-5ca3317432c8/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 305px; height: 220px;" /></p>
 
 ### 입력
 

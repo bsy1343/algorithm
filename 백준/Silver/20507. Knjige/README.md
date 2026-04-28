@@ -53,4 +53,4 @@
 
 <p>Clarification of the first example:</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/20507.%E2%80%85Knjige/a3e69cd9.png" data-original-src="https://upload.acmicpc.net/92fe4bca-ee80-41da-a4fd-9d485ced4065/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 515px; height: 540px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/20507.%E2%80%85Knjige/a3e69cd9.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/20507.%E2%80%85Knjige/a3e69cd9.png" data-original-src="https://upload.acmicpc.net/92fe4bca-ee80-41da-a4fd-9d485ced4065/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 515px; height: 540px;" /></p>

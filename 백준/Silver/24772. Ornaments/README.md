@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/24772.%E2%80%85Ornaments/b98272b4.png" data-original-src="https://upload.acmicpc.net/cdfa3f2e-6950-4321-b965-c49526cf4fe2/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 159px; height: 362px; float: right;" />A factory is making ornaments for the upcoming holidays. Ornaments consist of a 2D glass sphere (i.e., a circle) that is designed to hang off a hook or nail using a string that tightly wraps around the ornament, as shown in the figure to the right.</p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/24772.%E2%80%85Ornaments/b98272b4.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/24772.%E2%80%85Ornaments/b98272b4.png" data-original-src="https://upload.acmicpc.net/cdfa3f2e-6950-4321-b965-c49526cf4fe2/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 159px; height: 362px; float: right;" />A factory is making ornaments for the upcoming holidays. Ornaments consist of a 2D glass sphere (i.e., a circle) that is designed to hang off a hook or nail using a string that tightly wraps around the ornament, as shown in the figure to the right.</p>
 
 <p>Your task is to write a program that calculates the length of the string, given the radius r of the circle, the distance h from the knot to the center of the circle, and some multiplier to account for the excess needed to tie the knot.</p>
 

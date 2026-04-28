@@ -20,7 +20,7 @@
 
 <p>사이나쁜 여왕 퀴즈는 여덟 여왕을 8x8 체스판 위에 배치하는데, 아무도 서로 공격할 수 없도록 배치하는 퀴즈다. 가운데 그림은 올바르지 않은 풀이인데, 두 여왕이 대각선을 통해서 서로 공격할 수 있기 때문이다. 오른쪽 그림은 올바른 해법이다. 우리는 체스판과 여왕의 배치가 주어질 때 해당 배치가 올바른 사이나쁜 여왕 퀴즈의 해법인지 아닌지를 판단해야 한다.</p>
 
-<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/10469.%E2%80%85%EC%82%AC%EC%9D%B4%E2%80%85%EB%82%98%EC%81%9C%E2%80%85%EC%97%AC%EC%99%95%EB%93%A4/2b62a883.png" data-original-src="https://www.acmicpc.net/upload/images2/eightqueens.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:156px; width:437px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/10469.%E2%80%85%EC%82%AC%EC%9D%B4%E2%80%85%EB%82%98%EC%81%9C%E2%80%85%EC%97%AC%EC%99%95%EB%93%A4/2b62a883.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/10469.%E2%80%85%EC%82%AC%EC%9D%B4%E2%80%85%EB%82%98%EC%81%9C%E2%80%85%EC%97%AC%EC%99%95%EB%93%A4/2b62a883.png" data-original-src="https://www.acmicpc.net/upload/images2/eightqueens.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:156px; width:437px" /></p>
 
 ### 입력
 

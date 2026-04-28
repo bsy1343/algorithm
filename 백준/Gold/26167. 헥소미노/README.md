@@ -26,7 +26,7 @@
 
 <p>정사각형 6개를 이어 붙인 폴리오미노는 헥소미노라고 하며, 다음과 같은 35가지가 있다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/26167.%E2%80%85%ED%97%A5%EC%86%8C%EB%AF%B8%EB%85%B8/9f803a0b.png" data-original-src="https://upload.acmicpc.net/b974a230-655e-44ab-af1b-b2199e83802d/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 463px; width: 500px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/26167.%E2%80%85%ED%97%A5%EC%86%8C%EB%AF%B8%EB%85%B8/9f803a0b.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/26167.%E2%80%85%ED%97%A5%EC%86%8C%EB%AF%B8%EB%85%B8/9f803a0b.png" data-original-src="https://upload.acmicpc.net/b974a230-655e-44ab-af1b-b2199e83802d/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 463px; width: 500px;" /></p>
 
 <p>아롱이는 크기가 N&times;M인 종이 위에 헥소미노 하나를 놓으려고 한다. 종이는 1&times;1 크기의 칸으로 나누어져 있으며, 각각의 칸에는 정수가 하나 쓰여 있다.</p>
 

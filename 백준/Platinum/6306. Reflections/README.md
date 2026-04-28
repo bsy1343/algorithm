@@ -22,11 +22,11 @@
 
 <p>For simplicity, we will consider only two-dimensional scenes. All objects in the scene are totally reflective (mirror) spheres. When a ray of light hits such a sphere, it is reflected such that the angle of the incoming ray and the leaving ray against the tangent are the same:</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/6306.%E2%80%85Reflections/009889a1.png" data-original-src="https://www.acmicpc.net/upload/images2/ray1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:272px; width:263px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/6306.%E2%80%85Reflections/009889a1.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/6306.%E2%80%85Reflections/009889a1.png" data-original-src="https://www.acmicpc.net/upload/images2/ray1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:272px; width:263px" /></p>
 
 <p>The following figure shows a typical path that a ray of light may take in such a scene:</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/6306.%E2%80%85Reflections/d7015b06.png" data-original-src="https://www.acmicpc.net/upload/images2/ray2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:256px; width:314px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/6306.%E2%80%85Reflections/d7015b06.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/6306.%E2%80%85Reflections/d7015b06.png" data-original-src="https://www.acmicpc.net/upload/images2/ray2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:256px; width:314px" /></p>
 
 <p>Your task is to write a program, that given a scene description and a ray entering the scene, determines which spheres are hit by the ray.</p>
 

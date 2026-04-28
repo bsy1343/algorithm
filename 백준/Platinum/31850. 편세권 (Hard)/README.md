@@ -54,10 +54,10 @@
 
 ### 힌트
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/31850.%E2%80%85%ED%8E%B8%EC%84%B8%EA%B6%8C%E2%80%85(Hard)/4aaa2e76.png" data-original-src="https://upload.acmicpc.net/38a233b9-1045-4c42-85a5-6681844584ae/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/31850.%E2%80%85%ED%8E%B8%EC%84%B8%EA%B6%8C%E2%80%85(Hard)/4aaa2e76.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/31850.%E2%80%85%ED%8E%B8%EC%84%B8%EA%B6%8C%E2%80%85(Hard)/4aaa2e76.png" data-original-src="https://upload.acmicpc.net/38a233b9-1045-4c42-85a5-6681844584ae/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>예제 1번의 경우 월세가 $3$이고, 편의점까지의 거리가 $2$인 자취방의 편세권 점수가 $6$으로 가장 낮다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/31850.%E2%80%85%ED%8E%B8%EC%84%B8%EA%B6%8C%E2%80%85(Hard)/2f4ebe4b.png" data-original-src="https://upload.acmicpc.net/1e14317a-6e9c-4412-a6df-795e02f31178/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/31850.%E2%80%85%ED%8E%B8%EC%84%B8%EA%B6%8C%E2%80%85(Hard)/2f4ebe4b.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/31850.%E2%80%85%ED%8E%B8%EC%84%B8%EA%B6%8C%E2%80%85(Hard)/2f4ebe4b.png" data-original-src="https://upload.acmicpc.net/1e14317a-6e9c-4412-a6df-795e02f31178/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>예제 2번의 경우 월세가 $2$이고, 편의점까지의 거리가 $2$인 자취방의 편세권 점수가 $4$로 가장 낮다.</p>

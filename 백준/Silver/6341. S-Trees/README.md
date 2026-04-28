@@ -20,7 +20,7 @@
 
 <p>As stated earlier, each S-tree represents a Boolean function f. If you have an S-tree and values for the variables&nbsp;x<sub>1</sub>, x<sub>2</sub>, ..., x<sub>n</sub>, then it is quite simple to find out what &nbsp;f(x<sub>1</sub>, x<sub>2</sub>, ..., x<sub>n</sub>) is: start with the root. Now repeat the following: if the node you are at is labelled with a variable x<sub>i</sub>, then depending on whether the value of the variable is 1 or 0, you go its right or left child, respectively. Once you reach a terminal node, its label gives the value of the function.</p>
 
-<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/6341.%E2%80%85S-Trees/9fc54e70.png" data-original-src="https://www.acmicpc.net/upload/images2/stree.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:193px; width:514px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/6341.%E2%80%85S-Trees/9fc54e70.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/6341.%E2%80%85S-Trees/9fc54e70.png" data-original-src="https://www.acmicpc.net/upload/images2/stree.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:193px; width:514px" /></p>
 
 <p style="text-align:center">Figure 1: S-trees for the function &nbsp;x<sub>1</sub> &and;&nbsp;(x<sub>2</sub> &or;&nbsp;x<sub>3</sub>)</p>
 

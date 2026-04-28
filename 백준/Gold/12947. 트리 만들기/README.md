@@ -46,12 +46,12 @@
 
 <p>예제 1의 경우에 만들 수 있는 트리는 한 가지이다.</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/12947.%E2%80%85%ED%8A%B8%EB%A6%AC%E2%80%85%EB%A7%8C%EB%93%A4%EA%B8%B0/65399a13.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/12947/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:92px; width:124px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/12947.%E2%80%85%ED%8A%B8%EB%A6%AC%E2%80%85%EB%A7%8C%EB%93%A4%EA%B8%B0/65399a13.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/12947.%E2%80%85%ED%8A%B8%EB%A6%AC%E2%80%85%EB%A7%8C%EB%93%A4%EA%B8%B0/65399a13.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/12947/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:92px; width:124px" /></p>
 
 <p>예제 2의 경우에 다음과 같은 두 가지 트리를 만들 수 있다. 왼쪽 트리의 지름은 3, 오른쪽 트리의 지름은 4이다.</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/12947.%E2%80%85%ED%8A%B8%EB%A6%AC%E2%80%85%EB%A7%8C%EB%93%A4%EA%B8%B0/2e5c14b6.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/12947/2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:136px; width:270px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/12947.%E2%80%85%ED%8A%B8%EB%A6%AC%E2%80%85%EB%A7%8C%EB%93%A4%EA%B8%B0/2e5c14b6.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/12947.%E2%80%85%ED%8A%B8%EB%A6%AC%E2%80%85%EB%A7%8C%EB%93%A4%EA%B8%B0/2e5c14b6.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/12947/2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:136px; width:270px" /></p>
 
 <p>예제 3의 경우에는 아래 그림과 같은 트리를 만들 수 있다.</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/12947.%E2%80%85%ED%8A%B8%EB%A6%AC%E2%80%85%EB%A7%8C%EB%93%A4%EA%B8%B0/560549ea.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/12947/3.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:241px; width:173px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/12947.%E2%80%85%ED%8A%B8%EB%A6%AC%E2%80%85%EB%A7%8C%EB%93%A4%EA%B8%B0/560549ea.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/12947.%E2%80%85%ED%8A%B8%EB%A6%AC%E2%80%85%EB%A7%8C%EB%93%A4%EA%B8%B0/560549ea.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/12947/3.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:241px; width:173px" /></p>

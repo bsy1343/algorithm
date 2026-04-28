@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/14631.%E2%80%85%EB%AA%85%ED%83%90%EC%A0%95%E2%80%85%EC%A4%80%ED%95%98/47e8c19f.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14631/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:224px; width:200px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/14631.%E2%80%85%EB%AA%85%ED%83%90%EC%A0%95%E2%80%85%EC%A4%80%ED%95%98/47e8c19f.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/14631.%E2%80%85%EB%AA%85%ED%83%90%EC%A0%95%E2%80%85%EC%A4%80%ED%95%98/47e8c19f.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14631/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:224px; width:200px" /></p>
 
 <p>명탐정 준하에게 범인 수색의 의뢰가 맡겨졌다. 얼마 전 여러 미술관에서 미술 작품이 도난당한 사건이 있었는데, 그 범인을 찾는 의뢰였다. 왕년에 화가로 활동했던 준하는 이 사실이 안타까워 바로 사건을 담당하기로 하였다.</p>
 

@@ -26,7 +26,7 @@
 
 <p>たとえば，(W, H) = (4, 3) とするとき，市街地は下図のようになるが，犯人 X が太線の経路 で移動した場合，Y の証言は「左折，右折，右折，右折，左折，左折，左折」となる．</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/24130.%E2%80%85%E8%AA%98%E6%8B%90%E2%80%85(Abduction)/c36cb8e0.png" data-original-src="https://upload.acmicpc.net/403f269d-2cd7-4e60-bd8d-293c89bb0f1b/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 439px; height: 269px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/24130.%E2%80%85%E8%AA%98%E6%8B%90%E2%80%85(Abduction)/c36cb8e0.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/24130.%E2%80%85%E8%AA%98%E6%8B%90%E2%80%85(Abduction)/c36cb8e0.png" data-original-src="https://upload.acmicpc.net/403f269d-2cd7-4e60-bd8d-293c89bb0f1b/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 439px; height: 269px;" /></p>
 
 <p>犯人 X の移動経路として考えられる場合の数を 10 000 000(= 10<sup>7</sup>) で割った余りを求めるプ ログラムを書け．</p>
 

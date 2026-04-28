@@ -34,7 +34,7 @@
 	<li>모든 턴이 종료된 후 서로의 그림을 겹친 후, 원이 몇 개의 조각으로 나뉘었는지 확인한다. 이때, 짝수 개의 조각으로 나뉘었다면 현철이가 이기며, 홀수 개의 조각으로 나뉘었다면 엉엉이가 이긴다.</li>
 </ul>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/32232.%E2%80%85%EC%97%89%EC%97%89%EC%9D%B4%EC%9D%98%E2%80%85%EC%A0%80%EC%A3%BC%E2%80%85%ED%83%88%EC%B6%9C/f16f6d41.png" data-original-src="https://upload.acmicpc.net/248f1390-4e52-4032-88b4-30e0af49dd51/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 640px; max-width: 100%;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/32232.%E2%80%85%EC%97%89%EC%97%89%EC%9D%B4%EC%9D%98%E2%80%85%EC%A0%80%EC%A3%BC%E2%80%85%ED%83%88%EC%B6%9C/f16f6d41.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/32232.%E2%80%85%EC%97%89%EC%97%89%EC%9D%B4%EC%9D%98%E2%80%85%EC%A0%80%EC%A3%BC%E2%80%85%ED%83%88%EC%B6%9C/f16f6d41.png" data-original-src="https://upload.acmicpc.net/248f1390-4e52-4032-88b4-30e0af49dd51/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 640px; max-width: 100%;" /></p>
 
 <p style="text-align: center;">$N=2$, $M=5$일 때의 예시이며, 원은 44개의 조각으로 나뉘었다.</p>
 

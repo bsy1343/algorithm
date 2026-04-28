@@ -20,7 +20,7 @@
 
 <p>His best friend Ivan has decided to gift him a special pharmaceutical scale. The specialty of this scale is that it is recursive, i.e., at the end of each beam, there is either a weight, a new scale, or nothing. Of course, the scale leans to the left if the total mass on its left beam is larger than the total mass on its right beam. Analogously, if the mass is larger on the right beam, then the scale leans to the right. Otherwise, we say that the scale is balanced.</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/12700.%E2%80%85Poklon/a0d22dc6.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/12700/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202017-03-09%20%EC%98%A4%ED%9B%84%208.57.34.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:156px; width:300px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/12700.%E2%80%85Poklon/a0d22dc6.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/12700.%E2%80%85Poklon/a0d22dc6.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/12700/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202017-03-09%20%EC%98%A4%ED%9B%84%208.57.34.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:156px; width:300px" /></p>
 
 <p>Kile really likes the gift, and, as a true computer scientist, he immediately tries to balance it using new weights for which total mass is the lowest possible ​. New weights should be positive real numbers. We say that a recursive scale is balanced if it is balanced and all its subscales are balanced.</p>
 

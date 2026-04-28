@@ -20,11 +20,11 @@
 
 <p>For example, suppose we have boxes arranged in a 12-by-16 room as shown below. The upper left-hand corners of the boxes (which is how we will locate them in this problem) are at coordinates (1,13) (box A below), (3,2), (6,2), (6,4), (6,6), (7,6) and (8,9) (box G), where the first coordinate indicates distance from the top wall and the second coordinate indicates distance from the left wall.&nbsp;</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/4253.%E2%80%85Pushing%E2%80%85Boxes/ff680970.png" data-original-src="https://www.acmicpc.net/upload/images2/pb1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:209px; width:299px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/4253.%E2%80%85Pushing%E2%80%85Boxes/ff680970.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/4253.%E2%80%85Pushing%E2%80%85Boxes/ff680970.png" data-original-src="https://www.acmicpc.net/upload/images2/pb1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:209px; width:299px" /></p>
 
 <p>Suppose the top wall is programmed to move down 3 units (then retreats, as the walls always will) and then the right wall is programmed to move left 14 units. The first operation can be performed with no problem, but the second one can not be carried out without crushing some boxes. Therefore, the right wall will move only 13 units, the maximum distance it can move until boxes are packed tightly between it and the left wall. The boxes will then be in the configuration shown in the following figure. The locations of the boxes are (3,1), (3,2), (6,0), (6,1), (6,2), (7,2), (8,2).</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/4253.%E2%80%85Pushing%E2%80%85Boxes/768b22a3.png" data-original-src="https://www.acmicpc.net/upload/images2/pb2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:207px; width:296px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/4253.%E2%80%85Pushing%E2%80%85Boxes/768b22a3.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/4253.%E2%80%85Pushing%E2%80%85Boxes/768b22a3.png" data-original-src="https://www.acmicpc.net/upload/images2/pb2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:207px; width:296px" /></p>
 
 ### 입력
 

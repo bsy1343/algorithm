@@ -38,6 +38,6 @@
 
 ### 힌트
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/3640.%E2%80%85%EC%A0%9C%EB%8F%85/ade59e28.png" data-original-src="https://www.acmicpc.net/upload/images/admiral.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:284px; opacity:0.9; width:413px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/3640.%E2%80%85%EC%A0%9C%EB%8F%85/ade59e28.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/3640.%E2%80%85%EC%A0%9C%EB%8F%85/ade59e28.png" data-original-src="https://www.acmicpc.net/upload/images/admiral.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:284px; opacity:0.9; width:413px" /></p>
 
 <p>두 함선(빨강, 파랑)은 1에서 시작해서 6에서 만난다. 빨간 함선은 1 &rarr;&nbsp;3&nbsp;&rarr;&nbsp;6 (총 33개 포탄)으로 이동하고, 파란 함선은 1&nbsp;&rarr;&nbsp;2&nbsp;&rarr;&nbsp;5&nbsp;&rarr;&nbsp;4&nbsp;&rarr;&nbsp;6 (총 53개 포탄)으로 이동한다. 두 경로에서 출발과 도착을 제외하면 중복되는 정점과 간선이 없다.</p>

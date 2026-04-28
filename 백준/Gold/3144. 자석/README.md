@@ -22,11 +22,11 @@
 
 <p>예를 들어, 동혁이가 실험을 시작하기 전에 자석 6개를 다음과 같이 놓았다고 생각해보자.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/3144.%E2%80%85%EC%9E%90%EC%84%9D/6c4c9a3a.png" data-original-src="https://upload.acmicpc.net/37542831-c9c9-4925-beec-bf3ee8d29034/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 512px; height: 37px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/3144.%E2%80%85%EC%9E%90%EC%84%9D/6c4c9a3a.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/3144.%E2%80%85%EC%9E%90%EC%84%9D/6c4c9a3a.png" data-original-src="https://upload.acmicpc.net/37542831-c9c9-4925-beec-bf3ee8d29034/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 512px; height: 37px;" /></p>
 
 <p>동혁이가 실험을 시작하면, 자석은 다음과 같이 붙게된다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/3144.%E2%80%85%EC%9E%90%EC%84%9D/b74c1016.png" data-original-src="https://upload.acmicpc.net/ad79cc08-4e0f-493c-9251-304ff793318a/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 512px; height: 37px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/3144.%E2%80%85%EC%9E%90%EC%84%9D/b74c1016.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/3144.%E2%80%85%EC%9E%90%EC%84%9D/b74c1016.png" data-original-src="https://upload.acmicpc.net/ad79cc08-4e0f-493c-9251-304ff793318a/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 512px; height: 37px;" /></p>
 
 <p>사실 동혁이는 길이가 정확히 L인 자석이 필요해서 이 실험을 시작하게 된 것이다. 동혁이가 자석을 놓은 초기 배치가 주어졌을 때, 몇 개의 자석을 뒤집으면 길이가 정확히 L인 자석을 얻을 수 있는지 구하는 프로그램을 작성하시오. 만약, 여러 가지 경우가 있다면 뒤집는 횟수가 가장 작은 것을 출력한다.</p>
 

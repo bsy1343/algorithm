@@ -18,15 +18,15 @@
 
 <p>Let triangular matrices be defined as equilateral triangles with numbers in the form:</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/9312.%E2%80%85Triangular%E2%80%85Matrices/6b8e849c.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/9312/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:68px; width:76px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/9312.%E2%80%85Triangular%E2%80%85Matrices/6b8e849c.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/9312.%E2%80%85Triangular%E2%80%85Matrices/6b8e849c.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/9312/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:68px; width:76px" /></p>
 
 <p>Let triangular matrix addition be defined as:</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/9312.%E2%80%85Triangular%E2%80%85Matrices/8f63733d.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/9312/2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:266px; width:282px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/9312.%E2%80%85Triangular%E2%80%85Matrices/8f63733d.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/9312.%E2%80%85Triangular%E2%80%85Matrices/8f63733d.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/9312/2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:266px; width:282px" /></p>
 
 <p>Let triangular matrix multiplication be defined as:</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/9312.%E2%80%85Triangular%E2%80%85Matrices/d26351c2.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/9312/3.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:239px; width:301px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/9312.%E2%80%85Triangular%E2%80%85Matrices/d26351c2.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/9312.%E2%80%85Triangular%E2%80%85Matrices/d26351c2.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/9312/3.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:239px; width:301px" /></p>
 
 <p>The multiplication operation is not commutative, and the first matrix, A, must be of size less than or equal to B. The elements in the resultant matrix will be determined by matching A with every triangle of size A within the matrix B. For each of these matchings, multiply the overlapping elements of A and B and then sum them. Each matching will have a corresponding place in the resulting matrix.</p>
 

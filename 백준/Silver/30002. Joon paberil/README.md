@@ -18,7 +18,7 @@
 
 <p>Joonistame alloleval joonisel n&auml;idatud murdjoont, liikudes igal sammul &uuml;he ruuduvahe v&otilde;rra.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/30002.%E2%80%85Joon%E2%80%85paberil/996025ba.png" data-original-src="https://upload.acmicpc.net/073a277d-1849-43b4-b791-a4ada3a54561/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 169px; height: 171px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/30002.%E2%80%85Joon%E2%80%85paberil/996025ba.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/30002.%E2%80%85Joon%E2%80%85paberil/996025ba.png" data-original-src="https://upload.acmicpc.net/073a277d-1849-43b4-b791-a4ada3a54561/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 169px; height: 171px;" /></p>
 
 <p>Kui alustame sammul $0$ ruudul koordinaatidega $(1;1)$, siis millisel ruudul oleme sammul $N$?</p>
 

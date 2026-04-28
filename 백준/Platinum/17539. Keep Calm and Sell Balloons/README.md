@@ -22,7 +22,7 @@
 
 <p>After choosing the street of the day, Walter visits each house on that street exactly once. He can start his way in any house, but can only move between adjacent houses horizontally, vertically or diagonally.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/17539.%E2%80%85Keep%E2%80%85Calm%E2%80%85and%E2%80%85Sell%E2%80%85Balloons/27ae4901.png" data-original-src="https://upload.acmicpc.net/07d19934-e564-4bcc-86c2-2df6a081b069/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 179px; height: 53px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/17539.%E2%80%85Keep%E2%80%85Calm%E2%80%85and%E2%80%85Sell%E2%80%85Balloons/27ae4901.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/17539.%E2%80%85Keep%E2%80%85Calm%E2%80%85and%E2%80%85Sell%E2%80%85Balloons/27ae4901.png" data-original-src="https://upload.acmicpc.net/07d19934-e564-4bcc-86c2-2df6a081b069/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 179px; height: 53px;" /></p>
 
 <p>The table above illustrates an example where N = 6. After visiting house number 1, Walter could only proceed immediately to houses number 2, 7, and 8 (that is, if he has not visited them before). And after visiting house number 11, the next house on the way could only be one of 4, 5, 6, 10, or 12.</p>
 

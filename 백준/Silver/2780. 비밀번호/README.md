@@ -18,7 +18,7 @@
 
 <p>석원이는 자신의 현관문에 비밀번호 기계를 설치했다. 그 기계의 모양은 다음과 같다.</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/2780.%E2%80%85%EB%B9%84%EB%B0%80%EB%B2%88%ED%98%B8/bfc176be.png" data-original-src="https://www.acmicpc.net/upload/images/pw.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:418px; width:315px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/2780.%E2%80%85%EB%B9%84%EB%B0%80%EB%B2%88%ED%98%B8/bfc176be.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/2780.%E2%80%85%EB%B9%84%EB%B0%80%EB%B2%88%ED%98%B8/bfc176be.png" data-original-src="https://www.acmicpc.net/upload/images/pw.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:418px; width:315px" /></p>
 
 <p>지나가던 석원이 친구 주희는 단순한 호기심에 저 비밀번호를 풀고 싶어한다. 이때 주희는 바닥에 떨어져 있는 힌트 종이를 줍게 된다. 이 종이에는 석원이가 비밀번호를 만들 때 사용했던 조건이 적혀 있다. 이제 주희는 이 조건을 가지고, 석원이 집의 가능한 비밀번호의 전체 개수를 알고 싶어 한다. 현재 컴퓨터를 사용할 수 없는 주희는 당신에게 이 문제를 부탁했다. 석원이의 힌트 종이는 다음과 같다.</p>
 

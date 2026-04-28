@@ -23,8 +23,8 @@
 <table class="table table-bordered td-center">
 	<tbody>
 		<tr>
-			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/28652.%E2%80%85%D0%AF%D0%BF%D0%BE%D0%BD%D1%81%D0%BA%D0%B8%D0%B9%E2%80%85%D0%BA%D1%80%D0%BE%D1%81%D1%81%D0%B2%D0%BE%D1%80%D0%B4/bef74b08.png" data-original-src="https://upload.acmicpc.net/54e318aa-b080-4fb8-9baa-036f104b552e/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 352px; height: 534px;" /></td>
-			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/28652.%E2%80%85%D0%AF%D0%BF%D0%BE%D0%BD%D1%81%D0%BA%D0%B8%D0%B9%E2%80%85%D0%BA%D1%80%D0%BE%D1%81%D1%81%D0%B2%D0%BE%D1%80%D0%B4/607a054f.png" data-original-src="https://upload.acmicpc.net/68a4402f-32b2-4b60-89f4-f9efb26e6070/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 353px; height: 534px;" /></td>
+			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/28652.%E2%80%85%D0%AF%D0%BF%D0%BE%D0%BD%D1%81%D0%BA%D0%B8%D0%B9%E2%80%85%D0%BA%D1%80%D0%BE%D1%81%D1%81%D0%B2%D0%BE%D1%80%D0%B4/bef74b08.png" data-original-src="%EB%B0%B1%EC%A4%80/Bronze/28652.%E2%80%85%D0%AF%D0%BF%D0%BE%D0%BD%D1%81%D0%BA%D0%B8%D0%B9%E2%80%85%D0%BA%D1%80%D0%BE%D1%81%D1%81%D0%B2%D0%BE%D1%80%D0%B4/bef74b08.png" data-original-src="https://upload.acmicpc.net/54e318aa-b080-4fb8-9baa-036f104b552e/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 352px; height: 534px;" /></td>
+			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/28652.%E2%80%85%D0%AF%D0%BF%D0%BE%D0%BD%D1%81%D0%BA%D0%B8%D0%B9%E2%80%85%D0%BA%D1%80%D0%BE%D1%81%D1%81%D0%B2%D0%BE%D1%80%D0%B4/607a054f.png" data-original-src="%EB%B0%B1%EC%A4%80/Bronze/28652.%E2%80%85%D0%AF%D0%BF%D0%BE%D0%BD%D1%81%D0%BA%D0%B8%D0%B9%E2%80%85%D0%BA%D1%80%D0%BE%D1%81%D1%81%D0%B2%D0%BE%D1%80%D0%B4/607a054f.png" data-original-src="https://upload.acmicpc.net/68a4402f-32b2-4b60-89f4-f9efb26e6070/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 353px; height: 534px;" /></td>
 		</tr>
 		<tr>
 			<td>(a) Загаданный японский кроссворд</td>

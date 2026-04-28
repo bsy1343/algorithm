@@ -18,11 +18,11 @@
 
 <p>아케인리버에 서식하는 돌의 정령은 무리를 지어 활동하는 경향이 있다. 이때, 어느 돌의 정령 무리의 키는 돌의 정령들이 쌓인 구조의 층수라고 한다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/24025.%E2%80%85%EB%8F%8C%EC%9D%98%E2%80%85%EC%A0%95%EB%A0%B9%E2%80%85%EC%A4%84%EC%84%B8%EC%9A%B0%EA%B8%B0/4e1854e6.png" data-original-src="https://upload.acmicpc.net/6d66c99e-fc8d-4cff-8b7d-1446ebb468e9/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/24025.%E2%80%85%EB%8F%8C%EC%9D%98%E2%80%85%EC%A0%95%EB%A0%B9%E2%80%85%EC%A4%84%EC%84%B8%EC%9A%B0%EA%B8%B0/4e1854e6.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/24025.%E2%80%85%EB%8F%8C%EC%9D%98%E2%80%85%EC%A0%95%EB%A0%B9%E2%80%85%EC%A4%84%EC%84%B8%EC%9A%B0%EA%B8%B0/4e1854e6.png" data-original-src="https://upload.acmicpc.net/6d66c99e-fc8d-4cff-8b7d-1446ebb468e9/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p style="text-align: center;">키가 3인 돌의 정령 무리이다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/24025.%E2%80%85%EB%8F%8C%EC%9D%98%E2%80%85%EC%A0%95%EB%A0%B9%E2%80%85%EC%A4%84%EC%84%B8%EC%9A%B0%EA%B8%B0/4eb363b9.png" data-original-src="https://upload.acmicpc.net/d6f2414e-ad89-48ac-819a-9b784e750157/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 127px; height: 270px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/24025.%E2%80%85%EB%8F%8C%EC%9D%98%E2%80%85%EC%A0%95%EB%A0%B9%E2%80%85%EC%A4%84%EC%84%B8%EC%9A%B0%EA%B8%B0/4eb363b9.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/24025.%E2%80%85%EB%8F%8C%EC%9D%98%E2%80%85%EC%A0%95%EB%A0%B9%E2%80%85%EC%A4%84%EC%84%B8%EC%9A%B0%EA%B8%B0/4eb363b9.png" data-original-src="https://upload.acmicpc.net/d6f2414e-ad89-48ac-819a-9b784e750157/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 127px; height: 270px;" /></p>
 
 <p style="text-align: center;">키가 7인 돌의 정령 무리이다.</p>
 

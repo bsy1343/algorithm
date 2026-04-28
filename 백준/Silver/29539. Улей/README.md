@@ -20,7 +20,7 @@
 
 <p>Как известно, улей состоит из одинаковых сот, которые являются правильными шестиугольниками. Среди пчел считается, что улей размера один --- это улей, состоящий из единственной соты, улей размера два состоит из улья размера один, окруженного одним кольцом сот, $\ldots$ улей размера $k$ --- это улей размера $k-1$, окруженный кольцом сот.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/29539.%E2%80%85%D0%A3%D0%BB%D0%B5%D0%B9/90c3d056.png" data-original-src="https://upload.acmicpc.net/628d41fd-b3a7-4735-88bb-3b3932c78880/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 305px; height: 173px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/29539.%E2%80%85%D0%A3%D0%BB%D0%B5%D0%B9/90c3d056.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/29539.%E2%80%85%D0%A3%D0%BB%D0%B5%D0%B9/90c3d056.png" data-original-src="https://upload.acmicpc.net/628d41fd-b3a7-4735-88bb-3b3932c78880/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 305px; height: 173px;" /></p>
 
 <p>Недавно Кевина попросили построить улей размера $n$. Для планирования строительных работ Кевину необходимо знать точное число сот в улье. Помогите ему.</p>
 

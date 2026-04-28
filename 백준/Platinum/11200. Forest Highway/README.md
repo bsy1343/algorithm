@@ -20,7 +20,7 @@
 
 <p>You are given a description of the forest and the highway. The forest is a simple polygon, i.e. its sides do not cross, and the highway can be considered a straight line of width zero. You are also given d, the safe distance from the highway. Calculate the size of the inhabitable area of the forest.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/11200.%E2%80%85Forest%E2%80%85Highway/473f80ce.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11200/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:223px; width:283px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/11200.%E2%80%85Forest%E2%80%85Highway/473f80ce.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/11200.%E2%80%85Forest%E2%80%85Highway/473f80ce.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11200/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:223px; width:283px" /></p>
 
 <p style="text-align: center;">Figure G.1: Drawing of the sample input</p>
 

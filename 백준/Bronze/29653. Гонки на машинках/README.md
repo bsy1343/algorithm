@@ -38,6 +38,6 @@
 
 <p>Пояснение для первого примера:</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/29653.%E2%80%85%D0%93%D0%BE%D0%BD%D0%BA%D0%B8%E2%80%85%D0%BD%D0%B0%E2%80%85%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%BA%D0%B0%D1%85/48d10908.png" data-original-src="https://upload.acmicpc.net/a46b120b-3767-4ac4-8462-a2067441ee26/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 454px; height: 43px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/29653.%E2%80%85%D0%93%D0%BE%D0%BD%D0%BA%D0%B8%E2%80%85%D0%BD%D0%B0%E2%80%85%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%BA%D0%B0%D1%85/48d10908.png" data-original-src="%EB%B0%B1%EC%A4%80/Bronze/29653.%E2%80%85%D0%93%D0%BE%D0%BD%D0%BA%D0%B8%E2%80%85%D0%BD%D0%B0%E2%80%85%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%BA%D0%B0%D1%85/48d10908.png" data-original-src="https://upload.acmicpc.net/a46b120b-3767-4ac4-8462-a2067441ee26/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 454px; height: 43px;" /></p>
 
 <p>На рисунке точкой $A$ обозначено место обгона.</p>

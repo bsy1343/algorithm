@@ -18,7 +18,7 @@
 
 <p>The Algebraist Carpet Manufacturing (ACM) group likes to produce area carpets based upon various geometric figures. The 2014 ACM carpets are all equilateral triangles. Unfortunately, due to a manufacturing defect, some of the carpets are not as stainresistant as intended. The ACM group is offering to replace each defective carpet that contains a stain.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/11233.%E2%80%85Stained%E2%80%85Carpet/cb162e1b.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11232/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:229px; width:253px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/11233.%E2%80%85Stained%E2%80%85Carpet/cb162e1b.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/11233.%E2%80%85Stained%E2%80%85Carpet/cb162e1b.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11232/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:229px; width:253px" /></p>
 
 <p>The web form used to report the stained carpet requests the three distances that the stain is away from the corners of the rug. Based upon these three numbers, you need to compute the area of the rug that is to be sent to the customer, or indicate that the customer&rsquo;s carpet doesn&rsquo;t come from ACM.</p>
 

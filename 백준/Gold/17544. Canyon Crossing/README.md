@@ -18,7 +18,7 @@
 
 <p>The Bridge And Passageway Creators are responsible for making new paths through the local mountains. They have approved your plan to build a new route through your favorite canyon. You feverishly start working on this beautiful new path, when you realize you failed to take into account the flow of a nearby river: the canyon is flooded! Apparently this happens once every blue moon, making some parts of the path inaccessible. Because of this, you want to build a path such that the lowest point on the path is as high as possible. You quickly return to the village and use all of your money to buy rope bridges. You plan to use these to circumvent the lowest parts of the canyon.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/17544.%E2%80%85Canyon%E2%80%85Crossing/941e77f8.png" data-original-src="https://upload.acmicpc.net/c543455f-c4a7-4629-8de6-545264d6aa6f/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 192px; height: 150px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/17544.%E2%80%85Canyon%E2%80%85Crossing/941e77f8.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/17544.%E2%80%85Canyon%E2%80%85Crossing/941e77f8.png" data-original-src="https://upload.acmicpc.net/c543455f-c4a7-4629-8de6-545264d6aa6f/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 192px; height: 150px;" /></p>
 
 <p style="text-align: center;">Figure C.1: Canyon and two possible paths with minimal height 1 and 2 for sample input 1. The B indicate bridges.</p>
 
@@ -28,7 +28,7 @@
 
 <p>Given the map of the canyon and the number of bridges available, find the lowest height of an optimal path.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/17544.%E2%80%85Canyon%E2%80%85Crossing/1e25adf4.png" data-original-src="https://upload.acmicpc.net/e46e2327-269e-43b6-a046-6781204e5c24/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 225px; height: 150px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/17544.%E2%80%85Canyon%E2%80%85Crossing/1e25adf4.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/17544.%E2%80%85Canyon%E2%80%85Crossing/1e25adf4.png" data-original-src="https://upload.acmicpc.net/e46e2327-269e-43b6-a046-6781204e5c24/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 225px; height: 150px;" /></p>
 
 <p style="text-align: center;">Figure C.2: Canyon and an optimal path for sample input 2.</p>
 

@@ -29,7 +29,7 @@
 	<li>막대기는 겹쳐서 둘 수 없으며, 회전할 수도 없다.</li>
 </ol>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/12848.%E2%80%85%EB%A7%89%EB%8C%80%EA%B8%B0%E2%80%85%EA%B2%8C%EC%9E%84/7fd88541.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/12848/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:227px; width:368px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/12848.%E2%80%85%EB%A7%89%EB%8C%80%EA%B8%B0%E2%80%85%EA%B2%8C%EC%9E%84/7fd88541.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/12848.%E2%80%85%EB%A7%89%EB%8C%80%EA%B8%B0%E2%80%85%EA%B2%8C%EC%9E%84/7fd88541.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/12848/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:227px; width:368px" /></p>
 
 <p>(위 그림처럼 막대기를 둘 수 있다)</p>
 

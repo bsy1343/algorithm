@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><img alt="" longdesc="" src="%EB%B0%B1%EC%A4%80/Bronze/29766.%E2%80%85DKSH%E2%80%85%EC%B0%BE%EA%B8%B0/7d1e808b.png" data-original-src="https://upload.acmicpc.net/2b37369e-1aaf-47a9-8250-8cee10eca7eb/-/crop/4500x2026/0,1150/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 180px; width: 400px;" title="" /></p>
+<p style="text-align: center;"><img alt="" longdesc="" src="%EB%B0%B1%EC%A4%80/Bronze/29766.%E2%80%85DKSH%E2%80%85%EC%B0%BE%EA%B8%B0/7d1e808b.png" data-original-src="%EB%B0%B1%EC%A4%80/Bronze/29766.%E2%80%85DKSH%E2%80%85%EC%B0%BE%EA%B8%B0/7d1e808b.png" data-original-src="https://upload.acmicpc.net/2b37369e-1aaf-47a9-8250-8cee10eca7eb/-/crop/4500x2026/0,1150/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 180px; width: 400px;" title="" /></p>
 
 <p>학교의 로고인 DKSH는 Dankook University Software High School의 약자이다.</p>
 

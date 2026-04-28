@@ -22,7 +22,7 @@
 
 <p>Pažymėkime gyvatėlės galvos koordinatę (0; 0). Žinodami ekrano plotį N ir auk&scaron;tį M, apskaičiuokite gyvatėlės ilgį nuo galvos iki duoto kūno ta&scaron;ko (X; Y ).</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/30345.%E2%80%85Gyvat%C4%97l%C4%97/1738675f.png" data-original-src="https://upload.acmicpc.net/50debb8e-b1fd-425a-85b0-23a81f87bb3f/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 273px; height: 265px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/30345.%E2%80%85Gyvat%C4%97l%C4%97/1738675f.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/30345.%E2%80%85Gyvat%C4%97l%C4%97/1738675f.png" data-original-src="https://upload.acmicpc.net/50debb8e-b1fd-425a-85b0-23a81f87bb3f/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 273px; height: 265px;" /></p>
 
 <p style="text-align: center;">1 pav. N = 6, M = 6; gyvatėlės ilgis nuo galvos iki X = 2, Y = 4 yra 28</p>
 

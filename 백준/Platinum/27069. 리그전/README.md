@@ -40,4 +40,4 @@
 
 ### 힌트
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/27069.%E2%80%85%EB%A6%AC%EA%B7%B8%EC%A0%84/0d78ad97.png" data-original-src="https://upload.acmicpc.net/133bfc04-4b53-4310-9b07-45dc1281584d/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 589px; width: 700px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/27069.%E2%80%85%EB%A6%AC%EA%B7%B8%EC%A0%84/0d78ad97.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/27069.%E2%80%85%EB%A6%AC%EA%B7%B8%EC%A0%84/0d78ad97.png" data-original-src="https://upload.acmicpc.net/133bfc04-4b53-4310-9b07-45dc1281584d/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 589px; width: 700px;" /></p>

@@ -20,7 +20,7 @@
 
 <p>A gecko wants to eat as many mosquitoes as possible, subject to the following restrictions. It starts by choosing any tile in the top row, and eats the mosquitoes in that tile. Then, it moves to a tile in the next lower row, eats the mosquitoes on the tile, and so on until it reaches the floor. When it moves from one tile to a tile in the next lower row, it can only move vertically down or diagonally to the left or right (see Figure 1).</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/9844.%E2%80%85Gecko/6ce5288e.png" data-original-src="https://upload.acmicpc.net/df862d85-3e0d-45ba-bd65-6cd628289861/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 122px; height: 84px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/9844.%E2%80%85Gecko/6ce5288e.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/9844.%E2%80%85Gecko/6ce5288e.png" data-original-src="https://upload.acmicpc.net/df862d85-3e0d-45ba-bd65-6cd628289861/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 122px; height: 84px;" /></p>
 
 <p style="text-align: center;"><strong>Figure 1</strong> When moving from one tile to a tile in the next lower row, the gecko can only move vertically down or diagonally to the left or right.</p>
 

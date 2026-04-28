@@ -18,7 +18,7 @@
 
 <p>You have the goal of becoming the world&rsquo;s fastest two-fingered typist. In this problem, your goal is to optimize the movement of your fingers when typing numeric values in order to ensure that you finish typing a number in the shortest amount of time possible. Your numeric keyboard has the following layout:</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/7689.%E2%80%85RSI/37482b2f.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/7689/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:76px; width:80px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/7689.%E2%80%85RSI/37482b2f.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/7689.%E2%80%85RSI/37482b2f.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/7689/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:76px; width:80px" /></p>
 
 <p>For convenience, we refer to the cells above according to their row and column; hence, the &ldquo;5&rdquo; key is at position (2, 2), and the &ldquo;0&rdquo; key takes up both positions (4, 1) and (4, 2). At time 0, your left pointer finger is on the &ldquo;4&rdquo; key and your right pointer finger is on the &ldquo;5&rdquo; key. During each time interval, each finger may press the key underneath it, move vertically one position, or move horizontally one position. Although both fingers may move simultaneously within a single time interval,</p>
 

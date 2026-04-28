@@ -24,17 +24,17 @@
 
 <p>Dice have a very long history. It is not clear when and where dice are originated. It is known, however, that dice have been used in Egypt since the time before the year of 3000 B.C.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/22782.%E2%80%85Opened-up%E2%80%85Die/992ff868.png" data-original-src="https://upload.acmicpc.net/3e50eb02-2e13-404a-ace0-83dd1d0b68c6/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 234px; height: 173px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/22782.%E2%80%85Opened-up%E2%80%85Die/992ff868.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/22782.%E2%80%85Opened-up%E2%80%85Die/992ff868.png" data-original-src="https://upload.acmicpc.net/3e50eb02-2e13-404a-ace0-83dd1d0b68c6/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 234px; height: 173px;" /></p>
 
 <p style="text-align: center;">Figure 1: Picture of dice</p>
 
 <p>Dice are sometimes represented by their nets as shown in Figure 2 when they are depicted on a plane. As you know, there are a number of nets that represent the same dice. In this problem, however, we consider only nets of the same shape as the one shown in Figure 2. For our convenience, we index the faces as shown in Figure 3.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/22782.%E2%80%85Opened-up%E2%80%85Die/458d2432.png" data-original-src="https://upload.acmicpc.net/cea79495-81e0-4e80-a20e-e87ecb648ab1/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 234px; height: 173px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/22782.%E2%80%85Opened-up%E2%80%85Die/458d2432.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/22782.%E2%80%85Opened-up%E2%80%85Die/458d2432.png" data-original-src="https://upload.acmicpc.net/cea79495-81e0-4e80-a20e-e87ecb648ab1/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 234px; height: 173px;" /></p>
 
 <p style="text-align: center;">Figure 2: Net of die</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/22782.%E2%80%85Opened-up%E2%80%85Die/f526612f.png" data-original-src="https://upload.acmicpc.net/32c35460-12d0-4e08-8b71-a7b676e8f06a/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 234px; height: 173px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/22782.%E2%80%85Opened-up%E2%80%85Die/f526612f.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/22782.%E2%80%85Opened-up%E2%80%85Die/f526612f.png" data-original-src="https://upload.acmicpc.net/32c35460-12d0-4e08-8b71-a7b676e8f06a/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 234px; height: 173px;" /></p>
 
 <p style="text-align: center;">Figure 3: Indices of faces</p>
 
@@ -44,7 +44,7 @@
 
 <p>Your task is to write a program to recover his nets of dice from their parts.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/22782.%E2%80%85Opened-up%E2%80%85Die/4d29ac50.png" data-original-src="https://upload.acmicpc.net/151d1929-ddf7-415f-aa74-f18ae477f411/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 234px; height: 173px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/22782.%E2%80%85Opened-up%E2%80%85Die/4d29ac50.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/22782.%E2%80%85Opened-up%E2%80%85Die/4d29ac50.png" data-original-src="https://upload.acmicpc.net/151d1929-ddf7-415f-aa74-f18ae477f411/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 234px; height: 173px;" /></p>
 
 <p style="text-align: center;">Figure 4: Net given as the sample input; unreadable faces indicated by empty.</p>
 

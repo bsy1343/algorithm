@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/20937.%E2%80%85%EB%96%A1%EA%B5%AD/f81c827b.png" data-original-src="https://upload.acmicpc.net/29984e67-99cf-47bf-9160-8f30d3edb84c/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 300px; height: 127px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/20937.%E2%80%85%EB%96%A1%EA%B5%AD/f81c827b.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/20937.%E2%80%85%EB%96%A1%EA%B5%AD/f81c827b.png" data-original-src="https://upload.acmicpc.net/29984e67-99cf-47bf-9160-8f30d3edb84c/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 300px; height: 127px;" /></p>
 
 <blockquote>
 <p>Naver D2를 아시나요? D2는 For Developers, By Developers의 약자로, 개발자들을 위해 개발자들이 직접 만들어 가고 있는 네이버 개발자 지원 프로그램입니다. 네이버가 축적한 기술과 지식을 공유하고, 외부 개발자들을 지원해 대한민국 개발자 역량 강화를 이끌고, 이를 통해 업계 전체와 네이버가 함께 성장하는 선순환 구조를 만들고자 합니다.</p>

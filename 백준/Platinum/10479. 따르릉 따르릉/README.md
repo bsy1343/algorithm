@@ -24,7 +24,7 @@
 
 <p>t = 0일 때, 맥스는 달리기를 시작하고자 하는 곳에 서 있다(맥스는 정확히 도로 밖 경계에 서 있다). 또한 t = 0일 때, 가장 앞 자전거의 앞부분과 맥스가 건너고자 하는 곳은 수직으로 D미터 떨어져있다. 자전거는 10 대가 연달아 올 것이다.</p>
 
-<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/10479.%E2%80%85%EB%94%B0%EB%A5%B4%EB%A6%89%E2%80%85%EB%94%B0%EB%A5%B4%EB%A6%89/b5817501.png" data-original-src="https://www.acmicpc.net/upload/images2/yikes.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:265px; width:453px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/10479.%E2%80%85%EB%94%B0%EB%A5%B4%EB%A6%89%E2%80%85%EB%94%B0%EB%A5%B4%EB%A6%89/b5817501.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/10479.%E2%80%85%EB%94%B0%EB%A5%B4%EB%A6%89%E2%80%85%EB%94%B0%EB%A5%B4%EB%A6%89/b5817501.png" data-original-src="https://www.acmicpc.net/upload/images2/yikes.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:265px; width:453px" /></p>
 
 <p style="text-align:center">그림 K.1 t = 0일 때의 상황</p>
 

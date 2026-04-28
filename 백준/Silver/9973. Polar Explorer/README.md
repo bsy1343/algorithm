@@ -22,7 +22,7 @@
 
 <p>Using this information along with how much gasoline is available for your planet-rover (which gets a measley 5 miles per gallon), you have to determine if you can possibly get to the crash site and back without running out of fuel.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/9973.%E2%80%85Polar%E2%80%85Explorer/18b614af.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/9973/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:180px; width:200px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/9973.%E2%80%85Polar%E2%80%85Explorer/18b614af.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/9973.%E2%80%85Polar%E2%80%85Explorer/18b614af.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/9973/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:180px; width:200px" /></p>
 
 ### 입력
 

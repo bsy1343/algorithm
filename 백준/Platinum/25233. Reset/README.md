@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<figure style="float: right;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/25233.%E2%80%85Reset/22efa5d0.png" data-original-src="https://upload.acmicpc.net/808fa4e2-2df5-4d1f-bd34-f2a356ba9273/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 250px; height: 116px;" />
+<figure style="float: right;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/25233.%E2%80%85Reset/22efa5d0.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/25233.%E2%80%85Reset/22efa5d0.png" data-original-src="https://upload.acmicpc.net/808fa4e2-2df5-4d1f-bd34-f2a356ba9273/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 250px; height: 116px;" />
 <figcaption>
 <p style="text-align: right;"><small>Image from <a href="http://pngimg.com/image/41189">pngimg.com</a></small></p>
 </figcaption>

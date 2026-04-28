@@ -18,7 +18,7 @@
 
 <p>러시아 전통 목제인형인 마트료시카는 그 안에 크기가 계속 작아지는 인형들이 들어있는 인형이다.&nbsp;마트료시카를 열면 그 안에 더 작은 인형이 있고, 그 작은 인형의 안엔 또다시 작은 인형이 들어있고, 안에 더는 인형이 없을 때까지&nbsp;계속 반복된다.&nbsp;</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/8884.%E2%80%85%EB%A7%88%ED%8A%B8%EB%A3%8C%EC%8B%9C%EC%B9%B4/184d5962.png" data-original-src="https://www.acmicpc.net/upload/images/Matryoshka.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="float:right; height:200px; width:261px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/8884.%E2%80%85%EB%A7%88%ED%8A%B8%EB%A3%8C%EC%8B%9C%EC%B9%B4/184d5962.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/8884.%E2%80%85%EB%A7%88%ED%8A%B8%EB%A3%8C%EC%8B%9C%EC%B9%B4/184d5962.png" data-original-src="https://www.acmicpc.net/upload/images/Matryoshka.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="float:right; height:200px; width:261px" /></p>
 
 <p>최근&nbsp;러시아 마트료시카 박물관은 개수만 다르고&nbsp;비슷하게 생긴 마트료시카 세트들을 모아놓은 콜렉션을 전시했다. 그런데 그만부모의 통제에서 벗어난 난폭한&nbsp;어린이들이 이 세트들을 모두 분리시켜 일렬로 세워버렸다. 박물관 알바생인 준빈이는 해고 당하지 않기 위해 어린이들이 일렬로 세워놓은&nbsp;총 n개의 마트료시카를(인형들의 크기는 정수로 나타낼 수 있다고 가정하자), 원래&nbsp;마트료시카 세트들이 몇 개였는지 세트별로 몇 개였는지 모르는&nbsp;채로, 마트료시카 세트들로 재조립 해야&nbsp;한다. 확실한 것은 모든 완전한 마트료시카 세트의 인형들의 크기들은&nbsp;각각&nbsp;크기가 1부터 어떤 수 m까지의 연속된 정수라는 것이다. 물론 m은 각 세트마다 다르다.</p>
 

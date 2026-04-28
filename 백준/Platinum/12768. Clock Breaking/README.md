@@ -22,7 +22,7 @@
 
 <p>These clocks use a standard 7-segment LCD display for all digits (shown on the left in Figure D.1), plus two small segments for the &lsquo;:&rsquo;, and show all times in a 24-hour format. The minute before midnight is 23:59, and midnight is 0:00. The &lsquo;:&rsquo; segments of a working clock are on at all times. The representation of each digit using the seven segments is shown on the right in Figure D.1.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/12768.%E2%80%85Clock%E2%80%85Breaking/c8f4046d.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/12768/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:86px; width:460px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/12768.%E2%80%85Clock%E2%80%85Breaking/c8f4046d.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/12768.%E2%80%85Clock%E2%80%85Breaking/c8f4046d.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/12768/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:86px; width:460px" /></p>
 
 <p style="text-align: center;">Figure D.1: LCD display of each digit.</p>
 

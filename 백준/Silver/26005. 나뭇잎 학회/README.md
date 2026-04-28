@@ -31,7 +31,7 @@
 	<li>
 	<p>예를 들어 $N=3$일 때, 당신이 $5$번 스위치를 누르고 싶다면 인접한 스위치 상($2$), 하($8$), 좌($4$), 우($6$) 중 하나의 스위치와 같이 한 번에 눌러야 합니다.</p>
 
-	<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/26005.%E2%80%85%EB%82%98%EB%AD%87%EC%9E%8E%E2%80%85%ED%95%99%ED%9A%8C/8ef8f4be.png" data-original-src="https://upload.acmicpc.net/a0c88181-fff9-4760-bdc8-fccc4ed74786/-/crop/532x532/7,9/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 200px; width: 200px;" /></p>
+	<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/26005.%E2%80%85%EB%82%98%EB%AD%87%EC%9E%8E%E2%80%85%ED%95%99%ED%9A%8C/8ef8f4be.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/26005.%E2%80%85%EB%82%98%EB%AD%87%EC%9E%8E%E2%80%85%ED%95%99%ED%9A%8C/8ef8f4be.png" data-original-src="https://upload.acmicpc.net/a0c88181-fff9-4760-bdc8-fccc4ed74786/-/crop/532x532/7,9/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 200px; width: 200px;" /></p>
 	</li>
 	<li>
 	<p>당신은 전구와 연결된 스위치가 어느 것인지 알아내서 답을 제출해야 합니다.</p>
@@ -62,7 +62,7 @@
 
 <p><strong>ⅰ) 전구가 $1$번 스위치와 연결되어 있는 경우 </strong></p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/26005.%E2%80%85%EB%82%98%EB%AD%87%EC%9E%8E%E2%80%85%ED%95%99%ED%9A%8C/5dc304aa.png" data-original-src="https://upload.acmicpc.net/cd345f8d-3b0e-4fa3-8f73-9b6f0d34d2b1/-/crop/245x244/6,8/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 150px; width: 151px;" /><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/26005.%E2%80%85%EB%82%98%EB%AD%87%EC%9E%8E%E2%80%85%ED%95%99%ED%9A%8C/b41d0cdd.png" data-original-src="https://upload.acmicpc.net/73fb1dc9-15fe-4855-b23d-e1e994ec0639/-/crop/245x246/4,4/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 150px; width: 149px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/26005.%E2%80%85%EB%82%98%EB%AD%87%EC%9E%8E%E2%80%85%ED%95%99%ED%9A%8C/5dc304aa.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/26005.%E2%80%85%EB%82%98%EB%AD%87%EC%9E%8E%E2%80%85%ED%95%99%ED%9A%8C/5dc304aa.png" data-original-src="https://upload.acmicpc.net/cd345f8d-3b0e-4fa3-8f73-9b6f0d34d2b1/-/crop/245x244/6,8/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 150px; width: 151px;" /><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/26005.%E2%80%85%EB%82%98%EB%AD%87%EC%9E%8E%E2%80%85%ED%95%99%ED%9A%8C/b41d0cdd.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/26005.%E2%80%85%EB%82%98%EB%AD%87%EC%9E%8E%E2%80%85%ED%95%99%ED%9A%8C/b41d0cdd.png" data-original-src="https://upload.acmicpc.net/73fb1dc9-15fe-4855-b23d-e1e994ec0639/-/crop/245x246/4,4/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 150px; width: 149px;" /></p>
 
 <ol>
 	<li>$3$번 스위치와 $4$번 스위치를 누른다. 전구가 깜빡이지 않는다.</li>
@@ -73,7 +73,7 @@
 
 <p><strong>ⅱ) 전구가 $2$번 스위치와 연결되어 있는 경우</strong></p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/26005.%E2%80%85%EB%82%98%EB%AD%87%EC%9E%8E%E2%80%85%ED%95%99%ED%9A%8C/5dc304aa.png" data-original-src="https://upload.acmicpc.net/cd345f8d-3b0e-4fa3-8f73-9b6f0d34d2b1/-/crop/245x244/6,8/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 150px; width: 151px;" /><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/26005.%E2%80%85%EB%82%98%EB%AD%87%EC%9E%8E%E2%80%85%ED%95%99%ED%9A%8C/b41d0cdd.png" data-original-src="https://upload.acmicpc.net/73fb1dc9-15fe-4855-b23d-e1e994ec0639/-/crop/245x246/4,4/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 150px; width: 149px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/26005.%E2%80%85%EB%82%98%EB%AD%87%EC%9E%8E%E2%80%85%ED%95%99%ED%9A%8C/5dc304aa.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/26005.%E2%80%85%EB%82%98%EB%AD%87%EC%9E%8E%E2%80%85%ED%95%99%ED%9A%8C/5dc304aa.png" data-original-src="https://upload.acmicpc.net/cd345f8d-3b0e-4fa3-8f73-9b6f0d34d2b1/-/crop/245x244/6,8/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 150px; width: 151px;" /><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/26005.%E2%80%85%EB%82%98%EB%AD%87%EC%9E%8E%E2%80%85%ED%95%99%ED%9A%8C/b41d0cdd.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/26005.%E2%80%85%EB%82%98%EB%AD%87%EC%9E%8E%E2%80%85%ED%95%99%ED%9A%8C/b41d0cdd.png" data-original-src="https://upload.acmicpc.net/73fb1dc9-15fe-4855-b23d-e1e994ec0639/-/crop/245x246/4,4/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 150px; width: 149px;" /></p>
 
 <ol>
 	<li>$3$번 스위치와 $4$번 스위치를 누른다. 전구가 깜빡이지 않는다.</li>
@@ -84,7 +84,7 @@
 
 <p><strong>ⅲ) 전구가 $3$번 스위치와 연결되어 있는 경우</strong></p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/26005.%E2%80%85%EB%82%98%EB%AD%87%EC%9E%8E%E2%80%85%ED%95%99%ED%9A%8C/5dc304aa.png" data-original-src="https://upload.acmicpc.net/cd345f8d-3b0e-4fa3-8f73-9b6f0d34d2b1/-/crop/245x244/6,8/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 150px; width: 151px;" /><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/26005.%E2%80%85%EB%82%98%EB%AD%87%EC%9E%8E%E2%80%85%ED%95%99%ED%9A%8C/b41d0cdd.png" data-original-src="https://upload.acmicpc.net/73fb1dc9-15fe-4855-b23d-e1e994ec0639/-/crop/245x246/4,4/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 150px; width: 149px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/26005.%E2%80%85%EB%82%98%EB%AD%87%EC%9E%8E%E2%80%85%ED%95%99%ED%9A%8C/5dc304aa.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/26005.%E2%80%85%EB%82%98%EB%AD%87%EC%9E%8E%E2%80%85%ED%95%99%ED%9A%8C/5dc304aa.png" data-original-src="https://upload.acmicpc.net/cd345f8d-3b0e-4fa3-8f73-9b6f0d34d2b1/-/crop/245x244/6,8/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 150px; width: 151px;" /><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/26005.%E2%80%85%EB%82%98%EB%AD%87%EC%9E%8E%E2%80%85%ED%95%99%ED%9A%8C/b41d0cdd.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/26005.%E2%80%85%EB%82%98%EB%AD%87%EC%9E%8E%E2%80%85%ED%95%99%ED%9A%8C/b41d0cdd.png" data-original-src="https://upload.acmicpc.net/73fb1dc9-15fe-4855-b23d-e1e994ec0639/-/crop/245x246/4,4/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 150px; width: 149px;" /></p>
 
 <ol>
 	<li>$3$번 스위치와 $4$번 스위치를 누른다. 전구가 깜빡인다.</li>
@@ -95,7 +95,7 @@
 
 <p><strong>ⅳ) 전구가 $4$번 스위치와 연결되어 있는 경우</strong></p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/26005.%E2%80%85%EB%82%98%EB%AD%87%EC%9E%8E%E2%80%85%ED%95%99%ED%9A%8C/5dc304aa.png" data-original-src="https://upload.acmicpc.net/cd345f8d-3b0e-4fa3-8f73-9b6f0d34d2b1/-/crop/245x244/6,8/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 150px; width: 151px;" /><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/26005.%E2%80%85%EB%82%98%EB%AD%87%EC%9E%8E%E2%80%85%ED%95%99%ED%9A%8C/b41d0cdd.png" data-original-src="https://upload.acmicpc.net/73fb1dc9-15fe-4855-b23d-e1e994ec0639/-/crop/245x246/4,4/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 150px; width: 149px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/26005.%E2%80%85%EB%82%98%EB%AD%87%EC%9E%8E%E2%80%85%ED%95%99%ED%9A%8C/5dc304aa.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/26005.%E2%80%85%EB%82%98%EB%AD%87%EC%9E%8E%E2%80%85%ED%95%99%ED%9A%8C/5dc304aa.png" data-original-src="https://upload.acmicpc.net/cd345f8d-3b0e-4fa3-8f73-9b6f0d34d2b1/-/crop/245x244/6,8/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 150px; width: 151px;" /><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/26005.%E2%80%85%EB%82%98%EB%AD%87%EC%9E%8E%E2%80%85%ED%95%99%ED%9A%8C/b41d0cdd.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/26005.%E2%80%85%EB%82%98%EB%AD%87%EC%9E%8E%E2%80%85%ED%95%99%ED%9A%8C/b41d0cdd.png" data-original-src="https://upload.acmicpc.net/73fb1dc9-15fe-4855-b23d-e1e994ec0639/-/crop/245x246/4,4/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 150px; width: 149px;" /></p>
 
 <ol>
 	<li>$3$번 스위치와 $4$번 스위치를 누른다. 전구가 깜빡인다.</li>

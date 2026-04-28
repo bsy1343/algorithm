@@ -18,15 +18,15 @@
 
 <p>소떡소떡은 기다란 꼬치에 소세지와 떡을 끼운 음식이다. 편의상 소떡소떡을 알파벳 <code>s</code>와 <code>t</code>로만 구성된 길이 $N$의 문자열로 생각하자. 알파벳 <code>s</code>는 소세지를, <code>t</code>는 떡을 의미한다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/25641.%E2%80%85%EA%B7%A0%ED%98%95%E2%80%85%EC%9E%A1%ED%9E%8C%E2%80%85%EC%86%8C%EB%96%A1%EC%86%8C%EB%96%A1/dab607b7.png" data-original-src="https://upload.acmicpc.net/884b11a1-23ca-4099-b3c7-70076eaa4cad/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/25641.%E2%80%85%EA%B7%A0%ED%98%95%E2%80%85%EC%9E%A1%ED%9E%8C%E2%80%85%EC%86%8C%EB%96%A1%EC%86%8C%EB%96%A1/dab607b7.png" data-original-src="%EB%B0%B1%EC%A4%80/Bronze/25641.%E2%80%85%EA%B7%A0%ED%98%95%E2%80%85%EC%9E%A1%ED%9E%8C%E2%80%85%EC%86%8C%EB%96%A1%EC%86%8C%EB%96%A1/dab607b7.png" data-original-src="https://upload.acmicpc.net/884b11a1-23ca-4099-b3c7-70076eaa4cad/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>위 그림은 길이가 $7$인 소떡소떡의 예시이다. 유진이는 소떡소떡을 먹기 전에 소떡소떡을 <em>균형 잡힌 소떡소떡</em>으로 만들려고 한다. 꼬치에 꽂힌 소세지와 떡의 개수가 같을 때 이를 <em>균형 잡힌 소떡소떡</em>이라고 한다. 단, 소세지와 떡이 한 개도 꽂혀있지 않다면 <em>균형잡힌 소떡소떡</em>이 아니다. 위 그림은 소세지가 $3$개, 떡이 $4$개 꽂혀 있기 때문에 <em>균형 잡힌 소떡소떡</em>이 아니다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/25641.%E2%80%85%EA%B7%A0%ED%98%95%E2%80%85%EC%9E%A1%ED%9E%8C%E2%80%85%EC%86%8C%EB%96%A1%EC%86%8C%EB%96%A1/dc455a93.png" data-original-src="https://upload.acmicpc.net/31eaac4b-36d4-4d92-90e7-6390ba3dd464/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/25641.%E2%80%85%EA%B7%A0%ED%98%95%E2%80%85%EC%9E%A1%ED%9E%8C%E2%80%85%EC%86%8C%EB%96%A1%EC%86%8C%EB%96%A1/dc455a93.png" data-original-src="%EB%B0%B1%EC%A4%80/Bronze/25641.%E2%80%85%EA%B7%A0%ED%98%95%E2%80%85%EC%9E%A1%ED%9E%8C%E2%80%85%EC%86%8C%EB%96%A1%EC%86%8C%EB%96%A1/dc455a93.png" data-original-src="https://upload.acmicpc.net/31eaac4b-36d4-4d92-90e7-6390ba3dd464/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>유진이는 소떡소떡의 맨 왼쪽에 있는 소세지나 떡을 떼어낼 수 있다. 오른쪽은 손잡이 부분이기 때문에 오른쪽에서 떼어내는 것은 불가능하다. 위 그림은 소떡소떡의 맨 왼쪽에 있던 소세지를 떼어낸 그림이다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/25641.%E2%80%85%EA%B7%A0%ED%98%95%E2%80%85%EC%9E%A1%ED%9E%8C%E2%80%85%EC%86%8C%EB%96%A1%EC%86%8C%EB%96%A1/6fde0e74.png" data-original-src="https://upload.acmicpc.net/1fb6f39e-75c8-4a6b-bf85-e09b9b2d6563/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/25641.%E2%80%85%EA%B7%A0%ED%98%95%E2%80%85%EC%9E%A1%ED%9E%8C%E2%80%85%EC%86%8C%EB%96%A1%EC%86%8C%EB%96%A1/6fde0e74.png" data-original-src="%EB%B0%B1%EC%A4%80/Bronze/25641.%E2%80%85%EA%B7%A0%ED%98%95%E2%80%85%EC%9E%A1%ED%9E%8C%E2%80%85%EC%86%8C%EB%96%A1%EC%86%8C%EB%96%A1/6fde0e74.png" data-original-src="https://upload.acmicpc.net/1fb6f39e-75c8-4a6b-bf85-e09b9b2d6563/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>위 그림은 떡 두 개를 더 떼어낸 그림이다. 소세지가 $2$개, 떡이 $2$개 꽂혀 있기 때문에 <em>균형 잡힌 소떡소떡</em>이 되었다.</p>
 

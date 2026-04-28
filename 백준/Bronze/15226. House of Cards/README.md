@@ -16,13 +16,13 @@
 
 ### 문제 설명
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/15226.%E2%80%85House%E2%80%85of%E2%80%85Cards/da4aa814.png" data-original-src="https://upload.acmicpc.net/582a28bf-be40-4c48-aa2e-7f0f5f2ad961/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 188px; height: 250px; float: right;" />Brian and Susan are old friends, and they always dare each other to do reckless things. Recently Brian had the audacity to take the bottom right exit out of their annual maze race, instead of the usual top left one. In order to trump this, Susan needs to think big. She will build a house of cards so big that, should it topple over, the entire country would be buried by cards. It&rsquo;s going to be huge!</p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/15226.%E2%80%85House%E2%80%85of%E2%80%85Cards/da4aa814.png" data-original-src="%EB%B0%B1%EC%A4%80/Bronze/15226.%E2%80%85House%E2%80%85of%E2%80%85Cards/da4aa814.png" data-original-src="https://upload.acmicpc.net/582a28bf-be40-4c48-aa2e-7f0f5f2ad961/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 188px; height: 250px; float: right;" />Brian and Susan are old friends, and they always dare each other to do reckless things. Recently Brian had the audacity to take the bottom right exit out of their annual maze race, instead of the usual top left one. In order to trump this, Susan needs to think big. She will build a house of cards so big that, should it topple over, the entire country would be buried by cards. It&rsquo;s going to be huge!</p>
 
 <p>The house will have a triangular shape. The illustration to the right shows a house of height 6, and Figure D.1 shows a schematic figure of a house of height 5.</p>
 
 <p>For aesthetic reasons, the cards used to build the tower should feature each of the four suits (clubs, diamonds, hearts, spades) equally often. Depending on the height of the tower, this may or may not be possible. Given a lower bound h<sub>0</sub> on the height of the tower, what is the smallest possible height h &ge; h<sub>0</sub> such that it is possible to build the tower?</p>
 
-<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/15226.%E2%80%85House%E2%80%85of%E2%80%85Cards/45a495b0.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15226/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:173px; width:164px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/15226.%E2%80%85House%E2%80%85of%E2%80%85Cards/45a495b0.png" data-original-src="%EB%B0%B1%EC%A4%80/Bronze/15226.%E2%80%85House%E2%80%85of%E2%80%85Cards/45a495b0.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15226/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:173px; width:164px" /></p>
 
 <p style="text-align:center">Figure D.1: A house of height 5 uses 40 cards.</p>
 

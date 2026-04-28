@@ -22,13 +22,13 @@
 
 <p>이 프로그램을 이용하려는 회사에서 요구조건이 하나 생겼다. 바로 사장이 바뀌면 간선은 모두 유지하면서 그 사장을 루트로 하는 새로운 트리를 만든 뒤, 각 직원의 $bonus$를 초기화하고 기존 $score$를 이용해 새로운 트리에서 직원의 점수를 다시 계산해달라는 것이다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/28425.%E2%80%85%EC%A0%90%EC%88%98%E2%80%85%EA%B3%84%EC%82%B0%ED%95%98%EA%B8%B0/43072006.png" data-original-src="https://upload.acmicpc.net/b5672530-8fd7-44d7-a1d7-8153c6bb0efb/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 50%; width: 50%;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/28425.%E2%80%85%EC%A0%90%EC%88%98%E2%80%85%EA%B3%84%EC%82%B0%ED%95%98%EA%B8%B0/43072006.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/28425.%E2%80%85%EC%A0%90%EC%88%98%E2%80%85%EA%B3%84%EC%82%B0%ED%95%98%EA%B8%B0/43072006.png" data-original-src="https://upload.acmicpc.net/b5672530-8fd7-44d7-a1d7-8153c6bb0efb/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 50%; width: 50%;" /></p>
 
 <p>예를 들어, 위와 같은 상황을 보자. 위 그림에서 노드 안의 수는 노드의 번호, 노드 옆의 작은 수는 그 노드의 $score$를 의미한다.</p>
 
 <p>그림처럼 $1$번 노드가 루트인 상황에서 $3$번 노드의 점수는 $3$번 노드의 $score$인 $47$점과, $4$번 노드가 $18$만큼의 $score$를 얻으며 그 조상 노드가 얻게 된 $18$만큼의 $bonus$ 점수가 합쳐진 $65$점이 된다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/28425.%E2%80%85%EC%A0%90%EC%88%98%E2%80%85%EA%B3%84%EC%82%B0%ED%95%98%EA%B8%B0/69bfd203.png" data-original-src="https://upload.acmicpc.net/c7a8188c-ae0f-4c30-92cc-084020abab6a/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 50%; height: 50%;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/28425.%E2%80%85%EC%A0%90%EC%88%98%E2%80%85%EA%B3%84%EC%82%B0%ED%95%98%EA%B8%B0/69bfd203.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/28425.%E2%80%85%EC%A0%90%EC%88%98%E2%80%85%EA%B3%84%EC%82%B0%ED%95%98%EA%B8%B0/69bfd203.png" data-original-src="https://upload.acmicpc.net/c7a8188c-ae0f-4c30-92cc-084020abab6a/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 50%; height: 50%;" /></p>
 
 <p>그런데 만약 루트를 $5$번으로 바꾼다면 트리의 형태가 위와 같이 변하게 된다. 이때 $2$번 노드의 점수를 구해보면 $2$번 노드의 $score$인 $16$점과, $1$, $3$, $4$번 노드가 각각 $score$를 얻을 때 $2$번 노드가 같이 얻게 되는 $43$, $47$, $18$의 $bonus$가 더해져 총 $124$점이 된다.</p>
 

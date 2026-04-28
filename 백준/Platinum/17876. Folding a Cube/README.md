@@ -18,7 +18,7 @@
 
 <p>It is well known that a set of six unit squares that are attached together in a &ldquo;cross&rdquo; can be folded into a cube.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/17876.%E2%80%85Folding%E2%80%85a%E2%80%85Cube/d0b7ffe9.png" data-original-src="https://upload.acmicpc.net/687d882e-8798-4f76-a708-e37845ba4539/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 579px; height: 164px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/17876.%E2%80%85Folding%E2%80%85a%E2%80%85Cube/d0b7ffe9.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/17876.%E2%80%85Folding%E2%80%85a%E2%80%85Cube/d0b7ffe9.png" data-original-src="https://upload.acmicpc.net/687d882e-8798-4f76-a708-e37845ba4539/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 579px; height: 164px;" /></p>
 
 <p>But what about other initial shapes? That is, given six unit squares that are attached together along some of their sides, can we form a unit cube by folding this arrangement?</p>
 

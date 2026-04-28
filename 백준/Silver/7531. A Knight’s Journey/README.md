@@ -20,7 +20,7 @@
 
 <p>The world of a knight is the chessboard he is living on. Our knight lives on a chessboard that has a smaller area than a regular 8 &times; 8 board, but it is still rectangular. Can you help this adventurous knight to make travel plans?</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/7531.%E2%80%85A%E2%80%85Knight%E2%80%99s%E2%80%85Journey/94739678.png" data-original-src="https://www.acmicpc.net/upload/images2/knight.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:156px; width:157px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/7531.%E2%80%85A%E2%80%85Knight%E2%80%99s%E2%80%85Journey/94739678.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/7531.%E2%80%85A%E2%80%85Knight%E2%80%99s%E2%80%85Journey/94739678.png" data-original-src="https://www.acmicpc.net/upload/images2/knight.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:156px; width:157px" /></p>
 
 <p style="text-align: center;">The eight possible moves of a knight</p>
 

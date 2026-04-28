@@ -18,7 +18,7 @@
 
 <p>한국항공대학교에는 올해 새로 들어온 큰 비행기가 있다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/23349.%E2%80%85%EC%A1%B8%EC%97%85%E2%80%85%EC%82%AC%EC%A7%84/d423b827.png" data-original-src="https://upload.acmicpc.net/5abddd70-fd4e-427d-a8ab-ef1e01ad1622/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 661px; height: 400px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/23349.%E2%80%85%EC%A1%B8%EC%97%85%E2%80%85%EC%82%AC%EC%A7%84/d423b827.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/23349.%E2%80%85%EC%A1%B8%EC%97%85%E2%80%85%EC%82%AC%EC%A7%84/d423b827.png" data-original-src="https://upload.acmicpc.net/5abddd70-fd4e-427d-a8ab-ef1e01ad1622/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 661px; height: 400px;" /></p>
 
 <p style="text-align: center;">항공대학교 본관 옆 A300 모형</p>
 

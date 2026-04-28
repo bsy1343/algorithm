@@ -25,9 +25,9 @@
 	<li>마지막으로 준규는 걷는 것이 매우 귀찮아서 최소한의 걸음으로 출근을 하고 싶다.</li>
 </ol>
 
-<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/13903.%E2%80%85%EC%B6%9C%EA%B7%BC/2d0daaf8.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/13903/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:235px; width:405px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/13903.%E2%80%85%EC%B6%9C%EA%B7%BC/2d0daaf8.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/13903.%E2%80%85%EC%B6%9C%EA%B7%BC/2d0daaf8.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/13903/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:235px; width:405px" /></p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/13903.%E2%80%85%EC%B6%9C%EA%B7%BC/efbfcd23.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/13903/2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="float:right; height:89px; width:90px" />위 보도블록 상태를 이용하여 간단한 예시를 들어보자. 1번 규칙으로 밟을 수 있는 블록은 세로 블록이며(색칠 된 블록), 이동 규칙이 오른쪽 이미지와 같다면, 준규는 회사로 가는 여러 경로 중 점선과 실선의 방법으로 출근을 할 수 있다. 실선은 세 걸음으로 출근이 가능한 반면 점선은 두 걸음에 출근이 가능하다.</p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/13903.%E2%80%85%EC%B6%9C%EA%B7%BC/efbfcd23.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/13903.%E2%80%85%EC%B6%9C%EA%B7%BC/efbfcd23.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/13903/2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="float:right; height:89px; width:90px" />위 보도블록 상태를 이용하여 간단한 예시를 들어보자. 1번 규칙으로 밟을 수 있는 블록은 세로 블록이며(색칠 된 블록), 이동 규칙이 오른쪽 이미지와 같다면, 준규는 회사로 가는 여러 경로 중 점선과 실선의 방법으로 출근을 할 수 있다. 실선은 세 걸음으로 출근이 가능한 반면 점선은 두 걸음에 출근이 가능하다.</p>
 
 <p>수학을 좋아하지만 수학을 못하는 준규를 위해서 준규가 만든 규칙으로 출근을 할 수 있는지, 출근이 가능하다면 최소 몇 걸음에 출근이 가능한지 출력하는 프로그램을 작성하시오.</p>
 

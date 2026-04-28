@@ -18,7 +18,7 @@
 
 <p>넥슨의<strong> </strong><strong>FIFA ONLINE 4</strong>는 축구 경기 시뮬레이션을 생동감 있게 플레이할 수 있는 게임이다. 각 선수별로 포지션이 있으며, 선수별로 능력치와 선수 가치가 존재하여 경기에 영향을 미치게 된다. 또한 선발 선수와 후보 선수를 구분하여 선발 선수의 컨디션이 안 좋은 경우 후보 선수와 교체할 수도 있다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/29160.%E2%80%85%EB%82%98%EC%9D%98%E2%80%85FIFA%E2%80%85%ED%8C%80%E2%80%85%EA%B0%80%EC%B9%98%EB%8A%94%3F/f7f4bca2.png" data-original-src="https://upload.acmicpc.net/b15ca564-5835-4551-961a-24f963bb6c41/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/29160.%E2%80%85%EB%82%98%EC%9D%98%E2%80%85FIFA%E2%80%85%ED%8C%80%E2%80%85%EA%B0%80%EC%B9%98%EB%8A%94%3F/f7f4bca2.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/29160.%E2%80%85%EB%82%98%EC%9D%98%E2%80%85FIFA%E2%80%85%ED%8C%80%E2%80%85%EA%B0%80%EC%B9%98%EB%8A%94%3F/f7f4bca2.png" data-original-src="https://upload.acmicpc.net/b15ca564-5835-4551-961a-24f963bb6c41/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p><strong>FIFA ONLINE 4</strong>를 즐겨하는 주원이는 다음 과정대로 팀을 구성하면 $K$년 $12$월에 되었을 때 팀의 선발 선수 가치의 합은 얼마가 되어 있을지 궁금해 하였다.</p>
 

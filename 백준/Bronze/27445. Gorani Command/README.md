@@ -38,7 +38,7 @@
 
 <p>다음은 $N=4$, $M=5$인 한 예시이다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/27445.%E2%80%85Gorani%E2%80%85Command/4e7a5a76.png" data-original-src="https://upload.acmicpc.net/51ece1ac-4efb-4287-ac5c-88fb497a5fe5/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 300px; height: 238px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/27445.%E2%80%85Gorani%E2%80%85Command/4e7a5a76.png" data-original-src="%EB%B0%B1%EC%A4%80/Bronze/27445.%E2%80%85Gorani%E2%80%85Command/4e7a5a76.png" data-original-src="https://upload.acmicpc.net/51ece1ac-4efb-4287-ac5c-88fb497a5fe5/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 300px; height: 238px;" /></p>
 
 <p>도망친 고라니는 수풀이 있는 $(2,4)$ 칸에 있으므로, 대장이 $(1,1)$에서 $(4,1)$로 내려가는 동안의 도망친 고라니와의 거리는 차례대로 $4,3,4,5$로 변화하며, $(4,1)$에서 다시 오른쪽으로 $(4,5)$까지 이동하는 동안의 거리는 $5,4,3,2,3$으로 변화한다.</p>
 

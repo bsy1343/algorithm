@@ -62,7 +62,7 @@
 
 ### 힌트
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/31568.%E2%80%85%EC%82%B0%EB%A6%BC%EC%9D%98%E2%80%85%EC%88%98%ED%98%B8%EC%9E%90/fc2f0423.png" data-original-src="https://upload.acmicpc.net/0b75eee5-389b-4294-9a75-c9abadb830b6/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/31568.%E2%80%85%EC%82%B0%EB%A6%BC%EC%9D%98%E2%80%85%EC%88%98%ED%98%B8%EC%9E%90/fc2f0423.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/31568.%E2%80%85%EC%82%B0%EB%A6%BC%EC%9D%98%E2%80%85%EC%88%98%ED%98%B8%EC%9E%90/fc2f0423.png" data-original-src="https://upload.acmicpc.net/0b75eee5-389b-4294-9a75-c9abadb830b6/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>다음 그림은 예제 입력 1에서 주어진 나무의 모습이다. 이 문제에서 나무는 트리 형태를 이루고 있으며, 트리는 사이클이 없는 단순 연결 그래프를 의미한다. 주어진 예제 그림은 사이클이 없는 단순 연결 그래프의 모습을 만족하고 있다.</p>
 

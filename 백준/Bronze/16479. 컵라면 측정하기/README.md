@@ -18,7 +18,7 @@
 
 <p>컵라면은 두 개의 밑면이 서로 평행하며, 원 모양인 원뿔대이다. 따라서 컵라면을 옆에서 본 모습은 아래&nbsp;그림과 같은 등변사다리꼴이다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/16479.%E2%80%85%EC%BB%B5%EB%9D%BC%EB%A9%B4%E2%80%85%EC%B8%A1%EC%A0%95%ED%95%98%EA%B8%B0/10133ec4.png" data-original-src="https://upload.acmicpc.net/d64aada2-3953-4dd1-90aa-27eca6cfbb35/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 140px; height: 144px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/16479.%E2%80%85%EC%BB%B5%EB%9D%BC%EB%A9%B4%E2%80%85%EC%B8%A1%EC%A0%95%ED%95%98%EA%B8%B0/10133ec4.png" data-original-src="%EB%B0%B1%EC%A4%80/Bronze/16479.%E2%80%85%EC%BB%B5%EB%9D%BC%EB%A9%B4%E2%80%85%EC%B8%A1%EC%A0%95%ED%95%98%EA%B8%B0/10133ec4.png" data-original-src="https://upload.acmicpc.net/d64aada2-3953-4dd1-90aa-27eca6cfbb35/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 140px; height: 144px;" /></p>
 
 <p>위&nbsp;등변사다리꼴에서 민수가 측정한 컵라면의 윗면의 지름은&nbsp;<i>D</i><sub>1</sub>, 아랫면의 지름은&nbsp;<i>D</i><sub>2</sub>이다. 민수가 아직 측정하지 않은 변의 길이는 <em>K</em>이다. 이때, (컵라면의 높이)<sup>2</sup>의 값을 알아내는 프로그램을 작성하시오. (단, 컵라면의 높이는 등변사다리꼴에서 평행한 두 변 사이의 거리로 정의한다.)</p>
 

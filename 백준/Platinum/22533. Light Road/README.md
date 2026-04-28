@@ -20,7 +20,7 @@
 
 <p>There are two types of single-sided mirrors; type P mirrors can be placed at the angle of 45 or 225 degrees from east-west direction, and type Q mirrors can be placed with at the angle of 135 or 315 degrees. For example, four mirrors are located properly, laser go through like the following.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/22533.%E2%80%85Light%E2%80%85Road/81be8375.png" data-original-src="https://upload.acmicpc.net/c64655b9-942a-4691-ba59-783fb88d5aeb/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 731px; height: 505px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/22533.%E2%80%85Light%E2%80%85Road/81be8375.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/22533.%E2%80%85Light%E2%80%85Road/81be8375.png" data-original-src="https://upload.acmicpc.net/c64655b9-942a-4691-ba59-783fb88d5aeb/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 731px; height: 505px;" /></p>
 
 <p>Note that mirrors are single-sided, and thus back side (the side with cross in the above picture) is not reflective. You have $A$ type P mirrors, and also $A$ type Q mirrors ($0 \leq A \leq 10$). Although you cannot put mirrors onto the squares with the creature or the laser generator, laser beam can pass through the square. Evil creature is killed if the laser reaches the square it is in.</p>
 

@@ -22,11 +22,11 @@
 
 <p>각 블록은 레벨 제한이 있다. 만약 블록의 숫자가 3이라면 최소한 레벨 3이 되어야 그 블록을 지나갈 수 있다는 뜻이다.</p>
 
-<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/14948.%E2%80%85%EA%B5%B0%EB%8C%80%ED%83%88%EC%B6%9C%ED%95%98%EA%B8%B0/04406227.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14948/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:117px; width:123px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/14948.%E2%80%85%EA%B5%B0%EB%8C%80%ED%83%88%EC%B6%9C%ED%95%98%EA%B8%B0/04406227.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/14948.%E2%80%85%EA%B5%B0%EB%8C%80%ED%83%88%EC%B6%9C%ED%95%98%EA%B8%B0/04406227.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14948/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:117px; width:123px" /></p>
 
 <p style="text-align:center"><strong>4x3 </strong><strong>병영</strong> <strong>타일</strong> <strong>번호</strong></p>
 
-<p style="text-align:center"><strong><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/14948.%E2%80%85%EA%B5%B0%EB%8C%80%ED%83%88%EC%B6%9C%ED%95%98%EA%B8%B0/b4d67ada.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14948/2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:120px; width:126px" /></strong></p>
+<p style="text-align:center"><strong><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/14948.%E2%80%85%EA%B5%B0%EB%8C%80%ED%83%88%EC%B6%9C%ED%95%98%EA%B8%B0/b4d67ada.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/14948.%E2%80%85%EA%B5%B0%EB%8C%80%ED%83%88%EC%B6%9C%ED%95%98%EA%B8%B0/b4d67ada.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14948/2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:120px; width:126px" /></strong></p>
 
 <p style="text-align:center"><strong>타일</strong> <strong>레벨</strong> <strong>제한</strong></p>
 
@@ -45,7 +45,7 @@
 
 <p>그러므로, 기윤이가 특수장비를 사용한 경우, 위의 예시에서 필요한 레벨의 최소 값은 3이다.</p>
 
-<p style="text-align:center"> <img alt="" src="%EB%B0%B1%EC%A4%80/Gold/14948.%E2%80%85%EA%B5%B0%EB%8C%80%ED%83%88%EC%B6%9C%ED%95%98%EA%B8%B0/edf65485.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14948/3.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:118px; width:126px" /></p>
+<p style="text-align:center"> <img alt="" src="%EB%B0%B1%EC%A4%80/Gold/14948.%E2%80%85%EA%B5%B0%EB%8C%80%ED%83%88%EC%B6%9C%ED%95%98%EA%B8%B0/edf65485.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/14948.%E2%80%85%EA%B5%B0%EB%8C%80%ED%83%88%EC%B6%9C%ED%95%98%EA%B8%B0/edf65485.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/14948/3.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:118px; width:126px" /></p>
 
 <p style="text-align:center">(2-3-(12)-1-3-2 : 최댓값 3)</p>
 

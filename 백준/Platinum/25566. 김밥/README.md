@@ -20,7 +20,7 @@
 
 <p style="text-align: center;"><span style="color:#999999;"><em>(출처: 위키백과)</em></span></p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/25566.%E2%80%85%EA%B9%80%EB%B0%A5/e2bbe56c.png" data-original-src="https://upload.acmicpc.net/009e31ba-3a92-40e3-8438-e0805c21e621/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 512px; height: 512px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/25566.%E2%80%85%EA%B9%80%EB%B0%A5/e2bbe56c.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/25566.%E2%80%85%EA%B9%80%EB%B0%A5/e2bbe56c.png" data-original-src="https://upload.acmicpc.net/009e31ba-3a92-40e3-8438-e0805c21e621/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 512px; height: 512px;" /></p>
 
 <p style="text-align: center;">[그림 1] 김밥을 말기 위해 김 위에 식재료를 얹은 모습</p>
 

@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/9289.%E2%80%85Morse%E2%80%85Code/b84b0a19.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/9289/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="float:right; height:130px; width:240px" />Morse code was an early method of communication via electronic signals. Each letter and number was represented by a unique series of long and short tones, with a pause to indicate the beginning of the next character. Implement a Morse Code interpreter, using the key to the right, that translates five-letter messages (no more, no less).</p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/9289.%E2%80%85Morse%E2%80%85Code/b84b0a19.png" data-original-src="%EB%B0%B1%EC%A4%80/Bronze/9289.%E2%80%85Morse%E2%80%85Code/b84b0a19.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/9289/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="float:right; height:130px; width:240px" />Morse code was an early method of communication via electronic signals. Each letter and number was represented by a unique series of long and short tones, with a pause to indicate the beginning of the next character. Implement a Morse Code interpreter, using the key to the right, that translates five-letter messages (no more, no less).</p>
 
 ### 입력
 

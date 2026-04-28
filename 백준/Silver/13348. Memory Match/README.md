@@ -24,7 +24,7 @@
 
 <p>It is now your turn! Given a description of all previous actions in the game, pick as many&nbsp;matching pairs as possible.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/13348.%E2%80%85Memory%E2%80%85Match/c0d2944b.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/13348/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-10-10%20%EC%98%A4%ED%9B%84%204.05.17.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:91px; width:500px" /><br />
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/13348.%E2%80%85Memory%E2%80%85Match/c0d2944b.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/13348.%E2%80%85Memory%E2%80%85Match/c0d2944b.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/13348/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-10-10%20%EC%98%A4%ED%9B%84%204.05.17.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:91px; width:500px" /><br />
 Figure 1: Illustration of the first example input. Only cards 3 and 6 have been matched&nbsp;correctly, all other cards are face-down. How many pairs can you score?</p>
 
 ### 입력

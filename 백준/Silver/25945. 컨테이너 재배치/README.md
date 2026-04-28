@@ -25,8 +25,8 @@
 <table class="table table-bordered td-center">
 	<tbody>
 		<tr>
-			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/25945.%E2%80%85%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88%E2%80%85%EC%9E%AC%EB%B0%B0%EC%B9%98/e8ba6b53.png" data-original-src="https://upload.acmicpc.net/9fdcf0ff-e17d-41ee-9ca7-956b3f239745/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 275px; height: 181px;" /></td>
-			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/25945.%E2%80%85%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88%E2%80%85%EC%9E%AC%EB%B0%B0%EC%B9%98/7b02c1a3.png" data-original-src="https://upload.acmicpc.net/32c9aba4-8845-430f-8864-a66d81f051af/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 275px; height: 181px;" /></td>
+			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/25945.%E2%80%85%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88%E2%80%85%EC%9E%AC%EB%B0%B0%EC%B9%98/e8ba6b53.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/25945.%E2%80%85%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88%E2%80%85%EC%9E%AC%EB%B0%B0%EC%B9%98/e8ba6b53.png" data-original-src="https://upload.acmicpc.net/9fdcf0ff-e17d-41ee-9ca7-956b3f239745/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 275px; height: 181px;" /></td>
+			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/25945.%E2%80%85%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88%E2%80%85%EC%9E%AC%EB%B0%B0%EC%B9%98/7b02c1a3.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/25945.%E2%80%85%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88%E2%80%85%EC%9E%AC%EB%B0%B0%EC%B9%98/7b02c1a3.png" data-original-src="https://upload.acmicpc.net/32c9aba4-8845-430f-8864-a66d81f051af/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 275px; height: 181px;" /></td>
 		</tr>
 		<tr>
 			<td>그림 1. 재배치 이전</td>

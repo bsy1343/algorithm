@@ -24,7 +24,7 @@
 
 <p>There is only one heavy chain type with three variable regions --- $V$, $D$ and $J$. To form each of them one gene fragment from $V_h$, $D_h$ and $J_h$ variants respectively is selected.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/24860.%E2%80%85Counting%E2%80%85Antibodies/92b2ed1f.png" data-original-src="https://upload.acmicpc.net/2b239f5e-22d2-455c-8014-0e7f72f0c233/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 768px; height: 660px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/24860.%E2%80%85Counting%E2%80%85Antibodies/92b2ed1f.png" data-original-src="%EB%B0%B1%EC%A4%80/Bronze/24860.%E2%80%85Counting%E2%80%85Antibodies/92b2ed1f.png" data-original-src="https://upload.acmicpc.net/2b239f5e-22d2-455c-8014-0e7f72f0c233/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 768px; height: 660px;" /></p>
 
 <p>You need to count how many possible immunoglobulin molecules can be produced for given values of $V_\kappa$, $J_\kappa$, $V_\lambda$, $J_\lambda$, $V_h$, $D_h$ and $J_h$.</p>
 

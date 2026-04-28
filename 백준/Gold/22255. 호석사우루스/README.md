@@ -20,7 +20,7 @@
 
 <p>그의 철칙은, 이동 방식에 있다. 매 이동 시 마다 움직일 수 있는 방향이 다르다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/22255.%E2%80%85%ED%98%B8%EC%84%9D%EC%82%AC%EC%9A%B0%EB%A3%A8%EC%8A%A4/a7cbbd53.png" data-original-src="https://upload.acmicpc.net/b1d82464-be27-449a-bf77-e8b6e5281b5b/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 331px; width: 900px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/22255.%E2%80%85%ED%98%B8%EC%84%9D%EC%82%AC%EC%9A%B0%EB%A3%A8%EC%8A%A4/a7cbbd53.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/22255.%E2%80%85%ED%98%B8%EC%84%9D%EC%82%AC%EC%9A%B0%EB%A3%A8%EC%8A%A4/a7cbbd53.png" data-original-src="https://upload.acmicpc.net/b1d82464-be27-449a-bf77-e8b6e5281b5b/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 331px; width: 900px;" /></p>
 
 <ul>
 	<li>$3K$ 번째 이동 시에는 상, 하, 좌, 우로 인접한 곳 중 한 칸으로 이동할 수 있다.</li>

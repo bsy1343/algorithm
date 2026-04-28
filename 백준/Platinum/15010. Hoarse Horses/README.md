@@ -35,6 +35,6 @@
 
 ### 힌트
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/15010.%E2%80%85Hoarse%E2%80%85Horses/42dd284d.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15010/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:211px; width:250px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/15010.%E2%80%85Hoarse%E2%80%85Horses/42dd284d.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/15010.%E2%80%85Hoarse%E2%80%85Horses/42dd284d.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/15010/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:211px; width:250px" /></p>
 
 <p style="text-align: center;">Figure 4: Illustration of the third example input.</p>

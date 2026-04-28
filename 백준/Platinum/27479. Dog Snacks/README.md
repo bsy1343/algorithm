@@ -62,4 +62,4 @@
 
 <p>In the third case, Badugi can make his moves as follows: $1$ -- $5$ -- $6$ -- $7$ -- $8$ -- $2$ -- $3$ -- $4$ -- $1$. It can be shown that this is the only possible sequence of moves for Badugi to complete his mission with $k=3$.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/27479.%E2%80%85Dog%E2%80%85Snacks/244a5a5d.png" data-original-src="https://upload.acmicpc.net/5e9d62a7-3c3e-4c15-a941-1c08fab39b13/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/27479.%E2%80%85Dog%E2%80%85Snacks/244a5a5d.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/27479.%E2%80%85Dog%E2%80%85Snacks/244a5a5d.png" data-original-src="https://upload.acmicpc.net/5e9d62a7-3c3e-4c15-a941-1c08fab39b13/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>

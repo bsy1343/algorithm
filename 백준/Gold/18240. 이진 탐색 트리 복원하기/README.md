@@ -22,7 +22,7 @@
 
 <p>아래의 그림은 1부터 9까지의 수를 값으로 지닌 노드로 이루어져 있는&nbsp;이진 탐색 트리의 예시이다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/18240.%E2%80%85%EC%9D%B4%EC%A7%84%E2%80%85%ED%83%90%EC%83%89%E2%80%85%ED%8A%B8%EB%A6%AC%E2%80%85%EB%B3%B5%EC%9B%90%ED%95%98%EA%B8%B0/02c94390.png" data-original-src="https://upload.acmicpc.net/806b4304-904e-4797-8db3-acf5261bc60c/-/crop/944x546/0,0/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 519px; height: 300px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/18240.%E2%80%85%EC%9D%B4%EC%A7%84%E2%80%85%ED%83%90%EC%83%89%E2%80%85%ED%8A%B8%EB%A6%AC%E2%80%85%EB%B3%B5%EC%9B%90%ED%95%98%EA%B8%B0/02c94390.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/18240.%E2%80%85%EC%9D%B4%EC%A7%84%E2%80%85%ED%83%90%EC%83%89%E2%80%85%ED%8A%B8%EB%A6%AC%E2%80%85%EB%B3%B5%EC%9B%90%ED%95%98%EA%B8%B0/02c94390.png" data-original-src="https://upload.acmicpc.net/806b4304-904e-4797-8db3-acf5261bc60c/-/crop/944x546/0,0/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 519px; height: 300px;" /></p>
 
 <p>또한, 이진 탐색 트리에 새로운 노드를 삽입하는 과정은 다음과 같다.</p>
 
@@ -30,7 +30,7 @@
 
 <p>아래는 값이 4인 노드를 루트로 하는 트리에&nbsp;[2, 3, 5, 1]를 순차적으로 삽입하는 예시이다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/18240.%E2%80%85%EC%9D%B4%EC%A7%84%E2%80%85%ED%83%90%EC%83%89%E2%80%85%ED%8A%B8%EB%A6%AC%E2%80%85%EB%B3%B5%EC%9B%90%ED%95%98%EA%B8%B0/5cc985a8.png" data-original-src="https://upload.acmicpc.net/2843b4f1-ebdc-4746-80d3-f7d7a90e8ba4/-/crop/1594x387/0,17/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 824px; height: 200px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/18240.%E2%80%85%EC%9D%B4%EC%A7%84%E2%80%85%ED%83%90%EC%83%89%E2%80%85%ED%8A%B8%EB%A6%AC%E2%80%85%EB%B3%B5%EC%9B%90%ED%95%98%EA%B8%B0/5cc985a8.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/18240.%E2%80%85%EC%9D%B4%EC%A7%84%E2%80%85%ED%83%90%EC%83%89%E2%80%85%ED%8A%B8%EB%A6%AC%E2%80%85%EB%B3%B5%EC%9B%90%ED%95%98%EA%B8%B0/5cc985a8.png" data-original-src="https://upload.acmicpc.net/2843b4f1-ebdc-4746-80d3-f7d7a90e8ba4/-/crop/1594x387/0,17/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 824px; height: 200px;" /></p>
 
 <p>1부터 N까지의 모든 정수를 한 번씩 포함하고 있는 수열 A<sub>1</sub>, A<sub>2</sub>, ..., A<sub>N</sub>이 있다.</p>
 

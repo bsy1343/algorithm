@@ -30,7 +30,7 @@
 
 <p>Oleg decided to structure this information, so he drew a graph of the dependence of performance on sleep time and got the following result:</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/24853.%E2%80%85Work%E2%80%85or%E2%80%85Sleep!/9bceadd1.png" data-original-src="https://upload.acmicpc.net/1060ff34-42fb-4ebb-a898-0d4ee91b6cb7/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 512px; height: 281px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/24853.%E2%80%85Work%E2%80%85or%E2%80%85Sleep!/9bceadd1.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/24853.%E2%80%85Work%E2%80%85or%E2%80%85Sleep!/9bceadd1.png" data-original-src="https://upload.acmicpc.net/1060ff34-42fb-4ebb-a898-0d4ee91b6cb7/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 512px; height: 281px;" /></p>
 
 <p>Oleg believes that the amount of work he will do per day is equal to the product of working time and performance. So, the problem is that if you sleep more, you work less, and if you sleep less, you have less performance.</p>
 

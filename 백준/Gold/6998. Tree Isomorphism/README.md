@@ -23,8 +23,8 @@
 <table class="table table-bordered td-center th-center" style="width: 100%;">
 	<tbody>
 		<tr>
-			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/6998.%E2%80%85Tree%E2%80%85Isomorphism/773d1b10.png" data-original-src="https://upload.acmicpc.net/39024024-64b4-4d89-9c6e-da1377aca70e/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 300px; height: 197px;" /></td>
-			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/6998.%E2%80%85Tree%E2%80%85Isomorphism/ac07439b.png" data-original-src="https://upload.acmicpc.net/0f970e9e-596c-4a30-8fde-4a55f73f6d51/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 444px; height: 192px;" /></td>
+			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/6998.%E2%80%85Tree%E2%80%85Isomorphism/773d1b10.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/6998.%E2%80%85Tree%E2%80%85Isomorphism/773d1b10.png" data-original-src="https://upload.acmicpc.net/39024024-64b4-4d89-9c6e-da1377aca70e/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 300px; height: 197px;" /></td>
+			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/6998.%E2%80%85Tree%E2%80%85Isomorphism/ac07439b.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/6998.%E2%80%85Tree%E2%80%85Isomorphism/ac07439b.png" data-original-src="https://upload.acmicpc.net/0f970e9e-596c-4a30-8fde-4a55f73f6d51/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 444px; height: 192px;" /></td>
 		</tr>
 	</tbody>
 	<tfoot>

@@ -34,14 +34,14 @@
 
 ### 힌트
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/28899.%E2%80%85%D0%A1%D0%B5%D1%82%D1%8C%E2%80%85%D0%B4%D0%BE%D1%80%D0%BE%D0%B3/f957d45a.png" data-original-src="https://upload.acmicpc.net/ac4a2d86-3ed2-4b92-a9f6-2a029a657e78/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 90px; height: 93px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/28899.%E2%80%85%D0%A1%D0%B5%D1%82%D1%8C%E2%80%85%D0%B4%D0%BE%D1%80%D0%BE%D0%B3/f957d45a.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/28899.%E2%80%85%D0%A1%D0%B5%D1%82%D1%8C%E2%80%85%D0%B4%D0%BE%D1%80%D0%BE%D0%B3/f957d45a.png" data-original-src="https://upload.acmicpc.net/ac4a2d86-3ed2-4b92-a9f6-2a029a657e78/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 90px; height: 93px;" /></p>
 
 <p style="text-align: center;">Рис. 1: Пояснение для первого теста</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/28899.%E2%80%85%D0%A1%D0%B5%D1%82%D1%8C%E2%80%85%D0%B4%D0%BE%D1%80%D0%BE%D0%B3/3471835c.png" data-original-src="https://upload.acmicpc.net/9f5da75f-bea4-4a89-b4ce-6caafda744ad/-/crop/391x394/0,0/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 196px; height: 197px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/28899.%E2%80%85%D0%A1%D0%B5%D1%82%D1%8C%E2%80%85%D0%B4%D0%BE%D1%80%D0%BE%D0%B3/3471835c.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/28899.%E2%80%85%D0%A1%D0%B5%D1%82%D1%8C%E2%80%85%D0%B4%D0%BE%D1%80%D0%BE%D0%B3/3471835c.png" data-original-src="https://upload.acmicpc.net/9f5da75f-bea4-4a89-b4ce-6caafda744ad/-/crop/391x394/0,0/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 196px; height: 197px;" /></p>
 
 <p style="text-align: center;">Рис. 2: Пояснение для второго теста</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/28899.%E2%80%85%D0%A1%D0%B5%D1%82%D1%8C%E2%80%85%D0%B4%D0%BE%D1%80%D0%BE%D0%B3/ec2c49e3.png" data-original-src="https://upload.acmicpc.net/9f5da75f-bea4-4a89-b4ce-6caafda744ad/-/crop/391x394/541,0/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 196px; height: 197px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/28899.%E2%80%85%D0%A1%D0%B5%D1%82%D1%8C%E2%80%85%D0%B4%D0%BE%D1%80%D0%BE%D0%B3/ec2c49e3.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/28899.%E2%80%85%D0%A1%D0%B5%D1%82%D1%8C%E2%80%85%D0%B4%D0%BE%D1%80%D0%BE%D0%B3/ec2c49e3.png" data-original-src="https://upload.acmicpc.net/9f5da75f-bea4-4a89-b4ce-6caafda744ad/-/crop/391x394/541,0/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 196px; height: 197px;" /></p>
 
 <p style="text-align: center;">Рис. 3: Пояснение для третьего теста</p>

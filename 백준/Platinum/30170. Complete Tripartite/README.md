@@ -54,6 +54,6 @@
 
 <p>In the first example, if $v_{1} = \{ 1 \}$, $v_{2} = \{ 2, 3 \}$, and $v_{3} = \{ 4, 5, 6 \}$ then vertex sets will satisfy all conditions. But you can assign vertices to vertex sets in a different way; Other answers like &quot;<code>2 3 3 1 1 1</code>&quot; will be accepted as well.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/30170.%E2%80%85Complete%E2%80%85Tripartite/7a9b3503.png" data-original-src="https://upload.acmicpc.net/c1e139bf-75cb-43f9-aa7f-c1d026446c5e/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 281px; height: 311px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/30170.%E2%80%85Complete%E2%80%85Tripartite/7a9b3503.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/30170.%E2%80%85Complete%E2%80%85Tripartite/7a9b3503.png" data-original-src="https://upload.acmicpc.net/c1e139bf-75cb-43f9-aa7f-c1d026446c5e/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 281px; height: 311px;" /></p>
 
 <p>In the second example, it&#39;s impossible to make such vertex sets.</p>

@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/16362.%E2%80%85Parentheses/9c8c211b.png" data-original-src="https://upload.acmicpc.net/8745a8d8-2614-45cb-ab1c-65217431582d/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 280px; height: 70px; float: right; margin-left:10px;" />The correspondence among the operators and the operands can be clarified using parentheses. In a C program, for example, the expression <code>a-b-c</code> can be clarified as <code>(a-b)-c</code> since the minus operator is left associative.</p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/16362.%E2%80%85Parentheses/9c8c211b.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/16362.%E2%80%85Parentheses/9c8c211b.png" data-original-src="https://upload.acmicpc.net/8745a8d8-2614-45cb-ab1c-65217431582d/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 280px; height: 70px; float: right; margin-left:10px;" />The correspondence among the operators and the operands can be clarified using parentheses. In a C program, for example, the expression <code>a-b-c</code> can be clarified as <code>(a-b)-c</code> since the minus operator is left associative.</p>
 
 <p>The parentheses can be used to override the default precedences and associativities of operators. For instance, in the expression <code>a-(b-c)</code>, the left associativity of the minus operator is overridden by the parentheses.</p>
 

@@ -16,11 +16,11 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/26080.%E2%80%85%EA%B3%B0%EA%B3%B0%EC%9D%B4%EC%99%80%E2%80%85%ED%95%98%EC%B9%B4%ED%83%80/2949737d.png" data-original-src="https://upload.acmicpc.net/c3f425e9-e146-4948-b6eb-9a536faf2fe4/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/26080.%E2%80%85%EA%B3%B0%EA%B3%B0%EC%9D%B4%EC%99%80%E2%80%85%ED%95%98%EC%B9%B4%ED%83%80/2949737d.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/26080.%E2%80%85%EA%B3%B0%EA%B3%B0%EC%9D%B4%EC%99%80%E2%80%85%ED%95%98%EC%B9%B4%ED%83%80/2949737d.png" data-original-src="https://upload.acmicpc.net/c3f425e9-e146-4948-b6eb-9a536faf2fe4/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>곰곰이가 컴퓨터를 하고있는데, 무엇을 보고 있는걸까요? 뭘 보고있는지는 모르겠지만, 총총이 몰래 비밀스럽게 보는 걸 보니 떳떳하진 않은가봐요.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/26080.%E2%80%85%EA%B3%B0%EA%B3%B0%EC%9D%B4%EC%99%80%E2%80%85%ED%95%98%EC%B9%B4%ED%83%80/dd0ceee3.png" data-original-src="https://upload.acmicpc.net/966f7646-ad77-4dd3-8d8e-b2b663d342e5/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/26080.%E2%80%85%EA%B3%B0%EA%B3%B0%EC%9D%B4%EC%99%80%E2%80%85%ED%95%98%EC%B9%B4%ED%83%80/dd0ceee3.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/26080.%E2%80%85%EA%B3%B0%EA%B3%B0%EC%9D%B4%EC%99%80%E2%80%85%ED%95%98%EC%B9%B4%ED%83%80/dd0ceee3.png" data-original-src="https://upload.acmicpc.net/966f7646-ad77-4dd3-8d8e-b2b663d342e5/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>참다못한 총총이가 소리를 내네요.</p>
 
@@ -48,7 +48,7 @@
 
 <p>하카타까지의 비행을 위해, 곰곰이는 관제사에게 허가를 요청하였습니다. 그랬더니 관제사는 비행할 수 있는 가짓수 중 <strong>사전순 k번째만 허가</strong>하였습니다. 곰곰이는 자동 조종장치에 어떻게 입력을 해야 할까요? 하카타에 가서 즐거운 여행을 하고 싶은 곰곰이는 여러분에게 도움을 요청하였습니다. 곰곰이를 도와주세요.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/26080.%E2%80%85%EA%B3%B0%EA%B3%B0%EC%9D%B4%EC%99%80%E2%80%85%ED%95%98%EC%B9%B4%ED%83%80/74bc9227.png" data-original-src="https://upload.acmicpc.net/29d40a1e-1dc3-469f-af32-20a91ef1605d/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/26080.%E2%80%85%EA%B3%B0%EA%B3%B0%EC%9D%B4%EC%99%80%E2%80%85%ED%95%98%EC%B9%B4%ED%83%80/74bc9227.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/26080.%E2%80%85%EA%B3%B0%EA%B3%B0%EC%9D%B4%EC%99%80%E2%80%85%ED%95%98%EC%B9%B4%ED%83%80/74bc9227.png" data-original-src="https://upload.acmicpc.net/29d40a1e-1dc3-469f-af32-20a91ef1605d/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 ### 입력
 

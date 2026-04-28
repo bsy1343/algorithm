@@ -18,7 +18,7 @@
 
 <p>코치 희승이는 FXC 나라 육상 국가대표 선발 보고서를 작성하였다. 희승이는 보고서를 작성할 때 목차를 육상협회에서 사용하는 글머리 <strong>기호</strong> 형태로 작성하였다. 희승이가 FXC 나라 문화체육관광부로 공문을 보내려고 봤더니, 문화체육관광부에서는 공문을 작성할 때 글머리 <strong>번호</strong> 형태로 작성한다. 따라서 희승이는 보고서를 글머리 <strong>번호</strong> 형태로 바꾼 사본을 만들어서 문화체육관광부로 보내려고 한다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/28270.%E2%80%85Marked-Numbered/00c917ff.png" data-original-src="https://upload.acmicpc.net/616b710a-fdc0-4bce-bd7d-13d77aa4e1d9/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 1006px; height: 300px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/28270.%E2%80%85Marked-Numbered/00c917ff.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/28270.%E2%80%85Marked-Numbered/00c917ff.png" data-original-src="https://upload.acmicpc.net/616b710a-fdc0-4bce-bd7d-13d77aa4e1d9/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 1006px; height: 300px;" /></p>
 
 <p>보고서 목차는 위 그림의 트리와 같이 도식화할 수 있다. 트리에서 루트를 제외한 모든 노드는 보고서의 항목과 일대일 대응된다. 트리에서 깊이 우선 탐색(DFS)을 했을 때 방문하는 순서대로 트리 노드에 색인을 매길 수 있는데, 보고서에서 먼저 등장하는 항목이 더 작은 색인을 가진다. 보고서를 글머리 <strong>기호</strong> 형태로 작성한다면 각 항목의 번호는 항목과 대응하는 노드의 레벨(루트 노드와의 거리)과 같다. 한편 보고서를 글머리 <strong>번호</strong> 형태로 작성한다면 각 항목의 번호는 항목과 대응하는 노드보다 색인이 작은 형제 노드의 수에 $1$을 더한 값과 같다.</p>
 

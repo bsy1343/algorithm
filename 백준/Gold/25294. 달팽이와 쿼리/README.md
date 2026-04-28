@@ -27,7 +27,7 @@
 
 <p>왼쪽 그림은 크기 $N$이 $3$, 오른쪽은 $5$인 경우 이차원 달팽이 배열이다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/25294.%E2%80%85%EB%8B%AC%ED%8C%BD%EC%9D%B4%EC%99%80%E2%80%85%EC%BF%BC%EB%A6%AC/31b87b7f.png" data-original-src="https://upload.acmicpc.net/eb40be61-c359-452c-af98-8bcc32fa9c38/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 266px; height: 137px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/25294.%E2%80%85%EB%8B%AC%ED%8C%BD%EC%9D%B4%EC%99%80%E2%80%85%EC%BF%BC%EB%A6%AC/31b87b7f.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/25294.%E2%80%85%EB%8B%AC%ED%8C%BD%EC%9D%B4%EC%99%80%E2%80%85%EC%BF%BC%EB%A6%AC/31b87b7f.png" data-original-src="https://upload.acmicpc.net/eb40be61-c359-452c-af98-8bcc32fa9c38/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 266px; height: 137px;" /></p>
 
 <p>쿼리는 총 두 종류가 있다.</p>
 

@@ -18,7 +18,7 @@
 
 <p>2019년 송도의 세미나실에서는 오늘도 연세대학교 컴퓨터과학과 학생들이 모여 과제를 하고 있다. 이때 잔뜩 술에 취한 규리(당시 새내기)가 등장해 과제를 시작했다. 규리는 너무 졸린 나머지 아래의 코드를 작성하고 잠이 들었다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/24732.%E2%80%85%EC%9E%A0%EC%9E%90%EB%8A%94%E2%80%85%EA%B7%9C%EB%A6%AC/08b6acbe.png" data-original-src="https://upload.acmicpc.net/0d3d8105-29b5-4882-8663-e17dea061cd7/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/24732.%E2%80%85%EC%9E%A0%EC%9E%90%EB%8A%94%E2%80%85%EA%B7%9C%EB%A6%AC/08b6acbe.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/24732.%E2%80%85%EC%9E%A0%EC%9E%90%EB%8A%94%E2%80%85%EA%B7%9C%EB%A6%AC/08b6acbe.png" data-original-src="https://upload.acmicpc.net/0d3d8105-29b5-4882-8663-e17dea061cd7/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>규리의 코드는 맞는 답을 리턴한다. 단지 과제에 주어진 $N$이 너무 컸기 때문에 시간 제한 안에 돌아가지 않을 뿐이다. 당신은 규리의 화면을 바라보다가 불쌍한 규리를 도와주기 위해 규리의 코드를 수정하기로 했다. 당신은 시간 제한 안에 실행되면서, 규리의 코드와 같은 값을 리턴하는 함수를 작성해야 한다.</p>
 

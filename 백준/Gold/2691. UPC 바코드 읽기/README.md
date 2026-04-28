@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/2691.%E2%80%85UPC%E2%80%85%EB%B0%94%EC%BD%94%EB%93%9C%E2%80%85%EC%9D%BD%EA%B8%B0/49dcbe24.png" data-original-src="https://www.acmicpc.net/upload/images/bar1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="float:right; height:123px; width:237px" />FoodVictory의 물류 관리자인 영우는 <a href="https://www.acmicpc.net/problem/2685">2685</a>번에서 용태에게 패배한 충격으로 그만 바코드 데이터베이스 일부를 날려버렸다. 이 사건이 알려지면 영우는 굉장히 곤란한 상황에 처하게 되므로 지푸라기라도 붙잡는 심정으로 인터넷에 바코드를 검색해 보았다.</p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/2691.%E2%80%85UPC%E2%80%85%EB%B0%94%EC%BD%94%EB%93%9C%E2%80%85%EC%9D%BD%EA%B8%B0/49dcbe24.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/2691.%E2%80%85UPC%E2%80%85%EB%B0%94%EC%BD%94%EB%93%9C%E2%80%85%EC%9D%BD%EA%B8%B0/49dcbe24.png" data-original-src="https://www.acmicpc.net/upload/images/bar1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="float:right; height:123px; width:237px" />FoodVictory의 물류 관리자인 영우는 <a href="https://www.acmicpc.net/problem/2685">2685</a>번에서 용태에게 패배한 충격으로 그만 바코드 데이터베이스 일부를 날려버렸다. 이 사건이 알려지면 영우는 굉장히 곤란한 상황에 처하게 되므로 지푸라기라도 붙잡는 심정으로 인터넷에 바코드를 검색해 보았다.</p>
 
 <p>UPC-A 바코드는 12자리의 십진수를 번갈아나며 나타나는 &quot;밝은&quot; 부분과 &quot;어두운&quot; 막대로 이루어진 15개의 패턴으로 표현한다. 이 패턴은 SLLLLLLMRRRRRRE와 같은 패턴이다. 여기서 S는 시작 패턴으로 101(1은 &quot;어두운&quot; 막대이고 0은 &quot;밝은&quot; 막대이다)이고, M은 중간 패턴으로 01010이다. 그리고 E는 끝 패턴으로 101이다. L은 왼쪽 패턴으로 각 자리가 10진수의 첫 6자리와 대응되고, R은 오른쪽 패턴으로 각 자리가 10진수의 뒤 6자리와 대응된다. 각 막대의 두께는 일정한 값(바코드의 가로 크기)의 배수이며, 바코드 위의 작은 표시는 패턴(S, L, M, R, E)의 시작을 표시한다. (단, 가장 마지막 표시는 바코드의 끝을 나타낸다) 바코드에는 총 3 + 5 + 3 + 12*7 = 95개의 코드(1,0)가 있어야 하고, 양 끝에 최소한 9개의 &quot;밝은&quot; 막대가 있어야 한다.</p>
 
@@ -30,19 +30,19 @@ Code = CheckSum % 10;
 If (Code == 0) check_digit = 0;
 else check_digit = (10 - Code);</pre>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/2691.%E2%80%85UPC%E2%80%85%EB%B0%94%EC%BD%94%EB%93%9C%E2%80%85%EC%9D%BD%EA%B8%B0/48ef9102.png" data-original-src="https://www.acmicpc.net/upload/images/bar2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="float:right; height:265px; width:214px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/2691.%E2%80%85UPC%E2%80%85%EB%B0%94%EC%BD%94%EB%93%9C%E2%80%85%EC%9D%BD%EA%B8%B0/48ef9102.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/2691.%E2%80%85UPC%E2%80%85%EB%B0%94%EC%BD%94%EB%93%9C%E2%80%85%EC%9D%BD%EA%B8%B0/48ef9102.png" data-original-src="https://www.acmicpc.net/upload/images/bar2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="float:right; height:265px; width:214px" /></p>
 
 <p>바코드 스캐너는 카메라를 이용해 바코드의 좁은 이미지를 읽어내고, 이미지로부터 코드를 추론해낸다.</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/2691.%E2%80%85UPC%E2%80%85%EB%B0%94%EC%BD%94%EB%93%9C%E2%80%85%EC%9D%BD%EA%B8%B0/11529f94.png" data-original-src="https://www.acmicpc.net/upload/images/bar3.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:58px; width:593px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/2691.%E2%80%85UPC%E2%80%85%EB%B0%94%EC%BD%94%EB%93%9C%E2%80%85%EC%9D%BD%EA%B8%B0/11529f94.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/2691.%E2%80%85UPC%E2%80%85%EB%B0%94%EC%BD%94%EB%93%9C%E2%80%85%EC%9D%BD%EA%B8%B0/11529f94.png" data-original-src="https://www.acmicpc.net/upload/images/bar3.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:58px; width:593px" /></p>
 
 <p>바코드가 뒤집혀진채로 읽힌다면 코드가 반대 방향으로 읽히게 된다.</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/2691.%E2%80%85UPC%E2%80%85%EB%B0%94%EC%BD%94%EB%93%9C%E2%80%85%EC%9D%BD%EA%B8%B0/c79c810a.png" data-original-src="https://www.acmicpc.net/upload/images/bar4.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:55px; width:590px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/2691.%E2%80%85UPC%E2%80%85%EB%B0%94%EC%BD%94%EB%93%9C%E2%80%85%EC%9D%BD%EA%B8%B0/c79c810a.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/2691.%E2%80%85UPC%E2%80%85%EB%B0%94%EC%BD%94%EB%93%9C%E2%80%85%EC%9D%BD%EA%B8%B0/c79c810a.png" data-original-src="https://www.acmicpc.net/upload/images/bar4.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:55px; width:590px" /></p>
 
 <p>안타깝게도, 색상 대비의 부족이나 반짝이는 물체의 반사때문에 이 이미지는 언제나 명확하지는 않다.</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/2691.%E2%80%85UPC%E2%80%85%EB%B0%94%EC%BD%94%EB%93%9C%E2%80%85%EC%9D%BD%EA%B8%B0/1e8ae02b.png" data-original-src="https://www.acmicpc.net/upload/images/bar5.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:48px; width:602px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/2691.%E2%80%85UPC%E2%80%85%EB%B0%94%EC%BD%94%EB%93%9C%E2%80%85%EC%9D%BD%EA%B8%B0/1e8ae02b.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/2691.%E2%80%85UPC%E2%80%85%EB%B0%94%EC%BD%94%EB%93%9C%E2%80%85%EC%9D%BD%EA%B8%B0/1e8ae02b.png" data-original-src="https://www.acmicpc.net/upload/images/bar5.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:48px; width:602px" /></p>
 
 <p>위의 그림을 보면, 확실히 밝은 막대인지 어두운 막대인지 제대로 알아볼 수가 없다. 하지만 이런 경우에도 대부분은 바코드를 인식할 수 있는데, 그 이유는 다음과 같다. 첫째, 128가지의 가능한 7-비트 숫자중 20개만이 사용된다. 둘째, 체크섬이 맞아 떨어지는 경우에만 옳은 바코드이다. 마지막으로, 여러 바코드가 매치된다고 해도, 그중 두 개 이상이 같은 목적으로 데이터베이스에 저장되어있을 가능성은 희박하다.</p>
 

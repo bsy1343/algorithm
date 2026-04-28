@@ -20,7 +20,7 @@
 
 <p>After fierce battles with the Principality of Croode, the Aaronbarc Kingdom, for which he serves, had the last laugh in the end. Peter had done great service in the war, and the king decided to give him a big reward. But alas, the mean king gave him a hard question to try his intelligence. Peter is given a number of sticks, and he is requested to form a tetrahedral vessel with these sticks. Then he will be, said the king, given as much patas (currency in this kingdom) as the volume of the vessel. In the situation, he has only to form a frame of a vessel.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/22738.%E2%80%85Tetrahedra/de54b13a.png" data-original-src="https://upload.acmicpc.net/acd544f9-32b0-4f9c-8144-f29736722c4f/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 156px; height: 165px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/22738.%E2%80%85Tetrahedra/de54b13a.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/22738.%E2%80%85Tetrahedra/de54b13a.png" data-original-src="https://upload.acmicpc.net/acd544f9-32b0-4f9c-8144-f29736722c4f/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 156px; height: 165px;" /></p>
 
 <p style="text-align: center;">Figure 1: An example tetrahedron vessel</p>
 

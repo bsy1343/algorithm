@@ -32,6 +32,6 @@
 
 ### 힌트
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/9692.%E2%80%85Blankets/783ee04d.png" data-original-src="https://upload.acmicpc.net/c5249fbe-db65-4534-8d84-117443c3bbbc/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/9692.%E2%80%85Blankets/783ee04d.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/9692.%E2%80%85Blankets/783ee04d.png" data-original-src="https://upload.acmicpc.net/c5249fbe-db65-4534-8d84-117443c3bbbc/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p style="text-align: center;">The exact result is: (4 + 0 + 0 + 1 + 6 + 0) / 6</p>

@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/30413.%E2%80%85%EC%96%91%E2%80%85%ED%95%9C%E2%80%85%EB%A7%88%EB%A6%AC...%E2%80%85%EC%96%91%E2%80%85A%EB%A7%88%EB%A6%AC...%E2%80%85%EC%96%91%E2%80%85A%EC%A0%9C%EA%B3%B1%EB%A7%88%EB%A6%AC.../006642cf.png" data-original-src="https://upload.acmicpc.net/065f0fa9-8247-481e-a1fa-b2f195fe4a6a/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/30413.%E2%80%85%EC%96%91%E2%80%85%ED%95%9C%E2%80%85%EB%A7%88%EB%A6%AC...%E2%80%85%EC%96%91%E2%80%85A%EB%A7%88%EB%A6%AC...%E2%80%85%EC%96%91%E2%80%85A%EC%A0%9C%EA%B3%B1%EB%A7%88%EB%A6%AC.../006642cf.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/30413.%E2%80%85%EC%96%91%E2%80%85%ED%95%9C%E2%80%85%EB%A7%88%EB%A6%AC...%E2%80%85%EC%96%91%E2%80%85A%EB%A7%88%EB%A6%AC...%E2%80%85%EC%96%91%E2%80%85A%EC%A0%9C%EA%B3%B1%EB%A7%88%EB%A6%AC.../006642cf.png" data-original-src="https://upload.acmicpc.net/065f0fa9-8247-481e-a1fa-b2f195fe4a6a/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p style="text-align: center;"><s>(잠이 안 오는 춘배의 모습)</s></p>
 

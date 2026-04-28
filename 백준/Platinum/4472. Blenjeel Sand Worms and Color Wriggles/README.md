@@ -26,19 +26,19 @@
 
 <p>Consider the following 3 &times; 5 board, where each number represents a different color, and the worm is represented by the chain of circles:</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/4472.%E2%80%85Blenjeel%E2%80%85Sand%E2%80%85Worms%E2%80%85and%E2%80%85Color%E2%80%85Wriggles/70d0875d.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/4472/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:112px; width:170px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/4472.%E2%80%85Blenjeel%E2%80%85Sand%E2%80%85Worms%E2%80%85and%E2%80%85Color%E2%80%85Wriggles/70d0875d.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/4472.%E2%80%85Blenjeel%E2%80%85Sand%E2%80%85Worms%E2%80%85and%E2%80%85Color%E2%80%85Wriggles/70d0875d.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/4472/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:112px; width:170px" /></p>
 
 <p>One of two possible moves is to pull the bottom of the worm to the right so it&rsquo;s positioned as follows:</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/4472.%E2%80%85Blenjeel%E2%80%85Sand%E2%80%85Worms%E2%80%85and%E2%80%85Color%E2%80%85Wriggles/b16ed8b5.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/4472/2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:107px; width:172px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/4472.%E2%80%85Blenjeel%E2%80%85Sand%E2%80%85Worms%E2%80%85and%E2%80%85Color%E2%80%85Wriggles/b16ed8b5.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/4472.%E2%80%85Blenjeel%E2%80%85Sand%E2%80%85Worms%E2%80%85and%E2%80%85Color%E2%80%85Wriggles/b16ed8b5.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/4472/2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:107px; width:172px" /></p>
 
 <p>Now we can pull from the other end of the worm to carry it through three different positions:</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/4472.%E2%80%85Blenjeel%E2%80%85Sand%E2%80%85Worms%E2%80%85and%E2%80%85Color%E2%80%85Wriggles/2451f973.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/4472/3.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:107px; width:573px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/4472.%E2%80%85Blenjeel%E2%80%85Sand%E2%80%85Worms%E2%80%85and%E2%80%85Color%E2%80%85Wriggles/2451f973.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/4472.%E2%80%85Blenjeel%E2%80%85Sand%E2%80%85Worms%E2%80%85and%E2%80%85Color%E2%80%85Wriggles/2451f973.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/4472/3.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:107px; width:573px" /></p>
 
 <p>Through a series of additional moves, it&rsquo;s possible to wriggle the worm into the target position where the body of the worm is completely in the rightmost column:</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/4472.%E2%80%85Blenjeel%E2%80%85Sand%E2%80%85Worms%E2%80%85and%E2%80%85Color%E2%80%85Wriggles/f40f12be.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/4472/4.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:102px; width:163px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/4472.%E2%80%85Blenjeel%E2%80%85Sand%E2%80%85Worms%E2%80%85and%E2%80%85Color%E2%80%85Wriggles/f40f12be.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/4472.%E2%80%85Blenjeel%E2%80%85Sand%E2%80%85Worms%E2%80%85and%E2%80%85Color%E2%80%85Wriggles/f40f12be.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/4472/4.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:102px; width:163px" /></p>
 
 <p>It&rsquo;s acceptable for the worm to reach the right column in either orientation.</p>
 

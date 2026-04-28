@@ -18,7 +18,7 @@
 
 <p>While your days as an art thief are long past, this does not mean that you lost interest in contemporary art. Unfortunately, you&rsquo;ve been pretty busy lately with BOI preparations. That&rsquo;s why you have lost track of how the $N$ hottest contemporary art collections (conveniently numbered from $1$ to $N$) rank according to value. Since simply asking someone would be quite embarrassing, you will have to resort to different means: anonymous online rankings.</p>
 
-<figure style="width: 234px; float: right;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/25259.%E2%80%85Art%E2%80%85Collections/eda9cfd9.png" data-original-src="https://upload.acmicpc.net/1c7f4056-fdd2-4ad1-9f97-6f77514bb3a3/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 234px; height: 160px;" />
+<figure style="width: 234px; float: right;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/25259.%E2%80%85Art%E2%80%85Collections/eda9cfd9.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/25259.%E2%80%85Art%E2%80%85Collections/eda9cfd9.png" data-original-src="https://upload.acmicpc.net/1c7f4056-fdd2-4ad1-9f97-6f77514bb3a3/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 234px; height: 160px;" />
 <figcaption>&ldquo;Readers also liked: 13 SHOCKING applications of Dijkstra&rsquo;s algorithm computer scientists don&rsquo;t want you to know about!&rdquo;</figcaption>
 </figure>
 

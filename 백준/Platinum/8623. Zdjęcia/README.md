@@ -38,6 +38,6 @@
 
 ### 힌트
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/8623.%E2%80%85Zdj%C4%99cia/17f3a689.png" data-original-src="https://upload.acmicpc.net/8f8ce394-03f3-40d6-91eb-a0f4aa2517c3/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/8623.%E2%80%85Zdj%C4%99cia/17f3a689.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/8623.%E2%80%85Zdj%C4%99cia/17f3a689.png" data-original-src="https://upload.acmicpc.net/8f8ce394-03f3-40d6-91eb-a0f4aa2517c3/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>Obszar zakreskowany na rysunku reprezentuje fragment tablicy, w kt&oacute;rym należy przyczepić pinezkę, aby przebić 3 zdjęcia. Zauważ, że dwa zdjęcia na tablicy (pierwsze i czwarte) dokładnie się pokrywają.</p>

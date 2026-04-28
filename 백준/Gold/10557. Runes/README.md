@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/10557.%E2%80%85Runes/bbf4010f.png" data-original-src="https://www.acmicpc.net/upload/images2/runes.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:53px; width:170px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/10557.%E2%80%85Runes/bbf4010f.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/10557.%E2%80%85Runes/bbf4010f.png" data-original-src="https://www.acmicpc.net/upload/images2/runes.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:53px; width:170px" /></p>
 
 <p>You are helping an archaeologist decipher some runes. He knows that this ancient society used a Base 10 system, and that they never start a number with a leading zero. He&rsquo;s figured out most of the digits as well as a few operators, but he needs your help to figure out the rest.</p>
 

@@ -32,4 +32,4 @@
 
 ### 힌트
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/6563.%E2%80%85Fiber%E2%80%85Network/767ca104.gif" data-original-src="https://www.acmicpc.net/upload/images2/fiber.gif" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:190px; width:159px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/6563.%E2%80%85Fiber%E2%80%85Network/767ca104.gif" data-original-src="%EB%B0%B1%EC%A4%80/Gold/6563.%E2%80%85Fiber%E2%80%85Network/767ca104.gif" data-original-src="https://www.acmicpc.net/upload/images2/fiber.gif" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:190px; width:159px" /></p>

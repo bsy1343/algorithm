@@ -31,10 +31,10 @@
 <table class="table table-bordered td-center th-center">
 	<tbody>
 		<tr>
-			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/30011.%E2%80%85%EA%B2%B9%EB%8B%A4%EA%B0%81%ED%98%95%EC%9D%98%E2%80%85%EA%B0%81/06be3b99.png" data-original-src="https://upload.acmicpc.net/3d109975-5435-404a-8b20-4c583449cd12/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" />
+			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/30011.%E2%80%85%EA%B2%B9%EB%8B%A4%EA%B0%81%ED%98%95%EC%9D%98%E2%80%85%EA%B0%81/06be3b99.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/30011.%E2%80%85%EA%B2%B9%EB%8B%A4%EA%B0%81%ED%98%95%EC%9D%98%E2%80%85%EA%B0%81/06be3b99.png" data-original-src="https://upload.acmicpc.net/3d109975-5435-404a-8b20-4c583449cd12/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" />
 			<p> </p>
 			</td>
-			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/30011.%E2%80%85%EA%B2%B9%EB%8B%A4%EA%B0%81%ED%98%95%EC%9D%98%E2%80%85%EA%B0%81/13148722.png" data-original-src="https://upload.acmicpc.net/746ed35c-d6f8-4d21-b094-a0d063866fa0/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" />
+			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/30011.%E2%80%85%EA%B2%B9%EB%8B%A4%EA%B0%81%ED%98%95%EC%9D%98%E2%80%85%EA%B0%81/13148722.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/30011.%E2%80%85%EA%B2%B9%EB%8B%A4%EA%B0%81%ED%98%95%EC%9D%98%E2%80%85%EA%B0%81/13148722.png" data-original-src="https://upload.acmicpc.net/746ed35c-d6f8-4d21-b094-a0d063866fa0/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" />
 			<p> </p>
 			</td>
 		</tr>
@@ -47,7 +47,7 @@
 
 <p>당신은 그림의 <strong>점수</strong>가 최대가 되도록 그림을 그리려고 한다. 그림의 <b>점수</b>는 그림에 그려진 선분으로 만들어지는 $180 ^\circ$ 미만의 각 중 다른 각을 완전히 포함하지 않는 것의 각도의 합으로 정의된다. </p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/30011.%E2%80%85%EA%B2%B9%EB%8B%A4%EA%B0%81%ED%98%95%EC%9D%98%E2%80%85%EA%B0%81/542c35d7.png" data-original-src="https://upload.acmicpc.net/66042671-45e1-4fbe-89af-f894f1385f4b/-/crop/513x297/0,12/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/30011.%E2%80%85%EA%B2%B9%EB%8B%A4%EA%B0%81%ED%98%95%EC%9D%98%E2%80%85%EA%B0%81/542c35d7.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/30011.%E2%80%85%EA%B2%B9%EB%8B%A4%EA%B0%81%ED%98%95%EC%9D%98%E2%80%85%EA%B0%81/542c35d7.png" data-original-src="https://upload.acmicpc.net/66042671-45e1-4fbe-89af-f894f1385f4b/-/crop/513x297/0,12/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>예를 들어, 다음 그림의 $\angle DBA$와 $\angle CBD$는 조건에 맞지만, $\angle CBA$는 $\angle DBA$와 $\angle CBD$를 포함하기 때문에 조건에 맞지 않는다.</p>
 

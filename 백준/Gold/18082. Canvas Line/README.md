@@ -22,7 +22,7 @@
 
 <p>Unnecessary things touching any canvas is a smudge risk, thus every canvas should be held by exactly two pegs, no more and no less. Given all of the pegs that are already attached to the line, place as few as possible additional pegs as necessary to hold all of the canvases.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/18082.%E2%80%85Canvas%E2%80%85Line/e5a44f63.png" data-original-src="https://upload.acmicpc.net/2546bbd1-89f9-447b-ac86-95d6327de241/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 614px; height: 146px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/18082.%E2%80%85Canvas%E2%80%85Line/e5a44f63.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/18082.%E2%80%85Canvas%E2%80%85Line/e5a44f63.png" data-original-src="https://upload.acmicpc.net/2546bbd1-89f9-447b-ac86-95d6327de241/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 614px; height: 146px;" /></p>
 
 <p style="text-align: center;">Figure C.1: Illustration of a solution to Sample Input 2. Pre-existing pegs are marked in white.</p>
 

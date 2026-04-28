@@ -28,7 +28,7 @@
 
 <p>아래는 마루의 지시를 나타낸 그림이다. </p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/30626.%E2%80%85%EC%8B%AC%EC%8B%AC%ED%95%9C%E2%80%85%EB%A7%88%EB%A3%A8/b008c22d.png" data-original-src="https://upload.acmicpc.net/3e6db57a-4f1d-47c2-b7ec-d439471f5b2e/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="max-width: 320px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/30626.%E2%80%85%EC%8B%AC%EC%8B%AC%ED%95%9C%E2%80%85%EB%A7%88%EB%A3%A8/b008c22d.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/30626.%E2%80%85%EC%8B%AC%EC%8B%AC%ED%95%9C%E2%80%85%EB%A7%88%EB%A3%A8/b008c22d.png" data-original-src="https://upload.acmicpc.net/3e6db57a-4f1d-47c2-b7ec-d439471f5b2e/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="max-width: 320px" /></p>
 
 <p>위 그림에서 점 $O, E, P$는 각각 훈련장의 중심, 훈련장의 입구, 근수의 위치를 나타내고, $\newcommand{arc}[1]{\stackrel{\Large\frown}{#1}}\arc{LR}$은 벽에 닿아 사라진 블레이즈의 범위를 나타낸다. 위 그림의 실선은 훈련장의 벽을 나타낸다. 또한 근수는 항상 $\angle{EOP}=a^\circ, \angle{LPR}=b^\circ, \angle{OPL}=\angle{OPR}$를 충족하게 블레이즈를 사용한다.</p>
 

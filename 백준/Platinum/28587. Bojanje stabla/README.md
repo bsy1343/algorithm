@@ -52,4 +52,4 @@
 	<li>Sad pita koja je vrijednost čvora $1$. Jedan.</li>
 </ol>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/28587.%E2%80%85Bojanje%E2%80%85stabla/d5286dd2.png" data-original-src="https://upload.acmicpc.net/f938705b-4300-4e96-9f6c-061821fae8af/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 251px; height: 158px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/28587.%E2%80%85Bojanje%E2%80%85stabla/d5286dd2.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/28587.%E2%80%85Bojanje%E2%80%85stabla/d5286dd2.png" data-original-src="https://upload.acmicpc.net/f938705b-4300-4e96-9f6c-061821fae8af/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 251px; height: 158px;" /></p>

@@ -22,7 +22,7 @@
 
 <p>Of course, the biggest piece of cake should go to Greg since it is his birthday. Help Sam determine the volume of the biggest piece of cake that resulted from these two cuts.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/17874.%E2%80%85Piece%E2%80%85of%E2%80%85Cake!/add53cce.png" data-original-src="https://upload.acmicpc.net/297a3b9b-71c1-4ef4-9f92-32bfa3dfa702/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 518px; height: 229px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/17874.%E2%80%85Piece%E2%80%85of%E2%80%85Cake!/add53cce.png" data-original-src="%EB%B0%B1%EC%A4%80/Bronze/17874.%E2%80%85Piece%E2%80%85of%E2%80%85Cake!/add53cce.png" data-original-src="https://upload.acmicpc.net/297a3b9b-71c1-4ef4-9f92-32bfa3dfa702/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 518px; height: 229px;" /></p>
 
 ### 입력
 

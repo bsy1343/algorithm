@@ -30,15 +30,15 @@
 
 <p>Given the location of their islands and flights, Iceepeecee wants to find the smallest aperture angle &theta; that allows for a successful survey. Can you help?</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/26135.%E2%80%85Islands%E2%80%85from%E2%80%85the%E2%80%85Sky/1f4e01ec.png" data-original-src="https://upload.acmicpc.net/e1ed84d2-0f8e-4727-b4f2-05f185c52bd6/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 208px; height: 132px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/26135.%E2%80%85Islands%E2%80%85from%E2%80%85the%E2%80%85Sky/1f4e01ec.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/26135.%E2%80%85Islands%E2%80%85from%E2%80%85the%E2%80%85Sky/1f4e01ec.png" data-original-src="https://upload.acmicpc.net/e1ed84d2-0f8e-4727-b4f2-05f185c52bd6/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 208px; height: 132px;" /></p>
 
 <p style="text-align: center;">Figure F.1: A view of the plane, shown head-on. Its camera points downward and can see the part of the ground underneath the plane that is shown in green. How much is visible depends on the aperture angle &theta;.</p>
 
 <table class="table table-bordered">
 	<tbody>
 		<tr>
-			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/26135.%E2%80%85Islands%E2%80%85from%E2%80%85the%E2%80%85Sky/0916fca3.png" data-original-src="https://upload.acmicpc.net/8916a9ce-8a45-45bb-b849-06ea8c66fd83/-/crop/267x278/0,0/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 134px; height: 139px;" /></td>
-			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/26135.%E2%80%85Islands%E2%80%85from%E2%80%85the%E2%80%85Sky/edb9ea73.png" data-original-src="https://upload.acmicpc.net/8916a9ce-8a45-45bb-b849-06ea8c66fd83/-/crop/300x278/334,0/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 150px; height: 139px;" /></td>
+			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/26135.%E2%80%85Islands%E2%80%85from%E2%80%85the%E2%80%85Sky/0916fca3.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/26135.%E2%80%85Islands%E2%80%85from%E2%80%85the%E2%80%85Sky/0916fca3.png" data-original-src="https://upload.acmicpc.net/8916a9ce-8a45-45bb-b849-06ea8c66fd83/-/crop/267x278/0,0/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 134px; height: 139px;" /></td>
+			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/26135.%E2%80%85Islands%E2%80%85from%E2%80%85the%E2%80%85Sky/edb9ea73.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/26135.%E2%80%85Islands%E2%80%85from%E2%80%85the%E2%80%85Sky/edb9ea73.png" data-original-src="https://upload.acmicpc.net/8916a9ce-8a45-45bb-b849-06ea8c66fd83/-/crop/300x278/334,0/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 150px; height: 139px;" /></td>
 		</tr>
 		<tr>
 			<td>(a) Three islands (shown in black) and two flight paths (red and green). Altitudes are not shown.</td>

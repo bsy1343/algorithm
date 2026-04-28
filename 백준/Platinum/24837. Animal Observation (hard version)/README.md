@@ -48,16 +48,16 @@
 
 <p>Example 1:</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/24837.%E2%80%85Animal%E2%80%85Observation%E2%80%85(hard%E2%80%85version)/820aedf5.png" data-original-src="https://upload.acmicpc.net/1784dcda-9175-4c71-918d-6d6796f4da61/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 267px; width: 332px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/24837.%E2%80%85Animal%E2%80%85Observation%E2%80%85(hard%E2%80%85version)/820aedf5.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/24837.%E2%80%85Animal%E2%80%85Observation%E2%80%85(hard%E2%80%85version)/820aedf5.png" data-original-src="https://upload.acmicpc.net/1784dcda-9175-4c71-918d-6d6796f4da61/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 267px; width: 332px;" /></p>
 
 <p>Example 2:</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/24837.%E2%80%85Animal%E2%80%85Observation%E2%80%85(hard%E2%80%85version)/71a3a71c.png" data-original-src="https://upload.acmicpc.net/d5320fb1-7fe3-46e3-ba22-1ecc0bc06d64/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 200px; width: 200px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/24837.%E2%80%85Animal%E2%80%85Observation%E2%80%85(hard%E2%80%85version)/71a3a71c.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/24837.%E2%80%85Animal%E2%80%85Observation%E2%80%85(hard%E2%80%85version)/71a3a71c.png" data-original-src="https://upload.acmicpc.net/d5320fb1-7fe3-46e3-ba22-1ecc0bc06d64/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 200px; width: 200px;" /></p>
 
 <p>Example 3:</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/24837.%E2%80%85Animal%E2%80%85Observation%E2%80%85(hard%E2%80%85version)/6ba4e113.png" data-original-src="https://upload.acmicpc.net/c9a774de-fdc2-433a-b506-3a1defabae81/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 200px; width: 200px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/24837.%E2%80%85Animal%E2%80%85Observation%E2%80%85(hard%E2%80%85version)/6ba4e113.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/24837.%E2%80%85Animal%E2%80%85Observation%E2%80%85(hard%E2%80%85version)/6ba4e113.png" data-original-src="https://upload.acmicpc.net/c9a774de-fdc2-433a-b506-3a1defabae81/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 200px; width: 200px;" /></p>
 
 <p>Example 4:</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/24837.%E2%80%85Animal%E2%80%85Observation%E2%80%85(hard%E2%80%85version)/d2440cd0.png" data-original-src="https://upload.acmicpc.net/c7364ccc-35c7-4910-9421-bb71465d49d9/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 200px; width: 200px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/24837.%E2%80%85Animal%E2%80%85Observation%E2%80%85(hard%E2%80%85version)/d2440cd0.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/24837.%E2%80%85Animal%E2%80%85Observation%E2%80%85(hard%E2%80%85version)/d2440cd0.png" data-original-src="https://upload.acmicpc.net/c7364ccc-35c7-4910-9421-bb71465d49d9/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 200px; width: 200px;" /></p>

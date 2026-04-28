@@ -38,6 +38,6 @@
 
 ### 힌트
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/8193.%E2%80%85%ED%82%B9%EC%84%B8%EC%A2%85/8e156859.gif" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/8193/1.gif" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:169px; width:157px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/8193.%E2%80%85%ED%82%B9%EC%84%B8%EC%A2%85/8e156859.gif" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/8193.%E2%80%85%ED%82%B9%EC%84%B8%EC%A2%85/8e156859.gif" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/8193/1.gif" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:169px; width:157px" /></p>
 
 <p>예제를 그림으로 나타낸 것이다. 실선이 이미 연결된 텔레포터이며 점선이 최대한 더 지을 수 있는 텔레포터들을 나타낸 것이다.</p>

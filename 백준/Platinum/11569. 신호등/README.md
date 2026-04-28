@@ -25,9 +25,9 @@
 <table class="table">
 	<tbody>
 		<tr>
-			<td style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/11569.%E2%80%85%EC%8B%A0%ED%98%B8%EB%93%B1/ab72fa90.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11568/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:118px; width:132px" /></td>
-			<td style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/11569.%E2%80%85%EC%8B%A0%ED%98%B8%EB%93%B1/8d03a770.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11568/2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:111px; width:122px" /></td>
-			<td style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/11569.%E2%80%85%EC%8B%A0%ED%98%B8%EB%93%B1/714e9162.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11568/3.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:118px; width:124px" /></td>
+			<td style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/11569.%E2%80%85%EC%8B%A0%ED%98%B8%EB%93%B1/ab72fa90.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/11569.%E2%80%85%EC%8B%A0%ED%98%B8%EB%93%B1/ab72fa90.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11568/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:118px; width:132px" /></td>
+			<td style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/11569.%E2%80%85%EC%8B%A0%ED%98%B8%EB%93%B1/8d03a770.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/11569.%E2%80%85%EC%8B%A0%ED%98%B8%EB%93%B1/8d03a770.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11568/2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:111px; width:122px" /></td>
+			<td style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/11569.%E2%80%85%EC%8B%A0%ED%98%B8%EB%93%B1/714e9162.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/11569.%E2%80%85%EC%8B%A0%ED%98%B8%EB%93%B1/714e9162.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11568/3.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:118px; width:124px" /></td>
 		</tr>
 		<tr>
 			<td style="text-align: center;">(a)</td>
@@ -49,7 +49,7 @@
 	<li>어떤 교차로에서 같은 교차로로 돌아오는 길(self loop)은 없다.</li>
 </ul>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/11569.%E2%80%85%EC%8B%A0%ED%98%B8%EB%93%B1/72ec9223.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11568/4.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:140px; width:157px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/11569.%E2%80%85%EC%8B%A0%ED%98%B8%EB%93%B1/72ec9223.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/11569.%E2%80%85%EC%8B%A0%ED%98%B8%EB%93%B1/72ec9223.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11568/4.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:140px; width:157px" /></p>
 
 <p>예를 들어, 위와 같은 도로에서 시작 교차로가 1번이고, 4번 교차로가 목적지라고 하자. 그러면 1번 교차로에서 출발한 차는 10초에 3번 교차로에 도착한다.</p>
 

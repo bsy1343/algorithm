@@ -22,7 +22,7 @@
 
 <p>An example of this is shown in the figure below.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/11766.%E2%80%85Rings/bc97555e.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11766/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:167px; width:349px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/11766.%E2%80%85Rings/bc97555e.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/11766.%E2%80%85Rings/bc97555e.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11766/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:167px; width:349px" /></p>
 
 <p style="text-align: center;">Figure D.1</p>
 

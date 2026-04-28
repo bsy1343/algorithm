@@ -18,7 +18,7 @@
 
 <p>How many rectangles can you find in the figure below?</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/8295.%E2%80%85Rectangles/cf23579b.png" data-original-src="https://upload.acmicpc.net/8b9f8cce-c6ba-46ec-8629-ffe36c77c3e6/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 150px; height: 100px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/8295.%E2%80%85Rectangles/cf23579b.png" data-original-src="%EB%B0%B1%EC%A4%80/Bronze/8295.%E2%80%85Rectangles/cf23579b.png" data-original-src="https://upload.acmicpc.net/8b9f8cce-c6ba-46ec-8629-ffe36c77c3e6/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 150px; height: 100px;" /></p>
 
 <p>We have found: 6 rectangles 1 &times; 1, 4 rectangles 2 &times; 1, 3 rectangles 1 &times; 2, 2 rectangles 2 &times; 2, 2 rectangles 3&nbsp;&times; 1&nbsp;and one rectangle 3 &times; 2, what gives 18&nbsp;in total. Clearly, we are interested in rectangles with vertices in grid points, i.e., the points located at the intersections of vertical and horizontal line segments, and having vertical or horizontal sides. The above grid has dimensions 3 &times; 2.</p>
 

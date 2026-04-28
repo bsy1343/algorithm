@@ -25,9 +25,9 @@
 <table class="table" style="width:100%">
 	<tbody>
 		<tr>
-			<td style="text-align:center; width:33%"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/3388.%E2%80%85L%E2%80%85Game/87dcd182.png" data-original-src="https://www.acmicpc.net/upload/images2/lgame1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:78px; width:78px" /></td>
-			<td style="text-align:center; width:34%"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/3388.%E2%80%85L%E2%80%85Game/29426f8f.png" data-original-src="https://www.acmicpc.net/upload/images2/lgame2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:78px; width:78px" /></td>
-			<td style="text-align:center; width:33%"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/3388.%E2%80%85L%E2%80%85Game/a4085e90.png" data-original-src="https://www.acmicpc.net/upload/images2/lgame3.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:78px; width:78px" /></td>
+			<td style="text-align:center; width:33%"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/3388.%E2%80%85L%E2%80%85Game/87dcd182.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/3388.%E2%80%85L%E2%80%85Game/87dcd182.png" data-original-src="https://www.acmicpc.net/upload/images2/lgame1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:78px; width:78px" /></td>
+			<td style="text-align:center; width:34%"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/3388.%E2%80%85L%E2%80%85Game/29426f8f.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/3388.%E2%80%85L%E2%80%85Game/29426f8f.png" data-original-src="https://www.acmicpc.net/upload/images2/lgame2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:78px; width:78px" /></td>
+			<td style="text-align:center; width:33%"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/3388.%E2%80%85L%E2%80%85Game/a4085e90.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/3388.%E2%80%85L%E2%80%85Game/a4085e90.png" data-original-src="https://www.acmicpc.net/upload/images2/lgame3.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:78px; width:78px" /></td>
 		</tr>
 	</tbody>
 </table>
@@ -36,7 +36,7 @@
 
 <p>A player wins the game when his opponent cannot move his L piece. In the position below, if the player with the checkered L is to move, he loses, as he cannot move his L to a new, unoccupied position on the board.</p>
 
-<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/3388.%E2%80%85L%E2%80%85Game/2b3a1aca.png" data-original-src="https://www.acmicpc.net/upload/images2/lgame4.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:78px; width:78px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/3388.%E2%80%85L%E2%80%85Game/2b3a1aca.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/3388.%E2%80%85L%E2%80%85Game/2b3a1aca.png" data-original-src="https://www.acmicpc.net/upload/images2/lgame4.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:78px; width:78px" /></p>
 
 <p>The game is simple, yet hard as there are so many moves. There are over 18,000 positions for the pieces on the small board and at any moment there may be as many as 195 different moves of which only one is successful.</p>
 

@@ -35,7 +35,7 @@
 
 <p>만약 버블힐이 다음과 같이 생겼다고 하자. <em>H</em> = 2, <em>W</em>&nbsp;= 3, <em>N</em> = 2다. 현재, 다오는 (2, 1), 디지니는 (2, 3)에 위치해 있다. 또한 (1, 2)에는 블록이 있다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/18188.%E2%80%85%EB%8B%A4%EC%98%A4%EC%9D%98%E2%80%85%EB%8D%B0%EC%9D%B4%ED%8A%B8/c8f6fcc8.png" data-original-src="https://upload.acmicpc.net/302f4955-5add-48b6-8b2d-2a66da4f5245/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 400px; width: 670px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/18188.%E2%80%85%EB%8B%A4%EC%98%A4%EC%9D%98%E2%80%85%EB%8D%B0%EC%9D%B4%ED%8A%B8/c8f6fcc8.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/18188.%E2%80%85%EB%8B%A4%EC%98%A4%EC%9D%98%E2%80%85%EB%8D%B0%EC%9D%B4%ED%8A%B8/c8f6fcc8.png" data-original-src="https://upload.acmicpc.net/302f4955-5add-48b6-8b2d-2a66da4f5245/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 400px; width: 670px;" /></p>
 
 <p style="text-align: center;"><strong>&lt;그림 1&gt;</strong>&nbsp;다오와 디지니, 그리고 마리드</p>
 
@@ -43,11 +43,11 @@
 
 <p>블록이 있는 칸이나 버블힐 바깥으로는 이동할 수 없음에 유의하라.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/18188.%E2%80%85%EB%8B%A4%EC%98%A4%EC%9D%98%E2%80%85%EB%8D%B0%EC%9D%B4%ED%8A%B8/f13062fd.png" data-original-src="https://upload.acmicpc.net/2839fac4-e593-4aca-83cc-47c078e64104/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 640px; height: 400px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/18188.%E2%80%85%EB%8B%A4%EC%98%A4%EC%9D%98%E2%80%85%EB%8D%B0%EC%9D%B4%ED%8A%B8/f13062fd.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/18188.%E2%80%85%EB%8B%A4%EC%98%A4%EC%9D%98%E2%80%85%EB%8D%B0%EC%9D%B4%ED%8A%B8/f13062fd.png" data-original-src="https://upload.acmicpc.net/2839fac4-e593-4aca-83cc-47c078e64104/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 640px; height: 400px;" /></p>
 
 <p style="text-align: center;"><strong>&lt;그림 2&gt;</strong>&nbsp;마리드가 없을 때, 행복한 다오와 디지니</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/18188.%E2%80%85%EB%8B%A4%EC%98%A4%EC%9D%98%E2%80%85%EB%8D%B0%EC%9D%B4%ED%8A%B8/1eef7ab6.png" data-original-src="https://upload.acmicpc.net/f1b7f9f0-8057-4f77-aa8c-1488926bee72/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 681px; height: 250px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/18188.%E2%80%85%EB%8B%A4%EC%98%A4%EC%9D%98%E2%80%85%EB%8D%B0%EC%9D%B4%ED%8A%B8/1eef7ab6.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/18188.%E2%80%85%EB%8B%A4%EC%98%A4%EC%9D%98%E2%80%85%EB%8D%B0%EC%9D%B4%ED%8A%B8/1eef7ab6.png" data-original-src="https://upload.acmicpc.net/f1b7f9f0-8057-4f77-aa8c-1488926bee72/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 681px; height: 250px;" /></p>
 
 <p style="text-align: center;"><strong>&lt;그림 3&gt;</strong> 마리드로 인해 만날 수 없는 다오와 디지니</p>
 

@@ -20,7 +20,7 @@
 
 <p>화면에는 숫자가 최대 4개까지 표시되고, 각각의 숫자는 초콜릿이 들어있는 연결된 칸의 개수를 나타낸다. 숫자가 여러 개이면 오름차순으로 표시된다. 두 칸이 한 변을 따라 맞닿아 있으면 그 두 칸은 연결되어 있다고 한다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/28256.%E2%80%85%EC%B4%88%EC%BD%9C%EB%A6%BF%E2%80%85%EB%B3%B4%EA%B4%80%ED%95%A8/ba626293.png" data-original-src="https://upload.acmicpc.net/dc503ac5-bc6e-413d-b31f-5624e3911f25/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 720px; height: 180px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/28256.%E2%80%85%EC%B4%88%EC%BD%9C%EB%A6%BF%E2%80%85%EB%B3%B4%EA%B4%80%ED%95%A8/ba626293.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/28256.%E2%80%85%EC%B4%88%EC%BD%9C%EB%A6%BF%E2%80%85%EB%B3%B4%EA%B4%80%ED%95%A8/ba626293.png" data-original-src="https://upload.acmicpc.net/dc503ac5-bc6e-413d-b31f-5624e3911f25/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 720px; height: 180px;" /></p>
 
 <p>코코는 똑같은 초콜릿 보관함을 하나 더 만들어서 한별이에게 선물하려고 한다. 버그가 있을지 모른다고 걱정하는 코코를 위해, 보관함의 테스트를 도와주자.</p>
 

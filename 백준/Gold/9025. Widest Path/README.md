@@ -20,7 +20,7 @@
 
 <p>For example, the widest path from node 1 to node 4 in Figure 1 has bandwidth 25, and passes through node 3 and node 2. The widest path from node 6 to node 3 has bandwidth 30, and passes through node 5.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/9025.%E2%80%85Widest%E2%80%85Path/321fa79a.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/9025/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202017-01-03%20%EC%98%A4%ED%9B%84%206.05.48.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:142px; width:320px" /><br />
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/9025.%E2%80%85Widest%E2%80%85Path/321fa79a.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/9025.%E2%80%85Widest%E2%80%85Path/321fa79a.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/9025/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202017-01-03%20%EC%98%A4%ED%9B%84%206.05.48.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:142px; width:320px" /><br />
 Figure 1. Example of a computer network</p>
 
 <p>Given two nodes in a graph, write a program which determines the bandwidth of the widest path between two nodes.</p>

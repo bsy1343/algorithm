@@ -24,7 +24,7 @@
 
 <p>Presumably, the more balls you have inside the outer ring, the smoother the ride will be, but how many can you fit within the outer ring? You will be given the inner diameter of the outer ring, the diameter of the balls, and the minimum distance between neighboring balls. Your task is to compute the maximum number of balls that will fit on the inside of the outer ring (all balls must touch the outer ring).</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/6698.%E2%80%85Ball%E2%80%85bearings/f7cf4bd3.jpg" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/6698/2959_1.jpg" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:191px; width:177px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/6698.%E2%80%85Ball%E2%80%85bearings/f7cf4bd3.jpg" data-original-src="%EB%B0%B1%EC%A4%80/Gold/6698.%E2%80%85Ball%E2%80%85bearings/f7cf4bd3.jpg" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/6698/2959_1.jpg" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:191px; width:177px" /></p>
 
 ### 입력
 

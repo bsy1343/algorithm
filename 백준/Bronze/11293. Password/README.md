@@ -18,7 +18,7 @@
 
 <p>Keepsafe is a tool used by KiwiBank to &ldquo;provide an extra layer of security to help protect customers while using Kiwibank Internet Banking.&rdquo; Customers have to set up a number of security questions and answers. After logging in with a user name and password, a customer is presented with one of their security questions and a space for the answer. Two letters in the answer have to be entered as shown by white boxes. For example:</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/11293.%E2%80%85Password/cbcfcd4b.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11293/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:157px; width:671px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/11293.%E2%80%85Password/cbcfcd4b.png" data-original-src="%EB%B0%B1%EC%A4%80/Bronze/11293.%E2%80%85Password/cbcfcd4b.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11293/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:157px; width:671px" /></p>
 
 <p>If the pet&#39;s name was &ldquo;Whisper&rdquo;, the customer would press the P key then the R key. The letters pressed must correspond, in order, to the two spaces in the outline answer to the security question.</p>
 

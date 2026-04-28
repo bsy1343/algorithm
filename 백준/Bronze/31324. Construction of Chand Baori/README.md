@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/31324.%E2%80%85Construction%E2%80%85of%E2%80%85Chand%E2%80%85Baori/fcf25ee1.png" data-original-src="https://upload.acmicpc.net/ab0cfbfd-cd38-4a2c-a5e6-e3197954494c/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 200px; height: 132px; float: right;" />The Indian stepped well Chand Baori is, with some simplifications, a pyramid tapering down. Faces of the pyramid are made up of rows of trapezoid stairs which can be used to descend to reach the water. The first (lowest) level is a single stairway with two flights of stairs on the left and on the right. The second level has two such stairways, etc.</p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/31324.%E2%80%85Construction%E2%80%85of%E2%80%85Chand%E2%80%85Baori/fcf25ee1.png" data-original-src="%EB%B0%B1%EC%A4%80/Bronze/31324.%E2%80%85Construction%E2%80%85of%E2%80%85Chand%E2%80%85Baori/fcf25ee1.png" data-original-src="https://upload.acmicpc.net/ab0cfbfd-cd38-4a2c-a5e6-e3197954494c/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 200px; height: 132px; float: right;" />The Indian stepped well Chand Baori is, with some simplifications, a pyramid tapering down. Faces of the pyramid are made up of rows of trapezoid stairs which can be used to descend to reach the water. The first (lowest) level is a single stairway with two flights of stairs on the left and on the right. The second level has two such stairways, etc.</p>
 
 <p>To visit the &quot;Harshat Mata&quot; shrine dedicated to the goddess of happiness and joy pilgrims need to cleanse themselves in the waters of the well, that is, to descend to the very bottom. Pilgrims on their way to the water can only descend or walk horizontally along the current level, but not climb up.</p>
 
@@ -34,4 +34,4 @@
 
 <p>For a two-level well there exist eight different ways of descent shown in the picture (parts of the same route are marked with the same digit).</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/31324.%E2%80%85Construction%E2%80%85of%E2%80%85Chand%E2%80%85Baori/2bb640c5.png" data-original-src="https://upload.acmicpc.net/8710add5-0050-4953-9aa1-74926694074c/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/31324.%E2%80%85Construction%E2%80%85of%E2%80%85Chand%E2%80%85Baori/2bb640c5.png" data-original-src="%EB%B0%B1%EC%A4%80/Bronze/31324.%E2%80%85Construction%E2%80%85of%E2%80%85Chand%E2%80%85Baori/2bb640c5.png" data-original-src="https://upload.acmicpc.net/8710add5-0050-4953-9aa1-74926694074c/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>

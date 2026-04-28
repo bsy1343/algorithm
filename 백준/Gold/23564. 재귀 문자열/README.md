@@ -26,7 +26,7 @@
 
 <p>예를 들어 $S=abc$고, $A=(1,2,1)$이면 $X_1=a, X_2=ababa, X_3=T=ababacababa$가 된다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/23564.%E2%80%85%EC%9E%AC%EA%B7%80%E2%80%85%EB%AC%B8%EC%9E%90%EC%97%B4/aebeced2.png" data-original-src="https://upload.acmicpc.net/d8d86461-33fe-4f10-bc40-0e925993e692/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 214px; width: 400px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/23564.%E2%80%85%EC%9E%AC%EA%B7%80%E2%80%85%EB%AC%B8%EC%9E%90%EC%97%B4/aebeced2.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/23564.%E2%80%85%EC%9E%AC%EA%B7%80%E2%80%85%EB%AC%B8%EC%9E%90%EC%97%B4/aebeced2.png" data-original-src="https://upload.acmicpc.net/d8d86461-33fe-4f10-bc40-0e925993e692/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 214px; width: 400px;" /></p>
 
 <p>$S$와 $A$를 이용하여 $T$를 만드는 것은 쉬우니, 반대로 $T$가 주어졌을 때 $T$를 만들어내는 $S$와 $A$를 찾아보자.</p>
 

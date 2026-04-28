@@ -18,7 +18,7 @@
 
 <p>루타비스의 수호자, 시간술사 반반은 모든 음식을 반으로 먹는 것을 즐깁니다. 비록 후라이드 양념 반반 치킨을 먹지는 않지만, 중식은 항상 짬짜면을, 피자집에서는 항상 하프 앤 하프 피자를 주문합니다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/31405.%E2%80%85%EB%B0%98%E2%80%85%EB%82%98%EB%88%84%EA%B8%B0%E2%80%85(Easy)/a11b8c5a.png" data-original-src="https://upload.acmicpc.net/b9d200cb-3919-437c-ae7b-d4bcea3c43c5//" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/31405.%E2%80%85%EB%B0%98%E2%80%85%EB%82%98%EB%88%84%EA%B8%B0%E2%80%85(Easy)/a11b8c5a.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/31405.%E2%80%85%EB%B0%98%E2%80%85%EB%82%98%EB%88%84%EA%B8%B0%E2%80%85(Easy)/a11b8c5a.png" data-original-src="https://upload.acmicpc.net/b9d200cb-3919-437c-ae7b-d4bcea3c43c5//" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>생일을 맞은 반반은 그의 동료인 어릿광대 피에르에게서 볼록다각형 모양의 케이크를 하나 선물받았습니다. 반반은 이 케이크를 일직선으로 한 번 잘라서 반으로 나눠 먹고 싶습니다. 특히 나눠진 후의 케이크 밑면의 면적이 똑같도록 하고 싶습니다.</p>
 

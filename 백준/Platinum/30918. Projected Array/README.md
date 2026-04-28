@@ -22,7 +22,7 @@
 
 <p>여기서 수열 $A_1$, $A_2$, $\cdots$, $A_n$의 반전 수란, $1 \le i &lt; j \le n$이면서 $A_i &gt; A_j$인 순서쌍 $(i, j)$의 개수를 말한다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/30918.%E2%80%85Projected%E2%80%85Array/3bc606b1.png" data-original-src="https://upload.acmicpc.net/4eddbe77-232c-4a71-af97-38f4eadf7673/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 300px; height: 163px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/30918.%E2%80%85Projected%E2%80%85Array/3bc606b1.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/30918.%E2%80%85Projected%E2%80%85Array/3bc606b1.png" data-original-src="https://upload.acmicpc.net/4eddbe77-232c-4a71-af97-38f4eadf7673/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 300px; height: 163px;" /></p>
 
 ### 입력
 

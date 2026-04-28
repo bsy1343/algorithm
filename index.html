@@ -108,13 +108,48 @@
   .pi-title { font-size: 13px; color: var(--text); overflow: hidden; text-overflow: ellipsis; white-space: nowrap; flex: 1; min-width: 0; }
   .pi-meta { font-size: 10px; color: var(--text3); margin-top: 2px; font-family: var(--mono); padding-left: 12px; }
   .pi-fav {
-    flex-shrink: 0; cursor: pointer; padding: 0 2px; line-height: 1;
-    color: var(--text3); font-size: 14px; user-select: none;
+    flex-shrink: 0; cursor: pointer; padding: 4px 6px; line-height: 1;
+    color: var(--text3); font-size: 18px; user-select: none;
     transition: color 0.1s, transform 0.1s;
   }
-  .pi-fav:hover { color: var(--text); transform: scale(1.15); }
+  .pi-fav:hover { color: var(--text); transform: scale(1.2); }
   .pi-fav.on { color: var(--gold); }
   .empty-sidebar { padding: 24px 12px; text-align: center; font-size: 12px; color: var(--text3); line-height: 1.8; }
+
+  /* Home screen */
+  .home-screen {
+    flex: 1; display: flex; flex-direction: column;
+    align-items: center; justify-content: center;
+    padding: 40px 32px; overflow-y: auto; text-align: center;
+  }
+  .home-logo {
+    font-family: var(--mono); font-size: 56px; font-weight: 600;
+    color: var(--text2); letter-spacing: -0.02em; margin-bottom: 10px;
+  }
+  .home-logo span { color: var(--accent); }
+  .home-tagline { font-size: 14px; color: var(--text3); margin-bottom: 40px; font-family: var(--mono); }
+  .home-stats { display: flex; gap: 48px; margin-bottom: 40px; flex-wrap: wrap; justify-content: center; }
+  .home-stat { text-align: center; min-width: 96px; }
+  .home-stat-num {
+    font-family: var(--mono); font-size: 32px; font-weight: 600;
+    color: var(--text); line-height: 1.2;
+  }
+  .home-stat-num.gold { color: var(--gold); }
+  .home-stat-label { font-size: 11px; color: var(--text3); margin-top: 6px; font-family: var(--mono); letter-spacing: 0.04em; text-transform: uppercase; }
+  .home-actions { display: flex; gap: 12px; margin-bottom: 32px; flex-wrap: wrap; justify-content: center; }
+  .home-btn {
+    background: var(--bg2); border: 1px solid var(--border); border-radius: var(--radius);
+    padding: 10px 20px; cursor: pointer; font-family: var(--mono); font-size: 13px;
+    color: var(--text2); transition: color 0.15s, border-color 0.15s, background 0.15s;
+  }
+  .home-btn:hover { color: var(--text); border-color: var(--border2); background: var(--bg3); }
+  .home-btn.primary { color: var(--gold); border-color: var(--gold); }
+  .home-btn.primary:hover { background: var(--bg3); }
+  .home-hint { font-size: 12px; color: var(--text3); font-family: var(--mono); }
+  .home-hint code {
+    background: var(--bg2); border: 1px solid var(--border); border-radius: 3px;
+    padding: 1px 5px; color: var(--text2);
+  }
 
   /* Main */
   .main { display: flex; flex-direction: column; overflow: hidden; background: var(--bg); }
@@ -305,7 +340,7 @@
     <button class="topbar-btn" id="refresh-btn" title="GitHub 트리 강제 갱신">새로고침</button>
   </header>
   <aside class="sidebar"><div class="loading">트리 로딩 대기...</div></aside>
-  <main class="main"><div class="loading">문제를 선택하세요</div></main>
+  <main class="main"></main>
 </div>
 <script>
 (() => {
@@ -1326,8 +1361,11 @@
       State.loadPref();
       Sidebar.init();
       Topbar.init();
+      this.renderHome();
       await ImageArchive.load();
       await this.reloadTree();
+      // Re-render home so the stats reflect the freshly loaded problem count.
+      if (!State.currentProblem) this.renderHome();
     },
 
     async reloadTree({ force = false } = {}) {
@@ -1369,8 +1407,57 @@
       if (sb) sb.value = '';
       Sidebar.buildTabs();
       Sidebar.renderList();
+      this.renderHome();
+    },
+
+    renderHome() {
       const main = document.querySelector('.main');
-      if (main) main.innerHTML = '<div class="loading">문제를 선택하세요</div>';
+      if (!main) return;
+      const totalProblems = State.problems.length;
+      const favCount = State.favs.size;
+      let draftCount = 0;
+      try { draftCount = Object.keys(JSON.parse(localStorage.getItem(State.DRAFT_KEY) || '{}')).length; } catch {}
+      const loaded = totalProblems > 0;
+
+      main.innerHTML = `
+        <div class="home-screen">
+          <div class="home-logo">boj<span>.</span>study</div>
+          <div class="home-tagline">백준 학습 뷰어 — 개인용 BOJ 미러 · 풀이 작성 · 즐겨찾기</div>
+          <div class="home-stats">
+            <div class="home-stat">
+              <div class="home-stat-num">${loaded ? totalProblems.toLocaleString() : '...'}</div>
+              <div class="home-stat-label">문제</div>
+            </div>
+            <div class="home-stat">
+              <div class="home-stat-num gold">${favCount}</div>
+              <div class="home-stat-label">즐겨찾기</div>
+            </div>
+            <div class="home-stat">
+              <div class="home-stat-num">${draftCount}</div>
+              <div class="home-stat-label">작성한 풀이</div>
+            </div>
+          </div>
+          <div class="home-actions">
+            <button class="home-btn primary" id="home-fav-btn">★ 학습 코스 보기</button>
+            <button class="home-btn" id="home-all-btn">전체 둘러보기</button>
+          </div>
+          <div class="home-hint">왼쪽 사이드바에서 문제 클릭, 또는 <code>문제 번호 / 제목</code>으로 검색하세요.</div>
+        </div>
+      `;
+      const favBtn = document.getElementById('home-fav-btn');
+      if (favBtn) favBtn.addEventListener('click', () => {
+        State.pref.tierFilter = '★';
+        State.savePref();
+        Sidebar.buildTabs();
+        Sidebar.renderList();
+      });
+      const allBtn = document.getElementById('home-all-btn');
+      if (allBtn) allBtn.addEventListener('click', () => {
+        State.pref.tierFilter = 'ALL';
+        State.savePref();
+        Sidebar.buildTabs();
+        Sidebar.renderList();
+      });
     },
   };
 

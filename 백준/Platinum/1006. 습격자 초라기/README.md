@@ -18,7 +18,7 @@
 
 <p>초라기는 한국의 비밀국방기지(원타곤)를 습격하라는 임무를 받은 특급요원이다. 원타곤의 건물은 도넛 형태이며, 초라기는 효율적인 타격 포인트를 정하기 위해 구역을 아래와 같이 두 개의 원 모양으로 나누었다. (그림의 숫자는 각 구역의 번호이다.)</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/1006.%E2%80%85%EC%8A%B5%EA%B2%A9%EC%9E%90%E2%80%85%EC%B4%88%EB%9D%BC%EA%B8%B0/44d09cb2.jpg" data-original-src="https://www.acmicpc.net/upload/201003/dfck3232_34g7t9f4gp_b.jpg" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:320px; width:320px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/1006.%E2%80%85%EC%8A%B5%EA%B2%A9%EC%9E%90%E2%80%85%EC%B4%88%EB%9D%BC%EA%B8%B0/44d09cb2.jpg" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/1006.%E2%80%85%EC%8A%B5%EA%B2%A9%EC%9E%90%E2%80%85%EC%B4%88%EB%9D%BC%EA%B8%B0/44d09cb2.jpg" data-original-src="https://www.acmicpc.net/upload/201003/dfck3232_34g7t9f4gp_b.jpg" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:320px; width:320px" /></p>
 
 <p>초라기는 각각 W명으로 구성된 특수소대를 다수 출동시켜 모든 구역에 침투시킬 예정이며, 각 구역 별로 적이 몇 명씩 배치되어 있는지는 초라기가 모두 알고 있다. 특수소대를 아래 조건에 따라 침투 시킬 수 있다.</p>
 

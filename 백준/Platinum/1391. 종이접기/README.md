@@ -18,11 +18,11 @@
 
 <p>지훈이의 취미는 종이 접기이다. 지훈이는 직사각형의 종이에 정사각형 모양안에 N이하의 정수가 한 번씩 쓰여 있는 종이를 가지고 왔다. 아래 그림과 같이 정사각형을 이어서 붙인 모양이다. 지훈이는 이 종이를 접어서 위에서부터 차례대로 1, 2, 3, ..., N까지의 번호가 있는 정사각형이 오게 하는 것이다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/1391.%E2%80%85%EC%A2%85%EC%9D%B4%EC%A0%91%EA%B8%B0/a46abe16.png" data-original-src="https://upload.acmicpc.net/3b817035-e668-46dc-8872-872ae8c656ed/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/1391.%E2%80%85%EC%A2%85%EC%9D%B4%EC%A0%91%EA%B8%B0/a46abe16.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/1391.%E2%80%85%EC%A2%85%EC%9D%B4%EC%A0%91%EA%B8%B0/a46abe16.png" data-original-src="https://upload.acmicpc.net/3b817035-e668-46dc-8872-872ae8c656ed/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>예를 들어 3, 1, 5, 2, 4의 번호가 있는 직사각형 종이가 주어졌으면, 4와 5의 경계선을 접고, 1과 3의 경계선을 접고, 2와 4의 경계선을 접으면 위에서부터 차례대로 1, 2, 3, 4, 5의 순서로 종이가 놓이게 된다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/1391.%E2%80%85%EC%A2%85%EC%9D%B4%EC%A0%91%EA%B8%B0/c72e8646.png" data-original-src="https://upload.acmicpc.net/51365bdd-6f9b-40df-a1f1-4db0fe8871c5/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/1391.%E2%80%85%EC%A2%85%EC%9D%B4%EC%A0%91%EA%B8%B0/c72e8646.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/1391.%E2%80%85%EC%A2%85%EC%9D%B4%EC%A0%91%EA%B8%B0/c72e8646.png" data-original-src="https://upload.acmicpc.net/51365bdd-6f9b-40df-a1f1-4db0fe8871c5/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>종이에 쓰여 있는 정수 주어졌을 때, 그것을 접어서 위에서부터 차례대로 1, 2, 3, ..., N의 순서로 접을 수 있는지 없는지를 구하는 프로그램을 작성하시오.</p>
 

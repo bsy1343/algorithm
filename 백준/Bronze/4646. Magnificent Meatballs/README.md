@@ -20,7 +20,7 @@
 
 <p>At these catering events, each table seats 2 &lt;= N &lt;= 30 guests. Each guest orders at least one and at most nine meatballs. Each place at the table is numbered from 1 to N, with the host at position 1 and the host&#39;s spouse at position N. Sam always serves the host first then proceeds to serve guests in increasing order. Ella serves the spouse first, then serves guests in decreasing order. The figures illustrate the first two example input cases.</p>
 
-<p style="text-align:center"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/4646/1.png" style="height:208px; width:447px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/4646.%E2%80%85Magnificent%E2%80%85Meatballs/97057635.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/4646/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:208px; width:447px" /></p>
 
 ### 입력
 

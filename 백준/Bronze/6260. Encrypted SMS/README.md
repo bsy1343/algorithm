@@ -24,7 +24,7 @@
 
 <p>The scientific committee needs a program to decrypt the received passwords. They are too busy to write this program and have asked you to help! Write a program to get a correct encrypted text and print the original password.</p>
 
-<p style="text-align: center;"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/6260/1.png" style="height:215px; width:229px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/6260.%E2%80%85Encrypted%E2%80%85SMS/c911e9e2.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/6260/1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:215px; width:229px" /></p>
 
 <p style="text-align: center;">The standard 12 key telephone keypad</p>
 

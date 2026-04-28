@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p><img alt="" height="88" src="%EB%B0%B1%EC%A4%80/Platinum/1155.%E2%80%85%EB%B3%80%ED%98%95%E2%80%85%ED%95%98%EB%85%B8%EC%9D%B4/a7c7f888.jpg" data-original-src="https://www.acmicpc.net/upload/201003/hahah.jpg" onerror="this.onerror=null;this.src=this.dataset.originalSrc" width="278" /></p>
+<p><img alt="" height="88" src="%EB%B0%B1%EC%A4%80/Platinum/1155.%E2%80%85%EB%B3%80%ED%98%95%E2%80%85%ED%95%98%EB%85%B8%EC%9D%B4/a7c7f888.jpg" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/1155.%E2%80%85%EB%B3%80%ED%98%95%E2%80%85%ED%95%98%EB%85%B8%EC%9D%B4/a7c7f888.jpg" data-original-src="https://www.acmicpc.net/upload/201003/hahah.jpg" onerror="this.onerror=null;this.src=this.dataset.originalSrc" width="278" /></p>
 
 <p>기존 하노이는 모든 학생이 알 것이라 판단하여 설명을 생략한다.</p>
 

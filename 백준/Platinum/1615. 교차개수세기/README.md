@@ -22,7 +22,7 @@
 	<li>교차 조건 : 한 독립 집합 A와 다른 독립 집합 B가 연결된 두 개의 간선을 (A<sub>1</sub>, B<sub>1</sub>), (A<sub>2</sub>, B<sub>2</sub>)라 한다면 A<sub>1</sub> &lt; A<sub>2</sub>, B<sub>1</sub> &gt; B<sub>2</sub> 또는 A<sub>1</sub> &gt; A<sub>2</sub>, B<sub>1</sub> &lt; B<sub>2</sub>를 만족한다면 두 간선을 교차한다고 한다.</li>
 </ul>
 
-<p style="text-align: center;"><img alt="" height="227" src="%EB%B0%B1%EC%A4%80/Platinum/1615.%E2%80%85%EA%B5%90%EC%B0%A8%EA%B0%9C%EC%88%98%EC%84%B8%EA%B8%B0/73e43308.png" data-original-src="https://www.acmicpc.net/upload/201004/ryck.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" width="152" /></p>
+<p style="text-align: center;"><img alt="" height="227" src="%EB%B0%B1%EC%A4%80/Platinum/1615.%E2%80%85%EA%B5%90%EC%B0%A8%EA%B0%9C%EC%88%98%EC%84%B8%EA%B8%B0/73e43308.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/1615.%E2%80%85%EA%B5%90%EC%B0%A8%EA%B0%9C%EC%88%98%EC%84%B8%EA%B8%B0/73e43308.png" data-original-src="https://www.acmicpc.net/upload/201004/ryck.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" width="152" /></p>
 
 <p>예를 들어 위에 예에서 (3, 2)는 (1, 5)와 (5, 1)과 교차한다. 이 문제를 해결하는 프로그램을 작성하시오.</p>
 

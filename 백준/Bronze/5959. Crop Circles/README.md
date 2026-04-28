@@ -22,7 +22,7 @@
 
 <p>By way of example, consider these six cows with indicated locations and radii (don&#39;t confuse radius with diameter!):</p>
 
-<p><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/5959/1.jpg" style="height:153px; width:489px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/5959.%E2%80%85Crop%E2%80%85Circles/5979638f.jpg" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/5959/1.jpg" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:153px; width:489px" /></p>
 
 <p>By visual inspection, we can see and count the overlaps, as shown.</p>
 

@@ -20,11 +20,11 @@
 
 <p>민식이는 자기가 조사한 개의 수를 가지고 원형 차트를 만들었다. 10, 40, 10, 40 일때의 차트 모양은 다음과 같다.</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/1239.%E2%80%85%EC%B0%A8%ED%8A%B8/af2ca7d3.png" data-original-src="https://www.acmicpc.net/upload/201004/c1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/1239.%E2%80%85%EC%B0%A8%ED%8A%B8/af2ca7d3.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/1239.%E2%80%85%EC%B0%A8%ED%8A%B8/af2ca7d3.png" data-original-src="https://www.acmicpc.net/upload/201004/c1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>또, 10, 40, 50 일때의 차트 모양은 다음과 같다.</p>
 
-<p><img alt="" height="187" src="%EB%B0%B1%EC%A4%80/Gold/1239.%E2%80%85%EC%B0%A8%ED%8A%B8/bebad620.png" data-original-src="https://www.acmicpc.net/upload/201004/c2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" width="208" /></p>
+<p><img alt="" height="187" src="%EB%B0%B1%EC%A4%80/Gold/1239.%E2%80%85%EC%B0%A8%ED%8A%B8/bebad620.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/1239.%E2%80%85%EC%B0%A8%ED%8A%B8/bebad620.png" data-original-src="https://www.acmicpc.net/upload/201004/c2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" width="208" /></p>
 
 <p>민식이가 조사한 데이터를 이용해서 차트를 만들 수 있는 방법은 여러 가지가 존재한다. 민식이는 그 중에, 원의 중심을 지나는 선의 개수를 최대로 하고 싶어한다. (원의 중심을 지나는 선이란, 원을 이등분하는 선)</p>
 

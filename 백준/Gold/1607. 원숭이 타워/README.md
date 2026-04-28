@@ -20,7 +20,7 @@
 
 <p>원숭이 타워는 원숭이들이 만든 것이라고는 하지만 원숭이들의 창의력이 부족하여 실제로는 하노이지방의 하노이타워를 응용하여 만든 탑이다. 이제 그 탑을 살펴보자.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/1607.%E2%80%85%EC%9B%90%EC%88%AD%EC%9D%B4%E2%80%85%ED%83%80%EC%9B%8C/5dd9cbc8.png" data-original-src="https://www.acmicpc.net/upload/201004/montower.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:178px; width:253px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/1607.%E2%80%85%EC%9B%90%EC%88%AD%EC%9D%B4%E2%80%85%ED%83%80%EC%9B%8C/5dd9cbc8.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/1607.%E2%80%85%EC%9B%90%EC%88%AD%EC%9D%B4%E2%80%85%ED%83%80%EC%9B%8C/5dd9cbc8.png" data-original-src="https://www.acmicpc.net/upload/201004/montower.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:178px; width:253px" /></p>
 
 <p>위의 그림에 잘 나타나있다. 원숭이 타워가 하노이타워와 다른 점은 기둥을 네 개를 쓴다는 점이다. 이 탑의 목적은 하노이타워와 마찬가지로 디스크들을 1번 기둥에서 4번 기둥으로 모두 옮기는 것이다. 물론, 하노이타워의 규칙을 똑같이 적용해서 옮겨야 한다.</p>
 

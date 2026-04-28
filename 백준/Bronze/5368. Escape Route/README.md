@@ -27,7 +27,7 @@
 
 <p>The two dimensional location of an object (i.e., your ship, imperial warship, or planet) corresponds to its location in the grid. For example given a 4x4 grid the locations are specified by the following table.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/e4fd9605-9acb-4aa8-b0b4-5d42afff8740/-/preview/" style="width: 187px; height: 85px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/5368.%E2%80%85Escape%E2%80%85Route/58086709.png" data-original-src="https://upload.acmicpc.net/e4fd9605-9acb-4aa8-b0b4-5d42afff8740/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 187px; height: 85px;" /></p>
 
 <p>Recall that the distance between two points (x1, y1) and (x2, y2) is given by the formula</p>
 

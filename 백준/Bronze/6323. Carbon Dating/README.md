@@ -30,7 +30,7 @@
 
 <p>So, for example, if we measure in a sample of one gram of carbon 405 decays per hour, we know that it is approximately 5730 years old.</p>
 
-<p style="text-align: center;"><img alt="" src="/upload/images2/carbon.png" style="height:364px; width:533px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/6323.%E2%80%85Carbon%E2%80%85Dating/da50a314.png" data-original-src="https://www.acmicpc.net/upload/images2/carbon.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:364px; width:533px" /></p>
 
 ### 입력
 

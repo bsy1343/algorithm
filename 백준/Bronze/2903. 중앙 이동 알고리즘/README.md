@@ -34,9 +34,9 @@
 <table class="table table-bordered td-center">
 	<tbody>
 		<tr>
-			<td><img alt="" src="https://upload.acmicpc.net/5e446f0f-613c-4ce0-a626-6b0c2729ed1e/-/preview/" style="width: 214px; height: 213px;" /></td>
-			<td><img alt="" src="https://upload.acmicpc.net/65c1bcf1-7d8a-463b-91df-d6cabcc2ceae/-/preview/" style="width: 212px; height: 213px;" /></td>
-			<td><img alt="" src="https://upload.acmicpc.net/27b99467-cfdf-4ce3-a0b0-2897747edcf9/-/preview/" style="width: 212px; height: 213px;" /></td>
+			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/2903.%E2%80%85%EC%A4%91%EC%95%99%E2%80%85%EC%9D%B4%EB%8F%99%E2%80%85%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/5b015088.png" data-original-src="https://upload.acmicpc.net/5e446f0f-613c-4ce0-a626-6b0c2729ed1e/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 214px; height: 213px;" /></td>
+			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/2903.%E2%80%85%EC%A4%91%EC%95%99%E2%80%85%EC%9D%B4%EB%8F%99%E2%80%85%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/895b9fe3.png" data-original-src="https://upload.acmicpc.net/65c1bcf1-7d8a-463b-91df-d6cabcc2ceae/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 212px; height: 213px;" /></td>
+			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/2903.%E2%80%85%EC%A4%91%EC%95%99%E2%80%85%EC%9D%B4%EB%8F%99%E2%80%85%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/a246ce77.png" data-original-src="https://upload.acmicpc.net/27b99467-cfdf-4ce3-a0b0-2897747edcf9/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 212px; height: 213px;" /></td>
 		</tr>
 		<tr>
 			<td>초기 상태 - 점 4개</td>

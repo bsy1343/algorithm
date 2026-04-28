@@ -18,9 +18,9 @@
 
 <p>세계적으로 유명한 엄지민 자동차 회사는 효율적인 킥다운 장치를 만들어달라는 의뢰를 받았다. 킥다운이란 자동차에서 낮은 기어로 바꾸는 장치를 의미한다. 연구 끝에 효율적인 킥다운 장치는 &#39;이&#39;와 &#39;홈&#39;이 불규칙하게 배열되어 있는 기어로 만들어져야 한다는 것을 알았다.</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/1195.%E2%80%85%ED%82%A5%EB%8B%A4%EC%9A%B4/f4ebdd91.jpg" data-original-src="https://www.acmicpc.net/upload/201003/p1p1p1.JPG" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:59px; width:277px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/1195.%E2%80%85%ED%82%A5%EB%8B%A4%EC%9A%B4/f4ebdd91.jpg" data-original-src="%EB%B0%B1%EC%A4%80/Silver/1195.%E2%80%85%ED%82%A5%EB%8B%A4%EC%9A%B4/f4ebdd91.jpg" data-original-src="https://www.acmicpc.net/upload/201003/p1p1p1.JPG" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:59px; width:277px" /></p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/1195.%E2%80%85%ED%82%A5%EB%8B%A4%EC%9A%B4/b3e1dfdd.jpg" data-original-src="https://www.acmicpc.net/upload/201003/p2p2p2.JPG" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:40px; width:279px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/1195.%E2%80%85%ED%82%A5%EB%8B%A4%EC%9A%B4/b3e1dfdd.jpg" data-original-src="%EB%B0%B1%EC%A4%80/Silver/1195.%E2%80%85%ED%82%A5%EB%8B%A4%EC%9A%B4/b3e1dfdd.jpg" data-original-src="https://www.acmicpc.net/upload/201003/p2p2p2.JPG" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:40px; width:279px" /></p>
 
 <p>첫 번째 그림과 같이 두 기어 파트가 서로 마주보고 있게 된다. 튀어나온 것이 기어의 이,&nbsp;들어간 곳이 홈이다. 그리고 이들을 두 번째 그림과 같이 서로 맞물리게 끼우는 것으로 킥다운 장치를 만들 수 있다. 하지만 문제는 맞물리게 하였을 때 가로 너비가 짧을수록 효율적인 킥다운 장치가 된다. 때문에 문제는 두 기어가 주어졌을 때 맞물리게 하는 가장 짧은 가로 너비를 구하는 것이다.</p>
 

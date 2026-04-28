@@ -22,7 +22,7 @@
 
 <p>예를 들어 아래 그림을 보자. 비 상가 지역의 경우 블록 한 변을 이동하는데 걸리는 시간을 10이라고 하고, 각 상가 지역 A, B, C, D의 블록 한 변 이동 시간을 각각 44, 33, 22, 11이라고 하자. 그러면 두 위치 (1, 6)과 (15, 3) 사이의 가장 빠른 경로는 그림에서 표시된 것과 같이 총 길이가 19, 총 소요 시간이 192인 경로이다. 반면에 상가 지역을 전혀 통과하지 않는 경로 중 가장 빠른 경로는 길이가 21이며 총 소요 시간이 210이다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/1220.%E2%80%85MEGACITY/d694323e.png" data-original-src="https://upload.acmicpc.net/e7539fb5-3e65-499b-9071-ac7e94d59051/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 381px; height: 253px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/1220.%E2%80%85MEGACITY/d694323e.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/1220.%E2%80%85MEGACITY/d694323e.png" data-original-src="https://upload.acmicpc.net/e7539fb5-3e65-499b-9071-ac7e94d59051/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 381px; height: 253px;" /></p>
 
 <p>MegaCity에서 주어진 두 지점 사이의 가장 빠른 경로의 소요 시간을 구하는 프로그램을 작성하시오.</p>
 

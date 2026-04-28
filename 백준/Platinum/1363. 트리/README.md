@@ -24,7 +24,7 @@
 
 <p>이진탐색트리란 자신의 왼쪽과 오른쪽 서브트리가 모두 이진탐색트리이고 왼쪽 서브트리의 모든 노드의 key 값이 루트의 key 값보다 작고 오른쪽 서브트리의 모든 key 값이 루트의 key 값보다 큰 이진 트리를 말한다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/1363.%E2%80%85%ED%8A%B8%EB%A6%AC/98c979f1.jpg" data-original-src="https://www.acmicpc.net/upload/201004/tree.JPG" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:218px; width:345px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/1363.%E2%80%85%ED%8A%B8%EB%A6%AC/98c979f1.jpg" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/1363.%E2%80%85%ED%8A%B8%EB%A6%AC/98c979f1.jpg" data-original-src="https://www.acmicpc.net/upload/201004/tree.JPG" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:218px; width:345px" /></p>
 
 <p>트리(a)는 1, 3, 7, 11의 key 값으로 구성된 이진트리라는 것을 알 수 있다. 위의 세 개의 트리 중 이진탐색트리인 것은 (b)와 (c)이다. 그리고 트리(a),(b)의 루트는 1이고 트리(c)의 루트는 7이라는 것을 알 수 있다.</p>
 

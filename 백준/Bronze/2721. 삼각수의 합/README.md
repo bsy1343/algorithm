@@ -18,7 +18,7 @@
 
 <p>n번째 삼각수, T(n)은 1부터 n까지의 합이다. T(n) = 1 + ... + n. 이것은 삼각형 모양으로 표현할 수 있다. 아래 그림은 T(4)를 나타낸 것이다.</p>
 
-<p><img alt="" src="/upload/images/tsum.png" style="height:90px; width:87px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/2721.%E2%80%85%EC%82%BC%EA%B0%81%EC%88%98%EC%9D%98%E2%80%85%ED%95%A9/64745793.png" data-original-src="https://www.acmicpc.net/upload/images/tsum.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:90px; width:87px" /></p>
 
 <p>다음과 같은 식을 통해 가중치를 부여한 삼각수의 합을 구할 수 있다.</p>
 

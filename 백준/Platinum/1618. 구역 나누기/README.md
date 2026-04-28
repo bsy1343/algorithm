@@ -18,7 +18,7 @@
 
 <p>수평으로 n개, 수직으로 m개의 길이 나 있는 도시가 있다. 이 길들에 의해서, 도시는 (n+1)&times;(m+1)개의 소구역으로 나눠지며, 각각의 소구역에는 몇 명의 사람들이 살고있다. n=2, m=3일때의 예를 들면, 아래의 그림과 같은 구조이다.</p>
 
-<p style="text-align: center;"><img alt="" height="144" src="%EB%B0%B1%EC%A4%80/Platinum/1618.%E2%80%85%EA%B5%AC%EC%97%AD%E2%80%85%EB%82%98%EB%88%84%EA%B8%B0/00b430de.png" data-original-src="https://www.acmicpc.net/upload/201004/rndur.PNG" onerror="this.onerror=null;this.src=this.dataset.originalSrc" width="367" /></p>
+<p style="text-align: center;"><img alt="" height="144" src="%EB%B0%B1%EC%A4%80/Platinum/1618.%E2%80%85%EA%B5%AC%EC%97%AD%E2%80%85%EB%82%98%EB%88%84%EA%B8%B0/00b430de.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/1618.%E2%80%85%EA%B5%AC%EC%97%AD%E2%80%85%EB%82%98%EB%88%84%EA%B8%B0/00b430de.png" data-original-src="https://www.acmicpc.net/upload/201004/rndur.PNG" onerror="this.onerror=null;this.src=this.dataset.originalSrc" width="367" /></p>
 
 <p>이 길들 중 수평으로 X개, 수직으로 Y개의 길을 택해서 도시를 재조정 하려고 한다. 이렇게 될 경우, 도시는 (X+1)&times;(Y+1)개의 구역으로 다시 나뉜다. 이렇게 나뉘어진 구역중, 사람이 제일 많이 살고있는 구역의 사람의 수가 최소가 되도록 도시를 재조정 하려고 한다. 위의 위의 예제에서 X=1, Y=2일때의 최적해는 굵은 선과 같으며, 이때는 모든 구역의 사람의 수가 20이 된다.</p>
 

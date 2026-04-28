@@ -18,7 +18,7 @@
 
 <p>이진법 시계는&nbsp;60초-60분-1시간 체계의 일반적인 시간을 이진수로 표시해주는 시계이다. 일반적으로는 3행 혹은&nbsp;3열의 LED에 0 또는 1을 표시하여 시간을 표시하는 방식이 주로 쓰인다.</p>
 
-<p><img src="https://www.acmicpc.net/upload/images/binaryclock.png" style="background-color:initial" /></p>
+<p><img src="%EB%B0%B1%EC%A4%80/Bronze/2704.%E2%80%85%EC%9D%B4%EC%A7%84%EB%B2%95%E2%80%85%EC%8B%9C%EA%B3%84/dcc85306.png" data-original-src="https://www.acmicpc.net/upload/images/binaryclock.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="background-color:initial" /></p>
 
 <p>3열&nbsp;방식은 위 왼쪽 그림과&nbsp;같이 6행 3열로 이루어져 있다.&nbsp;각 열은 왼쪽부터 차례대로 시간, 분, 초를 나타낸다. 각 행은 첫&nbsp;행의&nbsp;수는 2 <sup>5</sup>를 나타내고 그 아래 수는 2<sup>4</sup>를, 그렇게 6행은&nbsp;1까지의 값을 갖는다.</p>
 

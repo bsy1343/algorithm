@@ -30,7 +30,7 @@
 
 <p>선수들의 위치가 주어질 때, 링크 안 또는 경계에 있는 선수가 총 몇 명인지 구하는 프로그램을 작성하시오.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/1358.%E2%80%85%ED%95%98%ED%82%A4/cf9712e0.png" data-original-src="https://upload.acmicpc.net/6f83923c-f223-4005-b69e-7a7a3365d51c/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/1358.%E2%80%85%ED%95%98%ED%82%A4/cf9712e0.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/1358.%E2%80%85%ED%95%98%ED%82%A4/cf9712e0.png" data-original-src="https://upload.acmicpc.net/6f83923c-f223-4005-b69e-7a7a3365d51c/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 ### 입력
 

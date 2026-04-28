@@ -18,7 +18,7 @@
 
 <p>Little Bob likes playing with his box of bricks. He puts the bricks one upon another and builds stacks of different height. &ldquo;Look, I&rsquo;ve built a wall!&rdquo;, he tells his older sister Alice. &ldquo;Nah, you should make all stacks the same height. Then you would have a real wall.&rdquo;, she retorts. After a little consideration, Bob sees that she is right. So he sets out to rearrange the bricks, one by one, such that all stacks are the same height afterwards. But since Bob is lazy he wants to do this with the minimum number of bricks moved. Can you help?</p>
 
-<p style="text-align: center;"><img alt="" src="/upload/images2/brick.png" style="height:132px; width:428px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/6318.%E2%80%85Box%E2%80%85of%E2%80%85Bricks/63468c16.png" data-original-src="https://www.acmicpc.net/upload/images2/brick.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:132px; width:428px" /></p>
 
 ### 입력
 

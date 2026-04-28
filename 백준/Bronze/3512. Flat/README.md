@@ -42,4 +42,4 @@
 
 <p>The figure shows the flat from the first example.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/86c64b4c-5556-4e3c-826d-ac4941d8e379/-/preview/" style="width: 438px; height: 86px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/3512.%E2%80%85Flat/279c2c21.png" data-original-src="https://upload.acmicpc.net/86c64b4c-5556-4e3c-826d-ac4941d8e379/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 438px; height: 86px;" /></p>

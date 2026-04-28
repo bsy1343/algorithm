@@ -306,10 +306,10 @@
   .jobs-title { font-size: 22px; font-weight: 600; color: var(--text); }
   .jobs-meta { font-size: 11px; color: var(--text3); font-family: var(--mono); }
   .jobs-meta .ok { color: var(--accent); }
-  .jobs-layout { display: grid; grid-template-columns: 1fr 360px; gap: 24px; }
+  .jobs-layout { display: grid; grid-template-columns: 1fr 360px; gap: 24px; align-items: stretch; }
   @media (max-width: 1100px) { .jobs-layout { grid-template-columns: 1fr; } }
 
-  .calendar-card { background: var(--bg2); border: 1px solid var(--border); border-radius: var(--radius); padding: 16px; }
+  .calendar-card { background: var(--bg2); border: 1px solid var(--border); border-radius: var(--radius); padding: 16px; height: fit-content; }
   .cal-nav { display: flex; align-items: center; gap: 12px; margin-bottom: 14px; }
   .cal-nav .month { font-size: 15px; font-weight: 600; color: var(--text); flex: 1; font-family: var(--mono); }
   .cal-nav button {
@@ -318,10 +318,10 @@
     cursor: pointer; font-family: var(--mono);
   }
   .cal-nav button:hover { color: var(--text); border-color: var(--border2); }
-  .cal-grid { display: grid; grid-template-columns: repeat(7, 1fr); gap: 4px; }
-  .cal-dow { font-size: 10px; color: var(--text3); padding: 4px; text-align: center; font-family: var(--mono); letter-spacing: 0.04em; }
+  .cal-grid { display: grid; grid-template-columns: repeat(7, 1fr); gap: 2px; }
+  .cal-dow { font-size: 10px; color: var(--text3); padding: 2px; text-align: center; font-family: var(--mono); letter-spacing: 0.04em; }
   .cal-cell {
-    aspect-ratio: 1.1; padding: 6px;
+    aspect-ratio: 1.5; padding: 4px 5px;
     background: var(--bg3); border: 1px solid transparent; border-radius: var(--radius-sm);
     cursor: default; position: relative; overflow: hidden;
   }
@@ -330,14 +330,26 @@
   .cal-cell.has-jobs:hover { border-color: var(--border2); }
   .cal-cell.active { border-color: var(--accent); background: var(--bg); }
   .cal-cell.today { box-shadow: inset 0 0 0 1px var(--gold); }
-  .cal-day { font-size: 11px; color: var(--text2); font-family: var(--mono); margin-bottom: 4px; }
+  .cal-day { font-size: 10px; color: var(--text2); font-family: var(--mono); margin-bottom: 2px; line-height: 1.2; }
   .cal-cell.today .cal-day { color: var(--gold); font-weight: 600; }
   .cal-dots { display: flex; flex-wrap: wrap; gap: 2px; }
-  .cal-dot { width: 6px; height: 6px; border-radius: 50%; }
-  .cal-count { font-size: 10px; color: var(--text3); font-family: var(--mono); }
+  .cal-dot { width: 5px; height: 5px; border-radius: 50%; }
+  .cal-count { font-size: 9px; color: var(--text3); font-family: var(--mono); }
 
-  .jobs-side { display: flex; flex-direction: column; gap: 16px; }
-  .jobs-list-card { background: var(--bg2); border: 1px solid var(--border); border-radius: var(--radius); padding: 16px; }
+  .jobs-side {
+    display: flex; flex-direction: column; gap: 16px;
+    max-height: calc(100vh - 220px); min-height: 0;
+  }
+  .jobs-list-card {
+    background: var(--bg2); border: 1px solid var(--border); border-radius: var(--radius);
+    padding: 16px; flex: 1; min-height: 0;
+    display: flex; flex-direction: column;
+    overflow-y: auto;
+  }
+  .jobs-list-card .jobs-list-title { flex-shrink: 0; }
+  .jobs-list-card::-webkit-scrollbar { width: 4px; }
+  .jobs-list-card::-webkit-scrollbar-track { background: transparent; }
+  .jobs-list-card::-webkit-scrollbar-thumb { background: var(--border); border-radius: 2px; }
   .jobs-list-title { font-size: 12px; color: var(--text2); font-family: var(--mono); margin-bottom: 12px; letter-spacing: 0.04em; }
   .job-item {
     padding: 10px; background: var(--bg3); border-radius: var(--radius-sm);
@@ -1603,6 +1615,11 @@
       document.getElementById('cal-prev').onclick = () => { vm.setMonth(month - 1); this.renderCalendar(); };
       document.getElementById('cal-next').onclick = () => { vm.setMonth(month + 1); this.renderCalendar(); };
       document.getElementById('cal-today').onclick = () => { this.state.viewMonth = new Date(); this.state.selectedDate = null; this.renderCalendar(); this.renderList(); };
+      // Sync right-panel height to calendar so urgent + standing cards split that height (and scroll inside).
+      requestAnimationFrame(() => {
+        const sideEl = document.querySelector('.jobs-side');
+        if (sideEl) sideEl.style.maxHeight = root.offsetHeight + 'px';
+      });
       root.querySelectorAll('.cal-cell.has-jobs').forEach(el => {
         el.onclick = () => {
           this.state.selectedDate = el.dataset.date;

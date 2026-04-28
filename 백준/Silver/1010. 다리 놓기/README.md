@@ -20,7 +20,7 @@
 
 <p>재원이는 서쪽의 사이트와 동쪽의 사이트를 다리로 연결하려고 한다. (이때 한 사이트에는 최대 한 개의 다리만 연결될 수 있다.) 재원이는 다리를 최대한 많이 지으려고 하기 때문에 서쪽의 사이트 개수만큼 (N개) 다리를 지으려고 한다. 다리끼리는 서로 겹쳐질 수 없다고 할 때 다리를 지을 수 있는 경우의 수를 구하는 프로그램을 작성하라.</p>
 
-<p><img alt="" src="/upload/201003/pic1.JPG" style="height:353px; width:329px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/1010.%E2%80%85%EB%8B%A4%EB%A6%AC%E2%80%85%EB%86%93%EA%B8%B0/b3847abe.jpg" data-original-src="https://www.acmicpc.net/upload/201003/pic1.JPG" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:353px; width:329px" /></p>
 
 ### 입력
 

@@ -18,7 +18,7 @@
 
 <p>N<sup>2</sup>개의 동전이 N행 N열을 이루어 탁자 위에 놓여 있다. 그 중 일부는 앞면(H)이 위를 향하도록 놓여 있고, 나머지는 뒷면(T)이 위를 향하도록 놓여 있다. &lt;그림 1&gt;은 N이 3일 때의 예이다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/ccc3937a-da21-460e-b1f4-2ee861f03995/-/preview/" style="width: 150px; height: 151px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/1285.%E2%80%85%EB%8F%99%EC%A0%84%E2%80%85%EB%92%A4%EC%A7%91%EA%B8%B0/c729f955.png" data-original-src="https://upload.acmicpc.net/ccc3937a-da21-460e-b1f4-2ee861f03995/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 150px; height: 151px;" /></p>
 
 <p style="text-align: center;">&lt;그림 1&gt;</p>
 
@@ -27,8 +27,8 @@
 <table class="table table-bordered td-center">
 	<tbody>
 		<tr>
-			<td><img alt="" src="https://upload.acmicpc.net/410bd5fd-cb16-4bfb-83af-7edd9882e188/-/preview/" style="width: 150px; height: 151px;" /></td>
-			<td><img alt="" src="https://upload.acmicpc.net/ae08cc98-4db2-4df7-8bb6-0149d1ca59ba/-/preview/" style="width: 150px; height: 151px;" /></td>
+			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/1285.%E2%80%85%EB%8F%99%EC%A0%84%E2%80%85%EB%92%A4%EC%A7%91%EA%B8%B0/5cb5d008.png" data-original-src="https://upload.acmicpc.net/410bd5fd-cb16-4bfb-83af-7edd9882e188/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 150px; height: 151px;" /></td>
+			<td><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/1285.%E2%80%85%EB%8F%99%EC%A0%84%E2%80%85%EB%92%A4%EC%A7%91%EA%B8%B0/7aed4df6.png" data-original-src="https://upload.acmicpc.net/ae08cc98-4db2-4df7-8bb6-0149d1ca59ba/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 150px; height: 151px;" /></td>
 		</tr>
 		<tr>
 			<td>&lt;그림 2&gt;</td>

@@ -22,7 +22,7 @@
 
 <p>이러한 직사각형 격자 위에 다각형이 그려져 있다. 볼록 다각형은 아니지만, 자기 자신과 교차하거나 만나지 않는 단순 다각형이다. 이러한 다각형을 그리면 각 픽셀은 적절한 부분만 다각형 내부에 포함되게 된다. 예를 들어 아래 그림을 보자.</p>
 
-<p><img alt="" src="/upload/201004/ascii.png" style="height:215px; width:236px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/1597.%E2%80%85%EC%95%84%EC%8A%A4%ED%82%A4%E2%80%85%EC%95%84%ED%8A%B8/2c875181.png" data-original-src="https://www.acmicpc.net/upload/201004/ascii.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:215px; width:236px" /></p>
 
 <p>이제 우리는 각 픽셀을 하나의 아스키 코드 문자로 표현할 것이다. 단순히, 다각형 내부에 포함되어 있는 부분의 비율로만 판단하여, 다음과 같이 각각의 아스키 코드로 표현하기로 한다.</p>
 

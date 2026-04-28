@@ -25,8 +25,8 @@
 <table class="table table-bordered td-center">
 	<tbody>
 		<tr>
-			<td style="width:50%;"><img alt="" src="https://upload.acmicpc.net/914de249-cbd7-426c-9864-cb9e15bac82b/-/preview/" style="width: 290px; height: 176px;" /></td>
-			<td style="width:50%;"><img alt="" src="https://upload.acmicpc.net/6298c0a1-72b7-46ce-a5ea-80585dde87e6/-/preview/" style="width: 291px; height: 176px;" /></td>
+			<td style="width:50%;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/1276.%E2%80%85PLATFORME/9441ac83.png" data-original-src="https://upload.acmicpc.net/914de249-cbd7-426c-9864-cb9e15bac82b/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 290px; height: 176px;" /></td>
+			<td style="width:50%;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/1276.%E2%80%85PLATFORME/5875e56b.png" data-original-src="https://upload.acmicpc.net/6298c0a1-72b7-46ce-a5ea-80585dde87e6/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 291px; height: 176px;" /></td>
 		</tr>
 		<tr>
 			<td style="width:50%;">Example level with three platforms. The lowest platform is at altitude 1, the second lowest at altitude 3 and the third at altitude 5.</td>

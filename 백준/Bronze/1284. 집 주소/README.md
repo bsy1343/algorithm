@@ -24,7 +24,7 @@
 	<li><span style="font-family:Arial,&quot;Helvetica Neue&quot;,Helvetica,Tahoma,sans-serif">호수판의 경계와 숫자 사이에는 1cm의 여백이 들어가야한다.</span></li>
 </ol>
 
-<p><img alt="120.png" src="https://upload.acmicpc.net/f203f2d5-ff6a-4afb-9cfe-226612dd4095/-/preview/" style="height:121px; width:213px" /></p>
+<p><img alt="120.png" src="%EB%B0%B1%EC%A4%80/Bronze/1284.%E2%80%85%EC%A7%91%E2%80%85%EC%A3%BC%EC%86%8C/542a5e94.png" data-original-src="https://upload.acmicpc.net/f203f2d5-ff6a-4afb-9cfe-226612dd4095/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:121px; width:213px" /></p>
 
 <p><span style="font-family:Arial,&quot;Helvetica Neue&quot;,Helvetica,Tahoma,sans-serif">예를 들어 위의 120 같은 경우,&nbsp;</span>&nbsp;각 숫자 사이에 여백이 1cm 씩 2개 들어간다. 1은 2cm, 2는 3cm, 0은 4cm를 차지한다. 오른쪽, 왼쪽 경계에서 각각 여백이 1cm씩 차지한다. 따라서 총 2 + 2 + 3 + 4 + 1 + 1 = 13(cm) 가 된다.</p>
 

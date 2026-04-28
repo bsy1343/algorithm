@@ -20,13 +20,13 @@
 
 <p>놀이의 방법은 간단하다. 일단 4줄짜리 표에 왼쪽부터 수를 아래로 1부터 순서대로 적어나간다. 다음에 그 예가 잘 나타나있다.</p>
 
-<p style="text-align: center;"><img alt="" height="131" src="/upload/201004/psw1.png" width="361" /></p>
+<p style="text-align: center;"><img alt="" height="131" src="%EB%B0%B1%EC%A4%80/Bronze/1598.%E2%80%85%EA%BC%AC%EB%A6%AC%EB%A5%BC%E2%80%85%EB%AC%B4%EB%8A%94%E2%80%85%EC%88%AB%EC%9E%90%E2%80%85%EB%82%98%EC%97%B4/ef49d250.png" data-original-src="https://www.acmicpc.net/upload/201004/psw1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" width="361" /></p>
 
 <p>이제 원숭이는 두 개의 자연수를 아무거나 생각한다. 그리고 숫자판에서 두 개의 자연수 사이의 직각거리를 구하면 된다. 여기서 직각거리는 동서방향거리와 남북방향거리의 합을 뜻한다.</p>
 
 <p>예를 들어 저 숫자판에서 11과 33을 생각했다고 하자. 그렇다면 11과 33사이의 직각거리는 8이 된다.(동서방향거리 : 6, 남북방향거리 : 2) 다음 그림에 잘 나타나있다.</p>
 
-<p style="text-align: center;"><img alt="" height="124" src="/upload/201004/psw2.png" width="354" /></p>
+<p style="text-align: center;"><img alt="" height="124" src="%EB%B0%B1%EC%A4%80/Bronze/1598.%E2%80%85%EA%BC%AC%EB%A6%AC%EB%A5%BC%E2%80%85%EB%AC%B4%EB%8A%94%E2%80%85%EC%88%AB%EC%9E%90%E2%80%85%EB%82%98%EC%97%B4/e1f7b993.png" data-original-src="https://www.acmicpc.net/upload/201004/psw2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" width="354" /></p>
 
 <p>하지만 원숭이는 지금 혼란스럽다. 동물원에서 탈출한지 얼마 되지 않아서 계산을 할 수 없는 경지에 이르렀다. 여러분이 불쌍한 원숭이를 좀 도와줘야겠다. 원숭이가 생각한 두 자연수 사이의 직각거리를 구하는 프로그램을 작성하시오.</p>
 

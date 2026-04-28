@@ -22,7 +22,7 @@
 
 <p>방학 문자열은 0과 1로 이루어진 무한한 문자열이다. i번째 문자는(1번부터 시작) i인 방학친구가 있으면 1, 없으면 0이다.</p>
 
-<p><img alt="" src="/upload/201004/cycl.png" style="height:151px; width:169px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/1567.%E2%80%85%EB%AA%A8%EB%93%A0%E2%80%85%EC%82%AC%EC%9D%B4%ED%81%B4%EC%9D%98%E2%80%85%EA%B8%B8%EC%9D%B4/607c798a.png" data-original-src="https://www.acmicpc.net/upload/201004/cycl.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:151px; width:169px" /></p>
 
 <p>위과 같은 나라가 주어졌을 때, 방학 문자열은 00110111111111.........이다. 0 &rarr; 1 &rarr; 3 &rarr; 0은 길이가 3이고, 0 &rarr; 1 &rarr; 2 &rarr; 3 &rarr; 0은 길이가 4이고, 0 &rarr; 1 &rarr; 3&rarr;0 &rarr; 1 &rarr; 3 &rarr; 0은 길이가 6이다. 그런데, 이 무한한 문자열에 주기가 보인다면, 주기를 괄호로 묶어서 간단하게 표현할 수 있다. 따라서, 위의 문자열은 00110(1) 또는, 00110111(11)과 같이 나타낼 수 있지만, 가장 길이가 짧은 것을 선택하기로 한다.</p>
 

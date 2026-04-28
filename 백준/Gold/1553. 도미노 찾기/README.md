@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/upload/201004/do.png" style="height:300px; width:300px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/1553.%E2%80%85%EB%8F%84%EB%AF%B8%EB%85%B8%E2%80%85%EC%B0%BE%EA%B8%B0/2dd59c92.png" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/upload/201004/do.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:300px; width:300px" /></p>
 
 <p>도미노의 크기는 1&times;2이고, 크기가 1&times;1인 칸으로 나누어져 있다. 칸은&nbsp;수를 나타내며,&nbsp;위와 같이 총 28가지가 있다.</p>
 

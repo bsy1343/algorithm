@@ -20,7 +20,7 @@
 
 <p>그곳에 있는 벌들에 의하면 방의 번호는 다음과 같이 붙는다.</p>
 
-<p style="text-align: center;"><img alt="" height="297" src="/upload/201004/hive.PNG" width="274" /></p>
+<p style="text-align: center;"><img alt="" height="297" src="%EB%B0%B1%EC%A4%80/Platinum/1385.%E2%80%85%EB%B2%8C%EC%A7%91/a81a916d.png" data-original-src="https://www.acmicpc.net/upload/201004/hive.PNG" onerror="this.onerror=null;this.src=this.dataset.originalSrc" width="274" /></p>
 
 <p>지민이는 지금 a번 방에 있다. b번 방이 출구인데 어떻게 이동해야 할까? 집에는 민식이가 기다리고 있기 때문에, 가장 빠르게 탈출하기 위해 최단거리로 움직이고 싶다.</p>
 

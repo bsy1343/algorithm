@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p><img alt="" height="424" src="/upload/201004/cscc.PNG" width="275" /></p>
+<p><img alt="" height="424" src="%EB%B0%B1%EC%A4%80/Gold/1621.%E2%80%85%EC%A1%B0%EC%82%BC%EB%AA%A8%EC%82%AC/f58898fd.png" data-original-src="https://www.acmicpc.net/upload/201004/cscc.PNG" onerror="this.onerror=null;this.src=this.dataset.originalSrc" width="275" /></p>
 
 <p>조삼모사에 대한 자세한 설명은 위의 만화로 대신한다.</p>
 

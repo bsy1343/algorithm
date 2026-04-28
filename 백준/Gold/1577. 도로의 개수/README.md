@@ -20,7 +20,7 @@
 
 <p>따라서, 아래 그림과 같이 생겼다.</p>
 
-<p><img alt="" height="230" src="/upload/201004/doro.png" width="291" /></p>
+<p><img alt="" height="230" src="%EB%B0%B1%EC%A4%80/Gold/1577.%E2%80%85%EB%8F%84%EB%A1%9C%EC%9D%98%E2%80%85%EA%B0%9C%EC%88%98/8ea4bda3.png" data-original-src="https://www.acmicpc.net/upload/201004/doro.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" width="291" /></p>
 
 <p>세준이는 집에서 학교로 가는 길의 경우의 수가 총 몇 개가 있는지 궁금해지기 시작했다.</p>
 

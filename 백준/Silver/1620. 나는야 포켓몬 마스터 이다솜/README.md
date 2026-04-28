@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p><img alt="" src="/upload/201004/p1.PNG" style="height:184px; width:274px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/1620.%E2%80%85%EB%82%98%EB%8A%94%EC%95%BC%E2%80%85%ED%8F%AC%EC%BC%93%EB%AA%AC%E2%80%85%EB%A7%88%EC%8A%A4%ED%84%B0%E2%80%85%EC%9D%B4%EB%8B%A4%EC%86%9C/103425c4.png" data-original-src="https://www.acmicpc.net/upload/201004/p1.PNG" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:184px; width:274px" /></p>
 
 <p>안녕? 내 이름은 이다솜. 나의 꿈은 포켓몬 마스터야. 일단 포켓몬 마스터가 되기 위해선 포켓몬을 한 마리 잡아야겠지? 근처 숲으로 가야겠어.</p>
 
@@ -30,7 +30,7 @@
 
 <p>어? 누구지?</p>
 
-<p><img alt="" src="/upload/201004/p2.PNG" style="height:184px; width:274px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/1620.%E2%80%85%EB%82%98%EB%8A%94%EC%95%BC%E2%80%85%ED%8F%AC%EC%BC%93%EB%AA%AC%E2%80%85%EB%A7%88%EC%8A%A4%ED%84%B0%E2%80%85%EC%9D%B4%EB%8B%A4%EC%86%9C/c1741ac4.png" data-original-src="https://www.acmicpc.net/upload/201004/p2.PNG" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:184px; width:274px" /></p>
 
 <p>오박사 : 나는 태초마을의 포켓몬 박사 오민식 박사라네. 다솜아, 포켓몬을 잡을 때는, 일단 상대 포켓몬의 체력을 적당히 바닥으로 만들어놓고 몬스터 볼을 던져야 한단다. 자, 내 포켓몬 이상해꽃으로 한번 잡아보렴. 포켓몬의 기술을 쓰는 것을 보고 포켓몬을 줄지 안줄지 결정을 하겠네. 자 한번 해보아라. 다솜아.</p>
 
@@ -50,11 +50,11 @@
 
 <p>이다솜 : 네. 야호!!</p>
 
-<p>&#39;<img alt="" src="/upload/201004/p3.PNG" style="height:181px; width:274px" /></p>
+<p>&#39;<img alt="" src="%EB%B0%B1%EC%A4%80/Silver/1620.%E2%80%85%EB%82%98%EB%8A%94%EC%95%BC%E2%80%85%ED%8F%AC%EC%BC%93%EB%AA%AC%E2%80%85%EB%A7%88%EC%8A%A4%ED%84%B0%E2%80%85%EC%9D%B4%EB%8B%A4%EC%86%9C/d3952059.png" data-original-src="https://www.acmicpc.net/upload/201004/p3.PNG" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:181px; width:274px" /></p>
 
 <p>오영식 : 어? 오박사님 얘는 누구인가요?</p>
 
-<p><img alt="" src="/upload/201004/p4.PNG" style="height:182px; width:274px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/1620.%E2%80%85%EB%82%98%EB%8A%94%EC%95%BC%E2%80%85%ED%8F%AC%EC%BC%93%EB%AA%AC%E2%80%85%EB%A7%88%EC%8A%A4%ED%84%B0%E2%80%85%EC%9D%B4%EB%8B%A4%EC%86%9C/310f931e.png" data-original-src="https://www.acmicpc.net/upload/201004/p4.PNG" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:182px; width:274px" /></p>
 
 <p>오박사 : 얘는 너의 라이벌이 될 친구 이다솜이라고 하네. 자, 포켓몬을 한 마리 골라보도록 해봐라 다솜아. 레이디퍼스트 네가 먼저 골라봐라.</p>
 
@@ -66,25 +66,25 @@
 
 <p>이다솜 : 그럼 꼬렛을 다시 잡으러 가야겠다. 영식아, 그리고 민식박사님 빠잉!</p>
 
-<p><img alt="" src="/upload/201004/p5.PNG" style="height:179px; width:274px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/1620.%E2%80%85%EB%82%98%EB%8A%94%EC%95%BC%E2%80%85%ED%8F%AC%EC%BC%93%EB%AA%AC%E2%80%85%EB%A7%88%EC%8A%A4%ED%84%B0%E2%80%85%EC%9D%B4%EB%8B%A4%EC%86%9C/4d11b012.png" data-original-src="https://www.acmicpc.net/upload/201004/p5.PNG" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:179px; width:274px" /></p>
 
 <p>이다솜 : 피카츄 공격!</p>
 
-<p><img alt="" src="/upload/201004/p6.PNG" style="height:182px; width:274px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/1620.%E2%80%85%EB%82%98%EB%8A%94%EC%95%BC%E2%80%85%ED%8F%AC%EC%BC%93%EB%AA%AC%E2%80%85%EB%A7%88%EC%8A%A4%ED%84%B0%E2%80%85%EC%9D%B4%EB%8B%A4%EC%86%9C/ef841441.png" data-original-src="https://www.acmicpc.net/upload/201004/p6.PNG" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:182px; width:274px" /></p>
 
 <p>가라 몬스터 볼!</p>
 
-<p><img alt="" src="/upload/201004/p7.PNG" style="height:184px; width:274px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/1620.%E2%80%85%EB%82%98%EB%8A%94%EC%95%BC%E2%80%85%ED%8F%AC%EC%BC%93%EB%AA%AC%E2%80%85%EB%A7%88%EC%8A%A4%ED%84%B0%E2%80%85%EC%9D%B4%EB%8B%A4%EC%86%9C/44ba2980.png" data-original-src="https://www.acmicpc.net/upload/201004/p7.PNG" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:184px; width:274px" /></p>
 
 <p>이다솜 : 야호! 신난다. 꼬렛을 잡았다!!!!!</p>
 
 <p>이다솜 : 그럼! 일단 사천왕을 이기고 오겠어!</p>
 
-<p><img alt="" src="/upload/201004/p8.PNG" style="height:181px; width:274px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/1620.%E2%80%85%EB%82%98%EB%8A%94%EC%95%BC%E2%80%85%ED%8F%AC%EC%BC%93%EB%AA%AC%E2%80%85%EB%A7%88%EC%8A%A4%ED%84%B0%E2%80%85%EC%9D%B4%EB%8B%A4%EC%86%9C/2596e1d6.png" data-original-src="https://www.acmicpc.net/upload/201004/p8.PNG" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:181px; width:274px" /></p>
 
 <p>이다솜 : 여기가 사천왕과 대결하려면 가야하는 곳인가..</p>
 
-<p><img alt="" src="/upload/201004/p9.PNG" style="height:181px; width:274px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/1620.%E2%80%85%EB%82%98%EB%8A%94%EC%95%BC%E2%80%85%ED%8F%AC%EC%BC%93%EB%AA%AC%E2%80%85%EB%A7%88%EC%8A%A4%ED%84%B0%E2%80%85%EC%9D%B4%EB%8B%A4%EC%86%9C/5c4fb3f4.png" data-original-src="https://www.acmicpc.net/upload/201004/p9.PNG" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:181px; width:274px" /></p>
 
 <p>경비원 : 사천왕과 대결을 하려면, 마을의 체육관 리더를 이겨서 배지를 8개를 모아야 한다네... 배지를 모아서 오도록 하게</p>
 
@@ -94,27 +94,27 @@
 
 <p>그동안의 줄거리 : 이다솜은 일단 상록 숲의 체육관 리더에게 도전을 했다. 하지만 상록숲 체육관의 리더는 실종된 상태. 따라서 회색마을부터 도전하기로 했다. 체육관의 리더를 이기면서, 로켓단을 해체시키기도 하고, 여러 가지 사건도 있었다. 결국 전설의 포켓몬도 잡고, 이제 사천왕을 이기려고 도전하기로 했다. 사천왕은 모두 가볍게 이기고, 이제 마지막 라이벌 오!영!식! 이다.</p>
 
-<p><img alt="" src="/upload/201004/pa.PNG" style="height:183px; width:274px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/1620.%E2%80%85%EB%82%98%EB%8A%94%EC%95%BC%E2%80%85%ED%8F%AC%EC%BC%93%EB%AA%AC%E2%80%85%EB%A7%88%EC%8A%A4%ED%84%B0%E2%80%85%EC%9D%B4%EB%8B%A4%EC%86%9C/d94b3fb2.png" data-original-src="https://www.acmicpc.net/upload/201004/pa.PNG" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:183px; width:274px" /></p>
 
 <p>오영식 : 훗. 1년 전의 그 이다솜이 사천왕을 이기고 현재 포켓몬 마스터인 나에게 덤벼? 어디 한번 덤벼보시지.</p>
 
 <p>이다솜 : 헐랭... 나를 우습게보네.... 한번 두고 보시지! 그럼 대결이닷!</p>
 
-<p><img alt="" src="/upload/201004/pb.PNG" style="height:181px; width:274px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/1620.%E2%80%85%EB%82%98%EB%8A%94%EC%95%BC%E2%80%85%ED%8F%AC%EC%BC%93%EB%AA%AC%E2%80%85%EB%A7%88%EC%8A%A4%ED%84%B0%E2%80%85%EC%9D%B4%EB%8B%A4%EC%86%9C/c9137b51.png" data-original-src="https://www.acmicpc.net/upload/201004/pb.PNG" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:181px; width:274px" /></p>
 
-<p><img alt="" src="/upload/201004/pc.PNG" style="height:183px; width:274px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/1620.%E2%80%85%EB%82%98%EB%8A%94%EC%95%BC%E2%80%85%ED%8F%AC%EC%BC%93%EB%AA%AC%E2%80%85%EB%A7%88%EC%8A%A4%ED%84%B0%E2%80%85%EC%9D%B4%EB%8B%A4%EC%86%9C/0c087b36.png" data-original-src="https://www.acmicpc.net/upload/201004/pc.PNG" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:183px; width:274px" /></p>
 
-<p><img alt="" src="/upload/201004/pd.PNG" style="height:182px; width:274px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/1620.%E2%80%85%EB%82%98%EB%8A%94%EC%95%BC%E2%80%85%ED%8F%AC%EC%BC%93%EB%AA%AC%E2%80%85%EB%A7%88%EC%8A%A4%ED%84%B0%E2%80%85%EC%9D%B4%EB%8B%A4%EC%86%9C/8757402d.png" data-original-src="https://www.acmicpc.net/upload/201004/pd.PNG" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:182px; width:274px" /></p>
 
-<p><img alt="" src="/upload/201004/pe.PNG" style="height:183px; width:274px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/1620.%E2%80%85%EB%82%98%EB%8A%94%EC%95%BC%E2%80%85%ED%8F%AC%EC%BC%93%EB%AA%AC%E2%80%85%EB%A7%88%EC%8A%A4%ED%84%B0%E2%80%85%EC%9D%B4%EB%8B%A4%EC%86%9C/932277a4.png" data-original-src="https://www.acmicpc.net/upload/201004/pe.PNG" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:183px; width:274px" /></p>
 
-<p><img alt="" src="/upload/201004/pf.PNG" style="height:183px; width:274px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/1620.%E2%80%85%EB%82%98%EB%8A%94%EC%95%BC%E2%80%85%ED%8F%AC%EC%BC%93%EB%AA%AC%E2%80%85%EB%A7%88%EC%8A%A4%ED%84%B0%E2%80%85%EC%9D%B4%EB%8B%A4%EC%86%9C/fab8f14c.png" data-original-src="https://www.acmicpc.net/upload/201004/pf.PNG" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:183px; width:274px" /></p>
 
-<p><img alt="" src="/upload/201004/pg.PNG" style="height:181px; width:274px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/1620.%E2%80%85%EB%82%98%EB%8A%94%EC%95%BC%E2%80%85%ED%8F%AC%EC%BC%93%EB%AA%AC%E2%80%85%EB%A7%88%EC%8A%A4%ED%84%B0%E2%80%85%EC%9D%B4%EB%8B%A4%EC%86%9C/0b1c0607.png" data-original-src="https://www.acmicpc.net/upload/201004/pg.PNG" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:181px; width:274px" /></p>
 
-<p><img alt="" src="/upload/201004/ph.PNG" style="height:184px; width:274px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/1620.%E2%80%85%EB%82%98%EB%8A%94%EC%95%BC%E2%80%85%ED%8F%AC%EC%BC%93%EB%AA%AC%E2%80%85%EB%A7%88%EC%8A%A4%ED%84%B0%E2%80%85%EC%9D%B4%EB%8B%A4%EC%86%9C/82e332a6.png" data-original-src="https://www.acmicpc.net/upload/201004/ph.PNG" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:184px; width:274px" /></p>
 
-<p><img alt="" src="/upload/201004/pi.PNG" style="height:184px; width:274px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/1620.%E2%80%85%EB%82%98%EB%8A%94%EC%95%BC%E2%80%85%ED%8F%AC%EC%BC%93%EB%AA%AC%E2%80%85%EB%A7%88%EC%8A%A4%ED%84%B0%E2%80%85%EC%9D%B4%EB%8B%A4%EC%86%9C/62ada39a.png" data-original-src="https://www.acmicpc.net/upload/201004/pi.PNG" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:184px; width:274px" /></p>
 
 <p>이다솜 : 휴... 이겼다.</p>
 
@@ -132,6 +132,6 @@
 
 <p>첫째 줄부터 차례대로 M개의 줄에 각각의 문제에 대한 답을 말해줬으면 좋겠어!!!. 입력으로 숫자가 들어왔다면 그 숫자에 해당하는 포켓몬의 이름을, 문자가 들어왔으면 그 포켓몬의 이름에 해당하는 번호를 출력하면 돼. 그럼 땡큐~</p>
 
-<p><img alt="" src="/upload/201004/pn.PNG" style="height:122px; width:141px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/1620.%E2%80%85%EB%82%98%EB%8A%94%EC%95%BC%E2%80%85%ED%8F%AC%EC%BC%93%EB%AA%AC%E2%80%85%EB%A7%88%EC%8A%A4%ED%84%B0%E2%80%85%EC%9D%B4%EB%8B%A4%EC%86%9C/0056439a.png" data-original-src="https://www.acmicpc.net/upload/201004/pn.PNG" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:122px; width:141px" /></p>
 
 <p>이게 오박사님이 나에게 새로 주시려고 하는 도감이야. 너무 가지고 싶다ㅠㅜ. 꼭 만점을 받아줬으면 좋겠어!! 파이팅!!!</p>

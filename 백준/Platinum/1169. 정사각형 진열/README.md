@@ -18,7 +18,7 @@
 
 <p>크기가 서로 다른 N개의 정사각형이 있다. 모든 정사각형의 한 변의 길이는 자연수이다. 이제 이 정사각형들을 아래와 같이 45도 기울여서 진열하려고 한다.</p>
 
-<p><img alt="" height="149" src="/upload/201003/sq.JPG" width="236" /></p>
+<p><img alt="" height="149" src="%EB%B0%B1%EC%A4%80/Platinum/1169.%E2%80%85%EC%A0%95%EC%82%AC%EA%B0%81%ED%98%95%E2%80%85%EC%A7%84%EC%97%B4/0fdc0b69.jpg" data-original-src="https://www.acmicpc.net/upload/201003/sq.JPG" onerror="this.onerror=null;this.src=this.dataset.originalSrc" width="236" /></p>
 
 <p>먼저, 첫 번째 정사각형 S1을 x축과 y축에 접하게 놓는다. 이럴 때 x축과 정사각형이 만나는 위치를 b1이라고 생각한다.</p>
 

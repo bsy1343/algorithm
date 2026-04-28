@@ -33,7 +33,7 @@
 
 <p>체스판에는 돌이 하나 있는데, 돌과 같은 곳으로 이동할 때는, 돌을 킹이 움직인 방향과 같은 방향으로 한 칸 이동시킨다. 아래 그림을 참고하자.</p>
 
-<p style="text-align:center"><img alt="" src="https://upload.acmicpc.net/259549ad-b275-48a1-91f7-197a7ce72a23/-/preview/" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/1063.%E2%80%85%ED%82%B9/798e6df3.png" data-original-src="https://upload.acmicpc.net/259549ad-b275-48a1-91f7-197a7ce72a23/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>입력으로 킹이 어떻게 움직여야 하는지 주어진다. 입력으로 주어진 대로 움직여서 킹이나 돌이 체스판 밖으로 나갈 경우에는 그 이동은 건너 뛰고 다음 이동을 한다.</p>
 

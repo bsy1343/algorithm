@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><img alt="" height="300" src="/upload/201004/do.png" width="300" /></p>
+<p style="text-align: center;"><img alt="" height="300" src="%EB%B0%B1%EC%A4%80/Platinum/1556.%E2%80%85%EB%8F%84%EB%AF%B8%EB%85%B82/822b8e58.png" data-original-src="https://www.acmicpc.net/upload/201004/do.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" width="300" /></p>
 
 <p>도미노는 위와 같이 생겼다.</p>
 

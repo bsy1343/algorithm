@@ -18,7 +18,7 @@
 
 <p>n(1&lt;=n&lt;=1,000)개의 정점을 가지고 있는 트리 T가 있다. T는 루트가 있는 트리이며, 각각의 노드에는 가중치 w(1&lt;=w&lt;=50,000)가 있다. 이때, 각 노드의 가중치는 부모 노드의 가중치보다 크다고 한다. T의 각 노드는 특별 노드와 일반 노드로 분류된다. 만약 어떤 노드가 특별 노드라면, 그 노드의 가중치는 원래의 가중치가 된다. 만약 어떤 노드 v가 특별 노드가 아니라면, 그 노드의 가중치는 그 노드의 가장 가까운 특별 노드인 부모 노드 u에 대해서 v의 가중치 - u의 가중치가 된다. 이해를 돕기 위해 아래의 그림을 보자</p>
 
-<p><img alt="" src="/upload/201004/picture.JPG" style="height:125px; width:261px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/1272.%E2%80%85%ED%8A%B9%EB%B3%84%E2%80%85%EB%85%B8%EB%93%9C/ec8c78e7.jpg" data-original-src="https://www.acmicpc.net/upload/201004/picture.JPG" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:125px; width:261px" /></p>
 
 <p>왼쪽 그림은 원래의 트리이다. 원 안의 숫자는 노드의 번호이며, 원 옆의 숫자는 그 노드의 가중치이다. 오른쪽 그림은 1번, 2번 노드를 특별 노드로 했을 때, 다시 가중치가 계산된 트리이다.</p>
 

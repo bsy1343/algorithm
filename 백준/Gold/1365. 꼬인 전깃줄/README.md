@@ -18,7 +18,7 @@
 
 <p>공화국에 있는 유스타운 시에서는 길을 사이에 두고 전봇대가 아래와 같이 두 줄로 늘어서 있다. 그리고 길 왼편과 길 오른편의 전봇대는 하나의 전선으로 연결되어 있다. 어떤 전봇대도 두 개 이상의 다른 전봇대와 연결되어 있지는 않다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/upload/201004/picpicpicpicpicpicpicp.JPG" style="height:181px; width:141px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/1365.%E2%80%85%EA%BC%AC%EC%9D%B8%E2%80%85%EC%A0%84%EA%B9%83%EC%A4%84/e511e242.jpg" data-original-src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/upload/201004/picpicpicpicpicpicpicp.JPG" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:181px; width:141px" /></p>
 
 <p>문제는 이 두 전봇대 사이에 있는 전깃줄이 매우 꼬여 있다는 점이다. 꼬여있는 전깃줄은 화재를 유발할 가능성이 있기 때문에 유스타운 시의 시장 임한수는 전격적으로 이 문제를 해결하기로 했다.</p>
 

@@ -20,7 +20,7 @@
 
 <p>처음에 모든 칸은 편지를 붙이지 않았다. 민식이는 편지를 다음과 같은 방법으로 붙이려고 한다. 민식이는 (x1,y1)을 왼쪽 아래로 하고, (x2,y2)를 오른쪽 위로 하는 직사각형에 편지를 붙일 것이다. 민식이는 미적감각이 뛰어난 영식이를 위해서 편지를 붙이는 총 4가지 방법중에 하나로 붙이려고 한다.</p>
 
-<p style="text-align: center;"> <img alt="" src="/upload/201004/hhm1.PNG" style="height:241px; width:241px" />&nbsp;<img alt="" src="/upload/201004/hhm2.PNG" style="height:261px; width:256px" /></p>
+<p style="text-align: center;"> <img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/1617.%E2%80%85%ED%97%88%ED%9B%84%EB%AF%BC/abef877f.png" data-original-src="https://www.acmicpc.net/upload/201004/hhm1.PNG" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:241px; width:241px" />&nbsp;<img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/1617.%E2%80%85%ED%97%88%ED%9B%84%EB%AF%BC/5a1aef03.png" data-original-src="https://www.acmicpc.net/upload/201004/hhm2.PNG" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:261px; width:256px" /></p>
 
 <ol>
 	<li>첫 번째 방법은 모든 칸에 전부 편지를 붙이는 방법이다.</li>

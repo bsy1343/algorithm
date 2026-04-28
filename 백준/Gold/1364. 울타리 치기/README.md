@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p><img width="271" height="271" alt="" src="/upload/201004/bej.JPG" /></p>
+<p><img width="271" height="271" alt="" src="%EB%B0%B1%EC%A4%80/Gold/1364.%E2%80%85%EC%9A%B8%ED%83%80%EB%A6%AC%E2%80%85%EC%B9%98%EA%B8%B0/4ebbeb4d.jpg" data-original-src="https://www.acmicpc.net/upload/201004/bej.JPG" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 <p>육각형 블록들로 이루어진 RPG 세계가 있다. 그 세계에 나라를 세우려고 하는 군주 캐릭터 송유진은 일반 블록을 울타리 블록으로 바꿀 수 있는 아이템을 N개 가지고 있다. 유진이가 이 N개의 아이템을 이용해서 점령할 수 있는 최대의 영토의 넓이를 구해보자. 울타리 안에 둘러싸인 블록들은 당연히 넓이에 포함 시키고, 울타리를 세운 블록도 넓이에 포함을 시킨다. 울타리는 항상 이어져 있어야 하며, 맵의 넓이는 무한하다.</p>
 
 ### 입력

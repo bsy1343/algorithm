@@ -26,13 +26,13 @@
 
 <p>다음 그림을 살펴보자.</p>
 
-<p><img alt="" src="/upload/201003/1(1).jpg" style="height:204px; width:204px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/1119.%E2%80%85%EA%B7%B8%EB%9E%98%ED%94%84/79f42a66.jpg" data-original-src="https://www.acmicpc.net/upload/201003/1(1).jpg" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:204px; width:204px" /></p>
 
 <p>위와 같은 도로가 있을 때 이것을 다음에 보이는 둘 중에 하나로 바꿀 수 있다.</p>
 
-<p><img alt="" src="/upload/201003/2(1).jpg" style="height:204px; width:204px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/1119.%E2%80%85%EA%B7%B8%EB%9E%98%ED%94%84/0b01d366.jpg" data-original-src="https://www.acmicpc.net/upload/201003/2(1).jpg" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:204px; width:204px" /></p>
 
-<p><img alt="" src="/upload/201003/3(1).jpg" style="height:204px; width:204px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/1119.%E2%80%85%EA%B7%B8%EB%9E%98%ED%94%84/8aeb73ef.jpg" data-original-src="https://www.acmicpc.net/upload/201003/3(1).jpg" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:204px; width:204px" /></p>
 
 <p>N이 주어지고, 각 도로의 정보가 주어진다. 이때, 몇 개의 도로를 수정해야 하는지 구하는 프로그램을 작성하시오.</p>
 

@@ -20,7 +20,7 @@
 
 <p>예를 들어, N=3, K=1이라면, 시간 1에 3&times;3 정사각형이 된다. 가운데 정사각형은 검정색이고, 나머지는 흰색이 된다. 시간 2때 9&times;9 정사각형이 되고, 17개는 검정이고, 나머지는 흰색이다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/209f7362-9252-4bb8-b40d-91e115e42cf3/-/preview/" style="width: 200px; height: 206px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/1030.%E2%80%85%ED%94%84%EB%A0%89%ED%83%88%E2%80%85%ED%8F%89%EB%A9%B4/a38c4a0c.png" data-original-src="https://upload.acmicpc.net/209f7362-9252-4bb8-b40d-91e115e42cf3/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 200px; height: 206px;" /></p>
 
 <p>s, N, K, R<sub>1</sub>, R<sub>2</sub>, C<sub>1</sub>, C<sub>2</sub>가 주어질 때, 시간 s일 때, R<sub>1</sub>행 C<sub>1</sub>열부터 R<sub>2</sub>행 C<sub>2</sub>열까지의 모습을 출력하는 프로그램을 작성하시오.</p>
 

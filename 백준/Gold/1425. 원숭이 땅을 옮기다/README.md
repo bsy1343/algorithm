@@ -29,7 +29,7 @@
 	<li>만약 두 원숭이가 다른 X좌표에 있다면 (다른 나무에 있다면) 두 원숭이의 거리는 땅과 원숭이 1 사이의 거리 + 땅과 원숭이 2 사이의 거리 + 그들의 X좌표의 차이 이다. (초록색, 분홍색 그림)</li>
 </ol>
 
-<p><img alt="" src="/upload/201004/tree.png" style="height:205px; width:274px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/1425.%E2%80%85%EC%9B%90%EC%88%AD%EC%9D%B4%E2%80%85%EB%95%85%EC%9D%84%E2%80%85%EC%98%AE%EA%B8%B0%EB%8B%A4/c59c0ccd.png" data-original-src="https://www.acmicpc.net/upload/201004/tree.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:205px; width:274px" /></p>
 
 <p>원숭이들의 왕 엔토피아는 원숭이들의 생활을 좀 더 편하게 해주기 위해서 땅을 옮기려고 한다.</p>
 

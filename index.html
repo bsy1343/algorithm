@@ -579,6 +579,21 @@
       return path.split('/').map(encodeURIComponent).join('/');
     },
 
+    // Fetch solved.ac tier meta (id → level). ~2.6MB; cached by browser.
+    // Used to display sub-tier labels (e.g. "Silver III") on each problem.
+    async fetchLevelMap() {
+      try {
+        const res = await fetch('scripts/all-tiers-meta.json');
+        if (!res.ok) return {};
+        const data = await res.json();
+        const map = {};
+        for (const id in data) map[id] = data[id].level;
+        return map;
+      } catch {
+        return {};
+      }
+    },
+
     async fetchFile(path) {
       const res = await fetch(this.encodePath(path));
       if (!res.ok) throw new Error(`파일 로드 실패 (${res.status}): ${path}`);
@@ -594,6 +609,17 @@
     // import-tier skeletons cap around 295 bytes (149 fixed + ≤150 title bytes).
     // 250 lets us count even minimal hand-written A+B-style solutions as real.
     SKELETON_MAX: 250,
+
+    TIER_NAMES: ['Bronze', 'Silver', 'Gold', 'Platinum', 'Diamond', 'Ruby', 'Master'],
+    SUB_NUMERAL: ['V', 'IV', 'III', 'II', 'I'],
+
+    // Convert solved.ac level (1-30) to display label like "Silver III".
+    levelToLabel(level) {
+      if (!level) return '';
+      const tier = Math.floor((level - 1) / 5);
+      const sub = (level - 1) % 5;  // 0=V, 4=I
+      return `${this.TIER_NAMES[tier]} ${this.SUB_NUMERAL[sub]}`;
+    },
 
     parseTree(tree) {
       const map = {};
@@ -794,6 +820,7 @@
     currentTab: 'problem',
     favs: new Set(),
     boost: new Set(),
+    levelMap: {},  // id (string) → level (1-30) from solved.ac meta
 
     pref: { tierFilter: 'ALL', searchQuery: '', currentTab: 'problem', compareMode: false },
 
@@ -936,6 +963,9 @@
         const ioCount = p.files.inputs.length;
         const draftMark = State.hasDraft(p) ? ' has-draft' : '';
         const fav = State.isFav(p);
+        // Show precise sub-tier label (Silver III 등) when level info is loaded.
+        const lvl = State.levelMap[p.num];
+        const tierLabel = lvl ? Parser.levelToLabel(lvl) : p.tier;
         return `<div class="problem-item${isActive ? ' active' : ''}${draftMark}" data-tier="${esc(p.tier)}" data-num="${esc(p.num)}">
           <div class="pi-top">
             <div class="pi-tier-dot" style="background:${dot}"></div>
@@ -943,7 +973,7 @@
             <div class="pi-title">${esc(p.title)}</div>
             <div class="pi-fav${fav ? ' on' : ''}" data-fav-tier="${esc(p.tier)}" data-fav-num="${esc(p.num)}" title="즐겨찾기">${fav ? '★' : '☆'}</div>
           </div>
-          <div class="pi-meta">${esc(p.tier)}${ioCount ? ' · 예제 ' + ioCount + '개' : ''}</div>
+          <div class="pi-meta">${esc(tierLabel)}${ioCount ? ' · 예제 ' + ioCount + '개' : ''}</div>
         </div>`;
       }).join('');
       el.querySelectorAll('.problem-item').forEach(node => {
@@ -1783,8 +1813,12 @@
       Topbar.init();
       this.renderHome();
       await ImageArchive.load();
+      // Load level map in parallel with tree (non-blocking).
+      const levelP = Api.fetchLevelMap().then(m => { State.levelMap = m; });
       await this.reloadTree();
-      // Re-render home so the stats reflect the freshly loaded problem count.
+      await levelP;
+      // Re-render once levels arrived so each item shows sub-tier (Silver III etc.)
+      Sidebar.renderList();
       if (!State.currentProblem) this.renderHome();
     },
 

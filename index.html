@@ -320,8 +320,35 @@
    * file fetch with proper Korean/space encoding.
    * ======================================================== */
   const Api = {
-    TREE_KEY: 'tree-cache',
+    TREE_KEY: 'tree-cache-v2',  // bump invalidates oversized v1 caches that hit quota
     TREE_TTL_MS: 60 * 60 * 1000,
+
+    init() {
+      // Clean up legacy oversized cache key once.
+      try { localStorage.removeItem('tree-cache'); } catch {}
+    },
+
+    // Slim the GitHub tree to just what Parser needs: blob paths under 백준/.
+    // Cuts cache size ~10x (25MB → ~3MB for 21k problems).
+    slimTree(tree) {
+      const out = [];
+      for (const item of tree) {
+        if (item.type !== 'blob') continue;
+        if (!item.path.startsWith('백준/')) continue;
+        out.push({ type: 'blob', path: item.path });
+      }
+      return out;
+    },
+
+    safeSetCache(value) {
+      try {
+        localStorage.setItem(this.TREE_KEY, JSON.stringify(value));
+      } catch (e) {
+        // QuotaExceededError or similar — drop cache rather than break.
+        try { localStorage.removeItem(this.TREE_KEY); } catch {}
+        console.warn('[Api] tree cache write failed, falling back to no-cache:', e.message);
+      }
+    },
 
     async fetchTree({ force = false } = {}) {
       const cached = JSON.parse(localStorage.getItem(this.TREE_KEY) || 'null');
@@ -342,7 +369,7 @@
 
       if (res.status === 304 && cached) {
         cached.fetchedAt = new Date().toISOString();
-        localStorage.setItem(this.TREE_KEY, JSON.stringify(cached));
+        this.safeSetCache(cached);
         return { tree: cached.tree, source: 'etag-304' };
       }
       if (res.status === 403) {
@@ -355,13 +382,14 @@
       }
 
       const data = await res.json();
+      const slim = this.slimTree(data.tree);
       const next = {
         etag: res.headers.get('etag'),
         fetchedAt: new Date().toISOString(),
-        tree: data.tree,
+        tree: slim,
       };
-      localStorage.setItem(this.TREE_KEY, JSON.stringify(next));
-      return { tree: data.tree, source: 'fresh' };
+      this.safeSetCache(next);
+      return { tree: slim, source: 'fresh' };
     },
 
     encodePath(path) {
@@ -1200,6 +1228,7 @@
    * ======================================================== */
   const App = {
     async init() {
+      Api.init();
       State.loadPref();
       Sidebar.init();
       Topbar.init();

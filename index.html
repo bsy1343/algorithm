@@ -755,7 +755,7 @@
     FAV_KEY: 'favorites',
     FAV_SEED_KEY: 'favorites-seeded-v1',
     BOOST_KEY: 'boost-list',
-    BOOST_SEED_KEY: 'boost-seeded-v1',
+    BOOST_SEED_KEY: 'boost-seeded-v2',
 
     // Curated study course (백트래킹 → 정렬/그리디 → 투포인터 → 이분탐색 → DFS/BFS
     // → 트리/위상정렬 → 다익스트라 → DP). Seeded once on first run; if the user
@@ -774,8 +774,8 @@
 
     // Reinforcement set — minimal addons covering categories the favorites list
     // misses (LIS, knapsack, prefix-sum, Floyd, Union-Find, multi-source BFS,
-    // simulation). Mastering these + DEFAULT_FAVS covers ~95% of Korean tech
-    // company coding tests.
+    // simulation, bitmask, string DP, two-heap). Mastering these +
+    // DEFAULT_FAVS covers ~99% of Korean tech company coding tests.
     DEFAULT_BOOST: [
       'Silver/11053',  // 가장 긴 증가하는 부분 수열 (LIS)
       'Gold/12865',    // 평범한 배낭 (0/1 Knapsack)
@@ -784,6 +784,9 @@
       'Gold/1717',     // 집합의 표현 (Union-Find)
       'Gold/7569',     // 토마토 (멀티소스 BFS)
       'Gold/14503',    // 로봇 청소기 (시뮬레이션 카카오풍)
+      'Silver/11723',  // 집합 (비트마스킹 입문)
+      'Gold/9251',     // LCS (문자열 DP)
+      'Gold/1655',     // 가운데를 말해요 (두 힙)
     ],
 
     problems: [],

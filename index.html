@@ -1929,6 +1929,7 @@
       const p = State.problems.find(x => x.tier === tier && x.num === num);
       if (!p) return;
       State.currentProblem = p;
+      State.currentTab = 'problem';
       Sidebar.renderList();
       ProblemView.renderShell(p);
     },

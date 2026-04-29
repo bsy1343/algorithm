@@ -8,7 +8,7 @@
 # Skip if no 백준/ files are staged (regular code-only commits).
 set -e
 
-if git diff --cached --name-only --diff-filter=ACMRD | grep -q "^백준/"; then
+if git -c core.quotepath=false diff --cached --name-only --diff-filter=ACMRD | grep -q "^백준/"; then
   if command -v node >/dev/null 2>&1; then
     echo "[pre-commit] 백준/ changed — rebuilding data/tree-cache.json"
     node scripts/build-tree-cache.mjs

@@ -8,14 +8,19 @@ name: Build tree cache
 # Security: this workflow does not interpolate any user-controlled fields
 # (PR titles, commit messages, etc.) into shell — only github.actor is used
 # in an `if:` expression, which is system-controlled.
+# NOTE (2026-04-30): auto-push on every push was causing diverged branches —
+# the bot's commit and the user's next push always conflicted. Tree cache is
+# now rebuilt by the local pre-commit hook (.githooks/pre-commit), so the
+# user's commit already contains the latest tree. Only manual dispatch left
+# in case someone wants a force-rebuild from the Actions tab.
 on:
-  push:
-    branches: [main]
-    paths:
-      - '백준/**'
-      - 'scripts/build-tree-cache.mjs'
-      - '.github/workflows/build-tree-cache.yml'
   workflow_dispatch:
+  # push:
+  #   branches: [main]
+  #   paths:
+  #     - '백준/**'
+  #     - 'scripts/build-tree-cache.mjs'
+  #     - '.github/workflows/build-tree-cache.yml'
 
 jobs:
   build:

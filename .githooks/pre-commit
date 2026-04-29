@@ -1,0 +1,19 @@
+#!/bin/bash
+# Auto-rebuild data/tree-cache.json when 백준/ contents change.
+# Why: previously the build-tree-cache.yml workflow did this on push, but that
+# made the bot's commit + your local commit diverge — every push needed a
+# rebase. Doing it here means the tree-cache lives in the same commit as the
+# code that changed it, so push never diverges.
+#
+# Skip if no 백준/ files are staged (regular code-only commits).
+set -e
+
+if git diff --cached --name-only --diff-filter=ACMRD | grep -q "^백준/"; then
+  if command -v node >/dev/null 2>&1; then
+    echo "[pre-commit] 백준/ changed — rebuilding data/tree-cache.json"
+    node scripts/build-tree-cache.mjs
+    git add data/tree-cache.json
+  else
+    echo "[pre-commit] node not installed — skipping tree-cache rebuild"
+  fi
+fi

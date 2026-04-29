@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-04-28T16:54:43.479Z",
-  "totalCount": 102,
+  "fetchedAt": "2026-04-29T17:09:51.561Z",
+  "totalCount": 111,
   "companies": [
     "당근",
     "현대오토에버",
@@ -13,15 +13,39 @@
     "CJ (올리브영/올네/대한통운)",
     "SKT",
     "SK AX",
-    "SK하이닉스"
+    "SK하이닉스",
+    "한화시스템"
   ],
-  "errors": [],
+  "errors": [
+    {
+      "company": "SKT",
+      "error": "browserContext.close: Target page, context or browser has been closed\nBrowser logs:\n\n<launching> /Users/bsy1343/Library/Caches/ms-playwright/chromium_headless_shell-1217/chrome-headless-shell-mac-arm64/chrome-headless-shell --disable-field-trial-config --disable-background-networking --disable-background-timer-throttling --disable-backgrounding-occluded-windows --disable-back-forward-cache --disable-breakpad --disable-client-side-phishing-detection --disable-component-extensions-with-background-pages --disable-component-update --no-default-browser-check --disable-default-apps --disable-dev-shm-usage --disable-extensions --disable-features=AvoidUnnecessaryBeforeUnloadCheckSync,BoundaryEventDispatchTracksNodeRemoval,DestroyProfileOnBrowserClose,DialMediaRouteProvider,GlobalMediaControls,HttpsUpgrades,LensOverlay,MediaRouter,PaintHolding,ThirdPartyStoragePartitioning,Translate,AutoDeElevate,RenderDocument,OptimizationHints --enable-features=CDPScreenshotNewSurface --allow-pre-commit-input --disable-hang-monitor --disable-ipc-flooding-protection --disable-popup-blocking --disable-prompt-on-repost --disable-renderer-backgrounding --force-color-profile=srgb --metrics-recording-only --no-first-run --password-store=basic --use-mock-keychain --no-service-autorun --export-tagged-pdf --disable-search-engine-choice-screen --unsafely-disable-devtools-self-xss-warnings --edge-skip-compat-layer-relaunch --enable-automation --disable-infobars --disable-search-engine-choice-screen --disable-sync --enable-unsafe-swiftshader --headless --hide-scrollbars --mute-audio --blink-settings=primaryHoverType=2,availableHoverTypes=2,primaryPointerType=4,availablePointerTypes=4 --no-sandbox --user-data-dir=/var/folders/41/hmxth_914wj_2sbjq5sv3_kh0000gn/T/playwright_chromiumdev_profile-eiplil --remote-debugging-pipe --no-startup-window\n<launched> pid=47195\n[pid=47195][err] [0430/020734.757919:INFO:CONSOLE:1] \"Uncaught Error: Minified React error #418; visit https://react.dev/errors/418?args[]=text&args[]= for the full message or use the non-minified dev environment for full errors and additional helpful warnings.\", source: https://career.hyundai-autoever.com/_next/static/chunks/f404c8dba1f310f0.js (1)\n[pid=47195][err] [0430/020734.810183:INFO:CONSOLE:182] \"[Meta Pixel] - Invalid PixelID: null.\", source: https://connect.facebook.net/en_US/fbevents.js (182)\n[pid=47195][err] [0430/020744.862731:INFO:CONSOLE:1] \"Refused to get unsafe header \"X-Toss-Event-Id\"\", source: https://static.toss.im/frontend/toss.im/toss-im-career/_next/static/chunks/pages/_app-377d1883d5e1cc51.js (1)\n[pid=47195][err] [0430/020744.995398:INFO:CONSOLE:1] \"Refused to get unsafe header \"X-Toss-Event-Id\"\", source: https://static.toss.im/frontend/toss.im/toss-im-career/_next/static/chunks/pages/_app-377d1883d5e1cc51.js (1)\n[pid=47195][err] [0430/020810.739422:INFO:CONSOLE:2] \"[DEPRECATED] Default export is deprecated. Instead use `import { create } from 'zustand'`.\", source: https://careers.kakao.com/static/js/main.399e2cc5.js (2)\n[pid=47195][err] [0430/020810.740124:INFO:CONSOLE:2] \"[DEPRECATED] Default export is deprecated. Instead use `import { create } from 'zustand'`.\", source: https://careers.kakao.com/static/js/main.399e2cc5.js (2)\n[pid=47195][err] [0430/020810.744941:INFO:CONSOLE:2] \"i18next: languageChanged ko\", source: https://careers.kakao.com/static/js/main.399e2cc5.js (2)\n[pid=47195][err] [0430/020810.745004:INFO:CONSOLE:2] \"i18next: initialized [object Object]\", source: https://careers.kakao.com/static/js/main.399e2cc5.js (2)\n[pid=47195][err] [0430/020835.880128:INFO:CONSOLE:13] \"The key \"target-densitydpi\" is not supported.\", source: https://recruit.navercorp.com/rcrt/list.do?annoId=&sw=&subJobCdData=1010001%2C1010002%2C1010003%2C1010005%2C1010008%2C1010020&sysCompanyCdData=&jobCdData=1010 (13)\n[pid=47195][err] [0430/020845.326081:INFO:CONSOLE:210] \"[zustand devtools middleware] Please install/enable Redux devtools extension\", source: https://careers.lg.com/assets/index-BgacmEvt.js (210)\n[pid=47195][err] [0430/020845.326191:INFO:CONSOLE:210] \"[zustand devtools middleware] Please install/enable Redux devtools extension\", source: https://careers.lg.com/assets/index-BgacmEvt.js (210)\n[pid=47195][err] [0430/020845.327698:INFO:CONSOLE:210] \"[zustand devtools middleware] Please install/enable Redux devtools extension\", source: https://careers.lg.com/assets/index-BgacmEvt.js (210)\n[pid=47195][err] [0430/020845.328403:INFO:CONSOLE:210] \"[zustand devtools middleware] Please install/enable Redux devtools extension\", source: https://careers.lg.com/assets/index-BgacmEvt.js (210)\n[pid=47195][err] [0430/020845.330254:INFO:CONSOLE:210] \"[zustand devtools middleware] Please install/enable Redux devtools extension\", source: https://careers.lg.com/assets/index-BgacmEvt.js (210)\n[pid=47195][err] [0430/020845.330953:INFO:CONSOLE:210] \"[zustand devtools middleware] Please install/enable Redux devtools extension\", source: https://careers.lg.com/assets/index-BgacmEvt.js (210)\n[pid=47195][err] [0430/020845.341126:INFO:CONSOLE:210] \"[zustand devtools middleware] Please install/enable Redux devtools extension\", source: https://careers.lg.com/assets/index-BgacmEvt.js (210)\n[pid=47195][err] [0430/020845.375112:INFO:CONSOLE:219] \"env출력 [object Object]\", source: https://careers.lg.com/assets/index-BgacmEvt.js (219)\n[pid=47195][err] [0430/020855.391344:INFO:CONSOLE:210] \"[zustand devtools middleware] Please install/enable Redux devtools extension\", source: https://careers.lg.com/assets/index-BgacmEvt.js (210)\n[pid=47195][err] [0430/020855.391473:INFO:CONSOLE:210] \"[zustand devtools middleware] Please install/enable Redux devtools extension\", source: https://careers.lg.com/assets/index-BgacmEvt.js (210)\n[pid=47195][err] [0430/020855.392885:INFO:CONSOLE:210] \"[zustand devtools middleware] Please install/enable Redux devtools extension\", source: https://careers.lg.com/assets/index-BgacmEvt.js (210)\n[pid=47195][err] [0430/020855.393544:INFO:CONSOLE:210] \"[zustand devtools middleware] Please install/enable Redux devtools extension\", source: https://careers.lg.com/assets/index-BgacmEvt.js (210)\n[pid=47195][err] [0430/020855.395317:INFO:CONSOLE:210] \"[zustand devtools middleware] Please install/enable Redux devtools extension\", source: https://careers.lg.com/assets/index-BgacmEvt.js (210)\n[pid=47195][err] [0430/020855.395980:INFO:CONSOLE:210] \"[zustand devtools middleware] Please install/enable Redux devtools extension\", source: https://careers.lg.com/assets/index-BgacmEvt.js (210)\n[pid=47195][err] [0430/020855.406784:INFO:CONSOLE:210] \"[zustand devtools middleware] Please install/enable Redux devtools extension\", source: https://careers.lg.com/assets/index-BgacmEvt.js (210)\n[pid=47195][err] [0430/020855.440727:INFO:CONSOLE:219] \"env출력 [object Object]\", source: https://careers.lg.com/assets/index-BgacmEvt.js (219)\n[pid=47195][err] [0430/020855.600909:INFO:CONSOLE:219] \">>>>>> axios error [object Object]\", source: https://careers.lg.com/assets/index-BgacmEvt.js (219)\n[pid=47195][err] [0430/020855.601094:INFO:CONSOLE:216] \"Uncaught (in promise) AxiosError: Request failed with status code 500\", source: https://careers.lg.com/assets/index-BgacmEvt.js (216)\n[pid=47195][err] [0430/020858.954507:INFO:CONSOLE:210] \"[zustand devtools middleware] Please install/enable Redux devtools extension\", source: https://careers.lg.com/assets/index-BgacmEvt.js (210)\n[pid=47195][err] [0430/020858.954542:INFO:CONSOLE:210] \"[zustand devtools middleware] Please install/enable Redux devtools extension\", source: https://careers.lg.com/assets/index-BgacmEvt.js (210)\n[pid=47195][err] [0430/020858.955068:INFO:CONSOLE:210] \"[zustand devtools middleware] Please install/enable Redux devtools extension\", source: https://careers.lg.com/assets/index-BgacmEvt.js (210)\n[pid=47195][err] [0430/020858.955494:INFO:CONSOLE:210] \"[zustand devtools middleware] Please install/enable Redux devtools extension\", source: https://careers.lg.com/assets/index-BgacmEvt.js (210)\n[pid=47195][err] [0430/020858.957460:INFO:CONSOLE:210] \"[zustand devtools middleware] Please install/enable Redux devtools extension\", source: https://careers.lg.com/assets/index-BgacmEvt.js (210)\n[pid=47195][err] [0430/020858.957889:INFO:CONSOLE:210] \"[zustand devtools middleware] Please install/enable Redux devtools extension\", source: https://careers.lg.com/assets/index-BgacmEvt.js (210)\n[pid=47195][err] [0430/020858.962135:INFO:CONSOLE:210] \"[zustand devtools middleware] Please install/enable Redux devtools extension\", source: https://careers.lg.com/assets/index-BgacmEvt.js (210)\n[pid=47195][err] [0430/020858.988795:INFO:CONSOLE:219] \"env출력 [object Object]\", source: https://careers.lg.com/assets/index-BgacmEvt.js (219)\n[pid=47195][err] [0430/020859.080795:INFO:CONSOLE:1] \"[object Object],[object Object],[object Object],[object Object],[object Object]\", source: https://careers.lg.com/assets/TabCareer-AR7N8sqJ.js (1)\n[pid=47195][err] [0430/020919.165341:INFO:CONSOLE:1] \"You are using the in-browser Babel transformer. Be sure to precompile your scripts for production - https://babeljs.io/docs/setup/\", source: https://talent.hyundai.com/static/assets/babel.js (1)\n[pid=47195][err] [0430/020919.165516:INFO:CONSOLE:4076] \"NetFunnel_Action\", source: https://talent.hyundai.com/static/assets/netfunnel-debug-hyundai.js (4076)\n[pid=47195][err] [0430/020919.624451:INFO:CONSOLE:1] \"You are using the in-browser Babel transformer. Be sure to precompile your scripts for production - https://babeljs.io/docs/setup/\", source: https://talent.hyundai.com/static/assets/babel.js (1)\n[pid=47195][err] [0430/020928.033631:INFO:CONSOLE:57] \"---------- transaction data - start ----------\", source: https://imgrec.cj.net/recruit/js/jqGrid/frameone.jquery.jqGrid.js (57)\n[pid=47195][err] [0430/020928.033700:INFO:CONSOLE:57] \"{\"pageVal\":\"1\",\"pageIndex\":\"10\",\"orderDesc\":\"1\",\"sch_title\":\"\",\"arrGubun\":\"\",\"arrRecBu\":\"\",\"arrRecJob\":\"\",\"arrRecArea\":\"\",\"schArea\":\"N\"}\", source: https://imgrec.cj.net/recruit/js/jqGrid/frameone.jquery.jqGrid.js (57)\n[pid=47195][err] [0430/020928.033712:INFO:CONSOLE:57] \"---------- transaction data - end -----------\", source: https://imgrec.cj.net/recruit/js/jqGrid/frameone.jquery.jqGrid.js (57)\n[pid=47195][err] [0430/020928.078421:INFO:CONSOLE:57] \"errCd : 0\n[pid=47195][err] msgTp:undefined\n[pid=47195][err] msgCd:undefined\n[pid=47195][err] msgText:undefined\", source: https://imgrec.cj.net/recruit/js/jqGrid/frameone.jquery.jqGrid.js (57)\n[pid=47195] <gracefully close start>\n[pid=47195][err] [0430/020945.374498:ERROR:content/browser/gpu/gpu_process_host.cc:999] GPU process exited unexpectedly: exit_code=15\n[pid=47195][err] [0430/020945.374511:WARNING:content/browser/gpu/gpu_process_host.cc:1441] The GPU process has crashed 1 time(s)"
+    },
+    {
+      "company": "SK AX",
+      "error": "browser.newContext: Target page, context or browser has been closed"
+    },
+    {
+      "company": "SK하이닉스",
+      "error": "browser.newContext: Target page, context or browser has been closed"
+    }
+  ],
   "jobs": [
     {
       "company": "CJ (올리브영/올네/대한통운)",
       "companyId": "cj",
-      "title": "[CJ 4DPLEX] B2B 플랫폼PO 인재 모집",
-      "department": "시스템개발/운영(POS)",
+      "title": "[CJ 4DPLEX] Backend 개발자 인재 모집",
+      "department": "Backend Engineer",
+      "location": "서울",
+      "deadline": "2026-04-28",
+      "deadlineTime": "",
+      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo"
+    },
+    {
+      "company": "CJ (올리브영/올네/대한통운)",
+      "companyId": "cj",
+      "title": "[CJ 4DPLEX] Frontend 개발자 인재 모집",
+      "department": "Frontend Engineer",
       "location": "서울",
       "deadline": "2026-04-28",
       "deadlineTime": "",
@@ -32,6 +56,16 @@
       "companyId": "cj",
       "title": "[CJ 4DPLEX] MLOps 엔지니어 인재 모집",
       "department": "MLOps Engineer",
+      "location": "서울",
+      "deadline": "2026-04-28",
+      "deadlineTime": "",
+      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo"
+    },
+    {
+      "company": "CJ (올리브영/올네/대한통운)",
+      "companyId": "cj",
+      "title": "[CJ 4DPLEX] B2B 플랫폼PO 인재 모집",
+      "department": "시스템개발/운영(POS)",
       "location": "서울",
       "deadline": "2026-04-28",
       "deadlineTime": "",
@@ -120,16 +154,6 @@
     {
       "company": "LG CNS",
       "companyId": "lgcns",
-      "title": "[LG CNS] 클라우드 인프라 아키텍트 모집(경력)",
-      "department": "IT서비스",
-      "location": "LG CNS",
-      "deadline": "2026-04-30",
-      "deadlineTime": "23:00",
-      "url": "https://careers.lg.com/apply?c=CNS"
-    },
-    {
-      "company": "LG CNS",
-      "companyId": "lgcns",
       "title": "[LG CNS] 클라우드 스마트워크 분야 모집(경력)",
       "department": "IT서비스",
       "location": "LG CNS",
@@ -168,6 +192,66 @@
       "url": "https://careers.lg.com/channel/detail/lgu/job_openings"
     },
     {
+      "company": "한화시스템",
+      "companyId": "hanwha",
+      "title": "BC 컨설턴트 경력사원 채용",
+      "department": "한화시스템/ICT",
+      "location": "",
+      "deadline": "2026-05-08",
+      "deadlineTime": "15:00",
+      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=18737"
+    },
+    {
+      "company": "한화시스템",
+      "companyId": "hanwha",
+      "title": "제조 IT/OT 진단/컨설팅 경력사원 채용",
+      "department": "한화시스템/ICT",
+      "location": "",
+      "deadline": "2026-05-08",
+      "deadlineTime": "15:00",
+      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=18721"
+    },
+    {
+      "company": "한화시스템",
+      "companyId": "hanwha",
+      "title": "제조시스템 엔지니어 채용",
+      "department": "한화시스템/ICT",
+      "location": "",
+      "deadline": "2026-05-08",
+      "deadlineTime": "15:00",
+      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=18720"
+    },
+    {
+      "company": "한화시스템",
+      "companyId": "hanwha",
+      "title": "증권 서버 개발/운영 경력사원 채용",
+      "department": "한화시스템/ICT",
+      "location": "",
+      "deadline": "2026-05-08",
+      "deadlineTime": "15:00",
+      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=18719"
+    },
+    {
+      "company": "한화시스템",
+      "companyId": "hanwha",
+      "title": "MRO 솔루션 사업 개발/기획 경력사원 채용",
+      "department": "한화시스템/ICT",
+      "location": "",
+      "deadline": "2026-05-08",
+      "deadlineTime": "15:00",
+      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=18718"
+    },
+    {
+      "company": "한화시스템",
+      "companyId": "hanwha",
+      "title": "System Engineer 제조서비스분야 경력사원 채용",
+      "department": "한화시스템/ICT",
+      "location": "",
+      "deadline": "2026-05-08",
+      "deadlineTime": "15:00",
+      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=18717"
+    },
+    {
       "company": "LG U+",
       "companyId": "lguplus",
       "title": "[CTO] GPU Software Engineer 채용 (경력/석·박사)",
@@ -178,6 +262,16 @@
       "url": "https://careers.lg.com/channel/detail/lgu/job_openings"
     },
     {
+      "company": "한화시스템",
+      "companyId": "hanwha",
+      "title": "한화시스템 ICT부문 AX 대규모 채용",
+      "department": "한화시스템/ICT",
+      "location": "",
+      "deadline": "2026-05-10",
+      "deadlineTime": "23:59",
+      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=18716"
+    },
+    {
       "company": "LG CNS",
       "companyId": "lgcns",
       "title": "[LG CNS] MES개발자 분야 모집(경력)",
@@ -186,6 +280,26 @@
       "deadline": "2026-05-29",
       "deadlineTime": "18:00",
       "url": "https://careers.lg.com/apply?c=CNS"
+    },
+    {
+      "company": "현대오토에버",
+      "companyId": "autoever",
+      "title": "[SDx] Service Engineer - 스마트팩토리 OT 개발 및 운영",
+      "department": "SDx(스마트제조)",
+      "location": "",
+      "deadline": "2026-05-31",
+      "deadlineTime": "23:59",
+      "url": "https://career.hyundai-autoever.com/ko/o/214823"
+    },
+    {
+      "company": "현대오토에버",
+      "companyId": "autoever",
+      "title": "[SDx] Service Engineer - 스마트팩토리 OT 개발 및 운영(울산)",
+      "department": "SDx(스마트제조)",
+      "location": "",
+      "deadline": "2026-05-31",
+      "deadlineTime": "23:59",
+      "url": "https://career.hyundai-autoever.com/ko/o/214818"
     },
     {
       "company": "LG CNS",
@@ -201,6 +315,16 @@
       "company": "LG CNS",
       "companyId": "lgcns",
       "title": "[LG CNS] ServiceNow Engineer 모집 (경력)",
+      "department": "IT서비스",
+      "location": "LG CNS",
+      "deadline": "2026-05-31",
+      "deadlineTime": "23:00",
+      "url": "https://careers.lg.com/apply?c=CNS"
+    },
+    {
+      "company": "LG CNS",
+      "companyId": "lgcns",
+      "title": "[LG CNS] 클라우드 인프라 아키텍트 모집(경력)",
       "department": "IT서비스",
       "location": "LG CNS",
       "deadline": "2026-05-31",
@@ -242,6 +366,15 @@
       "location": "SEOUL",
       "deadline": "",
       "url": "https://about.daangn.com?gh_jid=5004587003"
+    },
+    {
+      "company": "당근",
+      "companyId": "daangn",
+      "title": "Security Engineer | 인프라 (보안, 모의해킹)",
+      "department": "",
+      "location": "SEOUL",
+      "deadline": "",
+      "url": "https://about.daangn.com?gh_jid=6045408003"
     },
     {
       "company": "당근",
@@ -582,24 +715,13 @@
     {
       "company": "토스",
       "companyId": "toss",
-      "title": "IDC Network Technician 인프라",
+      "title": "IDC Infrastructure Engineer (Network & System) 인프라",
       "department": "",
       "location": "",
       "deadline": "",
       "deadlineTime": "",
-      "url": "https://toss.im/career/job-detail?job_id=6615108003",
-      "_raw": "IDC Network Technician 인프라 ・ 네트워크 ・ IDC 증권"
-    },
-    {
-      "company": "토스",
-      "companyId": "toss",
-      "title": "IDC System Technician IDC",
-      "department": "",
-      "location": "",
-      "deadline": "",
-      "deadlineTime": "",
-      "url": "https://toss.im/career/job-detail?job_id=6615086003",
-      "_raw": "IDC System Technician IDC ・ Linux ・ Hardware ・ 증권"
+      "url": "https://toss.im/career/job-detail?job_id=7719156003",
+      "_raw": "IDC Infrastructure Engineer (Network & System) 인프라 ・ 네트워크 ・ 시스템 ・ IDC 증권"
     },
     {
       "company": "토스",
@@ -808,7 +930,7 @@
       "deadline": "",
       "deadlineTime": "",
       "url": "https://toss.im/career/job-detail?job_id=7629373003",
-      "_raw": "Security Engineer 엔드포인트 ・ 네트워크 ・ 솔루션 ・ 접근통제 토스 증권 뱅크"
+      "_raw": "Security Engineer 엔드포인트 ・ 네트워크 ・ 솔루션 ・ 접근통제 토스 외 3개 계열사"
     },
     {
       "company": "토스",
@@ -1047,28 +1169,6 @@
       "deadline": "",
       "deadlineTime": "",
       "url": "https://talent.hyundai.com/apply/applyList.hc?occupDataTagArray=211"
-    },
-    {
-      "company": "SK AX",
-      "companyId": "skax",
-      "title": "SKT 및 ICT Family사 시스템 담당자 영입 April 22, 2026(Wed) ~ May 22, 2026(Fri) SK inc.(AX) Infra/Infra 운용/관리/최적화",
-      "department": "",
-      "location": "",
-      "deadline": "",
-      "deadlineTime": "",
-      "url": "https://www.skcareers.com/Recruit/Detail/R260894",
-      "_raw": "SKT 및 ICT Family사 시스템 담당자 영입 April 22, 2026(Wed) ~ May 22, 2026(Fri) SK inc.(AX) Infra/Infra 운용/관리/최적화"
-    },
-    {
-      "company": "SK AX",
-      "companyId": "skax",
-      "title": "설비(Utility) 정보화 분야 전문가 영입 April 22, 2026(Wed) ~ May 22, 2026(Fri) SK inc.(AX) Tech R&D/Software Engineering",
-      "department": "",
-      "location": "",
-      "deadline": "",
-      "deadlineTime": "",
-      "url": "https://www.skcareers.com/Recruit/Detail/R260939",
-      "_raw": "설비(Utility) 정보화 분야 전문가 영입 April 22, 2026(Wed) ~ May 22, 2026(Fri) SK inc.(AX) Tech R&D/Software Engineering"
     }
   ]
 }

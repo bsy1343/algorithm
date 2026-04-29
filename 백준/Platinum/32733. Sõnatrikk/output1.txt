@@ -1,0 +1,11 @@
+
+kas abc
+kas def
+uus tiku
+kas def
+kas ghi
+kas def
+uus taku
+kas ghi
+kas abc
+vana tiku

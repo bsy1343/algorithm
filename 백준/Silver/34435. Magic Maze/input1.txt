@@ -1,0 +1,12 @@
+11
+Move West
+Move North
+Move East
+Move South
+Change North to South
+Change West to East
+Get rid of last 1 transformation action(s)
+Move West
+Move North
+Move East
+Move South

@@ -1,0 +1,7 @@
+4
+Splashers Sharks 4 2
+Ducks Fins 5 2
+Fins Splashers 3 5
+Ducks Sharks 0 5
+Splashers Ducks 8 1
+Fins Sharks 1 1

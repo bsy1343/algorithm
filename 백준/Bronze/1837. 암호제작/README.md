@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p><img alt="" src="/JudgeOnline/upload/201006/Screen shot 2010-06-11 at 4_48_42 PM.png" style="float:right; height:244px; width:291px" />원룡이는 한 컴퓨터 보안 회사에서 일을 하고 있다. 그러던 도중, 원룡이는 YESWOA.COM 으로부터 홈페이지 유저들의 비밀키를 만들라는 지시를 받았다. 원룡이는 비밀 키를 다음과 같은 방법으로 만들었다.</p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/1837.%E2%80%85%EC%95%94%ED%98%B8%EC%A0%9C%EC%9E%91/2c3bde9e.png" data-original-src="https://boja.mercury.kr/assets/problem/1837-1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="float:right; height:244px; width:291px" />원룡이는 한 컴퓨터 보안 회사에서 일을 하고 있다. 그러던 도중, 원룡이는 YESWOA.COM 으로부터 홈페이지 유저들의 비밀키를 만들라는 지시를 받았다. 원룡이는 비밀 키를 다음과 같은 방법으로 만들었다.</p>
 
 <p>개인마다 어떤 특정한 소수 p와 q를 주어 두 소수의 곱 pq를 비밀 키로 두었다. 이렇게 해 주면 두 소수 p,q를 알지 못하는 이상, 비밀 키를 알 수 없다는 장점을 가지고 있다.</p>
 

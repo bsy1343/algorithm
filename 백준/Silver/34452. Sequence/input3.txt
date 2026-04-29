@@ -1,0 +1,5 @@
+4
+1 2s P 2s
+2 Jd P 2s
+3 2s P 2s
+4 Jc P 3s

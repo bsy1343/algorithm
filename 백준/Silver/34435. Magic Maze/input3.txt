@@ -1,0 +1,7 @@
+6
+Change North to South
+Move North
+Move South
+Change South to East
+Move North
+Move South

@@ -1,0 +1,9 @@
+8
+0 - Sophie borrows Romeo_and_Juliet
+3 - Sophie borrows The_Da_Vinci_Code
+4 - Berty borrows The_Hunger_Games
+5 - Sophie returns Romeo_and_Juliet
+6 - Berty returns The_Hunger_Games
+7 - 1 books become available
+7 - John borrows The_Hunger_Games
+9 - Sophie returns The_Da_Vinci_Code

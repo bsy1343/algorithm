@@ -1,0 +1,6 @@
+3 2
+Aa
+Bb
+Cc
+[Aa] OK (0)
+[Bb] YES (1)

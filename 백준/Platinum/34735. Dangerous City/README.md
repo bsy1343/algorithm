@@ -1,0 +1,45 @@
+# [Platinum III] Dangerous City - 34735
+
+[문제 링크](https://www.acmicpc.net/problem/34735)
+
+### 성능 요약
+
+시간 제한: 1 초, 메모리 제한: 2048 MB
+
+### 통계
+
+제출: 35, 정답: 20, 맞힌 사람: 17, 정답 비율: 58.621%
+
+### 분류
+
+그래프 이론, 그래프 탐색, 깊이 우선 탐색, 다이나믹 프로그래밍, 분리 집합, 자료 구조, 정렬, 트리, 트리에서의 다이나믹 프로그래밍
+
+### 문제 설명
+
+<p>Alice is moving to the city of Nlogonia, and to decide where to live, she is evaluating the safety of the city.</p>
+
+<p>Nlogonia is a planned city with $N$ intersections, numbered from $1$ to $N$, and $M$ streets. Each street connects two intersections bidirectionally. It is guaranteed that any intersection can reach all other intersections using the streets, and no two streets connect the same pair of intersections.</p>
+
+<p>The government of Nlogonia publishes a <strong>danger rating</strong> $D_i$ for each intersection $i$. However, Alice thinks these ratings are insufficient because she wants to assess the safety of moving through the city, not just where she lives. So, she developed her own way to measure how dangerous the city is.</p>
+
+<p>For any given path in the city, Alice defines its <strong>path risk</strong> as the <strong>maximum</strong> danger rating among all intersections on that path, including its endpoints. The <strong>risk factor</strong> between two intersections $U$ and $V$, denoted as $f(U, V )$, is the <strong>minimum</strong> possible path risk among all paths connecting $U$ and $V$. By definition, the only path from an intersection $U$ to itself is the trivial path containing only $U$, so we have $f(U, U) = D_U$. Finally, she assigns a danger score to each intersection $U$, denoted as:</p>
+
+<p>$$S_U = \displaystyle\sum_{V=1}^{N}{f(U,V)}$$</p>
+
+<p>In other words, the danger score of an intersection $U$ is the sum of its risk factors to every intersection in the city.</p>
+
+<p>Computing these danger scores for all intersections is not easy, so Alice asks for your help!</p>
+
+### 입력
+
+<p>The first line contains two integers $N$ ($2 ≤ N ≤ 3 \cdot 10^5$) and $M$ ($1 ≤ M ≤ 3 \cdot 10^5$), indicating respectively the number of intersections and streets in Nlogonia. Each intersection is identified by a distinct integer from $1$ to $N$.</p>
+
+<p>The second line contains $N$ integers $D_1, D_2, \dots , D_N$ ($1 ≤ D_i ≤ 10^9$ for $i = 1, 2, \dots , N$), where $D_i$ is the danger rating of intersection $i$.</p>
+
+<p>Each of the next $M$ lines contains two integers $U$ and $V$ ($1 ≤ U, V ≤ N$ and $U \ne V$), indicating that there is a two-way street between intersections $U$ and $V$.</p>
+
+<p>It is guaranteed that there is at most one street between each pair of intersections and that any intersection can be reached from any other using one or more streets.</p>
+
+### 출력
+
+<p>Output a single line with $N$ integers $S_1, S_2, \dots , S_N$, that is, the danger scores of all the intersections.</p>

@@ -1,0 +1,56 @@
+# [Gold II] 삼각형 수열 - 33930
+
+[문제 링크](https://www.acmicpc.net/problem/33930)
+
+### 성능 요약
+
+시간 제한: 1 초, 메모리 제한: 1024 MB
+
+### 통계
+
+제출: 149, 정답: 55, 맞힌 사람: 46, 정답 비율: 42.202%
+
+### 분류
+
+해 구성하기
+
+### 문제 설명
+
+<p>당신에게는 $1$부터 $N$까지의 정수가 있으며, 각 수 $i$는 $i$개씩 존재한다. 예를 들어 $N=4$일 때, $1$이 $1$개, $2$가 $2$개, $3$이 $3$개, $4$가 $4$개 있다. 당신은 이 수들을 아래 그림과 같이 삼각형 모양으로 배치하려고 한다.</p>
+
+<p style="text-align:center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/33930.%E2%80%85%EC%82%BC%EA%B0%81%ED%98%95%E2%80%85%EC%88%98%EC%97%B4/55154316.png" data-original-src="https://boja.mercury.kr/assets/problem/33930-1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 100%; height: 100%; max-width: 640px;"></p>
+
+<p>$i$행의 $j$번째 수를 $(i,j)$로 표현했을 때, $(i,j)$는 아래와 같은 조건에 의해 최대 $6$개의 다른 수와 인접해 있다.</p>
+
+<ul>
+	<li>$i\ge 2$ 이고 $j\ge 2$ 라면, $(i-1,j-1)$와 인접해 있다.</li>
+	<li>$i\ge 2$ 이고 $j\le i-1$ 라면, $(i-1,j)$와 인접해 있다.</li>
+	<li>$j\ge 2$ 라면, $(i,j-1)$와 인접해 있다.</li>
+	<li>$j\le i-1$ 라면, $(i,j+1)$와 인접해 있다.</li>
+	<li>$i\le N-1$ 라면, $(i+1,j)$, $(i+1,j+1)$와 인접해 있다.</li>
+</ul>
+
+<p>이때 모든 수들에 대해서, 수에 인접해 있는 최대 $6$개의 수가 해당 수와 같지 않다면 이를 올바른 삼각형 수열이라고 한다. 인접한 수가 없을 경우, 해당 수는 자신과 같은 수가 인접하지 않다는 조건을 만족한 것으로 본다.</p>
+
+<p>아래 그림에서, 왼쪽의 배치는 이를 만족하지 못하므로 올바른 삼각형 수열이 아니다. 반면, 오른쪽의 배치는 이를 만족하므로 올바른 삼각형 수열이 된다.</p>
+
+<p style="text-align:center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/33930.%E2%80%85%EC%82%BC%EA%B0%81%ED%98%95%E2%80%85%EC%88%98%EC%97%B4/d8a3d4b7.png" data-original-src="https://boja.mercury.kr/assets/problem/33930-2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 100%; height: 100%; max-width: 640px;"></p>
+
+<p>$N$이 주어졌을 때, 올바른 삼각형 수열을 출력하라. 답이 여러 개 존재한다면 그중 아무거나 하나를 출력하라. 만약 그런 배치가 존재하지 않는다면 <span style="color:#e74c3c;"><code>-1</code></span>을 출력하라.</p>
+
+### 입력
+
+<p>첫 번째 줄에 정수 $N$이 주어진다.</p>
+
+### 출력
+
+<p>$N$개의 줄에 삼각형 수열을 이루는 수들을 공백으로 구분해 출력한다. $i$번째 줄에는 그 줄에 속하는 $i$개의 수들을 왼쪽부터 순서대로 출력한다.</p>
+
+<p>만약 그런 배치가 존재하지 않는다면 대신 첫 번째 줄에 <span style="color:#e74c3c;"><code>-1</code></span>을 출력한다.</p>
+
+### 제한
+
+<ul>
+	<li>$1\le N\le 1\, 000$</li>
+	<li>$1\le i\le N$</li>
+</ul>

@@ -1,0 +1,8 @@
+4 3
+A
+B
+C
+D
+[D] Some Text (1)
+[A] OK (2)
+[B] NO (3)

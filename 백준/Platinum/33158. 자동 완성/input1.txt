@@ -1,0 +1,7 @@
+3 3
+Happy 0
+Ham 2
+ham 9
+H -2
+Hope 4
+Ha 0

@@ -1,0 +1,14 @@
+4
+1
+A: I am kwon.
+2
+A: I am lying.
+B: It is night.
+2
+A: I am han.
+A: We are problem solving.
+4
+A: B is lee.
+B: A is han.
+A: B is han.
+A: B is kim.

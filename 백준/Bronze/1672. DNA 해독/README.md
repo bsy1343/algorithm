@@ -18,7 +18,7 @@
 
 <p>N개의 A, G, C, T로 구성되어 있는 DNA 염기서열이 있다. 그리고 우리는 이 염기서열을 아래의 표를 이용하여 해독을 해야 한다.</p>
 
-<p style="text-align: center;"><img alt="" height="179" src="/JudgeOnline/upload/201005/pyuo.PNG" width="307" /></p>
+<p style="text-align: center;"><img alt="" height="179" src="%EB%B0%B1%EC%A4%80/Bronze/1672.%E2%80%85DNA%E2%80%85%ED%95%B4%EB%8F%85/987d98a4.png" data-original-src="https://boja.mercury.kr/assets/problem/1672-1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" width="307" /></p>
 
 <p>해독 방법은 염기 서열에서 제일 끝에 있는 두 개의 염기를 A<sub>n-1</sub>, A<sub>n</sub>이라 할 때, A<sub>n-1</sub>을 행으로 A<sub>n</sub>을 열로 대응시켜 그에 해당하는 하나의 염기로 바꾸는 방식을 반복하는 것이다.&nbsp; 예를 들어 <code>AAGTCG</code>라는 염기서열이 있다고 하자. 이 서열을 위의 규칙 때로 해독하면 <code>AAGTCG</code> &rarr; <code>AAGTT</code> &rarr; <code>AAGT</code> &rarr; <code>AAA</code> &rarr;&nbsp;<code>AA</code> &rarr; <code>A</code> 가 되어 최종적으로 해독한 염기는 <code>A</code>가 된다.</p>
 

@@ -1,0 +1,6 @@
+5
+1 5s P 5s
+2 7h P 7h
+3 5s P 5s
+4 Jh R 5s
+5 Jd P 5s

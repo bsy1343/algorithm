@@ -1,0 +1,16 @@
+15
+Move West
+Move North
+Move East
+Move South
+Change North to South
+Change South to East
+Move West
+Move North
+Move East
+Move South
+Change North to West
+Move West
+Move North
+Move East
+Move South

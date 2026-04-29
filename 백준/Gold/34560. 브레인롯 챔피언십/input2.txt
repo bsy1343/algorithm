@@ -1,0 +1,5 @@
+4
+GatoPizzaiolo 100 100 20
+FormaggioVolante 100 100 20
+CaneDeGuerra 50 50 50
+TopoScrittore 40 40 40

@@ -1,0 +1,43 @@
+# [Platinum III] Eight 2 Zero - 32619
+
+[문제 링크](https://www.acmicpc.net/problem/32619)
+
+### 성능 요약
+
+시간 제한: 1 초, 메모리 제한: 1024 MB
+
+### 통계
+
+제출: 83, 정답: 11, 맞힌 사람: 11, 정답 비율: 15.942%
+
+### 분류
+
+그래프 이론, 많은 조건 분기, 애드 혹, 최소 스패닝 트리
+
+### 문제 설명
+
+<p>네트워크 시스템은 노드(Node)와 서로 다른 두 노드를 양방향으로 연결하는 링크(Link)로 구성된다. 링크를 통해 연결된 두 노드는 통신 가능하며, $A$와 $B$가 통신 가능하고 $B$와 $C$가 통신 가능하면 $A$와 $C$도 통신 가능하다.</p>
+
+<p>$1$번부터 $N$번까지 번호가 매겨져 있는 $N$개의 노드와 $N+1$개의 링크로 구성된 네트워크가 있다. 임의의 두 노드를 연결하는 링크는 최대 하나 존재하며, 임의의 노드 간 통신이 가능한 네트워크이다.</p>
+
+<p>네트워크가 너무 복잡하다고 생각한 당신은 일부 링크를 제거하기로 마음먹었다. 링크를 제거하다 보면 다른 어떠한 노드와도 통신이 불가능한 노드가 발생할 수 있는데 그러한 노드를 <strong>비활성 노드</strong>라 하고, 비활성 노드가 아닌 노드를 <strong>활성 노드</strong>라 하자.</p>
+
+<p>당신은 링(Ring)을 가장 단순한 구조라고 생각하여 링으로 이루어진 네트워크를 구성하려고 한다. 임의의 노드 간 통신이 가능하고, 임의의 노드에서 시작하여 링크를 통해 통신을 반복하여 시작 노드에 도달할 수 있는 부분 네트워크를 링이라고 한다. 이때, 하나 이상의 링크를 통해 통신하여야 하고 같은 링크를 통해 두 번 이상 통신하면 안 된다. 다음은 링의 예시이다.</p>
+
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/32619.%E2%80%85Eight%E2%80%852%E2%80%85Zero/71704191.png" data-original-src="https://boja.mercury.kr/assets/problem/32619-1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc"> <img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/32619.%E2%80%85Eight%E2%80%852%E2%80%85Zero/708bd030.png" data-original-src="https://boja.mercury.kr/assets/problem/32619-2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc"> <img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/32619.%E2%80%85Eight%E2%80%852%E2%80%85Zero/f1141b4c.png" data-original-src="https://boja.mercury.kr/assets/problem/32619-3.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc"></p>
+
+<p>다음은 링이 아닌 네트워크의 예시이다. 링을 포함하는 네트워크는 있지만 전체 네트워크 기준으로 링이 아님에 유의하자.</p>
+
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/32619.%E2%80%85Eight%E2%80%852%E2%80%85Zero/b9f1f033.png" data-original-src="https://boja.mercury.kr/assets/problem/32619-4.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc"> <img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/32619.%E2%80%85Eight%E2%80%852%E2%80%85Zero/8a26a048.png" data-original-src="https://boja.mercury.kr/assets/problem/32619-5.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc"> <img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/32619.%E2%80%85Eight%E2%80%852%E2%80%85Zero/ef2518fc.png" data-original-src="https://boja.mercury.kr/assets/problem/32619-6.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc"> <img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/32619.%E2%80%85Eight%E2%80%852%E2%80%85Zero/df94d6aa.png" data-original-src="https://boja.mercury.kr/assets/problem/32619-7.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc"></p>
+
+<p><strong>모든 활성 노드가 정확히 하나의 링에 속하도록</strong> 하기 위해 제거해야 하는 링크의 개수의 최솟값을 구하시오.</p>
+
+### 입력
+
+<p>첫째 줄에 노드의 개수 $N$이 주어진다. $(4\leq N \leq 300\,000)$</p>
+
+<p>둘째 줄부터 $N+1$개의 줄에 걸쳐 링크의 정보가 주어진다. 각 줄에 각 링크가 연결하는 두 노드의 번호가 공백으로 구분되어 주어진다.</p>
+
+### 출력
+
+<p>첫째 줄에 제거해야 하는 링크의 개수의 최솟값을 출력한다.</p>

@@ -1,0 +1,8 @@
+6
+cmph cmps 1 3600
+kmph mph 1000 1
+miph cmph 5588 125
+mph cmph 100 1
+miph mph 80467 50
+rps rph 3600 1
+16913.1 miph mps

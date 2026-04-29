@@ -1,0 +1,9 @@
+8
+abate 1
+abstinent 2
+ambience 2
+aptitude 3
+audacity 2
+benign 1
+burlesque 4
+capricious 3

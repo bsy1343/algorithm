@@ -1,0 +1,2 @@
+6
+2 3 S DS or S -2 DS or S

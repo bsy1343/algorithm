@@ -1,0 +1,10 @@
+4 5
+A
+B
+C
+D
+[A] t eX t (0)
+[B] Te xt (1)
+[C] tEX t (1)
+[D] T exT (2)
+[C] T e X t (2)

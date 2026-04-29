@@ -1,0 +1,4 @@
+3
+RockLeone 0 10 20
+PaperDrago 20 0 10
+ScissorAquila 10 20 0

@@ -1,0 +1,10 @@
+9 7
+.......
+.xxx...
+.xxxx..
+.xxxxx.
+.xxxxx.
+.xxxxx.
+..xxxx.
+...xxx.
+.......

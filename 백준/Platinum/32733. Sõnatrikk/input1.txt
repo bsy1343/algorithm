@@ -1,0 +1,11 @@
+4 3 75 4
+ei
+ei
+ok
+ei
+ei
+jah
+ok
+ei
+jah
+ok

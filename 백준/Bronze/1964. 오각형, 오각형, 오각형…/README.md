@@ -18,7 +18,7 @@
 
 <p>오각형의 각 변에 아래 그림과 같이 점을 찍어 나간다. N단계에서 점의 개수는 모두 몇 개일까?</p>
 
-<p style="text-align: center;"><img alt="" height="167" src="/JudgeOnline/upload/201007/55555.png" width="479" /></p>
+<p style="text-align: center;"><img alt="" height="167" src="%EB%B0%B1%EC%A4%80/Bronze/1964.%E2%80%85%EC%98%A4%EA%B0%81%ED%98%95%2C%E2%80%85%EC%98%A4%EA%B0%81%ED%98%95%2C%E2%80%85%EC%98%A4%EA%B0%81%ED%98%95%E2%80%A6/5287c295.png" data-original-src="https://boja.mercury.kr/assets/problem/1964-1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" width="479" /></p>
 
 ### 입력
 

@@ -1,0 +1,7 @@
+6 5
+..x..
+oSxx#
+.oxox
+xooox
+xooo#
+xx#x#

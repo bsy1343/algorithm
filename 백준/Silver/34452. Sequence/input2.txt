@@ -1,0 +1,7 @@
+6
+1 2h P 2h
+2 Js R 3h
+3 2h P 2h
+4 3h P 2h
+5 4h R Qd
+6 Qd P Kd

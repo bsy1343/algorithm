@@ -1,0 +1,13 @@
+5
+1 5 2 4 3
+10
+SM 5
+PF
+SL
+PL
+SF
+PM 3
+SF
+PL
+PF
+SL

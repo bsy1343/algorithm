@@ -1,0 +1,4 @@
+Splashers 9
+Sharks 4
+Ducks 3
+Fins 1

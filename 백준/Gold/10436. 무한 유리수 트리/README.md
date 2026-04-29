@@ -26,7 +26,7 @@
 
 <p>트리의 첫 세 층은 아래와 같이 구성된다.</p>
 
-<p style="text-align: center;"><img src="/userupload/portableangel/201504/64a62f517eeb70b1830d8a12b59e044a.png" style="font-family:arial,helvetica,verdana,tahoma,sans-serif; line-height:1.6em" /></p>
+<p style="text-align: center;"><img src="%EB%B0%B1%EC%A4%80/Gold/10436.%E2%80%85%EB%AC%B4%ED%95%9C%E2%80%85%EC%9C%A0%EB%A6%AC%EC%88%98%E2%80%85%ED%8A%B8%EB%A6%AC/ad848eaf.png" data-original-src="https://boja.mercury.kr/assets/problem/10436-1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="font-family:arial,helvetica,verdana,tahoma,sans-serif; line-height:1.6em" /></p>
 
 <p>이 무한 유리수 트리를 레벨 오더로(그림에서는 화살표 방향) 순회하여 얻어지는 수들을 나열하면 유리수 수열 F(n)을 얻을 수 있다. 첫 몇 개의 항은 아래와 같다.</p>
 

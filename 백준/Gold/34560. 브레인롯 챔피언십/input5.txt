@@ -1,0 +1,5 @@
+4
+RockLeone 10 20 30
+PaperDrago 20 30 10
+ScissorAquila 30 10 20
+Tralalero 50 50 50

@@ -20,7 +20,7 @@
 
 <p>히스토그램의 용량은 히스토그램에 물을 넘치지 않게 담았을 때 최대한 담을 수 있는 물의 양이다. 히스토그램의 각각의 열의 너비는 1이며, 높이는 h<sub>1</sub>, h<sub>2</sub>, &hellip;, h<sub>N</sub>이다. 오른쪽의 이미지는 물이 넘치지 않는 상태의 히스토그램의 예시이다.</p>
 
-<p><img src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/userupload/namnamseo/20160211/c1759dad52c0b7d1cd1dbb10bbbf9dd1.png" style="float:right; height:318px; width:186px" /></p>
+<p><img src="%EB%B0%B1%EC%A4%80/Gold/11877.%E2%80%85%ED%99%8D%EC%88%98/d5a8e478.png" data-original-src="https://boja.mercury.kr/assets/problem/11877-1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="float:right; height:318px; width:186px" /></p>
 
 <p>조금 더 엄밀하게, 각각의 열의 위에 차올라있는 물의 높이를 v<sub>1</sub>, v<sub>2</sub>, &hellip;, v<sub>N</sub> 이라고 하자.</p>
 

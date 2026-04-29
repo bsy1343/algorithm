@@ -1,0 +1,9 @@
+5 3
+algorithm
+bapc
+benelux
+contest
+progaming
+2272
+424242
+2363589

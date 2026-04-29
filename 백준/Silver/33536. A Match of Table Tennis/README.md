@@ -1,0 +1,29 @@
+# [Silver III] A Match of Table Tennis - 33536
+
+[문제 링크](https://www.acmicpc.net/problem/33536)
+
+### 성능 요약
+
+시간 제한: 1 초, 메모리 제한: 2048 MB
+
+### 통계
+
+제출: 32, 정답: 21, 맞힌 사람: 10, 정답 비율: 66.667%
+
+### 분류
+
+구현, 많은 조건 분기, 문자열, 사칙연산, 수학, 파싱
+
+### 문제 설명
+
+<p>The rules of a match of table tennis are quite easy. When a match is played best of five games, it means that the player who wins three games wins. Since there is no point of playing after a winner is decided only the following results are possible: 3-0, 3-1, 3-2, 0-3, 1-3 and 2-3. For each game, the first player to reach 11 points wins that game. However, a game must be won by at least a two point margin. Therefore scores such as 9-12 and 17-14 are not possible, but 9-11, 12-10 and 4-8 are. Each player serves two points in a row and then switch server. However, if a score of 10-10 is reached in any game, then each server serves only one point before the server is switched. In the first game the guest player starts serving, the next game the host starts serving, ect. Both players can score a point, not just the server.</p>
+
+<p>While playing a match of table tennis players are often confused and don't know who the server is. You should help the table tennis players with a program, which can decide who the server is based on the scores. Since people can make mistakes while giving input to the program, you should also check for consistency. Note that you can only start a new game, when the previous game has a winner. </p>
+
+### 입력
+
+<p>On the first line a single integer n, $1 \leq n \leq 5$, the number of games played. On the second line $n$ scores in the form $a-b$, with $0 \leq a, b \leq 99$. </p>
+
+### 출력
+
+<p>Output "HOST" when the host player is serving, "GUEST" when the guest player is serving or "INCONSISTENT" when the input is not correct. </p>

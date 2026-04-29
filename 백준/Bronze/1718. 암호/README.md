@@ -20,7 +20,7 @@
 
 <p>예를 들어 암호화 키가 love이고, 암호화할 문장이 &ldquo;nice day&rdquo; 라면 다음과 같이 암호화가 이루어진다.</p>
 
-<p><img alt="" src="/JudgeOnline/upload/201005/dkagh.PNG" style="height:130px; width:352px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Bronze/1718.%E2%80%85%EC%95%94%ED%98%B8/00f10a0e.png" data-original-src="https://boja.mercury.kr/assets/problem/1718-1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:130px; width:352px" /></p>
 
 <p>제시된 평문의 첫 번째 문자인 &lsquo;n&rsquo;은 해당 암호화 키 &lsquo;l&rsquo;의 알파벳 순서가 12 이므로 알파벳상의 순서에서 &lsquo;n&rsquo;보다 12앞의 문자인 &lsquo;b&rsquo;로 변형된다.</p>
 

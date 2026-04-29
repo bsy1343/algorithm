@@ -1,0 +1,6 @@
+4
+fish 9
+fish 1
+bait 5
+fish 5
+21

@@ -17,7 +17,7 @@
 ### 문제 설명
 
 <p>Microsoft Windows의 그림판에는 색 칠하기 기능이 있다.</p>
-<p><img width="33" height="33" alt="" src="/JudgeOnline/upload/201006/mspaint.PNG" /></p>
+<p><img width="33" height="33" alt="" src="%EB%B0%B1%EC%A4%80/Gold/1724.%E2%80%85%EA%B7%B8%EB%A6%BC%ED%8C%90/a2b5a3c1.png" data-original-src="https://boja.mercury.kr/assets/problem/1724-1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 <p>이 기능을 사용하면 다른 색으로 둘러싸여진 연속된 공간을 색칠할 수 있다.</p>
 <p>직사각형 모양의 그림판에 변에 평행하게 그어진 선분들이 있을 때, 이 선분들로 인해 그림판이 여러 조각으로 쪼개지게 된다. 이들 중 가장 큰 조각의 크기와 가장 작은 조각의 크기를 찾는 프로그램을 작성하시오.</p>
 
@@ -31,4 +31,4 @@
 
 ### 힌트
 
-<p><img width="249" height="203" alt="" src="/JudgeOnline/upload/201006/screen.PNG" /></p>
+<p><img width="249" height="203" alt="" src="%EB%B0%B1%EC%A4%80/Gold/1724.%E2%80%85%EA%B7%B8%EB%A6%BC%ED%8C%90/c13ef8ad.png" data-original-src="https://boja.mercury.kr/assets/problem/1724-2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>

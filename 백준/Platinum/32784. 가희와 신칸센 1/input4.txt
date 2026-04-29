@@ -1,0 +1,27 @@
+2
+13
+Tokyo
+Shinagawa
+Shin-Yokohama
+Odawara
+Atami
+Mishima
+Shin-Fuji
+Shizuoka
+Kakegawa
+Hamamatsu
+Toyohashi
+Mikawa-Anjo
+Nagoya
+11
+Tokyo
+Shinagawa
+Shin-Yokohama
+Atami
+Shizuoka
+Hamamatsu
+Nagoya
+Gifu-Hashima station
+Maibara
+Kyoto
+Shin-Osaka

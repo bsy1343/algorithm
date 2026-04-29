@@ -1,0 +1,7 @@
+C
+GC
+FC
+FFC
+GFC
+YFC
+YSC

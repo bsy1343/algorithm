@@ -1,0 +1,18 @@
+3
+6
+Tokyo
+Shinagawa
+Shin-Yokohama station
+Nagoya
+Kyoto station
+Shin-Osaka
+3
+Candy
+Candy
+kyary pamyu pamyu
+5
+Tokyo station
+Shinagawa station
+Kyoto
+Shin-Osaka station
+Nagoya

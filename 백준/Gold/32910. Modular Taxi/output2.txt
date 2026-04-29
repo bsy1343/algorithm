@@ -1,0 +1,4 @@
+Kaban-5 1 2
+Kaban-4 2 5
+Kaban-3 5 6
+Kaban-8 6 7

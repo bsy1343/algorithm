@@ -20,7 +20,7 @@
 
 <p>그런데 문제가 생겼다. 넓은 판을 교환하다 보니 좌우 대칭인 경우가 있어, 뒤집히는 경우 코드가 헷갈리게 되는 경우가 발생한 것이다. 예를 들어 아래의 두 경우는 달라 보이지만 좌우 대칭을 이루고 있다.</p>
 
-<p><img alt="" src="/JudgeOnline/upload/201006/xkdlf.PNG" style="height:208px; width:253px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/1720.%E2%80%85%ED%83%80%EC%9D%BC%E2%80%85%EC%BD%94%EB%93%9C/fd4aa7cc.png" data-original-src="https://boja.mercury.kr/assets/problem/1720-1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:208px; width:253px" /></p>
 
 <p>N이 주어지면, 전체 타일 코드의 개수를 구하는 프로그램을 작성하시오. (단, 서로 좌우 대칭을 이루는 중복된 표현은 한 가지 경우로만 처리한다.)</p>
 

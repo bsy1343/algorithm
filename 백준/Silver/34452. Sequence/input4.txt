@@ -1,0 +1,5 @@
+4
+1 6c P 6c
+2 Jc R 6c
+3 7h P 7h
+4 9d P 9d

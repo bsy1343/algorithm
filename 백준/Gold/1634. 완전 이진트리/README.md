@@ -23,7 +23,7 @@
 	<li>S에 속한 원소의 수는 반드시 최대이어야 한다.</li>
 </ul>
 
-<p style="text-align: center;"><img alt="" src="/JudgeOnline/upload/201005/untitled.PNG" style="height:221px; width:564px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/1634.%E2%80%85%EC%99%84%EC%A0%84%E2%80%85%EC%9D%B4%EC%A7%84%ED%8A%B8%EB%A6%AC/3b63fa11.png" data-original-src="https://boja.mercury.kr/assets/problem/1634-1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:221px; width:564px" /></p>
 
 <p>왼쪽 그림이 T1, 오른쪽 그림이 T2이다.</p>
 

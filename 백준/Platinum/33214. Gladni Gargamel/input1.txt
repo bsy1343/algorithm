@@ -1,0 +1,9 @@
+3
+2 2
+CC
+CC
+2 2
+CB
+BC
+1 12
+CBCCCCCCCCBC

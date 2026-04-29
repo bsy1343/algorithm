@@ -1,0 +1,17 @@
+
+
+type 8
+
+type 1
+
+multi 6
+
+multi 3
+
+answer 5
+
+multi 3
+
+type 3
+
+answer 3

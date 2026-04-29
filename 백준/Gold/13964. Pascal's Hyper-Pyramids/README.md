@@ -18,7 +18,7 @@
 
 <p>We programmers know and love Pascal&#39;s triangle: an array of numbers with 1 at the top and whose entries are the sum of the two numbers directly above (except numbers at both ends, which are always 1). For programming this generation rule, the triangle is best represented left-aligned; then the numbers on the left column and on the top row equal 1 and every other is the sum of the numbers immediately above and to its left. The numbers highlighted in bold correspond to the base of Pascal&#39;s triangle of height 5:</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/13964.%E2%80%85Pascal's%E2%80%85Hyper-Pyramids/b56de0f0.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/13964.%E2%80%85Pascal's%E2%80%85Hyper-Pyramids/b56de0f0.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/13964/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-12-30%20%EC%98%A4%ED%9B%84%205.05.48.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:107px; width:116px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/13964.%E2%80%85Pascal's%E2%80%85Hyper-Pyramids/b56de0f0.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/13964.%E2%80%85Pascal's%E2%80%85Hyper-Pyramids/164653f0.png" data-original-src="https://boja.mercury.kr/assets/problem/13964-1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:107px; width:116px" /></p>
 
 <p>Pascal&#39;s hyper-pyramids generalize the triangle to higher dimensions. In 3 dimensions, the value at position (x,y,z) is the sum of up to three other values:</p>
 
@@ -30,7 +30,7 @@
 
 <p>The following figure depicts Pascal&#39;s 2D-pyramid of height 5 as a series of plane cuts obtained by fixing the value of the z coordinate.</p>
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/13964.%E2%80%85Pascal's%E2%80%85Hyper-Pyramids/2ab4056d.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/13964.%E2%80%85Pascal's%E2%80%85Hyper-Pyramids/2ab4056d.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/13964/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-12-30%20%EC%98%A4%ED%9B%84%205.09.45.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:117px; width:480px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/13964.%E2%80%85Pascal's%E2%80%85Hyper-Pyramids/2ab4056d.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/13964.%E2%80%85Pascal's%E2%80%85Hyper-Pyramids/62293fbb.png" data-original-src="https://boja.mercury.kr/assets/problem/13964-2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:117px; width:480px" /></p>
 
 <p>For example, the number at position x=1, y=2, z=1 is the sum of the values at (0,2,1), (1,1,1) and (1,2,0), namely, 6+3+3=12. The base of the pyramid corresponds to a plane of positions such that x+y+z=4 (highlighted on bold above).</p>
 

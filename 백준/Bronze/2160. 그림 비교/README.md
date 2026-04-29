@@ -18,7 +18,7 @@
 
 <p>N(2 &le; N &le; 50)개의 그림이 있다. 각각의 그림은 5&times;7의 크기이고, 두 가지 색으로 되어 있다. 이때 두 가지의 색을 각각 &lsquo;X&rsquo;와 &lsquo;.&rsquo;으로 표현하기로 하자. 이러한 그림들이 주어졌을 때, 가장 비슷한 두 개의 그림을 찾아내는 프로그램을 작성하시오. 두 개의 그림에서 다른 칸의 개수가 가장 적을 때, 두 개의 그림이 가장 비슷하다고 하자.</p>
 
-<p style="text-align: center;"><img alt="" height="175" src="/JudgeOnline/upload/201008/picpic.PNG" width="454" /></p>
+<p style="text-align: center;"><img alt="" height="175" src="%EB%B0%B1%EC%A4%80/Bronze/2160.%E2%80%85%EA%B7%B8%EB%A6%BC%E2%80%85%EB%B9%84%EA%B5%90/f49829e5.png" data-original-src="https://boja.mercury.kr/assets/problem/2160-1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" width="454" /></p>
 
 <p>예를 들어 위와 같은 두 개의 그림이 주어졌을 때, 색칠한 부분이 서로 다르게 된다. 위의 그림은 5개의 칸이 서로 다르다. 이와 같이 서로 다른 칸의 개수가 가장 작은 경우를 찾는 것이다.</p>
 

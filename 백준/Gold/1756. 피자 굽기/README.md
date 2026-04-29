@@ -32,4 +32,4 @@
 
 ### 힌트
 
-<p><img alt="" src="/JudgeOnline/upload/201006/piz2.PNG" style="height:156px; width:266px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/1756.%E2%80%85%ED%94%BC%EC%9E%90%E2%80%85%EA%B5%BD%EA%B8%B0/3bcf3d62.png" data-original-src="https://boja.mercury.kr/assets/problem/1756-2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:156px; width:266px" /></p>

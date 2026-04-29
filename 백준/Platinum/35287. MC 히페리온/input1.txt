@@ -1,0 +1,13 @@
+3 8
+suapc
+swapc
+apac
+1 2 4
+2 c
+2 pc
+2 apc
+1 3 100
+2 c
+2 pc
+2 pac
+2 hyperionv

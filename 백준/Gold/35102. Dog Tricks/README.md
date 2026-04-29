@@ -1,0 +1,49 @@
+# [Gold I] Dog Tricks - 35102
+
+[문제 링크](https://www.acmicpc.net/problem/35102)
+
+### 성능 요약
+
+시간 제한: 2 초, 메모리 제한: 2048 MB
+
+### 통계
+
+제출: 21, 정답: 12, 맞힌 사람: 12, 정답 비율: 57.143%
+
+### 분류
+
+해 구성하기
+
+### 문제 설명
+
+<p>The videos showcasing a wide variety of tricks performed by your two pet dogs, Amy and Bessie, have become popular content in the Icpca Kingdom. To explore the potential for further videos, you taught the dogs a new trick.</p>
+
+<p>The new trick is performed using plates aligned from left to right. Each plate holds either an apple or a banana.</p>
+
+<p>When you command Amy, she holds a banana in her mouth and looks at each plate in turn from left to right. She skips any plate with a banana and, upon reaching the first plate with an apple, places the banana she was carrying on that plate, picks up the apple, and continues to the right. Then she skips any plate with an apple and, upon reaching the first plate with a banana, places the apple she was carrying on that plate, picks up the banana, and comes back to you, successfully completing the trick. If the fruits on the plates are not arranged in a way that allows this, the trick fails.</p>
+
+<p>When you command Bessie, she holds an apple in her mouth and looks at each plate in turn from left to right. She skips any plate with an apple and, upon reaching the first plate with a banana, places the apple she was carrying on that plate, picks up the banana, and continues to the right. Then she skips any plate with a banana and, upon reaching the first plate with an apple, places the banana she was carrying on that plate, picks up the apple, and comes back to you, successfully completing the trick. If the fruits on the plates are not arranged in a way that allows this, the trick fails.</p>
+
+<p>You cannot command both dogs simultaneously, nor can you command one dog while the other is performing a trick.</p>
+
+<p>In the next video project, you want to rearrange the fruits on the plates into the target state by repeatedly having the dogs perform successful tricks. You are given the initial and target states of the fruits on the plates. Starting from the initial state, can you rearrange the fruits on the plates into the target state by issuing no more than a specified number of commands to Amy and Bessie in an appropriate order? If possible, find a sequence of such commands.</p>
+
+### 입력
+
+<p>The input consists of at most $100$ test cases, each in the following format.</p>
+
+<blockquote>
+<p>$n$</p>
+
+<p>$s$</p>
+
+<p>$t$</p>
+</blockquote>
+
+<p>Each test case consists of three lines. The first line contains an integer $n$ between $1$ and $100$, inclusive, representing the number of plates. The second line contains a string $s$ representing the initial state. If the $i$-th character of $s$ is <code>a</code>, an apple is on the $i$-th plate from the left in the initial state; if it is <code>b</code>, a banana is on it. The third line contains a string $t$ representing the target state. If the $i$-th character of $t$ is <code>a</code>, an apple should be on the $i$-th plate from the left in the target state; if it is <code>b</code>, a banana should be on it. Both $s$ and $t$ consist only of <code>a</code> and <code>b</code>, and they both have length $n$. Strings $s$ and $t$ are not identical.</p>
+
+<p>The end of the input is indicated by a line consisting only of a zero.</p>
+
+### 출력
+
+<p>For each test case, output <code>yes</code> in a line if there exists a sequence of $10\, 000$ or less commands to the dogs that rearranges the initial state to the target state; otherwise, output <code>no</code> in a line. In addition, if such a sequence exists, output a string representing the command sequence in the next line. The string should consist of the characters <code>A</code> and <code>B</code>. Its $i$-th character being <code>A</code> means the $i$-th command is to Amy, while its being <code>B</code> means the command is to Bessie. If there are two or more such sequences, any of them is accepted.</p>

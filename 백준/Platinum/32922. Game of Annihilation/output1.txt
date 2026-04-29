@@ -1,0 +1,10 @@
+Draw 0 0
+Draw 2 -
+Draw 4 -
+Draw 2 -
+Draw 0 0
+Draw 2 +
+Second
+Draw 0 0
+Draw 2 -
+First 1 +

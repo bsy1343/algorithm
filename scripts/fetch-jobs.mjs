@@ -122,6 +122,65 @@ async function fetchHanwhaApi(params) {
   });
 }
 
+// CJ careers portal — same trick as Hanwha: hit the JSON endpoint the SPA
+// already calls (recruit.cj.net/.../searchNewGonggoList.fo). Filters
+// (채용구분 / 직무 / 주관사) are passed as the codes the site uses.
+async function fetchCjApi(params) {
+  const {
+    arrGubun = '',     // 채용구분: B=경력, A=신입
+    arrRecJob = '',    // 직무: IR=IT, etc.
+    arrRecBu = '',     // 주관사 (계열사 코드)
+    arrRecArea = '',   // 지역
+    pageSize = 200,    // tot_cnt 181 → 200이면 한 번에 다 받음
+  } = params;
+  const body = {
+    pageVal: '1',
+    pageIndex: String(pageSize),
+    orderDesc: '1',
+    sch_title: '',
+    arrGubun,
+    arrRecBu,
+    arrRecJob,
+    arrRecArea,
+    schArea: arrGubun || arrRecJob || arrRecBu || arrRecArea ? 'Y' : 'N',
+    recGubunbox: arrGubun,
+    recJobbox: arrRecJob,
+  };
+  const r = await fetch('https://recruit.cj.net/recruit/ko/recruit/recruit/searchNewGonggoList.fo', {
+    method: 'POST',
+    headers: {
+      'Content-Type': 'application/json',
+      'User-Agent': UA,
+      'Accept': 'application/json, text/plain, */*',
+      'Origin': 'https://recruit.cj.net',
+      'Referer': 'https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo',
+    },
+    body: JSON.stringify(body),
+  });
+  if (!r.ok) throw new Error(`CJ HTTP ${r.status}`);
+  const d = await r.json();
+  const items = d?.ds_newRecruitList || [];
+  return items.map(it => {
+    const dl = it.zz_end_dt_str ? it.zz_end_dt_str.replace(/\./g, '-') : '';
+    const tm = (it.zz_end_hh && it.zz_end_mi) ? `${it.zz_end_hh}:${it.zz_end_mi}` : '';
+    return {
+      title: it.zz_title || '',
+      // department gets "회사명 / 직무" so the calendar entry shows which CJ
+      // subsidiary (올리브영 vs 올리브네트웍스 vs 4DPLEX) the posting is for.
+      department: it.compnm
+        ? `${it.compnm}${it.job_cd_nm ? ' / ' + it.job_cd_nm : ''}`
+        : (it.job_cd_nm || ''),
+      location: it.location_cd_nm || '',
+      deadline: dl,
+      deadlineTime: tm,
+      // Detail page URL: list view with the zz_jo_num so the user can find it.
+      url: it.zz_jo_num
+        ? `https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=${encodeURIComponent(it.zz_jo_num)}`
+        : '',
+    };
+  });
+}
+
 async function getBrowser() {
   if (browserHandle) return browserHandle;
   const mod = await import('playwright');
@@ -345,6 +404,7 @@ async function main() {
       else if (c.fetcher === 'next-data') raw = await fetchNextData(c.params);
       else if (c.fetcher === 'playwright') raw = await fetchPlaywright(c.params);
       else if (c.fetcher === 'hanwha-api') raw = await fetchHanwhaApi(c.params);
+      else if (c.fetcher === 'cj-api') raw = await fetchCjApi(c.params);
       else throw new Error(`unknown fetcher: ${c.fetcher}`);
       // Fallback url: link to the company's main listing page if individual url is empty
       // (parseFromBodyText extractors can't reliably attach per-job URLs).

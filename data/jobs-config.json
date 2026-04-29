@@ -123,13 +123,13 @@
     {
       "id": "cj",
       "name": "CJ (올리브영/올네/대한통운)",
-      "fetcher": "playwright",
+      "fetcher": "cj-api",
       "params": {
-        "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo",
-        "parseFromBodyText": true,
-        "scrollPasses": 6,
-        "clickFilters": ["IT", "경력"]
+        "_help": "arrGubun=B(경력), arrRecJob=IR(IT). 회사별 분류는 compnm로 자동 — CJ올리브영/CJ올리브네트웍스/CJ대한통운/CJ 4DPLEX 모두 한 번에 들어옴.",
+        "arrGubun": "B",
+        "arrRecJob": "IR"
       },
+      "bypassFilter": true,
       "enabled": true
     },
     {

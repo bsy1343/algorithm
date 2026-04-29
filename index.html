@@ -2035,16 +2035,18 @@
         State.problems = Parser.parseTree(tree);
         Sidebar.buildTabs();
         Sidebar.renderList();
-        const sourceLabel = {
-          'fresh': '갱신됨',
-          'cache-fresh': '캐시',
-          'etag-304': '캐시(검증)',
-          'rate-limited-cache': '캐시(rate-limited)',
+        // Show source only when it's something the user might need to act on.
+        // Normal fast paths (static / cache / etag-304 / fresh) are silent.
+        const warnLabels = {
+          'rate-limited-cache': '캐시(한도초과)',
           'offline-cache': '캐시(오프라인)',
           'error-cache': '캐시(오류)',
-        }[source] || source;
-        const tone = ['rate-limited-cache', 'offline-cache', 'error-cache'].includes(source) ? 'warn' : '';
-        Topbar.setChip(`${State.problems.length.toLocaleString()}문제 · ${sourceLabel}`, tone);
+        };
+        const warnLabel = warnLabels[source];
+        const text = warnLabel
+          ? `${State.problems.length.toLocaleString()}문제 · ${warnLabel}`
+          : `${State.problems.length.toLocaleString()}문제`;
+        Topbar.setChip(text, warnLabel ? 'warn' : '');
         if (error) console.warn('[App] tree fetch warning:', error);
       } catch (e) {
         Topbar.setChip(`오류: ${e.message}`, 'err');

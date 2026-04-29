@@ -8,6 +8,20 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500&family=Pretendard:wght@400;500;600&display=swap" rel="stylesheet">
+<script>
+  // MathJax v3 — render LaTeX (e.g., $1 \le N \le 10^9$) inside problem bodies.
+  // Skip code/pre/textarea so sample I/O containing literal `$` is not parsed.
+  window.MathJax = {
+    tex: {
+      inlineMath: [['$', '$'], ['\\(', '\\)']],
+      displayMath: [['$$', '$$'], ['\\[', '\\]']],
+      processEscapes: true,
+    },
+    options: { skipHtmlTags: ['script', 'noscript', 'style', 'textarea', 'pre', 'code'] },
+    startup: { typeset: false },
+  };
+</script>
+<script async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-svg.js"></script>
 <style>
   *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
@@ -1146,6 +1160,11 @@
 
         this.setContent(html);
         this.attachIOCopyHandlers();
+        // Render LaTeX via MathJax once it has loaded.
+        const el = document.getElementById('main-content');
+        const typeset = () => window.MathJax?.typesetPromise?.([el]).catch(() => {});
+        if (window.MathJax?.typesetPromise) typeset();
+        else if (window.MathJax?.startup?.promise) window.MathJax.startup.promise.then(typeset);
       } catch (e) {
         this.setContent(`<div class="err-msg">${esc(e.message)}</div>`);
       }

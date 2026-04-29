@@ -405,6 +405,8 @@
     font-family: var(--mono); background: var(--bg2);
     border: 1px solid var(--border); border-radius: var(--radius);
     outline: none; line-height: 1.7;
+    tab-size: 4; -moz-tab-size: 4;
+    white-space: pre; overflow-wrap: normal; overflow-x: auto;
   }
   .editor:focus { border-color: var(--border2); }
   .editor::placeholder { color: var(--text3); }
@@ -1404,6 +1406,60 @@
       const status = document.getElementById('solution-status');
       editor.value = initial;
       editor.focus();
+
+      // Code-editor keybindings: Tab/Shift+Tab indent, Enter auto-indent.
+      const INDENT = '    '; // 4 spaces (matches user's existing solutions)
+      editor.addEventListener('keydown', (e) => {
+        const start = editor.selectionStart;
+        const end = editor.selectionEnd;
+        const v = editor.value;
+        if (e.key === 'Tab') {
+          e.preventDefault();
+          if (start === end) {
+            if (e.shiftKey) {
+              const lineStart = v.lastIndexOf('\n', start - 1) + 1;
+              const before = v.slice(lineStart, start);
+              const m = before.match(/^( {1,4}|\t)/);
+              if (m) {
+                const len = m[0].length;
+                editor.value = v.slice(0, lineStart) + before.slice(len) + v.slice(start);
+                editor.selectionStart = editor.selectionEnd = start - len;
+              }
+            } else {
+              editor.value = v.slice(0, start) + INDENT + v.slice(end);
+              editor.selectionStart = editor.selectionEnd = start + INDENT.length;
+            }
+          } else {
+            // Multi-line selection: indent/dedent each line
+            const lineStart = v.lastIndexOf('\n', start - 1) + 1;
+            const block = v.slice(lineStart, end);
+            const before = v.slice(0, lineStart);
+            const after = v.slice(end);
+            let newBlock;
+            if (e.shiftKey) {
+              newBlock = block.split('\n').map(l => l.replace(/^( {1,4}|\t)/, '')).join('\n');
+            } else {
+              newBlock = block.split('\n').map(l => INDENT + l).join('\n');
+            }
+            editor.value = before + newBlock + after;
+            editor.selectionStart = lineStart;
+            editor.selectionEnd = lineStart + newBlock.length;
+          }
+          editor.dispatchEvent(new Event('input'));
+        } else if (e.key === 'Enter' && start === end) {
+          // Auto-indent: copy leading whitespace; add extra indent if line ends with '{'
+          const lineStart = v.lastIndexOf('\n', start - 1) + 1;
+          const currentLine = v.slice(lineStart, start);
+          const im = currentLine.match(/^[ \t]*/);
+          let indent = im ? im[0] : '';
+          if (currentLine.trimEnd().endsWith('{')) indent += INDENT;
+          e.preventDefault();
+          const insertion = '\n' + indent;
+          editor.value = v.slice(0, start) + insertion + v.slice(end);
+          editor.selectionStart = editor.selectionEnd = start + insertion.length;
+          editor.dispatchEvent(new Event('input'));
+        }
+      });
 
       let timer;
       editor.addEventListener('input', () => {

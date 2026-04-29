@@ -935,10 +935,42 @@
         </div>
       `;
       sb.querySelector('#search-inp').value = State.pref.searchQuery;
+      // Debounced — avoids re-rendering the full list on every keystroke.
+      let searchTimer = null;
       sb.querySelector('#search-inp').addEventListener('input', (e) => {
-        State.pref.searchQuery = e.target.value.trim();
-        State.savePref();
-        this.renderList();
+        const v = e.target.value.trim();
+        if (searchTimer) clearTimeout(searchTimer);
+        searchTimer = setTimeout(() => {
+          State.pref.searchQuery = v;
+          State.savePref();
+          this.renderList();
+        }, 180);
+      });
+      // Single delegated click handler — set up once, survives renderList()
+      // re-painting innerHTML. Avoids attaching N listeners per render.
+      sb.querySelector('#problem-list').addEventListener('click', (e) => {
+        const fav = e.target.closest?.('.pi-fav');
+        if (fav) {
+          e.stopPropagation();
+          const p = State.problems.find(x => x.tier === fav.dataset.favTier && x.num === fav.dataset.favNum);
+          if (!p) return;
+          State.toggleFav(p);
+          const on = State.isFav(p);
+          fav.classList.toggle('on', on);
+          fav.textContent = on ? '★' : '☆';
+          const favTab = document.querySelector('.tier-tab[data-tier="★"]');
+          if (favTab) {
+            const c = State.favs.size;
+            favTab.innerHTML = `<span class="icon fav">★</span>${c ? esc(String(c)) : ''}`;
+          }
+          if (State.pref.tierFilter === '★' && !on) {
+            const row = fav.closest('.problem-item');
+            if (row) row.remove();
+          }
+          return;
+        }
+        const item = e.target.closest?.('.problem-item');
+        if (item) App.selectProblem(item.dataset.tier, item.dataset.num);
       });
     },
 
@@ -985,41 +1017,28 @@
         el.innerHTML = '<div class="empty-sidebar">결과 없음</div>';
         return;
       }
-      el.innerHTML = list.map(p => {
+      // Hot loop — keep allocations and lookups minimal. Local refs win
+      // when iterating 20k+ items. Crucially, parse the drafts blob ONCE
+      // here instead of via State.hasDraft() per item (23k JSON.parses).
+      const cur = State.currentProblem;
+      const draftsRaw = localStorage.getItem(State.DRAFT_KEY);
+      const drafts = new Set(draftsRaw ? Object.keys(JSON.parse(draftsRaw)) : []);
+      const favs = State.favs;
+      const levelMap = State.levelMap;
+      const parts = new Array(list.length);
+      for (let i = 0; i < list.length; i++) {
+        const p = list[i];
         const dot = Parser.tierColor(p.tier);
-        const isActive = State.currentProblem &&
-          State.currentProblem.num === p.num && State.currentProblem.tier === p.tier;
+        const isActive = cur && cur.num === p.num && cur.tier === p.tier;
         const ioCount = p.files.inputs.length;
-        const draftMark = State.hasDraft(p) ? ' has-draft' : '';
-        const fav = State.isFav(p);
-        // Show precise sub-tier label (Silver III 등) when level info is loaded.
-        const lvl = State.levelMap[p.num];
+        const k = p.tier + '/' + p.num;
+        const draftMark = drafts.has(k) ? ' has-draft' : '';
+        const isFav = favs.has(k);
+        const lvl = levelMap[p.num];
         const tierLabel = lvl ? Parser.levelToLabel(lvl) : p.tier;
-        return `<div class="problem-item${isActive ? ' active' : ''}${draftMark}" data-tier="${esc(p.tier)}" data-num="${esc(p.num)}">
-          <div class="pi-top">
-            <div class="pi-tier-dot" style="background:${dot}"></div>
-            <div class="pi-num">#${esc(p.num)}</div>
-            <div class="pi-title">${esc(p.title)}</div>
-            <div class="pi-fav${fav ? ' on' : ''}" data-fav-tier="${esc(p.tier)}" data-fav-num="${esc(p.num)}" title="즐겨찾기">${fav ? '★' : '☆'}</div>
-          </div>
-          <div class="pi-meta">${esc(tierLabel)}${ioCount ? ' · 예제 ' + ioCount + '개' : ''}</div>
-        </div>`;
-      }).join('');
-      el.querySelectorAll('.problem-item').forEach(node => {
-        node.addEventListener('click', () => {
-          App.selectProblem(node.dataset.tier, node.dataset.num);
-        });
-      });
-      el.querySelectorAll('.pi-fav').forEach(node => {
-        node.addEventListener('click', (e) => {
-          e.stopPropagation();
-          const p = State.problems.find(x => x.tier === node.dataset.favTier && x.num === node.dataset.favNum);
-          if (!p) return;
-          State.toggleFav(p);
-          this.buildTabs();
-          this.renderList();
-        });
-      });
+        parts[i] = `<div class="problem-item${isActive ? ' active' : ''}${draftMark}" data-tier="${esc(p.tier)}" data-num="${esc(p.num)}"><div class="pi-top"><div class="pi-tier-dot" style="background:${dot}"></div><div class="pi-num">#${esc(p.num)}</div><div class="pi-title">${esc(p.title)}</div><div class="pi-fav${isFav ? ' on' : ''}" data-fav-tier="${esc(p.tier)}" data-fav-num="${esc(p.num)}" title="즐겨찾기">${isFav ? '★' : '☆'}</div></div><div class="pi-meta">${esc(tierLabel)}${ioCount ? ' · 예제 ' + ioCount + '개' : ''}</div></div>`;
+      }
+      el.innerHTML = parts.join('');
     },
   };
 

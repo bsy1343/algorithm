@@ -964,8 +964,8 @@
             favTab.innerHTML = `<span class="icon fav">★</span>${c ? esc(String(c)) : ''}`;
           }
           if (State.pref.tierFilter === '★' && !on) {
-            const row = fav.closest('.problem-item');
-            if (row) row.remove();
+            // List length changes — recompute spacer + visible window.
+            this.renderList();
           }
           return;
         }
@@ -1002,6 +1002,10 @@
       });
     },
 
+    // Virtual scroll constants. Item is 58.8px tall + 1px gap → 60px slot.
+    ITEM_H: 60,
+    BUF_ROWS: 6,
+
     renderList() {
       const q = State.pref.searchQuery.toLowerCase();
       let list;
@@ -1013,20 +1017,59 @@
       if (q) list = list.filter(p => p.num.includes(q) || p.title.toLowerCase().includes(q));
 
       const el = document.getElementById('problem-list');
+      this._list = list;
       if (!list.length) {
         el.innerHTML = '<div class="empty-sidebar">결과 없음</div>';
         return;
       }
-      // Hot loop — keep allocations and lookups minimal. Local refs win
-      // when iterating 20k+ items. Crucially, parse the drafts blob ONCE
-      // here instead of via State.hasDraft() per item (23k JSON.parses).
+      // Replace contents with a fixed-height spacer; only the visible
+      // window of items is materialized inside it.
+      el.innerHTML = `<div id="vs-pad" style="position:relative;height:${list.length * this.ITEM_H}px;"></div>`;
+      // Attach the rAF-throttled scroll handler exactly once per list element.
+      if (!el._vsBound) {
+        el._vsBound = true;
+        el.addEventListener('scroll', () => {
+          if (this._vsRaf) return;
+          this._vsRaf = requestAnimationFrame(() => {
+            this._vsRaf = null;
+            this._vsPaint();
+          });
+        }, { passive: true });
+      }
+      // Reset scroll: jump to currentProblem if it's in the new list, else top.
+      let scrollTop = 0;
+      if (State.currentProblem) {
+        const idx = list.findIndex(p => p.tier === State.currentProblem.tier && p.num === State.currentProblem.num);
+        if (idx >= 0) scrollTop = Math.max(0, idx * this.ITEM_H - el.clientHeight / 2);
+      }
+      el.scrollTop = scrollTop;
+      this._vsLastStart = -1;
+      this._vsLastEnd = -1;
+      this._vsPaint();
+    },
+
+    _vsPaint() {
+      const list = this._list;
+      if (!list || !list.length) return;
+      const el = document.getElementById('problem-list');
+      const pad = document.getElementById('vs-pad');
+      if (!el || !pad) return;
+      const H = this.ITEM_H, B = this.BUF_ROWS;
+      const scrollTop = el.scrollTop;
+      const viewH = el.clientHeight;
+      const startI = Math.max(0, Math.floor(scrollTop / H) - B);
+      const endI = Math.min(list.length, Math.ceil((scrollTop + viewH) / H) + B);
+      if (startI === this._vsLastStart && endI === this._vsLastEnd) return;
+      this._vsLastStart = startI;
+      this._vsLastEnd = endI;
+
       const cur = State.currentProblem;
       const draftsRaw = localStorage.getItem(State.DRAFT_KEY);
       const drafts = new Set(draftsRaw ? Object.keys(JSON.parse(draftsRaw)) : []);
       const favs = State.favs;
       const levelMap = State.levelMap;
-      const parts = new Array(list.length);
-      for (let i = 0; i < list.length; i++) {
+      const parts = [];
+      for (let i = startI; i < endI; i++) {
         const p = list[i];
         const dot = Parser.tierColor(p.tier);
         const isActive = cur && cur.num === p.num && cur.tier === p.tier;
@@ -1036,9 +1079,10 @@
         const isFav = favs.has(k);
         const lvl = levelMap[p.num];
         const tierLabel = lvl ? Parser.levelToLabel(lvl) : p.tier;
-        parts[i] = `<div class="problem-item${isActive ? ' active' : ''}${draftMark}" data-tier="${esc(p.tier)}" data-num="${esc(p.num)}"><div class="pi-top"><div class="pi-tier-dot" style="background:${dot}"></div><div class="pi-num">#${esc(p.num)}</div><div class="pi-title">${esc(p.title)}</div><div class="pi-fav${isFav ? ' on' : ''}" data-fav-tier="${esc(p.tier)}" data-fav-num="${esc(p.num)}" title="즐겨찾기">${isFav ? '★' : '☆'}</div></div><div class="pi-meta">${esc(tierLabel)}${ioCount ? ' · 예제 ' + ioCount + '개' : ''}</div></div>`;
+        const top = i * H;
+        parts.push(`<div class="problem-item${isActive ? ' active' : ''}${draftMark}" style="position:absolute;top:${top}px;left:0;right:0;margin:0;" data-tier="${esc(p.tier)}" data-num="${esc(p.num)}"><div class="pi-top"><div class="pi-tier-dot" style="background:${dot}"></div><div class="pi-num">#${esc(p.num)}</div><div class="pi-title">${esc(p.title)}</div><div class="pi-fav${isFav ? ' on' : ''}" data-fav-tier="${esc(p.tier)}" data-fav-num="${esc(p.num)}" title="즐겨찾기">${isFav ? '★' : '☆'}</div></div><div class="pi-meta">${esc(tierLabel)}${ioCount ? ' · 예제 ' + ioCount + '개' : ''}</div></div>`);
       }
-      el.innerHTML = parts.join('');
+      pad.innerHTML = parts.join('');
     },
   };
 

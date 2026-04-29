@@ -1,13 +1,15 @@
 name: Archive BOJ images
 
-# Hourly schedule — script is idempotent (skips when nothing to do).
-# We do NOT trigger on push to avoid coupling with BaekjoonHub auto-commits.
-# If you ever want it to run immediately, use Actions tab → "Run workflow"
-# (workflow_dispatch).
+# DISABLED (2026-04-29): BOJ site (acmicpc.net) is offline, so this workflow's
+# script can no longer fetch anything. Replacement is on-demand:
+#   - scripts/import-from-boja.mjs        (new problems from boja.mercury.kr)
+#   - scripts/localize-images-from-boja.mjs (per-problem image localization)
+# Schedule is removed; only manual dispatch remains. To re-enable later,
+# restore the schedule line below.
 on:
-  schedule:
-    - cron: '0 * * * *'   # every hour at :00 (UTC). 5–15 min drift possible.
   workflow_dispatch:
+  # schedule:
+  #   - cron: '0 * * * *'   # every hour at :00 (UTC).
 
 jobs:
   archive:

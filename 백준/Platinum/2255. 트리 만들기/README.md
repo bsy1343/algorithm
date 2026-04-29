@@ -18,7 +18,7 @@
 
 <p>주어진 그래프의 한 노드를 루트로 갖는 스패닝 트리는 여러 개이다. 한 (루트가 있는) 스패닝 트리에서, 루트가 아닌 모든 정점들에 대해서, 그 정점의 부모 정점의 차수의 총 합을 SFD(Sum of Father&#39;s Degree)라 한다. 이때 각 정점들의 차수는 스패닝 트리에서가 아니라 원래 그래프에서의 차수를 의미한다. 그래프에서 어떤 정점의 차수는 그 정점에 연결된 정점들의 개수를 의미한다.</p>
 
-<p style="text-align: center;"><img alt="" height="225" src="/JudgeOnline/upload/201008/trtr.PNG" width="498" /></p>
+<p style="text-align: center;"><img alt="" height="225" src="%EB%B0%B1%EC%A4%80/Platinum/2255.%E2%80%85%ED%8A%B8%EB%A6%AC%E2%80%85%EB%A7%8C%EB%93%A4%EA%B8%B0/a16cafd9.png" data-original-src="https://boja.mercury.kr/assets/problem/2255-1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" width="498" /></p>
 
 <p>이해를 돕기 위해 위의 그림을 보자. 제일 왼쪽 그림은 하나의 그래프이고, 오른쪽의 두 개의 그림은 그 그래프의 루트가 있는(1번 정점) 스패닝 트리를 두 개 나타낸 것이다. 가운데 그림의 경우에는 루트를 제외한 2, 3, 4, 5번 정점에 대해서, 그 부모 정점이 1번 정점이 된다. 1번 정점의 원래 그래프에서의 차수가 4이므로, 이 경우 SFD는 4 + 4 + 4 + 4 = 16가 된다. 세 번째 그림에서는 부모 정점들이 각각 1, 2, 3, 4 이므로 이 경우 SFD는 4 + 3 + 3 + 3 = 13이 된다. 그리고 이러한 경우가 최적인 경우이다.</p>
 

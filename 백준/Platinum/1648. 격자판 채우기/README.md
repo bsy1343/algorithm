@@ -22,7 +22,7 @@
 
 <p>아래 그림은 N = 3, M = 6인 예이다.</p>
 
-<p style="text-align: center;"><img alt="" src="/JudgeOnline/upload/201005/dom.PNG" style="height:85px; width:164px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/1648.%E2%80%85%EA%B2%A9%EC%9E%90%ED%8C%90%E2%80%85%EC%B1%84%EC%9A%B0%EA%B8%B0/2a26cd00.png" data-original-src="https://boja.mercury.kr/assets/problem/1648-1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:85px; width:164px" /></p>
 
 <p>N과 M이 주어졌을 때, 격자판을 2x1크기의 도미노로 채우는 방법의 수를 구하는 방법을 작성하시오. 도미노는 회전시켜 1x2크기로 채울 수 있다. 도미노로 모두 채웠을 때, 빈 칸이 존재하면 안 된다.</p>
 

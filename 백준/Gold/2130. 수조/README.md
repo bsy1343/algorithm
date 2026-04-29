@@ -20,7 +20,7 @@
 
 <p>이러한 수조에 부피 V(1 &le; V &le; 2,000,000,000)만큼의 물을 넣으려고 한다. 수조들은 모두 파이프로 연결되어 있기 때문에, 전체 수조들의 제일 아래부터 차례로 물이 차게 된다. 문제의 편의를 위해서 파이프의 크기는 무시하기로 하자. 즉, 물은 파이프에는 들어가지 않고 수조에만 채워지는 것으로 간주한다. 이와 같이 물을 채웠을 때, 최종 수면의 높이를 구하려고 한다. 예를 들어 아래와 같은 경우에는 최종 수면의 높이 17이 된다.</p>
 
-<p style="text-align: center;"><img alt="" src="/JudgeOnline/upload/201008/water.PNG" style="height:384px; width:455px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/2130.%E2%80%85%EC%88%98%EC%A1%B0/e093c0a8.png" data-original-src="https://boja.mercury.kr/assets/problem/2130-1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:384px; width:455px" /></p>
 
 <p>수조들에 대한 정보와 물의 양이 주어졌을 때, 최종 수면의 높이를 구하는 프로그램을 작성하시오.</p>
 

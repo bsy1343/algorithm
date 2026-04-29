@@ -26,9 +26,9 @@
 	<li>벽을 넘는 도중에&nbsp;방향을 바꿀 순 없으며, 벽을 넘으면 1번 이동한 것으로 간주한다.</li>
 </ul>
 
-<p>다음은 벽을 넘는 것에 대한 예시다. 주황색은 건우가 있는 곳 파란색은 벽이다.<img alt="" src="" /></p>
+<p>다음은 벽을 넘는 것에 대한 예시다. 주황색은 건우가 있는 곳 파란색은 벽이다.<img alt="" src="%EB%B0%B1%EC%A4%80/Gold/18224.%E2%80%85%EB%AF%B8%EB%A1%9C%EC%97%90%E2%80%85%EA%B0%87%ED%9E%8C%E2%80%85%EA%B1%B4%EC%9A%B0/95e6fa3c.png" data-original-src="https://boja.mercury.kr/assets/problem/18224-1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
-<p style="text-align: center;"><img alt="" src="" /><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/18224.%E2%80%85%EB%AF%B8%EB%A1%9C%EC%97%90%E2%80%85%EA%B0%87%ED%9E%8C%E2%80%85%EA%B1%B4%EC%9A%B0/ea53107f.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/18224.%E2%80%85%EB%AF%B8%EB%A1%9C%EC%97%90%E2%80%85%EA%B0%87%ED%9E%8C%E2%80%85%EA%B1%B4%EC%9A%B0/ea53107f.png" data-original-src="https://upload.acmicpc.net/8dedbc28-5f75-42e1-b285-dbfae801a0a2/-/crop/818x328/113,156/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 241px; width: 600px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/18224.%E2%80%85%EB%AF%B8%EB%A1%9C%EC%97%90%E2%80%85%EA%B0%87%ED%9E%8C%E2%80%85%EA%B1%B4%EC%9A%B0/8b70183e.png" data-original-src="https://boja.mercury.kr/assets/problem/18224-2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/18224.%E2%80%85%EB%AF%B8%EB%A1%9C%EC%97%90%E2%80%85%EA%B0%87%ED%9E%8C%E2%80%85%EA%B1%B4%EC%9A%B0/ea53107f.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/18224.%E2%80%85%EB%AF%B8%EB%A1%9C%EC%97%90%E2%80%85%EA%B0%87%ED%9E%8C%E2%80%85%EA%B1%B4%EC%9A%B0/ea53107f.png" data-original-src="https://upload.acmicpc.net/8dedbc28-5f75-42e1-b285-dbfae801a0a2/-/crop/818x328/113,156/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 241px; width: 600px;" /></p>
 
 <p>위 경우는 벽을 넘을 수 있다.</p>
 

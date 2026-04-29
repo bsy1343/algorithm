@@ -28,7 +28,7 @@
 
 <p>아래 그림은 N = 5, M = 50, S = 685일 때 빙고&nbsp;표 배치로 나올 수 있는 예입니다.</p>
 
-<p style="text-align: center;"><img src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/userupload/gallopsys/20160424/c7c9791d2d07dee0707fbad784b9ab7d.png" /></p>
+<p style="text-align: center;"><img src="%EB%B0%B1%EC%A4%80/Platinum/5580.%E2%80%85%EB%B9%99%EA%B3%A0%E2%80%85%EA%B2%8C%EC%9E%84/6c842ad9.png" data-original-src="https://boja.mercury.kr/assets/problem/5580-1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>뒤풀이에 참석하고 싶어하는 사람이 많기 때문에 될 수 있는 한 많은 빙고 표를 만들려고 합니다.&nbsp;하지만 모든 사람들은 자신만의 빙고 표를&nbsp;갖고 싶어합니다. 그러므로&nbsp;같은 빙고 표를 2개 이상 만들어선 안 됩니다. 만들 수 있는 빙고 표 개수의 최댓값을 100,000으로 나눈 값을 출력하는 프로그램을 작성하세요.</p>
 

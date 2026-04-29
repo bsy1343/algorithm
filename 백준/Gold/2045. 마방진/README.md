@@ -18,7 +18,7 @@
 
 <p>3 by 3 크기의 마방진을 생각하자. 마방진이란 가로, 세로, 대각선 위의 수들의 합이 모두 같은 성질을 가지고 있다. 몇 가지 마방진을 예로 들면 다음과 같다.</p>
 
-<p style="text-align: center;"><img alt="" height="110" src="/JudgeOnline/upload/201007/mbj.png" width="393" /></p>
+<p style="text-align: center;"><img alt="" height="110" src="%EB%B0%B1%EC%A4%80/Gold/2045.%E2%80%85%EB%A7%88%EB%B0%A9%EC%A7%84/efe4e4de.png" data-original-src="https://boja.mercury.kr/assets/problem/2045-1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" width="393" /></p>
 
 <p>생일빵을 맞은 정신을 잃은 동주와 세준이는 실수로 마방진에서 몇 개의 수를 지워 버리고야 말았다. 불쌍한 동주와 세준이를 도와, 마방진을 다시 완성해 보자. 마방진을 이루는 수들은 모두 20,000을 넘지 않는 자연수이다.</p>
 

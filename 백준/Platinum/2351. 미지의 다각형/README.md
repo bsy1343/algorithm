@@ -22,7 +22,7 @@
 
 <p>예를 들어 이와 같은 목록이 (1, 3), (4, 2), (1, 2), (4, 1), (2, 3) 이었다고 했을 때, 다각형의 꼭짓점에 순서대로 1, 3, 2, 4의 정수를 붙이면 대각선도 교차하지 않고, 다각형의 모든 선분들이 목록에 있음을 알 수 있다.</p>
 
-<p style="text-align: center;"><img alt="" height="190" src="/JudgeOnline/upload/201103/afaf.png" width="580" /></p>
+<p style="text-align: center;"><img alt="" height="190" src="%EB%B0%B1%EC%A4%80/Platinum/2351.%E2%80%85%EB%AF%B8%EC%A7%80%EC%9D%98%E2%80%85%EB%8B%A4%EA%B0%81%ED%98%95/f7b4122c.png" data-original-src="https://boja.mercury.kr/assets/problem/2351-1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" width="580" /></p>
 
 <p>선분들의 목록이 주어졌을 때, 이를 이용하여 다각형에 붙어 있는 정수를 구하는 프로그램을 작성하시오.</p>
 

@@ -18,7 +18,7 @@
 
 <p>N&times;M 크기의 물통이 있다. 이 물통의 각 칸은 높이가 다를 수도 있다. 이와 같은 물통에 물을 부었을 때, 담을 수 있는 물의 최대량을 계산하는 프로그램을 작성하시오. 물통의 테두리도 높이가 다를 수 있고, 테두리가 물통의 안쪽보다 높이가 낮을 수도 있다.</p>
 
-<p style="text-align: center;"><img alt="" height="219" src="/JudgeOnline/upload/201008/wt.PNG" width="478" /></p>
+<p style="text-align: center;"><img alt="" height="219" src="%EB%B0%B1%EC%A4%80/Platinum/2276.%E2%80%85%EB%AC%BC%E2%80%85%EC%B1%84%EC%9A%B0%EA%B8%B0/9a5a9ad3.png" data-original-src="https://boja.mercury.kr/assets/problem/2276-1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" width="478" /></p>
 
 <p>왼쪽 표는 물통의 높이를 나타낸 것이고, 오른쪽은 각 칸에 담은 물의 양을 나타낸 것이다. 이 경우가 답이 12로 최대인 경우가 된다.</p>
 

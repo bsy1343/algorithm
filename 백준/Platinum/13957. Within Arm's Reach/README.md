@@ -44,4 +44,4 @@
 
 ### 힌트
 
-<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/13957.%E2%80%85Within%E2%80%85Arm's%E2%80%85Reach/ae40f298.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/13957.%E2%80%85Within%E2%80%85Arm's%E2%80%85Reach/ae40f298.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/13957/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202016-12-27%20%EC%98%A4%ED%9B%84%206.14.00.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:111px; width:220px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/13957.%E2%80%85Within%E2%80%85Arm's%E2%80%85Reach/ae40f298.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/13957.%E2%80%85Within%E2%80%85Arm's%E2%80%85Reach/fbe7e9ec.png" data-original-src="https://boja.mercury.kr/assets/problem/13957-1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:111px; width:220px" /></p>

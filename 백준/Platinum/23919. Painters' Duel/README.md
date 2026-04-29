@@ -20,7 +20,7 @@
 
 <p>Each room is identified by two numbers: the row of the building it is in (counting from top to bottom, starting from 1), followed by its position within that row (counting from left to right, starting from 1). Here is an example of how the rooms are connected and labeled when&nbsp;<b>S</b>&nbsp;= 3:</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/23919.%E2%80%85Painters'%E2%80%85Duel/f5f200f3.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/23919.%E2%80%85Painters'%E2%80%85Duel/f5f200f3.png" data-original-src="https://upload.acmicpc.net/592b3162-f3b5-4c56-a5b7-65b89083f0ef/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/23919.%E2%80%85Painters'%E2%80%85Duel/f5f200f3.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/23919.%E2%80%85Painters'%E2%80%85Duel/c5ee1e4b.png" data-original-src="https://boja.mercury.kr/assets/problem/23919-1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>Alma and Berthe are artists who are painting the rooms of the museum. Alma starts in the room (<b>R<sub>A</sub></b>,&nbsp;<b>P<sub>A</sub></b>), and Berthe starts in a different room (<b>R<sub>B</sub></b>,&nbsp;<b>P<sub>B</sub></b>). Each of them has already painted their starting room.&nbsp;<b>C</b>&nbsp;of the other rooms of the museum are under construction, and neither Alma nor Berthe is allowed to enter these rooms or paint them.</p>
 

@@ -18,7 +18,7 @@
 
 <p>한 도시에 건물들을 지으려고 한다. 각각의 건물들을 지었을 경우의 이익이 있는데, 최대한 많은 이익을 얻기 위해 건물을 지으려고 한다. 어떤 좌표에 건물을 지었을 때, 이 점을 기준으로 평면을 네 구간으로 나눌 수 있다. 쉽게 생각하면 좌표평면상에서 제 1, 2, 3, 4 사분면을 생각하면 된다. 아래 그림이 각 구간과 구간의 번호이다.</p>
 
-<p style="text-align: center;"><img alt="" height="156" src="/JudgeOnline/upload/201011/pp.PNG" width="362" /></p>
+<p style="text-align: center;"><img alt="" height="156" src="%EB%B0%B1%EC%A4%80/Gold/2296.%E2%80%85%EA%B1%B4%EB%AC%BC%EC%A7%93%EA%B8%B0/643f73b2.png" data-original-src="https://boja.mercury.kr/assets/problem/2296-1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" width="362" /></p>
 
 <p>위의 그림에서 가운데에 건물을 지은 경우이고, 각각의 번호가 이 건물을 기준으로 한 구간의 번호를 나타낸다.</p>
 

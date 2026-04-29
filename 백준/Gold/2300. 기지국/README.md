@@ -22,7 +22,7 @@
 
 <p>다음 그림의 예를 보면, 첫 번째 기지국의 위치는 (-2, 0) 이고, 통신폭이 4인 정사각형의 통신범위로 세 개의 건물을 포함한다. 두 번째 기지국의 위치는 (2, 0)이고, 통신폭이 2인 정사각형의 통신범위로 두 개의 건물을 포함한다. 세 번째 기지국의 위치는 (6.5, 0) 이고, 통신폭이 3인 정사각형의 통신범위로 두 개의 건물을 포함한다.</p>
 
-<p style="text-align:center"><img alt="" src="/JudgeOnline/upload/201011/ggg.png" style="height:168px; width:341px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/2300.%E2%80%85%EA%B8%B0%EC%A7%80%EA%B5%AD/817906e4.png" data-original-src="https://boja.mercury.kr/assets/problem/2300-1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:168px; width:341px" /></p>
 
 ### 입력
 

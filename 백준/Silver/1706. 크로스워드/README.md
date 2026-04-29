@@ -18,7 +18,7 @@
 
 <p>동혁이는 크로스워드 퍼즐을 좋아한다. R&times;C 크기의 크로스워드 퍼즐을 생각해 보자. 이 퍼즐은 R&times;C 크기의 표로 이루어지는데, 퍼즐을 다 풀면 금지된 칸을 제외하고는 각 칸에 알파벳이 하나씩 적혀 있게 된다. 아래는 R = 5, C = 5 인 경우 다 푼 퍼즐의 한 예이다. 검은 칸은 금지된 칸이다.</p>
 
-<p style="text-align: center;"><img alt="" height="171" src="/JudgeOnline/upload/201005/cross.PNG" width="178" /></p>
+<p style="text-align: center;"><img alt="" height="171" src="%EB%B0%B1%EC%A4%80/Silver/1706.%E2%80%85%ED%81%AC%EB%A1%9C%EC%8A%A4%EC%9B%8C%EB%93%9C/9df0a618.png" data-original-src="https://boja.mercury.kr/assets/problem/1706-1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" width="178" /></p>
 
 <p>세로 또는 가로로 연속되어 있고, 더 이상 확장될 수 없는 낱말이 퍼즐 내에 존재하는 단어가 된다. 위의 퍼즐과 같은 경우, 가로 낱말은 good, an, messy, it, late의 5개가 있고, 세로 낱말은 game, one, sit, byte의 4개가 있다. 이 중 사전식 순으로 가장 앞서 있는 낱말은 an이다.</p>
 

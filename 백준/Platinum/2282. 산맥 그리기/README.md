@@ -20,7 +20,7 @@
 
 <p>때로는 산맥의 모양이 복잡하기 때문에 산맥을 그리는 것이 힘들 때가 있다. 이럴 경우에, 산맥의 양쪽 끝점과 그 사이의 K개의 점, 즉 총 K+2개의 점으로 산맥을 근사시켜 그리려고 한다. 이때, 원래의 산맥과 근사시킨 산맥에서 부분적으로 차이가 나는 부분의 넓이의 합을 최소로 하려 한다.</p>
 
-<p style="text-align: center;"><img alt="" src="/JudgeOnline/upload/201008/mtmt.PNG" style="height:227px; width:327px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/2282.%E2%80%85%EC%82%B0%EB%A7%A5%E2%80%85%EA%B7%B8%EB%A6%AC%EA%B8%B0/456217d7.png" data-original-src="https://boja.mercury.kr/assets/problem/2282-1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:227px; width:327px" /></p>
 
 <p>검은색이 원래 산맥이고 빨간색이 근사시킨 산맥일 때, 회색으로 칠해진 부분의 넓이의 합이 부분적으로 차이가 나는 부분의 넓이의 합이다.</p>
 

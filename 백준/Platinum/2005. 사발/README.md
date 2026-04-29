@@ -20,7 +20,7 @@
 
 <p>사발의 쌓는 모양을 그림으로 표현하면 대략 다음과 같다.</p>
 
-<p style="text-align: center;"><img alt="" height="114" src="/JudgeOnline/upload/201007/4b.png" width="406" /></p>
+<p style="text-align: center;"><img alt="" height="114" src="%EB%B0%B1%EC%A4%80/Platinum/2005.%E2%80%85%EC%82%AC%EB%B0%9C/f43cd0ab.png" data-original-src="https://boja.mercury.kr/assets/problem/2005-1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" width="406" /></p>
 
 ### 입력
 

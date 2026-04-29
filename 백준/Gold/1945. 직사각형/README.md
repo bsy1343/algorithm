@@ -18,7 +18,7 @@
 
 <p>2차원 평면상에 N개의 직사각형이 있다. 직사각형의 각 변은 각 좌표축과 평행하다. 이들 직사각형은 다른 직사각형와 겹쳐지거나 일치할 수 있으며, 다른 것의 내부에 그려질 수도 있다. 직사각형의 각 꼭짓점은 자연수 좌표를 가진다.</p>
 
-<p style="text-align: center;"><img alt="" height="234" src="/JudgeOnline/upload/201007/rere.png" width="363" /></p>
+<p style="text-align: center;"><img alt="" height="234" src="%EB%B0%B1%EC%A4%80/Gold/1945.%E2%80%85%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95/443de37c.png" data-original-src="https://boja.mercury.kr/assets/problem/1945-1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" width="363" /></p>
 
 <p>위의 그림의 경우는 8개의 직사각형이 그려진 경우이다. 이제 이 2차원 평면에 원점 (0,0)을 지나는 직선을 하나 그릴 수 있다. 이 직선은 직사각형들과 교차할 수 있는데, 위의 그림의 경우 2, 5, 6, 7, 8번 직사각형들과 교차하게 된다. (단지 직사각형의 꼭짓점만을 스쳐 지나가더라도 교차하는 것으로 간주한다.)</p>
 

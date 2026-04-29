@@ -18,7 +18,7 @@
 
 <p>방향성 없는 그래프에서 어떤 정점에 물려 있는 변의 수를 차수(degree)라고 한다. 예를 들어 아래 갈은 그래프에서 정점 A와 D의 차수는 3, B와 C의 차수는 2이다.</p>
 
-<p><img alt="" src="/JudgeOnline/upload/201007/tnduf.png" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/2084.%E2%80%85%EC%B0%A8%EC%88%98%EC%97%B4/26bc5408.png" data-original-src="https://boja.mercury.kr/assets/problem/2084-1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>그래프가 주어졌을 때, 정점의 차수들을 정점 번호 순서대로 나열하면 하나의 수열을 얻을 수 있다. 이러한 수열을 차수열(degree sequence)라고 하는데, 위와 같은 그래프의 차수열은 3, 2, 2, 3이라고 할 수 있다. 임의의 그래프의 차수열이 주어졌을 때, 이러한 차수열을 갖는 그래프를 구하는 프로그램을 작성하시오. 그래프의 간선은 방향성이 없으며, 자기 자신으로 돌아오는 간선은 없어야 한다. 그래프가 반드시 연결되어 있을 필요는 없으나, 차수열이 정점 순서대로 반드시 대응되어야 한다.</p>
 

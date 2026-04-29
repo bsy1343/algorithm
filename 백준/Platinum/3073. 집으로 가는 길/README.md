@@ -20,7 +20,7 @@
 
 <p>당신의 목표는 n명의 어린이들을 n개의 다른 집으로 보내는데 지불해야하는 비용을 최소화 하는 것이다. 입력은 지도인데, &#39;.&#39; 은 빈 공간을 의미하고 &#39;H&#39;는 집을 의미하고 &#39;m&#39; 은 어린이를 의미한다.</p>
 
-<p style="text-align:center"><img src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/userupload/ssilb4/20160211/e301c27aa0276f6afe17860e8e6e0b8e.png" /></p>
+<p style="text-align:center"><img src="%EB%B0%B1%EC%A4%80/Platinum/3073.%E2%80%85%EC%A7%91%EC%9C%BC%EB%A1%9C%E2%80%85%EA%B0%80%EB%8A%94%E2%80%85%EA%B8%B8/a038531b.png" data-original-src="https://boja.mercury.kr/assets/problem/3073-1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>격자로 된 지도에서 각각의 점을 격자라고 간주한다. 그리고 이 격자에 n명의 어린이를 동시에 놓을 수 있다. 또한, 한 어린이가 집으로 들어가지 않고 집의 격자로 움직이는 것은 가능하다.</p>
 

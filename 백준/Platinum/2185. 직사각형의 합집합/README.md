@@ -18,7 +18,7 @@
 
 <p>2차원 평면상에 N(0 &le; N &le; 5,000)개의 직사각형들이 주어졌을 때, 이 직사각형들의 합집합을 구하는 프로그램을 작성하시오.</p>
 
-<p><img alt="" height="161" src="/JudgeOnline/upload/201008/rect.PNG" width="533" /></p>
+<p><img alt="" height="161" src="%EB%B0%B1%EC%A4%80/Platinum/2185.%E2%80%85%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95%EC%9D%98%E2%80%85%ED%95%A9%EC%A7%91%ED%95%A9/8cdc5630.png" data-original-src="https://boja.mercury.kr/assets/problem/2185-1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" width="533" /></p>
 
 <p>예를 들어 왼쪽은 7개의 직사각형이 주어진 모습이고, 오른쪽 그림은 그 직사각형의 합집합을 구한 예이다. 이러한 합집합을 구하면 하나의 다각형이 나오는데, 이 다각형의 둘레의 길이를 구하는 프로그램을 작성하시오.</p>
 

@@ -20,13 +20,13 @@
 
 <p>참고로 Queen은 가로, 세로, 대각선으로 갈 수 있는 만큼 최대한 많이 이동을 할 수 있는데 만약 그 중간에 장애물이 있다면 이동을 할 수 없다. 그리고 Knight는 2&times;3 직사각형을 그렸을 때, 반대쪽 꼭짓점으로 이동을 할 수 있다. 아래 그림과 같은 8칸이 이에 해당한다.</p>
 
-<p style="text-align: center;"><img alt="" src="/JudgeOnline/upload/201007/asdf.png" style="height:194px; width:198px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/1986.%E2%80%85%EC%B2%B4%EC%8A%A4/c6cc9e40.png" data-original-src="https://boja.mercury.kr/assets/problem/1986-1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:194px; width:198px" /></p>
 
 <p>이때 Knight는 중간에 장애물이 있더라도 이동을 할 수 있다. 그리고 Pawn은 상대팀의 말은 잡을 수 없다고 하자(즉, 장애물의 역할만 한다는 것이다).</p>
 
 <p>예를 들어 다음과 같이 말이 배치가 되어 있다면 진하게 표시된 부분이 안전한 칸이 될 것이다. (K : Knight, Q : Queen, P : Pawn)</p>
 
-<p style="text-align: center;"><img alt="" src="/JudgeOnline/upload/201007/qazwqszx.png" style="height:181px; width:195px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/1986.%E2%80%85%EC%B2%B4%EC%8A%A4/b00819f0.png" data-original-src="https://boja.mercury.kr/assets/problem/1986-2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:181px; width:195px" /></p>
 
 ### 입력
 

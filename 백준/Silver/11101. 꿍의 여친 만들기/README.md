@@ -24,7 +24,7 @@
 
 <p>아래 그림을 보자.</p>
 
-<p><img src="/userupload/seok9311/201512/5266bec88de87bdea400f03d83d2c71a.png" style="height:283px; width:443px" /></p>
+<p><img src="%EB%B0%B1%EC%A4%80/Silver/11101.%E2%80%85%EA%BF%8D%EC%9D%98%E2%80%85%EC%97%AC%EC%B9%9C%E2%80%85%EB%A7%8C%EB%93%A4%EA%B8%B0/da54af9b.png" data-original-src="https://boja.mercury.kr/userupload/seok9311/201512/5266bec88de87bdea400f03d83d2c71a.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:283px; width:443px" /></p>
 
 <p>[그림: 꿍이 그녀를 정복하기 위해 해야할 것들]</p>
 

@@ -18,7 +18,7 @@
 
 <p>사과나무는 나무(tree)의 일종으로, 각각의 정점에 정확히 한 개의 사과가 있고, 모든 내부 정점(자식이 있는 정점)이 최소 두 개의 자식을 갖는 나무이다. 예를 들면 아래의 그림은 사과나무의 예이다. 나무같이 보이기 위해서 그림은 루트를 아래에 그린다.</p>
 
-<p style="text-align: center;"><img alt="" src="/JudgeOnline/upload/201008/at.PNG" style="height:237px; width:216px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/2233.%E2%80%85%EC%82%AC%EA%B3%BC%EB%82%98%EB%AC%B4/e920f023.png" data-original-src="https://boja.mercury.kr/assets/problem/2233-1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:237px; width:216px" /></p>
 
 <p>이러한 사과나무에 서식하는 벌레를 생각해 보자. 이 벌레는 이 사과나무의 루트에서 DFS 순서로 탐색을 하게 된다. 자식이 여러 개인 경우에는 (뒤집혀진 그림에서) 왼쪽을 먼저 방문하게 된다. 이러한 탐색을 하면서, 새로운 노드를 방문할 때 0을, 모든 자식 노드를 방문하고 리턴할 때 1을 나열하면 하나의 이진 수열이 된다. 위의 그림으로 이진 수열을 만들면 다음과 같다.</p>
 

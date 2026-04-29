@@ -24,7 +24,7 @@
 
 <p>예를 들어 로봇이 왼쪽 그림과 같이 (<code>MOVE 6, TURN 0, MOVE 5, TURN 0, MOVE 2, TURN 0, MOVE 2, TURN 0, MOVE 4, TURN 0, MOVE 3, MOVE 2</code>) 명령어를 읽어들인다면, 최종적으로 로봇은 (8, 8) 위치에 있게 된다. 가운데 그림과 같이&nbsp;(<code>MOVE 10, TURN 0, MOVE 2, TURN 0, MOVE 5, TURN 1, MOVE 5, TURN 1, MOVE 2, TURN 1, MOVE 3, TURN 0, TURN 0, MOVE 6</code>) 명령어를 읽어들인다면, 로봇은 (7, 10)에 위치하게 된다. 오른쪽 그림과 같이 로봇이 S 바깥으로 나간다면, 명령어 열은&nbsp;유효하지 않다.</p>
 
-<p style="text-align: center;"><img src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/userupload/topology/20161106/27f7884c99f7c66d952a1102296b4d62.png" style="height:228px; width:638px" /></p>
+<p style="text-align: center;"><img src="%EB%B0%B1%EC%A4%80/Silver/13567.%E2%80%85%EB%A1%9C%EB%B4%87/f9821497.png" data-original-src="https://boja.mercury.kr/assets/problem/13567-1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:228px; width:638px" /></p>
 
 <p style="text-align: center;">그림 1. M = 11일 때 세 가지 명령어 열을 받은 로봇의 경로</p>
 

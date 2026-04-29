@@ -18,7 +18,7 @@
 
 <p>N&times;3 크기의 2차원 배열에 수들이 적혀 있다. 이 배열에서 상하좌우로 인접한 두 칸을 하나로 묶되, 모든 칸들이 묶이도록 하려고 한다. 다음은 4&times;3 크기의 2차원 배열을 묶는 두 개의 예이다.</p>
 
-<p style="text-align: center;"><img alt="" height="160" src="/JudgeOnline/upload/201007/tn.PNG" width="409" /></p>
+<p style="text-align: center;"><img alt="" height="160" src="%EB%B0%B1%EC%A4%80/Platinum/1852.%E2%80%85%EC%88%98%E2%80%85%EB%AC%B6%EA%B8%B0/d5a41cc2.png" data-original-src="https://boja.mercury.kr/assets/problem/1852-1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" width="409" /></p>
 
 <p>묶인 배열에 대해서 우리는 묶인 수들의 차를 생각할 수 있다. 첫 번째 경우 묶인 수들의 차의 총 합은 5+8+5+3+2+6=29로, 묶인 숫자의 차들의 합을 최대로 할 수 있는 방법이다. 두 번째 경우 묶인 숫들의 차의 총 합은 1+3+2+2+3+4=15이다. 이 방법은 묶인 숫자의 차들의 합을 최소로 할 수 있는 방법이다.</p>
 

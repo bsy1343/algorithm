@@ -18,13 +18,13 @@
 
 <p>장홍준은 참 특이한 두부장수이다. 세로크기 N, 가로크기 M인 두부판을 가지고 2x1짜리 두부로 잘라서 판다. 그런데, 두부판의 위치마다 등급이 다르다. 그리고 2x1짜리에 등급이 어떻게 매겨지느냐에 따라 두부의 값도 천차만별이 된다. 다음 등급표를 보자.</p>
 
-<p><img alt="" src="/JudgeOnline/upload/201005/tofu.PNG" style="height:177px; width:214px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/1657.%E2%80%85%EB%91%90%EB%B6%80%EC%9E%A5%EC%88%98%E2%80%85%EC%9E%A5%ED%99%8D%EC%A4%80/e44d54f0.png" data-original-src="https://boja.mercury.kr/assets/problem/1657-1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:177px; width:214px" /></p>
 
 <p>위의 표는 2x1짜리 두부의 등급에 따라 매겨지는 두부의 가격표다. 예를 들어 &ldquo;AC&quot; 두부의 가격은 7이고, &rdquo;DB&quot; 두부의 가격은 3이다.</p>
 
 <p>세로크기 N, 가로크기 M의 두부판이 주어진다. 각 칸마다 두부의 등급이 A, B, C, D, F로 매겨져 있다. 홍준이는 전체 두부가격의 합을 최대가 되게 두부를 자르려고 한다. 2x1짜리 두부로 잘라내고 남은 한 칸짜리 두부는 가격이 0이기 때문에 버린다. 홍준이를 도와 가격이 최대가 되게 두부판을 자르는 프로그램을 작성하시오.</p>
 
-<p><img alt="" src="/JudgeOnline/upload/201005/tofu2.PNG" style="height:156px; width:321px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/1657.%E2%80%85%EB%91%90%EB%B6%80%EC%9E%A5%EC%88%98%E2%80%85%EC%9E%A5%ED%99%8D%EC%A4%80/a5889606.png" data-original-src="https://boja.mercury.kr/assets/problem/1657-2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:156px; width:321px" /></p>
 
 <p>위 그림은 N=4, M=4 인 두부판의 한 예이다. 오른쪽 그림이 잘라낸 두부가격의 합을 최대로 한 것이다. 한 칸짜리는 쓸모없으므로 버린다.</p>
 

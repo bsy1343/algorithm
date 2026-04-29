@@ -41,7 +41,7 @@
 
 <p>&nbsp; 예를 들어, 다음과 같은 트리가 주어졌다. 이 트리의 높이를 1보다 작거나 같게 만들려고 한다.</p>
 
-<p><img alt="" src="/JudgeOnline/upload/201006/tree1.png" style="height:133px; width:131px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/1808.%E2%80%85%EC%88%8C%EC%9E%91%EC%97%85/d39c31d8.png" data-original-src="https://boja.mercury.kr/assets/problem/1808-1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:133px; width:131px" /></p>
 
 <p>이 트리의 정점 2를 0의 자식으로 연결 하면, 총 비용은 2-0-1 = 1이 되고, 트리의 높이는 1이된다.</p>
 

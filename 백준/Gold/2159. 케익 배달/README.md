@@ -20,7 +20,7 @@
 
 <p>N명의 고객의 위치는 순서대로 100,000&times;100,000 격자의 정수 좌표로 주어지고 처음 출발하게 되는 보나뻬띠의 위치도 정수 좌표로 주어진다. 선아는 격자 위에서 상하좌우로만 움직이며 고객에게 케익을 전달하기 위해서는 그 고객의 위치까지 가거나 고객의 상하좌우 인접 격자점에 가야 한다. 이때 선아가 최단거리를 이동하여 입력된 순서대로 배달을 끝낼 수 있는 거리를 계산하는 프로그램을 작성하시오. 여기서 거리는 격자 상의 칸 수를 말한다.</p>
 
-<p style="text-align: center;"><img alt="" height="413" src="/JudgeOnline/upload/201008/ckae.PNG" width="451" /></p>
+<p style="text-align: center;"><img alt="" height="413" src="%EB%B0%B1%EC%A4%80/Gold/2159.%E2%80%85%EC%BC%80%EC%9D%B5%E2%80%85%EB%B0%B0%EB%8B%AC/60afca7c.png" data-original-src="https://boja.mercury.kr/assets/problem/2159-1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" width="451" /></p>
 
 <p>위의 예에서 선아는 11칸을 움직여서 세 명의 고객에게 배달을 마칠 수 있다. 선아는 반드시 고객들에게 순서대로 배달을 하며 순서에 어긋난 사람에게 배달을 할 수 있는 위치에 있더라도 케익을 주지 않고 순서대로 배달을 한다. 고객의 위치는 중복이 될 수도 있다.</p>
 

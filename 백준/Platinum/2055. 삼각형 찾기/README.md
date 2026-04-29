@@ -18,7 +18,7 @@
 
 <p>삼각형이란 세 개의 변으로 이루어진 면적이 양수인 도형이다. 격자 삼각형이란 삼각형의 세 꼭짓점의 좌표가 정수로 표현되는 삼각형을 말한다. 격자의 범위가 N&times;M으로 주어질 때, 가능한 삼각형의 개수를 구하는 프로그램을 작성하시오. 예를 들어 N=1, M=2일 경우에는 다음과 같은 18개의 경우가 있다.</p>
 
-<p style="text-align: center;"><img alt="" height="207" src="/JudgeOnline/upload/201007/33333.png" width="567" /></p>
+<p style="text-align: center;"><img alt="" height="207" src="%EB%B0%B1%EC%A4%80/Platinum/2055.%E2%80%85%EC%82%BC%EA%B0%81%ED%98%95%E2%80%85%EC%B0%BE%EA%B8%B0/2a7dd699.png" data-original-src="https://boja.mercury.kr/assets/problem/2055-1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" width="567" /></p>
 
 ### 입력
 

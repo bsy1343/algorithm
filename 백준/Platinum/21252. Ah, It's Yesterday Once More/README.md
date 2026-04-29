@@ -20,7 +20,7 @@
 
 <p>Two years have passed and after the great success in 2018 and 2019, NUAA continues to hold the ICPC Nanjing Regional in 2020. Although we can&#39;t gather in Nanjing this time due to the pandemic, we should still be grateful for the hard work done by all staff and volunteers for this contest. Thank you all for your great contribution to this contest!</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/21252.%E2%80%85Ah%2C%E2%80%85It's%E2%80%85Yesterday%E2%80%85Once%E2%80%85More/cb106066.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/21252.%E2%80%85Ah%2C%E2%80%85It's%E2%80%85Yesterday%E2%80%85Once%E2%80%85More/cb106066.png" data-original-src="https://upload.acmicpc.net/9e1af66b-3e67-4d6b-bd86-7d582a4b848f/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 512px; height: 341px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/21252.%E2%80%85Ah%2C%E2%80%85It's%E2%80%85Yesterday%E2%80%85Once%E2%80%85More/cb106066.png" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/21252.%E2%80%85Ah%2C%E2%80%85It's%E2%80%85Yesterday%E2%80%85Once%E2%80%85More/58ff9f4b.jpg" data-original-src="https://boja.mercury.kr/assets/problem/21252-1.jpg" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 512px; height: 341px;" /></p>
 
 <p style="text-align: center;">The 2018 ICPC Asia Nanjing Regional Contest</p>
 

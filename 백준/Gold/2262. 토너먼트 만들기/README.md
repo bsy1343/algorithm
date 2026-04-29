@@ -20,7 +20,7 @@
 
 <p>토너먼트를 만들 때에는 이미 추첨이 된 순서대로 선수들을 배치하고, 왼쪽에서 오른쪽의 순서가 어긋나지 않도록 시합을 정한다. 물론 부전승을 임의로 만들 수 있지만, 토너먼트가 꼬여서는 안 된다. 또한, 각 시합에 임하는 두 선수의 랭킹의 차이의 합이 최소가 되도록 하려 한다.</p>
 
-<p style="text-align: center;"><img alt="" height="208" src="/JudgeOnline/upload/201008/tour.PNG" width="532" /></p>
+<p style="text-align: center;"><img alt="" height="208" src="%EB%B0%B1%EC%A4%80/Gold/2262.%E2%80%85%ED%86%A0%EB%84%88%EB%A8%BC%ED%8A%B8%E2%80%85%EB%A7%8C%EB%93%A4%EA%B8%B0/a46683f6.png" data-original-src="https://boja.mercury.kr/assets/problem/2262-1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" width="532" /></p>
 
 <p>예를 들어 추첨 결과가 차례로 랭킹 1, 6, 2, 5, 3, 4위의 선수들이었을 때의 토너먼트 세 개가 위에 있다. &lt;A&gt;의 경우는 각 시합이 (1 6), (2 5), (3 4), (1 2), (1 3)으로 랭킹 차이의 합이 5 + 3 + 1 + 1 + 2 = 12가 된다. 반면에 &lt;B&gt;는 11이, &lt;C&gt;는 10이 된다.</p>
 

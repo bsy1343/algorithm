@@ -18,13 +18,13 @@
 
 <p>흰색과 검은색으로 이루어진 이미지는 쿼드트리를 이용하여 표현할 수 있다. 쿼드트리의 루트는 이미지의 전체를 나타낸다. 만약 전체 이미지가 한 색깔로 이루어져 있으면, 그 색깔에 해당하는 정점을 루트로 한다. 그 외의 경우에는 그림을 넷으로 나누고, 각각의 나눠진 그림을 루트의 네 자식 정점으로 표현하면 된다. 이때 첫 번째 자식이 왼쪽 위의 그림을, 두 번째 자식이 오른쪽 위의 그림을, 세 번째 자식이 왼쪽 아래의 그림을, 네 번째 자식이 오른쪽 아래의 그림을 표현하게 된다. 각각의 작은 이미지를 표현할 때도 같은 방법을 재귀적으로 적용한다.</p>
 
-<p style="text-align: center;"><img alt="" height="117" src="/JudgeOnline/upload/201007/qqq.png" width="432" /></p>
+<p style="text-align: center;"><img alt="" height="117" src="%EB%B0%B1%EC%A4%80/Gold/1998.%E2%80%85%EC%9D%B4%EB%AF%B8%EC%A7%80%E2%80%85%EC%95%95%EC%B6%95/3f1268b0.png" data-original-src="https://boja.mercury.kr/assets/problem/1998-1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" width="432" /></p>
 
 <p>위의 예는 4&times;4 크기의 이미지와 그에 해당하는 쿼드트리이다. 위의 예에서는 이미지의 크기(사각형의 변의 길이)가 2의 k승이라서 상관이 없었지만, 그 외의 경우에는 문제가 된다. 만약에 이미지의 크기가 2의 k승이 아닐 경우에는, 이미지의 크기를 오른쪽과 아래쪽으로 가장 가까운 2의 k승으로 늘린 뒤, 흰색으로 나머지 공간을 채우면 된다. 이때 이미지가 정사각형 모양이 되도록 한다. 예를 들어 5&times;13의 이미지는 16&times;16 크기의 이미지가 되고, 원래의 이미지가 왼쪽 위에 들어가고 나머지 공간은 흰색으로 채우면 된다.</p>
 
 <p>쿼드트리 자체가 이미지를 압축적으로 표현하는 방법이지만, 우리는 압축된 쿼드트리를 이용하여 좀 더 효율적으로 표현하려 한다. 만약 쿼드트리에서 같은 모양의 부분 트리가 여러 개 나올 경우, 이를 한 번만 저장한 뒤 나머지는 포인터로 연결할 수 있다. 위의 예는 다음과 같은 압축된 쿼드트리로 표현할 수 있다.</p>
 
-<p style="text-align: center;"><img alt="" height="111" src="/JudgeOnline/upload/201007/qqqqqqq.png" width="305" /></p>
+<p style="text-align: center;"><img alt="" height="111" src="%EB%B0%B1%EC%A4%80/Gold/1998.%E2%80%85%EC%9D%B4%EB%AF%B8%EC%A7%80%E2%80%85%EC%95%95%EC%B6%95/67a59a81.png" data-original-src="https://boja.mercury.kr/assets/problem/1998-2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" width="305" /></p>
 
 <p>원래의 쿼드트리는 17개의 정점을 갖지만, 압축된 쿼드트리는 12개의 정점을 갖는다. 12개의 정점을 갖는 압축된 쿼드트리가 몇 개 더 있기는 하지만, 11개 이하의 정점을 갖는 압축된 쿼드트리는 존재하지 않는다. 따라서 위의 경우가 가장 효율적(정점 개수가 최소)이다.</p>
 

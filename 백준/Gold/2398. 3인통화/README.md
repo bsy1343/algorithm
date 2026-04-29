@@ -20,7 +20,7 @@
 
 <p>통신회사에서는 이들 세 사람을 전화망을 통하여 연결해주는데, 가장 비용이 적게 되도록 연결하고자한다. 세 사람이 연결한 스위치가 주어졌을 때, 이 스위치들을 비용이 가장 적게 되도록 연결하는 프로그램을 작성하시오.</p>
 
-<p><img alt="" src="/JudgeOnline/upload/201103/BIN0001.gif" style="height:272px; width:385px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/2398.%E2%80%853%EC%9D%B8%ED%86%B5%ED%99%94/7b704388.gif" data-original-src="https://boja.mercury.kr/assets/problem/2398-1.gif" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:272px; width:385px" /></p>
 
 ### 입력
 

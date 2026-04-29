@@ -20,7 +20,7 @@
 
 <p>여기서 말하는 다각형이란 각 변이 세 개 이상의 직선으로 이루어진 단일폐도형을 말하며, 두 다각형이 겹치게 되면서 생기는 부분에 대한 도형은 다각형으로 인정하지 않는다. 즉, 입력된 좌표로 구성된 선분들만을 이용해서 만들어진 다각형만을 인정한다. 만약 다각형에 그 다각형을 이루지 않는 선분이 연결되어 있으면 다각형이 아니라고 판단한다.</p>
 
-<p style="text-align: center;"><img alt="" height="166" src="/JudgeOnline/upload/201007/polu.png" width="280" /></p>
+<p style="text-align: center;"><img alt="" height="166" src="%EB%B0%B1%EC%A4%80/Gold/2019.%E2%80%85%EB%8B%A4%EA%B0%81%ED%98%95%EA%B0%9C%EC%88%98/a9cfad1d.png" data-original-src="https://boja.mercury.kr/assets/problem/2019-1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" width="280" /></p>
 
 <p>예를 들어 입력으로 들어온 선분을 종이 위에 그려봤을 때, 위 그림과 같이 그려졌다면 2가지 다각형이 존재하는 것이고, 답으로 2를 출력하면 된다.</p>
 

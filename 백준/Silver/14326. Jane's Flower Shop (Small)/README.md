@@ -22,7 +22,7 @@
 
 <p>For example, suppose the initial cost is \$10,000 and the shop runs for 3 months, with net incomes of \$3,000, \$4,000, and \$5,000, respectively. Then the IRR&nbsp;r&nbsp;is given by:</p>
 
-<p><img src="%EB%B0%B1%EC%A4%80/Silver/14326.%E2%80%85Jane's%E2%80%85Flower%E2%80%85Shop%E2%80%85(Small)/9b40b1f5.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/14326.%E2%80%85Jane's%E2%80%85Flower%E2%80%85Shop%E2%80%85(Small)/9b40b1f5.png" data-original-src="https://onlinejudgeimages.s3.amazonaws.com/problem/14326/%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C%20(7).png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:27px; width:404px" /></p>
+<p><img src="%EB%B0%B1%EC%A4%80/Silver/14326.%E2%80%85Jane's%E2%80%85Flower%E2%80%85Shop%E2%80%85(Small)/9b40b1f5.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/14326.%E2%80%85Jane's%E2%80%85Flower%E2%80%85Shop%E2%80%85(Small)/ad40a79e.png" data-original-src="https://boja.mercury.kr/assets/problem/14326-1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:27px; width:404px" /></p>
 
 <p>In this case, there is only one rate (~=8.8963%) that satisfies the equation.</p>
 

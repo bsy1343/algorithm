@@ -25,7 +25,7 @@
 
 <p>예를 들어서 A = 3, B = 5, C = 5일 때, 다음과 같은 식으로 블록을 쌓을 수 있다. 각 칸은 그 왼쪽 칸과 위쪽 칸 이하의 높이로 블록을 쌓았다. 아래의 예에서도 확인할 수 있듯, 블록을 쌓지 않는 칸이 있을 수도 있다.</p>
 
-<p style="text-align: center;"><img alt="" height="259" src="/JudgeOnline/upload/201008/bl.PNG" width="237" /></p>
+<p style="text-align: center;"><img alt="" height="259" src="%EB%B0%B1%EC%A4%80/Platinum/2124.%E2%80%85%EB%B8%94%EB%A1%9D%E2%80%85%EC%8C%93%EA%B8%B0/a54239e4.png" data-original-src="https://boja.mercury.kr/assets/problem/2124-1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" width="237" /></p>
 
 <p>A, B, C가 주어졌을 때, 블록을 쌓는 경우의 수를 구하는 프로그램을 작성하시오.</p>
 

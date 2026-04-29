@@ -24,7 +24,7 @@
 
 <p>예를 들어 아래와 같은 경우를 보자.</p>
 
-<p><img alt="" height="311" src="/JudgeOnline/upload/201006/Screen shot 2010-06-11 at 4_43_35 PM.png" width="334" /></p>
+<p><img alt="" height="311" src="%EB%B0%B1%EC%A4%80/Gold/1833.%E2%80%85%EA%B3%A0%EC%86%8D%EC%B2%A0%EB%8F%84%E2%80%85%EC%84%A4%EA%B3%84%ED%95%98%EA%B8%B0/018b828f.png" data-original-src="https://boja.mercury.kr/assets/problem/1833-1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" width="334" /></p>
 
 <p>현재 1번 도시와 2번 도시, 2번 도시와 4번 도시, 1번 도시와 4번 도시 사이에 고속철도가 설치되어 있다. 각각의 수는 두 도시 사이에 고속철도를 설치하는데 드는 비용을 나타낸다. 예를 들어 2번 도시와 3번 도시 사이에 고속철도를 설치하면 10만큼의 비용이 든다는 것을 의미한다. 위의 그림에 나타나지 않은 비용은 다 1,000이라고 하자.</p>
 

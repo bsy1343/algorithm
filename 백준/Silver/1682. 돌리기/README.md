@@ -20,7 +20,7 @@
 
 <p>이것은 아래 그림과 같이 크기가 같은 여덟 개의 정사각형으로 되어 있다</p>
 
-<p><img alt="" src="/JudgeOnline/upload/201005/dol.PNG" style="height:60px; width:353px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/1682.%E2%80%85%EB%8F%8C%EB%A6%AC%EA%B8%B0/5b0aaf84.png" data-original-src="https://boja.mercury.kr/assets/problem/1682-1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:60px; width:353px" /></p>
 
 <p>이번 문제에서 우리는 각각의 정사각형 면이 서로 다른 색으로 칠해진 매직 스퀘어를 다룬다.&nbsp;각 색깔은 1부터 시작하는 8개의 자연수로 표현된다. 한편, 스퀘어의 상태를 나타내는 수열이 있는데,&nbsp;이는 여덟 개의 숫자로 이루어지며 좌측 상단부터 시작해서 시계 방향으로 수열의 수를 차례대로 채워나간다.&nbsp;그러므로, 매직 스퀘어의 처음 상태를 이 수열로 나타내면 (1, 2, 3, 4, 5, 6, 7, 8)이 된다.&nbsp;이를 특별한 경우로, 매직 스퀘어의 처음 상태라고 규정하겠다.&nbsp;매직 스퀘어에는 네 가지 변환을 가할 수 있다. 이를 차례대로 A, B, C, D로 구분한다. 방법은 다음과 같다.</p>
 

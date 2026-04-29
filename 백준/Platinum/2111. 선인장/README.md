@@ -20,7 +20,7 @@
 
 <p>선인장과 나무의 차이점 중 하나는, 선인장의 스패닝 서브그래프를 택했을 때 선인장이 되는 경우가 여럿 있다는 것이다(트리의 스패닝 서브트리는 자기 자신 한 개 뿐이다). 스패닝 서브그래프란 주어진 그래프의 서브그래프의 일종으로, 모든 정점들이 연결되는 경우를 의미한다. 당신은 이러한 스패닝 서브그래프(원래 그래프 자신도 포함)의 개수를 알아내려 한다.</p>
 
-<p style="text-align: center;"><img alt="" height="218" src="/JudgeOnline/upload/201008/cactus.PNG" width="186" /></p>
+<p style="text-align: center;"><img alt="" height="218" src="%EB%B0%B1%EC%A4%80/Platinum/2111.%E2%80%85%EC%84%A0%EC%9D%B8%EC%9E%A5/72556967.png" data-original-src="https://boja.mercury.kr/assets/problem/2111-1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" width="186" /></p>
 
 <p>예를 들어, 위와 같은 그래프의 경우에는 35개의 스패닝 서브그래프가 선인장이 된다.</p>
 

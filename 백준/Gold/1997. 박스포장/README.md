@@ -18,11 +18,11 @@
 
 <p>동호는 어떤 도자기 장식 판을 포장하는 회사에서 일을 하고 있다. 모든 장식 판은 두께가 1이고 너비가 모두 같으며 각자 자신의 고유한 모양을 가지고 있다.</p>
 
-<p><img alt="" height="92" src="/JudgeOnline/upload/201007/bbbbb.png" width="289" /></p>
+<p><img alt="" height="92" src="%EB%B0%B1%EC%A4%80/Gold/1997.%E2%80%85%EB%B0%95%EC%8A%A4%ED%8F%AC%EC%9E%A5/4f9b21d7.png" data-original-src="https://boja.mercury.kr/assets/problem/1997-1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" width="289" /></p>
 
 <p>박스의 너비는 장식 판의 너비와 같아 장식 판을 포장할 때, 차례로 쌓을 수밖에 없다. 예를 들어 위의 장식 판을 차례로 쌓으면 아래의 왼쪽 그림과 같은 모양이 나오게 되고 세 번째 -&gt; 두 번째 -&gt; 첫 번째 순서로 쌓으면 오른쪽 그림과 같이 나오게 된다.</p>
 
-<p><img alt="" height="142" src="/JudgeOnline/upload/201007/bb.png" width="189" /></p>
+<p><img alt="" height="142" src="%EB%B0%B1%EC%A4%80/Gold/1997.%E2%80%85%EB%B0%95%EC%8A%A4%ED%8F%AC%EC%9E%A5/6de5de6e.png" data-original-src="https://boja.mercury.kr/assets/problem/1997-2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" width="189" /></p>
 
 <p>그런데 박스의 높이에는 한계가 있어서 왼쪽과 같은 경우에는 박스를 포장할 수 없게 된다. 그렇기 때문에 왼쪽과 같이 포장을 하려면 박스를 두개로 나누어서 첫 번째 박스는 두 번째 장식 판까지 쌓고, 두 번째 박스에 세 번째 장식 판을 넣어 포장을 해야 할 것이다.</p>
 

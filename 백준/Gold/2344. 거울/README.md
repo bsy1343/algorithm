@@ -18,7 +18,7 @@
 
 <p>세로 N, 가로 M 크기의 상자가 있다. 이 상자 안에는 몇 개의 거울이 들어 있다. 상자를 위에서 봤을 때, 거울은 한 칸 안에 대각선 모양으로 들어있다고 한다. 또, 상자의 테두리를 따라서 칸마다 구멍이 뚫려 있다. 편의상 구멍은 왼쪽 위에 뚫려있는 것부터 시계 반대 방향으로 1, 2, &hellip;, 2N+2M 의 번호가 붙어 있다. 예를 들어 다음과 같은 경우를 보자.</p>
 
-<p><img alt="" height="130" src="/JudgeOnline/upload/201011/pyo.png" width="155" /></p>
+<p><img alt="" height="130" src="%EB%B0%B1%EC%A4%80/Gold/2344.%E2%80%85%EA%B1%B0%EC%9A%B8/9ce4e9d9.png" data-original-src="https://boja.mercury.kr/assets/problem/2344-1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" width="155" /></p>
 
 <p>이제 이 상자에 뚫려있는 구멍으로 빛을 쏜다고 생각해보자. 1번 구멍으로 쏠 경우에는 (1, 2)의 위치에 있는 거울에 반사되어 9번 구멍으로 빛이 가게 된다. 또, 2번 구멍으로 빛을 쏠 경우에는 (2, 2)의 위치에 있는 거울과 (1, 2)에 있는 거울에 차례로 반사되어 7번 구멍으로 빛이 나가게 된다.</p>
 

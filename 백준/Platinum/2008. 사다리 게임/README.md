@@ -18,7 +18,7 @@
 
 <p>사다리 게임을 할 때 사용되는 사다리가 있다. 세로선은 N개가 있고, 가로선은 M개가 있다. 세로선은 맨 왼쪽 것부터 1, 2, &hellip;, N의 번호가, 가로선은 맨 위의 것부터 1, 2, &hellip;, M으로 번호가 붙어 있다. 같은 높이에는 가로선이 없다고 생각하자.</p>
 
-<p><img alt="" height="187" src="/JudgeOnline/upload/201007/tkekfl.png" width="204" /></p>
+<p><img alt="" height="187" src="%EB%B0%B1%EC%A4%80/Platinum/2008.%E2%80%85%EC%82%AC%EB%8B%A4%EB%A6%AC%E2%80%85%EA%B2%8C%EC%9E%84/df45cce1.png" data-original-src="https://boja.mercury.kr/assets/problem/2008-1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" width="204" /></p>
 
 <p>위의 그림은 N=4, M=3인 한 사다리이다. 이런 사다리가 있으면 A는 3으로, B는 1로, C는 4로, D는 2로 가게 된다.</p>
 

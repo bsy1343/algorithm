@@ -20,7 +20,7 @@
 
 <p>주어진 영상이 모두 0으로만 되어 있으면 압축 결과는 &quot;0&quot;이 되고, 모두 1로만 되어 있으면 압축 결과는 &quot;1&quot;이 된다. 만약 0과 1이 섞여 있으면 전체를 한 번에 나타내지를 못하고, 왼쪽 위, 오른쪽 위, 왼쪽 아래, 오른쪽 아래, 이렇게 4개의 영상으로 나누어 압축하게 되며, 이 4개의 영역을 압축한 결과를 차례대로 괄호 안에 묶어서 표현한다</p>
 
-<p style="text-align: center;"><img alt="" height="186" src="/JudgeOnline/upload/201007/qq.png" width="408" /></p>
+<p style="text-align: center;"><img alt="" height="186" src="%EB%B0%B1%EC%A4%80/Silver/1992.%E2%80%85%EC%BF%BC%EB%93%9C%ED%8A%B8%EB%A6%AC/cbcce756.png" data-original-src="https://boja.mercury.kr/assets/problem/1992-1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" width="408" /></p>
 
 <p>위 그림에서 왼쪽의 영상은 오른쪽의 배열과 같이 숫자로 주어지며, 이 영상을 쿼드 트리 구조를 이용하여 압축하면 &quot;<code>(0(0011)(0(0111)01)1)</code>&quot;로 표현된다.  N &times;N 크기의 영상이 주어질 때, 이 영상을 압축한 결과를 출력하는 프로그램을 작성하시오.</p>
 

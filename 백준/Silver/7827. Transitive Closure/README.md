@@ -28,7 +28,7 @@
 
 <p>자신의 밑천이 주연이에게 드러날까 두려운 윤호는 여러분들에게 도움을 요청했다. 윤호와 주연이 사이를 갈라놓을지 말지는 여러분들의 손에 달렸다.</p>
 
-<p><img src="/userupload/Hibbah/201504/d9b29c14ef1d7d5d60b352a4b115913e.jpg" style="height:217.469879518072px; width:200px" /></p>
+<p><img src="%EB%B0%B1%EC%A4%80/Silver/7827.%E2%80%85Transitive%E2%80%85Closure/d76f7a41.png" data-original-src="https://boja.mercury.kr/assets/problem/5528-2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:217.469879518072px; width:200px" /></p>
 
 ### 입력
 

@@ -18,7 +18,7 @@
 
 <p>흔히 알고 있는 2차원 평면과 같은 격자 나라가 있다.</p>
 
-<p style="text-align: center;"><img alt="" src="/JudgeOnline/upload/201103/goal.png" style="height:281px; width:295px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/2375.%E2%80%85%EB%86%8D%EA%B5%AC%E2%80%85%EA%B3%A8%EB%8C%80%E2%80%85%EC%84%B8%EC%9A%B0%EA%B8%B0/f66e96ff.png" data-original-src="https://boja.mercury.kr/assets/problem/2375-1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:281px; width:295px" /></p>
 
 <p>이 나라에는 위와 같이 원점에서 거리가 정수가 되는 지점에 x축과 또는 y축과 평행하게 길이 나있고 세로로 나있는 길과 가로로 나있는 길이 교차하는 모든 곳에만 마을이 있어서 사람이 살고 있다.</p>
 

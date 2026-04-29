@@ -18,13 +18,13 @@
 
 <p>무게가 서로 다른 추들의 집합이 주어진다. 각 추의 무게는 1g 이상 9g 이하의 정수이다. 이 추들 중에서 몇 개를 선택하여 양팔저울에 올려서 평형을 만들고자 한다. 양팔저울에는 양쪽에 5개씩 등간격의 눈금이 표시되어 있고 추는 눈금 위에만 놓일 수 있다. 한 눈금 위에는 하나의 추만이 놓일 수 있다. 예를 들어, {2, 3, 4, 5, 9}가 추 집합으로 주어졌을 때, 아래 그림과 같이 왼쪽에는 2g짜리 추를 중심에서 3 떨어진 자리에 놓고, 오른쪽에는 3g짜리 추를 중심에서 2 떨어진 자리에 놓으면 저울은 평형을 이루게 된다. (2&times;3=3&times;2)</p>
 
-<p style="text-align: center;"><img alt="" height="55" src="/JudgeOnline/upload/201005/wjdnf1.PNG" width="240" /></p>
+<p style="text-align: center;"><img alt="" height="55" src="%EB%B0%B1%EC%A4%80/Platinum/1653.%E2%80%85%EC%96%91%ED%8C%94%E2%80%85%EC%A0%80%EC%9A%B8/0cfbbe85.png" data-original-src="https://boja.mercury.kr/assets/problem/1653-1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" width="240" /></p>
 
 <p style="text-align: center;">그림 1</p>
 
 <p>위와 동일한 추 집합에서, 아래 그림과 같이 양쪽에 서로 다른 수의 추를 배치해서 평형을 이룰 수도 있다. (4&times;4+2&times;2=5&times;4)</p>
 
-<p style="text-align: center;"><img alt="" height="49" src="/JudgeOnline/upload/201005/wjdnf2.PNG" width="242" /></p>
+<p style="text-align: center;"><img alt="" height="49" src="%EB%B0%B1%EC%A4%80/Platinum/1653.%E2%80%85%EC%96%91%ED%8C%94%E2%80%85%EC%A0%80%EC%9A%B8/60c6190a.png" data-original-src="https://boja.mercury.kr/assets/problem/1653-2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" width="242" /></p>
 
 <p style="text-align: center;">그림 2</p>
 

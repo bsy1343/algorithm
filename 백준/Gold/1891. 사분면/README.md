@@ -18,17 +18,17 @@
 
 <p>하나의 좌표평면은 다음과 같이 네 개의 사분면으로 나뉜다.</p>
 
-<p style="text-align: center;"><img alt="" src="/JudgeOnline/upload/201007/44.PNG" style="height:347px; width:409px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/1891.%E2%80%85%EC%82%AC%EB%B6%84%EB%A9%B4/6006908a.png" data-original-src="https://boja.mercury.kr/assets/problem/1891-1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:347px; width:409px" /></p>
 
 <p>그러면, 각각의 사분면을 다시 사분면으로 나누어 번호를 붙여 보면 어떨까? 예를 들어 1번 사분면의 1번 사분면은 11번 사분면, 3번 사분면의 2번 사분면은 32번 사분면이라고 하면 좋지 않을까? 물론 한 번 더 나눠 볼 수도 있겠다. 3번 사분면의 4번 사분면의 1번 사분면은 341번 사분면이다.</p>
 
-<p style="text-align: center;"><img alt="" src="/JudgeOnline/upload/201007/444.PNG" style="height:357px; width:403px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/1891.%E2%80%85%EC%82%AC%EB%B6%84%EB%A9%B4/465164be.png" data-original-src="https://boja.mercury.kr/assets/problem/1891-2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:357px; width:403px" /></p>
 
 <p>사분면의 번호 길이가 길어짐에 따라 각각의 사분면의 크기는 급격히 작아지며, 그 개수는 기하급수적으로 증가한다.</p>
 
 <p>사분면에 번호를 붙이는 이러한 규칙을 상정하고서, 어떤 사분면 조각을 이동시켰을 때, 그 조각이 위치하게 되는 사분면의 번호가 궁금하다. 예를 들어, 341번 사분면을 오른쪽으로 두 번, 위쪽으로 한 번 이동시키면 424번 사분면에 온다.</p>
 
-<p style="text-align: center;"><img alt="" src="/JudgeOnline/upload/201007/4444.PNG" style="height:364px; width:408px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/1891.%E2%80%85%EC%82%AC%EB%B6%84%EB%A9%B4/3437a7e5.png" data-original-src="https://boja.mercury.kr/assets/problem/1891-3.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:364px; width:408px" /></p>
 
 <p>하나의 사분면 조각을 이동시켰을 때, 그 조각이 도착한 사분면의 번호를 알아내는 프로그램을 작성하라.</p>
 

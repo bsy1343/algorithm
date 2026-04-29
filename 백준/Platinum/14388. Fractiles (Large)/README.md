@@ -35,7 +35,7 @@
 
 <p>Here&#39;s an illustration of how the artwork with complexity 2 is generated from the artwork with complexity 1:</p>
 
-<p><img alt="" src="https://onlinejudgeimages.s3.amazonaws.com/problem/14381/%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C.png" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/14388.%E2%80%85Fractiles%E2%80%85(Large)/a731e6e8.png" data-original-src="https://boja.mercury.kr/assets/problem/14388-1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>You have just discovered a piece of Fractal artwork, but the tiles are too dirty for you to tell what they are made of. Because you are an expert archaeologist familiar with the local Fractal culture, you know the values of&nbsp;K&nbsp;and&nbsp;C&nbsp;for the artwork, but you do not know the original sequence. Since gold is exciting, you would like to know whether there is at least one&nbsp;<code>G</code>&nbsp;tile in the artwork. Your budget allows you to hire&nbsp;S&nbsp;graduate students, each of whom can clean one tile of your choice (out of the&nbsp;K<sup>C</sup>&nbsp;tiles in the artwork) to see whether the tile is&nbsp;<code>G</code>&nbsp;or&nbsp;<code>L</code>.</p>
 

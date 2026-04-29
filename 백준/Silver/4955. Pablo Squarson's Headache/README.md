@@ -28,7 +28,7 @@
 
 <p>I hear someone murmured &quot;A smaller box will do&quot;. No, poor Pablo, shaking his head, is grumbling &quot;My square style does not seem to be understood by illiterates&quot;.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/4955.%E2%80%85Pablo%E2%80%85Squarson's%E2%80%85Headache/ea092b6d.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/4955.%E2%80%85Pablo%E2%80%85Squarson's%E2%80%85Headache/ea092b6d.png" data-original-src="https://www.acmicpc.net/upload/images2/A-1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:345px; width:652px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/4955.%E2%80%85Pablo%E2%80%85Squarson's%E2%80%85Headache/ea092b6d.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/4955.%E2%80%85Pablo%E2%80%85Squarson's%E2%80%85Headache/62f89081.png" data-original-src="https://boja.mercury.kr/assets/problem/4955-1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:345px; width:652px" /></p>
 
 ### 입력
 
@@ -49,7 +49,7 @@ n<sub>N-1</sub> dN-1</pre>
 
 <p>For example, pieces of artwork corresponding to the four datasets shown in Sample Input are depicted below. Squares are labeled by their numbers.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/4955.%E2%80%85Pablo%E2%80%85Squarson's%E2%80%85Headache/8da30447.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/4955.%E2%80%85Pablo%E2%80%85Squarson's%E2%80%85Headache/8da30447.png" data-original-src="https://www.acmicpc.net/upload/images2/A-2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:301px; width:715px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/4955.%E2%80%85Pablo%E2%80%85Squarson's%E2%80%85Headache/8da30447.png" data-original-src="%EB%B0%B1%EC%A4%80/Silver/4955.%E2%80%85Pablo%E2%80%85Squarson's%E2%80%85Headache/0fca5a7d.png" data-original-src="https://boja.mercury.kr/assets/problem/4955-2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:301px; width:715px" /></p>
 
 <p>The end of the input is indicated by a line that contains a single zero.</p>
 

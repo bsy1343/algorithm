@@ -18,11 +18,11 @@
 
 <p>N개의 직사각형 모양의 건물들이 주어졌을 때, 스카이라인을 구해내는 프로그램을 작성하시오. 스카이라인은 건물 전체의 윤곽을 의미한다. 즉, 각각의 건물을 직사각형으로 표현했을 때, 그러한 직사각형들의 합집합을 구하는 문제이다.</p>
 
-<p><img alt="" height="247" src="/JudgeOnline/upload/201007/sk.png" width="359" /></p>
+<p><img alt="" height="247" src="%EB%B0%B1%EC%A4%80/Gold/1933.%E2%80%85%EC%8A%A4%EC%B9%B4%EC%9D%B4%EB%9D%BC%EC%9D%B8/5e9a5e23.png" data-original-src="https://boja.mercury.kr/assets/problem/1933-1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" width="359" /></p>
 
 <p>예를 들어 직사각형 모양의 건물들이 위와 같이 주어졌다고 하자. 각각의 건물은 왼쪽 x좌표와 오른쪽 x좌표, 그리고 높이로 나타난다. 모든 건물들은 편의상 같은 높이의 지면(땅) 위에 있다고 가정하자. 위의 예에서 스카이라인을 구하면 아래와 같다.</p>
 
-<p><img alt="" height="247" src="/JudgeOnline/upload/201007/sksk.png" width="375" /></p>
+<p><img alt="" height="247" src="%EB%B0%B1%EC%A4%80/Gold/1933.%E2%80%85%EC%8A%A4%EC%B9%B4%EC%9D%B4%EB%9D%BC%EC%9D%B8/99eb03f4.png" data-original-src="https://boja.mercury.kr/assets/problem/1933-2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" width="375" /></p>
 
 ### 입력
 

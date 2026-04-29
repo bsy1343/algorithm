@@ -34,4 +34,4 @@
 
 ### 힌트
 
-<p><img alt="" src="/JudgeOnline/upload/201006/Screen shot 2010-06-11 at 8_51_11 PM.png" style="height:212px; width:303px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/1854.%E2%80%85K%EB%B2%88%EC%A7%B8%E2%80%85%EC%B5%9C%EB%8B%A8%EA%B2%BD%EB%A1%9C%E2%80%85%EC%B0%BE%EA%B8%B0/35c37fc3.png" data-original-src="https://boja.mercury.kr/assets/problem/1854-1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:212px; width:303px" /></p>

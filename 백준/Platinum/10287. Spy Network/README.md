@@ -57,6 +57,6 @@
 
 ### 힌트
 
-<p><img src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/userupload/kks227/20160428/a30fb0b4fdbcb1644c811cf7b2236360.png" /></p>
+<p><img src="%EB%B0%B1%EC%A4%80/Platinum/10287.%E2%80%85Spy%E2%80%85Network/1e0cd878.png" data-original-src="https://boja.mercury.kr/assets/problem/10287-1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>첫 번째 테스트 케이스의 spy network이다.</p>

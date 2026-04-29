@@ -18,11 +18,11 @@
 
 <p>다음과 같은 단어 격자가 있다.</p>
 
-<p><img alt="" src="/JudgeOnline/upload/201105/Screen shot 2011-05-10 at 12_14_03 AM.png" style="height:81px; width:137px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/2418.%E2%80%85%EB%8B%A8%EC%96%B4%E2%80%85%EA%B2%A9%EC%9E%90/2735882d.png" data-original-src="https://boja.mercury.kr/assets/problem/2418-1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:81px; width:137px" /></p>
 
 <p>여기서 TARTU란 단어를 읽는 방법은 총 7가지가 있다.</p>
 
-<p><img alt="" src="/JudgeOnline/upload/201105/Screen shot 2011-05-10 at 12_14_46 AM.png" style="height:144px; width:588px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/2418.%E2%80%85%EB%8B%A8%EC%96%B4%E2%80%85%EA%B2%A9%EC%9E%90/9b4c9ce3.png" data-original-src="https://boja.mercury.kr/assets/problem/2418-2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:144px; width:588px" /></p>
 
 <p>단어 격자와, 단어가 주어졌을 때, 주어진 단어를 읽을 수 있는 방법의 경우의 수를 구하는 프로그램을 작성하시오. 단어의 첫 글자는 격자의 어느 곳이 되어도 되고, 두 번째 글자부터는 그 전 글자가 있던 칸과 인접한 칸이어야 한다. (상하좌우, 대각선, 총 8방향). 각 칸은 중복되게 사용해도 된다.</p>
 

@@ -18,7 +18,7 @@
 
 <p>반도체를 설계할 때 n개의 포트를 다른 n개의 포트와 연결해야 할 때가 있다.</p>
 
-<p style="text-align: center;"><img alt="" src="/JudgeOnline/upload/201103/chip.png" style="height:235px; width:567px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/2352.%E2%80%85%EB%B0%98%EB%8F%84%EC%B2%B4%E2%80%85%EC%84%A4%EA%B3%84/93bbf53e.png" data-original-src="https://boja.mercury.kr/assets/problem/2352-1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:235px; width:567px" /></p>
 
 <p>예를 들어 왼쪽 그림이 n개의 포트와 다른 n개의 포트를 어떻게 연결해야 하는지를 나타낸다. 하지만 이와 같이 연결을 할 경우에는 연결선이 서로 꼬이기 때문에 이와 같이 연결할 수 없다. n개의 포트가 다른 n개의 포트와 어떻게 연결되어야 하는지가 주어졌을 때, 연결선이 서로 꼬이지(겹치지, 교차하지) 않도록 하면서 최대 몇 개까지 연결할 수 있는지를 알아내는 프로그램을 작성하시오</p>
 

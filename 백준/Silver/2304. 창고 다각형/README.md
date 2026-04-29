@@ -28,7 +28,7 @@
 
 <p>그림 1은 창고를 옆에서 본 모습을 그린 것이다. 이 그림에서 굵은 선으로 표시된 부분이 지붕에 해당되고, 지붕과 땅으로 둘러싸인 다각형이 창고를 옆에서 본 모습이다. 이 다각형을 창고 다각형이라고 하자.</p>
 
-<p style="text-align: center;"><img alt="" src="/JudgeOnline/upload/201011/cd.png" style="height:331px; width:483px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/2304.%E2%80%85%EC%B0%BD%EA%B3%A0%E2%80%85%EB%8B%A4%EA%B0%81%ED%98%95/8dcdfbed.png" data-original-src="https://boja.mercury.kr/assets/problem/2304-1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:331px; width:483px" /></p>
 
 <p style="text-align: center;">그림1 . 기둥과 지붕(굵은 선)의 예</p>
 

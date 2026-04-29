@@ -18,7 +18,7 @@
 
 <p>사각형 모양의 땅이 있다. 이 땅을 둘로 잘라서, 잘라진 두 다각형의 넓이를 최대한 비슷하게 하려고 한다.</p>
 
-<p style="text-align: center;"><img alt="" src="/JudgeOnline/upload/201008/land.PNG" style="height:168px; width:391px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/2175.%E2%80%85%EB%95%85%E2%80%85%EC%9E%90%EB%A5%B4%EA%B8%B0/bee5bd53.png" data-original-src="https://boja.mercury.kr/assets/problem/2175-1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:168px; width:391px" /></p>
 
 <p>땅을 자를 때에는 위의 그림처럼 각 꼭짓점이나 그 중점만을 이용할 수 있다.</p>
 

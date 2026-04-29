@@ -17,9 +17,9 @@
 ### 문제 설명
 
 <p>하나의 큰 원에 1부터 N까지 숫자가 적힌 점이 시계방향으로 차례로 있다. 그리고 각 점은 서로 다른 두 점과 연결이 되어있다. (즉, 모든 점의 차수는 2라는 뜻이다.)</p><p>그런데 이 점을 연결하는 과정에서 연결하는 선이 서로 엉켜있다면 이것은 볼록다각형이 되지 못할 것이다. 그래서 원 위에 있는 점을 적절한 곳으로 옮겨서 선이 서로 엉키는 것을 푸려고 한다. 다음 그림을 보자.</p>
-<p><img width="263" height="130" alt="" src="/JudgeOnline/upload/201007/bp.PNG" /></p>
+<p><img width="263" height="130" alt="" src="%EB%B0%B1%EC%A4%80/Gold/1847.%E2%80%85%EB%B3%BC%EB%A1%9D%EB%8B%A4%EA%B0%81%ED%98%95%E2%80%85%EB%A7%8C%EB%93%A4%EA%B8%B0/4388c9b0.png" data-original-src="https://boja.mercury.kr/assets/problem/1847-1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 <p>처음에 왼쪽 그림과 같이 연결이 되어 있다고 하자. 그리고 4번 점을 빨간색 화살표와 같이 이동하면 오른쪽과 같이 될 것이다. 오른쪽 그림은 서로 엉킨 것이 없어 볼록다각형이 될 것이다.</p>
-<p><img width="276" height="108" alt="" src="/JudgeOnline/upload/201007/bp2.PNG" /></p>
+<p><img width="276" height="108" alt="" src="%EB%B0%B1%EC%A4%80/Gold/1847.%E2%80%85%EB%B3%BC%EB%A1%9D%EB%8B%A4%EA%B0%81%ED%98%95%E2%80%85%EB%A7%8C%EB%93%A4%EA%B8%B0/c687be4b.png" data-original-src="https://boja.mercury.kr/assets/problem/1847-2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 <p>위의 그림도 마찬가지로 가장 왼쪽에 있는 상태에서 위의 빨간색 화살표를 따라 두 번의 이동을 하면 가장 오른쪽과 같이 서로 엉키는 부분이 없어지게 된다.</p>
 <p>1부터 N번까지의 점이 연결된 상태들의 정보가 주어져 있을 때, 엉킨 것을 모두 풀어서 볼록 N각형이 되게 하려면 최소한 몇 번의 점의 이동이 있어야 하는지 구하는 프로그램을 작성하여라.</p>
 

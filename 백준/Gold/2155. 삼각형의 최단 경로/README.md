@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><img alt="" height="236" src="/JudgeOnline/upload/201008/tri.PNG" width="192" /></p>
+<p style="text-align: center;"><img alt="" height="236" src="%EB%B0%B1%EC%A4%80/Gold/2155.%E2%80%85%EC%82%BC%EA%B0%81%ED%98%95%EC%9D%98%E2%80%85%EC%B5%9C%EB%8B%A8%E2%80%85%EA%B2%BD%EB%A1%9C/7ebb3219.png" data-original-src="https://boja.mercury.kr/assets/problem/2155-1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" width="192" /></p>
 
 <p>위의 그림과 같은 삼각형이 있다. 작은 삼각형들은 1부터 시작해서 위와 같은 규칙으로 번호가 쭉 매겨져 있다. 이와 같은 그림에서, A가 적혀 있는 삼각형에서 B가 적혀 있는 삼각형으로 이동하려 한다.</p>
 

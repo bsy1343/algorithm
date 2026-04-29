@@ -24,7 +24,7 @@
 	<li>각각의 부품에는 그 부품의 중요도가 있다. 우리가 만든 칩의 중요도는, 한 개의 전원 선이 한 개의 부품에 연결될 때는 그 부품의 중요도를 더하고, 두 개의 부품에 연결될 때는 각 부품의 중요도를 곱한 것을 더한 값으로 표현된다. 이와 같은 중요도를 최대로 하는 칩을 만드는 것이 목적이다.</li>
 </ol>
 
-<p style="text-align: center;"><img alt="" height="121" src="/JudgeOnline/upload/201008/chip.PNG" width="694" /></p>
+<p style="text-align: center;"><img alt="" height="121" src="%EB%B0%B1%EC%A4%80/Gold/23332.%E2%80%85%EC%B9%A9%E2%80%85%EB%A7%8C%EB%93%A4%EA%B8%B0%E2%80%852/f6612474.png" data-original-src="https://boja.mercury.kr/assets/problem/23332-1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" width="694" /></p>
 
 <p>제일 왼쪽의 예는 기판의 위쪽에 연결한 전선이 꼬이는 경우로 올바르지 않은 경우이다. 두 번째 경우는 올바른 연결이고, 중요도가 4 &times; 4 + 3&nbsp;&times; 5 = 31이다. 세 번째 경우는 올바른 경우이지만, 중요도가 4 &times; 4 + 5&nbsp;= 21로 최대가 아니다. 이 칩에서 만들 수 있는 최대 중요도는 3&nbsp;&times; 4 + 4&nbsp;&times; 5 = 32이다.</p>
 

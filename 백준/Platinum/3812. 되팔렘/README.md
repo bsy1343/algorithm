@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p><img class="img-responsive" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/userupload/Riddler/20160903/951ae5ab93fd390398892ef80882ba25.jpg" /></p>
+<p><img class="img-responsive" src="%EB%B0%B1%EC%A4%80/Platinum/3812.%E2%80%85%EB%90%98%ED%8C%94%EB%A0%98/d947a818.jpg" data-original-src="https://boja.mercury.kr/assets/problem/3812-1.jpg" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>&nbsp;</p>
 

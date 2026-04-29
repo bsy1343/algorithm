@@ -22,7 +22,7 @@
 
 <p>그리고 더 나아가 자연수의 제곱근을 작도할 수 있다. 예를 들어 &radic;33의 길이를 가지는 선분을 작도한다고 해보자. 먼저 수평선 위에 한 점 X를 잡고 X를 끝으로 하는 길이 4의 수평선과 수직한 선분을 작도한다. 이 선분의 끝 점을 H라고 하자. H를 중심으로 하는 길이 7의 원을 작도 한 뒤 수평선과 만나 생기는 교점 중 하나를 Y라고 하면 피타고라스 정리에 의해 선분 XY의 길이는 &radic;33이 된다.</p>
 
-<p><img src="/userupload/ZZangZZang/201501/f79fe83d3dd1dca642b247bfdc94cdb6.png" /></p>
+<p><img src="%EB%B0%B1%EC%A4%80/Gold/5389.%E2%80%85%EC%A0%9C%EA%B3%B1%EA%B7%BC%E2%80%85%EC%9E%91%EB%8F%84/818184f6.png" data-original-src="https://boja.mercury.kr/assets/problem/5389-2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>&nbsp;</p>
 

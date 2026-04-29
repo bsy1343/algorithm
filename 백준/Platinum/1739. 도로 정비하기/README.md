@@ -24,7 +24,7 @@
 
 <p>이러한 계획을 세우기는 했지만, 시장은 실제로 이러한 조건을 만족하면서 도로들에 방향성을 줄 수 있는지 궁금해졌다. 도로에 대한 정보와 각 버스에 대한 정보가 주어졌을 때, 이러한 조건을 만족하면서 도로들에 방향성을 줄 수 있는지 알아내는 프로그램을 작성하시오.</p>
 
-<p style="text-align:center"><img alt="" src="/JudgeOnline/upload/201006/doro(1).png" style="height:167px; width:511px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/1739.%E2%80%85%EB%8F%84%EB%A1%9C%E2%80%85%EC%A0%95%EB%B9%84%ED%95%98%EA%B8%B0/d0491d92.png" data-original-src="https://boja.mercury.kr/assets/problem/1739-1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:167px; width:511px" /></p>
 
 ### 입력
 

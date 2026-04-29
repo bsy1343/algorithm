@@ -18,7 +18,7 @@
 
 <p>n&times;m 크기의 도화지에 그림이 그려져 있다. 그 중 L자 모양인 그림이 있을 것이다. L자 모양은 왼쪽 아래 점을 공유하는 두 직사각형이 합쳐진 모양이다. 아래 조각의 너비는 위의 조각의 너비보다 넓어야 하며, 위의 조각은 아래 조각보다 상하로 길어야 한다. L자를 회전하거나 대칭시키는 &lsquo;ㄱ&rsquo;자 등은 생각하지 않기로 하며, 단순한 직사각형은 L자 모양이 아니다. 예를 들어서&nbsp; L자 모양을 몇 개 그려보면 아래와 같다.</p>
 
-<p style="text-align: center;"><img alt="" height="184" src="/JudgeOnline/upload/201007/llll.png" width="601" /></p>
+<p style="text-align: center;"><img alt="" height="184" src="%EB%B0%B1%EC%A4%80/Platinum/2027.%E2%80%85%EA%B0%80%EC%9E%A5%E2%80%85%ED%81%B0%E2%80%85L/d22e4337.png" data-original-src="https://boja.mercury.kr/assets/problem/2027-1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" width="601" /></p>
 
 <p>L 모양을 가진 그림 중 가장 넓이가 큰 것을 찾아 그 넓이를 출력하는 프로그램을 작성하여라.</p>
 

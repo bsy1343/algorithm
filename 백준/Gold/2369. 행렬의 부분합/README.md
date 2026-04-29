@@ -20,11 +20,11 @@
 
 <p>부분행렬은 말 그대로 어떤 행렬에서 부분적으로 뽑아내는 행렬을 의미한다. 다음의 예를 보면 이해가 갈 것이다.</p>
 
-<p style="text-align: center;"><img alt="" height="136" src="/JudgeOnline/upload/201103/a1.png" width="130" /></p>
+<p style="text-align: center;"><img alt="" height="136" src="%EB%B0%B1%EC%A4%80/Gold/2369.%E2%80%85%ED%96%89%EB%A0%AC%EC%9D%98%E2%80%85%EB%B6%80%EB%B6%84%ED%95%A9/f341a956.png" data-original-src="https://boja.mercury.kr/assets/problem/2369-1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" width="130" /></p>
 
 <p>위와 같은 3&times;3행렬이 있을 때, 2&times;2인 부분행렬들은 다음과 같다.</p>
 
-<p style="text-align: center;"><img alt="" height="84" src="/JudgeOnline/upload/201103/a2.png" width="368" /></p>
+<p style="text-align: center;"><img alt="" height="84" src="%EB%B0%B1%EC%A4%80/Gold/2369.%E2%80%85%ED%96%89%EB%A0%AC%EC%9D%98%E2%80%85%EB%B6%80%EB%B6%84%ED%95%A9/35b38b98.png" data-original-src="https://boja.mercury.kr/assets/problem/2369-2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" width="368" /></p>
 
 <p>1&times;1인 부분행렬을 총 9개가 있고, 3&times;3인 부분행렬은 자기 자신 한 개만 있다.</p>
 

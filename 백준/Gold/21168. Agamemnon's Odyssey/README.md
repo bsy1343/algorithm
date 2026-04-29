@@ -16,7 +16,7 @@
 
 ### 문제 설명
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/21168.%E2%80%85Agamemnon's%E2%80%85Odyssey/e5f3fd77.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/21168.%E2%80%85Agamemnon's%E2%80%85Odyssey/e5f3fd77.png" data-original-src="https://upload.acmicpc.net/6bb806c2-0635-4cd2-adc9-523a6ad118b5/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 451px; height: 300px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/21168.%E2%80%85Agamemnon's%E2%80%85Odyssey/e5f3fd77.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/21168.%E2%80%85Agamemnon's%E2%80%85Odyssey/ec1835c3.png" data-original-src="https://boja.mercury.kr/assets/problem/21168-1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="width: 451px; height: 300px;" /></p>
 
 <p style="text-align: center;">Example map</p>
 

@@ -20,7 +20,7 @@
 
 <p>우리는 격자 모양의 그래프에서의 분리자를 살펴보려 한다. 이 그래프에서 각각의 격자점이 정점을 이루며, 각각의 정점은 이웃한 8개의 정점들과 연결되어 있다. 아래에 6&times;6 격자 에 대한 예제 그림이 있다. 흰색은 W, 회색은 S, 검은색은 B를 나타낸다.</p>
 
-<p style="text-align: center;"><img alt="" src="/JudgeOnline/upload/201009/1.PNG" style="height:352px; width:349px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/2288.%E2%80%85%EA%B2%A9%EC%9E%90%EC%9D%98%E2%80%85%EB%B6%84%EB%A6%AC%EC%9E%90/85a7d47b.png" data-original-src="https://boja.mercury.kr/assets/problem/2288-1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:352px; width:349px" /></p>
 
 <p>문제를 단순화하기 위해, 다음의 조건을 만족하는 분리자만 다루기로 하자.</p>
 
@@ -39,7 +39,7 @@
 
 <p>이와 같은 개선 방법을 이용하여 S가 여전히 분리자이도록 하고, 이때 S의 크기를 최소로 하라. 위의 예제는 다음과 같이 하면 S의 크기가 7로 최소가 된다.</p>
 
-<p style="text-align: center;"><img alt="" src="/JudgeOnline/upload/201009/2.PNG" style="height:352px; width:349px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/2288.%E2%80%85%EA%B2%A9%EC%9E%90%EC%9D%98%E2%80%85%EB%B6%84%EB%A6%AC%EC%9E%90/4dc80817.png" data-original-src="https://boja.mercury.kr/assets/problem/2288-2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:352px; width:349px" /></p>
 
 ### 입력
 

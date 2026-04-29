@@ -22,7 +22,7 @@
 
 <p>하지만 한 가지 문제가 있다. 결혼식에 사자가족도 참석했는데 사자가족은 서열이 엄격해서 서열이 낮은 사자가 서열이 높은 사자보다 기차에서 앞쪽에 위치하면 안 된다. 이 조건만 만족한다면 결혼식에 참석한 사람들의 순서를 마음대로 바꾸어도 된다.</p>
 
-<p style="text-align: center;"><img alt="" src="/JudgeOnline/upload/201011/qwe.png" style="height:186px; width:400px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/2317.%E2%80%85%EA%B2%B0%ED%98%BC%EC%8B%9D/4fed1e0e.png" data-original-src="https://boja.mercury.kr/assets/problem/2317-1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:186px; width:400px" /></p>
 
 <p>&ldquo;앙두레 강&rdquo;을 도와 결혼 축하 기차를 아름답게 만들어 보도록 하자.</p>
 

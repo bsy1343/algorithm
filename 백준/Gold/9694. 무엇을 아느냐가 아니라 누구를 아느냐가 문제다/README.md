@@ -18,7 +18,7 @@
 
 <p>한신이는 젊고, 똑똑하고 매우 유명한 정치인이다. 그럼에도 그는 여전히 자신의 성공을 위해서도 인간관계는 중요한것이라고 믿고있다. 다음달에 열릴 국회의원선거에서 한신이는 자신의 당이 반드시 이기길 희망한다. 그러기 위해서 최고의원의 지지가 필요하다.</p>
 
-<p><img alt="" src="/userupload/vumbumy/201510/36b07eab268797eac93e2ffb5f37fe9a.png" style="float:right; margin:0px 0px 10px 10px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/9694.%E2%80%85%EB%AC%B4%EC%97%87%EC%9D%84%E2%80%85%EC%95%84%EB%8A%90%EB%83%90%EA%B0%80%E2%80%85%EC%95%84%EB%8B%88%EB%9D%BC%E2%80%85%EB%88%84%EA%B5%AC%EB%A5%BC%E2%80%85%EC%95%84%EB%8A%90%EB%83%90%EA%B0%80%E2%80%85%EB%AC%B8%EC%A0%9C%EB%8B%A4/7b17b752.png" data-original-src="https://boja.mercury.kr/assets/problem/9694-2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="float:right; margin:0px 0px 10px 10px" /></p>
 
 <p>이 최고의원의 지지를 받기위해 한신이는 전략을 세웠다. 그는 그 최고의원을 직접적으로 만날수 없다면 그를 알고있는 인맥을 이용하여 만날것이다. 이것을 위해서 우선 정치인들의 친밀도를 조사하였는데 친밀도를 다음 4단계로 나누어서 기록해놓았다.</p>
 

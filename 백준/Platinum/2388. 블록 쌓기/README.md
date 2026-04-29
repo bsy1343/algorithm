@@ -18,11 +18,11 @@
 
 <p>영수는 가로 N, 세로 M 크기의 판 위에, 각 변의 길이가 1인 정육면체 블록을 쌓는 놀이를 하고 있었다. 그러다가 중간에 잠시 중지할 일이 생겼는데, 나중에 계속 블록을 쌓기 위해 쌓아놓은 블록들을 앞면과 옆면에서 본 모습을 그려 두었다. 예를 들어 다음과 같은 예를 보자.</p>
 
-<p style="text-align: center;"><img alt="" src="/JudgeOnline/upload/201103/BIN0001(1).png" style="height:105px; width:218px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/2388.%E2%80%85%EB%B8%94%EB%A1%9D%E2%80%85%EC%8C%93%EA%B8%B0/0acb63f8.png" data-original-src="https://boja.mercury.kr/assets/problem/2388-1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:105px; width:218px" /></p>
 
 <p>왼쪽은 앞에서 본 모습이고, 오른쪽은 옆에서 본 모습이다. 영수는 나중에 블록을 원래의 모습으로 복원하려고 했는데, 복원을 하다 보니 예전에 그려둔 그림만으로는 원래의 모습이 유일하게 결정되지 않음을 알게 되었다. 그래서 영수는 두 가지 경우를 생각해 보기로 했는데, 하나는 블록의 개수가 최대가 되는 경우이고, 다른 하나는 블록의 개수가 최소가 되는 경우이다.</p>
 
-<p style="text-align: center;"><img alt="" src="/JudgeOnline/upload/201103/BIN0002(1).png" style="height:129px; width:466px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/2388.%E2%80%85%EB%B8%94%EB%A1%9D%E2%80%85%EC%8C%93%EA%B8%B0/c950511b.png" data-original-src="https://boja.mercury.kr/assets/problem/2388-2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:129px; width:466px" /></p>
 
 <p>왼쪽은 위의 그림을 바탕으로 블록의 개수가 최대가 되도록 쌓은 경우고, 가운데는 최소가 되도록 쌓은 모습이다. 오른쪽 그림은 최소가 될 때의 모습을 뒤에서 본 것이다. 최대는 21개의 블록이 필요하고, 최소는 10개의 블록이 필요하다.</p>
 

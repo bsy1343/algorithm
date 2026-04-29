@@ -36,4 +36,4 @@
 
 ### 힌트
 
-<p><img alt="" height="392" src="/JudgeOnline/upload/201005/ekrekrnfl.PNG" width="422" /></p>
+<p><img alt="" height="392" src="%EB%B0%B1%EC%A4%80/Platinum/1642.%E2%80%85%EB%94%B1%EB%94%B0%EA%B5%AC%EB%A6%AC/ed42381b.png" data-original-src="https://boja.mercury.kr/assets/problem/1642-1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" width="422" /></p>

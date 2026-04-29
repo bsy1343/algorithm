@@ -18,7 +18,7 @@
 
 <p>길이가 정수인 여러 개의 막대기가 있다. 막대기들 중에는 서로 길이가 같은 것도 있고, 다른 것도 있다. 이 중에서 여섯 개의 막대기를 골라 적당한 순서로 이어서 육각형 모양을 만들고 싶다. 여러 개의 막대기를 일직선으로 붙여 더 긴 막대기를 만들거나, 막대기를 더 짧은 길이로 조각낼 수는 없다. 또한, 육각형에 있는 여섯 개의 내각의 크기가 모두 같도록 하고 싶다.</p>
 
-<p style="text-align: center;"><img alt="" height="140" src="/JudgeOnline/upload/201007/6.PNG" width="252" /></p>
+<p style="text-align: center;"><img alt="" height="140" src="%EB%B0%B1%EC%A4%80/Gold/1869.%E2%80%85%EC%9C%A1%EA%B0%81%ED%98%95/e3d1c587.png" data-original-src="https://boja.mercury.kr/assets/problem/1869-1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" width="252" /></p>
 
 <p>위의 그림은 모든 내각의 크기가 같도록 만든 육각형의 예이다. 왼쪽의 육각형에서 알 수 있듯 막대기의 길이가 모두 같지 않다고 하더라도 주어진 조건을 만족하도록 육각형 모양을 만들 수 있는 경우도 있다.</p>
 

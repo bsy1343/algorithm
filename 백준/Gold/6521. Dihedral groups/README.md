@@ -30,7 +30,7 @@ of points:</p>
 <li>reflection with respect to the x-axis</li>
 </ul>
 <p>The following picture shows an example of these operations:</p>
-<center><img alt="" src="images/dihedral.png"/>
+<center><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/6521.%E2%80%85Dihedral%E2%80%85groups/866c7148.png" data-original-src="https://boja.mercury.kr/images/dihedral.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc"/>
 </center>
 <p>Given a sequence of operations, we are interested in the shortest
 sequence of operations which gives the same result, i.e., the position

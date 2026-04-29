@@ -18,7 +18,7 @@
 
 <p>장기의 말 중 차(車)는 상하좌우 네 방향 중 한 방향으로 몇 칸이든 갈 수 있는 말이다. 예를 들어 차가 아래와 같은 위치에 있다고 할 때, 이 차가 이동할 수 있는 칸은 다음과 같다.</p>
 
-<p style="text-align: center;"><img alt="" height="341" src="/JudgeOnline/upload/201007/chess.PNG" width="359" /></p>
+<p style="text-align: center;"><img alt="" height="341" src="%EB%B0%B1%EC%A4%80/Gold/1846.%E2%80%85%EC%9E%A5%EA%B8%B0/d5acb26a.png" data-original-src="https://boja.mercury.kr/assets/problem/1846-1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" width="359" /></p>
 
 <p>우리는 N&times;N 모양의 게임판에 N개의 차를 배치하려고 하는데, 다음의 두 가지 조건을 만족시키도록 배치하고 싶다.</p>
 
@@ -27,11 +27,11 @@
 	<li>두 대각선이 지나는 칸 위에는 차가 위치할 수 없다. N=7인 경우, 대각선이 지나는 칸이란 아래와 같은 칸들을 말한다.</li>
 </ol>
 
-<p style="text-align: center;"><img alt="" height="287" src="/JudgeOnline/upload/201007/chess2.PNG" width="297" /></p>
+<p style="text-align: center;"><img alt="" height="287" src="%EB%B0%B1%EC%A4%80/Gold/1846.%E2%80%85%EC%9E%A5%EA%B8%B0/7cc33424.png" data-original-src="https://boja.mercury.kr/assets/problem/1846-2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" width="297" /></p>
 
 <p>주어진 두 조건을 만족하면서 N&times;N 모양의 게임판에 N개의 차를 배치하는 프로그램을 작성하시오. 아래는 N=4인 경우 조건을 만족하는 배치가 된다. (색칠된 칸은 차를 놓을 수 없는 칸)</p>
 
-<p style="text-align: center;"><img alt="" height="163" src="/JudgeOnline/upload/201007/chess3.PNG" width="181" /></p>
+<p style="text-align: center;"><img alt="" height="163" src="%EB%B0%B1%EC%A4%80/Gold/1846.%E2%80%85%EC%9E%A5%EA%B8%B0/8a67cbc5.png" data-original-src="https://boja.mercury.kr/assets/problem/1846-3.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" width="181" /></p>
 
 ### 입력
 

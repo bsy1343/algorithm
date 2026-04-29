@@ -20,7 +20,7 @@
 
 <p>당신은 그래프에 대해서 해시 함수를 하나 설계하였다. 당신이 설계한 해시 값은 그래프의 1번 정점에서 2번 정점까지 가는 모든 경로들의 경로 값의 최소공배수로 정의한다. 경로 값은 경로 상에 있는 모든 간선의 가중치들의 최대공약수로 정의한다. 물론 경로에서는 같은 정점이 두 번 이상 나와서는 안 된다.</p>
 
-<p style="text-align: center;"><img alt="" height="239" src="/JudgeOnline/upload/201011/ha.PNG" width="268" /></p>
+<p style="text-align: center;"><img alt="" height="239" src="%EB%B0%B1%EC%A4%80/Platinum/2328.%E2%80%85%EA%B7%B8%EB%9E%98%ED%94%84%EC%9D%98%E2%80%85%ED%95%B4%EC%8B%9C/0f2fe37d.png" data-original-src="https://boja.mercury.kr/assets/problem/2328-1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" width="268" /></p>
 
 <p>예를 들어 위와 같은 그래프를 보자. 위의 그래프에서 1번 정점에서 2번 정점까지 가는 경로는 1-4-2, 1-3-2의 두 개가 있다. 각 경로의 경로 값은 2(16, 6의 최대공약수), 3(3, 9의 최대공약수)이 되고, 따라서 해시 값은 6(2, 3의 최소공배수)이 된다.</p>
 

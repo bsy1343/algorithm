@@ -22,7 +22,7 @@
 
 <p>예를 들어, 아래의 그림과 같은 고속도로 도로망이 있다고 하자. 각각의 도로는 요금과 이동하는데 걸리는 시간을 나타내는 한 쌍의 숫자로 구성되어진다,</p>
 
-<p><img alt="" src="/JudgeOnline/upload/201005/gragra.PNG" style="height:143px; width:276px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/1702.%E2%80%85%EA%B3%A0%EC%86%8D%EB%8F%84%EB%A1%9C/25328431.png" data-original-src="https://boja.mercury.kr/assets/problem/1702-1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:143px; width:276px" /></p>
 
 <p>그리고 도시 1에서 도시 4로 가는데는 총 4가지 경로가 존재한다. 4가지 경로에 대해 총 이동시간과 요금을 계산하여 보면 1-2-4(요금 4, 시간 5), 1-3-4(요금 4, 시간 5), 1-2-3-4(요금 6, 시간 4), 1-3-2-4(요금 4, 시간 10)이 된다.</p>
 

@@ -26,7 +26,7 @@
 
 <p>이러한 특성을 만족하는 두 다각형 A, B가 있을 때, 이들의 민코프스키(Minkowski) 합은, A에 속하는 모든 영역의 좌표 (x<sub>1</sub>, y<sub>1</sub>)와 B에 속하는 모든 영역의 좌표 (x<sub>2</sub>, y<sub>2</sub>)에 대해, 있을 수 있는 모든 (x<sub>1</sub> + x<sub>2</sub>, y<sub>1</sub> + y<sub>2</sub>) 조합이 나타내는 영역의 도형이다. 다음은 두 삼각형과 이들의 민코프스키 합을 그림으로 나타낸 것이다.</p>
 
-<p style="text-align: center;"><img alt="" src="/JudgeOnline/upload/201008/min.PNG" style="height:156px; width:478px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/2244.%E2%80%85%EB%AF%BC%EC%BD%94%ED%94%84%EC%8A%A4%ED%82%A4%E2%80%85%ED%95%A9/8b6df516.png" data-original-src="https://boja.mercury.kr/assets/problem/2244-1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:156px; width:478px" /></p>
 
 <p>두 다각형이 주어졌을 때, 두 다각형의 민코프스키 합을 구하는 프로그램을 작성하시오. 만약 민코프스키 합이 여러 개의 다각형으로 이루어진다면 다음의 우선순위에 따라 하나의 다각형만을 구하도록 한다. 번호가 작은 것이 우선순위가 높은 것이다.</p>
 

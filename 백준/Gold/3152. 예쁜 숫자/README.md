@@ -25,7 +25,7 @@
 
 <p>예를 들어 p = 3 일때 트리의 시작 부분은 다음과 같을 것이다.</p>
 
-<p style="text-align:center"><img src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/userupload/insu_nym/20160121/20ac1a532aec950c639dcc70a7a6366e.png" style="height:305px; width:587px" /></p>
+<p style="text-align:center"><img src="%EB%B0%B1%EC%A4%80/Gold/3152.%E2%80%85%EC%98%88%EC%81%9C%E2%80%85%EC%88%AB%EC%9E%90/26e209fc.png" data-original-src="https://boja.mercury.kr/assets/problem/3152-1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:305px; width:587px" /></p>
 
 <p>어떤 숫자는 무한 이진 트리 내의 서로 다른 두 노드에 매겨진 두 숫자의 합으로 표현 할&nbsp;수 있는 방법이 한&nbsp;가지면&nbsp;&quot;예쁜 숫자&quot;로 분류된다. 주어진 p로 만든&nbsp;무한 이진 트리 내에서&nbsp; n<sub>1</sub>, n<sub>2</sub>, n<sub>3</sub>,&nbsp;n<sub>4</sub>가 &quot;예쁜&quot;지&nbsp;출력하는 프로그램을 작성하라.</p>
 

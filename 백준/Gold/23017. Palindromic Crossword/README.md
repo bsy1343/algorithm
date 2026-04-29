@@ -18,7 +18,7 @@
 
 <p>A&nbsp;<a href="https://en.wikipedia.org/wiki/Crossword" target="_blank">crossword puzzle</a>&nbsp;is a rectangular grid of black cells and letters&nbsp;<code>A-Z</code>&nbsp;like the one shown below.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/23017.%E2%80%85Palindromic%E2%80%85Crossword/c2135f1d.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/23017.%E2%80%85Palindromic%E2%80%85Crossword/c2135f1d.png" data-original-src="https://upload.acmicpc.net/de3271dd-981c-432a-8774-02b1b91289ab/-/crop/242x177/0,94/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /><img alt="" src="" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/23017.%E2%80%85Palindromic%E2%80%85Crossword/c2135f1d.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/23017.%E2%80%85Palindromic%E2%80%85Crossword/c2135f1d.png" data-original-src="https://upload.acmicpc.net/de3271dd-981c-432a-8774-02b1b91289ab/-/crop/242x177/0,94/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/23017.%E2%80%85Palindromic%E2%80%85Crossword/7ab99828.png" data-original-src="https://boja.mercury.kr/assets/problem/23017-2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>Words in the crossword are defined as maximal vertical or horizontal segments of characters. In the crossword below, DO and ON are examples of words.</p>
 

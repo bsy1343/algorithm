@@ -20,11 +20,11 @@
 
 <p>Consider the 4 x 4 board shown in Figure 1, where the solid circle identifies the start position and the dashed circle identifies the target. Figure 2 shows the three paths from the start to the target, with the irrelevant numbers in each removed.</p>
 
-<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/4620.%E2%80%85Pascal's%E2%80%85Travels/877bada0.gif" data-original-src="%EB%B0%B1%EC%A4%80/Silver/4620.%E2%80%85Pascal's%E2%80%85Travels/877bada0.gif" data-original-src="https://www.acmicpc.net/upload/images2/image001.gif" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:147px; width:147px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/4620.%E2%80%85Pascal's%E2%80%85Travels/877bada0.gif" data-original-src="%EB%B0%B1%EC%A4%80/Silver/4620.%E2%80%85Pascal's%E2%80%85Travels/b1088076.gif" data-original-src="https://boja.mercury.kr/assets/problem/4620-1.gif" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:147px; width:147px" /></p>
 
 <p style="text-align:center">Figure 1</p>
 
-<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/4620.%E2%80%85Pascal's%E2%80%85Travels/2cfd19aa.gif" data-original-src="%EB%B0%B1%EC%A4%80/Silver/4620.%E2%80%85Pascal's%E2%80%85Travels/2cfd19aa.gif" data-original-src="https://www.acmicpc.net/upload/images2/image002.gif" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:147px; width:460px" /></p>
+<p style="text-align:center"><img alt="" src="%EB%B0%B1%EC%A4%80/Silver/4620.%E2%80%85Pascal's%E2%80%85Travels/2cfd19aa.gif" data-original-src="%EB%B0%B1%EC%A4%80/Silver/4620.%E2%80%85Pascal's%E2%80%85Travels/59772284.gif" data-original-src="https://boja.mercury.kr/assets/problem/4620-2.gif" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:147px; width:460px" /></p>
 
 <p style="text-align:center">Figure 2</p>
 

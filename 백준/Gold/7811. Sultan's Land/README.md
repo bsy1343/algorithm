@@ -22,7 +22,7 @@
 
 <p>&quot;Well, my dear son, if you are to choose four pillars to form an area where each pillar serves as a corner of that area, how many possible selections are there?&quot; asked the Sultan. His son replied him with a big smile. Just at the time the Sultan remembered that his son works for the Sultanate&#39;s Advance Combinatorial Ministry, so this problem might be too easy. Then he quickly added, &quot;Oh! Each side of the area should be parallel to the grid I have drawn before.&quot;</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/7811.%E2%80%85Sultan's%E2%80%85Land/7ca2c7b2.gif" data-original-src="%EB%B0%B1%EC%A4%80/Gold/7811.%E2%80%85Sultan's%E2%80%85Land/7ca2c7b2.gif" data-original-src="https://www.acmicpc.net/upload/images2/sultan.gif" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:221px; width:600px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/7811.%E2%80%85Sultan's%E2%80%85Land/7ca2c7b2.gif" data-original-src="%EB%B0%B1%EC%A4%80/Gold/7811.%E2%80%85Sultan's%E2%80%85Land/9a1837d4.gif" data-original-src="https://boja.mercury.kr/assets/problem/7811-1.gif" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:221px; width:600px" /></p>
 
 <p>To tell the truth, the Sultan himself actually had not prepared any answers since he spontaneously asked his after the big smile. Help this Sultan by writing a program to count how many possible selections can be made by applying the rules above.</p>
 

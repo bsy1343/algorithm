@@ -18,7 +18,7 @@
 
 <p>서양 음악의 음계는 도레미파솔라시의 칠음계이다. 각각의 음은 차례로 영어 알파벳 CDEFGAB에 대응된다(도다레라미마파바솔사라가시나도다를 생각하면 됨). 이 문제에서는 이러한 일곱 음만을 다루기로 한다.</p>
 
-<p style="text-align: center;"><img alt="" height="200" src="/JudgeOnline/upload/201007/msmsmsmsmsm.png" width="502" /></p>
+<p style="text-align: center;"><img alt="" height="200" src="%EB%B0%B1%EC%A4%80/Silver/2034.%E2%80%85%EB%B0%98%EC%9D%8C/5732c2fb.png" data-original-src="https://boja.mercury.kr/assets/problem/2034-1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" width="502" /></p>
 
 <p>하지만 모든 음이 이 일곱으로만 구성된 것은 아니다. 피아노에는 위의 그림과 같이 검은 건반이 있으며, 검은 건반은 인접한 흰 건반과 반음의 차이가 난다. 즉, C와 D사이에 있는 검은 건반은 C, D와 반음 차이가 난다. 검은 건반이 사이에 없는 경우에는, 붙어 있는 두 흰 건반이 반음 차이가 난다. 예를 들어 B, C는 반음 차이가 나며, E, F는 반음 차이가 난다.</p>
 

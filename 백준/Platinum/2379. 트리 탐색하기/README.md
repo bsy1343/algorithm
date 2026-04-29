@@ -20,7 +20,7 @@
 
 <p>이와 같은 탐색을 할 때, 시작 정점에서 멀어질 때 0을, 시작 정점에 가까워 질 때 1을 적으면 경로를 얻을 수 있다. 하지만 이와 같은 경로 저장 방식을 사용하면, 같은 트리라 하더라도 여러 개의 경로로 저장될 수 있다.</p>
 
-<p><img alt="" src="/JudgeOnline/upload/201103/tretre.png" style="height:205px; width:280px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/2379.%E2%80%85%ED%8A%B8%EB%A6%AC%E2%80%85%ED%83%90%EC%83%89%ED%95%98%EA%B8%B0/bc52c21f.png" data-original-src="https://boja.mercury.kr/assets/problem/2379-1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:205px; width:280px" /></p>
 
 <p>예를 들어 위와 같은 트리를 살펴보면, 0010011101001011, 0100011011001011, 0100101100100111 등의 경로로 탐색될 수 있다. 탐색 시작 정점은 그림에서 크게 표시된 정점이다.</p>
 

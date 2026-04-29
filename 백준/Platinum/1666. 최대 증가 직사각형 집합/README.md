@@ -18,7 +18,7 @@
 
 <p>N개의 직사각형이 좌표 위에 흩어져 있고 이 중 몇 개의 직사각형을 선택하여 집합 L을 구성하려 한다. 집합 L의 조건은 아래와 같다.</p>
 
-<p style="text-align: center;"><img alt="" src="/JudgeOnline/upload/201005/rect.PNG" style="height:187px; width:302px" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/1666.%E2%80%85%EC%B5%9C%EB%8C%80%E2%80%85%EC%A6%9D%EA%B0%80%E2%80%85%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95%E2%80%85%EC%A7%91%ED%95%A9/49fd6031.png" data-original-src="https://boja.mercury.kr/assets/problem/1666-1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:187px; width:302px" /></p>
 
 <p>왼쪽 아래의 점을 시작점, 오른쪽 위의 점을 끝점이라고 정의 할 때, 집합의 임의의 두 원소 p, q에 대하여 p의 끝점 x좌표가 q의 시작점 x좌표보다 작고 마찬가지로 y좌표도 작거나 또는 q의 끝점 x좌표가 p의 시작점 x좌표보다 작고 y좌표 역시 작아야 한다.</p>
 

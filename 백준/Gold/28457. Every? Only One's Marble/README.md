@@ -18,7 +18,7 @@
 
 <p>유틸은 오늘도 혼자 집에 있다. 심심해서 같이 부루마불 게임을 할 사람을 찾아봤지만 아무도 없었다. 그렇게 한 시간, 두 시간... 도저히 참을 수 없었던 유틸은 부루마불 게임을 혼자 할 방법을 생각해 냈다.</p>
 
-<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/28457.%E2%80%85Every%3F%E2%80%85Only%E2%80%85One's%E2%80%85Marble/2b772301.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/28457.%E2%80%85Every%3F%E2%80%85Only%E2%80%85One's%E2%80%85Marble/2b772301.png" data-original-src="https://upload.acmicpc.net/83f83ab4-1f43-46fd-bfd0-c7fed32fcd7d/-/preview/" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 405px; width: 400px;" /></p>
+<p style="text-align: center;"><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/28457.%E2%80%85Every%3F%E2%80%85Only%E2%80%85One's%E2%80%85Marble/2b772301.png" data-original-src="%EB%B0%B1%EC%A4%80/Gold/28457.%E2%80%85Every%3F%E2%80%85Only%E2%80%85One's%E2%80%85Marble/880e1c1f.png" data-original-src="https://boja.mercury.kr/assets/problem/28457-1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height: 405px; width: 400px;" /></p>
 
 <p>혼자 하는 부루마불 게임에 적용되는 규칙은 다음과 같다.</p>
 

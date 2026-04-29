@@ -22,7 +22,7 @@
 
 <p>건축가들은 피라미드를 전쟁터의 어디에다 짓고 내부 방은 그 안의 어디에다 만들면, 피라미드 터의 최종 평균 고도가 가장 높아질 수 있는지를 고심하고 있다. 전쟁터, 피라미드, 내부 방의 크기와 전쟁터의 각 칸의 고도가 주어지면, 터의 평균 고도를 최대화할 수 있는 피라미드와 방 위치를 계산하는 프로그램을 작성하시오.</p>
 
-<p style="text-align: center;"><img alt="" height="173" src="/JudgeOnline/upload/201007/pm.png" width="346" /></p>
+<p style="text-align: center;"><img alt="" height="173" src="%EB%B0%B1%EC%A4%80/Platinum/2032.%E2%80%85%ED%94%BC%EB%9D%BC%EB%AF%B8%EB%93%9C/34ee5710.png" data-original-src="https://boja.mercury.kr/assets/problem/2032-1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" width="346" /></p>
 
 <p>위의 그림은 m=8, n=5인 전쟁터의 한 예이다. 각 칸의 숫자들은 전쟁터의 위치별 고도이다. 그리고 회색 영역은 피라미드가 지어질 터이며, 그 안의 흰색 영역은 내부 방이 들어가는 공간으로, a=5, b=3, c=2, d=1인 경우이다. 전쟁터의 크기와 고도 정보가 그림과 같고, 만들고자 하는 피라미드와 방의 크기와 그림과 같을 때, 그림과 같이 위치를 선정하는 것이 평균 고도가 약 5.4로 최대가 되는 경우이다.</p>
 

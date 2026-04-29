@@ -26,7 +26,7 @@
 
 <p>예를 들어, 다음은 주어진 이진트리를 위의 제약 조건을 만족하도록 그린 것이다.</p>
 
-<p><img alt="" src="/JudgeOnline/upload/201103/p1.png" style="height:146px; width:170px" /><img alt="" src="/JudgeOnline/upload/201103/p2.png" style="height:145px; width:176px" /><img alt="" src="/JudgeOnline/upload/201103/p3.png" style="height:181px; width:134px" /><img alt="" src="/JudgeOnline/upload/201103/p4.png" style="height:182px; width:130px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/2366.%E2%80%85%EC%9D%B4%EC%A7%84%ED%8A%B8%EB%A6%AC%E2%80%85%EA%B7%B8%EB%A6%AC%EA%B8%B0/105c468d.png" data-original-src="https://boja.mercury.kr/assets/problem/2366-1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:146px; width:170px" /><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/2366.%E2%80%85%EC%9D%B4%EC%A7%84%ED%8A%B8%EB%A6%AC%E2%80%85%EA%B7%B8%EB%A6%AC%EA%B8%B0/510029ec.png" data-original-src="https://boja.mercury.kr/assets/problem/2366-2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:145px; width:176px" /><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/2366.%E2%80%85%EC%9D%B4%EC%A7%84%ED%8A%B8%EB%A6%AC%E2%80%85%EA%B7%B8%EB%A6%AC%EA%B8%B0/14ec7d3e.png" data-original-src="https://boja.mercury.kr/assets/problem/2366-3.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:181px; width:134px" /><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/2366.%E2%80%85%EC%9D%B4%EC%A7%84%ED%8A%B8%EB%A6%AC%E2%80%85%EA%B7%B8%EB%A6%AC%EA%B8%B0/4e919231.png" data-original-src="https://boja.mercury.kr/assets/problem/2366-4.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:182px; width:130px" /></p>
 
 <p>왼쪽부터 이진트리, 그리기-1, 그리기-2, 그리기-3이다.</p>
 

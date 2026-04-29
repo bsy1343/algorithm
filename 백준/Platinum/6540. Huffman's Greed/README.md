@@ -41,7 +41,7 @@
 
 <p>The following figure illustrates the first test case of the sample input. It shows the two possible binary search trees, the probabilities and the associated costs.</p>
 
-<p style="text-align:center"><img src="%EB%B0%B1%EC%A4%80/Platinum/6540.%E2%80%85Huffman's%E2%80%85Greed/ebee9d60.gif" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/6540.%E2%80%85Huffman's%E2%80%85Greed/ebee9d60.gif" data-original-src="https://www.acmicpc.net/upload/images2/greed.gif" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
+<p style="text-align:center"><img src="%EB%B0%B1%EC%A4%80/Platinum/6540.%E2%80%85Huffman's%E2%80%85Greed/ebee9d60.gif" data-original-src="%EB%B0%B1%EC%A4%80/Platinum/6540.%E2%80%85Huffman's%E2%80%85Greed/3f4784d0.gif" data-original-src="https://boja.mercury.kr/assets/problem/6540-1.gif" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 ### 입력
 

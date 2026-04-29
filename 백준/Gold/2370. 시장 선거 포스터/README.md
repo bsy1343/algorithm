@@ -27,7 +27,7 @@
 
 <p>그리고 그들은 너비가 100,000,000byte의 벽을 마련해 주었다. 시장 후보 홍보가 시작됐을 때 각 후보자들은 벽에다가 그들의 포스터를 붙일 수 있다. 게다가 이미 붙이려는 부분에 포스터가 있어도 그 위에다 붙일 수 있다. 월드 마을사람들은 선거 전날 벽에 몇 명의 시장 포스터가 붙어 있는지 궁금하다. 당신의 할 일은 주어진 정보대로 포스터를 붙인 후에 선거 전날에 보이는 총 포스터의 수를 출력하는 프로그램을 작성하여라.&nbsp;</p>
 
-<p><img alt="" src="/JudgeOnline/upload/201103/pot.png" style="height:225px; width:506px" /></p>
+<p><img alt="" src="%EB%B0%B1%EC%A4%80/Gold/2370.%E2%80%85%EC%8B%9C%EC%9E%A5%E2%80%85%EC%84%A0%EA%B1%B0%E2%80%85%ED%8F%AC%EC%8A%A4%ED%84%B0/664f0367.png" data-original-src="https://boja.mercury.kr/assets/problem/2370-1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" style="height:225px; width:506px" /></p>
 
 ### 입력
 

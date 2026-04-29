@@ -42,7 +42,7 @@
 
 <p>또한 한 번 열차 편성이 시작된 다음엔 외부 차고로 열차를 보낼 수 없다.</p>
 
-<p><img src="/userupload/portableangel/201503/fa214681ab0667ce9886dc4007d09f80.png" /></p>
+<p><img src="%EB%B0%B1%EC%A4%80/Platinum/5528.%E2%80%85%EB%8B%AC%EB%A0%A4%EB%9D%BC%E2%80%85IOI%E2%80%85%EC%97%B4%EC%B0%A8/d76f7a41.png" data-original-src="https://boja.mercury.kr/assets/problem/5528-2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>위는 예제 입력에 대응하는 그림이다. 열차 편성이 시작되면 더 이상 외부 차고를 이용할 수가 없으며,</p>
 

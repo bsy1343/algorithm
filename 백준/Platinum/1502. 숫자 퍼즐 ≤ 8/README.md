@@ -20,11 +20,11 @@
 
 <p>그리고 선들은 모든 칸을 정확히 한 번씩만 지나야 한다.</p>
 
-<p style="text-align:center"><img src="/userupload/79brue/201502/fe591b75f79cb2aad212d44c6db37b20.png" /></p>
+<p style="text-align:center"><img src="%EB%B0%B1%EC%A4%80/Platinum/1502.%E2%80%85%EC%88%AB%EC%9E%90%E2%80%85%ED%8D%BC%EC%A6%90%E2%80%85%E2%89%A4%E2%80%858/c95a9feb.png" data-original-src="https://boja.mercury.kr/assets/problem/1502-1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>우리는 여기에서 한 숫자는 한 쌍만 있다는 것을 알 수 있다. 그리고 표의 크기가&nbsp;m x n 인 경우에, m과 n은 모두 짝수이다. 다음 그림을 보자.</p>
 
-<p style="text-align:center"><img src="/userupload/79brue/201502/2f002a9f83527f3d071a534ba91dc9e3.png" /></p>
+<p style="text-align:center"><img src="%EB%B0%B1%EC%A4%80/Platinum/1502.%E2%80%85%EC%88%AB%EC%9E%90%E2%80%85%ED%8D%BC%EC%A6%90%E2%80%85%E2%89%A4%E2%80%858/c5b3ce22.png" data-original-src="https://boja.mercury.kr/assets/problem/1502-2.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></p>
 
 <p>상근이는 이 1 두 개가 놓여져 있는 표에서 이 퍼즐을 완성하려고 한다. 상근이를 도와 문제의 조건을&nbsp;지키는 길을 찾는 프로그램을 만드시오.</p>
 

@@ -20,7 +20,7 @@
 
 <p>이 트리를 루트부터 시작해서 탐색하는데, 어떤 한 정점에서는 그 정점의 자식들 중 왼쪽 자식들부터 차례대로 방문해 나간다. 이와 같이 탐색하면 하나의 경로를 얻을 수 있다. 주의할 점은, 자식이 있는 정점의 경우에는 여러 번 방문될 수도 있는데(제일 처음 방문할 때와, 자식 정점을 방문하고 다시 돌아올 때), 그러한 경우에 한 정점이 여러 번 경로에 나타날 수도 있다는 것이다.</p>
 
-<p style="text-align: center;"><img alt="" height="175" src="/JudgeOnline/upload/201007/trtrtrtr.png" width="567" /></p>
+<p style="text-align: center;"><img alt="" height="175" src="%EB%B0%B1%EC%A4%80/Gold/2088.%E2%80%85%ED%8A%B8%EB%A6%AC%EC%9D%98%E2%80%85%EA%B0%9C%EC%88%98/5e26199e.png" data-original-src="https://boja.mercury.kr/assets/problem/2088-1.png" onerror="this.onerror=null;this.src=this.dataset.originalSrc" width="567" /></p>
 
 <p>위의 그림은 경로가 ABABABA인 경우를 모두 나타낸 것이다. 아래쪽이 루트를 의미하며, 위로 연결된 것이 자식 노드를 의미한다. 위의 그림에서는 왼쪽 자식을 왼쪽에 나타냈는데, 대부분의 사람이 생각하는 그림처럼 루트가 위에 있는 그림으로 고치려면, 좌우 대칭을 해야 한다. 물론 답에는 변화가 없다.</p>
 

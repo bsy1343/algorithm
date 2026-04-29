@@ -25,7 +25,7 @@
 	<li>현재로부터 $t\ (t \ge 0)$ 초가 지났다고 할 때, 곰곰이는...
 	<ul>
 		<li>$A_v \times k_a + A_s \le t \le A_v \times k_a + A_e$ 일 때 첫 번째 새를 볼 수 있다. ($k_a$ 는 $0$ 이상의 정수)</li>
-		<li>$B_v \times k_b&nbsp;+ B_s \le t \le B_v \times k_b + B_e$ 일 때 두&nbsp;번째 새를 볼 수 있다. ($k_b$ 는 $0$ 이상의 정수)<img alt="" src="" /></li>
+		<li>$B_v \times k_b&nbsp;+ B_s \le t \le B_v \times k_b + B_e$ 일 때 두&nbsp;번째 새를 볼 수 있다. ($k_b$ 는 $0$ 이상의 정수)<img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/25196.%E2%80%85%EC%88%B2%EC%86%8D%EC%97%90%EC%84%9C%E2%80%85%EC%83%88%E2%80%85%EA%B5%AC%EA%B2%BD%ED%95%98%EA%B8%B0/8726ab3a.jpg" data-original-src="https://boja.mercury.kr/assets/problem/25196-2.jpg" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /></li>
 		<li>$C_v \times k_c + C_s \le t \le C_v \times k_c + C_e$ 일 때 세&nbsp;번째 새를 볼 수 있다.&nbsp;($k_c$ 는 $0$ 이상의 정수)<img alt="" src="" /><img alt="" src="" /></li>
 	</ul>
 	</li>

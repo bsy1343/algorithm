@@ -20,7 +20,7 @@
 
 <p>$10^5&nbsp;\times 10^5$ 크기의 커다란 격자판 위에서 곰곰이는 놀이 하나를 하고 있다. 이 격자판의 칸들 중 일부분은 빨간색으로 칠해져 있고, 나머지 칸은 노란색으로 칠해져 있다.</p>
 
-<p>곰곰이는 이&nbsp;격자판 위에서 <strong>뒤집기 마법</strong>을 무제한으로 사용할 수 있다. 격자판의&nbsp;좌표 $(x, y)\ (1 \le x \lt 10^5, 1 \le y \lt 10^5, x,&nbsp;y$ 는 정수$)$ 를 하나 골라 <strong>뒤집기 마법</strong>을 사용하면, $(x, y), (x, y + 1), (x + 1, y), (x + 1, y + 1)$ 의 색이&nbsp;반전된다. 색이&nbsp;반전된다는 것은 빨간색 칸이&nbsp;노란색으로, 노란색 칸이&nbsp;빨간색으로 변경되는 것을 의미한다.<img alt="" src="" /><img alt="" src="" /></p>
+<p>곰곰이는 이&nbsp;격자판 위에서 <strong>뒤집기 마법</strong>을 무제한으로 사용할 수 있다. 격자판의&nbsp;좌표 $(x, y)\ (1 \le x \lt 10^5, 1 \le y \lt 10^5, x,&nbsp;y$ 는 정수$)$ 를 하나 골라 <strong>뒤집기 마법</strong>을 사용하면, $(x, y), (x, y + 1), (x + 1, y), (x + 1, y + 1)$ 의 색이&nbsp;반전된다. 색이&nbsp;반전된다는 것은 빨간색 칸이&nbsp;노란색으로, 노란색 칸이&nbsp;빨간색으로 변경되는 것을 의미한다.<img alt="" src="%EB%B0%B1%EC%A4%80/Platinum/25201.%E2%80%85%EB%B3%B4%EB%93%9C%E2%80%85%EB%92%A4%EC%A7%91%EA%B8%B0%E2%80%85%EA%B2%8C%EC%9E%84/17392eca.jpg" data-original-src="https://boja.mercury.kr/assets/problem/25201-2.jpg" onerror="this.onerror=null;this.src=this.dataset.originalSrc" /><img alt="" src="" /></p>
 
 <p>현재 격자판의 상태를 <strong>뒤집기 마법</strong>만 이용하여 곰곰이가 원하는 격자판의 상태로 변경할 수 있는지 알아보자.</p>
 

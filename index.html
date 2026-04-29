@@ -40,8 +40,10 @@
 
   html, body { height: 100%; background: var(--bg); color: var(--text); font-family: var(--font); font-size: 14px; line-height: 1.6; }
 
-  .app { display: grid; grid-template-columns: 360px 1fr; grid-template-rows: 52px 1fr; height: 100vh; }
+  .app { display: grid; grid-template-columns: 360px 1fr; grid-template-rows: 52px 1fr; height: 100vh; transition: grid-template-columns 0.18s ease; }
   @media (max-width: 900px) { .app { grid-template-columns: 260px 1fr; } }
+  .app.sidebar-hidden { grid-template-columns: 0 1fr; }
+  .app.sidebar-hidden .sidebar { visibility: hidden; }
 
   /* Topbar */
   .topbar {
@@ -54,6 +56,13 @@
   .topbar-logo { font-family: var(--mono); font-size: 13px; font-weight: 500; color: var(--text2); white-space: nowrap; cursor: pointer; user-select: none; transition: color 0.15s; }
   .topbar-logo span { color: var(--accent); }
   .topbar-logo:hover { color: var(--text); }
+  .sidebar-toggle {
+    background: none; border: 1px solid var(--border); border-radius: var(--radius-sm);
+    color: var(--text3); cursor: pointer; padding: 3px 8px; font-size: 14px;
+    line-height: 1; display: inline-flex; align-items: center; justify-content: center;
+    transition: color 0.15s, border-color 0.15s;
+  }
+  .sidebar-toggle:hover { color: var(--text); border-color: var(--border2); }
   .topbar-spacer { flex: 1; }
   .stat-chip { font-size: 11px; font-family: var(--mono); color: var(--text2); white-space: nowrap; }
   .stat-chip.warn { color: var(--gold); }
@@ -68,15 +77,18 @@
   /* Sidebar */
   .sidebar { border-right: 1px solid var(--border); background: var(--bg2); display: flex; flex-direction: column; overflow: hidden; }
   .tier-tabs {
-    display: flex; flex-wrap: wrap;
+    display: flex; flex-wrap: nowrap;
     border-bottom: 1px solid var(--border);
     padding: 0 4px;
+    overflow-x: auto;
+    scrollbar-width: none;
   }
+  .tier-tabs::-webkit-scrollbar { display: none; }
   .tier-tab {
-    padding: 7px 8px; font-size: 11px; font-family: var(--mono);
+    padding: 7px 6px; font-size: 10.5px; font-family: var(--mono);
     cursor: pointer; white-space: nowrap; color: var(--text3);
     border-bottom: 2px solid transparent; transition: color 0.15s;
-    display: inline-flex; align-items: center; gap: 4px;
+    display: inline-flex; align-items: center; gap: 3px; flex-shrink: 0;
   }
   .tier-tab:hover { color: var(--text2); }
   .tier-tab.active { color: var(--text); border-bottom-color: var(--accent); }
@@ -442,6 +454,7 @@
 <body>
 <div class="app">
   <header class="topbar">
+    <button class="sidebar-toggle" id="sidebar-toggle" title="사이드바 토글" aria-label="사이드바 토글">≡</button>
     <div class="topbar-logo" id="topbar-logo" title="홈 + 새로고침">boj<span>.</span>study</div>
     <div class="topbar-spacer"></div>
     <span class="stat-chip" id="stat-chip"></span>
@@ -824,7 +837,7 @@
     boost: new Set(),
     levelMap: {},  // id (string) → level (1-30) from solved.ac meta
 
-    pref: { tierFilter: 'ALL', searchQuery: '', currentTab: 'problem', compareMode: false },
+    pref: { tierFilter: 'ALL', searchQuery: '', currentTab: 'problem', compareMode: false, sidebarHidden: false },
 
     loadPref() {
       const raw = localStorage.getItem(this.PREF_KEY);
@@ -1550,6 +1563,16 @@
         await App.reloadTree({ force: true });
       });
       document.getElementById('jobs-btn')?.addEventListener('click', () => App.showJobs());
+      document.getElementById('sidebar-toggle')?.addEventListener('click', () => {
+        State.pref.sidebarHidden = !State.pref.sidebarHidden;
+        State.savePref();
+        Topbar.applySidebar();
+      });
+      Topbar.applySidebar();
+    },
+
+    applySidebar() {
+      document.querySelector('.app').classList.toggle('sidebar-hidden', !!State.pref.sidebarHidden);
     },
 
     setChip(text, tone = '') {

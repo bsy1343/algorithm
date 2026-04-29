@@ -356,8 +356,8 @@
     cursor: default; position: relative; overflow: hidden;
   }
   .cal-cell.dim { opacity: 0.35; }
-  .cal-cell.has-jobs { cursor: pointer; }
-  .cal-cell.has-jobs:hover { border-color: var(--border2); }
+  .cal-cell:not(.dim) { cursor: pointer; }
+  .cal-cell:not(.dim):hover { border-color: var(--border2); }
   .cal-cell.active { border-color: var(--accent); background: var(--bg); }
   .cal-cell.today { box-shadow: inset 0 0 0 1px var(--gold); }
   .cal-day { font-size: 10px; color: var(--text2); font-family: var(--mono); margin-bottom: 2px; line-height: 1.2; }
@@ -1881,7 +1881,9 @@
         const sideEl = document.querySelector('.jobs-side');
         if (sideEl) sideEl.style.maxHeight = root.offsetHeight + 'px';
       });
-      root.querySelectorAll('.cal-cell.has-jobs').forEach(el => {
+      // Click handlers on every non-dim cell — even no-deadline days are
+      // useful: clicking shows all jobs still open as of that date.
+      root.querySelectorAll('.cal-cell:not(.dim)').forEach(el => {
         el.onclick = () => {
           this.state.selectedDate = el.dataset.date;
           this.renderCalendar();
@@ -1923,8 +1925,23 @@
       // === Urgent / selected-date card ===
       let title, list;
       if (this.state.selectedDate) {
-        title = `${this.state.selectedDate} 마감 (${(grouped[this.state.selectedDate]||[]).length}건)`;
-        list = grouped[this.state.selectedDate] || [];
+        const exact = grouped[this.state.selectedDate] || [];
+        if (exact.length) {
+          // The selected day is itself a deadline — show those jobs.
+          title = `${this.state.selectedDate} 마감 (${exact.length}건)`;
+          list = exact;
+        } else {
+          // No deadlines on this day — show every job still open as of that date,
+          // so the user can see what they could apply to on that day.
+          const sel = new Date(this.state.selectedDate); sel.setHours(0,0,0,0);
+          list = allJobs
+            .filter(j => {
+              const d = this.parseDeadline(j.deadline);
+              return d && d >= sel;
+            })
+            .sort((a, b) => this.parseDeadline(a.deadline) - this.parseDeadline(b.deadline));
+          title = `${this.state.selectedDate} 기준 신청 가능 (${list.length}건)`;
+        }
       } else {
         const now = new Date(); now.setHours(0,0,0,0);
         const cutoff = new Date(now); cutoff.setDate(cutoff.getDate() + 14);

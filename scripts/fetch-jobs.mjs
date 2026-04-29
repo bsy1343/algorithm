@@ -82,6 +82,46 @@ async function fetchNextData({ url, matchKeys }) {
 }
 
 let browserHandle = null;
+// Hanwha-only: hits the public search-rcrt JSON endpoint that the SPA calls
+// internally. Filters (계열사 / 직무 / 채용구분) are passed as IDs the official
+// portal uses; resolve them via search-sbsd & search-rcrt-job once and store
+// in jobs-config.json.
+async function fetchHanwhaApi(params) {
+  const {
+    sdSeqList = null, rjSeqList = null, djSeqList = null,
+    rtCarrYn = '', rtNrcrtYn = '', rtIntnYn = '',
+    rtPermanentWorkYn = '', rtTempWorkYn = '',
+  } = params;
+  const body = {
+    langCd: 'ko', searchText: '',
+    sdSeqList: sdSeqList?.length ? sdSeqList : null,
+    rtNrcrtYn, rtCarrYn, rtIntnYn, rtPermanentWorkYn, rtTempWorkYn,
+    djSeqList: djSeqList?.length ? djSeqList : null,
+    rjSeqList: rjSeqList?.length ? rjSeqList : null,
+    page: 0, size: 200,
+  };
+  const r = await fetch('https://hwadm.hanwhain.com/new-backend/portal/api/rcRecruit/search-rcrt', {
+    method: 'POST',
+    headers: { 'Content-Type': 'application/json', 'User-Agent': UA },
+    body: JSON.stringify(body),
+  });
+  if (!r.ok) throw new Error(`Hanwha HTTP ${r.status}`);
+  const d = await r.json();
+  const items = d?.data?.list || d?.data?.content || [];
+  return items.map(it => {
+    // rtAcptEndDttm format: "2026.05.08 15:00" — KST local time.
+    const m = (it.rtAcptEndDttm || '').match(/(\d{4})\.(\d{2})\.(\d{2})\s+(\d{2}):(\d{2})/);
+    return {
+      title: it.rtNm || '',
+      department: it.sdNm || '',
+      location: '',
+      deadline: m ? `${m[1]}-${m[2]}-${m[3]}` : '',
+      deadlineTime: m ? `${m[4]}:${m[5]}` : '',
+      url: `https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=${it.rtSeq}`,
+    };
+  });
+}
+
 async function getBrowser() {
   if (browserHandle) return browserHandle;
   const mod = await import('playwright');
@@ -304,11 +344,16 @@ async function main() {
       if (c.fetcher === 'greenhouse-api') raw = await fetchGreenhouse(c.params);
       else if (c.fetcher === 'next-data') raw = await fetchNextData(c.params);
       else if (c.fetcher === 'playwright') raw = await fetchPlaywright(c.params);
+      else if (c.fetcher === 'hanwha-api') raw = await fetchHanwhaApi(c.params);
       else throw new Error(`unknown fetcher: ${c.fetcher}`);
       // Fallback url: link to the company's main listing page if individual url is empty
       // (parseFromBodyText extractors can't reliably attach per-job URLs).
       const fallbackUrl = c.params?.url || '';
-      const filtered = raw.filter(j => passesFilter(j, filters)).map(j => ({
+      // bypassFilter=true: company API already filters server-side (e.g. Hanwha
+      // returns only the requested 계열사/직무/채용구분), so the global include/
+      // exclude word filters would just throw out valid hits.
+      const passes = c.bypassFilter ? () => true : (j) => passesFilter(j, filters);
+      const filtered = raw.filter(passes).map(j => ({
         company: c.name, companyId: c.id, ...j,
         url: j.url || fallbackUrl,
       }));

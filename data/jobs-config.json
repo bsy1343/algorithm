@@ -164,6 +164,20 @@
         "scrollPasses": 6
       },
       "enabled": true
+    },
+    {
+      "id": "hanwha",
+      "name": "한화시스템",
+      "fetcher": "hanwha-api",
+      "params": {
+        "_help": "sdSeq 215=한화시스템/ICT, 328=한화시스템/방산. rjSeq 29=IT 직무 카테고리. rtCarrYn=Y(경력), rtPermanentWorkYn=Y(정직원).",
+        "sdSeqList": [215, 328],
+        "rjSeqList": [29],
+        "rtCarrYn": "Y",
+        "rtPermanentWorkYn": "Y"
+      },
+      "bypassFilter": true,
+      "enabled": true
     }
   ]
 }

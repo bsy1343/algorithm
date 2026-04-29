@@ -575,11 +575,38 @@
       return { tree: combined, etag: rootEtag, source: 'fresh' };
     },
 
+    // Fast path: pre-built static tree committed by .github/workflows/build-tree-cache.yml.
+    // No GitHub API hit (no rate limit), no recursion, just one CDN fetch
+    // that the browser caches with HTTP ETag. Returns null if missing.
+    async fetchStaticTree() {
+      try {
+        const r = await fetch('data/tree-cache.json', { cache: 'default' });
+        if (!r.ok) return null;
+        const data = await r.json();
+        if (!Array.isArray(data?.tree) || !data.tree.length) return null;
+        return data.tree;
+      } catch { return null; }
+    },
+
     async fetchTree({ force = false } = {}) {
       const cached = JSON.parse(localStorage.getItem(this.TREE_KEY) || 'null');
       const fresh = cached && (Date.now() - new Date(cached.fetchedAt).getTime() < this.TREE_TTL_MS);
       if (fresh && !force) return { tree: cached.tree, source: 'cache-fresh' };
 
+      // Try static tree first — only one network request, browser handles
+      // ETag/304 transparently so unchanged files cost ~0 bytes.
+      const staticTree = await this.fetchStaticTree();
+      if (staticTree) {
+        this.safeSetCache({
+          etag: null,
+          fetchedAt: new Date().toISOString(),
+          tree: staticTree,
+        });
+        return { tree: staticTree, source: 'static' };
+      }
+
+      // Fallback: legacy GitHub Tree API path (used when tree-cache.json
+      // is missing — fresh repo before the workflow has run, or local dev).
       const headers = {};
       if (cached?.etag && !force) headers['If-None-Match'] = cached.etag;
 

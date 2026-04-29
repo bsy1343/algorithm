@@ -1,0 +1,49 @@
+name: Build tree cache
+
+# Rebuilds data/tree-cache.json whenever 백준/ contents change. The viewer
+# loads that static file instead of hitting the GitHub Tree API, which
+# eliminates the per-IP rate limit and makes initial page load a CDN-cached
+# download (~10ms vs ~500ms API call).
+#
+# Security: this workflow does not interpolate any user-controlled fields
+# (PR titles, commit messages, etc.) into shell — only github.actor is used
+# in an `if:` expression, which is system-controlled.
+on:
+  push:
+    branches: [main]
+    paths:
+      - '백준/**'
+      - 'scripts/build-tree-cache.mjs'
+      - '.github/workflows/build-tree-cache.yml'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    # Don't loop on the bot's own commits.
+    if: github.actor != 'github-actions[bot]'
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Build tree cache
+        run: node scripts/build-tree-cache.mjs
+
+      - name: Commit changes (if any)
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/tree-cache.json
+          if git diff --cached --quiet; then
+            echo "No tree changes — nothing to commit"
+            exit 0
+          fi
+          git commit -m "chore(tree): rebuild tree-cache.json"
+          git push

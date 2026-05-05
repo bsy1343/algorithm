@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-05-04T16:48:48.763Z",
-  "totalCount": 155,
+  "fetchedAt": "2026-05-05T16:30:21.685Z",
+  "totalCount": 153,
   "companies": [
     "당근",
     "현대오토에버",
@@ -27,16 +27,6 @@
       "deadline": "2026-04-19",
       "deadlineTime": "23:59",
       "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20260326038057"
-    },
-    {
-      "company": "LG U+",
-      "companyId": "lguplus",
-      "title": "[정보보안센터] 보안솔루션 구축/운영 엔지니어 경력채용",
-      "department": "개인정보처리방침",
-      "location": "경력",
-      "deadline": "2026-05-06",
-      "deadlineTime": "23:00",
-      "url": "https://careers.lg.com/channel/detail/lgu/job_openings"
     },
     {
       "company": "한화시스템",
@@ -710,15 +700,6 @@
       "location": "SEOUL",
       "deadline": "",
       "url": "https://about.daangn.com?gh_jid=7689088003"
-    },
-    {
-      "company": "당근",
-      "companyId": "daangn",
-      "title": "Software Engineer, Frontend (인턴) | 로컬 잡스",
-      "department": "",
-      "location": "SEOUL",
-      "deadline": "",
-      "url": "https://about.daangn.com?gh_jid=5816257003"
     },
     {
       "company": "당근",

@@ -1,5 +1,6 @@
-import java.io.*;
 import java.util.*;
+import java.io.*;
+
 
 class Solution {
     public int[] solution(int brown, int yellow) {
@@ -8,17 +9,13 @@ class Solution {
         
         for (int h = 3; h <= total; h++) {
             if (total % h != 0) continue;
-            
             int w = total / h;
-            int count = (w-2) * (h-2);
             
-            if (yellow == count) {
-                answer[0] = w;
-                answer[1] = h;
-                break;
+            if ((w-2) * (h-2) == yellow) {
+                answer[0] = Math.max(w, h);
+                answer[1] = Math.min(w, h);
             }
         }
-        
         return answer;
     }
 }

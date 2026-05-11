@@ -1,14 +1,13 @@
-import java.io.*;
 import java.util.*;
+import java.io.*;
 
 class Solution {
-    static char[] c;
+    static char[] arr;
     static int[] visited;
     static HashSet<Integer> hs = new HashSet();
-    
     public int solution(String numbers) {
-        c = numbers.toCharArray();
-        visited = new int[c.length];
+        arr = numbers.toCharArray();
+        visited = new int[arr.length];
         
         dfs(0, "");
         
@@ -20,18 +19,19 @@ class Solution {
         return answer;
     }
     
-    static void dfs (int idx, String result) {
+    static void dfs(int idx, String result) {
+        
         if (!"".equals(result)) hs.add(Integer.valueOf(result));
         
-        if (idx == c.length) {
+        if (idx == arr.length) {
             return;
         } else {
-            for (int i = 0; i < c.length; i++) {
+            for (int i = 0; i < arr.length; i++) {
                 if (visited[i] == 1) continue;
                 visited[i] = 1;
-                dfs(idx + 1, result+c[i]);
+                dfs(idx + 1, result + arr[i]);
                 visited[i] = 0;
-            }   
+            }
         }
     }
     

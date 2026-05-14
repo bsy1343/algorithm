@@ -1743,10 +1743,14 @@
     },
 
     async load() {
+      // Bust both the browser HTTP cache (no-store) and the GitHub Pages CDN
+      // cache (per-page-load query string). jobs-latest.json updates daily
+      // and the file is ~50KB, so the extra request cost is negligible.
+      const v = Date.now();
       try {
         const [cfg, snap] = await Promise.all([
-          fetch('data/jobs-config.json').then(r => r.ok ? r.json() : null),
-          fetch('data/jobs-latest.json').then(r => r.ok ? r.json() : null),
+          fetch(`data/jobs-config.json?v=${v}`, { cache: 'no-store' }).then(r => r.ok ? r.json() : null),
+          fetch(`data/jobs-latest.json?v=${v}`, { cache: 'no-store' }).then(r => r.ok ? r.json() : null),
         ]);
         this.state.config = cfg;
         this.state.snapshot = snap;

@@ -51,4 +51,13 @@ jobs:
             exit 0
           fi
           git commit -m "chore(jobs): refresh job postings snapshot"
-          git push
+          # The runner checked out main some minutes ago; if the user pushed
+          # in the meantime, a straight push gets rejected. Rebase onto the
+          # latest remote and retry once.
+          for attempt in 1 2 3; do
+            git pull --rebase origin main || true
+            if git push; then exit 0; fi
+            echo "push failed (attempt $attempt) — retrying"
+            sleep 5
+          done
+          exit 1

@@ -362,9 +362,16 @@ async function fetchPlaywright(params) {
     const EN_DATE_RE = /(jan|feb|mar|apr|may|jun|jul|aug|sep|oct|nov|dec)[a-z]*\.?\s+(\d{1,2}),?\s*(\d{4})/gi;
     const EN_DATE_RANGE_RE = /(jan|feb|mar|apr|may|jun|jul|aug|sep|oct|nov|dec)[a-z]*\.?\s+\d{1,2},?\s*\d{4}(?:\s*\([^)]+\))?\s*~\s*(jan|feb|mar|apr|may|jun|jul|aug|sep|oct|nov|dec)[a-z]*\.?\s+\d{1,2},?\s*\d{4}(?:\s*\([^)]+\))?/gi;
 
+    // SK careers in Korean locale: "2026년 04월 22일(수) ~ 2026년 05월 22일(금)".
+    // Need to pick the closing date (after `~`), not the first match.
+    const ABS_DATE_RE = /(\d{4})[.-](\d{1,2})[.-](\d{1,2})|(\d{4})년\s?(\d{1,2})월\s?(\d{1,2})일/g;
+
     return items.map(({ text, href }) => {
-      // Prefer absolute date (most accurate). D-N is fetch-time relative — convert now.
-      const abs = text.match(/(\d{4})[.-](\d{1,2})[.-](\d{1,2})|(\d{4})년\s?(\d{1,2})월\s?(\d{1,2})일/);
+      // Prefer absolute date (most accurate). For `~` range, pick the end date.
+      const absMatches = [...text.matchAll(ABS_DATE_RE)];
+      const abs = text.includes('~') && absMatches.length >= 2
+        ? absMatches[absMatches.length - 1]
+        : absMatches[0];
       const dd = text.match(/D-(\d+)/);
       const time = text.match(/(\d{1,2}):(\d{2})/);
       const deadlineTime = time ? `${String(time[1]).padStart(2,'0')}:${time[2]}` : '';

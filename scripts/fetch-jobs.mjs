@@ -395,6 +395,8 @@ async function fetchPlaywright(params) {
     // SK careers in Korean locale: "2026년 04월 22일(수) ~ 2026년 05월 22일(금)".
     // Need to pick the closing date (after `~`), not the first match.
     const ABS_DATE_RE = /(\d{4})[.-](\d{1,2})[.-](\d{1,2})|(\d{4})년\s?(\d{1,2})월\s?(\d{1,2})일/g;
+    // Korean range strip pattern: "YYYY년 MM월 DD일(요일) ~ YYYY년 MM월 DD일(요일)" — drop from title.
+    const KO_DATE_RANGE_RE = /\d{4}년\s?\d{1,2}월\s?\d{1,2}일(?:\s*\([^)]+\))?\s*~\s*\d{4}년\s?\d{1,2}월\s?\d{1,2}일(?:\s*\([^)]+\))?/g;
 
     return items.map(({ text, href, employmentType }) => {
       // Prefer absolute date (most accurate). For `~` range, pick the end date.
@@ -422,8 +424,11 @@ async function fetchPlaywright(params) {
           deadline = `${t.getFullYear()}-${String(t.getMonth()+1).padStart(2,'0')}-${String(t.getDate()).padStart(2,'0')}`;
         }
       }
-      // Strip embedded English date ranges from the title (SK careers leaks them into the heading).
-      const cleanedText = text.replace(EN_DATE_RANGE_RE, '').replace(/\s{2,}/g, ' ').trim();
+      // Strip embedded date ranges (en/ko) from the title — SK careers leaks them into the heading.
+      const cleanedText = text
+        .replace(EN_DATE_RANGE_RE, '')
+        .replace(KO_DATE_RANGE_RE, '')
+        .replace(/\s{2,}/g, ' ').trim();
       return {
         title: cleanedText.split('\n')[0].split(/\s{2,}|・|\|/)[0].trim().slice(0, 200),
         department: '',

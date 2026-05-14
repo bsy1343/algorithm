@@ -1922,6 +1922,14 @@
       const grouped = this.groupByDate();
       const empty = `<div style="font-size:12px;color:var(--text3);padding:8px 0;font-family:var(--mono);">해당 기간 공고 없음</div>`;
 
+      // Group jobs by company (ASC), then deadline ASC within a company.
+      // The previous deadline-only sort meant a deadline-heavy company (CJ) could
+      // push another company (LG CNS) past the 30-row slice and out of view.
+      const byCompanyAsc = (a, b) => {
+        const c = (a.company || '').localeCompare(b.company || '');
+        return c || this.parseDeadline(a.deadline) - this.parseDeadline(b.deadline);
+      };
+
       // === Urgent / selected-date card ===
       let title, list;
       if (this.state.selectedDate) {
@@ -1929,7 +1937,7 @@
         if (exact.length) {
           // The selected day is itself a deadline — show those jobs.
           title = `${this.state.selectedDate} 마감 (${exact.length}건)`;
-          list = exact;
+          list = [...exact].sort(byCompanyAsc);
         } else {
           // No deadlines on this day — show every job still open as of that date,
           // so the user can see what they could apply to on that day.
@@ -1939,7 +1947,7 @@
               const d = this.parseDeadline(j.deadline);
               return d && d >= sel;
             })
-            .sort((a, b) => this.parseDeadline(a.deadline) - this.parseDeadline(b.deadline));
+            .sort(byCompanyAsc);
           title = `${this.state.selectedDate} 기준 신청 가능 (${list.length}건)`;
         }
       } else {
@@ -1948,11 +1956,11 @@
         list = allJobs.filter(j => {
           const d = this.parseDeadline(j.deadline);
           return d && d >= now && d <= cutoff;
-        }).sort((a,b) => this.parseDeadline(a.deadline) - this.parseDeadline(b.deadline));
+        }).sort(byCompanyAsc);
         title = `📍 마감 임박 (2주 내, ${list.length}건)`;
       }
       urgentCard.innerHTML = `<div class="jobs-list-title">${esc(title)}</div>` +
-        (list.length ? list.slice(0, 30).map(j => this.jobItemHtml(j)).join('') : empty);
+        (list.length ? list.map(j => this.jobItemHtml(j)).join('') : empty);
 
       // === Standing (상시 / undated) card ===
       if (standingCard) {

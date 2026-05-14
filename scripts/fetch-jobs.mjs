@@ -270,6 +270,17 @@ async function fetchPlaywright(params) {
     }
 
     if (parseFromBodyText) {
+      // Body text may still be hydrating after scrollPasses — wait until at least
+      // 3 deadline markers (D-N or YYYY.MM.DD) are present, so we don't snapshot
+      // a half-loaded page (LG U+ has been seen returning 1 of 6 jobs this way).
+      try {
+        await page.waitForFunction(() => {
+          const t = document.body.innerText;
+          const dn = (t.match(/D-\d+/g) || []).length;
+          const ds = (t.match(/\d{4}\.\d{2}\.\d{2}/g) || []).length;
+          return Math.max(dn, ds) >= 3;
+        }, { timeout: 15000 });
+      } catch {}
       // Collapse blank lines so patterns can use a single \n between fields.
       const text = (await page.evaluate(() => document.body.innerText))
         .replace(/\n{2,}/g, '\n');
@@ -345,6 +356,12 @@ async function fetchPlaywright(params) {
       return out;
     }, { selector, filterByText });
 
+    // SK careers titles embed an English date range like "April 22, 2026(Wed) ~ May 22, 2026(Fri)".
+    // Take the end of the range (closing date) as deadline.
+    const EN_MONTHS = { jan:1, feb:2, mar:3, apr:4, may:5, jun:6, jul:7, aug:8, sep:9, oct:10, nov:11, dec:12 };
+    const EN_DATE_RE = /(jan|feb|mar|apr|may|jun|jul|aug|sep|oct|nov|dec)[a-z]*\.?\s+(\d{1,2}),?\s*(\d{4})/gi;
+    const EN_DATE_RANGE_RE = /(jan|feb|mar|apr|may|jun|jul|aug|sep|oct|nov|dec)[a-z]*\.?\s+\d{1,2},?\s*\d{4}(?:\s*\([^)]+\))?\s*~\s*(jan|feb|mar|apr|may|jun|jul|aug|sep|oct|nov|dec)[a-z]*\.?\s+\d{1,2},?\s*\d{4}(?:\s*\([^)]+\))?/gi;
+
     return items.map(({ text, href }) => {
       // Prefer absolute date (most accurate). D-N is fetch-time relative — convert now.
       const abs = text.match(/(\d{4})[.-](\d{1,2})[.-](\d{1,2})|(\d{4})년\s?(\d{1,2})월\s?(\d{1,2})일/);
@@ -355,13 +372,23 @@ async function fetchPlaywright(params) {
       if (abs) {
         const y = abs[1] || abs[4], mm = abs[2] || abs[5], d = abs[3] || abs[6];
         deadline = `${y}-${String(mm).padStart(2,'0')}-${String(d).padStart(2,'0')}`;
-      } else if (dd) {
-        const t = new Date(); t.setHours(0,0,0,0);
-        t.setDate(t.getDate() + +dd[1]);
-        deadline = `${t.getFullYear()}-${String(t.getMonth()+1).padStart(2,'0')}-${String(t.getDate()).padStart(2,'0')}`;
+      } else {
+        // English-month fallback: take last match (end of A~B range, or sole date).
+        const enMatches = [...text.matchAll(EN_DATE_RE)];
+        if (enMatches.length) {
+          const last = enMatches[enMatches.length - 1];
+          const mm = EN_MONTHS[last[1].slice(0,3).toLowerCase()];
+          deadline = `${last[3]}-${String(mm).padStart(2,'0')}-${String(last[2]).padStart(2,'0')}`;
+        } else if (dd) {
+          const t = new Date(); t.setHours(0,0,0,0);
+          t.setDate(t.getDate() + +dd[1]);
+          deadline = `${t.getFullYear()}-${String(t.getMonth()+1).padStart(2,'0')}-${String(t.getDate()).padStart(2,'0')}`;
+        }
       }
+      // Strip embedded English date ranges from the title (SK careers leaks them into the heading).
+      const cleanedText = text.replace(EN_DATE_RANGE_RE, '').replace(/\s{2,}/g, ' ').trim();
       return {
-        title: text.split('\n')[0].split(/\s{2,}|・|\|/)[0].trim().slice(0, 200),
+        title: cleanedText.split('\n')[0].split(/\s{2,}|・|\|/)[0].trim().slice(0, 200),
         department: '',
         location: '',
         deadline,

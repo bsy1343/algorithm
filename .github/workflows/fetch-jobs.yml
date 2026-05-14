@@ -9,6 +9,10 @@ on:
 jobs:
   fetch:
     runs-on: ubuntu-latest
+    # Cap total runtime — fetch-jobs normally finishes in <10 min. Without this,
+    # a hanging SPA page can burn the GitHub Actions 6-hour ceiling (happened
+    # 2026-05-13: run cancelled at 6h0m, blocking next day's data).
+    timeout-minutes: 25
     if: github.actor != 'github-actions[bot]'
     permissions:
       contents: write
@@ -28,6 +32,7 @@ jobs:
           npx playwright install --with-deps chromium
 
       - name: Fetch jobs
+        timeout-minutes: 15
         run: node scripts/fetch-jobs.mjs
 
       - name: Commit changes (if any)

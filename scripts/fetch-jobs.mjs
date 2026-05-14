@@ -351,10 +351,20 @@ async function fetchPlaywright(params) {
         const text = a.innerText?.replace(/\s+/g, ' ').trim() || '';
         if (text.length < 5 || text.length > 400) continue;
         const href = a.href || '';
+        // NAVER recruit emits N anchors that all share the listing URL with only
+        // a #fragment differing — href-based dedup collapses them to 1 job. Detect
+        // same-path-with-hash SPA placeholders and switch to text dedup for those.
+        let placeholder = !href || href.startsWith('javascript:');
+        if (!placeholder && href) {
+          try {
+            const u = new URL(href, location.href);
+            if (u.pathname === location.pathname && u.hash) placeholder = true;
+          } catch {}
+        }
         // Some sites (LG careers) emit two anchors per job: a long one with
         // deadline metadata and a short one with just the title. Dedup by href
         // and keep the entry with more text so deadline info is preserved.
-        const key = href || ('text:' + text);
+        const key = placeholder ? ('text:' + text) : (href || 'text:' + text);
         const prev = byHref.get(key);
         if (!prev || text.length > prev.text.length) byHref.set(key, { text, href });
       }

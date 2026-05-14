@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-05-14T01:50:40.209Z",
-  "totalCount": 175,
+  "fetchedAt": "2026-05-14T02:00:58.358Z",
+  "totalCount": 180,
   "companies": [
     "당근",
     "현대오토에버",
@@ -77,6 +77,17 @@
       "deadline": "2026-05-17",
       "deadlineTime": "23:59",
       "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20260506038636"
+    },
+    {
+      "company": "네이버",
+      "companyId": "naver",
+      "title": "[NAVER Cloud] 일본 공공/지자체 사업개발 (경력) 모집 부서 Service & Business 모집 분야 Business Development 모집 경력 경력 근로 조건 정규 모집 기간 2026.05.11 ~ 2026.05.18",
+      "department": "",
+      "location": "",
+      "deadline": "2026-05-18",
+      "deadlineTime": "",
+      "url": "https://recruit.navercorp.com/rcrt/list.do?annoId=&sw=&subJobCdData=1010001%2C1010002%2C1010003%2C1010005%2C1010008%2C1010020&sysCompanyCdData=&jobCdData=1010#n",
+      "_raw": "[NAVER Cloud] 일본 공공/지자체 사업개발 (경력) 모집 부서 Service & Business 모집 분야 Business Development 모집 경력 경력 근로 조건 정규 모집 기간 2026.05.11 ~ 2026.05.18"
     },
     {
       "company": "LG U+",
@@ -230,6 +241,50 @@
       "deadline": "2026-05-25",
       "deadlineTime": "23:59",
       "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20251203036631"
+    },
+    {
+      "company": "네이버",
+      "companyId": "naver",
+      "title": "[네이버랩스] AR Software Engineer 모집 부서 Tech 모집 분야 Graphics 모집 경력 무관 근로 조건 정규 모집 기간 2026.05.11 ~ 2026.05.26",
+      "department": "",
+      "location": "",
+      "deadline": "2026-05-26",
+      "deadlineTime": "",
+      "url": "https://recruit.navercorp.com/rcrt/list.do?annoId=&sw=&subJobCdData=1010001%2C1010002%2C1010003%2C1010005%2C1010008%2C1010020&sysCompanyCdData=&jobCdData=1010#n",
+      "_raw": "[네이버랩스] AR Software Engineer 모집 부서 Tech 모집 분야 Graphics 모집 경력 무관 근로 조건 정규 모집 기간 2026.05.11 ~ 2026.05.26"
+    },
+    {
+      "company": "네이버",
+      "companyId": "naver",
+      "title": "[네이버랩스] Graphics Engineer 모집 부서 Tech 모집 분야 Graphics 모집 경력 경력 근로 조건 정규 모집 기간 2026.05.11 ~ 2026.05.26",
+      "department": "",
+      "location": "",
+      "deadline": "2026-05-26",
+      "deadlineTime": "",
+      "url": "https://recruit.navercorp.com/rcrt/list.do?annoId=&sw=&subJobCdData=1010001%2C1010002%2C1010003%2C1010005%2C1010008%2C1010020&sysCompanyCdData=&jobCdData=1010#n",
+      "_raw": "[네이버랩스] Graphics Engineer 모집 부서 Tech 모집 분야 Graphics 모집 경력 경력 근로 조건 정규 모집 기간 2026.05.11 ~ 2026.05.26"
+    },
+    {
+      "company": "네이버",
+      "companyId": "naver",
+      "title": "[네이버웹툰] Data Engineer (경력) 모집 부서 Tech 모집 분야 Data Engineering 모집 경력 경력 근로 조건 정규 모집 기간 2026.05.11 ~ 2026.05.26",
+      "department": "",
+      "location": "",
+      "deadline": "2026-05-26",
+      "deadlineTime": "",
+      "url": "https://recruit.navercorp.com/rcrt/list.do?annoId=&sw=&subJobCdData=1010001%2C1010002%2C1010003%2C1010005%2C1010008%2C1010020&sysCompanyCdData=&jobCdData=1010#n",
+      "_raw": "[네이버웹툰] Data Engineer (경력) 모집 부서 Tech 모집 분야 Data Engineering 모집 경력 경력 근로 조건 정규 모집 기간 2026.05.11 ~ 2026.05.26"
+    },
+    {
+      "company": "네이버",
+      "companyId": "naver",
+      "title": "[NAVER Cloud] AI Solution 운영 지원/관리 (계약) 모집 부서 Service & Business 모집 분야 Product Development 모집 경력 경력 근로 조건 계약 모집 기간 2026.05.11 ~ 2026.05.27",
+      "department": "",
+      "location": "",
+      "deadline": "2026-05-27",
+      "deadlineTime": "",
+      "url": "https://recruit.navercorp.com/rcrt/list.do?annoId=&sw=&subJobCdData=1010001%2C1010002%2C1010003%2C1010005%2C1010008%2C1010020&sysCompanyCdData=&jobCdData=1010#n",
+      "_raw": "[NAVER Cloud] AI Solution 운영 지원/관리 (계약) 모집 부서 Service & Business 모집 분야 Product Development 모집 경력 경력 근로 조건 계약 모집 기간 2026.05.11 ~ 2026.05.27"
     },
     {
       "company": "현대오토에버",

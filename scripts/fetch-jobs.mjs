@@ -346,6 +346,10 @@ async function fetchPlaywright(params) {
       const anchors = [...document.querySelectorAll(args.selector)];
       const out = [];
       const byHref = new Map();
+      const empByHref = new Map();
+      // SK careers short anchor pattern: "정규 경력 서울" / "계약 경력 경기/인천" — drop
+      // the type from there because the long anchor doesn't include it.
+      const EMP_RE = /^(정규|계약|인턴|아르바이트|기타)\s+\S/;
       for (const a of anchors) {
         if (args.filterByText && !a.innerText?.includes(args.filterByText)) continue;
         const text = a.innerText?.replace(/\s+/g, ' ').trim() || '';
@@ -365,10 +369,12 @@ async function fetchPlaywright(params) {
         // deadline metadata and a short one with just the title. Dedup by href
         // and keep the entry with more text so deadline info is preserved.
         const key = placeholder ? ('text:' + text) : (href || 'text:' + text);
+        const m = text.match(EMP_RE);
+        if (m && text.length < 50) empByHref.set(key, m[1]);
         const prev = byHref.get(key);
         if (!prev || text.length > prev.text.length) byHref.set(key, { text, href });
       }
-      for (const v of byHref.values()) out.push(v);
+      for (const [k, v] of byHref) out.push({ ...v, employmentType: empByHref.get(k) || '' });
       return out;
     }, { selector, filterByText });
 
@@ -382,7 +388,7 @@ async function fetchPlaywright(params) {
     // Need to pick the closing date (after `~`), not the first match.
     const ABS_DATE_RE = /(\d{4})[.-](\d{1,2})[.-](\d{1,2})|(\d{4})년\s?(\d{1,2})월\s?(\d{1,2})일/g;
 
-    return items.map(({ text, href }) => {
+    return items.map(({ text, href, employmentType }) => {
       // Prefer absolute date (most accurate). For `~` range, pick the end date.
       const absMatches = [...text.matchAll(ABS_DATE_RE)];
       const abs = text.includes('~') && absMatches.length >= 2
@@ -418,6 +424,7 @@ async function fetchPlaywright(params) {
         deadlineTime,
         url: href,
         _raw: text.slice(0, 200),
+        _employmentType: employmentType || '',
       };
     });
   } finally {
@@ -427,6 +434,9 @@ async function fetchPlaywright(params) {
 }
 
 function passesFilter(job, filters) {
+  // SK careers attaches employment type ("정규"/"계약"/"인턴"/...) as _employmentType.
+  // User wants permanent only — reject anything else when the field is set.
+  if (job._employmentType && job._employmentType !== '정규') return false;
   const text = `${job.title} ${job.department} ${job._raw || ''}`.toLowerCase();
   for (const ex of filters.exclude) {
     if (text.includes(ex.toLowerCase())) return false;

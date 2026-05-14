@@ -1,11 +1,11 @@
 name: Notify new jobs (vs yesterday)
 
-# Daily at KST 13:00 (UTC 04:00). The 09:00 fetch produces a fresh
+# Daily at KST 14:00 (UTC 05:00). The 10:00 fetch produces a fresh
 # data/jobs-latest.json commit; this job compares it to the previous
 # commit that touched that file and pushes a "new postings" summary.
 on:
   schedule:
-    - cron: '0 4 * * *'
+    - cron: '0 5 * * *'
   workflow_dispatch:
 
 jobs:

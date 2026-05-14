@@ -1,9 +1,9 @@
 name: Fetch IT job postings
 
-# Daily at KST 09:00 (UTC 00:00 the same day).
+# Daily at KST 10:00 (UTC 01:00 the same day).
 on:
   schedule:
-    - cron: '0 0 * * *'
+    - cron: '0 1 * * *'
   workflow_dispatch:
 
 jobs:

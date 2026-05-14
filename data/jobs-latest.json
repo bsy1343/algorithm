@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-05-14T03:54:24.031Z",
+  "fetchedAt": "2026-05-14T04:15:50.934Z",
   "totalCount": 178,
   "companies": [
     "당근",
@@ -164,7 +164,7 @@
     {
       "company": "SK AX",
       "companyId": "skax",
-      "title": "SKT 및 ICT Family사 시스템 담당자 영입 2026년 04월 22일(수) ~ 2026년 05월 22일(금) SK주식회사(AX) Infra/Infra 운용/관리/최적화",
+      "title": "SKT 및 ICT Family사 시스템 담당자 영입 SK주식회사(AX) Infra/Infra 운용/관리/최적화",
       "department": "",
       "location": "",
       "deadline": "2026-05-22",
@@ -176,7 +176,7 @@
     {
       "company": "SK AX",
       "companyId": "skax",
-      "title": "설비(Utility) 정보화 분야 전문가 영입 2026년 04월 22일(수) ~ 2026년 05월 22일(금) SK주식회사(AX) Tech R&D/Software Engineering",
+      "title": "설비(Utility) 정보화 분야 전문가 영입 SK주식회사(AX) Tech R&D/Software Engineering",
       "department": "",
       "location": "",
       "deadline": "2026-05-22",
@@ -576,7 +576,7 @@
     {
       "company": "SK AX",
       "companyId": "skax",
-      "title": "보안 아키텍트 영입 2026년 05월 13일(수) ~ 2026년 06월 15일(월) SK주식회사(AX) 정보보안/정보보안 컨설팅",
+      "title": "보안 아키텍트 영입 SK주식회사(AX) 정보보안/정보보안 컨설팅",
       "department": "",
       "location": "",
       "deadline": "2026-06-15",
@@ -588,7 +588,7 @@
     {
       "company": "SK AX",
       "companyId": "skax",
-      "title": "제조 솔루션(미들웨어) 분야 전문가 영입 2026년 05월 13일(수) ~ 2026년 06월 15일(월) SK주식회사(AX) IT/Platform/Solution",
+      "title": "제조 솔루션(미들웨어) 분야 전문가 영입 SK주식회사(AX) IT/Platform/Solution",
       "department": "",
       "location": "",
       "deadline": "2026-06-15",
@@ -600,7 +600,7 @@
     {
       "company": "SK AX",
       "companyId": "skax",
-      "title": "제조 솔루션(MES) 분야 전문가 영입 2026년 05월 13일(수) ~ 2026년 06월 15일(월) SK주식회사(AX) IT/Platform/Solution",
+      "title": "제조 솔루션(MES) 분야 전문가 영입 SK주식회사(AX) IT/Platform/Solution",
       "department": "",
       "location": "",
       "deadline": "2026-06-15",
@@ -612,7 +612,7 @@
     {
       "company": "SK AX",
       "companyId": "skax",
-      "title": "AI 애플리케이션/엔터프라이즈 아키텍트 분야 전문가 영입 2026년 05월 13일(수) ~ 2026년 06월 15일(월) SK주식회사(AX) IT/구축/운영/최적화",
+      "title": "AI 애플리케이션/엔터프라이즈 아키텍트 분야 전문가 영입 SK주식회사(AX) IT/구축/운영/최적화",
       "department": "",
       "location": "",
       "deadline": "2026-06-15",
@@ -704,7 +704,7 @@
     {
       "company": "티맵모빌리티",
       "companyId": "tmap",
-      "title": "DevOps Engineer 2026년 01월 13일(화) ~ 2026년 06월 30일(화) 티맵모빌리티 Infra/Infra 개발/관리",
+      "title": "DevOps Engineer 티맵모빌리티 Infra/Infra 개발/관리",
       "department": "",
       "location": "",
       "deadline": "2026-06-30",

@@ -302,6 +302,11 @@ async function fetchPlaywright(params) {
         }
         return { date: '', time: '' };  // 상시/채용시까지 → 빈 값
       };
+      // Pattern A is 6 lines (현대차 6-tag style). On 5-line listings (LG U+),
+      // its 6th capture is the NEXT job's title, not a dept — which then leaks
+      // unrelated keywords into passesFilter (e.g. "architect", "법무").
+      // Treat any dept that looks like a bracketed job title as empty.
+      const looksLikeTitle = (s) => /^\s*\[[^\]]+\].+(채용|모집|영입)\s*$/.test(s || '');
       const push = (title, dCode, dept, loc, dAbs) => {
         const t = title.replace(/^공유\s*/, '').trim();
         if (!t || t.length < 5 || /^채용|^전체|^본문|^로그인|^더보기|^선택|^등록일|^신규/.test(t)) return;
@@ -311,7 +316,8 @@ async function fetchPlaywright(params) {
         const dedup = t.replace(/^\[[^\]]+\]\s*/, '').trim() + '|' + deadline;
         if (seen.has(dedup)) return;
         seen.add(dedup);
-        jobs.push({ title: t, department: (dept||'').trim(), location: (loc||'').trim(), deadline, deadlineTime, url: '' });
+        const cleanDept = looksLikeTitle(dept) ? '' : (dept || '').trim();
+        jobs.push({ title: t, department: cleanDept, location: (loc||'').trim(), deadline, deadlineTime, url: '' });
       };
       // Pattern A (현대차 style — 6 lines): title \n D-N \n tag \n tag \n tag \n tag
       const reA = /([^\n]{5,150})\n(D-\d+|채용시까지|상시|마감)\n([^\n]+)\n([^\n]+)\n([^\n]+)\n([^\n]+)/g;

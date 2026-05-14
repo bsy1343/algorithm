@@ -1,0 +1,30 @@
+name: Notify new jobs (vs yesterday)
+
+# Daily at KST 13:00 (UTC 04:00). The 09:00 fetch produces a fresh
+# data/jobs-latest.json commit; this job compares it to the previous
+# commit that touched that file and pushes a "new postings" summary.
+on:
+  schedule:
+    - cron: '0 4 * * *'
+  workflow_dispatch:
+
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    permissions:
+      contents: read
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          # Need enough history to find the previous commit touching jobs-latest.json.
+          fetch-depth: 0
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Notify new jobs via ntfy
+        env:
+          NTFY_PASS: ${{ secrets.NTFY_PASS }}
+        run: node scripts/notify-new-jobs.mjs

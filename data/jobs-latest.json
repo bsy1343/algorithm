@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-05-14T02:00:58.358Z",
-  "totalCount": 180,
+  "fetchedAt": "2026-05-14T02:29:16.562Z",
+  "totalCount": 181,
   "companies": [
     "당근",
     "현대오토에버",
@@ -14,6 +14,7 @@
     "SKT",
     "SK AX",
     "SK하이닉스",
+    "티맵모빌리티",
     "한화시스템"
   ],
   "errors": [],
@@ -87,7 +88,8 @@
       "deadline": "2026-05-18",
       "deadlineTime": "",
       "url": "https://recruit.navercorp.com/rcrt/list.do?annoId=&sw=&subJobCdData=1010001%2C1010002%2C1010003%2C1010005%2C1010008%2C1010020&sysCompanyCdData=&jobCdData=1010#n",
-      "_raw": "[NAVER Cloud] 일본 공공/지자체 사업개발 (경력) 모집 부서 Service & Business 모집 분야 Business Development 모집 경력 경력 근로 조건 정규 모집 기간 2026.05.11 ~ 2026.05.18"
+      "_raw": "[NAVER Cloud] 일본 공공/지자체 사업개발 (경력) 모집 부서 Service & Business 모집 분야 Business Development 모집 경력 경력 근로 조건 정규 모집 기간 2026.05.11 ~ 2026.05.18",
+      "_employmentType": ""
     },
     {
       "company": "LG U+",
@@ -168,7 +170,8 @@
       "deadline": "2026-05-19",
       "deadlineTime": "",
       "url": "https://www.skcareers.com/Recruit/Detail/R261069",
-      "_raw": "Kubernetes 기반 DataPlatform 개발 전문가 May 13, 2026(Wed) ~ May 19, 2026(Tue) D-5 SK telecom 기술/현장지원/IT 개발/운영 지원"
+      "_raw": "Kubernetes 기반 DataPlatform 개발 전문가 May 13, 2026(Wed) ~ May 19, 2026(Tue) D-5 SK telecom 기술/현장지원/IT 개발/운영 지원",
+      "_employmentType": ""
     },
     {
       "company": "SK AX",
@@ -179,7 +182,8 @@
       "deadline": "2026-05-22",
       "deadlineTime": "",
       "url": "https://www.skcareers.com/Recruit/Detail/R260894",
-      "_raw": "SKT 및 ICT Family사 시스템 담당자 영입 April 22, 2026(Wed) ~ May 22, 2026(Fri) SK inc.(AX) Infra/Infra 운용/관리/최적화"
+      "_raw": "SKT 및 ICT Family사 시스템 담당자 영입 April 22, 2026(Wed) ~ May 22, 2026(Fri) SK inc.(AX) Infra/Infra 운용/관리/최적화",
+      "_employmentType": ""
     },
     {
       "company": "SK AX",
@@ -190,7 +194,8 @@
       "deadline": "2026-05-22",
       "deadlineTime": "",
       "url": "https://www.skcareers.com/Recruit/Detail/R260939",
-      "_raw": "설비(Utility) 정보화 분야 전문가 영입 April 22, 2026(Wed) ~ May 22, 2026(Fri) SK inc.(AX) Tech R&D/Software Engineering"
+      "_raw": "설비(Utility) 정보화 분야 전문가 영입 April 22, 2026(Wed) ~ May 22, 2026(Fri) SK inc.(AX) Tech R&D/Software Engineering",
+      "_employmentType": ""
     },
     {
       "company": "한화시스템",
@@ -251,7 +256,8 @@
       "deadline": "2026-05-26",
       "deadlineTime": "",
       "url": "https://recruit.navercorp.com/rcrt/list.do?annoId=&sw=&subJobCdData=1010001%2C1010002%2C1010003%2C1010005%2C1010008%2C1010020&sysCompanyCdData=&jobCdData=1010#n",
-      "_raw": "[네이버랩스] AR Software Engineer 모집 부서 Tech 모집 분야 Graphics 모집 경력 무관 근로 조건 정규 모집 기간 2026.05.11 ~ 2026.05.26"
+      "_raw": "[네이버랩스] AR Software Engineer 모집 부서 Tech 모집 분야 Graphics 모집 경력 무관 근로 조건 정규 모집 기간 2026.05.11 ~ 2026.05.26",
+      "_employmentType": ""
     },
     {
       "company": "네이버",
@@ -262,7 +268,8 @@
       "deadline": "2026-05-26",
       "deadlineTime": "",
       "url": "https://recruit.navercorp.com/rcrt/list.do?annoId=&sw=&subJobCdData=1010001%2C1010002%2C1010003%2C1010005%2C1010008%2C1010020&sysCompanyCdData=&jobCdData=1010#n",
-      "_raw": "[네이버랩스] Graphics Engineer 모집 부서 Tech 모집 분야 Graphics 모집 경력 경력 근로 조건 정규 모집 기간 2026.05.11 ~ 2026.05.26"
+      "_raw": "[네이버랩스] Graphics Engineer 모집 부서 Tech 모집 분야 Graphics 모집 경력 경력 근로 조건 정규 모집 기간 2026.05.11 ~ 2026.05.26",
+      "_employmentType": ""
     },
     {
       "company": "네이버",
@@ -273,7 +280,8 @@
       "deadline": "2026-05-26",
       "deadlineTime": "",
       "url": "https://recruit.navercorp.com/rcrt/list.do?annoId=&sw=&subJobCdData=1010001%2C1010002%2C1010003%2C1010005%2C1010008%2C1010020&sysCompanyCdData=&jobCdData=1010#n",
-      "_raw": "[네이버웹툰] Data Engineer (경력) 모집 부서 Tech 모집 분야 Data Engineering 모집 경력 경력 근로 조건 정규 모집 기간 2026.05.11 ~ 2026.05.26"
+      "_raw": "[네이버웹툰] Data Engineer (경력) 모집 부서 Tech 모집 분야 Data Engineering 모집 경력 경력 근로 조건 정규 모집 기간 2026.05.11 ~ 2026.05.26",
+      "_employmentType": ""
     },
     {
       "company": "네이버",
@@ -284,7 +292,8 @@
       "deadline": "2026-05-27",
       "deadlineTime": "",
       "url": "https://recruit.navercorp.com/rcrt/list.do?annoId=&sw=&subJobCdData=1010001%2C1010002%2C1010003%2C1010005%2C1010008%2C1010020&sysCompanyCdData=&jobCdData=1010#n",
-      "_raw": "[NAVER Cloud] AI Solution 운영 지원/관리 (계약) 모집 부서 Service & Business 모집 분야 Product Development 모집 경력 경력 근로 조건 계약 모집 기간 2026.05.11 ~ 2026.05.27"
+      "_raw": "[NAVER Cloud] AI Solution 운영 지원/관리 (계약) 모집 부서 Service & Business 모집 분야 Product Development 모집 경력 경력 근로 조건 계약 모집 기간 2026.05.11 ~ 2026.05.27",
+      "_employmentType": ""
     },
     {
       "company": "현대오토에버",
@@ -575,7 +584,8 @@
       "deadline": "2026-06-15",
       "deadlineTime": "",
       "url": "https://www.skcareers.com/Recruit/Detail/R261075",
-      "_raw": "보안 아키텍트 영입 May 13, 2026(Wed) ~ June 15, 2026(Mon) SK inc.(AX) 정보보안/정보보안 컨설팅"
+      "_raw": "보안 아키텍트 영입 May 13, 2026(Wed) ~ June 15, 2026(Mon) SK inc.(AX) 정보보안/정보보안 컨설팅",
+      "_employmentType": ""
     },
     {
       "company": "SK AX",
@@ -586,7 +596,8 @@
       "deadline": "2026-06-15",
       "deadlineTime": "",
       "url": "https://www.skcareers.com/Recruit/Detail/R261087",
-      "_raw": "제조 솔루션(미들웨어) 분야 전문가 영입 May 13, 2026(Wed) ~ June 15, 2026(Mon) SK inc.(AX) IT/Platform/Solution"
+      "_raw": "제조 솔루션(미들웨어) 분야 전문가 영입 May 13, 2026(Wed) ~ June 15, 2026(Mon) SK inc.(AX) IT/Platform/Solution",
+      "_employmentType": ""
     },
     {
       "company": "SK AX",
@@ -597,7 +608,8 @@
       "deadline": "2026-06-15",
       "deadlineTime": "",
       "url": "https://www.skcareers.com/Recruit/Detail/R261088",
-      "_raw": "제조 솔루션(MES) 분야 전문가 영입 May 13, 2026(Wed) ~ June 15, 2026(Mon) SK inc.(AX) IT/Platform/Solution"
+      "_raw": "제조 솔루션(MES) 분야 전문가 영입 May 13, 2026(Wed) ~ June 15, 2026(Mon) SK inc.(AX) IT/Platform/Solution",
+      "_employmentType": ""
     },
     {
       "company": "SK AX",
@@ -608,7 +620,8 @@
       "deadline": "2026-06-15",
       "deadlineTime": "",
       "url": "https://www.skcareers.com/Recruit/Detail/R261089",
-      "_raw": "AI 애플리케이션/엔터프라이즈 아키텍트 분야 전문가 영입 May 13, 2026(Wed) ~ June 15, 2026(Mon) SK inc.(AX) IT/구축/운영/최적화"
+      "_raw": "AI 애플리케이션/엔터프라이즈 아키텍트 분야 전문가 영입 May 13, 2026(Wed) ~ June 15, 2026(Mon) SK inc.(AX) IT/구축/운영/최적화",
+      "_employmentType": ""
     },
     {
       "company": "SK AX",
@@ -619,7 +632,8 @@
       "deadline": "2026-06-15",
       "deadlineTime": "",
       "url": "https://www.skcareers.com/Recruit/Detail/R261082",
-      "_raw": "P&T 분야 전문가 영입 (계약직) May 13, 2026(Wed) ~ June 15, 2026(Mon) SK inc.(AX) Tech R&D/Software Engineering"
+      "_raw": "P&T 분야 전문가 영입 (계약직) May 13, 2026(Wed) ~ June 15, 2026(Mon) SK inc.(AX) Tech R&D/Software Engineering",
+      "_employmentType": ""
     },
     {
       "company": "SK AX",
@@ -630,7 +644,8 @@
       "deadline": "2026-06-15",
       "deadlineTime": "",
       "url": "https://www.skcareers.com/Recruit/Detail/R261086",
-      "_raw": "데이터센터 기계/공조설비 전문가 영입 (판교 근무, 계약직) May 13, 2026(Wed) ~ June 15, 2026(Mon) SK inc.(AX) Infra/Infra 운용/관리/최적화"
+      "_raw": "데이터센터 기계/공조설비 전문가 영입 (판교 근무, 계약직) May 13, 2026(Wed) ~ June 15, 2026(Mon) SK inc.(AX) Infra/Infra 운용/관리/최적화",
+      "_employmentType": ""
     },
     {
       "company": "SK AX",
@@ -641,7 +656,8 @@
       "deadline": "2026-06-15",
       "deadlineTime": "",
       "url": "https://www.skcareers.com/Recruit/Detail/R261090",
-      "_raw": "장비지능화 IT과제 담당자 통합 모집 (계약직) May 13, 2026(Wed) ~ June 15, 2026(Mon) SK inc.(AX) Tech R&D/Software Engineering"
+      "_raw": "장비지능화 IT과제 담당자 통합 모집 (계약직) May 13, 2026(Wed) ~ June 15, 2026(Mon) SK inc.(AX) Tech R&D/Software Engineering",
+      "_employmentType": ""
     },
     {
       "company": "CJ (올리브영/올네/대한통운)",
@@ -722,6 +738,18 @@
       "deadline": "2026-06-30",
       "deadlineTime": "23:59",
       "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20231030020572"
+    },
+    {
+      "company": "티맵모빌리티",
+      "companyId": "tmap",
+      "title": "DevOps Engineer Tmap Mobility Infra/Infra 개발/관리",
+      "department": "",
+      "location": "",
+      "deadline": "2026-06-30",
+      "deadlineTime": "",
+      "url": "https://www.skcareers.com/Recruit/Detail/R260107",
+      "_raw": "DevOps Engineer January 13, 2026(Tue) ~ June 30, 2026(Tue) Tmap Mobility Infra/Infra 개발/관리",
+      "_employmentType": ""
     },
     {
       "company": "CJ (올리브영/올네/대한통운)",
@@ -1061,7 +1089,8 @@
       "deadline": "",
       "deadlineTime": "",
       "url": "https://toss.im/career/job-detail?job_id=7646941003",
-      "_raw": "AI Engineer Machine Learning ・ MLE ・ AI ・ LLM 토스"
+      "_raw": "AI Engineer Machine Learning ・ MLE ・ AI ・ LLM 토스",
+      "_employmentType": ""
     },
     {
       "company": "토스",
@@ -1072,7 +1101,8 @@
       "deadline": "",
       "deadlineTime": "",
       "url": "https://toss.im/career/job-detail?job_id=7702581003",
-      "_raw": "AIOps Platform Engineer AIOps ・ InfraOps ・ AI ・ Platform 뱅크"
+      "_raw": "AIOps Platform Engineer AIOps ・ InfraOps ・ AI ・ Platform 뱅크",
+      "_employmentType": ""
     },
     {
       "company": "토스",
@@ -1083,7 +1113,8 @@
       "deadline": "",
       "deadlineTime": "",
       "url": "https://toss.im/career/job-detail?job_id=6677722003",
-      "_raw": "Cloud Engineer 인프라 ・ 오픈스택 ・ 클라우드 토스"
+      "_raw": "Cloud Engineer 인프라 ・ 오픈스택 ・ 클라우드 토스",
+      "_employmentType": ""
     },
     {
       "company": "토스",
@@ -1094,7 +1125,8 @@
       "deadline": "",
       "deadlineTime": "",
       "url": "https://toss.im/career/job-detail?job_id=7621552003",
-      "_raw": "Customer Hero (정착지원금 50만원) 신입 ・ 토스증권전담팀 ・ 토스플랫폼전담팀 ・ 토스쇼핑전담팀 ・ 고객센터 ・ CS 씨엑스"
+      "_raw": "Customer Hero (정착지원금 50만원) 신입 ・ 토스증권전담팀 ・ 토스플랫폼전담팀 ・ 토스쇼핑전담팀 ・ 고객센터 ・ CS 씨엑스",
+      "_employmentType": ""
     },
     {
       "company": "토스",
@@ -1105,7 +1137,8 @@
       "deadline": "",
       "deadlineTime": "",
       "url": "https://toss.im/career/job-detail?job_id=5960616003",
-      "_raw": "Data Analytics Engineer Data ・ SQL ・ DW DM 토스 외 3개 계열사"
+      "_raw": "Data Analytics Engineer Data ・ SQL ・ DW DM 토스 외 3개 계열사",
+      "_employmentType": ""
     },
     {
       "company": "토스",
@@ -1116,7 +1149,8 @@
       "deadline": "",
       "deadlineTime": "",
       "url": "https://toss.im/career/job-detail?job_id=6603749003",
-      "_raw": "Data Engineer Kafka ・ Flink ・ 데이터플랫폼 ・ Hadoop ・ 빅데이터 ・ frontend 뱅크 외 4개 계열사"
+      "_raw": "Data Engineer Kafka ・ Flink ・ 데이터플랫폼 ・ Hadoop ・ 빅데이터 ・ frontend 뱅크 외 4개 계열사",
+      "_employmentType": ""
     },
     {
       "company": "토스",
@@ -1127,7 +1161,8 @@
       "deadline": "",
       "deadlineTime": "",
       "url": "https://toss.im/career/job-detail?job_id=6078684003",
-      "_raw": "Device Hardware Quality Engineer HW 신뢰성 검증 ・ 양산 품질 관리 ・ EMS/ODM 파트너 관리 플레이스"
+      "_raw": "Device Hardware Quality Engineer HW 신뢰성 검증 ・ 양산 품질 관리 ・ EMS/ODM 파트너 관리 플레이스",
+      "_employmentType": ""
     },
     {
       "company": "토스",
@@ -1138,7 +1173,8 @@
       "deadline": "",
       "deadlineTime": "",
       "url": "https://toss.im/career/job-detail?job_id=4071151003",
-      "_raw": "DevOps Engineer Kubernetes ・ Istio ・ CI/CD ・ Cloud Native 토스 증권 플레이스"
+      "_raw": "DevOps Engineer Kubernetes ・ Istio ・ CI/CD ・ Cloud Native 토스 증권 플레이스",
+      "_employmentType": ""
     },
     {
       "company": "토스",
@@ -1149,7 +1185,8 @@
       "deadline": "",
       "deadlineTime": "",
       "url": "https://toss.im/career/job-detail?job_id=4773317003",
-      "_raw": "DevOps Engineer [산업기능요원/전문연구요원] 병특 ・ 개발 ・ CI/CD ・ Kubernetes 토스"
+      "_raw": "DevOps Engineer [산업기능요원/전문연구요원] 병특 ・ 개발 ・ CI/CD ・ Kubernetes 토스",
+      "_employmentType": ""
     },
     {
       "company": "토스",
@@ -1160,7 +1197,8 @@
       "deadline": "",
       "deadlineTime": "",
       "url": "https://toss.im/career/job-detail?job_id=4071101003",
-      "_raw": "Frontend Developer React ・ Typescript ・ Next.js 토스 외 6개 계열사"
+      "_raw": "Frontend Developer React ・ Typescript ・ Next.js 토스 외 6개 계열사",
+      "_employmentType": ""
     },
     {
       "company": "토스",
@@ -1171,7 +1209,8 @@
       "deadline": "",
       "deadlineTime": "",
       "url": "https://toss.im/career/job-detail?job_id=4770557003",
-      "_raw": "Frontend Developer [산업기능요원/전문연구요원] 병역특례 ・ 개발 ・ React ・ TypeScript 토스"
+      "_raw": "Frontend Developer [산업기능요원/전문연구요원] 병역특례 ・ 개발 ・ React ・ TypeScript 토스",
+      "_employmentType": ""
     },
     {
       "company": "토스",
@@ -1182,7 +1221,8 @@
       "deadline": "",
       "deadlineTime": "",
       "url": "https://toss.im/career/job-detail?job_id=7586141003",
-      "_raw": "Frontend Ops Developer 개발 ・ Frontend ・ TypeScript ・ JavaScript 뱅크"
+      "_raw": "Frontend Ops Developer 개발 ・ Frontend ・ TypeScript ・ JavaScript 뱅크",
+      "_employmentType": ""
     },
     {
       "company": "토스",
@@ -1193,7 +1233,8 @@
       "deadline": "",
       "deadlineTime": "",
       "url": "https://toss.im/career/job-detail?job_id=7545902003",
-      "_raw": "Frontend Platform Engineer 개발 ・ Frontend ・ TypeScript ・ JavaScript 토스 증권 플레이스"
+      "_raw": "Frontend Platform Engineer 개발 ・ Frontend ・ TypeScript ・ JavaScript 토스 증권 플레이스",
+      "_employmentType": ""
     },
     {
       "company": "토스",
@@ -1204,7 +1245,8 @@
       "deadline": "",
       "deadlineTime": "",
       "url": "https://toss.im/career/job-detail?job_id=6490955003",
-      "_raw": "Frontend UX Engineer 개발 ・ Frontend ・ TypeScript ・ JavaScript ・ TDS 증권"
+      "_raw": "Frontend UX Engineer 개발 ・ Frontend ・ TypeScript ・ JavaScript ・ TDS 증권",
+      "_employmentType": ""
     },
     {
       "company": "토스",
@@ -1215,7 +1257,8 @@
       "deadline": "",
       "deadlineTime": "",
       "url": "https://toss.im/career/job-detail?job_id=7719156003",
-      "_raw": "IDC Infrastructure Engineer (Network & System) 인프라 ・ 네트워크 ・ 시스템 ・ IDC 증권"
+      "_raw": "IDC Infrastructure Engineer (Network & System) 인프라 ・ 네트워크 ・ 시스템 ・ IDC 증권",
+      "_employmentType": ""
     },
     {
       "company": "토스",
@@ -1226,7 +1269,8 @@
       "deadline": "",
       "deadlineTime": "",
       "url": "https://toss.im/career/job-detail?job_id=7702593003",
-      "_raw": "Infrastructure Automation Engineer 인프라 ・ 자동화 ・ 플랫폼 ・ 아키텍쳐 뱅크"
+      "_raw": "Infrastructure Automation Engineer 인프라 ・ 자동화 ・ 플랫폼 ・ 아키텍쳐 뱅크",
+      "_employmentType": ""
     },
     {
       "company": "토스",
@@ -1237,7 +1281,8 @@
       "deadline": "",
       "deadlineTime": "",
       "url": "https://toss.im/career/job-detail?job_id=6562592003",
-      "_raw": "Internal System Engineer 인프라 ・ Linux ・ AWS ・ shell 증권"
+      "_raw": "Internal System Engineer 인프라 ・ Linux ・ AWS ・ shell 증권",
+      "_employmentType": ""
     },
     {
       "company": "토스",
@@ -1248,7 +1293,8 @@
       "deadline": "",
       "deadlineTime": "",
       "url": "https://toss.im/career/job-detail?job_id=6600650003",
-      "_raw": "ML Backend Engineer Backend ・ Server ・ Python ・ 머신러닝 ・ ML ・ 모델서빙 뱅크"
+      "_raw": "ML Backend Engineer Backend ・ Server ・ Python ・ 머신러닝 ・ ML ・ 모델서빙 뱅크",
+      "_employmentType": ""
     },
     {
       "company": "토스",
@@ -1259,7 +1305,8 @@
       "deadline": "",
       "deadlineTime": "",
       "url": "https://toss.im/career/job-detail?job_id=6333084003",
-      "_raw": "ML Engineer 머신러닝 ・ ML Engineer ・ 추천 ・ 개인화 증권 뱅크"
+      "_raw": "ML Engineer 머신러닝 ・ ML Engineer ・ 추천 ・ 개인화 증권 뱅크",
+      "_employmentType": ""
     },
     {
       "company": "토스",
@@ -1270,7 +1317,8 @@
       "deadline": "",
       "deadlineTime": "",
       "url": "https://toss.im/career/job-detail?job_id=6543804003",
-      "_raw": "ML Engineer [Ads] Machine Learning ・ MLE ・ 모델 서빙 토스"
+      "_raw": "ML Engineer [Ads] Machine Learning ・ MLE ・ 모델 서빙 토스",
+      "_employmentType": ""
     },
     {
       "company": "토스",
@@ -1281,7 +1329,8 @@
       "deadline": "",
       "deadlineTime": "",
       "url": "https://toss.im/career/job-detail?job_id=6543801003",
-      "_raw": "ML Engineer [Commerce] Machine Learning ・ MLE ・ 모델 서빙 토스"
+      "_raw": "ML Engineer [Commerce] Machine Learning ・ MLE ・ 모델 서빙 토스",
+      "_employmentType": ""
     },
     {
       "company": "토스",
@@ -1292,7 +1341,8 @@
       "deadline": "",
       "deadlineTime": "",
       "url": "https://toss.im/career/job-detail?job_id=4770769003",
-      "_raw": "ML Engineer [산업기능요원/전문연구요원] 병역특례 ・ Machine Learning ・ 모델설계 ・ 서빙 토스"
+      "_raw": "ML Engineer [산업기능요원/전문연구요원] 병역특례 ・ Machine Learning ・ 모델설계 ・ 서빙 토스",
+      "_employmentType": ""
     },
     {
       "company": "토스",
@@ -1303,7 +1353,8 @@
       "deadline": "",
       "deadlineTime": "",
       "url": "https://toss.im/career/job-detail?job_id=7507321003",
-      "_raw": "ML Platform Team Leader ML Platform ・ LLM ・ MLOps ・ LLMOps ・ Machine Learning ・ ML 뱅크"
+      "_raw": "ML Platform Team Leader ML Platform ・ LLM ・ MLOps ・ LLMOps ・ Machine Learning ・ ML 뱅크",
+      "_employmentType": ""
     },
     {
       "company": "토스",
@@ -1314,7 +1365,8 @@
       "deadline": "",
       "deadlineTime": "",
       "url": "https://toss.im/career/job-detail?job_id=4071172003",
-      "_raw": "Network Engineer 인프라 ・ 네트워크 ・ 스위치 ・ 방화벽 토스 증권"
+      "_raw": "Network Engineer 인프라 ・ 네트워크 ・ 스위치 ・ 방화벽 토스 증권",
+      "_employmentType": ""
     },
     {
       "company": "토스",
@@ -1325,7 +1377,8 @@
       "deadline": "",
       "deadlineTime": "",
       "url": "https://toss.im/career/job-detail?job_id=5398782003",
-      "_raw": "Network Security Engineer 인프라 ・ 네트워크 ・ 방화벽 ・ 보안 증권"
+      "_raw": "Network Security Engineer 인프라 ・ 네트워크 ・ 방화벽 ・ 보안 증권",
+      "_employmentType": ""
     },
     {
       "company": "토스",
@@ -1336,7 +1389,8 @@
       "deadline": "",
       "deadlineTime": "",
       "url": "https://toss.im/career/job-detail?job_id=7686375003",
-      "_raw": "Node.js Developer 개발 ・ Typescript ・ Nest.js ・ Node.js 토스 플레이스 증권"
+      "_raw": "Node.js Developer 개발 ・ Typescript ・ Nest.js ・ Node.js 토스 플레이스 증권",
+      "_employmentType": ""
     },
     {
       "company": "토스",
@@ -1347,7 +1401,8 @@
       "deadline": "",
       "deadlineTime": "",
       "url": "https://toss.im/career/job-detail?job_id=7702567003",
-      "_raw": "OpenStack Cloud Engineer 인프라 ・ SE ・ Cloud ・ OpenStack 뱅크"
+      "_raw": "OpenStack Cloud Engineer 인프라 ・ SE ・ Cloud ・ OpenStack 뱅크",
+      "_employmentType": ""
     },
     {
       "company": "토스",
@@ -1358,7 +1413,8 @@
       "deadline": "",
       "deadlineTime": "",
       "url": "https://toss.im/career/job-detail?job_id=4872537003",
-      "_raw": "Payment Software Engineer 엔지니어 ・ 단말기 ・ POS 플레이스"
+      "_raw": "Payment Software Engineer 엔지니어 ・ 단말기 ・ POS 플레이스",
+      "_employmentType": ""
     },
     {
       "company": "토스",
@@ -1369,7 +1425,8 @@
       "deadline": "",
       "deadlineTime": "",
       "url": "https://toss.im/career/job-detail?job_id=6355421003",
-      "_raw": "Platform Product Owner 프로덕트 ・ 서비스기획 ・ 제품고도화 토스 인슈어런스 플레이스"
+      "_raw": "Platform Product Owner 프로덕트 ・ 서비스기획 ・ 제품고도화 토스 인슈어런스 플레이스",
+      "_employmentType": ""
     },
     {
       "company": "토스",
@@ -1380,7 +1437,8 @@
       "deadline": "",
       "deadlineTime": "",
       "url": "https://toss.im/career/job-detail?job_id=7400593003",
-      "_raw": "Product Owner (AI Data Platform) 프로덕트 ・ 서비스/상품기획 ・ AI ・ 데이터플랫폼 증권"
+      "_raw": "Product Owner (AI Data Platform) 프로덕트 ・ 서비스/상품기획 ・ AI ・ 데이터플랫폼 증권",
+      "_employmentType": ""
     },
     {
       "company": "토스",
@@ -1391,7 +1449,8 @@
       "deadline": "",
       "deadlineTime": "",
       "url": "https://toss.im/career/job-detail?job_id=7687745003",
-      "_raw": "Product Owner (Global Platform - 원장) 프로덕트 ・ 서비스/상품기획 ・ Global Platform ・ 해외 원장 증권"
+      "_raw": "Product Owner (Global Platform - 원장) 프로덕트 ・ 서비스/상품기획 ・ Global Platform ・ 해외 원장 증권",
+      "_employmentType": ""
     },
     {
       "company": "토스",
@@ -1402,7 +1461,8 @@
       "deadline": "",
       "deadlineTime": "",
       "url": "https://toss.im/career/job-detail?job_id=7675334003",
-      "_raw": "Product Owner (Growth Platform) 프로덕트 ・ 서비스/상품기획 ・ Growth ・ 플랫폼 증권"
+      "_raw": "Product Owner (Growth Platform) 프로덕트 ・ 서비스/상품기획 ・ Growth ・ 플랫폼 증권",
+      "_employmentType": ""
     },
     {
       "company": "토스",
@@ -1413,7 +1473,8 @@
       "deadline": "",
       "deadlineTime": "",
       "url": "https://toss.im/career/job-detail?job_id=7686276003",
-      "_raw": "Search Engineer (Retrieval) 토스"
+      "_raw": "Search Engineer (Retrieval) 토스",
+      "_employmentType": ""
     },
     {
       "company": "토스",
@@ -1424,7 +1485,8 @@
       "deadline": "",
       "deadlineTime": "",
       "url": "https://toss.im/career/job-detail?job_id=7630890003",
-      "_raw": "Security Engineer 엔드포인트 ・ 네트워크 ・ 솔루션 ・ 접근통제 토스 외 3개 계열사"
+      "_raw": "Security Engineer 엔드포인트 ・ 네트워크 ・ 솔루션 ・ 접근통제 토스 외 3개 계열사",
+      "_employmentType": ""
     },
     {
       "company": "토스",
@@ -1435,7 +1497,8 @@
       "deadline": "",
       "deadlineTime": "",
       "url": "https://toss.im/career/job-detail?job_id=6586572003",
-      "_raw": "Security Engineer [산업기능요원/전문연구요원] 병역특례 ・ 보안 ・ 엔드포인트 ・ 솔루션 토스"
+      "_raw": "Security Engineer [산업기능요원/전문연구요원] 병역특례 ・ 보안 ・ 엔드포인트 ・ 솔루션 토스",
+      "_employmentType": ""
     },
     {
       "company": "토스",
@@ -1446,7 +1509,8 @@
       "deadline": "",
       "deadlineTime": "",
       "url": "https://toss.im/career/job-detail?job_id=4071141003",
-      "_raw": "Server Developer Kotlin ・ Java ・ Spring ・ Backend 토스 외 5개 계열사"
+      "_raw": "Server Developer Kotlin ・ Java ・ Spring ・ Backend 토스 외 5개 계열사",
+      "_employmentType": ""
     },
     {
       "company": "토스",
@@ -1457,7 +1521,8 @@
       "deadline": "",
       "deadlineTime": "",
       "url": "https://toss.im/career/job-detail?job_id=4773428003",
-      "_raw": "Server Developer [산업기능요원/전문연구요원] 병역특례 ・ 개발 ・ Kotlin ・ Spring 토스"
+      "_raw": "Server Developer [산업기능요원/전문연구요원] 병역특례 ・ 개발 ・ Kotlin ・ Spring 토스",
+      "_employmentType": ""
     },
     {
       "company": "토스",
@@ -1468,7 +1533,8 @@
       "deadline": "",
       "deadlineTime": "",
       "url": "https://toss.im/career/job-detail?job_id=4700949003",
-      "_raw": "Site Reliability Engineer MSA ・ Kubernetes ・ Kotlin ・ Java 토스 페이먼츠"
+      "_raw": "Site Reliability Engineer MSA ・ Kubernetes ・ Kotlin ・ Java 토스 페이먼츠",
+      "_employmentType": ""
     },
     {
       "company": "토스",
@@ -1479,7 +1545,8 @@
       "deadline": "",
       "deadlineTime": "",
       "url": "https://toss.im/career/job-detail?job_id=7687346003",
-      "_raw": "System Security Team Leader 보안 ・ 엔드포인트 ・ 단말보안 ・ 솔루션 ・ 시스템보안 뱅크"
+      "_raw": "System Security Team Leader 보안 ・ 엔드포인트 ・ 단말보안 ・ 솔루션 ・ 시스템보안 뱅크",
+      "_employmentType": ""
     },
     {
       "company": "토스",
@@ -1490,7 +1557,8 @@
       "deadline": "",
       "deadlineTime": "",
       "url": "https://toss.im/career/job-detail?job_id=4071157003",
-      "_raw": "Systems Engineer 인프라 ・ 시스템 ・ 클라우드 토스 증권"
+      "_raw": "Systems Engineer 인프라 ・ 시스템 ・ 클라우드 토스 증권",
+      "_employmentType": ""
     },
     {
       "company": "토스",
@@ -1501,7 +1569,8 @@
       "deadline": "",
       "deadlineTime": "",
       "url": "https://toss.im/career/job-detail?job_id=7532091003",
-      "_raw": "Systems Engineer (가상화) 인프라 ・ Linux ・ AWS ・ shell 증권"
+      "_raw": "Systems Engineer (가상화) 인프라 ・ Linux ・ AWS ・ shell 증권",
+      "_employmentType": ""
     },
     {
       "company": "토스",
@@ -1512,7 +1581,8 @@
       "deadline": "",
       "deadlineTime": "",
       "url": "https://toss.im/career/job-detail?job_id=7702579003",
-      "_raw": "Systems Engineer (백업 인프라 고도화) 인프라 ・ SE ・ 백업 ・ 데이터보호 뱅크"
+      "_raw": "Systems Engineer (백업 인프라 고도화) 인프라 ・ SE ・ 백업 ・ 데이터보호 뱅크",
+      "_employmentType": ""
     },
     {
       "company": "토스",
@@ -1523,7 +1593,8 @@
       "deadline": "",
       "deadlineTime": "",
       "url": "https://toss.im/career/job-detail?job_id=7519850003",
-      "_raw": "Tech Lead (Server) Backend ・ Tech ・ Leadership ・ Server 토스"
+      "_raw": "Tech Lead (Server) Backend ・ Tech ・ Leadership ・ Server 토스",
+      "_employmentType": ""
     },
     {
       "company": "카카오",
@@ -1534,7 +1605,8 @@
       "deadline": "",
       "deadlineTime": "",
       "url": "https://careers.kakao.com/jobs/P-14402?skillSet=&part=TECHNOLOGY&company=KAKAO&keyword=&employeeType=&page=1",
-      "_raw": "Multimodal LLM Research Engineer (경력) 영입마감일 영입종료시 근무지 직군 태그 #Algorithm/ML 회사정보 카카오 직원유형 정규직"
+      "_raw": "Multimodal LLM Research Engineer (경력) 영입마감일 영입종료시 근무지 직군 태그 #Algorithm/ML 회사정보 카카오 직원유형 정규직",
+      "_employmentType": ""
     },
     {
       "company": "카카오",
@@ -1545,7 +1617,8 @@
       "deadline": "",
       "deadlineTime": "",
       "url": "https://careers.kakao.com/jobs/P-14403?skillSet=&part=TECHNOLOGY&company=KAKAO&keyword=&employeeType=&page=1",
-      "_raw": "LLM Research Engineer (신입/경력) 영입마감일 영입종료시 근무지 직군 태그 #Algorithm/ML 회사정보 카카오 직원유형 정규직"
+      "_raw": "LLM Research Engineer (신입/경력) 영입마감일 영입종료시 근무지 직군 태그 #Algorithm/ML 회사정보 카카오 직원유형 정규직",
+      "_employmentType": ""
     },
     {
       "company": "카카오",
@@ -1556,7 +1629,8 @@
       "deadline": "",
       "deadlineTime": "",
       "url": "https://careers.kakao.com/jobs/P-14039?skillSet=&part=TECHNOLOGY&company=KAKAO&keyword=&employeeType=&page=1",
-      "_raw": "MLOps Engineer (경력) 영입마감일 영입종료시 근무지 직군 태그 #Server 회사정보 카카오 직원유형 정규직"
+      "_raw": "MLOps Engineer (경력) 영입마감일 영입종료시 근무지 직군 태그 #Server 회사정보 카카오 직원유형 정규직",
+      "_employmentType": ""
     },
     {
       "company": "카카오",
@@ -1567,7 +1641,8 @@
       "deadline": "",
       "deadlineTime": "",
       "url": "https://careers.kakao.com/jobs/P-14318?skillSet=&part=TECHNOLOGY&company=KAKAO&keyword=&employeeType=&page=1",
-      "_raw": "Machine Learning Engineer (Search) (경력) 영입마감일 영입종료시 근무지 직군 태그 #Algorithm/ML 회사정보 카카오 직원유형 정규직"
+      "_raw": "Machine Learning Engineer (Search) (경력) 영입마감일 영입종료시 근무지 직군 태그 #Algorithm/ML 회사정보 카카오 직원유형 정규직",
+      "_employmentType": ""
     },
     {
       "company": "카카오",
@@ -1578,7 +1653,8 @@
       "deadline": "",
       "deadlineTime": "",
       "url": "https://careers.kakao.com/jobs/P-14319?skillSet=&part=TECHNOLOGY&company=KAKAO&keyword=&employeeType=&page=1",
-      "_raw": "Machine Learning Engineer (Search) (신입) 영입마감일 영입종료시 근무지 직군 태그 #Algorithm/ML 회사정보 카카오 직원유형 정규직"
+      "_raw": "Machine Learning Engineer (Search) (신입) 영입마감일 영입종료시 근무지 직군 태그 #Algorithm/ML 회사정보 카카오 직원유형 정규직",
+      "_employmentType": ""
     },
     {
       "company": "카카오",
@@ -1589,7 +1665,8 @@
       "deadline": "",
       "deadlineTime": "",
       "url": "https://careers.kakao.com/jobs/P-14249?skillSet=&part=TECHNOLOGY&company=KAKAO&keyword=&employeeType=&page=1",
-      "_raw": "카카오톡 SRE(Site Reliability Engineer) 엔지니어 (경력) 영입마감일 영입종료시 근무지 직군 태그 #Server 회사정보 카카오 직원유형 정규직"
+      "_raw": "카카오톡 SRE(Site Reliability Engineer) 엔지니어 (경력) 영입마감일 영입종료시 근무지 직군 태그 #Server 회사정보 카카오 직원유형 정규직",
+      "_employmentType": ""
     },
     {
       "company": "카카오",
@@ -1600,7 +1677,8 @@
       "deadline": "",
       "deadlineTime": "",
       "url": "https://careers.kakao.com/jobs/P-13952?skillSet=&part=TECHNOLOGY&company=KAKAO&keyword=&employeeType=&page=1",
-      "_raw": "시스템 엔지니어 (경력) 영입마감일 영입종료시 근무지 직군 태그 #System 회사정보 카카오 직원유형 정규직"
+      "_raw": "시스템 엔지니어 (경력) 영입마감일 영입종료시 근무지 직군 태그 #System 회사정보 카카오 직원유형 정규직",
+      "_employmentType": ""
     },
     {
       "company": "카카오",
@@ -1611,7 +1689,8 @@
       "deadline": "",
       "deadlineTime": "",
       "url": "https://careers.kakao.com/jobs/P-14276?skillSet=&part=TECHNOLOGY&company=KAKAO&keyword=&employeeType=&page=1",
-      "_raw": "Data Analytics Engineer (경력) 영입마감일 영입종료시 근무지 직군 태그 #기타 회사정보 카카오 직원유형 정규직"
+      "_raw": "Data Analytics Engineer (경력) 영입마감일 영입종료시 근무지 직군 태그 #기타 회사정보 카카오 직원유형 정규직",
+      "_employmentType": ""
     },
     {
       "company": "현대자동차",

@@ -191,8 +191,12 @@ async function getBrowser() {
 async function fetchPlaywright(params) {
   const { url, selector, scrollPasses = 6, parseFromBodyText, filterByText, clickFilters, extractNextData, matchKeys, reloadOnFirstLoad, detailBase } = params;
   const browser = await getBrowser();
-  const ctx = await browser.newContext({ userAgent: UA });
+  // Force Korean locale — without it SK careers (and a few others) render
+  // English labels, breaking the Korean-only `정규/계약` employment-type
+  // detection used by SK pages. Also stabilizes deadline date format.
+  const ctx = await browser.newContext({ userAgent: UA, locale: 'ko-KR' });
   const page = await ctx.newPage();
+  await page.setExtraHTTPHeaders({ 'Accept-Language': 'ko-KR,ko;q=0.9,en;q=0.8' });
   try {
     await page.goto(url, { waitUntil: 'domcontentloaded', timeout: 30000 });
     await page.waitForTimeout(3500);
@@ -347,9 +351,10 @@ async function fetchPlaywright(params) {
       const out = [];
       const byHref = new Map();
       const empByHref = new Map();
-      // SK careers short anchor pattern: "정규 경력 서울" / "계약 경력 경기/인천" — drop
-      // the type from there because the long anchor doesn't include it.
-      const EMP_RE = /^(정규|계약|인턴|아르바이트|기타)\s+\S/;
+      // SK careers short anchor pattern: "정규 경력 서울" / "계약 경력 경기/인천" (KR)
+      // or "Permanent Experienced Seoul" / "Contract New Seoul" (EN fallback).
+      const EMP_RE = /^(정규|계약|인턴|아르바이트|기타|Permanent|Regular|Contract|Intern|Part-time|Other)\s+\S/i;
+      const EMP_NORM = { permanent: '정규', regular: '정규', contract: '계약', intern: '인턴', 'part-time': '아르바이트', other: '기타' };
       for (const a of anchors) {
         if (args.filterByText && !a.innerText?.includes(args.filterByText)) continue;
         const text = a.innerText?.replace(/\s+/g, ' ').trim() || '';
@@ -370,7 +375,10 @@ async function fetchPlaywright(params) {
         // and keep the entry with more text so deadline info is preserved.
         const key = placeholder ? ('text:' + text) : (href || 'text:' + text);
         const m = text.match(EMP_RE);
-        if (m && text.length < 50) empByHref.set(key, m[1]);
+        if (m && text.length < 50) {
+          const raw = m[1].toLowerCase();
+          empByHref.set(key, EMP_NORM[raw] || m[1]);
+        }
         const prev = byHref.get(key);
         if (!prev || text.length > prev.text.length) byHref.set(key, { text, href });
       }

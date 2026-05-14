@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-05-14T02:29:16.562Z",
-  "totalCount": 181,
+  "fetchedAt": "2026-05-14T03:54:24.031Z",
+  "totalCount": 178,
   "companies": [
     "당근",
     "현대오토에버",
@@ -32,16 +32,6 @@
     {
       "company": "CJ (올리브영/올네/대한통운)",
       "companyId": "cj",
-      "title": "[CJ제일제당] 플랫폼 상품 상세(PDP) 서비스 기획 전문가",
-      "department": "CJ제일제당 / IT서비스기획",
-      "location": "서울",
-      "deadline": "2026-05-17",
-      "deadlineTime": "23:59",
-      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20260506038166"
-    },
-    {
-      "company": "CJ (올리브영/올네/대한통운)",
-      "companyId": "cj",
       "title": "[CJ제일제당] 플랫폼 서비스 QA 전문가",
       "department": "CJ제일제당 / Software QA",
       "location": "서울",
@@ -62,6 +52,16 @@
     {
       "company": "CJ (올리브영/올네/대한통운)",
       "companyId": "cj",
+      "title": "[CJ제일제당] 플랫폼 전시 서비스 기획 전문가",
+      "department": "CJ제일제당 / IT서비스기획",
+      "location": "서울",
+      "deadline": "2026-05-17",
+      "deadlineTime": "23:59",
+      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20260506038636"
+    },
+    {
+      "company": "CJ (올리브영/올네/대한통운)",
+      "companyId": "cj",
       "title": "[CJ제일제당] 플랫폼 검색 서비스 기획 전문가",
       "department": "CJ제일제당 / IT서비스기획",
       "location": "서울",
@@ -72,12 +72,12 @@
     {
       "company": "CJ (올리브영/올네/대한통운)",
       "companyId": "cj",
-      "title": "[CJ제일제당] 플랫폼 전시 서비스 기획 전문가",
+      "title": "[CJ제일제당] 플랫폼 상품 상세(PDP) 서비스 기획 전문가",
       "department": "CJ제일제당 / IT서비스기획",
       "location": "서울",
       "deadline": "2026-05-17",
       "deadlineTime": "23:59",
-      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20260506038636"
+      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20260506038166"
     },
     {
       "company": "네이버",
@@ -114,22 +114,22 @@
     {
       "company": "CJ (올리브영/올네/대한통운)",
       "companyId": "cj",
-      "title": "[경력] SASE 보안 컨설팅 및 운영 관리",
-      "department": "CJ올리브네트웍스 / IT컨설팅",
-      "location": "서울",
-      "deadline": "2026-05-18",
-      "deadlineTime": "23:59",
-      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20260306037808"
-    },
-    {
-      "company": "CJ (올리브영/올네/대한통운)",
-      "companyId": "cj",
       "title": "[경력] 정보보호 컨설턴트",
       "department": "CJ올리브네트웍스 / IT컨설팅",
       "location": "서울",
       "deadline": "2026-05-18",
       "deadlineTime": "23:59",
       "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20260306037807"
+    },
+    {
+      "company": "CJ (올리브영/올네/대한통운)",
+      "companyId": "cj",
+      "title": "[경력] SASE 보안 컨설팅 및 운영 관리",
+      "department": "CJ올리브네트웍스 / IT컨설팅",
+      "location": "서울",
+      "deadline": "2026-05-18",
+      "deadlineTime": "23:59",
+      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20260306037808"
     },
     {
       "company": "CJ (올리브영/올네/대한통운)",
@@ -162,40 +162,28 @@
       "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20260422038602"
     },
     {
-      "company": "SKT",
-      "companyId": "skt",
-      "title": "Kubernetes 기반 DataPlatform 개발 전문가 D-5 SK telecom 기술/현장지원/IT 개발/운영 지원",
-      "department": "",
-      "location": "",
-      "deadline": "2026-05-19",
-      "deadlineTime": "",
-      "url": "https://www.skcareers.com/Recruit/Detail/R261069",
-      "_raw": "Kubernetes 기반 DataPlatform 개발 전문가 May 13, 2026(Wed) ~ May 19, 2026(Tue) D-5 SK telecom 기술/현장지원/IT 개발/운영 지원",
-      "_employmentType": ""
-    },
-    {
       "company": "SK AX",
       "companyId": "skax",
-      "title": "SKT 및 ICT Family사 시스템 담당자 영입 SK inc.(AX) Infra/Infra 운용/관리/최적화",
+      "title": "SKT 및 ICT Family사 시스템 담당자 영입 2026년 04월 22일(수) ~ 2026년 05월 22일(금) SK주식회사(AX) Infra/Infra 운용/관리/최적화",
       "department": "",
       "location": "",
       "deadline": "2026-05-22",
       "deadlineTime": "",
       "url": "https://www.skcareers.com/Recruit/Detail/R260894",
-      "_raw": "SKT 및 ICT Family사 시스템 담당자 영입 April 22, 2026(Wed) ~ May 22, 2026(Fri) SK inc.(AX) Infra/Infra 운용/관리/최적화",
-      "_employmentType": ""
+      "_raw": "SKT 및 ICT Family사 시스템 담당자 영입 2026년 04월 22일(수) ~ 2026년 05월 22일(금) SK주식회사(AX) Infra/Infra 운용/관리/최적화",
+      "_employmentType": "정규"
     },
     {
       "company": "SK AX",
       "companyId": "skax",
-      "title": "설비(Utility) 정보화 분야 전문가 영입 SK inc.(AX) Tech R&D/Software Engineering",
+      "title": "설비(Utility) 정보화 분야 전문가 영입 2026년 04월 22일(수) ~ 2026년 05월 22일(금) SK주식회사(AX) Tech R&D/Software Engineering",
       "department": "",
       "location": "",
       "deadline": "2026-05-22",
       "deadlineTime": "",
       "url": "https://www.skcareers.com/Recruit/Detail/R260939",
-      "_raw": "설비(Utility) 정보화 분야 전문가 영입 April 22, 2026(Wed) ~ May 22, 2026(Fri) SK inc.(AX) Tech R&D/Software Engineering",
-      "_employmentType": ""
+      "_raw": "설비(Utility) 정보화 분야 전문가 영입 2026년 04월 22일(수) ~ 2026년 05월 22일(금) SK주식회사(AX) Tech R&D/Software Engineering",
+      "_employmentType": "정규"
     },
     {
       "company": "한화시스템",
@@ -220,16 +208,6 @@
     {
       "company": "CJ (올리브영/올네/대한통운)",
       "companyId": "cj",
-      "title": "[CJ 4DPLEX] Backend 개발자 인재 모집",
-      "department": "CJ 4DPLEX / Backend Engineer",
-      "location": "서울",
-      "deadline": "2026-05-25",
-      "deadlineTime": "23:59",
-      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20251203036630"
-    },
-    {
-      "company": "CJ (올리브영/올네/대한통운)",
-      "companyId": "cj",
       "title": "[CJ 4DPLEX] AI 기술 개발 PM 인재 모집",
       "department": "CJ 4DPLEX / IT기획/운영",
       "location": "서울",
@@ -246,6 +224,16 @@
       "deadline": "2026-05-25",
       "deadlineTime": "23:59",
       "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20251203036631"
+    },
+    {
+      "company": "CJ (올리브영/올네/대한통운)",
+      "companyId": "cj",
+      "title": "[CJ 4DPLEX] Backend 개발자 인재 모집",
+      "department": "CJ 4DPLEX / Backend Engineer",
+      "location": "서울",
+      "deadline": "2026-05-25",
+      "deadlineTime": "23:59",
+      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20251203036630"
     },
     {
       "company": "네이버",
@@ -294,6 +282,16 @@
       "url": "https://recruit.navercorp.com/rcrt/list.do?annoId=&sw=&subJobCdData=1010001%2C1010002%2C1010003%2C1010005%2C1010008%2C1010020&sysCompanyCdData=&jobCdData=1010#n",
       "_raw": "[NAVER Cloud] AI Solution 운영 지원/관리 (계약) 모집 부서 Service & Business 모집 분야 Product Development 모집 경력 경력 근로 조건 계약 모집 기간 2026.05.11 ~ 2026.05.27",
       "_employmentType": ""
+    },
+    {
+      "company": "CJ (올리브영/올네/대한통운)",
+      "companyId": "cj",
+      "title": "[CJ푸드빌] 디지털 채널 Back-end 개발자 (웹/앱)",
+      "department": "CJ푸드빌 / 백엔드개발",
+      "location": "서울",
+      "deadline": "2026-05-27",
+      "deadlineTime": "23:59",
+      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20251217036661"
     },
     {
       "company": "현대오토에버",
@@ -438,22 +436,22 @@
     {
       "company": "CJ (올리브영/올네/대한통운)",
       "companyId": "cj",
-      "title": "[경력] 모바일상품권 시스템 개발 (백엔드)",
-      "department": "CJ올리브네트웍스 / 시스템개발",
-      "location": "서울",
-      "deadline": "2026-05-31",
-      "deadlineTime": "00:00",
-      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20260223037760"
-    },
-    {
-      "company": "CJ (올리브영/올네/대한통운)",
-      "companyId": "cj",
       "title": "[경력] UX/UI 및 서비스 기획자",
       "department": "CJ올리브네트웍스 / UX서비스기획",
       "location": "서울",
       "deadline": "2026-05-31",
       "deadlineTime": "23:59",
       "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20251111037070"
+    },
+    {
+      "company": "CJ (올리브영/올네/대한통운)",
+      "companyId": "cj",
+      "title": "[경력] 모바일상품권 시스템 개발 (백엔드)",
+      "department": "CJ올리브네트웍스 / 시스템개발",
+      "location": "서울",
+      "deadline": "2026-05-31",
+      "deadlineTime": "00:00",
+      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20260223037760"
     },
     {
       "company": "CJ (올리브영/올네/대한통운)",
@@ -578,86 +576,50 @@
     {
       "company": "SK AX",
       "companyId": "skax",
-      "title": "보안 아키텍트 영입 SK inc.(AX) 정보보안/정보보안 컨설팅",
+      "title": "보안 아키텍트 영입 2026년 05월 13일(수) ~ 2026년 06월 15일(월) SK주식회사(AX) 정보보안/정보보안 컨설팅",
       "department": "",
       "location": "",
       "deadline": "2026-06-15",
       "deadlineTime": "",
       "url": "https://www.skcareers.com/Recruit/Detail/R261075",
-      "_raw": "보안 아키텍트 영입 May 13, 2026(Wed) ~ June 15, 2026(Mon) SK inc.(AX) 정보보안/정보보안 컨설팅",
-      "_employmentType": ""
+      "_raw": "보안 아키텍트 영입 2026년 05월 13일(수) ~ 2026년 06월 15일(월) SK주식회사(AX) 정보보안/정보보안 컨설팅",
+      "_employmentType": "정규"
     },
     {
       "company": "SK AX",
       "companyId": "skax",
-      "title": "제조 솔루션(미들웨어) 분야 전문가 영입 SK inc.(AX) IT/Platform/Solution",
+      "title": "제조 솔루션(미들웨어) 분야 전문가 영입 2026년 05월 13일(수) ~ 2026년 06월 15일(월) SK주식회사(AX) IT/Platform/Solution",
       "department": "",
       "location": "",
       "deadline": "2026-06-15",
       "deadlineTime": "",
       "url": "https://www.skcareers.com/Recruit/Detail/R261087",
-      "_raw": "제조 솔루션(미들웨어) 분야 전문가 영입 May 13, 2026(Wed) ~ June 15, 2026(Mon) SK inc.(AX) IT/Platform/Solution",
-      "_employmentType": ""
+      "_raw": "제조 솔루션(미들웨어) 분야 전문가 영입 2026년 05월 13일(수) ~ 2026년 06월 15일(월) SK주식회사(AX) IT/Platform/Solution",
+      "_employmentType": "정규"
     },
     {
       "company": "SK AX",
       "companyId": "skax",
-      "title": "제조 솔루션(MES) 분야 전문가 영입 SK inc.(AX) IT/Platform/Solution",
+      "title": "제조 솔루션(MES) 분야 전문가 영입 2026년 05월 13일(수) ~ 2026년 06월 15일(월) SK주식회사(AX) IT/Platform/Solution",
       "department": "",
       "location": "",
       "deadline": "2026-06-15",
       "deadlineTime": "",
       "url": "https://www.skcareers.com/Recruit/Detail/R261088",
-      "_raw": "제조 솔루션(MES) 분야 전문가 영입 May 13, 2026(Wed) ~ June 15, 2026(Mon) SK inc.(AX) IT/Platform/Solution",
-      "_employmentType": ""
+      "_raw": "제조 솔루션(MES) 분야 전문가 영입 2026년 05월 13일(수) ~ 2026년 06월 15일(월) SK주식회사(AX) IT/Platform/Solution",
+      "_employmentType": "정규"
     },
     {
       "company": "SK AX",
       "companyId": "skax",
-      "title": "AI 애플리케이션/엔터프라이즈 아키텍트 분야 전문가 영입 SK inc.(AX) IT/구축/운영/최적화",
+      "title": "AI 애플리케이션/엔터프라이즈 아키텍트 분야 전문가 영입 2026년 05월 13일(수) ~ 2026년 06월 15일(월) SK주식회사(AX) IT/구축/운영/최적화",
       "department": "",
       "location": "",
       "deadline": "2026-06-15",
       "deadlineTime": "",
       "url": "https://www.skcareers.com/Recruit/Detail/R261089",
-      "_raw": "AI 애플리케이션/엔터프라이즈 아키텍트 분야 전문가 영입 May 13, 2026(Wed) ~ June 15, 2026(Mon) SK inc.(AX) IT/구축/운영/최적화",
-      "_employmentType": ""
-    },
-    {
-      "company": "SK AX",
-      "companyId": "skax",
-      "title": "P&T 분야 전문가 영입 (계약직) SK inc.(AX) Tech R&D/Software Engineering",
-      "department": "",
-      "location": "",
-      "deadline": "2026-06-15",
-      "deadlineTime": "",
-      "url": "https://www.skcareers.com/Recruit/Detail/R261082",
-      "_raw": "P&T 분야 전문가 영입 (계약직) May 13, 2026(Wed) ~ June 15, 2026(Mon) SK inc.(AX) Tech R&D/Software Engineering",
-      "_employmentType": ""
-    },
-    {
-      "company": "SK AX",
-      "companyId": "skax",
-      "title": "데이터센터 기계/공조설비 전문가 영입 (판교 근무, 계약직) SK inc.(AX) Infra/Infra 운용/관리/최적화",
-      "department": "",
-      "location": "",
-      "deadline": "2026-06-15",
-      "deadlineTime": "",
-      "url": "https://www.skcareers.com/Recruit/Detail/R261086",
-      "_raw": "데이터센터 기계/공조설비 전문가 영입 (판교 근무, 계약직) May 13, 2026(Wed) ~ June 15, 2026(Mon) SK inc.(AX) Infra/Infra 운용/관리/최적화",
-      "_employmentType": ""
-    },
-    {
-      "company": "SK AX",
-      "companyId": "skax",
-      "title": "장비지능화 IT과제 담당자 통합 모집 (계약직) SK inc.(AX) Tech R&D/Software Engineering",
-      "department": "",
-      "location": "",
-      "deadline": "2026-06-15",
-      "deadlineTime": "",
-      "url": "https://www.skcareers.com/Recruit/Detail/R261090",
-      "_raw": "장비지능화 IT과제 담당자 통합 모집 (계약직) May 13, 2026(Wed) ~ June 15, 2026(Mon) SK inc.(AX) Tech R&D/Software Engineering",
-      "_employmentType": ""
+      "_raw": "AI 애플리케이션/엔터프라이즈 아키텍트 분야 전문가 영입 2026년 05월 13일(수) ~ 2026년 06월 15일(월) SK주식회사(AX) IT/구축/운영/최적화",
+      "_employmentType": "정규"
     },
     {
       "company": "CJ (올리브영/올네/대한통운)",
@@ -672,22 +634,22 @@
     {
       "company": "CJ (올리브영/올네/대한통운)",
       "companyId": "cj",
-      "title": "[계약] 물류 자동화 창고 현장 관리 소장(진천)",
-      "department": "CJ올리브네트웍스 / 물류센터 현장 안전관리자",
-      "location": "진천",
-      "deadline": "2026-06-30",
-      "deadlineTime": "23:12",
-      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20260423038604"
-    },
-    {
-      "company": "CJ (올리브영/올네/대한통운)",
-      "companyId": "cj",
       "title": "[계약] 물류 자동화 창고 현장 관리 소장(이천)",
       "department": "CJ올리브네트웍스 / 물류센터 현장 안전관리자",
       "location": "이천",
       "deadline": "2026-06-30",
       "deadlineTime": "23:59",
       "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20260423038139"
+    },
+    {
+      "company": "CJ (올리브영/올네/대한통운)",
+      "companyId": "cj",
+      "title": "[계약] 물류 자동화 창고 현장 관리 소장(진천)",
+      "department": "CJ올리브네트웍스 / 물류센터 현장 안전관리자",
+      "location": "진천",
+      "deadline": "2026-06-30",
+      "deadlineTime": "23:12",
+      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20260423038604"
     },
     {
       "company": "CJ (올리브영/올네/대한통운)",
@@ -742,14 +704,14 @@
     {
       "company": "티맵모빌리티",
       "companyId": "tmap",
-      "title": "DevOps Engineer Tmap Mobility Infra/Infra 개발/관리",
+      "title": "DevOps Engineer 2026년 01월 13일(화) ~ 2026년 06월 30일(화) 티맵모빌리티 Infra/Infra 개발/관리",
       "department": "",
       "location": "",
       "deadline": "2026-06-30",
       "deadlineTime": "",
       "url": "https://www.skcareers.com/Recruit/Detail/R260107",
-      "_raw": "DevOps Engineer January 13, 2026(Tue) ~ June 30, 2026(Tue) Tmap Mobility Infra/Infra 개발/관리",
-      "_employmentType": ""
+      "_raw": "DevOps Engineer 2026년 01월 13일(화) ~ 2026년 06월 30일(화) 티맵모빌리티 Infra/Infra 개발/관리",
+      "_employmentType": "정규"
     },
     {
       "company": "CJ (올리브영/올네/대한통운)",

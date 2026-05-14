@@ -166,6 +166,17 @@
       "enabled": true
     },
     {
+      "id": "tmap",
+      "name": "티맵모빌리티",
+      "fetcher": "playwright",
+      "params": {
+        "url": "https://www.skcareers.com/Recruit/Index?searchText=%ED%8B%B0%EB%A7%B5%EB%AA%A8%EB%B9%8C%EB%A6%AC%ED%8B%B0",
+        "selector": "a[href*=\"/Recruit/Detail/\"]",
+        "scrollPasses": 6
+      },
+      "enabled": true
+    },
+    {
       "id": "hanwha",
       "name": "한화시스템",
       "fetcher": "hanwha-api",

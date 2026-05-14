@@ -35,6 +35,12 @@ jobs:
         timeout-minutes: 15
         run: node scripts/fetch-jobs.mjs
 
+      - name: Notify new jobs via ntfy
+        env:
+          NTFY_PASS: ${{ secrets.NTFY_PASS }}
+        run: node scripts/notify-new-jobs.mjs
+        continue-on-error: true
+
       - name: Commit changes (if any)
         run: |
           git config user.name "github-actions[bot]"

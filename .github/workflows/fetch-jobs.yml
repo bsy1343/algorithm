@@ -1,9 +1,14 @@
 name: Fetch IT job postings
 
-# Daily at KST 10:00 (UTC 01:00 the same day).
+# Daily at KST 00:04 (UTC 15:04 the previous day). Avoid on-the-hour
+# UTC slots — GitHub-hosted runners are oversubscribed at :00 and
+# scheduled workflows can be delayed by hours or skipped silently.
+# Offsetting by a few minutes greatly improves on-time firing.
+# This workflow crawls only; the daily summary and new-jobs notifications
+# live in separate workflows that run later in the day.
 on:
   schedule:
-    - cron: '0 1 * * *'
+    - cron: '4 15 * * *'
   workflow_dispatch:
 
 jobs:
@@ -34,12 +39,6 @@ jobs:
       - name: Fetch jobs
         timeout-minutes: 15
         run: node scripts/fetch-jobs.mjs
-
-      - name: Notify daily summary via ntfy
-        env:
-          NTFY_PASS: ${{ secrets.NTFY_PASS }}
-        run: node scripts/notify-daily-summary.mjs
-        continue-on-error: true
 
       - name: Commit changes (if any)
         run: |

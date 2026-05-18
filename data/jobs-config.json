@@ -116,7 +116,21 @@
       "params": {
         "url": "https://talent.hyundai.com/apply/applyList.hc?occupDataTagArray=211",
         "parseFromBodyText": true,
-        "scrollPasses": 5
+        "scrollPasses": 5,
+        "reloadOnFirstLoad": true
+      },
+      "enabled": true
+    },
+    {
+      "id": "kia",
+      "name": "기아",
+      "fetcher": "playwright",
+      "params": {
+        "_help": "베이스 URL이 자동으로 nfGubnC 세션 토큰을 붙여 리다이렉트하므로 토큰을 하드코딩하지 않음(만료됨). 현대차그룹 동일 플랫폼 — Pattern A 파싱. IT 필터 없음 → 전역 키워드 필터로 IT만 추림.",
+        "url": "https://career.kia.com/apply/applyList.kc",
+        "parseFromBodyText": true,
+        "scrollPasses": 5,
+        "reloadOnFirstLoad": true
       },
       "enabled": true
     },

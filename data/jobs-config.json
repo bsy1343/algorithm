@@ -139,9 +139,10 @@
       "name": "CJ (올리브영/올네/대한통운)",
       "fetcher": "cj-api",
       "params": {
-        "_help": "arrGubun=B(경력), arrRecJob=IR(IT). 회사별 분류는 compnm로 자동 — CJ올리브영/CJ올리브네트웍스/CJ대한통운/CJ 4DPLEX 모두 한 번에 들어옴.",
+        "_help": "arrGubun=B(경력), arrRecJob=IR(IT). 회사별 분류는 compnm로 자동. excludeCompnm: 제외할 계열사(부분일치).",
         "arrGubun": "B",
-        "arrRecJob": "IR"
+        "arrRecJob": "IR",
+        "excludeCompnm": ["4DPLEX", "푸드빌", "ENM"]
       },
       "bypassFilter": true,
       "enabled": true

@@ -132,6 +132,7 @@ async function fetchCjApi(params) {
     arrRecBu = '',     // 주관사 (계열사 코드)
     arrRecArea = '',   // 지역
     pageSize = 200,    // tot_cnt 181 → 200이면 한 번에 다 받음
+    excludeCompnm = [], // 제외할 계열사 (compnm 부분일치, 예: ["4DPLEX","푸드빌","ENM"])
   } = params;
   const body = {
     pageVal: '1',
@@ -160,7 +161,15 @@ async function fetchCjApi(params) {
   if (!r.ok) throw new Error(`CJ HTTP ${r.status}`);
   const d = await r.json();
   const items = d?.ds_newRecruitList || [];
-  return items.map(it => {
+  // Drop unwanted CJ subsidiaries. compnm is the subsidiary name
+  // ("CJ 4DPLEX" / "CJ푸드빌" / "CJ ENM" …); match whitespace-insensitive,
+  // case-insensitive substring against config excludeCompnm.
+  const _norm = (s) => (s || '').toLowerCase().replace(/\s+/g, '');
+  const _exc = excludeCompnm.map(_norm).filter(Boolean);
+  const kept = _exc.length
+    ? items.filter(it => { const c = _norm(it.compnm); return !_exc.some(e => c.includes(e)); })
+    : items;
+  return kept.map(it => {
     const dl = it.zz_end_dt_str ? it.zz_end_dt_str.replace(/\./g, '-') : '';
     const tm = (it.zz_end_hh && it.zz_end_mi) ? `${it.zz_end_hh}:${it.zz_end_mi}` : '';
     return {

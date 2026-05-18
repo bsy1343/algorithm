@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-05-18T08:02:46.018Z",
+  "fetchedAt": "2026-05-18T08:14:07.006Z",
   "totalCount": 183,
   "companies": [
     "당근",
@@ -18,12 +18,7 @@
     "티맵모빌리티",
     "한화시스템"
   ],
-  "errors": [
-    {
-      "company": "기아",
-      "error": "page.reload: net::ERR_ABORTED; maybe frame was detached?\nCall log:\n  - waiting for navigation until \"domcontentloaded\"\n"
-    }
-  ],
+  "errors": [],
   "jobs": [
     {
       "company": "CJ (올리브영/올네/대한통운)",

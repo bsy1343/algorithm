@@ -46,12 +46,24 @@ jobs:
             exit 0
           fi
           git commit -m "chore(jobs): refresh job postings snapshot"
-          # The runner checked out main some minutes ago; if the user pushed
-          # in the meantime, a straight push gets rejected. Rebase onto the
-          # latest remote and retry once.
+          # The "Install Playwright" step runs `npm init -y`, which rewrites
+          # the tracked package.json. That unstaged change made the old
+          # `git pull --rebase` abort with "You have unstaged changes", so a
+          # concurrent push could never be integrated and every attempt
+          # failed (seen 2026-05-18). The snapshot is already committed, so
+          # discard the npm noise, then fetch + rebase explicitly and abort
+          # cleanly on conflict so each retry starts from a clean state.
           for attempt in 1 2 3; do
-            git pull --rebase origin main || true
-            if git push; then exit 0; fi
+            git checkout -- . 2>/dev/null || true
+            git fetch origin main --quiet || true
+            if git rebase origin/main; then
+              if git push; then
+                echo "pushed (attempt $attempt)"
+                exit 0
+              fi
+            else
+              git rebase --abort 2>/dev/null || true
+            fi
             echo "push failed (attempt $attempt) — retrying"
             sleep 5
           done

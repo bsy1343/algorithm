@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-05-18T08:23:22.613Z",
-  "totalCount": 183,
+  "fetchedAt": "2026-05-18T10:30:56.063Z",
+  "totalCount": 184,
   "companies": [
     "당근",
     "현대오토에버",
@@ -317,16 +317,6 @@
       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=18828"
     },
     {
-      "company": "한화시스템",
-      "companyId": "hanwha",
-      "title": "2026 한화시스템 방산부문 AX 대규모 채용",
-      "department": "한화시스템/방산",
-      "location": "",
-      "deadline": "2026-05-30",
-      "deadlineTime": "23:59",
-      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=18843"
-    },
-    {
       "company": "LG CNS",
       "companyId": "lgcns",
       "title": "[LG CNS] AWS 클라우드 아키텍트 모집 (경력)",
@@ -617,6 +607,16 @@
       "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20240621025227"
     },
     {
+      "company": "한화시스템",
+      "companyId": "hanwha",
+      "title": "2026 한화시스템 방산부문 AX 대규모 채용",
+      "department": "한화시스템/방산",
+      "location": "",
+      "deadline": "2026-05-31",
+      "deadlineTime": "23:59",
+      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=18843"
+    },
+    {
       "company": "CJ (올리브영/올네/대한통운)",
       "companyId": "cj",
       "title": "[경력] 보안솔루션 운영 및 관리",
@@ -901,6 +901,15 @@
       "location": "SEOUL",
       "deadline": "",
       "url": "https://about.daangn.com?gh_jid=4300801003"
+    },
+    {
+      "company": "당근",
+      "companyId": "daangn",
+      "title": "Software Engineer, Data (인턴) | 테크코어 (데이터 가치화)",
+      "department": "",
+      "location": "SEOUL",
+      "deadline": "",
+      "url": "https://about.daangn.com?gh_jid=7562298003"
     },
     {
       "company": "당근",

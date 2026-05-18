@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-05-18T10:30:56.063Z",
+  "fetchedAt": "2026-05-18T15:05:16.193Z",
   "totalCount": 184,
   "companies": [
     "당근",
@@ -33,22 +33,22 @@
     {
       "company": "CJ (올리브영/올네/대한통운)",
       "companyId": "cj",
-      "title": "[경력] 정보보호 컨설턴트",
-      "department": "CJ올리브네트웍스 / IT컨설팅",
-      "location": "서울",
-      "deadline": "2026-05-18",
-      "deadlineTime": "23:59",
-      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20260306037807"
-    },
-    {
-      "company": "CJ (올리브영/올네/대한통운)",
-      "companyId": "cj",
       "title": "[경력] 프로젝트 DBA",
       "department": "CJ올리브네트웍스 / DBA",
       "location": "서울",
       "deadline": "2026-05-18",
       "deadlineTime": "23:59",
       "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20260428038617"
+    },
+    {
+      "company": "CJ (올리브영/올네/대한통운)",
+      "companyId": "cj",
+      "title": "[경력] 정보보호 컨설턴트",
+      "department": "CJ올리브네트웍스 / IT컨설팅",
+      "location": "서울",
+      "deadline": "2026-05-18",
+      "deadlineTime": "23:59",
+      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20260306037807"
     },
     {
       "company": "CJ (올리브영/올네/대한통운)",
@@ -63,22 +63,22 @@
     {
       "company": "CJ (올리브영/올네/대한통운)",
       "companyId": "cj",
-      "title": "[경력] 화이트해커(Red Team)",
-      "department": "CJ올리브네트웍스 / 모의해킹",
-      "location": "서울",
-      "deadline": "2026-05-18",
-      "deadlineTime": "23:59",
-      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20251208037572"
-    },
-    {
-      "company": "CJ (올리브영/올네/대한통운)",
-      "companyId": "cj",
       "title": "[경력] 네트워크 보안 엔지니어",
       "department": "CJ올리브네트웍스 / 네트워크 보안",
       "location": "서울",
       "deadline": "2026-05-18",
       "deadlineTime": "23:59",
       "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20251208036636"
+    },
+    {
+      "company": "CJ (올리브영/올네/대한통운)",
+      "companyId": "cj",
+      "title": "[경력] 화이트해커(Red Team)",
+      "department": "CJ올리브네트웍스 / 모의해킹",
+      "location": "서울",
+      "deadline": "2026-05-18",
+      "deadlineTime": "23:59",
+      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20251208037572"
     },
     {
       "company": "CJ (올리브영/올네/대한통운)",
@@ -93,25 +93,25 @@
     {
       "company": "SK AX",
       "companyId": "skax",
-      "title": "SKT 및 ICT Family사 시스템 담당자 영입 D-4 SK주식회사(AX) Infra/Infra 운용/관리/최적화",
+      "title": "SKT 및 ICT Family사 시스템 담당자 영입 D-3 SK주식회사(AX) Infra/Infra 운용/관리/최적화",
       "department": "",
       "location": "",
       "deadline": "2026-05-22",
       "deadlineTime": "",
       "url": "https://www.skcareers.com/Recruit/Detail/R260894",
-      "_raw": "SKT 및 ICT Family사 시스템 담당자 영입 2026년 04월 22일(수) ~ 2026년 05월 22일(금) D-4 SK주식회사(AX) Infra/Infra 운용/관리/최적화",
+      "_raw": "SKT 및 ICT Family사 시스템 담당자 영입 2026년 04월 22일(수) ~ 2026년 05월 22일(금) D-3 SK주식회사(AX) Infra/Infra 운용/관리/최적화",
       "_employmentType": "정규"
     },
     {
       "company": "SK AX",
       "companyId": "skax",
-      "title": "설비(Utility) 정보화 분야 전문가 영입 D-4 SK주식회사(AX) Tech R&D/Software Engineering",
+      "title": "설비(Utility) 정보화 분야 전문가 영입 D-3 SK주식회사(AX) Tech R&D/Software Engineering",
       "department": "",
       "location": "",
       "deadline": "2026-05-22",
       "deadlineTime": "",
       "url": "https://www.skcareers.com/Recruit/Detail/R260939",
-      "_raw": "설비(Utility) 정보화 분야 전문가 영입 2026년 04월 22일(수) ~ 2026년 05월 22일(금) D-4 SK주식회사(AX) Tech R&D/Software Engineering",
+      "_raw": "설비(Utility) 정보화 분야 전문가 영입 2026년 04월 22일(수) ~ 2026년 05월 22일(금) D-3 SK주식회사(AX) Tech R&D/Software Engineering",
       "_employmentType": "정규"
     },
     {
@@ -137,22 +137,22 @@
     {
       "company": "CJ (올리브영/올네/대한통운)",
       "companyId": "cj",
-      "title": "[CJ 4DPLEX] AI 기술 개발 PM 인재 모집",
-      "department": "CJ 4DPLEX / IT기획/운영",
-      "location": "서울",
-      "deadline": "2026-05-25",
-      "deadlineTime": "23:59",
-      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20251029036552"
-    },
-    {
-      "company": "CJ (올리브영/올네/대한통운)",
-      "companyId": "cj",
       "title": "[CJ 4DPLEX] Backend 개발자 인재 모집",
       "department": "CJ 4DPLEX / Backend Engineer",
       "location": "서울",
       "deadline": "2026-05-25",
       "deadlineTime": "23:59",
       "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20251203036630"
+    },
+    {
+      "company": "CJ (올리브영/올네/대한통운)",
+      "companyId": "cj",
+      "title": "[CJ 4DPLEX] AI 기술 개발 PM 인재 모집",
+      "department": "CJ 4DPLEX / IT기획/운영",
+      "location": "서울",
+      "deadline": "2026-05-25",
+      "deadlineTime": "23:59",
+      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20251029036552"
     },
     {
       "company": "네이버",
@@ -193,9 +193,9 @@
     {
       "company": "LG U+",
       "companyId": "lguplus",
-      "title": "[정보보안센터] 보안솔루션 구축/운영 엔지니어 경력채용",
+      "title": "보안솔루션 구축/운영 엔지니어 경력채용",
       "department": "",
-      "location": "경력",
+      "location": "",
       "deadline": "2026-05-26",
       "deadlineTime": "23:00",
       "url": "https://careers.lg.com/channel/detail/lgu/job_openings"
@@ -429,22 +429,22 @@
     {
       "company": "CJ (올리브영/올네/대한통운)",
       "companyId": "cj",
-      "title": "[CJ ENM] Data Analyst_경력채용",
-      "department": "CJ ENM / 데이터분석",
-      "location": "서울",
-      "deadline": "2026-05-31",
-      "deadlineTime": "23:00",
-      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20260514038188"
-    },
-    {
-      "company": "CJ (올리브영/올네/대한통운)",
-      "companyId": "cj",
       "title": "[CJ ENM] Data Scientist_경력채용",
       "department": "CJ ENM / 데이터 사이언티스트",
       "location": "서울",
       "deadline": "2026-05-31",
       "deadlineTime": "23:00",
       "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20260514038189"
+    },
+    {
+      "company": "CJ (올리브영/올네/대한통운)",
+      "companyId": "cj",
+      "title": "[CJ ENM] Data Analyst_경력채용",
+      "department": "CJ ENM / 데이터분석",
+      "location": "서울",
+      "deadline": "2026-05-31",
+      "deadlineTime": "23:00",
+      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20260514038188"
     },
     {
       "company": "CJ (올리브영/올네/대한통운)",
@@ -489,22 +489,22 @@
     {
       "company": "CJ (올리브영/올네/대한통운)",
       "companyId": "cj",
-      "title": "[경력] 모바일상품권 시스템 개발 (백엔드)",
-      "department": "CJ올리브네트웍스 / 시스템개발",
-      "location": "서울",
-      "deadline": "2026-05-31",
-      "deadlineTime": "00:00",
-      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20260223037760"
-    },
-    {
-      "company": "CJ (올리브영/올네/대한통운)",
-      "companyId": "cj",
       "title": "[경력] CJ제일제당 해외 SAP SD 운영/개발",
       "department": "CJ올리브네트웍스 / 시스템 개발/운영(SAP)",
       "location": "서울",
       "deadline": "2026-05-31",
       "deadlineTime": "23:59",
       "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20260323038037"
+    },
+    {
+      "company": "CJ (올리브영/올네/대한통운)",
+      "companyId": "cj",
+      "title": "[경력] 모바일상품권 시스템 개발 (백엔드)",
+      "department": "CJ올리브네트웍스 / 시스템개발",
+      "location": "서울",
+      "deadline": "2026-05-31",
+      "deadlineTime": "00:00",
+      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20260223037760"
     },
     {
       "company": "CJ (올리브영/올네/대한통운)",
@@ -559,22 +559,22 @@
     {
       "company": "CJ (올리브영/올네/대한통운)",
       "companyId": "cj",
-      "title": "[경력] 대내외 SI 구축 프로젝트 수행 PL(분석/설계)",
-      "department": "CJ올리브네트웍스 / PM(Project Manager)",
-      "location": "서울",
-      "deadline": "2026-05-31",
-      "deadlineTime": "23:59",
-      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20250211029038"
-    },
-    {
-      "company": "CJ (올리브영/올네/대한통운)",
-      "companyId": "cj",
       "title": "[경력] PG 정산 개발 및 운영",
       "department": "CJ올리브네트웍스 / 시스템 개발/운영(PG중계/정산)",
       "location": "서울",
       "deadline": "2026-05-31",
       "deadlineTime": "23:59",
       "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20250205027352"
+    },
+    {
+      "company": "CJ (올리브영/올네/대한통운)",
+      "companyId": "cj",
+      "title": "[경력] 대내외 SI 구축 프로젝트 수행 PL(분석/설계)",
+      "department": "CJ올리브네트웍스 / PM(Project Manager)",
+      "location": "서울",
+      "deadline": "2026-05-31",
+      "deadlineTime": "23:59",
+      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20250211029038"
     },
     {
       "company": "CJ (올리브영/올네/대한통운)",
@@ -687,22 +687,22 @@
     {
       "company": "CJ (올리브영/올네/대한통운)",
       "companyId": "cj",
-      "title": "[계약] 물류 자동화 창고 현장 관리 소장(이천)",
-      "department": "CJ올리브네트웍스 / 물류센터 현장 안전관리자",
-      "location": "이천",
-      "deadline": "2026-06-30",
-      "deadlineTime": "23:59",
-      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20260423038139"
-    },
-    {
-      "company": "CJ (올리브영/올네/대한통운)",
-      "companyId": "cj",
       "title": "[계약] 물류 자동화 창고 현장 관리 소장(진천)",
       "department": "CJ올리브네트웍스 / 물류센터 현장 안전관리자",
       "location": "진천",
       "deadline": "2026-06-30",
       "deadlineTime": "23:12",
       "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20260423038604"
+    },
+    {
+      "company": "CJ (올리브영/올네/대한통운)",
+      "companyId": "cj",
+      "title": "[계약] 물류 자동화 창고 현장 관리 소장(이천)",
+      "department": "CJ올리브네트웍스 / 물류센터 현장 안전관리자",
+      "location": "이천",
+      "deadline": "2026-06-30",
+      "deadlineTime": "23:59",
+      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20260423038139"
     },
     {
       "company": "CJ (올리브영/올네/대한통운)",
@@ -1823,22 +1823,22 @@
     {
       "company": "CJ (올리브영/올네/대한통운)",
       "companyId": "cj",
-      "title": "[CJ ENM] Mnet Plus User Writer (일본 Localization Owner) ",
-      "department": "CJ ENM / UI/UX 디자인",
-      "location": "서울",
-      "deadline": "",
-      "deadlineTime": "",
-      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20260420038127"
-    },
-    {
-      "company": "CJ (올리브영/올네/대한통운)",
-      "companyId": "cj",
       "title": "[CJ ENM] Mnet Plus User Writer (중국 Localization Owner) ",
       "department": "CJ ENM / UI/UX 디자인",
       "location": "서울",
       "deadline": "",
       "deadlineTime": "",
       "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20260420038121"
+    },
+    {
+      "company": "CJ (올리브영/올네/대한통운)",
+      "companyId": "cj",
+      "title": "[CJ ENM] Mnet Plus User Writer (일본 Localization Owner) ",
+      "department": "CJ ENM / UI/UX 디자인",
+      "location": "서울",
+      "deadline": "",
+      "deadlineTime": "",
+      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20260420038127"
     },
     {
       "company": "CJ (올리브영/올네/대한통운)",
@@ -1933,12 +1933,12 @@
     {
       "company": "CJ (올리브영/올네/대한통운)",
       "companyId": "cj",
-      "title": "[CJ ENM] Mnet Plus_Backend Engineer_경력채용",
-      "department": "CJ ENM / 백엔드개발",
+      "title": "[CJ ENM] Mnet Plus 앱 개발(React Native)_경력채용",
+      "department": "CJ ENM / 앱 개발",
       "location": "서울",
       "deadline": "",
       "deadlineTime": "",
-      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20251017036053"
+      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20251017034142"
     },
     {
       "company": "CJ (올리브영/올네/대한통운)",
@@ -1953,12 +1953,12 @@
     {
       "company": "CJ (올리브영/올네/대한통운)",
       "companyId": "cj",
-      "title": "[CJ ENM] Mnet Plus 앱 개발(React Native)_경력채용",
-      "department": "CJ ENM / 앱 개발",
+      "title": "[CJ ENM] Mnet Plus_Backend Engineer_경력채용",
+      "department": "CJ ENM / 백엔드개발",
       "location": "서울",
       "deadline": "",
       "deadlineTime": "",
-      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20251017034142"
+      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20251017036053"
     },
     {
       "company": "CJ (올리브영/올네/대한통운)",

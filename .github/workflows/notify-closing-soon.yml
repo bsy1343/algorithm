@@ -1,0 +1,26 @@
+name: Notify closing-soon jobs
+
+# Jobs whose deadline is within 7 days (D-7 ~ D-0, today inclusive).
+# Triggered by n8n (Mac mini) at 18:00 KST via workflow_dispatch —
+# GitHub's own schedule is intentionally omitted; n8n is the reliable
+# trigger so there is no duplicate/delayed fire.
+on:
+  workflow_dispatch:
+
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    permissions:
+      contents: read
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Send closing-soon alert via ntfy
+        env:
+          NTFY_PASS: ${{ secrets.NTFY_PASS }}
+        run: node scripts/notify-closing-soon.mjs

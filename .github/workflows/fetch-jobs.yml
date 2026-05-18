@@ -1,14 +1,10 @@
 name: Fetch IT job postings
 
-# Daily at KST 00:04 (UTC 15:04 the previous day). Avoid on-the-hour
-# UTC slots — GitHub-hosted runners are oversubscribed at :00 and
-# scheduled workflows can be delayed by hours or skipped silently.
-# Offsetting by a few minutes greatly improves on-time firing.
-# This workflow crawls only; the daily summary and new-jobs notifications
-# live in separate workflows that run later in the day.
+# Crawls IT job postings and commits data/jobs-latest.json.
+# Triggered by n8n (Mac mini) at 00:00 KST via workflow_dispatch.
+# GitHub's own schedule is intentionally omitted — it fired 1-4h late;
+# n8n is the sole, on-time trigger.
 on:
-  schedule:
-    - cron: '4 15 * * *'
   workflow_dispatch:
 
 jobs:

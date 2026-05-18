@@ -1,11 +1,10 @@
 name: Daily jobs summary
 
-# Daily at KST 10:04 (UTC 01:04). Reads the snapshot produced by the
-# 00:04 KST crawl (fetch-jobs.yml) and sends a ntfy summary of every
-# job currently open for application. No crawling here.
+# Sends a ntfy summary of every job currently open. Reads the snapshot
+# produced by the 00:00 KST crawl (fetch-jobs.yml). No crawling here.
+# Triggered by n8n at 09:30 KST via workflow_dispatch (no GitHub
+# schedule — n8n is the reliable trigger).
 on:
-  schedule:
-    - cron: '4 1 * * *'
   workflow_dispatch:
 
 jobs:

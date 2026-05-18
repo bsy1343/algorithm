@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-05-17T16:10:58.174Z",
-  "totalCount": 182,
+  "fetchedAt": "2026-05-18T06:32:39.831Z",
+  "totalCount": 183,
   "companies": [
     "당근",
     "현대오토에버",
@@ -406,6 +406,26 @@
       "deadline": "2026-05-31",
       "deadlineTime": "23:00",
       "url": "https://careers.lg.com/apply?c=CNS"
+    },
+    {
+      "company": "현대자동차",
+      "companyId": "hyundai",
+      "title": "[ICT] SW Architect",
+      "department": "#경력",
+      "location": "#양재본사",
+      "deadline": "2026-05-31",
+      "deadlineTime": "",
+      "url": "https://talent.hyundai.com/apply/applyList.hc?occupDataTagArray=211"
+    },
+    {
+      "company": "현대자동차",
+      "companyId": "hyundai",
+      "title": "[ICT] IT Architect - 차량 모델링 파이프라인 개발",
+      "department": "#경력",
+      "location": "#양재본사",
+      "deadline": "2026-05-31",
+      "deadlineTime": "",
+      "url": "https://talent.hyundai.com/apply/applyList.hc?occupDataTagArray=211"
     },
     {
       "company": "CJ (올리브영/올네/대한통운)",
@@ -868,6 +888,15 @@
     {
       "company": "당근",
       "companyId": "daangn",
+      "title": "Software Engineer, Backend | ML Data Platform",
+      "department": "",
+      "location": "SEOUL",
+      "deadline": "",
+      "url": "https://about.daangn.com?gh_jid=5823087003"
+    },
+    {
+      "company": "당근",
+      "companyId": "daangn",
       "title": "Software Engineer, Data | 테크코어 (데이터 가치화)",
       "department": "",
       "location": "SEOUL",
@@ -1089,6 +1118,18 @@
       "deadlineTime": "",
       "url": "https://toss.im/career/job-detail?job_id=7702581003",
       "_raw": "AIOps Platform Engineer AIOps ・ InfraOps ・ AI ・ Platform 뱅크",
+      "_employmentType": ""
+    },
+    {
+      "company": "토스",
+      "companyId": "toss",
+      "title": "Call Infra Specialist IT General Admin",
+      "department": "",
+      "location": "",
+      "deadline": "",
+      "deadlineTime": "",
+      "url": "https://toss.im/career/job-detail?job_id=7736910003",
+      "_raw": "Call Infra Specialist IT General Admin ・ IT운영 ・ Helpdesk 뱅크",
       "_employmentType": ""
     },
     {
@@ -1725,36 +1766,6 @@
       "company": "현대자동차",
       "companyId": "hyundai",
       "title": "[AVP] 모빌리티 서비스 Software Engineer",
-      "department": "#경력",
-      "location": "#서울",
-      "deadline": "",
-      "deadlineTime": "",
-      "url": "https://talent.hyundai.com/apply/applyList.hc?occupDataTagArray=211"
-    },
-    {
-      "company": "현대자동차",
-      "companyId": "hyundai",
-      "title": "[AVP] 모빌리티 서비스 Frontend Engineer",
-      "department": "#경력",
-      "location": "#서울",
-      "deadline": "",
-      "deadlineTime": "",
-      "url": "https://talent.hyundai.com/apply/applyList.hc?occupDataTagArray=211"
-    },
-    {
-      "company": "현대자동차",
-      "companyId": "hyundai",
-      "title": "[AVP] 모빌리티 서비스 Data Engineer",
-      "department": "#경력",
-      "location": "#서울",
-      "deadline": "",
-      "deadlineTime": "",
-      "url": "https://talent.hyundai.com/apply/applyList.hc?occupDataTagArray=211"
-    },
-    {
-      "company": "현대자동차",
-      "companyId": "hyundai",
-      "title": "[AVP] 모빌리티 서비스 Backend Engineer",
       "department": "#경력",
       "location": "#서울",
       "deadline": "",

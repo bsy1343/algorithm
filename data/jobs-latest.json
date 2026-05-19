@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-05-18T18:49:21.596Z",
-  "totalCount": 169,
+  "fetchedAt": "2026-05-19T15:04:47.258Z",
+  "totalCount": 163,
   "companies": [
     "당근",
     "현대오토에버",
@@ -18,7 +18,12 @@
     "티맵모빌리티",
     "한화시스템"
   ],
-  "errors": [],
+  "errors": [
+    {
+      "company": "기아",
+      "error": "page.reload: net::ERR_ABORTED; maybe frame was detached?\nCall log:\n  - waiting for navigation until \"domcontentloaded\"\n"
+    }
+  ],
   "jobs": [
     {
       "company": "CJ (올리브영/올네/대한통운)",
@@ -31,87 +36,27 @@
       "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20260326038057"
     },
     {
-      "company": "CJ (올리브영/올네/대한통운)",
-      "companyId": "cj",
-      "title": "[경력] 프로젝트 DBA",
-      "department": "CJ올리브네트웍스 / DBA",
-      "location": "서울",
-      "deadline": "2026-05-18",
-      "deadlineTime": "23:59",
-      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20260428038617"
-    },
-    {
-      "company": "CJ (올리브영/올네/대한통운)",
-      "companyId": "cj",
-      "title": "[경력] 정보보호 컨설턴트",
-      "department": "CJ올리브네트웍스 / IT컨설팅",
-      "location": "서울",
-      "deadline": "2026-05-18",
-      "deadlineTime": "23:59",
-      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20260306037807"
-    },
-    {
-      "company": "CJ (올리브영/올네/대한통운)",
-      "companyId": "cj",
-      "title": "[경력] SASE 보안 컨설팅 및 운영 관리",
-      "department": "CJ올리브네트웍스 / IT컨설팅",
-      "location": "서울",
-      "deadline": "2026-05-18",
-      "deadlineTime": "23:59",
-      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20260306037808"
-    },
-    {
-      "company": "CJ (올리브영/올네/대한통운)",
-      "companyId": "cj",
-      "title": "[경력] 네트워크 보안 엔지니어",
-      "department": "CJ올리브네트웍스 / 네트워크 보안",
-      "location": "서울",
-      "deadline": "2026-05-18",
-      "deadlineTime": "23:59",
-      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20251208036636"
-    },
-    {
-      "company": "CJ (올리브영/올네/대한통운)",
-      "companyId": "cj",
-      "title": "[경력] 화이트해커(Red Team)",
-      "department": "CJ올리브네트웍스 / 모의해킹",
-      "location": "서울",
-      "deadline": "2026-05-18",
-      "deadlineTime": "23:59",
-      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20251208037572"
-    },
-    {
-      "company": "CJ (올리브영/올네/대한통운)",
-      "companyId": "cj",
-      "title": "[경력] 프로젝트 Application Architect",
-      "department": "CJ올리브네트웍스 / AA(Application Architect)",
-      "location": "서울",
-      "deadline": "2026-05-18",
-      "deadlineTime": "23:59",
-      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20260422038602"
-    },
-    {
       "company": "SK AX",
       "companyId": "skax",
-      "title": "SKT 및 ICT Family사 시스템 담당자 영입 D-3 SK주식회사(AX) Infra/Infra 운용/관리/최적화",
+      "title": "SKT 및 ICT Family사 시스템 담당자 영입 D-2 SK주식회사(AX) Infra/Infra 운용/관리/최적화",
       "department": "",
       "location": "",
       "deadline": "2026-05-22",
       "deadlineTime": "",
       "url": "https://www.skcareers.com/Recruit/Detail/R260894",
-      "_raw": "SKT 및 ICT Family사 시스템 담당자 영입 2026년 04월 22일(수) ~ 2026년 05월 22일(금) D-3 SK주식회사(AX) Infra/Infra 운용/관리/최적화",
+      "_raw": "SKT 및 ICT Family사 시스템 담당자 영입 2026년 04월 22일(수) ~ 2026년 05월 22일(금) D-2 SK주식회사(AX) Infra/Infra 운용/관리/최적화",
       "_employmentType": "정규"
     },
     {
       "company": "SK AX",
       "companyId": "skax",
-      "title": "설비(Utility) 정보화 분야 전문가 영입 D-3 SK주식회사(AX) Tech R&D/Software Engineering",
+      "title": "설비(Utility) 정보화 분야 전문가 영입 D-2 SK주식회사(AX) Tech R&D/Software Engineering",
       "department": "",
       "location": "",
       "deadline": "2026-05-22",
       "deadlineTime": "",
       "url": "https://www.skcareers.com/Recruit/Detail/R260939",
-      "_raw": "설비(Utility) 정보화 분야 전문가 영입 2026년 04월 22일(수) ~ 2026년 05월 22일(금) D-3 SK주식회사(AX) Tech R&D/Software Engineering",
+      "_raw": "설비(Utility) 정보화 분야 전문가 영입 2026년 04월 22일(수) ~ 2026년 05월 22일(금) D-2 SK주식회사(AX) Tech R&D/Software Engineering",
       "_employmentType": "정규"
     },
     {
@@ -173,9 +118,9 @@
     {
       "company": "LG U+",
       "companyId": "lguplus",
-      "title": "보안솔루션 구축/운영 엔지니어 경력채용",
+      "title": "[정보보안센터] 보안솔루션 구축/운영 엔지니어 경력채용",
       "department": "",
-      "location": "",
+      "location": "경력",
       "deadline": "2026-05-26",
       "deadlineTime": "23:00",
       "url": "https://careers.lg.com/channel/detail/lgu/job_openings"
@@ -409,22 +354,22 @@
     {
       "company": "CJ (올리브영/올네/대한통운)",
       "companyId": "cj",
-      "title": "[경력] UX/UI 및 서비스 기획자",
-      "department": "CJ올리브네트웍스 / UX서비스기획",
-      "location": "서울",
-      "deadline": "2026-05-31",
-      "deadlineTime": "23:59",
-      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20251111037070"
-    },
-    {
-      "company": "CJ (올리브영/올네/대한통운)",
-      "companyId": "cj",
       "title": "[경력] CJ제일제당 해외 SAP SD 운영/개발",
       "department": "CJ올리브네트웍스 / 시스템 개발/운영(SAP)",
       "location": "서울",
       "deadline": "2026-05-31",
       "deadlineTime": "23:59",
       "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20260323038037"
+    },
+    {
+      "company": "CJ (올리브영/올네/대한통운)",
+      "companyId": "cj",
+      "title": "[경력] UX/UI 및 서비스 기획자",
+      "department": "CJ올리브네트웍스 / UX서비스기획",
+      "location": "서울",
+      "deadline": "2026-05-31",
+      "deadlineTime": "23:59",
+      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20251111037070"
     },
     {
       "company": "CJ (올리브영/올네/대한통운)",
@@ -489,22 +434,22 @@
     {
       "company": "CJ (올리브영/올네/대한통운)",
       "companyId": "cj",
-      "title": "[경력] PG 정산 개발 및 운영",
-      "department": "CJ올리브네트웍스 / 시스템 개발/운영(PG중계/정산)",
-      "location": "서울",
-      "deadline": "2026-05-31",
-      "deadlineTime": "23:59",
-      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20250205027352"
-    },
-    {
-      "company": "CJ (올리브영/올네/대한통운)",
-      "companyId": "cj",
       "title": "[경력] 대내외 SI 구축 프로젝트 수행 PL(분석/설계)",
       "department": "CJ올리브네트웍스 / PM(Project Manager)",
       "location": "서울",
       "deadline": "2026-05-31",
       "deadlineTime": "23:59",
       "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20250211029038"
+    },
+    {
+      "company": "CJ (올리브영/올네/대한통운)",
+      "companyId": "cj",
+      "title": "[경력] PG 정산 개발 및 운영",
+      "department": "CJ올리브네트웍스 / 시스템 개발/운영(PG중계/정산)",
+      "location": "서울",
+      "deadline": "2026-05-31",
+      "deadlineTime": "23:59",
+      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20250205027352"
     },
     {
       "company": "CJ (올리브영/올네/대한통운)",
@@ -547,6 +492,18 @@
       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=18843"
     },
     {
+      "company": "네이버",
+      "companyId": "naver",
+      "title": "[네이버랩스] 3D Vision Research Engineer 모집 부서 Tech 모집 분야 AI/ML 모집 경력 경력 근로 조건 정규 모집 기간 2026.05.14 ~ 2026.06.01",
+      "department": "",
+      "location": "",
+      "deadline": "2026-06-01",
+      "deadlineTime": "",
+      "url": "https://recruit.navercorp.com/rcrt/list.do?annoId=&sw=&subJobCdData=1010001%2C1010002%2C1010003%2C1010005%2C1010008%2C1010020&sysCompanyCdData=&jobCdData=1010#n",
+      "_raw": "[네이버랩스] 3D Vision Research Engineer 모집 부서 Tech 모집 분야 AI/ML 모집 경력 경력 근로 조건 정규 모집 기간 2026.05.14 ~ 2026.06.01",
+      "_employmentType": ""
+    },
+    {
       "company": "CJ (올리브영/올네/대한통운)",
       "companyId": "cj",
       "title": "[경력] 보안솔루션 운영 및 관리",
@@ -555,6 +512,18 @@
       "deadline": "2026-06-01",
       "deadlineTime": "23:59",
       "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20260406038555"
+    },
+    {
+      "company": "네이버",
+      "companyId": "naver",
+      "title": "[네이버웹툰] ML 플랫폼/추천시스템 개발 (경력) 모집 부서 Tech 모집 분야 AI/ML 모집 경력 경력 근로 조건 정규 모집 기간 2026.05.19 ~ 2026.06.07",
+      "department": "",
+      "location": "",
+      "deadline": "2026-06-07",
+      "deadlineTime": "",
+      "url": "https://recruit.navercorp.com/rcrt/list.do?annoId=&sw=&subJobCdData=1010001%2C1010002%2C1010003%2C1010005%2C1010008%2C1010020&sysCompanyCdData=&jobCdData=1010#n",
+      "_raw": "[네이버웹툰] ML 플랫폼/추천시스템 개발 (경력) 모집 부서 Tech 모집 분야 AI/ML 모집 경력 경력 근로 조건 정규 모집 기간 2026.05.19 ~ 2026.06.07",
+      "_employmentType": ""
     },
     {
       "company": "SK AX",
@@ -617,22 +586,22 @@
     {
       "company": "CJ (올리브영/올네/대한통운)",
       "companyId": "cj",
-      "title": "[계약] 물류 자동화 창고 현장 관리 소장(진천)",
-      "department": "CJ올리브네트웍스 / 물류센터 현장 안전관리자",
-      "location": "진천",
-      "deadline": "2026-06-30",
-      "deadlineTime": "23:12",
-      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20260423038604"
-    },
-    {
-      "company": "CJ (올리브영/올네/대한통운)",
-      "companyId": "cj",
       "title": "[계약] 물류 자동화 창고 현장 관리 소장(이천)",
       "department": "CJ올리브네트웍스 / 물류센터 현장 안전관리자",
       "location": "이천",
       "deadline": "2026-06-30",
       "deadlineTime": "23:59",
       "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20260423038139"
+    },
+    {
+      "company": "CJ (올리브영/올네/대한통운)",
+      "companyId": "cj",
+      "title": "[계약] 물류 자동화 창고 현장 관리 소장(진천)",
+      "department": "CJ올리브네트웍스 / 물류센터 현장 안전관리자",
+      "location": "진천",
+      "deadline": "2026-06-30",
+      "deadlineTime": "23:12",
+      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20260423038604"
     },
     {
       "company": "CJ (올리브영/올네/대한통운)",
@@ -667,22 +636,22 @@
     {
       "company": "CJ (올리브영/올네/대한통운)",
       "companyId": "cj",
-      "title": "[경력] SAP PP 운영/개발",
-      "department": "CJ올리브네트웍스 / 시스템 개발/운영(SAP)",
-      "location": "서울",
-      "deadline": "2026-06-30",
-      "deadlineTime": "23:59",
-      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20231030020572"
-    },
-    {
-      "company": "CJ (올리브영/올네/대한통운)",
-      "companyId": "cj",
       "title": "[경력] 대내외 고객사 SAP FI 운영/개발",
       "department": "CJ올리브네트웍스 / 시스템 개발/운영(SAP)",
       "location": "서울",
       "deadline": "2026-06-30",
       "deadlineTime": "23:59",
       "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20240722026043"
+    },
+    {
+      "company": "CJ (올리브영/올네/대한통운)",
+      "companyId": "cj",
+      "title": "[경력] SAP PP 운영/개발",
+      "department": "CJ올리브네트웍스 / 시스템 개발/운영(SAP)",
+      "location": "서울",
+      "deadline": "2026-06-30",
+      "deadlineTime": "23:59",
+      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20231030020572"
     },
     {
       "company": "티맵모빌리티",
@@ -844,15 +813,6 @@
     {
       "company": "당근",
       "companyId": "daangn",
-      "title": "Software Engineer, Frontend | 알림",
-      "department": "",
-      "location": "SEOUL",
-      "deadline": "",
-      "url": "https://about.daangn.com?gh_jid=7668837003"
-    },
-    {
-      "company": "당근",
-      "companyId": "daangn",
       "title": "Software Engineer, Frontend | 커머스",
       "department": "",
       "location": "SEOUL",
@@ -867,6 +827,15 @@
       "location": "SEOUL",
       "deadline": "",
       "url": "https://about.daangn.com?gh_jid=7689088003"
+    },
+    {
+      "company": "당근",
+      "companyId": "daangn",
+      "title": "Software Engineer, Frontend | Cross Product Growth (Engagement Part)",
+      "department": "",
+      "location": "SEOUL",
+      "deadline": "",
+      "url": "https://about.daangn.com?gh_jid=7668837003"
     },
     {
       "company": "당근",
@@ -1091,7 +1060,7 @@
       "deadline": "",
       "deadlineTime": "",
       "url": "https://toss.im/career/job-detail?job_id=7621552003",
-      "_raw": "Customer Hero (정착지원금 50만원) 신입 ・ 토스증권전담팀 ・ 토스플랫폼전담팀 ・ 토스쇼핑전담팀 ・ 고객센터 ・ CS 씨엑스",
+      "_raw": "Customer Hero (정착지원금 50만원) 신입 ・ 토스플랫폼전담팀 ・ 고객센터 ・ CS 씨엑스",
       "_employmentType": ""
     },
     {
@@ -1409,18 +1378,6 @@
     {
       "company": "토스",
       "companyId": "toss",
-      "title": "Product Owner (AI Data Platform) 프로덕트",
-      "department": "",
-      "location": "",
-      "deadline": "",
-      "deadlineTime": "",
-      "url": "https://toss.im/career/job-detail?job_id=7400593003",
-      "_raw": "Product Owner (AI Data Platform) 프로덕트 ・ 서비스/상품기획 ・ AI ・ 데이터플랫폼 증권",
-      "_employmentType": ""
-    },
-    {
-      "company": "토스",
-      "companyId": "toss",
       "title": "Product Owner (Global Platform - 원장) 프로덕트",
       "department": "",
       "location": "",
@@ -1428,18 +1385,6 @@
       "deadlineTime": "",
       "url": "https://toss.im/career/job-detail?job_id=7687745003",
       "_raw": "Product Owner (Global Platform - 원장) 프로덕트 ・ 서비스/상품기획 ・ Global Platform ・ 해외 원장 증권",
-      "_employmentType": ""
-    },
-    {
-      "company": "토스",
-      "companyId": "toss",
-      "title": "Product Owner (Growth Platform) 프로덕트",
-      "department": "",
-      "location": "",
-      "deadline": "",
-      "deadlineTime": "",
-      "url": "https://toss.im/career/job-detail?job_id=7675334003",
-      "_raw": "Product Owner (Growth Platform) 프로덕트 ・ 서비스/상품기획 ・ Growth ・ 플랫폼 증권",
       "_employmentType": ""
     },
     {
@@ -1511,7 +1456,7 @@
       "deadline": "",
       "deadlineTime": "",
       "url": "https://toss.im/career/job-detail?job_id=4700949003",
-      "_raw": "Site Reliability Engineer MSA ・ Kubernetes ・ Kotlin ・ Java 토스 페이먼츠",
+      "_raw": "Site Reliability Engineer MSA ・ Kubernetes ・ Kotlin ・ Java 토스",
       "_employmentType": ""
     },
     {

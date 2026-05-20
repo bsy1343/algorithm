@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-05-19T15:04:47.258Z",
-  "totalCount": 163,
+  "fetchedAt": "2026-05-20T15:05:12.051Z",
+  "totalCount": 165,
   "companies": [
     "당근",
     "현대오토에버",
@@ -18,12 +18,7 @@
     "티맵모빌리티",
     "한화시스템"
   ],
-  "errors": [
-    {
-      "company": "기아",
-      "error": "page.reload: net::ERR_ABORTED; maybe frame was detached?\nCall log:\n  - waiting for navigation until \"domcontentloaded\"\n"
-    }
-  ],
+  "errors": [],
   "jobs": [
     {
       "company": "CJ (올리브영/올네/대한통운)",
@@ -38,25 +33,25 @@
     {
       "company": "SK AX",
       "companyId": "skax",
-      "title": "SKT 및 ICT Family사 시스템 담당자 영입 D-2 SK주식회사(AX) Infra/Infra 운용/관리/최적화",
+      "title": "SKT 및 ICT Family사 시스템 담당자 영입 D-1 SK주식회사(AX) Infra/Infra 운용/관리/최적화",
       "department": "",
       "location": "",
       "deadline": "2026-05-22",
       "deadlineTime": "",
       "url": "https://www.skcareers.com/Recruit/Detail/R260894",
-      "_raw": "SKT 및 ICT Family사 시스템 담당자 영입 2026년 04월 22일(수) ~ 2026년 05월 22일(금) D-2 SK주식회사(AX) Infra/Infra 운용/관리/최적화",
+      "_raw": "SKT 및 ICT Family사 시스템 담당자 영입 2026년 04월 22일(수) ~ 2026년 05월 22일(금) D-1 SK주식회사(AX) Infra/Infra 운용/관리/최적화",
       "_employmentType": "정규"
     },
     {
       "company": "SK AX",
       "companyId": "skax",
-      "title": "설비(Utility) 정보화 분야 전문가 영입 D-2 SK주식회사(AX) Tech R&D/Software Engineering",
+      "title": "설비(Utility) 정보화 분야 전문가 영입 D-1 SK주식회사(AX) Tech R&D/Software Engineering",
       "department": "",
       "location": "",
       "deadline": "2026-05-22",
       "deadlineTime": "",
       "url": "https://www.skcareers.com/Recruit/Detail/R260939",
-      "_raw": "설비(Utility) 정보화 분야 전문가 영입 2026년 04월 22일(수) ~ 2026년 05월 22일(금) D-2 SK주식회사(AX) Tech R&D/Software Engineering",
+      "_raw": "설비(Utility) 정보화 분야 전문가 영입 2026년 04월 22일(수) ~ 2026년 05월 22일(금) D-1 SK주식회사(AX) Tech R&D/Software Engineering",
       "_employmentType": "정규"
     },
     {
@@ -354,6 +349,16 @@
     {
       "company": "CJ (올리브영/올네/대한통운)",
       "companyId": "cj",
+      "title": "[경력] 모바일상품권 시스템 개발 (백엔드)",
+      "department": "CJ올리브네트웍스 / 시스템개발",
+      "location": "서울",
+      "deadline": "2026-05-31",
+      "deadlineTime": "00:00",
+      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20260223037760"
+    },
+    {
+      "company": "CJ (올리브영/올네/대한통운)",
+      "companyId": "cj",
       "title": "[경력] CJ제일제당 해외 SAP SD 운영/개발",
       "department": "CJ올리브네트웍스 / 시스템 개발/운영(SAP)",
       "location": "서울",
@@ -370,16 +375,6 @@
       "deadline": "2026-05-31",
       "deadlineTime": "23:59",
       "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20251111037070"
-    },
-    {
-      "company": "CJ (올리브영/올네/대한통운)",
-      "companyId": "cj",
-      "title": "[경력] 모바일상품권 시스템 개발 (백엔드)",
-      "department": "CJ올리브네트웍스 / 시스템개발",
-      "location": "서울",
-      "deadline": "2026-05-31",
-      "deadlineTime": "00:00",
-      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20260223037760"
     },
     {
       "company": "CJ (올리브영/올네/대한통운)",
@@ -512,6 +507,16 @@
       "deadline": "2026-06-01",
       "deadlineTime": "23:59",
       "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20260406038555"
+    },
+    {
+      "company": "CJ (올리브영/올네/대한통운)",
+      "companyId": "cj",
+      "title": "[CJ프레시웨이] SCM 시스템 기획 경력사원 모집",
+      "department": "CJ프레시웨이 / IT 전략/기획",
+      "location": "서울",
+      "deadline": "2026-06-03",
+      "deadlineTime": "23:59",
+      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20260519038204"
     },
     {
       "company": "네이버",
@@ -1060,7 +1065,7 @@
       "deadline": "",
       "deadlineTime": "",
       "url": "https://toss.im/career/job-detail?job_id=7621552003",
-      "_raw": "Customer Hero (정착지원금 50만원) 신입 ・ 토스플랫폼전담팀 ・ 고객센터 ・ CS 씨엑스",
+      "_raw": "Customer Hero (정착지원금 50만원) 신입 ・ 토스플랫폼 ・ 앱상담 ・ 고객센터 ・ CS 씨엑스",
       "_employmentType": ""
     },
     {
@@ -1222,6 +1227,18 @@
     {
       "company": "토스",
       "companyId": "toss",
+      "title": "Internal Systems Engineer (MDM) MDM",
+      "department": "",
+      "location": "",
+      "deadline": "",
+      "deadlineTime": "",
+      "url": "https://toss.im/career/job-detail?job_id=6550286003",
+      "_raw": "Internal Systems Engineer (MDM) MDM ・ PC ・ IT ・ Device 토스",
+      "_employmentType": ""
+    },
+    {
+      "company": "토스",
+      "companyId": "toss",
       "title": "ML Backend Engineer Backend",
       "department": "",
       "location": "",
@@ -1360,7 +1377,7 @@
       "deadline": "",
       "deadlineTime": "",
       "url": "https://toss.im/career/job-detail?job_id=6355421003",
-      "_raw": "Platform Product Owner 프로덕트 ・ 서비스기획 ・ 제품고도화 토스 인슈어런스 플레이스",
+      "_raw": "Platform Product Owner 프로덕트 ・ 서비스기획 ・ 제품고도화 토스 외 3개 계열사",
       "_employmentType": ""
     },
     {

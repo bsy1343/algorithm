@@ -142,7 +142,7 @@
         "_help": "arrGubun=B(경력), arrRecJob=IR(IT). 회사별 분류는 compnm로 자동. excludeCompnm: 제외할 계열사(부분일치).",
         "arrGubun": "B",
         "arrRecJob": "IR",
-        "excludeCompnm": ["4DPLEX", "푸드빌", "ENM"]
+        "excludeCompnm": ["4DPLEX", "푸드빌", "ENM", "프레쉬웨이"]
       },
       "bypassFilter": true,
       "enabled": true

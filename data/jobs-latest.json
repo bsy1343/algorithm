@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-05-20T15:05:12.051Z",
-  "totalCount": 165,
+  "fetchedAt": "2026-05-21T15:05:22.630Z",
+  "totalCount": 161,
   "companies": [
     "당근",
     "현대오토에버",
@@ -33,25 +33,25 @@
     {
       "company": "SK AX",
       "companyId": "skax",
-      "title": "SKT 및 ICT Family사 시스템 담당자 영입 D-1 SK주식회사(AX) Infra/Infra 운용/관리/최적화",
+      "title": "SKT 및 ICT Family사 시스템 담당자 영입 D-DAY SK주식회사(AX) Infra/Infra 운용/관리/최적화",
       "department": "",
       "location": "",
       "deadline": "2026-05-22",
       "deadlineTime": "",
       "url": "https://www.skcareers.com/Recruit/Detail/R260894",
-      "_raw": "SKT 및 ICT Family사 시스템 담당자 영입 2026년 04월 22일(수) ~ 2026년 05월 22일(금) D-1 SK주식회사(AX) Infra/Infra 운용/관리/최적화",
+      "_raw": "SKT 및 ICT Family사 시스템 담당자 영입 2026년 04월 22일(수) ~ 2026년 05월 22일(금) D-DAY SK주식회사(AX) Infra/Infra 운용/관리/최적화",
       "_employmentType": "정규"
     },
     {
       "company": "SK AX",
       "companyId": "skax",
-      "title": "설비(Utility) 정보화 분야 전문가 영입 D-1 SK주식회사(AX) Tech R&D/Software Engineering",
+      "title": "설비(Utility) 정보화 분야 전문가 영입 D-DAY SK주식회사(AX) Tech R&D/Software Engineering",
       "department": "",
       "location": "",
       "deadline": "2026-05-22",
       "deadlineTime": "",
       "url": "https://www.skcareers.com/Recruit/Detail/R260939",
-      "_raw": "설비(Utility) 정보화 분야 전문가 영입 2026년 04월 22일(수) ~ 2026년 05월 22일(금) D-1 SK주식회사(AX) Tech R&D/Software Engineering",
+      "_raw": "설비(Utility) 정보화 분야 전문가 영입 2026년 04월 22일(수) ~ 2026년 05월 22일(금) D-DAY SK주식회사(AX) Tech R&D/Software Engineering",
       "_employmentType": "정규"
     },
     {
@@ -369,16 +369,6 @@
     {
       "company": "CJ (올리브영/올네/대한통운)",
       "companyId": "cj",
-      "title": "[경력] UX/UI 및 서비스 기획자",
-      "department": "CJ올리브네트웍스 / UX서비스기획",
-      "location": "서울",
-      "deadline": "2026-05-31",
-      "deadlineTime": "23:59",
-      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20251111037070"
-    },
-    {
-      "company": "CJ (올리브영/올네/대한통운)",
-      "companyId": "cj",
       "title": "[경력] CGV 영업시스템 운영/개발",
       "department": "CJ올리브네트웍스 / 시스템개발/운영",
       "location": "서울",
@@ -419,16 +409,6 @@
     {
       "company": "CJ (올리브영/올네/대한통운)",
       "companyId": "cj",
-      "title": "[경력] UX/UI 디자이너",
-      "department": "CJ올리브네트웍스 / 모바일 UI/UX디자이너",
-      "location": "서울",
-      "deadline": "2026-05-31",
-      "deadlineTime": "23:59",
-      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20251112037075"
-    },
-    {
-      "company": "CJ (올리브영/올네/대한통운)",
-      "companyId": "cj",
       "title": "[경력] 대내외 SI 구축 프로젝트 수행 PL(분석/설계)",
       "department": "CJ올리브네트웍스 / PM(Project Manager)",
       "location": "서울",
@@ -445,6 +425,16 @@
       "deadline": "2026-05-31",
       "deadlineTime": "23:59",
       "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20250205027352"
+    },
+    {
+      "company": "CJ (올리브영/올네/대한통운)",
+      "companyId": "cj",
+      "title": "[경력] UX/UI 디자이너",
+      "department": "CJ올리브네트웍스 / 모바일 UI/UX디자이너",
+      "location": "서울",
+      "deadline": "2026-05-31",
+      "deadlineTime": "23:59",
+      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20251112037075"
     },
     {
       "company": "CJ (올리브영/올네/대한통운)",
@@ -1582,42 +1572,6 @@
       "deadlineTime": "",
       "url": "https://careers.kakao.com/jobs/P-14318?skillSet=&part=TECHNOLOGY&company=KAKAO&keyword=&employeeType=&page=1",
       "_raw": "Machine Learning Engineer (Search) (경력) 영입마감일 영입종료시 근무지 직군 태그 #Algorithm/ML 회사정보 카카오 직원유형 정규직",
-      "_employmentType": ""
-    },
-    {
-      "company": "카카오",
-      "companyId": "kakao",
-      "title": "Machine Learning Engineer (Search) (신입) 영입마감일 영입종료시 근무지 직군 태그 #Algorithm/ML 회사정보 카카오 직원유형 정규직",
-      "department": "",
-      "location": "",
-      "deadline": "",
-      "deadlineTime": "",
-      "url": "https://careers.kakao.com/jobs/P-14319?skillSet=&part=TECHNOLOGY&company=KAKAO&keyword=&employeeType=&page=1",
-      "_raw": "Machine Learning Engineer (Search) (신입) 영입마감일 영입종료시 근무지 직군 태그 #Algorithm/ML 회사정보 카카오 직원유형 정규직",
-      "_employmentType": ""
-    },
-    {
-      "company": "카카오",
-      "companyId": "kakao",
-      "title": "카카오톡 SRE(Site Reliability Engineer) 엔지니어 (경력) 영입마감일 영입종료시 근무지 직군 태그 #Server 회사정보 카카오 직원유형 정규직",
-      "department": "",
-      "location": "",
-      "deadline": "",
-      "deadlineTime": "",
-      "url": "https://careers.kakao.com/jobs/P-14249?skillSet=&part=TECHNOLOGY&company=KAKAO&keyword=&employeeType=&page=1",
-      "_raw": "카카오톡 SRE(Site Reliability Engineer) 엔지니어 (경력) 영입마감일 영입종료시 근무지 직군 태그 #Server 회사정보 카카오 직원유형 정규직",
-      "_employmentType": ""
-    },
-    {
-      "company": "카카오",
-      "companyId": "kakao",
-      "title": "시스템 엔지니어 (경력) 영입마감일 영입종료시 근무지 직군 태그 #System 회사정보 카카오 직원유형 정규직",
-      "department": "",
-      "location": "",
-      "deadline": "",
-      "deadlineTime": "",
-      "url": "https://careers.kakao.com/jobs/P-13952?skillSet=&part=TECHNOLOGY&company=KAKAO&keyword=&employeeType=&page=1",
-      "_raw": "시스템 엔지니어 (경력) 영입마감일 영입종료시 근무지 직군 태그 #System 회사정보 카카오 직원유형 정규직",
       "_employmentType": ""
     },
     {

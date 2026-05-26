@@ -2,52 +2,38 @@ import java.util.*;
 import java.io.*;
 
 class Solution {
-    static class Node {
-        String name;
-        int cnt;
-        Node (String name, int cnt) {
-            this.name = name;
-            this.cnt = cnt;
-        }
-    }
+    static int[] visited;
     static int answer;
-    static int visited[];
     
     public int solution(String begin, String target, String[] words) {
-        visited = new int[words.length];
+        this.visited = new int[words.length];
+        this.answer = Integer.MAX_VALUE;
         
-        bfs(begin, target, words);
-        
-        return answer;
+        dfs(begin, target, words, 0);
+        return answer == Integer.MAX_VALUE ? 0 : answer;
     }
     
-    static void bfs(String begin, String target, String[] words) {
-        Queue<Node> q = new LinkedList();
-        q.add(new Node(begin, 0));
+    static void dfs(String current, String target, String[] words, int depth) {
         
-        while(!q.isEmpty()) {
-            Node now = q.poll();
-            
-            if (now.name.equals(target)) {
-                answer = now.cnt;
-                return;
-            }
-            
-            for (int i = 0; i < words.length; i++) {
-                if (visited[i] != 0) continue;
-                if (!diff(now.name, words[i])) continue;
-                visited[i] = 1;
-                q.add(new Node(words[i], now.cnt + 1));
-            }
+        if (target.equals(current)) {
+            answer = Math.min(answer, depth);   
+        }
+        
+        for (int i = 0; i < words.length; i++) {
+            if (visited[i] == 1) continue;
+            if (!checked(words[i], current)) continue;
+            visited[i] = 1;
+            dfs(words[i], target, words, depth + 1);
+            visited[i] = 0;
         }
     }
     
-    static boolean diff(String x, String y) {
+    static boolean checked(String a, String b) {
         int cnt = 0;
-        for (int i = 0; i < x.length(); i++) {
-            if (x.charAt(i) != y.charAt(i)) cnt++;
+        for (int i = 0; i < a.length(); i++) {
+            if (a.charAt(i) == b.charAt(i)) cnt++;
         }
         
-        return cnt == 1;
+        return cnt == a.length()-1;
     }
 }

@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-05-27T15:05:30.105Z",
-  "totalCount": 167,
+  "fetchedAt": "2026-05-28T15:05:39.073Z",
+  "totalCount": 166,
   "companies": [
     "당근",
     "현대오토에버",
@@ -29,30 +29,6 @@
       "deadline": "2026-04-19",
       "deadlineTime": "23:59",
       "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20260326038057"
-    },
-    {
-      "company": "네이버",
-      "companyId": "naver",
-      "title": "[네이버랩스] Robot Cloud Backend Engineer 모집 부서 Tech 모집 분야 Backend 모집 경력 경력 근로 조건 정규 모집 기간 2026.05.14 ~ 2026.05.28",
-      "department": "",
-      "location": "",
-      "deadline": "2026-05-28",
-      "deadlineTime": "",
-      "url": "https://recruit.navercorp.com/rcrt/list.do?annoId=&sw=&subJobCdData=1010001%2C1010002%2C1010003%2C1010005%2C1010008%2C1010020&sysCompanyCdData=&jobCdData=1010#n",
-      "_raw": "[네이버랩스] Robot Cloud Backend Engineer 모집 부서 Tech 모집 분야 Backend 모집 경력 경력 근로 조건 정규 모집 기간 2026.05.14 ~ 2026.05.28",
-      "_employmentType": ""
-    },
-    {
-      "company": "네이버",
-      "companyId": "naver",
-      "title": "[네이버랩스] Frontend Developer 모집 부서 Tech 모집 분야 Frontend 모집 경력 경력 근로 조건 정규 모집 기간 2026.05.14 ~ 2026.05.28",
-      "department": "",
-      "location": "",
-      "deadline": "2026-05-28",
-      "deadlineTime": "",
-      "url": "https://recruit.navercorp.com/rcrt/list.do?annoId=&sw=&subJobCdData=1010001%2C1010002%2C1010003%2C1010005%2C1010008%2C1010020&sysCompanyCdData=&jobCdData=1010#n",
-      "_raw": "[네이버랩스] Frontend Developer 모집 부서 Tech 모집 분야 Frontend 모집 경력 경력 근로 조건 정규 모집 기간 2026.05.14 ~ 2026.05.28",
-      "_employmentType": ""
     },
     {
       "company": "현대오토에버",
@@ -1124,7 +1100,7 @@
       "deadline": "",
       "deadlineTime": "",
       "url": "https://toss.im/career/job-detail?job_id=7621552003",
-      "_raw": "Customer Hero (정착지원금 50만원) 신입 ・ 토스플랫폼 ・ 앱상담 ・ 고객센터 ・ CS 씨엑스",
+      "_raw": "Customer Hero (정착지원금 50만원) 신입 ・ 토스플랫폼 ・ 증권상담 ・ 앱상담 ・ 고객센터 ・ CS 씨엑스",
       "_employmentType": ""
     },
     {
@@ -1780,6 +1756,16 @@
       "deadline": "",
       "deadlineTime": "",
       "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20250619029686"
+    },
+    {
+      "company": "CJ (올리브영/올네/대한통운)",
+      "companyId": "cj",
+      "title": "[CJ대한통운] 더운반 프론트엔드 개발 경력사원 모집",
+      "department": "CJ대한통운 / 프론트엔드 개발",
+      "location": "서울",
+      "deadline": "",
+      "deadlineTime": "",
+      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20250623030579"
     },
     {
       "company": "CJ (올리브영/올네/대한통운)",

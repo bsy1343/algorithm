@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-06-01T15:05:21.424Z",
-  "totalCount": 154,
+  "fetchedAt": "2026-06-02T15:06:10.944Z",
+  "totalCount": 159,
   "companies": [
     "당근",
     "현대오토에버",
@@ -18,23 +18,8 @@
     "티맵모빌리티",
     "한화시스템"
   ],
-  "errors": [
-    {
-      "company": "기아",
-      "error": "page.reload: net::ERR_ABORTED; maybe frame was detached?\nCall log:\n  - waiting for navigation until \"domcontentloaded\"\n"
-    }
-  ],
+  "errors": [],
   "jobs": [
-    {
-      "company": "CJ (올리브영/올네/대한통운)",
-      "companyId": "cj",
-      "title": "[경력] 보안솔루션 운영 및 관리",
-      "department": "CJ올리브네트웍스 / IT컨설팅",
-      "location": "서울",
-      "deadline": "2026-06-01",
-      "deadlineTime": "23:59",
-      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20260406038555"
-    },
     {
       "company": "CJ (올리브영/올네/대한통운)",
       "companyId": "cj",
@@ -100,9 +85,9 @@
     {
       "company": "LG U+",
       "companyId": "lguplus",
-      "title": "파주 IDC 전기 엔지니어 경력채용",
+      "title": "[Enterprise부문] 파주 IDC 전기 엔지니어 경력채용",
       "department": "개인정보처리방침",
-      "location": "",
+      "location": "경력",
       "deadline": "2026-06-07",
       "deadlineTime": "23:00",
       "url": "https://careers.lg.com/channel/detail/lgu/job_openings"
@@ -152,14 +137,14 @@
       "_employmentType": ""
     },
     {
-      "company": "CJ (올리브영/올네/대한통운)",
-      "companyId": "cj",
-      "title": "[경력] SASE 보안 컨설팅 및 운영 관리",
-      "department": "CJ올리브네트웍스 / IT컨설팅",
-      "location": "서울",
-      "deadline": "2026-06-15",
+      "company": "한화시스템",
+      "companyId": "hanwha",
+      "title": "해양 사이버보안 R&D 엔지니어",
+      "department": "한화시스템/방산",
+      "location": "",
+      "deadline": "2026-06-14",
       "deadlineTime": "23:59",
-      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20260306037808"
+      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=18965"
     },
     {
       "company": "CJ (올리브영/올네/대한통운)",
@@ -170,6 +155,16 @@
       "deadline": "2026-06-15",
       "deadlineTime": "23:59",
       "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20260306037807"
+    },
+    {
+      "company": "CJ (올리브영/올네/대한통운)",
+      "companyId": "cj",
+      "title": "[경력] SASE 보안 컨설팅 및 운영 관리",
+      "department": "CJ올리브네트웍스 / IT컨설팅",
+      "location": "서울",
+      "deadline": "2026-06-15",
+      "deadlineTime": "23:59",
+      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20260306037808"
     },
     {
       "company": "SK AX",
@@ -218,6 +213,36 @@
       "url": "https://www.skcareers.com/Recruit/Detail/R261089",
       "_raw": "AI 애플리케이션/엔터프라이즈 아키텍트 분야 전문가 영입 2026년 05월 13일(수) ~ 2026년 06월 15일(월) SK주식회사(AX) IT/구축/운영/최적화",
       "_employmentType": "정규"
+    },
+    {
+      "company": "LG CNS",
+      "companyId": "lgcns",
+      "title": "[신입] 2026년 상반기 신입사원 수시채용(AX/DX Engineer)",
+      "department": "IT서비스",
+      "location": "LG CNS",
+      "deadline": "2026-06-16",
+      "deadlineTime": "18:00",
+      "url": "https://careers.lg.com/apply?c=CNS"
+    },
+    {
+      "company": "CJ (올리브영/올네/대한통운)",
+      "companyId": "cj",
+      "title": "[경력] Dubbing Project Manager",
+      "department": "CJ올리브네트웍스 / PM(Project Manager)",
+      "location": "분당",
+      "deadline": "2026-06-22",
+      "deadlineTime": "18:00",
+      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20260602039072"
+    },
+    {
+      "company": "CJ (올리브영/올네/대한통운)",
+      "companyId": "cj",
+      "title": "[경력] Lead Subtitle Project Manager",
+      "department": "CJ올리브네트웍스 / PM(Project Manager)",
+      "location": "분당",
+      "deadline": "2026-06-22",
+      "deadlineTime": "18:00",
+      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20260602038227"
     },
     {
       "company": "CJ (올리브영/올네/대한통운)",
@@ -485,6 +510,30 @@
       "deadlineTime": "",
       "url": "https://www.skcareers.com/Recruit/Detail/R260107",
       "_raw": "DevOps Engineer 2026년 01월 13일(화) ~ 2026년 06월 30일(화) 티맵모빌리티 Infra/Infra 개발/관리",
+      "_employmentType": "정규"
+    },
+    {
+      "company": "티맵모빌리티",
+      "companyId": "tmap",
+      "title": "Site Reliability Engineer (SRE) 티맵모빌리티 Infra/Cloud/Infra,Infra 개발/관리",
+      "department": "",
+      "location": "",
+      "deadline": "2026-06-30",
+      "deadlineTime": "",
+      "url": "https://www.skcareers.com/Recruit/Detail/R261272",
+      "_raw": "Site Reliability Engineer (SRE) 2026년 06월 02일(화) ~ 2026년 06월 30일(화) 티맵모빌리티 Infra/Cloud/Infra,Infra 개발/관리",
+      "_employmentType": "정규"
+    },
+    {
+      "company": "SK AX",
+      "companyId": "skax",
+      "title": "Digital Twin Platform 개발 전문가 영입 SK주식회사(AX) Tech R&D/Software Engineering",
+      "department": "",
+      "location": "",
+      "deadline": "2026-07-06",
+      "deadlineTime": "",
+      "url": "https://www.skcareers.com/Recruit/Detail/R261175",
+      "_raw": "Digital Twin Platform 개발 전문가 영입 2026년 06월 02일(화) ~ 2026년 07월 06일(월) SK주식회사(AX) Tech R&D/Software Engineering",
       "_employmentType": "정규"
     },
     {
@@ -978,7 +1027,7 @@
       "deadline": "",
       "deadlineTime": "",
       "url": "https://toss.im/career/job-detail?job_id=5960616003",
-      "_raw": "Data Analytics Engineer Data ・ SQL ・ DW DM 토스 외 3개 계열사",
+      "_raw": "Data Analytics Engineer Data ・ SQL ・ DW DM 토스 외 4개 계열사",
       "_employmentType": ""
     },
     {
@@ -1636,22 +1685,22 @@
     {
       "company": "CJ (올리브영/올네/대한통운)",
       "companyId": "cj",
-      "title": "[CJ대한통운] 더운반 프론트엔드 개발 경력사원 모집",
-      "department": "CJ대한통운 / 프론트엔드 개발",
-      "location": "서울",
-      "deadline": "",
-      "deadlineTime": "",
-      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20250623030579"
-    },
-    {
-      "company": "CJ (올리브영/올네/대한통운)",
-      "companyId": "cj",
       "title": "[CJ대한통운] 더운반디지털플랫폼 'Data Scientist' 경력사원 모집",
       "department": "CJ대한통운 / Data Science",
       "location": "서울",
       "deadline": "",
       "deadlineTime": "",
       "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20250619029686"
+    },
+    {
+      "company": "CJ (올리브영/올네/대한통운)",
+      "companyId": "cj",
+      "title": "[CJ대한통운] 더운반 프론트엔드 개발 경력사원 모집",
+      "department": "CJ대한통운 / 프론트엔드 개발",
+      "location": "서울",
+      "deadline": "",
+      "deadlineTime": "",
+      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20250623030579"
     },
     {
       "company": "CJ (올리브영/올네/대한통운)",

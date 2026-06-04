@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-06-03T15:06:15.991Z",
-  "totalCount": 159,
+  "fetchedAt": "2026-06-04T15:06:21.751Z",
+  "totalCount": 158,
   "companies": [
     "당근",
     "현대오토에버",
@@ -20,16 +20,6 @@
   ],
   "errors": [],
   "jobs": [
-    {
-      "company": "CJ (올리브영/올네/대한통운)",
-      "companyId": "cj",
-      "title": "[CJ프레시웨이] SCM 시스템 기획 경력사원 모집",
-      "department": "CJ프레시웨이 / IT 전략/기획",
-      "location": "서울",
-      "deadline": "2026-06-03",
-      "deadlineTime": "23:59",
-      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20260519038204"
-    },
     {
       "company": "한화시스템",
       "companyId": "hanwha",
@@ -86,7 +76,7 @@
       "company": "LG U+",
       "companyId": "lguplus",
       "title": "[Enterprise부문] 파주 IDC 전기 엔지니어 경력채용",
-      "department": "개인정보처리방침",
+      "department": "",
       "location": "경력",
       "deadline": "2026-06-07",
       "deadlineTime": "23:00",
@@ -393,16 +383,6 @@
     {
       "company": "CJ (올리브영/올네/대한통운)",
       "companyId": "cj",
-      "title": "[계약] 물류 자동화 창고 현장 관리 소장(진천)",
-      "department": "CJ올리브네트웍스 / 물류센터 현장 안전관리자",
-      "location": "진천",
-      "deadline": "2026-06-30",
-      "deadlineTime": "23:12",
-      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20260423038604"
-    },
-    {
-      "company": "CJ (올리브영/올네/대한통운)",
-      "companyId": "cj",
       "title": "[경력] 제일제당 해외 SAP PP 운영/개발",
       "department": "CJ올리브네트웍스 / 시스템 개발/운영(SAP)",
       "location": "서울",
@@ -483,22 +463,22 @@
     {
       "company": "CJ (올리브영/올네/대한통운)",
       "companyId": "cj",
-      "title": "[경력] 대내외 고객사 SAP FI 운영/개발",
-      "department": "CJ올리브네트웍스 / 시스템 개발/운영(SAP)",
-      "location": "서울",
-      "deadline": "2026-06-30",
-      "deadlineTime": "23:59",
-      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20240722026043"
-    },
-    {
-      "company": "CJ (올리브영/올네/대한통운)",
-      "companyId": "cj",
       "title": "[경력] SAP PP 운영/개발",
       "department": "CJ올리브네트웍스 / 시스템 개발/운영(SAP)",
       "location": "서울",
       "deadline": "2026-06-30",
       "deadlineTime": "23:59",
       "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20231030020572"
+    },
+    {
+      "company": "CJ (올리브영/올네/대한통운)",
+      "companyId": "cj",
+      "title": "[경력] 대내외 고객사 SAP FI 운영/개발",
+      "department": "CJ올리브네트웍스 / 시스템 개발/운영(SAP)",
+      "location": "서울",
+      "deadline": "2026-06-30",
+      "deadlineTime": "23:59",
+      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20240722026043"
     },
     {
       "company": "티맵모빌리티",
@@ -539,6 +519,16 @@
     {
       "company": "CJ (올리브영/올네/대한통운)",
       "companyId": "cj",
+      "title": "[경력] 고객사 SAP FI 모듈 운영",
+      "department": "CJ올리브네트웍스 / 시스템 개발/운영(SAP)",
+      "location": "서울",
+      "deadline": "2026-07-31",
+      "deadlineTime": "23:59",
+      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20260604039073"
+    },
+    {
+      "company": "CJ (올리브영/올네/대한통운)",
+      "companyId": "cj",
       "title": "[경력] CDN 품질 PM",
       "department": "CJ올리브네트웍스 / PM(Project Manager)",
       "location": "서울",
@@ -555,16 +545,6 @@
       "deadline": "2026-07-31",
       "deadlineTime": "23:59",
       "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20251114036589"
-    },
-    {
-      "company": "CJ (올리브영/올네/대한통운)",
-      "companyId": "cj",
-      "title": "[경력] 금융 SI 사업 PM/PL",
-      "department": "CJ올리브네트웍스 / PM(Project Manager)",
-      "location": "서울",
-      "deadline": "2026-07-31",
-      "deadlineTime": "23:59",
-      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20250331029157"
     },
     {
       "company": "CJ (올리브영/올네/대한통운)",
@@ -656,6 +636,15 @@
       "location": "SEOUL",
       "deadline": "",
       "url": "https://about.daangn.com?gh_jid=7659289003"
+    },
+    {
+      "company": "당근",
+      "companyId": "daangn",
+      "title": "Software Engineer, Backend | 커뮤니티",
+      "department": "",
+      "location": "SEOUL",
+      "deadline": "",
+      "url": "https://about.daangn.com?gh_jid=7762062003"
     },
     {
       "company": "당근",
@@ -1153,6 +1142,18 @@
     {
       "company": "토스",
       "companyId": "toss",
+      "title": "Infra Purchasing Manager 구매",
+      "department": "",
+      "location": "",
+      "deadline": "",
+      "deadlineTime": "",
+      "url": "https://toss.im/career/job-detail?job_id=7763257003",
+      "_raw": "Infra Purchasing Manager 구매 ・ Purchasing 토스",
+      "_employmentType": ""
+    },
+    {
+      "company": "토스",
+      "companyId": "toss",
       "title": "Infrastructure Automation Engineer 인프라",
       "department": "",
       "location": "",
@@ -1340,18 +1341,6 @@
       "deadlineTime": "",
       "url": "https://toss.im/career/job-detail?job_id=7731782003",
       "_raw": "Product Operations Manager (Internal Platform) 프로덕트 ・ 서비스/상품기획&운영 ・ 내부플랫폼 ・ 어드민 증권",
-      "_employmentType": ""
-    },
-    {
-      "company": "토스",
-      "companyId": "toss",
-      "title": "Product Owner (Global Platform - 원장) 프로덕트",
-      "department": "",
-      "location": "",
-      "deadline": "",
-      "deadlineTime": "",
-      "url": "https://toss.im/career/job-detail?job_id=7687745003",
-      "_raw": "Product Owner (Global Platform - 원장) 프로덕트 ・ 서비스/상품기획 ・ Global Platform ・ 해외 원장 증권",
       "_employmentType": ""
     },
     {

@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-06-05T15:05:05.074Z",
-  "totalCount": 158,
+  "fetchedAt": "2026-06-06T15:05:41.409Z",
+  "totalCount": 155,
   "companies": [
     "당근",
     "현대오토에버",
@@ -18,7 +18,12 @@
     "티맵모빌리티",
     "한화시스템"
   ],
-  "errors": [],
+  "errors": [
+    {
+      "company": "한화시스템",
+      "error": "fetch failed"
+    }
+  ],
   "jobs": [
     {
       "company": "네이버",
@@ -31,26 +36,6 @@
       "url": "https://recruit.navercorp.com/rcrt/list.do?annoId=&sw=&subJobCdData=1010001%2C1010002%2C1010003%2C1010005%2C1010008%2C1010020&sysCompanyCdData=&jobCdData=1010#n",
       "_raw": "[네이버웹툰] ML 플랫폼/추천시스템 개발 (경력) 모집 부서 Tech 모집 분야 AI/ML 모집 경력 경력 근로 조건 정규 모집 기간 2026.05.19 ~ 2026.06.07",
       "_employmentType": ""
-    },
-    {
-      "company": "LG U+",
-      "companyId": "lguplus",
-      "title": "파주 IDC 전기 엔지니어 경력채용",
-      "department": "",
-      "location": "",
-      "deadline": "2026-06-07",
-      "deadlineTime": "23:00",
-      "url": "https://careers.lg.com/channel/detail/lgu/job_openings"
-    },
-    {
-      "company": "한화시스템",
-      "companyId": "hanwha",
-      "title": "보안 담당자 경력사원 채용",
-      "department": "한화시스템/ICT",
-      "location": "",
-      "deadline": "2026-06-07",
-      "deadlineTime": "15:00",
-      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=18949"
     },
     {
       "company": "네이버",
@@ -95,16 +80,6 @@
       "deadline": "2026-06-14",
       "deadlineTime": "23:00",
       "url": "https://careers.lg.com/channel/detail/lgu/job_openings"
-    },
-    {
-      "company": "한화시스템",
-      "companyId": "hanwha",
-      "title": "한화시스템 해양 사이버보안 R&D 엔지니어",
-      "department": "한화시스템/방산",
-      "location": "",
-      "deadline": "2026-06-14",
-      "deadlineTime": "23:59",
-      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=18965"
     },
     {
       "company": "CJ (올리브영/올네/대한통운)",

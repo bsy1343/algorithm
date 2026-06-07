@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-06-06T15:05:41.409Z",
-  "totalCount": 155,
+  "fetchedAt": "2026-06-07T15:05:16.928Z",
+  "totalCount": 154,
   "companies": [
     "당근",
     "현대오토에버",
@@ -18,25 +18,8 @@
     "티맵모빌리티",
     "한화시스템"
   ],
-  "errors": [
-    {
-      "company": "한화시스템",
-      "error": "fetch failed"
-    }
-  ],
+  "errors": [],
   "jobs": [
-    {
-      "company": "네이버",
-      "companyId": "naver",
-      "title": "[네이버웹툰] ML 플랫폼/추천시스템 개발 (경력) 모집 부서 Tech 모집 분야 AI/ML 모집 경력 경력 근로 조건 정규 모집 기간 2026.05.19 ~ 2026.06.07",
-      "department": "",
-      "location": "",
-      "deadline": "2026-06-07",
-      "deadlineTime": "",
-      "url": "https://recruit.navercorp.com/rcrt/list.do?annoId=&sw=&subJobCdData=1010001%2C1010002%2C1010003%2C1010005%2C1010008%2C1010020&sysCompanyCdData=&jobCdData=1010#n",
-      "_raw": "[네이버웹툰] ML 플랫폼/추천시스템 개발 (경력) 모집 부서 Tech 모집 분야 AI/ML 모집 경력 경력 근로 조건 정규 모집 기간 2026.05.19 ~ 2026.06.07",
-      "_employmentType": ""
-    },
     {
       "company": "네이버",
       "companyId": "naver",
@@ -82,6 +65,16 @@
       "url": "https://careers.lg.com/channel/detail/lgu/job_openings"
     },
     {
+      "company": "한화시스템",
+      "companyId": "hanwha",
+      "title": "한화시스템 해양 사이버보안 R&D 엔지니어",
+      "department": "한화시스템/방산",
+      "location": "",
+      "deadline": "2026-06-14",
+      "deadlineTime": "23:59",
+      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=18965"
+    },
+    {
       "company": "CJ (올리브영/올네/대한통운)",
       "companyId": "cj",
       "title": "[경력] 정보보호 컨설턴트",
@@ -104,49 +97,49 @@
     {
       "company": "SK AX",
       "companyId": "skax",
-      "title": "보안 아키텍트 영입 SK주식회사(AX) 정보보안/정보보안 컨설팅",
+      "title": "보안 아키텍트 영입 D-7 SK주식회사(AX) 정보보안/정보보안 컨설팅",
       "department": "",
       "location": "",
       "deadline": "2026-06-15",
       "deadlineTime": "",
       "url": "https://www.skcareers.com/Recruit/Detail/R261075",
-      "_raw": "보안 아키텍트 영입 2026년 05월 13일(수) ~ 2026년 06월 15일(월) SK주식회사(AX) 정보보안/정보보안 컨설팅",
+      "_raw": "보안 아키텍트 영입 2026년 05월 13일(수) ~ 2026년 06월 15일(월) D-7 SK주식회사(AX) 정보보안/정보보안 컨설팅",
       "_employmentType": "정규"
     },
     {
       "company": "SK AX",
       "companyId": "skax",
-      "title": "제조 솔루션(미들웨어) 분야 전문가 영입 SK주식회사(AX) IT/Platform/Solution",
+      "title": "제조 솔루션(미들웨어) 분야 전문가 영입 D-7 SK주식회사(AX) IT/Platform/Solution",
       "department": "",
       "location": "",
       "deadline": "2026-06-15",
       "deadlineTime": "",
       "url": "https://www.skcareers.com/Recruit/Detail/R261087",
-      "_raw": "제조 솔루션(미들웨어) 분야 전문가 영입 2026년 05월 13일(수) ~ 2026년 06월 15일(월) SK주식회사(AX) IT/Platform/Solution",
+      "_raw": "제조 솔루션(미들웨어) 분야 전문가 영입 2026년 05월 13일(수) ~ 2026년 06월 15일(월) D-7 SK주식회사(AX) IT/Platform/Solution",
       "_employmentType": "정규"
     },
     {
       "company": "SK AX",
       "companyId": "skax",
-      "title": "제조 솔루션(MES) 분야 전문가 영입 SK주식회사(AX) IT/Platform/Solution",
+      "title": "제조 솔루션(MES) 분야 전문가 영입 D-7 SK주식회사(AX) IT/Platform/Solution",
       "department": "",
       "location": "",
       "deadline": "2026-06-15",
       "deadlineTime": "",
       "url": "https://www.skcareers.com/Recruit/Detail/R261088",
-      "_raw": "제조 솔루션(MES) 분야 전문가 영입 2026년 05월 13일(수) ~ 2026년 06월 15일(월) SK주식회사(AX) IT/Platform/Solution",
+      "_raw": "제조 솔루션(MES) 분야 전문가 영입 2026년 05월 13일(수) ~ 2026년 06월 15일(월) D-7 SK주식회사(AX) IT/Platform/Solution",
       "_employmentType": "정규"
     },
     {
       "company": "SK AX",
       "companyId": "skax",
-      "title": "AI 애플리케이션/엔터프라이즈 아키텍트 분야 전문가 영입 SK주식회사(AX) IT/구축/운영/최적화",
+      "title": "AI 애플리케이션/엔터프라이즈 아키텍트 분야 전문가 영입 D-7 SK주식회사(AX) IT/구축/운영/최적화",
       "department": "",
       "location": "",
       "deadline": "2026-06-15",
       "deadlineTime": "",
       "url": "https://www.skcareers.com/Recruit/Detail/R261089",
-      "_raw": "AI 애플리케이션/엔터프라이즈 아키텍트 분야 전문가 영입 2026년 05월 13일(수) ~ 2026년 06월 15일(월) SK주식회사(AX) IT/구축/운영/최적화",
+      "_raw": "AI 애플리케이션/엔터프라이즈 아키텍트 분야 전문가 영입 2026년 05월 13일(수) ~ 2026년 06월 15일(월) D-7 SK주식회사(AX) IT/구축/운영/최적화",
       "_employmentType": "정규"
     },
     {
@@ -184,22 +177,22 @@
     {
       "company": "CJ (올리브영/올네/대한통운)",
       "companyId": "cj",
-      "title": "[경력] Lead Subtitle Project Manager",
-      "department": "CJ올리브네트웍스 / PM(Project Manager)",
-      "location": "분당",
-      "deadline": "2026-06-22",
-      "deadlineTime": "18:00",
-      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20260602038227"
-    },
-    {
-      "company": "CJ (올리브영/올네/대한통운)",
-      "companyId": "cj",
       "title": "[경력] Dubbing Project Manager",
       "department": "CJ올리브네트웍스 / PM(Project Manager)",
       "location": "분당",
       "deadline": "2026-06-22",
       "deadlineTime": "18:00",
       "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20260602039072"
+    },
+    {
+      "company": "CJ (올리브영/올네/대한통운)",
+      "companyId": "cj",
+      "title": "[경력] Lead Subtitle Project Manager",
+      "department": "CJ올리브네트웍스 / PM(Project Manager)",
+      "location": "분당",
+      "deadline": "2026-06-22",
+      "deadlineTime": "18:00",
+      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20260602038227"
     },
     {
       "company": "CJ (올리브영/올네/대한통운)",
@@ -430,22 +423,22 @@
     {
       "company": "CJ (올리브영/올네/대한통운)",
       "companyId": "cj",
-      "title": "[경력] SAP PP 운영/개발",
-      "department": "CJ올리브네트웍스 / 시스템 개발/운영(SAP)",
-      "location": "서울",
-      "deadline": "2026-06-30",
-      "deadlineTime": "23:59",
-      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20231030020572"
-    },
-    {
-      "company": "CJ (올리브영/올네/대한통운)",
-      "companyId": "cj",
       "title": "[경력] 대내외 고객사 SAP FI 운영/개발",
       "department": "CJ올리브네트웍스 / 시스템 개발/운영(SAP)",
       "location": "서울",
       "deadline": "2026-06-30",
       "deadlineTime": "23:59",
       "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20240722026043"
+    },
+    {
+      "company": "CJ (올리브영/올네/대한통운)",
+      "companyId": "cj",
+      "title": "[경력] SAP PP 운영/개발",
+      "department": "CJ올리브네트웍스 / 시스템 개발/운영(SAP)",
+      "location": "서울",
+      "deadline": "2026-06-30",
+      "deadlineTime": "23:59",
+      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20231030020572"
     },
     {
       "company": "티맵모빌리티",
@@ -675,15 +668,6 @@
       "location": "SEOUL",
       "deadline": "",
       "url": "https://about.daangn.com?gh_jid=7689088003"
-    },
-    {
-      "company": "당근",
-      "companyId": "daangn",
-      "title": "Software Engineer, Frontend (인턴) | 채팅",
-      "department": "",
-      "location": "SEOUL",
-      "deadline": "",
-      "url": "https://about.daangn.com?gh_jid=7749088003"
     },
     {
       "company": "당근",
@@ -1653,22 +1637,22 @@
     {
       "company": "CJ (올리브영/올네/대한통운)",
       "companyId": "cj",
-      "title": "[CJ대한통운] 더운반 프론트엔드 개발 경력사원 모집",
-      "department": "CJ대한통운 / 프론트엔드 개발",
-      "location": "서울",
-      "deadline": "",
-      "deadlineTime": "",
-      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20250623030579"
-    },
-    {
-      "company": "CJ (올리브영/올네/대한통운)",
-      "companyId": "cj",
       "title": "[CJ대한통운] 더운반디지털플랫폼 'Data Scientist' 경력사원 모집",
       "department": "CJ대한통운 / Data Science",
       "location": "서울",
       "deadline": "",
       "deadlineTime": "",
       "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20250619029686"
+    },
+    {
+      "company": "CJ (올리브영/올네/대한통운)",
+      "companyId": "cj",
+      "title": "[CJ대한통운] 더운반 프론트엔드 개발 경력사원 모집",
+      "department": "CJ대한통운 / 프론트엔드 개발",
+      "location": "서울",
+      "deadline": "",
+      "deadlineTime": "",
+      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20250623030579"
     },
     {
       "company": "CJ (올리브영/올네/대한통운)",

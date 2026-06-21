@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-06-20T15:05:23.075Z",
-  "totalCount": 171,
+  "fetchedAt": "2026-06-21T15:05:25.283Z",
+  "totalCount": 173,
   "companies": [
     "당근",
     "현대오토에버",
@@ -18,37 +18,8 @@
     "티맵모빌리티",
     "한화시스템"
   ],
-  "errors": [
-    {
-      "company": "한화시스템",
-      "error": "fetch failed"
-    }
-  ],
+  "errors": [],
   "jobs": [
-    {
-      "company": "네이버",
-      "companyId": "naver",
-      "title": "[네이버랩스] 3D Vision Research Engineer 모집 부서 Tech 모집 분야 AI/ML 모집 경력 경력 근로 조건 정규 모집 기간 2026.06.09 ~ 2026.06.21",
-      "department": "",
-      "location": "",
-      "deadline": "2026-06-21",
-      "deadlineTime": "",
-      "url": "https://recruit.navercorp.com/rcrt/list.do?annoId=&sw=&subJobCdData=1010001%2C1010002%2C1010003%2C1010005%2C1010008%2C1010020&sysCompanyCdData=&jobCdData=1010#n",
-      "_raw": "[네이버랩스] 3D Vision Research Engineer 모집 부서 Tech 모집 분야 AI/ML 모집 경력 경력 근로 조건 정규 모집 기간 2026.06.09 ~ 2026.06.21",
-      "_employmentType": ""
-    },
-    {
-      "company": "네이버",
-      "companyId": "naver",
-      "title": "[네이버웹툰] AI Applied Engineer (경력) 모집 부서 Tech 모집 분야 AI/ML 모집 경력 경력 근로 조건 정규 모집 기간 2026.06.05 ~ 2026.06.21",
-      "department": "",
-      "location": "",
-      "deadline": "2026-06-21",
-      "deadlineTime": "",
-      "url": "https://recruit.navercorp.com/rcrt/list.do?annoId=&sw=&subJobCdData=1010001%2C1010002%2C1010003%2C1010005%2C1010008%2C1010020&sysCompanyCdData=&jobCdData=1010#n",
-      "_raw": "[네이버웹툰] AI Applied Engineer (경력) 모집 부서 Tech 모집 분야 AI/ML 모집 경력 경력 근로 조건 정규 모집 기간 2026.06.05 ~ 2026.06.21",
-      "_employmentType": ""
-    },
     {
       "company": "CJ (올리브영/올네/대한통운)",
       "companyId": "cj",
@@ -62,22 +33,22 @@
     {
       "company": "CJ (올리브영/올네/대한통운)",
       "companyId": "cj",
-      "title": "[경력] Lead Subtitle Project Manager",
-      "department": "CJ올리브네트웍스 / PM(Project Manager)",
-      "location": "분당",
-      "deadline": "2026-06-22",
-      "deadlineTime": "18:00",
-      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20260602038227"
-    },
-    {
-      "company": "CJ (올리브영/올네/대한통운)",
-      "companyId": "cj",
       "title": "[경력] Dubbing Project Manager",
       "department": "CJ올리브네트웍스 / PM(Project Manager)",
       "location": "분당",
       "deadline": "2026-06-22",
       "deadlineTime": "18:00",
       "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20260602039072"
+    },
+    {
+      "company": "CJ (올리브영/올네/대한통운)",
+      "companyId": "cj",
+      "title": "[경력] Lead Subtitle Project Manager",
+      "department": "CJ올리브네트웍스 / PM(Project Manager)",
+      "location": "분당",
+      "deadline": "2026-06-22",
+      "deadlineTime": "18:00",
+      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20260602038227"
     },
     {
       "company": "CJ (올리브영/올네/대한통운)",
@@ -112,13 +83,13 @@
     {
       "company": "SK하이닉스",
       "companyId": "skhynix",
-      "title": "[6월] Talent hy-way 신입 (이천/분당/청주) D-2 SK하이닉스 IT/IT(AMHS) • Tech R&D/설계,소자,R&D 공정,Product Engineering",
+      "title": "[6월] Talent hy-way 신입 (이천/분당/청주) D-1 SK하이닉스 IT/IT(AMHS) • Tech R&D/설계,소자,R&D 공정,Product Engineering",
       "department": "",
       "location": "",
       "deadline": "2026-06-23",
       "deadlineTime": "",
       "url": "https://www.skcareers.com/Recruit/Detail/R261349",
-      "_raw": "[6월] Talent hy-way 신입 (이천/분당/청주) 2026년 06월 17일(수) ~ 2026년 06월 23일(화) D-2 SK하이닉스 IT/IT(AMHS) • Tech R&D/설계,소자,R&D 공정,Product Engineering",
+      "_raw": "[6월] Talent hy-way 신입 (이천/분당/청주) 2026년 06월 17일(수) ~ 2026년 06월 23일(화) D-1 SK하이닉스 IT/IT(AMHS) • Tech R&D/설계,소자,R&D 공정,Product Engineering",
       "_employmentType": "정규"
     },
     {
@@ -184,37 +155,87 @@
     {
       "company": "SKT",
       "companyId": "skt",
-      "title": "초대형 AI 모델 학습·최적화 엔지니어 D-4 SK텔레콤 Tech R&D/ML/DL 개발",
+      "title": "초대형 AI 모델 학습·최적화 엔지니어 D-3 SK텔레콤 Tech R&D/ML/DL 개발",
       "department": "",
       "location": "",
       "deadline": "2026-06-25",
       "deadlineTime": "",
       "url": "https://www.skcareers.com/Recruit/Detail/R261190",
-      "_raw": "초대형 AI 모델 학습·최적화 엔지니어 2026년 05월 26일(화) ~ 2026년 06월 25일(목) D-4 SK텔레콤 Tech R&D/ML/DL 개발",
+      "_raw": "초대형 AI 모델 학습·최적화 엔지니어 2026년 05월 26일(화) ~ 2026년 06월 25일(목) D-3 SK텔레콤 Tech R&D/ML/DL 개발",
       "_employmentType": "정규"
     },
     {
       "company": "SKT",
       "companyId": "skt",
-      "title": "AI Research Engineer D-4 SK텔레콤 Tech R&D/ML/DL 개발",
+      "title": "AI Research Engineer D-3 SK텔레콤 Tech R&D/ML/DL 개발",
       "department": "",
       "location": "",
       "deadline": "2026-06-25",
       "deadlineTime": "",
       "url": "https://www.skcareers.com/Recruit/Detail/R261191",
-      "_raw": "AI Research Engineer 2026년 05월 26일(화) ~ 2026년 06월 25일(목) D-4 SK텔레콤 Tech R&D/ML/DL 개발",
+      "_raw": "AI Research Engineer 2026년 05월 26일(화) ~ 2026년 06월 25일(목) D-3 SK텔레콤 Tech R&D/ML/DL 개발",
       "_employmentType": "정규"
+    },
+    {
+      "company": "한화시스템",
+      "companyId": "hanwha",
+      "title": "금융SI AM(Account Manager) 경력사원 채용",
+      "department": "한화시스템/ICT",
+      "location": "",
+      "deadline": "2026-06-26",
+      "deadlineTime": "10:00",
+      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19031"
+    },
+    {
+      "company": "한화시스템",
+      "companyId": "hanwha",
+      "title": "제조서비스 인프라 운영 경력사원 채용",
+      "department": "한화시스템/ICT",
+      "location": "",
+      "deadline": "2026-06-26",
+      "deadlineTime": "15:00",
+      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19022"
+    },
+    {
+      "company": "한화시스템",
+      "companyId": "hanwha",
+      "title": "ERP 컨설턴트 경력사원 채용",
+      "department": "한화시스템/ICT",
+      "location": "",
+      "deadline": "2026-06-26",
+      "deadlineTime": "15:00",
+      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19021"
+    },
+    {
+      "company": "한화시스템",
+      "companyId": "hanwha",
+      "title": "PLM PM급 전문가 경력사원 채용",
+      "department": "한화시스템/ICT",
+      "location": "",
+      "deadline": "2026-06-26",
+      "deadlineTime": "15:00",
+      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19020"
+    },
+    {
+      "company": "한화시스템",
+      "companyId": "hanwha",
+      "title": "보안 담당자 경력사원 채용",
+      "department": "한화시스템/ICT",
+      "location": "",
+      "deadline": "2026-06-26",
+      "deadlineTime": "15:00",
+      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19018"
     },
     {
       "company": "SK AX",
       "companyId": "skax",
-      "title": "Cloud-native AI/Data Platform Engineer 영입 SK주식회사(AX) Tech R&D/Data 분석/개발",
+      "title": "Cloud-native AI/Data Platform Engineer 영입 D-7 SK주식회사(AX) Tech R&D/Data 분석/개발",
       "department": "",
       "location": "",
       "deadline": "2026-06-29",
       "deadlineTime": "",
       "url": "https://www.skcareers.com/Recruit/Detail/R261176",
-      "_raw": "Cloud-native AI/Data Platform Engineer 영입 2026년 05월 26일(화) ~ 2026년 06월 29일(월) SK주식회사(AX) Tech R&D/Data 분석/개발",
+      "_raw": "Cloud-native AI/Data Platform Engineer 영입 2026년 05월 26일(화) ~ 2026년 06월 29일(월) D-7 SK주식회사(AX) Tech R&D/Data 분석/개발",
       "_employmentType": "정규"
     },
     {
@@ -741,15 +762,6 @@
       "location": "SEOUL",
       "deadline": "",
       "url": "https://about.daangn.com?gh_jid=7494042003"
-    },
-    {
-      "company": "당근",
-      "companyId": "daangn",
-      "title": "Software Engineer, Backend (인턴) - 나의당근",
-      "department": "",
-      "location": "SEOUL",
-      "deadline": "",
-      "url": "https://about.daangn.com?gh_jid=7771433003"
     },
     {
       "company": "당근",

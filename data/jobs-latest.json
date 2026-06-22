@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-06-21T15:05:25.283Z",
-  "totalCount": 173,
+  "fetchedAt": "2026-06-22T15:05:05.568Z",
+  "totalCount": 175,
   "companies": [
     "당근",
     "현대오토에버",
@@ -83,13 +83,13 @@
     {
       "company": "SK하이닉스",
       "companyId": "skhynix",
-      "title": "[6월] Talent hy-way 신입 (이천/분당/청주) D-1 SK하이닉스 IT/IT(AMHS) • Tech R&D/설계,소자,R&D 공정,Product Engineering",
+      "title": "[6월] Talent hy-way 신입 (이천/분당/청주) D-DAY SK하이닉스 IT/IT(AMHS) • Tech R&D/설계,소자,R&D 공정,Product Engineering",
       "department": "",
       "location": "",
       "deadline": "2026-06-23",
       "deadlineTime": "",
       "url": "https://www.skcareers.com/Recruit/Detail/R261349",
-      "_raw": "[6월] Talent hy-way 신입 (이천/분당/청주) 2026년 06월 17일(수) ~ 2026년 06월 23일(화) D-1 SK하이닉스 IT/IT(AMHS) • Tech R&D/설계,소자,R&D 공정,Product Engineering",
+      "_raw": "[6월] Talent hy-way 신입 (이천/분당/청주) 2026년 06월 17일(수) ~ 2026년 06월 23일(화) D-DAY SK하이닉스 IT/IT(AMHS) • Tech R&D/설계,소자,R&D 공정,Product Engineering",
       "_employmentType": "정규"
     },
     {
@@ -155,25 +155,25 @@
     {
       "company": "SKT",
       "companyId": "skt",
-      "title": "초대형 AI 모델 학습·최적화 엔지니어 D-3 SK텔레콤 Tech R&D/ML/DL 개발",
+      "title": "초대형 AI 모델 학습·최적화 엔지니어 D-2 SK텔레콤 Tech R&D/ML/DL 개발",
       "department": "",
       "location": "",
       "deadline": "2026-06-25",
       "deadlineTime": "",
       "url": "https://www.skcareers.com/Recruit/Detail/R261190",
-      "_raw": "초대형 AI 모델 학습·최적화 엔지니어 2026년 05월 26일(화) ~ 2026년 06월 25일(목) D-3 SK텔레콤 Tech R&D/ML/DL 개발",
+      "_raw": "초대형 AI 모델 학습·최적화 엔지니어 2026년 05월 26일(화) ~ 2026년 06월 25일(목) D-2 SK텔레콤 Tech R&D/ML/DL 개발",
       "_employmentType": "정규"
     },
     {
       "company": "SKT",
       "companyId": "skt",
-      "title": "AI Research Engineer D-3 SK텔레콤 Tech R&D/ML/DL 개발",
+      "title": "AI Research Engineer D-2 SK텔레콤 Tech R&D/ML/DL 개발",
       "department": "",
       "location": "",
       "deadline": "2026-06-25",
       "deadlineTime": "",
       "url": "https://www.skcareers.com/Recruit/Detail/R261191",
-      "_raw": "AI Research Engineer 2026년 05월 26일(화) ~ 2026년 06월 25일(목) D-3 SK텔레콤 Tech R&D/ML/DL 개발",
+      "_raw": "AI Research Engineer 2026년 05월 26일(화) ~ 2026년 06월 25일(목) D-2 SK텔레콤 Tech R&D/ML/DL 개발",
       "_employmentType": "정규"
     },
     {
@@ -229,14 +229,24 @@
     {
       "company": "SK AX",
       "companyId": "skax",
-      "title": "Cloud-native AI/Data Platform Engineer 영입 D-7 SK주식회사(AX) Tech R&D/Data 분석/개발",
+      "title": "Cloud-native AI/Data Platform Engineer 영입 D-6 SK주식회사(AX) Tech R&D/Data 분석/개발",
       "department": "",
       "location": "",
       "deadline": "2026-06-29",
       "deadlineTime": "",
       "url": "https://www.skcareers.com/Recruit/Detail/R261176",
-      "_raw": "Cloud-native AI/Data Platform Engineer 영입 2026년 05월 26일(화) ~ 2026년 06월 29일(월) D-7 SK주식회사(AX) Tech R&D/Data 분석/개발",
+      "_raw": "Cloud-native AI/Data Platform Engineer 영입 2026년 05월 26일(화) ~ 2026년 06월 29일(월) D-6 SK주식회사(AX) Tech R&D/Data 분석/개발",
       "_employmentType": "정규"
+    },
+    {
+      "company": "현대오토에버",
+      "companyId": "autoever",
+      "title": "[Tech] Service Security Engineer - Security Analyst (보안 위협 분석/ 북미 대응)",
+      "department": "Core Tech(AI/DATA/Cloud/보안)",
+      "location": "",
+      "deadline": "2026-06-30",
+      "deadlineTime": "23:59",
+      "url": "https://career.hyundai-autoever.com/ko/o/223741"
     },
     {
       "company": "네이버",
@@ -485,38 +495,50 @@
     {
       "company": "티맵모빌리티",
       "companyId": "tmap",
-      "title": "Site Reliability Engineer (SRE) 티맵모빌리티 Infra/Cloud/Infra,Infra 개발/관리",
+      "title": "Site Reliability Engineer (SRE) D-7 티맵모빌리티 Infra/Cloud/Infra,Infra 개발/관리",
       "department": "",
       "location": "",
       "deadline": "2026-06-30",
       "deadlineTime": "",
       "url": "https://www.skcareers.com/Recruit/Detail/R261272",
-      "_raw": "Site Reliability Engineer (SRE) 2026년 06월 02일(화) ~ 2026년 06월 30일(화) 티맵모빌리티 Infra/Cloud/Infra,Infra 개발/관리",
+      "_raw": "Site Reliability Engineer (SRE) 2026년 06월 02일(화) ~ 2026년 06월 30일(화) D-7 티맵모빌리티 Infra/Cloud/Infra,Infra 개발/관리",
       "_employmentType": "정규"
     },
     {
       "company": "티맵모빌리티",
       "companyId": "tmap",
-      "title": "Automotive Test Manager 티맵모빌리티 Infra/Infra 개발/관리",
+      "title": "Automotive Test Manager D-7 티맵모빌리티 Infra/Infra 개발/관리",
       "department": "",
       "location": "",
       "deadline": "2026-06-30",
       "deadlineTime": "",
       "url": "https://www.skcareers.com/Recruit/Detail/R261327",
-      "_raw": "Automotive Test Manager 2026년 06월 09일(화) ~ 2026년 06월 30일(화) 티맵모빌리티 Infra/Infra 개발/관리",
+      "_raw": "Automotive Test Manager 2026년 06월 09일(화) ~ 2026년 06월 30일(화) D-7 티맵모빌리티 Infra/Infra 개발/관리",
       "_employmentType": "정규"
     },
     {
       "company": "티맵모빌리티",
       "companyId": "tmap",
-      "title": "3D Map Client Engineer 티맵모빌리티 Tech R&D/Client 개발",
+      "title": "3D Map Client Engineer D-7 티맵모빌리티 Tech R&D/Client 개발",
       "department": "",
       "location": "",
       "deadline": "2026-06-30",
       "deadlineTime": "",
       "url": "https://www.skcareers.com/Recruit/Detail/R261337",
-      "_raw": "3D Map Client Engineer 2026년 06월 11일(목) ~ 2026년 06월 30일(화) 티맵모빌리티 Tech R&D/Client 개발",
+      "_raw": "3D Map Client Engineer 2026년 06월 11일(목) ~ 2026년 06월 30일(화) D-7 티맵모빌리티 Tech R&D/Client 개발",
       "_employmentType": "정규"
+    },
+    {
+      "company": "네이버",
+      "companyId": "naver",
+      "title": "[네이버랩스] Large-scale Full 3D Mesh Research Engineer 모집 부서 Tech 모집 분야 AI/ML 모집 경력 경력 근로 조건 정규 모집 기간 2026.06.22 ~ 2026.07.06",
+      "department": "",
+      "location": "",
+      "deadline": "2026-07-06",
+      "deadlineTime": "",
+      "url": "https://recruit.navercorp.com/rcrt/list.do?annoId=&sw=&subJobCdData=1010001%2C1010002%2C1010003%2C1010005%2C1010008%2C1010020&sysCompanyCdData=&jobCdData=1010#n",
+      "_raw": "[네이버랩스] Large-scale Full 3D Mesh Research Engineer 모집 부서 Tech 모집 분야 AI/ML 모집 경력 경력 근로 조건 정규 모집 기간 2026.06.22 ~ 2026.07.06",
+      "_employmentType": ""
     },
     {
       "company": "CJ (올리브영/올네/대한통운)",
@@ -1365,13 +1387,13 @@
     {
       "company": "토스",
       "companyId": "toss",
-      "title": "ML Engineer [산업기능요원/전문연구요원] 병역특례",
+      "title": "ML Engineer [전문연구요원] 병역특례",
       "department": "",
       "location": "",
       "deadline": "",
       "deadlineTime": "",
       "url": "https://toss.im/career/job-detail?job_id=4770769003",
-      "_raw": "ML Engineer [산업기능요원/전문연구요원] 병역특례 ・ Machine Learning ・ 모델설계 ・ 서빙 토스",
+      "_raw": "ML Engineer [전문연구요원] 병역특례 ・ Machine Learning ・ 모델설계 ・ 서빙 토스",
       "_employmentType": ""
     },
     {

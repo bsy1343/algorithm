@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-06-26T15:04:43.017Z",
-  "totalCount": 163,
+  "fetchedAt": "2026-06-27T15:04:43.095Z",
+  "totalCount": 164,
   "companies": [
     "당근",
     "현대오토에버",
@@ -23,13 +23,13 @@
     {
       "company": "SK AX",
       "companyId": "skax",
-      "title": "Cloud-native AI/Data Platform Engineer 영입 D-2 SK주식회사(AX) Tech R&D/Data 분석/개발",
+      "title": "Cloud-native AI/Data Platform Engineer 영입 D-1 SK주식회사(AX) Tech R&D/Data 분석/개발",
       "department": "",
       "location": "",
       "deadline": "2026-06-29",
       "deadlineTime": "",
       "url": "https://www.skcareers.com/Recruit/Detail/R261176",
-      "_raw": "Cloud-native AI/Data Platform Engineer 영입 2026년 05월 26일(화) ~ 2026년 06월 29일(월) D-2 SK주식회사(AX) Tech R&D/Data 분석/개발",
+      "_raw": "Cloud-native AI/Data Platform Engineer 영입 2026년 05월 26일(화) ~ 2026년 06월 29일(월) D-1 SK주식회사(AX) Tech R&D/Data 분석/개발",
       "_employmentType": "정규"
     },
     {
@@ -131,7 +131,7 @@
       "companyId": "lguplus",
       "title": "[정보보안센터] 보안솔루션 구축/운영 엔지니어 경력채용",
       "department": "",
-      "location": "",
+      "location": "경력",
       "deadline": "2026-06-30",
       "deadlineTime": "23:00",
       "url": "https://careers.lg.com/channel/detail/lgu/job_openings"
@@ -295,6 +295,16 @@
       "deadline": "2026-06-30",
       "deadlineTime": "23:59",
       "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20240722026043"
+    },
+    {
+      "company": "LG U+",
+      "companyId": "lguplus",
+      "title": "[CTO] GPU Software Engineer (Infra / Platform) (경력/석·박사)",
+      "department": "",
+      "location": "",
+      "deadline": "2026-07-05",
+      "deadlineTime": "23:00",
+      "url": "https://careers.lg.com/channel/detail/lgu/job_openings"
     },
     {
       "company": "네이버",

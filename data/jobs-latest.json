@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-28T15:04:43.003Z",
+  "fetchedAt": "2026-06-29T15:05:22.971Z",
   "totalCount": 163,
   "companies": [
     "당근",
@@ -20,18 +20,6 @@
   ],
   "errors": [],
   "jobs": [
-    {
-      "company": "SK AX",
-      "companyId": "skax",
-      "title": "Cloud-native AI/Data Platform Engineer 영입 D-DAY SK주식회사(AX) Tech R&D/Data 분석/개발",
-      "department": "",
-      "location": "",
-      "deadline": "2026-06-29",
-      "deadlineTime": "",
-      "url": "https://www.skcareers.com/Recruit/Detail/R261176",
-      "_raw": "Cloud-native AI/Data Platform Engineer 영입 2026년 05월 26일(화) ~ 2026년 06월 29일(월) D-DAY SK주식회사(AX) Tech R&D/Data 분석/개발",
-      "_employmentType": "정규"
-    },
     {
       "company": "현대오토에버",
       "companyId": "autoever",
@@ -127,26 +115,6 @@
       "url": "https://careers.lg.com/apply?c=CNS"
     },
     {
-      "company": "LG U+",
-      "companyId": "lguplus",
-      "title": "[정보보안센터] 보안솔루션 구축/운영 엔지니어 경력채용",
-      "department": "",
-      "location": "",
-      "deadline": "2026-06-30",
-      "deadlineTime": "23:00",
-      "url": "https://careers.lg.com/channel/detail/lgu/job_openings"
-    },
-    {
-      "company": "현대자동차",
-      "companyId": "hyundai",
-      "title": "[통합보안] Service Security Engineer - 애플리케이션 보안",
-      "department": "#경력",
-      "location": "#양재본사",
-      "deadline": "2026-06-30",
-      "deadlineTime": "",
-      "url": "https://talent.hyundai.com/apply/applyList.hc?occupDataTagArray=211"
-    },
-    {
       "company": "현대자동차",
       "companyId": "hyundai",
       "title": "[ICT] Solution Architect - PP 모듈",
@@ -172,6 +140,16 @@
       "title": "[ICT] Machine Learning Engineer (NLP)",
       "department": "#경력",
       "location": "#양재본사",
+      "deadline": "2026-06-30",
+      "deadlineTime": "",
+      "url": "https://talent.hyundai.com/apply/applyList.hc?occupDataTagArray=211"
+    },
+    {
+      "company": "현대자동차",
+      "companyId": "hyundai",
+      "title": "[AVP] 모빌리티 플랫폼 서비스 운영 기획 및 관리",
+      "department": "#경력",
+      "location": "#서울",
       "deadline": "2026-06-30",
       "deadlineTime": "",
       "url": "https://talent.hyundai.com/apply/applyList.hc?occupDataTagArray=211"
@@ -279,22 +257,22 @@
     {
       "company": "CJ (올리브영/올네/대한통운)",
       "companyId": "cj",
-      "title": "[경력] SAP PP 운영/개발",
-      "department": "CJ올리브네트웍스 / 시스템 개발/운영(SAP)",
-      "location": "서울",
-      "deadline": "2026-06-30",
-      "deadlineTime": "23:59",
-      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20231030020572"
-    },
-    {
-      "company": "CJ (올리브영/올네/대한통운)",
-      "companyId": "cj",
       "title": "[경력] 대내외 고객사 SAP FI 운영/개발",
       "department": "CJ올리브네트웍스 / 시스템 개발/운영(SAP)",
       "location": "서울",
       "deadline": "2026-06-30",
       "deadlineTime": "23:59",
       "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20240722026043"
+    },
+    {
+      "company": "CJ (올리브영/올네/대한통운)",
+      "companyId": "cj",
+      "title": "[경력] SAP PP 운영/개발",
+      "department": "CJ올리브네트웍스 / 시스템 개발/운영(SAP)",
+      "location": "서울",
+      "deadline": "2026-06-30",
+      "deadlineTime": "23:59",
+      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20231030020572"
     },
     {
       "company": "LG U+",
@@ -343,22 +321,22 @@
     {
       "company": "CJ (올리브영/올네/대한통운)",
       "companyId": "cj",
-      "title": "[경력] SASE 보안 컨설팅 및 운영 관리",
-      "department": "CJ올리브네트웍스 / IT컨설팅",
-      "location": "서울",
-      "deadline": "2026-07-06",
-      "deadlineTime": "23:59",
-      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20260306037808"
-    },
-    {
-      "company": "CJ (올리브영/올네/대한통운)",
-      "companyId": "cj",
       "title": "[경력] 정보보호 컨설턴트",
       "department": "CJ올리브네트웍스 / IT컨설팅",
       "location": "서울",
       "deadline": "2026-07-06",
       "deadlineTime": "23:59",
       "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20260306037807"
+    },
+    {
+      "company": "CJ (올리브영/올네/대한통운)",
+      "companyId": "cj",
+      "title": "[경력] SASE 보안 컨설팅 및 운영 관리",
+      "department": "CJ올리브네트웍스 / IT컨설팅",
+      "location": "서울",
+      "deadline": "2026-07-06",
+      "deadlineTime": "23:59",
+      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20260306037808"
     },
     {
       "company": "CJ (올리브영/올네/대한통운)",
@@ -373,13 +351,13 @@
     {
       "company": "SK AX",
       "companyId": "skax",
-      "title": "Digital Twin Platform 개발 전문가 영입 D-7 SK주식회사(AX) Tech R&D/Software Engineering",
+      "title": "Digital Twin Platform 개발 전문가 영입 D-6 SK주식회사(AX) Tech R&D/Software Engineering",
       "department": "",
       "location": "",
       "deadline": "2026-07-06",
       "deadlineTime": "",
       "url": "https://www.skcareers.com/Recruit/Detail/R261175",
-      "_raw": "Digital Twin Platform 개발 전문가 영입 2026년 06월 02일(화) ~ 2026년 07월 06일(월) D-7 SK주식회사(AX) Tech R&D/Software Engineering",
+      "_raw": "Digital Twin Platform 개발 전문가 영입 2026년 06월 02일(화) ~ 2026년 07월 06일(월) D-6 SK주식회사(AX) Tech R&D/Software Engineering",
       "_employmentType": "정규"
     },
     {
@@ -425,6 +403,30 @@
       "url": "https://www.skcareers.com/Recruit/Detail/R261303",
       "_raw": "반도체 용인 클러스터 인프라 아키텍트(서버) 영입 2026년 06월 05일(금) ~ 2026년 07월 13일(월) SK주식회사(AX) Infra/Cloud/Infra",
       "_employmentType": "정규"
+    },
+    {
+      "company": "네이버",
+      "companyId": "naver",
+      "title": "[NAVER Cloud] 보건관리 업무지원 (육아휴직 대체/계약) 모집 부서 Corporate 모집 분야 Risk Management 모집 경력 경력 근로 조건 계약 모집 기간 2026.06.29 ~ 2026.07.15",
+      "department": "",
+      "location": "",
+      "deadline": "2026-07-15",
+      "deadlineTime": "",
+      "url": "https://recruit.navercorp.com/rcrt/list.do?annoId=&sw=&subJobCdData=1010001%2C1010002%2C1010003%2C1010005%2C1010008%2C1010020&sysCompanyCdData=&jobCdData=1010#n",
+      "_raw": "[NAVER Cloud] 보건관리 업무지원 (육아휴직 대체/계약) 모집 부서 Corporate 모집 분야 Risk Management 모집 경력 경력 근로 조건 계약 모집 기간 2026.06.29 ~ 2026.07.15",
+      "_employmentType": ""
+    },
+    {
+      "company": "네이버",
+      "companyId": "naver",
+      "title": "[NAVER Cloud] LINE WORKS Speech/Vision/NLP 시니어 리서치 엔지니어 (경력) 모집 부서 Tech 모집 분야 AI/ML 모집 경력 경력 근로 조건 정규 모집 기간 2026.06.29 ~ 2026.07.15",
+      "department": "",
+      "location": "",
+      "deadline": "2026-07-15",
+      "deadlineTime": "",
+      "url": "https://recruit.navercorp.com/rcrt/list.do?annoId=&sw=&subJobCdData=1010001%2C1010002%2C1010003%2C1010005%2C1010008%2C1010020&sysCompanyCdData=&jobCdData=1010#n",
+      "_raw": "[NAVER Cloud] LINE WORKS Speech/Vision/NLP 시니어 리서치 엔지니어 (경력) 모집 부서 Tech 모집 분야 AI/ML 모집 경력 경력 근로 조건 정규 모집 기간 2026.06.29 ~ 2026.07.15",
+      "_employmentType": ""
     },
     {
       "company": "SK AX",
@@ -848,16 +850,6 @@
     {
       "company": "현대오토에버",
       "companyId": "autoever",
-      "title": "[SDx] IT PM - Robot Orchestration Platform 구축",
-      "department": "SDx(스마트제조)",
-      "location": "",
-      "deadline": "",
-      "deadlineTime": "",
-      "url": "https://career.hyundai-autoever.com/ko/o/218025"
-    },
-    {
-      "company": "현대오토에버",
-      "companyId": "autoever",
       "title": "[Tech] Service Security Engineer - DAST 솔루션 운영 및 피싱 모의해킹 플랫폼 운영",
       "department": "Core Tech(AI/DATA/Cloud/보안)",
       "location": "",
@@ -898,7 +890,7 @@
     {
       "company": "현대오토에버",
       "companyId": "autoever",
-      "title": "[EnIT] Solution Architect - SAP ERP 컨설팅/운영 (SD, MM)",
+      "title": "[EnIT] Solution Architect - SAP ERP 컨설팅/운영 (SD, MM, PM)",
       "department": "Enterprise IT",
       "location": "",
       "deadline": "",
@@ -1154,7 +1146,7 @@
       "deadline": "",
       "deadlineTime": "",
       "url": "https://toss.im/career/job-detail?job_id=7545902003",
-      "_raw": "Frontend Platform Engineer 개발 ・ Frontend ・ TypeScript ・ JavaScript 토스 증권 플레이스",
+      "_raw": "Frontend Platform Engineer 개발 ・ Frontend ・ TypeScript ・ JavaScript 토스 증권",
       "_employmentType": ""
     },
     {
@@ -1616,6 +1608,16 @@
     {
       "company": "CJ (올리브영/올네/대한통운)",
       "companyId": "cj",
+      "title": "[TES물류기술연구소] '데이터 엔지니어' 경력사원 모집",
+      "department": "CJ대한통운 / 데이터 엔지니어",
+      "location": "서울",
+      "deadline": "",
+      "deadlineTime": "",
+      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20260629039137"
+    },
+    {
+      "company": "CJ (올리브영/올네/대한통운)",
+      "companyId": "cj",
       "title": "[TES물류기술연구소] 로봇 S/W Engineer (Physical AI 개발) 경력사원 모집",
       "department": "CJ대한통운 / 로봇통합제어(S/W Engineering)",
       "location": "서울",
@@ -1736,22 +1738,22 @@
     {
       "company": "CJ (올리브영/올네/대한통운)",
       "companyId": "cj",
-      "title": "[CJ대한통운] 더운반 프론트엔드 개발 경력사원 모집",
-      "department": "CJ대한통운 / 프론트엔드 개발",
-      "location": "서울",
-      "deadline": "",
-      "deadlineTime": "",
-      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20250623030579"
-    },
-    {
-      "company": "CJ (올리브영/올네/대한통운)",
-      "companyId": "cj",
       "title": "[CJ대한통운] 더운반디지털플랫폼 'Data Scientist' 경력사원 모집",
       "department": "CJ대한통운 / Data Science",
       "location": "서울",
       "deadline": "",
       "deadlineTime": "",
       "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20250619029686"
+    },
+    {
+      "company": "CJ (올리브영/올네/대한통운)",
+      "companyId": "cj",
+      "title": "[CJ대한통운] 더운반 프론트엔드 개발 경력사원 모집",
+      "department": "CJ대한통운 / 프론트엔드 개발",
+      "location": "서울",
+      "deadline": "",
+      "deadlineTime": "",
+      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20250623030579"
     },
     {
       "company": "CJ (올리브영/올네/대한통운)",

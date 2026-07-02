@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-01T15:04:53.959Z",
+  "fetchedAt": "2026-07-02T15:05:04.523Z",
   "totalCount": 159,
   "companies": [
     "당근",
@@ -18,14 +18,19 @@
     "티맵모빌리티",
     "한화시스템"
   ],
-  "errors": [],
+  "errors": [
+    {
+      "company": "한화시스템",
+      "error": "fetch failed"
+    }
+  ],
   "jobs": [
     {
       "company": "LG U+",
       "companyId": "lguplus",
       "title": "[CTO] GPU Software Engineer (Infra / Platform) (경력/석·박사)",
-      "department": "",
-      "location": "",
+      "department": "개인정보처리방침",
+      "location": "경력",
       "deadline": "2026-07-05",
       "deadlineTime": "23:00",
       "url": "https://careers.lg.com/channel/detail/lgu/job_openings"
@@ -97,13 +102,13 @@
     {
       "company": "SK AX",
       "companyId": "skax",
-      "title": "Digital Twin Platform 개발 전문가 영입 D-4 SK주식회사(AX) Tech R&D/Software Engineering",
+      "title": "Digital Twin Platform 개발 전문가 영입 D-3 SK주식회사(AX) Tech R&D/Software Engineering",
       "department": "",
       "location": "",
       "deadline": "2026-07-06",
       "deadlineTime": "",
       "url": "https://www.skcareers.com/Recruit/Detail/R261175",
-      "_raw": "Digital Twin Platform 개발 전문가 영입 2026년 06월 02일(화) ~ 2026년 07월 06일(월) D-4 SK주식회사(AX) Tech R&D/Software Engineering",
+      "_raw": "Digital Twin Platform 개발 전문가 영입 2026년 06월 02일(화) ~ 2026년 07월 06일(월) D-3 SK주식회사(AX) Tech R&D/Software Engineering",
       "_employmentType": "정규"
     },
     {
@@ -149,22 +154,12 @@
     {
       "company": "LG U+",
       "companyId": "lguplus",
-      "title": "[Enterprise부문] 태양광발전소 구축 PM 계약직 채용",
-      "department": "[CTO] GPU Software Engineer (Infra / Platform) (경력/석·박사)",
+      "title": "[정보보안센터] 클라우드 및 AI 보안 아키텍쳐 설계 경력채용",
+      "department": "",
       "location": "경력",
       "deadline": "2026-07-12",
       "deadlineTime": "23:00",
       "url": "https://careers.lg.com/channel/detail/lgu/job_openings"
-    },
-    {
-      "company": "한화시스템",
-      "companyId": "hanwha",
-      "title": "한화시스템 IT 인프라 관리 담당 경력사원 채용",
-      "department": "한화시스템/방산",
-      "location": "",
-      "deadline": "2026-07-12",
-      "deadlineTime": "23:59",
-      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19128"
     },
     {
       "company": "CJ (올리브영/올네/대한통운)",
@@ -235,6 +230,30 @@
       "_employmentType": ""
     },
     {
+      "company": "네이버",
+      "companyId": "naver",
+      "title": "[네이버웹툰] Disney 디지털 코믹스 플랫폼 서버 개발 (경력) 모집 부서 Tech 모집 분야 Backend 모집 경력 경력 근로 조건 정규 모집 기간 2026.07.02 ~ 2026.07.19",
+      "department": "",
+      "location": "",
+      "deadline": "2026-07-19",
+      "deadlineTime": "",
+      "url": "https://recruit.navercorp.com/rcrt/list.do?annoId=&sw=&subJobCdData=1010001%2C1010002%2C1010003%2C1010005%2C1010008%2C1010020&sysCompanyCdData=&jobCdData=1010#n",
+      "_raw": "[네이버웹툰] Disney 디지털 코믹스 플랫폼 서버 개발 (경력) 모집 부서 Tech 모집 분야 Backend 모집 경력 경력 근로 조건 정규 모집 기간 2026.07.02 ~ 2026.07.19",
+      "_employmentType": ""
+    },
+    {
+      "company": "네이버",
+      "companyId": "naver",
+      "title": "[네이버웹툰] 웹툰 계약/정산 백엔드 시스템 기획자 (경력) 모집 부서 Service & Business 모집 분야 Product Development 모집 경력 경력 근로 조건 정규 모집 기간 2026.07.02 ~ 2026.07.20",
+      "department": "",
+      "location": "",
+      "deadline": "2026-07-20",
+      "deadlineTime": "",
+      "url": "https://recruit.navercorp.com/rcrt/list.do?annoId=&sw=&subJobCdData=1010001%2C1010002%2C1010003%2C1010005%2C1010008%2C1010020&sysCompanyCdData=&jobCdData=1010#n",
+      "_raw": "[네이버웹툰] 웹툰 계약/정산 백엔드 시스템 기획자 (경력) 모집 부서 Service & Business 모집 분야 Product Development 모집 경력 경력 근로 조건 정규 모집 기간 2026.07.02 ~ 2026.07.20",
+      "_employmentType": ""
+    },
+    {
       "company": "CJ (올리브영/올네/대한통운)",
       "companyId": "cj",
       "title": "[경력] 프로젝트 DBA",
@@ -265,6 +284,16 @@
       "url": "https://www.skcareers.com/Recruit/Detail/R261430",
       "_raw": "데이터센터 기계/공조설비 전문가 영입 (판교 근무) 2026년 06월 24일(수) ~ 2026년 07월 28일(화) SK주식회사(AX) Infra/Infra 운용/관리/최적화",
       "_employmentType": "정규"
+    },
+    {
+      "company": "현대오토에버",
+      "companyId": "autoever",
+      "title": "[Tech] Security Engineer - 신규 IT시스템 보안성검토 및 운영시스템 보안관리",
+      "department": "Core Tech(AI/DATA/Cloud/보안)",
+      "location": "",
+      "deadline": "2026-07-31",
+      "deadlineTime": "23:59",
+      "url": "https://career.hyundai-autoever.com/ko/o/226103"
     },
     {
       "company": "LG CNS",
@@ -341,7 +370,7 @@
       "companyId": "lguplus",
       "title": "[Enterprise부문] AIDC 전기/기계 엔지니어 경력채용",
       "department": "",
-      "location": "",
+      "location": "경력",
       "deadline": "2026-07-31",
       "deadlineTime": "23:00",
       "url": "https://careers.lg.com/channel/detail/lgu/job_openings"
@@ -704,15 +733,6 @@
     {
       "company": "당근",
       "companyId": "daangn",
-      "title": "Software Engineer, Backend - ML Data Platform",
-      "department": "",
-      "location": "SEOUL",
-      "deadline": "",
-      "url": "https://about.daangn.com?gh_jid=5823087003"
-    },
-    {
-      "company": "당근",
-      "companyId": "daangn",
       "title": "Software Engineer, Data - 데이터 가치화",
       "department": "",
       "location": "SEOUL",
@@ -1071,7 +1091,7 @@
       "deadline": "",
       "deadlineTime": "",
       "url": "https://toss.im/career/job-detail?job_id=4071151003",
-      "_raw": "DevOps Engineer Kubernetes ・ Istio ・ CI/CD ・ Cloud Native 토스 외 3개 계열사",
+      "_raw": "DevOps Engineer Kubernetes ・ Istio ・ CI/CD ・ Cloud Native 토스 외 4개 계열사",
       "_employmentType": ""
     },
     {
@@ -1540,18 +1560,6 @@
       "deadlineTime": "",
       "url": "https://careers.kakao.com/jobs/P-14472?skillSet=&part=TECHNOLOGY&company=KAKAO&keyword=&employeeType=&page=1",
       "_raw": "AI 추론/학습 효율화 엔지니어 (경력) 영입마감일 영입종료시 근무지 직군 태그 #Algorithm/ML 회사정보 카카오 직원유형 정규직",
-      "_employmentType": ""
-    },
-    {
-      "company": "카카오",
-      "companyId": "kakao",
-      "title": "MLOps Engineer (경력) 영입마감일 영입종료시 근무지 직군 태그 #Server 회사정보 카카오 직원유형 정규직",
-      "department": "",
-      "location": "",
-      "deadline": "",
-      "deadlineTime": "",
-      "url": "https://careers.kakao.com/jobs/P-14039?skillSet=&part=TECHNOLOGY&company=KAKAO&keyword=&employeeType=&page=1",
-      "_raw": "MLOps Engineer (경력) 영입마감일 영입종료시 근무지 직군 태그 #Server 회사정보 카카오 직원유형 정규직",
       "_employmentType": ""
     },
     {

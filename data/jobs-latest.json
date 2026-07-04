@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-07-03T15:04:44.421Z",
-  "totalCount": 165,
+  "fetchedAt": "2026-07-04T15:04:37.883Z",
+  "totalCount": 164,
   "companies": [
     "당근",
     "현대오토에버",
@@ -20,16 +20,6 @@
   ],
   "errors": [],
   "jobs": [
-    {
-      "company": "LG U+",
-      "companyId": "lguplus",
-      "title": "[CTO] GPU Software Engineer (Infra / Platform) (경력/석·박사)",
-      "department": "",
-      "location": "",
-      "deadline": "2026-07-05",
-      "deadlineTime": "23:00",
-      "url": "https://careers.lg.com/channel/detail/lgu/job_openings"
-    },
     {
       "company": "네이버",
       "companyId": "naver",
@@ -97,13 +87,13 @@
     {
       "company": "SK AX",
       "companyId": "skax",
-      "title": "Digital Twin Platform 개발 전문가 영입 D-2 SK주식회사(AX) Tech R&D/Software Engineering",
+      "title": "Digital Twin Platform 개발 전문가 영입 D-1 SK주식회사(AX) Tech R&D/Software Engineering",
       "department": "",
       "location": "",
       "deadline": "2026-07-06",
       "deadlineTime": "",
       "url": "https://www.skcareers.com/Recruit/Detail/R261175",
-      "_raw": "Digital Twin Platform 개발 전문가 영입 2026년 06월 02일(화) ~ 2026년 07월 06일(월) D-2 SK주식회사(AX) Tech R&D/Software Engineering",
+      "_raw": "Digital Twin Platform 개발 전문가 영입 2026년 06월 02일(화) ~ 2026년 07월 06일(월) D-1 SK주식회사(AX) Tech R&D/Software Engineering",
       "_employmentType": "정규"
     },
     {

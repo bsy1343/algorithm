@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-07-04T15:04:37.883Z",
-  "totalCount": 164,
+  "fetchedAt": "2026-07-05T15:05:00.538Z",
+  "totalCount": 163,
   "companies": [
     "당근",
     "현대오토에버",
@@ -87,13 +87,13 @@
     {
       "company": "SK AX",
       "companyId": "skax",
-      "title": "Digital Twin Platform 개발 전문가 영입 D-1 SK주식회사(AX) Tech R&D/Software Engineering",
+      "title": "Digital Twin Platform 개발 전문가 영입 D-DAY SK주식회사(AX) Tech R&D/Software Engineering",
       "department": "",
       "location": "",
       "deadline": "2026-07-06",
       "deadlineTime": "",
       "url": "https://www.skcareers.com/Recruit/Detail/R261175",
-      "_raw": "Digital Twin Platform 개발 전문가 영입 2026년 06월 02일(화) ~ 2026년 07월 06일(월) D-1 SK주식회사(AX) Tech R&D/Software Engineering",
+      "_raw": "Digital Twin Platform 개발 전문가 영입 2026년 06월 02일(화) ~ 2026년 07월 06일(월) D-DAY SK주식회사(AX) Tech R&D/Software Engineering",
       "_employmentType": "정규"
     },
     {
@@ -135,16 +135,6 @@
       "deadline": "2026-07-12",
       "deadlineTime": "23:59",
       "url": "https://career.hyundai-autoever.com/ko/o/220742"
-    },
-    {
-      "company": "LG U+",
-      "companyId": "lguplus",
-      "title": "[Enterprise부문] 태양광발전소 구축 PM 계약직 채용",
-      "department": "[CTO] GPU Software Engineer (Infra / Platform) (경력/석·박사)",
-      "location": "경력",
-      "deadline": "2026-07-12",
-      "deadlineTime": "23:00",
-      "url": "https://careers.lg.com/channel/detail/lgu/job_openings"
     },
     {
       "company": "LG U+",
@@ -209,25 +199,25 @@
     {
       "company": "SK AX",
       "companyId": "skax",
-      "title": "반도체 용인 클러스터 네트워크 구축 TA 영입 SK주식회사(AX) Infra/Cloud/Infra",
+      "title": "반도체 용인 클러스터 네트워크 구축 TA 영입 D-7 SK주식회사(AX) Infra/Cloud/Infra",
       "department": "",
       "location": "",
       "deadline": "2026-07-13",
       "deadlineTime": "",
       "url": "https://www.skcareers.com/Recruit/Detail/R261302",
-      "_raw": "반도체 용인 클러스터 네트워크 구축 TA 영입 2026년 06월 05일(금) ~ 2026년 07월 13일(월) SK주식회사(AX) Infra/Cloud/Infra",
+      "_raw": "반도체 용인 클러스터 네트워크 구축 TA 영입 2026년 06월 05일(금) ~ 2026년 07월 13일(월) D-7 SK주식회사(AX) Infra/Cloud/Infra",
       "_employmentType": "정규"
     },
     {
       "company": "SK AX",
       "companyId": "skax",
-      "title": "반도체 용인 클러스터 인프라 아키텍트(서버) 영입 SK주식회사(AX) Infra/Cloud/Infra",
+      "title": "반도체 용인 클러스터 인프라 아키텍트(서버) 영입 D-7 SK주식회사(AX) Infra/Cloud/Infra",
       "department": "",
       "location": "",
       "deadline": "2026-07-13",
       "deadlineTime": "",
       "url": "https://www.skcareers.com/Recruit/Detail/R261303",
-      "_raw": "반도체 용인 클러스터 인프라 아키텍트(서버) 영입 2026년 06월 05일(금) ~ 2026년 07월 13일(월) SK주식회사(AX) Infra/Cloud/Infra",
+      "_raw": "반도체 용인 클러스터 인프라 아키텍트(서버) 영입 2026년 06월 05일(금) ~ 2026년 07월 13일(월) D-7 SK주식회사(AX) Infra/Cloud/Infra",
       "_employmentType": "정규"
     },
     {
@@ -291,22 +281,22 @@
     {
       "company": "CJ (올리브영/올네/대한통운)",
       "companyId": "cj",
-      "title": "[경력] 프로젝트 DBA",
-      "department": "CJ올리브네트웍스 / DBA",
-      "location": "서울",
-      "deadline": "2026-07-20",
-      "deadlineTime": "23:59",
-      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20260428038617"
-    },
-    {
-      "company": "CJ (올리브영/올네/대한통운)",
-      "companyId": "cj",
       "title": "[경력] 프로젝트 Application Architect",
       "department": "CJ올리브네트웍스 / AA(Application Architect)",
       "location": "서울",
       "deadline": "2026-07-20",
       "deadlineTime": "23:59",
       "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20260422038602"
+    },
+    {
+      "company": "CJ (올리브영/올네/대한통운)",
+      "companyId": "cj",
+      "title": "[경력] 프로젝트 DBA",
+      "department": "CJ올리브네트웍스 / DBA",
+      "location": "서울",
+      "deadline": "2026-07-20",
+      "deadlineTime": "23:59",
+      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20260428038617"
     },
     {
       "company": "네이버",
@@ -417,7 +407,7 @@
       "companyId": "lguplus",
       "title": "[Enterprise부문] AIDC 전기/기계 엔지니어 경력채용",
       "department": "",
-      "location": "",
+      "location": "경력",
       "deadline": "2026-07-31",
       "deadlineTime": "23:00",
       "url": "https://careers.lg.com/channel/detail/lgu/job_openings"
@@ -555,12 +545,12 @@
     {
       "company": "CJ (올리브영/올네/대한통운)",
       "companyId": "cj",
-      "title": "[경력] SAP PP 운영/개발",
-      "department": "CJ올리브네트웍스 / 시스템 개발/운영(SAP)",
+      "title": "[경력] SAP 모듈 컨설턴트",
+      "department": "CJ올리브네트웍스 / SAP 컨설턴트",
       "location": "서울",
       "deadline": "2026-07-31",
       "deadlineTime": "23:59",
-      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20231030020572"
+      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20240729026055"
     },
     {
       "company": "CJ (올리브영/올네/대한통운)",
@@ -575,12 +565,12 @@
     {
       "company": "CJ (올리브영/올네/대한통운)",
       "companyId": "cj",
-      "title": "[경력] SAP 모듈 컨설턴트",
-      "department": "CJ올리브네트웍스 / SAP 컨설턴트",
+      "title": "[경력] SAP PP 운영/개발",
+      "department": "CJ올리브네트웍스 / 시스템 개발/운영(SAP)",
       "location": "서울",
       "deadline": "2026-07-31",
       "deadlineTime": "23:59",
-      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20240729026055"
+      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20231030020572"
     },
     {
       "company": "CJ (올리브영/올네/대한통운)",

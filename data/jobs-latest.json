@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-07-05T15:05:00.538Z",
-  "totalCount": 163,
+  "fetchedAt": "2026-07-06T15:05:36.657Z",
+  "totalCount": 155,
   "companies": [
     "당근",
     "현대오토에버",
@@ -18,32 +18,13 @@
     "티맵모빌리티",
     "한화시스템"
   ],
-  "errors": [],
+  "errors": [
+    {
+      "company": "한화시스템",
+      "error": "fetch failed"
+    }
+  ],
   "jobs": [
-    {
-      "company": "네이버",
-      "companyId": "naver",
-      "title": "[네이버랩스] Large-scale Full 3D Mesh Research Engineer 모집 부서 Tech 모집 분야 AI/ML 모집 경력 경력 근로 조건 정규 모집 기간 2026.06.22 ~ 2026.07.06",
-      "department": "",
-      "location": "",
-      "deadline": "2026-07-06",
-      "deadlineTime": "",
-      "url": "https://recruit.navercorp.com/rcrt/list.do?annoId=&sw=&subJobCdData=1010001%2C1010002%2C1010003%2C1010005%2C1010008%2C1010020&sysCompanyCdData=&jobCdData=1010#n",
-      "_raw": "[네이버랩스] Large-scale Full 3D Mesh Research Engineer 모집 부서 Tech 모집 분야 AI/ML 모집 경력 경력 근로 조건 정규 모집 기간 2026.06.22 ~ 2026.07.06",
-      "_employmentType": ""
-    },
-    {
-      "company": "네이버",
-      "companyId": "naver",
-      "title": "[NAVER Cloud] ER 담당 (경력) 모집 부서 Corporate 모집 분야 Employee Relations 모집 경력 경력 근로 조건 정규 모집 기간 2026.06.24 ~ 2026.07.06",
-      "department": "",
-      "location": "",
-      "deadline": "2026-07-06",
-      "deadlineTime": "",
-      "url": "https://recruit.navercorp.com/rcrt/list.do?annoId=&sw=&subJobCdData=1010001%2C1010002%2C1010003%2C1010005%2C1010008%2C1010020&sysCompanyCdData=&jobCdData=1010#n",
-      "_raw": "[NAVER Cloud] ER 담당 (경력) 모집 부서 Corporate 모집 분야 Employee Relations 모집 경력 경력 근로 조건 정규 모집 기간 2026.06.24 ~ 2026.07.06",
-      "_employmentType": ""
-    },
     {
       "company": "CJ (올리브영/올네/대한통운)",
       "companyId": "cj",
@@ -83,18 +64,6 @@
       "deadline": "2026-07-06",
       "deadlineTime": "18:00",
       "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20260602039072"
-    },
-    {
-      "company": "SK AX",
-      "companyId": "skax",
-      "title": "Digital Twin Platform 개발 전문가 영입 D-DAY SK주식회사(AX) Tech R&D/Software Engineering",
-      "department": "",
-      "location": "",
-      "deadline": "2026-07-06",
-      "deadlineTime": "",
-      "url": "https://www.skcareers.com/Recruit/Detail/R261175",
-      "_raw": "Digital Twin Platform 개발 전문가 영입 2026년 06월 02일(화) ~ 2026년 07월 06일(월) D-DAY SK주식회사(AX) Tech R&D/Software Engineering",
-      "_employmentType": "정규"
     },
     {
       "company": "현대오토에버",
@@ -147,46 +116,6 @@
       "url": "https://careers.lg.com/channel/detail/lgu/job_openings"
     },
     {
-      "company": "한화시스템",
-      "companyId": "hanwha",
-      "title": "ERP 컨설턴트 경력사원 채용",
-      "department": "한화시스템/ICT",
-      "location": "",
-      "deadline": "2026-07-12",
-      "deadlineTime": "23:59",
-      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19158"
-    },
-    {
-      "company": "한화시스템",
-      "companyId": "hanwha",
-      "title": "PLM PM급 전문가 경력사원 채용",
-      "department": "한화시스템/ICT",
-      "location": "",
-      "deadline": "2026-07-12",
-      "deadlineTime": "23:59",
-      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19157"
-    },
-    {
-      "company": "한화시스템",
-      "companyId": "hanwha",
-      "title": "스마트팩토리 시스템 구축 분야(계획, 생산, 공정, 품질, 설비, 통신) 경력사원 채용",
-      "department": "한화시스템/ICT",
-      "location": "",
-      "deadline": "2026-07-12",
-      "deadlineTime": "23:59",
-      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19155"
-    },
-    {
-      "company": "한화시스템",
-      "companyId": "hanwha",
-      "title": "한화시스템 IT 인프라 관리 담당 경력사원 채용",
-      "department": "한화시스템/방산",
-      "location": "",
-      "deadline": "2026-07-12",
-      "deadlineTime": "23:59",
-      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19128"
-    },
-    {
       "company": "CJ (올리브영/올네/대한통운)",
       "companyId": "cj",
       "title": "[경력] 화이트해커(Red Team)",
@@ -199,25 +128,25 @@
     {
       "company": "SK AX",
       "companyId": "skax",
-      "title": "반도체 용인 클러스터 네트워크 구축 TA 영입 D-7 SK주식회사(AX) Infra/Cloud/Infra",
+      "title": "반도체 용인 클러스터 네트워크 구축 TA 영입 D-6 SK주식회사(AX) Infra/Cloud/Infra",
       "department": "",
       "location": "",
       "deadline": "2026-07-13",
       "deadlineTime": "",
       "url": "https://www.skcareers.com/Recruit/Detail/R261302",
-      "_raw": "반도체 용인 클러스터 네트워크 구축 TA 영입 2026년 06월 05일(금) ~ 2026년 07월 13일(월) D-7 SK주식회사(AX) Infra/Cloud/Infra",
+      "_raw": "반도체 용인 클러스터 네트워크 구축 TA 영입 2026년 06월 05일(금) ~ 2026년 07월 13일(월) D-6 SK주식회사(AX) Infra/Cloud/Infra",
       "_employmentType": "정규"
     },
     {
       "company": "SK AX",
       "companyId": "skax",
-      "title": "반도체 용인 클러스터 인프라 아키텍트(서버) 영입 D-7 SK주식회사(AX) Infra/Cloud/Infra",
+      "title": "반도체 용인 클러스터 인프라 아키텍트(서버) 영입 D-6 SK주식회사(AX) Infra/Cloud/Infra",
       "department": "",
       "location": "",
       "deadline": "2026-07-13",
       "deadlineTime": "",
       "url": "https://www.skcareers.com/Recruit/Detail/R261303",
-      "_raw": "반도체 용인 클러스터 인프라 아키텍트(서버) 영입 2026년 06월 05일(금) ~ 2026년 07월 13일(월) D-7 SK주식회사(AX) Infra/Cloud/Infra",
+      "_raw": "반도체 용인 클러스터 인프라 아키텍트(서버) 영입 2026년 06월 05일(금) ~ 2026년 07월 13일(월) D-6 SK주식회사(AX) Infra/Cloud/Infra",
       "_employmentType": "정규"
     },
     {
@@ -281,22 +210,22 @@
     {
       "company": "CJ (올리브영/올네/대한통운)",
       "companyId": "cj",
-      "title": "[경력] 프로젝트 Application Architect",
-      "department": "CJ올리브네트웍스 / AA(Application Architect)",
-      "location": "서울",
-      "deadline": "2026-07-20",
-      "deadlineTime": "23:59",
-      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20260422038602"
-    },
-    {
-      "company": "CJ (올리브영/올네/대한통운)",
-      "companyId": "cj",
       "title": "[경력] 프로젝트 DBA",
       "department": "CJ올리브네트웍스 / DBA",
       "location": "서울",
       "deadline": "2026-07-20",
       "deadlineTime": "23:59",
       "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20260428038617"
+    },
+    {
+      "company": "CJ (올리브영/올네/대한통운)",
+      "companyId": "cj",
+      "title": "[경력] 프로젝트 Application Architect",
+      "department": "CJ올리브네트웍스 / AA(Application Architect)",
+      "location": "서울",
+      "deadline": "2026-07-20",
+      "deadlineTime": "23:59",
+      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20260422038602"
     },
     {
       "company": "네이버",
@@ -545,22 +474,22 @@
     {
       "company": "CJ (올리브영/올네/대한통운)",
       "companyId": "cj",
-      "title": "[경력] SAP 모듈 컨설턴트",
-      "department": "CJ올리브네트웍스 / SAP 컨설턴트",
-      "location": "서울",
-      "deadline": "2026-07-31",
-      "deadlineTime": "23:59",
-      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20240729026055"
-    },
-    {
-      "company": "CJ (올리브영/올네/대한통운)",
-      "companyId": "cj",
       "title": "[경력] 대내외 고객사 SAP FI 운영/개발",
       "department": "CJ올리브네트웍스 / 시스템 개발/운영(SAP)",
       "location": "서울",
       "deadline": "2026-07-31",
       "deadlineTime": "23:59",
       "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20240722026043"
+    },
+    {
+      "company": "CJ (올리브영/올네/대한통운)",
+      "companyId": "cj",
+      "title": "[경력] SAP 모듈 컨설턴트",
+      "department": "CJ올리브네트웍스 / SAP 컨설턴트",
+      "location": "서울",
+      "deadline": "2026-07-31",
+      "deadlineTime": "23:59",
+      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20240729026055"
     },
     {
       "company": "CJ (올리브영/올네/대한통운)",
@@ -1050,18 +979,6 @@
     {
       "company": "토스",
       "companyId": "toss",
-      "title": "Cloud Engineer 인프라",
-      "department": "",
-      "location": "",
-      "deadline": "",
-      "deadlineTime": "",
-      "url": "https://toss.im/career/job-detail?job_id=6677722003",
-      "_raw": "Cloud Engineer 인프라 ・ 오픈스택 ・ 클라우드 토스",
-      "_employmentType": ""
-    },
-    {
-      "company": "토스",
-      "companyId": "toss",
       "title": "Customer Hero (정착지원금 50만원) 신입",
       "department": "",
       "location": "",
@@ -1092,7 +1009,7 @@
       "deadline": "",
       "deadlineTime": "",
       "url": "https://toss.im/career/job-detail?job_id=4071103003",
-      "_raw": "Data Engineer 데이터 ・ 파이프라인 ・ Hadoop ・ Python 토스 외 4개 계열사",
+      "_raw": "Data Engineer 데이터 ・ 파이프라인 ・ Hadoop ・ Python 토스 외 3개 계열사",
       "_employmentType": ""
     },
     {
@@ -1367,7 +1284,7 @@
       "location": "",
       "deadline": "",
       "deadlineTime": "",
-      "url": "https://toss.im/career/job-detail?job_id=7686375003",
+      "url": "https://toss.im/career/job-detail?job_id=7734083003",
       "_raw": "Node.js Developer 개발 ・ Typescript ・ Nest.js ・ Node.js 토스 증권 플레이스",
       "_employmentType": ""
     },
@@ -1535,8 +1452,8 @@
       "location": "",
       "deadline": "",
       "deadlineTime": "",
-      "url": "https://toss.im/career/job-detail?job_id=4071157003",
-      "_raw": "Systems Engineer 인프라 ・ 시스템 ・ 클라우드 토스 증권 페이먼츠",
+      "url": "https://toss.im/career/job-detail?job_id=7795677003",
+      "_raw": "Systems Engineer 인프라 ・ 시스템 ・ GPU 토스 증권 페이먼츠",
       "_employmentType": ""
     },
     {

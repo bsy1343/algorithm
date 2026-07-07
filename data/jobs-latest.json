@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-07-06T15:05:36.657Z",
-  "totalCount": 155,
+  "fetchedAt": "2026-07-07T15:05:59.806Z",
+  "totalCount": 157,
   "companies": [
     "당근",
     "현대오토에버",
@@ -25,46 +25,6 @@
     }
   ],
   "jobs": [
-    {
-      "company": "CJ (올리브영/올네/대한통운)",
-      "companyId": "cj",
-      "title": "[경력] 보안솔루션 운영 및 관리",
-      "department": "CJ올리브네트웍스 / 정보보호(보안)",
-      "location": "서울",
-      "deadline": "2026-07-06",
-      "deadlineTime": "23:59",
-      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20260406038555"
-    },
-    {
-      "company": "CJ (올리브영/올네/대한통운)",
-      "companyId": "cj",
-      "title": "[경력] SASE 보안 컨설팅 및 운영 관리",
-      "department": "CJ올리브네트웍스 / IT컨설팅",
-      "location": "서울",
-      "deadline": "2026-07-06",
-      "deadlineTime": "23:59",
-      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20260306037808"
-    },
-    {
-      "company": "CJ (올리브영/올네/대한통운)",
-      "companyId": "cj",
-      "title": "[경력] 정보보호 컨설턴트",
-      "department": "CJ올리브네트웍스 / IT컨설팅",
-      "location": "서울",
-      "deadline": "2026-07-06",
-      "deadlineTime": "23:59",
-      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20260306037807"
-    },
-    {
-      "company": "CJ (올리브영/올네/대한통운)",
-      "companyId": "cj",
-      "title": "[경력] Dubbing Project Manager",
-      "department": "CJ올리브네트웍스 / PM(Project Manager)",
-      "location": "분당",
-      "deadline": "2026-07-06",
-      "deadlineTime": "18:00",
-      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20260602039072"
-    },
     {
       "company": "현대오토에버",
       "companyId": "autoever",
@@ -110,8 +70,18 @@
       "companyId": "lguplus",
       "title": "[정보보안센터] 클라우드 및 AI 보안 아키텍쳐 설계 경력채용",
       "department": "",
-      "location": "",
+      "location": "경력",
       "deadline": "2026-07-12",
+      "deadlineTime": "23:00",
+      "url": "https://careers.lg.com/channel/detail/lgu/job_openings"
+    },
+    {
+      "company": "LG U+",
+      "companyId": "lguplus",
+      "title": "[CTO] DevOps(클라우드컴퓨팅) 경력채용",
+      "department": "개인정보처리방침",
+      "location": "경력",
+      "deadline": "2026-07-13",
       "deadlineTime": "23:00",
       "url": "https://careers.lg.com/channel/detail/lgu/job_openings"
     },
@@ -128,25 +98,25 @@
     {
       "company": "SK AX",
       "companyId": "skax",
-      "title": "반도체 용인 클러스터 네트워크 구축 TA 영입 D-6 SK주식회사(AX) Infra/Cloud/Infra",
+      "title": "반도체 용인 클러스터 네트워크 구축 TA 영입 D-5 SK주식회사(AX) Infra/Cloud/Infra",
       "department": "",
       "location": "",
       "deadline": "2026-07-13",
       "deadlineTime": "",
       "url": "https://www.skcareers.com/Recruit/Detail/R261302",
-      "_raw": "반도체 용인 클러스터 네트워크 구축 TA 영입 2026년 06월 05일(금) ~ 2026년 07월 13일(월) D-6 SK주식회사(AX) Infra/Cloud/Infra",
+      "_raw": "반도체 용인 클러스터 네트워크 구축 TA 영입 2026년 06월 05일(금) ~ 2026년 07월 13일(월) D-5 SK주식회사(AX) Infra/Cloud/Infra",
       "_employmentType": "정규"
     },
     {
       "company": "SK AX",
       "companyId": "skax",
-      "title": "반도체 용인 클러스터 인프라 아키텍트(서버) 영입 D-6 SK주식회사(AX) Infra/Cloud/Infra",
+      "title": "반도체 용인 클러스터 인프라 아키텍트(서버) 영입 D-5 SK주식회사(AX) Infra/Cloud/Infra",
       "department": "",
       "location": "",
       "deadline": "2026-07-13",
       "deadlineTime": "",
       "url": "https://www.skcareers.com/Recruit/Detail/R261303",
-      "_raw": "반도체 용인 클러스터 인프라 아키텍트(서버) 영입 2026년 06월 05일(금) ~ 2026년 07월 13일(월) D-6 SK주식회사(AX) Infra/Cloud/Infra",
+      "_raw": "반도체 용인 클러스터 인프라 아키텍트(서버) 영입 2026년 06월 05일(금) ~ 2026년 07월 13일(월) D-5 SK주식회사(AX) Infra/Cloud/Infra",
       "_employmentType": "정규"
     },
     {
@@ -254,6 +224,26 @@
     {
       "company": "현대오토에버",
       "companyId": "autoever",
+      "title": "[SDx] Service Engineer - 스마트팩토리 시스템(스마트태그) 개발 및 운영",
+      "department": "SDx(스마트제조)",
+      "location": "",
+      "deadline": "2026-07-29",
+      "deadlineTime": "23:59",
+      "url": "https://career.hyundai-autoever.com/ko/o/221287"
+    },
+    {
+      "company": "현대오토에버",
+      "companyId": "autoever",
+      "title": "[SDx] Service Engineer - 스마트팩토리 OT 개발 및 운영(울산)",
+      "department": "SDx(스마트제조)",
+      "location": "",
+      "deadline": "2026-07-29",
+      "deadlineTime": "23:59",
+      "url": "https://career.hyundai-autoever.com/ko/o/214818"
+    },
+    {
+      "company": "현대오토에버",
+      "companyId": "autoever",
       "title": "[Tech] Security Engineer - 신규 IT시스템 보안성검토 및 운영시스템 보안관리",
       "department": "Core Tech(AI/DATA/Cloud/보안)",
       "location": "",
@@ -336,7 +326,7 @@
       "companyId": "lguplus",
       "title": "[Enterprise부문] AIDC 전기/기계 엔지니어 경력채용",
       "department": "",
-      "location": "경력",
+      "location": "",
       "deadline": "2026-07-31",
       "deadlineTime": "23:00",
       "url": "https://careers.lg.com/channel/detail/lgu/job_openings"
@@ -474,22 +464,22 @@
     {
       "company": "CJ (올리브영/올네/대한통운)",
       "companyId": "cj",
-      "title": "[경력] 대내외 고객사 SAP FI 운영/개발",
-      "department": "CJ올리브네트웍스 / 시스템 개발/운영(SAP)",
-      "location": "서울",
-      "deadline": "2026-07-31",
-      "deadlineTime": "23:59",
-      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20240722026043"
-    },
-    {
-      "company": "CJ (올리브영/올네/대한통운)",
-      "companyId": "cj",
       "title": "[경력] SAP 모듈 컨설턴트",
       "department": "CJ올리브네트웍스 / SAP 컨설턴트",
       "location": "서울",
       "deadline": "2026-07-31",
       "deadlineTime": "23:59",
       "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20240729026055"
+    },
+    {
+      "company": "CJ (올리브영/올네/대한통운)",
+      "companyId": "cj",
+      "title": "[경력] 대내외 고객사 SAP FI 운영/개발",
+      "department": "CJ올리브네트웍스 / 시스템 개발/운영(SAP)",
+      "location": "서울",
+      "deadline": "2026-07-31",
+      "deadlineTime": "23:59",
+      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20240722026043"
     },
     {
       "company": "CJ (올리브영/올네/대한통운)",
@@ -725,6 +715,15 @@
     {
       "company": "당근",
       "companyId": "daangn",
+      "title": "Software Engineer, Frontend (인턴) - 로컬 잡스 (Lessons & Tutoring)",
+      "department": "",
+      "location": "SEOUL",
+      "deadline": "",
+      "url": "https://about.daangn.com?gh_jid=7684999003"
+    },
+    {
+      "company": "당근",
+      "companyId": "daangn",
       "title": "Software Engineer, Frontend - 로컬 비즈니스 (S&D)",
       "department": "",
       "location": "SEOUL",
@@ -781,16 +780,6 @@
     {
       "company": "현대오토에버",
       "companyId": "autoever",
-      "title": "[SDx] Service Engineer - 스마트팩토리 시스템(스마트태그) 개발 및 운영",
-      "department": "SDx(스마트제조)",
-      "location": "",
-      "deadline": "",
-      "deadlineTime": "",
-      "url": "https://career.hyundai-autoever.com/ko/o/221287"
-    },
-    {
-      "company": "현대오토에버",
-      "companyId": "autoever",
       "title": "[공통] Service Strategy - 플랫폼 계정 서비스 PM",
       "department": "공통/신사업/기타",
       "location": "",
@@ -837,16 +826,6 @@
       "deadline": "",
       "deadlineTime": "",
       "url": "https://career.hyundai-autoever.com/ko/o/215362"
-    },
-    {
-      "company": "현대오토에버",
-      "companyId": "autoever",
-      "title": "[SDx] Service Engineer - 스마트팩토리 OT 개발 및 운영(울산)",
-      "department": "SDx(스마트제조)",
-      "location": "",
-      "deadline": "",
-      "deadlineTime": "",
-      "url": "https://career.hyundai-autoever.com/ko/o/214818"
     },
     {
       "company": "현대오토에버",
@@ -938,6 +917,18 @@
       "deadlineTime": "",
       "url": "https://toss.im/career/job-detail?job_id=7784675003",
       "_raw": "토스커뮤니티 Frontend Chapter 집중 채용 (~7/20) React ・ Typescript ・ Next.js ・ Frontend 인슈어런스 플레이스 인컴",
+      "_employmentType": ""
+    },
+    {
+      "company": "토스",
+      "companyId": "toss",
+      "title": "Account Manger (플랫폼 제휴/사업개발) MD/AM 집중채용",
+      "department": "",
+      "location": "",
+      "deadline": "",
+      "deadlineTime": "",
+      "url": "https://toss.im/career/job-detail?job_id=7789761003",
+      "_raw": "Account Manger (플랫폼 제휴/사업개발) MD/AM 집중채용 ・ 사업 개발 ・ 대형 플랫폼 제휴 ・ 파트너십 토스",
       "_employmentType": ""
     },
     {
@@ -1459,18 +1450,6 @@
     {
       "company": "토스",
       "companyId": "toss",
-      "title": "Systems Engineer (가상화) 인프라",
-      "department": "",
-      "location": "",
-      "deadline": "",
-      "deadlineTime": "",
-      "url": "https://toss.im/career/job-detail?job_id=7532091003",
-      "_raw": "Systems Engineer (가상화) 인프라 ・ Linux ・ AWS ・ shell 증권",
-      "_employmentType": ""
-    },
-    {
-      "company": "토스",
-      "companyId": "toss",
       "title": "Tech Lead (Server) Backend",
       "department": "",
       "location": "",
@@ -1478,6 +1457,18 @@
       "deadlineTime": "",
       "url": "https://toss.im/career/job-detail?job_id=7519850003",
       "_raw": "Tech Lead (Server) Backend ・ Tech ・ Leadership ・ Server 토스",
+      "_employmentType": ""
+    },
+    {
+      "company": "토스",
+      "companyId": "toss",
+      "title": "상담팀 리드 (토스플랫폼 전담팀) 상담팀 리드",
+      "department": "",
+      "location": "",
+      "deadline": "",
+      "deadlineTime": "",
+      "url": "https://toss.im/career/job-detail?job_id=7797504003",
+      "_raw": "상담팀 리드 (토스플랫폼 전담팀) 상담팀 리드 ・ 상담팀장 ・ CS팀장 ・ CS리드 ・ 고객센터 팀장 ・ 고객센터 매니저 씨엑스",
       "_employmentType": ""
     },
     {
@@ -1554,6 +1545,36 @@
       "company": "현대자동차",
       "companyId": "hyundai",
       "title": "[AVP] 모빌리티 플랫폼 Infra Engineer",
+      "department": "#경력",
+      "location": "#서울",
+      "deadline": "",
+      "deadlineTime": "",
+      "url": "https://talent.hyundai.com/apply/applyList.hc?occupDataTagArray=211"
+    },
+    {
+      "company": "현대자동차",
+      "companyId": "hyundai",
+      "title": "[AVP] 모빌리티 서비스 Software Engineer for Map",
+      "department": "#경력",
+      "location": "#서울",
+      "deadline": "",
+      "deadlineTime": "",
+      "url": "https://talent.hyundai.com/apply/applyList.hc?occupDataTagArray=211"
+    },
+    {
+      "company": "현대자동차",
+      "companyId": "hyundai",
+      "title": "[AVP] 모빌리티 서비스 Software Engineer",
+      "department": "#경력",
+      "location": "#서울",
+      "deadline": "",
+      "deadlineTime": "",
+      "url": "https://talent.hyundai.com/apply/applyList.hc?occupDataTagArray=211"
+    },
+    {
+      "company": "현대자동차",
+      "companyId": "hyundai",
+      "title": "[AVP] 모빌리티 서비스 Frontend Engineer",
       "department": "#경력",
       "location": "#서울",
       "deadline": "",

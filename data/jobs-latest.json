@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-07-09T15:05:08.898Z",
-  "totalCount": 146,
+  "fetchedAt": "2026-07-10T15:05:22.003Z",
+  "totalCount": 170,
   "companies": [
     "당근",
     "현대오토에버",
@@ -18,13 +18,48 @@
     "티맵모빌리티",
     "한화시스템"
   ],
-  "errors": [
+  "errors": [],
+  "jobs": [
     {
       "company": "현대오토에버",
-      "error": "page.goto: net::ERR_CONNECTION_CLOSED at https://career.hyundai-autoever.com/ko/apply?careers=EXPERIENCED&employments=FULL_TIME_WORKER\nCall log:\n  - navigating to \"https://career.hyundai-autoever.com/ko/apply?careers=EXPERIENCED&employments=FULL_TIME_WORKER\", waiting until \"domcontentloaded\"\n"
-    }
-  ],
-  "jobs": [
+      "companyId": "autoever",
+      "title": "[SDx] IT PM - Robot Field Application Engineer",
+      "department": "SDx(스마트제조)",
+      "location": "",
+      "deadline": "2026-07-12",
+      "deadlineTime": "23:59",
+      "url": "https://career.hyundai-autoever.com/ko/o/225007"
+    },
+    {
+      "company": "현대오토에버",
+      "companyId": "autoever",
+      "title": "[SDx] Backend Developer - Robot/Smart Factory",
+      "department": "SDx(스마트제조)",
+      "location": "",
+      "deadline": "2026-07-12",
+      "deadlineTime": "23:59",
+      "url": "https://career.hyundai-autoever.com/ko/o/220755"
+    },
+    {
+      "company": "현대오토에버",
+      "companyId": "autoever",
+      "title": "[SDx] Frontend Developer - Robot/Smart Factory",
+      "department": "SDx(스마트제조)",
+      "location": "",
+      "deadline": "2026-07-12",
+      "deadlineTime": "23:59",
+      "url": "https://career.hyundai-autoever.com/ko/o/220750"
+    },
+    {
+      "company": "현대오토에버",
+      "companyId": "autoever",
+      "title": "[SDx] Platform Developer - Robot",
+      "department": "SDx(스마트제조)",
+      "location": "",
+      "deadline": "2026-07-12",
+      "deadlineTime": "23:59",
+      "url": "https://career.hyundai-autoever.com/ko/o/220742"
+    },
     {
       "company": "LG U+",
       "companyId": "lguplus",
@@ -79,8 +114,8 @@
       "company": "LG U+",
       "companyId": "lguplus",
       "title": "[CTO] DevOps(클라우드컴퓨팅) 경력채용",
-      "department": "",
-      "location": "",
+      "department": "개인정보처리방침",
+      "location": "경력",
       "deadline": "2026-07-13",
       "deadlineTime": "23:00",
       "url": "https://careers.lg.com/channel/detail/lgu/job_openings"
@@ -176,6 +211,18 @@
     {
       "company": "네이버",
       "companyId": "naver",
+      "title": "[네이버랩스] Embodied AI Research Engineer (VLA, World Models & E2E Navigation) 모집 부서 Tech 모집 분야 공통 모집 경력 경력 근로 조건 정규 모집 기간 2026.07.09 ~ 2026.07.23",
+      "department": "",
+      "location": "",
+      "deadline": "2026-07-23",
+      "deadlineTime": "",
+      "url": "https://recruit.navercorp.com/rcrt/list.do?annoId=&sw=&subJobCdData=1010001%2C1010002%2C1010003%2C1010005%2C1010008%2C1010020&sysCompanyCdData=&jobCdData=1010#n",
+      "_raw": "[네이버랩스] Embodied AI Research Engineer (VLA, World Models & E2E Navigation) 모집 부서 Tech 모집 분야 공통 모집 경력 경력 근로 조건 정규 모집 기간 2026.07.09 ~ 2026.07.23",
+      "_employmentType": ""
+    },
+    {
+      "company": "네이버",
+      "companyId": "naver",
       "title": "[네이버웹툰] 백엔드 서버 개발 (경력) 모집 부서 Tech 모집 분야 Backend 모집 경력 경력 근로 조건 정규 모집 기간 2026.07.08 ~ 2026.07.26",
       "department": "",
       "location": "",
@@ -208,6 +255,36 @@
       "url": "https://www.skcareers.com/Recruit/Detail/R261430",
       "_raw": "데이터센터 기계/공조설비 전문가 영입 (판교 근무) 2026년 06월 24일(수) ~ 2026년 07월 28일(화) SK주식회사(AX) Infra/Infra 운용/관리/최적화",
       "_employmentType": "정규"
+    },
+    {
+      "company": "현대오토에버",
+      "companyId": "autoever",
+      "title": "[SDx] Service Engineer - 스마트팩토리 시스템(스마트태그) 개발 및 운영",
+      "department": "SDx(스마트제조)",
+      "location": "",
+      "deadline": "2026-07-29",
+      "deadlineTime": "23:59",
+      "url": "https://career.hyundai-autoever.com/ko/o/221287"
+    },
+    {
+      "company": "현대오토에버",
+      "companyId": "autoever",
+      "title": "[SDx] Service Engineer - 스마트팩토리 OT 개발 및 운영(울산)",
+      "department": "SDx(스마트제조)",
+      "location": "",
+      "deadline": "2026-07-29",
+      "deadlineTime": "23:59",
+      "url": "https://career.hyundai-autoever.com/ko/o/214818"
+    },
+    {
+      "company": "현대오토에버",
+      "companyId": "autoever",
+      "title": "[Tech] Security Engineer - 신규 IT시스템 보안성검토 및 운영시스템 보안관리",
+      "department": "Core Tech(AI/DATA/Cloud/보안)",
+      "location": "",
+      "deadline": "2026-07-31",
+      "deadlineTime": "23:59",
+      "url": "https://career.hyundai-autoever.com/ko/o/226103"
     },
     {
       "company": "LG CNS",
@@ -735,6 +812,15 @@
     {
       "company": "당근",
       "companyId": "daangn",
+      "title": "Software Engineer, Frontend (인턴) - 알림",
+      "department": "",
+      "location": "SEOUL",
+      "deadline": "",
+      "url": "https://about.daangn.com?gh_jid=7800913003"
+    },
+    {
+      "company": "당근",
+      "companyId": "daangn",
       "title": "Software Engineer, Frontend - Cross Product Growth (Engagement Part)",
       "department": "",
       "location": "SEOUL",
@@ -785,6 +871,156 @@
       "location": "SEOUL",
       "deadline": "",
       "url": "https://about.daangn.com?gh_jid=7498021003"
+    },
+    {
+      "company": "현대오토에버",
+      "companyId": "autoever",
+      "title": "[Tech] IDC Architect - 데이터센터 설비 기획 및 운영 (전기/기계/소방/안전)",
+      "department": "Core Tech(AI/DATA/Cloud/보안)",
+      "location": "",
+      "deadline": "",
+      "deadlineTime": "",
+      "url": "https://career.hyundai-autoever.com/ko/o/226439"
+    },
+    {
+      "company": "현대오토에버",
+      "companyId": "autoever",
+      "title": "[Tech] Service Security Engineer - Security Analyst (보안 위협 분석/ 북미 대응)",
+      "department": "Core Tech(AI/DATA/Cloud/보안)",
+      "location": "",
+      "deadline": "",
+      "deadlineTime": "",
+      "url": "https://career.hyundai-autoever.com/ko/o/223741"
+    },
+    {
+      "company": "현대오토에버",
+      "companyId": "autoever",
+      "title": "[공통] Service Strategy - 플랫폼 계정 서비스 PM",
+      "department": "공통/신사업/기타",
+      "location": "",
+      "deadline": "",
+      "deadlineTime": "",
+      "url": "https://career.hyundai-autoever.com/ko/o/220519"
+    },
+    {
+      "company": "현대오토에버",
+      "companyId": "autoever",
+      "title": "[공통] Service Strategy - 플랫폼 계정 서비스 PO",
+      "department": "공통/신사업/기타",
+      "location": "",
+      "deadline": "",
+      "deadlineTime": "",
+      "url": "https://career.hyundai-autoever.com/ko/o/220505"
+    },
+    {
+      "company": "현대오토에버",
+      "companyId": "autoever",
+      "title": "[공통] Service Strategy - 플랫폼 계정 서비스 기획",
+      "department": "공통/신사업/기타",
+      "location": "",
+      "deadline": "",
+      "deadlineTime": "",
+      "url": "https://career.hyundai-autoever.com/ko/o/219459"
+    },
+    {
+      "company": "현대오토에버",
+      "companyId": "autoever",
+      "title": "[Tech] Service Security Engineer - DAST 솔루션 운영 및 피싱 모의해킹 플랫폼 운영",
+      "department": "Core Tech(AI/DATA/Cloud/보안)",
+      "location": "",
+      "deadline": "",
+      "deadlineTime": "",
+      "url": "https://career.hyundai-autoever.com/ko/o/215441"
+    },
+    {
+      "company": "현대오토에버",
+      "companyId": "autoever",
+      "title": "[EnIT] Solution Architect - SAP ERP 컨설팅/운영 (FI)",
+      "department": "Enterprise IT",
+      "location": "",
+      "deadline": "",
+      "deadlineTime": "",
+      "url": "https://career.hyundai-autoever.com/ko/o/215362"
+    },
+    {
+      "company": "현대오토에버",
+      "companyId": "autoever",
+      "title": "[EnIT] Solution Architect - SuccessFactors 구축 및 운영",
+      "department": "Enterprise IT",
+      "location": "",
+      "deadline": "",
+      "deadlineTime": "",
+      "url": "https://career.hyundai-autoever.com/ko/o/213899"
+    },
+    {
+      "company": "현대오토에버",
+      "companyId": "autoever",
+      "title": "[EnIT] Solution Architect - SAP ERP 컨설팅/운영 (SD, MM, PM)",
+      "department": "Enterprise IT",
+      "location": "",
+      "deadline": "",
+      "deadlineTime": "",
+      "url": "https://career.hyundai-autoever.com/ko/o/213503"
+    },
+    {
+      "company": "현대오토에버",
+      "companyId": "autoever",
+      "title": "[Tech] Security Engineer - 모의 해킹 및 취약점 진단",
+      "department": "Core Tech(AI/DATA/Cloud/보안)",
+      "location": "",
+      "deadline": "",
+      "deadlineTime": "",
+      "url": "https://career.hyundai-autoever.com/ko/o/213305"
+    },
+    {
+      "company": "현대오토에버",
+      "companyId": "autoever",
+      "title": "[EnIT] Backend Developer - 생성형 AI Service 개발 ",
+      "department": "Enterprise IT",
+      "location": "",
+      "deadline": "",
+      "deadlineTime": "",
+      "url": "https://career.hyundai-autoever.com/ko/o/210922"
+    },
+    {
+      "company": "현대오토에버",
+      "companyId": "autoever",
+      "title": "[EnIT] Service Engineer - AD 운영 및 아키텍처 설계",
+      "department": "Enterprise IT",
+      "location": "",
+      "deadline": "",
+      "deadlineTime": "",
+      "url": "https://career.hyundai-autoever.com/ko/o/210281"
+    },
+    {
+      "company": "현대오토에버",
+      "companyId": "autoever",
+      "title": "[Tech] AI Engineer - AI Researcher",
+      "department": "Core Tech(AI/DATA/Cloud/보안)",
+      "location": "",
+      "deadline": "",
+      "deadlineTime": "",
+      "url": "https://career.hyundai-autoever.com/ko/o/210274"
+    },
+    {
+      "company": "현대오토에버",
+      "companyId": "autoever",
+      "title": "[Tech] AI Engineer - AI Agent 엔지니어",
+      "department": "Core Tech(AI/DATA/Cloud/보안)",
+      "location": "",
+      "deadline": "",
+      "deadlineTime": "",
+      "url": "https://career.hyundai-autoever.com/ko/o/210269"
+    },
+    {
+      "company": "현대오토에버",
+      "companyId": "autoever",
+      "title": "[Tech] AI Engineer - LLM 엔지니어",
+      "department": "Core Tech(AI/DATA/Cloud/보안)",
+      "location": "",
+      "deadline": "",
+      "deadlineTime": "",
+      "url": "https://career.hyundai-autoever.com/ko/o/210263"
     },
     {
       "company": "토스",
@@ -1455,7 +1691,7 @@
     {
       "company": "현대자동차",
       "companyId": "hyundai",
-      "title": "[AVP] 모빌리티 서비스 Software Engineer",
+      "title": "[AVP] 모빌리티 서비스 Frontend Engineer",
       "department": "#경력",
       "location": "#서울",
       "deadline": "",
@@ -1465,7 +1701,7 @@
     {
       "company": "현대자동차",
       "companyId": "hyundai",
-      "title": "[AVP] 모빌리티 서비스 Frontend Engineer",
+      "title": "[AVP] 모빌리티 서비스 Data Engineer",
       "department": "#경력",
       "location": "#서울",
       "deadline": "",

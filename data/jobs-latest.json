@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-07-10T15:05:22.003Z",
-  "totalCount": 170,
+  "fetchedAt": "2026-07-11T15:05:22.997Z",
+  "totalCount": 165,
   "companies": [
     "당근",
     "현대오토에버",
@@ -18,7 +18,12 @@
     "티맵모빌리티",
     "한화시스템"
   ],
-  "errors": [],
+  "errors": [
+    {
+      "company": "한화시스템",
+      "error": "fetch failed"
+    }
+  ],
   "jobs": [
     {
       "company": "현대오토에버",
@@ -63,59 +68,9 @@
     {
       "company": "LG U+",
       "companyId": "lguplus",
-      "title": "[정보보안센터] 클라우드 및 AI 보안 아키텍쳐 설계 경력채용",
+      "title": "[CTO] DevOps(클라우드컴퓨팅) 경력채용",
       "department": "",
       "location": "",
-      "deadline": "2026-07-12",
-      "deadlineTime": "23:00",
-      "url": "https://careers.lg.com/channel/detail/lgu/job_openings"
-    },
-    {
-      "company": "한화시스템",
-      "companyId": "hanwha",
-      "title": "ERP 컨설턴트 경력사원 채용",
-      "department": "한화시스템/ICT",
-      "location": "",
-      "deadline": "2026-07-12",
-      "deadlineTime": "23:59",
-      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19158"
-    },
-    {
-      "company": "한화시스템",
-      "companyId": "hanwha",
-      "title": "PLM 구축 Project Manager 경력사원 채용",
-      "department": "한화시스템/ICT",
-      "location": "",
-      "deadline": "2026-07-12",
-      "deadlineTime": "23:59",
-      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19157"
-    },
-    {
-      "company": "한화시스템",
-      "companyId": "hanwha",
-      "title": "스마트팩토리 시스템 구축 분야(계획, 생산, 공정, 품질, 설비, 통신) 경력사원 채용",
-      "department": "한화시스템/ICT",
-      "location": "",
-      "deadline": "2026-07-12",
-      "deadlineTime": "23:59",
-      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19155"
-    },
-    {
-      "company": "한화시스템",
-      "companyId": "hanwha",
-      "title": "한화시스템 IT 인프라 관리 담당 경력사원 채용",
-      "department": "한화시스템/방산",
-      "location": "",
-      "deadline": "2026-07-12",
-      "deadlineTime": "23:59",
-      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19128"
-    },
-    {
-      "company": "LG U+",
-      "companyId": "lguplus",
-      "title": "[CTO] DevOps(클라우드컴퓨팅) 경력채용",
-      "department": "개인정보처리방침",
-      "location": "경력",
       "deadline": "2026-07-13",
       "deadlineTime": "23:00",
       "url": "https://careers.lg.com/channel/detail/lgu/job_openings"

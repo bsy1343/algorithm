@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-07-11T15:05:22.997Z",
-  "totalCount": 165,
+  "fetchedAt": "2026-07-12T15:05:37.208Z",
+  "totalCount": 160,
   "companies": [
     "당근",
     "현대오토에버",
@@ -18,63 +18,8 @@
     "티맵모빌리티",
     "한화시스템"
   ],
-  "errors": [
-    {
-      "company": "한화시스템",
-      "error": "fetch failed"
-    }
-  ],
+  "errors": [],
   "jobs": [
-    {
-      "company": "현대오토에버",
-      "companyId": "autoever",
-      "title": "[SDx] IT PM - Robot Field Application Engineer",
-      "department": "SDx(스마트제조)",
-      "location": "",
-      "deadline": "2026-07-12",
-      "deadlineTime": "23:59",
-      "url": "https://career.hyundai-autoever.com/ko/o/225007"
-    },
-    {
-      "company": "현대오토에버",
-      "companyId": "autoever",
-      "title": "[SDx] Backend Developer - Robot/Smart Factory",
-      "department": "SDx(스마트제조)",
-      "location": "",
-      "deadline": "2026-07-12",
-      "deadlineTime": "23:59",
-      "url": "https://career.hyundai-autoever.com/ko/o/220755"
-    },
-    {
-      "company": "현대오토에버",
-      "companyId": "autoever",
-      "title": "[SDx] Frontend Developer - Robot/Smart Factory",
-      "department": "SDx(스마트제조)",
-      "location": "",
-      "deadline": "2026-07-12",
-      "deadlineTime": "23:59",
-      "url": "https://career.hyundai-autoever.com/ko/o/220750"
-    },
-    {
-      "company": "현대오토에버",
-      "companyId": "autoever",
-      "title": "[SDx] Platform Developer - Robot",
-      "department": "SDx(스마트제조)",
-      "location": "",
-      "deadline": "2026-07-12",
-      "deadlineTime": "23:59",
-      "url": "https://career.hyundai-autoever.com/ko/o/220742"
-    },
-    {
-      "company": "LG U+",
-      "companyId": "lguplus",
-      "title": "[CTO] DevOps(클라우드컴퓨팅) 경력채용",
-      "department": "",
-      "location": "",
-      "deadline": "2026-07-13",
-      "deadlineTime": "23:00",
-      "url": "https://careers.lg.com/channel/detail/lgu/job_openings"
-    },
     {
       "company": "CJ (올리브영/올네/대한통운)",
       "companyId": "cj",
@@ -146,22 +91,22 @@
     {
       "company": "CJ (올리브영/올네/대한통운)",
       "companyId": "cj",
-      "title": "[경력] 프로젝트 Application Architect",
-      "department": "CJ올리브네트웍스 / AA(Application Architect)",
-      "location": "서울",
-      "deadline": "2026-07-20",
-      "deadlineTime": "23:59",
-      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20260422038602"
-    },
-    {
-      "company": "CJ (올리브영/올네/대한통운)",
-      "companyId": "cj",
       "title": "[경력] 프로젝트 DBA",
       "department": "CJ올리브네트웍스 / DBA",
       "location": "서울",
       "deadline": "2026-07-20",
       "deadlineTime": "23:59",
       "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20260428038617"
+    },
+    {
+      "company": "CJ (올리브영/올네/대한통운)",
+      "companyId": "cj",
+      "title": "[경력] 프로젝트 Application Architect",
+      "department": "CJ올리브네트웍스 / AA(Application Architect)",
+      "location": "서울",
+      "deadline": "2026-07-20",
+      "deadlineTime": "23:59",
+      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20260422038602"
     },
     {
       "company": "네이버",
@@ -326,7 +271,7 @@
       "companyId": "lguplus",
       "title": "[Enterprise부문] AIDC 전기/기계 엔지니어 경력채용",
       "department": "",
-      "location": "경력",
+      "location": "",
       "deadline": "2026-07-31",
       "deadlineTime": "23:00",
       "url": "https://careers.lg.com/channel/detail/lgu/job_openings"

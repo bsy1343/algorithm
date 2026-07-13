@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-07-12T15:05:37.208Z",
-  "totalCount": 160,
+  "fetchedAt": "2026-07-13T15:05:27.180Z",
+  "totalCount": 159,
   "companies": [
     "당근",
     "현대오토에버",
@@ -177,6 +177,18 @@
       "url": "https://career.hyundai-autoever.com/ko/o/214818"
     },
     {
+      "company": "네이버",
+      "companyId": "naver",
+      "title": "[NAVER Cloud] 대외전략 및 협력 담당자 (경력) 모집 부서 Corporate 모집 분야 Strategic Communication 모집 경력 경력 근로 조건 정규 모집 기간 2026.07.13 ~ 2026.07.29",
+      "department": "",
+      "location": "",
+      "deadline": "2026-07-29",
+      "deadlineTime": "",
+      "url": "https://recruit.navercorp.com/rcrt/list.do?annoId=&sw=&subJobCdData=1010001%2C1010002%2C1010003%2C1010005%2C1010008%2C1010020&sysCompanyCdData=&jobCdData=1010#n",
+      "_raw": "[NAVER Cloud] 대외전략 및 협력 담당자 (경력) 모집 부서 Corporate 모집 분야 Strategic Communication 모집 경력 경력 근로 조건 정규 모집 기간 2026.07.13 ~ 2026.07.29",
+      "_employmentType": ""
+    },
+    {
       "company": "현대오토에버",
       "companyId": "autoever",
       "title": "[Tech] Security Engineer - 신규 IT시스템 보안성검토 및 운영시스템 보안관리",
@@ -185,16 +197,6 @@
       "deadline": "2026-07-31",
       "deadlineTime": "23:59",
       "url": "https://career.hyundai-autoever.com/ko/o/226103"
-    },
-    {
-      "company": "LG CNS",
-      "companyId": "lgcns",
-      "title": "[LG CNS] AWS 클라우드 아키텍트 모집 (경력)",
-      "department": "IT서비스",
-      "location": "LG CNS",
-      "deadline": "2026-07-31",
-      "deadlineTime": "23:00",
-      "url": "https://careers.lg.com/apply?c=CNS"
     },
     {
       "company": "LG CNS",
@@ -214,6 +216,16 @@
       "location": "LG CNS",
       "deadline": "2026-07-31",
       "deadlineTime": "23:00",
+      "url": "https://careers.lg.com/apply?c=CNS"
+    },
+    {
+      "company": "LG CNS",
+      "companyId": "lgcns",
+      "title": "[LG CNS] MS Active Directory 아키텍트 모집 (경력)",
+      "department": "IT서비스",
+      "location": "LG CNS",
+      "deadline": "2026-07-31",
+      "deadlineTime": "18:00",
       "url": "https://careers.lg.com/apply?c=CNS"
     },
     {
@@ -289,22 +301,22 @@
     {
       "company": "CJ (올리브영/올네/대한통운)",
       "companyId": "cj",
-      "title": "[티빙] 프로덕트 보안(Product Security) 경력채용",
-      "department": "TVING / 정보보안",
-      "location": "서울",
-      "deadline": "2026-07-31",
-      "deadlineTime": "23:00",
-      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20260709039175"
-    },
-    {
-      "company": "CJ (올리브영/올네/대한통운)",
-      "companyId": "cj",
       "title": "[티빙] 정보보호 담당자(IT Security Compliance Manager) 경력채용",
       "department": "TVING / 정보보안",
       "location": "서울",
       "deadline": "2026-07-31",
       "deadlineTime": "23:00",
       "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20260709038325"
+    },
+    {
+      "company": "CJ (올리브영/올네/대한통운)",
+      "companyId": "cj",
+      "title": "[티빙] 프로덕트 보안(Product Security) 경력채용",
+      "department": "TVING / 정보보안",
+      "location": "서울",
+      "deadline": "2026-07-31",
+      "deadlineTime": "23:00",
+      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20260709039175"
     },
     {
       "company": "CJ (올리브영/올네/대한통운)",
@@ -449,6 +461,16 @@
     {
       "company": "CJ (올리브영/올네/대한통운)",
       "companyId": "cj",
+      "title": "[경력] SAP 모듈 컨설턴트",
+      "department": "CJ올리브네트웍스 / SAP 컨설턴트",
+      "location": "서울",
+      "deadline": "2026-07-31",
+      "deadlineTime": "23:59",
+      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20240729026055"
+    },
+    {
+      "company": "CJ (올리브영/올네/대한통운)",
+      "companyId": "cj",
       "title": "[경력] SAP PP 운영/개발",
       "department": "CJ올리브네트웍스 / 시스템 개발/운영(SAP)",
       "location": "서울",
@@ -465,16 +487,6 @@
       "deadline": "2026-07-31",
       "deadlineTime": "23:59",
       "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20240722026043"
-    },
-    {
-      "company": "CJ (올리브영/올네/대한통운)",
-      "companyId": "cj",
-      "title": "[경력] SAP 모듈 컨설턴트",
-      "department": "CJ올리브네트웍스 / SAP 컨설턴트",
-      "location": "서울",
-      "deadline": "2026-07-31",
-      "deadlineTime": "23:59",
-      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20240729026055"
     },
     {
       "company": "CJ (올리브영/올네/대한통운)",
@@ -1357,18 +1369,6 @@
     {
       "company": "토스",
       "companyId": "toss",
-      "title": "Product Operations Manager (커뮤니티 운영 플랫폼) 프로덕트",
-      "department": "",
-      "location": "",
-      "deadline": "",
-      "deadlineTime": "",
-      "url": "https://toss.im/career/job-detail?job_id=6309363003",
-      "_raw": "Product Operations Manager (커뮤니티 운영 플랫폼) 프로덕트 ・ 서비스/상품기획&운영 ・ 커뮤니티 ・ T&S 증권",
-      "_employmentType": ""
-    },
-    {
-      "company": "토스",
-      "companyId": "toss",
       "title": "Purchasing Manager (Infrastructure) 구매",
       "department": "",
       "location": "",
@@ -1592,16 +1592,6 @@
       "company": "현대자동차",
       "companyId": "hyundai",
       "title": "[AVP] 모빌리티 서비스 Frontend Engineer",
-      "department": "#경력",
-      "location": "#서울",
-      "deadline": "",
-      "deadlineTime": "",
-      "url": "https://talent.hyundai.com/apply/applyList.hc?occupDataTagArray=211"
-    },
-    {
-      "company": "현대자동차",
-      "companyId": "hyundai",
-      "title": "[AVP] 모빌리티 서비스 Data Engineer",
       "department": "#경력",
       "location": "#서울",
       "deadline": "",

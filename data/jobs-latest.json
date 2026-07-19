@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-07-18T15:05:29.225Z",
-  "totalCount": 172,
+  "fetchedAt": "2026-07-19T15:05:28.242Z",
+  "totalCount": 169,
   "companies": [
     "당근",
     "현대오토에버",
@@ -20,18 +20,6 @@
   ],
   "errors": [],
   "jobs": [
-    {
-      "company": "네이버",
-      "companyId": "naver",
-      "title": "[네이버웹툰] Disney 디지털 코믹스 플랫폼 서버 개발 (경력) 모집 부서 Tech 모집 분야 Backend 모집 경력 경력 근로 조건 정규 모집 기간 2026.07.02 ~ 2026.07.19",
-      "department": "",
-      "location": "",
-      "deadline": "2026-07-19",
-      "deadlineTime": "",
-      "url": "https://recruit.navercorp.com/rcrt/list.do?annoId=&sw=&subJobCdData=1010001%2C1010002%2C1010003%2C1010005%2C1010008%2C1010020&sysCompanyCdData=&jobCdData=1010#n",
-      "_raw": "[네이버웹툰] Disney 디지털 코믹스 플랫폼 서버 개발 (경력) 모집 부서 Tech 모집 분야 Backend 모집 경력 경력 근로 조건 정규 모집 기간 2026.07.02 ~ 2026.07.19",
-      "_employmentType": ""
-    },
     {
       "company": "네이버",
       "companyId": "naver",
@@ -978,15 +966,6 @@
     {
       "company": "당근",
       "companyId": "daangn",
-      "title": "Software Engineer, Backend (인턴) - 알림",
-      "department": "",
-      "location": "SEOUL",
-      "deadline": "",
-      "url": "https://about.daangn.com?gh_jid=7651256003"
-    },
-    {
-      "company": "당근",
-      "companyId": "daangn",
       "title": "Software Engineer, Backend - 서비스 코어 (Identity Service)",
       "department": "",
       "location": "SEOUL",
@@ -1046,15 +1025,6 @@
       "location": "SEOUL",
       "deadline": "",
       "url": "https://about.daangn.com?gh_jid=7668837003"
-    },
-    {
-      "company": "당근",
-      "companyId": "daangn",
-      "title": "Software Engineer, Frontend (인턴) - 로컬 잡스 (Lessons & Tutoring)",
-      "department": "",
-      "location": "SEOUL",
-      "deadline": "",
-      "url": "https://about.daangn.com?gh_jid=7684999003"
     },
     {
       "company": "당근",

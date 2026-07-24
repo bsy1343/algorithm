@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-07-23T15:04:42.874Z",
-  "totalCount": 176,
+  "fetchedAt": "2026-07-24T15:04:32.276Z",
+  "totalCount": 175,
   "companies": [
     "당근",
     "현대오토에버",
@@ -147,13 +147,13 @@
     {
       "company": "SK AX",
       "companyId": "skax",
-      "title": "데이터센터 기계/공조설비 전문가 영입 (판교 근무) D-4 SK주식회사(AX) Infra/Infra 운용/관리/최적화",
+      "title": "데이터센터 기계/공조설비 전문가 영입 (판교 근무) D-3 SK주식회사(AX) Infra/Infra 운용/관리/최적화",
       "department": "",
       "location": "",
       "deadline": "2026-07-28",
       "deadlineTime": "",
       "url": "https://www.skcareers.com/Recruit/Detail/R261430",
-      "_raw": "데이터센터 기계/공조설비 전문가 영입 (판교 근무) 2026년 06월 24일(수) ~ 2026년 07월 28일(화) D-4 SK주식회사(AX) Infra/Infra 운용/관리/최적화",
+      "_raw": "데이터센터 기계/공조설비 전문가 영입 (판교 근무) 2026년 06월 24일(수) ~ 2026년 07월 28일(화) D-3 SK주식회사(AX) Infra/Infra 운용/관리/최적화",
       "_employmentType": "정규"
     },
     {
@@ -483,7 +483,7 @@
       "companyId": "lguplus",
       "title": "[Enterprise부문] AIDC 전기/기계 엔지니어 경력채용",
       "department": "",
-      "location": "",
+      "location": "경력",
       "deadline": "2026-07-31",
       "deadlineTime": "23:00",
       "url": "https://careers.lg.com/channel/detail/lgu/job_openings"
@@ -703,7 +703,7 @@
       "companyId": "lguplus",
       "title": "[CTO] MLOps Engineer 경력채용",
       "department": "",
-      "location": "경력",
+      "location": "",
       "deadline": "2026-08-02",
       "deadlineTime": "23:00",
       "url": "https://careers.lg.com/channel/detail/lgu/job_openings"
@@ -817,16 +817,6 @@
       "deadline": "2026-08-10",
       "deadlineTime": "23:59",
       "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20260716038340"
-    },
-    {
-      "company": "LG CNS",
-      "companyId": "lgcns",
-      "title": "[LG CNS 일본법인] Software Architect 경력 모집 (이메일 지원)",
-      "department": "IT서비스",
-      "location": "LG CNS",
-      "deadline": "2026-08-14",
-      "deadlineTime": "18:00",
-      "url": "https://careers.lg.com/apply?c=CNS"
     },
     {
       "company": "CJ (올리브영/올네/대한통운)",

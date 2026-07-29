@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-07-28T15:05:37.659Z",
-  "totalCount": 167,
+  "fetchedAt": "2026-07-29T15:05:17.256Z",
+  "totalCount": 159,
   "companies": [
     "당근",
     "현대오토에버",
@@ -18,235 +18,8 @@
     "티맵모빌리티",
     "한화시스템"
   ],
-  "errors": [
-    {
-      "company": "한화시스템",
-      "error": "fetch failed"
-    }
-  ],
+  "errors": [],
   "jobs": [
-    {
-      "company": "CJ (올리브영/올네/대한통운)",
-      "companyId": "cj",
-      "title": "[CJ프레시웨이] SCM 데이터 분석/시각화 경력사원 모집",
-      "department": "CJ프레시웨이 / 데이터 분석(AI)",
-      "location": "서울",
-      "deadline": "2026-07-28",
-      "deadlineTime": "23:59",
-      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20260707039164"
-    },
-    {
-      "company": "현대오토에버",
-      "companyId": "autoever",
-      "title": "[Tech] IDC Architect - 데이터센터 설비 기획 및 운영 (전기/기계/소방/안전)",
-      "department": "Core Tech(AI/DATA/Cloud/보안)",
-      "location": "",
-      "deadline": "2026-07-29",
-      "deadlineTime": "23:59",
-      "url": "https://career.hyundai-autoever.com/ko/o/226439"
-    },
-    {
-      "company": "현대오토에버",
-      "companyId": "autoever",
-      "title": "[Tech] Security Engineer - 신규 IT시스템 보안성검토 및 운영시스템 보안관리",
-      "department": "Core Tech(AI/DATA/Cloud/보안)",
-      "location": "",
-      "deadline": "2026-07-29",
-      "deadlineTime": "23:59",
-      "url": "https://career.hyundai-autoever.com/ko/o/226103"
-    },
-    {
-      "company": "현대오토에버",
-      "companyId": "autoever",
-      "title": "[Tech] Service Security Engineer - Security Analyst (보안 위협 분석/ 글로벌 사이버 위협 대응 체계 고도화)",
-      "department": "Core Tech(AI/DATA/Cloud/보안)",
-      "location": "",
-      "deadline": "2026-07-29",
-      "deadlineTime": "23:59",
-      "url": "https://career.hyundai-autoever.com/ko/o/223741"
-    },
-    {
-      "company": "현대오토에버",
-      "companyId": "autoever",
-      "title": "[SDx] Service Engineer - 스마트팩토리 시스템(스마트태그) 개발 및 운영",
-      "department": "SDx(스마트제조)",
-      "location": "",
-      "deadline": "2026-07-29",
-      "deadlineTime": "23:59",
-      "url": "https://career.hyundai-autoever.com/ko/o/221287"
-    },
-    {
-      "company": "현대오토에버",
-      "companyId": "autoever",
-      "title": "[공통] Service Strategy - 플랫폼 계정 서비스 PM",
-      "department": "공통/신사업/기타",
-      "location": "",
-      "deadline": "2026-07-29",
-      "deadlineTime": "23:59",
-      "url": "https://career.hyundai-autoever.com/ko/o/220519"
-    },
-    {
-      "company": "현대오토에버",
-      "companyId": "autoever",
-      "title": "[공통] Service Strategy - 플랫폼 계정 서비스 PO",
-      "department": "공통/신사업/기타",
-      "location": "",
-      "deadline": "2026-07-29",
-      "deadlineTime": "23:59",
-      "url": "https://career.hyundai-autoever.com/ko/o/220505"
-    },
-    {
-      "company": "현대오토에버",
-      "companyId": "autoever",
-      "title": "[공통] Service Strategy - 플랫폼 계정 서비스 기획",
-      "department": "공통/신사업/기타",
-      "location": "",
-      "deadline": "2026-07-29",
-      "deadlineTime": "23:59",
-      "url": "https://career.hyundai-autoever.com/ko/o/219459"
-    },
-    {
-      "company": "현대오토에버",
-      "companyId": "autoever",
-      "title": "[Tech] Service Security Engineer - DAST 솔루션 운영 및 피싱 모의해킹 플랫폼 운영",
-      "department": "Core Tech(AI/DATA/Cloud/보안)",
-      "location": "",
-      "deadline": "2026-07-29",
-      "deadlineTime": "23:59",
-      "url": "https://career.hyundai-autoever.com/ko/o/215441"
-    },
-    {
-      "company": "현대오토에버",
-      "companyId": "autoever",
-      "title": "[EnIT] Solution Architect - SAP ERP 컨설팅/운영 (FI)",
-      "department": "Enterprise IT",
-      "location": "",
-      "deadline": "2026-07-29",
-      "deadlineTime": "23:59",
-      "url": "https://career.hyundai-autoever.com/ko/o/215362"
-    },
-    {
-      "company": "현대오토에버",
-      "companyId": "autoever",
-      "title": "[SDx] Service Engineer - 스마트팩토리 OT 개발 및 운영(울산)",
-      "department": "SDx(스마트제조)",
-      "location": "",
-      "deadline": "2026-07-29",
-      "deadlineTime": "23:59",
-      "url": "https://career.hyundai-autoever.com/ko/o/214818"
-    },
-    {
-      "company": "현대오토에버",
-      "companyId": "autoever",
-      "title": "[EnIT] Solution Architect - SuccessFactors 구축 및 운영",
-      "department": "Enterprise IT",
-      "location": "",
-      "deadline": "2026-07-29",
-      "deadlineTime": "23:59",
-      "url": "https://career.hyundai-autoever.com/ko/o/213899"
-    },
-    {
-      "company": "현대오토에버",
-      "companyId": "autoever",
-      "title": "[EnIT] Solution Architect - SAP ERP 컨설팅/운영 (SD, MM, PM)",
-      "department": "Enterprise IT",
-      "location": "",
-      "deadline": "2026-07-29",
-      "deadlineTime": "23:59",
-      "url": "https://career.hyundai-autoever.com/ko/o/213503"
-    },
-    {
-      "company": "현대오토에버",
-      "companyId": "autoever",
-      "title": "[Tech] Security Engineer - 모의 해킹 및 취약점 진단",
-      "department": "Core Tech(AI/DATA/Cloud/보안)",
-      "location": "",
-      "deadline": "2026-07-29",
-      "deadlineTime": "23:59",
-      "url": "https://career.hyundai-autoever.com/ko/o/213305"
-    },
-    {
-      "company": "현대오토에버",
-      "companyId": "autoever",
-      "title": "[EnIT] Service Engineer - AD 운영 및 아키텍처 설계",
-      "department": "Enterprise IT",
-      "location": "",
-      "deadline": "2026-07-29",
-      "deadlineTime": "23:59",
-      "url": "https://career.hyundai-autoever.com/ko/o/210281"
-    },
-    {
-      "company": "현대오토에버",
-      "companyId": "autoever",
-      "title": "[Tech] AI Engineer - AI Researcher",
-      "department": "Core Tech(AI/DATA/Cloud/보안)",
-      "location": "",
-      "deadline": "2026-07-29",
-      "deadlineTime": "23:59",
-      "url": "https://career.hyundai-autoever.com/ko/o/210274"
-    },
-    {
-      "company": "현대오토에버",
-      "companyId": "autoever",
-      "title": "[Tech] AI Engineer - AI Agent 엔지니어",
-      "department": "Core Tech(AI/DATA/Cloud/보안)",
-      "location": "",
-      "deadline": "2026-07-29",
-      "deadlineTime": "23:59",
-      "url": "https://career.hyundai-autoever.com/ko/o/210269"
-    },
-    {
-      "company": "현대오토에버",
-      "companyId": "autoever",
-      "title": "[Tech] AI Engineer - LLM 엔지니어",
-      "department": "Core Tech(AI/DATA/Cloud/보안)",
-      "location": "",
-      "deadline": "2026-07-29",
-      "deadlineTime": "23:59",
-      "url": "https://career.hyundai-autoever.com/ko/o/210263"
-    },
-    {
-      "company": "네이버",
-      "companyId": "naver",
-      "title": "[NAVER Cloud] 대외전략 및 협력 담당자 (경력) 모집 부서 Corporate 모집 분야 Strategic Communication 모집 경력 경력 근로 조건 정규 모집 기간 2026.07.13 ~ 2026.07.29",
-      "department": "",
-      "location": "",
-      "deadline": "2026-07-29",
-      "deadlineTime": "",
-      "url": "https://recruit.navercorp.com/rcrt/list.do?annoId=&sw=&subJobCdData=1010001%2C1010002%2C1010003%2C1010005%2C1010008%2C1010020&sysCompanyCdData=&jobCdData=1010#n",
-      "_raw": "[NAVER Cloud] 대외전략 및 협력 담당자 (경력) 모집 부서 Corporate 모집 분야 Strategic Communication 모집 경력 경력 근로 조건 정규 모집 기간 2026.07.13 ~ 2026.07.29",
-      "_employmentType": ""
-    },
-    {
-      "company": "현대자동차",
-      "companyId": "hyundai",
-      "title": "[ICT] Service Planner - 회원 플랫폼 기획/운영",
-      "department": "#경력",
-      "location": "#양재본사",
-      "deadline": "2026-07-29",
-      "deadlineTime": "",
-      "url": "https://talent.hyundai.com/apply/applyList.hc?occupDataTagArray=211"
-    },
-    {
-      "company": "현대자동차",
-      "companyId": "hyundai",
-      "title": "[ICT] Network Engineer",
-      "department": "#경력",
-      "location": "#서울",
-      "deadline": "2026-07-29",
-      "deadlineTime": "",
-      "url": "https://talent.hyundai.com/apply/applyList.hc?occupDataTagArray=211"
-    },
-    {
-      "company": "현대자동차",
-      "companyId": "hyundai",
-      "title": "[ICT] IT Architect",
-      "department": "#경력",
-      "location": "#서울",
-      "deadline": "2026-07-29",
-      "deadlineTime": "",
-      "url": "https://talent.hyundai.com/apply/applyList.hc?occupDataTagArray=211"
-    },
     {
       "company": "LG CNS",
       "companyId": "lgcns",
@@ -255,16 +28,6 @@
       "location": "LG CNS",
       "deadline": "2026-07-31",
       "deadlineTime": "23:00",
-      "url": "https://careers.lg.com/apply?c=CNS"
-    },
-    {
-      "company": "LG CNS",
-      "companyId": "lgcns",
-      "title": "[LG CNS] MS Active Directory 아키텍트 모집 (경력)",
-      "department": "IT서비스",
-      "location": "LG CNS",
-      "deadline": "2026-07-31",
-      "deadlineTime": "18:00",
       "url": "https://careers.lg.com/apply?c=CNS"
     },
     {
@@ -291,16 +54,6 @@
       "company": "LG CNS",
       "companyId": "lgcns",
       "title": "[LG CNS] 어플리케이션 아키텍트/AI 아키텍트 모집(경력)",
-      "department": "IT서비스",
-      "location": "LG CNS",
-      "deadline": "2026-07-31",
-      "deadlineTime": "23:00",
-      "url": "https://careers.lg.com/apply?c=CNS"
-    },
-    {
-      "company": "LG CNS",
-      "companyId": "lgcns",
-      "title": "[LG CNS] 클라우드 인프라 아키텍트 모집(경력)",
       "department": "IT서비스",
       "location": "LG CNS",
       "deadline": "2026-07-31",
@@ -490,12 +243,12 @@
     {
       "company": "CJ (올리브영/올네/대한통운)",
       "companyId": "cj",
-      "title": "[경력] 대내외 고객사 SAP FI 운영/개발",
+      "title": "[경력] SAP PP 운영/개발",
       "department": "CJ올리브네트웍스 / 시스템 개발/운영(SAP)",
       "location": "서울",
       "deadline": "2026-07-31",
       "deadlineTime": "23:59",
-      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20240722026043"
+      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20231030020572"
     },
     {
       "company": "CJ (올리브영/올네/대한통운)",
@@ -510,12 +263,12 @@
     {
       "company": "CJ (올리브영/올네/대한통운)",
       "companyId": "cj",
-      "title": "[경력] SAP PP 운영/개발",
+      "title": "[경력] 대내외 고객사 SAP FI 운영/개발",
       "department": "CJ올리브네트웍스 / 시스템 개발/운영(SAP)",
       "location": "서울",
       "deadline": "2026-07-31",
       "deadlineTime": "23:59",
-      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20231030020572"
+      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20240722026043"
     },
     {
       "company": "CJ (올리브영/올네/대한통운)",
@@ -536,6 +289,16 @@
       "deadline": "2026-08-02",
       "deadlineTime": "23:00",
       "url": "https://careers.lg.com/channel/detail/lgu/job_openings"
+    },
+    {
+      "company": "한화시스템",
+      "companyId": "hanwha",
+      "title": "제조서비스 인프라 운영 경력사원 채용",
+      "department": "한화시스템/ICT",
+      "location": "",
+      "deadline": "2026-08-02",
+      "deadlineTime": "23:59",
+      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19348"
     },
     {
       "company": "네이버",
@@ -608,36 +371,6 @@
       "_employmentType": ""
     },
     {
-      "company": "현대자동차",
-      "companyId": "hyundai",
-      "title": "[ICT] Solution Architect - ERP SD 판매 모듈",
-      "department": "#경력",
-      "location": "#양재본사",
-      "deadline": "2026-08-05",
-      "deadlineTime": "",
-      "url": "https://talent.hyundai.com/apply/applyList.hc?occupDataTagArray=211"
-    },
-    {
-      "company": "현대자동차",
-      "companyId": "hyundai",
-      "title": "[ICT] Solution Architect - ERP IM 모듈 투자 경상 예산 관리",
-      "department": "#경력",
-      "location": "#양재본사",
-      "deadline": "2026-08-05",
-      "deadlineTime": "",
-      "url": "https://talent.hyundai.com/apply/applyList.hc?occupDataTagArray=211"
-    },
-    {
-      "company": "현대자동차",
-      "companyId": "hyundai",
-      "title": "[ICT] IT Project Manager - 충전 플랫폼 전개/운영",
-      "department": "#경력",
-      "location": "#양재본사",
-      "deadline": "2026-08-05",
-      "deadlineTime": "",
-      "url": "https://talent.hyundai.com/apply/applyList.hc?occupDataTagArray=211"
-    },
-    {
       "company": "네이버",
       "companyId": "naver",
       "title": "[네이버웹툰] 글로벌 계약/정산 정책 및 플랫폼 운영 담당자 (경력) 모집 부서 Corporate 모집 분야 Risk Management 모집 경력 경력 근로 조건 정규 모집 기간 2026.07.23 ~ 2026.08.09",
@@ -648,6 +381,96 @@
       "url": "https://recruit.navercorp.com/rcrt/list.do?annoId=&sw=&subJobCdData=1010001%2C1010002%2C1010003%2C1010005%2C1010008%2C1010020&sysCompanyCdData=&jobCdData=1010#n",
       "_raw": "[네이버웹툰] 글로벌 계약/정산 정책 및 플랫폼 운영 담당자 (경력) 모집 부서 Corporate 모집 분야 Risk Management 모집 경력 경력 근로 조건 정규 모집 기간 2026.07.23 ~ 2026.08.09",
       "_employmentType": ""
+    },
+    {
+      "company": "LG CNS",
+      "companyId": "lgcns",
+      "title": "[LG CNS] MS Active Directory 아키텍트 모집 (경력)",
+      "department": "IT서비스",
+      "location": "LG CNS",
+      "deadline": "2026-08-09",
+      "deadlineTime": "18:00",
+      "url": "https://careers.lg.com/apply?c=CNS"
+    },
+    {
+      "company": "LG CNS",
+      "companyId": "lgcns",
+      "title": "[LG CNS] 클라우드 인프라 아키텍트 모집(경력)",
+      "department": "IT서비스",
+      "location": "LG CNS",
+      "deadline": "2026-08-09",
+      "deadlineTime": "18:00",
+      "url": "https://careers.lg.com/apply?c=CNS"
+    },
+    {
+      "company": "한화시스템",
+      "companyId": "hanwha",
+      "title": "AX 전략기획 경력사원 채용",
+      "department": "한화시스템/ICT",
+      "location": "",
+      "deadline": "2026-08-09",
+      "deadlineTime": "23:59",
+      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19393"
+    },
+    {
+      "company": "한화시스템",
+      "companyId": "hanwha",
+      "title": "VLM Project Manager 경력사원 채용",
+      "department": "한화시스템/ICT",
+      "location": "",
+      "deadline": "2026-08-09",
+      "deadlineTime": "23:59",
+      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19392"
+    },
+    {
+      "company": "한화시스템",
+      "companyId": "hanwha",
+      "title": "AI Agent Project Manager 경력사원 채용",
+      "department": "한화시스템/ICT",
+      "location": "",
+      "deadline": "2026-08-09",
+      "deadlineTime": "23:59",
+      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19391"
+    },
+    {
+      "company": "한화시스템",
+      "companyId": "hanwha",
+      "title": "SWA 경력사원 채용",
+      "department": "한화시스템/ICT",
+      "location": "",
+      "deadline": "2026-08-09",
+      "deadlineTime": "23:59",
+      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19389"
+    },
+    {
+      "company": "한화시스템",
+      "companyId": "hanwha",
+      "title": "ERP 컨설턴트 경력사원 채용",
+      "department": "한화시스템/ICT",
+      "location": "",
+      "deadline": "2026-08-09",
+      "deadlineTime": "23:59",
+      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19388"
+    },
+    {
+      "company": "한화시스템",
+      "companyId": "hanwha",
+      "title": "스마트팩토리 시스템 구축 분야(계획, 생산, 공정, 품질, 설비, 통신) 경력사원 채용",
+      "department": "한화시스템/ICT",
+      "location": "",
+      "deadline": "2026-08-09",
+      "deadlineTime": "23:59",
+      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19386"
+    },
+    {
+      "company": "한화시스템",
+      "companyId": "hanwha",
+      "title": "한화시스템 IT 인프라 관리 담당 경력사원 채용",
+      "department": "한화시스템/방산",
+      "location": "",
+      "deadline": "2026-08-09",
+      "deadlineTime": "23:59",
+      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19378"
     },
     {
       "company": "네이버",
@@ -702,6 +525,18 @@
       "deadline": "2026-08-10",
       "deadlineTime": "23:59",
       "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20260716038339"
+    },
+    {
+      "company": "네이버",
+      "companyId": "naver",
+      "title": "[NAVER] 프라이버시 엔지니어링 (경력) 모집 부서 Corporate 모집 분야 개인정보보호 모집 경력 경력 근로 조건 정규 모집 기간 2026.07.29 ~ 2026.08.11",
+      "department": "",
+      "location": "",
+      "deadline": "2026-08-11",
+      "deadlineTime": "",
+      "url": "https://recruit.navercorp.com/rcrt/list.do?annoId=&sw=&subJobCdData=1010001%2C1010002%2C1010003%2C1010005%2C1010008%2C1010020&sysCompanyCdData=&jobCdData=1010#n",
+      "_raw": "[NAVER] 프라이버시 엔지니어링 (경력) 모집 부서 Corporate 모집 분야 개인정보보호 모집 경력 경력 근로 조건 정규 모집 기간 2026.07.29 ~ 2026.08.11",
+      "_employmentType": ""
     },
     {
       "company": "네이버",
@@ -942,6 +777,15 @@
     {
       "company": "당근",
       "companyId": "daangn",
+      "title": "Software Engineer (인턴) - 로컬 잡스",
+      "department": "",
+      "location": "SEOUL",
+      "deadline": "",
+      "url": "https://about.daangn.com?gh_jid=7819937003"
+    },
+    {
+      "company": "당근",
+      "companyId": "daangn",
       "title": "Software Engineer, Backend - 광고",
       "department": "",
       "location": "SEOUL",
@@ -1134,7 +978,7 @@
       "deadline": "",
       "deadlineTime": "",
       "url": "https://toss.im/career/job-detail?job_id=7621552003",
-      "_raw": "Customer Hero (정착지원금 50만원) 신입 ・ 토스플랫폼 ・ 쇼핑 ・ 커머스 ・ 앱상담 ・ 고객센터 씨엑스",
+      "_raw": "Customer Hero (정착지원금 50만원) 신입 ・ 토스플랫폼 ・ 증권 ・ 주식 ・ 앱상담 ・ 고객센터 씨엑스",
       "_employmentType": ""
     },
     {
@@ -1159,6 +1003,30 @@
       "deadlineTime": "",
       "url": "https://toss.im/career/job-detail?job_id=4695176003",
       "_raw": "Data Engineer Data Platform ・ airflow ・ Hadoop 토스 외 3개 계열사",
+      "_employmentType": ""
+    },
+    {
+      "company": "토스",
+      "companyId": "toss",
+      "title": "Data Engineer (AI) AI Data Platform",
+      "department": "",
+      "location": "",
+      "deadline": "",
+      "deadlineTime": "",
+      "url": "https://toss.im/career/job-detail?job_id=7820096003",
+      "_raw": "Data Engineer (AI) AI Data Platform ・ Ontology ・ Realtime ・ Pipeline 증권",
+      "_employmentType": ""
+    },
+    {
+      "company": "토스",
+      "companyId": "toss",
+      "title": "Data Engineer (Data Service Platform) 데이터",
+      "department": "",
+      "location": "",
+      "deadline": "",
+      "deadlineTime": "",
+      "url": "https://toss.im/career/job-detail?job_id=7777211003",
+      "_raw": "Data Engineer (Data Service Platform) 데이터 ・ 파이프라인 ・ Hadoop ・ HBase 토스",
       "_employmentType": ""
     },
     {
@@ -1654,6 +1522,56 @@
       "_employmentType": ""
     },
     {
+      "company": "현대자동차",
+      "companyId": "hyundai",
+      "title": "[AVP] 모빌리티 플랫폼 UX 기획",
+      "department": "#경력",
+      "location": "#서울",
+      "deadline": "",
+      "deadlineTime": "",
+      "url": "https://talent.hyundai.com/apply/applyList.hc?occupDataTagArray=211"
+    },
+    {
+      "company": "현대자동차",
+      "companyId": "hyundai",
+      "title": "[AVP] 모빌리티 플랫폼 Infra Engineer",
+      "department": "#경력",
+      "location": "#서울",
+      "deadline": "",
+      "deadlineTime": "",
+      "url": "https://talent.hyundai.com/apply/applyList.hc?occupDataTagArray=211"
+    },
+    {
+      "company": "현대자동차",
+      "companyId": "hyundai",
+      "title": "[AVP] 모빌리티 서비스 Software Engineer for Map",
+      "department": "#경력",
+      "location": "#서울",
+      "deadline": "",
+      "deadlineTime": "",
+      "url": "https://talent.hyundai.com/apply/applyList.hc?occupDataTagArray=211"
+    },
+    {
+      "company": "현대자동차",
+      "companyId": "hyundai",
+      "title": "[AVP] 모빌리티 서비스 Frontend Engineer",
+      "department": "#경력",
+      "location": "#서울",
+      "deadline": "",
+      "deadlineTime": "",
+      "url": "https://talent.hyundai.com/apply/applyList.hc?occupDataTagArray=211"
+    },
+    {
+      "company": "현대자동차",
+      "companyId": "hyundai",
+      "title": "[AVP] 모빌리티 서비스 Data Engineer",
+      "department": "#경력",
+      "location": "#서울",
+      "deadline": "",
+      "deadlineTime": "",
+      "url": "https://talent.hyundai.com/apply/applyList.hc?occupDataTagArray=211"
+    },
+    {
       "company": "기아",
       "companyId": "kia",
       "title": "기아 글로벌 채용전환형 인턴십 - 제조 로봇 데이터 엔지니어링 (제조솔루션)",
@@ -1756,22 +1674,22 @@
     {
       "company": "CJ (올리브영/올네/대한통운)",
       "companyId": "cj",
-      "title": "[CJ대한통운]더운반디지털플랫폼 '선행개발 SW엔지니어' 경력사원 모집",
-      "department": "CJ대한통운 / 소프트웨어 엔지니어",
-      "location": "서울",
-      "deadline": "",
-      "deadlineTime": "",
-      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20260326038057"
-    },
-    {
-      "company": "CJ (올리브영/올네/대한통운)",
-      "companyId": "cj",
       "title": "[CJ대한통운]더운반디지털플랫폼 'QA엔지니어' 경력사원 모집",
       "department": "CJ대한통운 / Software QA",
       "location": "서울",
       "deadline": "",
       "deadlineTime": "",
       "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20260326038058"
+    },
+    {
+      "company": "CJ (올리브영/올네/대한통운)",
+      "companyId": "cj",
+      "title": "[CJ대한통운]더운반디지털플랫폼 '선행개발 SW엔지니어' 경력사원 모집",
+      "department": "CJ대한통운 / 소프트웨어 엔지니어",
+      "location": "서울",
+      "deadline": "",
+      "deadlineTime": "",
+      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20260326038057"
     },
     {
       "company": "CJ (올리브영/올네/대한통운)",

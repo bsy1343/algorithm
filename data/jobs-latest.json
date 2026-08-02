@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-01T15:05:18.104Z",
-  "totalCount": 145,
+  "fetchedAt": "2026-08-02T15:05:58.460Z",
+  "totalCount": 132,
   "companies": [
     "당근",
     "현대오토에버",
@@ -18,7 +18,12 @@
     "티맵모빌리티",
     "한화시스템"
   ],
-  "errors": [],
+  "errors": [
+    {
+      "company": "한화시스템",
+      "error": "fetch failed"
+    }
+  ],
   "jobs": [
     {
       "company": "CJ (올리브영/올네/대한통운)",
@@ -29,16 +34,6 @@
       "deadline": "2026-07-20",
       "deadlineTime": "23:59",
       "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20260428038617"
-    },
-    {
-      "company": "한화시스템",
-      "companyId": "hanwha",
-      "title": "제조서비스 인프라 운영 경력사원 채용",
-      "department": "한화시스템/ICT",
-      "location": "",
-      "deadline": "2026-08-02",
-      "deadlineTime": "23:59",
-      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19348"
     },
     {
       "company": "네이버",
@@ -153,76 +148,6 @@
       "deadline": "2026-08-09",
       "deadlineTime": "18:00",
       "url": "https://careers.lg.com/apply?c=CNS"
-    },
-    {
-      "company": "한화시스템",
-      "companyId": "hanwha",
-      "title": "AX 전략기획 경력사원 채용",
-      "department": "한화시스템/ICT",
-      "location": "",
-      "deadline": "2026-08-09",
-      "deadlineTime": "23:59",
-      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19393"
-    },
-    {
-      "company": "한화시스템",
-      "companyId": "hanwha",
-      "title": "VLM Project Manager 경력사원 채용",
-      "department": "한화시스템/ICT",
-      "location": "",
-      "deadline": "2026-08-09",
-      "deadlineTime": "23:59",
-      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19392"
-    },
-    {
-      "company": "한화시스템",
-      "companyId": "hanwha",
-      "title": "AI Agent Project Manager 경력사원 채용",
-      "department": "한화시스템/ICT",
-      "location": "",
-      "deadline": "2026-08-09",
-      "deadlineTime": "23:59",
-      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19391"
-    },
-    {
-      "company": "한화시스템",
-      "companyId": "hanwha",
-      "title": "SWA 경력사원 채용",
-      "department": "한화시스템/ICT",
-      "location": "",
-      "deadline": "2026-08-09",
-      "deadlineTime": "23:59",
-      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19389"
-    },
-    {
-      "company": "한화시스템",
-      "companyId": "hanwha",
-      "title": "ERP 컨설턴트 경력사원 채용",
-      "department": "한화시스템/ICT",
-      "location": "",
-      "deadline": "2026-08-09",
-      "deadlineTime": "23:59",
-      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19388"
-    },
-    {
-      "company": "한화시스템",
-      "companyId": "hanwha",
-      "title": "스마트팩토리 시스템 구축 분야(계획, 생산, 공정, 품질, 설비, 통신) 경력사원 채용",
-      "department": "한화시스템/ICT",
-      "location": "",
-      "deadline": "2026-08-09",
-      "deadlineTime": "23:59",
-      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19386"
-    },
-    {
-      "company": "한화시스템",
-      "companyId": "hanwha",
-      "title": "한화시스템 IT 인프라 관리 담당 경력사원 채용",
-      "department": "한화시스템/방산",
-      "location": "",
-      "deadline": "2026-08-09",
-      "deadlineTime": "23:59",
-      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19378"
     },
     {
       "company": "네이버",
@@ -1392,56 +1317,6 @@
       "url": "https://careers.kakao.com/jobs/P-14476?skillSet=&part=TECHNOLOGY&company=KAKAO&keyword=&employeeType=&page=1",
       "_raw": "LLM Research Engineer (Pre-training) (신입/경력) 영입마감일 영입종료시 근무지 직군 태그 #Algorithm/ML 회사정보 카카오 직원유형 정규직",
       "_employmentType": ""
-    },
-    {
-      "company": "현대자동차",
-      "companyId": "hyundai",
-      "title": "[AVP] 모빌리티 플랫폼 UX 기획",
-      "department": "#경력",
-      "location": "#서울",
-      "deadline": "",
-      "deadlineTime": "",
-      "url": "https://talent.hyundai.com/apply/applyList.hc?occupDataTagArray=211"
-    },
-    {
-      "company": "현대자동차",
-      "companyId": "hyundai",
-      "title": "[AVP] 모빌리티 플랫폼 Infra Engineer",
-      "department": "#경력",
-      "location": "#서울",
-      "deadline": "",
-      "deadlineTime": "",
-      "url": "https://talent.hyundai.com/apply/applyList.hc?occupDataTagArray=211"
-    },
-    {
-      "company": "현대자동차",
-      "companyId": "hyundai",
-      "title": "[AVP] 모빌리티 서비스 Software Engineer for Map",
-      "department": "#경력",
-      "location": "#서울",
-      "deadline": "",
-      "deadlineTime": "",
-      "url": "https://talent.hyundai.com/apply/applyList.hc?occupDataTagArray=211"
-    },
-    {
-      "company": "현대자동차",
-      "companyId": "hyundai",
-      "title": "[AVP] 모빌리티 서비스 Frontend Engineer",
-      "department": "#경력",
-      "location": "#서울",
-      "deadline": "",
-      "deadlineTime": "",
-      "url": "https://talent.hyundai.com/apply/applyList.hc?occupDataTagArray=211"
-    },
-    {
-      "company": "현대자동차",
-      "companyId": "hyundai",
-      "title": "[AVP] 모빌리티 서비스 Data Engineer",
-      "department": "#경력",
-      "location": "#서울",
-      "deadline": "",
-      "deadlineTime": "",
-      "url": "https://talent.hyundai.com/apply/applyList.hc?occupDataTagArray=211"
     },
     {
       "company": "기아",

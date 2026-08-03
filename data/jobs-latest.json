@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-02T15:05:58.460Z",
-  "totalCount": 132,
+  "fetchedAt": "2026-08-03T15:05:06.029Z",
+  "totalCount": 139,
   "companies": [
     "당근",
     "현대오토에버",
@@ -34,42 +34,6 @@
       "deadline": "2026-07-20",
       "deadlineTime": "23:59",
       "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20260428038617"
-    },
-    {
-      "company": "네이버",
-      "companyId": "naver",
-      "title": "[네이버랩스] Frontend Developer 모집 부서 Tech 모집 분야 Frontend 모집 경력 경력 근로 조건 정규 모집 기간 2026.07.21 ~ 2026.08.03",
-      "department": "",
-      "location": "",
-      "deadline": "2026-08-03",
-      "deadlineTime": "",
-      "url": "https://recruit.navercorp.com/rcrt/list.do?annoId=&sw=&subJobCdData=1010001%2C1010002%2C1010003%2C1010005%2C1010008%2C1010020&sysCompanyCdData=&jobCdData=1010#n",
-      "_raw": "[네이버랩스] Frontend Developer 모집 부서 Tech 모집 분야 Frontend 모집 경력 경력 근로 조건 정규 모집 기간 2026.07.21 ~ 2026.08.03",
-      "_employmentType": ""
-    },
-    {
-      "company": "네이버",
-      "companyId": "naver",
-      "title": "[네이버랩스] Generative AI Engineer (2D/3D) 모집 부서 Tech 모집 분야 Graphics 모집 경력 경력 근로 조건 정규 모집 기간 2026.07.20 ~ 2026.08.03",
-      "department": "",
-      "location": "",
-      "deadline": "2026-08-03",
-      "deadlineTime": "",
-      "url": "https://recruit.navercorp.com/rcrt/list.do?annoId=&sw=&subJobCdData=1010001%2C1010002%2C1010003%2C1010005%2C1010008%2C1010020&sysCompanyCdData=&jobCdData=1010#n",
-      "_raw": "[네이버랩스] Generative AI Engineer (2D/3D) 모집 부서 Tech 모집 분야 Graphics 모집 경력 경력 근로 조건 정규 모집 기간 2026.07.20 ~ 2026.08.03",
-      "_employmentType": ""
-    },
-    {
-      "company": "네이버",
-      "companyId": "naver",
-      "title": "[SNOW] 클라우드 보안 담당 모집 부서 Tech 모집 분야 Security 모집 경력 경력 근로 조건 정규 모집 기간 2026.07.15 ~ 2026.08.03",
-      "department": "",
-      "location": "",
-      "deadline": "2026-08-03",
-      "deadlineTime": "",
-      "url": "https://recruit.navercorp.com/rcrt/list.do?annoId=&sw=&subJobCdData=1010001%2C1010002%2C1010003%2C1010005%2C1010008%2C1010020&sysCompanyCdData=&jobCdData=1010#n",
-      "_raw": "[SNOW] 클라우드 보안 담당 모집 부서 Tech 모집 분야 Security 모집 경력 경력 근로 조건 정규 모집 기간 2026.07.15 ~ 2026.08.03",
-      "_employmentType": ""
     },
     {
       "company": "CJ (올리브영/올네/대한통운)",
@@ -208,22 +172,22 @@
     {
       "company": "CJ (올리브영/올네/대한통운)",
       "companyId": "cj",
-      "title": "[경력] 차세대 AI-SOC 운영 및 위협 헌팅 전문가",
-      "department": "CJ올리브네트웍스 / 정보보호(보안)",
-      "location": "서울",
-      "deadline": "2026-08-10",
-      "deadlineTime": "23:59",
-      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20260716038340"
-    },
-    {
-      "company": "CJ (올리브영/올네/대한통운)",
-      "companyId": "cj",
       "title": "[경력] 보안솔루션 운영 및 관리",
       "department": "CJ올리브네트웍스 / 정보보호(보안)",
       "location": "서울",
       "deadline": "2026-08-10",
       "deadlineTime": "23:59",
       "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20260716038339"
+    },
+    {
+      "company": "CJ (올리브영/올네/대한통운)",
+      "companyId": "cj",
+      "title": "[경력] 차세대 AI-SOC 운영 및 위협 헌팅 전문가",
+      "department": "CJ올리브네트웍스 / 정보보호(보안)",
+      "location": "서울",
+      "deadline": "2026-08-10",
+      "deadlineTime": "23:59",
+      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20260716038340"
     },
     {
       "company": "네이버",
@@ -259,6 +223,30 @@
       "deadlineTime": "",
       "url": "https://recruit.navercorp.com/rcrt/list.do?annoId=&sw=&subJobCdData=1010001%2C1010002%2C1010003%2C1010005%2C1010008%2C1010020&sysCompanyCdData=&jobCdData=1010#n",
       "_raw": "[네이버웹툰] 프런트엔드 개발자 (글로벌 웹 플랫폼) (경력) 모집 부서 Tech 모집 분야 Frontend 모집 경력 경력 근로 조건 정규 모집 기간 2026.07.27 ~ 2026.08.17",
+      "_employmentType": ""
+    },
+    {
+      "company": "네이버",
+      "companyId": "naver",
+      "title": "[네이버랩스] Robot Embedded System Firmware Engineer 모집 부서 Tech 모집 분야 Embedded SW 모집 경력 무관 근로 조건 정규 모집 기간 2026.08.03 ~ 2026.08.18",
+      "department": "",
+      "location": "",
+      "deadline": "2026-08-18",
+      "deadlineTime": "",
+      "url": "https://recruit.navercorp.com/rcrt/list.do?annoId=&sw=&subJobCdData=1010001%2C1010002%2C1010003%2C1010005%2C1010008%2C1010020&sysCompanyCdData=&jobCdData=1010#n",
+      "_raw": "[네이버랩스] Robot Embedded System Firmware Engineer 모집 부서 Tech 모집 분야 Embedded SW 모집 경력 무관 근로 조건 정규 모집 기간 2026.08.03 ~ 2026.08.18",
+      "_employmentType": ""
+    },
+    {
+      "company": "네이버",
+      "companyId": "naver",
+      "title": "[NAVER Cloud] 클라우드 기술지원 및 운영 PM (경력) 모집 부서 Tech 모집 분야 Cloud Solution Architect 모집 경력 경력 근로 조건 정규 모집 기간 2026.08.03 ~ 2026.08.19",
+      "department": "",
+      "location": "",
+      "deadline": "2026-08-19",
+      "deadlineTime": "",
+      "url": "https://recruit.navercorp.com/rcrt/list.do?annoId=&sw=&subJobCdData=1010001%2C1010002%2C1010003%2C1010005%2C1010008%2C1010020&sysCompanyCdData=&jobCdData=1010#n",
+      "_raw": "[NAVER Cloud] 클라우드 기술지원 및 운영 PM (경력) 모집 부서 Tech 모집 분야 Cloud Solution Architect 모집 경력 경력 근로 조건 정규 모집 기간 2026.08.03 ~ 2026.08.19",
       "_employmentType": ""
     },
     {
@@ -370,6 +358,26 @@
       "deadline": "2026-08-31",
       "deadlineTime": "23:00",
       "url": "https://careers.lg.com/apply?c=CNS"
+    },
+    {
+      "company": "CJ (올리브영/올네/대한통운)",
+      "companyId": "cj",
+      "title": "[경력] 클라우드 VDI 엔지니어",
+      "department": "CJ올리브네트웍스 / 클라우드 엔지니어",
+      "location": "인천(송도)",
+      "deadline": "2026-08-31",
+      "deadlineTime": "23:59",
+      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20260803038365"
+    },
+    {
+      "company": "CJ (올리브영/올네/대한통운)",
+      "companyId": "cj",
+      "title": "[경력] 클라우드 엔지니어(AWS, Azure)",
+      "department": "CJ올리브네트웍스 / 클라우드 엔지니어",
+      "location": "인천(송도)",
+      "deadline": "2026-08-31",
+      "deadlineTime": "23:59",
+      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20260803038366"
     },
     {
       "company": "CJ (올리브영/올네/대한통운)",
@@ -494,22 +502,22 @@
     {
       "company": "CJ (올리브영/올네/대한통운)",
       "companyId": "cj",
-      "title": "[경력] SAP 모듈 컨설턴트",
-      "department": "CJ올리브네트웍스 / SAP 컨설턴트",
-      "location": "서울",
-      "deadline": "2026-08-31",
-      "deadlineTime": "23:59",
-      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20240729026055"
-    },
-    {
-      "company": "CJ (올리브영/올네/대한통운)",
-      "companyId": "cj",
       "title": "[경력] SAP PP 운영/개발",
       "department": "CJ올리브네트웍스 / 시스템 개발/운영(SAP)",
       "location": "서울",
       "deadline": "2026-08-31",
       "deadlineTime": "23:59",
       "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20231030020572"
+    },
+    {
+      "company": "CJ (올리브영/올네/대한통운)",
+      "companyId": "cj",
+      "title": "[경력] SAP 모듈 컨설턴트",
+      "department": "CJ올리브네트웍스 / SAP 컨설턴트",
+      "location": "서울",
+      "deadline": "2026-08-31",
+      "deadlineTime": "23:59",
+      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20240729026055"
     },
     {
       "company": "SK AX",
@@ -1247,6 +1255,18 @@
       "_employmentType": ""
     },
     {
+      "company": "토스",
+      "companyId": "toss",
+      "title": "토스뱅크 Server Developer 채용 연계형 인턴십 (~8/17) 개발",
+      "department": "",
+      "location": "",
+      "deadline": "",
+      "deadlineTime": "",
+      "url": "https://toss.im/career/job-detail?job_id=7816881003",
+      "_raw": "토스뱅크 Server Developer 채용 연계형 인턴십 (~8/17) 개발 ・ Server ・ 인턴십 ・ Internship 뱅크",
+      "_employmentType": ""
+    },
+    {
       "company": "카카오",
       "companyId": "kakao",
       "title": "AI 추론/학습 효율화 Engineer (경력) 영입마감일 영입종료시 근무지 직군 태그 #Algorithm/ML 회사정보 카카오 직원유형 정규직",
@@ -1317,6 +1337,56 @@
       "url": "https://careers.kakao.com/jobs/P-14476?skillSet=&part=TECHNOLOGY&company=KAKAO&keyword=&employeeType=&page=1",
       "_raw": "LLM Research Engineer (Pre-training) (신입/경력) 영입마감일 영입종료시 근무지 직군 태그 #Algorithm/ML 회사정보 카카오 직원유형 정규직",
       "_employmentType": ""
+    },
+    {
+      "company": "현대자동차",
+      "companyId": "hyundai",
+      "title": "[AVP] 모빌리티 플랫폼 UX 기획",
+      "department": "#경력",
+      "location": "#서울",
+      "deadline": "",
+      "deadlineTime": "",
+      "url": "https://talent.hyundai.com/apply/applyList.hc?occupDataTagArray=211"
+    },
+    {
+      "company": "현대자동차",
+      "companyId": "hyundai",
+      "title": "[AVP] 모빌리티 플랫폼 Infra Engineer",
+      "department": "#경력",
+      "location": "#서울",
+      "deadline": "",
+      "deadlineTime": "",
+      "url": "https://talent.hyundai.com/apply/applyList.hc?occupDataTagArray=211"
+    },
+    {
+      "company": "현대자동차",
+      "companyId": "hyundai",
+      "title": "[AVP] 모빌리티 서비스 Software Engineer for Map",
+      "department": "#경력",
+      "location": "#서울",
+      "deadline": "",
+      "deadlineTime": "",
+      "url": "https://talent.hyundai.com/apply/applyList.hc?occupDataTagArray=211"
+    },
+    {
+      "company": "현대자동차",
+      "companyId": "hyundai",
+      "title": "[AVP] 모빌리티 서비스 Frontend Engineer",
+      "department": "#경력",
+      "location": "#서울",
+      "deadline": "",
+      "deadlineTime": "",
+      "url": "https://talent.hyundai.com/apply/applyList.hc?occupDataTagArray=211"
+    },
+    {
+      "company": "현대자동차",
+      "companyId": "hyundai",
+      "title": "[AVP] 모빌리티 서비스 Data Engineer",
+      "department": "#경력",
+      "location": "#서울",
+      "deadline": "",
+      "deadlineTime": "",
+      "url": "https://talent.hyundai.com/apply/applyList.hc?occupDataTagArray=211"
     },
     {
       "company": "기아",

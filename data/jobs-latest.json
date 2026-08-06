@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-05T15:05:01.316Z",
-  "totalCount": 159,
+  "fetchedAt": "2026-08-06T15:05:10.006Z",
+  "totalCount": 156,
   "companies": [
     "당근",
     "현대오토에버",
@@ -18,7 +18,12 @@
     "티맵모빌리티",
     "한화시스템"
   ],
-  "errors": [],
+  "errors": [
+    {
+      "company": "한화시스템",
+      "error": "fetch failed"
+    }
+  ],
   "jobs": [
     {
       "company": "CJ (올리브영/올네/대한통운)",
@@ -29,18 +34,6 @@
       "deadline": "2026-07-20",
       "deadlineTime": "23:59",
       "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20260428038617"
-    },
-    {
-      "company": "네이버",
-      "companyId": "naver",
-      "title": "[네이버랩스] Field Robotics Engineer (Hybrid RL Navigation & Safety) 모집 부서 Tech 모집 분야 공통 모집 경력 경력 근로 조건 정규 모집 기간 2026.07.30 ~ 2026.08.06",
-      "department": "",
-      "location": "",
-      "deadline": "2026-08-06",
-      "deadlineTime": "",
-      "url": "https://recruit.navercorp.com/rcrt/list.do?annoId=&sw=&subJobCdData=1010001%2C1010002%2C1010003%2C1010005%2C1010008%2C1010020&sysCompanyCdData=&jobCdData=1010#n",
-      "_raw": "[네이버랩스] Field Robotics Engineer (Hybrid RL Navigation & Safety) 모집 부서 Tech 모집 분야 공통 모집 경력 경력 근로 조건 정규 모집 기간 2026.07.30 ~ 2026.08.06",
-      "_employmentType": ""
     },
     {
       "company": "네이버",
@@ -73,76 +66,6 @@
       "deadline": "2026-08-09",
       "deadlineTime": "18:00",
       "url": "https://careers.lg.com/apply?c=CNS"
-    },
-    {
-      "company": "한화시스템",
-      "companyId": "hanwha",
-      "title": "AX 전략기획 경력사원 채용",
-      "department": "한화시스템/ICT",
-      "location": "",
-      "deadline": "2026-08-09",
-      "deadlineTime": "23:59",
-      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19393"
-    },
-    {
-      "company": "한화시스템",
-      "companyId": "hanwha",
-      "title": "VLM Project Manager 경력사원 채용",
-      "department": "한화시스템/ICT",
-      "location": "",
-      "deadline": "2026-08-09",
-      "deadlineTime": "23:59",
-      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19392"
-    },
-    {
-      "company": "한화시스템",
-      "companyId": "hanwha",
-      "title": "AI Agent Project Manager 경력사원 채용",
-      "department": "한화시스템/ICT",
-      "location": "",
-      "deadline": "2026-08-09",
-      "deadlineTime": "23:59",
-      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19391"
-    },
-    {
-      "company": "한화시스템",
-      "companyId": "hanwha",
-      "title": "SWA 경력사원 채용",
-      "department": "한화시스템/ICT",
-      "location": "",
-      "deadline": "2026-08-09",
-      "deadlineTime": "23:59",
-      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19389"
-    },
-    {
-      "company": "한화시스템",
-      "companyId": "hanwha",
-      "title": "ERP 컨설턴트 경력사원 채용",
-      "department": "한화시스템/ICT",
-      "location": "",
-      "deadline": "2026-08-09",
-      "deadlineTime": "23:59",
-      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19388"
-    },
-    {
-      "company": "한화시스템",
-      "companyId": "hanwha",
-      "title": "스마트팩토리 시스템 구축 분야(계획, 생산, 공정, 품질, 설비, 통신) 경력사원 채용",
-      "department": "한화시스템/ICT",
-      "location": "",
-      "deadline": "2026-08-09",
-      "deadlineTime": "23:59",
-      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19386"
-    },
-    {
-      "company": "한화시스템",
-      "companyId": "hanwha",
-      "title": "한화시스템 IT 인프라 관리 담당 경력사원 채용",
-      "department": "한화시스템/방산",
-      "location": "",
-      "deadline": "2026-08-09",
-      "deadlineTime": "23:59",
-      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19378"
     },
     {
       "company": "네이버",
@@ -319,6 +242,38 @@
       "deadline": "2026-08-19",
       "deadlineTime": "23:59",
       "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20260306037807"
+    },
+    {
+      "company": "네이버",
+      "companyId": "naver",
+      "title": "[네이버웹툰] Applied AI Backend Engineer (경력) 모집 부서 Tech 모집 분야 AI/ML 모집 경력 경력 근로 조건 정규 모집 기간 2026.08.06 ~ 2026.08.23",
+      "department": "",
+      "location": "",
+      "deadline": "2026-08-23",
+      "deadlineTime": "",
+      "url": "https://recruit.navercorp.com/rcrt/list.do?annoId=&sw=&subJobCdData=1010001%2C1010002%2C1010003%2C1010005%2C1010008%2C1010020&sysCompanyCdData=&jobCdData=1010#n",
+      "_raw": "[네이버웹툰] Applied AI Backend Engineer (경력) 모집 부서 Tech 모집 분야 AI/ML 모집 경력 경력 근로 조건 정규 모집 기간 2026.08.06 ~ 2026.08.23",
+      "_employmentType": ""
+    },
+    {
+      "company": "CJ (올리브영/올네/대한통운)",
+      "companyId": "cj",
+      "title": "[경력] 네트워크/OT 보안 엔지니어",
+      "department": "CJ올리브네트웍스 / 정보보호(보안)",
+      "location": "서울",
+      "deadline": "2026-08-24",
+      "deadlineTime": "23:59",
+      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20260806039250"
+    },
+    {
+      "company": "현대오토에버",
+      "companyId": "autoever",
+      "title": "[EnIT] Solution Architect - Canias ERP FCM 컨설팅",
+      "department": "Enterprise IT",
+      "location": "",
+      "deadline": "2026-08-27",
+      "deadlineTime": "23:59",
+      "url": "https://career.hyundai-autoever.com/ko/o/232234"
     },
     {
       "company": "현대오토에버",
@@ -683,6 +638,16 @@
     {
       "company": "CJ (올리브영/올네/대한통운)",
       "companyId": "cj",
+      "title": "[경력] 대내외 고객사 SAP FI 운영/개발",
+      "department": "CJ올리브네트웍스 / 시스템 개발/운영(SAP)",
+      "location": "서울",
+      "deadline": "2026-08-31",
+      "deadlineTime": "23:59",
+      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20240722026043"
+    },
+    {
+      "company": "CJ (올리브영/올네/대한통운)",
+      "companyId": "cj",
       "title": "[경력] SAP PP 운영/개발",
       "department": "CJ올리브네트웍스 / 시스템 개발/운영(SAP)",
       "location": "서울",
@@ -699,16 +664,6 @@
       "deadline": "2026-08-31",
       "deadlineTime": "23:59",
       "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20240729026055"
-    },
-    {
-      "company": "CJ (올리브영/올네/대한통운)",
-      "companyId": "cj",
-      "title": "[경력] 대내외 고객사 SAP FI 운영/개발",
-      "department": "CJ올리브네트웍스 / 시스템 개발/운영(SAP)",
-      "location": "서울",
-      "deadline": "2026-08-31",
-      "deadlineTime": "23:59",
-      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20240722026043"
     },
     {
       "company": "SK AX",
@@ -842,6 +797,15 @@
       "location": "SEOUL",
       "deadline": "",
       "url": "https://about.daangn.com?gh_jid=6640363003"
+    },
+    {
+      "company": "당근",
+      "companyId": "daangn",
+      "title": "Software Engineer, Backend - 피드 (피드 인프라)",
+      "department": "",
+      "location": "SEOUL",
+      "deadline": "",
+      "url": "https://about.daangn.com?gh_jid=5046757003"
     },
     {
       "company": "당근",
@@ -1458,6 +1422,18 @@
     {
       "company": "카카오",
       "companyId": "kakao",
+      "title": "AI Research Engineer (Search & Agent) (경력) 영입마감일 영입종료시 근무지 직군 태그 #Algorithm/ML 회사정보 카카오 직원유형 정규직",
+      "department": "",
+      "location": "",
+      "deadline": "",
+      "deadlineTime": "",
+      "url": "https://careers.kakao.com/jobs/P-14519?skillSet=&part=TECHNOLOGY&company=KAKAO&keyword=&employeeType=&page=1",
+      "_raw": "AI Research Engineer (Search & Agent) (경력) 영입마감일 영입종료시 근무지 직군 태그 #Algorithm/ML 회사정보 카카오 직원유형 정규직",
+      "_employmentType": ""
+    },
+    {
+      "company": "카카오",
+      "companyId": "kakao",
       "title": "AI 추론/학습 효율화 Engineer (경력) 영입마감일 영입종료시 근무지 직군 태그 #Algorithm/ML 회사정보 카카오 직원유형 정규직",
       "department": "",
       "location": "",
@@ -1580,7 +1556,7 @@
     {
       "company": "기아",
       "companyId": "kia",
-      "title": "기아 글로벌 채용전환형 인턴십 - 제조 로봇 데이터 엔지니어링 (제조솔루션)",
+      "title": "기아 글로벌 채용전환형 인턴십 - 로봇 부품 DFM 엔지니어링 (제조솔루션)",
       "department": "인턴",
       "location": "경기 성남(판교)",
       "deadline": "",
@@ -1590,7 +1566,7 @@
     {
       "company": "기아",
       "companyId": "kia",
-      "title": "기아 글로벌 채용전환형 인턴십 - 로봇 부품 DFM 엔지니어링 (제조솔루션)",
+      "title": "기아 글로벌 채용전환형 인턴십 - 제조 로봇 데이터 엔지니어링 (제조솔루션)",
       "department": "인턴",
       "location": "경기 성남(판교)",
       "deadline": "",
@@ -1670,22 +1646,22 @@
     {
       "company": "CJ (올리브영/올네/대한통운)",
       "companyId": "cj",
-      "title": "[CJ대한통운]더운반디지털플랫폼 '선행개발 SW엔지니어' 경력사원 모집",
-      "department": "CJ대한통운 / 소프트웨어 엔지니어",
-      "location": "서울",
-      "deadline": "",
-      "deadlineTime": "",
-      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20260326038057"
-    },
-    {
-      "company": "CJ (올리브영/올네/대한통운)",
-      "companyId": "cj",
       "title": "[CJ대한통운]더운반디지털플랫폼 'QA엔지니어' 경력사원 모집",
       "department": "CJ대한통운 / Software QA",
       "location": "서울",
       "deadline": "",
       "deadlineTime": "",
       "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20260326038058"
+    },
+    {
+      "company": "CJ (올리브영/올네/대한통운)",
+      "companyId": "cj",
+      "title": "[CJ대한통운]더운반디지털플랫폼 '선행개발 SW엔지니어' 경력사원 모집",
+      "department": "CJ대한통운 / 소프트웨어 엔지니어",
+      "location": "서울",
+      "deadline": "",
+      "deadlineTime": "",
+      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20260326038057"
     },
     {
       "company": "CJ (올리브영/올네/대한통운)",

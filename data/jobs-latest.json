@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-09T15:05:36.096Z",
-  "totalCount": 156,
+  "fetchedAt": "2026-08-10T15:10:05.007Z",
+  "totalCount": 154,
   "companies": [
     "당근",
     "현대오토에버",
@@ -28,52 +28,6 @@
     {
       "company": "CJ (올리브영/올네/대한통운)",
       "companyId": "cj",
-      "title": "[경력] 프로젝트 DBA",
-      "department": "CJ올리브네트웍스 / DBA",
-      "location": "서울",
-      "deadline": "2026-07-20",
-      "deadlineTime": "23:59",
-      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20260428038617"
-    },
-    {
-      "company": "네이버",
-      "companyId": "naver",
-      "title": "[네이버랩스] Computer Vision & 3D Recon. Research Engineer 모집 부서 Tech 모집 분야 AI/ML 모집 경력 경력 근로 조건 정규 모집 기간 2026.07.28 ~ 2026.08.10",
-      "department": "",
-      "location": "",
-      "deadline": "2026-08-10",
-      "deadlineTime": "",
-      "url": "https://recruit.navercorp.com/rcrt/list.do?annoId=&sw=&subJobCdData=1010001%2C1010002%2C1010003%2C1010005%2C1010008%2C1010020&sysCompanyCdData=&jobCdData=1010#n",
-      "_raw": "[네이버랩스] Computer Vision & 3D Recon. Research Engineer 모집 부서 Tech 모집 분야 AI/ML 모집 경력 경력 근로 조건 정규 모집 기간 2026.07.28 ~ 2026.08.10",
-      "_employmentType": ""
-    },
-    {
-      "company": "네이버",
-      "companyId": "naver",
-      "title": "[네이버랩스] 3D Vision Research Engineer 모집 부서 Tech 모집 분야 AI/ML 모집 경력 경력 근로 조건 정규 모집 기간 2026.07.30 ~ 2026.08.10",
-      "department": "",
-      "location": "",
-      "deadline": "2026-08-10",
-      "deadlineTime": "",
-      "url": "https://recruit.navercorp.com/rcrt/list.do?annoId=&sw=&subJobCdData=1010001%2C1010002%2C1010003%2C1010005%2C1010008%2C1010020&sysCompanyCdData=&jobCdData=1010#n",
-      "_raw": "[네이버랩스] 3D Vision Research Engineer 모집 부서 Tech 모집 분야 AI/ML 모집 경력 경력 근로 조건 정규 모집 기간 2026.07.30 ~ 2026.08.10",
-      "_employmentType": ""
-    },
-    {
-      "company": "네이버",
-      "companyId": "naver",
-      "title": "[네이버랩스] Panoptic Segmentation Research Engineer 모집 부서 Tech 모집 분야 AI/ML 모집 경력 경력 근로 조건 정규 모집 기간 2026.07.27 ~ 2026.08.10",
-      "department": "",
-      "location": "",
-      "deadline": "2026-08-10",
-      "deadlineTime": "",
-      "url": "https://recruit.navercorp.com/rcrt/list.do?annoId=&sw=&subJobCdData=1010001%2C1010002%2C1010003%2C1010005%2C1010008%2C1010020&sysCompanyCdData=&jobCdData=1010#n",
-      "_raw": "[네이버랩스] Panoptic Segmentation Research Engineer 모집 부서 Tech 모집 분야 AI/ML 모집 경력 경력 근로 조건 정규 모집 기간 2026.07.27 ~ 2026.08.10",
-      "_employmentType": ""
-    },
-    {
-      "company": "CJ (올리브영/올네/대한통운)",
-      "companyId": "cj",
       "title": "[경력] 비지니스 컨설턴트",
       "department": "CJ올리브네트웍스 / IT컨설팅",
       "location": "서울",
@@ -94,22 +48,22 @@
     {
       "company": "CJ (올리브영/올네/대한통운)",
       "companyId": "cj",
-      "title": "[경력] 차세대 AI-SOC 운영 및 위협 헌팅 전문가",
-      "department": "CJ올리브네트웍스 / 정보보호(보안)",
-      "location": "서울",
-      "deadline": "2026-08-10",
-      "deadlineTime": "23:59",
-      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20260716038340"
-    },
-    {
-      "company": "CJ (올리브영/올네/대한통운)",
-      "companyId": "cj",
       "title": "[경력] 보안솔루션 운영 및 관리",
       "department": "CJ올리브네트웍스 / 정보보호(보안)",
       "location": "서울",
       "deadline": "2026-08-10",
       "deadlineTime": "23:59",
       "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20260716038339"
+    },
+    {
+      "company": "CJ (올리브영/올네/대한통운)",
+      "companyId": "cj",
+      "title": "[경력] 차세대 AI-SOC 운영 및 위협 헌팅 전문가",
+      "department": "CJ올리브네트웍스 / 정보보호(보안)",
+      "location": "서울",
+      "deadline": "2026-08-10",
+      "deadlineTime": "23:59",
+      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20260716038340"
     },
     {
       "company": "네이버",
@@ -158,6 +112,16 @@
       "_employmentType": ""
     },
     {
+      "company": "LG U+",
+      "companyId": "lguplus",
+      "title": "[정보보안센터] 무선망 보안 엔지니어 경력채용",
+      "department": "",
+      "location": "경력",
+      "deadline": "2026-08-17",
+      "deadlineTime": "23:00",
+      "url": "https://careers.lg.com/channel/detail/lgu/job_openings"
+    },
+    {
       "company": "네이버",
       "companyId": "naver",
       "title": "[네이버랩스] Robot Embedded System Firmware Engineer 모집 부서 Tech 모집 분야 Embedded SW 모집 경력 무관 근로 조건 정규 모집 기간 2026.08.03 ~ 2026.08.18",
@@ -194,22 +158,22 @@
     {
       "company": "CJ (올리브영/올네/대한통운)",
       "companyId": "cj",
-      "title": "[경력] 정보보호 컨설턴트",
-      "department": "CJ올리브네트웍스 / IT컨설팅",
-      "location": "서울",
-      "deadline": "2026-08-19",
-      "deadlineTime": "23:59",
-      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20260306037807"
-    },
-    {
-      "company": "CJ (올리브영/올네/대한통운)",
-      "companyId": "cj",
       "title": "[경력] 프로젝트 Application Architect",
       "department": "CJ올리브네트웍스 / AA(Application Architect)",
       "location": "서울",
       "deadline": "2026-08-19",
       "deadlineTime": "23:59",
       "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20260422038602"
+    },
+    {
+      "company": "CJ (올리브영/올네/대한통운)",
+      "companyId": "cj",
+      "title": "[경력] 정보보호 컨설턴트",
+      "department": "CJ올리브네트웍스 / IT컨설팅",
+      "location": "서울",
+      "deadline": "2026-08-19",
+      "deadlineTime": "23:59",
+      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20260306037807"
     },
     {
       "company": "SK하이닉스",
@@ -222,6 +186,16 @@
       "url": "https://www.skcareers.com/Recruit/Detail/R261736",
       "_raw": "[8월] 월간 hy-way(경력) 2026년 08월 07일(금) ~ 2026년 08월 19일(수) SK하이닉스 IT/CAD Engineering • Tech R&D/DTCO,Bonding,Process Integration,회로설계(HBM),HBM Digital Design(RTL design),HBM Digital Design(Front-end),HBM ",
       "_employmentType": "정규"
+    },
+    {
+      "company": "기아",
+      "companyId": "kia",
+      "title": "26년 엔지니어(생산직) 채용",
+      "department": "기타",
+      "location": "AutoLand광명 외 2건",
+      "deadline": "2026-08-21",
+      "deadlineTime": "",
+      "url": "https://career.kia.com/apply/applyList.kc"
     },
     {
       "company": "네이버",
@@ -394,6 +368,16 @@
       "deadline": "2026-08-27",
       "deadlineTime": "23:59",
       "url": "https://career.hyundai-autoever.com/ko/o/220505"
+    },
+    {
+      "company": "현대오토에버",
+      "companyId": "autoever",
+      "title": "[공통] Service Strategy - 플랫폼 계정 서비스 기획",
+      "department": "공통/신사업/기타",
+      "location": "",
+      "deadline": "2026-08-27",
+      "deadlineTime": "23:59",
+      "url": "https://career.hyundai-autoever.com/ko/o/219459"
     },
     {
       "company": "현대오토에버",
@@ -648,6 +632,16 @@
     {
       "company": "CJ (올리브영/올네/대한통운)",
       "companyId": "cj",
+      "title": "[경력] SAP 모듈 컨설턴트",
+      "department": "CJ올리브네트웍스 / SAP 컨설턴트",
+      "location": "서울",
+      "deadline": "2026-08-31",
+      "deadlineTime": "23:59",
+      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20240729026055"
+    },
+    {
+      "company": "CJ (올리브영/올네/대한통운)",
+      "companyId": "cj",
       "title": "[경력] 대내외 고객사 SAP FI 운영/개발",
       "department": "CJ올리브네트웍스 / 시스템 개발/운영(SAP)",
       "location": "서울",
@@ -664,16 +658,6 @@
       "deadline": "2026-08-31",
       "deadlineTime": "23:59",
       "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20231030020572"
-    },
-    {
-      "company": "CJ (올리브영/올네/대한통운)",
-      "companyId": "cj",
-      "title": "[경력] SAP 모듈 컨설턴트",
-      "department": "CJ올리브네트웍스 / SAP 컨설턴트",
-      "location": "서울",
-      "deadline": "2026-08-31",
-      "deadlineTime": "23:59",
-      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20240729026055"
     },
     {
       "company": "SK AX",
@@ -1490,18 +1474,6 @@
       "deadlineTime": "",
       "url": "https://careers.kakao.com/jobs/P-14402?skillSet=&part=TECHNOLOGY&company=KAKAO&keyword=&employeeType=&page=1",
       "_raw": "Multimodal LLM Research Engineer (경력) 영입마감일 영입종료시 근무지 직군 태그 #Algorithm/ML 회사정보 카카오 직원유형 정규직",
-      "_employmentType": ""
-    },
-    {
-      "company": "카카오",
-      "companyId": "kakao",
-      "title": "LLM Research Engineer (Pre-training) (신입/경력) 영입마감일 영입종료시 근무지 직군 태그 #Algorithm/ML 회사정보 카카오 직원유형 정규직",
-      "department": "",
-      "location": "",
-      "deadline": "",
-      "deadlineTime": "",
-      "url": "https://careers.kakao.com/jobs/P-14476?skillSet=&part=TECHNOLOGY&company=KAKAO&keyword=&employeeType=&page=1",
-      "_raw": "LLM Research Engineer (Pre-training) (신입/경력) 영입마감일 영입종료시 근무지 직군 태그 #Algorithm/ML 회사정보 카카오 직원유형 정규직",
       "_employmentType": ""
     },
     {

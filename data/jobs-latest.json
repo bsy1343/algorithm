@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-11T15:05:35.301Z",
-  "totalCount": 160,
+  "fetchedAt": "2026-08-12T15:05:58.807Z",
+  "totalCount": 153,
   "companies": [
     "당근",
     "현대오토에버",
@@ -18,18 +18,13 @@
     "티맵모빌리티",
     "한화시스템"
   ],
-  "errors": [],
-  "jobs": [
+  "errors": [
     {
       "company": "한화시스템",
-      "companyId": "hanwha",
-      "title": "온톨로지(Ontology) 전문가 경력사원 채용",
-      "department": "한화시스템/ICT",
-      "location": "",
-      "deadline": "2026-08-16",
-      "deadlineTime": "23:59",
-      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19429"
-    },
+      "error": "fetch failed"
+    }
+  ],
+  "jobs": [
     {
       "company": "네이버",
       "companyId": "naver",
@@ -51,26 +46,6 @@
       "deadline": "2026-08-17",
       "deadlineTime": "23:00",
       "url": "https://careers.lg.com/channel/detail/lgu/job_openings"
-    },
-    {
-      "company": "한화시스템",
-      "companyId": "hanwha",
-      "title": "수학적 최적화 전문가(Math Optimization) 경력사원 채용",
-      "department": "한화시스템/ICT",
-      "location": "",
-      "deadline": "2026-08-17",
-      "deadlineTime": "23:59",
-      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19420"
-    },
-    {
-      "company": "한화시스템",
-      "companyId": "hanwha",
-      "title": "제조서비스 인프라 운영 경력사원 채용",
-      "department": "한화시스템/ICT",
-      "location": "",
-      "deadline": "2026-08-17",
-      "deadlineTime": "23:59",
-      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19418"
     },
     {
       "company": "네이버",
@@ -129,13 +104,13 @@
     {
       "company": "SK하이닉스",
       "companyId": "skhynix",
-      "title": "[8월] 월간 hy-way(경력) D-7 SK하이닉스 IT/CAD Engineering • Tech R&D/DTCO,Bonding,Process Integration,회로설계(HBM),HBM Digital Design(RTL design),HBM Digital Design(Front-end),HBM Digital Design(Back-end),HBM Dig",
+      "title": "[8월] 월간 hy-way(경력) D-6 SK하이닉스 IT/CAD Engineering • Tech R&D/DTCO,Bonding,Process Integration,회로설계(HBM),HBM Digital Design(RTL design),HBM Digital Design(Front-end),HBM Digital Design(Back-end),HBM Dig",
       "department": "",
       "location": "",
       "deadline": "2026-08-19",
       "deadlineTime": "",
       "url": "https://www.skcareers.com/Recruit/Detail/R261736",
-      "_raw": "[8월] 월간 hy-way(경력) 2026년 08월 07일(금) ~ 2026년 08월 19일(수) D-7 SK하이닉스 IT/CAD Engineering • Tech R&D/DTCO,Bonding,Process Integration,회로설계(HBM),HBM Digital Design(RTL design),HBM Digital Design(Front-end),",
+      "_raw": "[8월] 월간 hy-way(경력) 2026년 08월 07일(금) ~ 2026년 08월 19일(수) D-6 SK하이닉스 IT/CAD Engineering • Tech R&D/DTCO,Bonding,Process Integration,회로설계(HBM),HBM Digital Design(RTL design),HBM Digital Design(Front-end),",
       "_employmentType": "정규"
     },
     {
@@ -159,56 +134,6 @@
       "url": "https://recruit.navercorp.com/rcrt/list.do?annoId=&sw=&subJobCdData=1010001%2C1010002%2C1010003%2C1010005%2C1010008%2C1010020&sysCompanyCdData=&jobCdData=1010#n",
       "_raw": "[네이버웹툰] Applied AI Backend Engineer (경력) 모집 부서 Tech 모집 분야 AI/ML 모집 경력 경력 근로 조건 정규 모집 기간 2026.08.06 ~ 2026.08.23",
       "_employmentType": ""
-    },
-    {
-      "company": "한화시스템",
-      "companyId": "hanwha",
-      "title": "AX 전략기획 경력사원 채용",
-      "department": "한화시스템/ICT",
-      "location": "",
-      "deadline": "2026-08-23",
-      "deadlineTime": "23:59",
-      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19456"
-    },
-    {
-      "company": "한화시스템",
-      "companyId": "hanwha",
-      "title": "VLM Project Manager 경력사원 채용",
-      "department": "한화시스템/ICT",
-      "location": "",
-      "deadline": "2026-08-23",
-      "deadlineTime": "23:59",
-      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19455"
-    },
-    {
-      "company": "한화시스템",
-      "companyId": "hanwha",
-      "title": "SWA 경력사원 채용",
-      "department": "한화시스템/ICT",
-      "location": "",
-      "deadline": "2026-08-23",
-      "deadlineTime": "23:59",
-      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19453"
-    },
-    {
-      "company": "한화시스템",
-      "companyId": "hanwha",
-      "title": "ERP 컨설턴트 경력사원 채용",
-      "department": "한화시스템/ICT",
-      "location": "",
-      "deadline": "2026-08-23",
-      "deadlineTime": "23:59",
-      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19452"
-    },
-    {
-      "company": "한화시스템",
-      "companyId": "hanwha",
-      "title": "스마트팩토리 시스템 구축 분야(계획, 생산, 공정, 품질, 설비, 통신) 경력사원 채용",
-      "department": "한화시스템/ICT",
-      "location": "",
-      "deadline": "2026-08-23",
-      "deadlineTime": "23:59",
-      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19450"
     },
     {
       "company": "CJ (올리브영/올네/대한통운)",
@@ -469,6 +394,18 @@
       "deadline": "2026-08-27",
       "deadlineTime": "23:59",
       "url": "https://career.hyundai-autoever.com/ko/o/210263"
+    },
+    {
+      "company": "네이버",
+      "companyId": "naver",
+      "title": "[네이버웹툰] 광고 상품&플랫폼 기획 (Ad Product & Platform Manager) (경력) 모집 부서 Service & Business 모집 분야 Business Development 모집 경력 경력 근로 조건 정규 모집 기간 2026.08.12 ~ 2026.08.30",
+      "department": "",
+      "location": "",
+      "deadline": "2026-08-30",
+      "deadlineTime": "",
+      "url": "https://recruit.navercorp.com/rcrt/list.do?annoId=&sw=&subJobCdData=1010001%2C1010002%2C1010003%2C1010005%2C1010008%2C1010020&sysCompanyCdData=&jobCdData=1010#n",
+      "_raw": "[네이버웹툰] 광고 상품&플랫폼 기획 (Ad Product & Platform Manager) (경력) 모집 부서 Service & Business 모집 분야 Business Development 모집 경력 경력 근로 조건 정규 모집 기간 2026.08.12 ~ 2026.08.30",
+      "_employmentType": ""
     },
     {
       "company": "CJ (올리브영/올네/대한통운)",

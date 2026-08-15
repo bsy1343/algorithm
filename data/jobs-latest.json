@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-14T15:05:37.695Z",
-  "totalCount": 128,
+  "fetchedAt": "2026-08-15T15:05:41.262Z",
+  "totalCount": 130,
   "companies": [
     "당근",
     "현대오토에버",
@@ -104,13 +104,13 @@
     {
       "company": "SK하이닉스",
       "companyId": "skhynix",
-      "title": "[8월] 월간 hy-way(경력) D-4 SK하이닉스 IT/CAD Engineering • Tech R&D/DTCO,Bonding,Process Integration,회로설계(HBM),HBM Digital Design(RTL design),HBM Digital Design(Front-end),HBM Digital Design(Back-end),HBM Dig",
+      "title": "[8월] 월간 hy-way(경력) D-3 SK하이닉스 IT/CAD Engineering • Tech R&D/DTCO,Bonding,Process Integration,회로설계(HBM),HBM Digital Design(RTL design),HBM Digital Design(Front-end),HBM Digital Design(Back-end),HBM Dig",
       "department": "",
       "location": "",
       "deadline": "2026-08-19",
       "deadlineTime": "",
       "url": "https://www.skcareers.com/Recruit/Detail/R261736",
-      "_raw": "[8월] 월간 hy-way(경력) 2026년 08월 07일(금) ~ 2026년 08월 19일(수) D-4 SK하이닉스 IT/CAD Engineering • Tech R&D/DTCO,Bonding,Process Integration,회로설계(HBM),HBM Digital Design(RTL design),HBM Digital Design(Front-end),",
+      "_raw": "[8월] 월간 hy-way(경력) 2026년 08월 07일(금) ~ 2026년 08월 19일(수) D-3 SK하이닉스 IT/CAD Engineering • Tech R&D/DTCO,Bonding,Process Integration,회로설계(HBM),HBM Digital Design(RTL design),HBM Digital Design(Front-end),",
       "_employmentType": "정규"
     },
     {
@@ -476,6 +476,46 @@
       "url": "https://recruit.navercorp.com/rcrt/list.do?annoId=&sw=&subJobCdData=1010001%2C1010002%2C1010003%2C1010005%2C1010008%2C1010020&sysCompanyCdData=&jobCdData=1010#n",
       "_raw": "[네이버웹툰] 광고 상품&플랫폼 기획 (Ad Product & Platform Manager) (경력) 모집 부서 Service & Business 모집 분야 Business Development 모집 경력 경력 근로 조건 정규 모집 기간 2026.08.12 ~ 2026.08.30",
       "_employmentType": ""
+    },
+    {
+      "company": "현대자동차",
+      "companyId": "hyundai",
+      "title": "[통합보안] Mobility Security Engineer - 차량보안",
+      "department": "#경력",
+      "location": "#양재본사",
+      "deadline": "2026-08-30",
+      "deadlineTime": "",
+      "url": "https://talent.hyundai.com/apply/applyList.hc?occupDataTagArray=211"
+    },
+    {
+      "company": "현대자동차",
+      "companyId": "hyundai",
+      "title": "[통합보안] Mobility Security Engineer - AD보안",
+      "department": "#경력",
+      "location": "#양재본사",
+      "deadline": "2026-08-30",
+      "deadlineTime": "",
+      "url": "https://talent.hyundai.com/apply/applyList.hc?occupDataTagArray=211"
+    },
+    {
+      "company": "현대자동차",
+      "companyId": "hyundai",
+      "title": "[ICT] Data Engineer",
+      "department": "#경력",
+      "location": "#서울",
+      "deadline": "2026-08-30",
+      "deadlineTime": "",
+      "url": "https://talent.hyundai.com/apply/applyList.hc?occupDataTagArray=211"
+    },
+    {
+      "company": "현대자동차",
+      "companyId": "hyundai",
+      "title": "[ICT] Data Architect",
+      "department": "#경력",
+      "location": "#양재본사",
+      "deadline": "2026-08-30",
+      "deadlineTime": "",
+      "url": "https://talent.hyundai.com/apply/applyList.hc?occupDataTagArray=211"
     },
     {
       "company": "LG CNS",
@@ -1337,6 +1377,16 @@
     {
       "company": "현대자동차",
       "companyId": "hyundai",
+      "title": "[AVP] 모빌리티 플랫폼 서비스 운영 기획 및 관리",
+      "department": "#경력",
+      "location": "#서울",
+      "deadline": "",
+      "deadlineTime": "",
+      "url": "https://talent.hyundai.com/apply/applyList.hc?occupDataTagArray=211"
+    },
+    {
+      "company": "현대자동차",
+      "companyId": "hyundai",
       "title": "[AVP] 모빌리티 플랫폼 UX 기획",
       "department": "#경력",
       "location": "#서울",
@@ -1348,36 +1398,6 @@
       "company": "현대자동차",
       "companyId": "hyundai",
       "title": "[AVP] 모빌리티 플랫폼 Infra Engineer",
-      "department": "#경력",
-      "location": "#서울",
-      "deadline": "",
-      "deadlineTime": "",
-      "url": "https://talent.hyundai.com/apply/applyList.hc?occupDataTagArray=211"
-    },
-    {
-      "company": "현대자동차",
-      "companyId": "hyundai",
-      "title": "[AVP] 모빌리티 서비스 Software Engineer for Map",
-      "department": "#경력",
-      "location": "#서울",
-      "deadline": "",
-      "deadlineTime": "",
-      "url": "https://talent.hyundai.com/apply/applyList.hc?occupDataTagArray=211"
-    },
-    {
-      "company": "현대자동차",
-      "companyId": "hyundai",
-      "title": "[AVP] 모빌리티 서비스 Frontend Engineer",
-      "department": "#경력",
-      "location": "#서울",
-      "deadline": "",
-      "deadlineTime": "",
-      "url": "https://talent.hyundai.com/apply/applyList.hc?occupDataTagArray=211"
-    },
-    {
-      "company": "현대자동차",
-      "companyId": "hyundai",
-      "title": "[AVP] 모빌리티 서비스 Data Engineer",
       "department": "#경력",
       "location": "#서울",
       "deadline": "",

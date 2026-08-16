@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-15T15:05:41.262Z",
-  "totalCount": 130,
+  "fetchedAt": "2026-08-16T15:05:57.608Z",
+  "totalCount": 128,
   "companies": [
     "당근",
     "현대오토에버",
@@ -26,16 +26,6 @@
   ],
   "jobs": [
     {
-      "company": "한화시스템",
-      "companyId": "hanwha",
-      "title": "온톨로지(Ontology) 전문가 경력사원 채용",
-      "department": "한화시스템/ICT",
-      "location": "",
-      "deadline": "2026-08-16",
-      "deadlineTime": "23:59",
-      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19429"
-    },
-    {
       "company": "네이버",
       "companyId": "naver",
       "title": "[네이버웹툰] 프런트엔드 개발자 (글로벌 웹 플랫폼) (경력) 모집 부서 Tech 모집 분야 Frontend 모집 경력 경력 근로 조건 정규 모집 기간 2026.07.27 ~ 2026.08.17",
@@ -46,16 +36,6 @@
       "url": "https://recruit.navercorp.com/rcrt/list.do?annoId=&sw=&subJobCdData=1010001%2C1010002%2C1010003%2C1010005%2C1010008%2C1010020&sysCompanyCdData=&jobCdData=1010#n",
       "_raw": "[네이버웹툰] 프런트엔드 개발자 (글로벌 웹 플랫폼) (경력) 모집 부서 Tech 모집 분야 Frontend 모집 경력 경력 근로 조건 정규 모집 기간 2026.07.27 ~ 2026.08.17",
       "_employmentType": ""
-    },
-    {
-      "company": "LG U+",
-      "companyId": "lguplus",
-      "title": "[정보보안센터] 무선망 보안 엔지니어 경력채용",
-      "department": "",
-      "location": "경력",
-      "deadline": "2026-08-17",
-      "deadlineTime": "23:00",
-      "url": "https://careers.lg.com/channel/detail/lgu/job_openings"
     },
     {
       "company": "한화시스템",
@@ -104,13 +84,13 @@
     {
       "company": "SK하이닉스",
       "companyId": "skhynix",
-      "title": "[8월] 월간 hy-way(경력) D-3 SK하이닉스 IT/CAD Engineering • Tech R&D/DTCO,Bonding,Process Integration,회로설계(HBM),HBM Digital Design(RTL design),HBM Digital Design(Front-end),HBM Digital Design(Back-end),HBM Dig",
+      "title": "[8월] 월간 hy-way(경력) D-2 SK하이닉스 IT/CAD Engineering • Tech R&D/DTCO,Bonding,Process Integration,회로설계(HBM),HBM Digital Design(RTL design),HBM Digital Design(Front-end),HBM Digital Design(Back-end),HBM Dig",
       "department": "",
       "location": "",
       "deadline": "2026-08-19",
       "deadlineTime": "",
       "url": "https://www.skcareers.com/Recruit/Detail/R261736",
-      "_raw": "[8월] 월간 hy-way(경력) 2026년 08월 07일(금) ~ 2026년 08월 19일(수) D-3 SK하이닉스 IT/CAD Engineering • Tech R&D/DTCO,Bonding,Process Integration,회로설계(HBM),HBM Digital Design(RTL design),HBM Digital Design(Front-end),",
+      "_raw": "[8월] 월간 hy-way(경력) 2026년 08월 07일(금) ~ 2026년 08월 19일(수) D-2 SK하이닉스 IT/CAD Engineering • Tech R&D/DTCO,Bonding,Process Integration,회로설계(HBM),HBM Digital Design(RTL design),HBM Digital Design(Front-end),",
       "_employmentType": "정규"
     },
     {

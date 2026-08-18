@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-17T15:06:03.731Z",
-  "totalCount": 129,
+  "fetchedAt": "2026-08-18T15:10:18.965Z",
+  "totalCount": 126,
   "companies": [
     "당근",
     "현대오토에버",
@@ -28,18 +28,6 @@
     {
       "company": "네이버",
       "companyId": "naver",
-      "title": "[네이버랩스] Robot Embedded System Firmware Engineer 모집 부서 Tech 모집 분야 Embedded SW 모집 경력 무관 근로 조건 정규 모집 기간 2026.08.03 ~ 2026.08.18",
-      "department": "",
-      "location": "",
-      "deadline": "2026-08-18",
-      "deadlineTime": "",
-      "url": "https://recruit.navercorp.com/rcrt/list.do?annoId=&sw=&subJobCdData=1010001%2C1010002%2C1010003%2C1010005%2C1010008%2C1010020&sysCompanyCdData=&jobCdData=1010#n",
-      "_raw": "[네이버랩스] Robot Embedded System Firmware Engineer 모집 부서 Tech 모집 분야 Embedded SW 모집 경력 무관 근로 조건 정규 모집 기간 2026.08.03 ~ 2026.08.18",
-      "_employmentType": ""
-    },
-    {
-      "company": "네이버",
-      "companyId": "naver",
       "title": "[NAVER Cloud] 클라우드 기술지원 및 운영 PM (경력) 모집 부서 Tech 모집 분야 Cloud Solution Architect 모집 경력 경력 근로 조건 정규 모집 기간 2026.08.03 ~ 2026.08.19",
       "department": "",
       "location": "",
@@ -52,13 +40,13 @@
     {
       "company": "SK하이닉스",
       "companyId": "skhynix",
-      "title": "[8월] 월간 hy-way(경력) D-1 SK하이닉스 IT/CAD Engineering • Tech R&D/DTCO,Bonding,Process Integration,회로설계(HBM),HBM Digital Design(RTL design),HBM Digital Design(Front-end),HBM Digital Design(Back-end),HBM Dig",
+      "title": "[8월] 월간 hy-way(경력) D-DAY SK하이닉스 IT/CAD Engineering • Tech R&D/DTCO,Bonding,Process Integration,회로설계(HBM),HBM Digital Design(RTL design),HBM Digital Design(Front-end),HBM Digital Design(Back-end),HBM D",
       "department": "",
       "location": "",
       "deadline": "2026-08-19",
       "deadlineTime": "",
       "url": "https://www.skcareers.com/Recruit/Detail/R261736",
-      "_raw": "[8월] 월간 hy-way(경력) 2026년 08월 07일(금) ~ 2026년 08월 19일(수) D-1 SK하이닉스 IT/CAD Engineering • Tech R&D/DTCO,Bonding,Process Integration,회로설계(HBM),HBM Digital Design(RTL design),HBM Digital Design(Front-end),",
+      "_raw": "[8월] 월간 hy-way(경력) 2026년 08월 07일(금) ~ 2026년 08월 19일(수) D-DAY SK하이닉스 IT/CAD Engineering • Tech R&D/DTCO,Bonding,Process Integration,회로설계(HBM),HBM Digital Design(RTL design),HBM Digital Design(Front-end",
       "_employmentType": "정규"
     },
     {
@@ -86,9 +74,9 @@
     {
       "company": "LG U+",
       "companyId": "lguplus",
-      "title": "[CTO] Application Architect 경력채용",
-      "department": "",
-      "location": "경력",
+      "title": "Application Architect 경력채용",
+      "department": "개인정보처리방침",
+      "location": "",
       "deadline": "2026-08-23",
       "deadlineTime": "23:00",
       "url": "https://careers.lg.com/channel/detail/lgu/job_openings"
@@ -743,15 +731,6 @@
     {
       "company": "당근",
       "companyId": "daangn",
-      "title": "Software Engineer, Frontend - 커머스",
-      "department": "",
-      "location": "SEOUL",
-      "deadline": "",
-      "url": "https://about.daangn.com?gh_jid=6692173003"
-    },
-    {
-      "company": "당근",
-      "companyId": "daangn",
       "title": "Software Engineer, Frontend - 커뮤니티 (모임)",
       "department": "",
       "location": "SEOUL",
@@ -793,18 +772,6 @@
       "location": "SEOUL",
       "deadline": "",
       "url": "https://about.daangn.com?gh_jid=7498021003"
-    },
-    {
-      "company": "토스",
-      "companyId": "toss",
-      "title": "토스뱅크 Server Developer 채용 연계형 인턴십 (~8/17) 개발",
-      "department": "",
-      "location": "",
-      "deadline": "",
-      "deadlineTime": "",
-      "url": "https://toss.im/career/job-detail?job_id=7816881003",
-      "_raw": "토스뱅크 Server Developer 채용 연계형 인턴십 (~8/17) 개발 ・ Server ・ Tech ・ 인턴십 뱅크",
-      "_employmentType": ""
     },
     {
       "company": "토스",
@@ -1181,13 +1148,13 @@
     {
       "company": "토스",
       "companyId": "toss",
-      "title": "Security Engineer 보안",
+      "title": "Security Engineer 엔드포인트",
       "department": "",
       "location": "",
       "deadline": "",
       "deadlineTime": "",
-      "url": "https://toss.im/career/job-detail?job_id=6491194003",
-      "_raw": "Security Engineer 보안 ・ 기술 ・ 엔드포인트 ・ 네트워크 토스 외 5개 계열사",
+      "url": "https://toss.im/career/job-detail?job_id=6960856003",
+      "_raw": "Security Engineer 엔드포인트 ・ 네트워크 ・ 솔루션 ・ 접근통제 토스 외 4개 계열사",
       "_employmentType": ""
     },
     {
@@ -1361,13 +1328,13 @@
     {
       "company": "카카오",
       "companyId": "kakao",
-      "title": "LLM Research Engineer (신입/경력) 영입마감일 영입종료시 근무지 직군 태그 #Algorithm/ML 회사정보 카카오 직원유형 정규직",
+      "title": "LLM Research Engineer (Post-training) (신입/경력) 영입마감일 영입종료시 근무지 직군 태그 #Algorithm/ML 회사정보 카카오 직원유형 정규직",
       "department": "",
       "location": "",
       "deadline": "",
       "deadlineTime": "",
       "url": "https://careers.kakao.com/jobs/P-14403?skillSet=&part=TECHNOLOGY&company=KAKAO&keyword=&employeeType=&page=1",
-      "_raw": "LLM Research Engineer (신입/경력) 영입마감일 영입종료시 근무지 직군 태그 #Algorithm/ML 회사정보 카카오 직원유형 정규직",
+      "_raw": "LLM Research Engineer (Post-training) (신입/경력) 영입마감일 영입종료시 근무지 직군 태그 #Algorithm/ML 회사정보 카카오 직원유형 정규직",
       "_employmentType": ""
     },
     {

@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-18T15:10:18.965Z",
-  "totalCount": 126,
+  "fetchedAt": "2026-08-19T15:12:46.893Z",
+  "totalCount": 125,
   "companies": [
     "당근",
     "현대오토에버",
@@ -25,30 +25,6 @@
     }
   ],
   "jobs": [
-    {
-      "company": "네이버",
-      "companyId": "naver",
-      "title": "[NAVER Cloud] 클라우드 기술지원 및 운영 PM (경력) 모집 부서 Tech 모집 분야 Cloud Solution Architect 모집 경력 경력 근로 조건 정규 모집 기간 2026.08.03 ~ 2026.08.19",
-      "department": "",
-      "location": "",
-      "deadline": "2026-08-19",
-      "deadlineTime": "",
-      "url": "https://recruit.navercorp.com/rcrt/list.do?annoId=&sw=&subJobCdData=1010001%2C1010002%2C1010003%2C1010005%2C1010008%2C1010020&sysCompanyCdData=&jobCdData=1010#n",
-      "_raw": "[NAVER Cloud] 클라우드 기술지원 및 운영 PM (경력) 모집 부서 Tech 모집 분야 Cloud Solution Architect 모집 경력 경력 근로 조건 정규 모집 기간 2026.08.03 ~ 2026.08.19",
-      "_employmentType": ""
-    },
-    {
-      "company": "SK하이닉스",
-      "companyId": "skhynix",
-      "title": "[8월] 월간 hy-way(경력) D-DAY SK하이닉스 IT/CAD Engineering • Tech R&D/DTCO,Bonding,Process Integration,회로설계(HBM),HBM Digital Design(RTL design),HBM Digital Design(Front-end),HBM Digital Design(Back-end),HBM D",
-      "department": "",
-      "location": "",
-      "deadline": "2026-08-19",
-      "deadlineTime": "",
-      "url": "https://www.skcareers.com/Recruit/Detail/R261736",
-      "_raw": "[8월] 월간 hy-way(경력) 2026년 08월 07일(금) ~ 2026년 08월 19일(수) D-DAY SK하이닉스 IT/CAD Engineering • Tech R&D/DTCO,Bonding,Process Integration,회로설계(HBM),HBM Digital Design(RTL design),HBM Digital Design(Front-end",
-      "_employmentType": "정규"
-    },
     {
       "company": "기아",
       "companyId": "kia",
@@ -496,7 +472,7 @@
     {
       "company": "LG CNS",
       "companyId": "lgcns",
-      "title": "[LG CNS] 클라우드 인프라 아키텍트 모집(경력)",
+      "title": "[LG CNS] 클라우드 인프라 아키텍트 / Data 아키텍트 모집(경력)",
       "department": "IT서비스",
       "location": "LG CNS",
       "deadline": "2026-08-31",
@@ -538,6 +514,26 @@
       "url": "https://recruit.navercorp.com/rcrt/list.do?annoId=&sw=&subJobCdData=1010001%2C1010002%2C1010003%2C1010005%2C1010008%2C1010020&sysCompanyCdData=&jobCdData=1010#n",
       "_raw": "[NAVER Cloud/한국에이아이컴퓨팅센터] 클라우드 GPUaaS 상품 기획 (경력) 모집 부서 Service & Business 모집 분야 Product Development 모집 경력 경력 근로 조건 정규 모집 기간 2026.08.17 ~ 2026.09.02",
       "_employmentType": ""
+    },
+    {
+      "company": "한화시스템",
+      "companyId": "hanwha",
+      "title": "제조서비스 인프라 운영 경력사원 채용",
+      "department": "한화시스템/ICT",
+      "location": "",
+      "deadline": "2026-09-06",
+      "deadlineTime": "23:59",
+      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19532"
+    },
+    {
+      "company": "한화시스템",
+      "companyId": "hanwha",
+      "title": "온톨로지(Ontology) 전문가 경력사원 채용",
+      "department": "한화시스템/ICT",
+      "location": "",
+      "deadline": "2026-09-06",
+      "deadlineTime": "23:59",
+      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19508"
     },
     {
       "company": "SK AX",
@@ -1023,18 +1019,6 @@
       "deadlineTime": "",
       "url": "https://toss.im/career/job-detail?job_id=4770769003",
       "_raw": "ML Engineer [전문연구요원] 병역특례 ・ Machine Learning ・ 모델설계 ・ 서빙 토스",
-      "_employmentType": ""
-    },
-    {
-      "company": "토스",
-      "companyId": "toss",
-      "title": "ML Platform Team Leader ML",
-      "department": "",
-      "location": "",
-      "deadline": "",
-      "deadlineTime": "",
-      "url": "https://toss.im/career/job-detail?job_id=7507321003",
-      "_raw": "ML Platform Team Leader ML ・ MLOps ・ 플랫폼 ・ 리더십 뱅크",
       "_employmentType": ""
     },
     {

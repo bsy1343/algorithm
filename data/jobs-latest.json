@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-19T15:12:46.893Z",
-  "totalCount": 125,
+  "fetchedAt": "2026-08-20T15:05:19.361Z",
+  "totalCount": 126,
   "companies": [
     "당근",
     "현대오토에버",
@@ -50,9 +50,9 @@
     {
       "company": "LG U+",
       "companyId": "lguplus",
-      "title": "Application Architect 경력채용",
+      "title": "[CTO] Application Architect 경력채용",
       "department": "개인정보처리방침",
-      "location": "",
+      "location": "경력",
       "deadline": "2026-08-23",
       "deadlineTime": "23:00",
       "url": "https://careers.lg.com/channel/detail/lgu/job_openings"
@@ -116,6 +116,18 @@
       "deadline": "2026-08-23",
       "deadlineTime": "23:59",
       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19450"
+    },
+    {
+      "company": "SK하이닉스",
+      "companyId": "skhynix",
+      "title": "['26년 하반기] Talent hy-way 기술사무직 신입 D-5 SK하이닉스 IT/IT • Tech R&D/설계,소자,R&D 공정,Product Engineering,PKG 개발,System Arch./SW Solution,Solution SW,Solution HW • 안전보건/SHE(안전),SHE(보건),SHE(환경/화학물질관리),SHE(P&S기술) ",
+      "department": "",
+      "location": "",
+      "deadline": "2026-08-26",
+      "deadlineTime": "",
+      "url": "https://www.skcareers.com/Recruit/Detail/R261762",
+      "_raw": "['26년 하반기] Talent hy-way 기술사무직 신입 2026년 08월 20일(목) ~ 2026년 08월 26일(수) D-5 SK하이닉스 IT/IT • Tech R&D/설계,소자,R&D 공정,Product Engineering,PKG 개발,System Arch./SW Solution,Solution SW,Solution HW • 안전보건/SHE(안전",
+      "_employmentType": "정규"
     },
     {
       "company": "현대오토에버",
@@ -952,6 +964,18 @@
     {
       "company": "토스",
       "companyId": "toss",
+      "title": "IT Admin (부산센터) IT",
+      "department": "",
+      "location": "",
+      "deadline": "",
+      "deadlineTime": "",
+      "url": "https://toss.im/career/job-detail?job_id=7901076003",
+      "_raw": "IT Admin (부산센터) IT ・ 전산 ・ 인프라 ・ 상담시스템 씨엑스",
+      "_employmentType": ""
+    },
+    {
+      "company": "토스",
+      "companyId": "toss",
       "title": "IT Manager IT",
       "department": "",
       "location": "",
@@ -1335,16 +1359,6 @@
       "company": "현대자동차",
       "companyId": "hyundai",
       "title": "[AVP] 모빌리티 플랫폼 UX 기획",
-      "department": "#경력",
-      "location": "#서울",
-      "deadline": "",
-      "deadlineTime": "",
-      "url": "https://talent.hyundai.com/apply/applyList.hc?occupDataTagArray=211"
-    },
-    {
-      "company": "현대자동차",
-      "companyId": "hyundai",
-      "title": "[AVP] 모빌리티 플랫폼 Infra Engineer",
       "department": "#경력",
       "location": "#서울",
       "deadline": "",

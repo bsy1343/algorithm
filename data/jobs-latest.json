@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-20T15:05:19.361Z",
-  "totalCount": 126,
+  "fetchedAt": "2026-08-24T15:05:30.833Z",
+  "totalCount": 124,
   "companies": [
     "당근",
     "현대오토에버",
@@ -26,108 +26,46 @@
   ],
   "jobs": [
     {
-      "company": "기아",
-      "companyId": "kia",
-      "title": "26년 엔지니어(생산직) 채용",
-      "department": "기타",
-      "location": "AutoLand광명 외 2건",
-      "deadline": "2026-08-21",
-      "deadlineTime": "",
-      "url": "https://career.kia.com/apply/applyList.kc"
-    },
-    {
-      "company": "네이버",
-      "companyId": "naver",
-      "title": "[네이버웹툰] Applied AI Backend Engineer (경력) 모집 부서 Tech 모집 분야 AI/ML 모집 경력 경력 근로 조건 정규 모집 기간 2026.08.06 ~ 2026.08.23",
-      "department": "",
-      "location": "",
-      "deadline": "2026-08-23",
-      "deadlineTime": "",
-      "url": "https://recruit.navercorp.com/rcrt/list.do?annoId=&sw=&subJobCdData=1010001%2C1010002%2C1010003%2C1010005%2C1010008%2C1010020&sysCompanyCdData=&jobCdData=1010#n",
-      "_raw": "[네이버웹툰] Applied AI Backend Engineer (경력) 모집 부서 Tech 모집 분야 AI/ML 모집 경력 경력 근로 조건 정규 모집 기간 2026.08.06 ~ 2026.08.23",
-      "_employmentType": ""
-    },
-    {
-      "company": "LG U+",
-      "companyId": "lguplus",
-      "title": "[CTO] Application Architect 경력채용",
-      "department": "개인정보처리방침",
-      "location": "경력",
-      "deadline": "2026-08-23",
-      "deadlineTime": "23:00",
-      "url": "https://careers.lg.com/channel/detail/lgu/job_openings"
-    },
-    {
-      "company": "한화시스템",
-      "companyId": "hanwha",
-      "title": "SAP CO(관리회계/원가) 운영/개발 경력사원 채용",
-      "department": "한화시스템/ICT",
-      "location": "",
-      "deadline": "2026-08-23",
-      "deadlineTime": "23:59",
-      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19477"
-    },
-    {
-      "company": "한화시스템",
-      "companyId": "hanwha",
-      "title": "AX 전략기획 경력사원 채용",
-      "department": "한화시스템/ICT",
-      "location": "",
-      "deadline": "2026-08-23",
-      "deadlineTime": "23:59",
-      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19456"
-    },
-    {
-      "company": "한화시스템",
-      "companyId": "hanwha",
-      "title": "VLM Project Manager 경력사원 채용",
-      "department": "한화시스템/ICT",
-      "location": "",
-      "deadline": "2026-08-23",
-      "deadlineTime": "23:59",
-      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19455"
-    },
-    {
-      "company": "한화시스템",
-      "companyId": "hanwha",
-      "title": "SWA 경력사원 채용",
-      "department": "한화시스템/ICT",
-      "location": "",
-      "deadline": "2026-08-23",
-      "deadlineTime": "23:59",
-      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19453"
-    },
-    {
-      "company": "한화시스템",
-      "companyId": "hanwha",
-      "title": "ERP 컨설턴트 경력사원 채용",
-      "department": "한화시스템/ICT",
-      "location": "",
-      "deadline": "2026-08-23",
-      "deadlineTime": "23:59",
-      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19452"
-    },
-    {
-      "company": "한화시스템",
-      "companyId": "hanwha",
-      "title": "스마트팩토리 시스템 구축 분야(계획, 생산, 공정, 품질, 설비, 통신) 경력사원 채용",
-      "department": "한화시스템/ICT",
-      "location": "",
-      "deadline": "2026-08-23",
-      "deadlineTime": "23:59",
-      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19450"
-    },
-    {
       "company": "SK하이닉스",
       "companyId": "skhynix",
-      "title": "['26년 하반기] Talent hy-way 기술사무직 신입 D-5 SK하이닉스 IT/IT • Tech R&D/설계,소자,R&D 공정,Product Engineering,PKG 개발,System Arch./SW Solution,Solution SW,Solution HW • 안전보건/SHE(안전),SHE(보건),SHE(환경/화학물질관리),SHE(P&S기술) ",
+      "title": "['26년 하반기] Talent hy-way 기술사무직 신입 D-1 SK하이닉스 IT/IT • Tech R&D/설계,소자,R&D 공정,Product Engineering,PKG 개발,System Arch./SW Solution,Solution SW,Solution HW • 안전보건/SHE(안전),SHE(보건),SHE(환경/화학물질관리),SHE(P&S기술) ",
       "department": "",
       "location": "",
       "deadline": "2026-08-26",
       "deadlineTime": "",
       "url": "https://www.skcareers.com/Recruit/Detail/R261762",
-      "_raw": "['26년 하반기] Talent hy-way 기술사무직 신입 2026년 08월 20일(목) ~ 2026년 08월 26일(수) D-5 SK하이닉스 IT/IT • Tech R&D/설계,소자,R&D 공정,Product Engineering,PKG 개발,System Arch./SW Solution,Solution SW,Solution HW • 안전보건/SHE(안전",
+      "_raw": "['26년 하반기] Talent hy-way 기술사무직 신입 2026년 08월 20일(목) ~ 2026년 08월 26일(수) D-1 SK하이닉스 IT/IT • Tech R&D/설계,소자,R&D 공정,Product Engineering,PKG 개발,System Arch./SW Solution,Solution SW,Solution HW • 안전보건/SHE(안전",
       "_employmentType": "정규"
+    },
+    {
+      "company": "현대오토에버",
+      "companyId": "autoever",
+      "title": "[EnIT] IT Architect - Application Architect",
+      "department": "Enterprise IT",
+      "location": "",
+      "deadline": "2026-08-27",
+      "deadlineTime": "23:59",
+      "url": "https://career.hyundai-autoever.com/ko/o/234060"
+    },
+    {
+      "company": "현대오토에버",
+      "companyId": "autoever",
+      "title": "[EnIT] Backend Developer - 인증/계정플랫폼 개발 및 운영",
+      "department": "Enterprise IT",
+      "location": "",
+      "deadline": "2026-08-27",
+      "deadlineTime": "23:59",
+      "url": "https://career.hyundai-autoever.com/ko/o/234018"
+    },
+    {
+      "company": "현대오토에버",
+      "companyId": "autoever",
+      "title": "[EnIT] Frontend Developer - 계정 시스템 프론트엔드 개발 및 운영",
+      "department": "Enterprise IT",
+      "location": "",
+      "deadline": "2026-08-27",
+      "deadlineTime": "23:59",
+      "url": "https://career.hyundai-autoever.com/ko/o/234006"
     },
     {
       "company": "현대오토에버",
@@ -198,16 +136,6 @@
       "deadline": "2026-08-27",
       "deadlineTime": "23:59",
       "url": "https://career.hyundai-autoever.com/ko/o/226439"
-    },
-    {
-      "company": "현대오토에버",
-      "companyId": "autoever",
-      "title": "[Tech] Security Engineer - 신규 IT시스템 보안성검토 및 운영시스템 보안관리",
-      "department": "Core Tech(AI/DATA/Cloud/보안)",
-      "location": "",
-      "deadline": "2026-08-27",
-      "deadlineTime": "23:59",
-      "url": "https://career.hyundai-autoever.com/ko/o/226103"
     },
     {
       "company": "현대오토에버",
@@ -442,6 +370,18 @@
       "url": "https://talent.hyundai.com/apply/applyList.hc?occupDataTagArray=211"
     },
     {
+      "company": "SKT",
+      "companyId": "skt",
+      "title": "2026 Junior Talent 채용 - Infra 직군 D-5 SK텔레콤 Infra/무선 Network,유선/IP Network,Core Network,Network 설비",
+      "department": "",
+      "location": "",
+      "deadline": "2026-08-30",
+      "deadlineTime": "",
+      "url": "https://www.skcareers.com/Recruit/Detail/R261840",
+      "_raw": "2026 Junior Talent 채용 - Infra 직군 2026년 08월 24일(월) ~ 2026년 08월 30일(일) D-5 SK텔레콤 Infra/무선 Network,유선/IP Network,Core Network,Network 설비",
+      "_employmentType": "정규"
+    },
+    {
       "company": "LG CNS",
       "companyId": "lgcns",
       "title": "[LG CNS] Google Cloud 분야 모집 (경력)",
@@ -548,6 +488,66 @@
       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19508"
     },
     {
+      "company": "네이버",
+      "companyId": "naver",
+      "title": "[NAVER Cloud] Root CA 기획/운영 및 감사 대응 (경력) 모집 부서 Tech 모집 분야 Security 모집 경력 경력 근로 조건 정규 모집 기간 2026.08.24 ~ 2026.09.09",
+      "department": "",
+      "location": "",
+      "deadline": "2026-09-09",
+      "deadlineTime": "",
+      "url": "https://recruit.navercorp.com/rcrt/list.do?annoId=&sw=&subJobCdData=1010001%2C1010002%2C1010003%2C1010005%2C1010008%2C1010020&sysCompanyCdData=&jobCdData=1010#n",
+      "_raw": "[NAVER Cloud] Root CA 기획/운영 및 감사 대응 (경력) 모집 부서 Tech 모집 분야 Security 모집 경력 경력 근로 조건 정규 모집 기간 2026.08.24 ~ 2026.09.09",
+      "_employmentType": ""
+    },
+    {
+      "company": "네이버",
+      "companyId": "naver",
+      "title": "[NAVER Cloud] 클라우드 인프라 보안 아키텍트 (경력) 모집 부서 Tech 모집 분야 Security 모집 경력 경력 근로 조건 정규 모집 기간 2026.08.24 ~ 2026.09.09",
+      "department": "",
+      "location": "",
+      "deadline": "2026-09-09",
+      "deadlineTime": "",
+      "url": "https://recruit.navercorp.com/rcrt/list.do?annoId=&sw=&subJobCdData=1010001%2C1010002%2C1010003%2C1010005%2C1010008%2C1010020&sysCompanyCdData=&jobCdData=1010#n",
+      "_raw": "[NAVER Cloud] 클라우드 인프라 보안 아키텍트 (경력) 모집 부서 Tech 모집 분야 Security 모집 경력 경력 근로 조건 정규 모집 기간 2026.08.24 ~ 2026.09.09",
+      "_employmentType": ""
+    },
+    {
+      "company": "네이버",
+      "companyId": "naver",
+      "title": "[NAVER Cloud] 침해사고 대응 담당자 (Junior Talent) 모집 부서 Tech 모집 분야 Security 모집 경력 경력 근로 조건 정규 모집 기간 2026.08.24 ~ 2026.09.09",
+      "department": "",
+      "location": "",
+      "deadline": "2026-09-09",
+      "deadlineTime": "",
+      "url": "https://recruit.navercorp.com/rcrt/list.do?annoId=&sw=&subJobCdData=1010001%2C1010002%2C1010003%2C1010005%2C1010008%2C1010020&sysCompanyCdData=&jobCdData=1010#n",
+      "_raw": "[NAVER Cloud] 침해사고 대응 담당자 (Junior Talent) 모집 부서 Tech 모집 분야 Security 모집 경력 경력 근로 조건 정규 모집 기간 2026.08.24 ~ 2026.09.09",
+      "_employmentType": ""
+    },
+    {
+      "company": "네이버",
+      "companyId": "naver",
+      "title": "[NAVER Cloud] 정보보호 정책 담당자 (경력) 모집 부서 Tech 모집 분야 Security 모집 경력 경력 근로 조건 정규 모집 기간 2026.08.24 ~ 2026.09.09",
+      "department": "",
+      "location": "",
+      "deadline": "2026-09-09",
+      "deadlineTime": "",
+      "url": "https://recruit.navercorp.com/rcrt/list.do?annoId=&sw=&subJobCdData=1010001%2C1010002%2C1010003%2C1010005%2C1010008%2C1010020&sysCompanyCdData=&jobCdData=1010#n",
+      "_raw": "[NAVER Cloud] 정보보호 정책 담당자 (경력) 모집 부서 Tech 모집 분야 Security 모집 경력 경력 근로 조건 정규 모집 기간 2026.08.24 ~ 2026.09.09",
+      "_employmentType": ""
+    },
+    {
+      "company": "네이버",
+      "companyId": "naver",
+      "title": "[네이버웹툰] FR Platform Growth Manager (경력) 모집 부서 Service & Business 모집 분야 Business Development 모집 경력 경력 근로 조건 정규 모집 기간 2026.08.21 ~ 2026.09.13",
+      "department": "",
+      "location": "",
+      "deadline": "2026-09-13",
+      "deadlineTime": "",
+      "url": "https://recruit.navercorp.com/rcrt/list.do?annoId=&sw=&subJobCdData=1010001%2C1010002%2C1010003%2C1010005%2C1010008%2C1010020&sysCompanyCdData=&jobCdData=1010#n",
+      "_raw": "[네이버웹툰] FR Platform Growth Manager (경력) 모집 부서 Service & Business 모집 분야 Business Development 모집 경력 경력 근로 조건 정규 모집 기간 2026.08.21 ~ 2026.09.13",
+      "_employmentType": ""
+    },
+    {
       "company": "SK AX",
       "companyId": "skax",
       "title": "반도체 Cloud/AI Platform 개발/운영 전문가 영입 SK주식회사(AX) IT/Platform/Solution",
@@ -594,6 +594,16 @@
       "url": "https://www.skcareers.com/Recruit/Detail/R261722",
       "_raw": "AI 애플리케이션/엔터프라이즈 아키텍트 분야 전문가 영입 2026년 08월 04일(화) ~ 2026년 09월 14일(월) SK주식회사(AX) IT/구축/운영/최적화",
       "_employmentType": "정규"
+    },
+    {
+      "company": "LG CNS",
+      "companyId": "lgcns",
+      "title": "[LG CNS] 클라우드 인프라 사업 개발 분야 모집(경력)",
+      "department": "IT서비스",
+      "location": "LG CNS",
+      "deadline": "2026-09-30",
+      "deadlineTime": "18:00",
+      "url": "https://careers.lg.com/apply?c=CNS"
     },
     {
       "company": "티맵모빌리티",
@@ -981,6 +991,18 @@
       "location": "",
       "deadline": "",
       "deadlineTime": "",
+      "url": "https://toss.im/career/job-detail?job_id=7867603003",
+      "_raw": "IT Manager IT ・ 인프라 ・ 컨택센터 ・ BPO 씨엑스",
+      "_employmentType": ""
+    },
+    {
+      "company": "토스",
+      "companyId": "toss",
+      "title": "IT Manager IT",
+      "department": "",
+      "location": "",
+      "deadline": "",
+      "deadlineTime": "",
       "url": "https://toss.im/career/job-detail?job_id=7774167003",
       "_raw": "IT Manager IT ・ Help ・ 운영체제 ・ 인프라 토스 인슈어런스",
       "_employmentType": ""
@@ -1204,18 +1226,6 @@
     {
       "company": "토스",
       "companyId": "toss",
-      "title": "Server Development Specialist Kotlin",
-      "department": "",
-      "location": "",
-      "deadline": "",
-      "deadlineTime": "",
-      "url": "https://toss.im/career/job-detail?job_id=7816849003",
-      "_raw": "Server Development Specialist Kotlin ・ Java ・ Spring ・ Backend 인슈어런스",
-      "_employmentType": ""
-    },
-    {
-      "company": "토스",
-      "companyId": "toss",
       "title": "Site Reliability Engineer MSA",
       "department": "",
       "location": "",
@@ -1364,26 +1374,6 @@
       "deadline": "",
       "deadlineTime": "",
       "url": "https://talent.hyundai.com/apply/applyList.hc?occupDataTagArray=211"
-    },
-    {
-      "company": "기아",
-      "companyId": "kia",
-      "title": "기아 글로벌 채용전환형 인턴십 - 로봇 부품 DFM 엔지니어링 (제조솔루션)",
-      "department": "인턴",
-      "location": "경기 성남(판교)",
-      "deadline": "",
-      "deadlineTime": "",
-      "url": "https://career.kia.com/apply/applyList.kc"
-    },
-    {
-      "company": "기아",
-      "companyId": "kia",
-      "title": "기아 글로벌 채용전환형 인턴십 - 제조 로봇 데이터 엔지니어링 (제조솔루션)",
-      "department": "인턴",
-      "location": "경기 성남(판교)",
-      "deadline": "",
-      "deadlineTime": "",
-      "url": "https://career.kia.com/apply/applyList.kc"
     }
   ]
 }

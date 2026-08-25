@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-24T15:05:30.833Z",
-  "totalCount": 124,
+  "fetchedAt": "2026-08-25T15:05:50.422Z",
+  "totalCount": 127,
   "companies": [
     "당근",
     "현대오토에버",
@@ -22,19 +22,23 @@
     {
       "company": "CJ (올리브영/올네/대한통운)",
       "error": "fetch failed"
+    },
+    {
+      "company": "한화시스템",
+      "error": "fetch failed"
     }
   ],
   "jobs": [
     {
       "company": "SK하이닉스",
       "companyId": "skhynix",
-      "title": "['26년 하반기] Talent hy-way 기술사무직 신입 D-1 SK하이닉스 IT/IT • Tech R&D/설계,소자,R&D 공정,Product Engineering,PKG 개발,System Arch./SW Solution,Solution SW,Solution HW • 안전보건/SHE(안전),SHE(보건),SHE(환경/화학물질관리),SHE(P&S기술) ",
+      "title": "['26년 하반기] Talent hy-way 기술사무직 신입 D-DAY SK하이닉스 IT/IT • Tech R&D/설계,소자,R&D 공정,Product Engineering,PKG 개발,System Arch./SW Solution,Solution SW,Solution HW • 안전보건/SHE(안전),SHE(보건),SHE(환경/화학물질관리),SHE(P&S기술",
       "department": "",
       "location": "",
       "deadline": "2026-08-26",
       "deadlineTime": "",
       "url": "https://www.skcareers.com/Recruit/Detail/R261762",
-      "_raw": "['26년 하반기] Talent hy-way 기술사무직 신입 2026년 08월 20일(목) ~ 2026년 08월 26일(수) D-1 SK하이닉스 IT/IT • Tech R&D/설계,소자,R&D 공정,Product Engineering,PKG 개발,System Arch./SW Solution,Solution SW,Solution HW • 안전보건/SHE(안전",
+      "_raw": "['26년 하반기] Talent hy-way 기술사무직 신입 2026년 08월 20일(목) ~ 2026년 08월 26일(수) D-DAY SK하이닉스 IT/IT • Tech R&D/설계,소자,R&D 공정,Product Engineering,PKG 개발,System Arch./SW Solution,Solution SW,Solution HW • 안전보건/SHE(",
       "_employmentType": "정규"
     },
     {
@@ -372,13 +376,13 @@
     {
       "company": "SKT",
       "companyId": "skt",
-      "title": "2026 Junior Talent 채용 - Infra 직군 D-5 SK텔레콤 Infra/무선 Network,유선/IP Network,Core Network,Network 설비",
+      "title": "2026 Junior Talent 채용 - Infra 직군 D-4 SK텔레콤 Infra/무선 Network,유선/IP Network,Core Network,Network 설비",
       "department": "",
       "location": "",
       "deadline": "2026-08-30",
       "deadlineTime": "",
       "url": "https://www.skcareers.com/Recruit/Detail/R261840",
-      "_raw": "2026 Junior Talent 채용 - Infra 직군 2026년 08월 24일(월) ~ 2026년 08월 30일(일) D-5 SK텔레콤 Infra/무선 Network,유선/IP Network,Core Network,Network 설비",
+      "_raw": "2026 Junior Talent 채용 - Infra 직군 2026년 08월 24일(월) ~ 2026년 08월 30일(일) D-4 SK텔레콤 Infra/무선 Network,유선/IP Network,Core Network,Network 설비",
       "_employmentType": "정규"
     },
     {
@@ -466,26 +470,6 @@
       "url": "https://recruit.navercorp.com/rcrt/list.do?annoId=&sw=&subJobCdData=1010001%2C1010002%2C1010003%2C1010005%2C1010008%2C1010020&sysCompanyCdData=&jobCdData=1010#n",
       "_raw": "[NAVER Cloud/한국에이아이컴퓨팅센터] 클라우드 GPUaaS 상품 기획 (경력) 모집 부서 Service & Business 모집 분야 Product Development 모집 경력 경력 근로 조건 정규 모집 기간 2026.08.17 ~ 2026.09.02",
       "_employmentType": ""
-    },
-    {
-      "company": "한화시스템",
-      "companyId": "hanwha",
-      "title": "제조서비스 인프라 운영 경력사원 채용",
-      "department": "한화시스템/ICT",
-      "location": "",
-      "deadline": "2026-09-06",
-      "deadlineTime": "23:59",
-      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19532"
-    },
-    {
-      "company": "한화시스템",
-      "companyId": "hanwha",
-      "title": "온톨로지(Ontology) 전문가 경력사원 채용",
-      "department": "한화시스템/ICT",
-      "location": "",
-      "deadline": "2026-09-06",
-      "deadlineTime": "23:59",
-      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19508"
     },
     {
       "company": "네이버",
@@ -758,6 +742,15 @@
     {
       "company": "당근",
       "companyId": "daangn",
+      "title": "Software Engineer, Frontend (인턴) - 로컬 잡스",
+      "department": "",
+      "location": "SEOUL",
+      "deadline": "",
+      "url": "https://about.daangn.com?gh_jid=7969798003"
+    },
+    {
+      "company": "당근",
+      "companyId": "daangn",
       "title": "Software Engineer, Frontend - Cross Product Growth (Engagement Part)",
       "department": "",
       "location": "SEOUL",
@@ -790,6 +783,16 @@
       "location": "SEOUL",
       "deadline": "",
       "url": "https://about.daangn.com?gh_jid=7498021003"
+    },
+    {
+      "company": "현대오토에버",
+      "companyId": "autoever",
+      "title": "[SDx] IT PM - Robot MES 개발 총괄 PM",
+      "department": "SDx(스마트제조)",
+      "location": "",
+      "deadline": "",
+      "deadlineTime": "",
+      "url": "https://career.hyundai-autoever.com/ko/o/234478"
     },
     {
       "company": "토스",
@@ -885,6 +888,18 @@
       "deadlineTime": "",
       "url": "https://toss.im/career/job-detail?job_id=6603749003",
       "_raw": "Data Platform Engineer (Streaming) Data ・ 데이터엔지니어링 ・ Kafka ・ 주니어 뱅크",
+      "_employmentType": ""
+    },
+    {
+      "company": "토스",
+      "companyId": "toss",
+      "title": "Developer Relations Manager DevRel",
+      "department": "",
+      "location": "",
+      "deadline": "",
+      "deadlineTime": "",
+      "url": "https://toss.im/career/job-detail?job_id=7858223003",
+      "_raw": "Developer Relations Manager DevRel ・ 기술조직문화 ・ 개발자경험 ・ 기술브랜딩 토스",
       "_employmentType": ""
     },
     {
@@ -1374,6 +1389,26 @@
       "deadline": "",
       "deadlineTime": "",
       "url": "https://talent.hyundai.com/apply/applyList.hc?occupDataTagArray=211"
+    },
+    {
+      "company": "기아",
+      "companyId": "kia",
+      "title": "기아 글로벌 채용전환형 인턴십 - 로봇 부품 DFM 엔지니어링 (제조솔루션)",
+      "department": "인턴",
+      "location": "경기 성남(판교)",
+      "deadline": "",
+      "deadlineTime": "",
+      "url": "https://career.kia.com/apply/applyList.kc"
+    },
+    {
+      "company": "기아",
+      "companyId": "kia",
+      "title": "기아 글로벌 채용전환형 인턴십 - 제조 로봇 데이터 엔지니어링 (제조솔루션)",
+      "department": "인턴",
+      "location": "경기 성남(판교)",
+      "deadline": "",
+      "deadlineTime": "",
+      "url": "https://career.kia.com/apply/applyList.kc"
     }
   ]
 }

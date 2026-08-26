@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-25T15:05:50.422Z",
-  "totalCount": 127,
+  "fetchedAt": "2026-08-26T15:05:52.694Z",
+  "totalCount": 134,
   "companies": [
     "당근",
     "현대오토에버",
@@ -22,25 +22,9 @@
     {
       "company": "CJ (올리브영/올네/대한통운)",
       "error": "fetch failed"
-    },
-    {
-      "company": "한화시스템",
-      "error": "fetch failed"
     }
   ],
   "jobs": [
-    {
-      "company": "SK하이닉스",
-      "companyId": "skhynix",
-      "title": "['26년 하반기] Talent hy-way 기술사무직 신입 D-DAY SK하이닉스 IT/IT • Tech R&D/설계,소자,R&D 공정,Product Engineering,PKG 개발,System Arch./SW Solution,Solution SW,Solution HW • 안전보건/SHE(안전),SHE(보건),SHE(환경/화학물질관리),SHE(P&S기술",
-      "department": "",
-      "location": "",
-      "deadline": "2026-08-26",
-      "deadlineTime": "",
-      "url": "https://www.skcareers.com/Recruit/Detail/R261762",
-      "_raw": "['26년 하반기] Talent hy-way 기술사무직 신입 2026년 08월 20일(목) ~ 2026년 08월 26일(수) D-DAY SK하이닉스 IT/IT • Tech R&D/설계,소자,R&D 공정,Product Engineering,PKG 개발,System Arch./SW Solution,Solution SW,Solution HW • 안전보건/SHE(",
-      "_employmentType": "정규"
-    },
     {
       "company": "현대오토에버",
       "companyId": "autoever",
@@ -376,13 +360,13 @@
     {
       "company": "SKT",
       "companyId": "skt",
-      "title": "2026 Junior Talent 채용 - Infra 직군 D-4 SK텔레콤 Infra/무선 Network,유선/IP Network,Core Network,Network 설비",
+      "title": "2026 Junior Talent 채용 - Infra 직군 D-3 SK텔레콤 Infra/무선 Network,유선/IP Network,Core Network,Network 설비",
       "department": "",
       "location": "",
       "deadline": "2026-08-30",
       "deadlineTime": "",
       "url": "https://www.skcareers.com/Recruit/Detail/R261840",
-      "_raw": "2026 Junior Talent 채용 - Infra 직군 2026년 08월 24일(월) ~ 2026년 08월 30일(일) D-4 SK텔레콤 Infra/무선 Network,유선/IP Network,Core Network,Network 설비",
+      "_raw": "2026 Junior Talent 채용 - Infra 직군 2026년 08월 24일(월) ~ 2026년 08월 30일(일) D-3 SK텔레콤 Infra/무선 Network,유선/IP Network,Core Network,Network 설비",
       "_employmentType": "정규"
     },
     {
@@ -470,6 +454,86 @@
       "url": "https://recruit.navercorp.com/rcrt/list.do?annoId=&sw=&subJobCdData=1010001%2C1010002%2C1010003%2C1010005%2C1010008%2C1010020&sysCompanyCdData=&jobCdData=1010#n",
       "_raw": "[NAVER Cloud/한국에이아이컴퓨팅센터] 클라우드 GPUaaS 상품 기획 (경력) 모집 부서 Service & Business 모집 분야 Product Development 모집 경력 경력 근로 조건 정규 모집 기간 2026.08.17 ~ 2026.09.02",
       "_employmentType": ""
+    },
+    {
+      "company": "한화시스템",
+      "companyId": "hanwha",
+      "title": "AX 전략기획 경력사원 채용",
+      "department": "한화시스템/ICT",
+      "location": "",
+      "deadline": "2026-09-06",
+      "deadlineTime": "23:59",
+      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19620"
+    },
+    {
+      "company": "한화시스템",
+      "companyId": "hanwha",
+      "title": "VLM Project Manager 경력사원 채용",
+      "department": "한화시스템/ICT",
+      "location": "",
+      "deadline": "2026-09-06",
+      "deadlineTime": "23:59",
+      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19619"
+    },
+    {
+      "company": "한화시스템",
+      "companyId": "hanwha",
+      "title": "SWA 경력사원 채용",
+      "department": "한화시스템/ICT",
+      "location": "",
+      "deadline": "2026-09-06",
+      "deadlineTime": "23:59",
+      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19617"
+    },
+    {
+      "company": "한화시스템",
+      "companyId": "hanwha",
+      "title": "ERP 컨설턴트 경력사원 채용",
+      "department": "한화시스템/ICT",
+      "location": "",
+      "deadline": "2026-09-06",
+      "deadlineTime": "23:59",
+      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19616"
+    },
+    {
+      "company": "한화시스템",
+      "companyId": "hanwha",
+      "title": "SAP CO(관리회계/원가) 운영/개발 경력사원 채용",
+      "department": "한화시스템/ICT",
+      "location": "",
+      "deadline": "2026-09-06",
+      "deadlineTime": "23:59",
+      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19603"
+    },
+    {
+      "company": "한화시스템",
+      "companyId": "hanwha",
+      "title": "스마트팩토리 시스템 구축 분야(계획, 생산, 공정, 품질, 설비, 통신) 경력사원 채용",
+      "department": "한화시스템/ICT",
+      "location": "",
+      "deadline": "2026-09-06",
+      "deadlineTime": "23:59",
+      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19602"
+    },
+    {
+      "company": "한화시스템",
+      "companyId": "hanwha",
+      "title": "제조서비스 인프라 운영 경력사원 채용",
+      "department": "한화시스템/ICT",
+      "location": "",
+      "deadline": "2026-09-06",
+      "deadlineTime": "23:59",
+      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19532"
+    },
+    {
+      "company": "한화시스템",
+      "companyId": "hanwha",
+      "title": "온톨로지(Ontology) 전문가 경력사원 채용",
+      "department": "한화시스템/ICT",
+      "location": "",
+      "deadline": "2026-09-06",
+      "deadlineTime": "23:59",
+      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19508"
     },
     {
       "company": "네이버",
@@ -1301,18 +1365,6 @@
     {
       "company": "카카오",
       "companyId": "kakao",
-      "title": "AI Research Engineer (Search & Agent) (경력) 영입마감일 영입종료시 근무지 직군 태그 #Algorithm/ML 회사정보 카카오 직원유형 정규직",
-      "department": "",
-      "location": "",
-      "deadline": "",
-      "deadlineTime": "",
-      "url": "https://careers.kakao.com/jobs/P-14519?skillSet=&part=TECHNOLOGY&company=KAKAO&keyword=&employeeType=&page=1",
-      "_raw": "AI Research Engineer (Search & Agent) (경력) 영입마감일 영입종료시 근무지 직군 태그 #Algorithm/ML 회사정보 카카오 직원유형 정규직",
-      "_employmentType": ""
-    },
-    {
-      "company": "카카오",
-      "companyId": "kakao",
       "title": "AI 추론/학습 효율화 Engineer (경력) 영입마감일 영입종료시 근무지 직군 태그 #Algorithm/ML 회사정보 카카오 직원유형 정규직",
       "department": "",
       "location": "",
@@ -1325,18 +1377,6 @@
     {
       "company": "카카오",
       "companyId": "kakao",
-      "title": "AI Platform 추론 최적화 Engineer(경력) 영입마감일 영입종료시 근무지 직군 태그 #Server 회사정보 카카오 직원유형 정규직",
-      "department": "",
-      "location": "",
-      "deadline": "",
-      "deadlineTime": "",
-      "url": "https://careers.kakao.com/jobs/P-14469?skillSet=&part=TECHNOLOGY&company=KAKAO&keyword=&employeeType=&page=1",
-      "_raw": "AI Platform 추론 최적화 Engineer(경력) 영입마감일 영입종료시 근무지 직군 태그 #Server 회사정보 카카오 직원유형 정규직",
-      "_employmentType": ""
-    },
-    {
-      "company": "카카오",
-      "companyId": "kakao",
       "title": "Data Analytics Engineer (경력) 영입마감일 영입종료시 근무지 직군 태그 #기타 회사정보 카카오 직원유형 정규직",
       "department": "",
       "location": "",
@@ -1344,6 +1384,30 @@
       "deadlineTime": "",
       "url": "https://careers.kakao.com/jobs/P-14276?skillSet=&part=TECHNOLOGY&company=KAKAO&keyword=&employeeType=&page=1",
       "_raw": "Data Analytics Engineer (경력) 영입마감일 영입종료시 근무지 직군 태그 #기타 회사정보 카카오 직원유형 정규직",
+      "_employmentType": ""
+    },
+    {
+      "company": "카카오",
+      "companyId": "kakao",
+      "title": "AI Research Engineer (Search & Agent) (경력) 영입마감일 영입종료시 근무지 직군 태그 #Algorithm/ML 회사정보 카카오 직원유형 정규직",
+      "department": "",
+      "location": "",
+      "deadline": "",
+      "deadlineTime": "",
+      "url": "https://careers.kakao.com/jobs/P-14519?skillSet=&part=TECHNOLOGY&company=KAKAO&keyword=&employeeType=&page=1",
+      "_raw": "AI Research Engineer (Search & Agent) (경력) 영입마감일 영입종료시 근무지 직군 태그 #Algorithm/ML 회사정보 카카오 직원유형 정규직",
+      "_employmentType": ""
+    },
+    {
+      "company": "카카오",
+      "companyId": "kakao",
+      "title": "AI Platform 추론 최적화 Engineer(경력) 영입마감일 영입종료시 근무지 직군 태그 #Server 회사정보 카카오 직원유형 정규직",
+      "department": "",
+      "location": "",
+      "deadline": "",
+      "deadlineTime": "",
+      "url": "https://careers.kakao.com/jobs/P-14469?skillSet=&part=TECHNOLOGY&company=KAKAO&keyword=&employeeType=&page=1",
+      "_raw": "AI Platform 추론 최적화 Engineer(경력) 영입마감일 영입종료시 근무지 직군 태그 #Server 회사정보 카카오 직원유형 정규직",
       "_employmentType": ""
     },
     {

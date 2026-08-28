@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-27T15:05:04.696Z",
-  "totalCount": 146,
+  "fetchedAt": "2026-08-28T15:05:14.790Z",
+  "totalCount": 135,
   "companies": [
     "당근",
     "현대오토에버",
@@ -18,7 +18,16 @@
     "티맵모빌리티",
     "한화시스템"
   ],
-  "errors": [],
+  "errors": [
+    {
+      "company": "현대오토에버",
+      "error": "no jobs array in __NEXT_DATA__"
+    },
+    {
+      "company": "한화시스템",
+      "error": "fetch failed"
+    }
+  ],
   "jobs": [
     {
       "company": "네이버",
@@ -31,46 +40,6 @@
       "url": "https://recruit.navercorp.com/rcrt/list.do?annoId=&sw=&subJobCdData=1010001%2C1010002%2C1010003%2C1010005%2C1010008%2C1010020&sysCompanyCdData=&jobCdData=1010#n",
       "_raw": "[네이버웹툰] 광고 상품&플랫폼 기획 (Ad Product & Platform Manager) (경력) 모집 부서 Service & Business 모집 분야 Business Development 모집 경력 경력 근로 조건 정규 모집 기간 2026.08.12 ~ 2026.08.30",
       "_employmentType": ""
-    },
-    {
-      "company": "현대자동차",
-      "companyId": "hyundai",
-      "title": "[통합보안] Mobility Security Engineer - 차량보안",
-      "department": "#경력",
-      "location": "#양재본사",
-      "deadline": "2026-08-30",
-      "deadlineTime": "",
-      "url": "https://talent.hyundai.com/apply/applyList.hc?occupDataTagArray=211"
-    },
-    {
-      "company": "현대자동차",
-      "companyId": "hyundai",
-      "title": "[통합보안] Mobility Security Engineer - AD보안",
-      "department": "#경력",
-      "location": "#양재본사",
-      "deadline": "2026-08-30",
-      "deadlineTime": "",
-      "url": "https://talent.hyundai.com/apply/applyList.hc?occupDataTagArray=211"
-    },
-    {
-      "company": "현대자동차",
-      "companyId": "hyundai",
-      "title": "[ICT] Data Engineer",
-      "department": "#경력",
-      "location": "#서울",
-      "deadline": "2026-08-30",
-      "deadlineTime": "",
-      "url": "https://talent.hyundai.com/apply/applyList.hc?occupDataTagArray=211"
-    },
-    {
-      "company": "현대자동차",
-      "companyId": "hyundai",
-      "title": "[ICT] Data Architect",
-      "department": "#경력",
-      "location": "#양재본사",
-      "deadline": "2026-08-30",
-      "deadlineTime": "",
-      "url": "https://talent.hyundai.com/apply/applyList.hc?occupDataTagArray=211"
     },
     {
       "company": "CJ (올리브영/올네/대한통운)",
@@ -105,13 +74,13 @@
     {
       "company": "SKT",
       "companyId": "skt",
-      "title": "2026 Junior Talent 채용 - Infra 직군 D-2 SK텔레콤 Infra/무선 Network,유선/IP Network,Core Network,Network 설비",
+      "title": "2026 Junior Talent 채용 - Infra 직군 D-1 SK텔레콤 Infra/무선 Network,유선/IP Network,Core Network,Network 설비",
       "department": "",
       "location": "",
       "deadline": "2026-08-30",
       "deadlineTime": "",
       "url": "https://www.skcareers.com/Recruit/Detail/R261840",
-      "_raw": "2026 Junior Talent 채용 - Infra 직군 2026년 08월 24일(월) ~ 2026년 08월 30일(일) D-2 SK텔레콤 Infra/무선 Network,유선/IP Network,Core Network,Network 설비",
+      "_raw": "2026 Junior Talent 채용 - Infra 직군 2026년 08월 24일(월) ~ 2026년 08월 30일(일) D-1 SK텔레콤 Infra/무선 Network,유선/IP Network,Core Network,Network 설비",
       "_employmentType": "정규"
     },
     {
@@ -167,16 +136,6 @@
     {
       "company": "CJ (올리브영/올네/대한통운)",
       "companyId": "cj",
-      "title": "[경력] 클라우드 엔지니어(AWS, Azure)",
-      "department": "CJ올리브네트웍스 / 클라우드 엔지니어",
-      "location": "인천(송도)",
-      "deadline": "2026-08-31",
-      "deadlineTime": "23:59",
-      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20260803038366"
-    },
-    {
-      "company": "CJ (올리브영/올네/대한통운)",
-      "companyId": "cj",
       "title": "[경력] 클라우드 VDI 엔지니어",
       "department": "CJ올리브네트웍스 / 클라우드 엔지니어",
       "location": "인천(송도)",
@@ -187,12 +146,12 @@
     {
       "company": "CJ (올리브영/올네/대한통운)",
       "companyId": "cj",
-      "title": "[경력] CJ 유통 계열사 글로벌 SAP FI 운영/개발",
-      "department": "CJ올리브네트웍스 / 시스템개발/운영(ERP)",
-      "location": "서울",
+      "title": "[경력] 클라우드 엔지니어(AWS, Azure)",
+      "department": "CJ올리브네트웍스 / 클라우드 엔지니어",
+      "location": "인천(송도)",
       "deadline": "2026-08-31",
       "deadlineTime": "23:59",
-      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20260714039188"
+      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20260803038366"
     },
     {
       "company": "CJ (올리브영/올네/대한통운)",
@@ -207,102 +166,12 @@
     {
       "company": "CJ (올리브영/올네/대한통운)",
       "companyId": "cj",
-      "title": "[경력] CJ 식품 계열사 SAP CO 운영/개발",
-      "department": "CJ올리브네트웍스 / 시스템 개발/운영(SAP)",
-      "location": "서울",
-      "deadline": "2026-08-31",
-      "deadlineTime": "23:59",
-      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20260610038247"
-    },
-    {
-      "company": "CJ (올리브영/올네/대한통운)",
-      "companyId": "cj",
-      "title": "[경력] 생산 설비 엔지니어링 SE/PM ",
-      "department": "CJ올리브네트웍스 / 설비IT(프로젝트 관리)",
-      "location": "서울",
-      "deadline": "2026-08-31",
-      "deadlineTime": "23:59",
-      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20260430038621"
-    },
-    {
-      "company": "CJ (올리브영/올네/대한통운)",
-      "companyId": "cj",
       "title": "[경력] EAI 시스템 운영 및 개발",
       "department": "CJ올리브네트웍스 / 시스템개발/운영",
       "location": "서울",
       "deadline": "2026-08-31",
       "deadlineTime": "23:59",
       "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20251121037540"
-    },
-    {
-      "company": "CJ (올리브영/올네/대한통운)",
-      "companyId": "cj",
-      "title": "[경력] CJ제일제당 해외 SAP SD 운영/개발",
-      "department": "CJ올리브네트웍스 / 시스템 개발/운영(SAP)",
-      "location": "서울",
-      "deadline": "2026-08-31",
-      "deadlineTime": "23:59",
-      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20260323038037"
-    },
-    {
-      "company": "CJ (올리브영/올네/대한통운)",
-      "companyId": "cj",
-      "title": "[계약] SAP PM",
-      "department": "CJ올리브네트웍스 / PM(Project Manager)",
-      "location": "서울",
-      "deadline": "2026-08-31",
-      "deadlineTime": "23:59",
-      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20251218036663"
-    },
-    {
-      "company": "CJ (올리브영/올네/대한통운)",
-      "companyId": "cj",
-      "title": "[경력]CJ제일제당 해외 SAP CO 운영/개발",
-      "department": "CJ올리브네트웍스 / 시스템 개발/운영(SAP)",
-      "location": "서울",
-      "deadline": "2026-08-31",
-      "deadlineTime": "23:59",
-      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20251209036641"
-    },
-    {
-      "company": "CJ (올리브영/올네/대한통운)",
-      "companyId": "cj",
-      "title": "[경력] 대내외 SI 구축 프로젝트 수행 PL(분석/설계)",
-      "department": "CJ올리브네트웍스 / PM(Project Manager)",
-      "location": "서울",
-      "deadline": "2026-08-31",
-      "deadlineTime": "23:59",
-      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20250211029038"
-    },
-    {
-      "company": "CJ (올리브영/올네/대한통운)",
-      "companyId": "cj",
-      "title": "[경력] 대내외 고객사 SAP FI 운영/개발",
-      "department": "CJ올리브네트웍스 / 시스템 개발/운영(SAP)",
-      "location": "서울",
-      "deadline": "2026-08-31",
-      "deadlineTime": "23:59",
-      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20240722026043"
-    },
-    {
-      "company": "CJ (올리브영/올네/대한통운)",
-      "companyId": "cj",
-      "title": "[경력] SAP PP 운영/개발",
-      "department": "CJ올리브네트웍스 / 시스템 개발/운영(SAP)",
-      "location": "서울",
-      "deadline": "2026-08-31",
-      "deadlineTime": "23:59",
-      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20231030020572"
-    },
-    {
-      "company": "CJ (올리브영/올네/대한통운)",
-      "companyId": "cj",
-      "title": "[경력] SAP 모듈 컨설턴트",
-      "department": "CJ올리브네트웍스 / SAP 컨설턴트",
-      "location": "서울",
-      "deadline": "2026-08-31",
-      "deadlineTime": "23:59",
-      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20240729026055"
     },
     {
       "company": "CJ (올리브영/올네/대한통운)",
@@ -361,94 +230,44 @@
       "_employmentType": ""
     },
     {
-      "company": "한화시스템",
-      "companyId": "hanwha",
-      "title": "Private 클라우드 기획 및 운영 경력사원 채용",
-      "department": "한화시스템/ICT",
-      "location": "",
+      "company": "현대자동차",
+      "companyId": "hyundai",
+      "title": "[통합보안] Mobility Security Engineer - 차량보안",
+      "department": "#경력",
+      "location": "#양재본사",
       "deadline": "2026-09-06",
-      "deadlineTime": "23:59",
-      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19630"
+      "deadlineTime": "",
+      "url": "https://talent.hyundai.com/apply/applyList.hc?occupDataTagArray=211"
     },
     {
-      "company": "한화시스템",
-      "companyId": "hanwha",
-      "title": "AX 전략기획 경력사원 채용",
-      "department": "한화시스템/ICT",
-      "location": "",
+      "company": "현대자동차",
+      "companyId": "hyundai",
+      "title": "[통합보안] Mobility Security Engineer - AD보안",
+      "department": "#경력",
+      "location": "#양재본사",
       "deadline": "2026-09-06",
-      "deadlineTime": "23:59",
-      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19620"
+      "deadlineTime": "",
+      "url": "https://talent.hyundai.com/apply/applyList.hc?occupDataTagArray=211"
     },
     {
-      "company": "한화시스템",
-      "companyId": "hanwha",
-      "title": "VLM Project Manager 경력사원 채용",
-      "department": "한화시스템/ICT",
-      "location": "",
+      "company": "현대자동차",
+      "companyId": "hyundai",
+      "title": "[ICT] Data Engineer",
+      "department": "#경력",
+      "location": "#서울",
       "deadline": "2026-09-06",
-      "deadlineTime": "23:59",
-      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19619"
+      "deadlineTime": "",
+      "url": "https://talent.hyundai.com/apply/applyList.hc?occupDataTagArray=211"
     },
     {
-      "company": "한화시스템",
-      "companyId": "hanwha",
-      "title": "SWA 경력사원 채용",
-      "department": "한화시스템/ICT",
-      "location": "",
+      "company": "현대자동차",
+      "companyId": "hyundai",
+      "title": "[ICT] Data Architect",
+      "department": "#경력",
+      "location": "#양재본사",
       "deadline": "2026-09-06",
-      "deadlineTime": "23:59",
-      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19617"
-    },
-    {
-      "company": "한화시스템",
-      "companyId": "hanwha",
-      "title": "ERP 컨설턴트 경력사원 채용",
-      "department": "한화시스템/ICT",
-      "location": "",
-      "deadline": "2026-09-06",
-      "deadlineTime": "23:59",
-      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19616"
-    },
-    {
-      "company": "한화시스템",
-      "companyId": "hanwha",
-      "title": "SAP CO(관리회계/원가) 운영/개발 경력사원 채용",
-      "department": "한화시스템/ICT",
-      "location": "",
-      "deadline": "2026-09-06",
-      "deadlineTime": "23:59",
-      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19603"
-    },
-    {
-      "company": "한화시스템",
-      "companyId": "hanwha",
-      "title": "스마트팩토리 시스템 구축 분야(계획, 생산, 공정, 품질, 설비, 통신) 경력사원 채용",
-      "department": "한화시스템/ICT",
-      "location": "",
-      "deadline": "2026-09-06",
-      "deadlineTime": "23:59",
-      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19602"
-    },
-    {
-      "company": "한화시스템",
-      "companyId": "hanwha",
-      "title": "제조서비스 인프라 운영 경력사원 채용",
-      "department": "한화시스템/ICT",
-      "location": "",
-      "deadline": "2026-09-06",
-      "deadlineTime": "23:59",
-      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19532"
-    },
-    {
-      "company": "한화시스템",
-      "companyId": "hanwha",
-      "title": "온톨로지(Ontology) 전문가 경력사원 채용",
-      "department": "한화시스템/ICT",
-      "location": "",
-      "deadline": "2026-09-06",
-      "deadlineTime": "23:59",
-      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19508"
+      "deadlineTime": "",
+      "url": "https://talent.hyundai.com/apply/applyList.hc?occupDataTagArray=211"
     },
     {
       "company": "CJ (올리브영/올네/대한통운)",
@@ -639,6 +458,106 @@
       "deadline": "2026-09-30",
       "deadlineTime": "23:59",
       "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20260205036807"
+    },
+    {
+      "company": "CJ (올리브영/올네/대한통운)",
+      "companyId": "cj",
+      "title": "[경력] CJ 유통 계열사 글로벌 SAP FI 운영/개발",
+      "department": "CJ올리브네트웍스 / 시스템개발/운영(ERP)",
+      "location": "서울",
+      "deadline": "2026-09-30",
+      "deadlineTime": "23:59",
+      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20260714039188"
+    },
+    {
+      "company": "CJ (올리브영/올네/대한통운)",
+      "companyId": "cj",
+      "title": "[경력] CJ 식품 계열사 SAP CO 운영/개발",
+      "department": "CJ올리브네트웍스 / 시스템 개발/운영(SAP)",
+      "location": "서울",
+      "deadline": "2026-09-30",
+      "deadlineTime": "23:59",
+      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20260610038247"
+    },
+    {
+      "company": "CJ (올리브영/올네/대한통운)",
+      "companyId": "cj",
+      "title": "[경력] 생산 설비 엔지니어링 SE/PM ",
+      "department": "CJ올리브네트웍스 / 설비IT(프로젝트 관리)",
+      "location": "서울",
+      "deadline": "2026-09-30",
+      "deadlineTime": "23:59",
+      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20260430038621"
+    },
+    {
+      "company": "CJ (올리브영/올네/대한통운)",
+      "companyId": "cj",
+      "title": "[경력] CJ제일제당 해외 SAP SD 운영/개발",
+      "department": "CJ올리브네트웍스 / 시스템 개발/운영(SAP)",
+      "location": "서울",
+      "deadline": "2026-09-30",
+      "deadlineTime": "23:59",
+      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20260323038037"
+    },
+    {
+      "company": "CJ (올리브영/올네/대한통운)",
+      "companyId": "cj",
+      "title": "[계약] SAP PM",
+      "department": "CJ올리브네트웍스 / PM(Project Manager)",
+      "location": "서울",
+      "deadline": "2026-09-30",
+      "deadlineTime": "23:59",
+      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20251218036663"
+    },
+    {
+      "company": "CJ (올리브영/올네/대한통운)",
+      "companyId": "cj",
+      "title": "[경력]CJ제일제당 해외 SAP CO 운영/개발",
+      "department": "CJ올리브네트웍스 / 시스템 개발/운영(SAP)",
+      "location": "서울",
+      "deadline": "2026-09-30",
+      "deadlineTime": "23:59",
+      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20251209036641"
+    },
+    {
+      "company": "CJ (올리브영/올네/대한통운)",
+      "companyId": "cj",
+      "title": "[경력] 대내외 SI 구축 프로젝트 수행 PL(분석/설계)",
+      "department": "CJ올리브네트웍스 / PM(Project Manager)",
+      "location": "서울",
+      "deadline": "2026-09-30",
+      "deadlineTime": "23:59",
+      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20250211029038"
+    },
+    {
+      "company": "CJ (올리브영/올네/대한통운)",
+      "companyId": "cj",
+      "title": "[경력] 대내외 고객사 SAP FI 운영/개발",
+      "department": "CJ올리브네트웍스 / 시스템 개발/운영(SAP)",
+      "location": "서울",
+      "deadline": "2026-09-30",
+      "deadlineTime": "23:59",
+      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20240722026043"
+    },
+    {
+      "company": "CJ (올리브영/올네/대한통운)",
+      "companyId": "cj",
+      "title": "[경력] SAP PP 운영/개발",
+      "department": "CJ올리브네트웍스 / 시스템 개발/운영(SAP)",
+      "location": "서울",
+      "deadline": "2026-09-30",
+      "deadlineTime": "23:59",
+      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20231030020572"
+    },
+    {
+      "company": "CJ (올리브영/올네/대한통운)",
+      "companyId": "cj",
+      "title": "[경력] SAP 모듈 컨설턴트",
+      "department": "CJ올리브네트웍스 / SAP 컨설턴트",
+      "location": "서울",
+      "deadline": "2026-09-30",
+      "deadlineTime": "23:59",
+      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20240729026055"
     },
     {
       "company": "티맵모빌리티",
@@ -834,16 +753,6 @@
       "location": "SEOUL",
       "deadline": "",
       "url": "https://about.daangn.com?gh_jid=7498021003"
-    },
-    {
-      "company": "현대오토에버",
-      "companyId": "autoever",
-      "title": "[SDx] IT PM - Robot MES 개발 총괄 PM",
-      "department": "SDx(스마트제조)",
-      "location": "",
-      "deadline": "",
-      "deadlineTime": "",
-      "url": "https://career.hyundai-autoever.com/ko/o/234478"
     },
     {
       "company": "토스",
@@ -1047,18 +956,6 @@
       "deadlineTime": "",
       "url": "https://toss.im/career/job-detail?job_id=6550286003",
       "_raw": "Internal Systems Engineer (MDM) MDM ・ PC ・ IT ・ Device 토스",
-      "_employmentType": ""
-    },
-    {
-      "company": "토스",
-      "companyId": "toss",
-      "title": "IT Admin (부산센터) IT",
-      "department": "",
-      "location": "",
-      "deadline": "",
-      "deadlineTime": "",
-      "url": "https://toss.im/career/job-detail?job_id=7901076003",
-      "_raw": "IT Admin (부산센터) IT ・ 전산 ・ 인프라 ・ 상담시스템 씨엑스",
       "_employmentType": ""
     },
     {

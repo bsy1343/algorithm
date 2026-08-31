@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-30T15:05:08.169Z",
-  "totalCount": 142,
+  "fetchedAt": "2026-08-31T15:06:04.254Z",
+  "totalCount": 125,
   "companies": [
     "당근",
     "현대오토에버",
@@ -20,111 +20,11 @@
   ],
   "errors": [
     {
-      "company": "현대오토에버",
-      "error": "no jobs array in __NEXT_DATA__"
+      "company": "한화시스템",
+      "error": "fetch failed"
     }
   ],
   "jobs": [
-    {
-      "company": "CJ (올리브영/올네/대한통운)",
-      "companyId": "cj",
-      "title": "[티빙] 프로덕트 보안(Product Security) 경력채용",
-      "department": "TVING / 정보보안",
-      "location": "서울",
-      "deadline": "2026-08-30",
-      "deadlineTime": "23:00",
-      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20260709039175"
-    },
-    {
-      "company": "CJ (올리브영/올네/대한통운)",
-      "companyId": "cj",
-      "title": "[티빙] 엔터프라이즈 보안(Enterprise Security) 경력채용",
-      "department": "TVING / 정보보안",
-      "location": "서울",
-      "deadline": "2026-08-30",
-      "deadlineTime": "23:00",
-      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20260709038324"
-    },
-    {
-      "company": "CJ (올리브영/올네/대한통운)",
-      "companyId": "cj",
-      "title": "[티빙] 정보보호 담당자(IT Security Compliance Manager) 경력채용",
-      "department": "TVING / 정보보안",
-      "location": "서울",
-      "deadline": "2026-08-30",
-      "deadlineTime": "23:00",
-      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20260709038325"
-    },
-    {
-      "company": "LG CNS",
-      "companyId": "lgcns",
-      "title": "[LG CNS] Google Cloud 분야 모집 (경력)",
-      "department": "IT서비스",
-      "location": "LG CNS",
-      "deadline": "2026-08-31",
-      "deadlineTime": "23:00",
-      "url": "https://careers.lg.com/apply?c=CNS"
-    },
-    {
-      "company": "LG CNS",
-      "companyId": "lgcns",
-      "title": "[LG CNS] MES개발자 분야 모집(경력)",
-      "department": "IT서비스",
-      "location": "LG CNS",
-      "deadline": "2026-08-31",
-      "deadlineTime": "18:00",
-      "url": "https://careers.lg.com/apply?c=CNS"
-    },
-    {
-      "company": "LG CNS",
-      "companyId": "lgcns",
-      "title": "[LG CNS] MS Active Directory 아키텍트 모집 (경력)",
-      "department": "IT서비스",
-      "location": "LG CNS",
-      "deadline": "2026-08-31",
-      "deadlineTime": "18:00",
-      "url": "https://careers.lg.com/apply?c=CNS"
-    },
-    {
-      "company": "LG CNS",
-      "companyId": "lgcns",
-      "title": "[LG CNS] 어플리케이션 아키텍트/AI 아키텍트 모집(경력)",
-      "department": "IT서비스",
-      "location": "LG CNS",
-      "deadline": "2026-08-31",
-      "deadlineTime": "23:00",
-      "url": "https://careers.lg.com/apply?c=CNS"
-    },
-    {
-      "company": "LG CNS",
-      "companyId": "lgcns",
-      "title": "[LG CNS] 클라우드 인프라 아키텍트 / Data 아키텍트 모집(경력)",
-      "department": "IT서비스",
-      "location": "LG CNS",
-      "deadline": "2026-08-31",
-      "deadlineTime": "18:00",
-      "url": "https://careers.lg.com/apply?c=CNS"
-    },
-    {
-      "company": "CJ (올리브영/올네/대한통운)",
-      "companyId": "cj",
-      "title": "[경력] 클라우드 VDI 엔지니어",
-      "department": "CJ올리브네트웍스 / 클라우드 엔지니어",
-      "location": "인천(송도)",
-      "deadline": "2026-08-31",
-      "deadlineTime": "23:59",
-      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20260803038365"
-    },
-    {
-      "company": "CJ (올리브영/올네/대한통운)",
-      "companyId": "cj",
-      "title": "[경력] 클라우드 엔지니어(AWS, Azure)",
-      "department": "CJ올리브네트웍스 / 클라우드 엔지니어",
-      "location": "인천(송도)",
-      "deadline": "2026-08-31",
-      "deadlineTime": "23:59",
-      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20260803038366"
-    },
     {
       "company": "CJ (올리브영/올네/대한통운)",
       "companyId": "cj",
@@ -240,96 +140,6 @@
       "deadline": "2026-09-06",
       "deadlineTime": "",
       "url": "https://talent.hyundai.com/apply/applyList.hc?occupDataTagArray=211"
-    },
-    {
-      "company": "한화시스템",
-      "companyId": "hanwha",
-      "title": "Private 클라우드 기획 및 운영 경력사원 채용",
-      "department": "한화시스템/ICT",
-      "location": "",
-      "deadline": "2026-09-06",
-      "deadlineTime": "23:59",
-      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19630"
-    },
-    {
-      "company": "한화시스템",
-      "companyId": "hanwha",
-      "title": "AX 전략기획 경력사원 채용",
-      "department": "한화시스템/ICT",
-      "location": "",
-      "deadline": "2026-09-06",
-      "deadlineTime": "23:59",
-      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19620"
-    },
-    {
-      "company": "한화시스템",
-      "companyId": "hanwha",
-      "title": "VLM Project Manager 경력사원 채용",
-      "department": "한화시스템/ICT",
-      "location": "",
-      "deadline": "2026-09-06",
-      "deadlineTime": "23:59",
-      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19619"
-    },
-    {
-      "company": "한화시스템",
-      "companyId": "hanwha",
-      "title": "SWA 경력사원 채용",
-      "department": "한화시스템/ICT",
-      "location": "",
-      "deadline": "2026-09-06",
-      "deadlineTime": "23:59",
-      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19617"
-    },
-    {
-      "company": "한화시스템",
-      "companyId": "hanwha",
-      "title": "ERP 컨설턴트 경력사원 채용",
-      "department": "한화시스템/ICT",
-      "location": "",
-      "deadline": "2026-09-06",
-      "deadlineTime": "23:59",
-      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19616"
-    },
-    {
-      "company": "한화시스템",
-      "companyId": "hanwha",
-      "title": "SAP CO(관리회계/원가) 운영/개발 경력사원 채용",
-      "department": "한화시스템/ICT",
-      "location": "",
-      "deadline": "2026-09-06",
-      "deadlineTime": "23:59",
-      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19603"
-    },
-    {
-      "company": "한화시스템",
-      "companyId": "hanwha",
-      "title": "스마트팩토리 시스템 구축 분야(계획, 생산, 공정, 품질, 설비, 통신) 경력사원 채용",
-      "department": "한화시스템/ICT",
-      "location": "",
-      "deadline": "2026-09-06",
-      "deadlineTime": "23:59",
-      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19602"
-    },
-    {
-      "company": "한화시스템",
-      "companyId": "hanwha",
-      "title": "제조서비스 인프라 운영 경력사원 채용",
-      "department": "한화시스템/ICT",
-      "location": "",
-      "deadline": "2026-09-06",
-      "deadlineTime": "23:59",
-      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19532"
-    },
-    {
-      "company": "한화시스템",
-      "companyId": "hanwha",
-      "title": "온톨로지(Ontology) 전문가 경력사원 채용",
-      "department": "한화시스템/ICT",
-      "location": "",
-      "deadline": "2026-09-06",
-      "deadlineTime": "23:59",
-      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19508"
     },
     {
       "company": "CJ (올리브영/올네/대한통운)",
@@ -500,16 +310,6 @@
       "deadline": "2026-09-28",
       "deadlineTime": "23:59",
       "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20240621025227"
-    },
-    {
-      "company": "LG CNS",
-      "companyId": "lgcns",
-      "title": "[LG CNS] 클라우드 인프라 사업 개발 분야 모집(경력)",
-      "department": "IT서비스",
-      "location": "LG CNS",
-      "deadline": "2026-09-30",
-      "deadlineTime": "18:00",
-      "url": "https://careers.lg.com/apply?c=CNS"
     },
     {
       "company": "CJ (올리브영/올네/대한통운)",
@@ -783,6 +583,15 @@
     {
       "company": "당근",
       "companyId": "daangn",
+      "title": "Software Engineer, Frontend (인턴) - 커뮤니티 (카페)",
+      "department": "",
+      "location": "SEOUL",
+      "deadline": "",
+      "url": "https://about.daangn.com?gh_jid=7981572003"
+    },
+    {
+      "company": "당근",
+      "companyId": "daangn",
       "title": "Software Engineer, Frontend - Cross Product Growth (Engagement Part)",
       "department": "",
       "location": "SEOUL",
@@ -815,6 +624,18 @@
       "location": "SEOUL",
       "deadline": "",
       "url": "https://about.daangn.com?gh_jid=7498021003"
+    },
+    {
+      "company": "토스",
+      "companyId": "toss",
+      "title": "토스커뮤니티 Frontend Developer 대규모 채용 (~9/14) 토스 외 3개 계열사",
+      "department": "",
+      "location": "",
+      "deadline": "",
+      "deadlineTime": "",
+      "url": "https://toss.im/career/job-detail?job_id=7867197003",
+      "_raw": "토스커뮤니티 Frontend Developer 대규모 채용 (~9/14) 토스 외 3개 계열사",
+      "_employmentType": ""
     },
     {
       "company": "토스",
@@ -861,7 +682,19 @@
       "deadline": "",
       "deadlineTime": "",
       "url": "https://toss.im/career/job-detail?job_id=7786567003",
-      "_raw": "AI Engineer AI ・ Agent ・ LLM ・ Agent Platform 토스 증권",
+      "_raw": "AI Engineer AI ・ Agent ・ LLM ・ Agent Platform 토스",
+      "_employmentType": ""
+    },
+    {
+      "company": "토스",
+      "companyId": "toss",
+      "title": "AI Engineer (WM) 머신러닝",
+      "department": "",
+      "location": "",
+      "deadline": "",
+      "deadlineTime": "",
+      "url": "https://toss.im/career/job-detail?job_id=7825510003",
+      "_raw": "AI Engineer (WM) 머신러닝 ・ ML ・ AI ・ AI Agent 증권",
       "_employmentType": ""
     },
     {
@@ -1028,20 +861,20 @@
       "location": "",
       "deadline": "",
       "deadlineTime": "",
-      "url": "https://toss.im/career/job-detail?job_id=7867603003",
-      "_raw": "IT Manager IT ・ 인프라 ・ 컨택센터 ・ BPO 씨엑스",
+      "url": "https://toss.im/career/job-detail?job_id=7774167003",
+      "_raw": "IT Manager IT ・ Help ・ 운영체제 ・ 인프라 토스 인슈어런스",
       "_employmentType": ""
     },
     {
       "company": "토스",
       "companyId": "toss",
-      "title": "IT Manager IT",
+      "title": "IT Manager (사내 IT 운영 및 고객사 IT 환경 구축 기획) IT",
       "department": "",
       "location": "",
       "deadline": "",
       "deadlineTime": "",
-      "url": "https://toss.im/career/job-detail?job_id=7774167003",
-      "_raw": "IT Manager IT ・ Help ・ 운영체제 ・ 인프라 토스 인슈어런스",
+      "url": "https://toss.im/career/job-detail?job_id=7867603003",
+      "_raw": "IT Manager (사내 IT 운영 및 고객사 IT 환경 구축 기획) IT ・ 인프라 ・ 컨택센터 ・ BPO 씨엑스",
       "_employmentType": ""
     },
     {
@@ -1445,6 +1278,16 @@
     {
       "company": "CJ (올리브영/올네/대한통운)",
       "companyId": "cj",
+      "title": "[TES물류기술연구소] 최적화 솔루션 엔지니어 경력사원 모집",
+      "department": "CJ대한통운 / 최적화 알고리즘 개발",
+      "location": "서울",
+      "deadline": "",
+      "deadlineTime": "",
+      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20260827039540"
+    },
+    {
+      "company": "CJ (올리브영/올네/대한통운)",
+      "companyId": "cj",
       "title": "[TES물류기술연구소] '포워딩 IT 전문가' 경력사원 모집",
       "department": "CJ대한통운 / 포워딩 IT 전문가",
       "location": "서울",
@@ -1461,16 +1304,6 @@
       "deadline": "",
       "deadlineTime": "",
       "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20260813039265"
-    },
-    {
-      "company": "CJ (올리브영/올네/대한통운)",
-      "companyId": "cj",
-      "title": "[CJ제일제당] UI/UX 디자인 전문가",
-      "department": "CJ제일제당 / UI/UX 디자인",
-      "location": "서울",
-      "deadline": "",
-      "deadlineTime": "",
-      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20260323038042"
     },
     {
       "company": "CJ (올리브영/올네/대한통운)",

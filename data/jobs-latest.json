@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-31T15:06:04.254Z",
-  "totalCount": 125,
+  "fetchedAt": "2026-09-01T15:05:52.419Z",
+  "totalCount": 128,
   "companies": [
     "당근",
     "현대오토에버",
@@ -25,26 +25,6 @@
     }
   ],
   "jobs": [
-    {
-      "company": "CJ (올리브영/올네/대한통운)",
-      "companyId": "cj",
-      "title": "[경력] CJ ONE 회원 서비스 백엔드 개발자",
-      "department": "CJ올리브네트웍스 / 백엔드개발",
-      "location": "서울",
-      "deadline": "2026-08-31",
-      "deadlineTime": "23:59",
-      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20260616038263"
-    },
-    {
-      "company": "CJ (올리브영/올네/대한통운)",
-      "companyId": "cj",
-      "title": "[경력] EAI 시스템 운영 및 개발",
-      "department": "CJ올리브네트웍스 / 시스템개발/운영",
-      "location": "서울",
-      "deadline": "2026-08-31",
-      "deadlineTime": "23:59",
-      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20251121037540"
-    },
     {
       "company": "CJ (올리브영/올네/대한통운)",
       "companyId": "cj",
@@ -224,6 +204,26 @@
       "_employmentType": ""
     },
     {
+      "company": "현대자동차",
+      "companyId": "hyundai",
+      "title": "Security Engineering",
+      "department": "#신입",
+      "location": "#양재본사",
+      "deadline": "2026-09-14",
+      "deadlineTime": "",
+      "url": "https://talent.hyundai.com/apply/applyList.hc?occupDataTagArray=211"
+    },
+    {
+      "company": "현대자동차",
+      "companyId": "hyundai",
+      "title": "Infra Engineering",
+      "department": "#신입",
+      "location": "#서울",
+      "deadline": "2026-09-14",
+      "deadlineTime": "",
+      "url": "https://talent.hyundai.com/apply/applyList.hc?occupDataTagArray=211"
+    },
+    {
       "company": "CJ (올리브영/올네/대한통운)",
       "companyId": "cj",
       "title": "[경력] 정보보호 컨설턴트",
@@ -302,6 +302,16 @@
       "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20260422038602"
     },
     {
+      "company": "현대오토에버",
+      "companyId": "autoever",
+      "title": "[EnIT] Solution Developer - SAP ERP ABAP 개발 및 솔루션 기획",
+      "department": "Enterprise IT",
+      "location": "",
+      "deadline": "2026-09-28",
+      "deadlineTime": "23:59",
+      "url": "https://career.hyundai-autoever.com/ko/o/235322"
+    },
+    {
       "company": "CJ (올리브영/올네/대한통운)",
       "companyId": "cj",
       "title": "[경력] 비지니스 컨설턴트",
@@ -310,6 +320,16 @@
       "deadline": "2026-09-28",
       "deadlineTime": "23:59",
       "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20240621025227"
+    },
+    {
+      "company": "CJ (올리브영/올네/대한통운)",
+      "companyId": "cj",
+      "title": "[경력] 데이터 분석 플랫폼 개발 및 운영(Data Engineer)",
+      "department": "CJ올리브네트웍스 / 데이터 엔지니어",
+      "location": "서울",
+      "deadline": "2026-09-30",
+      "deadlineTime": "23:59",
+      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20260901040056"
     },
     {
       "company": "CJ (올리브영/올네/대한통운)",
@@ -404,22 +424,22 @@
     {
       "company": "CJ (올리브영/올네/대한통운)",
       "companyId": "cj",
-      "title": "[경력] 대내외 고객사 SAP FI 운영/개발",
-      "department": "CJ올리브네트웍스 / 시스템 개발/운영(SAP)",
-      "location": "서울",
-      "deadline": "2026-09-30",
-      "deadlineTime": "23:59",
-      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20240722026043"
-    },
-    {
-      "company": "CJ (올리브영/올네/대한통운)",
-      "companyId": "cj",
       "title": "[경력] SAP 모듈 컨설턴트",
       "department": "CJ올리브네트웍스 / SAP 컨설턴트",
       "location": "서울",
       "deadline": "2026-09-30",
       "deadlineTime": "23:59",
       "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20240729026055"
+    },
+    {
+      "company": "CJ (올리브영/올네/대한통운)",
+      "companyId": "cj",
+      "title": "[경력] 대내외 고객사 SAP FI 운영/개발",
+      "department": "CJ올리브네트웍스 / 시스템 개발/운영(SAP)",
+      "location": "서울",
+      "deadline": "2026-09-30",
+      "deadlineTime": "23:59",
+      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20240722026043"
     },
     {
       "company": "티맵모빌리티",
@@ -547,6 +567,15 @@
     {
       "company": "당근",
       "companyId": "daangn",
+      "title": "Software Engineer, Backend (인턴) - 나의당근",
+      "department": "",
+      "location": "SEOUL",
+      "deadline": "",
+      "url": "https://about.daangn.com?gh_jid=7771433003"
+    },
+    {
+      "company": "당근",
+      "companyId": "daangn",
       "title": "Software Engineer, Backend - 서비스 코어 (Identity Service)",
       "department": "",
       "location": "SEOUL",
@@ -583,7 +612,7 @@
     {
       "company": "당근",
       "companyId": "daangn",
-      "title": "Software Engineer, Frontend (인턴) - 커뮤니티 (카페)",
+      "title": "Software Engineer, Frontend (인턴) - 커뮤니티",
       "department": "",
       "location": "SEOUL",
       "deadline": "",
@@ -724,6 +753,18 @@
     {
       "company": "토스",
       "companyId": "toss",
+      "title": "Customer Hero (정착지원금 50만원) 신입",
+      "department": "",
+      "location": "",
+      "deadline": "",
+      "deadlineTime": "",
+      "url": "https://toss.im/career/job-detail?job_id=7621552003",
+      "_raw": "Customer Hero (정착지원금 50만원) 신입 ・ 토스플랫폼 ・ 증권 ・ 주식 ・ 앱상담 ・ 고객센터 씨엑스",
+      "_employmentType": ""
+    },
+    {
+      "company": "토스",
+      "companyId": "toss",
       "title": "Data Analytics Engineer Data",
       "department": "",
       "location": "",
@@ -808,6 +849,30 @@
     {
       "company": "토스",
       "companyId": "toss",
+      "title": "Frontend Developer React",
+      "department": "",
+      "location": "",
+      "deadline": "",
+      "deadlineTime": "",
+      "url": "https://toss.im/career/job-detail?job_id=7968173003",
+      "_raw": "Frontend Developer React ・ Typescript ・ Next.js ・ Ads 토스 외 3개 계열사",
+      "_employmentType": ""
+    },
+    {
+      "company": "토스",
+      "companyId": "toss",
+      "title": "Frontend Developer (보훈특별채용) 개발",
+      "department": "",
+      "location": "",
+      "deadline": "",
+      "deadlineTime": "",
+      "url": "https://toss.im/career/job-detail?job_id=6615122003",
+      "_raw": "Frontend Developer (보훈특별채용) 개발 ・ Frontend ・ TypeScript ・ JavaScript ・ 보훈 증권",
+      "_employmentType": ""
+    },
+    {
+      "company": "토스",
+      "companyId": "toss",
       "title": "Frontend Developer [산업기능요원/전문연구요원] 병역특례",
       "department": "",
       "location": "",
@@ -815,6 +880,18 @@
       "deadlineTime": "",
       "url": "https://toss.im/career/job-detail?job_id=4770557003",
       "_raw": "Frontend Developer [산업기능요원/전문연구요원] 병역특례 ・ 개발 ・ React ・ TypeScript 토스",
+      "_employmentType": ""
+    },
+    {
+      "company": "토스",
+      "companyId": "toss",
+      "title": "Frontend Platform Engineer 개발",
+      "department": "",
+      "location": "",
+      "deadline": "",
+      "deadlineTime": "",
+      "url": "https://toss.im/career/job-detail?job_id=7971212003",
+      "_raw": "Frontend Platform Engineer 개발 ・ Frontend ・ TypeScript ・ JavaScript 토스 외 3개 계열사",
       "_employmentType": ""
     },
     {
@@ -1036,18 +1113,6 @@
     {
       "company": "토스",
       "companyId": "toss",
-      "title": "Purchasing Manager (Infrastructure) 구매",
-      "department": "",
-      "location": "",
-      "deadline": "",
-      "deadlineTime": "",
-      "url": "https://toss.im/career/job-detail?job_id=7763257003",
-      "_raw": "Purchasing Manager (Infrastructure) 구매 ・ Purchasing 토스",
-      "_employmentType": ""
-    },
-    {
-      "company": "토스",
-      "companyId": "toss",
       "title": "Security Engineer 엔드포인트",
       "department": "",
       "location": "",
@@ -1224,36 +1289,6 @@
       "url": "https://careers.kakao.com/jobs/P-14403?skillSet=&part=TECHNOLOGY&company=KAKAO&keyword=&employeeType=&page=1",
       "_raw": "LLM Research Engineer (Post-training) (신입/경력) 영입마감일 영입종료시 근무지 직군 태그 #Algorithm/ML 회사정보 카카오 직원유형 정규직",
       "_employmentType": ""
-    },
-    {
-      "company": "현대자동차",
-      "companyId": "hyundai",
-      "title": "[AVP] 모빌리티 플랫폼 서비스 운영 기획 및 관리",
-      "department": "#경력",
-      "location": "#서울",
-      "deadline": "",
-      "deadlineTime": "",
-      "url": "https://talent.hyundai.com/apply/applyList.hc?occupDataTagArray=211"
-    },
-    {
-      "company": "현대자동차",
-      "companyId": "hyundai",
-      "title": "[AVP] 모빌리티 플랫폼 UX 기획",
-      "department": "#경력",
-      "location": "#서울",
-      "deadline": "",
-      "deadlineTime": "",
-      "url": "https://talent.hyundai.com/apply/applyList.hc?occupDataTagArray=211"
-    },
-    {
-      "company": "현대자동차",
-      "companyId": "hyundai",
-      "title": "[AVP] 모빌리티 플랫폼 Infra Engineer",
-      "department": "#경력",
-      "location": "#서울",
-      "deadline": "",
-      "deadlineTime": "",
-      "url": "https://talent.hyundai.com/apply/applyList.hc?occupDataTagArray=211"
     },
     {
       "company": "기아",

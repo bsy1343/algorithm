@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-09-05T15:05:01.128Z",
-  "totalCount": 163,
+  "fetchedAt": "2026-09-06T15:05:07.679Z",
+  "totalCount": 164,
   "companies": [
     "당근",
     "현대오토에버",
@@ -18,53 +18,8 @@
     "티맵모빌리티",
     "한화시스템"
   ],
-  "errors": [
-    {
-      "company": "한화시스템",
-      "error": "fetch failed"
-    }
-  ],
+  "errors": [],
   "jobs": [
-    {
-      "company": "현대자동차",
-      "companyId": "hyundai",
-      "title": "[통합보안] Mobility Security Engineer - 차량보안",
-      "department": "#경력",
-      "location": "#양재본사",
-      "deadline": "2026-09-06",
-      "deadlineTime": "",
-      "url": "https://talent.hyundai.com/apply/applyList.hc?occupDataTagArray=211"
-    },
-    {
-      "company": "현대자동차",
-      "companyId": "hyundai",
-      "title": "[통합보안] Mobility Security Engineer - AD보안",
-      "department": "#경력",
-      "location": "#양재본사",
-      "deadline": "2026-09-06",
-      "deadlineTime": "",
-      "url": "https://talent.hyundai.com/apply/applyList.hc?occupDataTagArray=211"
-    },
-    {
-      "company": "현대자동차",
-      "companyId": "hyundai",
-      "title": "[ICT] Data Engineer",
-      "department": "#경력",
-      "location": "#서울",
-      "deadline": "2026-09-06",
-      "deadlineTime": "",
-      "url": "https://talent.hyundai.com/apply/applyList.hc?occupDataTagArray=211"
-    },
-    {
-      "company": "현대자동차",
-      "companyId": "hyundai",
-      "title": "[ICT] Data Architect",
-      "department": "#경력",
-      "location": "#양재본사",
-      "deadline": "2026-09-06",
-      "deadlineTime": "",
-      "url": "https://talent.hyundai.com/apply/applyList.hc?occupDataTagArray=211"
-    },
     {
       "company": "CJ (올리브영/올네/대한통운)",
       "companyId": "cj",
@@ -180,49 +135,49 @@
     {
       "company": "SK AX",
       "companyId": "skax",
-      "title": "반도체 Cloud/AI Platform 개발/운영 전문가 영입 SK주식회사(AX) IT/Platform/Solution",
+      "title": "반도체 Cloud/AI Platform 개발/운영 전문가 영입 D-7 SK주식회사(AX) IT/Platform/Solution",
       "department": "",
       "location": "",
       "deadline": "2026-09-14",
       "deadlineTime": "",
       "url": "https://www.skcareers.com/Recruit/Detail/R261675",
-      "_raw": "반도체 Cloud/AI Platform 개발/운영 전문가 영입 2026년 07월 30일(목) ~ 2026년 09월 14일(월) SK주식회사(AX) IT/Platform/Solution",
+      "_raw": "반도체 Cloud/AI Platform 개발/운영 전문가 영입 2026년 07월 30일(목) ~ 2026년 09월 14일(월) D-7 SK주식회사(AX) IT/Platform/Solution",
       "_employmentType": "정규"
     },
     {
       "company": "SK AX",
       "companyId": "skax",
-      "title": "보안 아키텍트 영입 SK주식회사(AX) 정보보안/정보보안 컨설팅",
+      "title": "보안 아키텍트 영입 D-7 SK주식회사(AX) 정보보안/정보보안 컨설팅",
       "department": "",
       "location": "",
       "deadline": "2026-09-14",
       "deadlineTime": "",
       "url": "https://www.skcareers.com/Recruit/Detail/R261706",
-      "_raw": "보안 아키텍트 영입 2026년 08월 07일(금) ~ 2026년 09월 14일(월) SK주식회사(AX) 정보보안/정보보안 컨설팅",
+      "_raw": "보안 아키텍트 영입 2026년 08월 07일(금) ~ 2026년 09월 14일(월) D-7 SK주식회사(AX) 정보보안/정보보안 컨설팅",
       "_employmentType": "정규"
     },
     {
       "company": "SK AX",
       "companyId": "skax",
-      "title": "AI 기반 MES 자동화·고도화 분야 전문가 영입 SK주식회사(AX) IT/구축/운영/최적화",
+      "title": "AI 기반 MES 자동화·고도화 분야 전문가 영입 D-7 SK주식회사(AX) IT/구축/운영/최적화",
       "department": "",
       "location": "",
       "deadline": "2026-09-14",
       "deadlineTime": "",
       "url": "https://www.skcareers.com/Recruit/Detail/R261676",
-      "_raw": "AI 기반 MES 자동화·고도화 분야 전문가 영입 2026년 07월 30일(목) ~ 2026년 09월 14일(월) SK주식회사(AX) IT/구축/운영/최적화",
+      "_raw": "AI 기반 MES 자동화·고도화 분야 전문가 영입 2026년 07월 30일(목) ~ 2026년 09월 14일(월) D-7 SK주식회사(AX) IT/구축/운영/최적화",
       "_employmentType": "정규"
     },
     {
       "company": "SK AX",
       "companyId": "skax",
-      "title": "AI 애플리케이션/엔터프라이즈 아키텍트 분야 전문가 영입 SK주식회사(AX) IT/구축/운영/최적화",
+      "title": "AI 애플리케이션/엔터프라이즈 아키텍트 분야 전문가 영입 D-7 SK주식회사(AX) IT/구축/운영/최적화",
       "department": "",
       "location": "",
       "deadline": "2026-09-14",
       "deadlineTime": "",
       "url": "https://www.skcareers.com/Recruit/Detail/R261722",
-      "_raw": "AI 애플리케이션/엔터프라이즈 아키텍트 분야 전문가 영입 2026년 08월 04일(화) ~ 2026년 09월 14일(월) SK주식회사(AX) IT/구축/운영/최적화",
+      "_raw": "AI 애플리케이션/엔터프라이즈 아키텍트 분야 전문가 영입 2026년 08월 04일(화) ~ 2026년 09월 14일(월) D-7 SK주식회사(AX) IT/구축/운영/최적화",
       "_employmentType": "정규"
     },
     {
@@ -260,6 +215,16 @@
       "url": "https://recruit.navercorp.com/rcrt/list.do?annoId=&sw=&subJobCdData=1010001%2C1010002%2C1010003%2C1010005%2C1010008%2C1010020&sysCompanyCdData=&jobCdData=1010#n",
       "_raw": "[NAVER Cloud] 네이버 클라우드 플랫폼(NCP) IaaS/AI Factory 상품 기획 (경력) 모집 부서 Service & Business 모집 분야 Product Development 모집 경력 경력 근로 조건 정규 모집 기간 2026.09.03 ~ 2026.09.18",
       "_employmentType": ""
+    },
+    {
+      "company": "한화시스템",
+      "companyId": "hanwha",
+      "title": "제조 IT/OT 진단/컨설팅 경력사원 채용",
+      "department": "한화시스템/ICT",
+      "location": "",
+      "deadline": "2026-09-20",
+      "deadlineTime": "23:59",
+      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19669"
     },
     {
       "company": "CJ (올리브영/올네/대한통운)",
@@ -1641,6 +1606,46 @@
       "url": "https://careers.kakao.com/jobs/P-14403?skillSet=&part=TECHNOLOGY&company=KAKAO&keyword=&employeeType=&page=1",
       "_raw": "LLM Research Engineer (Post-training) (신입/경력) 영입마감일 영입종료시 근무지 직군 태그 #Algorithm/ML 회사정보 카카오 직원유형 정규직",
       "_employmentType": ""
+    },
+    {
+      "company": "현대자동차",
+      "companyId": "hyundai",
+      "title": "[AVP] 모빌리티 플랫폼 서비스 운영 기획 및 관리",
+      "department": "#경력",
+      "location": "#서울",
+      "deadline": "",
+      "deadlineTime": "",
+      "url": "https://talent.hyundai.com/apply/applyList.hc?occupDataTagArray=211"
+    },
+    {
+      "company": "현대자동차",
+      "companyId": "hyundai",
+      "title": "[AVP] 모빌리티 플랫폼 UX 기획",
+      "department": "#경력",
+      "location": "#서울",
+      "deadline": "",
+      "deadlineTime": "",
+      "url": "https://talent.hyundai.com/apply/applyList.hc?occupDataTagArray=211"
+    },
+    {
+      "company": "현대자동차",
+      "companyId": "hyundai",
+      "title": "[AVP] 모빌리티 플랫폼 Infra Engineer",
+      "department": "#경력",
+      "location": "#서울",
+      "deadline": "",
+      "deadlineTime": "",
+      "url": "https://talent.hyundai.com/apply/applyList.hc?occupDataTagArray=211"
+    },
+    {
+      "company": "현대자동차",
+      "companyId": "hyundai",
+      "title": "[AVP] 모빌리티 서비스 Software Engineer for Map",
+      "department": "#경력",
+      "location": "#서울",
+      "deadline": "",
+      "deadlineTime": "",
+      "url": "https://talent.hyundai.com/apply/applyList.hc?occupDataTagArray=211"
     },
     {
       "company": "기아",

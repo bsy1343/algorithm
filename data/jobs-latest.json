@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-09-07T15:05:12.101Z",
-  "totalCount": 166,
+  "fetchedAt": "2026-09-08T15:05:23.569Z",
+  "totalCount": 171,
   "companies": [
     "당근",
     "현대오토에버",
@@ -20,16 +20,6 @@
   ],
   "errors": [],
   "jobs": [
-    {
-      "company": "CJ (올리브영/올네/대한통운)",
-      "companyId": "cj",
-      "title": "[경력] 보안솔루션 운영 및 관리",
-      "department": "CJ올리브네트웍스 / 정보보호(보안)",
-      "location": "서울",
-      "deadline": "2026-09-07",
-      "deadlineTime": "23:59",
-      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20260716038339"
-    },
     {
       "company": "네이버",
       "companyId": "naver",
@@ -135,49 +125,49 @@
     {
       "company": "SK AX",
       "companyId": "skax",
-      "title": "반도체 Cloud/AI Platform 개발/운영 전문가 영입 D-6 SK주식회사(AX) IT/Platform/Solution",
+      "title": "반도체 Cloud/AI Platform 개발/운영 전문가 영입 D-5 SK주식회사(AX) IT/Platform/Solution",
       "department": "",
       "location": "",
       "deadline": "2026-09-14",
       "deadlineTime": "",
       "url": "https://www.skcareers.com/Recruit/Detail/R261675",
-      "_raw": "반도체 Cloud/AI Platform 개발/운영 전문가 영입 2026년 07월 30일(목) ~ 2026년 09월 14일(월) D-6 SK주식회사(AX) IT/Platform/Solution",
+      "_raw": "반도체 Cloud/AI Platform 개발/운영 전문가 영입 2026년 07월 30일(목) ~ 2026년 09월 14일(월) D-5 SK주식회사(AX) IT/Platform/Solution",
       "_employmentType": "정규"
     },
     {
       "company": "SK AX",
       "companyId": "skax",
-      "title": "보안 아키텍트 영입 D-6 SK주식회사(AX) 정보보안/정보보안 컨설팅",
+      "title": "보안 아키텍트 영입 D-5 SK주식회사(AX) 정보보안/정보보안 컨설팅",
       "department": "",
       "location": "",
       "deadline": "2026-09-14",
       "deadlineTime": "",
       "url": "https://www.skcareers.com/Recruit/Detail/R261706",
-      "_raw": "보안 아키텍트 영입 2026년 08월 07일(금) ~ 2026년 09월 14일(월) D-6 SK주식회사(AX) 정보보안/정보보안 컨설팅",
+      "_raw": "보안 아키텍트 영입 2026년 08월 07일(금) ~ 2026년 09월 14일(월) D-5 SK주식회사(AX) 정보보안/정보보안 컨설팅",
       "_employmentType": "정규"
     },
     {
       "company": "SK AX",
       "companyId": "skax",
-      "title": "AI 기반 MES 자동화·고도화 분야 전문가 영입 D-6 SK주식회사(AX) IT/구축/운영/최적화",
+      "title": "AI 기반 MES 자동화·고도화 분야 전문가 영입 D-5 SK주식회사(AX) IT/구축/운영/최적화",
       "department": "",
       "location": "",
       "deadline": "2026-09-14",
       "deadlineTime": "",
       "url": "https://www.skcareers.com/Recruit/Detail/R261676",
-      "_raw": "AI 기반 MES 자동화·고도화 분야 전문가 영입 2026년 07월 30일(목) ~ 2026년 09월 14일(월) D-6 SK주식회사(AX) IT/구축/운영/최적화",
+      "_raw": "AI 기반 MES 자동화·고도화 분야 전문가 영입 2026년 07월 30일(목) ~ 2026년 09월 14일(월) D-5 SK주식회사(AX) IT/구축/운영/최적화",
       "_employmentType": "정규"
     },
     {
       "company": "SK AX",
       "companyId": "skax",
-      "title": "AI 애플리케이션/엔터프라이즈 아키텍트 분야 전문가 영입 D-6 SK주식회사(AX) IT/구축/운영/최적화",
+      "title": "AI 애플리케이션/엔터프라이즈 아키텍트 분야 전문가 영입 D-5 SK주식회사(AX) IT/구축/운영/최적화",
       "department": "",
       "location": "",
       "deadline": "2026-09-14",
       "deadlineTime": "",
       "url": "https://www.skcareers.com/Recruit/Detail/R261722",
-      "_raw": "AI 애플리케이션/엔터프라이즈 아키텍트 분야 전문가 영입 2026년 08월 04일(화) ~ 2026년 09월 14일(월) D-6 SK주식회사(AX) IT/구축/운영/최적화",
+      "_raw": "AI 애플리케이션/엔터프라이즈 아키텍트 분야 전문가 영입 2026년 08월 04일(화) ~ 2026년 09월 14일(월) D-5 SK주식회사(AX) IT/구축/운영/최적화",
       "_employmentType": "정규"
     },
     {
@@ -215,6 +205,76 @@
       "url": "https://recruit.navercorp.com/rcrt/list.do?annoId=&sw=&subJobCdData=1010001%2C1010002%2C1010003%2C1010005%2C1010008%2C1010020&sysCompanyCdData=&jobCdData=1010#n",
       "_raw": "[NAVER Cloud] 네이버 클라우드 플랫폼(NCP) IaaS/AI Factory 상품 기획 (경력) 모집 부서 Service & Business 모집 분야 Product Development 모집 경력 경력 근로 조건 정규 모집 기간 2026.09.03 ~ 2026.09.18",
       "_employmentType": ""
+    },
+    {
+      "company": "한화시스템",
+      "companyId": "hanwha",
+      "title": "온톨로지(Ontology) 전문가 경력사원 채용",
+      "department": "한화시스템/ICT",
+      "location": "",
+      "deadline": "2026-09-20",
+      "deadlineTime": "23:59",
+      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19722"
+    },
+    {
+      "company": "한화시스템",
+      "companyId": "hanwha",
+      "title": "SAP CO(관리회계/원가) 운영/개발 경력사원 채용",
+      "department": "한화시스템/ICT",
+      "location": "",
+      "deadline": "2026-09-20",
+      "deadlineTime": "23:59",
+      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19721"
+    },
+    {
+      "company": "한화시스템",
+      "companyId": "hanwha",
+      "title": "AX 전략기획 경력사원 채용",
+      "department": "한화시스템/ICT",
+      "location": "",
+      "deadline": "2026-09-20",
+      "deadlineTime": "23:59",
+      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19720"
+    },
+    {
+      "company": "한화시스템",
+      "companyId": "hanwha",
+      "title": "VLM Project Manager 경력사원 채용",
+      "department": "한화시스템/ICT",
+      "location": "",
+      "deadline": "2026-09-20",
+      "deadlineTime": "23:59",
+      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19719"
+    },
+    {
+      "company": "한화시스템",
+      "companyId": "hanwha",
+      "title": "SWA 경력사원 채용",
+      "department": "한화시스템/ICT",
+      "location": "",
+      "deadline": "2026-09-20",
+      "deadlineTime": "23:59",
+      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19717"
+    },
+    {
+      "company": "한화시스템",
+      "companyId": "hanwha",
+      "title": "ERP 컨설턴트 경력사원 채용",
+      "department": "한화시스템/ICT",
+      "location": "",
+      "deadline": "2026-09-20",
+      "deadlineTime": "23:59",
+      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19716"
+    },
+    {
+      "company": "한화시스템",
+      "companyId": "hanwha",
+      "title": "스마트팩토리 시스템 구축 분야(계획, 생산, 공정, 품질, 설비, 통신) 경력사원 채용",
+      "department": "한화시스템/ICT",
+      "location": "",
+      "deadline": "2026-09-20",
+      "deadlineTime": "23:59",
+      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19714"
     },
     {
       "company": "한화시스템",
@@ -545,16 +605,6 @@
     {
       "company": "현대오토에버",
       "companyId": "autoever",
-      "title": "[SDx] Service Engineer - 스마트팩토리 OT 개발 및 운영(울산)",
-      "department": "SDx(스마트제조)",
-      "location": "",
-      "deadline": "2026-09-28",
-      "deadlineTime": "23:59",
-      "url": "https://career.hyundai-autoever.com/ko/o/214818"
-    },
-    {
-      "company": "현대오토에버",
-      "companyId": "autoever",
       "title": "[EnIT] Solution Architect - SuccessFactors 구축 및 운영",
       "department": "Enterprise IT",
       "location": "",
@@ -745,22 +795,22 @@
     {
       "company": "CJ (올리브영/올네/대한통운)",
       "companyId": "cj",
-      "title": "[경력] SAP PP 운영/개발",
-      "department": "CJ올리브네트웍스 / 시스템 개발/운영(SAP)",
-      "location": "서울",
-      "deadline": "2026-09-30",
-      "deadlineTime": "23:59",
-      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20231030020572"
-    },
-    {
-      "company": "CJ (올리브영/올네/대한통운)",
-      "companyId": "cj",
       "title": "[경력] SAP 모듈 컨설턴트",
       "department": "CJ올리브네트웍스 / SAP 컨설턴트",
       "location": "서울",
       "deadline": "2026-09-30",
       "deadlineTime": "23:59",
       "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20240729026055"
+    },
+    {
+      "company": "CJ (올리브영/올네/대한통운)",
+      "companyId": "cj",
+      "title": "[경력] SAP PP 운영/개발",
+      "department": "CJ올리브네트웍스 / 시스템 개발/운영(SAP)",
+      "location": "서울",
+      "deadline": "2026-09-30",
+      "deadlineTime": "23:59",
+      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20231030020572"
     },
     {
       "company": "티맵모빌리티",

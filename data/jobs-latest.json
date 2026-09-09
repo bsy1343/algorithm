@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-09-08T15:05:23.569Z",
-  "totalCount": 171,
+  "fetchedAt": "2026-09-09T15:05:10.131Z",
+  "totalCount": 173,
   "companies": [
     "당근",
     "현대오토에버",
@@ -20,54 +20,6 @@
   ],
   "errors": [],
   "jobs": [
-    {
-      "company": "네이버",
-      "companyId": "naver",
-      "title": "[NAVER Cloud] Root CA 기획/운영 및 감사 대응 (경력) 모집 부서 Tech 모집 분야 Security 모집 경력 경력 근로 조건 정규 모집 기간 2026.08.24 ~ 2026.09.09",
-      "department": "",
-      "location": "",
-      "deadline": "2026-09-09",
-      "deadlineTime": "",
-      "url": "https://recruit.navercorp.com/rcrt/list.do?annoId=&sw=&subJobCdData=1010001%2C1010002%2C1010003%2C1010005%2C1010008%2C1010020&sysCompanyCdData=&jobCdData=1010#n",
-      "_raw": "[NAVER Cloud] Root CA 기획/운영 및 감사 대응 (경력) 모집 부서 Tech 모집 분야 Security 모집 경력 경력 근로 조건 정규 모집 기간 2026.08.24 ~ 2026.09.09",
-      "_employmentType": ""
-    },
-    {
-      "company": "네이버",
-      "companyId": "naver",
-      "title": "[NAVER Cloud] 클라우드 인프라 보안 아키텍트 (경력) 모집 부서 Tech 모집 분야 Security 모집 경력 경력 근로 조건 정규 모집 기간 2026.08.24 ~ 2026.09.09",
-      "department": "",
-      "location": "",
-      "deadline": "2026-09-09",
-      "deadlineTime": "",
-      "url": "https://recruit.navercorp.com/rcrt/list.do?annoId=&sw=&subJobCdData=1010001%2C1010002%2C1010003%2C1010005%2C1010008%2C1010020&sysCompanyCdData=&jobCdData=1010#n",
-      "_raw": "[NAVER Cloud] 클라우드 인프라 보안 아키텍트 (경력) 모집 부서 Tech 모집 분야 Security 모집 경력 경력 근로 조건 정규 모집 기간 2026.08.24 ~ 2026.09.09",
-      "_employmentType": ""
-    },
-    {
-      "company": "네이버",
-      "companyId": "naver",
-      "title": "[NAVER Cloud] 침해사고 대응 담당자 (Junior Talent) 모집 부서 Tech 모집 분야 Security 모집 경력 경력 근로 조건 정규 모집 기간 2026.08.24 ~ 2026.09.09",
-      "department": "",
-      "location": "",
-      "deadline": "2026-09-09",
-      "deadlineTime": "",
-      "url": "https://recruit.navercorp.com/rcrt/list.do?annoId=&sw=&subJobCdData=1010001%2C1010002%2C1010003%2C1010005%2C1010008%2C1010020&sysCompanyCdData=&jobCdData=1010#n",
-      "_raw": "[NAVER Cloud] 침해사고 대응 담당자 (Junior Talent) 모집 부서 Tech 모집 분야 Security 모집 경력 경력 근로 조건 정규 모집 기간 2026.08.24 ~ 2026.09.09",
-      "_employmentType": ""
-    },
-    {
-      "company": "네이버",
-      "companyId": "naver",
-      "title": "[NAVER Cloud] 정보보호 정책 담당자 (경력) 모집 부서 Tech 모집 분야 Security 모집 경력 경력 근로 조건 정규 모집 기간 2026.08.24 ~ 2026.09.09",
-      "department": "",
-      "location": "",
-      "deadline": "2026-09-09",
-      "deadlineTime": "",
-      "url": "https://recruit.navercorp.com/rcrt/list.do?annoId=&sw=&subJobCdData=1010001%2C1010002%2C1010003%2C1010005%2C1010008%2C1010020&sysCompanyCdData=&jobCdData=1010#n",
-      "_raw": "[NAVER Cloud] 정보보호 정책 담당자 (경력) 모집 부서 Tech 모집 분야 Security 모집 경력 경력 근로 조건 정규 모집 기간 2026.08.24 ~ 2026.09.09",
-      "_employmentType": ""
-    },
     {
       "company": "네이버",
       "companyId": "naver",
@@ -125,49 +77,49 @@
     {
       "company": "SK AX",
       "companyId": "skax",
-      "title": "반도체 Cloud/AI Platform 개발/운영 전문가 영입 D-5 SK주식회사(AX) IT/Platform/Solution",
+      "title": "반도체 Cloud/AI Platform 개발/운영 전문가 영입 D-4 SK주식회사(AX) IT/Platform/Solution",
       "department": "",
       "location": "",
       "deadline": "2026-09-14",
       "deadlineTime": "",
       "url": "https://www.skcareers.com/Recruit/Detail/R261675",
-      "_raw": "반도체 Cloud/AI Platform 개발/운영 전문가 영입 2026년 07월 30일(목) ~ 2026년 09월 14일(월) D-5 SK주식회사(AX) IT/Platform/Solution",
+      "_raw": "반도체 Cloud/AI Platform 개발/운영 전문가 영입 2026년 07월 30일(목) ~ 2026년 09월 14일(월) D-4 SK주식회사(AX) IT/Platform/Solution",
       "_employmentType": "정규"
     },
     {
       "company": "SK AX",
       "companyId": "skax",
-      "title": "보안 아키텍트 영입 D-5 SK주식회사(AX) 정보보안/정보보안 컨설팅",
+      "title": "보안 아키텍트 영입 D-4 SK주식회사(AX) 정보보안/정보보안 컨설팅",
       "department": "",
       "location": "",
       "deadline": "2026-09-14",
       "deadlineTime": "",
       "url": "https://www.skcareers.com/Recruit/Detail/R261706",
-      "_raw": "보안 아키텍트 영입 2026년 08월 07일(금) ~ 2026년 09월 14일(월) D-5 SK주식회사(AX) 정보보안/정보보안 컨설팅",
+      "_raw": "보안 아키텍트 영입 2026년 08월 07일(금) ~ 2026년 09월 14일(월) D-4 SK주식회사(AX) 정보보안/정보보안 컨설팅",
       "_employmentType": "정규"
     },
     {
       "company": "SK AX",
       "companyId": "skax",
-      "title": "AI 기반 MES 자동화·고도화 분야 전문가 영입 D-5 SK주식회사(AX) IT/구축/운영/최적화",
+      "title": "AI 기반 MES 자동화·고도화 분야 전문가 영입 D-4 SK주식회사(AX) IT/구축/운영/최적화",
       "department": "",
       "location": "",
       "deadline": "2026-09-14",
       "deadlineTime": "",
       "url": "https://www.skcareers.com/Recruit/Detail/R261676",
-      "_raw": "AI 기반 MES 자동화·고도화 분야 전문가 영입 2026년 07월 30일(목) ~ 2026년 09월 14일(월) D-5 SK주식회사(AX) IT/구축/운영/최적화",
+      "_raw": "AI 기반 MES 자동화·고도화 분야 전문가 영입 2026년 07월 30일(목) ~ 2026년 09월 14일(월) D-4 SK주식회사(AX) IT/구축/운영/최적화",
       "_employmentType": "정규"
     },
     {
       "company": "SK AX",
       "companyId": "skax",
-      "title": "AI 애플리케이션/엔터프라이즈 아키텍트 분야 전문가 영입 D-5 SK주식회사(AX) IT/구축/운영/최적화",
+      "title": "AI 애플리케이션/엔터프라이즈 아키텍트 분야 전문가 영입 D-4 SK주식회사(AX) IT/구축/운영/최적화",
       "department": "",
       "location": "",
       "deadline": "2026-09-14",
       "deadlineTime": "",
       "url": "https://www.skcareers.com/Recruit/Detail/R261722",
-      "_raw": "AI 애플리케이션/엔터프라이즈 아키텍트 분야 전문가 영입 2026년 08월 04일(화) ~ 2026년 09월 14일(월) D-5 SK주식회사(AX) IT/구축/운영/최적화",
+      "_raw": "AI 애플리케이션/엔터프라이즈 아키텍트 분야 전문가 영입 2026년 08월 04일(화) ~ 2026년 09월 14일(월) D-4 SK주식회사(AX) IT/구축/운영/최적화",
       "_employmentType": "정규"
     },
     {
@@ -287,6 +239,18 @@
       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19669"
     },
     {
+      "company": "네이버",
+      "companyId": "naver",
+      "title": "[네이버랩스] Embedded System Hardware Engineer 모집 부서 Tech 모집 분야 Hardware 모집 경력 무관 근로 조건 정규 모집 기간 2026.09.08 ~ 2026.09.21",
+      "department": "",
+      "location": "",
+      "deadline": "2026-09-21",
+      "deadlineTime": "",
+      "url": "https://recruit.navercorp.com/rcrt/list.do?annoId=&sw=&subJobCdData=1010001%2C1010002%2C1010003%2C1010005%2C1010008%2C1010020&sysCompanyCdData=&jobCdData=1010#n",
+      "_raw": "[네이버랩스] Embedded System Hardware Engineer 모집 부서 Tech 모집 분야 Hardware 모집 경력 무관 근로 조건 정규 모집 기간 2026.09.08 ~ 2026.09.21",
+      "_employmentType": ""
+    },
+    {
       "company": "CJ (올리브영/올네/대한통운)",
       "companyId": "cj",
       "title": "[경력] 클라우드 보안 엔지니어",
@@ -335,6 +299,18 @@
       "deadline": "2026-09-21",
       "deadlineTime": "23:59",
       "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20260803038365"
+    },
+    {
+      "company": "네이버",
+      "companyId": "naver",
+      "title": "[NAVER Cloud] 글로벌 사업기획 및 개발 담당자 (경력) 모집 부서 Service & Business 모집 분야 Business Development 모집 경력 경력 근로 조건 정규 모집 기간 2026.09.09 ~ 2026.09.23",
+      "department": "",
+      "location": "",
+      "deadline": "2026-09-23",
+      "deadlineTime": "",
+      "url": "https://recruit.navercorp.com/rcrt/list.do?annoId=&sw=&subJobCdData=1010001%2C1010002%2C1010003%2C1010005%2C1010008%2C1010020&sysCompanyCdData=&jobCdData=1010#n",
+      "_raw": "[NAVER Cloud] 글로벌 사업기획 및 개발 담당자 (경력) 모집 부서 Service & Business 모집 분야 Business Development 모집 경력 경력 근로 조건 정규 모집 기간 2026.09.09 ~ 2026.09.23",
+      "_employmentType": ""
     },
     {
       "company": "네이버",
@@ -813,6 +789,18 @@
       "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20231030020572"
     },
     {
+      "company": "SK AX",
+      "companyId": "skax",
+      "title": "제조 물류자동화(AMHS) 전문가 영입 SK주식회사(AX) Tech R&D/Software Engineering",
+      "department": "",
+      "location": "",
+      "deadline": "2026-11-15",
+      "deadlineTime": "",
+      "url": "https://www.skcareers.com/Recruit/Detail/R261946",
+      "_raw": "제조 물류자동화(AMHS) 전문가 영입 2026년 09월 09일(수) ~ 2026년 11월 15일(일) SK주식회사(AX) Tech R&D/Software Engineering",
+      "_employmentType": "정규"
+    },
+    {
       "company": "티맵모빌리티",
       "companyId": "tmap",
       "title": "Site Reliability Engineer (SRE) 티맵모빌리티 Infra/Cloud/Infra,Infra 개발/관리",
@@ -880,6 +868,15 @@
       "location": "SEOUL",
       "deadline": "",
       "url": "https://about.daangn.com?gh_jid=6043519003"
+    },
+    {
+      "company": "당근",
+      "companyId": "daangn",
+      "title": "Software Engineer - 테크코어 (AI Platform)",
+      "department": "",
+      "location": "SEOUL",
+      "deadline": "",
+      "url": "https://about.daangn.com?gh_jid=7990084003"
     },
     {
       "company": "당근",
@@ -1176,6 +1173,18 @@
       "deadlineTime": "",
       "url": "https://toss.im/career/job-detail?job_id=4695176003",
       "_raw": "Data Engineer Data ・ 데이터플랫폼 ・ Airflow ・ Hadoop 토스 외 4개 계열사",
+      "_employmentType": ""
+    },
+    {
+      "company": "토스",
+      "companyId": "toss",
+      "title": "Data Engineer (Global) 데이터",
+      "department": "",
+      "location": "",
+      "deadline": "",
+      "deadlineTime": "",
+      "url": "https://toss.im/career/job-detail?job_id=7987773003",
+      "_raw": "Data Engineer (Global) 데이터 ・ 파이프라인 ・ 실시간처리 ・ Data Engineering 토스",
       "_employmentType": ""
     },
     {
@@ -1548,6 +1557,18 @@
       "deadlineTime": "",
       "url": "https://toss.im/career/job-detail?job_id=4773428003",
       "_raw": "Server Developer [산업기능요원/전문연구요원] 병역특례 ・ 개발 ・ Kotlin ・ Spring 토스",
+      "_employmentType": ""
+    },
+    {
+      "company": "토스",
+      "companyId": "toss",
+      "title": "Server Development Specialist Kotlin",
+      "department": "",
+      "location": "",
+      "deadline": "",
+      "deadlineTime": "",
+      "url": "https://toss.im/career/job-detail?job_id=7816849003",
+      "_raw": "Server Development Specialist Kotlin ・ Java ・ Spring ・ Backend 인슈어런스",
       "_employmentType": ""
     },
     {

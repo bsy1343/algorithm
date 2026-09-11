@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-09-10T15:05:33.154Z",
-  "totalCount": 177,
+  "fetchedAt": "2026-09-11T15:05:25.024Z",
+  "totalCount": 183,
   "companies": [
     "당근",
     "현대오토에버",
@@ -77,49 +77,49 @@
     {
       "company": "SK AX",
       "companyId": "skax",
-      "title": "반도체 Cloud/AI Platform 개발/운영 전문가 영입 D-3 SK주식회사(AX) IT/Platform/Solution",
+      "title": "반도체 Cloud/AI Platform 개발/운영 전문가 영입 D-2 SK주식회사(AX) IT/Platform/Solution",
       "department": "",
       "location": "",
       "deadline": "2026-09-14",
       "deadlineTime": "",
       "url": "https://www.skcareers.com/Recruit/Detail/R261675",
-      "_raw": "반도체 Cloud/AI Platform 개발/운영 전문가 영입 2026년 07월 30일(목) ~ 2026년 09월 14일(월) D-3 SK주식회사(AX) IT/Platform/Solution",
+      "_raw": "반도체 Cloud/AI Platform 개발/운영 전문가 영입 2026년 07월 30일(목) ~ 2026년 09월 14일(월) D-2 SK주식회사(AX) IT/Platform/Solution",
       "_employmentType": "정규"
     },
     {
       "company": "SK AX",
       "companyId": "skax",
-      "title": "보안 아키텍트 영입 D-3 SK주식회사(AX) 정보보안/정보보안 컨설팅",
+      "title": "보안 아키텍트 영입 D-2 SK주식회사(AX) 정보보안/정보보안 컨설팅",
       "department": "",
       "location": "",
       "deadline": "2026-09-14",
       "deadlineTime": "",
       "url": "https://www.skcareers.com/Recruit/Detail/R261706",
-      "_raw": "보안 아키텍트 영입 2026년 08월 07일(금) ~ 2026년 09월 14일(월) D-3 SK주식회사(AX) 정보보안/정보보안 컨설팅",
+      "_raw": "보안 아키텍트 영입 2026년 08월 07일(금) ~ 2026년 09월 14일(월) D-2 SK주식회사(AX) 정보보안/정보보안 컨설팅",
       "_employmentType": "정규"
     },
     {
       "company": "SK AX",
       "companyId": "skax",
-      "title": "AI 기반 MES 자동화·고도화 분야 전문가 영입 D-3 SK주식회사(AX) IT/구축/운영/최적화",
+      "title": "AI 기반 MES 자동화·고도화 분야 전문가 영입 D-2 SK주식회사(AX) IT/구축/운영/최적화",
       "department": "",
       "location": "",
       "deadline": "2026-09-14",
       "deadlineTime": "",
       "url": "https://www.skcareers.com/Recruit/Detail/R261676",
-      "_raw": "AI 기반 MES 자동화·고도화 분야 전문가 영입 2026년 07월 30일(목) ~ 2026년 09월 14일(월) D-3 SK주식회사(AX) IT/구축/운영/최적화",
+      "_raw": "AI 기반 MES 자동화·고도화 분야 전문가 영입 2026년 07월 30일(목) ~ 2026년 09월 14일(월) D-2 SK주식회사(AX) IT/구축/운영/최적화",
       "_employmentType": "정규"
     },
     {
       "company": "SK AX",
       "companyId": "skax",
-      "title": "AI 애플리케이션/엔터프라이즈 아키텍트 분야 전문가 영입 D-3 SK주식회사(AX) IT/구축/운영/최적화",
+      "title": "AI 애플리케이션/엔터프라이즈 아키텍트 분야 전문가 영입 D-2 SK주식회사(AX) IT/구축/운영/최적화",
       "department": "",
       "location": "",
       "deadline": "2026-09-14",
       "deadlineTime": "",
       "url": "https://www.skcareers.com/Recruit/Detail/R261722",
-      "_raw": "AI 애플리케이션/엔터프라이즈 아키텍트 분야 전문가 영입 2026년 08월 04일(화) ~ 2026년 09월 14일(월) D-3 SK주식회사(AX) IT/구축/운영/최적화",
+      "_raw": "AI 애플리케이션/엔터프라이즈 아키텍트 분야 전문가 영입 2026년 08월 04일(화) ~ 2026년 09월 14일(월) D-2 SK주식회사(AX) IT/구축/운영/최적화",
       "_employmentType": "정규"
     },
     {
@@ -157,6 +157,16 @@
       "url": "https://recruit.navercorp.com/rcrt/list.do?annoId=&sw=&subJobCdData=1010001%2C1010002%2C1010003%2C1010005%2C1010008%2C1010020&sysCompanyCdData=&jobCdData=1010#n",
       "_raw": "[NAVER Cloud] 네이버 클라우드 플랫폼(NCP) IaaS/AI Factory 상품 기획 (경력) 모집 부서 Service & Business 모집 분야 Product Development 모집 경력 경력 근로 조건 정규 모집 기간 2026.09.03 ~ 2026.09.18",
       "_employmentType": ""
+    },
+    {
+      "company": "LG U+",
+      "companyId": "lguplus",
+      "title": "[정보보안센터] 클라우드 보안 구축 및 운영 경력채용",
+      "department": "",
+      "location": "",
+      "deadline": "2026-09-20",
+      "deadlineTime": "23:00",
+      "url": "https://careers.lg.com/channel/detail/lgu/job_openings"
     },
     {
       "company": "한화시스템",
@@ -369,6 +379,16 @@
       "url": "https://recruit.navercorp.com/rcrt/list.do?annoId=&sw=&subJobCdData=1010001%2C1010002%2C1010003%2C1010005%2C1010008%2C1010020&sysCompanyCdData=&jobCdData=1010#n",
       "_raw": "[네이버웹툰] Search Intelligence Engineer (경력) 모집 부서 Tech 모집 분야 AI/ML 모집 경력 경력 근로 조건 정규 모집 기간 2026.09.03 ~ 2026.09.27",
       "_employmentType": ""
+    },
+    {
+      "company": "LG U+",
+      "companyId": "lguplus",
+      "title": "[정보보안센터] 무선망 보안 엔지니어 경력채용",
+      "department": "",
+      "location": "경력",
+      "deadline": "2026-09-27",
+      "deadlineTime": "23:00",
+      "url": "https://careers.lg.com/channel/detail/lgu/job_openings"
     },
     {
       "company": "현대오토에버",
@@ -671,6 +691,18 @@
       "url": "https://career.hyundai-autoever.com/ko/o/210263"
     },
     {
+      "company": "네이버",
+      "companyId": "naver",
+      "title": "[네이버랩스] 3D Vision Research Engineer 모집 부서 Tech 모집 분야 AI/ML 모집 경력 경력 근로 조건 정규 모집 기간 2026.09.11 ~ 2026.09.28",
+      "department": "",
+      "location": "",
+      "deadline": "2026-09-28",
+      "deadlineTime": "",
+      "url": "https://recruit.navercorp.com/rcrt/list.do?annoId=&sw=&subJobCdData=1010001%2C1010002%2C1010003%2C1010005%2C1010008%2C1010020&sysCompanyCdData=&jobCdData=1010#n",
+      "_raw": "[네이버랩스] 3D Vision Research Engineer 모집 부서 Tech 모집 분야 AI/ML 모집 경력 경력 근로 조건 정규 모집 기간 2026.09.11 ~ 2026.09.28",
+      "_employmentType": ""
+    },
+    {
       "company": "CJ (올리브영/올네/대한통운)",
       "companyId": "cj",
       "title": "[경력] 보안솔루션 운영 및 관리",
@@ -719,16 +751,6 @@
       "deadline": "2026-09-30",
       "deadlineTime": "23:59",
       "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20260205036807"
-    },
-    {
-      "company": "CJ (올리브영/올네/대한통운)",
-      "companyId": "cj",
-      "title": "[경력] CJ 유통 계열사 글로벌 SAP FI 운영/개발",
-      "department": "CJ올리브네트웍스 / 시스템개발/운영(ERP)",
-      "location": "서울",
-      "deadline": "2026-09-30",
-      "deadlineTime": "23:59",
-      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20260714039188"
     },
     {
       "company": "CJ (올리브영/올네/대한통운)",
@@ -793,12 +815,12 @@
     {
       "company": "CJ (올리브영/올네/대한통운)",
       "companyId": "cj",
-      "title": "[경력] 대내외 고객사 SAP FI 운영/개발",
-      "department": "CJ올리브네트웍스 / 시스템 개발/운영(SAP)",
+      "title": "[경력] SAP 모듈 컨설턴트",
+      "department": "CJ올리브네트웍스 / SAP 컨설턴트",
       "location": "서울",
       "deadline": "2026-09-30",
       "deadlineTime": "23:59",
-      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20240722026043"
+      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20240729026055"
     },
     {
       "company": "CJ (올리브영/올네/대한통운)",
@@ -813,12 +835,12 @@
     {
       "company": "CJ (올리브영/올네/대한통운)",
       "companyId": "cj",
-      "title": "[경력] SAP 모듈 컨설턴트",
-      "department": "CJ올리브네트웍스 / SAP 컨설턴트",
+      "title": "[경력] 대내외 고객사 SAP FI 운영/개발",
+      "department": "CJ올리브네트웍스 / 시스템 개발/운영(SAP)",
       "location": "서울",
       "deadline": "2026-09-30",
       "deadlineTime": "23:59",
-      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20240729026055"
+      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20240722026043"
     },
     {
       "company": "네이버",
@@ -842,6 +864,78 @@
       "deadlineTime": "",
       "url": "https://www.skcareers.com/Recruit/Detail/R261946",
       "_raw": "제조 물류자동화(AMHS) 전문가 영입 2026년 09월 09일(수) ~ 2026년 11월 16일(월) SK주식회사(AX) Tech R&D/Software Engineering",
+      "_employmentType": "정규"
+    },
+    {
+      "company": "SK AX",
+      "companyId": "skax",
+      "title": "AI Agent 엔지니어 영입 SK주식회사(AX) Tech R&D/AI/DT",
+      "department": "",
+      "location": "",
+      "deadline": "2026-11-20",
+      "deadlineTime": "",
+      "url": "https://www.skcareers.com/Recruit/Detail/R261936",
+      "_raw": "AI Agent 엔지니어 영입 2026년 09월 11일(금) ~ 2026년 11월 20일(금) SK주식회사(AX) Tech R&D/AI/DT",
+      "_employmentType": "정규"
+    },
+    {
+      "company": "SK AX",
+      "companyId": "skax",
+      "title": "AI Data 엔지니어 영입 SK주식회사(AX) Tech R&D/AI/DT",
+      "department": "",
+      "location": "",
+      "deadline": "2026-11-20",
+      "deadlineTime": "",
+      "url": "https://www.skcareers.com/Recruit/Detail/R261937",
+      "_raw": "AI Data 엔지니어 영입 2026년 09월 11일(금) ~ 2026년 11월 20일(금) SK주식회사(AX) Tech R&D/AI/DT",
+      "_employmentType": "정규"
+    },
+    {
+      "company": "SK AX",
+      "companyId": "skax",
+      "title": "AI Model 엔지니어 영입 SK주식회사(AX) Tech R&D/AI/DT",
+      "department": "",
+      "location": "",
+      "deadline": "2026-11-20",
+      "deadlineTime": "",
+      "url": "https://www.skcareers.com/Recruit/Detail/R261938",
+      "_raw": "AI Model 엔지니어 영입 2026년 09월 11일(금) ~ 2026년 11월 20일(금) SK주식회사(AX) Tech R&D/AI/DT",
+      "_employmentType": "정규"
+    },
+    {
+      "company": "SK AX",
+      "companyId": "skax",
+      "title": "AI Agent 개발자 전문가 영입 SK주식회사(AX) Tech R&D/AI/DT",
+      "department": "",
+      "location": "",
+      "deadline": "2026-11-20",
+      "deadlineTime": "",
+      "url": "https://www.skcareers.com/Recruit/Detail/R261939",
+      "_raw": "AI Agent 개발자 전문가 영입 2026년 09월 11일(금) ~ 2026년 11월 20일(금) SK주식회사(AX) Tech R&D/AI/DT",
+      "_employmentType": "정규"
+    },
+    {
+      "company": "SK AX",
+      "companyId": "skax",
+      "title": "AI 플랫폼 아키텍트 전문가 영입 SK주식회사(AX) Tech R&D/AI/DT",
+      "department": "",
+      "location": "",
+      "deadline": "2026-11-20",
+      "deadlineTime": "",
+      "url": "https://www.skcareers.com/Recruit/Detail/R261940",
+      "_raw": "AI 플랫폼 아키텍트 전문가 영입 2026년 09월 11일(금) ~ 2026년 11월 20일(금) SK주식회사(AX) Tech R&D/AI/DT",
+      "_employmentType": "정규"
+    },
+    {
+      "company": "SK AX",
+      "companyId": "skax",
+      "title": "전사 통합 Image 솔루션 제공 플랫폼 Application 개발.운영 PL 영입 SK주식회사(AX) IT/구축/운영/최적화",
+      "department": "",
+      "location": "",
+      "deadline": "2026-11-20",
+      "deadlineTime": "",
+      "url": "https://www.skcareers.com/Recruit/Detail/R261970",
+      "_raw": "전사 통합 Image 솔루션 제공 플랫폼 Application 개발.운영 PL 영입 2026년 09월 11일(금) ~ 2026년 11월 20일(금) SK주식회사(AX) IT/구축/운영/최적화",
       "_employmentType": "정규"
     },
     {
@@ -1102,18 +1196,6 @@
     {
       "company": "토스",
       "companyId": "toss",
-      "title": "토스플레이스 Server Developer 3~6년차 집중채용 (~9/10) 개발",
-      "department": "",
-      "location": "",
-      "deadline": "",
-      "deadlineTime": "",
-      "url": "https://toss.im/career/job-detail?job_id=7924405003",
-      "_raw": "토스플레이스 Server Developer 3~6년차 집중채용 (~9/10) 개발 ・ Server ・ Kotlin ・ Spring 플레이스",
-      "_employmentType": ""
-    },
-    {
-      "company": "토스",
-      "companyId": "toss",
       "title": "Account Manager (플랫폼 제휴/사업개발) MD/AM 집중채용",
       "department": "",
       "location": "",
@@ -1186,13 +1268,13 @@
     {
       "company": "토스",
       "companyId": "toss",
-      "title": "Customer Hero (정착지원금 50만원) 신입",
+      "title": "Customer Hero 플랫폼/증권 (정착지원금 50만원) 신입",
       "department": "",
       "location": "",
       "deadline": "",
       "deadlineTime": "",
       "url": "https://toss.im/career/job-detail?job_id=7621552003",
-      "_raw": "Customer Hero (정착지원금 50만원) 신입 ・ 토스플랫폼 ・ 증권 ・ 주식 ・ 앱상담 ・ 고객센터 씨엑스",
+      "_raw": "Customer Hero 플랫폼/증권 (정착지원금 50만원) 신입 ・ 토스플랫폼 ・ 증권 ・ 주식 ・ 앱상담 ・ 6개월 근속 시 50만원 분할지급 씨엑스",
       "_employmentType": ""
     },
     {
@@ -1431,7 +1513,7 @@
       "location": "",
       "deadline": "",
       "deadlineTime": "",
-      "url": "https://toss.im/career/job-detail?job_id=6543801003",
+      "url": "https://toss.im/career/job-detail?job_id=7992223003",
       "_raw": "ML Engineer [Commerce] Machine Learning ・ MLE ・ 모델 서빙 토스",
       "_employmentType": ""
     },
@@ -1661,18 +1743,6 @@
       "deadlineTime": "",
       "url": "https://toss.im/career/job-detail?job_id=7797504003",
       "_raw": "상담팀 리드 (토스플랫폼 전담팀) 상담팀 리드 ・ 상담팀장 ・ CS팀장 ・ CS리드 ・ 고객센터 팀장 ・ 고객센터 매니저 씨엑스",
-      "_employmentType": ""
-    },
-    {
-      "company": "카카오",
-      "companyId": "kakao",
-      "title": "AI 추론/학습 효율화 Engineer (경력) 영입마감일 영입종료시 근무지 직군 태그 #Algorithm/ML 회사정보 카카오 직원유형 정규직",
-      "department": "",
-      "location": "",
-      "deadline": "",
-      "deadlineTime": "",
-      "url": "https://careers.kakao.com/jobs/P-14472?skillSet=&part=TECHNOLOGY&company=KAKAO&keyword=&employeeType=&page=1",
-      "_raw": "AI 추론/학습 효율화 Engineer (경력) 영입마감일 영입종료시 근무지 직군 태그 #Algorithm/ML 회사정보 카카오 직원유형 정규직",
       "_employmentType": ""
     },
     {

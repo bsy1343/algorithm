@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-09-12T15:05:16.765Z",
-  "totalCount": 183,
+  "fetchedAt": "2026-09-13T15:05:20.286Z",
+  "totalCount": 178,
   "companies": [
     "당근",
     "현대오토에버",
@@ -20,30 +20,6 @@
   ],
   "errors": [],
   "jobs": [
-    {
-      "company": "네이버",
-      "companyId": "naver",
-      "title": "[네이버웹툰] FR Platform Growth Manager (경력) 모집 부서 Service & Business 모집 분야 Business Development 모집 경력 경력 근로 조건 정규 모집 기간 2026.08.21 ~ 2026.09.13",
-      "department": "",
-      "location": "",
-      "deadline": "2026-09-13",
-      "deadlineTime": "",
-      "url": "https://recruit.navercorp.com/rcrt/list.do?annoId=&sw=&subJobCdData=1010001%2C1010002%2C1010003%2C1010005%2C1010008%2C1010020&sysCompanyCdData=&jobCdData=1010#n",
-      "_raw": "[네이버웹툰] FR Platform Growth Manager (경력) 모집 부서 Service & Business 모집 분야 Business Development 모집 경력 경력 근로 조건 정규 모집 기간 2026.08.21 ~ 2026.09.13",
-      "_employmentType": ""
-    },
-    {
-      "company": "네이버",
-      "companyId": "naver",
-      "title": "[네이버웹툰] 창작자 백엔드 시스템 정책/통제 (계약직) 모집 부서 Corporate 모집 분야 Risk Management 모집 경력 경력 근로 조건 계약 모집 기간 2026.08.27 ~ 2026.09.13",
-      "department": "",
-      "location": "",
-      "deadline": "2026-09-13",
-      "deadlineTime": "",
-      "url": "https://recruit.navercorp.com/rcrt/list.do?annoId=&sw=&subJobCdData=1010001%2C1010002%2C1010003%2C1010005%2C1010008%2C1010020&sysCompanyCdData=&jobCdData=1010#n",
-      "_raw": "[네이버웹툰] 창작자 백엔드 시스템 정책/통제 (계약직) 모집 부서 Corporate 모집 분야 Risk Management 모집 경력 경력 근로 조건 계약 모집 기간 2026.08.27 ~ 2026.09.13",
-      "_employmentType": ""
-    },
     {
       "company": "현대자동차",
       "companyId": "hyundai",
@@ -77,49 +53,25 @@
     {
       "company": "SK AX",
       "companyId": "skax",
-      "title": "반도체 Cloud/AI Platform 개발/운영 전문가 영입 D-1 SK주식회사(AX) IT/Platform/Solution",
-      "department": "",
-      "location": "",
-      "deadline": "2026-09-14",
-      "deadlineTime": "",
-      "url": "https://www.skcareers.com/Recruit/Detail/R261675",
-      "_raw": "반도체 Cloud/AI Platform 개발/운영 전문가 영입 2026년 07월 30일(목) ~ 2026년 09월 14일(월) D-1 SK주식회사(AX) IT/Platform/Solution",
-      "_employmentType": "정규"
-    },
-    {
-      "company": "SK AX",
-      "companyId": "skax",
-      "title": "보안 아키텍트 영입 D-1 SK주식회사(AX) 정보보안/정보보안 컨설팅",
-      "department": "",
-      "location": "",
-      "deadline": "2026-09-14",
-      "deadlineTime": "",
-      "url": "https://www.skcareers.com/Recruit/Detail/R261706",
-      "_raw": "보안 아키텍트 영입 2026년 08월 07일(금) ~ 2026년 09월 14일(월) D-1 SK주식회사(AX) 정보보안/정보보안 컨설팅",
-      "_employmentType": "정규"
-    },
-    {
-      "company": "SK AX",
-      "companyId": "skax",
-      "title": "AI 기반 MES 자동화·고도화 분야 전문가 영입 D-1 SK주식회사(AX) IT/구축/운영/최적화",
+      "title": "AI 기반 MES 자동화·고도화 분야 전문가 영입 D-DAY SK주식회사(AX) IT/구축/운영/최적화",
       "department": "",
       "location": "",
       "deadline": "2026-09-14",
       "deadlineTime": "",
       "url": "https://www.skcareers.com/Recruit/Detail/R261676",
-      "_raw": "AI 기반 MES 자동화·고도화 분야 전문가 영입 2026년 07월 30일(목) ~ 2026년 09월 14일(월) D-1 SK주식회사(AX) IT/구축/운영/최적화",
+      "_raw": "AI 기반 MES 자동화·고도화 분야 전문가 영입 2026년 07월 30일(목) ~ 2026년 09월 14일(월) D-DAY SK주식회사(AX) IT/구축/운영/최적화",
       "_employmentType": "정규"
     },
     {
       "company": "SK AX",
       "companyId": "skax",
-      "title": "AI 애플리케이션/엔터프라이즈 아키텍트 분야 전문가 영입 D-1 SK주식회사(AX) IT/구축/운영/최적화",
+      "title": "AI 애플리케이션/엔터프라이즈 아키텍트 분야 전문가 영입 D-DAY SK주식회사(AX) IT/구축/운영/최적화",
       "department": "",
       "location": "",
       "deadline": "2026-09-14",
       "deadlineTime": "",
       "url": "https://www.skcareers.com/Recruit/Detail/R261722",
-      "_raw": "AI 애플리케이션/엔터프라이즈 아키텍트 분야 전문가 영입 2026년 08월 04일(화) ~ 2026년 09월 14일(월) D-1 SK주식회사(AX) IT/구축/운영/최적화",
+      "_raw": "AI 애플리케이션/엔터프라이즈 아키텍트 분야 전문가 영입 2026년 08월 04일(화) ~ 2026년 09월 14일(월) D-DAY SK주식회사(AX) IT/구축/운영/최적화",
       "_employmentType": "정규"
     },
     {
@@ -1073,15 +1025,6 @@
     {
       "company": "당근",
       "companyId": "daangn",
-      "title": "Software Engineer, Backend (인턴) - 나의당근",
-      "department": "",
-      "location": "SEOUL",
-      "deadline": "",
-      "url": "https://about.daangn.com?gh_jid=7771433003"
-    },
-    {
-      "company": "당근",
-      "companyId": "daangn",
       "title": "Software Engineer, Backend - 서비스 코어 (Identity Service)",
       "department": "",
       "location": "SEOUL",
@@ -1123,15 +1066,6 @@
       "location": "SEOUL",
       "deadline": "",
       "url": "https://about.daangn.com?gh_jid=7689088003"
-    },
-    {
-      "company": "당근",
-      "companyId": "daangn",
-      "title": "Software Engineer, Frontend (인턴) - 커뮤니티",
-      "department": "",
-      "location": "SEOUL",
-      "deadline": "",
-      "url": "https://about.daangn.com?gh_jid=7981572003"
     },
     {
       "company": "당근",
@@ -1658,7 +1592,7 @@
       "deadline": "",
       "deadlineTime": "",
       "url": "https://toss.im/career/job-detail?job_id=4071141003",
-      "_raw": "Server Developer Kotlin ・ Java ・ Spring ・ Backend 토스 외 6개 계열사",
+      "_raw": "Server Developer Kotlin ・ Java ・ Spring ・ Backend 토스 외 5개 계열사",
       "_employmentType": ""
     },
     {
@@ -1694,7 +1628,7 @@
       "deadline": "",
       "deadlineTime": "",
       "url": "https://toss.im/career/job-detail?job_id=4700949003",
-      "_raw": "Site Reliability Engineer MSA ・ Kubernetes ・ Kotlin ・ Java 토스 외 3개 계열사",
+      "_raw": "Site Reliability Engineer MSA ・ Kubernetes ・ Kotlin ・ Java 토스 뱅크 플레이스",
       "_employmentType": ""
     },
     {
@@ -1743,6 +1677,18 @@
       "deadlineTime": "",
       "url": "https://toss.im/career/job-detail?job_id=7797504003",
       "_raw": "상담팀 리드 (토스플랫폼 전담팀) 상담팀 리드 ・ 상담팀장 ・ CS팀장 ・ CS리드 ・ 고객센터 팀장 ・ 고객센터 매니저 씨엑스",
+      "_employmentType": ""
+    },
+    {
+      "company": "토스",
+      "companyId": "toss",
+      "title": "토스증권 Server Developer 집중 채용 (3년 이상) (~9/30) 증권",
+      "department": "",
+      "location": "",
+      "deadline": "",
+      "deadlineTime": "",
+      "url": "https://toss.im/career/job-detail?job_id=7990839003",
+      "_raw": "토스증권 Server Developer 집중 채용 (3년 이상) (~9/30) 증권",
       "_employmentType": ""
     },
     {

@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-09-15T15:05:32.436Z",
-  "totalCount": 173,
+  "fetchedAt": "2026-09-16T15:05:18.986Z",
+  "totalCount": 170,
   "companies": [
     "당근",
     "현대오토에버",
@@ -25,18 +25,6 @@
     }
   ],
   "jobs": [
-    {
-      "company": "네이버",
-      "companyId": "naver",
-      "title": "[NAVER] N배송 WMS(Warehouse Management System) 기획 (경력) 모집 부서 Service & Business 모집 분야 Business Development 모집 경력 경력 근로 조건 정규 모집 기간 2026.09.04 ~ 2026.09.16",
-      "department": "",
-      "location": "",
-      "deadline": "2026-09-16",
-      "deadlineTime": "",
-      "url": "https://recruit.navercorp.com/rcrt/list.do?annoId=&sw=&subJobCdData=1010001%2C1010002%2C1010003%2C1010005%2C1010008%2C1010020&sysCompanyCdData=&jobCdData=1010#n",
-      "_raw": "[NAVER] N배송 WMS(Warehouse Management System) 기획 (경력) 모집 부서 Service & Business 모집 분야 Business Development 모집 경력 경력 근로 조건 정규 모집 기간 2026.09.04 ~ 2026.09.16",
-      "_employmentType": ""
-    },
     {
       "company": "네이버",
       "companyId": "naver",
@@ -132,6 +120,18 @@
       "deadline": "2026-09-21",
       "deadlineTime": "23:59",
       "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20260803038365"
+    },
+    {
+      "company": "네이버",
+      "companyId": "naver",
+      "title": "[네이버웹툰] 글로벌 계약/정산 정책 및 플랫폼 운영 담당자 (경력) 모집 부서 Corporate 모집 분야 Risk Management 모집 경력 경력 근로 조건 정규 모집 기간 2026.09.16 ~ 2026.09.22",
+      "department": "",
+      "location": "",
+      "deadline": "2026-09-22",
+      "deadlineTime": "",
+      "url": "https://recruit.navercorp.com/rcrt/list.do?annoId=&sw=&subJobCdData=1010001%2C1010002%2C1010003%2C1010005%2C1010008%2C1010020&sysCompanyCdData=&jobCdData=1010#n",
+      "_raw": "[네이버웹툰] 글로벌 계약/정산 정책 및 플랫폼 운영 담당자 (경력) 모집 부서 Corporate 모집 분야 Risk Management 모집 경력 경력 근로 조건 정규 모집 기간 2026.09.16 ~ 2026.09.22",
+      "_employmentType": ""
     },
     {
       "company": "네이버",
@@ -622,18 +622,6 @@
       "url": "https://career.kia.com/apply/applyList.kc"
     },
     {
-      "company": "SK하이닉스",
-      "companyId": "skhynix",
-      "title": "[9월] 월간 hy-way(경력) SK하이닉스 Tech R&D/Modeling,HBM Foundry PI,Product Engineering,System Analysis,Application Engineering,Software,Analog 설계,SoC Design,SoC Design Verification,Digital IP Design,High-Spee",
-      "department": "",
-      "location": "",
-      "deadline": "2026-09-29",
-      "deadlineTime": "",
-      "url": "https://www.skcareers.com/Recruit/Detail/R261983",
-      "_raw": "[9월] 월간 hy-way(경력) 2026년 09월 15일(화) ~ 2026년 09월 29일(화) SK하이닉스 Tech R&D/Modeling,HBM Foundry PI,Product Engineering,System Analysis,Application Engineering,Software,Analog 설계,SoC Design,SoC Design Veri",
-      "_employmentType": "정규"
-    },
-    {
       "company": "네이버",
       "companyId": "naver",
       "title": "[NAVER Cloud] 특화 AI 모델 개발 엔지니어 (경력) 모집 부서 Tech 모집 분야 Security 모집 경력 경력 근로 조건 정규 모집 기간 2026.09.14 ~ 2026.09.30",
@@ -958,24 +946,6 @@
     {
       "company": "당근",
       "companyId": "daangn",
-      "title": "DBA (Database Administrator) - 인프라 (DB)",
-      "department": "",
-      "location": "SEOUL",
-      "deadline": "",
-      "url": "https://about.daangn.com?gh_jid=4351200003"
-    },
-    {
-      "company": "당근",
-      "companyId": "daangn",
-      "title": "Lead Security Engineer - 인프라 (보안, Offensive Security)",
-      "department": "",
-      "location": "SEOUL",
-      "deadline": "",
-      "url": "https://about.daangn.com?gh_jid=6045408003"
-    },
-    {
-      "company": "당근",
-      "companyId": "daangn",
       "title": "Network Engineer - 인프라 (네트워크, Cloud)",
       "department": "",
       "location": "SEOUL",
@@ -1066,6 +1036,15 @@
     {
       "company": "당근",
       "companyId": "daangn",
+      "title": "Software Engineer, Backend - 로컬 비즈니스 (비즈프로필 CRM)",
+      "department": "",
+      "location": "SEOUL",
+      "deadline": "",
+      "url": "https://about.daangn.com?gh_jid=7997069003"
+    },
+    {
+      "company": "당근",
+      "companyId": "daangn",
       "title": "Software Engineer, Backend - 서비스 코어 (Identity Service)",
       "department": "",
       "location": "SEOUL",
@@ -1147,13 +1126,13 @@
     {
       "company": "토스",
       "companyId": "toss",
-      "title": "토스페이먼츠 데이터 엔지니어 공개채용 (7년 이하) (~9/10) 페이먼츠",
+      "title": "토스증권 Server Developer 집중 채용 (3년 이상) (~9/30) 증권",
       "department": "",
       "location": "",
       "deadline": "",
       "deadlineTime": "",
-      "url": "https://toss.im/career/job-detail?job_id=7977764003",
-      "_raw": "토스페이먼츠 데이터 엔지니어 공개채용 (7년 이하) (~9/10) 페이먼츠",
+      "url": "https://toss.im/career/job-detail?job_id=7990839003",
+      "_raw": "토스증권 Server Developer 집중 채용 (3년 이상) (~9/30) 증권",
       "_employmentType": ""
     },
     {
@@ -1231,13 +1210,13 @@
     {
       "company": "토스",
       "companyId": "toss",
-      "title": "Customer Hero 플랫폼/증권 (정착지원금 50만원) 신입",
+      "title": "Customer Hero 플랫폼 (정착지원금 50만원) 신입",
       "department": "",
       "location": "",
       "deadline": "",
       "deadlineTime": "",
       "url": "https://toss.im/career/job-detail?job_id=7621552003",
-      "_raw": "Customer Hero 플랫폼/증권 (정착지원금 50만원) 신입 ・ 토스플랫폼 ・ 증권 ・ 주식 ・ 앱상담 ・ 6개월 근속 시 50만원 분할지급 씨엑스",
+      "_raw": "Customer Hero 플랫폼 (정착지원금 50만원) 신입 ・ 토스플랫폼 ・ 증권 ・ 주식 ・ 앱상담 ・ 6개월 근속 시 50만원 분할지급 씨엑스",
       "_employmentType": ""
     },
     {
@@ -1682,18 +1661,6 @@
       "deadlineTime": "",
       "url": "https://toss.im/career/job-detail?job_id=7797504003",
       "_raw": "상담팀 리드 (토스플랫폼 전담팀) 상담팀 리드 ・ 상담팀장 ・ CS팀장 ・ CS리드 ・ 고객센터 팀장 ・ 고객센터 매니저 씨엑스",
-      "_employmentType": ""
-    },
-    {
-      "company": "토스",
-      "companyId": "toss",
-      "title": "토스증권 Server Developer 집중 채용 (3년 이상) (~9/30) 증권",
-      "department": "",
-      "location": "",
-      "deadline": "",
-      "deadlineTime": "",
-      "url": "https://toss.im/career/job-detail?job_id=7990839003",
-      "_raw": "토스증권 Server Developer 집중 채용 (3년 이상) (~9/30) 증권",
       "_employmentType": ""
     },
     {

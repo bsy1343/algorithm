@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-09-19T15:05:19.224Z",
-  "totalCount": 172,
+  "fetchedAt": "2026-09-20T15:05:10.706Z",
+  "totalCount": 173,
   "companies": [
     "당근",
     "현대오토에버",
@@ -18,12 +18,7 @@
     "티맵모빌리티",
     "한화시스템"
   ],
-  "errors": [
-    {
-      "company": "한화시스템",
-      "error": "fetch failed"
-    }
-  ],
+  "errors": [],
   "jobs": [
     {
       "company": "네이버",
@@ -786,6 +781,16 @@
       "deadline": "2026-10-05",
       "deadlineTime": "23:59",
       "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20260901040053"
+    },
+    {
+      "company": "한화시스템",
+      "companyId": "hanwha",
+      "title": "스마트팩토리 운영 경력사원 채용",
+      "department": "한화시스템/ICT",
+      "location": "",
+      "deadline": "2026-10-05",
+      "deadlineTime": "23:59",
+      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19815"
     },
     {
       "company": "CJ (올리브영/올네/대한통운)",

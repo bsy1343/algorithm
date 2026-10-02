@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-10-01T15:05:01.783Z",
-  "totalCount": 169,
+  "fetchedAt": "2026-10-02T15:05:03.163Z",
+  "totalCount": 174,
   "companies": [
     "당근",
     "현대오토에버",
@@ -20,18 +20,6 @@
   ],
   "errors": [],
   "jobs": [
-    {
-      "company": "네이버",
-      "companyId": "naver",
-      "title": "[네이버웹툰] Disney 디지털 코믹스 플랫폼 서버 개발 (경력) 모집 부서 Tech 모집 분야 Backend 모집 경력 경력 근로 조건 정규 모집 기간 2026.09.10 ~ 2026.10.02",
-      "department": "",
-      "location": "",
-      "deadline": "2026-10-02",
-      "deadlineTime": "",
-      "url": "https://recruit.navercorp.com/rcrt/list.do?annoId=&sw=&subJobCdData=1010001%2C1010002%2C1010003%2C1010005%2C1010008%2C1010020&sysCompanyCdData=&jobCdData=1010#n",
-      "_raw": "[네이버웹툰] Disney 디지털 코믹스 플랫폼 서버 개발 (경력) 모집 부서 Tech 모집 분야 Backend 모집 경력 경력 근로 조건 정규 모집 기간 2026.09.10 ~ 2026.10.02",
-      "_employmentType": ""
-    },
     {
       "company": "CJ (올리브영/올네/대한통운)",
       "companyId": "cj",
@@ -345,6 +333,18 @@
       "url": "https://career.kia.com/apply/applyList.kc"
     },
     {
+      "company": "네이버",
+      "companyId": "naver",
+      "title": "[네이버랩스] Robot Embedded System Firmware Engineer 모집 부서 Tech 모집 분야 Embedded SW 모집 경력 무관 근로 조건 정규 모집 기간 2026.10.02 ~ 2026.10.11",
+      "department": "",
+      "location": "",
+      "deadline": "2026-10-11",
+      "deadlineTime": "",
+      "url": "https://recruit.navercorp.com/rcrt/list.do?annoId=&sw=&subJobCdData=1010001%2C1010002%2C1010003%2C1010005%2C1010008%2C1010020&sysCompanyCdData=&jobCdData=1010#n",
+      "_raw": "[네이버랩스] Robot Embedded System Firmware Engineer 모집 부서 Tech 모집 분야 Embedded SW 모집 경력 무관 근로 조건 정규 모집 기간 2026.10.02 ~ 2026.10.11",
+      "_employmentType": ""
+    },
+    {
       "company": "CJ (올리브영/올네/대한통운)",
       "companyId": "cj",
       "title": "[티빙] 정보보안 엔지니어(취약점 및 모의해킹) 경력채용",
@@ -357,22 +357,22 @@
     {
       "company": "CJ (올리브영/올네/대한통운)",
       "companyId": "cj",
-      "title": "[티빙] 정보보호 담당자(IT Security Compliance Manager) 경력채용",
-      "department": "TVING / 정보보안",
-      "location": "서울",
-      "deadline": "2026-10-11",
-      "deadlineTime": "23:00",
-      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20260709038325"
-    },
-    {
-      "company": "CJ (올리브영/올네/대한통운)",
-      "companyId": "cj",
       "title": "[티빙] 정보보안 엔지니어(system&Endpoint) 경력채용",
       "department": "TVING / 정보보안",
       "location": "서울",
       "deadline": "2026-10-11",
       "deadlineTime": "23:00",
       "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20260709038324"
+    },
+    {
+      "company": "CJ (올리브영/올네/대한통운)",
+      "companyId": "cj",
+      "title": "[티빙] 정보보호 담당자(IT Security Compliance Manager) 경력채용",
+      "department": "TVING / 정보보안",
+      "location": "서울",
+      "deadline": "2026-10-11",
+      "deadlineTime": "23:00",
+      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20260709038325"
     },
     {
       "company": "네이버",
@@ -479,6 +479,18 @@
     {
       "company": "네이버",
       "companyId": "naver",
+      "title": "[NAVER Cloud] 보안 솔루션 운영 담당자 (Junior Talent) 모집 부서 Tech 모집 분야 Security 모집 경력 경력 근로 조건 정규 모집 기간 2026.10.02 ~ 2026.10.14",
+      "department": "",
+      "location": "",
+      "deadline": "2026-10-14",
+      "deadlineTime": "",
+      "url": "https://recruit.navercorp.com/rcrt/list.do?annoId=&sw=&subJobCdData=1010001%2C1010002%2C1010003%2C1010005%2C1010008%2C1010020&sysCompanyCdData=&jobCdData=1010#n",
+      "_raw": "[NAVER Cloud] 보안 솔루션 운영 담당자 (Junior Talent) 모집 부서 Tech 모집 분야 Security 모집 경력 경력 근로 조건 정규 모집 기간 2026.10.02 ~ 2026.10.14",
+      "_employmentType": ""
+    },
+    {
+      "company": "네이버",
+      "companyId": "naver",
       "title": "[NAVER Cloud] AI Security 분야 채용 (경력) 모집 부서 Tech 모집 분야 Security 모집 경력 경력 근로 조건 정규 모집 기간 2026.09.30 ~ 2026.10.14",
       "department": "",
       "location": "",
@@ -491,22 +503,22 @@
     {
       "company": "CJ (올리브영/올네/대한통운)",
       "companyId": "cj",
-      "title": "[경력] Technical Architect",
-      "department": "CJ올리브네트웍스 / 프로젝트 TA",
-      "location": "서울",
-      "deadline": "2026-10-19",
-      "deadlineTime": "23:59",
-      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20260922039598"
-    },
-    {
-      "company": "CJ (올리브영/올네/대한통운)",
-      "companyId": "cj",
       "title": "[경력] 프로젝트 Application Architect",
       "department": "CJ올리브네트웍스 / AA(Application Architect)",
       "location": "서울",
       "deadline": "2026-10-19",
       "deadlineTime": "23:59",
       "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20260422038602"
+    },
+    {
+      "company": "CJ (올리브영/올네/대한통운)",
+      "companyId": "cj",
+      "title": "[경력] Technical Architect",
+      "department": "CJ올리브네트웍스 / 프로젝트 TA",
+      "location": "서울",
+      "deadline": "2026-10-19",
+      "deadlineTime": "23:59",
+      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20260922039598"
     },
     {
       "company": "CJ (올리브영/올네/대한통운)",
@@ -627,6 +639,16 @@
     {
       "company": "CJ (올리브영/올네/대한통운)",
       "companyId": "cj",
+      "title": "[경력] 대내외 고객사 SAP FI 운영/개발",
+      "department": "CJ올리브네트웍스 / 시스템 개발/운영(SAP)",
+      "location": "서울",
+      "deadline": "2026-10-31",
+      "deadlineTime": "23:59",
+      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20240722026043"
+    },
+    {
+      "company": "CJ (올리브영/올네/대한통운)",
+      "companyId": "cj",
       "title": "[경력] SAP 모듈 컨설턴트",
       "department": "CJ올리브네트웍스 / SAP 컨설턴트",
       "location": "서울",
@@ -643,16 +665,6 @@
       "deadline": "2026-10-31",
       "deadlineTime": "23:59",
       "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20231030020572"
-    },
-    {
-      "company": "CJ (올리브영/올네/대한통운)",
-      "companyId": "cj",
-      "title": "[경력] 대내외 고객사 SAP FI 운영/개발",
-      "department": "CJ올리브네트웍스 / 시스템 개발/운영(SAP)",
-      "location": "서울",
-      "deadline": "2026-10-31",
-      "deadlineTime": "23:59",
-      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20240722026043"
     },
     {
       "company": "SK AX",
@@ -727,16 +739,14 @@
       "_employmentType": "정규"
     },
     {
-      "company": "SK AX",
-      "companyId": "skax",
-      "title": "전사 통합 Image 솔루션 제공 플랫폼 Application 개발.운영 PL 영입 SK주식회사(AX) IT/구축/운영/최적화",
-      "department": "",
-      "location": "",
-      "deadline": "2026-11-20",
-      "deadlineTime": "",
-      "url": "https://www.skcareers.com/Recruit/Detail/R261970",
-      "_raw": "전사 통합 Image 솔루션 제공 플랫폼 Application 개발.운영 PL 영입 2026년 09월 11일(금) ~ 2026년 11월 20일(금) SK주식회사(AX) IT/구축/운영/최적화",
-      "_employmentType": "정규"
+      "company": "CJ (올리브영/올네/대한통운)",
+      "companyId": "cj",
+      "title": "[경력] WMS 구축 PM",
+      "department": "CJ올리브네트웍스 / PM(Project Manager)",
+      "location": "서울",
+      "deadline": "2026-11-30",
+      "deadlineTime": "23:59",
+      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20261002041039"
     },
     {
       "company": "티맵모빌리티",
@@ -903,6 +913,15 @@
     {
       "company": "당근",
       "companyId": "daangn",
+      "title": "Software Engineer, Backend (인턴) - Cross Product Growth (Intelligence Targeting)",
+      "department": "",
+      "location": "SEOUL",
+      "deadline": "",
+      "url": "https://about.daangn.com?gh_jid=8011239003"
+    },
+    {
+      "company": "당근",
+      "companyId": "daangn",
       "title": "Software Engineer, Backend - 서비스 코어 (Identity Service)",
       "department": "",
       "location": "SEOUL",
@@ -1000,6 +1019,26 @@
       "url": "https://about.daangn.com?gh_jid=7498021003"
     },
     {
+      "company": "현대오토에버",
+      "companyId": "autoever",
+      "title": "[Tech] Infra Security Engineer - 북미 기술 보안 주재원(네트웍 보안)",
+      "department": "Core Tech(AI/DATA/Cloud/보안)",
+      "location": "",
+      "deadline": "",
+      "deadlineTime": "",
+      "url": "https://career.hyundai-autoever.com/ko/o/232348"
+    },
+    {
+      "company": "현대오토에버",
+      "companyId": "autoever",
+      "title": "[Tech] Infra Security Engineer - 북미 기술 보안 주재원(Endpoint)",
+      "department": "Core Tech(AI/DATA/Cloud/보안)",
+      "location": "",
+      "deadline": "",
+      "deadlineTime": "",
+      "url": "https://career.hyundai-autoever.com/ko/o/231922"
+    },
+    {
       "company": "토스",
       "companyId": "toss",
       "title": "토스커뮤니티 Server Developer 대규모 채용 (3년 이하) (~10/15) 개발",
@@ -1081,18 +1120,6 @@
       "deadlineTime": "",
       "url": "https://toss.im/career/job-detail?job_id=7798373003",
       "_raw": "Call Infra Engineer (IPCC, AICC 구축 운영) 인프라 ・ 콜시스템 ・ IPCC ・ AICC 토스",
-      "_employmentType": ""
-    },
-    {
-      "company": "토스",
-      "companyId": "toss",
-      "title": "Customer Hero 플랫폼/쇼핑 (정착지원금 50만원) 신입",
-      "department": "",
-      "location": "",
-      "deadline": "",
-      "deadlineTime": "",
-      "url": "https://toss.im/career/job-detail?job_id=7621552003",
-      "_raw": "Customer Hero 플랫폼/쇼핑 (정착지원금 50만원) 신입 ・ 토스플랫폼 ・ 토스쇼핑 ・ 앱상담 ・ 6개월 근속 시 50만원 분할지급 씨엑스",
       "_employmentType": ""
     },
     {
@@ -1266,13 +1293,13 @@
     {
       "company": "토스",
       "companyId": "toss",
-      "title": "IT Manager (IT 인프라 운영 및 환경 기획) IT",
+      "title": "IT Manager (IT 인프라 운영 및 기획) IT",
       "department": "",
       "location": "",
       "deadline": "",
       "deadlineTime": "",
       "url": "https://toss.im/career/job-detail?job_id=7867603003",
-      "_raw": "IT Manager (IT 인프라 운영 및 환경 기획) IT ・ 인프라 ・ 컨택센터 ・ BPO 씨엑스",
+      "_raw": "IT Manager (IT 인프라 운영 및 기획) IT ・ 인프라 ・ 컨택센터 ・ BPO 씨엑스",
       "_employmentType": ""
     },
     {
@@ -1657,6 +1684,30 @@
       "deadlineTime": "",
       "url": "https://careers.kakao.com/jobs/P-14402?skillSet=&part=TECHNOLOGY&company=KAKAO&keyword=&employeeType=&page=1",
       "_raw": "Multimodal LLM Research Engineer (경력) 영입마감일 영입종료시 근무지 직군 태그 #Algorithm/ML 회사정보 카카오 직원유형 정규직",
+      "_employmentType": ""
+    },
+    {
+      "company": "카카오",
+      "companyId": "kakao",
+      "title": "LLM Research Engineer (Post-training) (신입/경력) 영입마감일 영입종료시 근무지 직군 태그 #Algorithm/ML 회사정보 카카오 직원유형 정규직",
+      "department": "",
+      "location": "",
+      "deadline": "",
+      "deadlineTime": "",
+      "url": "https://careers.kakao.com/jobs/P-14558?skillSet=&part=TECHNOLOGY&company=KAKAO&keyword=&employeeType=&page=1",
+      "_raw": "LLM Research Engineer (Post-training) (신입/경력) 영입마감일 영입종료시 근무지 직군 태그 #Algorithm/ML 회사정보 카카오 직원유형 정규직",
+      "_employmentType": ""
+    },
+    {
+      "company": "카카오",
+      "companyId": "kakao",
+      "title": "LLM Research Engineer (Pre-training) (신입/경력) 영입마감일 영입종료시 근무지 직군 태그 #Algorithm/ML 회사정보 카카오 직원유형 정규직",
+      "department": "",
+      "location": "",
+      "deadline": "",
+      "deadlineTime": "",
+      "url": "https://careers.kakao.com/jobs/P-14559?skillSet=&part=TECHNOLOGY&company=KAKAO&keyword=&employeeType=&page=1",
+      "_raw": "LLM Research Engineer (Pre-training) (신입/경력) 영입마감일 영입종료시 근무지 직군 태그 #Algorithm/ML 회사정보 카카오 직원유형 정규직",
       "_employmentType": ""
     },
     {

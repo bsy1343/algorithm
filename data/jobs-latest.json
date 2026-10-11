@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-10T15:04:43.029Z",
+  "fetchedAt": "2026-10-11T15:04:41.611Z",
   "totalCount": 196,
   "companies": [
     "당근",
@@ -31,26 +31,14 @@
       "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20250313029114"
     },
     {
-      "company": "네이버",
-      "companyId": "naver",
-      "title": "[네이버랩스] Robot Embedded System Firmware Engineer 모집 부서 Tech 모집 분야 Embedded SW 모집 경력 무관 근로 조건 정규 모집 기간 2026.10.02 ~ 2026.10.11",
-      "department": "",
-      "location": "",
-      "deadline": "2026-10-11",
-      "deadlineTime": "",
-      "url": "https://recruit.navercorp.com/rcrt/list.do?annoId=&sw=&subJobCdData=1010001%2C1010002%2C1010003%2C1010005%2C1010008%2C1010020&sysCompanyCdData=&jobCdData=1010#n",
-      "_raw": "[네이버랩스] Robot Embedded System Firmware Engineer 모집 부서 Tech 모집 분야 Embedded SW 모집 경력 무관 근로 조건 정규 모집 기간 2026.10.02 ~ 2026.10.11",
-      "_employmentType": ""
-    },
-    {
       "company": "CJ (올리브영/올네/대한통운)",
       "companyId": "cj",
-      "title": "[티빙] 정보보안 엔지니어(system&Endpoint) 경력채용",
+      "title": "[티빙] 정보보호 담당자(IT Security Compliance Manager) 경력채용",
       "department": "TVING / 정보보안",
       "location": "서울",
       "deadline": "2026-10-11",
       "deadlineTime": "23:00",
-      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20260709038324"
+      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20260709038325"
     },
     {
       "company": "CJ (올리브영/올네/대한통운)",
@@ -65,12 +53,12 @@
     {
       "company": "CJ (올리브영/올네/대한통운)",
       "companyId": "cj",
-      "title": "[티빙] 정보보호 담당자(IT Security Compliance Manager) 경력채용",
+      "title": "[티빙] 정보보안 엔지니어(system&Endpoint) 경력채용",
       "department": "TVING / 정보보안",
       "location": "서울",
       "deadline": "2026-10-11",
       "deadlineTime": "23:00",
-      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20260709038325"
+      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20260709038324"
     },
     {
       "company": "네이버",
@@ -137,16 +125,6 @@
     {
       "company": "CJ (올리브영/올네/대한통운)",
       "companyId": "cj",
-      "title": "[경력] 클라우드 보안 엔지니어",
-      "department": "CJ올리브네트웍스 / 퍼블릭클라우드 보안",
-      "location": "서울",
-      "deadline": "2026-10-12",
-      "deadlineTime": "23:59",
-      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20260605038232"
-    },
-    {
-      "company": "CJ (올리브영/올네/대한통운)",
-      "companyId": "cj",
       "title": "[경력] 네트워크 엔지니어",
       "department": "CJ올리브네트웍스 / 네트워크 운영",
       "location": "인천(송도)",
@@ -163,6 +141,16 @@
       "deadline": "2026-10-12",
       "deadlineTime": "23:59",
       "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20260806039250"
+    },
+    {
+      "company": "CJ (올리브영/올네/대한통운)",
+      "companyId": "cj",
+      "title": "[경력] 클라우드 보안 엔지니어",
+      "department": "CJ올리브네트웍스 / 퍼블릭클라우드 보안",
+      "location": "서울",
+      "deadline": "2026-10-12",
+      "deadlineTime": "23:59",
+      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20260605038232"
     },
     {
       "company": "CJ (올리브영/올네/대한통운)",
@@ -401,6 +389,16 @@
     {
       "company": "CJ (올리브영/올네/대한통운)",
       "companyId": "cj",
+      "title": "[경력] 프로젝트 Application Architect",
+      "department": "CJ올리브네트웍스 / AA(Application Architect)",
+      "location": "서울",
+      "deadline": "2026-10-19",
+      "deadlineTime": "23:59",
+      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20260422038602"
+    },
+    {
+      "company": "CJ (올리브영/올네/대한통운)",
+      "companyId": "cj",
       "title": "[경력] 차세대 AI-SOC 운영 및 위협 헌팅 전문가",
       "department": "CJ올리브네트웍스 / 정보보호(보안)",
       "location": "서울",
@@ -417,16 +415,6 @@
       "deadline": "2026-10-19",
       "deadlineTime": "23:59",
       "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20260922039598"
-    },
-    {
-      "company": "CJ (올리브영/올네/대한통운)",
-      "companyId": "cj",
-      "title": "[경력] 프로젝트 Application Architect",
-      "department": "CJ올리브네트웍스 / AA(Application Architect)",
-      "location": "서울",
-      "deadline": "2026-10-19",
-      "deadlineTime": "23:59",
-      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20260422038602"
     },
     {
       "company": "CJ (올리브영/올네/대한통운)",
@@ -928,6 +916,18 @@
       "deadlineTime": "",
       "url": "https://www.skcareers.com/Recruit/Detail/R261937",
       "_raw": "AI Data 엔지니어 영입 2026년 09월 11일(금) ~ 2026년 11월 20일(금) SK주식회사(AX) Tech R&D/AI/DT",
+      "_employmentType": "정규"
+    },
+    {
+      "company": "SK AX",
+      "companyId": "skax",
+      "title": "AI Model 엔지니어 영입 SK주식회사(AX) Tech R&D/AI/DT",
+      "department": "",
+      "location": "",
+      "deadline": "2026-11-20",
+      "deadlineTime": "",
+      "url": "https://www.skcareers.com/Recruit/Detail/R261938",
+      "_raw": "AI Model 엔지니어 영입 2026년 09월 11일(금) ~ 2026년 11월 20일(금) SK주식회사(AX) Tech R&D/AI/DT",
       "_employmentType": "정규"
     },
     {
@@ -1452,7 +1452,7 @@
       "deadline": "",
       "deadlineTime": "",
       "url": "https://toss.im/career/job-detail?job_id=4076130003",
-      "_raw": "Frontend Developer 개발 ・ Frontend ・ TypeScript ・ JavaScript 증권 인슈어런스 인컴",
+      "_raw": "Frontend Developer 개발 ・ Frontend ・ TypeScript ・ JavaScript 증권 외 3개 계열사",
       "_employmentType": ""
     },
     {
@@ -1476,7 +1476,7 @@
       "deadline": "",
       "deadlineTime": "",
       "url": "https://toss.im/career/job-detail?job_id=5130165003",
-      "_raw": "Frontend Platform Engineer 개발 ・ Frontend ・ TypeScript ・ JavaScript ・ fe ・ 프론트엔드 증권",
+      "_raw": "Frontend Platform Engineer 개발 ・ Frontend ・ TypeScript ・ JavaScript ・ fe ・ 프론트엔드 증권 플레이스",
       "_employmentType": ""
     },
     {

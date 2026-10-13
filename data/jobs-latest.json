@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-10-12T15:04:45.169Z",
-  "totalCount": 191,
+  "fetchedAt": "2026-10-13T15:04:42.849Z",
+  "totalCount": 187,
   "companies": [
     "당근",
     "현대오토에버",
@@ -29,86 +29,6 @@
       "deadline": "2026-10-08",
       "deadlineTime": "23:00",
       "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20250313029114"
-    },
-    {
-      "company": "CJ (올리브영/올네/대한통운)",
-      "companyId": "cj",
-      "title": "[경력] 네트워크/OT 보안 엔지니어",
-      "department": "CJ올리브네트웍스 / 정보보호(보안)",
-      "location": "서울",
-      "deadline": "2026-10-12",
-      "deadlineTime": "23:59",
-      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20260806039250"
-    },
-    {
-      "company": "CJ (올리브영/올네/대한통운)",
-      "companyId": "cj",
-      "title": "[경력] 네트워크 엔지니어",
-      "department": "CJ올리브네트웍스 / 네트워크 운영",
-      "location": "인천(송도)",
-      "deadline": "2026-10-12",
-      "deadlineTime": "23:59",
-      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20260923040106"
-    },
-    {
-      "company": "CJ (올리브영/올네/대한통운)",
-      "companyId": "cj",
-      "title": "[경력] 클라우드 VDI 엔지니어",
-      "department": "CJ올리브네트웍스 / 클라우드 엔지니어",
-      "location": "인천(송도)",
-      "deadline": "2026-10-12",
-      "deadlineTime": "23:59",
-      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20260803038365"
-    },
-    {
-      "company": "CJ (올리브영/올네/대한통운)",
-      "companyId": "cj",
-      "title": "[경력] 취약점 진단 및 모의해킹",
-      "department": "CJ올리브네트웍스 / 모의해킹",
-      "location": "서울",
-      "deadline": "2026-10-12",
-      "deadlineTime": "23:59",
-      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20260914039586"
-    },
-    {
-      "company": "CJ (올리브영/올네/대한통운)",
-      "companyId": "cj",
-      "title": "[경력] 정보보호 컨설턴트",
-      "department": "CJ올리브네트웍스 / IT컨설팅",
-      "location": "서울",
-      "deadline": "2026-10-12",
-      "deadlineTime": "23:59",
-      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20260306037807"
-    },
-    {
-      "company": "CJ (올리브영/올네/대한통운)",
-      "companyId": "cj",
-      "title": "[경력] 개인정보보호 담당자",
-      "department": "CJ올리브네트웍스 / 정보보호(보안)",
-      "location": "서울",
-      "deadline": "2026-10-12",
-      "deadlineTime": "23:59",
-      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20260904040067"
-    },
-    {
-      "company": "CJ (올리브영/올네/대한통운)",
-      "companyId": "cj",
-      "title": "[경력] 비지니스 컨설턴트",
-      "department": "CJ올리브네트웍스 / IT컨설팅",
-      "location": "서울",
-      "deadline": "2026-10-12",
-      "deadlineTime": "23:59",
-      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20240621025227"
-    },
-    {
-      "company": "CJ (올리브영/올네/대한통운)",
-      "companyId": "cj",
-      "title": "[경력] 클라우드 엔지니어(AWS, Azure)",
-      "department": "CJ올리브네트웍스 / 클라우드 엔지니어",
-      "location": "인천(송도)",
-      "deadline": "2026-10-12",
-      "deadlineTime": "23:59",
-      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20260803038366"
     },
     {
       "company": "네이버",
@@ -287,12 +207,12 @@
     {
       "company": "CJ (올리브영/올네/대한통운)",
       "companyId": "cj",
-      "title": "[경력] 차세대 AI-SOC 운영 및 위협 헌팅 전문가",
-      "department": "CJ올리브네트웍스 / 정보보호(보안)",
+      "title": "[경력] Technical Architect",
+      "department": "CJ올리브네트웍스 / 프로젝트 TA",
       "location": "서울",
       "deadline": "2026-10-19",
       "deadlineTime": "23:59",
-      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20260716038340"
+      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20260922039598"
     },
     {
       "company": "CJ (올리브영/올네/대한통운)",
@@ -307,12 +227,12 @@
     {
       "company": "CJ (올리브영/올네/대한통운)",
       "companyId": "cj",
-      "title": "[경력] Technical Architect",
-      "department": "CJ올리브네트웍스 / 프로젝트 TA",
+      "title": "[경력] 차세대 AI-SOC 운영 및 위협 헌팅 전문가",
+      "department": "CJ올리브네트웍스 / 정보보호(보안)",
       "location": "서울",
       "deadline": "2026-10-19",
       "deadlineTime": "23:59",
-      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20260922039598"
+      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20260716038340"
     },
     {
       "company": "네이버",
@@ -545,16 +465,6 @@
     {
       "company": "현대오토에버",
       "companyId": "autoever",
-      "title": "[Tech] Security Engineer - 신규 IT시스템 보안성검토 및 운영시스템 보안관리",
-      "department": "Core Tech(AI/DATA/Cloud/보안)",
-      "location": "",
-      "deadline": "2026-10-29",
-      "deadlineTime": "23:59",
-      "url": "https://career.hyundai-autoever.com/ko/o/226103"
-    },
-    {
-      "company": "현대오토에버",
-      "companyId": "autoever",
       "title": "[SDx] IT PM - Robot Field Application Engineer",
       "department": "SDx(스마트제조)",
       "location": "",
@@ -765,6 +675,16 @@
     {
       "company": "CJ (올리브영/올네/대한통운)",
       "companyId": "cj",
+      "title": "[경력] SAP 모듈 컨설턴트",
+      "department": "CJ올리브네트웍스 / SAP 컨설턴트",
+      "location": "서울",
+      "deadline": "2026-10-31",
+      "deadlineTime": "23:59",
+      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20240729026055"
+    },
+    {
+      "company": "CJ (올리브영/올네/대한통운)",
+      "companyId": "cj",
       "title": "[경력] 대내외 고객사 SAP FI 운영/개발",
       "department": "CJ올리브네트웍스 / 시스템 개발/운영(SAP)",
       "location": "서울",
@@ -785,16 +705,6 @@
     {
       "company": "CJ (올리브영/올네/대한통운)",
       "companyId": "cj",
-      "title": "[경력] SAP 모듈 컨설턴트",
-      "department": "CJ올리브네트웍스 / SAP 컨설턴트",
-      "location": "서울",
-      "deadline": "2026-10-31",
-      "deadlineTime": "23:59",
-      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20240729026055"
-    },
-    {
-      "company": "CJ (올리브영/올네/대한통운)",
-      "companyId": "cj",
       "title": "[경력] Infra Service Engineer",
       "department": "CJ올리브네트웍스 / 인프라운영",
       "location": "인천(송도)",
@@ -811,6 +721,36 @@
       "deadline": "2026-11-02",
       "deadlineTime": "23:59",
       "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20260605038232"
+    },
+    {
+      "company": "CJ (올리브영/올네/대한통운)",
+      "companyId": "cj",
+      "title": "[경력] 비지니스 컨설턴트",
+      "department": "CJ올리브네트웍스 / IT컨설팅",
+      "location": "서울",
+      "deadline": "2026-11-09",
+      "deadlineTime": "23:59",
+      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20240621025227"
+    },
+    {
+      "company": "CJ (올리브영/올네/대한통운)",
+      "companyId": "cj",
+      "title": "[티빙] 정보보안 엔지니어(system&Endpoint) 경력채용",
+      "department": "TVING / 정보보안",
+      "location": "서울",
+      "deadline": "2026-11-15",
+      "deadlineTime": "23:00",
+      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20260709038324"
+    },
+    {
+      "company": "CJ (올리브영/올네/대한통운)",
+      "companyId": "cj",
+      "title": "[티빙] 정보보안 엔지니어(취약점 및 모의해킹) 경력채용",
+      "department": "TVING / 정보보안",
+      "location": "서울",
+      "deadline": "2026-11-15",
+      "deadlineTime": "23:00",
+      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20260709039175"
     },
     {
       "company": "SK AX",
@@ -1203,6 +1143,15 @@
       "url": "https://about.daangn.com?gh_jid=7498021003"
     },
     {
+      "company": "당근",
+      "companyId": "daangn",
+      "title": "Test Automation Engineer",
+      "department": "",
+      "location": "SEOUL",
+      "deadline": "",
+      "url": "https://about.daangn.com?gh_jid=6285317003"
+    },
+    {
       "company": "토스",
       "companyId": "toss",
       "title": "토스증권 Data Engineer 직군 집중채용 (~10/25) 데이터엔지니어링",
@@ -1296,6 +1245,18 @@
       "deadlineTime": "",
       "url": "https://toss.im/career/job-detail?job_id=7798373003",
       "_raw": "Call Infra Engineer (IPCC, AICC 구축 운영) 인프라 ・ 콜시스템 ・ IPCC ・ AICC 토스",
+      "_employmentType": ""
+    },
+    {
+      "company": "토스",
+      "companyId": "toss",
+      "title": "Customer Hero 플랫폼/쇼핑 (정착지원금 50만원) 신입",
+      "department": "",
+      "location": "",
+      "deadline": "",
+      "deadlineTime": "",
+      "url": "https://toss.im/career/job-detail?job_id=7621552003",
+      "_raw": "Customer Hero 플랫폼/쇼핑 (정착지원금 50만원) 신입 ・ 토스앱 ・ 토스쇼핑 ・ 6개월 근속 시 50만원 분할지급 씨엑스",
       "_employmentType": ""
     },
     {

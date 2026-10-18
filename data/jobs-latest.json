@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-10-17T15:04:38.015Z",
-  "totalCount": 194,
+  "fetchedAt": "2026-10-18T15:04:35.223Z",
+  "totalCount": 182,
   "companies": [
     "당근",
     "현대오토에버",
@@ -20,146 +20,6 @@
   ],
   "errors": [],
   "jobs": [
-    {
-      "company": "한화시스템",
-      "companyId": "hanwha",
-      "title": "Private 클라우드 기획 및 운영 경력사원 채용",
-      "department": "한화시스템/ICT",
-      "location": "",
-      "deadline": "2026-10-18",
-      "deadlineTime": "23:59",
-      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19945"
-    },
-    {
-      "company": "한화시스템",
-      "companyId": "hanwha",
-      "title": "Data Scientist 경력사원 채용",
-      "department": "한화시스템/ICT",
-      "location": "",
-      "deadline": "2026-10-18",
-      "deadlineTime": "23:59",
-      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19944"
-    },
-    {
-      "company": "한화시스템",
-      "companyId": "hanwha",
-      "title": "수학적 최적화 전문가(Math Optimization) 경력사원 채용",
-      "department": "한화시스템/ICT",
-      "location": "",
-      "deadline": "2026-10-18",
-      "deadlineTime": "23:59",
-      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19943"
-    },
-    {
-      "company": "한화시스템",
-      "companyId": "hanwha",
-      "title": "RX(Robot Transformation) 경력사원 채용",
-      "department": "한화시스템/ICT",
-      "location": "",
-      "deadline": "2026-10-18",
-      "deadlineTime": "23:59",
-      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19921"
-    },
-    {
-      "company": "한화시스템",
-      "companyId": "hanwha",
-      "title": "제조 IT/OT 진단/컨설팅 경력사원 채용",
-      "department": "한화시스템/ICT",
-      "location": "",
-      "deadline": "2026-10-18",
-      "deadlineTime": "23:59",
-      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19920"
-    },
-    {
-      "company": "한화시스템",
-      "companyId": "hanwha",
-      "title": "온톨로지(Ontology) 전문가 경력사원 채용",
-      "department": "한화시스템/ICT",
-      "location": "",
-      "deadline": "2026-10-18",
-      "deadlineTime": "23:59",
-      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19919"
-    },
-    {
-      "company": "한화시스템",
-      "companyId": "hanwha",
-      "title": "AX 전략기획 경력사원 채용",
-      "department": "한화시스템/ICT",
-      "location": "",
-      "deadline": "2026-10-18",
-      "deadlineTime": "23:59",
-      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19918"
-    },
-    {
-      "company": "한화시스템",
-      "companyId": "hanwha",
-      "title": "VLM Project Manager 경력사원 채용",
-      "department": "한화시스템/ICT",
-      "location": "",
-      "deadline": "2026-10-18",
-      "deadlineTime": "23:59",
-      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19917"
-    },
-    {
-      "company": "한화시스템",
-      "companyId": "hanwha",
-      "title": "SWA 경력사원 채용",
-      "department": "한화시스템/ICT",
-      "location": "",
-      "deadline": "2026-10-18",
-      "deadlineTime": "23:59",
-      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19915"
-    },
-    {
-      "company": "한화시스템",
-      "companyId": "hanwha",
-      "title": "AI Agent Project Manager 경력사원 채용",
-      "department": "한화시스템/ICT",
-      "location": "",
-      "deadline": "2026-10-18",
-      "deadlineTime": "23:59",
-      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19914"
-    },
-    {
-      "company": "한화시스템",
-      "companyId": "hanwha",
-      "title": "ERP 컨설턴트 경력사원 채용",
-      "department": "한화시스템/ICT",
-      "location": "",
-      "deadline": "2026-10-18",
-      "deadlineTime": "23:59",
-      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19913"
-    },
-    {
-      "company": "한화시스템",
-      "companyId": "hanwha",
-      "title": "제조서비스 인프라 운영 경력사원 채용",
-      "department": "한화시스템/ICT",
-      "location": "",
-      "deadline": "2026-10-18",
-      "deadlineTime": "23:59",
-      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19911"
-    },
-    {
-      "company": "한화시스템",
-      "companyId": "hanwha",
-      "title": "SAP CO(관리회계/원가) 운영/개발 경력사원 채용",
-      "department": "한화시스템/ICT",
-      "location": "",
-      "deadline": "2026-10-18",
-      "deadlineTime": "23:59",
-      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19910"
-    },
-    {
-      "company": "한화시스템",
-      "companyId": "hanwha",
-      "title": "스마트팩토리 시스템 구축 분야(계획, 생산, 공정, 품질, 설비, 통신) 경력사원 채용",
-      "department": "한화시스템/ICT",
-      "location": "",
-      "deadline": "2026-10-18",
-      "deadlineTime": "23:59",
-      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19909"
-    },
     {
       "company": "CJ (올리브영/올네/대한통운)",
       "companyId": "cj",
@@ -261,25 +121,25 @@
     {
       "company": "SK AX",
       "companyId": "skax",
-      "title": "AI 기반 Application 개발/설계 분야 전문가 영입 SK주식회사(AX) Tech R&D/AI/Data Engineering",
+      "title": "AI 기반 Application 개발/설계 분야 전문가 영입 D-7 SK주식회사(AX) Tech R&D/AI/Data Engineering",
       "department": "",
       "location": "",
       "deadline": "2026-10-26",
       "deadlineTime": "",
       "url": "https://www.skcareers.com/Recruit/Detail/R261994",
-      "_raw": "AI 기반 Application 개발/설계 분야 전문가 영입 2026년 09월 15일(화) ~ 2026년 10월 26일(월) SK주식회사(AX) Tech R&D/AI/Data Engineering",
+      "_raw": "AI 기반 Application 개발/설계 분야 전문가 영입 2026년 09월 15일(화) ~ 2026년 10월 26일(월) D-7 SK주식회사(AX) Tech R&D/AI/Data Engineering",
       "_employmentType": "정규"
     },
     {
       "company": "SK AX",
       "companyId": "skax",
-      "title": "Digital Twin기반 건설/플랜트 설계 자동화/최적화 사업 PM/PL 영입 SK주식회사(AX) Tech R&D/Software Engineering",
+      "title": "Digital Twin기반 건설/플랜트 설계 자동화/최적화 사업 PM/PL 영입 D-7 SK주식회사(AX) Tech R&D/Software Engineering",
       "department": "",
       "location": "",
       "deadline": "2026-10-26",
       "deadlineTime": "",
       "url": "https://www.skcareers.com/Recruit/Detail/R261995",
-      "_raw": "Digital Twin기반 건설/플랜트 설계 자동화/최적화 사업 PM/PL 영입 2026년 09월 15일(화) ~ 2026년 10월 26일(월) SK주식회사(AX) Tech R&D/Software Engineering",
+      "_raw": "Digital Twin기반 건설/플랜트 설계 자동화/최적화 사업 PM/PL 영입 2026년 09월 15일(화) ~ 2026년 10월 26일(월) D-7 SK주식회사(AX) Tech R&D/Software Engineering",
       "_employmentType": "정규"
     },
     {
@@ -1090,15 +950,6 @@
     {
       "company": "당근",
       "companyId": "daangn",
-      "title": "Software Engineer, Backend (전환형 인턴) - 커뮤니티",
-      "department": "",
-      "location": "SEOUL",
-      "deadline": "",
-      "url": "https://about.daangn.com?gh_jid=8007747003"
-    },
-    {
-      "company": "당근",
-      "companyId": "daangn",
       "title": "Software Engineer, Backend - 로컬 비즈니스 (비즈프로필 CRM)",
       "department": "",
       "location": "SEOUL",
@@ -1268,6 +1119,18 @@
       "deadlineTime": "",
       "url": "https://toss.im/career/job-detail?job_id=8000716003",
       "_raw": "토스증권 Data Engineer 직군 집중채용 (~10/25) 데이터엔지니어링 ・ 데이터엔지니어 ・ 데이터 증권",
+      "_employmentType": ""
+    },
+    {
+      "company": "토스",
+      "companyId": "toss",
+      "title": "토스증권 Security Engineer 서류패스 이벤트 (~11/1) Security Engineering",
+      "department": "",
+      "location": "",
+      "deadline": "",
+      "deadlineTime": "",
+      "url": "https://toss.im/career/job-detail?job_id=8034297003",
+      "_raw": "토스증권 Security Engineer 서류패스 이벤트 (~11/1) Security Engineering ・ 보안 인프라 ・ 이벤트 분석 ・ SIEM 증권",
       "_employmentType": ""
     },
     {
@@ -1729,13 +1592,37 @@
     {
       "company": "토스",
       "companyId": "toss",
+      "title": "Security Engineer 보안",
+      "department": "",
+      "location": "",
+      "deadline": "",
+      "deadlineTime": "",
+      "url": "https://toss.im/career/job-detail?job_id=8032261003",
+      "_raw": "Security Engineer 보안 ・ 기술 ・ 엔드포인트 증권",
+      "_employmentType": ""
+    },
+    {
+      "company": "토스",
+      "companyId": "toss",
+      "title": "Security Engineer 보안",
+      "department": "",
+      "location": "",
+      "deadline": "",
+      "deadlineTime": "",
+      "url": "https://toss.im/career/job-detail?job_id=8032692003",
+      "_raw": "Security Engineer 보안 ・ 기술 ・ 취약점분석 ・ SIEM 증권",
+      "_employmentType": ""
+    },
+    {
+      "company": "토스",
+      "companyId": "toss",
       "title": "Security Engineer 엔드포인트",
       "department": "",
       "location": "",
       "deadline": "",
       "deadlineTime": "",
       "url": "https://toss.im/career/job-detail?job_id=6959638003",
-      "_raw": "Security Engineer 엔드포인트 ・ 네트워크 ・ 솔루션 ・ 접근통제 토스 외 3개 계열사",
+      "_raw": "Security Engineer 엔드포인트 ・ 네트워크 ・ 솔루션 ・ 접근통제 토스 뱅크 플레이스",
       "_employmentType": ""
     },
     {

@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-10-19T15:04:47.274Z",
-  "totalCount": 189,
+  "fetchedAt": "2026-10-20T15:04:43.419Z",
+  "totalCount": 188,
   "companies": [
     "당근",
     "현대오토에버",
@@ -20,26 +20,6 @@
   ],
   "errors": [],
   "jobs": [
-    {
-      "company": "CJ (올리브영/올네/대한통운)",
-      "companyId": "cj",
-      "title": "[경력] 프로젝트 Application Architect",
-      "department": "CJ올리브네트웍스 / AA(Application Architect)",
-      "location": "서울",
-      "deadline": "2026-10-19",
-      "deadlineTime": "23:59",
-      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20260422038602"
-    },
-    {
-      "company": "CJ (올리브영/올네/대한통운)",
-      "companyId": "cj",
-      "title": "[경력] 차세대 AI-SOC 운영 및 위협 헌팅 전문가",
-      "department": "CJ올리브네트웍스 / 정보보호(보안)",
-      "location": "서울",
-      "deadline": "2026-10-19",
-      "deadlineTime": "23:59",
-      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20260716038340"
-    },
     {
       "company": "네이버",
       "companyId": "naver",
@@ -121,38 +101,50 @@
     {
       "company": "SK AX",
       "companyId": "skax",
-      "title": "AI 기반 Application 개발/설계 분야 전문가 영입 D-6 SK주식회사(AX) Tech R&D/AI/Data Engineering",
+      "title": "AI 기반 Application 개발/설계 분야 전문가 영입 D-5 SK주식회사(AX) Tech R&D/AI/Data Engineering",
       "department": "",
       "location": "",
       "deadline": "2026-10-26",
       "deadlineTime": "",
       "url": "https://www.skcareers.com/Recruit/Detail/R261994",
-      "_raw": "AI 기반 Application 개발/설계 분야 전문가 영입 2026년 09월 15일(화) ~ 2026년 10월 26일(월) D-6 SK주식회사(AX) Tech R&D/AI/Data Engineering",
+      "_raw": "AI 기반 Application 개발/설계 분야 전문가 영입 2026년 09월 15일(화) ~ 2026년 10월 26일(월) D-5 SK주식회사(AX) Tech R&D/AI/Data Engineering",
       "_employmentType": "정규"
     },
     {
       "company": "SK AX",
       "companyId": "skax",
-      "title": "Digital Twin기반 건설/플랜트 설계 자동화/최적화 사업 PM/PL 영입 D-6 SK주식회사(AX) Tech R&D/Software Engineering",
+      "title": "Digital Twin기반 건설/플랜트 설계 자동화/최적화 사업 PM/PL 영입 D-5 SK주식회사(AX) Tech R&D/Software Engineering",
       "department": "",
       "location": "",
       "deadline": "2026-10-26",
       "deadlineTime": "",
       "url": "https://www.skcareers.com/Recruit/Detail/R261995",
-      "_raw": "Digital Twin기반 건설/플랜트 설계 자동화/최적화 사업 PM/PL 영입 2026년 09월 15일(화) ~ 2026년 10월 26일(월) D-6 SK주식회사(AX) Tech R&D/Software Engineering",
+      "_raw": "Digital Twin기반 건설/플랜트 설계 자동화/최적화 사업 PM/PL 영입 2026년 09월 15일(화) ~ 2026년 10월 26일(월) D-5 SK주식회사(AX) Tech R&D/Software Engineering",
       "_employmentType": "정규"
     },
     {
       "company": "SK AX",
       "companyId": "skax",
-      "title": "보안 아키텍트 영입 D-7 SK주식회사(AX) 정보보안/정보보안 컨설팅",
+      "title": "보안 아키텍트 영입 D-6 SK주식회사(AX) 정보보안/정보보안 컨설팅",
       "department": "",
       "location": "",
       "deadline": "2026-10-27",
       "deadlineTime": "",
       "url": "https://www.skcareers.com/Recruit/Detail/R261988",
-      "_raw": "보안 아키텍트 영입 2026년 09월 15일(화) ~ 2026년 10월 27일(화) D-7 SK주식회사(AX) 정보보안/정보보안 컨설팅",
+      "_raw": "보안 아키텍트 영입 2026년 09월 15일(화) ~ 2026년 10월 27일(화) D-6 SK주식회사(AX) 정보보안/정보보안 컨설팅",
       "_employmentType": "정규"
+    },
+    {
+      "company": "네이버",
+      "companyId": "naver",
+      "title": "[NAVER Cloud] ER 담당 (경력) 모집 부서 Corporate 모집 분야 Employee Relations 모집 경력 경력 근로 조건 정규 모집 기간 2026.10.20 ~ 2026.10.28",
+      "department": "",
+      "location": "",
+      "deadline": "2026-10-28",
+      "deadlineTime": "",
+      "url": "https://recruit.navercorp.com/rcrt/list.do?annoId=&sw=&subJobCdData=1010001%2C1010002%2C1010003%2C1010005%2C1010008%2C1010020&sysCompanyCdData=&jobCdData=1010#n",
+      "_raw": "[NAVER Cloud] ER 담당 (경력) 모집 부서 Corporate 모집 분야 Employee Relations 모집 경력 경력 근로 조건 정규 모집 기간 2026.10.20 ~ 2026.10.28",
+      "_employmentType": ""
     },
     {
       "company": "현대오토에버",
@@ -587,6 +579,16 @@
     {
       "company": "CJ (올리브영/올네/대한통운)",
       "companyId": "cj",
+      "title": "[경력] 대내외 고객사 SAP FI 운영/개발",
+      "department": "CJ올리브네트웍스 / 시스템 개발/운영(SAP)",
+      "location": "서울",
+      "deadline": "2026-10-31",
+      "deadlineTime": "23:59",
+      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20240722026043"
+    },
+    {
+      "company": "CJ (올리브영/올네/대한통운)",
+      "companyId": "cj",
       "title": "[경력] SAP PP 운영/개발",
       "department": "CJ올리브네트웍스 / 시스템 개발/운영(SAP)",
       "location": "서울",
@@ -595,14 +597,16 @@
       "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20231030020572"
     },
     {
-      "company": "CJ (올리브영/올네/대한통운)",
-      "companyId": "cj",
-      "title": "[경력] 대내외 고객사 SAP FI 운영/개발",
-      "department": "CJ올리브네트웍스 / 시스템 개발/운영(SAP)",
-      "location": "서울",
-      "deadline": "2026-10-31",
-      "deadlineTime": "23:59",
-      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20240722026043"
+      "company": "네이버",
+      "companyId": "naver",
+      "title": "[네이버웹툰] 플랫폼 그로스 매니저 (경력) 모집 부서 Service & Business 모집 분야 Business Development 모집 경력 경력 근로 조건 정규 모집 기간 2026.10.20 ~ 2026.11.01",
+      "department": "",
+      "location": "",
+      "deadline": "2026-11-01",
+      "deadlineTime": "",
+      "url": "https://recruit.navercorp.com/rcrt/list.do?annoId=&sw=&subJobCdData=1010001%2C1010002%2C1010003%2C1010005%2C1010008%2C1010020&sysCompanyCdData=&jobCdData=1010#n",
+      "_raw": "[네이버웹툰] 플랫폼 그로스 매니저 (경력) 모집 부서 Service & Business 모집 분야 Business Development 모집 경력 경력 근로 조건 정규 모집 기간 2026.10.20 ~ 2026.11.01",
+      "_employmentType": ""
     },
     {
       "company": "CJ (올리브영/올네/대한통운)",
@@ -965,20 +969,20 @@
     {
       "company": "당근",
       "companyId": "daangn",
-      "title": "Security Engineer - 인프라 (보안, AI Security)",
-      "department": "",
-      "location": "SEOUL",
-      "deadline": "",
-      "url": "https://about.daangn.com?gh_jid=7655325003"
-    },
-    {
-      "company": "당근",
-      "companyId": "daangn",
       "title": "Security Engineer - 인프라 (보안, Detection & Response)",
       "department": "",
       "location": "SEOUL",
       "deadline": "",
       "url": "https://about.daangn.com?gh_jid=6043519003"
+    },
+    {
+      "company": "당근",
+      "companyId": "daangn",
+      "title": "Site Reliability Engineer - 인프라 (클러스터)",
+      "department": "",
+      "location": "SEOUL",
+      "deadline": "",
+      "url": "https://about.daangn.com?gh_jid=5811688003"
     },
     {
       "company": "당근",
@@ -1015,15 +1019,6 @@
       "location": "SEOUL",
       "deadline": "",
       "url": "https://about.daangn.com?gh_jid=5781885003"
-    },
-    {
-      "company": "당근",
-      "companyId": "daangn",
-      "title": "Software Engineer, Backend - 로컬 잡스 (레슨/과외 팀)",
-      "department": "",
-      "location": "SEOUL",
-      "deadline": "",
-      "url": "https://about.daangn.com?gh_jid=7675338003"
     },
     {
       "company": "당근",
@@ -1078,15 +1073,6 @@
       "location": "SEOUL",
       "deadline": "",
       "url": "https://about.daangn.com?gh_jid=8025869003"
-    },
-    {
-      "company": "당근",
-      "companyId": "daangn",
-      "title": "Software Engineer, Backend (인턴) - Cross Product Growth (Intelligence Targeting)",
-      "department": "",
-      "location": "SEOUL",
-      "deadline": "",
-      "url": "https://about.daangn.com?gh_jid=8011239003"
     },
     {
       "company": "당근",
@@ -1484,13 +1470,13 @@
     {
       "company": "토스",
       "companyId": "toss",
-      "title": "Internal Infra Operator IT",
+      "title": "Internal Infra Specialist IT",
       "department": "",
       "location": "",
       "deadline": "",
       "deadlineTime": "",
       "url": "https://toss.im/career/job-detail?job_id=6090932003",
-      "_raw": "Internal Infra Operator IT ・ 사내인프라 ・ 솔루션 ・ 운영체제 페이먼츠",
+      "_raw": "Internal Infra Specialist IT ・ 사내인프라 ・ 솔루션 ・ 운영체제 페이먼츠",
       "_employmentType": ""
     },
     {
@@ -1803,6 +1789,18 @@
       "deadlineTime": "",
       "url": "https://toss.im/career/job-detail?job_id=7519850003",
       "_raw": "Tech Lead [Server] Backend ・ Tech ・ Leadership ・ Server 토스",
+      "_employmentType": ""
+    },
+    {
+      "company": "토스",
+      "companyId": "toss",
+      "title": "Visual Design Assistant (Product) Design",
+      "department": "",
+      "location": "",
+      "deadline": "",
+      "deadlineTime": "",
+      "url": "https://toss.im/career/job-detail?job_id=7990875003",
+      "_raw": "Visual Design Assistant (Product) Design ・ Visual ・ Design System ・ Assistant 토스",
       "_employmentType": ""
     },
     {

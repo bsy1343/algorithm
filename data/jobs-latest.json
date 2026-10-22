@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-10-21T15:04:42.278Z",
-  "totalCount": 191,
+  "fetchedAt": "2026-10-22T15:04:33.341Z",
+  "totalCount": 196,
   "companies": [
     "당근",
     "현대오토에버",
@@ -89,25 +89,25 @@
     {
       "company": "SK AX",
       "companyId": "skax",
-      "title": "AI 기반 Application 개발/설계 분야 전문가 영입 D-4 SK주식회사(AX) Tech R&D/AI/Data Engineering",
+      "title": "AI 기반 Application 개발/설계 분야 전문가 영입 D-3 SK주식회사(AX) Tech R&D/AI/Data Engineering",
       "department": "",
       "location": "",
       "deadline": "2026-10-26",
       "deadlineTime": "",
       "url": "https://www.skcareers.com/Recruit/Detail/R261994",
-      "_raw": "AI 기반 Application 개발/설계 분야 전문가 영입 2026년 09월 15일(화) ~ 2026년 10월 26일(월) D-4 SK주식회사(AX) Tech R&D/AI/Data Engineering",
+      "_raw": "AI 기반 Application 개발/설계 분야 전문가 영입 2026년 09월 15일(화) ~ 2026년 10월 26일(월) D-3 SK주식회사(AX) Tech R&D/AI/Data Engineering",
       "_employmentType": "정규"
     },
     {
       "company": "SK AX",
       "companyId": "skax",
-      "title": "Digital Twin기반 건설/플랜트 설계 자동화/최적화 사업 PM/PL 영입 D-4 SK주식회사(AX) Tech R&D/Software Engineering",
+      "title": "Digital Twin기반 건설/플랜트 설계 자동화/최적화 사업 PM/PL 영입 D-3 SK주식회사(AX) Tech R&D/Software Engineering",
       "department": "",
       "location": "",
       "deadline": "2026-10-26",
       "deadlineTime": "",
       "url": "https://www.skcareers.com/Recruit/Detail/R261995",
-      "_raw": "Digital Twin기반 건설/플랜트 설계 자동화/최적화 사업 PM/PL 영입 2026년 09월 15일(화) ~ 2026년 10월 26일(월) D-4 SK주식회사(AX) Tech R&D/Software Engineering",
+      "_raw": "Digital Twin기반 건설/플랜트 설계 자동화/최적화 사업 PM/PL 영입 2026년 09월 15일(화) ~ 2026년 10월 26일(월) D-3 SK주식회사(AX) Tech R&D/Software Engineering",
       "_employmentType": "정규"
     },
     {
@@ -125,13 +125,13 @@
     {
       "company": "SK AX",
       "companyId": "skax",
-      "title": "보안 아키텍트 영입 D-5 SK주식회사(AX) 정보보안/정보보안 컨설팅",
+      "title": "보안 아키텍트 영입 D-4 SK주식회사(AX) 정보보안/정보보안 컨설팅",
       "department": "",
       "location": "",
       "deadline": "2026-10-27",
       "deadlineTime": "",
       "url": "https://www.skcareers.com/Recruit/Detail/R261988",
-      "_raw": "보안 아키텍트 영입 2026년 09월 15일(화) ~ 2026년 10월 27일(화) D-5 SK주식회사(AX) 정보보안/정보보안 컨설팅",
+      "_raw": "보안 아키텍트 영입 2026년 09월 15일(화) ~ 2026년 10월 27일(화) D-4 SK주식회사(AX) 정보보안/정보보안 컨설팅",
       "_employmentType": "정규"
     },
     {
@@ -589,6 +589,18 @@
     {
       "company": "네이버",
       "companyId": "naver",
+      "title": "[네이버랩스] Robot Manipulation Data Engineer 모집 부서 Tech 모집 분야 AI/ML 모집 경력 무관 근로 조건 정규 모집 기간 2026.10.22 ~ 2026.11.01",
+      "department": "",
+      "location": "",
+      "deadline": "2026-11-01",
+      "deadlineTime": "",
+      "url": "https://recruit.navercorp.com/rcrt/list.do?annoId=&sw=&subJobCdData=1010001%2C1010002%2C1010003%2C1010005%2C1010008%2C1010020&sysCompanyCdData=&jobCdData=1010#n",
+      "_raw": "[네이버랩스] Robot Manipulation Data Engineer 모집 부서 Tech 모집 분야 AI/ML 모집 경력 무관 근로 조건 정규 모집 기간 2026.10.22 ~ 2026.11.01",
+      "_employmentType": ""
+    },
+    {
+      "company": "네이버",
+      "companyId": "naver",
       "title": "[네이버웹툰] 플랫폼 그로스 매니저 (경력) 모집 부서 Service & Business 모집 분야 Business Development 모집 경력 경력 근로 조건 정규 모집 기간 2026.10.20 ~ 2026.11.01",
       "department": "",
       "location": "",
@@ -601,22 +613,22 @@
     {
       "company": "CJ (올리브영/올네/대한통운)",
       "companyId": "cj",
-      "title": "[경력] 정보보호 컨설턴트",
-      "department": "CJ올리브네트웍스 / IT컨설팅",
-      "location": "서울",
-      "deadline": "2026-11-02",
-      "deadlineTime": "23:59",
-      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20260306037807"
-    },
-    {
-      "company": "CJ (올리브영/올네/대한통운)",
-      "companyId": "cj",
       "title": "[경력] 취약점 진단 및 모의해킹",
       "department": "CJ올리브네트웍스 / 모의해킹",
       "location": "서울",
       "deadline": "2026-11-02",
       "deadlineTime": "23:59",
       "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20260914039586"
+    },
+    {
+      "company": "CJ (올리브영/올네/대한통운)",
+      "companyId": "cj",
+      "title": "[경력] 정보보호 컨설턴트",
+      "department": "CJ올리브네트웍스 / IT컨설팅",
+      "location": "서울",
+      "deadline": "2026-11-02",
+      "deadlineTime": "23:59",
+      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20260306037807"
     },
     {
       "company": "CJ (올리브영/올네/대한통운)",
@@ -671,14 +683,24 @@
       "url": "https://career.kia.com/apply/applyList.kc"
     },
     {
+      "company": "LG U+",
+      "companyId": "lguplus",
+      "title": "[CTO] Application Architect 경력채용",
+      "department": "",
+      "location": "경력",
+      "deadline": "2026-11-08",
+      "deadlineTime": "23:00",
+      "url": "https://careers.lg.com/channel/detail/lgu/job_openings"
+    },
+    {
       "company": "CJ (올리브영/올네/대한통운)",
       "companyId": "cj",
-      "title": "[경력] Technical Architect",
-      "department": "CJ올리브네트웍스 / 프로젝트 TA",
+      "title": "[CJ제일제당] Data Scientist(마케팅) 경력 채용",
+      "department": "CJ제일제당 / 라이프스타일식품사업_데이터 사이언스",
       "location": "서울",
       "deadline": "2026-11-09",
       "deadlineTime": "23:59",
-      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20260922039598"
+      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20261019040582"
     },
     {
       "company": "CJ (올리브영/올네/대한통운)",
@@ -703,12 +725,12 @@
     {
       "company": "CJ (올리브영/올네/대한통운)",
       "companyId": "cj",
-      "title": "[CJ제일제당] Data Scientist(마케팅) 경력 채용",
-      "department": "CJ제일제당 / 라이프스타일식품사업_데이터 사이언스",
+      "title": "[경력] Technical Architect",
+      "department": "CJ올리브네트웍스 / 프로젝트 TA",
       "location": "서울",
       "deadline": "2026-11-09",
       "deadlineTime": "23:59",
-      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20261019040582"
+      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20260922039598"
     },
     {
       "company": "CJ (올리브영/올네/대한통운)",
@@ -861,6 +883,16 @@
     {
       "company": "CJ (올리브영/올네/대한통운)",
       "companyId": "cj",
+      "title": "[경력] 네트워크 엔지니어",
+      "department": "CJ올리브네트웍스 / 네트워크 운영",
+      "location": "인천(송도)",
+      "deadline": "2026-11-23",
+      "deadlineTime": "23:59",
+      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20260923040106"
+    },
+    {
+      "company": "CJ (올리브영/올네/대한통운)",
+      "companyId": "cj",
       "title": "[경력] WCS 시스템 운영 및 구축",
       "department": "CJ올리브네트웍스 / WCS(설비제어) 솔루션 개발/운영",
       "location": "서울",
@@ -958,6 +990,18 @@
       "deadlineTime": "",
       "url": "https://www.skcareers.com/Recruit/Detail/R262270",
       "_raw": "Navigation SDK Engineer 2026년 10월 19일(월) ~ 2026년 12월 31일(목) 티맵모빌리티 Tech R&D/Client 개발",
+      "_employmentType": "정규"
+    },
+    {
+      "company": "티맵모빌리티",
+      "companyId": "tmap",
+      "title": "Backend Engineer – 모빌리티 서비스 티맵모빌리티 Tech R&D/Backend 개발",
+      "department": "",
+      "location": "",
+      "deadline": "2026-12-31",
+      "deadlineTime": "",
+      "url": "https://www.skcareers.com/Recruit/Detail/R262310",
+      "_raw": "Backend Engineer – 모빌리티 서비스 2026년 10월 22일(목) ~ 2026년 12월 31일(목) 티맵모빌리티 Tech R&D/Backend 개발",
       "_employmentType": "정규"
     },
     {
@@ -1502,6 +1546,18 @@
       "deadlineTime": "",
       "url": "https://toss.im/career/job-detail?job_id=6090932003",
       "_raw": "Internal Infra Specialist IT ・ 사내인프라 ・ 솔루션 ・ 운영체제 페이먼츠",
+      "_employmentType": ""
+    },
+    {
+      "company": "토스",
+      "companyId": "toss",
+      "title": "IT Admin IT",
+      "department": "",
+      "location": "",
+      "deadline": "",
+      "deadlineTime": "",
+      "url": "https://toss.im/career/job-detail?job_id=4980435003",
+      "_raw": "IT Admin IT ・ 전산 ・ 인프라 ・ 상담시스템 씨엑스",
       "_employmentType": ""
     },
     {

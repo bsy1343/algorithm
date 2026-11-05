@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-11-04T15:04:55.817Z",
-  "totalCount": 194,
+  "fetchedAt": "2026-11-05T15:15:49.414Z",
+  "totalCount": 201,
   "companies": [
     "당근",
     "현대오토에버",
@@ -89,16 +89,6 @@
     {
       "company": "CJ (올리브영/올네/대한통운)",
       "companyId": "cj",
-      "title": "[CJ제일제당] Data Scientist(마케팅) 경력 채용",
-      "department": "CJ제일제당 / 라이프스타일식품사업_데이터 사이언스",
-      "location": "서울",
-      "deadline": "2026-11-09",
-      "deadlineTime": "23:59",
-      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20261019040582"
-    },
-    {
-      "company": "CJ (올리브영/올네/대한통운)",
-      "companyId": "cj",
       "title": "[CJ제일제당] Data Analytics Engineer(마케팅) 경력 채용",
       "department": "CJ제일제당 / 라이프스타일식품사업_데이터 사이언스",
       "location": "서울",
@@ -129,6 +119,16 @@
     {
       "company": "CJ (올리브영/올네/대한통운)",
       "companyId": "cj",
+      "title": "[CJ제일제당] Data Scientist(마케팅) 경력 채용",
+      "department": "CJ제일제당 / 라이프스타일식품사업_데이터 사이언스",
+      "location": "서울",
+      "deadline": "2026-11-09",
+      "deadlineTime": "23:59",
+      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20261019040582"
+    },
+    {
+      "company": "CJ (올리브영/올네/대한통운)",
+      "companyId": "cj",
       "title": "[경력] 비지니스 컨설턴트",
       "department": "CJ올리브네트웍스 / IT컨설팅",
       "location": "서울",
@@ -139,26 +139,38 @@
     {
       "company": "SKT",
       "companyId": "skt",
-      "title": "DevSecOps 엔지니어 D-5 SK텔레콤 IT/IT 보안",
+      "title": "DevSecOps 엔지니어 D-4 SK텔레콤 IT/IT 보안",
       "department": "",
       "location": "",
       "deadline": "2026-11-10",
       "deadlineTime": "",
       "url": "https://www.skcareers.com/Recruit/Detail/R262206",
-      "_raw": "DevSecOps 엔지니어 2026년 10월 14일(수) ~ 2026년 11월 10일(화) D-5 SK텔레콤 IT/IT 보안",
+      "_raw": "DevSecOps 엔지니어 2026년 10월 14일(수) ~ 2026년 11월 10일(화) D-4 SK텔레콤 IT/IT 보안",
       "_employmentType": "정규"
     },
     {
       "company": "SKT",
       "companyId": "skt",
-      "title": "클라우드 네트워크 보안 아키텍처 및 접근통제 전문가 D-5 SK텔레콤 IT/IT 보안",
+      "title": "클라우드 네트워크 보안 아키텍처 및 접근통제 전문가 D-4 SK텔레콤 IT/IT 보안",
       "department": "",
       "location": "",
       "deadline": "2026-11-10",
       "deadlineTime": "",
       "url": "https://www.skcareers.com/Recruit/Detail/R262209",
-      "_raw": "클라우드 네트워크 보안 아키텍처 및 접근통제 전문가 2026년 10월 14일(수) ~ 2026년 11월 10일(화) D-5 SK텔레콤 IT/IT 보안",
+      "_raw": "클라우드 네트워크 보안 아키텍처 및 접근통제 전문가 2026년 10월 14일(수) ~ 2026년 11월 10일(화) D-4 SK텔레콤 IT/IT 보안",
       "_employmentType": "정규"
+    },
+    {
+      "company": "네이버",
+      "companyId": "naver",
+      "title": "[NAVER Cloud] Defense Frontier 방산 사업개발 (경력) 모집 부서 Service & Business 모집 분야 Business Development 모집 경력 경력 근로 조건 정규 모집 기간 2026.11.05 ~ 2026.11.11",
+      "department": "",
+      "location": "",
+      "deadline": "2026-11-11",
+      "deadlineTime": "",
+      "url": "https://recruit.navercorp.com/rcrt/list.do?annoId=&sw=&subJobCdData=1010001%2C1010002%2C1010003%2C1010005%2C1010008%2C1010020&sysCompanyCdData=&jobCdData=1010#n",
+      "_raw": "[NAVER Cloud] Defense Frontier 방산 사업개발 (경력) 모집 부서 Service & Business 모집 분야 Business Development 모집 경력 경력 근로 조건 정규 모집 기간 2026.11.05 ~ 2026.11.11",
+      "_employmentType": ""
     },
     {
       "company": "LG U+",
@@ -209,6 +221,30 @@
       "deadline": "2026-11-13",
       "deadlineTime": "23:59",
       "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20260921039595"
+    },
+    {
+      "company": "네이버",
+      "companyId": "naver",
+      "title": "[네이버랩스] 3D Vision & Robot Foundation Model Research Engineer 모집 부서 Tech 모집 분야 공통 모집 경력 경력 근로 조건 정규 모집 기간 2026.11.05 ~ 2026.11.15",
+      "department": "",
+      "location": "",
+      "deadline": "2026-11-15",
+      "deadlineTime": "",
+      "url": "https://recruit.navercorp.com/rcrt/list.do?annoId=&sw=&subJobCdData=1010001%2C1010002%2C1010003%2C1010005%2C1010008%2C1010020&sysCompanyCdData=&jobCdData=1010#n",
+      "_raw": "[네이버랩스] 3D Vision & Robot Foundation Model Research Engineer 모집 부서 Tech 모집 분야 공통 모집 경력 경력 근로 조건 정규 모집 기간 2026.11.05 ~ 2026.11.15",
+      "_employmentType": ""
+    },
+    {
+      "company": "네이버",
+      "companyId": "naver",
+      "title": "[네이버랩스] Linux System Software Engineer 모집 부서 Tech 모집 분야 Embedded SW 모집 경력 경력 근로 조건 정규 모집 기간 2026.11.05 ~ 2026.11.15",
+      "department": "",
+      "location": "",
+      "deadline": "2026-11-15",
+      "deadlineTime": "",
+      "url": "https://recruit.navercorp.com/rcrt/list.do?annoId=&sw=&subJobCdData=1010001%2C1010002%2C1010003%2C1010005%2C1010008%2C1010020&sysCompanyCdData=&jobCdData=1010#n",
+      "_raw": "[네이버랩스] Linux System Software Engineer 모집 부서 Tech 모집 분야 Embedded SW 모집 경력 경력 근로 조건 정규 모집 기간 2026.11.05 ~ 2026.11.15",
+      "_employmentType": ""
     },
     {
       "company": "LG U+",
@@ -383,6 +419,16 @@
       "_employmentType": "정규"
     },
     {
+      "company": "기아",
+      "companyId": "kia",
+      "title": "26년 엔지니어(생산직) 설비기술인력",
+      "department": "기타",
+      "location": "AutoLand광명 외 2건",
+      "deadline": "2026-11-18",
+      "deadlineTime": "",
+      "url": "https://career.kia.com/apply/applyList.kc"
+    },
+    {
       "company": "SK AX",
       "companyId": "skax",
       "title": "AI Agent 엔지니어 영입 SK주식회사(AX) Tech R&D/AI/DT",
@@ -483,6 +529,16 @@
       "deadline": "2026-11-23",
       "deadlineTime": "23:59",
       "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20260923040106"
+    },
+    {
+      "company": "CJ (올리브영/올네/대한통운)",
+      "companyId": "cj",
+      "title": "[경력] Infra Service Engineer",
+      "department": "CJ올리브네트웍스 / 인프라운영",
+      "location": "인천(송도)",
+      "deadline": "2026-11-23",
+      "deadlineTime": "23:59",
+      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20261012040564"
     },
     {
       "company": "현대오토에버",
@@ -607,7 +663,7 @@
     {
       "company": "현대오토에버",
       "companyId": "autoever",
-      "title": "[EnIT] Solution Architect - Canias ERP 컨설팅(FCM/SCM/BC)",
+      "title": "[EnIT] Solution Architect - ERP 컨설팅(Canias 경험 무관 / ERP 경력자 채용)",
       "department": "Enterprise IT",
       "location": "",
       "deadline": "2026-11-26",
@@ -831,22 +887,22 @@
     {
       "company": "CJ (올리브영/올네/대한통운)",
       "companyId": "cj",
-      "title": "[경력] CJ제일제당 해외 SAP SD 운영/개발",
-      "department": "CJ올리브네트웍스 / 시스템 개발/운영(SAP)",
-      "location": "서울",
-      "deadline": "2026-11-30",
-      "deadlineTime": "23:59",
-      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20260323038037"
-    },
-    {
-      "company": "CJ (올리브영/올네/대한통운)",
-      "companyId": "cj",
       "title": "[경력] 물류 설비 엔지니어",
       "department": "CJ올리브네트웍스 / 물류센터 설계 및 엔지니어링",
       "location": "서울",
       "deadline": "2026-11-30",
       "deadlineTime": "23:59",
       "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20260205036807"
+    },
+    {
+      "company": "CJ (올리브영/올네/대한통운)",
+      "companyId": "cj",
+      "title": "[경력] CJ제일제당 해외 SAP SD 운영/개발",
+      "department": "CJ올리브네트웍스 / 시스템 개발/운영(SAP)",
+      "location": "서울",
+      "deadline": "2026-11-30",
+      "deadlineTime": "23:59",
+      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20260323038037"
     },
     {
       "company": "CJ (올리브영/올네/대한통운)",
@@ -1581,6 +1637,18 @@
     {
       "company": "토스",
       "companyId": "toss",
+      "title": "Technical Account Manager (결제/플랫폼) 기술지원",
+      "department": "",
+      "location": "",
+      "deadline": "",
+      "deadlineTime": "",
+      "url": "https://toss.im/career/job-detail?job_id=6600534003",
+      "_raw": "Technical Account Manager (결제/플랫폼) 기술지원 ・ 기술연동 ・ 프로세스 리딩 ・ 가맹점관리 플레이스",
+      "_employmentType": ""
+    },
+    {
+      "company": "토스",
+      "companyId": "toss",
       "title": "Technical Program Manager (AI) AI 거버넌스",
       "department": "",
       "location": "",
@@ -1863,7 +1931,7 @@
       "deadline": "",
       "deadlineTime": "",
       "url": "https://toss.im/career/job-detail?job_id=4071101003",
-      "_raw": "프론트엔드 개발자 React ・ Typescript ・ Next.js 토스 증권 인컴",
+      "_raw": "프론트엔드 개발자 React ・ Typescript ・ Next.js 토스 외 3개 계열사",
       "_employmentType": ""
     },
     {
@@ -1881,13 +1949,13 @@
     {
       "company": "토스",
       "companyId": "toss",
-      "title": "프론트엔드 플랫폼 엔지니어 개발",
+      "title": "프론트엔드 플랫폼 엔지니어 Frontend",
       "department": "",
       "location": "",
       "deadline": "",
       "deadlineTime": "",
-      "url": "https://toss.im/career/job-detail?job_id=7545902003",
-      "_raw": "프론트엔드 플랫폼 엔지니어 개발 ・ Frontend ・ TypeScript ・ JavaScript 토스 증권",
+      "url": "https://toss.im/career/job-detail?job_id=5622017003",
+      "_raw": "프론트엔드 플랫폼 엔지니어 Frontend ・ TypeScript ・ JavaScript ・ Platform 토스 뱅크 증권",
       "_employmentType": ""
     },
     {
@@ -2022,6 +2090,16 @@
       "company": "현대자동차",
       "companyId": "hyundai",
       "title": "[AVP] 모빌리티 플랫폼 Infra Engineer",
+      "department": "#경력",
+      "location": "#서울",
+      "deadline": "",
+      "deadlineTime": "",
+      "url": "https://talent.hyundai.com/apply/applyList.hc?occupDataTagArray=211"
+    },
+    {
+      "company": "현대자동차",
+      "companyId": "hyundai",
+      "title": "[AVP] 모빌리티 서비스 Software Engineer for Map",
       "department": "#경력",
       "location": "#서울",
       "deadline": "",

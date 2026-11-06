@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-11-05T15:15:49.414Z",
-  "totalCount": 201,
+  "fetchedAt": "2026-11-06T15:05:30.325Z",
+  "totalCount": 204,
   "companies": [
     "당근",
     "현대오토에버",
@@ -33,37 +33,37 @@
     {
       "company": "네이버",
       "companyId": "naver",
-      "title": "[네이버랩스] Computer Vision & 3D Recon. Research Engineer 모집 부서 Tech 모집 분야 AI/ML 모집 경력 경력 근로 조건 정규 모집 기간 2026.10.26 ~ 2026.11.08",
+      "title": "[네이버랩스] Computer Vision & 3D Recon. Research Engineer 모집 부서 Tech 모집 분야 AI/ML 모집 경력 무관 근로 조건 정규 모집 기간 2026.10.26 ~ 2026.11.08",
       "department": "",
       "location": "",
       "deadline": "2026-11-08",
       "deadlineTime": "",
       "url": "https://recruit.navercorp.com/rcrt/list.do?annoId=&sw=&subJobCdData=1010001%2C1010002%2C1010003%2C1010005%2C1010008%2C1010020&sysCompanyCdData=&jobCdData=1010#n",
-      "_raw": "[네이버랩스] Computer Vision & 3D Recon. Research Engineer 모집 부서 Tech 모집 분야 AI/ML 모집 경력 경력 근로 조건 정규 모집 기간 2026.10.26 ~ 2026.11.08",
+      "_raw": "[네이버랩스] Computer Vision & 3D Recon. Research Engineer 모집 부서 Tech 모집 분야 AI/ML 모집 경력 무관 근로 조건 정규 모집 기간 2026.10.26 ~ 2026.11.08",
       "_employmentType": ""
     },
     {
       "company": "네이버",
       "companyId": "naver",
-      "title": "[네이버랩스] Panoptic Segmentation Research Engineer 모집 부서 Tech 모집 분야 AI/ML 모집 경력 경력 근로 조건 정규 모집 기간 2026.10.26 ~ 2026.11.08",
+      "title": "[네이버랩스] Panoptic Segmentation Research Engineer 모집 부서 Tech 모집 분야 AI/ML 모집 경력 무관 근로 조건 정규 모집 기간 2026.10.26 ~ 2026.11.08",
       "department": "",
       "location": "",
       "deadline": "2026-11-08",
       "deadlineTime": "",
       "url": "https://recruit.navercorp.com/rcrt/list.do?annoId=&sw=&subJobCdData=1010001%2C1010002%2C1010003%2C1010005%2C1010008%2C1010020&sysCompanyCdData=&jobCdData=1010#n",
-      "_raw": "[네이버랩스] Panoptic Segmentation Research Engineer 모집 부서 Tech 모집 분야 AI/ML 모집 경력 경력 근로 조건 정규 모집 기간 2026.10.26 ~ 2026.11.08",
+      "_raw": "[네이버랩스] Panoptic Segmentation Research Engineer 모집 부서 Tech 모집 분야 AI/ML 모집 경력 무관 근로 조건 정규 모집 기간 2026.10.26 ~ 2026.11.08",
       "_employmentType": ""
     },
     {
       "company": "네이버",
       "companyId": "naver",
-      "title": "[네이버랩스] Robotics ML Research Engineer 모집 부서 Tech 모집 분야 AI/ML 모집 경력 경력 근로 조건 정규 모집 기간 2026.10.30 ~ 2026.11.08",
+      "title": "[네이버랩스] Robotics ML Research Engineer 모집 부서 Tech 모집 분야 AI/ML 모집 경력 무관 근로 조건 정규 모집 기간 2026.10.30 ~ 2026.11.08",
       "department": "",
       "location": "",
       "deadline": "2026-11-08",
       "deadlineTime": "",
       "url": "https://recruit.navercorp.com/rcrt/list.do?annoId=&sw=&subJobCdData=1010001%2C1010002%2C1010003%2C1010005%2C1010008%2C1010020&sysCompanyCdData=&jobCdData=1010#n",
-      "_raw": "[네이버랩스] Robotics ML Research Engineer 모집 부서 Tech 모집 분야 AI/ML 모집 경력 경력 근로 조건 정규 모집 기간 2026.10.30 ~ 2026.11.08",
+      "_raw": "[네이버랩스] Robotics ML Research Engineer 모집 부서 Tech 모집 분야 AI/ML 모집 경력 무관 근로 조건 정규 모집 기간 2026.10.30 ~ 2026.11.08",
       "_employmentType": ""
     },
     {
@@ -89,22 +89,22 @@
     {
       "company": "CJ (올리브영/올네/대한통운)",
       "companyId": "cj",
+      "title": "[CJ제일제당] Data Scientist(마케팅) 경력 채용",
+      "department": "CJ제일제당 / 라이프스타일식품사업_데이터 사이언스",
+      "location": "서울",
+      "deadline": "2026-11-09",
+      "deadlineTime": "23:59",
+      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20261019040582"
+    },
+    {
+      "company": "CJ (올리브영/올네/대한통운)",
+      "companyId": "cj",
       "title": "[CJ제일제당] Data Analytics Engineer(마케팅) 경력 채용",
       "department": "CJ제일제당 / 라이프스타일식품사업_데이터 사이언스",
       "location": "서울",
       "deadline": "2026-11-09",
       "deadlineTime": "23:59",
       "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20261019041065"
-    },
-    {
-      "company": "CJ (올리브영/올네/대한통운)",
-      "companyId": "cj",
-      "title": "[경력] Technical Architect",
-      "department": "CJ올리브네트웍스 / 프로젝트 TA",
-      "location": "서울",
-      "deadline": "2026-11-09",
-      "deadlineTime": "23:59",
-      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20260922039598"
     },
     {
       "company": "CJ (올리브영/올네/대한통운)",
@@ -117,47 +117,27 @@
       "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20261019040584"
     },
     {
-      "company": "CJ (올리브영/올네/대한통운)",
-      "companyId": "cj",
-      "title": "[CJ제일제당] Data Scientist(마케팅) 경력 채용",
-      "department": "CJ제일제당 / 라이프스타일식품사업_데이터 사이언스",
-      "location": "서울",
-      "deadline": "2026-11-09",
-      "deadlineTime": "23:59",
-      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20261019040582"
-    },
-    {
-      "company": "CJ (올리브영/올네/대한통운)",
-      "companyId": "cj",
-      "title": "[경력] 비지니스 컨설턴트",
-      "department": "CJ올리브네트웍스 / IT컨설팅",
-      "location": "서울",
-      "deadline": "2026-11-09",
-      "deadlineTime": "23:59",
-      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20240621025227"
-    },
-    {
       "company": "SKT",
       "companyId": "skt",
-      "title": "DevSecOps 엔지니어 D-4 SK텔레콤 IT/IT 보안",
+      "title": "DevSecOps 엔지니어 D-3 SK텔레콤 IT/IT 보안",
       "department": "",
       "location": "",
       "deadline": "2026-11-10",
       "deadlineTime": "",
       "url": "https://www.skcareers.com/Recruit/Detail/R262206",
-      "_raw": "DevSecOps 엔지니어 2026년 10월 14일(수) ~ 2026년 11월 10일(화) D-4 SK텔레콤 IT/IT 보안",
+      "_raw": "DevSecOps 엔지니어 2026년 10월 14일(수) ~ 2026년 11월 10일(화) D-3 SK텔레콤 IT/IT 보안",
       "_employmentType": "정규"
     },
     {
       "company": "SKT",
       "companyId": "skt",
-      "title": "클라우드 네트워크 보안 아키텍처 및 접근통제 전문가 D-4 SK텔레콤 IT/IT 보안",
+      "title": "클라우드 네트워크 보안 아키텍처 및 접근통제 전문가 D-3 SK텔레콤 IT/IT 보안",
       "department": "",
       "location": "",
       "deadline": "2026-11-10",
       "deadlineTime": "",
       "url": "https://www.skcareers.com/Recruit/Detail/R262209",
-      "_raw": "클라우드 네트워크 보안 아키텍처 및 접근통제 전문가 2026년 10월 14일(수) ~ 2026년 11월 10일(화) D-4 SK텔레콤 IT/IT 보안",
+      "_raw": "클라우드 네트워크 보안 아키텍처 및 접근통제 전문가 2026년 10월 14일(수) ~ 2026년 11월 10일(화) D-3 SK텔레콤 IT/IT 보안",
       "_employmentType": "정규"
     },
     {
@@ -225,13 +205,25 @@
     {
       "company": "네이버",
       "companyId": "naver",
-      "title": "[네이버랩스] 3D Vision & Robot Foundation Model Research Engineer 모집 부서 Tech 모집 분야 공통 모집 경력 경력 근로 조건 정규 모집 기간 2026.11.05 ~ 2026.11.15",
+      "title": "[네이버랩스] Robot Embedded System Firmware Engineer 모집 부서 Tech 모집 분야 Embedded SW 모집 경력 무관 근로 조건 정규 모집 기간 2026.11.03 ~ 2026.11.15",
       "department": "",
       "location": "",
       "deadline": "2026-11-15",
       "deadlineTime": "",
       "url": "https://recruit.navercorp.com/rcrt/list.do?annoId=&sw=&subJobCdData=1010001%2C1010002%2C1010003%2C1010005%2C1010008%2C1010020&sysCompanyCdData=&jobCdData=1010#n",
-      "_raw": "[네이버랩스] 3D Vision & Robot Foundation Model Research Engineer 모집 부서 Tech 모집 분야 공통 모집 경력 경력 근로 조건 정규 모집 기간 2026.11.05 ~ 2026.11.15",
+      "_raw": "[네이버랩스] Robot Embedded System Firmware Engineer 모집 부서 Tech 모집 분야 Embedded SW 모집 경력 무관 근로 조건 정규 모집 기간 2026.11.03 ~ 2026.11.15",
+      "_employmentType": ""
+    },
+    {
+      "company": "네이버",
+      "companyId": "naver",
+      "title": "[네이버랩스] Robot Embedded System Hardware Engineer 모집 부서 Tech 모집 분야 Hardware 모집 경력 무관 근로 조건 정규 모집 기간 2026.11.03 ~ 2026.11.15",
+      "department": "",
+      "location": "",
+      "deadline": "2026-11-15",
+      "deadlineTime": "",
+      "url": "https://recruit.navercorp.com/rcrt/list.do?annoId=&sw=&subJobCdData=1010001%2C1010002%2C1010003%2C1010005%2C1010008%2C1010020&sysCompanyCdData=&jobCdData=1010#n",
+      "_raw": "[네이버랩스] Robot Embedded System Hardware Engineer 모집 부서 Tech 모집 분야 Hardware 모집 경력 무관 근로 조건 정규 모집 기간 2026.11.03 ~ 2026.11.15",
       "_employmentType": ""
     },
     {
@@ -247,11 +239,23 @@
       "_employmentType": ""
     },
     {
+      "company": "네이버",
+      "companyId": "naver",
+      "title": "[네이버랩스] 3D Vision & Robot Foundation Model Research Engineer 모집 부서 Tech 모집 분야 공통 모집 경력 경력 근로 조건 정규 모집 기간 2026.11.05 ~ 2026.11.15",
+      "department": "",
+      "location": "",
+      "deadline": "2026-11-15",
+      "deadlineTime": "",
+      "url": "https://recruit.navercorp.com/rcrt/list.do?annoId=&sw=&subJobCdData=1010001%2C1010002%2C1010003%2C1010005%2C1010008%2C1010020&sysCompanyCdData=&jobCdData=1010#n",
+      "_raw": "[네이버랩스] 3D Vision & Robot Foundation Model Research Engineer 모집 부서 Tech 모집 분야 공통 모집 경력 경력 근로 조건 정규 모집 기간 2026.11.05 ~ 2026.11.15",
+      "_employmentType": ""
+    },
+    {
       "company": "LG U+",
       "companyId": "lguplus",
       "title": "[정보보안센터] 퍼블릭 클라우드 보안 경력채용",
       "department": "",
-      "location": "",
+      "location": "경력",
       "deadline": "2026-11-15",
       "deadlineTime": "23:00",
       "url": "https://careers.lg.com/channel/detail/lgu/job_openings"
@@ -887,22 +891,22 @@
     {
       "company": "CJ (올리브영/올네/대한통운)",
       "companyId": "cj",
-      "title": "[경력] 물류 설비 엔지니어",
-      "department": "CJ올리브네트웍스 / 물류센터 설계 및 엔지니어링",
-      "location": "서울",
-      "deadline": "2026-11-30",
-      "deadlineTime": "23:59",
-      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20260205036807"
-    },
-    {
-      "company": "CJ (올리브영/올네/대한통운)",
-      "companyId": "cj",
       "title": "[경력] CJ제일제당 해외 SAP SD 운영/개발",
       "department": "CJ올리브네트웍스 / 시스템 개발/운영(SAP)",
       "location": "서울",
       "deadline": "2026-11-30",
       "deadlineTime": "23:59",
       "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20260323038037"
+    },
+    {
+      "company": "CJ (올리브영/올네/대한통운)",
+      "companyId": "cj",
+      "title": "[경력] 물류 설비 엔지니어",
+      "department": "CJ올리브네트웍스 / 물류센터 설계 및 엔지니어링",
+      "location": "서울",
+      "deadline": "2026-11-30",
+      "deadlineTime": "23:59",
+      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20260205036807"
     },
     {
       "company": "CJ (올리브영/올네/대한통운)",
@@ -955,6 +959,36 @@
       "url": "https://www.skcareers.com/Recruit/Detail/R262266",
       "_raw": "반도체 Cloud/AI Platform 개발/운영 전문가 영입 2026년 10월 16일(금) ~ 2026년 11월 30일(월) SK주식회사(AX) IT/Platform/Solution",
       "_employmentType": "정규"
+    },
+    {
+      "company": "CJ (올리브영/올네/대한통운)",
+      "companyId": "cj",
+      "title": "[경력] 클라우드 보안 엔지니어",
+      "department": "CJ올리브네트웍스 / 퍼블릭클라우드 보안",
+      "location": "서울",
+      "deadline": "2026-12-07",
+      "deadlineTime": "23:59",
+      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20260605038232"
+    },
+    {
+      "company": "CJ (올리브영/올네/대한통운)",
+      "companyId": "cj",
+      "title": "[경력] Technical Architect",
+      "department": "CJ올리브네트웍스 / 프로젝트 TA",
+      "location": "서울",
+      "deadline": "2026-12-07",
+      "deadlineTime": "23:59",
+      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20260922039598"
+    },
+    {
+      "company": "CJ (올리브영/올네/대한통운)",
+      "companyId": "cj",
+      "title": "[경력] 비지니스 컨설턴트",
+      "department": "CJ올리브네트웍스 / IT컨설팅",
+      "location": "서울",
+      "deadline": "2026-12-07",
+      "deadlineTime": "23:59",
+      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20240621025227"
     },
     {
       "company": "티맵모빌리티",
@@ -1763,7 +1797,7 @@
       "deadline": "",
       "deadlineTime": "",
       "url": "https://toss.im/career/job-detail?job_id=6959638003",
-      "_raw": "보안 엔지니어 엔드포인트 ・ 네트워크 ・ 솔루션 ・ 접근통제 토스 외 3개 계열사",
+      "_raw": "보안 엔지니어 엔드포인트 ・ 네트워크 ・ 솔루션 ・ 접근통제 토스 외 4개 계열사",
       "_employmentType": ""
     },
     {

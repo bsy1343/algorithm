@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-11-06T15:05:30.325Z",
-  "totalCount": 204,
+  "fetchedAt": "2026-11-07T15:05:16.987Z",
+  "totalCount": 202,
   "companies": [
     "당근",
     "현대오토에버",
@@ -67,26 +67,6 @@
       "_employmentType": ""
     },
     {
-      "company": "LG U+",
-      "companyId": "lguplus",
-      "title": "[정보보안센터] 무선망 보안 엔지니어 신입(석/박사)/경력 채용",
-      "department": "",
-      "location": "신입/경력",
-      "deadline": "2026-11-08",
-      "deadlineTime": "23:00",
-      "url": "https://careers.lg.com/channel/detail/lgu/job_openings"
-    },
-    {
-      "company": "LG U+",
-      "companyId": "lguplus",
-      "title": "[CTO] Application Architect 경력채용",
-      "department": "",
-      "location": "경력",
-      "deadline": "2026-11-08",
-      "deadlineTime": "23:00",
-      "url": "https://careers.lg.com/channel/detail/lgu/job_openings"
-    },
-    {
       "company": "CJ (올리브영/올네/대한통운)",
       "companyId": "cj",
       "title": "[CJ제일제당] Data Scientist(마케팅) 경력 채용",
@@ -119,25 +99,25 @@
     {
       "company": "SKT",
       "companyId": "skt",
-      "title": "DevSecOps 엔지니어 D-3 SK텔레콤 IT/IT 보안",
+      "title": "DevSecOps 엔지니어 D-2 SK텔레콤 IT/IT 보안",
       "department": "",
       "location": "",
       "deadline": "2026-11-10",
       "deadlineTime": "",
       "url": "https://www.skcareers.com/Recruit/Detail/R262206",
-      "_raw": "DevSecOps 엔지니어 2026년 10월 14일(수) ~ 2026년 11월 10일(화) D-3 SK텔레콤 IT/IT 보안",
+      "_raw": "DevSecOps 엔지니어 2026년 10월 14일(수) ~ 2026년 11월 10일(화) D-2 SK텔레콤 IT/IT 보안",
       "_employmentType": "정규"
     },
     {
       "company": "SKT",
       "companyId": "skt",
-      "title": "클라우드 네트워크 보안 아키텍처 및 접근통제 전문가 D-3 SK텔레콤 IT/IT 보안",
+      "title": "클라우드 네트워크 보안 아키텍처 및 접근통제 전문가 D-2 SK텔레콤 IT/IT 보안",
       "department": "",
       "location": "",
       "deadline": "2026-11-10",
       "deadlineTime": "",
       "url": "https://www.skcareers.com/Recruit/Detail/R262209",
-      "_raw": "클라우드 네트워크 보안 아키텍처 및 접근통제 전문가 2026년 10월 14일(수) ~ 2026년 11월 10일(화) D-3 SK텔레콤 IT/IT 보안",
+      "_raw": "클라우드 네트워크 보안 아키텍처 및 접근통제 전문가 2026년 10월 14일(수) ~ 2026년 11월 10일(화) D-2 SK텔레콤 IT/IT 보안",
       "_employmentType": "정규"
     },
     {
@@ -255,7 +235,7 @@
       "companyId": "lguplus",
       "title": "[정보보안센터] 퍼블릭 클라우드 보안 경력채용",
       "department": "",
-      "location": "경력",
+      "location": "",
       "deadline": "2026-11-15",
       "deadlineTime": "23:00",
       "url": "https://careers.lg.com/channel/detail/lgu/job_openings"

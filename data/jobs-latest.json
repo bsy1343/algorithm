@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-11-09T15:04:59.068Z",
-  "totalCount": 200,
+  "fetchedAt": "2026-11-10T15:05:47.126Z",
+  "totalCount": 198,
   "companies": [
     "당근",
     "현대오토에버",
@@ -31,30 +31,6 @@
       "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20250619029686"
     },
     {
-      "company": "SKT",
-      "companyId": "skt",
-      "title": "DevSecOps 엔지니어 D-DAY SK텔레콤 IT/IT 보안",
-      "department": "",
-      "location": "",
-      "deadline": "2026-11-10",
-      "deadlineTime": "",
-      "url": "https://www.skcareers.com/Recruit/Detail/R262206",
-      "_raw": "DevSecOps 엔지니어 2026년 10월 14일(수) ~ 2026년 11월 10일(화) D-DAY SK텔레콤 IT/IT 보안",
-      "_employmentType": "정규"
-    },
-    {
-      "company": "SKT",
-      "companyId": "skt",
-      "title": "클라우드 네트워크 보안 아키텍처 및 접근통제 전문가 D-DAY SK텔레콤 IT/IT 보안",
-      "department": "",
-      "location": "",
-      "deadline": "2026-11-10",
-      "deadlineTime": "",
-      "url": "https://www.skcareers.com/Recruit/Detail/R262209",
-      "_raw": "클라우드 네트워크 보안 아키텍처 및 접근통제 전문가 2026년 10월 14일(수) ~ 2026년 11월 10일(화) D-DAY SK텔레콤 IT/IT 보안",
-      "_employmentType": "정규"
-    },
-    {
       "company": "네이버",
       "companyId": "naver",
       "title": "[NAVER Cloud] Defense Frontier 방산 사업개발 (경력) 모집 부서 Service & Business 모집 분야 Business Development 모집 경력 경력 근로 조건 정규 모집 기간 2026.11.05 ~ 2026.11.11",
@@ -65,26 +41,6 @@
       "url": "https://recruit.navercorp.com/rcrt/list.do?annoId=&sw=&subJobCdData=1010001%2C1010002%2C1010003%2C1010005%2C1010008%2C1010020&sysCompanyCdData=&jobCdData=1010#n",
       "_raw": "[NAVER Cloud] Defense Frontier 방산 사업개발 (경력) 모집 부서 Service & Business 모집 분야 Business Development 모집 경력 경력 근로 조건 정규 모집 기간 2026.11.05 ~ 2026.11.11",
       "_employmentType": ""
-    },
-    {
-      "company": "LG U+",
-      "companyId": "lguplus",
-      "title": "[Enterprise부문] AIDC 전기엔지니어 경력채용",
-      "department": "",
-      "location": "경력",
-      "deadline": "2026-11-11",
-      "deadlineTime": "23:00",
-      "url": "https://careers.lg.com/channel/detail/lgu/job_openings"
-    },
-    {
-      "company": "LG U+",
-      "companyId": "lguplus",
-      "title": "[Enterprise부문] AIDC 기계엔지니어 경력채용",
-      "department": "",
-      "location": "",
-      "deadline": "2026-11-11",
-      "deadlineTime": "23:00",
-      "url": "https://careers.lg.com/channel/detail/lgu/job_openings"
     },
     {
       "company": "현대자동차",
@@ -327,13 +283,13 @@
     {
       "company": "SK AX",
       "companyId": "skax",
-      "title": "제조 물류자동화(AMHS) 전문가 영입 D-6 SK주식회사(AX) Tech R&D/Software Engineering",
+      "title": "제조 물류자동화(AMHS) 전문가 영입 D-5 SK주식회사(AX) Tech R&D/Software Engineering",
       "department": "",
       "location": "",
       "deadline": "2026-11-16",
       "deadlineTime": "",
       "url": "https://www.skcareers.com/Recruit/Detail/R261946",
-      "_raw": "제조 물류자동화(AMHS) 전문가 영입 2026년 09월 09일(수) ~ 2026년 11월 16일(월) D-6 SK주식회사(AX) Tech R&D/Software Engineering",
+      "_raw": "제조 물류자동화(AMHS) 전문가 영입 2026년 09월 09일(수) ~ 2026년 11월 16일(월) D-5 SK주식회사(AX) Tech R&D/Software Engineering",
       "_employmentType": "정규"
     },
     {
@@ -429,6 +385,16 @@
       "url": "https://recruit.navercorp.com/rcrt/list.do?annoId=&sw=&subJobCdData=1010001%2C1010002%2C1010003%2C1010005%2C1010008%2C1010020&sysCompanyCdData=&jobCdData=1010#n",
       "_raw": "[NAVER Cloud] Recruiting Coordinator (계약) 모집 부서 Corporate 모집 분야 채용운영 모집 경력 무관 근로 조건 계약 모집 기간 2026.11.09 ~ 2026.11.22",
       "_employmentType": ""
+    },
+    {
+      "company": "LG U+",
+      "companyId": "lguplus",
+      "title": "[정보보안센터] 클라우드 보안 구축 및 운영 경력채용",
+      "department": "",
+      "location": "",
+      "deadline": "2026-11-22",
+      "deadlineTime": "23:00",
+      "url": "https://careers.lg.com/channel/detail/lgu/job_openings"
     },
     {
       "company": "CJ (올리브영/올네/대한통운)",
@@ -1436,6 +1402,18 @@
       "deadlineTime": "",
       "url": "https://toss.im/career/job-detail?job_id=7719156003",
       "_raw": "IDC 인프라 엔지니어 (Network/System) 인프라 ・ 네트워크 ・ 시스템 ・ IDC 증권",
+      "_employmentType": ""
+    },
+    {
+      "company": "토스",
+      "companyId": "toss",
+      "title": "Infrastructure Operations Engineer SE",
+      "department": "",
+      "location": "",
+      "deadline": "",
+      "deadlineTime": "",
+      "url": "https://toss.im/career/job-detail?job_id=7702579003",
+      "_raw": "Infrastructure Operations Engineer SE ・ 백업 ・ 인프라 ・ 데이터보호 뱅크",
       "_employmentType": ""
     },
     {

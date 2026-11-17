@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-11-16T15:05:06.760Z",
-  "totalCount": 186,
+  "fetchedAt": "2026-11-17T15:04:51.218Z",
+  "totalCount": 199,
   "companies": [
     "당근",
     "현대오토에버",
@@ -31,16 +31,6 @@
       "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20250619029686"
     },
     {
-      "company": "CJ (올리브영/올네/대한통운)",
-      "companyId": "cj",
-      "title": "[경력] 호스트 위협 분석 및 보안 운영 전문가",
-      "department": "CJ올리브네트웍스 / 정보보호(보안)",
-      "location": "서울",
-      "deadline": "2026-11-16",
-      "deadlineTime": "23:59",
-      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20260716038340"
-    },
-    {
       "company": "기아",
       "companyId": "kia",
       "title": "26년 엔지니어(생산직) 설비기술인력",
@@ -65,73 +55,73 @@
     {
       "company": "SK AX",
       "companyId": "skax",
-      "title": "AI Agent 엔지니어 영입 D-3 SK주식회사(AX) Tech R&D/AI/DT",
+      "title": "AI Agent 엔지니어 영입 D-2 SK주식회사(AX) Tech R&D/AI/DT",
       "department": "",
       "location": "",
       "deadline": "2026-11-20",
       "deadlineTime": "",
       "url": "https://www.skcareers.com/Recruit/Detail/R261936",
-      "_raw": "AI Agent 엔지니어 영입 2026년 09월 11일(금) ~ 2026년 11월 20일(금) D-3 SK주식회사(AX) Tech R&D/AI/DT",
+      "_raw": "AI Agent 엔지니어 영입 2026년 09월 11일(금) ~ 2026년 11월 20일(금) D-2 SK주식회사(AX) Tech R&D/AI/DT",
       "_employmentType": "정규"
     },
     {
       "company": "SK AX",
       "companyId": "skax",
-      "title": "AI Data 엔지니어 영입 D-3 SK주식회사(AX) Tech R&D/AI/DT",
+      "title": "AI Data 엔지니어 영입 D-2 SK주식회사(AX) Tech R&D/AI/DT",
       "department": "",
       "location": "",
       "deadline": "2026-11-20",
       "deadlineTime": "",
       "url": "https://www.skcareers.com/Recruit/Detail/R261937",
-      "_raw": "AI Data 엔지니어 영입 2026년 09월 11일(금) ~ 2026년 11월 20일(금) D-3 SK주식회사(AX) Tech R&D/AI/DT",
+      "_raw": "AI Data 엔지니어 영입 2026년 09월 11일(금) ~ 2026년 11월 20일(금) D-2 SK주식회사(AX) Tech R&D/AI/DT",
       "_employmentType": "정규"
     },
     {
       "company": "SK AX",
       "companyId": "skax",
-      "title": "AI Model 엔지니어 영입 D-3 SK주식회사(AX) Tech R&D/AI/DT",
+      "title": "AI Model 엔지니어 영입 D-2 SK주식회사(AX) Tech R&D/AI/DT",
       "department": "",
       "location": "",
       "deadline": "2026-11-20",
       "deadlineTime": "",
       "url": "https://www.skcareers.com/Recruit/Detail/R261938",
-      "_raw": "AI Model 엔지니어 영입 2026년 09월 11일(금) ~ 2026년 11월 20일(금) D-3 SK주식회사(AX) Tech R&D/AI/DT",
+      "_raw": "AI Model 엔지니어 영입 2026년 09월 11일(금) ~ 2026년 11월 20일(금) D-2 SK주식회사(AX) Tech R&D/AI/DT",
       "_employmentType": "정규"
     },
     {
       "company": "SK AX",
       "companyId": "skax",
-      "title": "AI Agent 개발자 전문가 영입 D-3 SK주식회사(AX) Tech R&D/AI/DT",
+      "title": "AI Agent 개발자 전문가 영입 D-2 SK주식회사(AX) Tech R&D/AI/DT",
       "department": "",
       "location": "",
       "deadline": "2026-11-20",
       "deadlineTime": "",
       "url": "https://www.skcareers.com/Recruit/Detail/R261939",
-      "_raw": "AI Agent 개발자 전문가 영입 2026년 09월 11일(금) ~ 2026년 11월 20일(금) D-3 SK주식회사(AX) Tech R&D/AI/DT",
+      "_raw": "AI Agent 개발자 전문가 영입 2026년 09월 11일(금) ~ 2026년 11월 20일(금) D-2 SK주식회사(AX) Tech R&D/AI/DT",
       "_employmentType": "정규"
     },
     {
       "company": "SK AX",
       "companyId": "skax",
-      "title": "AI 플랫폼 아키텍트 전문가 영입 D-3 SK주식회사(AX) Tech R&D/AI/DT",
+      "title": "AI 플랫폼 아키텍트 전문가 영입 D-2 SK주식회사(AX) Tech R&D/AI/DT",
       "department": "",
       "location": "",
       "deadline": "2026-11-20",
       "deadlineTime": "",
       "url": "https://www.skcareers.com/Recruit/Detail/R261940",
-      "_raw": "AI 플랫폼 아키텍트 전문가 영입 2026년 09월 11일(금) ~ 2026년 11월 20일(금) D-3 SK주식회사(AX) Tech R&D/AI/DT",
+      "_raw": "AI 플랫폼 아키텍트 전문가 영입 2026년 09월 11일(금) ~ 2026년 11월 20일(금) D-2 SK주식회사(AX) Tech R&D/AI/DT",
       "_employmentType": "정규"
     },
     {
       "company": "SK AX",
       "companyId": "skax",
-      "title": "전사 통합 Image 솔루션 제공 플랫폼 Application 개발.운영 PL 영입 D-3 SK주식회사(AX) IT/구축/운영/최적화",
+      "title": "전사 통합 Image 솔루션 제공 플랫폼 Application 개발.운영 PL 영입 D-2 SK주식회사(AX) IT/구축/운영/최적화",
       "department": "",
       "location": "",
       "deadline": "2026-11-20",
       "deadlineTime": "",
       "url": "https://www.skcareers.com/Recruit/Detail/R261970",
-      "_raw": "전사 통합 Image 솔루션 제공 플랫폼 Application 개발.운영 PL 영입 2026년 09월 11일(금) ~ 2026년 11월 20일(금) D-3 SK주식회사(AX) IT/구축/운영/최적화",
+      "_raw": "전사 통합 Image 솔루션 제공 플랫폼 Application 개발.운영 PL 영입 2026년 09월 11일(금) ~ 2026년 11월 20일(금) D-2 SK주식회사(AX) IT/구축/운영/최적화",
       "_employmentType": "정규"
     },
     {
@@ -163,7 +153,7 @@
       "companyId": "lguplus",
       "title": "[정보보안센터] 클라우드 보안 구축 및 운영 경력채용",
       "department": "",
-      "location": "경력",
+      "location": "",
       "deadline": "2026-11-22",
       "deadlineTime": "23:00",
       "url": "https://careers.lg.com/channel/detail/lgu/job_openings"
@@ -577,6 +567,86 @@
     {
       "company": "한화시스템",
       "companyId": "hanwha",
+      "title": "제조서비스 인프라 운영 경력사원 채용",
+      "department": "한화시스템/ICT",
+      "location": "",
+      "deadline": "2026-11-29",
+      "deadlineTime": "23:59",
+      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20208"
+    },
+    {
+      "company": "한화시스템",
+      "companyId": "hanwha",
+      "title": "Private 클라우드 기획 경력사원 채용",
+      "department": "한화시스템/ICT",
+      "location": "",
+      "deadline": "2026-11-29",
+      "deadlineTime": "23:59",
+      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20207"
+    },
+    {
+      "company": "한화시스템",
+      "companyId": "hanwha",
+      "title": "ERP 컨설턴트 경력사원 채용",
+      "department": "한화시스템/ICT",
+      "location": "",
+      "deadline": "2026-11-29",
+      "deadlineTime": "23:59",
+      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20203"
+    },
+    {
+      "company": "한화시스템",
+      "companyId": "hanwha",
+      "title": "AX 전략기획 경력사원 채용",
+      "department": "한화시스템/ICT",
+      "location": "",
+      "deadline": "2026-11-29",
+      "deadlineTime": "23:59",
+      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20201"
+    },
+    {
+      "company": "한화시스템",
+      "companyId": "hanwha",
+      "title": "온톨로지(Ontology) 전문가 경력사원 채용",
+      "department": "한화시스템/ICT",
+      "location": "",
+      "deadline": "2026-11-29",
+      "deadlineTime": "23:59",
+      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20200"
+    },
+    {
+      "company": "한화시스템",
+      "companyId": "hanwha",
+      "title": "스마트팩토리 시스템 구축 분야(계획, 생산, 공정, 품질, 설비, 통신) 경력사원 채용",
+      "department": "한화시스템/ICT",
+      "location": "",
+      "deadline": "2026-11-29",
+      "deadlineTime": "23:59",
+      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20198"
+    },
+    {
+      "company": "한화시스템",
+      "companyId": "hanwha",
+      "title": "AI Agent Project Manager 경력사원 채용",
+      "department": "한화시스템/ICT",
+      "location": "",
+      "deadline": "2026-11-29",
+      "deadlineTime": "23:59",
+      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20197"
+    },
+    {
+      "company": "한화시스템",
+      "companyId": "hanwha",
+      "title": "VLM Project Manager 경력사원 채용",
+      "department": "한화시스템/ICT",
+      "location": "",
+      "deadline": "2026-11-29",
+      "deadlineTime": "23:59",
+      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20196"
+    },
+    {
+      "company": "한화시스템",
+      "companyId": "hanwha",
       "title": "금융 BD(Business Developer) 경력사원 채용",
       "department": "한화시스템/ICT",
       "location": "",
@@ -707,22 +777,22 @@
     {
       "company": "CJ (올리브영/올네/대한통운)",
       "companyId": "cj",
-      "title": "[경력] 물류 설비 엔지니어",
-      "department": "CJ올리브네트웍스 / 물류센터 설계 및 엔지니어링",
-      "location": "서울",
-      "deadline": "2026-11-30",
-      "deadlineTime": "23:59",
-      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20260205036807"
-    },
-    {
-      "company": "CJ (올리브영/올네/대한통운)",
-      "companyId": "cj",
       "title": "[경력] CJ제일제당 해외 SAP SD 운영/개발",
       "department": "CJ올리브네트웍스 / 시스템 개발/운영(SAP)",
       "location": "서울",
       "deadline": "2026-11-30",
       "deadlineTime": "23:59",
       "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20260323038037"
+    },
+    {
+      "company": "CJ (올리브영/올네/대한통운)",
+      "companyId": "cj",
+      "title": "[경력] 물류 설비 엔지니어",
+      "department": "CJ올리브네트웍스 / 물류센터 설계 및 엔지니어링",
+      "location": "서울",
+      "deadline": "2026-11-30",
+      "deadlineTime": "23:59",
+      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20260205036807"
     },
     {
       "company": "CJ (올리브영/올네/대한통운)",
@@ -747,22 +817,22 @@
     {
       "company": "CJ (올리브영/올네/대한통운)",
       "companyId": "cj",
-      "title": "[경력] SAP PP 운영/개발",
-      "department": "CJ올리브네트웍스 / 시스템 개발/운영(SAP)",
-      "location": "서울",
-      "deadline": "2026-11-30",
-      "deadlineTime": "23:59",
-      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20231030020572"
-    },
-    {
-      "company": "CJ (올리브영/올네/대한통운)",
-      "companyId": "cj",
       "title": "[경력] SAP 모듈 컨설턴트",
       "department": "CJ올리브네트웍스 / SAP 컨설턴트",
       "location": "서울",
       "deadline": "2026-11-30",
       "deadlineTime": "23:59",
       "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20240729026055"
+    },
+    {
+      "company": "CJ (올리브영/올네/대한통운)",
+      "companyId": "cj",
+      "title": "[경력] SAP PP 운영/개발",
+      "department": "CJ올리브네트웍스 / 시스템 개발/운영(SAP)",
+      "location": "서울",
+      "deadline": "2026-11-30",
+      "deadlineTime": "23:59",
+      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20231030020572"
     },
     {
       "company": "SK AX",
@@ -803,6 +873,16 @@
     {
       "company": "CJ (올리브영/올네/대한통운)",
       "companyId": "cj",
+      "title": "[경력] 취약점 진단 및 모의해킹",
+      "department": "CJ올리브네트웍스 / 모의해킹",
+      "location": "서울",
+      "deadline": "2026-12-07",
+      "deadlineTime": "23:59",
+      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20260914039586"
+    },
+    {
+      "company": "CJ (올리브영/올네/대한통운)",
+      "companyId": "cj",
       "title": "[경력] SQL Server DBA",
       "department": "CJ올리브네트웍스 / DBA",
       "location": "서울",
@@ -839,6 +919,16 @@
       "deadline": "2026-12-07",
       "deadlineTime": "23:59",
       "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20240621025227"
+    },
+    {
+      "company": "CJ (올리브영/올네/대한통운)",
+      "companyId": "cj",
+      "title": "[경력] 정보보호 컨설턴트",
+      "department": "CJ올리브네트웍스 / IT컨설팅",
+      "location": "서울",
+      "deadline": "2026-12-14",
+      "deadlineTime": "23:59",
+      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20260306037807"
     },
     {
       "company": "티맵모빌리티",
@@ -922,6 +1012,18 @@
       "deadlineTime": "",
       "url": "https://www.skcareers.com/Recruit/Detail/R262339",
       "_raw": "Data Platform Engineer 2026년 10월 26일(월) ~ 2026년 12월 31일(목) 티맵모빌리티 Tech R&D/Data Engineering",
+      "_employmentType": "정규"
+    },
+    {
+      "company": "티맵모빌리티",
+      "companyId": "tmap",
+      "title": "Backend Engineer - RP/교통 티맵모빌리티 Tech R&D/Backend 개발",
+      "department": "",
+      "location": "",
+      "deadline": "2026-12-31",
+      "deadlineTime": "",
+      "url": "https://www.skcareers.com/Recruit/Detail/R262402",
+      "_raw": "Backend Engineer - RP/교통 2026년 11월 03일(화) ~ 2026년 12월 31일(목) 티맵모빌리티 Tech R&D/Backend 개발",
       "_employmentType": "정규"
     },
     {
@@ -1050,6 +1152,15 @@
       "location": "SEOUL",
       "deadline": "",
       "url": "https://about.daangn.com?gh_jid=8201151003"
+    },
+    {
+      "company": "당근",
+      "companyId": "daangn",
+      "title": "Software Engineer, Backend(인턴) - 숏폼",
+      "department": "",
+      "location": "SEOUL",
+      "deadline": "",
+      "url": "https://about.daangn.com?gh_jid=8206277003"
     },
     {
       "company": "당근",
@@ -1313,6 +1424,18 @@
       "deadlineTime": "",
       "url": "https://toss.im/career/job-detail?job_id=7996773003",
       "_raw": "Forward Deployed Engineer FDE ・ Forward Deployed Engineer ・ Forward Deployed 토스",
+      "_employmentType": ""
+    },
+    {
+      "company": "토스",
+      "companyId": "toss",
+      "title": "IDC Assistant (단기계약직) 인프라",
+      "department": "",
+      "location": "",
+      "deadline": "",
+      "deadlineTime": "",
+      "url": "https://toss.im/career/job-detail?job_id=7342236003",
+      "_raw": "IDC Assistant (단기계약직) 인프라 ・ IDC 토스",
       "_employmentType": ""
     },
     {
@@ -1960,6 +2083,16 @@
       "deadline": "",
       "deadlineTime": "",
       "url": "https://talent.hyundai.com/apply/applyList.hc?occupDataTagArray=211"
+    },
+    {
+      "company": "CJ (올리브영/올네/대한통운)",
+      "companyId": "cj",
+      "title": "[CJ제일제당] 클라우드 보안 기획 및 아키텍처 전문가 경력 채용",
+      "department": "CJ제일제당 / 클라우드 보안 담당자",
+      "location": "서울",
+      "deadline": "",
+      "deadlineTime": "",
+      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20261015041060"
     },
     {
       "company": "CJ (올리브영/올네/대한통운)",

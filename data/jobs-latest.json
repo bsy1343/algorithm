@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-11-21T15:04:42.174Z",
-  "totalCount": 201,
+  "fetchedAt": "2026-11-22T15:05:20.436Z",
+  "totalCount": 199,
   "companies": [
     "당근",
     "현대오토에버",
@@ -29,30 +29,6 @@
       "deadline": "2026-10-29",
       "deadlineTime": "18:00",
       "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20250619029686"
-    },
-    {
-      "company": "네이버",
-      "companyId": "naver",
-      "title": "[네이버랩스] Robot Mechanical Engineer 모집 부서 Tech 모집 분야 Hardware 모집 경력 무관 근로 조건 정규 모집 기간 2026.11.11 ~ 2026.11.22",
-      "department": "",
-      "location": "",
-      "deadline": "2026-11-22",
-      "deadlineTime": "",
-      "url": "https://recruit.navercorp.com/rcrt/list.do?annoId=&sw=&subJobCdData=1010001%2C1010002%2C1010003%2C1010005%2C1010008%2C1010020&sysCompanyCdData=&jobCdData=1010#n",
-      "_raw": "[네이버랩스] Robot Mechanical Engineer 모집 부서 Tech 모집 분야 Hardware 모집 경력 무관 근로 조건 정규 모집 기간 2026.11.11 ~ 2026.11.22",
-      "_employmentType": ""
-    },
-    {
-      "company": "네이버",
-      "companyId": "naver",
-      "title": "[NAVER Cloud] Recruiting Coordinator (계약) 모집 부서 Corporate 모집 분야 채용운영 모집 경력 무관 근로 조건 계약 모집 기간 2026.11.09 ~ 2026.11.22",
-      "department": "",
-      "location": "",
-      "deadline": "2026-11-22",
-      "deadlineTime": "",
-      "url": "https://recruit.navercorp.com/rcrt/list.do?annoId=&sw=&subJobCdData=1010001%2C1010002%2C1010003%2C1010005%2C1010008%2C1010020&sysCompanyCdData=&jobCdData=1010#n",
-      "_raw": "[NAVER Cloud] Recruiting Coordinator (계약) 모집 부서 Corporate 모집 분야 채용운영 모집 경력 무관 근로 조건 계약 모집 기간 2026.11.09 ~ 2026.11.22",
-      "_employmentType": ""
     },
     {
       "company": "CJ (올리브영/올네/대한통운)",
@@ -421,13 +397,13 @@
     {
       "company": "SK AX",
       "companyId": "skax",
-      "title": "네트워크 전문가 영입 D-5 SK주식회사(AX) Infra/Infra 운용/관리/최적화",
+      "title": "네트워크 전문가 영입 D-4 SK주식회사(AX) Infra/Infra 운용/관리/최적화",
       "department": "",
       "location": "",
       "deadline": "2026-11-27",
       "deadlineTime": "",
       "url": "https://www.skcareers.com/Recruit/Detail/R262136",
-      "_raw": "네트워크 전문가 영입 2026년 10월 02일(금) ~ 2026년 11월 27일(금) D-5 SK주식회사(AX) Infra/Infra 운용/관리/최적화",
+      "_raw": "네트워크 전문가 영입 2026년 10월 02일(금) ~ 2026년 11월 27일(금) D-4 SK주식회사(AX) Infra/Infra 운용/관리/최적화",
       "_employmentType": "정규"
     },
     {
@@ -767,13 +743,13 @@
     {
       "company": "SK AX",
       "companyId": "skax",
-      "title": "반도체 Cloud/AI Platform 개발/운영 전문가 영입 SK주식회사(AX) IT/Platform/Solution",
+      "title": "반도체 Cloud/AI Platform 개발/운영 전문가 영입 D-7 SK주식회사(AX) IT/Platform/Solution",
       "department": "",
       "location": "",
       "deadline": "2026-11-30",
       "deadlineTime": "",
       "url": "https://www.skcareers.com/Recruit/Detail/R262266",
-      "_raw": "반도체 Cloud/AI Platform 개발/운영 전문가 영입 2026년 10월 16일(금) ~ 2026년 11월 30일(월) SK주식회사(AX) IT/Platform/Solution",
+      "_raw": "반도체 Cloud/AI Platform 개발/운영 전문가 영입 2026년 10월 16일(금) ~ 2026년 11월 30일(월) D-7 SK주식회사(AX) IT/Platform/Solution",
       "_employmentType": "정규"
     },
     {

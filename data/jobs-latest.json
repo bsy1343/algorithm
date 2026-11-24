@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-11-23T15:05:14.672Z",
-  "totalCount": 198,
+  "fetchedAt": "2026-11-24T15:04:55.765Z",
+  "totalCount": 199,
   "companies": [
     "당근",
     "현대오토에버",
@@ -29,36 +29,6 @@
       "deadline": "2026-10-29",
       "deadlineTime": "18:00",
       "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20250619029686"
-    },
-    {
-      "company": "CJ (올리브영/올네/대한통운)",
-      "companyId": "cj",
-      "title": "[경력] 네트워크/OT 보안 엔지니어",
-      "department": "CJ올리브네트웍스 / 정보보호(보안)",
-      "location": "서울",
-      "deadline": "2026-11-23",
-      "deadlineTime": "23:59",
-      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20260806039250"
-    },
-    {
-      "company": "CJ (올리브영/올네/대한통운)",
-      "companyId": "cj",
-      "title": "[경력] 네트워크 엔지니어",
-      "department": "CJ올리브네트웍스 / 네트워크 운영",
-      "location": "인천(송도)",
-      "deadline": "2026-11-23",
-      "deadlineTime": "23:59",
-      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20260923040106"
-    },
-    {
-      "company": "CJ (올리브영/올네/대한통운)",
-      "companyId": "cj",
-      "title": "[경력] Infra Service Engineer",
-      "department": "CJ올리브네트웍스 / 인프라운영",
-      "location": "인천(송도)",
-      "deadline": "2026-11-23",
-      "deadlineTime": "23:59",
-      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20261012040564"
     },
     {
       "company": "네이버",
@@ -367,13 +337,13 @@
     {
       "company": "SK AX",
       "companyId": "skax",
-      "title": "네트워크 전문가 영입 D-3 SK주식회사(AX) Infra/Infra 운용/관리/최적화",
+      "title": "네트워크 전문가 영입 D-2 SK주식회사(AX) Infra/Infra 운용/관리/최적화",
       "department": "",
       "location": "",
       "deadline": "2026-11-27",
       "deadlineTime": "",
       "url": "https://www.skcareers.com/Recruit/Detail/R262136",
-      "_raw": "네트워크 전문가 영입 2026년 10월 02일(금) ~ 2026년 11월 27일(금) D-3 SK주식회사(AX) Infra/Infra 운용/관리/최적화",
+      "_raw": "네트워크 전문가 영입 2026년 10월 02일(금) ~ 2026년 11월 27일(금) D-2 SK주식회사(AX) Infra/Infra 운용/관리/최적화",
       "_employmentType": "정규"
     },
     {
@@ -553,6 +523,16 @@
     {
       "company": "현대자동차",
       "companyId": "hyundai",
+      "title": "[통합보안] Mobility Security Engineer - 차량보안",
+      "department": "#경력",
+      "location": "#양재본사",
+      "deadline": "2026-11-30",
+      "deadlineTime": "",
+      "url": "https://talent.hyundai.com/apply/applyList.hc?occupDataTagArray=211"
+    },
+    {
+      "company": "현대자동차",
+      "companyId": "hyundai",
       "title": "[통합보안] Mobility Security Engineer - AD보안",
       "department": "#경력",
       "location": "#양재본사",
@@ -693,16 +673,6 @@
     {
       "company": "CJ (올리브영/올네/대한통운)",
       "companyId": "cj",
-      "title": "[경력] SAP PP 운영/개발",
-      "department": "CJ올리브네트웍스 / 시스템 개발/운영(SAP)",
-      "location": "서울",
-      "deadline": "2026-11-30",
-      "deadlineTime": "23:59",
-      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20231030020572"
-    },
-    {
-      "company": "CJ (올리브영/올네/대한통운)",
-      "companyId": "cj",
       "title": "[경력] SAP 모듈 컨설턴트",
       "department": "CJ올리브네트웍스 / SAP 컨설턴트",
       "location": "서울",
@@ -711,16 +681,38 @@
       "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20240729026055"
     },
     {
+      "company": "CJ (올리브영/올네/대한통운)",
+      "companyId": "cj",
+      "title": "[경력] SAP PP 운영/개발",
+      "department": "CJ올리브네트웍스 / 시스템 개발/운영(SAP)",
+      "location": "서울",
+      "deadline": "2026-11-30",
+      "deadlineTime": "23:59",
+      "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20231030020572"
+    },
+    {
       "company": "SK AX",
       "companyId": "skax",
-      "title": "반도체 Cloud/AI Platform 개발/운영 전문가 영입 D-6 SK주식회사(AX) IT/Platform/Solution",
+      "title": "반도체 Cloud/AI Platform 개발/운영 전문가 영입 D-5 SK주식회사(AX) IT/Platform/Solution",
       "department": "",
       "location": "",
       "deadline": "2026-11-30",
       "deadlineTime": "",
       "url": "https://www.skcareers.com/Recruit/Detail/R262266",
-      "_raw": "반도체 Cloud/AI Platform 개발/운영 전문가 영입 2026년 10월 16일(금) ~ 2026년 11월 30일(월) D-6 SK주식회사(AX) IT/Platform/Solution",
+      "_raw": "반도체 Cloud/AI Platform 개발/운영 전문가 영입 2026년 10월 16일(금) ~ 2026년 11월 30일(월) D-5 SK주식회사(AX) IT/Platform/Solution",
       "_employmentType": "정규"
+    },
+    {
+      "company": "네이버",
+      "companyId": "naver",
+      "title": "[네이버랩스] Robot Software Engineer (Platform & Operations) 모집 부서 Tech 모집 분야 공통 모집 경력 무관 근로 조건 정규 모집 기간 2026.11.24 ~ 2026.12.01",
+      "department": "",
+      "location": "",
+      "deadline": "2026-12-01",
+      "deadlineTime": "",
+      "url": "https://recruit.navercorp.com/rcrt/list.do?annoId=&sw=&subJobCdData=1010001%2C1010002%2C1010003%2C1010005%2C1010008%2C1010020&sysCompanyCdData=&jobCdData=1010#n",
+      "_raw": "[네이버랩스] Robot Software Engineer (Platform & Operations) 모집 부서 Tech 모집 분야 공통 모집 경력 무관 근로 조건 정규 모집 기간 2026.11.24 ~ 2026.12.01",
+      "_employmentType": ""
     },
     {
       "company": "네이버",
@@ -817,6 +809,18 @@
       "url": "https://recruit.cj.net/recruit/ko/recruit/recruit/list.fo?zz_jo_num=J20240621025227"
     },
     {
+      "company": "SK하이닉스",
+      "companyId": "skhynix",
+      "title": "[11월] 월간 hy-way(경력) SK하이닉스 Tech R&D/HBM Digital Design(RTL design),HBM Digital Design(SoC Design),HBM Digital Design(검증),HBM Digital Design(Front-end),HBM Digital Design(Back-end),HBM Digital Design(S",
+      "department": "",
+      "location": "",
+      "deadline": "2026-12-07",
+      "deadlineTime": "",
+      "url": "https://www.skcareers.com/Recruit/Detail/R262558",
+      "_raw": "[11월] 월간 hy-way(경력) 2026년 11월 24일(화) ~ 2026년 12월 07일(월) SK하이닉스 Tech R&D/HBM Digital Design(RTL design),HBM Digital Design(SoC Design),HBM Digital Design(검증),HBM Digital Design(Front-end),HBM Digital D",
+      "_employmentType": "정규"
+    },
+    {
       "company": "네이버",
       "companyId": "naver",
       "title": "[네이버웹툰] FR Platform Growth Manager (경력) 모집 부서 Service & Business 모집 분야 Business Development 모집 경력 경력 근로 조건 정규 모집 기간 2026.11.18 ~ 2026.12.13",
@@ -892,6 +896,30 @@
       "deadlineTime": "",
       "url": "https://www.skcareers.com/Recruit/Detail/R262430",
       "_raw": "보안 아키텍트 영입 2026년 11월 04일(수) ~ 2026년 12월 21일(월) SK주식회사(AX) 정보보안/정보보안 컨설팅",
+      "_employmentType": "정규"
+    },
+    {
+      "company": "SK AX",
+      "companyId": "skax",
+      "title": "제조 AI · Data 분야 [Data Engineer / DevOps(k8s)] 전문가 영입 SK주식회사(AX) Tech R&D/Data Engineering",
+      "department": "",
+      "location": "",
+      "deadline": "2026-12-25",
+      "deadlineTime": "",
+      "url": "https://www.skcareers.com/Recruit/Detail/R262415",
+      "_raw": "제조 AI · Data 분야 [Data Engineer / DevOps(k8s)] 전문가 영입 2026년 11월 04일(수) ~ 2026년 12월 25일(금) SK주식회사(AX) Tech R&D/Data Engineering",
+      "_employmentType": "정규"
+    },
+    {
+      "company": "SK AX",
+      "companyId": "skax",
+      "title": "AI 기반 차세대 통신 BSS/OSS(NOVA) 응용개발 분야 전문가 영입 SK주식회사(AX) Tech R&D/Backend 개발,Frontend 개발",
+      "department": "",
+      "location": "",
+      "deadline": "2026-12-25",
+      "deadlineTime": "",
+      "url": "https://www.skcareers.com/Recruit/Detail/R262417",
+      "_raw": "AI 기반 차세대 통신 BSS/OSS(NOVA) 응용개발 분야 전문가 영입 2026년 11월 04일(수) ~ 2026년 12월 25일(금) SK주식회사(AX) Tech R&D/Backend 개발,Frontend 개발",
       "_employmentType": "정규"
     },
     {
@@ -1114,7 +1142,7 @@
     {
       "company": "당근",
       "companyId": "daangn",
-      "title": "Software Engineer, Backend (채용전환형) - 피드 인프라",
+      "title": "Software Engineer, Backend (채용전환형 인턴) - 피드 인프라",
       "department": "",
       "location": "SEOUL",
       "deadline": "",
@@ -1123,7 +1151,7 @@
     {
       "company": "당근",
       "companyId": "daangn",
-      "title": "Software Engineer, Backend (채용전환형) - 나의당근",
+      "title": "Software Engineer, Backend (채용전환형 인턴) - 나의당근",
       "department": "",
       "location": "SEOUL",
       "deadline": "",
@@ -1132,7 +1160,7 @@
     {
       "company": "당근",
       "companyId": "daangn",
-      "title": "Software Engineer, Backend (채용전환형) - 커뮤니티",
+      "title": "Software Engineer, Backend (채용전환형 인턴) - 커뮤니티",
       "department": "",
       "location": "SEOUL",
       "deadline": "",
@@ -2046,16 +2074,6 @@
       "url": "https://careers.kakao.com/jobs/P-14559?skillSet=&part=TECHNOLOGY&company=KAKAO&keyword=&employeeType=&page=1",
       "_raw": "LLM Research Engineer (Pre-training) (신입/경력) 영입마감일 영입종료시 근무지 직군 태그 #Algorithm/ML 회사정보 카카오 직원유형 정규직",
       "_employmentType": ""
-    },
-    {
-      "company": "현대자동차",
-      "companyId": "hyundai",
-      "title": "[ICT] Backend Developer",
-      "department": "#경력",
-      "location": "#양재본사",
-      "deadline": "",
-      "deadlineTime": "",
-      "url": "https://talent.hyundai.com/apply/applyList.hc?occupDataTagArray=211"
     },
     {
       "company": "CJ (올리브영/올네/대한통운)",
